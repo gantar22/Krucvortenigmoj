@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: albigens.xml,v 1.4 2022/11/09 09:32:06 revo Exp $">
+<kap>
+  <rad>albigens</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="albigens.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="albigens.0o.REL">
+    <dif>
+      Ano de
+      <ref tip="vid" cel="albigens.0ismo.REL"><tld/>ismo</ref>:
+      <ekz>
+        la herezaj <tld lit="A"/>oj <klr>...</klr> plenigis per 
+        malsanigaj eraroj la sudajn regionojn de Francio kaj aliajn 
+        regionojn de la latina mondo
+        <fnt>
+          <aut>Leono la 13a, trad. -</aut>,
+          <vrk><url ref="http://www.ikue.org/papoj/leonoxiii/encrozario.htm">
+          Supera Apostolado</url></vrk>,
+          <lok>[2006?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_b;&c_ib;&c_g;&c_o;&c_je;&c_c;</trd>
+  <trdgrp lng="fr">
+    <trd>Albigeois<klr> (Cathare, subst.)</klr></trd>,
+    <trd>Cathare<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_a;&#x43B;&#x44C;&c_b;&c_ib;&c_gu;&#x43E;&c_jeu;&c_c;&#x44C;</trd>
+</drv>
+
+<drv mrk="albigens.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="albigens.0ismo.REL">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Doktrino kaj praktiko de
+      <ref tip="vid" cel="albigens.0o.REL"><tld/>oj</ref>,
+      religia grupo prosperinta en la 12a kaj 13a jarcentoj
+      en la sudokcidenta parto de nuna Francujo,
+      rigardata kiel herezo de kristanismo kaj 
+      perforte ekstermita:
+      <ekz>
+        <tld lit="A"/>ismo instruis, ke estas du dioj: unu bona dio, 
+        kiu kreis la spiritan mondon, kaj unu malbona dio, kiu kreis la 
+        materian mondon
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Albigensismo">
+          Albigensismo</url>, 2010-11-29</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_b;&c_ib;&c_g;&c_o;&c_j;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="fr">Catharisme</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2022/11/09 09:32:06
+Dmitri Gabinski: + trd be
+
+versio 1.3 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+-->
+</vortaro>

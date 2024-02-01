@@ -1,0 +1,506 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: task.xml,v 1.43 2023/10/21 13:02:26 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>task</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="task.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="task.0o.ordonita">
+    <dif>
+      Ordonita <ref tip="super" cel="labor.0o">laboro</ref>, servo farenda en difinita tempo:
+      <ekz>
+        trakontrolita kalkula <tld/>o
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni jam scias sian <tld/>on, kaj ju pli oni <klr>[lernas]</klr>, des pli da
+        historio, geografio kaj tabeloj oni ricevas en sian kapon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nun, &ccirc;ar la kuracisto finis sian <tld/>on kaj ne havas plu motivon por esti, li
+        cedas la parolon
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li helpis pri lernejaj <tld/>oj kaj cetere babiletis
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> kontrolis la parkertaskojn unu de la alia
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i prenis sur sin la <tld/>on prepari kafon kaj man&gcirc;a&jcirc;on por la patro
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post tiu unua tasko venis dua, kaj tria, kaj kvara, ktp, &ccirc;iam pli kaj pli nele&gcirc;aj
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plenumi&gcirc;is la <tld/>o per granda fiasko
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="task.hejm0o">hejmtasko</ref>
+    </refgrp>
+    <trd lng="he">&mem;&tet;&lamed;&he;</trd>
+    <trdgrp lng="nl">
+      <trd>taak</trd>,
+      <trd>opgave</trd>,
+      <trd>huiswerk</trd>,
+      <trd>opdracht</trd>
+    </trdgrp>
+    <trd lng="pl">zadanie</trd>
+    <trdgrp lng="pt">
+      <trd>tarefa</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_a;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_z;&c_a;&c_d;&c_a;&c_ch;&c_a;</trd>,
+      <trd>&c_u;&c_r;&c_o;&c_k;</trd>
+    </trdgrp>
+    <trd lng="sv">uppgift</trd>
+  </snc>
+  <snc mrk="task.0o.entrepreno">
+    <dif>
+      Difinita laboro a&ubreve; servo:
+      <ekz>
+        unu el la plej &ccirc;efaj <tld/>oj de niaj verkistoj devas esti la ellaborado de la
+        lingvo
+        <fnt>
+          <bib>LR</bib>
+          <lok>Tria Parto &ndash; Jurisprudenco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[mi]</klr> faris mian kuradon <tld/>o de mia vivo, kaj en la servado mi
+        fari&gcirc;is kriplulo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Kuristoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>ili</klr> prenis sur sin la malfacilan <tld/>on
+        aran&gcirc;i la kongreson
+        <fnt>
+          <aut>&Z;</aut>:
+          <vrk>La parolado anta&ubreve; la 4a Kongreso Esperantista en
+          Dresdeno</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lingvistoj-reviziistoj, kies <tld/>o estas transskribi la parlamentan &jcirc;argonon
+        en bonan, klaran, belan kaj &gcirc;ustan lingvon
+        <fnt>
+          <bib>ChC</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ofic.0o">ofico</ref>,
+      <ref cel="okup.0o">okupo</ref>,
+      <ref cel="profes.0o">profesio</ref>,
+      <ref cel="dev.0o">devo</ref>,
+      <ref cel="rol.0o">rolo</ref>
+    </refgrp>
+    <trdgrp lng="nl">
+      <trd>taak</trd>,
+      <trd>opdracht</trd>
+    </trdgrp>
+    <trd lng="pl">zadanie</trd>
+    <trd lng="ru">&c_z;&c_a;&c_d;&c_a;&c_ch;&c_a;</trd>
+    <trd lng="sv">uppgift</trd>
+  </snc>
+  <snc mrk="task.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <ref tip="dif" cel="procez.0o.KOMP">procezo</ref>
+    <trd lng="pl">zadanie</trd>
+    <trd lng="ru">&c_z;&c_a;&c_d;&c_a;&c_ch;&c_a;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_d;&c_a;&c_ch;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>&uacute;kol</trd>,
+    <trd>probl&eacute;m</trd>,
+    <trd>&uacute;loha</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Aufgabe</trd>,
+    <trd>Auftrag</trd>
+  </trdgrp>
+  <trd lng="en">task</trd>
+  <trd lng="es">tarea</trd>
+  <trdgrp lng="fr">
+    <trd>travail<klr> (t&acirc;che)</klr></trd>,
+    <trd>t&acirc;che</trd>
+  </trdgrp>
+  <trd lng="he">&mem;&shin;&yod;&mem;&he;</trd>
+  <trd lng="hu">feladat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EFB;&#x52D9;  <pr>&#x306B;&#x3093;&#x3080;</pr></trd>,
+    <trd>&#x8AB2;&#x696D;  <pr>&#x304B;&#x304E;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x4ED5;&#x4E8B;  <pr>&#x3057;&#x3054;&#x3068;</pr></trd>,
+    <trd>&#x8AB2;&#x984C;  <pr>&#x304B;&#x3060;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>taak</trd>,
+    <trd>proces</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>poslanie</trd>,
+    <trd>&uacute;loha</trd>
+  </trdgrp>
+  <trd lng="sv">process</trd>
+  <trd lng="uk">&c_z;&c_a;&c_v;&c_d;&c_a;&c_n;&c_n;&c_ja;</trd>
+  <trd lng="vo">sugiv</trd>
+</drv>
+
+<drv mrk="task.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="task.0i.KOMUNE">
+    <dif>
+      Difini, transdoni al iu kiel <tld/>on:
+      <ekz>
+        re&gcirc;idoj, kiuj <klr>[&#x2026;]</klr> ne povis diveni la aferojn,
+        kiujn &scirc;i <tld/>is al ili
+        <fnt><bib>Fab1</bib>, <lok>Vojkamarado</lok></fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; lia aspekto oni ne <tld/>us lin kapitano de malgranda frajt&scirc;ipo, e&ccirc; ne
+        kapitano de granda pasa&gcirc;era &scirc;ipo
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i en preska&ubreve; &ccirc;iuj lecionoj havas sian eron por <tld/>i al lernantoj
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="komisi.0i">komisii</ref>,
+      <ref cel="ordon.0i">ordoni</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_r;&c_u;&c_ch;&c_y;&c_c;&c_mol; <ind>&c_z;&c_a;&c_d;&c_a;&c_ch;&c_u;</ind></trd>,
+    <trd>&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol; <ind>&c_z;&c_a;&c_d;&c_a;&c_ch;&c_u;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>d&aacute;t za &uacute;kol</trd>,
+    <trd>ulo&zcaron;it</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>beauftragen</trd>,
+    <trd>aufgeben</trd>,
+    <trd>einen Auftrag<ind> geben</ind></trd>,
+    <trd>als Aufgabe<ind> &uuml;bertragen</ind></trd>
+  </trdgrp><trdgrp lng="es">
+    <trd>atarear</trd>,
+    <trd>asignar una tarea</trd>
+  </trdgrp>
+  <trd lng="fr">charger<klr> (quelqu'un de)</klr></trd>
+  <trd lng="he">&lamed;&he;&tet;&yod;&lamed;
+  \<ind>&nun;&tet;&lamed;</ind>\<klr tip="ind">
+  (&mem;&shin;&yod;&mem;&he;)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>megb&iacute;z <klr tip="ind">(feladattal)</klr></trd>,
+    <trd>felad <klr tip="ind">(pl. leck&eacute;t)</klr></trd>,
+    <trd>kiad <klr tip="ind">(feladatot)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8AB2;&#x3059;  <pr>&#x304B;&#x3059;</pr></trd>,
+    <trd>&#x4E0E;&#x3048;&#x308B;  <pr>&#x3042;&#x305F;&#x3048;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">opdragen</trd>
+  <trd lng="pl">przydziela&cacute; <ind>zadanie</ind></trd>
+  <trd lng="ru">&c_p;&c_o;&c_r;&c_u;&c_ch;&c_i;&c_t;&c_mol;
+  <klr>(&c_z;&c_a;&c_d;&c_a;&c_ch;&c_u;)</klr></trd>
+  <trd lng="sk">da&tcaron; za &uacute;lohu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_z;&c_a;&c_v;&c_d;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_d;&c_o;&c_r;&c_u;&c_ch;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+
+
+<drv mrk="task.0igi">
+  <kap>
+    <tld/>igi
+  </kap>
+  <snc>
+    <dif>
+      Difini kiel <tld/>o:
+      <ekz>
+        la nehoma logiko de la ellandigo disvolvi&gcirc;as, &gcirc;is la fina indigninda&jcirc;o, kiun oni
+        <tld/>igas al policistoj
+        <fnt>
+          <bib>MD08</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="task.0o.EVI">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <tld lit="T"/>i:
+      <ekz>
+        la gepatroj <klr>[&#x2026;]</klr> <tld/>igas lin legi lernolibron
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#x2116; 3 (101)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Tiu erara uzo estas ne malofta, sed en la ekzemplo la gepatroj igas <tld/>o ja la
+      legadon kaj ne la filon!
+    </rim>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_c;&c_mol; <ind>&c_z;&c_a;&c_d;&c_a;&c_ch;&c_u;</ind></trd>
+  <trd lng="de">zur <ind>Aufgabe</ind> machen</trd>
+</drv>
+
+<drv mrk="task.0aro">
+  <kap>
+    <tld/>aro
+  </kap>
+  <snc>
+    <dif>
+      Listo, (fizika au imagita), de ies <tld/>oj:
+      <ekz>
+        la iniciatinto de &leftquot;Evidente&rightquot; atingis la a&gcirc;on de 78 jaroj, kaj <klr>[&#x2026;]</klr>
+        venis la tempo por transdoni la da&ubreve;re kreskantan <tld/>aron
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jacques Tuinder</aut>
+          <vrk><url ref="&Monato;/2011/010356.php">Fonda&jcirc;o E-vid-E-nt-E jam 45 jarojn aktivadas</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la taskaro de <nom>Simomura</nom> jenas: 1. kontroli kaj revizii lernolibrojn
+        <klr>[&#x2026;]</klr>, 2. submeti &gcirc;isnunajn relative ne&ubreve;tralajn klerigajn komitatojn
+        en &ccirc;iuj municipoj sub a&ubreve;toritaton de la municipa &ccirc;efo, 3. <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2014/011320.php">Intervenu senbu&gcirc;ete!</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni ver&scirc;ajne subtaksis la dimensiojn de la <tld/>aro de la CO
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#x2116; 12 (110)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro troaj &scirc;ar&gcirc;oj en la ekstermovadaj agadoj petis modifi siajn estrarajn
+        <tld/>arojn <nom>Humphrey Tonkin</nom> kaj <nom>Ivo Osibov</nom>
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#x2116; 5 (103)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="agend.0o">agendo</ref>,
+      <ref cel="progra.0o.KOMUNE">programo<sncref/></ref>,
+      <ref cel="ord.tag0o">tagordo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_p;&c_ib;&c_s; <ind>&c_z;&c_a;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_w;</ind></trd>,
+    <trd>&c_p;&c_a;&c_v;&c_je;&c_s;&c_t;&c_k;&c_a; &c_d;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Aufgabenliste</trd>,
+    <trd>Aufgaben <klr>(offizielle)</klr></trd>,
+    <trd>Verpflichtungen</trd>,
+    <trd>Pflichten</trd>
+  </trdgrp>
+  <trd lng="en">agenda</trd>
+</drv>
+
+
+
+
+
+<drv mrk="task.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="task.0igxi.KOMUNE">
+    <dif>
+      <ref cel="pren.sur0i.FIG">Surpreni</ref>
+      <tld/>on:
+      <ekz>
+        ni specife <tld/>i&gcirc;as science koni la fundamentojn de 
+        Kristanismo
+        <fnt>
+          <aut>A. Zecchin</aut>,
+          <vrk><url ref="http://www.ueci.it/eldonoj/verkoj/la_hknstsm.pdf">
+          La Homo kiu ne Sukcesis Trompi sin mem</url></vrk>,
+          <lok>[2011?]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la departemento pri defendo <klr>[&#x2026;]</klr> <tld/>i&gcirc;is pri grava parto de la
+        helpprogramoj por la subkontinento
+        <fnt>
+          <bib>MD08</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sxargx.0igxi.KOMUNE">&scirc;ar&gcirc;i&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_r;&c_a;&c_c;&c_c;&c_a; &c_z;&c_a; <ind>&c_z;&c_a;&c_d;&c_a;&c_ch;&c_u;</ind></trd>,
+    <trd>&c_z;&c_a;&c_j;&c_m;&c_a;&c_c;&c_c;&c_a; <ind>&c_z;&c_a;&c_d;&c_a;&c_ch;&c_a;&c_j;</ind></trd>
+  </trdgrp>
+  <trd lng="de">mi einer <ind>Aufgabe</ind> betraut werden</trd>
+  <trd lng="es">atarearse</trd>
+  <trdgrp lng="fr">
+    <trd>se <ind>charger</ind><klr> (de)</klr></trd>,
+    <trd>prendre en <ind>charge</ind></trd>
+  </trdgrp>
+</drv>
+
+
+
+<drv mrk="task.hejm0o">
+  <kap>hejm<tld/>o</kap>
+  <snc mrk="task.hejm0o.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      <tld lit="T"/>o, kiun lernanto faras hejme a&ubreve; ie ekster la
+      lecionejo:
+      <ekz>
+        en tiu &ccirc;i mateno <klr>[&#x2026;]</klr> e&ccirc; la plej diligentaj forgesis siajn hejm<tld/>ojn
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi alparolas studenton apud mi: <ctl>&ccirc;u vi jam faris
+        la hejm<tld/>ojn?</ctl>
+        <fnt>
+          <aut>U. Matthias</aut>,
+          <vrk><url ref="http://www.u-matthias.de/verko/fajron.htm">
+          Fajron sentas mi interne</url></vrk>,
+          <lok>Pro Esperanto, 1990</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_a;&c_t;&c_n;&c_ja;&c_je; <ind>&c_z;&c_a;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+  <trd lng="bg">&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_o;</trd>
+  <trd lng="cs">dom&aacute;c&iacute; &uacute;kol</trd>
+  <trd lng="de">Hausaufgabe</trd>
+  <trdgrp lng="es">
+    <trd>tarea</trd>,
+    <trd>deberes</trd>
+  </trdgrp>
+  <trd lng="fr">devoir<klr> (scolaire &agrave; la maison)</klr></trd>
+  <trd lng="ja">&#x5BBF;&#x984C;  <pr>&#x3057;&#x3085;&#x304F;&#x3060;&#x3044;</pr></trd>
+  <trd lng="pl">zadanie domowe</trd>
+  <trd lng="sk">dom&aacute;ca &uacute;loha</trd>
+</drv>
+
+<drv mrk="task.plur0ado">
+  <kap>plur<tld/>ado</kap>
+  <snc mrk="task.plur0ado.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="dif" cel="rul.kun0o">Kunrulo</ref>:
+      <ekz>
+        plur<tld/>ado estus malfacila sen aldona risko, ke iu programo malstabiligus la
+        tutan aparaton, aparte &ccirc;e tia aparato malpli potenca ol kutima komputilo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2010/010076.php">Parto 3: Apple iPad - &ccirc;u revolucio a&ubreve;
+          evolucio?</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="de">Multitasking</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_m;&c_a;&c_t;&c_z;&c_a;&c_d;&c_a;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_m;&c_u;&c_l;&c_mol;&c_t;&c_y;&c_z;&c_a;&c_d;&c_a;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="es">multitarea</trd>
+  <trd lng="en">multitasking</trd>
+  <trd lng="he">&resh;&yod;&bet;&vav;&yod; &mem;&shin;&yod;&mem;&vav;&tav;</trd>
+  <trdgrp lng="hu">
+    <trd>t&ouml;bbfeladatos feldolgoz&aacute;s</trd>,
+    <trd>p&aacute;rhuzamos feldolgoz&aacute;s</trd>,
+    <trd>multitasking</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30DE;&#x30EB;&#x30C1;&#x30BF;&#x30B9;&#x30AF;&#x51E6;&#x7406;  <pr>&#x30DE;&#x30EB;&#x30C1;&#x30BF;&#x30B9;&#x30AF;&#x3057;&#x3087;&#x308A;</pr></trd>
+  <trd lng="pl">wielozadaniowo&sacute;&cacute;</trd>
+  <trd lng="ru">&c_m;&c_n;&c_o;&c_g;&c_o;&c_z;&c_a;&c_d;&c_a;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.43 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.41 2023/04/11 19:23:01
+aktualigo Monato-URL
+
+versio 1.40 2023/03/15 06:33:45
+Dmitri Gabinski: + trd be
+
+versio 1.39 2022/11/15 07:25:54
+Wolfram Diestel: +~aro
+
+versio 1.38 2022/07/01 08:38:03
+Dmitri Gabinski: + trd be
+
+versio 1.37 2022/06/30 21:30:59
+Ulrich Fellmann: taski: +2 pliaj DE trdj
+
+versio 1.36 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.34 2021/12/20 06:35:49
+-->
+</vortaro>

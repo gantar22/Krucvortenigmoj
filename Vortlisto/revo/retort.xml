@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: retort.xml,v 1.23 2023/09/03 07:53:10 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>retort</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="retort.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="retort.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Vitra a&ubreve; fajenca sferforma <ref tip="super" cel="vaz.0o">vazo</ref>, kun longa, kurbe fleksita kolo,
+      uzata de &hcirc;emiistoj por varmigi flua&jcirc;ojn:
+      <ekz>
+        apoteka <tld/>o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        viva esta&jcirc;o ne povas esti kreita en la <tld/>o de
+        &hcirc;emiisto
+        <fnt>
+          <bib>EE</bib>
+          <lok>V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lin okupadis interesega eksperimento, la juna sciencisto revenis al siaj <tld/>oj
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dekkvara</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="balon.0o.KEM">balono<sncref/></ref>,
+      <ref cel="botel.0o">botelo</ref>,
+      <ref cel="flakon.0o">flakono</ref>,
+      <ref cel="karaf.0o">karafo</ref>
+    </refgrp>
+    <bld lok="&WCU;/thumb/8/84/My_retort.jpg/485px-My_retort.jpg" prm="PD"><tld/>o
+        <fnt>
+          <lok><url ref="&WCW;/File:My_retort.jpg">&WCW;/File:My_retort.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_t;&c_o;&c_r;&c_t;&c_a;</trd>
+  <trd lng="bg">&c_r;&c_je;&c_t;&c_o;&c_r;&c_t;&c_a;</trd>
+  <trd lng="ca">retorta</trd>
+  <trdgrp lng="cs">
+    <trd>k&rcaron;ivule</trd>,
+    <trd>retorta</trd>
+  </trdgrp>
+  <trd lng="de">Retorte</trd>
+  <trd lng="en">retort <klr>(glass vessel used in chemistry)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>retorte</trd>,
+    <trd>cornue</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>retorta</trd>,
+    <trd>p&aacute;rl&oacute;ed&eacute;ny</trd>,
+    <trd>g&ouml;reb</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30EC;&#x30C8;&#x30EB;&#x30C8;</trd>
+  <trdgrp lng="nl">
+    <trd>distilleerkolf</trd>,
+    <trd>retort</trd>
+  </trdgrp>
+  <trd lng="pl">retorta</trd>
+  <trd lng="pt">retorta</trd>
+  <trd lng="ro">retort&abreve;</trd>
+  <trd lng="ru">&c_r;&c_je;&c_t;&c_o;&c_r;&c_t;&c_a;</trd>
+  <trd lng="sk">retorta</trd>
+  <trd lng="uk">&c_r;&c_je;&c_t;&c_o;&c_r;&c_t;&c_a;</trd>
+</drv>
+
+<drv mrk="retort.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="retort.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="vid" cel="kabine.0a.FIG">Kabineta<sncref/></ref>,
+      nur <ref cel="teori.0a">teoria</ref>, surpapera:
+      <ekz>
+        <tld/>a provo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="art.0a.artefarita">arta<sncref/></ref>,
+      <ref cel="far.arte0ita">artfarita</ref>,
+      <ref cel="natur.mal0a">malnatura</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_b;&c_ib;&c_n;&c_e;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_t;&c_e;&c_a;&c_r;&c_e;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">aus der <ind>Retorte</ind></trd>
+  <trdgrp lng="pl">
+    <trd>gabinetowy</trd>,
+    <trd>teoretyczny</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>cabinetului</trd>,
+    <trd>teoretic</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/05/06 14:26:04
+revo: aktualigo URL-unuoj
+
+versio 1.21 2022/12/15 07:23:24
+Wolfram Diestel: +ekz, ref, bld
+
+versio 1.20 2022/10/10 21:34:24
+Vito Redsky: +trd pl + trd ro
+
+versio 1.18 2021/10/06 07:28:08
+Dmitri Gabinski: + trd be
+
+Revision 1.16  2017/03/07 14:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/08/30 20:10:12  revo
+-->
+</vortaro>

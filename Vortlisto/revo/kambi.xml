@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kambi.xml,v 1.24 2023/12/02 21:20:05 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kambi</rad>/o
+</kap>
+
+<drv mrk="kambi.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      La&ubreve;formula pagordono a&ubreve; pagpromeso de difinita sumo,
+      je vido a&ubreve; je fiksita dato, prezentota &ccirc;e indikita adreso.
+      La <tld/>o estas negocebla la&ubreve; specialaj komercaj le&gcirc;oj kaj
+      kutimoj, ofte &gcirc;irebla, kaj &gcirc;ia plenumo estas severe protektata de
+      le&gcirc;oj:
+      <ekz>
+        tiun &ccirc;i bienon a&ccirc;etis unu mia malproksima parenco, 
+        kiu <klr>[&#x2026;]</klr> pruntis de mia patro kvindek mil rublojn la&ubreve;
+        <tld/>oj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o povas esti valora anka&ubreve;, se &gcirc;i parte havas
+        falsigitajn subskribojn a&ubreve; e&ccirc; nomojn de neekzistantaj personoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=35973">Kambio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_e;&c_k;&c_s;&c_a;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_z;&c_a;&c_p;&c_i;&c_s; &c_n;&c_a; &c_z;&c_a;&c_p;&c_o;&c_v;&c_je;&c_d;</trd>
+  <trd lng="br">lizher-eskemm</trd>
+  <trd lng="ca">lletra de canvi</trd>
+  <trd lng="cs">sm&ecaron;nka</trd>
+  <trd lng="de">Wechsel</trd>
+  <trdgrp lng="en">
+    <trd>bill of <ind>exchange</ind></trd>,
+    <trd>letter of <ind>exchange</ind></trd>,
+    <trd>bill in <ind>hand</ind></trd>
+  </trdgrp>
+  <trd lng="es">letra de cambio</trd>
+  <trd lng="fr">lettre de change</trd>
+  <trd lng="hu">v&aacute;lt&oacute;</trd>
+  <trd lng="ja">&#x70BA;&#x66FF;&#x624B;&#x5F62;  <pr>&#x304B;&#x308F;&#x305B;&#x3066;&#x304C;&#x305F;</pr></trd>
+  <trd lng="nl">wissel <klr tip="ind">(fin.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>weksel</trd>,
+    <trd>trata</trd>
+  </trdgrp>   
+  <trd lng="pt">letra de c&acirc;mbio</trd>
+  <trd lng="ro">bilet la ordin</trd>
+  <trd lng="ru">&c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">zmenka</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x430;&#x43C;&#x431;&#x456;&#x43E;</trd>,
+    <trd>&#x432;&#x435;&#x43A;&#x441;&#x435;&#x43B;&#x44C;</trd>,
+    <trd>&#x43F;&#x43E;&#x437;&#x438;&#x43A;&#x43E;&#x432;&#x438;&#x439; &#x43B;&#x438;&#x441;&#x442;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x6362;&#x5355; <pr>hu&#xE0;nd&#x101;n</pr></trd>
+</drv>
+<adm>
+ Reverkenda. trd fr nur provizora.
+ <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/18 14:48:09
+revo: transskribo per <pr>
+
+versio 1.20 2020/03/28 20:10:21
+James Rezende Piton: +trd pt
+
+Revision 1.19  2018/11/25 16:10:13  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.18  2018/11/24 21:10:17  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2008/02/09 17:31:39  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2005/04/19 16:31:40  revo
+-->
+</vortaro>

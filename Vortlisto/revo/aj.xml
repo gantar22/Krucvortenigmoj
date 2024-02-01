@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: aj.xml,v 1.16 2023/10/12 16:57:43 revo Exp $">
+<kap>
+  <rad>aj</rad> <fnt> <bib>PIV1</bib></fnt>,
+  <var><kap><rad var="&ubreve;">a&ubreve;</rad> <fnt> <bib>Fab2</bib></fnt></kap></var>
+</kap>
+<drv mrk="aj.0">
+  <kap><tld/>, <var><kap><tld var="&ubreve;"/></kap></var></kap>
+  <gra><vspec>ekkrio</vspec></gra>
+  <snc mrk="aj.0.ve">
+    <dif>
+      Surprize, malagrable, dolore:
+      <ekz>
+        vi tute min kunepremis! &dash; oni a&ubreve;das ankora&ubreve; kelkajn ekkriojn: <tld/>! <tld/>!
+        fine &ccirc;iuj sin elpu&scirc;as
+        <fnt>
+          <bib>Revizoro</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/> &ndash; ekkriis Behemoto, &ndash; la papagoj disflugis
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 22a, p. 222a</lok></fnt>!
+      </ekz>
+      <ekz>
+        trinkis brandon! <klr>[&#8230;]</klr> <tld/>, <tld/>! en tia okazo ili neniam plu
+        revenos!
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la barilo staris korvo kaj pro malvarmo kriadis:
+        <ctl><tld var="&ubreve;"/>, <tld var="&ubreve;"/>!</ctl>
+        <fnt>
+          <bib>Fab2</bib>,
+          <vrk>Malbela anasido</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li mortis ie senbrue, kovrita de tuko el blanka ne&gcirc;a blova&jcirc;o... <tld var="&ubreve;"/>!
+        ho teruro
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>!
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="ve.ho_0">ho ve</ref>
+  </snc>
+  <ref tip="hom" cel="au.0">a&ubreve; (konj.)</ref>
+  <trd lng="be">&c_a;&c_j;!</trd>
+  <trd lng="ca">ai</trd>
+  <trdgrp lng="cs">
+    <trd>o</trd>,
+    <trd>och</trd>,
+    <trd>&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>au</trd>,
+    <trd>aua</trd>,
+    <trd>au weh! <klr>(arkai&gcirc;inta)</klr></trd>
+  </trdgrp>
+  <trd lng="es">ay<klr tip="amb"> (interjecci&oacute;n de dolor)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>a&iuml;e</trd>,
+    <trd>zut</trd>,
+    <trd>ouille !</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12354;&#12387;</trd>,
+    <trd>&#x75DB;&#12387;  <pr>&#12356;&#x305F;&#12387;</pr></trd>,
+    <trd>&#12354;&#x30FC;&#12354;</trd>
+  </trdgrp>
+  <trd lng="oc">ai !</trd>
+  <trd lng="pt">ai!</trd>
+  <trdgrp lng="sk">
+    <trd>o</trd>,
+    <trd>och</trd>,
+    <trd>&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43F;&#x43E;&#x43B;.&#xA0;&c_a;&c_b;&#x43E;</trd>,
+    <trd>&c_ch;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.16 2023/10/12 16:57:43
+revo: transskribo per <pr>
+
+versio 1.15 2023/09/08 12:41:24
+Dmitri Gabinski: + trd be
+
+versio 1.13 2022/04/10 12:46:27
+Ulrich Fellmann: aux: korekto de 1 DE traduk, aldono de 2 pliaj
+
+versio 1.11 2021/06/18 15:36:04
+Wolfram Diestel: +ref-hom
+
+versio 1.8 2021/06/16 17:00:29
+Wolfram Diestel: kunigo kun au! (forigonte apartan artikolon aux1), ekz, sin "ho ve!"
+
+Revision 1.6  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2013/06/28 11:10:11  revo
+-->
+</vortaro>

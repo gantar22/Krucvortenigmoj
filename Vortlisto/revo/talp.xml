@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: talp.xml,v 1.34 2023/10/21 13:02:26 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>talp</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="talp.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="talp.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Subtere vivanta <ref tip="lst" cel="mangx.insekto0ulo" lst="voko:insektoman&gcirc;uloj">insektoman&gcirc;ulo</ref>
+      kun velureca felo; <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">genro</ref> el
+      familio 
+      <ref tip="malprt" cel="talped.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Talpa</trd>):
+      <ekz>
+        <ref cel="blind.0a">blinda</ref> kiel <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_o;&c_t;</trd>
+  <trd lng="ca">talp</trd>
+  <trd lng="cs">krtek</trd>
+  <trd lng="de">Maulwurf</trd>
+  <trd lng="en">mole</trd>
+  <trd lng="es">topo</trd>
+  <trd lng="fr">taupe</trd>
+  <trd lng="hu">vakond</trd>
+  <trd lng="id"><ind>tikus</ind> tanah</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E2;&#x30B0;&#x30E9;</trd>,
+    <trd>&#x6697;&#x95C7;&#x3067;&#x9ED9;&#x3005;&#x3068;&#x4ED5;&#x4E8B;&#x3092;&#x3059;&#x308B;&#x4EBA;  <pr>&#x304F;&#x3089;&#x3084;&#x307F;&#x3067;&#x3082;&#x304F;&#x3082;&#x304F;&#x3068;&#x3057;&#x3054;&#x3068;&#x3092;&#x3059;&#x308B;&#x3058;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">mol</trd>
+  <trd lng="pl">kret</trd>
+  <trdgrp lng="pt">
+   <trd>toupeira</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_r;&c_o;&c_t;</trd>
+  <trd lng="sk">krt</trd>
+  <trd lng="sv">mullvad</trd>
+  <trd lng="uk">&#x43A;&c_r;&c_ib;&c_t;</trd>
+</drv>
+
+<drv mrk="talp.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="talp.0ejo.ZOO">
+    <dif>
+      Subtera nesto de <tld/>o konsistanta
+      el kava&jcirc;oj kaj komunikaj vojoj:
+      <ekz>
+        <tld/>ejo estas fakte kaptilo por kaptado de insektoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="&Viki;/E%C5%ADropa_talpo">
+          e&ubreve;ropa talpo</url>, 2014-06-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="talp.0ejo.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Videbla teramaseto, kiun <tld/>o pu&scirc;as al la
+      surfaco de la grundo:
+      <ekz>
+        &gcirc;i estis malnova, kuniklo-mordita pa&scirc;tokampo,
+        kun piedirejo vaganta trans &gcirc;in,
+        kaj <tld/>ejoj tie kaj tie
+        <fnt>
+          <aut>G. Orwell, trad. D. Broadribb</aut>
+          <vrk>Mil Na&ubreve;cent Okdek Kvar</vrk>
+          <lok>2001</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_r;&c_a;&c_t;&c_a;&c_v;&c_ib;&c_n;&c_a;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_t;&c_o;&c_v;&c_ib;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>topera</trd>,
+    <trd>madriguera del topo</trd>
+  </trdgrp>
+  <trd lng="fr">taupini&egrave;re</trd>
+  <trd lng="ja">&#x30E2;&#x30B0;&#x30E9;&#x585A;  <pr>&#x3082;&#x3050;&#x3089;&#x3065;&#x304B;</pr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_r;&#x43E;&c_t;&#x43E;&c_v;&c_i;&#x43D;&c_a;</trd>,
+    <trd>&#x43A;&c_r;&#x43E;&c_t;&#x43E;&c_v;&c_i;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43A;&c_r;&#x43E;&c_t;&#x43E;&c_v;&c_i;&c_shch;&c_je;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.34 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.32 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.31 2022/04/30 12:48:18
+Guillermo Molleda Jimena: +trd es
+
+versio 1.29 2021/10/12 16:47:17
+Dmitri Gabinski: +trd be
+
+Revision 1.27  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/10/28 11:10:44  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.24  2013/10/21 19:10:25  revo
+-->
+</vortaro>

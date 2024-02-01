@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: verg.xml,v 1.31 2023/10/21 16:50:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>verg</rad>/o
+</kap>
+<drv mrk="verg.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="verg.0o.brancxeto">
+    <dif>
+      Longa, rekta fleksebla <ref tip="super" cel="brancx.0o.BOT">bran&ccirc;eto</ref>:
+      <ekz>
+        per bastono oni elbatas nigelon, kaj kuminon per <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Jes; 28:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Pa&ubreve;lo kolektis faskon da <tld/>oj kaj metis &gcirc;in sur la fajron
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Ago; 28:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li mezuris la urbon per la <tld/>o, dek du mil stadiojn
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Apo; 21:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la karnavala <tld/>o ne &ccirc;esis danci
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Floroj de la malgranda Ida</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj el filiko kaj saliko
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili elmetis retojn a&ubreve; hokarfadenon kaj cetere fi&scirc;is per <ind>fi&scirc;<tld/>o</ind>j
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+        <trd lng="de">Angelrute</trd>
+        <trd lng="en">fishing rod</trd>
+        <trd lng="fr">canne &agrave; p&ecirc;che</trd>
+      </ekz>      
+      <ekz>
+        spektantoj de la karnavalo <klr>[&#x2026;]</klr> volas a&ccirc;eti <ind>sor&ccirc;<tld/>o</ind>jn kaj tor&ccirc;ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>David Curtis</aut>
+          <vrk><url ref="&Monato;/2009/009688.php">Profitoj forportitaj</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+        <trd lng="de">Zauberstab</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="frond.0o">frondo</ref>,
+       <ref cel="tig.0o">tigo</ref>
+    </refgrp>
+    <trd lng="en">wand</trd>
+    <trd lng="pl">kij</trd>
+    <trd lng="ru">&c_p;&c_r;&c_u;&c_t;</trd>
+  </snc>
+  <snc mrk="verg.0o.punrimedo">
+    <dif>
+      Bran&ccirc;eto, a&ubreve; <ref cel="fask.0o">fasketo</ref> da tiuj, per kiu oni frapas por <ref cel="pun.0i">puni</ref>:
+      <ekz>
+        ili publike <tld/>obatis nin ne kondamnitajn, kvankam ni estas Romanoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Ago; 16:37</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu &scirc;paras sian <tld/>on, tiu malamas sian filon
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Sen; 13:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rompita estas la <tld/>o, kiu vin batadis
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 14:29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i efektive devus ricevi <tld/>ojn, tio bone efikus
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o doloras, sed sa&gcirc;on
+        ellaboras
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        Ha&ccirc;jo kaj Grenjo alportis <tld/>a&jcirc;on, tutan monteton da &gcirc;i
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kan.0o.ilo">kano<sncref/></ref>,
+      <ref cel="skurgx.0o">skur&gcirc;o</ref>,
+      <ref cel="spalir.0o.duvice">spaliro<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>switch</trd>,
+      <trd>cane</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>r&oacute;zga</trd>,
+      <trd>witka</trd>,
+      <trd>kij</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_o;&c_z;&c_g;&c_a;</trd>
+  </snc>
+<!--
+  <snc mrk="verg.0o.metala">
+    <dif>
+      Mallonga metala <ref cel="stang.0o">stango</ref>:
+      <ekz>
+        fera <tld/>o
+        <fnt><bib>VdE</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pl">pr&eogonek;t</trd>
+  </snc>
+-->
+  <trdgrp lng="ca">
+    <trd>verga</trd>,
+    <trd>vara</trd>
+  </trdgrp>
+  <trd lng="cs">prut</trd>
+  <trdgrp lng="de">
+    <trd>Rute</trd>,
+    <trd>Gerte</trd>
+  </trdgrp>
+  <trd lng="en">rod</trd>
+  <trdgrp lng="es">
+    <trd>vara</trd>,
+    <trd>verga</trd>,
+    <trd>regla</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>verge<klr> (bois)</klr></trd>,
+    <trd>baguette</trd>
+  </trdgrp>
+  <trd lng="hu">vessz&odblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D30;&#x679D;  <pr>&#x307B;&#x305D;&#x3048;&#x3060;</pr></trd>,
+    <trd>&#x3080;&#x3061;</trd>,
+    <trd>&#x7D30;&#x3044;&#x68D2;  <pr>&#x307B;&#x305D;&#x3044;&#x307C;&#x3046;</pr></trd>,
+    <trd>&#x68F9;  <pr>&#x3055;&#x304A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>roede</trd>,
+    <trd>roe</trd>,
+    <trd>gard</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>verga</trd>,
+    <trd>vergasta</trd>,
+    <trd>vara</trd>
+  </trdgrp>
+  <trd lng="sk">pr&uacute;t</trd>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_o;&c_z;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_u;&c_t;</trd>,
+    <trd>&c_h;&c_l;&c_i;&c_s;&c_t;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_l;&c_i;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_zh;&c_je;&c_z;&c_l;</trd>,
+    <trd>&c_p;&c_r;&c_u;&c_t;&c_je;&c_n;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="verg.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="verg.0i.puni">
+    <dif>
+      <ref tip="super" cel="pun.0i">Puni</ref> frapante per <tld/>o:
+      <ekz>
+        lin oni e&ccirc; <tld/>as en la lernejo
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni diras, ke mi &scirc;in <tld/>is, <klr>[sed]</klr> tio &ccirc;i estas kalumnio
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en tiuj &ccirc;i du semajnoj estas el<tld/>ita la edzino de suboficiro
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto unua</lok>
+        </fnt>!
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="baston.0i">bastoni</ref>,
+      <ref cel="skurgx.0i.ARM">skur&gcirc;i<sncref/></ref>,
+      <ref cel="vip.0i.ARM">vipi<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>vergassejar</trd>,
+    <trd>bastonejar</trd>
+  </trdgrp>
+  <trd lng="cs">mrskat prutem</trd>
+  <trdgrp lng="de">
+    <trd>die <ind>Rute</ind> geben</trd>,
+    <trd>mit der Rute <ind>strafen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>beat</trd>,
+    <trd>birch</trd>,
+    <trd>cane</trd>,
+    <trd>flog</trd>,
+    <trd>switch</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>varear</trd>,
+    <trd>azotar</trd>
+  </trdgrp>
+  <trd lng="fr">fustiger</trd>
+  <trd lng="hu">megvessz&odblac;z</trd>
+  <trd lng="ja">&#x3080;&#x3061;&#x6253;&#x3064;  <pr>&#x3080;&#x3061;&#x3046;&#x3064;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>bi&cacute; <ind>r&oacute;zg&aogonek;</ind></trd>,
+    <trd>bi&cacute; <ind>witk&aogonek;</ind></trd>,
+    <trd>r&oacute;zgowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>vergastar</trd>,
+    <trd>varejar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_je;&c_ch;&c_mol; <klr tip="amb">(&c_r;&c_o;&c_z;&c_g;&c_a;&c_m;&c_i;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>bi&tcaron; pr&uacute;tom</trd>,
+    <trd>&scaron;iba&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_b;&c_i;&c_t;&c_i;/&c_s;&c_ib;&c_k;&c_t;&c_i;/&c_p;&c_o;&c_r;&c_o;&c_t;&c_i;/&c_sh;&c_m;&c_a;&c_g;&c_a;&c_t;&c_i; &c_r;&c_ib;&c_z;&c_k;&c_a;&c_m;&c_i;</trd>
+</drv>
+
+<drv mrk="verg.sxarg0eto">
+  <kap>
+    &scirc;arg<tld/>eto
+  </kap>
+  <snc mrk="verg.sxarg0eto.ARM">
+    <dif>
+      Malgranda vergo per kiu oni enpremis la pulvon
+      en la tubon de antikva pulvopafilo:
+      <ekz>
+        &gcirc;i <klr>[la zono]</klr> enpremis en siaj faldoj <klr>[&#x2026;]</klr> longan pistolon
+        ornamitan per oro kaj rubenoj, kaj la kunkonvenan &scirc;arg<tld/>eton
+        <fnt>
+          <aut>E. About, trad. G. Moch</aut>
+          <vrk><url ref="&Gutenberg;files/65835/65835-0.txt">La Re&gcirc;o de la
+          Montoj</url></vrk>
+          <lok>1909</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">ramrod</trd>
+  <trd lng="fr">bourroir</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.29 2022/05/06 12:17:21
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.28 2022/04/14 20:41:15
+Noam Mohr: +trd en
+
+versio 1.26 2021/11/07 12:42:30
+Jeromo Vasxe: + sxarg~eto
+
+versio 1.25 2021/05/03 18:07:40
+Wolfram Diestel: +ekz fish~o
+
+versio 1.24 2021/05/03 17:29:01
+Wolfram Diestel: +ekz
+
+versio 1.23 2021/05/03 15:57:53
+Wolfram Diestel: +ref-oj
+
+versio 1.22 2021/05/03 05:53:25
+-->
+</vortaro>

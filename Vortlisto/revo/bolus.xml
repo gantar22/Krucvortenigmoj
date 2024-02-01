@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bolus.xml,v 1.17 2023/10/14 08:39:48 revo Exp $">
+<kap>
+  <rad>bolus</rad>/o
+</kap>
+<drv mrk="bolus.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bolus.0o.pilolo">
+  <uzo tip="fak">MED</uzo>
+    <dif>
+      Granda <ref tip="super" cel="pilol.0o">pilolo</ref>,
+      kiu pezas pli ol kvindek centigramojn.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="granol.0o">granolo</ref>.
+    </refgrp>
+  <trd lng="fr">bol <klr tip="ind">(grosse pilule)</klr></trd>
+  <trd lng="hu">bolus <klr tip="ind">(nagyobb tabletta)</klr></trd>  
+  </snc>
+
+  <snc mrk="bolus.0o.digestado">
+  <uzo tip="fak">MED</uzo>
+  <uzo tip="fak">FIZL</uzo>
+  <uzo tip="fak">BIO</uzo>
+    <dif>
+      Rezulto de la unua parto de la digestado, post ma&ccirc;ado kaj ensalivado 
+      de la nutra&jcirc;oj:
+      <ekz>
+        dumman&gcirc;e la struto plen<klr>[ig]</klr>as sian ezofagon per man&gcirc;o, kiu siavice
+        pasas malsupre de la ezofago en la formo de <klr>[&#x2026;]</klr> <tld/>o, tiu
+        <tld/>o povas esti &gcirc;is 210&#x202F;ml
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=16047">Struto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_o;&c_l;&c_ju;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>bol</trd>,
+    <trd>bolus</trd>,
+    <trd>hlinka</trd>,
+    <trd>na&ccaron;ervenal&yacute; j&iacute;l</trd>
+  </trdgrp>
+  <trd lng="de">Bissen</trd>
+  <trd lng="en">bolus</trd>
+  <trd lng="it">bolo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DC;&#x30FC;&#x30E9;&#x30B9;</trd>,
+    <trd>&#x5927;&#x7C92;&#x306E;&#x4E38;&#x85AC;  <pr>&#x304A;&#x304A;&#x3064;&#x3076;&#x306E;&#x304C;&#x3093;&#x3084;&#x304F;</pr></trd>,
+    <trd>&#x98DF;&#x584A;  <pr>&#x3057;&#x3087;&#x304F;&#x304B;&#x305F;&#x307E;&#x308A;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bolus</trd>
+  <trd lng="ru">&c_b;&c_o;&c_l;&c_ju;&c_s;</trd>
+  <trd lng="sk">vy&scaron;e pol gramov&aacute; pilula</trd>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x43E;&#x43B;&#x44E;&#x441;</trd>,
+    <trd>&#x43A;&#x43E;&#x43B;&#x44C;&#x43E;&#x440;&#x43E;&#x432;&#x430; &#x433;&#x43B;&#x438;&#x43D;&#x430;</trd>,
+    <trd>&#x432;&#x435;&#x43B;&#x438;&#x43A;&#x430; &#x43F;&#x456;&#x491;&#x443;&#x43B;&#x43A;&#x430;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.17 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+Revision 1.13  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2009/03/12 17:32:29  revo
+Antonio Codazzi: +trd it, +dif 2a
+
+Revision 1.10  2005/12/05 17:31:31  revo
+Wieland Pusch: +trd de
+
+Revision 1.9  2005/05/19 16:31:46  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2005/02/14 18:20:40  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2003/05/07 16:31:21  revo
+-->
+</vortaro>

@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pled.xml,v 1.24 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>pled</rad>/i
+</kap>
+<drv mrk="pled.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="super" cel="parol.0i.diri">Paroli</ref> anta&ubreve; ju&gcirc;isto por 
+      <ref tip="super" cel="defend.0i.JUR">defendi</ref> sian propran aferon a&ubreve; tiun de
+      sia kliento:
+      <ekz>
+        vi ne trovos advokaton por <tld/>i en tia afero;
+      </ekz>
+      <ekz>
+        li <tld/>is anta&ubreve; la cezaro kontra&ubreve; la mortkondamno
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la senato neniu vo&ccirc;o ek<tld/>is pro la kristanoj, &ccirc;ar neniu volis riski
+        malfavoron de la cezaro
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ajnigante ke li <tld/>as por la konspirintoj, li vekas ankora&ubreve; pli fortan
+        indignon kontra&ubreve; ilin per sia konscie lama defendo
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Aldono</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el la homamaso ili elpa&scirc;igis Aleksandron, <klr>[&#x2026;]</klr> kaj Aleksandro gestis
+        per la mano, kaj ekprovis <tld/>i anta&ubreve; la popolo
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 19:33</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>is &ccirc;e Dio kontra&ubreve; <nom>Izrael</nom>
+        <fnt>
+          <bib>NT</bib>
+          <lok>Romanoj 11:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se mi estus koninta nur vian ven&gcirc;an kulpigon, eble mi penus min senkulpigi,
+        <tld/>i anta&ubreve; vi
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekkvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> petis, ke oni montru al li la kortumon, la parlamenton, oni
+        diris, ke da ili ne ekzistas, kaj ke oni neniam <tld/>is
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        gravaj argumentoj <tld/>as por la &gcirc;enerala akcepto de Esperanto
+        kiel internacia lingvo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="absolv.0i.JUR">absolvi<sncref/></ref>,
+      <ref cel="apolog1.0o">apologio</ref>,
+      <ref cel="kulp.sen0igi.JUR">senkulpigi<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_m;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol; &c_u; &c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_u; <klr tip="amb">(&c_u;
+    &c_s;&c_u;&c_d;&c_z;&c_je;)</klr></trd>,
+    <trd>&c_v;&c_y;&c_s;&c_t;&c_u;&c_p;&c_a;&c_c;&c_mol; &c_u; &c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_u; <klr tip="amb">(&c_u;
+    &c_s;&c_u;&c_d;&c_z;&c_je;)</klr></trd>,
+    <trd>&c_a;&c_b;&c_a;&c_r;&c_a;&c_n;&c_ja;&c_c;&c_mol; <klr tip="amb">(&c_s;&c_l;&c_o;&c_v;&c_a;&c_m;&c_ib;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>obhajovat</trd>,
+    <trd>pl&eacute;dovat <klr>(hovor.)</klr></trd>,
+    <trd>zast&aacute;vat se</trd>
+  </trdgrp>
+  <trd lng="de">pl&auml;dieren</trd>
+  <trd lng="en">plead <klr>(in court)</klr></trd>
+  <trdgrp lng="es">
+    <trd>alegar</trd>,
+    <trd>pleitear</trd>
+  </trdgrp>
+  <trd lng="fr">plaider</trd>
+  <trdgrp lng="hu">
+    <trd>v&eacute;d&odblac;besz&eacute;det mond</trd>,
+    <trd>s&iacute;kra sz&aacute;ll</trd>,
+    <trd>sz&oacute;l az &eacute;rdek&eacute;ben</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5F01;&#x8B77;&#x3059;&#x308B;  <pr>&#x3079;&#x3093;&#x3054;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5F01;&#x660E;&#x3059;&#x308B;  <pr>&#x3079;&#x3093;&#x3081;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5F01;&#x8AD6;&#x3059;&#x308B;  <pr>&#x3079;&#x3093;&#x308D;&#x3093;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">pleiten</trd>
+  <trdgrp lng="pl">
+    <trd>broni&cacute; <klr>(kogo&sacute;)</klr></trd>,
+    <trd>by&cacute; <ind>obro&nacute;c&aogonek;</ind></trd>,
+    <trd>wyst&eogonek;powa&cacute; w <ind>obronie</ind></trd>,
+    <trd>wyg&lstroke;asza&cacute; mow&eogonek; <ind>obro&nacute;cz&aogonek;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>solicitar</trd>,
+    <trd>pleitear</trd>,
+    <trd>litigar</trd>,    
+    <trd>advogar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_n;&c_o;&c_s;&c_i;&c_t;&c_mol; &c_z;&c_a;&c_shch;&c_i;&c_t;&c_n;&c_u;&c_ju; &c_r;&c_je;&c_ch;&c_mol; <klr>(&c_v; &c_s;&c_u;&c_d;&c_je;)</klr></trd>,
+    <trd>&c_z;&c_a;&c_shch;&c_i;&c_shch;&c_a;&c_t;&c_mol; <klr tip="amb">(&c_s;&c_l;&c_o;&c_v;&c_a;&c_m;&c_i;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">obhajova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_h;&c_i;&c_shch;&c_a;&c_t;&c_i; &#x43D;&c_a; &c_s;&c_u;&c_d;&c_ib;</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_t;&c_u;&#x43F;&c_a;&c_t;&c_i; &#x44F;&#x43A; &c_a;&c_d;&c_v;&#x43E;&#x43A;&c_a;&c_t;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pled.0anto">
+  <kap>
+    <tld/>anto
+  </kap>
+  <snc>
+    <dif>
+      Tiu, kiu <tld/>as:
+      <ekz>
+        la <tld/>anto proponis la priesploron de la menso de la akuzito, &ccirc;ar la krimo
+        estis tiom terura
+        <fnt>
+          <bib>SatirRak</bib>
+          <lok>La barbaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        miaopinie &ccirc;iuj <tld/>antoj por la homaj rajtoj devas amase ekbojkoti la elekton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mikaelo Bron&scirc;tejn</aut>
+          <vrk><url ref="&Monato;/2008/009484.php">&Ccirc;u bojkoto? (3)</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="advoka.0o">advokato</ref>,
+      <ref cel="parol.por0anto">porparolanto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_c;&c_a; <klr>(&c_s;&c_u;&c_d;&c_o;&c_v;&c_y;)</klr></trd>
+<trdgrp lng="de">
+  <trd>F&uuml;rsprecher</trd>,
+  <trd>Verteidiger</trd>
+</trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5F01;&#x8B77;&#x4EBA;  <pr>&#x3079;&#x3093;&#x3054;&#x306B;&#x3093;</pr></trd>,
+    <trd>&#x5F01;&#x8AD6;&#x4EBA;  <pr>&#x3079;&#x3093;&#x308D;&#x3093;&#x3058;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_z;&c_a;&c_h;&c_i;&c_s;&#x43D;&c_i;&#x43A;</trd>
+</drv>
+
+
+
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.22 2023/04/11 07:24:28
+Dmitri Gabinski: + trd be
+
+versio 1.21 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2022/03/19 08:31:51
+Wolfram Diestel: +ekz-oj, ref-oj, ~anto
+
+Revision 1.17  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/05/24 12:10:15  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.15  2013/12/02 14:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.14  2013/04/08 19:10:10  revo
+-->
+</vortaro>

@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tiktak.xml,v 1.23 2023/10/21 13:52:03 revo Exp $">
+<kap>
+  <rad>tiktak</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="tiktak.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tiktak.0o.SON">
+    <dif>
+      Alterna regula <ref tip="super" cel="son.0o">sono</ref>, kiel tiu de horlo&gcirc;o:
+      <ekz>
+        la unutona <tld/>o de pendolo
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Deksesa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e &ccirc;iu <tld/>o de la horlo&gcirc;o la glavo faris tremetantan movon
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Tria Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">tikot</trd>
+  <trd lng="de">Ticktack</trd>
+  <trdgrp lng="fr">
+    <trd>battement</trd>,
+    <trd>tic-tac</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>ketyeg&eacute;s</trd>,
+    <trd>tiktak</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30C1;&#x30AF;&#x30BF;&#x30AF;&#x97F3;  <pr>&#x30C1;&#x30AF;&#x30BF;&#x30AF;&#x304A;&#x3068;</pr></trd>,
+    <trd>&#x30AB;&#x30C1;&#x30AB;&#x30C1;&#x97F3;  <pr>&#x30AB;&#x30C1;&#x30AB;&#x30C1;&#x304A;&#x3068;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">tiktak</trd>
+  <trdgrp lng="pl">
+    <trd>tykanie</trd>,
+    <trd>cykanie</trd>,
+    <trd>klekot</trd>,
+    <trd>stukot</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>tiquetaque</trd>,
+    <trd>tique-taque</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_i;&c_k;&c_a;&c_n;&c_mol;&c_je;</trd>
+  <trd lng="sk">tikot</trd>
+  <trd lng="uk">&c_c;&c_o;&c_k;&c_a;&c_n;&c_n;&c_ja;
+  <klr>(&c_g;&c_o;&c_d;&c_i;&c_n;&c_n;&c_i;&c_k;&c_a;)</klr></trd>
+</drv>
+
+
+<drv mrk="tiktak.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="tiktak.0i.SON">
+    <dif>
+      A&ubreve;digi <tld/>on:
+      <ekz>
+      li tre balda&ubreve; konscii&gcirc;os pri sia atendata
+      telefonfakturo, &ccirc;ar lia mono simple <tld/>as for
+      <fnt>
+      <aut>Pejno S.</aut>,
+      <vrk>Bonvolu literumi!</vrk>, 
+      <bib>Monato</bib>
+      <lok>1996:1, p. 22a</lok>
+      </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="frap.0i.produktiSonon">frapi<sncref/></ref>,
+      <ref cel="perkut.0i">perkuti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">tikat</trd>
+  <trd lng="de">ticken</trd>
+  <trdgrp lng="fr">
+    <trd>battre<klr> (bruit)</klr></trd>,
+    <trd>tambouriner</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>ketyeg</trd>,
+    <trd>tiktakol</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30C1;&#x30AF;&#x30BF;&#x30AF;&#x9CF4;&#x308B;  <pr>&#x30C1;&#x30AF;&#x30BF;&#x30AF;&#x306A;&#x308B;</pr></trd>,
+    <trd>&#x30AB;&#x30C1;&#x30AB;&#x30C1;&#x9CF4;&#x308B;  <pr>&#x30AB;&#x30C1;&#x30AB;&#x30C1;&#x306A;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">tikken<klr tip="ind"> (v.klok)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>tyka&cacute;<klr tip="amb"> (np. o zegarze)</klr></trd>,
+    <trd>cyka&cacute;<klr tip="amb"> (np. o bombie)</klr></trd>,
+    <trd>klekota&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_i;&c_k;&c_a;&c_t;&c_mol; <klr tip="amb">(&c_o;
+  &c_ch;&c_a;&c_s;&c_a;&c_h;)</klr></trd>
+  <trd lng="sk">tika&tcaron; <klr>(o hodin&aacute;ch)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_c;&c_o;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_ib;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_ib;&c_k;&c_t;&c_a;&c_k;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="tiktak.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="tiktak.0.SON">
+    <dif>
+      Perioda mallonga
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">sono</ref>
+      me&hcirc;anika.
+    </dif>
+  </snc>
+  <trd lng="it">tic-tac</trd>
+  <trdgrp lng="de">
+    <trd>Ticken</trd>,
+    <trd>Ticktack</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>tick</trd>,
+    <trd>tick-tock</trd>
+  </trdgrp>
+  <trd lng="fr">tic-tac</trd>
+  <trdgrp lng="pl">
+    <trd>tik-tak</trd>,
+    <trd>cyk-cyk</trd>,
+    <trd>stuk-puk</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/21 13:52:03
+revo: transskribo per <pr>
+
+versio 1.21 2022/08/27 06:35:11
+Wolfram Diestel: +2 ekz, vicordo de drv
+
+versio 1.20 2022/04/10 15:31:41
+Ulrich Fellmann: tiktako: + 1 plia DE trd
+
+versio 1.19 2022/03/30 16:42:28
+Wolfram Diestel: kor. trd uk
+
+Revision 1.16  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/10/16 01:10:14  revo
+Jeromo Vasxe: ref al lst sonoj
+
+Revision 1.14  2013/09/29 17:10:39  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.13  2013/09/25 18:10:32  revo
+-->
+</vortaro>

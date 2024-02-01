@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: koefic.xml,v 1.37 2023/12/03 09:58:51 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>koeficient</rad>/o
+</kap>
+<drv mrk="koefic.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="koefic.0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Nombro, per kiu oni multobligas certan grandon por trovi &gcirc;ian
+      efikon en kalkulo:
+      <ekz>
+        tiu &ccirc;i fako havas <tld/>on 10 en la ekzameno
+        <klr>(la ricevitaj poentoj kontribuas dekoble en la
+        ekzamenrezulto)</klr>;
+      </ekz>
+      <ekz>
+        al niaj lastjaraj prezoj apliku 5-procentan <tld/>on
+        <klr>(multobligu la prezojn per 1,05)</klr>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Koeffizient</trd>,
+      <trd>Beiwert</trd>
+    </trdgrp>
+    <trd lng="hu">szorz&oacute;</trd>    
+  </snc>
+  <snc>
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="koefic.0o.elementa">
+      <uzo tip="klr">(elementa algebro)</uzo>
+      <fnt><bib>VdE</bib></fnt>
+      <dif>
+        Nombro, kiu, metite anta&ubreve; algebra kvanto, montras kiomfoje
+        oni devas &gcirc;in multobligi:
+        <ekz>
+          en la skriba&jcirc;o <frm am="2*a+3*b">2&middot;a+3&middot;b</frm>
+          la nombro <frm am="2">2</frm> (resp. <frm am="3">3</frm>)
+          estas <tld/>o
+          de la kvanto <frm am="a">a</frm> (resp. <frm am="b">b</frm>).
+        </ekz>
+      </dif>
+      <trd lng="de">Koeffizient</trd>
+    </subsnc>
+    <subsnc mrk="koefic.0o.lineara">
+      <fnt><bib>PIV2</bib><lok>lineara kombina&jcirc;o</lok></fnt>
+      <dif>
+        <klr>(de <ref cel="vektor.0o.MAT">vektoro</ref> en
+        <ref cel="kombin.lineara0ajxo">lineara kombina&jcirc;o</ref>)</klr>
+        Tiu <ref cel="skalar.0o.MAT">skalaro</ref>, per kiu la vektoro
+        estas
+        multiplikata:
+        <ekz>
+          lineara kombina&jcirc;o de nedependaj vektoroj estas nula, nur
+          se &ccirc;iuj <tld/>oj estas nulaj.
+        </ekz>
+      </dif>
+      <trd lng="de">Koeffizient</trd>
+    </subsnc>
+    <subsnc mrk="koefic.0o.polinomo">
+      <fnt><bib>MatTerm</bib><lok>p. 13</lok></fnt>
+      <dif>
+        <klr>(de <ref cel="polino.0o">polinomo</ref> 
+        <frm am="bb P"><g>P</g></frm>
+        rilate al <ref cel="indic.0o.familio">indico</ref>
+        <frm am="i">i</frm>)</klr>
+        La valoro <frm am="bb P_i"><g>P</g><sub>i</sub></frm>:
+        <ekz>
+          la <frm am="k">k</frm>-a <tld/>o (t.e. rilata al indico
+          <frm am="k">k</frm>) de la <frm am="n">n</frm>-a
+          potenco de <frm am="b*bb X+a*bb 1">(b&middot;<g>X</g>+a&middot;<g>1</g>)</frm>
+          estas
+          <frm am="K_n^ka^(n-k)b^k">K<sup>k</sup><sub>n</sub>a<sup>n-k</sup>b<sup>k</sup></frm>.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="term.0o.polinomo">termo.</ref>
+      <trd lng="de">Koeffizient</trd>
+    </subsnc>
+    <subsnc mrk="koefic.0o.matrico">
+      <dif>
+        <klr>(de <ref cel="matric.n_p0o">(n,p)-matrico</ref>)</klr>
+      </dif>
+      <refgrp tip="sin">
+        <ref cel="elemen.0o.matrico">elemento</ref>,
+        <ref cel="term.0o.matrico">termo</ref>.
+      </refgrp>
+      <adm>
+        Fonto trovenda. <aut>MB</aut>
+      </adm>
+      <trdgrp lng="de">
+        <trd>Koeffizient<klr tip="ind"> (einer Matrix)</klr></trd>,
+        <trd>Glied<klr tip="ind"> (einer Matrix)</klr></trd>,
+        <trd>Element<klr tip="ind"> (einer Matrix)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>coefficient<klr tip="ind"> (of a matrix)</klr></trd>,
+        <trd>entry<klr tip="ind"> (of a matrix)</klr></trd>,
+        <trd>element<klr tip="ind"> (of a matrix)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>coefficient<klr tip="ind"> (d'une matrice)</klr></trd>,
+        <trd>terme<klr tip="ind"> (d'une matrice)</klr></trd>,
+        <trd>&eacute;l&eacute;ment<klr tip="ind"> (d'une matrice)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">tag<klr tip="ind"> (m&aacute;trix&eacute;)</klr></trd>
+      <trdgrp lng="pl">
+        <trd>wsp&oacute;&lstroke;czynnik<klr tip="ind"> (macierzy)</klr></trd>,
+        <trd>element<klr tip="ind"> (macierzy)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_k;&c_o;&c_e;&c_f;&c_f;&c_i;&c_c;&c_i;&c_je;&c_n;&c_t;<klr tip="ind"> (&c_m;&c_a;&c_t;&c_r;&c_i;&c_c;&c_y;)</klr></trd>,
+        <trd>&c_k;&c_o;&c_m;&c_p;&c_o;&c_n;&c_je;&c_n;&c_t;&c_a;<klr tip="ind"> (&c_m;&c_a;&c_t;&c_r;&c_i;&c_c;&c_y;)</klr></trd>,
+        <trd>&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;<klr tip="ind"> (&c_m;&c_a;&c_t;&c_r;&c_i;&c_c;&c_y;)</klr></trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_e;&c_f;&c_ib;&c_c;&c_y;&c_je;&c_n;&c_t;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_je;&c_f;&c_i;&c_c;&c_i;&c_je;&c_n;&c_t;</trd>
+  <trd lng="ca">coeficient</trd>
+  <trdgrp lng="cs">
+    <trd>koeficient</trd>,
+    <trd>sou&ccaron;initel</trd>
+  </trdgrp>
+  <trd lng="de">Koeffizient</trd>
+  <trd lng="en">coefficient</trd>
+  <trd lng="es">coeficiente</trd>
+  <trd lng="fr">coefficient</trd>
+  <trd lng="hu">egy&uuml;tthat&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4FC2;&#x6570;  <pr>&#x3051;&#x3044;&#x3059;&#x3046;</pr></trd>,
+    <trd>&#x7387;  <pr>&#x308A;&#x3064;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">co&euml;ffici&euml;nt</trd>
+  <trd lng="pl">wsp&oacute;&lstroke;czynnik</trd>
+  <trd lng="pt">coeficiente</trd>
+  <trd lng="ru">&c_k;&c_o;&c_e;&c_f;&c_f;&c_i;&c_c;&c_i;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>koeficient</trd>,
+    <trd>s&uacute;&ccaron;inite&lcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43A;&#x43E;&#x435;&#x444;&#x456;&#x446;&#x456;&#x454;&#x43D;&#x442;</trd>
+  <trd lng="zh">&#x4FC2;&#x6578; <pr>x&#xEC;sh&#xF9;</pr></trd>
+</drv>
+
+<drv mrk="koefic.angula0o">
+  <kap>angula <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="inklin.0o.MAT">inklino.</ref>
+  </snc>
+  <trd lng="bg">&c_malmol;&c_g;&c_l;&c_o;&c_v; <ind>&c_k;&c_o;&c_je;&c_f;&c_i;&c_c;&c_i;&c_je;&c_n;&c_t;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>sklon</trd>,
+    <trd>sm&ecaron;rnice</trd>,
+    <trd>sm&ecaron;rnice p&rcaron;&iacute;mky</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Steigung</trd>,
+    <trd>Richtungskoeffizient</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>slope</trd>,
+    <trd>angular <ind>coefficient</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>pente</trd>,
+    <trd>coefficient directeur</trd>
+  </trdgrp>
+  <trd lng="hu">meredeks&eacute;g <klr tip="ind">(egyenes&eacute;)</klr></trd>
+  <trd lng="pl">wsp&oacute;&lstroke;czynnik kierunkowy</trd>
+  <trd lng="pt">coeficiente angular</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_k;&c_l;&c_o;&c_n;</trd>,
+    <trd>&c_u;&c_g;&c_l;&c_o;&c_v;&c_o;&c_j; <ind>&c_k;&c_o;&c_e;&c_f;&c_f;&c_i;&c_c;&c_i;&c_je;&c_n;&c_t;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">sklon priamky</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.36 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.33 2020/03/21 00:10:43
+James Rezende Piton: +trd pt
+
+Revision 1.32  2020/02/13 16:10:14  revo
+Wolfram Diestel: formulo per atributo am
+
+Revision 1.31  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2013/09/02 18:10:11  revo
+Joop Eggen: korekto bg
+
+Revision 1.28  2013/09/02 16:10:18  revo
+Joop Eggen: +trd bg
+
+Revision 1.27  2005/10/09 16:31:20  revo
+-->
+</vortaro>

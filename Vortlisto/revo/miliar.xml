@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: miliar.xml,v 1.31 2023/10/19 16:45:37 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>miliard</rad>/o
+</kap>
+<drv mrk="miliar.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Mil milionoj:
+      <ekz>
+        milionoj kaj <tld/>oj da aliaj similaj al ni kreita&jcirc;oj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni konstruis akvujon, kiu povis enteni &ccirc;irka&ubreve; tri <tld/>ojn
+        da kubaj metroj, tri kubajn kilometrojn da akvo, kies supra&jcirc;o 
+        okupis preska&ubreve; tricent kvadratajn kilometrojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam &ccirc;irka&ubreve;volvis min la korpoj <klr>[&#x2026;]</klr> mi eksentis <tld/>ojn da dentoj en mi
+        <fnt>
+          <bib>FdO</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la eksterkomerca spezo de Ruslando atingis 27,2 <tld/>ojn da usonaj dolaroj
+        <fnt>
+          <aut>div.</aut>
+          <vrk><url ref="&Monato;/1993/A931002.php">Noticoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/10, p. 4</lok>
+         </fnt>;
+      </ekz>
+      <ekz>
+        pro la nigra merkato de cigaredoj la brita bu&gcirc;eto &ccirc;iujare perdas &ccirc;irka&ubreve; 2,5 <tld/>ojn da
+        pundoj
+        <fnt>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la katolika eklezio havas pli ol unu <tld/>on da anoj &dash; pli ol la duonon de la kristanoj en
+        la mondo
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2001/007053.php">Du miliardoj da kristanoj tutmonde</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        specialisto asertis, ke &gcirc;is 2030 la &ccirc;ina lo&gcirc;antaro nombros 1,6 <tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>MU Binghua</aut>
+          <vrk><url ref="&Monato;/2003/008031.html">Superrizo vivtenos pli da &ccirc;inoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="bilion.0o.miliardo">biliono<sncref/></ref>
+    <ref tip="lst" cel="nombr.0o.MAT" lst="voko:nombroj">nombro</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_ib;&c_l;&c_mol;&c_ja;&c_r;&c_d;</trd>
+  <trd lng="bg">&c_m;&c_i;&c_l;&c_i;&c_a;&c_r;&c_d;</trd>
+  <trdgrp lng="ca">
+    <trd>miliard</trd>,
+    <trd>mil milions</trd>
+  </trdgrp>
+  <trd lng="cs">miliarda</trd>
+  <trd lng="de">Milliarde</trd>
+  <trd lng="en">billion</trd>
+  <trd lng="fr">milliard</trd>
+  <trd lng="fy">miljard</trd>
+  <trd lng="hu">milli&aacute;rd</trd>
+  <trd lng="id">miliar</trd>
+  <trd lng="io">miliardo</trd>
+  <trd lng="ja">&#x5341;&#x5104;  <pr>&#x3058;&#x3085;&#x3046;&#x304A;&#x304F;</pr></trd>
+  <trd lng="nl">miljard</trd>
+  <trdgrp lng="pt">
+    <trd>bilh&atilde;o <klr>(1.000.000.000)</klr></trd>,
+    <trd>bili&atilde;o <klr>(1.000.000.000)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_i;&c_l;&c_l;&c_i;&c_a;&c_r;&c_d;</trd>,
+    <trd>&c_b;&c_i;&c_l;&c_l;&c_i;&c_o;&c_n;</trd>
+  </trdgrp>
+  <trd lng="sk">miliarda</trd>
+  <trd lng="sv">miljard</trd>
+  <trd lng="uk">&#x43C;&c_ib;&#x43B;&#x44C;&#x44F;&c_r;&c_d;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/19 16:45:37
+revo: transskribo per <pr>
+
+versio 1.29 2023/05/01 07:25:13
+Paul Peeraerts: Steloj -> monato
+
+versio 1.28 2023/05/01 05:27:40
+Paul Peeraerts: Steloj -> monato
+
+versio 1.27 2023/04/23 16:33:09
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.26 2023/04/11 12:45:44
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.25 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.22  2018/09/11 20:10:15  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.21  2016/11/25 21:10:50  revo
+-->
+</vortaro>

@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: cxapel.xml,v 1.47 2023/11/14 15:28:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&ccirc;apel</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="cxapel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="cxapel.0o.kapvesto">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="super" cel="vest.kap0o.TEKS">Kapvesto</ref> kun elstara
+      &ccirc;irka&ubreve;rando:
+      <ekz>
+        ili aspektis imprese: pintaj <tld/>oj, hakilo en la mano,
+        da&ubreve;re
+        drinkemaj kaj batalemaj
+        <fnt>
+        <aut>W. Klag</aut>,
+        <vrk>Vakeroj de Alpoj</vrk>,
+        <bib>Monato</bib>,
+        <lok>2001:1, p. 10a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_p;&c_ja;&c_l;&c_ju;&c_sh;</trd>,
+      <trd>&c_b;&c_r;&c_y;&c_l;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_sh;&c_a;&c_p;&c_k;&c_a;</trd>
+    <trd lng="ca">barret</trd>
+    <trd lng="el">&kappa;&alfa;&pi;&epsilon_ton;&lambda;&lambda;&omikron;</trd>
+    <trd lng="en">hat</trd>
+    <trd lng="es">sombrero</trd>
+    <trd lng="fr">chapeau</trd>
+    <trd lng="hu">kalap</trd>
+    <trd lng="id">topi</trd>
+    <trd lng="it">cappello</trd>
+    <trd lng="es">sombrero</trd>
+    <trd lng="nl">hoed</trd>
+    <trd lng="pl">kapelusz</trd>
+    <trd lng="pt">chap&eacute;u</trd>
+    <trd lng="ro">p&abreve;l&abreve;rie</trd>
+    <trd lng="ru">&c_sh;&c_l;&c_ja;&c_p;&c_a;</trd>
+    <trd lng="sk">klob&uacute;k</trd>
+    <trd lng="tr">&scedil;apka</trd>
+  </snc>
+  <snc mrk="cxapel.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Supra, <tld/>oforma parto de la fruktokorpo
+      de fungo:
+      <ekz>
+        la rando de la <tld/>o de la malgranda faskofungo
+        estas striita
+        <fnt>
+          <aut>P. Desmet'</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/petro_desmet/259965">
+          &Hcirc;ameleona Fungeto?</url></vrk>,
+          <lok>2010-06-30</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="nl">hoed</trd>
+    <trd lng="pl">kapelusz</trd>
+  </snc>
+  <snc mrk="cxapel.0o.supersigno">
+    <uzo tip="fak">GRA</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="diakrit.0ilo.LIN">Diakritilo</ref>,
+      tegmentoforma supersigno, uzata en diversaj alfabetoj
+      (interalie en esperanta, por formi la literojn &ccirc;, &gcirc;,
+      &hcirc;, &jcirc;,
+      &scirc;), en matematikaj simboloj kaj en programlingvoj (en tiuj
+      lastaj &gcirc;i aperas kiel memstara signo, kies
+     <ref tip="malprt" cel="aski.0o">Askia</ref> numero estas 94):
+      <ekz>
+        la <tld/>oj en la vortaraj tekstoj aspektas normale post instalo
+        de specifaj tiparoj
+        <fnt><aut>S. Derevjanni&hcirc;</aut>,
+        <vrk>&Ccirc;u vi
+        tradukas france?</vrk>, <bib>Monato</bib>,
+        <lok>2002:4, p. 18a</lok></fnt>.
+      </ekz>
+    </dif>
+   <ref tip="vid" cel="h.0.konsonanto">h</ref>
+   <ref tip="vid" cel="iks.0o">x</ref>
+    <trdgrp lng="de">
+      <trd>Zirkumflex</trd>,
+      <trd>Dach<klr> (diakritisches Zeichen)</klr></trd>
+    </trdgrp>
+    <trd lng="el">&pi;&epsilon;&rho;&jota;&sigma;&pi;&omega;&my;&epsilon_ton;&ny;&jota;</trd>
+    <trdgrp lng="en">
+      <trd>hat</trd>, <trd>caret</trd>, <trd>circumflex</trd>
+    </trdgrp>
+    <trd lng="fr">accent circonflexe</trd>
+    <trdgrp lng="hu">
+      <trd>kalap<klr tip="ind"> (&eacute;kezet)</klr></trd>,
+      <trd>k&uacute;pos <ind>&eacute;kezet</ind></trd>
+    </trdgrp>
+    <trd lng="id">sirkumfleks</trd>
+    <trdgrp lng="it">
+      <trd><klr>accento </klr>circonflesso</trd>, <trd>caret</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>hoedje<klr tip="ind"> (^)</klr></trd>,
+      <trd>kapje<klr tip="ind"> (^)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>cyrkumfleks</trd>,
+      <trd>daszek<klr> (pot.)</klr></trd>
+    </trdgrp>
+    <trd lng="pt">circunflexo</trd>
+    <trd lng="ro">circumflex</trd>
+    <trd lng="ru">&c_k;&c_r;&c_y;&c_sh;&c_a;</trd>
+    <trdgrp lng="sk">
+      <trd>vok&aacute;&ncaron;</trd>,
+      <trd>strie&scaron;ka</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="bo">&#xF58;&#xF46;&#xF7C;&#xF51;&#xF0B;&#xF41;&#xF44;&#xF0B;</trd>
+  <trd lng="cs">klobouk</trd>
+  <trd lng="de">Hut</trd>
+  <trd lng="he">&#x5DB;&#x5BC;&#x5D5;&#x5B9;&#x5D1;&#x5B7;&#x5E2;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30AF;&#x30B5;&#x30F3;&#x30B7;&#x30EB;&#x30B3;&#x30F3;&#x30D5;&#x30EC;&#x30C3;&#x30AF;&#x30B9;</trd>,
+    <trd>&#x30CF;&#x30C3;&#x30C8;</trd>
+  </trdgrp>
+  <trd lng="sv">hatt</trd>
+  <trd lng="sw">kofia</trd>
+  <trd lng="uk">&#x43A;&c_a;&#x43F;&c_je;&#x43B;&#x44E;&c_h;</trd>
+</drv>
+
+<drv mrk="cxapel.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="cxapel.0isto.KOMUNE">
+    <dif>
+      Homo kiu profesie vendas <tld/>ojn kaj aliajn kapvestojn:
+      <ekz>
+        la heroino Sofi estas 18-jara <tld/>istino
+        <fnt>
+        <aut>Vastalto</aut>,
+        <vrk><url ref="http://www.vastalto.com/blog">Akvosfero</url></vrk>
+        <lok>La Militregna Epoko..., 2006-01-03</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Hutmacher</trd>
+  <trd lng="fr">chapelier</trd>
+  <trd lng="id"><baz>jual</baz>penjual topi</trd>
+  <trdgrp lng="it">
+    <trd>cappellaio<klr> (per uomo)</klr></trd>,
+    <trd>modista<klr> (per donna)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E3D;&#x5B50;&#x88FD;&#36896;&#x696D;&#32773;
+    <pr>&#x307C;&#12358;&#12375;&#x305B;&#12356;&#x305E;&#12358;&#x304E;&#12423;&#12358;&#12375;&#12419;</pr></trd>,
+    <trd>&#x5E3D;&#x5B50;&#x5C4B;  <pr>&#x307C;&#12358;&#12375;&#12420;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">kapelusznik</trd>
+  <trd lng="ro">p&abreve;l&abreve;rier</trd>
+  <trdgrp lng="zh">
+    <trd>&#22919;&#22899;&#29992;&#x5E3D;&#x5E97; <pr>f&#xF9;n&#x1DA;y&#xF2;ngm&#xE0;odi&#xE0;n</pr></trd>,
+    <trd>&#x5E3D;&#21830; <pr>m&#xE0;osh&amacron;ng</pr></trd>,
+    <trd>&#22899;&#x5E3D;&#21280; <pr>n&#x1DA;m&#xE0;oji&#xE0;ng</pr></trd>,
+    <trd>&#22899;&#x5E3D;&#21830; <pr>n&#x1DA;m&#xE0;osh&amacron;ng</pr></trd>,
+    <trd>&#21046;&#x5E3D;&#x4EBA; <pr>zh&#xEC;m&#xE0;or&#xE9;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cxapel.bul0o">
+  <kap>bul<tld/>o,
+  <var><kap>melon<tld/>o</kap></var></kap>
+  <snc mrk="cxapel.bul0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="super" cel="cxapel.0o.kapvesto"><tld lit="&Ccirc;"/>o</ref>
+      el felto kun rigida duonbula supro kaj supren kuspita rando,
+      populara precipe en la fino de la 19a kaj komenco de la 20a
+      jarcentoj:
+      <ekz>
+        la junulo kun la melon<tld/>o <klr>...</klr> staris ekster la
+        pordo, mirigite
+        <fnt>
+          <aut>G. K. Chesterton, trad. C. Bean</aut>,
+          <vrk>La Naiveco de Pastro Brown</vrk>,
+          <lok>1937</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Melone (Hut)</trd>
+  <trd lng="fr">chapeau-melon</trd>
+  <trd lng="id"><ind>topi</ind> bowler</trd>
+  <trd lng="ja">&#x5C71;&#x9AD8;&#x5E3D;  <pr>&#12420;&#x307E;&#x305F;&#x304B;&#x307C;&#12358;</pr></trd>
+  <trd lng="pl">melonik</trd>
+  <trdgrp lng="ro">
+    <trd>melonier&abreve;</trd>,
+    <trd>p&abreve;l&abreve;rie bombat&abreve;</trd>
+  </trdgrp>
+  <trd lng="zh">&#22278;&#39030;&#x786C;&#x793C;&#x5E3D;
+  <pr>yu&#xE1;nd&#x1D0;ngy&#xEC;ngl&#x1D0;m&#xE0;o</pr></trd>
+</drv>
+
+<drv mrk="cxapel.cilindro0o">
+  <kap>cilindro<tld/>o</kap>
+  <snc mrk="cxapel.cilindro0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Alta, cilindroforma <tld/>o, pliofte nigra,
+      moda &ccirc;e okcidentaj viroj de alta klaso en la
+      19a jarcento:
+      <ekz>
+        la fiera cilindro<tld/>o ricevis piedpu&scirc;on kaj
+        ruli&gcirc;is en fosa&jcirc;on
+        <fnt>
+          <aut>W. Kabel, trad. M. Lennartz</aut>
+          <vrk>La domo &ccirc;e la mueleja kanalo</vrk>
+          <lok>2017</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Zylinder (Hut)</trd>
+  <trd lng="fr">haut-de-forme</trd>
+  <trd lng="id"><ind>topi</ind> tinggi</trd>
+  <trd lng="pl">cylinder  <klr>(kapelusz)</klr></trd>
+  <trd lng="ro">p&abreve;l&abreve;rie cilindric&abreve;</trd>
+  <trd lng="zh">&#22823;&#x793C;&#x5E3D; <pr>d&#xE0;l&#x1D0;m&#xE0;o</pr></trd>
+</drv>
+
+<drv mrk="cxapel.klak0o">
+  <kap>klak<tld/>o</kap>
+  <snc mrk="cxapel.klak0o.TEKS">
+  <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Alta <ref tip="super" cel="cxapel.0o.kapvesto"><tld/>o</ref>,
+      povanta plati&gcirc;i, por ke oni &gcirc;in portu sub la brako,
+      populara en okcidento en la 19a jarcento.
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_a;&c_p;&c_a;&c_k;&c_l;&c_ja;&c_k;</trd>
+  <trdgrp lng="de">
+    <trd>Klappzylinder</trd>,
+    <trd>Chapeau Claque</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>top hat</trd>,
+    <trd>high hat</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>claque<klr tip="ind"> (chapeau claque)</klr></trd>,
+    <trd>chapeau claque</trd>,
+    <trd>gibus</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>klakk</trd>,
+    <trd>rug&oacute;s <ind>cilinder</ind> <klr tip="ind">(kalap)</klr></trd>
+  </trdgrp>
+  <trd lng="id"><ind>topi</ind> opera</trd>
+  <trd lng="ja">&#x30AA;&#x30DA;&#x30E9;&#x30CF;&#x30C3;&#x30C8;</trd>
+  <trd lng="nl">klakhoed</trd>
+  <trdgrp lng="pl">
+    <trd>szapoklak</trd>,
+    <trd>cylinder sk&lstroke;adany</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>fedora</trd>,
+    <trd>p&abreve;l&abreve;rie cu boruri late</trd>
+  </trdgrp>
+  <trd lng="ru">&c_sh;&c_a;&c_p;&c_o;&c_k;&c_l;&c_ja;&c_k;</trd>
+</drv>
+
+<drv mrk="cxapel.levi_la_0on">
+  <kap>
+    levi la <tld/>on,
+    <var><kap>demeti la <tld/>on</kap></var>
+  </kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc mrk="cxapel.levi_la_0on.saluti">
+    <dif>
+      <ref tip="vid" cel="salut.0i.MOR">Saluti<sncref/></ref>,
+      gratuli, esprimi <ref cel="respek.0o.elmontro">respekton</ref>
+      <klr>(iam en Okcidento efektiva saluta gesto flanke de viroj)</klr>:
+      <ekz>
+        sinjoro, mi levas pro vi la <tld/>on... vi estas la sola homo kiu tiel malka&scirc;e
+        parolis al mi en la da&ubreve;ro de la nuna jaro
+        <fnt>
+          <aut>J. Merchant</aut>
+          <vrk><url ref="http://www.autodidactproject.org/other/merchant_klem.html">Kompatinda
+          Klem</url></vrk>
+          <lok>1931</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">den Hut ziehen</trd>
+  <trd lng="fr">tirer son chapeau</trd>
+  <trd lng="id"><ind>angkat</ind> topi</trd>
+  <trdgrp lng="pl">
+    <trd>zdj&aogonek;&cacute; <ind>kapelusz</ind></trd>,
+    <trd>zdj&aogonek;&cacute; <ind>czapk&eogonek;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>a se ridica  <ind>p&abreve;l&abreve;ria</ind></trd>,
+    <trd>a se scoati  <ind>p&abreve;l&abreve;ria</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.47 2023/11/14 15:28:32
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.45 2023/10/14 11:10:02
+revo: transskribo per <pr>
+
+versio 1.44 2023/10/07 17:24:14
+Wolfgang Pfluegler: +trd de
+
+versio 1.41 2023/03/26 10:28:39
+Paul Peeraerts: korekto de fnt
+
+versio 1.40 2023/02/23 15:31:53
+Vito Redsky: +trd pl + trd ro
+
+versio 1.36 2020/10/01 20:32:25
+Jeromo Vasxe: + levi la ~on
+
+Revision 1.34  2017/10/14 12:10:15  revo
+Vito Redsky: +trd ro
+
+Revision 1.33  2017/08/21 20:10:27  revo
+-->
+</vortaro>

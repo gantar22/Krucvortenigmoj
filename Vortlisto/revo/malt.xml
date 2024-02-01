@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: malt.xml,v 1.28 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>malt</rad>/o
+</kap>
+
+<drv mrk="malt.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      &Gcirc;erminta sekigita greno, ordinare <ref cel="horde.0o">hordeo</ref>, 
+      interalie uzata por fabriki
+      <ref tip="malprt" cel="bier.0o">bieron</ref>:
+      <ekz>
+        helkoloraj <tld/>oj de apudmaraj hordeoj<fnt><aut>Lode Van De
+        Velde</aut>: <vrk>Bierlando Belgio</vrk>,
+        <bib>Monato</bib><lok>jaro 2001a, numero 1a, p. 18a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="hom" cel="malt1.M0o">Malto (insulo)</ref>
+  <trd lng="be">&c_s;&c_o;&c_l;&c_a;&c_d;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_l;&c_c;</trd>
+  <trd lng="br">malt</trd>
+  <trd lng="ca">malt</trd>
+  <trd lng="cs">slad</trd>
+  <trd lng="de">Malz</trd>
+  <trd lng="en">malt</trd>
+  <trd lng="es">malta</trd>
+  <trd lng="fa">&a_m;&a_A;&a_l;&a_t;</trd>
+  <trd lng="fr">malt</trd>
+  <trd lng="hu">mal&aacute;ta</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9EA6;&#x82BD;  <pr>&#x3070;&#x304F;&#x304C;</pr></trd>,
+    <trd>&#x30E2;&#x30EB;&#x30C8;</trd>
+  </trdgrp>
+  <trd lng="nl">mout</trd>
+  <trd lng="pl">s&lstroke;&oacute;d</trd>
+  <trd lng="pt">malte</trd>
+  <trd lng="ro">mal&#x21B;</trd>
+  <trd lng="ru">&c_s;&c_o;&c_l;&c_o;&c_d;</trd>
+  <trd lng="sk">slad <klr>(pivn&yacute;)</klr></trd>
+  <trd lng="sv">malt</trd>
+  <trd lng="uk">&c_s;&#x43E;&#x43B;&#x43E;&c_d;</trd>
+</drv>
+
+<drv mrk="malt.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Transformi grenon en <tld/>on:
+      <ekz>
+        en la grandbieno oni faris la sensoifigan blankan bieron el
+        &ccirc;irka&ubreve;
+        50 procentoj da ne<tld/>igita tritiko<fnt><aut>Lode Van De
+        Velde</aut>: <vrk>Bierlando Belgio</vrk>,
+        <bib>Monato</bib><lok>jaro 2001a, numero 1a, p. 18a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol; &c_u; <ind>&c_s;&c_o;&c_l;&c_a;&c_d;</ind></trd>
+  <trd lng="ca">maltar</trd>
+  <trd lng="cs">sladovat</trd>
+  <trd lng="de">m&auml;lzen</trd>
+  <trd lng="es">maltear</trd>
+  <trd lng="fr">malter</trd>
+  <trd lng="ja">&#x9EA6;&#x82BD;&#x306B;&#x3059;&#x308B;  <pr>&#x3070;&#x304F;&#x304C;&#x306B;&#x3059;&#x308B;</pr></trd>
+  <trd lng="pl">zmieni&cacute; w <ind/>s&lstroke;&oacute;d</trd>
+  <trd lng="ro">schimbare &icirc;n <ind>mal&#x21B;</ind></trd>
+  <trd lng="sk">sladova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43E;&#x43B;&#x43E;&c_d;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_t;&c_v;&#x43E;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i; &c_v; &c_s;&#x43E;&#x43B;&#x43E;&c_d;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.26 2023/03/20 08:34:31
+Dmitri Gabinski: + trd be
+
+versio 1.24 2021/05/24 19:25:25
+Wolfram Diestel: +ref-hom
+
+versio 1.23 2020/05/30 19:10:40
+Vito Redsky: +trd pl +trd ro
+
+versio 1.22 2020/05/26 22:10:24
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.20  2016/11/13 18:10:13  revo
+Carlos Garcia: +trd ro -o, es -ig
+
+Revision 1.19  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:19  revo
+-->
+</vortaro>

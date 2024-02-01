@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: verdik.xml,v 1.22 2023/10/21 16:50:36 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>verdikt</rad>/o
+</kap>
+<drv mrk="verdik.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="super" cel="decid.0o">Decido</ref> de ju&gcirc;antaro pri akuzito:
+      <ekz>
+        <klr>[ili]</klr> skribas maljustajn <tld/>ojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 10:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Via ekscelenco sendu Memfison <klr>[&#x2026;]</klr> kaj donu al ili <tld/>ojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        du aliaj akceptis la <tld/>on sen protesto
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Tri fratoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la senato eldonis jam <tld/>on
+        <fnt>
+          <bib>QuV</bib>
+          <lok>Epilogo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        liaj <tld/>oj estas nerevokeblaj
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LXV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la argumentado de la <tld/>o ofte sonis la vortoj &leftquot;ekstremisto&rightquot;,
+        &leftquot;malpaciganto&rightquot;
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Deksesa &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj de superaj kortumoj
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        MT fari&gcirc;is nepagipova kaj estis devigita en ju&gcirc;ejo peti <tld/>on pri bankroto
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#x2116; 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la literaturisto <klr>[&#x2026;]</klr> elparolis <tld/>on 
+        <klr>(<ref cel="jugx.pri0i">priju&gcirc;on</ref>)</klr> pri &scirc;ia desegnado
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="jugx.0o">ju&gcirc;o</ref>
+    <refgrp tip="sub">
+      <ref cel="absolv.0o.JUR">absolvo<sncref/></ref>,
+      <ref cel="kondam.0o">kondamno</ref>
+    </refgrp>
+  </snc>
+  <snc>
+    <dif>
+      Decido de ju&gcirc;antaro pri konkurantoj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="arbitr1.0o">arbitracio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_e;&c_r;&c_d;&c_y;&c_k;&c_t;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_s;&c_u;&c_d;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_g;&c_a;&c_v;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="ca">veredicte</trd>
+  <trdgrp lng="cs">
+    <trd>judik&aacute;t</trd>,
+    <trd>ortel</trd>,
+    <trd>rozsudek</trd>,
+    <trd>soudn&iacute; v&yacute;rok</trd>,
+    <trd>verdikt</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Urteil</trd>,
+    <trd>Urteilsspruch</trd>,
+    <trd>Richterspruch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>verdict</trd>,
+    <trd>decision</trd>,
+    <trd>finding</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>verdict</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&iacute;t&eacute;let</trd>,
+    <trd>d&ouml;nt&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5224;&#x6C7A;  <pr>&#x306F;&#x3093;&#x3051;&#x3064;</pr></trd>,
+    <trd>&#x8A55;&#x6C7A;  <pr>&#x3072;&#x3087;&#x3046;&#x3051;&#x3064;</pr></trd>,
+    <trd>&#x5224;&#x5B9A;  <pr>&#x306F;&#x3093;&#x3066;&#x3044;</pr></trd>,
+    <trd>&#x5BE9;&#x5224;  <pr>&#x3057;&#x3093;&#x3071;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>vonnis</trd>,
+    <trd>uitspraak<klr tip="ind"> (vonnis)</klr></trd>,
+    <trd>verdict</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>veredito</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i;&c_g;&c_o;&c_v;&c_o;&c_r;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_d;&c_i;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ortie&lcaron;</trd>,
+    <trd>rozsudok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_r;&c_o;&c_k;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_u;&c_d;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_d;&c_i;&c_k;&c_t;</trd>,
+    <trd>&c_r;&c_ib;&c_sh;&c_je;&c_n;&c_n;&c_ja; &c_zh;&c_u;&c_r;&c_ib;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="verdik.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Diri <tld/>on:
+      <ekz>
+        <klr>[li]</klr> malamegas lin kaj <tld/>is al li morton en la animo
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LXV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tribunalo ne facile <tld/>os, li fidis je &scirc;anco
+        <fnt>
+          <bib>ChC</bib>
+          <lok>27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &leftquot;kisinda&rightquot;, li <tld/>is
+        <fnt>
+          <bib>CKv</bib>
+          <lok>1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni <tld/>os ke vi ne kulpas pri murdo
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Kvin</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la angloj tuj estus transdonintaj lin al A&ubreve;stralio, 
+        por ke tie oni povu <tld/>i <klr>(<ref cel="jugx.0i.JUR">ju&gcirc;i</ref>)</klr>
+        lin
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 40</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="absolv.0i.JUR">absolvi<sncref/></ref>,
+      <ref cel="kondam.0i.JUR">kondamni<sncref/></ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="jugx.0i.JUR">ju&gcirc;i<sncref/></ref>,
+      <ref cel="konvikt.0i">konvikti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_g;&c_a;&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_n;&c_je;&c_s;&c_mol;&c_c;&c_ib;
+      <ind>&c_p;&c_r;&c_y;&c_s;&c_u;&c_d;</ind></trd>
+  </trdgrp>
+  <trd lng="ca">emetre <ind>veredicte</ind></trd>
+  <trd lng="de">das <ind>Urteil</ind> sprechen</trd>
+  <trdgrp lng="fr">
+    <trd>prononcer le <ind>verdict</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&iacute;t&eacute;lkezik</trd>,
+    <trd>&iacute;t&eacute;letet hoz</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5224;&#x6C7A;&#x3092;&#x8A00;&#x3044;&#x6E21;&#x3059;  <pr>&#x306F;&#x3093;&#x3051;&#x3064;&#x3092;&#x3044;&#x3044;&#x308F;&#x305F;&#x3059;</pr></trd>,
+    <trd>&#x5224;&#x5B9A;&#x3092;&#x4E0B;&#x3059;  <pr>&#x306F;&#x3093;&#x3066;&#x3044;&#x3092;&#x304F;&#x3060;&#x3059;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_n;&c_je;&c_s;&c_t;&c_i;
+<ind>&c_p;&c_r;&c_i;&c_g;&c_o;&c_v;&c_o;&c_r;</ind></trd>,
+    <trd>&c_v;&c_y;&c_n;&c_je;&c_s;&c_t;&c_i;
+<ind>&c_v;&c_je;&c_r;&c_d;&c_i;&c_k;&c_t;</ind></trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_i;&c_n;&c_o;&c_s;&c_i;&c_t;&c_i; &c_v;&c_i;&c_r;&c_o;&c_k;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.20 2022/06/13 20:32:18
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+Revision 1.17  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/08/12 10:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2009/06/29 18:06:11  revo
+Russ Williams: +tip fak JUR
+
+Revision 1.14  2008/10/30 19:26:00  revo
+Russ Williams: +trd en
+
+Revision 1.13  2006/02/01 17:32:51  revo
+Tulio Flores: +trd pt
+
+Revision 1.12  2005/02/01 17:31:54  revo
+-->
+</vortaro>

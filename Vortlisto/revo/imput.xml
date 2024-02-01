@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: imput.xml,v 1.18 2023/11/19 10:22:12 revo Exp $">
+<kap>
+  <rad>imput</rad>/i
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="imput.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="imput.0i.al_konto">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="atribu.0i.asigni">Atribui</ref> sumon al ia konto:
+      <ekz>
+        <tld/>i &scirc;uldon de societo sur la disponeblaj profitoj;
+      </ekz>
+      <ekz>
+        tiu elspezo devas esti <tld/>ita sur la pasintjara bilanco;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        e&ccirc; plej etan eventon oni <tld/>os debete al mia konto
+        <fnt>
+          <bib>SkandalJozef</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kalkul.al0i">alkalkuli</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>anrechnen</trd>,
+      <trd>zurechnen</trd>,
+      <trd>zuweisen</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>besz&aacute;m&iacute;t<klr tip="amb"> (vmit vmibe)</klr></trd>,
+      <trd>terh&eacute;re &iacute;r</trd>
+    </trdgrp>
+    <trd lng="nl">op <ind>rekening</ind> schrijven</trd>
+    <trd lng="ru">&c_o;&c_t;&c_n;&c_je;&c_s;&c_t;&c_i; <klr>(&c_s;&c_u;&c_m;&c_m;&c_u; &c_n;&c_a; &c_k;&c_a;&c_k;&c_o;&c_j;-&c_l;. &c_s;&c_ch;&c_jo;&c_t;)</klr></trd>
+  </snc>
+  <snc mrk="imput.0i.parton">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Atribui ion al la dividparto de iu:
+      <ekz>
+        <tld/>i meblojn, pentra&jcirc;on, domon en la heredan parton de iu
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="jugx.al0i">alju&gcirc;i</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>zuteilen</trd>,
+      <trd>zuschreiben</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>jav&aacute;ra &iacute;r</trd>,
+      <trd>neki &iacute;t&eacute;l</trd>,
+      <trd>besz&aacute;m&iacute;t<klr tip="amb"> (vkinek vmit)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">toeschrijven</trd>
+    <trd lng="ru">&c_n;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_i;&c_t;&c_mol; <klr>(&c_i;&c_m;&c_u;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o; &c_v; &c_ch;&c_mol;&c_jo;-&c_l;. &c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  </snc>
+  <snc mrk="imput.0i.kulpigi">
+    <dif>
+      <ref tip="super" cel="atribu.0i">Atribui</ref> al iu la prirespondecon de io:
+      <ekz>
+        al iliaj influoj oni ja atribuis la freneza&jcirc;ojn de Nero, al iliaj inspiroj oni
+        <tld/>is &ccirc;iujn krimojn, kiujn li plenumis
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        majeste aspektantaj genioj <klr>[&#x2026;]</klr> kies speciala, <tld/>ita devo estis
+        forteni malbonajn spiritojn for de la re&gcirc;a lo&gcirc;ejo
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio]</klr> kondukas en la kriminala proceso al mistakso de la datumoj kaj
+        faktoj kaj al senbazeco de la <tld/>ado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hektor Alos i Font</aut>
+          <vrk><url ref="&Monato;/2010/010065.php">Maljusta justico</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kulp.0igi">kulpigi</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>bezichtigen</trd>,
+      <trd>unterstellen</trd>,
+      <trd>zuschreiben</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tulajdon&iacute;t<klr tip="amb"> (vkinek vmit)</klr></trd>,
+      <trd>rov&aacute;s&aacute;ra &iacute;r</trd>,
+      <trd>betud<klr tip="amb"> (vkinek vmit)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">wijten</trd>
+    <trd lng="ru">&c_v;&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol; &c_v; &c_v;&c_i;&c_n;&c_u;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>imputovat</trd>,
+    <trd>nepr&aacute;vem p&rcaron;i&ccaron;&iacute;tat</trd>,
+    <trd>p&rcaron;isuzovat</trd>,
+    <trd>sv&aacute;d&ecaron;t</trd>,
+    <trd>sv&eacute;st</trd>,
+    <trd>vnutit</trd>
+  </trdgrp>
+  <trd lng="es">imputar</trd>
+  <trdgrp lng="fr">
+    <trd>imputer</trd>,
+    <trd>attribuer</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A08;&#x4E0A;&#x3059;&#x308B;  <pr>&#x3051;&#x3044;&#x3058;&#x3087;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7E70;&#x308A;&#x5165;&#x308C;&#x308B;  <pr>&#x304F;&#x308A;&#x3044;&#x308C;&#x308B;</pr></trd>,
+    <trd>&#x8CAC;&#x4EFB;&#x3092;&#x8CA0;&#x308F;&#x305B;&#x308B;  <pr>&#x305B;&#x304D;&#x306B;&#x3093;&#x3092;&#x304A;&#x308F;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x305B;&#x3044;&#x306B;&#x3059;&#x308B;</trd>
+  </trdgrp>
+  <trd lng="pt">imputar</trd>
+  <trdgrp lng="sk">
+    <trd>pripo&ccaron;&iacute;ta&tcaron;</trd>,
+    <trd>prip&iacute;sa&tcaron;</trd>,
+    <trd>pris&uacute;di&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x440;&#x438;&#x43F;&#x438;&#x441;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x441;&#x442;&#x430;&#x432;&#x438;&#x442;&#x438; &#x437;&#x430; &#x43F;&#x440;&#x43E;&#x432;&#x438;&#x43D;&#x443;</trd>,
+    <trd>&#x432;&#x456;&#x434;&#x440;&#x430;&#x445;&#x443;&#x432;&#x430;&#x442;&#x438; &#x437;..</trd>,
+    <trd>&#x43D;&#x430;&#x440;&#x430;&#x445;&#x443;&#x432;&#x430;&#x442;&#x438; &#x43D;&#x430;..</trd>,
+    <trd>&#x432;&#x456;&#x434;&#x43D;&#x435;&#x441;&#x442;&#x438; &#x43D;&#x430; &#x440;&#x430;&#x445;&#x443;&#x43D;&#x43E;&#x43A; &#x432;&#x438;&#x434;&#x430;&#x442;&#x43A;&#x456;&#x432; &#x437;&#x2026;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5F52;&#x56E0; <pr>gu&#x12B;y&#x12B;n</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.17 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.15 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.13 2021/12/06 19:22:57
+Wolfram Diestel: +ekz-oj
+
+Revision 1.11  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2005/10/26 16:32:15  revo
+Luiz Portella: +trd pt
+
+Revision 1.9  2004/01/19 17:30:46  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/01/16 17:32:15  revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.7  2002/07/29 18:14:16  revo
+-->
+</vortaro>

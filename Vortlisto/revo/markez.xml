@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: markez.xml,v 1.21 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <rad>markez</rad>/o
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="markez.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="markez.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Oblikva <ref tip="super" cel="sxirm.0ilo">&scirc;irmilo</ref> super doma enirejo, fenestro,
+      teraso, fiksite &ccirc;e unu flanko kaj eventuale demetebla, faldebla, rulebla,
+      por &scirc;irmi kontra&ubreve; pluvo a&ubreve; troa sunlumo:
+      <ekz>
+        la filo eliris sur la terason, &scirc;irmitan per <tld/>o la samovaro
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iun someron, &scirc;irmite per tola <tld/>o,
+        la loko i&gcirc;is bonega &gcirc;ardenrestoracio
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 5a, p. xa</lok></fnt>;
+      </ekz>
+      <ekz>
+        modernaj domoj kun iliaj vicoj de <tld/>oj kaj balkonoj
+        <fnt>
+          <bib>ViV</bib>
+          <lok>IV.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="aler.0o.ARKI">alero<sncref/></ref>
+    <refgrp tip="vid">
+      <ref cel="basx.0o">ba&scirc;o</ref>,
+      <ref cel="ekran.0o.sxirmilo">ekrano<sncref/></ref>,
+      <ref cel="jxaluzi.0o">&jcirc;aluzio</ref>,
+      <ref cel="ombrel.0o">ombrelo</ref>,
+      <ref cel="kurten.rul0o">rulkurteno</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_v;&c_je;&c_s;</trd>,
+    <trd>&c_t;&c_e;&c_n;&c_t;</trd>,
+    <trd>&c_m;&c_a;&c_r;&c_k;&c_ib;&c_z;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">marquesina</trd>
+  <trdgrp lng="cs">
+    <trd>mark&yacute;za</trd>,
+    <trd>p&rcaron;&iacute;st&rcaron;e&scaron;ek nad oknem</trd>,
+    <trd>p&rcaron;&iacute;st&rcaron;e&scaron;ek nad vchodem</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Markise</trd>,
+    <trd>Wetterdach</trd>,
+    <trd>Regendach</trd>
+  </trdgrp>
+  <trd lng="en">marquee</trd>
+  <trd lng="es">toldo</trd>
+  <trd lng="fa">&a_s;&a_A;&f_y;&a_b;&a_A;&a_n;</trd>
+  <trdgrp lng="fr">
+    <trd>auvent</trd>,
+    <trd>marquise<klr> (auvent)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>eresztet&odblac;</trd>,
+    <trd>v&eacute;d&odblac;tet&odblac;</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30AC;&#x30E9;&#x30B9;&#x5165;&#x308A;&#x306E;&#x3072;&#x3055;&#x3057;  <pr>&#x304C;&#x3089;&#x3059;&#x3044;&#x308A;&#x306E;&#x3072;&#x3055;&#x3057;</pr></trd>
+  <trd lng="nl">luifel</trd>
+  <trd lng="pl">markiza <klr>(architektura)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>marquise</trd>,
+    <trd>toldo</trd>
+  </trdgrp>
+  <trd lng="ro">marchiz&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_v;&c_je;&c_s;</trd>,
+    <trd>&c_t;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_m;&c_a;&c_r;&c_k;&c_i;&c_z;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">pr&iacute;stre&scaron;ok nad vchodom</trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_a;&c_r;&c_k;&c_ib;&c_z;&c_a;</trd>,
+    <trd>&c_s;&c_k;&c_l;&c_ja;&c_n;&c_i;&c_j; &c_d;&c_a;&c_sh;&c_o;&c_k; (&c_n;&c_a;&c_d; &c_v;&c_h;&c_o;&c_d;&c_o;&c_m;)</trd>,
+    <trd>&c_n;&c_a;&c_v;&c_ib;&c_s;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.19 2023/03/18 08:29:51
+Wolfram Diestel: dif, ref-oj
+
+versio 1.18 2023/03/17 20:26:47
+Wolfram Diestel: +ekz-oj, ref-oj
+
+versio 1.16 2020/06/26 22:11:14
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.14  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2011/12/11 17:10:15  revo
+Marc Rausell: +trd ca
+
+Revision 1.12  2009/11/13 17:30:21  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.11  2006/07/29 16:34:11  revo
+-->
+</vortaro>

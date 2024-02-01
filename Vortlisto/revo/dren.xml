@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dren.xml,v 1.23 2023/10/14 14:40:07 revo Exp $">
+<kap>
+  <rad>dren</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="dren.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dren.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="sek.0igi.KOMUNE">Sekigi</ref>
+      per forkondukado de likva&jcirc;oj.
+    </dif>
+    <subsnc mrk="dren.0i.AGR">
+      <uzo tip="fak">AGR</uzo>
+      <dif>
+        Sekigi tro malsekan grundon per kanaletoj
+        a&ubreve; subteraj tuboj:
+        <ekz>
+          mi petis <klr>[&#x2026;]</klr> fari fosa&jcirc;on &ccirc;e la herbarfino, por ke la &gcirc;ardeno de mia
+          patrino estu <tld/>ita
+          <fnt>
+          <aut>M&aacute;ire NicAoidh</aut>
+          <vrk><url ref="&Monato;/2000/006878.php">&Gcirc;ardenumi</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/04, p. 20</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          instala&jcirc;oj de irigaciado kaj <tld/>ado
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Mu Binghua</aut>
+            <vrk><url ref="&Monato;/2011/010266.php">Akvomastrumado postulas grandegajn
+            investojn</url></vrk>
+            <lok>2011</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="dren.0i.MED">
+      <uzo tip="fak">MED</uzo>
+      <dif>
+        Forkonduki likva&jcirc;on el organo:
+        <ekz>
+          <tld/>i kavon, vundon
+          <fnt>
+            <aut>red. J. Hradil</aut>,
+            <vrk><url ref="&STEB;vortaroj/medicina-vortaro-de-umea.pdf">
+            Esperanta Medicina Vortaro</url></vrk>,
+            <lok>[vidita en 2017]</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          remado ebligas naturan limfan <tld/>adon kaj plifortigas muskolojn
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Christian Bertin</aut>
+            <vrk><url ref="&Monato;/2015/011437.php">Remado-rimedo</url></vrk>
+            <lok>2015</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+  </snc>
+  <ref tip="hom" cel="tren.0i">treni</ref>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_r;&c_e;&c_n;&c_a;&c_zh;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol; &c_v;&c_a;&c_d;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_s;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dren&aacute;&zcaron;ovat</trd>,
+    <trd>odv&aacute;d&ecaron;t sekrety</trd>,
+    <trd>vypr&aacute;zdnit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>dr&auml;nieren</trd>,
+    <trd>dr&auml;nen</trd>,
+    <trd>trockenlegen</trd>
+  </trdgrp>
+  <trd lng="en">drain</trd>
+  <trd lng="es">drenar</trd>
+  <trdgrp lng="fr">
+    <trd>drainer</trd>,
+    <trd>vidanger</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6392;&#x6C34;&#x3059;&#x308B;  <pr>&#x306F;&#x3044;&#x3059;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x629C;&#x304F;  <pr>&#x306C;&#x304F;</pr></trd>,
+    <trd>&#x6392;&#x6DB2;&#x3059;&#x308B;  <pr>&#x306F;&#x3044;&#x3048;&#x304D;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6392;&#x81BF;&#x3059;&#x308B;  <pr>&#x306F;&#x3044;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>drenowa&cacute;</trd>,
+    <trd>odwadnia&cacute;</trd>,
+    <trd>osusza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>drenar</trd>,
+    <trd>drainar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_s;&c_u;&c_sh;&c_a;&c_t;&c_mol;
+    &c_p;&c_o;&c_ch;&c_v;&c_u;</trd>,
+    <trd>&c_d;&c_r;&c_je;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dren&aacute;&zcaron;ova&tcaron;</trd>,
+    <trd>vypr&aacute;zdni&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_s;&c_u;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i; &c_gu;&c_r;&c_u;&#x43D;&c_t;</trd>,
+    <trd>&c_d;&c_r;&c_je;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dren.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="dren.0ilo.AGR">
+    <dif>
+      Kanaleto a&ubreve; tubo por elfluigi akvon el tro malseka grundo.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_r;&c_e;&c_n;&c_a;&c_zh;</trd>,
+    <trd>&c_d;&c_r;&c_e;&c_n;&c_a;&c_zh;&c_n;&c_a;&c_ja; &c_t;&c_r;&c_u;&c_b;&c_a;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_jo;&c_k;</trd>,
+    <trd>&c_a;&c_d;&c_l;&c_ib;&c_w;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dr&eacute;n</trd>,
+    <trd>odvod&ncaron;ovac&iacute; potrub&iacute;</trd>,
+    <trd>trativod</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Dr&auml;nrohr</trd>,
+    <trd>Dr&auml;nager&ouml;hre</trd>
+  </trdgrp>
+  <trd lng="en">drain</trd>
+  <trd lng="es">drenaje</trd>
+  <trd lng="fr">drain</trd>
+  <trd lng="he">&#x5E0;&#x5D9;&#x5E7;&#x5D5;&#x5D6;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6697;&#x6E20;  <pr>&#x3042;&#x3093;&#x304D;&#x3087;</pr></trd>,
+    <trd>&#x6392;&#x6C34;&#x7BA1;  <pr>&#x306F;&#x3044;&#x3059;&#x3044;&#x304B;&#x3093;</pr></trd>,
+    <trd>&#x6392;&#x81BF;&#x7BA1;  <pr>&#x306F;&#x3044;&#x3046;&#x307F;&#x304B;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dren</trd>,
+    <trd>rura <ind>drenarska</ind></trd>,
+    <trd>drena&zdot;<klr> (ca&lstroke;y system)</klr></trd>,
+    <trd>s&aogonek;czek</trd>
+  </trdgrp>
+  <trd lng="pt">dreno</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_r;&c_je;&c_n;&c_a;&c_zh;&c_n;&c_y;&c_j;
+    &c_s;&c_t;&c_o;&c_k;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_a;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">dr&eacute;n</trd>
+  <trd lng="uk">&c_d;&c_r;&c_je;&#x43D;&c_a;&c_zh;&#x43D;&c_a; &c_t;&c_r;&c_u;&c_b;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/14 14:40:07
+revo: transskribo per <pr>
+
+versio 1.21 2023/04/15 10:28:42
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.20 2022/06/14 08:36:57
+Dmitri Gabinski: + trd be
+
+versio 1.19 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.16 2020/11/01 18:32:24
+Wolfram Diestel: +ekz-oj
+
+Revision 1.14  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2009/09/05 16:30:29  revo
+-->
+</vortaro>

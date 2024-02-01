@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: daten.xml,v 1.22 2023/11/04 13:16:26 revo Exp $">
+<kap>
+  <rad>daten</rad>/o <fnt><bib>SPIV</bib></fnt>
+</kap>
+
+<drv mrk="daten.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KOMP</uzo>
+  <snc mrk="daten.0o.datumo">
+    <dif>
+      <ref tip="dif" cel="datum.0o">Datumo</ref>:
+      <ekz>
+        la karteto mal&ccirc;ifras tiujn <tld/>ojn
+        <fnt>
+          <aut>F. Arnaud</aut>,
+          <vrk>Preterle&gcirc;a televidado en E&ubreve;ropo</vrk>,
+          <bib>Monato</bib>;
+          <lok>1999:3, p. 22a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sekurigi la <tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Rob Ebenau</aut>
+          <vrk><url ref="&Monato;/2005/008528.php">Kiel protekti kontra&ubreve; perdo kaj &scirc;telo?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        konfidencaj entrepren- kaj kliento-<tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Rob Ebenau</aut>
+          <vrk><url ref="&Monato;/2005/008528.php">Kiel protekti kontra&ubreve; perdo kaj &scirc;telo?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;tata potenco povas uzi nekontrolate tiujn <tld/>ojn por &leftquot;maldemokratiaj&#x201D; celoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Laszlo Istvan Toth</aut>
+          <vrk><url ref="&Monato;/2008/009554.php">Granda frato gvatas (3)</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la problemo &ccirc;e <nom>Google</nom> estas, ke temas pri privata entrepreno, kies manipulado de
+        <tld/>oj estas netravidebla
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2010/010138.php">Retproblemoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Datum</trd>,
+    <trd>Daten<klr> (plur.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>datum</trd>,
+    <trd>data<klr> (pl)</klr></trd>
+  </trdgrp>
+  <trd lng="es">dato</trd>
+  <trdgrp lng="fr">
+    <trd>donn&eacute;es<klr> (informatique)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&#x5E0;&#x5EA;&#x5D5;&#x5E0;&#x5D9;&#x5DD;</trd>
+  <trd lng="hu">adat</trd>
+  <trd lng="ja">&#x30C7;&#x30FC;&#x30BF;  <pr>&#x3067;&#x30FC;&#x305F;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>dana<klr> {sing.}</klr></trd>,
+    <trd>dane<klr> {pl.}</klr></trd>
+  </trdgrp>
+  <trd lng="pt">dado <klr tip="amb">(inform&aacute;tica)</klr></trd>
+  <trd lng="sv">data</trd>
+  <trd lng="sk">spracovate&lcaron;n&aacute; inform&aacute;cia</trd>
+  <trd lng="cs">zpracovateln&aacute; informace</trd>
+  <trd lng="uk">&#x434;&#x430;&#x43D;&#x456; (&#x456;&#x43C;.)</trd>
+  <trd lng="zh">&#x6570;&#x636E; <pr>sh&#xF9;j&#xF9;</pr></trd>
+</drv>
+
+<drv mrk="daten.0opo">
+  <kap><tld/>opo <fnt><bib>PIV3</bib></fnt></kap>
+  <snc mrk="daten.0opo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Grupo da <tld/>oj ofte diversspecaj, konservita kiel tuto.
+    </dif>
+    <ref tip="sin" cel="rikord.0o.KOMP">rikordo</ref>
+    <refgrp tip="vid">
+      <ref cel="kamp.0o.formulara">kampo<sncref/></ref>,
+      <ref cel="kon.0igilo.KOMP">konigilo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Datensatz</trd>
+  <trd lng="zh">&#x6570;&#x636E;&#x7EC4; <pr>sh&#xF9;j&#xF9;z&#x1D4;</pr></trd>
+</drv>
+<url ref="https://bertilow.com/piv/#nombre">PMEG: Kritikaj notoj pri la Plena Ilustrita Vortaro 2002 kaj 2005, Teknike</url>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/14 11:26:53
+revo: transskribo per <pr>
+
+versio 1.19 2022/04/26 17:11:47
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.15  2019/10/02 20:10:19  revo
+Wolfram Diestel: +ekz-oj, url, germ trd
+
+Revision 1.14  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2013/07/25 18:10:09  revo
+Jeromo Vasxe: + fnt
+
+Revision 1.11  2010/12/08 19:04:28  revo
+Sebastian Cyprych: +~opo
+
+Revision 1.10  2009/04/29 16:31:13  revo
+-->
+</vortaro>

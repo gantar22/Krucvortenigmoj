@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: harian.xml,v 1.9 2023/11/15 16:45:17 revo Exp $">
+<kap>
+  <rad>Harian</rad>/o <fnt><bib>NePiv</bib></fnt>,
+  <var><kap><rad var="j">Harjan</rad>/o <fnt><bib>Viki</bib></fnt></kap></var>
+</kap>
+<drv mrk="harian.0o">
+  <kap><tld/>o,
+    <var><kap><tld var="j"/>o</kap></var>
+  </kap>
+  <snc mrk="harian.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Gubernio en la norda parto de
+      <ref tip="malprt" cel="hind.H0ujo.POL">Hindujo</ref>:
+      <ekz>
+        <tld var="j"/>o estas la hindia-parolanta parto de barata Pan&gcirc;abo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=22496">Harjano</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Nigra ibiso <klr>[&#x2026;]</klr> estas komuna <klr>[&#x2026;]</klr> en <tld var="j"/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=48988">Nigra ibiso</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_G;&c_a;&c_r;&#x2019;&c_ja;&c_n;&c_a;</trd>
+  <trd lng="de">Haryana</trd>
+  <trd lng="en">Haryana</trd>
+  <trd lng="fr">Haryana</trd>
+  <trd lng="ja">&#x30CF;&#x30EA;&#x30A2;&#x30CA;&#x5DDE;  <pr>&#x30CF;&#x30EA;&#x30A2;&#x30CA;&#x3057;&#x3085;&#x3046;</pr></trd>
+  <trd lng="uk">&c_G;&c_a;&c_r;&#x2019;&#x44F;&#x43D;&c_a;</trd>
+  <trd lng="zh">&#x54C8;&#x88E1;&#x4E9E;&#x7D0D;&#x90A6; <pr>h&#x101;l&#x1D0;y&#xE0;n&#xE0;b&#x101;ng</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2023/10/16 05:12:01
+revo: transskribo per <pr>
+
+versio 1.6 2022/09/06 13:55:52
+Dmitri Gabinski: + trd be
+
+versio 1.4 2020/09/09 15:10:34
+Wolfram Diestel: +tld-var
+
+Revision 1.2  2015/10/21 15:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.1  2014/09/17 01:11:12  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

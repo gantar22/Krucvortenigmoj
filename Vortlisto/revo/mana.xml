@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mana.xml,v 1.22 2023/09/02 06:04:08 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>mana</rad>/o
+</kap>
+<drv mrk="mana.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <snc mrk="mana.0o.BIB">
+    <uzo tip="fak">BIB</uzo>
+    <dif>
+      &Ccirc;iela <ref tip="super" cel="nutr.0ajxo">nutra&jcirc;o</ref>
+      donita de Dio al la hebreoj en la dezerto:
+      <ekz>
+        la <tld/>o estis kiel semo de koriandro, kaj &gcirc;ia aspekto estis kiel la aspekto
+        de bedelio <klr>[&#x2026;]</klr> kiam la roso faladis sur la tendaron 
+        en la nokto, tiam faladis sur &gcirc;in anka&ubreve; la <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 11:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Izraelidoj man&gcirc;is la <tld/>on dum kvardek jaroj, &gcirc;is ili venis en landon
+        lo&gcirc;eblan, la <tld/>on ili man&gcirc;is, &gcirc;is ili venis al la limo de la lando Kanaana
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 16:35</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_n;&c_n;&c_a;</trd>
+    <trd lng="br">mann<klr tip="ind"> (boued)</klr></trd>
+    <trd lng="ca">mann&agrave;</trd>
+    <trd lng="de">Manna</trd>
+    <trd lng="en">manna</trd>
+    <trd lng="es">man&aacute;</trd>
+    <trd lng="hu">manna</trd>
+    <trd lng="nl">manna</trd>
+    <trd lng="pl">manna</trd>
+    <trd lng="pt">man&aacute;</trd>
+    <trd lng="ru">&c_m;&c_a;&c_n;&c_n;&c_a;<klr tip="amb">
+(&c_n;&c_je;&c_b;&c_je;&c_s;&c_n;&c_a;&c_ja;)</klr></trd>
+    <trd lng="sk">mana</trd>
+  </snc>
+  <snc mrk="mana.0o.sukera">
+    <dif>
+      Sukera substanco eltirita el fraksen&scirc;elo kaj uzata kiel laksigilo.
+    </dif>
+    <trd lng="ca">mann&agrave;</trd>
+    <trd lng="en">manna</trd>
+    <trd lng="hu">manna</trd>
+    <trd lng="nl">manna</trd>
+    <trd lng="pl">manna</trd>
+    <trd lng="ru">&c_m;&c_a;&c_n;&c_n;&c_a;<klr tip="amb">
+(&c_s;&c_l;&c_a;&c_b;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;)</klr>
+</trd>
+  </snc>
+  <snc>
+    <uzo tip="klr">(En praaj, totemaj socioj)</uzo>
+    <dif>
+      Mistera, magia forto, kvaza&ubreve; kolektiva animo.
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_n;&c_a;</trd>
+    <trd lng="ca">mana</trd>
+    <trd lng="de">Mana</trd>
+    <trd lng="en">mana</trd>
+    <trd lng="hu">mana</trd>
+    <trd lng="nl">mana</trd>
+    <trd lng="pl">mana</trd>
+    <trd lng="ru">&c_m;&c_a;&c_n;&c_a;</trd>
+    <trd lng="sk">mana</trd>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x30DE;&#x30CA;</trd>,
+    <trd>&#x30DE;&#x30F3;&#x30CA;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x430;&#x43D;&#x43D;&#x430;</trd>,
+    <trd>&#x43D;&#x430;&#x434;&#x43F;&#x440;&#x438;&#x440;&#x43E;&#x434;&#x43D;&#x430; &#x442;&#x430;&#x454;&#x43C;&#x43D;&#x430; &#x441;&#x438;&#x43B;&#x430;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+Revision 1.19  2012/08/19 11:10:41  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.18  2007/11/14 17:30:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2006/07/21 18:03:05  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2005/04/10 16:33:36  revo
+Alan ar Gall: +trd br
+
+Revision 1.15  2005/03/28 17:14:18  revo
+Raul Salinas Monteagudo: +trd ca
+
+Revision 1.14  2003/08/22 16:31:54  revo
+Yury Finkel: +trd ru
+
+Revision 1.13  2003/05/14 16:30:51  revo
+-->
+</vortaro>

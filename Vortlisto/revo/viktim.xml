@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: viktim.xml,v 1.22 2023/10/21 16:50:36 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>viktim</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="viktim.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="viktim.0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Viva esta&jcirc;o oferita al dio.
+    </dif>
+    <trd lng="el">&sigma;&phi;&alfa_ton;&gamma;&jota;&omikron;</trd>
+    <trd lng="en">sacrifice</trd>
+    <trd lng="hu">&eacute;l&odblac;&aacute;ldozat</trd>    
+  </snc>
+  <snc mrk="viktim.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Tiu, kiu suferas pro io:
+      <ekz>
+        la proletaro estis la unua <tld/>o de tiu krizo.
+      </ekz>
+    </dif>
+    <trd lng="el">&theta;&ypsilon_ton;&my;&alfa;</trd>
+    <trd lng="en">victim</trd>
+    <trd lng="hu">&aacute;ldozat</trd>    
+  </snc>
+  <trd lng="be">&c_a;&c_h;&c_v;&c_ja;&c_r;&c_a;</trd>
+  <trd lng="ca">v&iacute;ctima</trd>
+  <trd lng="cs">ob&#x11B;&#x165;</trd>
+  <trd lng="de">Opfer</trd>
+  <trd lng="es">v&iacute;ctima</trd>
+  <trd lng="fr">victime</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3044;&#x3051;&#x306B;&#x3048;</trd>,
+    <trd>&#x72A0;&#x7272;  <pr>&#x3044;&#x3051;&#x306B;&#x3048;</pr></trd>,
+    <trd>&#x72A0;&#x7272;&#x8005;  <pr>&#x304E;&#x305B;&#x3044;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x88AB;&#x5BB3;&#x8005;  <pr>&#x3072;&#x304C;&#x3044;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">slachtoffer</trd>
+  <trd lng="pt">v&iacute;tima</trd>
+  <trd lng="ru">&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;</trd>
+  <trd lng="sk">obe&tcaron;</trd>
+  <trd lng="uk">&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;</trd>
+</drv>
+
+<drv mrk="viktim.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="viktim.0igi.KOMUNE">
+    <dif>
+      Igi <tld/>o:
+      <ekz>
+        mi sentas grandan indignon pro la hodia&ubreve;a stato de 
+        medicinaj sciencoj, kiu <tld/>igas homan vivon, kaj 
+        manipulas homan korpon same kiel simplan materion        
+        <fnt>
+          <aut>K. Degu&ccirc;i, trad. A. Ni&scirc;inaga</aut>,
+          <vrk><url ref="http://www.oomoto.or.jp/Esperanto/esBiet/njparol.html">
+          Respektu homan vivon</url></vrk>,
+          <lok>2000</lok>
+        </fnt>
+      </ekz>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ofer.0i">oferi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">ob&#x11B;tovat</trd>
+  <trd lng="fr">victimiser</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3044;&#x3051;&#x306B;&#x3048;&#x306B;&#x3059;&#x308B;</trd>,
+    <trd>&#x72A0;&#x7272;&#x306B;&#x3059;&#x308B;  <pr>&#x304E;&#x305B;&#x3044;&#x306B;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">obetova&#x165;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x431;&#x438;&#x442;&#x438; &#x436;&#x435;&#x440;&#x442;&#x432;&#x43E;&#x44E;</trd>,
+    <trd>&#x43C;&#x443;&#x447;&#x438;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x435;&#x441;&#x43B;&#x456;&#x434;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+Revision 1.18  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/01/30 02:10:13  revo
+Jeromo Vasxe: + ~igi
+
+Revision 1.16  2012/08/12 12:10:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2006/07/29 16:32:22  revo
+Eduardo Navas: +trd es
+
+Revision 1.14  2005/02/03 17:32:52  revo
+Jozefo Horvath: +trd hu
+
+Revision 1..13  2004/11/02 17:32:30  revo
+Dmitri Gabinski: +trd uk
+
+Revision 1.12  2002/09/09 19:47:49  revo
+-->
+</vortaro>

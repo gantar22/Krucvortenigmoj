@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kompil.xml,v 1.29 2023/12/03 09:58:54 revo Exp $">
+<kap>
+  <ofc>1</ofc> <rad>kompil</rad>/i
+</kap>
+<drv mrk="kompil.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kompil.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="verk.0i">Verki</ref> ne originale, sed kunigante
+      en unu aron tekstojn pri komuna temo, kolektitajn el diversaj
+      fontoj:
+      <ekz>
+        mi komencis <tld/>i miajn voja&gcirc;notojn
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dektria &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        esti&gcirc;is kelkafoje longaj diskutoj pri diversaj okazoj, kaj dume ili <tld/>is
+        tutajn romanojn
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Feli&ccirc;a homo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>intoj de la indeksoj <klr>[respondecas]</klr> pri siaj respektivaj
+        partoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;anta&gcirc;dosiero, kiun <nom>Ospaci</nom> <tld/>is pri sia estro
+        <fnt>
+          <bib>ChV</bib>
+          <lok>12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi havas liston de adresoj el la tuta mondo, kiun ni <tld/>is hiera&ubreve;
+        <fnt>
+          <bib>ChV</bib>
+          <lok>29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Jarlibro de Internaciaj Organiza&jcirc;oj, <klr>[&#x2026;]</klr> <tld/>ita kaj publikigita
+        de la Unio de Internaciaj Asocioj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kolektivo <klr>[&#x2026;]</klr> <tld/>tradukis la libron Japanaj Malnovaj Rakontoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="editor.0i">editori</ref>,
+      <ref cel="redakt.0i.tekston">redakti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_ib;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">compilar</trd>
+  <trdgrp lng="cs">
+    <trd>kompilovat</trd>,
+    <trd>sestavit <klr>(z r&uring;z. pramen&uring;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>zusammenstellen</trd>,
+    <trd>zusammentragen</trd>,
+    <trd>kompilieren</trd>
+  </trdgrp>
+  <trd lng="en">compile</trd>
+  <trd lng="es">compilar</trd>
+  <trd lng="fr">compiler</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7DE8;&#x7E82;&#x3059;&#x308B;  <pr>&#x3078;&#x3093;&#x3055;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x96C6;&#x6210;&#x3059;&#x308B; <pr>&#x3057;&#x3085;&#x3046;&#x305B;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7DE8;&#x96C6;&#x3059;&#x308B;  <pr>&#x3078;&#x3093;&#x3057;&#x3085;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>samenstellen</trd>,
+    <trd>compileren</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kompilowa&cacute;</trd>,
+    <trd>zbiera&cacute;</trd>,
+    <trd>zestawia&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>compilar</trd>,
+    <trd>coligir</trd>,
+    <trd>reunir</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>compila</trd>,
+    <trd>aduna</trd>,
+    <trd>potrivi</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_i;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kompilova&tcaron;</trd>,
+    <trd>zostavova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_ib;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_k;&c_l;&c_a;&c_d;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5408;&#x4F5C;&#x5730; <pr>h&#xE9;zu&#xF2;de</pr></trd>,
+    <trd>&#x5408;&#x8D77;&#x4F86; <pr>h&#xE9;q&#x1D0;lai</pr></trd>,
+    <trd>&#x7DE8;&#x64B0; <pr>bi&#x101;nzhu&#xE0;n</pr></trd>,
+    <trd>&#x8F2F; <pr>j&#xED;</pr></trd>,
+    <trd>&#x7DE8;&#x5217; <pr>bi&#x101;nli&#xE8;</pr></trd>,
+    <trd>&#x7DE8;&#x8457; <pr>bi&#x101;nzh&#xF9;</pr></trd>,
+    <trd>&#x7E82; <pr>zu&#x1CE;n</pr></trd>,
+    <trd>&#x8F2F;&#x9304; <pr>j&#xED;l&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kompil.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kompil.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i a&ubreve; ties rezulto (<tld/>a&jcirc;o):
+      <ekz>
+        <tld/>o donas iafoje verkon pli bonan ol la originalo
+        <fnt><bib>VdE</bib></fnt>;
+      </ekz>
+      <ekz>
+        tekno, trenco, denco, drumenbaso kaj triphopo &ndash; jen estas la stiloj, prezentitaj
+        en la <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pavel Mo&jcirc;ajev, Jefim Zajdman</aut>
+          <vrk><url ref="&Monato;/2004/008071.html">Elektronike kundancu</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_ib;&c_l;&c_ja;&c_c;&c_y;&c_ja; <klr>(&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;)</klr></trd>,
+    <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="ca">compilaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>kompilov&aacute;n&iacute;</trd>,
+    <trd>sestavov&aacute;n&iacute;</trd>,
+    <trd>vyb&iacute;r&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Zusammenstellen</trd>,
+    <trd>Zusammenstellung</trd>,
+    <trd>Zusammentragen</trd>,
+    <trd>Kompilation</trd>,
+    <trd>Kompilieren</trd>
+  </trdgrp>
+  <trd lng="es">compilaci&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>compilation<klr tip="ind"> (action)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>compilatie<klr tip="ind"> (het compileren)</klr></trd>,
+    <trd>samenstellen<klr tip="ind"> (zn.)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">kompilacja</trd>
+  <trd lng="ro">compila&#x21B;ie</trd>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_i;&c_l;&c_ja;&c_c;&c_i;&c_ja; <klr>(&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>vyberanie</trd>,
+    <trd>zostavovanie</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5408;&#x8D77;&#x4F86; <pr>h&#xE9;q&#x1D0;lai</pr></trd>,
+    <trd>&#x5408;&#x4F5C;&#x5730; <pr>h&#xE9;zu&#xF2;de</pr></trd>,
+    <trd>&#x7DE8;&#x64B0; <pr>bi&#x101;nzhu&#xE0;n</pr></trd>,
+    <trd>&#x6DF8;&#x55AE; <pr>q&#x12B;ngd&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kompil.0ado">
+  <kap>
+    <tld/>ado
+  </kap>
+  <snc>
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        <tld/>ado de arkitekturaj kaj konstrufakaj terminaroj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni iniciatis la <tld/>adon de seslingva &leftquot;A&ubreve;to-Terminaro&rightquot;
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_ib;&c_l;&c_ja;&c_c;&c_y;&c_ja; <klr>(&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;)</klr></trd>,
+    <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+    <trdgrp lng="de">
+      <trd>Zusammenstellen</trd>,
+      <trd>Zusammenstellung</trd>,
+      <trd>Zusammentragen</trd>,
+      <trd>Kompilation</trd>,
+      <trd>Kompilieren</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x7DE8;&#x7E82;  <pr>&#x3078;&#x3093;&#x3055;&#x3093;</pr></trd>,
+    <trd>&#x96C6;&#x6210;  <pr>&#x3057;&#x3085;&#x3046;&#x305B;&#x3044;</pr></trd>,
+    <trd>&#x7DE8;&#x96C6;  <pr>&#x3078;&#x3093;&#x3057;&#x3085;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5408;&#x8D77;&#x4F86; <pr>h&#xE9;q&#x1D0;lai</pr></trd>,
+    <trd>&#x5408;&#x4F5C;&#x5730; <pr>h&#xE9;zu&#xF2;de</pr></trd>,
+    <trd>&#x7DE8;&#x64B0; <pr>bi&#x101;nzhu&#xE0;n</pr></trd>,
+    <trd>&#x6DF8;&#x55AE; <pr>q&#x12B;ngd&#x101;n</pr></trd>,
+    <trd>&#x4EA4;&#x7E54; <pr>ji&#x101;ozh&#x12B;</pr></trd>,
+    <trd>&#x8054;&#x7ED3; <pr>li&#xE1;nji&#xE9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kompil.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="kompil.0ajxo.KOMUNE">
+    <dif>
+      <tld lit="K"/>ita <ref tip="super" cel="verk.0o.propra">verko</ref>:
+      <ekz>
+        tiuj kompila&jcirc;oj rapide disvendi&gcirc;as, sed apena&ubreve; legi&gcirc;as pro siaj teda stilo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2006/008888.php">Mitologia&jcirc;o tre bele transdonita</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        historiisto Ziko <nom>van Dijk</nom> liveris plian <tld/>a&jcirc;on el la arkivoj de UEA
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jens S. Larsen</aut>
+          <vrk><url ref="&Monato;/2009/009705.php">Posedenda libra&ccirc;o</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aperis de <nom>Isaj Dratwer</nom> la <tld/>a&jcirc;o &leftquot;<nom>Lidja Zamenhof</nom>, vivo kaj agado&rightquot;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="&Monato;/2010/009856.php">Respektinda virino. Granda animo &ccirc;u iom
+          naiva?</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi iam publikigos la frukton de mia <tld/>a&jcirc;o pri la moderna gaela
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2014/011300.php">Antikva lingvo por moderna lando</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="antolo.0o">antologio</ref>,
+      <ref cel="digxest.0o">di&gcirc;esto</ref>,
+      <ref cel="epitom.0o">epitomo</ref>,
+      <ref cel="kompen.0o">kompendio</ref>,
+      <ref cel="kresto.0o">krestomatio</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_ib;&c_l;&c_ja;&c_c;&c_y;&c_ja; <klr>(&c_v;&c_y;&c_n;&c_ib;&c_k;
+  &c_p;&c_r;&c_a;&c_c;&c_y;)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>compilaci&oacute;</trd>,
+    <trd>compendi</trd>
+  </trdgrp>
+  <trd lng="en">compilation</trd>
+  <trd lng="es">compilaci&oacute;n</trd>
+  <trdgrp lng="de">
+    <trd>Zusammenstellung</trd>,
+    <trd>Zusammenfassung</trd>,
+    <trd>Kompilation</trd>,
+    <trd>Kompilat</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>anthologie<klr tip="ind"> (recueil de morceaux
+    choisis)</klr></trd>,
+    <trd>compilation <klr tip="ind">(ouvrage)</klr></trd>,
+    <trd>choix<klr tip="ind"> (recueil de morceaux choisis)</klr></trd>,
+    <trd>floril&egrave;ge<klr tip="ind"> (recueil de morceaux
+    choisis)</klr></trd>,
+    <trd>recueil<klr tip="ind"> (de morceaux choisis)</klr></trd>,
+    <trd>s&eacute;lection<klr tip="ind"> (recueil de morceaux
+    choisis)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x7DE8;&#x7E82;&#x66F8;  <pr>&#x3078;&#x3093;&#x3055;&#x3093;&#x3057;&#x3087;</pr></trd>
+  <trd lng="nl">compilatie<klr tip="ind"> (resultaat)</klr></trd>
+  <trd lng="pl">kompilacja</trd>
+  <trd lng="ro">generare</trd>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_i;&c_l;&c_ja;&c_c;&c_i;&c_ja; <klr>(&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;,
+  &c_r;&c_je;&c_z;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_t; &c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_ja;)</klr></trd>
+  <trd lng="uk">&c_k;&c_o;&c_m;&c_p;&c_ib;&c_l;&c_ja;&c_c;&c_ib;&c_ja; (&c_r;&c_je;&c_z;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_t;)</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5408;&#x4F5C;&#x5730; <pr>h&#xE9;zu&#xF2;de</pr></trd>,
+    <trd>&#x5408;&#x8D77;&#x4F86; <pr>h&#xE9;q&#x1D0;lai</pr></trd>,
+    <trd>&#x96C6;&#x5B50; <pr>j&#xED;zi</pr></trd>,
+    <trd>&#x5408;&#x8F2F; <pr>h&#xE9;j&#xED;</pr></trd>,
+    <trd>&#x5408;&#x96C6; <pr>h&#xE9;j&#xED;</pr></trd>,
+    <trd>&#x6DF8;&#x55AE; <pr>q&#x12B;ngd&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.27 2023/09/12 18:28:04
+Wolfram Diestel: pr. ja
+
+versio 1.25 2023/04/11 16:10:36
+aktualigo Monato-URL
+
+versio 1.24 2022/09/01 10:35:13
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/07/12 18:35:43
+Wolfram Diestel: +ekz-oj, ref-oj; +~ado
+
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/07/16 10:10:40  revo
+-->
+</vortaro>

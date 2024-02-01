@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: eliz.xml,v 1.3 2023/05/03 12:45:42 afido Exp $">
+    <kap>
+      <rad>Eliz</rad>/o
+    </kap>
+
+<drv mrk="eliz.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="eliz.0o.NOM">
+    <uzo tip="fak">NOM</uzo>
+    <dif>
+      Virina <ref tip="lst" lst="voko:personaj_nomoj" cel="nom.persona0o.GEN">persona nomo</ref>,
+      mallonga formo de <ref tip="sin" cel="elizabet.0o">Elizabeto</ref>:
+      <ekz>
+        re&gcirc;o, kiu havis dek unu filojn kaj unu filinon, <tld/>on
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Valero, filo de Anselmo kaj amanto de <tld/>o
+        <fnt>
+          <aut>Moli&egrave;re | Sapili</aut>
+          <vrk><url ref="https://www.sapili.org/esperanto/la-avarulo-moliere">La Avarulo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o kaj Karolino, superante &ccirc;iujn fra&ubreve;linojn per sia beleco kaj gracieco,
+        kun ensor&ccirc;antaj ridetoj alprenadis &ccirc;iujn tiujn &ccirc;i alportojn
+        <fnt>
+          <aut>V. Stankievi&cacute;</aut>
+          <vrk><url
+          ref="https://www.youscribe.com/catalogue/documents/litterature/el-la-vivo-de-esperantistoj-33255">El
+          la vivo de esperantistoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Elise</trd>
+  </snc>
+  <trd lng="be">&c_E;&c_l;&c_ib;&c_z;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_Je;&#x43B;&c_ib;&c_z;&c_a;</trd>,
+    <trd>&c_Je;&#x43B;&#x44C;&c_z;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.3 2023/05/03 12:45:42
+Dmitri Gabinski: + trd be
+
+versio 1.1 2020/06/06 21:33:02
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

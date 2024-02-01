@@ -1,0 +1,569 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hel.xml,v 1.112 2023/11/15 16:45:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>hel</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="hel.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="hel.0a.lumplena">
+    <dif>
+      Donanta a&ubreve; ricevanta vivan lumon, tre luma, lumplena:
+      <ekz>
+        <tld/>a fajro<fnt>B</fnt>,
+      </ekz><ekz>
+        &ccirc;ielo, vetero, tago<fnt>B</fnt>;
+      </ekz><ekz>
+        <tld/>a &ccirc;ambro;
+      </ekz><ekz>
+        la varma kaj <tld/>a radio de l' suno;
+      </ekz><ekz>
+        sur la <tld/>a fono lumigata de la lampo
+        aperis<fnt>B</fnt>...;
+      </ekz><ekz>
+        la steloj <tld/>e lumis<fnt>Z</fnt>
+        <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 1a</lok></fnt>;
+      </ekz>
+      <trdgrp lng="ru">
+        <trd>&c_s;&c_v;&c_je;&c_t;&c_l;&c_y;&c_j;</trd>,
+        <trd>&c_ja;&c_s;&c_n;&c_y;&c_j;</trd>,
+        <trd>&c_ja;&c_r;&c_k;&c_i;&c_j;</trd>
+      </trdgrp>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bril">brila</ref>,
+      <ref cel="klar.0a.malkonfuza">klara<sncref/></ref>,
+      <ref cel="lum.0a">luma</ref>,
+      <ref cel="seren.0a">serena</ref>
+    </refgrp>
+    <trd lng="it">luminoso</trd>
+    <trd lng="nl">helder</trd>
+    <trdgrp lng="zh">
+    <trd>&#x901A;&#x660E; <pr>t&#x14D;ngm&#xED;ng</pr></trd>,
+    <trd>&#x5149;&#x4EAE; <pr>gu&#x101;ngli&#xE0;ng</pr></trd>,
+    <trd>&#x7D11; <pr>f&#xF3;u</pr></trd>,
+    <trd>&#x5149;&#x660E; <pr>gu&#x101;ngm&#xED;ng</pr></trd>,
+    <trd>&#x714C; <pr>hu&#xE1;ng</pr></trd>,
+    <trd>&#x660E;&#x4EAE; <pr>m&#xED;ngli&#xE0;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="hel.0a.blankeca">
+    <dif>
+      Lume kolorigita, pli proksima al blanko ol al nigro:
+      <ekz>
+        <tld/>a ru&gcirc;o;
+      </ekz><ekz>
+        la <tld/>e blua &ccirc;ielo.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="pal.0a.nebrila">pala<sncref/></ref>
+    <trd lng="it">chiaro</trd>
+    <trd lng="nl">licht<klr tip="ind"> (helder)</klr></trd>
+    <trd lng="ru">&c_s;&c_v;&c_je;&c_t;&c_l;&c_y;&c_j;<klr tip="amb"> (&c_o;
+        &c_c;&c_v;&c_je;&c_t;&c_je;)</klr></trd>
+    <trdgrp lng="zh">
+    <trd>&#x6651; <pr>xi&#x1CE;ng</pr></trd>,
+    <trd>&#x663A; <pr>b&#x1D0;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="hel.0a.sonora">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      La&ubreve;te, brile sonora:
+      <ekz>
+        la la&ubreve;ta, <tld/>a vo&ccirc;o de la koko<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="klar.0a.malrauxka">klara<sncref/></ref>
+   <trdgrp lng="it">
+    <trd>cristallina<klr> (fig.)</klr></trd>,
+    <trd>argentina<klr> (fig.)</klr></trd>
+  </trdgrp>
+    <trd lng="nl">helder</trd>
+    <trd lng="ru">&c_ja;&c_s;&c_n;&c_y;&c_j;</trd>
+    <trd lng="zh">&#x6651; <pr>xi&#x1CE;ng</pr></trd>
+</snc>
+  <rim>
+    La esenca trajto de <em>hela</em> estas la lumeco, tiu de
+    <em>klara</em> estas la distingebleco; tial oni ne uzas
+    <em>hela</em> pri penso a&ubreve; spirito.
+  </rim>
+  <trd lng="af">helder</trd>
+  <trd lng="am">&#x1265;&#x1229;&#x1205;</trd>
+  <trd lng="ar">&a_m;&a_sh;&a_r;&a_q;</trd>
+  <trd lng="az">parlaq</trd>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_v;&c_je;&c_t;&c_l;&c_y;</trd>,
+    <trd>&c_ja;&c_r;&c_k;&c_ib;</trd>,
+    <trd>&c_ja;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x989;&#x99C;&#x9CD;&#x99C;&#x9CD;&#x9AC;&#x9B2;</trd>
+  <trd lng="bo">&#xF60;&#xF7C;&#xF51;&#xF0B;&#xF46;&#xF7A;&#xF53;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
+  <trd lng="bs">svijetle</trd>
+  <trd lng="ca">clar</trd>
+  <trd lng="co">luminosu</trd>
+  <trd lng="cs">sv&ecaron;tl&yacute;</trd>
+  <trd lng="cy">llachar</trd>
+  <trd lng="da">lyse</trd>
+  <trd lng="de">hell</trd>
+  <trd lng="en">bright</trd>
+  <trdgrp lng="es">
+    <trd>claro</trd>,
+    <trd>luminoso</trd>,
+    <trd>brillante</trd>
+  </trdgrp>
+  <trd lng="et">ere</trd>
+  <trd lng="eu">distiratsua</trd>
+  <trdgrp lng="fr">
+    <trd>clair<klr tip="ind"> (lumineux)</klr></trd>,
+    <trd>&eacute;clair&eacute;<klr tip="ind"> (lumineux)</klr></trd>,
+    <trd>lumineux</trd>
+  </trdgrp>
+  <trd lng="fy">helder</trd>
+  <trd lng="ga">geal</trd>
+  <trd lng="gd">soilleir</trd>
+  <trd lng="gl">brillante</trd>
+  <trd lng="gu">&#xAA4;&#xAC7;&#xA9C;&#xAB8;&#xACD;&#xAB5;&#xAC0;</trd>
+  <trd lng="ha">haske</trd>
+  <trd lng="hi">&#x909;&#x91C;&#x94D;&#x91C;&#x94D;&#x935;&#x932;</trd>
+  <trd lng="hmn">kaj</trd>
+  <trd lng="hr">svijetle</trd>
+  <trd lng="ht">klere</trd>
+  <trd lng="hy">&#x57A;&#x561;&#x575;&#x56E;&#x561;&#x57C;</trd>
+  <trd lng="ig">enwu enwu,</trd>
+  <trd lng="is">bj&#xF6;rt</trd>
+  <trd lng="ja">&#x660E;&#x308B;&#x3044; <pr>&#x3042;&#x304B;&#x308B;&#x3044;</pr></trd>
+  <trd lng="jv">padhang</trd>
+  <trd lng="ka">&#x10DC;&#x10D0;&#x10D7;&#x10D4;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&c_a;&c_sh;&#x44B;&#x49B;</trd>
+  <trd lng="km">&#x1797;&#x17D2;&#x179B;&#x17BA;</trd>
+  <trd lng="kn">&#xCAA;&#xCCD;&#xCB0;&#xC95;&#xCBE;&#xCB6;&#xCAE;&#xCBE;&#xCA8;&#xCB5;&#xCBE;&#xCA6;</trd>
+  <trd lng="ko">&#xBC1D;&#xC740;</trd>
+  <trd lng="ku">ron&#xEE;</trd>
+  <trd lng="ky">&c_zh;&c_a;&c_r;&#x43A;&#x44B;&c_r;&c_a;&#x43A;</trd>
+  <trd lng="lat">splendidum</trd>
+  <trd lng="lo">&#xEAA;&#xEBB;&#xE94;&#xEC3;&#xEAA;</trd>
+  <trd lng="lt">&scaron;viesus</trd>
+  <trd lng="lv">spilgti</trd>
+  <trd lng="mg">mamirapiratra</trd>
+  <trd lng="mi">kanapa</trd>
+  <trd lng="mk">&c_s;&c_v;&c_je;&c_t;&#x43B;&c_a;</trd>
+  <trd lng="ml">&#xD24;&#xD3F;&#xD33;&#xD19;&#xD4D;&#xD19;&#xD41;&#xD28;&#xD4D;&#xD28;</trd>
+  <trd lng="mn">&c_g;&#x44D;&c_r;&#x44D;&#x43B; &c_g;&#x44D;&c_g;&#x44D;&#x44D;&c_t;&#x44D;&c_j;</trd>
+  <trd lng="mr">&#x924;&#x947;&#x91C;&#x938;&#x94D;&#x935;&#x940;</trd>
+  <trd lng="ms">terang</trd>
+  <trd lng="my">&#x1015;&#x103C;&#x1031;&#x102C;&#x1004;&#x103A;&#x101C;&#x1000;&#x103A;&#x1010;&#x1031;&#x102C;&#x1000;&#x103A;&#x1015;&#x101E;&#x1031;&#x102C;</trd>
+  <trd lng="ne">&#x909;&#x91C;&#x94D;&#x91C;&#x94D;&#x935;&#x932;</trd>
+  <trd lng="ny">yowala</trd>
+  <trd lng="oc">clar</trd>
+  <trd lng="pa">&#xA1A;&#xA2E;&#xA15;&#xA26;&#xA3E;&#xA30;</trd>
+  <trd lng="ps">&a_r;&a_w;&#x69A;&a_A;&a_n;&a_h;</trd>
+  <trd lng="pt">claro<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="rw">umucyo</trd>
+  <trd lng="sd">&a_r;&a_w;&a_sh;&a_n;</trd>
+  <trd lng="si">&#xDAF;&#xDD3;&#xDB4;&#xDCA;&#xDAD;&#xDD2;&#xDB8;&#xDAD;&#xDCA;</trd>
+  <trd lng="sl">svetla</trd>
+  <trd lng="sm">pupula</trd>
+  <trd lng="sn">jeka</trd>
+  <trd lng="so">dhalaalaya</trd>
+  <trd lng="sq">ndritshme</trd>
+  <trd lng="st">e khanyang</trd>
+  <trd lng="su">caang</trd>
+  <trd lng="sw">mkali</trd>
+  <trd lng="ta">&#xBAA;&#xBBF;&#xBB0;&#xB95;&#xBBE;&#xB9A;&#xBAE;&#xBBE;&#xBA9;</trd>
+  <trd lng="te">&#xC2C;&#xC4D;&#xC30;&#xC48;&#xC1F;&#xC4D;</trd>
+  <trd lng="tg">&c_r;&c_a;&c_v;&c_sh;&c_a;&#x43D;</trd>
+  <trd lng="th">&#xE2A;&#xE14;&#xE43;&#xE2A;</trd>
+  <trd lng="tl">maliwanag</trd>
+  <trd lng="tt">&#x44F;&#x43A;&c_t;&#x44B;</trd>
+  <trd lng="uk">&#x44F;&c_s;&#x43A;&c_r;&c_a;&c_v;&c_i;&c_j;</trd>
+  <trd lng="ur">&a_r;&a_w;&a_sh;&a_n;</trd>
+  <trd lng="uz">yorug &#x2018;</trd>
+  <trd lng="vi">s&#xE1;ng</trd>
+  <trd lng="vo">klilik</trd>
+  <trdgrp lng="sk">
+    <trd>jasn&yacute;</trd>,
+    <trd>svetl&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jasn&yacute;</trd>,
+    <trd>sv&ecaron;tl&yacute;</trd>
+  </trdgrp>
+  <trd lng="xh">eliqaqambileyo</trd>
+  <trd lng="yi">&#x5DC;&#x5D9;&#x5DB;&#x5D8;&#x5D9;&#x5E7;</trd>
+  <trd lng="yo">im&#x1ECD;l&#x1EB9;</trd>
+  <trd lng="zu">egqamile</trd>
+</drv>
+
+<drv mrk="hel.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="hel.0eco.KOMUNE">
+    <dif>
+      Eco de io <tld/>a:
+      <ekz>
+        ni havas <tld/>econ nokte, kiam brilas luno<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ja;&c_r;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>jasnost</trd>,
+    <trd>sv&ecaron;tlost</trd>
+  </trdgrp>
+  <trd lng="de">Helligkeit</trd>
+  <trdgrp lng="es">
+    <trd>claridad</trd>,
+    <trd>luminosidad</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>luminosit&eacute;</trd>,
+    <trd>clart&eacute;<klr tip="ind"> (luminosit&eacute;)</klr></trd>,
+    <trd>lumi&egrave;re<klr tip="ind"> (luminosit&eacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>luminosit&agrave;</trd>,
+    <trd>chiarezza<klr> (luce)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x660E;&#x308B;&#x3055;  <pr>&#x3042;&#x304B;&#x308B;&#x3055;</pr></trd>,
+    <trd>&#x660E;&#x5EA6;  <pr>&#x3081;&#x3044;&#x3069;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">helderheid</trd>
+  <trd lng="pt">claridade</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_v;&c_je;&c_t;</trd>,
+    <trd>&c_s;&c_v;&c_je;&c_t;&c_l;&c_o;&c_t;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>jasnos&tcaron;</trd>,
+    <trd>svetlos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x44F;&c_s;&#x43A;&c_r;&c_a;&c_v;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&#x44F;&c_s;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4EAE;&#x5EA6; <pr>li&#xE0;ngd&#xF9;</pr></trd>,
+    <trd>&#x5149;&#x5EA6; <pr>gu&#x101;ngd&#xF9;</pr></trd>,
+    <trd>&#x8F1D;&#x714C; <pr>hu&#x12B;hu&#xE1;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hel.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="hel.0igi.KOMUNE">
+    <dif>
+      Igi ion <tld/>a:
+      <ekz>
+        la lampo <tld/>igas la &ccirc;ambron;
+      </ekz><ekz>
+        dis<tld/>igu la fajron<fnt>Z</fnt>
+        <klr>(igu <tld/>a ekscitante &gcirc;in)</klr>;
+      </ekz><ekz>
+        <tld/>igi fotografa&jcirc;on per bano.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_ja;&c_s;&c_mol;&c_n;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>rozjasnit</trd>,
+    <trd>zesv&ecaron;tlit</trd>,
+    <trd>zjasnit</trd>
+  </trdgrp>
+  <trd lng="de">erhellen</trd>
+  <trd lng="es">aclarar</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;clairer</trd>,
+    <trd>&eacute;claircir</trd>,
+    <trd>illuminer</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>rischiarare</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x660E;&#x308B;&#x304F;&#x3059;&#x308B;  <pr>&#x3042;&#x304B;&#x308B;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x8584;&#x304F;&#x3059;&#x308B;  <pr>&#x3046;&#x3059;&#x304F;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">verlichten</trd>
+  <trd lng="pt">clarear</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_s;&c_v;&c_je;&c_t;&c_l;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_ja;&c_s;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>osvetli&tcaron;</trd>,
+    <trd>zjasni&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_s;&c_v;&c_ib;&c_t;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_s;&c_v;&c_ib;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &#x44F;&c_s;&#x43A;&c_r;&c_a;&c_v;&c_i;&#x43C;</trd>,
+    <trd>&c_s;&c_v;&c_ib;&c_t;&#x43B;&c_i;&#x43C;</trd>,
+    <trd>&#x44F;&c_s;&#x43D;&c_i;&#x43C;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7167;&#x5C04; <pr>zh&#xE0;osh&#xE8;</pr></trd>,
+    <trd>&#x7167;&#x4EAE; <pr>zh&#xE0;oli&#xE0;ng</pr></trd>,
+    <trd>&#x8FEA; <pr>d&#xED;</pr></trd>,
+    <trd>&#x70B9;&#x4EAE; <pr>di&#x1CE;nli&#xE0;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hel.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="hel.0igxi.KOMUNE">
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      I&gcirc;i <tld/>a:
+      <ekz>
+        la vetero <tld/>i&gcirc;as;
+      </ekz><ekz>
+        lia zorgoplena viza&gcirc;o <tld/>i&gcirc;is.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>,
+      <trd>&c_p;&c_r;&c_a;&c_ja;&c_s;&c_mol;&c_n;&c_ja;&c_c;&c_c;&c_a;</trd>
+    </trdgrp>
+    <trd lng="es">aclararse</trd>
+    <trdgrp lng="fr">
+      <trd>s'<ind>&eacute;clairer</ind></trd>,
+      <trd>s'<ind>&eacute;claircir</ind></trd>,
+      <trd>s'<ind>illuminer</ind></trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>rischiararsi</trd>
+    </trdgrp>
+    <trd lng="nl">opklaren</trd>
+    <trd lng="pt">clarear-se</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_v;&c_je;&c_t;&c_l;&c_je;&c_t;&c_mol;</trd>,
+      <trd>&c_ja;&c_s;&c_n;&c_je;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_o;&c_ja;&c_s;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="hel.0igxi.MET">
+    <gra>sensubjekta</gra>
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      I&gcirc;i <tld/>e:
+      <ekz>
+        <tld/>i&gcirc;is iom post iom, la nokto malaperas
+        <fnt>
+          <aut>H. Laxness, trad. B. Ragnarsson</aut>
+          <vrk>Sendependaj homoj</vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_n;&c_je;&c_c;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x660E;&#x308B;&#x304F;&#x306A;&#x308B;  <pr>&#x3042;&#x304B;&#x308B;&#x304F;&#x306A;&#x308B;</pr></trd>,
+    <trd>&#x8584;&#x304F;&#x306A;&#x308B;  <pr>&#x3046;&#x3059;&#x304F;&#x306A;&#x308B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hel.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="hel.mal0a.senluma">
+    <dif>
+      En kiu mankas lumo:
+      <ekz>
+        <ind>mal<tld/>a</ind> arbaro, muro, karcero, nokto, vetero.
+      </ekz>
+    </dif>
+    <trd lng="de">dunkel</trd>
+    <trdgrp lng="es"><trd>oscuro</trd></trdgrp>
+    <trdgrp lng="it"><trd>oscuro</trd>, <trd>cupo</trd></trdgrp>
+    <trd lng="vo">dagik</trd>
+  </snc>
+  <snc mrk="hel.mal0a.nigreca">
+    <dif>
+      Kolore proksima al nigro:
+      <ekz>
+        mal<tld/>e oraj haroj.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="hel.mal0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Malgaja, preme mal&gcirc;ojiga, eventuale e&ccirc; minaca:
+      <ekz>
+        La efektiva&jcirc;o ja &ccirc;iam estas mal<tld/>a kaj malbela la&ubreve; la
+        pesimistoj
+        <fnt><aut>Valdemar Langlet</aut>: <vrk>Voja&gcirc;impresoj</vrk>.
+          <lok>Lingvo Internacia, septembro 1896.</lok>
+        </fnt>;
+      </ekz><ekz>
+        Tiuhore &gcirc;i <klr>(Moskvo)</klr> estas antikva maljunulino,
+        silente atestanta la mal<tld/>an historion de la rusa popolo
+        <fnt><bib>Metrop</bib></fnt>;
+      </ekz><ekz>
+        la kampulo, kiu atendis humile, sed kun mal<tld/>a mieno
+        <fnt><aut>Ferenc Szil&aacute;gyi</aut>:
+          <vrk>La sekreto de la banko</vrk>.
+          <lok>En: Koko krias jam!, La Laguna 1955</lok></fnt>;
+      </ekz><ekz>
+        La perspektivoj estas des pli mal<tld/>aj, ke Britujo
+        <klr>&#x2026;</klr> forlasas la Union
+        <fnt><lok>Le Monde diplomatique en Esperanto 2017-2019</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_m;&c_r;&c_a;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </snc>
+
+  <snc mrk="hel.mal0a.SON">
+    <dif>
+      Sone obtuza, malalta kaj malfacile distingebla.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_jo;&c_m;&c_n;&c_y;</trd>,
+    <trd>&c_c;&c_mol;&c_m;&c_ja;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_h;&c_m;&c_u;&c_r;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kaln&yacute;</trd>,
+    <trd>tmav&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>sombr&iacute;o</trd>,
+    <trd>oscuro</trd>,
+    <trd>siniestro</trd>,
+    <trd>funesto</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>sombre</trd>,
+    <trd>fonc&eacute;</trd>,
+    <trd>obscur</trd>,
+    <trd>sinistre</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8584;&#x6697;&#x3044;  <pr>&#x3046;&#x3059;&#x3050;&#x3089;&#x3044;</pr></trd>,
+    <trd>&#x66C7;&#x3063;&#x305F;  <pr>&#x304F;&#x3082;&#x3063;&#x305F;</pr></trd>,
+    <trd>&#x6697;&#x3044;  <pr>&#x304F;&#x3089;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_jo;&c_m;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">tmav&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_je;&#x43C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_t;&#x44C;&#x43C;&#x44F;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_t;&#x44C;&#x43C;&c_a;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&#x43E;&c_h;&#x43C;&c_u;&c_r;&c_i;&c_j;</trd>,
+    <trd>&#x43C;&c_u;&c_t;&#x43D;&c_i;&c_j;</trd>,
+    <trd>(&#x43F;&c_r;&#x43E; &c_g;&#x43E;&#x43B;&#x43E;&c_s;) &#x43D;&c_i;&c_z;&#x44C;&#x43A;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x51A5; <pr>m&#xED;ng</pr></trd>,
+    <trd>&#x660F;&#x6697; <pr>h&#x16B;n&#xE0;n</pr></trd>,
+    <trd>&#x4E4C; <pr>w&#x16B;</pr></trd>,
+    <trd>&#x609C; <pr>ch&#x11B;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hel.mal0igi">
+  <kap>mal<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="hel.mal0igi.KOMUNE">
+    <dif>
+      Igi mal<tld/>a:
+      <ekz>
+        tiu sciigo mal<tld/>igis la &gcirc;ojan feston.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_c;&c_ja;&c_m;&c_n;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_z;&c_m;&c_r;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">ztmavit</trd>
+  <trdgrp lng="es">
+    <trd>ensombrecer</trd>,
+    <trd>oscurecer</trd>
+  </trdgrp>
+  <trd lng="fr">assombrir</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8584;&#x6697;&#x304F;&#x3059;&#x308B;  <pr>&#x3046;&#x3059;&#x3050;&#x3089;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x304B;&#x3052;&#x3089;&#x305B;&#x308B;</trd>
+  </trdgrp>
+  <trd lng="sk">stmavi&tcaron;</trd>
+  <trd lng="ru">&c_o;&c_m;&c_r;&c_a;&c_ch;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_t;&c_je;&#x43C;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_t;&#x44C;&#x43C;&c_a;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_h;&#x43C;&c_a;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hel.mal0igxi">
+  <kap>mal<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="hel.mal0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i mal<tld/>a:
+      <ekz>
+        mal<tld/>i&gcirc;inta koloro;
+      </ekz><ekz>
+        venas nigraj nuboj, mal<tld/>i&gcirc;as mondo
+        <fnt>
+          <aut>S. Pet&odblac;fi, trad. K. Kalocsay</aut>,
+          <vrk><url ref="http://www.egalite.hu/kalocsay/petofi/johano%20la%20brava.htm">
+          Johano la brava</url></vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_ja;&c_m;&c_n;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_c;&c_ja;&c_m;&c_n;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_c;&c_mol;&c_m;&c_ja;&c_n;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_z;&c_m;&c_r;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd><ind>ensombrecer</ind>se</trd>,
+    <trd><ind>oscurecer</ind>se</trd>
+  </trdgrp>
+  <trd lng="fr">s'<ind>assombrir</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8584;&#x6697;&#x304F;&#x306A;&#x308B;  <pr>&#x3046;&#x3059;&#x3050;&#x3089;&#x304F;&#x306A;&#x308B;</pr></trd>,
+    <trd>&#x304B;&#x3052;&#x308B;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_t;&c_je;&c_m;&c_n;&c_je;&c_t;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.111 2023/10/16 05:12:01
+revo: transskribo per <pr>
+
+versio 1.109 2023/08/29 20:27:39
+Wolfram Diestel: ja: prononco
+
+versio 1.108 2022/05/31 07:31:22
+Dmitri Gabinski: + trd be
+
+versio 1.107 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.104 2021/09/14 14:36:56
+Sergio Pokrovskij: +mal~a.FIG
+
+versio 1.28 2020/12/14 20:37:14
+Jeromo Vasxe: ~igxi + sensubjekta
+
+Revision 1.26  2015/12/18 07:10:17  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.25  2015/07/04 08:37:35  revo
+-->
+</vortaro>

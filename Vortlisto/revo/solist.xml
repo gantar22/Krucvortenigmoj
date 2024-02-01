@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: solist.xml,v 1.24 2023/09/25 22:25:52 revo Exp $">
+<kap>
+   <ofc>1</ofc>
+   <rad>solist</rad>/o
+</kap>
+<drv mrk="solist.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="solist.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="super" cel="muzik.0isto">Muzikisto</ref>
+      a&ubreve; <ref tip="super" cel="kant.0isto.profesio">kantisto</ref>, kiu ludas sole:
+      <ekz>
+        la nove preparitan a&ubreve;toran version prezentis <tld/>oj de la moskva teatro
+        <nom>Gelikon-opera</nom> en la Moskva Internacia Muzikdomo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Anna kaj Mati Pentus</aut>
+          <vrk><url ref="&Monato;/2011/010539.php">Princo Igor neniam a&ubreve;dita</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;Gor&gcirc;o-n 2000&rightquot; partoprenis kantistoj, operaj <tld/>oj kaj futbal&scirc;atantoj
+        <fnt><aut>LAST</aut>,
+        <vrk><url ref="&Monato;/2000/006954.php">Kri-konkurso</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/10, p. 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="sol.0o">solo</ref>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_l;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="ca">solista</trd>
+  <trd lng="cs">s&oacute;lista</trd>
+  <trd lng="de">Solist</trd>
+  <trd lng="en">soloist</trd>
+  <trd lng="es">solista</trd>
+  <trd lng="fr">soliste</trd>
+  <trdgrp lng="hu">
+     <trd>sz&oacute;lista</trd>,
+     <trd>sz&oacute;l&oacute;j&aacute;t&eacute;kos</trd>,
+     <trd>sz&oacute;l&oacute;&eacute;nekes</trd>
+   </trdgrp>
+  <trd lng="it">solista</trd>
+  <trd lng="ja">&#x30BD;&#x30EA;&#x30B9;&#x30C8;</trd>
+  <trd lng="nl">solist</trd>
+  <trd lng="pl">solista</trd>
+  <trd lng="ru">&c_s;&c_o;&c_l;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">s&oacute;lista</trd>
+  <trd lng="uk">&c_s;&#x43E;&#x43B;&c_ib;&c_s;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/09/25 22:25:52
+Vito Redsky: +trd pl 
+
+versio 1.22 2023/04/27 10:31:24
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.21 2023/03/21 07:24:58
+Wolfram Diestel: +ref
+
+versio 1.20 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.17  2018/12/28 17:10:16  revo
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.16  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/05/28 16:30:42  revo
+-->
+</vortaro>

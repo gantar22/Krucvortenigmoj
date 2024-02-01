@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sxarg.xml,v 1.113 2023/12/10 01:40:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&scirc;arg</rad>/i
+</kap>
+
+<drv mrk="sxarg.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sxarg.0i.aparaton">
+    <dif>
+      Provizi aparaton je konsuma&jcirc;o, forto, energio necesa por
+      &gcirc;ia
+      funkciado:
+      <ekz>
+        <tld/>i akumulatoron, fotokameron, kondensatoron.
+      </ekz>
+    </dif>
+    <subsnc mrk="sxarg.0i.pafilon">
+      <dif>
+        Enmeti eksploda&jcirc;on kaj pafa&jcirc;on en ian ajn pafilon:
+        <ekz>
+          la &ccirc;asisto <klr>[&#8230;]</klr> de&scirc;iris de sia vesto tri ar&gcirc;entajn butonojn, <tld/>is per ili la
+          pafilon kaj pafis
+          <fnt>
+            <bib>ElektFab</bib>
+            <lok>Du fratoj</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          li bezonis nur alpremi risorton, tiam miloj da kugloj flugis al sia celo, kaj la pafiloj
+          tuj denove <tld/>i&gcirc;is
+          <fnt>
+            <bib>Fab4</bib>
+            <lok>Malbona princo (Legendo)</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          li propramane finis <tld/>i la kanonon
+          <fnt>
+          <aut>Edward Everett Hale, trad. E. L. Robinson, trad. Don
+          Harlow</aut>,
+          <vrk>
+            <url
+            ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/La_Viro_Senpatria.html">La
+            viro senpatria</url></vrk>,
+          <lok>1907 kaj 1994</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_z;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_a;&c_c;&c_mol;</trd>
+      <trd lng="en">to load</trd>
+      <trdgrp lng="es">
+        <trd>cargar<klr> (un arma)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">megt&ouml;lt<klr tip="ind"> (pl.
+        pusk&aacute;t)</klr>
+      </trd>
+      <trd lng="ru">&c_z;&c_a;&c_r;&c_ja;&c_zh;&c_a;&c_t;&c_mol;</trd>
+    </subsnc>
+    <subsnc mrk="sxarg.0i.ELE">
+      <uzo tip="fak">ELE</uzo>
+      <dif>
+        Provizi elektran fonton, ekz. akumulatoron:
+        <ekz>
+          la uzo de re<tld/>eblaj piloj estus e&ccirc; pli bona, ol la reportado de malplenaj ekzempleroj
+          <klr>(al la vendejo)</klr>
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Pa&ubreve;l Peeraerts</aut>
+            <vrk><url ref="&Monato;/2008/009656.php">Belgio pintas</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          &gcirc;i havas akumulatoron kun kapacito sufi&ccirc;a por tuta tago, tiel ke sufi&ccirc;as &ccirc;iunokte remeti
+          la tabulon en &gcirc;ian <tld/>odokon
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Franck Arnaud</aut>
+            <vrk><url ref="&Monato;/2010/010076.php">Parto 3: Apple iPad &dash; &ccirc;u revolucio a&ubreve;
+            evolucio?</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          mal&scirc;argi&gcirc;inta baterio
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2014/011240.php">Elektro elektita</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          pere de indukto oni povas <tld/>i elektran dentobroson sen konektilo
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Ivo Durwael</aut>
+            <vrk><url ref="&Monato;/2011/010227.php">Magia tapi&scirc;o</url></vrk>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="de">aufladen <klr>(mit Strom)</klr></trd>
+    </subsnc>
+    <subsnc mrk="sxarg.0i.KOMP">
+      <uzo tip="fak">KOMP</uzo>
+      <dif>
+        Provizi koncernan parton de komputila memoro je datumo
+        necesa (programo, tiparo, valoro de variablo) por plua
+        komputado.
+      </dif>
+      <trdgrp lng="de">
+        <trd>einlesen</trd>,
+        <trd>ein Programm <ind>laden</ind></trd>,
+        <trd/>
+      </trdgrp>
+      <trd lng="be">&c_z;&c_a;&c_g;&c_r;&c_u;&c_zh;&c_a;&c_c;&c_mol;
+<klr>(&c_n;&c_je;&c_sh;&c_t;&c_a; &c_w;
+&c_k;&c_a;&c_m;&c_p;&c_u;&c_t;&c_a;&c_r;&c_n;&c_u;&c_ju;
+      &c_p;&c_a;&c_m;&c_ja;&c_c;&c_mol;)</klr></trd>
+      <trd lng="en">to load</trd>
+      <trd lng="es">cargar</trd>
+      <trd lng="hu">be&ouml;lt<klr tip="ind"> (pl.
+      programot)</klr></trd>
+      <trd lng="ru">&c_z;&c_a;&c_g;&c_r;&c_u;&c_zh;&c_a;&c_t;&c_mol;</trd>
+    </subsnc>
+    <trd lng="be">&c_z;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd>best&uuml;cken</trd>,
+      <trd/>
+    </trdgrp>
+    <trd lng="hu">felt&ouml;lt<klr tip="ind"> (pl. akkut)</klr></trd>
+    <trd lng="ru">&c_z;&c_a;&c_r;&c_ja;&c_zh;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="sxarg.0i.sxargxi">
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      Provizi per, ofte peza, transporta&jcirc;o; <ref tip="dif" cel="sxargx.0i">&scirc;ar&gcirc;i</ref>:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        li proksimi&gcirc;is kaj rekonis siajn fratojn, kies konscienco estis <tld/>ita per multaj kulpoj
+        kaj kiuj perdis sian tutan havon
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La ora birdo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">beladen</trd>
+  </snc>
+  <rim>
+    La &gcirc;enerala regmodelo de la verbo estas kiel tiu de
+    <ctl>plenigi</ctl>:
+    <ekz>
+      <tld/>i pafilon per kuglo.
+    </ekz>
+    Tamen la&ubreve; la angla modelo komputikistoj ofte uzas <tld/>i
+    simile
+    al <ref tip="sin" cel="leg.0i.KOMP_el_memoro">legi</ref>:
+    <ekz>
+      <tld/>i programon en la &ccirc;efmemoron,
+    </ekz>
+    <ekz>
+      <tld/>ebla tiparo
+    </ekz>
+    (kio estas same stranga kiel <ctl><tld/>ebla kuglo</ctl>).
+    Aliflanke, <ctl><tld/>i per</ctl> &scirc;ajnas enkonduki ilon por
+    <tld/>ado; tial
+    <ekz>
+      <tld/>i ion <em>je</em> io per <tld/>ilo
+    </ekz>
+    estas preferinda.
+  </rim>
+  <trd lng="af">hef</trd>
+  <trd lng="am">&#x12AD;&#x134D;&#x12EB;</trd>
+  <trd lng="ar">&a_t;&a_h;&a_m;&a_t_marbuta;</trd>
+  <trd lng="az">ittiham</trd>
+  <trd lng="bg">&c_z;&c_a;&c_r;&c_je;&c_zh;&c_d;&c_a;&c_m;</trd>
+  <trd lng="bn">&#x99A;&#x9BE;&#x9B0;&#x9CD;&#x99C;</trd>
+  <trd lng="bs">napunite</trd>
+  <trd lng="ca">carregar</trd>
+  <trd lng="co">in prigi&ograve;</trd>
+  <trd lng="cy">codi t&acirc;l</trd>
+  <trd lng="da">oplade</trd>
+  <trd lng="de">laden</trd>
+  <trdgrp lng="en"><trd>to charge</trd>, <trd>to load</trd></trdgrp>
+  <trd lng="es">cargar</trd>
+  <trd lng="et">tasuta</trd>
+  <trd lng="eu">kobratzen</trd>
+  <trd lng="fr">charger</trd>
+  <trd lng="fy">kosten</trd>
+  <trd lng="ga">muirear</trd>
+  <trd lng="gd">cosgais</trd>
+  <trd lng="gl">cobrar</trd>
+  <trd lng="gu">&#xA9A;&#xABE;&#xAB0;&#xACD;&#xA9C;</trd>
+  <trd lng="ha">cajin</trd>
+  <trd lng="hi">&#x91A;&#x93E;&#2352;&#x94D;&#x91C;</trd>
+  <trd lng="hmn">them</trd>
+  <trd lng="hr">naplatiti</trd>
+  <trd lng="ht">chaje</trd>
+  <trd lng="hy">&#1377;&#1398;&#x57E;&#1395;&#1377;&#1408;</trd>
+  <trd lng="ig">ana</trd>
+  <trd lng="is">&aacute;k&aelig;ra</trd>
+  <trd lng="it">caricare</trd>
+  <trd lng="ja">&#20805;&#x96FB; <pr>&#12376;&#12421;&#12358;&#12391;&#12435;</pr></trd>
+  <trd lng="jv">ngisi daya</trd>
+  <trd lng="ka">&#x10D3;&#x10D0;&#x10D0;&#x10D9;&#x10D8;&#x10E1;&#x10E0;&#x10DD;&#x10E1;</trd>
+  <trd lng="kk">&c_t;&#x4E9;&c_l;&c_je;&c_m;</trd>
+  <trd lng="km">&#x179F;&#x17B6;&#6016;</trd>
+  <trd lng="kn">&#xC9A;&#xCBE;&#xCB0;&#xCCD;&#xC9C;&#xCCD;</trd>
+  <trd lng="ko">&#xCDA9;&#xC804;</trd>
+  <trd lng="ku">biha</trd>
+  <trd lng="ky">&c_k;&#x4AF;&c_n;&#x4E9;&#x4E9;</trd>
+  <trd lng="lo">&#xEC4;&#xEA5;&#xEC8;&#xEC0;&#xEAD;&#xEBB;&#xEB2;</trd>
+  <trd lng="lt">imti</trd>
+  <trd lng="lv">maksa</trd>
+  <trd lng="mg">mampianiana</trd>
+  <trd lng="mi">he ki atu tenei</trd>
+  <trd lng="mk">&c_n;&c_a;&c_p;&c_l;&c_a;&#x45C;&c_a;&c_a;&c_t;</trd>
+  <trd lng="ml">&#xD1A;&#xD3E;&#xD7C;&#xD1C;&#xD4D;&#xD1C;&#xD4D;</trd>
+  <trd lng="mn">&#x4AF;&c_n;&c_e;</trd>
+  <trd lng="mr">&#2358;&#2369;&#2354;&#x94D;&#2325; &#2310;&#2325;&#x93E;&#2352;&#2370;</trd>
+  <trd lng="ms">caj</trd>
+  <trd lng="mt">&#295;las</trd>
+  <trd lng="my">&#4112;&#x102C;&#x101D;&#4116;&#x103A;&#4097;&#4150;</trd>
+  <trd lng="ne">&#2358;&#2369;&#2354;&#x94D;&#2325;</trd>
+  <trd lng="nl">laden</trd>
+  <trd lng="ny">azilipiritsa</trd>
+  <trd lng="pa">&#xA1A;&#xA3E;&#xA30;&#xA1C;</trd>
+  <trdgrp lng="pl">
+    <trd>&lstroke;adowa&cacute;  <klr>(akumulator)</klr></trd>,
+    <trd>&sacute;ci&aogonek;ga&cacute;  <klr>(pliki)</klr></trd>
+  </trdgrp>
+  <trd lng="ps">&a_A;&a_kh;&a_l;&a_y;</trd>
+  <trd lng="pt">carregar</trd>
+  <trd lng="rw">kwishyuza</trd>
+  <trd lng="sd">&f_ch;&a_A;&a_r;&a_j;</trd>
+  <trd lng="si">&#xDB7;&#xDCF;&#xDBB;</trd>
+  <trd lng="sl">zara&ccaron;una</trd>
+  <trd lng="sm">tau</trd>
+  <trd lng="sn">murandu</trd>
+  <trd lng="so">ka qaadaan</trd>
+  <trd lng="sq">ngarkuar</trd>
+  <trd lng="st">laela ka</trd>
+  <trd lng="su">ngeusian</trd>
+  <trd lng="sw">malipo</trd>
+  <trd lng="ta">&#xBB5;&#xB9A;&#xBC2;&#xBB2;&#xBBF;&#xB95;&#xBCD;&#xB95;</trd>
+  <trd lng="te">&#xC35;&#xC38;&#xC42;&#xC32;&#xC41;</trd>
+  <trd lng="tg">&c_p;&c_a;&c_r;&c_d;&c_o;&c_h;&c_t;&c_r;&c_o;</trd>
+  <trd
+  lng="th">&#xE04;&#xE34;&#xE14;&#xE04;&#xE48;&#xE32;&#xE43;&#xE0A;&#xE49;&#xE08;&#xE48;&#xE32;&#xE22;</trd>
+  <trd lng="tl">sumingil</trd>
+  <trd lng="tt">&c_z;&c_a;&c_r;&c_ja;&c_d;</trd>
+  <trd lng="uk">&c_z;&c_a;&c_r;&c_ja;&c_d;&c_k;&c_i;</trd>
+  <trd lng="ur">&f_ch;&a_A;&a_r;&a_j;</trd>
+  <trd lng="uz">ayblash</trd>
+  <trd lng="vi">ph&iacute;</trd>
+  <trd lng="xh">intlawulo</trd>
+  <trd lng="yi">&alef;&#x5B8;&pe;&#x5BC;&tsadi;&alef;&#x5B8;&lamed;</trd>
+  <trd lng="yo">gba agbara si</trd>
+  <trd lng="zu">gcwalisa</trd>
+</drv>
+
+<drv mrk="sxarg.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sxarg.0o.pafilo">
+    <dif>
+      Eksploda&jcirc;o kaj <ref cel="paf.0ajxo">pafa&jcirc;o</ref> enmetebla en ian ajn pafilon:
+      <ekz>
+        la &ccirc;as&scirc;telisto sin preparas pafi sian duan <tld/>on
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Kvara</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Ladung<klr> (Munition)</klr></trd>
+    <trdgrp lng="en">
+      <trd>load</trd>,
+      <trd>charge</trd>
+    </trdgrp>
+    <trd lng="hu">t&ouml;lt&eacute;ny</trd>
+  </snc>
+  <snc mrk="sxarg.0o.aparato">
+    <dif>
+      Forto a&ubreve; io necesa por funkciigi aparaton:
+      <ekz>
+        <tld/>o de akumulatoro, de fotokamero.
+      </ekz>
+    </dif>
+    <trd lng="en">charge</trd>
+  </snc>
+  <snc mrk="sxarg.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <subsnc mrk="sxarg.0o.korpo">
+      <dif>
+        &Ccirc;ia korpo, kiu pasante en
+        <ref cel="elektr.0akampo.spaco">elektra kampo</ref>, devias de
+        sia anta&ubreve;a trajektorio:
+        <ekz>
+          <tld/>o estas korpo, kies nombro de elektronoj malsamas
+          kun la nombro de protonoj.
+        </ekz>
+      </dif>
+      <rim>
+        Por &ccirc;i tiu senco oni diras anka&ubreve;
+        &leftquot;<tld/>ita
+        korpo&rightquot;.
+      </rim>
+      <adm>
+        Trovi auxtoritatajn fontojn por tiu senco kaj por
+        "~ita korpo", se eblas. <aut>MB</aut>
+      </adm>
+    </subsnc>
+    <subsnc mrk="sxarg.0o.grando">
+      <dif>
+        <ref tip="super" cel="grand.fizika0o">Fizika grando</ref>,
+        esprimanta la
+        direkton kaj intenson de devio de <tld/>o <sncref ref="sxarg.0o.korpo"/>
+        en elektra kampo kaj anka&ubreve; la produton de
+        <ref cel="kurent.0intenso">kurentintenso</ref> per la tempo, dum
+        kiu pasis la koncerna kurento:
+        <ekz>
+          la <ref cel="dimens.0o.FIZ">dimensioj</ref> de <tld/>o estas
+          <frm>M<sup>0</sup>L<sup>0</sup>T<sup>1</sup>I<sup>1</sup></frm>;
+        </ekz>
+        <ekz>
+          protonoj havas pozitivan elektran <tld/>on kaj ke elektronoj havas negativan elektran
+          <tld/>on
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Pejno Simono</aut>
+            <vrk><url ref="&Monato;/2011/010370.php">Moderna minaco: radioaktiveco</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/>o de kondensatoro;
+        </ekz>
+        <ekz>
+           la grandega negativa <tld/>o de la kvazaro
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Henry Broadbent</aut>
+            <vrk><url ref="&Monato;/2008/009493.php">Flankeniro al la ru&gcirc;o</url></vrk>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="sin">
+        <ref cel="elektr.0okvanto">elektrokvanto</ref>.
+      </refgrp>
+      <refgrp tip="vid">
+        <ref cel="kulomb.k0o">kulombo</ref>.
+      </refgrp>
+    </subsnc>
+    <trd lng="en">charge</trd>
+      <adm>
+        PIV1 nomas tiun grandon "sxarganco". <aut>MB</aut>
+      </adm>
+  </snc>
+  <snc mrk="sxarg.0o.sxargxo">
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      Proviza&jcirc;o, peza transporta&jcirc;o; <ref tip="dif" cel="sxargx.0o">&scirc;ar&gcirc;o</ref>:
+      <ekz>
+        &leftquot;vi donu al mi la pecon&rightquot; &dash; &leftquot;tre volonte,&rightquot; diris Jo&ccirc;jo, &leftquot;sed mi avertas vin, ke vi treni&gcirc;os
+        kun la <tld/>o&rightquot;
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Feli&ccirc;a Jo&ccirc;jo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_r;&c_a;&c_d;</trd>
+  <trd lng="ca">c&agrave;rrega</trd>
+  <trd lng="de">Ladung</trd>
+  <trd lng="es">carga</trd>
+  <trd lng="fr">charge</trd>
+  <trd lng="hu">t&ouml;lt&eacute;s</trd>
+  <trd lng="it">carica</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F3E;&#x4E38;  <pr>&#12384;&#12435;&#x304C;&#12435;</pr></trd>,
+    <trd>&#x96FB;&#33655;  <pr>&#12391;&#12435;&#x304B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">lading</trd>
+  <trdgrp lng="pl">
+    <trd>&lstroke;adunek</trd>,
+    <trd>nab&oacute;j</trd>,
+    <trd>pocisk</trd>,
+    <trd>patron  <klr>(bro&nacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">carga</trd>
+  <trd lng="ru">&c_z;&c_a;&c_r;&c_ja;&c_d;</trd>
+  <trd lng="uk">&c_z;&c_a;&c_r;&c_ja;&c_d;</trd>
+</drv>
+
+<drv mrk="sxarg.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="sxarg.0ilo.MAS">
+    <uzo tip="fak">MAS</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Ujo, bendo a&ubreve; plato kiu provizas la ma&scirc;inon per
+      a&jcirc;o(j) por plenumo:
+      <ekz>
+        seskugla <tld/>ilo;
+      </ekz>
+      <ekz>
+        kugloj fajfas, seruroj tintas kaj <tld/>iloj
+        <fnt>
+          <bib>SrT</bib>
+          <lok>Libro IX.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni plenigas la ercojn kaj almiksa&jcirc;ojn (fand-ingrediencojn) per oblikva
+        lifto, lift&ccirc;aro tra funelforma <tld/>ilo, duobla kluzosistemo en la fono&scirc;akton
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=40717">Altforno</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per uzado de &leftquot;rapid&scirc;argilo&rightquot; <klr>[&#8230;]</klr> oni enmetas la ses karto&ccirc;ojn en la cilindron
+        samtempe, ne unudue
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=100932">Revolvero</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Magazin</trd>,
+      <trd>Laderampe</trd>,
+      <trd>Lader</trd>
+    </trdgrp>
+    <trd lng="it">caricatore</trd>
+  </snc>
+  <snc mrk="sxarg.0ilo.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+       Ilo por provizi elektran fonton per elektro:
+      <ekz>
+        <klr>[la]</klr> panersu&ccirc;ilo <klr>[&#8230;]</klr> funkcias per re<tld/>ebla akumulatoro,
+        se oni remetas &gcirc;in post uzado sur la <tld/>ilo<klr>[n]</klr> &gcirc;i &ccirc;iam estas uzopreta
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=550830">Panersu&ccirc;ilo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Ladeger&auml;t</trd>,
+      <trd>Ladeschale</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sxarg.0ilo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="malprt" cel="operac.0umo">Operaciuma</ref> programo
+      por legi programpecojn (la &scirc;argomodulojn) en la
+      &ccirc;efmemoron por plenumo.
+    </dif>
+  <trd lng="bg">&c_z;&c_a;&c_r;&c_je;&c_zh;&c_d;&c_a;&c_shch;&c_a; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd>Loader <klr>(Programm)</klr></trd>,
+      <trd>Scheduler <klr>(Betriebssystem)</klr></trd>
+    </trdgrp>
+    <trd lng="it">loader</trd>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_g;&c_r;&c_u;&c_z;&c_ch;&c_y;&c_k;</trd>
+  <trd lng="ca">carregador</trd>
+  <trd lng="en">loader</trd>
+  <trd lng="es">cargador</trd>
+  <trd lng="fr">chargeur</trd>
+  <trd lng="hu">bet&ouml;lt&odblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x88C5;&#x5F3E;&#x5B50;  <pr>&#x305D;&#12358;&#x305F;&#x307E;&#12371;</pr></trd>,
+    <trd>&#20805;&#x96FB;&#22120;  <pr>&#12376;&#12421;&#12358;&#12391;&#12435;&#x304D;</pr></trd>,
+    <trd>&#x30D5;&#x30A3;&#x30EB;&#x30E0;&#x30DE;&#x30AC;&#x30B8;&#x30F3;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&lstroke;adowarka  <klr>(akumulator&oacute;w)</klr></trd>,
+    <trd>program  <ind>&lstroke;aduj&aogonek;cy</ind></trd>,
+    <trd>kaseta z filmem</trd>,
+    <trd>magazynek na naboje</trd>
+  </trdgrp>
+  <trd lng="ru">&c_z;&c_a;&c_g;&c_r;&c_u;&c_z;&c_ch;&c_i;&c_k;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_a;&c_t;&c_r;&c_o;&c_n;&c_n;&c_a; &c_o;&c_b;&c_o;&c_j;&c_m;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_s;&c_je;&c_t;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_u;&c_v;&c_a;&c_ch;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.113 2023/12/10 01:40:43
+Vito Redsky: +trd pl 
+
+versio 1.112 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.110 2023/08/29 16:34:22
+Wolfram Diestel: ja: prononco
+
+versio 1.109 2022/12/11 12:43:12
+Wolfram Diestel: +ekz
+
+versio 1.108 2022/05/05 14:43:49
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.31  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.30  2018/10/11 20:10:15  revo
+Wolfram Diestel: snc-mrk
+
+Revision 1.29  2018/06/30 09:10:14  revo
+-->
+</vortaro>

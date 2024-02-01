@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: promulg.xml,v 1.9 2022/06/12 20:31:12 revo Exp $">
+<kap>
+  <rad>promulg</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="promulg.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="promulg.0i.POL">
+    <uzo tip="fak">POL</uzo>
+    <uzo tip="klr">(pri le&gcirc;o, regulo...)</uzo>
+    <dif>
+      Ek-efikigi, ordoni aplikon de...:
+      <ekz>
+        <tld/>i provizoran konstitucion jam ratifitan de provizora parlamento
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Birindwa Mushosi</aut>
+          <vrk><url ref="&Monato;/2004/008481.html">Pa&scirc;oj provizoraj</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sola a&ubreve;stra institucio, kiu respektas la juran situacion koncerne la slovenan
+        minoritaton, estas la alta &scirc;tata kortumo, kiu jam dum jaroj <tld/>as jurajn
+        decidojn pri la devo de la &scirc;tato koncerne slovenojn en Karintio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vinko O&scaron;lak</aut>
+          <vrk><url ref="&Monato;/2011/010406.php">Martela jeso, ambosa neo</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="dekret.0i">dekreti</ref>,
+       <ref cel="edikt.0o">edikt</ref>i,
+       <ref cel="legx.0igi.legxofari">le&gcirc;igi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>promulgovat</trd>,
+    <trd>vyhl&aacute;sit</trd>,
+    <trd>zve&rcaron;ejnit <klr>(z&aacute;kon, rozsudek)</klr></trd>
+  </trdgrp>
+  <trd lng="de">erlassen <klr>(Gesetz)</klr></trd>
+  <trd lng="en">promulgate</trd>
+  <trd lng="fr">promulguer</trd>
+  <trdgrp lng="pl">
+    <trd>promulgowa&cacute;</trd>,
+    <trd>obwie&sacute;ci&cacute;</trd>
+  </trdgrp>
+  <trd lng="ro">promulga</trd>
+  <trdgrp lng="sk">
+    <trd>vyhl&aacute;si&tcaron;</trd>,
+    <trd>zverejni&tcaron; <klr>(z&aacute;kon, rozsudok)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&#x43C;&c_u;&#x43B;&#x44C;&c_g;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&#x43F;&c_r;&c_i;&#x43B;&#x44E;&c_d;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_u;&c_b;&#x43B;&c_ib;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&#x43F;&c_i;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_t;&c_v;&c_je;&c_r;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i; (&c_z;&c_a;&#x43A;&#x43E;&#x43D;)</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.9 2022/06/12 20:31:12
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.8 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.6 2022/02/23 03:41:18
+Noam Mohr: +trd en
+
+versio 1.5 2021/03/04 20:49:17
+Wolfram Diestel: +ref
+
+versio 1.4 2021/03/03 20:47:28
+Wolfram Diestel: 2 ekz, ref-oj, trd de
+
+Revision 1.2  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2015/06/20 22:10:19  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

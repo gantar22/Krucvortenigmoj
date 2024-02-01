@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: facet.xml,v 1.26 2023/11/09 19:13:15 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>facet</rad>/o
+</kap>
+
+<drv mrk="facet.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="facet.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Malgranda ebena surfaco:
+      <ekz>
+        <tld/>o de brilianto, de kristaloj, de prismo...
+      </ekz>
+    </dif>
+    <rim>
+      <ctl><tld lit="F"/>o</ctl> la&ubreve;sence povas esti konsiderata
+      deriva&jcirc;o de <ctl>faco</ctl>, sed historie pli &gcirc;usta
+      estas la aserto, ke la dua estas malderiva&jcirc;o de la unua.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>,
+    <trd>&c_f;&c_a;&c_s;&c_e;&c_t;</trd>
+  </trdgrp>
+  <trd lng="ca">faceta</trd>
+  <trd lng="cs">faceta</trd>
+  <trdgrp lng="de">
+    <trd>Facette</trd>,
+    <trd>Schliff</trd>
+  </trdgrp>
+  <trd lng="en">facet</trd>
+  <trd lng="es">faceta<klr tip="amb"> (de un brillante o
+  cristal)</klr></trd>
+  <trd lng="fr">facette<klr tip="ind"> (petite face)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>lap<klr tip="ind"> (dr&aacute;gak&odblac;)</klr></trd>,
+    <trd>faszetta</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5207;&#x308A;&#x5B50;&#x9762;  <pr>&#x304D;&#x308A;&#x3053;&#x304A;&#x3082;&#x3066;</pr></trd>,
+    <trd>&#x5C0F;&#x9762;  <pr>&#x3057;&#x3087;&#x3046;&#x3081;&#x3093;</pr></trd>,
+    <trd>&#x5C40;&#x9762;  <pr>&#x304D;&#x3087;&#x304F;&#x3081;&#x3093;</pr></trd>,
+    <trd>&#x69D8;&#x76F8;  <pr>&#x3088;&#x3046;&#x305D;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">facet<klr tip="ind"> (v.edelsteen)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>faseta</trd>,
+    <trd>&sacute;cianka</trd>
+  </trdgrp>
+  <trd lng="pt">faceta</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>,
+    <trd>&c_f;&c_a;&c_s;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">drobn&aacute; pl&ocirc;&scaron;ka na oku hmyzu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>,
+    <trd>&c_f;&c_a;&c_s;&c_k;&c_a;</trd>,
+    <trd>&c_f;&c_a;&c_s;&c_je;&c_t;</trd>,
+    <trd>&c_f;&c_a;&c_s;&c_je;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_je; &c_v;&c_ib;&c_ch;&c_k;&c_o;</trd>,
+    <trd>&c_ch;&c_a;&c_s;&c_t;&c_i;&c_n;&c_a; &c_s;&c_k;&c_l;&c_a;&c_d;&c_n;&c_o;&c_g;&c_o; &c_o;&c_k;&c_a;
+    &c_k;&c_o;&c_m;&c_a;&c_h;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x523B;&#x9762; <pr>k&#xE8;mi&#xE0;n</pr></trd>,
+    <trd>&#x5C0F;&#x5E73;&#x9762; <pr>xi&#x1CE;op&#xED;ngmi&#xE0;n</pr></trd>,
+    <trd>&#x6D17;&#x70BC; <pr>x&#x1D0;li&#xE0;n</pr></trd>,
+    <trd>&#x78E8;&#x5C51; <pr>m&#xF3;xi&#xE8;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="facet.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="facet.0i.TEK">
+    <dif>
+      Fari <tld/>ojn sur:
+      <ekz>
+        <tld/>i diamantojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_a;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="ca">facetar</trd>
+  <trd lng="cs">brousit plo&scaron;ky <klr>(na drah&eacute;m kameni| sklu| diamantu)</klr></trd>
+  <trd lng="de">schleifen</trd>
+  <trdgrp lng="en">
+    <trd>facet</trd>,
+    <trd>cut a facet into<klr> (e.g. a gemstone)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>hacer facetas</trd>,
+    <trd>tallar<klr tip="amb"> (una joya)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>facetter</trd>,
+    <trd>tailler &agrave; facettes</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>csiszol<klr tip="ind"> (dr&aacute;gak&odblac;vet)</klr></trd>,
+    <trd>metsz<klr tip="ind"> (dr&aacute;gak&odblac;vet)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x5207;&#x308A;&#x5B50;&#x9762;&#x3092;&#x523B;&#x3080;  <pr>&#x304D;&#x308A;&#x3053;&#x304A;&#x3082;&#x3066;&#x3092;&#x304D;&#x3056;&#x3080;</pr></trd>
+  <trd lng="nl">slijpen<klr tip="ind"> (v.diamant)</klr></trd>
+  <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>br&uacute;si&tcaron; <klr>(sklo, diamant)</klr></trd>,
+    <trd>br&uacute;si&tcaron; <klr>(sklo| diamant)</klr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_g;&c_r;&c_a;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="facet.mult0a">
+  <kap>mult<tld/>a</kap>
+  <snc mrk="facet.mult0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Havanta multajn diversajn aspektojn, enhavojn, flankojn:
+      <ekz>
+        la plej mult<tld/>a gazeto en nia movado
+        <fnt>
+        <aut>W. Ruck</aut>,
+        <vrk>Reagoj</vrk>,
+        <lok><url ref="http://www.eventoj.hu/arkivo/eve-041.htm">Eventoj,
+        1993-09, numero 41a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_n;&c_a;&c_g;&c_a;&c_g;&c_r;&c_a;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_n;&c_a;&c_g;&c_a;&c_g;&c_r;&c_a;&c_n;&c_je;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>polifac&egrave;tic</trd>,
+    <trd>divers</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>vielseitig</trd>,
+    <trd>vielf&auml;ltig</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>multifaceted</trd>,
+    <trd>versatile</trd>,
+    <trd>variegated</trd>,
+    <trd>diverse</trd>,
+    <trd>manifold</trd>,
+    <trd>multifarious</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>divers<klr> (vari&eacute;)</klr></trd>,
+    <trd>multiple et vari&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x591A;&#x5F69;&#x306A;  <pr>&#x305F;&#x3055;&#x3044;&#x306A;</pr></trd>,
+    <trd>&#x591A;&#x69D8;&#x306A;  <pr>&#x305F;&#x3088;&#x3046;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x591A;&#x65B9;&#x4F4D; <pr>du&#x14D;f&#x101;ngw&#xE8;i</pr></trd>,
+    <trd>&#x82B1;&#x54E8; <pr>hu&#x101;shao</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/14 18:06:40
+revo: transskribo per <pr>
+
+versio 1.23 2023/05/21 12:38:50
+Christian Siefkes: +trd de, en
+
+versio 1.22 2023/05/16 12:48:46
+Dmitri Gabinski: + trd be
+
+Revision 1.19  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/08/29 16:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2010/06/17 16:30:34  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.15  2010/04/09 16:31:54  revo
+-->
+</vortaro>

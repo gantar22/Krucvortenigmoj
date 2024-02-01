@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kamion.xml,v 1.104 2023/12/02 21:20:05 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>kamion</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="kamion.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kamion.0o.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      Fortika, platplanka
+      <ref tip="super" cel="auxt.0o">a&ubreve;to</ref>
+      por pezaj &scirc;ar&gcirc;oj kun 4, 6 a&ubreve; pli da radoj;
+      <ref tip="sin" cel="auxt.sxargx0o.AUT">&scirc;ar&gcirc;a&ubreve;to</ref>:
+      <ekz>
+        poste oni transportis lignon per fervojo kaj
+        <tld/>oj
+        <fnt>
+          <aut>Walter Klag</aut>,
+          <vrk><url ref="&Monato;/2001/007186.html">Vakeroj de Alpoj</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2001/01, p. 10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        videblis nek a&ubreve;to, nek <tld/>o
+        <fnt>
+          <aut>J. Modest</aut>,
+          <vrk><url ref="&Monato;/2001/007498.html">La ikono</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2001/12, p. 23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">vragmotor</trd>
+  <trd lng="am">&#x12E8;&#x132D;&#x1290;&#x1275; &#x1218;&#x12AA;&#x1293;</trd>
+  <trd lng="ar">&a_sh;&a_A;&#x62D;&a_n;&a_t_marbuta;</trd>
+  <trd lng="az">y&#xFC;k ma&#x15F;&inodot;n&inodot;</trd>
+  <trd lng="be">&c_g;&c_r;&c_u;&c_z;&c_a;&c_v;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_m;&c_i;&c_o;&c_n;</trd>
+  <trd lng="bn">&#x99F;&#x9CD;&#x9B0;&#x9BE;&#x995;</trd>
+  <trd lng="bs">kamion</trd>
+  <trd lng="ca">cami&oacute;</trd>
+  <trd lng="co">camion</trd>
+  <trdgrp lng="cs">
+    <trd>kamion</trd>,
+    <trd>n&aacute;kladn&iacute; automobil</trd>
+  </trdgrp>
+  <trd lng="cy">lori</trd>
+  <trd lng="da">lastbil</trd>
+  <trdgrp lng="de">
+    <trd>Lastwagen</trd>,
+    <trd>Lkw</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>lorry</trd>,
+    <trd>truck</trd>
+  </trdgrp>
+  <trd lng="es">cami&oacute;n</trd>
+  <trd lng="et">veoauto</trd>
+  <trd lng="eu">kamioi</trd>
+  <trd lng="fr">camion</trd>
+  <trd lng="fy">frachtauto</trd>
+  <trd lng="ga">trucail</trd>
+  <trd lng="gd">l&#xE0;raidh</trd>
+  <trd lng="gl">cami&#xF3;n</trd>
+  <trd lng="gu">&#xA9F;&#xACD;&#xAB0;&#xA95;</trd>
+  <trd lng="hi">&#x91F;&#x94D;&#x930;&#x915;</trd>
+  <trd lng="hmn">tsheb</trd>
+  <trd lng="hr">kamion</trd>
+  <trd lng="ht">kamyon</trd>
+  <trdgrp lng="hu">
+    <trd>kamion</trd>,
+    <trd>teheraut&oacute;</trd>
+  </trdgrp>
+  <trd lng="hy">&#x562;&#x565;&#x57C;&#x576;&#x561;&#x57F;&#x561;&#x580; &#x574;&#x565;&#x584;&#x565;&#x576;&#x561;</trd>
+  <trd lng="ig">gwongworo</trd>
+  <trd lng="is">v&#xF6;rub&#xED;ll</trd>
+  <trd lng="it">camion</trd>
+  <trd lng="ja">&#x30C8;&#x30E9;&#x30C3;&#x30AF;</trd>
+  <trd lng="jv">truk</trd>
+  <trd lng="ka">&#x10E1;&#x10D0;&#x10E2;&#x10D5;&#x10D8;&#x10E0;&#x10D7;&#x10DD;</trd>
+  <trd lng="kk">&c_zh;&#x4AF;&#x43A; &#x43A;&#x4E9;&#x43B;&c_ib;&c_g;&c_ib;</trd>
+  <trd lng="km">&#x17A1;&#x17B6;&#x1793;</trd>
+  <trd lng="kn">&#xC9F;&#xCCD;&#xCB0;&#xC95;&#xCCD;</trd>
+  <trd lng="ko">&#xD2B8;&#xB7ED;</trd>
+  <trd lng="ku">qemyon</trd>
+  <trd lng="ky">&c_zh;&#x4AF;&#x43A; &c_t;&c_a;&c_sh;&c_u;&c_u;&c_ch;&c_u;</trd>
+  <trd lng="lat">dolor</trd>
+  <trd lng="lo">&#xEA5;&#xEBB;&#xE94;</trd>
+  <trd lng="lt">sunkve&#x17E;imis</trd>
+  <trd lng="mg">kamiao</trd>
+  <trd lng="mi">taraka</trd>
+  <trd lng="mk">&#x43A;&c_a;&#x43C;&c_i;&#x43E;&#x43D;</trd>
+  <trd lng="ml">&#xD35;&#xD23;&#xD4D;&#xD1F;&#xD3F;</trd>
+  <trd lng="mn">&c_a;&c_ch;&c_a;&c_a;&#x43D;&#x44B; &#x43C;&c_a;&c_sh;&c_i;&#x43D;</trd>
+  <trd lng="mr">&#x91F;&#x94D;&#x930;&#x915;</trd>
+  <trd lng="ms">trak</trd>
+  <trd lng="mt">trakk</trd>
+  <trd lng="my">&#x1011;&#x101B;&#x1015;&#x103A;&#x1000;&#x102C;&#x1038;</trd>
+  <trd lng="ne">&#x91F;&#x94D;&#x930;&#x915;</trd>
+  <trd lng="nl">vrachtwagen</trd>
+  <trd lng="ny">m&#x2019;galimoto</trd>
+  <trd lng="oc">camion</trd>
+  <trd lng="pa">&#xA1F;&#xA30;&#xA71;&#xA15;</trd>
+  <trdgrp lng="pl">
+    <trd>ci&eogonek;&zdot;ar&oacute;wka</trd>,
+    <trd>samoch&oacute;d ci&eogonek;&zdot;arowy</trd>
+    <trd>tir<klr> (zwyczajowo o ci&aogonek;gniku siod&lstroke;owym z
+naczep&aogonek; wieloosiow&aogonek;
+    i napisem TIR)</klr></trd>
+  </trdgrp>
+  <trd lng="ps">&a_l;&a_A;&a_r;&#x6CD;</trd>
+  <trd lng="ro">camion</trd>
+  <trd lng="ru">&c_g;&c_r;&c_u;&c_z;&c_o;&c_v;&c_i;&c_k;</trd>
+  <trd lng="rw">ikamyo</trd>
+  <trd lng="sd">&#x67D;&a_r;&#x6AA;</trd>
+  <trd lng="si">&#xDA7;&#xDCA;&#xDBB;&#xD9A;&#xDCA; &#xDBB;&#xDAE;</trd>
+  <trd lng="sk">n&aacute;kladn&eacute; auto</trd>
+  <trd lng="sl">tovornjak</trd>
+  <trd lng="sm">loli</trd>
+  <trd lng="sn">rori</trd>
+  <trd lng="so">gaari</trd>
+  <trd lng="sq">kamion</trd>
+  <trd lng="st">teraka e</trd>
+  <trd lng="su">truk</trd>
+  <trd lng="sw">lori</trd>
+  <trd lng="ta">&#xB9F;&#xBBF;&#xBB0;&#xB95;&#xBCD;</trd>
+  <trd lng="te">&#xC1F;&#xC4D;&#xC30;&#xC15;&#xC4D;</trd>
+  <trd lng="tg">&#x43C;&#x43E;&c_sh;&c_i;&#x43D;&c_i; &c_b;&#x43E;&c_r;&#x43A;&c_a;&c_sh;</trd>
+  <trd lng="th">&#xE23;&#xE16;&#xE1A;&#xE23;&#xE23;&#xE17;&#xE38;&#xE01;</trd>
+  <trd lng="tl">trak</trd>
+  <trd lng="tt">&c_j;&#x4E9;&#x43A; &#x43C;&c_a;&c_sh;&c_i;&#x43D;&c_a;&c_s;&#x44B;</trd>
+  <trd lng="uk">&c_v;&c_a;&#x43D;&c_t;&c_a;&c_zh;&c_ib;&c_v;&#x43A;&c_a;</trd>
+  <trd lng="ur">&#x679;&a_r;&#x6A9;</trd>
+  <trd lng="uz">yuk mashinasi</trd>
+  <trd lng="vi">xe t&#x1EA3;i</trd>
+  <trd lng="xh">ilori</trd>
+  <trd lng="yi">&#x5D8;&#x5E8;&#x5D0;&#x5B8;&#x5E7;</trd>
+  <trd lng="yo">ikoledanu</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5361;&#x8ECA; <pr>k&#x1CE;ch&#x113;</pr></trd>,
+    <trd>&#x8CA8;&#x8ECA; <pr>hu&#xF2;ch&#x113;</pr></trd>,
+    <trd>&#x8F09;&#x8CA8;&#x6C7D;&#x8ECA; <pr>z&#xE0;ihu&#xF2;q&#xEC;ch&#x113;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">iloli</trd>
+</drv>
+
+<drv mrk="kamion.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="kamion.0eto.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      Malgranda <ref tip="super" cel="kamion.0o.AUT"><tld/>o</ref>,
+      kun du- a&ubreve; triloka &scirc;oforejo kaj plejofte fermita &scirc;ar&gcirc;ejo:
+      <ekz>
+        feli&ccirc;e alveturis <tld/>eto kaj per &gcirc;i ni atingis la
+        vila&gcirc;on
+        <fnt>
+          <aut>W. Schad</aut>,
+          <vrk>Tra la Andoj boate</vrk>,
+          <bib>Monato</bib>,
+          <lok>2001/12, p. 16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">camioneta</trd>
+  <trdgrp lng="cs">
+    <trd>dod&aacute;vka</trd>,
+    <trd>dod&aacute;vkov&eacute; auto</trd>
+  </trdgrp>
+  <trd lng="de">Lieferwagen</trd>
+  <trd lng="en">van</trd>
+  <trdgrp lng="es">
+    <trd>camioneta</trd>,
+    <trd>furgoneta</trd>
+  </trdgrp>
+  <trd lng="fr">camionnette</trd>
+  <trd lng="hu">kisteheraut&oacute;</trd>
+  <trdgrp lng="it">
+    <trd>camionetta</trd>,
+    <trd>furgone</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5C0F;&#x578B;&#x30C8;&#x30E9;&#x30C3;&#x30AF;  <pr>&#x3053;&#x304C;&#x305F;&#x30C8;&#x30E9;&#x30C3;&#x30AF;</pr></trd>
+  <trd lng="nl">bestelwagen</trd>
+  <trd lng="oc">camioneta</trd>
+  <trdgrp lng="pl">
+    <trd>furgonetka</trd>,
+    <trd>p&oacute;&lstroke;ci&eogonek;&zdot;ar&oacute;wka</trd>,
+    <trd>samoch&oacute;d dostawczy</trd>
+  </trdgrp>
+  <trd lng="ro">furgonet&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_r;&c_u;&c_z;&c_o;&c_v;&c_i;&c_ch;&c_o;&c_k;</trd>,
+    <trd>&c_p;&c_i;&c_k;&c_a;&c_p;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dod&aacute;vka</trd>,
+    <trd>dod&aacute;vkov&eacute; auto</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kamion.baskul0o">
+  <kap>baskul<tld/>o</kap>
+  <snc mrk="kamion.baskul0o.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <uzo tip="fak">KON</uzo>
+    <dif>
+      <ref tip="super" cel="kamion.0o.AUT">Kamiono</ref>
+      kun platformo, kiu baskule klini&gcirc;as por el&scirc;uto
+      de la enhavo:
+      <ekz>
+        baskul<tld/>oj faligis en la riveron &scirc;tonojn kaj gruzon
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Novosibirska_hidroelektra_centralo">
+          Novosibirska hidroelektra centralo</url>, 2013-04-04</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">skl&aacute;p&ecaron;c&iacute; auto</trd>
+  <trdgrp lng="es">
+    <trd>volquete</trd>,
+    <trd>cami&oacute;n de obras</trd>
+  </trdgrp>
+  <trd lng="fr">camion &agrave; benne basculante</trd>
+  <trd lng="ja">&#x30C0;&#x30F3;&#x30D7;&#x30AB;&#x30FC;</trd>
+  <trd lng="pl">wywrotka <klr>(ci&eogonek;&zdot;ar&oacute;wka)</klr></trd>
+  <trdgrp lng="ro">
+    <trd>autobasculant&abreve;</trd>,
+    <trd>dumper</trd>
+  </trdgrp>
+  <trd lng="sk">vykl&aacute;pacie auto</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.103 2023/10/18 14:48:09
+revo: transskribo per <pr>
+
+versio 1.101 2023/07/11 08:34:23
+Paul Peeraerts:  + url
+
+versio 1.100 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.25  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/12/02 18:10:13  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.22  2014/02/18 02:10:12  revo
+Jeromo Vasxe: + baskul~o
+
+Revision 1.21  2013/10/20 15:10:15  revo
+-->
+</vortaro>

@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: stadio.xml,v 1.25 2023/10/21 07:46:48 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>stadion</rad>/o
+</kap>
+<drv mrk="stadio.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stadio.0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="super" cel="sport.0ejo">Sportejo</ref> kun areno por
+      atletaj a&ubreve; sportaj ekzercoj kaj konkursoj,
+      kaj mult&scirc;tupaj vicoj da sidlokoj por rigardantoj:
+      <ekz>
+        la nova tombejo, malfermita lastjare, kovras areon de du hektaroj,
+        etendi&gcirc;as tra futbalejo, kaj jam proksimi&gcirc;as al la detruitaj sportcentro kaj <tld/>o
+        <fnt>
+          <aut>Hamza Baksi&cacute;</aut>
+          <vrk><url ref="&Monato;/1993/A931001.php">La fino de la mondo komenci&gcirc;as en
+          Sarajevo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/10, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        piedpilk-<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ivo Durwael</aut>
+          <vrk><url ref="&Monato;/2003/007945.html">Bukedo de popolarto</url></vrk>
+          <!-- ne aperis en la presita versio -->
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ina&ubreve;guro okazis en la nova dublina <tld/>o
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008231.html">Ne plu handikapitoj!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/06, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni devis &scirc;an&gcirc;i entute la herban kovra&jcirc;on de la <tld/>o en
+        <nom>Basel</nom> post la pluvbatalo inter la futbalteamoj de Svislando kaj Turkio
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2008/009595.php">Hispanio venkis, gastigantoj
+          seniluziigis</url></vrk>
+          <bib>Monato</bib>
+          <lok>2008/10, p. 26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_d;&c_y;&c_jo;&c_n;</trd>
+  <trd lng="ca">estadi</trd>
+  <trd lng="cs">stadi&oacute;n</trd>
+  <trd lng="de">Stadion</trd>
+  <trdgrp lng="en">
+    <trd>stadium</trd>,
+    <trd>arena</trd>,
+    <trd>ballpark</trd>,
+    <trd>colliseum</trd>,
+    <trd>grounds</trd>,
+    <trd>grandstand</trd>
+  </trdgrp>
+  <trd lng="es">estadio</trd>
+  <trd lng="fr">stade<klr tip="ind"> (de sport)</klr></trd>
+  <trd lng="hu">stadion</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B9;&#x30BF;&#x30B8;&#x30A2;&#x30E0;  <pr>&#x3059;&#x305F;&#x3058;&#x3042;&#x3080;</pr></trd>,
+    <trd>&#x7AF6;&#x6280;&#x5834;  <pr>&#x304D;&#x3087;&#x3046;&#x304E;&#x3058;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">stadion</trd>
+  <trd lng="pl">stadion</trd>
+  <trd lng="ru">&c_s;&c_t;&c_a;&c_d;&c_i;&c_o;&c_n;</trd>
+  <trd lng="sk">&scaron;tadi&oacute;n</trd>
+  <trd lng="uk">&c_s;&c_t;&c_a;&c_d;&c_ib;&#x43E;&#x43D;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.23 2023/05/06 12:41:38
+Paul Peeraerts: + 2x lok 
+
+versio 1.22 2023/04/11 09:27:14
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.21 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.18  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
+Revision 1.17  2018/11/13 19:10:14  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.16  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:24  revo
+-->
+</vortaro>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: opioid.xml,v 1.4 2021/07/30 23:29:06 revo Exp $">
+<kap>
+  <rad>opioid</rad>/o
+</kap>
+<drv mrk="opioid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="opioid.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Sinteza a&ubreve; peptida substanco, kiu havas
+      <ref tip="vid" cel="opiat.0o.FIZL">opiat</ref>-similan
+      efikon sed alian &hcirc;emian konsiston:
+      <ekz>
+        <tld/>oj injektitaj en la subaraknoidan 
+        <klr>...</klr> spacon
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://lamasson.com.br/biblioteca/biblioteca/pesquisahomeopatica/artikolo97n2morfino.htm">,
+          Morfino &ccirc;e rakianestezio</url></vrk>,
+          <lok>Pesquisa Homeop&aacute;tica, 2005-01 &gcirc;is 06, (20:1)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_ib;&c_jo;&c_ib;&c_d;</trd>
+  <trd lng="en">opioid</trd>
+  <trd lng="fr">opio&iuml;de</trd>
+  <trd lng="pl">opioidy {pl}</trd>
+  <trd lng="pt">opioide</trd>
+  <trd lng="ro">opioid</trd>
+  </drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2021/07/30 23:29:06
+Vito Redsky: +trd pl +trd ro
+
+versio 1.3 2021/04/23 07:04:22
+Dmitri Gabinski: +trd be
+
+versio 1.2 2020/03/22 21:10:47
+James Rezende Piton: +trd pt 
+
+Revision 1.1  2013/11/25 02:10:19  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: zoolog1.xml,v 1.42 2023/10/21 20:03:08 revo Exp $">
+<kap>
+  <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
+  <rad>zoologi</rad>/o
+  <fnt><bib>F</bib>, <lok>Ekzercaro, &para; 4</lok></fnt>
+</kap>
+<drv mrk="zoolog1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="zoolog1.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="scienc.0o.fako" lst="voko:sciencoj">Scienco</ref> pri
+      la <ref tip="prt" cel="best.0oj">bestoj</ref>, subfako
+      de la <ref tip="malprt" cel="biolog1.0o">biologio</ref>:
+      <ekz>
+        <tld/>a bestarejo;
+      </ekz>
+      <ekz>
+        &leftquot;Komodo-varano&rightquot; <klr>[&#x2026;]</klr> estas jam &gcirc;enerale konata, multaj libroj pri
+        <tld/>o citas &gcirc;in
+       <fnt>
+          <aut>Wim de Smet</aut>
+          <vrk><url ref="&Monato;/2000/006900.php">La &leftquot;drakoj&#x201D; de Komodo:
+          Gigantaj bestoj sur izola insulo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la desegnisto <klr>[&#x2026;]</klr> havas nulan nocion pri <tld/>o, kio estas grava
+        manko por ilustranto de libro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2007/009009.php">Ruza leporo kaj &ccirc;iuj aliaj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="gxarde.besto0o"><tld/>a &gcirc;ardeno</ref>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="ca">zoologia</trd>
+  <trd lng="de">Zoologie</trd>
+  <trd lng="el">&zeta;&omega;&omikron;&lambda;&omikron;&gamma;&jota_ton;&alfa;</trd>
+  <trd lng="en">zoology</trd>
+  <trd lng="es">zoolog&iacute;a</trd>
+  <trd lng="fa">&a_j;&a_A;&a_n;&a_w;&a_r;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>
+  <trdgrp lng="fr">
+    <trd>zoologie</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&tav;&vav;&resh;&tav; &he;&het;&yod;</trd>,
+    <trd>&zayin;&vav;&alef;&vav;&lamed;&vav;&gimel;&yod;&he;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;llattan</trd>,
+    <trd>zool&oacute;gia</trd>
+  </trdgrp>
+  <trd lng="id">zoologi</trd>
+  <trd lng="it">zoologia</trd>
+  <trd lng="ja">&#x52D5;&#x7269;&#x5B66;  <pr>&#x3069;&#x3046;&#x3076;&#x3064;&#x304C;&#x304F;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>zo&ouml;logie</trd>,
+    <trd>dierkunde</trd>
+  </trdgrp>
+  <trd lng="pt">zoologia</trd>
+  <trd lng="ru">&c_z;&c_o;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>zool&oacute;gia</trd>,
+    <trd>zool&oacute;gia</trd>,
+    <trd>&zcaron;ivo&ccaron;&iacute;chopis</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>zoologi</trd>,
+    <trd>djurl&auml;ra</trd>
+  </trdgrp>
+  <trd lng="uk">&c_z;&#x43E;&#x43E;&#x43B;&#x43E;&c_g;&c_ib;&#x44F;</trd>
+</drv>
+
+<drv mrk="zoolog1.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="zoolog1.0isto.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Tiu, kiu okupas sin pri
+      <ref tip="malprt" cel="zoolog1.0o"><tld/>o</ref>:
+      <ekz>
+        la&ubreve; zoologiistoj &ccirc;i-jare tie vivas entute 950 &ccirc;amoj: 675 en Slovakio, 275 en
+        Pollando
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2013/010796.php">&Ccirc;a(r)moj en la parko</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="zoolog.0o">zoologo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="ca">zo&ograve;leg</trd>
+  <trd lng="de">Zoologe</trd>
+  <trd lng="el">&zeta;&omega;&omikron;&lambda;&omikron_ton;&gamma;&omikron;&sigma_fina;</trd>
+  <trd lng="en">zoologist</trd>
+  <trd lng="es">zo&oacute;logo</trd>
+  <trd lng="fa">&a_j;&a_A;&a_n;&a_w;&a_r;&a_sh;&a_n;&a_A;&a_s;</trd>
+  <trdgrp lng="fr">
+    <trd>zoologiste</trd>
+  </trdgrp>
+  <trd lng="he">&zayin;&vav;&alef;&vav;&lamed;&vav;&gimel;</trd>
+  <trd lng="hu">zool&oacute;gus</trd>
+  <trd lng="id">zoolog</trd>
+  <trdgrp lng="it">
+    <trd>zoologo</trd>,
+    <trd>zoologista</trd>
+  </trdgrp>
+  <trd lng="ja">&#x52D5;&#x7269;&#x5B66;&#x8005;  <pr>&#x3069;&#x3046;&#x3076;&#x3064;&#x304C;&#x304F;&#x3057;&#x3083;</pr></trd>
+  <trd lng="nl">zo&ouml;loog</trd>
+  <trd lng="ru">&c_z;&c_o;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trdgrp lng="pt">
+    <trd>zo&oacute;logo</trd>,
+    <trd>zoologista</trd>
+  </trdgrp>
+  <trd lng="sv">zoolog</trd>
+  <trd lng="sk">zool&oacute;g</trd>
+  <trd lng="sk">zool&oacute;g</trd>
+  <trd lng="cs">zoolog</trd>
+</drv>
+
+
+</art>
+<!--
+$Log$
+versio 1.42 2023/10/21 20:03:08
+revo: transskribo per <pr>
+
+versio 1.40 2023/04/13 15:27:20
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.39 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2021/06/24 12:42:03
+Wolfram Diestel: anst. ~a gxardeno per ref (estis duobla)
+
+Revision 1.35  2017/12/18 08:10:14  revo
+Michel Cantigneaux: aldonita per 1a OA kaj klarige fundamenta per 7a OA
+
+Revision 1.34  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/28 10:33:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2014/11/12 08:10:48  revo
+-->
+</vortaro>

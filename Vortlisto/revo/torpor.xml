@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: torpor.xml,v 1.6 2024/01/18 21:22:58 revo Exp $">
+<kap>
+  <rad>torpor</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="torpor.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="torpor.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      &Ccirc;e malgrandaj mamuloj kaj birdoj, stato karaterizita de draste reduktita
+      metabolo kaj senaktiveco, kutime reage al ekstremaj medikondi&ccirc;oj kiel malvarmo.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Torporo</trd>,
+      <trd>K&auml;lteschlaf</trd>,
+      <trd>Verklammern</trd>
+    </trdgrp>
+    <trd lng="en">torpor</trd>
+  </snc>
+  <snc mrk="torpor.0o.KOMUNE">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Korpa kaj anima malvigleco, sensenteco:
+      <ekz>
+        la furiozo <tld/>is en li kaj li blasfemis dum la tuta tago
+        <fnt>
+          <bib>LGA</bib>
+          <lok>III.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i sen<tld/>i&gcirc;is
+        <fnt>
+          <aut>V. Catal&agrave;, trad. J. Ventura i Freixas</aut>,
+          <vrk>Soleco</vrk>,
+          <lok>1967</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rigid.0igxi">rigidi&gcirc;i</ref>,
+      <ref cel="sxton.0igxi.FIG">&scirc;toni&gcirc;i<sncref/></ref>,
+      <ref cel="letarg.0o.FIG">letargio<sncref/></ref>,
+      <ref cel="somnol.0o.KOMUNE">somnolo</ref>,
+      <ref cel="stupor.0o">stuporo</ref>
+    </refgrp>
+  <trd lng="de">Erstarrung</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>chabost</trd>,
+    <trd>nete&ccaron;nost</trd>,
+    <trd>ochablost</trd>,
+    <trd>torpor</trd>,
+    <trd>tupost</trd>
+  </trdgrp>
+  <trd lng="fr">torpeur</trd>
+  <trdgrp lng="pl">
+    <trd>odr&eogonek;twienie</trd>,
+    <trd>os&lstroke;upienie</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ochabnutos&tcaron;</trd>,
+    <trd>tupos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&#x43E;&c_r;&#x43F;&#x43E;&c_r;</trd>,
+    <trd>&c_z;&c_a;&c_c;&c_ib;&#x43F;&c_je;&#x43D;&c_ib;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_g;&#x43B;&c_i;&c_b;&#x43E;&#x43A;&c_je; &#x43F;&c_r;&c_i;&c_g;&#x43D;&c_ib;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;
+    &c_s;&c_v;&c_ib;&c_d;&#x43E;&#x43C;&#x43E;&c_s;&c_t;&c_ib;.</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2024/01/18 21:22:58
+Vito Redsky: +trd pl 
+
+versio 1.4 2022/03/26 08:32:13
+Wolfram Diestel: +snc BIO, trd de, ekz
+
+Revision 1.2  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2013/11/23 02:10:21  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

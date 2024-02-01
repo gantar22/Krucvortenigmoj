@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: modlur.xml,v 1.21 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <rad>modlur</rad>/o
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="modlur.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="modlur.0o.ARKI">
+    <uzo tip="fak">BELA</uzo>
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="ornam.0o.ajxo">Ornamo</ref>
+      garnituranta iujn partojn de konstrua&jcirc;o, a&ubreve; meblo kaj
+      konsistanta el paralelaj rubandaj elstara&jcirc;oj, &ccirc;u plataj &ccirc;u
+      rondaj
+      (konveksaj a&ubreve; kavaj), a&ubreve; el kombino de tiuj diversaj formoj:
+      <ekz>
+        frontono estas triangula krona&jcirc;o de fasado formita per horizontala
+        <tld/>o kaj la arta elmontro de duflanka tegmento
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=33755">Frontono</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kornic.0o">kornico</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Stab <klr>(Ornament)</klr></trd>,
+      <trd>Dekorleiste</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ja;&c_p;&c_n;&c_ib;&c_n;&c_a;</trd>,
+    <trd>&c_l;&c_ja;&c_p;&c_n;&c_y; &c_d;&c_e;&c_k;&c_o;&c_r;</trd>,
+    <trd>&c_l;&c_ja;&c_p;&c_n;&c_y; &c_r;&c_e;&c_l;&c_mol;&c_je;&c_f;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>modlura</trd>,
+    <trd>&zcaron;ebro</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>molding</trd>.
+    <trd>moulding</trd>
+  </trdgrp>
+  <trd lng="fr">moulure</trd>
+  <trdgrp lng="hu">
+    <trd>tag</trd>,
+    <trd>tagozat</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7E70;&#x5F62;  <pr>&#x304F;&#x308A;&#x304B;&#x305F;</pr></trd>,
+    <trd>&#x30E2;&#x30FC;&#x30EB;&#x30C7;&#x30A3;&#x30F3;&#x30B0;</trd>
+  </trdgrp>
+  <trd lng="nl">lofwerk</trd>
+  <trd lng="pl">gzyms <klr>(jako ornament)</klr></trd>
+  <trd lng="pt">moldura</trd>
+  <trd lng="ro">corni&#x219;&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_je;&c_p;&c_n;&c_o;&c_j; &c_o;&c_r;&c_n;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_l;&c_je;&c_p;&c_n;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>s&uacute;be&zcaron;ne p&aacute;sovit&aacute;</trd>,
+    <trd>vypukl&aacute; alebo vyh&lacute;ben&aacute; stavebn&aacute; alebo n&aacute;bytkov&aacute; ozdoba</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x456;&#x43F;&#x43D;&#x438;&#x439; &#x43E;&#x440;&#x43D;&#x430;&#x43C;&#x435;&#x43D;&#x442;</trd>,
+    <trd>&#x444;&#x440;&#x435;&#x437;&#x435;&#x440;&#x43D;&#x438;&#x439; &#x43E;&#x440;&#x43D;&#x430;&#x43C;&#x435;&#x43D;&#x442;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.18 2020/11/07 22:11:17
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/04/24 17:06:55  revo
+Russ Williams: +trd en
+
+Revision 1.13  2007/05/14 16:30:30  revo
+Jozefo Horvath: kor. trd hu
+
+Revision 1.12  2006/08/07 16:32:22  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/08/14 16:31:45  revo
+-->
+</vortaro>

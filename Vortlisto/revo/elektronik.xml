@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: elektronik.xml,v 1.21 2023/11/07 20:34:10 revo Exp $">
+<kap>
+  <ofc>8</ofc> <rad>elektronik</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="elektronik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="elektronik.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Studo de elektraj signaloj kaj arto konstrui ma&scirc;inojn per
+      ili funkciantajn:
+       <ekz>
+        transistoro <klr>...</klr> estas la &ccirc;efa komponanto en
+        &ccirc;ia moderna <tld/>o
+        <fnt><bib>Viki</bib>, <lok>&leftquot;komputilo, artikolo de la
+        monato&rightquot;, 2007-10-11</lok></fnt>.
+      </ekz>
+    </dif>
+  <refgrp tip="sub">
+   <ref cel="transistor.0o">transistoro</ref>,
+   <ref cel="diod.0o">diodo</ref>,
+   <ref cel="cirkvi.integra_0o">cirkvito integra</ref>,
+   <ref cel="reosta.0o">reostato</ref>,
+   <ref cel="konden.0o.ELE">kondensatoro</ref>,
+   <ref cel="indukt.il0o.ELE">induktilo</ref>,
+   <ref cel="form.trans0ilo">transformilo</ref>,
+   <ref cel="rekt.0igilo">rektigilo</ref>,
+   <ref cel="konekt.0ilo">konektilo</ref>,
+   <ref cel="konduk.0ilo.ELE">kondukilo</ref>,
+   <ref cel="skem.konekto0o">konektoskemo</ref>,
+   <ref cel="kart.cirkvit0o">cirkvitkarto</ref>
+  </refgrp>
+  </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_ib;&c_k;&c_a;</trd>
+  <trd lng="cs">elektronika</trd>
+  <trd lng="de">Elektronik</trd>
+  <trd lng="en">electronics</trd>
+  <trd lng="fa">&a_A;&a_l;&f_k;&a_t;&a_r;&a_w;&a_n;&f_y;&f_k;</trd>
+  <trd lng="fr">&eacute;lectronique<klr> (subst.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A8;&#x30EC;&#x30AF;&#x30C8;&#x30ED;&#x30CB;&#x30AF;&#x30B9;</trd>,
+    <trd>&#x96FB;&#x5B50;&#x5DE5;&#x5B66;  <pr>&#x3067;&#x3093;&#x3057;&#x3053;&#x3046;&#x304C;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">elektronika</trd>
+  <trd lng="pt">eletr&ocirc;nica</trd>
+  <trd lng="sk">elektronika</trd>
+  <trd lng="uk">&c_je;&#x43B;&c_je;&#x43A;&c_t;&c_r;&#x43E;&#x43D;&c_ib;&#x43A;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7535;&#x5B50;&#x5B66; <pr>di&#xE0;nz&#x1D0;xu&#xE9;</pr></trd>,
+    <trd>&#x7535;&#x5B50;&#x6280;&#x672F; <pr>di&#xE0;nz&#x1D0;j&#xEC;sh&#xF9;</pr></trd>,
+    <trd>&#x7535;&#x5B50;&#x88C5;&#x7F6E; <pr>di&#xE0;nz&#x1D0;zhu&#x101;ngzh&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="elektronik.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="elektronik.0a.ELE">
+    <dif>
+      Funkcianta per elektraj signaloj a&ubreve; iel rilata al <tld/>o:
+       <ekz>
+        iaj <tld/>aj drumoj havas platojn <klr>...</klr> anstata&ubreve;
+        cimbaloj
+        <fnt><bib>RokPop</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_y;</trd>
+  <trd lng="de">elektronisch</trd>
+  <trd lng="en">electronic</trd>
+  <trd lng="fa">&a_A;&a_l;&f_k;&a_t;&a_r;&a_w;&a_n;&f_y;&f_k;&f_y;</trd>
+  <trd lng="fr">&eacute;lectronique<klr> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x96FB;&#x5B50;&#x5DE5;&#x5B66;&#x306E;  <pr>&#x3067;&#x3093;&#x3057;&#x3053;&#x3046;&#x304C;&#x304F;&#x306E;</pr></trd>,
+    <trd>&#x96FB;&#x5B50;&#x5F0F;&#x306E;  <pr>&#x3067;&#x3093;&#x3057;&#x3057;&#x304D;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">elektroniczny</trd>
+  <trd lng="pt">eletr&ocirc;nico</trd>
+</drv>
+
+<drv mrk="elektronik.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="elektronik.0isto.ELE">
+    <dif>
+      Homo, kiu profesie okupi&gcirc;as pri <tld/>o:
+       <ekz>
+        e&ccirc; se de tiu tempo lingvistoj, matematikistoj kaj
+        <tld/>istoj laboras super tiu &ccirc;i problemo, &gcirc;is nun
+        ma&scirc;ina tradukado ne estis realigita
+        <fnt>
+          <aut>Z. Hr&scaron;el</aut>,
+          <vrk>Apliko de Esperanto en la Laboro de Informcentroj</vrk>,
+          <lok><url ref="http://www.fw.hu/eventoj/steb/miksitaj/aest78.rtf">
+          AEST 1978</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="cs">elektronik</trd>
+  <trd lng="de">Elektroniker</trd>
+  <trd lng="en">electronics engineer</trd>
+  <trd lng="fa">&a_m;&a_h;&a_n;&a_d;&a_s; <ind>&a_A;&a_l;&f_k;&a_t;&a_r;&a_w;&a_n;&f_y;&f_k;</ind></trd>
+  <trd lng="fr">&eacute;lectronicien</trd>
+  <trd lng="pl">elektronik</trd>
+  <trd lng="sk">elektronik</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7535;&#x5B50;&#x5DE5; <pr>di&#xE0;nz&#x1D0;g&#x14D;ng</pr></trd>,
+    <trd>&#x7535;&#x5B50;&#x673A;&#x5DE5; <pr>di&#xE0;nz&#x1D0;j&#x12B;g&#x14D;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.20 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+versio 1.18 2023/08/03 08:30:39
+Dmitri Gabinski: + trd be
+
+versio 1.16 2020/04/04 11:10:23
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.15  2018/04/12 15:10:15  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2014/05/17 16:10:20  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.11  2014/01/09 18:10:11  revo
+-->
+</vortaro>

@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: trip.xml,v 1.21 2023/10/21 14:37:42 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>trip</rad>/o
+    </kap>
+
+    <drv mrk="trip.0o">
+      <kap><ofc>*</ofc><tld/>o</kap>
+      <snc>
+      <uzo tip="fak">KUI</uzo>
+        <dif>
+          Man&gcirc;eblaj internaj organoj de la bestoj, kiujn oni opinias
+          malpli valoraj ol <ref cel="viand.0o">viando</ref>; ekz-e
+          <refgrp tip="prt">
+            <ref cel="intest.0o">intestoj</ref>,
+            <ref cel="stomak.0o">stomako</ref>,
+            <ref cel="hepat.0o">hepato</ref>,
+            <ref cel="kor.0o">koro</ref>,
+            <ref cel="lang.0o">lango</ref>
+          </refgrp>:
+          <ekz>
+            &leftquot;Poste mi iris a&ccirc;eti la kolombidojn <klr>...</klr>
+            kaj mi rostis ilin, kaj por vi mi pretigis la supon
+            el la kolombaj <tld/>oj&rightquot;
+            <fnt>
+              <aut>Karel &Ccaron;apek, tr. Josef Vondrou&scaron;ek</aut>:
+              <vrk>Marta kaj Maria</vrk>,
+              <lok>Libro de apokrifoj</lok>
+            </fnt>.
+          </ekz>
+        </dif>
+      </snc>
+  <trdgrp lng="be">
+        <trd>&c_t;&c_r;&c_y;&c_b;&c_u;&c_h;&c_ib;</trd>,
+        <trd>&c_v;&c_a;&c_n;&c_t;&c_r;&c_o;&c_b;&c_y;</trd>
+      </trdgrp>
+  <trd lng="ca">budells</trd>
+  <trdgrp lng="cs">
+    <trd>dr&#x16F;bky</trd>,
+    <trd>dr&#x17E;ky</trd>,
+    <trd>vnit&#x159;nosti</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+        <trd>Eingeweide</trd>,
+        <trd>Kaldaunen</trd>,
+        <trd>Kutteln</trd>
+      </trdgrp>
+  <trd lng="en">tripe</trd>
+  <trdgrp lng="fa">
+        <trd>&a_sh;&f_k;&a_n;&a_b;&a_h;</trd>,
+        <trd>&a_s;&f_y;&a_r;&a_A;&a_b;&f_y;</trd>,
+        <trd>&a_d;&a_l; &a_w; &a_r;&a_w;&a_d;&a_h;</trd>
+      </trdgrp>
+  <trd lng="fr">tripes</trd>
+  <trdgrp lng="hu">
+        <trd>zsigerek</trd>,
+        <trd>bels&odblac;s&eacute;g</trd>,
+        <trd>pacal</trd>
+      </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x306F;&#x3089;&#x308F;&#x305F;</trd>,
+    <trd>&#x81D3;&#x7269;  <pr>&#x305E;&#x3046;&#x3082;&#x3064;</pr></trd>,
+    <trd>&#x80C3;  <pr>&#x3044;</pr></trd>,
+    <trd>&#x30C8;&#x30E9;&#x30A4;&#x30D7;</trd>
+  </trdgrp>
+  <trd lng="nl">pens</trd>
+  <trd lng="pl">podroby</trd>
+  <trd lng="pt">tripa</trd>
+  <trdgrp lng="ru">
+        <trd>&c_v;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>,
+        <trd>&c_p;&c_o;&c_t;&c_r;&c_o;&c_h;&c_a;</trd>,
+        <trd>&c_t;&c_r;&c_je;&c_b;&c_u;&c_h;&c_a;</trd>
+      </trdgrp>
+  <trdgrp lng="sk">
+    <trd>droby</trd>,
+    <trd>jedl&#xE9; &#x10D;rev&#xE1; zvierat</trd>,
+    <trd>vn&#xFA;tornosti</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x443;&#x442;&#x440;&#x43E;&#x449;&#x456;</trd>,
+    <trd>&#x43A;&#x438;&#x448;&#x43A;&#x438;</trd>,
+    <trd>&#x43F;&#x43E;&#x442;&#x440;&#x443;&#x445;</trd>,
+    <trd>&#x43F;&#x43E;&#x442;&#x440;&#x443;&#x445;&#x438;</trd>,
+    <trd>&#x442;&#x435;&#x43B;&#x44C;&#x431;&#x443;&#x445;&#x438;</trd>,
+    <trd>&#x444;&#x43B;&#x44F;&#x43A;&#x438;</trd>,
+    <trd>&#x444;&#x43B;&#x44F;&#x447;&#x43A;&#x438;</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.21 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+  Revision 1.17  2015/06/29 16:40:20  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.16  2013/12/02 13:10:45  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.15  2013/04/25 05:10:09  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.14  2012/08/14 13:10:25  revo
+  Marc Rausell: + trd ca
+
+  Revision 1.13  2011/10/01 14:10:19  revo
+  Behnam Tabatabai: +trd fa
+
+  Revision 1.12  2008/06/04 16:49:48  revo
+  Sergio Pokrovskij: dif, ekz, TEZ
+
+  Revision 1.11  2006/02/16 17:34:59  revo
+-->
+</vortaro>

@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: monoto.xml,v 1.24 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <ofc>6</ofc> <rad>monoton</rad>/a <fnt><bib>Fab2</bib></fnt>
+</kap>
+<drv mrk="monoto.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="monoto.0a.unutona">
+    <dif>
+      <ref tip="dif" cel="ton.unu0a">Unutona</ref>:
+      <ekz>
+        la fre&scirc;a fonta akvo vigle el&scirc;prucadis, kaj mistere sonadis la <tld/>a kluk, kluk
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sonorilo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iam la sama sono, tiel <tld/>a, tiel enuiga, tiel terure enuiga, ke la
+        malgranda <nom>Tuk</nom> enfalis en profundan dormon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malgranda Tuk</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        solece kaj <tld/>e pasas la tago
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        griza vesto sen iaj ornamoj, butonumita sur la brusto per vico da <tld/>aj
+        butonoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        promesi mi ne povas, respondis la mastrino <tld/>e, &gcirc;entile, sed rigide
+        <klr>(kp <ref cel="indife.0e">indiferente</ref>)</klr>
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio renversis la trankvilan kaj <tld/>an vivon de
+        Kuniberto
+        <fnt><aut>Irina Gon&ccirc;arova</aut>: 
+          <vrk>Vivi plu: kial?  (Gudrun Pausewang: La avo en la &ccirc;areto)</vrk>,
+          <bib>Monato</bib><lok>jaro 2002a, numero 6a, p. 20a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="enu.0iga">enuiga</ref>,
+      <ref cel="mild.0a">milda</ref>,
+      <ref cel="akr.mal0a">malakra</ref>,
+      <ref cel="obtuz.0a.sente">obtuza<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_a;&c_n;&c_a;&c_t;&c_o;&c_n;&c_n;&c_y;</trd>,
+      <trd>&c_a;&c_d;&c_n;&c_a;&c_t;&c_o;&c_n;&c_n;&c_y;</trd>
+    </trdgrp>
+  <trdgrp lng="de">
+      <trd>eint&ouml;nig</trd>,
+      <trd>monoton</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+    <trd>monotone</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>egyhang&uacute;</trd>,
+    <trd>monoton</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>eentonig</trd>,
+    <trd>monotoon</trd>
+  </trdgrp>
+  <trd lng="pl">monotonny</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_o;&c_n;&c_o;&c_t;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_d;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_d;&c_n;&c_o;&c_z;&c_v;&c_u;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  </snc>
+  <snc mrk="monoto.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>
+      <frm am="f"><k>f</k></frm>
+      inter du <ref cel="ar.orda0o">ordaj aroj</ref>)</klr>
+      <ref cel="kresk.0anta.bildigo">Kreskanta</ref> a&ubreve;
+      <ref cel="kresk.mal0anta.bildigo">malkreskanta</ref>:
+      <ekz>
+        la funkcio <frm am="x^2"><k>x</k><sup>2</sup></frm> ne estas
+        <tld/>a, 
+        sed <frm am="x^3"><k>x</k><sup>3</sup></frm> ja estas;
+      </ekz>
+      <ekz>
+        <ind>popece <tld/>a</ind> reela funkcio <klr>(<tld/>a sur &ccirc;iu 
+        elemento de dispartigo de &gcirc;ia fonto-aro en intervalojn)</klr>;
+        <trd lng="de">st&uuml;ckweise <ind>monoton</ind><klr tip="ind"> (-e
+        Funktion)</klr></trd>
+        <trd lng="en">piecewise <ind>monotonic</ind><klr tip="ind">
+        (function)</klr></trd>
+        <trd lng="fr"><klr tip="ind">(fonction) </klr>monotone par
+        morceaux</trd>
+        <trd lng="hu">szakaszonk&eacute;nt <ind>monoton</ind><klr tip="ind">
+        (f&uuml;ggv&eacute;ny)</klr></trd>        
+        <trd lng="pl"><klr tip="amb">(funkcja) </klr>przedzia&lstroke;ami
+        <ind>monotoniczna</ind></trd>
+        <trd lng="ru">&c_k;&c_u;&c_s;&c_o;&c_ch;&c_n;&c_o;-&c_m;&c_o;&c_n;&c_o;&c_t;&c_o;&c_n;&c_n;&c_a;&c_ja;<klr tip="amb">
+        (&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;)</klr></trd>
+      </ekz>
+      <ekz>
+        <ind>strikte <tld/>a</ind> bildigo <klr>(strikte kreskanta a&ubreve;
+        strikte malkreskanta)</klr>;
+        <trd lng="de">streng <ind>monoton</ind><klr tip="ind"> (-e
+        Abbildung)</klr></trd>
+        <trd lng="en">strictly <ind>monotonic</ind><klr tip="ind">
+        (mapping)</klr></trd>
+        <trd lng="fr"><klr tip="ind">(application) </klr>strictement
+        monotone</trd>
+        <trd lng="hu">szigor&uacute;an <ind>monoton</ind><klr tip="ind">
+        (lek&eacute;pez&eacute;s)</klr></trd>        
+        <trd lng="pl"><klr tip="amb">(funkcja) </klr>silnie
+        <ind>monotoniczna</ind></trd>
+        <trd lng="ru">&c_s;&c_t;&c_r;&c_o;&c_g;&c_o;-&c_m;&c_o;&c_n;&c_o;&c_t;&c_o;&c_n;&c_n;&c_o;&c_je;<klr tip="amb">
+        (&c_o;&c_t;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+      </ekz>
+      <ekz>
+        <tld/>a <ref cel="konver.0a.MAT">konver&gcirc;a</ref> teoremo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=104458">Konver&gcirc;o</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_t;&c_o;&c_n;&c_n;&c_y;</trd>
+    <trd lng="de">monoton<klr tip="ind"> (-e Abbildung)</klr></trd>
+    <trdgrp lng="en">
+      <trd>monotonic<klr tip="ind"> (mapping)</klr></trd>,
+      <trd>monotone<klr tip="ind"> (mapping)</klr></trd>
+    </trdgrp>
+    <trd lng="fr"><klr tip="ind">(application) </klr>monotone</trd>
+    <trd lng="hu">monoton<klr tip="amb"> (lek&eacute;pez&eacute;s)</klr></trd>    
+    <trd lng="pl"><klr tip="amb">(funkcja) </klr>monotoniczna</trd>
+    <trd lng="ru">&c_m;&c_o;&c_n;&c_o;&c_t;&c_o;&c_n;&c_n;&c_o;&c_je;<klr tip="amb">
+    (&c_o;&c_t;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>f&aacute;dn&iacute;</trd>,
+    <trd>jednotv&aacute;rn&yacute;</trd>,
+    <trd>monot&oacute;nn&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5358;&#x8ABF;&#x306A;  <pr>&#x305F;&#x3093;&#x3061;&#x3087;&#x3046;&#x306A;</pr></trd>,
+    <trd>&#x4E00;&#x672C;&#x8ABF;&#x5B50;&#x306E;  <pr>&#x3044;&#x3063;&#x307D;&#x3093;&#x3062;&#x3087;&#x3046;&#x3057;&#x306E;</pr></trd>,
+    <trd>&#x5909;&#x5316;&#x306B;&#x4E4F;&#x3057;&#x3044;  <pr>&#x3078;&#x3093;&#x304B;&#x306B;&#x3068;&#x307C;&#x3057;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>jednostrann&yacute;</trd>,
+    <trd>jednozvu&ccaron;n&yacute;</trd>,
+    <trd>monot&oacute;nny</trd>,
+    <trd>otupn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&#x43D;&#x43E;&#x442;&#x43E;&#x43D;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43E;&#x434;&#x43D;&#x43E;&#x43C;&#x430;&#x43D;&#x456;&#x442;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43E;&#x434;&#x43D;&#x43E;&#x437;&#x432;&#x443;&#x447;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.21 2020/03/22 11:10:18
+Wolfram Diestel: +ekz-oj
+
+Revision 1.20  2020/02/15 18:10:22  revo
+Wolfram Diestel: formuloj per am
+
+Revision 1.19  2018/08/07 07:10:19  revo
+Michel Cantigneaux: aperas unue en PV (1934), oficiala en 6OA (1935)
+
+Revision 1.18  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/05/09 07:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2009/05/26 16:30:27  revo
+-->
+</vortaro>

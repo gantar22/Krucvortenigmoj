@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: cereal.xml,v 1.33 2023/10/31 13:37:03 revo Exp $">
+<kap>
+  <rad>cereal</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="cereal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="cereal.0o.AGR">
+    <tezrad fak="AGR"/>
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      <ref tip="dif" cel="gren.0o">Greno</ref>:
+      <ekz>
+        mi revenis al mia kutima brita supermarkto, kaj trovis matenman&gcirc;ajn <tld/>ojn
+        kun dinosa&ubreve;roj
+        <fnt>
+          <aut>Marjorie Boulton</aut>
+          <vrk><url ref="&Monato;/1994/A940201.php">Dinomanio</url></vrk>
+          <bib>Monato</bib>
+          <lok>1994/02, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la agro produktis, krom la <tld/>ojn, anka&ubreve; legomojn kaj kiajn ajn fruktojn
+        <fnt><aut>Bardhyl Selimi</aut>:
+          <vrk><url ref="&Monato;/2001/007205.html">Voja&gcirc;impresoj, somero 2000</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/01, p. 26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hejti domojn oni ne devas nepre per petrolo, oni povas uzi diversajn aliajn
+        brula&jcirc;ojn, kiel <klr>[&#x2026;]</klr> brula&jcirc;o el <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2007/009177.php">Bone nutrataj a&ubreve;toj</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="herb.pan0o.AGR">panherbo</ref>
+    <trd lng="zh">&#x9EA5; <pr>m&#xE0;i</pr></trd>
+</snc>
+  <rim>
+    Angle &leftquot;<nac>cereals</nac>&rightquot; (la&ubreve; Cereso, la romia diino de terkulturo) esti&gcirc;is kiel simpla
+    varbnomo por pli bone vendi grenproduktojn kiel man&gcirc;a&jcirc;o.
+    Intertempe oni uzas &leftquot;<tld/>o&rightquot; kaj &leftquot;greno&rightquot; sinonime, kiel montras la supraj ekzemploj.
+    Foje oni alkalkulas similajn grajna&jcirc;ojn, pli &gcirc;uste nomitajn &leftquot;pse&ubreve;do<tld/>o&rightquot; a&ubreve; &leftquot;pse&ubreve;dogreno&rightquot;,
+
+    kiel <ref cel="amaran.0o">amaranto</ref>, <ref cel="fagopi.0o">fagopiro</ref>,
+    <ref cel="kvino.0o">kvinoo</ref>.
+  </rim>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_b;&c_o;&c_zh;&c_zh;&c_a;</trd>,
+    <trd>&c_z;&c_b;&c_a;&c_zh;&c_y;&c_n;&c_a;</trd>,
+    <trd>&c_z;&c_l;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trd lng="ca">cereal</trd>
+  <trd lng="cs">obilovina</trd>
+  <trdgrp lng="de">
+    <trd>Getreide</trd>,
+    <trd>Zerealien</trd>,
+    <trd>Cerealien</trd>
+  </trdgrp>
+  <trd lng="el">&delta;&eta;&my;&eta;&tau;&rho;&jota;&alfa;&kappa;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">cereal</trd>
+  <trd lng="es">cereal</trd>
+  <trd lng="fr">c&eacute;r&eacute;ale</trd>
+  <trd lng="he">&dalet;&gimel;&nun;&yod; &bet;&vav;&qof;&resh;</trd>
+  <trdgrp lng="hu">
+    <trd>gabonan&ouml;v&eacute;ny</trd>,
+    <trd>gabonaf&eacute;le</trd>
+  </trdgrp>
+  <trd lng="it">cereale</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7A40;&#x8349; <pr>&#x3053;&#x304F;&#x305D;&#x3046;</pr></trd>,
+    <trd>&#x7A40;&#x7269;  <pr>&#x3053;&#x304F;&#x3082;&#x3064;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">koren</trd>
+  <trd lng="pl">zbo&zdot;e</trd>
+  <trd lng="pt">cereal</trd>
+  <trd lng="ru">&c_z;&c_l;&c_a;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>obilie</trd>,
+    <trd>obilniny</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.32 2023/10/14 11:10:02
+revo: transskribo per <pr>
+
+versio 1.31 2023/09/12 17:25:37
+Wolfram Diestel: pr. ja
+
+versio 1.29 2023/04/18 11:23:28
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.28 2023/04/11 09:27:20
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.27 2022/04/26 16:27:52
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.26 2021/09/06 17:32:40
+Wolfram Diestel: +ekz-oj, rim
+
+Revision 1.23  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2012/08/26 12:10:25  revo
+-->
+</vortaro>

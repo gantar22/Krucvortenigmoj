@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cxinesk.xml,v 1.3 2023/12/26 07:23:43 revo Exp $">
+<kap>
+  <rad>&ccirc;inesk</rad>/o
+</kap>
+<drv mrk="cxinesk.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="cxinesk.0o.POE">
+    <uzo tip="fak">POE</uzo>
+    <dif>
+      Io kun &ccirc;inaj ecoj, interalie
+      <ref tip="super" cel="poezi.0ajxo.POE">poezia&jcirc;o</ref>
+      farita la&ubreve; tradicia &ccirc;ina formo:
+      <ekz>
+        ekkoninte <tld/>on, la granda poeto <nom>William Auld</nom>
+        estis tiel entuziasmigita ke li verkis
+        favoran recenzon <ctl>Ekjuku la poeta mano</ctl>
+        <fnt>
+          <aut>Guozhu</aut>,
+          <vrk><url
+          ref="http://cindymckee.com/librejo/sxlosilo_de_cxinesko.pdf&#8206;">
+          &Scirc;losilo de &Ccirc;inesko</url></vrk>,
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_t;&c_a;&c_j;&c_s;&c_k;&c_ib; &c_s;&c_t;&c_y;&c_l;&c_mol; <klr>(&c_n;&c_a;&c_p;&c_r;. &c_u; &c_p;&c_a;&c_e;&c_z;&c_ib;&c_ib;)</klr></trd>
+  <trd lng="de">Chinoiserie</trd>
+  <trdgrp lng="fr">
+    <trd>chinoiserie</trd>,
+    <trd>po&egrave;me &agrave; la mani&egrave;re chinoise</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.3 2023/12/26 07:23:43
+Dmitri Gabinski: + trd be
+
+versio 1.2 2023/08/01 17:25:35
+Wolfram Diestel: +trd de
+-->
+</vortaro>

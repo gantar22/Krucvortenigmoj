@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kronom1.xml,v 1.16 2023/12/03 09:59:02 revo Exp $">
+<kap>
+  <rad>kronometri</rad>/o
+</kap>
+<drv mrk="kronom1.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+  <uzo tip="fak">SCI</uzo>
+    <dif>
+      Parto de la fiziko, pritraktanta la mezuradon de la tempo:
+      <ekz>
+        kronometrio <klr>[&#x2026;]</klr> temas pri la indiko de tempaj unuoj en 
+        klare difinitaj fizikaj mezurunuoj &dash; tio inkluzivas:
+        la fiksadon de momento <klr>[&#x2026;]</klr>,
+        la mezuradon de tempointervaloj helpe de tempa skalo, <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=404093">Tempomezurado</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_r;&c_a;&c_n;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</trd>
+  <trdgrp lng="de">
+     <trd>Chronometrie</trd>,
+     <trd>Zeitmessung</trd>
+  </trdgrp>
+  <trd lng="en">chronometry</trd>
+  <trd lng="fr">chronom&eacute;trie</trd>
+  <trdgrp lng="hu">
+     <trd>kronometria</trd>,
+     <trd>id&odblac;m&eacute;r&eacute;stan</trd>,
+     <trd>tudom&aacute;nyos <ind>id&odblac;m&eacute;r&eacute;s</ind></trd>
+  </trdgrp> 
+  <trd lng="ja">&#x6642;&#x9593;&#x6E2C;&#x5B9A;  <pr>&#x3058;&#x304B;&#x3093;&#x305D;&#x304F;&#x3066;&#x3044;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>chronometria</trd>,
+    <trd>metrologia czasu</trd>
+  </trdgrp>
+  <trd lng="pt">cronometria</trd> 
+  <trd lng="ro">chronometrie</trd>
+  <trd lng="ru">&c_h;&c_r;&c_o;&c_n;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="uk">&#x445;&#x440;&#x43E;&#x43D;&#x43E;&#x43C;&#x435;&#x442;&#x440;&#x456;&#x44F;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x65F6;&#x95F4;&#x6D4B;&#x5B9A;&#x5B66; <pr>sh&#xED;ji&#x101;nc&#xE8;d&#xEC;ngxu&#xE9;</pr></trd>,
+    <trd>&#x6642;&#x9593;&#x6E2C;&#x5B9A;&#x5B78; <pr>sh&#xED;ji&#x101;nc&#xE8;d&#xEC;ngxu&#xE9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kronom1.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_r;&c_a;&c_n;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+     <trd>chronometrisch</trd>,
+     <trd>zeitlich (eingeordnet)</trd>
+  </trdgrp>
+  <trd lng="en">chronometric</trd>
+  <trd lng="fr">chronom&eacute;trique</trd>
+  <trdgrp lng="hu">
+     <trd>kronometriai</trd>,
+     <trd>id&odblac;m&eacute;r&eacute;stani</trd>
+  </trdgrp>  
+  <trd lng="pl">chronometrowy</trd>     
+  <trd lng="ro">de chronometrie</trd>
+  <trd lng="ru">&c_h;&c_r;&c_o;&c_n;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="uk">&#x445;&#x440;&#x43E;&#x43D;&#x43E;&#x43C;&#x435;&#x442;&#x440;&#x438;&#x447;&#x43D;&#x438;&#x439;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.15 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+Revision 1.11  2018/10/02 19:10:15  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.10  2014/12/22 11:10:20  revo
+Damien Brucker: +trd fr
+
+Revision 1.9  2006/10/31 17:30:50  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2004/05/20 20:14:11  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2003/04/22 16:31:33  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2002/03/27 17:31:17  revo
+Ulrich Fellmann: + 4 germ trdj
+
+Revision 1.5  2001/11/07 19:17:57  revo
+-->
+</vortaro>

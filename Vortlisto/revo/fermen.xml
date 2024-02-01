@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fermen.xml,v 1.28 2023/11/09 19:13:16 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>ferment</rad>/i
+</kap>
+<drv mrk="fermen.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      &Scirc;an&gcirc;i sian konsiston estigante alkoholon, vinagron, laktacidon kc,
+      ne putrante:
+      <ekz>
+        el la pasto <klr>[&#x2026;]</klr> ili bakis macajn platpanojn, &ccirc;ar &gcirc;i ankora&ubreve; ne
+        <tld/>is
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 12:39</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KUI</uzo>
+        <ind><tld/>inta</ind> trinka&jcirc;o;
+        <trd lng="fr">ferment&eacute;</trd>
+        <trdgrp lng="hu">
+          <trd>megerjedt</trd>,
+          <trd>kelt<klr tip="amb"> (t&eacute;szta)</klr></trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        la premitaj vinberoj <tld/>as nur tiom longe, &gcirc;is esti&gcirc;as la tipe roza koloro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2005/008488.php">Kuk-urbo</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="kaze.0igxi">kazei&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="fermen.0i.FIG">
+    <dif>
+      <klr>(pri sento, precipe malkontenta, protesta)</klr>
+      Pliforti&gcirc;i interne minacante eksplodi balda&ubreve;:
+      <ekz>
+        gigantaj planoj <tld/>as en mia kreema kranio
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        forta kolero kontra&ubreve; la malagrabla&jcirc;oj de la vivo komencis <tld/>i en li
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Disaj vojoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la malbona penso ku&scirc;is en lia sango, &ccirc;iam denove bolis kaj <tld/>is en li la
+        sento de maldol&ccirc;eco
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_r;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_ib;&c_s;&c_n;&c_u;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">kvasit</trd>
+  <trdgrp lng="de">
+     <trd>g&auml;ren</trd>,
+     <trd>in <ind>G&auml;rung</ind> sein</trd></trdgrp>
+  <trd lng="en">ferment</trd>
+  <trd lng="es">fermentar</trd>
+  <trdgrp lng="fr">
+    <trd>fermenter</trd>,
+    <trd>lever<klr tip="ind"> (fermenter)</klr></trd></trdgrp>
+  <trdgrp lng="hu">
+    <trd>erjed</trd>,
+    <trd>kel<klr tip="amb">(t&eacute;szta)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x767A;&#x9175;&#x3059;&#x308B;  <pr>&#x306F;&#x3063;&#x3053;&#x3046;&#x3059;&#x308B;</pr></trd>
+  <trd lng="nl">fermenteren</trd>
+  <trd lng="pl">fermentowa&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_r;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_k;&c_i;&c_s;&c_n;&c_u;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr>(&c_o; &c_t;&c_je;&c_s;&c_t;&c_je;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kvasi&tcaron;</trd>,
+    <trd>kysn&uacute;&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_r;&#x43E;&c_d;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43A;&c_i;&c_s;&#x43D;&c_u;&c_t;&c_i;</trd>,
+    <trd>&c_f;&c_je;&c_r;&#x43C;&c_je;&#x43D;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_s;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&c_r;&#x43E;&c_s;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&#x43D;&c_ib;&#x43C;&c_a;&c_t;&c_i;&c_s;&#x44F; (&#x43F;&c_r;&#x43E; &c_t;&c_ib;&c_s;&c_t;&#x43E;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fermen.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="fermen.0o.ago">
+    <dif>
+      Fermentado:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        tiuj ideoj faris certan servon al la lingvo kaj utilis kiel bona komenco por &gcirc;ia
+        <tld/>o
+        <fnt>
+          <bib>Zam</bib>
+          <lok>Rolo de Zamenhof en la internacilingva movado</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_b;&c_r;&c_a;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+      <trd>&c_s;&c_k;&c_ib;&c_s;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+      <trd>&c_f;&c_e;&c_r;&c_m;&c_e;&c_n;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>
+    </trdgrp>
+    <trdgrp lng="cs">
+      <trd>fermentace</trd>,
+      <trd>kva&scaron;en&iacute;</trd>,
+      <trd>zkva&scaron;ov&aacute;n&iacute;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+       <trd>G&auml;rung</trd>,
+       <trd>Fermentation</trd>
+    </trdgrp>
+    <trd lng="en">fermentation</trd>
+    <trd lng="es">fermentaci&oacute;n</trd>
+    <trd lng="fr">fermentation</trd>
+    <trdgrp lng="hu">
+      <trd>erjed&eacute;s</trd>,
+      <trd>kel&eacute;s<klr tip="amb">(t&eacute;szta)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">fermentatie</trd>
+    <trd lng="pl">fermentacja</trd>
+    <trdgrp lng="ru">
+      <trd>&c_b;&c_r;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_s;&c_k;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_f;&c_je;&c_r;&c_m;&c_je;&c_n;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
+    </trdgrp>
+    <trd lng="sk">kvasenie</trd>
+    <trdgrp lng="zh">
+    <trd>&#x53D1;&#x9175; <pr>f&#x101;ji&#xE0;o</pr></trd>,
+    <trd>&#x917F;&#x9020; <pr>ni&#xE0;ngz&#xE0;o</pr></trd>
+  </trdgrp>
+</snc>  
+  <snc>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <tld lit="F"/>ilo, enzimo:
+      <ekz>
+        tiuj molekuloj de RNA, diference de molekuloj de DNA, posedas memstaran <tld/>an
+        aktivecon kaj povas reprodukti&gcirc;i sen helpo de aliaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2008/009428.php">Lastaj opinioj pri la origino de vivo</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x767A;&#x9175;&#x4F53;  <pr>&#x306F;&#x3063;&#x3053;&#x3046;&#x305F;&#x3044;</pr></trd>,
+    <trd>&#x767A;&#x9175;&#x5FAE;&#x751F;&#x7269;  <pr>&#x306F;&#x3063;&#x3053;&#x3046;&#x3073;&#x305B;&#x3044;&#x3076;&#x3064;</pr></trd>,
+    <trd>&#x9175;&#x7D20;  <pr>&#x3053;&#x3046;&#x305D;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fermen.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+    <dif>
+      Malkomponi&gcirc;o per <tld/>o:
+      <ekz>
+        pulkvo do estas la alkohola trinka&jcirc;o <klr>[&#x2026;]</klr> estigita dum la natura
+        <tld/>ado de la miel-akvo &ccirc;erpita el tiu kolosa agavo
+        <fnt>
+          <aut>Fidel Figueroa</aut>
+          <vrk><url ref="&Monato;/2000/007033.php">Nepre &gcirc;ia nomo estas Meksiko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/10, p. 14</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        mieleca gusto, ka&ubreve;zata de multe da alkoholo (9,5%), kun re<tld/>ado post
+        enboteligo
+        <fnt>
+          <aut>Lode Van de Velde</aut>
+          <vrk><url ref="&Monato;/2001/007144.php">Bierlando Belgio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        belgaj bierspecoj, ordigitaj la&ubreve; la <tld/>adprocedo: alta (a&ubreve; varma), malalta
+        (a&ubreve; malvarma), spontanea kaj miksa fermentado
+        <fnt>
+          <aut>Lode Van de Velde</aut>
+          <vrk><url ref="&Monato;/2001/007144.php">Bierlando Belgio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_r;&c_a;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_s;&c_k;&c_ib;&c_s;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_f;&c_e;&c_r;&c_m;&c_e;&c_n;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fermentace</trd>,
+    <trd>kva&scaron;en&iacute;</trd>,
+    <trd>zkva&scaron;ov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>G&auml;rung</trd>,
+     <trd>Fermentation</trd></trdgrp>
+  <trd lng="en">fermentation</trd>
+  <trd lng="es">fermentaci&oacute;n</trd>
+  <trd lng="fr">fermentation</trd>
+  <trdgrp lng="hu">
+    <trd>erjed&eacute;s</trd>,
+    <trd>kel&eacute;s<klr tip="amb">(t&eacute;szta)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x767A;&#x9175;  <pr>&#x306F;&#x3063;&#x3053;&#x3046;</pr></trd>
+  <trd lng="nl">fermentatie</trd>
+  <trd lng="pl">fermentacja</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_r;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_k;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_f;&c_je;&c_r;&c_m;&c_je;&c_n;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">kvasenie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_r;&#x43E;&c_d;&c_ib;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_f;&c_je;&c_r;&#x43C;&c_je;&#x43D;&c_t;&c_a;&c_c;&c_ib;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x53D1;&#x9175; <pr>f&#x101;ji&#xE0;o</pr></trd>,
+    <trd>&#x917F;&#x9020; <pr>ni&#xE0;ngz&#xE0;o</pr></trd>,
+    <trd>&#x53D1;&#x9175;&#x4F5C;&#x7528; <pr>f&#x101;ji&#xE0;ozu&#xF2;y&#xF2;ng</pr></trd>,
+    <trd>&#x5927;&#x9A37;&#x4E82; <pr>d&#xE0;is&#x101;olu&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="fermen.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o,
+    <var><kap><tld/>ilo</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      Substanco, uzata por <tld/>i:
+      <ekz>
+        <ref cel="mac.0o">maco</ref>j estu man&gcirc;ataj dum la sep tagoj, kaj ne vidi&gcirc;u &ccirc;e vi <tld/>a&jcirc;o
+        kaj ne
+        vidi&gcirc;u &ccirc;e vi <tld/>inta pasto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 13:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malmulto da <tld/>a&jcirc;o fermentigas la tutan mason
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Korintanoj 5:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        alportinte hejmen la grenon, mi <klr>[&#x2026;]</klr> bezonas muelilon por mueli &gcirc;in,
+        kribrilon por kribri &gcirc;in, kaj <tld/>ilon por <tld/>i &gcirc;in, por fari panon el &gcirc;i
+        <fnt>
+          <bib>Rob</bib>
+          <lok>Parto III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la framasonismo servis kiel <tld/>ilo por la &leftquot;spiritaj&rightquot; tavoloj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="sod.bak0o">baksodo</ref>,
+      <ref cel="enzim.0o">enzimo</ref>,
+      <ref cel="gist.0o.KUI">gisto<sncref/></ref>,
+      <ref cel="kaze.0igajxo">kazeiga&jcirc;o</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_e;&c_r;&c_m;&c_e;&c_n;&c_t;</trd>,
+    <trd>&c_e;&c_n;&c_z;&c_y;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kvasnice</trd>,
+    <trd>z&aacute;kvas</trd>
+  </trdgrp>
+  <trd lng="de">Triebmittel</trd>
+  <trd lng="en">leavening agent</trd>
+  <trd lng="es">fermento</trd>
+  <trd lng="fr">ferment</trd>
+  <trd lng="hu">&eacute;leszt&odblac;</trd>
+  <trdgrp lng="nl">
+    <trd>ferment</trd>,
+    <trd>enzyme</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ferment</trd>,
+    <trd>zaczyn</trd>
+  </trdgrp>
+  <trd lng="pt">fermento</trd>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_je;&c_r;&c_m;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_v;&c_a;&c_s;&c_k;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_r;&c_y;&c_h;&c_l;&c_i;&#x301;&c_t;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>enz&yacute;m</trd>,
+    <trd>ferment</trd>,
+    <trd>kvas</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_je;&c_r;&#x43C;&c_je;&#x43D;&c_t;</trd>,
+    <trd>&c_z;&c_a;&#x43A;&c_v;&c_a;&c_s;&#x43A;&c_a;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_ch;&c_i;&#x43D;&c_a;</trd>,
+    <trd>&c_z;&c_a;&#x43F;&c_a;&c_r;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="fermen.0ema">
+  <kap><tld/>ema</kap>
+  <snc>
+    <dif>
+      Facile <tld/>anta.  
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y; &c_d;&c_a; <ind>&c_b;&c_r;&c_a;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>,
+    <trd>&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y; &c_d;&c_a; <ind>&c_f;&c_e;&c_r;&c_m;&c_e;&c_n;&c_t;&c_a;&c_c;&c_y;&c_ib;</ind></trd>
+  </trdgrp>
+  <trd lng="en">fermentable</trd>
+  <trd lng="fr">fermentescible</trd>
+  <trdgrp lng="hu">
+    <trd>erjeszthet&odblac;</trd>,
+    <trd>keleszthet&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x767A;&#x9175;&#x6027;&#x306E;  <pr>&#x306F;&#x3063;&#x3053;&#x3046;&#x305B;&#x3044;&#x306E;</pr></trd>,
+    <trd>&#x767A;&#x9175;&#x3057;&#x3084;&#x3059;&#x3044;  <pr>&#x306F;&#x3063;&#x3053;&#x3046;&#x3057;&#x3084;&#x3059;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">fermentowalny</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/14 18:06:40
+revo: transskribo per <pr>
+
+versio 1.25 2023/04/15 15:25:37
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.24 2023/04/14 05:27:16
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.23 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2022/02/18 22:28:34
+Wolfram Diestel: dif: precizigo; +snc FIG; +~ajxo/~ilo (anst. ne-fundamenta ~o); ekz-oj, ref-oj
+
+versio 1.20 2021/11/02 06:35:59
+Dmitri Gabinski: + trd be
+
+Revision 1.18  2017/06/28 20:10:22  revo
+Vito Redsky: +trd pl
+
+Revision 1.17  2015/07/04 08:37:34  revo
+-->
+</vortaro>

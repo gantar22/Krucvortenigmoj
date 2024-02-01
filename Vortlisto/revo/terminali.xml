@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: terminali.xml,v 1.9 2024/01/18 01:34:32 revo Exp $">
+<kap>
+    <rad>terminali</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="terminali.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="terminali.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="arb.0o.BOT">Arbo</ref> el tropikaj landoj kun lar&gcirc;aj elipsaj folioj,
+      senpetalaj
+      floretoj; <ref tip="lst" lst="voko:botanikaj_genroj" cel="genr.0o.BIO">genro</ref>
+      el familio kombretacoj (<trd lng="la">Terminalia</trd>);
+      unu specio (<nom>T. catappa</nom>) havas fruktojn kun man&gcirc;eblaj kernoj:
+      <ekz>
+        eburborda <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Eburborda_terminalio">Eburborda terminalio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li anka&ubreve; plantis grajnojn kaj kernojn de <tld/>oj
+        <fnt>
+          <aut>H. Bernardin de Saint-Pierre, trad. H. Hodler</aut>,
+          <vrk><url ref="http://www.luin.se/inko/180-1.pdf">
+          Pa&ubreve;lo kaj Virginio</url></vrk>,
+          <lok>1905</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/b/b9/Terminalia_catappa_4.jpg/320px-Terminalia_catappa_4.jpg" prm="CC    
+    BY-SA 3.0">fruktoj kaj floraro de <tld/>o (Terminalia catappa), Kostariko
+        <fnt>
+          <aut>Franz Xaver, propra verko</aut>
+          <lok><url
+          ref="&WCW;/File:Terminalia_catappa_4.jpg">&WCW;/File:Terminalia_catappa_4.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trdgrp lng="de">
+      <trd>Myrobalanen</trd>,
+      <trd>Katappenbaum</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_ib;&c_ja; <klr tip="amb">(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>termin&agrave;lia <klr>(g&egrave;nere Terminalia)</klr></trd>,
+    <trd><ind>ametller</ind> &iacute;ndic</trd>
+  </trdgrp>
+  <trd lng="en">Terminalia <klr>(T. arjuna, arjuna; T. bellerica,
+  beleric; T. chebula, haritaki)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>badamier</trd>,
+    <trd>terminalia</trd>
+  </trdgrp>
+  <trd lng="pl">migda&lstroke;ecznik</trd>
+  <trd lng="uk">&c_t;&c_je;&c_r;&#x43C;&c_ib;&#x43D;&c_a;&#x43B;&c_ib;&#x44F;</trd>
+  <trdgrp lng="zh">
+    <trd>&#27012;&#x4EC1;&#26641; <pr>l&#x1CE;nr&#xE9;nsh&#xF9;</pr></trd>,
+    <trd>&#x6B16;&#x4EC1;&#x6A39; <pr>l&#x1CE;nr&#xE9;nsh&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.9 2024/01/18 01:34:32
+Vito Redsky: +trd pl 
+
+versio 1.7 2022/11/10 10:35:53
+Dmitri Gabinski: + trd be
+
+versio 1.6 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.4 2021/03/18 17:18:10
+Wolfram Diestel: +bld, ekz, trd de, ref-oj
+
+Revision 1.2  2012/08/13 20:10:40  revo
+Marc Rausell: + trd ca
+
+Revision 1.1  2010/05/28 16:30:26  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

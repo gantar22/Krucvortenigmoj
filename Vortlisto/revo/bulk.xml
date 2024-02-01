@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bulk.xml,v 1.27 2023/10/29 19:11:04 revo Exp $">
+<kap><ofc>*</ofc>
+<rad>bulk</rad>/o</kap>
+<drv mrk="bulk.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">KUI</uzo>
+  <snc mrk="bulk.0o.paneto">
+    <dif>
+      <ref tip="super" cel="pan.0o">Paneto</ref>, pankuko el pli malpli
+      delikata faruno:
+      <ekz>
+        oni disdonadis <tld/>ojn kaj <ref cel="kring.0o">kringo</ref>jn
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Fluganta kofro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni a&ccirc;etis &ccirc;e la <tld/>isto spesdekan <ref cel="kraken.0o">krakeno</ref>n, oni ricevis kiel aldonon ses
+        grandajn <tld/>ojn, kaj tiuj <tld/>oj e&ccirc; estis kun sekvinberoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i opiniis, ke per glaso da lakto kaj per kelke da <tld/>oj &ccirc;iutage &scirc;i povos dum
+        kelka tempo sufi&ccirc;e subteni siajn fortojn
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu ne preferus tritikan <tld/>on, ol hordean
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        mi scias, ke kio en mia familio nomi&gcirc;as
+        &leftquot;<tld/>o&rightquot;, ne aspektas
+        kiel la &leftquot;<tld/>o&rightquot; de iu familio
+        alilanda<fnt><bib>HejmVort</bib>
+        <lok>&ccirc;ap. &leftquot;Kiel uzi la vortaron&rightquot;</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="skon.0o">skono</ref>
+    <trd lng="zh">&#x5C0F;&#x9762;&#x5305; <pr>xi&#x1CE;omi&#xE0;nb&#x101;o</pr></trd>
+</snc>
+  <trd lng="be">&c_b;&c_u;&c_l;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_h;&c_l;&c_je;&c_b;&c_ch;&c_je;</trd>
+  <trd lng="cs">houska</trd>
+  <trd lng="de">Br&ouml;tchen</trd>
+  <trdgrp lng="en">
+    <trd>roll</trd>,
+    <trd>bun</trd>
+  </trdgrp>
+  <trd lng="es">panecillo</trd>
+  <trd lng="fr">petit <ind>pain</ind></trd>
+  <trd lng="he">&#x5DC;&#x5D7;&#x5DE;&#x5E0;&#x5D9;&#x5D4;</trd>
+  <trd lng="hu">zsemlye</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30ED;&#x30FC;&#x30EB;&#x30D1;&#x30F3;</trd>,
+    <trd>&#x83D3;&#x5B50;&#x30D1;&#x30F3;  <pr>&#x304B;&#x3057;&#x30D1;&#x30F3;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">broodje</trd>
+  <trd lng="pl">bu&lstroke;ka</trd>
+  <trd lng="pt">p&atilde;ozinho</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_u;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_h;&c_l;&c_je;&c_b;&c_je;&c_c;</trd>
+  </trdgrp>
+    <trdgrp lng="sk">
+    <trd>pletenka</trd>,
+    <trd>&zcaron;em&lcaron;a</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x443;&#x43B;&#x43A;&#x430;</trd>,
+    <trd>&#x445;&#x43B;&#x456;&#x431;&#x435;&#x446;&#x44C;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.22 2020/09/16 06:32:21
+Wolfram Diestel: +ekz-oj, ref skono
+
+Revision 1.20  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2009/01/17 18:09:50  revo
+Wieland Pusch: +trd bg
+
+Revision 1.17  2005/04/12 16:34:32  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.16  2005/01/14 17:31:08  revo
+Vito Redsky: pl trd korekto l=&lstroke;
+
+Revision 1.15  2003/12/03 17:31:31  revo
+-->
+</vortaro>

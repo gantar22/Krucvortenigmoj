@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fakt.xml,v 1.109 2023/11/09 19:13:15 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>fakt</rad>/o
+</kap>
+
+<drv mrk="fakt.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Reala, nefikcia
+      <refgrp>
+        <ref cel="okaz.0o">okazo</ref>,
+        <ref cel="event.0o">evento</ref>,
+        <ref cel="fenome.0o.FIL">fenomeno</ref>
+      </refgrp>, pri kiu oni
+      fidinde scias kaj kiun oni povas uzi kiel bazon por
+      konkludo, rezonado a&ubreve; pruvo:
+      <ekz>
+        Esperanto vivas, tio estas <tld/>o;
+      </ekz><ekz>
+        esploro bazita sur la historiaj <tld/>oj;
+      </ekz><ekz>
+        la a&ubreve;toro prezentas <tld/>ojn kaj nombrojn kaj komentas
+        ilin;
+      </ekz>
+      <ekz>
+        ne ekzistas terno sen nazo nek <tld/>o sen bazo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni devas kunigi unu <tld/>on kun alia, por veni al konkludo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Predikanto 7:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        stranga &scirc;ajnis al &scirc;i la fakto, ke &scirc;i estas portata tra la aero
+        alte super la maro
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rakontoj <klr>[&#x2026;]</klr> konformaj al la <tld/>oj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi devas turni vian atenton al unu malgranda <tld/>o
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de la morto
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej gravaj faktoj <klr>(eventoj)</klr> de la regado de
+        <nom>Ramzes XII</nom>
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni dume konstatas tiun fakton, <klr>[&#x2026;]</klr> ke la ekzistado
+        mem de lingvo
+        internacia estas tute ebla
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rigardu la <tld/>ojn, kiuj sur &ccirc;iu pa&scirc;o sin trovas anta&ubreve; via
+        nazo
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        okazis <tld/>oj, kiuj maltrankviligis por iom da tempo la mondon
+        esperantistan
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden
+          en la 17a de a&ubreve;gusto 1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o, la&ubreve; la komuna dirmaniero, estas <tld/>o, kaj oni ne
+        povas simple &gcirc;in malatenti
+        <fnt><bib>MkM</bib>, <lok>epilogo, p.&nbsp;333a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">Trouens</trd>
+  <trd lng="am">&#x12A5;&#x12CD;&#x1290;&#x1273;&#x12CD;</trd>
+  <trd lng="ar">&a_H;&a_q;&a_y;&a_q;&a_t_marbuta;</trd>
+  <trd lng="az">fakt</trd>
+  <trd lng="be">&c_f;&c_a;&c_k;&c_t;</trd>
+  <trd lng="bn">&#x986;&#x9B8;&#x9B2;&#x9C7;</trd>
+  <trd lng="bs">&ccaron;injenica</trd>
+  <trd lng="ca">fet</trd>
+  <trd lng="co">difatti</trd>
+  <trdgrp lng="cs">
+    <trd>fakt</trd>,
+    <trd>faktum</trd>,
+    <trd>skute&ccaron;nost</trd>
+  </trdgrp>
+  <trd lng="cy">ffaith</trd>
+  <trd lng="da">kendsgerning</trd>
+  <trdgrp lng="de">
+    <trd>Tatsache</trd>,
+    <trd>Faktum</trd>,
+    <trd>Fakt</trd>
+  </trdgrp>
+  <trd lng="en">fact</trd>
+  <trd lng="es">hecho</trd>
+  <trd lng="et">tegelikult</trd>
+  <trd lng="eu">izan</trd>
+  <trd lng="fr">fait</trd>
+  <trd lng="fy">feit</trd>
+  <trd lng="ga">go deimhin</trd>
+  <trd lng="gd">gu dearbh</trd>
+  <trd lng="gl">feito</trd>
+  <trd lng="gu">&#xAB9;&#xA95;&#xAC0;&#xA95;&#xAA4;</trd>
+  <trd lng="ha">gaskiya</trd>
+  <trd lng="hi">&#x924;&#x925;&#x94D;&#x92F;</trd>
+  <trd lng="hmn">qhov tseeb</trd>
+  <trd lng="hr">&ccaron;injenica</trd>
+  <trd lng="ht">reyalite</trd>
+  <trd lng="hu">t&eacute;ny</trd>
+  <trd lng="hy">&#x583;&#x561;&#x57D;&#x57F;</trd>
+  <trd lng="id">fakta</trd>
+  <trd lng="ig">N&#x2019;eziokwu</trd>
+  <trd lng="is">sta&#xF0;reynd</trd>
+  <trd lng="ja">&#x4E8B;&#x5B9F; <pr>&#x3058;&#x3058;&#x3064;</pr></trd>
+  <trd lng="jv">kasunyatan</trd>
+  <trd lng="ka">&#x10D8;&#x10E1; &#x10E4;&#x10D0;&#x10E5;&#x10E2;&#x10D8;,</trd>
+  <trd lng="kk">&c_f;&c_a;&c_k;&c_t;</trd>
+  <trd lng="km">&#x1787;&#x17B6;&#x1780;&#x17B6;&#x179A;&#x1796;&#x17B7;&#x178F;</trd>
+  <trd lng="kn">&#xCB5;&#xCBE;&#xCB8;&#xCCD;&#xCA4;&#xCB5;&#xCB5;&#xCBE;&#xC97;&#xCBF;</trd>
+  <trd lng="ko">&#xC0AC;&#xC2E4;</trd>
+  <trd lng="ku">ber&ccedil;av&icirc;</trd>
+  <trd lng="ky">&c_ch;&c_y;&c_n;&c_d;&c_y;&c_k;</trd>
+  <trd lng="lat">eo</trd>
+  <trd lng="lo">&#xE84;&#xEA7;&#xEB2;&#xEA1;&#xE88;&#xEB4;&#xE87;</trd>
+  <trd lng="lt">faktas</trd>
+  <trd lng="lv">fakts</trd>
+  <trd lng="mg">raha ny marina</trd>
+  <trd lng="mi">meka</trd>
+  <trd lng="mk">&c_V;&c_s;&c_u;&c_sh;&c_n;&c_o;&c_s;&c_t;</trd>
+  <trd lng="ml">&#xD35;&#xD38;&#xD4D;&#xD24;&#xD41;&#xD24;</trd>
+  <trd lng="mn">&c_n;&c_mol;</trd>
+  <trd lng="mr">&#x916;&#x930;&#x902;</trd>
+  <trd lng="ms">fakta</trd>
+  <trd lng="mt">fatt</trd>
+  <trd lng="my">&#x1021;&#x1001;&#x103B;&#x1000;&#x103A;&#x1021;&#x101C;&#x1000;&#x103A;</trd>
+  <trd lng="ne">&#x935;&#x93E;&#x938;&#x94D;&#x924;&#x935;&#x92E;&#x93E;</trd>
+  <trd lng="nl">feit</trd>
+  <trd lng="ny">ndipotu</trd>
+  <trd lng="pa">&#xA05;&#xA38;&#xA32; &#x2018;</trd>
+  <trd lng="pl">fakt</trd>
+  <trd lng="ps">&a_H;&a_q;&a_y;&a_q;&a_t;</trd>
+  <trdgrp lng="pt">
+    <trd>fato</trd>,
+    <trd>acontecimento</trd>,
+    <trd>ocorr&ecirc;ncia</trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_a;&c_k;&c_t;</trd>
+  <trd lng="rw">ukuri</trd>
+  <trd lng="sd">&a_H;&a_q;&a_y;&a_q;&a_t; &a_A;&a_h;&a_A; &a_A_madda;&a_h;&a_y; &a_t;&a_h;</trd>
+  <trd lng="si">&#xD87;&#xDAD;&#xDCA;&#xDAD;</trd>
+  <trd lng="sk">skuto&ccaron;nos&tcaron;</trd>
+  <trd lng="sl">dejstvo</trd>
+  <trd lng="sm">mea moni</trd>
+  <trd lng="sn">chokwadi</trd>
+  <trd lng="so">xaqiiqda</trd>
+  <trd lng="sq">fakti</trd>
+  <trd lng="st">ha e le hantle</trd>
+  <trd lng="su">pakta</trd>
+  <trd lng="sw">ukweli</trd>
+  <trd lng="ta">&#xB89;&#xBA3;&#xBCD;&#xBAE;&#xBC8;</trd>
+  <trd lng="te">&#xC28;&#xC3F;&#xC1C;&#xC3E;&#xC28;&#xC3F;&#xC15;&#xC3F;</trd>
+  <trd lng="tg">&c_d;&c_a;&c_l;&c_je;&c_l;&c_i;</trd>
+  <trd lng="th">&#xE04;&#xE27;&#xE32;&#xE21;&#xE40;&#xE1B;&#xE47;&#xE19;&#xE08;&#xE23;&#xE34;&#xE07;</trd>
+  <trd lng="tl">katunayan</trd>
+  <trd lng="tt">&c_f;&c_a;&c_k;&c_t;</trd>
+  <trd lng="uk">&c_f;&c_a;&c_k;&c_t;</trd>
+  <trd lng="ur">&a_H;&a_q;&f_y;&a_q;&a_t; &f_y;&#x6C1; &#x6C1;&#x6D2;</trd>
+  <trd lng="uz">dalil</trd>
+  <trd lng="vi">th&#x1EF1;c t&#x1EBF;</trd>
+  <trd lng="xh">inyaniso</trd>
+  <trd lng="yi">&pe;&alef;&#x5B7;&qof;&tet;</trd>
+  <trd lng="yo">o daju</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E8B;&#x5B9E; <pr>sh&#xEC;sh&#xED;</pr></trd>,
+    <trd>&#x5B9E;&#x9645;&#x60C5;&#x51B5; <pr>sh&#xED;j&#xEC;q&#xED;ngku&#xE0;ng</pr></trd>,
+    <trd>&#x5B9E;&#x60C5; <pr>sh&#xED;q&#xED;ng</pr></trd>,
+    <trd>&#x5B9E;&#x4E8B; <pr>sh&#xED;sh&#xEC;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">empeleni</trd>
+</drv>
+
+<drv mrk="fakt.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Reale, vere okazinta a&ubreve; okazanta:
+      <ekz>
+        estus tre malsa&gcirc;e <klr>[&#x2026;]</klr> de la komitato, se &gcirc;i pro la
+        problema estonta&jcirc;o
+        rifuzus la <tld/>an kaj en &ccirc;iuj rilatoj finitan kaj elprovitan
+        nuna&jcirc;on
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la diskriminacio estis ne formala <klr>[&#x2026;]</klr> sed <tld/>a
+        <fnt>
+          <aut>Sylvia Brylska</aut>
+          <vrk><url ref="&Monato;/1993/A930801.php">&Ccirc;u reiri al naciaj
+          radikoj?</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/08, p. 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_k;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="ca">
+    <trd>real</trd>,
+    <trd>efectiu</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>faktick&yacute;</trd>,
+    <trd>faktov&yacute;</trd>,
+    <trd>opravdov&yacute;</trd>,
+    <trd>re&aacute;ln&yacute;</trd>,
+    <trd>skute&ccaron;n&yacute;</trd>,
+    <trd>skutkov&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">factual</trd>
+  <trdgrp lng="fr">
+    <trd>factuel</trd>,
+    <trd>effectif</trd>
+  </trdgrp>
+  <trd lng="id">nyata</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E8B;&#x5B9F;&#x4E0A;&#x306E;  <pr>&#x3058;&#x3058;&#x3064;&#x3058;&#x3087;&#x3046;&#x306E;</pr></trd>,
+    <trd>&#x771F;&#x5B9F;&#x306E;  <pr>&#x3057;&#x3093;&#x3058;&#x3064;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">faktyczny</trd>
+  <trdgrp lng="sk">
+    <trd>faktick&yacute;</trd>,
+    <trd>ozajstn&yacute;</trd>,
+    <trd>skuto&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_f;&c_a;&c_k;&c_t;&c_i;&c_ch;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5B9E;&#x8D28; <pr>sh&#xED;zh&#xED;</pr></trd>,
+    <trd>&#x5B9E; <pr>sh&#xED;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fakt.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      Se konsideri tion, kio okazis a&ubreve; okazos; se paroli pli
+      precize, pli &gcirc;uste; por nenion ka&scirc;i:
+      <ekz>
+        li volis veni, sed, <tld/>e, ne povis;
+      </ekz>
+      <ekz>
+        en Bulonjo-sur-Maro <tld/>e komenci&gcirc;as en pli granda mezuro la
+        reciproka
+        kompreni&gcirc;ado kaj frati&gcirc;ado de la diverspopolaj membroj de la
+        homaro
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne
+          sur Mer en la 5a de a&ubreve;gusto 1905</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas tro longa historio, sed <tld/>e tiel estis
+        <fnt>
+          <bib>Fab3</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lingvo arta <tld/>e de longe jam ekzistas
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la decido de la kongreso restos simple malviva litero kaj
+        <tld/>e neniam atingos
+        efektivi&gcirc;on
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e, multaj el tiuj mallar&gcirc;aj stratoj ne estas tre puraj
+        <fnt><bib>Lasu</bib>, <lok>Ho, bela naski&gcirc;urbo</lok></fnt>;
+      </ekz><ekz>
+        mi perdis la forton pensi anta&ubreve; multe da tempo: kiam mi
+        estis juna, <tld/>e
+        <fnt><bib>Lasu</bib>, <lok>La ulo, kiu ne plu
+            pensas</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Sekvata de dupunkto, tiu adverbo signifas la saman kiel &leftquot;jen la
+      pruvo, konfirmo, pravigo&rightquot;.
+    </rim>
+    <refgrp tip="vid">
+      <ref cel="cxar">&ccirc;ar</ref>,
+      <ref cel="efekti.0e">efektive</ref>,
+      <ref cel="konfir.0e">konfirme</ref>,
+      <ref cel="nom.0e">nome</ref>,
+      <ref cel="pruv.0e">pruve</ref>
+    </refgrp>
+    <adm>
+      Trovi ekz-on de tio, al kio aludas la rimarko. <aut>MB</aut>
+    </adm>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_k;&c_t;&c_y;&c_ch;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>en realitat</trd>,
+    <trd>de fet</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fakticky</trd>,
+    <trd>skute&ccaron;n&ecaron;</trd>
+  </trdgrp>
+  <trd lng="de">tats&auml;chlich</trd>
+  <trdgrp lng="en">
+    <trd>actually</trd>,
+    <trd>as a matter of <ind>fact</ind></trd>,
+    <trd>in <ind>fact</ind></trd>
+  </trdgrp>
+  <trd lng="es">de <ind>hecho</ind></trd>
+  <trd lng="fr">en <ind>fait</ind></trd>
+  <trdgrp lng="hu">
+    <trd>t&eacute;nyleg</trd>,
+    <trd>val&oacute;j&aacute;ban</trd>,
+    <trd>t&eacute;nylegesen</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>se<ind>benar</ind>nya</trd>,
+    <trd>se<ind>betul</ind>nya</trd>,
+    <trd>se<ind>sungguh</ind>nya</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E8B;&#x5B9F;&#x4E0A;  <pr>&#x3058;&#x3058;&#x3064;&#x3058;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x5B9F;&#x306F;  <pr>&#x3058;&#x3064;&#x306F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">feitelijk</trd>
+  <trd lng="pl">faktycznie</trd>
+  <trd lng="ru">&c_f;&c_a;&c_k;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>naozaj</trd>,
+    <trd>skuto&ccaron;ne</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_a;&c_k;&c_t;&c_i;&c_ch;&c_n;&c_o;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_a;&c_v;&c_d;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x7684;&#x662F; <pr>d&#xED;sh&#xEC;</pr></trd>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.108 2023/10/14 18:06:40
+revo: transskribo per <pr>
+
+versio 1.106 2023/08/29 16:33:50
+Wolfram Diestel: ja: prononco
+
+versio 1.105 2023/04/11 14:27:36
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.104 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.103 2022/04/07 16:40:25
+Noam Mohr: +trd en fakta
+
+  Revision 1.24  2015/07/04 08:37:34  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.23  2015/06/29 16:29:38  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.22  2014/07/06 16:10:31  revo
+-->
+</vortaro>

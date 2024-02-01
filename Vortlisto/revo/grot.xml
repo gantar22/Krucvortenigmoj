@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: grot.xml,v 1.26 2023/11/11 11:36:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>grot</rad>/o
+</kap>
+<drv mrk="grot.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Arte farita a&ubreve; vidinda <ref tip="super" cel="kavern.0o.KOMUNE">kaverno</ref>:
+      <ekz>
+        la <tld/>o <klr>[&#x2026;]</klr> havas praecon je 80 milionoj da jaroj, &gcirc;i konsistas el
+        tri eta&gcirc;oj, havas multajn malgrandajn lagojn, naturajn labirintojn kaj
+        miraklajn halojn
+        <fnt><aut>Bardhyl Selimi</aut>: 
+          <vrk><url ref="&Monato;/2001/007205.html">Voja&gcirc;impresoj, somero 2000</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/01, p. 26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o estas vere mirinda pro siaj belegaj stalagmitoj kaj stalaktitoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2011/010212.php">La marmora groto Gadime</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;irka&ubreve; la parko estas etaj sanktejoj a&ubreve; <tld/>oj por &ccirc;iu enmigrinta komunumo:
+        litova, pola, irlanda ktp &ndash; &ccirc;iuj portantaj surskribojn en la koncerna lingvo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2006/009062.php">Enmigrado anta kaj inta</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ursoj jam &ccirc;esis sian agadon kaj dormas travintre en <tld/>oj kaj kavoj de arboj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2014/011198.php">Ursoj mortigataj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aperis malpli grandaj, porinfanaj figuroj, gipsaj a&ubreve; lignaj, kiujn oni starigis
+        komence en adekvatan pre&gcirc;ejeton, kaj sekve en la kripon, malri&ccirc;an <tld/>on a&ubreve;
+        stalon kie la&ubreve;tradicie naski&gcirc;is Jesuo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sylvain Lelarge</aut>
+          <vrk><url ref="&Monato;/2004/008496.html">La argilaj najbaretoj de Jesuo provenca
+          tradicio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_o;&c_t;</trd>
+  <trd lng="bg">&c_i;&c_z;&c_k;&c_u;&c_s;&c_t;&c_v;&c_je;&c_n;&c_a; <ind>&c_p;&c_je;&c_shch;&c_je;&c_r;&c_a;</ind></trd>
+  <trd lng="ca">gruta</trd>
+  <trdgrp lng="cs">
+    <trd>grota</trd>,
+    <trd>jeskyn&ecaron;</trd>,
+    <trd>sluj</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Grotte</trd>,
+     <trd>Felsenh&ouml;hle</trd></trdgrp>
+  <trd lng="en">grotto</trd>
+  <trd lng="es">gruta</trd>
+  <trd lng="fr">grotte</trd>
+  <trdgrp lng="hu">
+     <trd>barlang</trd>,
+     <trd>grotta</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6D1E;&#x7A74;  <pr>&#x307B;&#x3089;&#x3042;&#x306A;</pr></trd>,
+    <trd>&#x6D1E;&#x7A9F;  <pr>&#x3069;&#x3046;&#x304F;&#x3064;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">grot</trd>
+  <trd lng="pt">gruta</trd>
+  <trd lng="ru">&c_g;&c_r;&c_o;&c_t;</trd>
+  <trd lng="sk">jasky&ncaron;a</trd>
+  <trdgrp lng="uk">
+    <trd>&c_gu;&c_r;&#x43E;&c_t;</trd>,
+    <trd>&#x43F;&c_je;&c_ch;&c_je;&c_r;&c_a;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x77F3;&#x7A9F; <pr>sh&#xED;k&#x16B;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/15 18:38:19
+revo: transskribo per <pr>
+
+versio 1.23 2023/04/18 11:23:33
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.22 2022/04/30 08:42:40
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.19  2019/06/30 07:41:50  revo
+adaptis URL de Monato
+
+Revision 1.18  2018/12/26 13:10:19  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.17  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/10/05 01:10:18  revo
+-->
+</vortaro>

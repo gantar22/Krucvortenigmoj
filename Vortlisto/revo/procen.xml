@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: procen.xml,v 1.39 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>procent</rad>/o
+</kap>
+<drv mrk="procen.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="procen.0o.profito">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Profito produktata de monsumo pruntita a&ubreve; &scirc;uldata:
+      <ekz>
+        se vi pruntedonos monon al <klr>[&#x2026;]</klr> iu malri&ccirc;ulo apud vi, ne estu por li
+        premanto, ne metu sur lin <tld/>ojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 22:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        donante al li monon, ne postulu de li <tld/>ojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 25:37</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi devus doni mian monon al la bankistoj, kaj veninte, mi ricevus mian propra&jcirc;on
+        kun <tld/>o
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 25:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la <tld/>o da sa&gcirc;o estas tre malgranda
+        <fnt>
+          <bib>IK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="intere1.0o">interezo</ref>
+    <trdgrp lng="de">
+      <trd>Zinsgewinn</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>rate<klr tip="amb"> (financial)</klr></trd>,
+      <trd>interest rate</trd>
+    </trdgrp>
+    <trd lng="es">inter&eacute;s<klr> (financiero)</klr></trd>
+    <trd lng="fr">int&eacute;r&ecirc;t<klr> (financier)</klr></trd>
+    <trd lng="hu">kamat</trd>
+    <trd lng="nl">rente</trd>
+    <trdgrp lng="pt">
+      <trd>porcentagem</trd>,
+      <trd>percentagem</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="procen.0o.jara">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Profito produktata de cent monunuoj dum unu jaro:
+      <ekz>
+        dudek mil kronoj da <tld/>oj en jaro
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <ref tip="dif" cel="divide.0o">dividendo</ref> estos 5
+        <tld/>oj <klr>(5%)</klr>;
+      </ekz>
+      <ekz>
+        la malneta enlanda produkto <klr>[&#x2026;]</klr> estos en la venontaj dek jaroj je
+        duon<tld/>o pli alta
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2004/008396.html">Profunda struktur&scirc;an&gcirc;o en meza kaj
+          orienta E&ubreve;ropo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la interezo en Usono estis klare pli alta ol en E&ubreve;ropo, nome 1 &gcirc;is 2
+        <tld/>-poentojn
+        <fnt>
+	<aut>Marc Vanden Bempt</aut>
+	<vrk><url ref="&Monato;/2000/006821.php">E&ubreve;ro unujara</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rent.0o">rento</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Zinsgewinn im Jahr</trd>,
+      <trd>Zinseinkommen im Jahr</trd>,
+      <trd>j&auml;hrliche <ind>Dividende</ind></trd>,
+      <trd>Jahresdividende</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>rate<klr tip="amb"> (financial)</klr></trd>,
+      <trd>yield<klr tip="amb"> (financial)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>renta</trd>,
+      <trd>dividendo</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>rente</trd>,
+      <trd>dividende</trd>
+    </trdgrp>
+    <trd lng="hu">kamatl&aacute;b</trd>
+    <trd lng="nl">procent</trd>
+  </snc>
+  <snc mrk="procen.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      Valoro a&ubreve; taksado difinita rilate al la nombro cent:
+      <ekz>
+        ni taksos vian propra&jcirc;on, vi pagos al li dudek <tld/>ojn de ilia valoro
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        impostoj pro cigaredoj en Britio atingas 80 <tld/>ojn de la prezo
+        <fnt>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; plej fre&scirc;a esploro 23 <tld/>oj de &ccirc;iuspecaj arboj havas mezgradajn &gcirc;is
+        gravajn dama&gcirc;ojn
+        <fnt>
+       <aut>Globus</aut>
+          <vrk><url ref="&Monato;/2001/006874.php">&Ccirc;iu kvara arbo en E&ubreve;ropo estas
+          malsana</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Karakteriza pri la blondaj bieroj de alta fermentado estas la alta
+        alkohol-enhavo (pli ol 6 <tld/>oj)
+        <fnt>
+          <aut>Lode van de Velde</aut>
+          <vrk><url ref="&Monato;/2001/007144.php">Bierlando Belgio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ok <tld/>oj de la lo&gcirc;antaro havas sanproblemojn
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="&Monato;/2004/008262.html">Kiel solvi
+          trafikproblemojn</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el 178 titoloj <klr>[&#x2026;]</klr> nur 27 estas anglalingvaj, dum alta <tld/>a&jcirc;o
+        estas <klr>[&#x2026;]</klr> en la germana
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2004/008322.html">Interlingvistiko kaj
+          esperantologio: vojoj al faka literaturo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu transiro en multaj kazoj ka&ubreve;zis pli ol 50-<tld/>an redukton de la produktado
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2000/007100.php">Kiu sukcesis, kiu postrestis?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 10</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="cent.el0o">elcento</ref>,
+      <ref cel="cent.po0o">pocento</ref>,
+      <ref cel="cent.0ono">centono</ref>
+    </refgrp>
+    <rim>
+      Por la senco 3 &scirc;ajnas preferinde uzi <em>elcento</em> a&ubreve;
+      <em>pocento</em> a&ubreve; <em>centono</em> kaj lasi al <tld/>o sencon
+      nur financan.
+    </rim>
+    <trd lng="de">Prozent</trd>
+    <trdgrp lng="de">
+      <trd>Prozent</trd>,
+      <trd>vom Hundert</trd>,
+      <trd>Anteile vom Hundert</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>por ciento</trd>,
+      <trd>porcentaje</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>pourcent</trd>,
+      <trd>pourcentage</trd>
+    </trdgrp>
+    <trd lng="hu">sz&aacute;zal&eacute;k</trd>
+    <trd lng="nl">percent<klr tip="ind"> (ontr.)</klr></trd>
+  </snc>
+  <rim>
+   Vidu tiun <ref cel="re.0.rim">rimarkon</ref>.
+   </rim>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_c;&c_e;&c_n;&c_t;</trd>,
+    <trd>&c_a;&c_d;&c_s;&c_o;&c_t;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>per cent</trd>,
+    <trd>percent</trd>,
+    <trd>per centum</trd>,
+    <trd>percentage</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>inter&eacute;s</trd>,
+    <trd>renta</trd>,
+    <trd>por ciento</trd>,
+    <trd>porcentaje</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30D1;&#x30FC;&#x30BB;&#x30F3;&#x30C8;</trd>,
+    <trd>&#x5229;&#x7387;  <pr>&#x308A;&#x308A;&#x3064;</pr></trd>,
+    <trd>&#x5229;&#x56DE;&#x308A;  <pr>&#x308A;&#x307E;&#x308F;&#x308A;</pr></trd>,
+    <trd>&#x5229;&#x606F;  <pr>&#x308A;&#x305D;&#x304F;</pr></trd>,
+    <trd>&#x5229;&#x5B50;  <pr>&#x308A;&#x3057;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>procent</trd>,
+    <trd>odsetek</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_c;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>percento</trd>,
+    <trd>&uacute;rok</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>procento ,, procentu&aacute;ln&iacute; v&yacute;nos</trd>,
+    <trd>zisk</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_s;&#x43E;&c_t;&#x43E;&#x43A;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_c;&c_je;&#x43D;&c_t;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="procen.0ego">
+  <kap><ofc>*</ofc><tld/>ego <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5172">pro'cent'eg'</url></lok></fnt></kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      <tld lit="P"/>o pli granda ol la le&gcirc;a, kutima; <ref tip="sin" cel="uzur.0o">uzuro</ref>:
+      <ekz>
+        vi prenas <tld/>egon de viaj fratoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ne&hcirc;emja 5:7</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> sian havon per <tld/>egoj kaj troprofito
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 28:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne <esc>pruntedonis</esc> <tld/>ege, mi ne prenis prunte, tamen &ccirc;iuj min malbenas
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 15:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        doni kontra&ubreve; <tld/>egoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 18:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>egisto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 29:13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_v;&c_y;&c_s;&c_o;&c_k;&c_ib; <ind>&c_a;&c_d;&c_s;&c_o;&c_t;&c_a;&c_k;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>nadm&ecaron;rn&yacute; zisk</trd>,
+    <trd>nadm&ecaron;rn&yacute; &uacute;rok</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Wucher</trd>,
+    <trd>Zinswucher</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>extortionate interest</trd>,
+    <trd>usury</trd>
+  </trdgrp>
+  <trd lng="es">usura</trd>
+  <trd lng="fr">usure</trd>
+  <trd lng="hu">uzsorakamat</trd>
+  <trd lng="ja">&#x9AD8;&#x5229;  <pr>&#x3053;&#x3046;&#x308A;</pr></trd>
+  <trd lng="nl">woekerrente</trd>
+  <trd lng="pl">lichwa</trd>
+  <trd lng="sk">&uacute;&zcaron;ern&iacute;cky &uacute;rok</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_zh;&c_je; &c_v;&c_i;&c_s;&#x43E;&#x43A;&c_i;&c_j; &c_v;&c_ib;&c_d;&c_s;&#x43E;&c_t;&#x43E;&#x43A;/&#x43F;&c_r;&#x43E;&c_c;&c_je;&#x43D;&c_t;</trd>,
+    <trd>&#x43B;&c_i;&c_h;&c_v;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="procen.cent0e">
+  <kap>
+    cent<tld/>e
+  </kap>
+  <snc mrk="procen.cent0e.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="sin" cel="tut.0e">Tute</ref>, senmanke, senrezerve:
+      <ekz>
+        ni faros tion cent<tld/>e
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hokan Lundberg</aut>
+          <vrk><url ref="&Monato;/2005/008490.php">Spirita scienco &ccirc;u tio
+          eblas?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio]</klr> ne estas cent<tld/>e klare
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2006/008847.php">Kiam e&ubreve;ro venos al
+          Litovio?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        niaj motivoj neniam estas cent<tld/>e puraj, kaj niaj konsideroj estas la&ubreve;difine
+        mankhavaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Christian Declerck</aut>
+          <vrk><url ref="&Monato;/2009/009048.php">Spirituala materialismo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio &scirc;ajnas beda&ubreve;rinde realisma, sed ne cent<tld/>e vera
+        <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio:
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_o;&c_a;&c_d;&c_s;&c_o;&c_t;&c_k;&c_a;&c_v;&c_a;</trd>,
+    <trd>&c_n;&c_a; &c_s;&c_t;&c_o; <ind>&c_a;&c_d;&c_s;&c_o;&c_t;&c_k;&c_a;&c_w;</ind></trd>
+  </trdgrp>
+  <trd lng="de">hunderprozentig</trd>
+  <trd lng="pl">w stu procentach</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.39 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.37 2023/07/04 07:27:24
+Dmitri Gabinski: + trd be
+
+versio 1.36 2023/04/29 21:23:50
+Vito Redsky: +trd pl
+
+versio 1.35 2023/04/25 12:45:33
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.34 2023/04/24 05:28:16
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.33 2023/04/23 16:33:12
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.32 2023/04/15 10:28:33
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.31 2023/04/14 06:31:41
+-->
+</vortaro>

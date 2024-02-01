@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vals.xml,v 1.33 2023/10/21 16:50:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vals</rad>/o
+</kap>
+<drv mrk="vals.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Para, turna <ref tip="lst" cel="danc.0o" lst="voko:dancoj">danco</ref> 
+      la&ubreve; tritakta ritmo:
+      <ekz>
+        Angla <tld/>o estas nomata anka&ubreve;
+      </ekz>
+      <ekz>
+        <ind>malrapida <tld/>o</ind>
+        <trd lng="bg">&c_b;&c_a;&c_v;&c_je;&c_n; &c_v;&c_a;&c_l;&c_s;</trd>
+        <trd lng="de">langsamer Walzer</trd>
+        <trd lng="hu">lass&uacute; kering&odblac;</trd>
+      </ekz>
+      <ekz>
+        dum vienan <tld/>on oni nomas
+      </ekz>
+      <ekz>
+       <ind>rapida <tld/>o</ind>.
+       <trd lng="bg">&c_v;&c_i;&c_je;&c_n;&c_s;&c_k;&c_i; &c_v;&c_a;&c_l;&c_s;</trd>
+       <trd lng="de">Wiener <ind>Walzer</ind></trd>
+      </ekz>
+    </dif>
+    <trd lng="de">Walzer</trd>
+    <trd lng="pt">valsa<klr tip="ind"> (dan&ccedil;a)</klr></trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Muzika&jcirc;o por tia danco:
+      <ekz>
+        Johann Strauss komponis sian unuan <tld/>on en a&gcirc;o de 6 jaroj.
+        <fnt><aut>Evgeni GEORGIEV</aut>:
+        <vrk><url ref="&Monato;/1999/006644.html">Jubileo de
+        valsre&gcirc;o</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>1999/09</lok>.
+        </fnt>
+      </ekz>
+    </dif>
+    <trd lng="pt">valsa<klr tip="ind"> (m&uacute;sica)</klr></trd>    
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_l;&c_mol;&c_s;</trd>
+  <trd lng="bg">&c_v;&c_a;&c_l;&c_s;</trd>
+  <trd lng="br">valsenn</trd>
+  <trd lng="ca">vals</trd>
+  <trdgrp lng="cs">
+    <trd>vals</trd>,
+    <trd>val&ccaron;&iacute;k</trd>
+  </trdgrp>
+  <trd lng="el">&beta;&alfa_ton;&lambda;&sigma_fina;</trd>
+  <trd lng="en">waltz</trd>
+  <trd lng="fr">valse</trd>
+  <trd lng="hu">kering&odblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30EF;&#x30EB;&#x30C4;</trd>,
+    <trd>&#x5186;&#x821E;&#x66F2;  <pr>&#x3048;&#x3093;&#x3076;&#x304D;&#x3087;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">wals</trd>
+  <trd lng="pl">walc</trd>
+  <trd lng="ru">&c_v;&c_a;&c_l;&c_mol;&c_s;</trd>
+  <trd lng="sk">val&ccaron;&iacute;k</trd>
+  <trd lng="sv">vals</trd>
+  <trd lng="uk">&c_v;&c_a;&c_l;&c_mol;&c_s;</trd>
+</drv>
+
+<drv mrk="vals.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Danci <tld/>on.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_l;&c_mol;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_t;&c_a;&c_n;&c_c;&c_u;&c_v;&c_a;&c_m; &c_v;&c_a;&c_l;&c_s;</trd>
+  <trd lng="br">valsi&ntilde;</trd>
+  <trd lng="ca">valsar</trd>
+  <trd lng="cs">tan&ccaron;it val&ccaron;&iacute;k</trd>
+  <trd lng="de">Walzer <ind>tanzen</ind></trd>
+  <trd lng="en">waltz</trd>
+  <trd lng="es">vals</trd>
+  <trd lng="fr">valser</trd>
+  <trd lng="hu">kering&odblac;zik</trd>
+  <trd lng="ja">&#x30EF;&#x30EB;&#x30C4;&#x3092;&#x8E0A;&#x308B;  <pr>&#x308F;&#x308B;&#x3064;&#x3092;&#x304A;&#x3069;&#x308B;</pr></trd>
+  <trd lng="nl">walsen</trd>
+  <trd lng="pl">ta&nacute;czy&cacute; <ind>walca</ind></trd>
+  <trd lng="pt">valsar</trd>
+  <trd lng="ru">&c_v;&c_a;&c_l;&c_mol;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">tancova&tcaron; val&ccaron;&iacute;k</trd>
+  <trd lng="sv">valsa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_a;&c_n;&c_c;&c_ju;&c_v;&c_a;&c_t;&c_i; &c_v;&c_a;&c_l;&c_mol;&c_s;</trd>,
+    <trd>&c_v;&c_a;&c_l;&c_mol;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.33 2023/10/21 16:50:35
+revo: transskribo per <pr>
+
+versio 1.31 2023/04/25 16:31:34
+Christian Siefkes: +trd en
+
+versio 1.30 2023/04/10 12:43:47
+Paul Peeraerts: kor de erara ref
+
+Revision 1.27  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2014/04/22 18:11:13  revo
+Wieland Pusch: +trd bg
+
+Revision 1.25  2014/03/20 14:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.24  2013/08/22 15:10:25  revo
+Wolfram Diestel: referenco al listo dancoj
+
+Revision 1.23  2012/08/11 18:10:18  revo
+-->
+</vortaro>

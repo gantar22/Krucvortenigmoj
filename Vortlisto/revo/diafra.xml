@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: diafra.xml,v 1.24 2023/11/04 14:29:01 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>diafragm</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="diafra.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="diafra.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Muskola tendena plato apartiganta la bruston de la ventro &ccirc;e la mamuloj:
+      <ekz>
+        la ridindulo elvokos ridon &ccirc;e tiuj, kiuj havas tikleblan <tld/>on
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas dramo, miaj fratoj, kiu eligas larmojn el viaj okuloj, dum &gcirc;i tiklas vian
+        <tld/>on al rido
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Tria</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Zwerchfell</trd>
+    <trd lng="hu">rekeszizom</trd>
+    <trd lng="nl">middenrif</trd>
+    <trd lng="ru">&c_d;&c_i;&c_a;&c_f;&c_r;&c_a;&c_g;&c_m;&c_a;</trd>
+    <trd lng="zh">&#x9694;&#x819C; <pr>g&#xE9;m&#xF3;</pr></trd>
+</snc>
+  <snc mrk="diafra.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref cel="membra.0o.ANA">Membrano</ref>, kiu dividas kava&jcirc;ojn en
+      du fakojn.
+    </dif>
+    <trd lng="de">Diaphragma</trd>
+    <trdgrp lng="hu">
+      <trd>rekesz</trd>,
+      <trd>v&aacute;laszfal<klr tip="ind"> (magh&aacute;zban)</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_i;&c_a;&c_f;&c_r;&c_a;&c_g;&c_m;&c_a;</trd>
+  </snc>
+  <snc mrk="diafra.0o.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Speciala metala plateto, kun aperturo, ofte al&gcirc;ustigebla, en la
+      centro, kiun oni intermetas en la vojon de lumfasko, por
+      limigi &gcirc;in:
+      <ekz>
+        anka&ubreve; la fotilo kaptas kaj konservas tiujn ru&gcirc;aspektajn okulojn, ja la forta
+        ekbrilo de la fulmilo kaj la malfermo de fotila <tld/>o estas samtempaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>J&aacute;nos S&aacute;rk&ouml;zi</aut>
+          <vrk><url ref="&Monato;/2005/008401.php">La fenomeno de ru&gcirc;aj okuloj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Blende</trd>
+    <trdgrp lng="hu">
+      <trd>f&eacute;nyrekesz</trd>,
+      <trd>blende</trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_i;&c_a;&c_f;&c_r;&c_a;&c_g;&c_m;&c_a;</trd>
+  </snc>
+  <snc mrk="diafra.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      En telefona a&ubreve;skultilo, gramofono ktp: metala plateto, kiun
+      elektra sistemo vibrigas kaj kiu servas por reprodukti la sonojn.
+    </dif>
+    <rim>
+      &Ccirc;i tiu elektra signifo &scirc;ajnas neinternacia kaj evitinda;
+      PIV2 prave rekomendas uzi por &gcirc;i
+      <ref tip="sin" cel="membra.0o.ELE">membrano</ref>n.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trd lng="de">Membran</trd>
+    <trd lng="hu">membr&aacute;n<klr tip="ind"> (telefon)</klr></trd>
+    <trd lng="ru">&c_m;&c_je;&c_m;&c_b;&c_r;&c_a;&c_n;&c_a;</trd>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_ja;&c_f;&c_r;&c_a;&c_g;&c_m;&c_a;</trd>
+  <trd lng="bg">&c_d;&c_i;&c_a;&c_f;&c_r;&c_a;&c_g;&c_m;&c_a;</trd>
+  <trd lng="ca">diafragma</trd>
+  <trdgrp lng="cs">
+    <trd>diafragma</trd>,
+    <trd>membr&aacute;na technick&aacute;</trd>
+  </trdgrp>
+  <trd lng="en">diaphragm</trd>
+  <trd lng="es">diafragma</trd>
+  <trd lng="fr">diaphragme</trd>
+  <trd lng="he">&#x5D3;&#x5B4;&#x5D9;&#x5D0;&#x5B8;&#x5E4;&#x5E8;&#x5B7;&#x5D2;&#x5DE;&#x5B8;&#x5D4;</trd>
+  <trd lng="it">diaframma</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6A2A;&#x9694;&#x819C;  <pr>&#x304A;&#x3046;&#x304B;&#x304F;&#x307E;&#x304F;</pr></trd>,
+    <trd>&#x9694;&#x819C;  <pr>&#x304B;&#x304F;&#x307E;&#x304F;</pr></trd>,
+    <trd>&#x632F;&#x52D5;&#x677F;  <pr>&#x3057;&#x3093;&#x3069;&#x3046;&#x3070;&#x3093;</pr></trd>,
+    <trd>&#x7D5E;&#x308A;  <pr>&#x3057;&#x307C;&#x308A;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">diafragma</trd>
+  <trd lng="pl">przepona</trd>
+  <trd lng="pt">diafragma</trd>
+  <trdgrp lng="sk">
+    <trd>diafragma</trd>,
+    <trd>membr&aacute;na</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x456;&#x430;&#x444;&#x440;&#x430;&#x433;&#x43C;&#x430;</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x435;&#x442;&#x438;&#x43D;&#x43A;&#x430;</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x435;&#x433;&#x43E;&#x440;&#x43E;&#x434;&#x43A;&#x430;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/14 11:26:53
+revo: transskribo per <pr>
+
+Revision 1.18  2019/02/25 17:10:19  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.17  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/06/05 20:10:12  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.14  2012/01/13 02:10:09  revo
+Sergio Pokrovskij: +trd=ru
+
+Revision 1.13  2012/01/12 18:10:22  revo
+Sergio Pokrovskij: disigis trd=ru, +rim
+
+Revision 1.12  2012/01/08 12:10:21  revo
+-->
+</vortaro>

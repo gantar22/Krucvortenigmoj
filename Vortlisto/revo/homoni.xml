@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: homoni.xml,v 1.30 2023/11/15 17:08:01 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>homonim</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="homoni.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="homoni.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref cel="vort.0o.LIN">Vorto</ref>, kiu havas la saman formon
+      kiel alia, sed malsaman sencon:
+      <ekz>
+        ero <klr>(elemento de objekto)</klr> kaj ero <klr>(erao)</klr>;
+      </ekz>
+      <ekz>
+        mi flanki&gcirc;adis de tiuj &ccirc;i reguloj nur <klr>[pro]</klr> ekzemple la evito de
+        <tld/>oj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>ludo per <tld/>oj</ind>
+        <fnt>
+          <aut>Josef Voj&aacute;&ccaron;ek</aut>
+          <vrk><url ref="homonimoj">Amuzu, lernu kaj ridu</url></vrk>
+        </fnt>;
+        <trd lng="de">Teekesselchen</trd>
+        <trd lng="es">albur</trd>
+      </ekz>
+      <ekz>
+        kankro <klr>[&#x2026;]</klr> en multaj lingvoj estas <tld/>o de kancero
+        <fnt>
+          <aut>div.</aut>
+          <vrk><url ref="&Monato;/1993/A931002.php">Noticoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/10, p. 4</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="sinoni.0o">sinonimo</ref>
+    </refgrp>
+  </snc>
+  <rim>
+    Por eviti konfuzon inter iuj <tld/>oj,
+    L. L. Zamenhof en la Biblio metis
+    apostrofon post la radiko de la pli malofta <tld/>o:
+    <ekz>
+      tritiko &gcirc;is cent kor'oj, vino &gcirc;is cent bat'oj
+      <fnt><bib>MT</bib>, <lok>&Ezr; 7:22</lok></fnt>
+      <klr>(kor'o kaj bat'o estas nomoj de hebreaj mezurunuoj)</klr>.
+    </ekz>
+  </rim>
+  <trd lng="be">&c_a;&c_m;&c_o;&c_n;&c_ib;&c_m;</trd>
+  <trd lng="br">ger <ind>he&ntilde;velstumm</ind></trd>
+  <trd lng="ca">hom&ograve;nim</trd>
+  <trd lng="de">Homonym</trd>
+  <trd lng="en">homonym</trd>
+  <trd lng="es">hom&oacute;nimo</trd>
+  <trd lng="fr">homonyme</trd>
+  <trd lng="hu">homonima</trd>
+  <trd lng="it">omonimo</trd>
+  <trd lng="ja">&#x540C;&#x97F3;&#x7570;&#x7FA9;&#x8A9E;  <pr>&#x3069;&#x3046;&#x304A;&#x3093;&#x3044;&#x304E;&#x3054;</pr></trd>
+  <trd lng="nl">homoniem</trd>
+  <trd lng="pl">homonim</trd>
+  <trd lng="pt">hom&ocirc;nimo</trd>
+  <trd lng="ru">&c_o;&c_m;&c_o;&c_n;&c_i;&c_m;</trd>
+  <trd lng="sk">homonymum</trd>
+  <trdgrp lng="cs">
+    <trd>dvojv&yacute;znamov&eacute; slovo</trd>,
+    <trd>homonymum</trd>
+  </trdgrp>
+  <trd lng="uk">&c_o;&c_m;&c_o;&c_n;&c_ib;&c_m;</trd>
+  <trd lng="zh">&#x540C;&#x97F3;&#x8A5E; <pr>t&#xF3;ngy&#x12B;nc&#xED;</pr></trd>
+</drv>
+
+<drv mrk="homoni.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="homoni.0eco.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Rilato de formoj identaj kun signifoj malsamaj;
+      <ref tip="sin" cel="homonimi.0o">homonimio</ref>:
+      <ekz>
+        <tld/>eco malofte ka&ubreve;zas ambiguecon, se estas sufi&ccirc;a
+        subteno de la kunteksto
+        <fnt>
+          <aut>R. Haveman</aut>,
+          <vrk><url ref="http://www.tekstoj.nl/esperanto/artikoloj/terminaro.htm">
+          Terminareto pri tradukado</url></vrk>,
+          <lok>[2009]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_m;&c_a;&c_n;&c_ib;&c_m;&c_ib;&c_ja;</trd>
+  <trd lng="ca">homon&iacute;mia</trd>
+  <trdgrp lng="cs">
+    <trd>homonymie</trd>,
+    <trd>homonymita</trd>
+  </trdgrp>
+  <trd lng="de">Homonymie</trd>
+  <trd lng="fr">homonymie</trd>
+  <trd lng="pl">wieloznaczno&sacute;&cacute;</trd>
+  <trd lng="sk">homonymia</trd>
+  <trd lng="uk">&c_o;&c_m;&c_o;&c_n;&c_ib;&c_m;&c_ib;&c_ja;</trd>
+  <trd lng="zh">&#x540C;&#x97F3;&#x5F02;&#x8BAE;&#x8BCD; <pr>t&#xF3;ngy&#x12B;ny&#xEC;y&#xEC;c&#xED;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2023/10/16 05:55:56
+revo: transskribo per <pr>
+
+versio 1.27 2023/06/25 09:25:17
+Wolfram Diestel: +ekz
+
+versio 1.26 2023/06/01 23:26:48
+Vito Redsky: +trd pl
+
+versio 1.25 2023/04/11 12:45:40
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.24 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2021/12/22 08:37:05
+Dmitri Gabinski: + trd be
+
+versio 1.21 2021/01/31 18:56:19
+Wolfram Diestel: ekz-oj, ref
+
+Revision 1.19  2015/06/29 16:33:15  revo
+-->
+</vortaro>

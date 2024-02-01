@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: nefrit1.xml,v 1.14 2022/11/02 07:33:07 revo Exp $">
+<kap>
+  <rad>nefrit</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="nefrit1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="nefrit1.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Ren<ref tip="lst" cel="brul.0umo.MED" lst="voko:malsanoj">brulumo</ref>:
+      <ekz>
+        &gcirc;i resanigas la malsanojn kiel la <tld/>o, la artika
+        re&ubreve;matismo kaj la podagro
+        <fnt>
+          <vrk><url ref="http://www5d.biglobe.ne.jp/~hel/JOKO/AT22-es.htm">sokoni</url></vrk>,
+          <lok>el AinuTimes, 2002-06-20</lok>
+        </fnt>
+      </ekz>
+      <ekz>
+        Mendel mortis la 6-an de januaro 1884 en Brno 
+        <klr>...</klr> pro &hcirc;ronika <tld/>o
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Johann Gregor Mendel&rightquot;, 
+        2005-11-15</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim mrk="nefrit1.0o.RIM_HOM">
+    <ref tip="hom" cel="nefrit.0o">Nefrito</ref> anka&ubreve; estas la 
+    nomo de juvel&scirc;tono.
+  </rim>
+  <trd lng="be">&c_n;&c_e;&c_f;&c_r;&c_y;&c_t; <klr tip="amb">(&c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_a;)</klr></trd>
+  <trd lng="ca">nefritis</trd>
+  <trdgrp lng="cs">
+    <trd>nefritis</trd>,
+    <trd>z&aacute;n&ecaron;t ledvin</trd>
+  </trdgrp>
+  <trd lng="de">Nephritis</trd>
+  <trd lng="en">nephritis</trd>
+  <trdgrp lng="fa">
+    <trd>&a_n;&a_kasra;&a_f;&a_r;&f_y;&a_t;</trd>,
+    <trd>&a_A;&a_l;&a_t;&a_h;&a_A;&a_b; &f_k;&a_l;&f_y;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">n&eacute;phrite<klr> (m&eacute;d.)</klr></trd>
+  <trd lng="id">nefritis</trd>
+  <trdgrp lng="nl">
+    <trd>nierontsteking</trd>,
+    <trd>nefritis</trd>
+  </trdgrp>
+  <trd lng="hu">vesegyullad&aacute;s</trd>
+  <trd lng="pl">nerek zapalenie</trd>
+  <trd lng="ro">inflama&#x21B;ia rinichilor</trd>
+  <trd lng="sk">z&aacute;pal obli&ccaron;iek</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_f;&c_r;&c_i;&c_t;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.14 2022/11/02 07:33:07
+Dmitri Gabinski: + trd be
+
+versio 1.12 2021/03/04 20:49:14
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.10  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2014/11/19 07:10:22  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.8  2013/10/09 19:11:37  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.7  2011/12/05 00:10:25  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.6  2011/02/20 16:10:13  revo
+Russ Williams: +trd en
+
+Revision 1.5  2009/10/15 16:31:16  revo
+-->
+</vortaro>

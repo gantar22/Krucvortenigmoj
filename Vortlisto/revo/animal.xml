@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: animal.xml,v 1.42 2023/11/14 09:28:25 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>animal</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="animal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="animal.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      <ref tip="dif" cel="best.0o.BIO">Besto<sncref/></ref>,
+      <ref tip="sin" cel="viv.0ulo.BIO">vivulo<sncref/></ref>:
+      <ekz>
+        majstro <klr>[&#8230;]</klr>, kial tiom stranga <tld/>o, kia estas la homo, estis
+        kreata
+        <fnt>
+          <aut>Volter</aut>
+          <vrk><url ref="&Steloj;kandid/XXX.html">Kandid</url></vrk>
+          <lok>&ccirc;ap. XXX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eble temas pri atavismo, reveno al tiu epoko, kiam
+        la praulo de l' homo ne estis ankora&ubreve; <tld/>o socia
+        kaj vivis izole en sia kaverno
+        <fnt>
+	  <aut>A. &Ccirc;e&hcirc;ov, tr. M. Luka&scirc;</aut>: <vrk>Enujulo</vrk>,
+	  <lok>La Nica literatura revuo, 3:1</lok>
+	</fnt>;
+      </ekz><ekz>
+	nun imagu ke malanta&ubreve; la muro homoj portadas &ccirc;iajn
+	objektojn kaj figurojn de homoj kaj aliaj <tld/>oj,
+	faritajn el &scirc;tono kaj ligno kaj &ccirc;ia materialo
+	<fnt>
+	  <aut>Platono, tr. D. Broadribb</aut>:
+	  <vrk>La Respubliko</vrk>.
+	  <lok>Parto 7a</lok>;
+	</fnt>;
+      </ekz><ekz>
+	la nomaro de <tld/>oj kaj
+	<ref cel="veget.0ajxo">vegeta&jcirc;oj</ref>
+	<fnt><bib>TermKurs</bib>, <lok>&para;4.2</lok>.</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="best.0o.nehomo">besto<sncref/></ref>,
+      <ref cel="hom.0o">homo</ref>
+    </refgrp>
+    <trd lng="ru">&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_o;&c_je;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x52A8;&#29289; <pr>d&#xF2;ngw&#xF9;</pr></trd>,
+    <trd>&#x52D5;&#29289; <pr>d&#xF2;ngw&#xF9;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="animal.0o.EVI">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <refgrp tip="dif">
+        <ref cel="best.0o.nehomo">Besto<sncref/></ref>,
+        <ref cel="brut.0o">bruto</ref>
+      </refgrp>:
+      <ekz>
+        &scirc;i rapide respondis al &jcirc;urnalistoj, ke &scirc;i amas la
+        <tld/>ojn, ne estis &scirc;i kiu mortigis la vulpojn,
+        la &ccirc;in&ccirc;ilojn, la mustelojn a&ubreve; vizonojn cetere
+        breditajn de la homoj
+        <fnt>
+          <aut>Stefan Maul</aut>: <vrk>Vivi plu: kial? kiel?</vrk>
+          <bib>Monato</bib>.
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_ib;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>animal</trd>,
+    <trd>zv&iacute;&rcaron;e</trd>,
+    <trd>&zcaron;ivo&ccaron;ich</trd>
+  </trdgrp>
+  <trd lng="de">Tier</trd>
+  <trd lng="en">animal</trd>
+  <trd lng="es">animal</trd>
+  <trd lng="fr">animal<klr> (subst.)</klr></trd>
+  <trd lng="he">&bet;&ayin;&lamed; &het;&yod;&yod;&fmem;</trd>
+  <trd lng="hu">&aacute;llat<klr tip="ind"> (ember is)</klr></trd>
+  <trdgrp lng="id">
+    <trd>binatang</trd>,
+    <trd>hewan</trd>
+  </trdgrp>
+  <trd lng="it">animale</trd>
+  <trd lng="ja">&#x52D5;&#29289;  <pr>&#12393;&#12358;&#12406;&#12388;</pr></trd>
+  <trd lng="nl">dier<klr tip="ind"> (incl.mens)</klr></trd>
+  <trdgrp lng="ms">
+    <trd>binatang</trd>,
+    <trd>haiwan</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>&zcaron;ivo&ccaron;&iacute;ch</trd>,
+    <trd>zviera</trd>
+  </trdgrp>
+  <trd lng="tr">hayvan</trd>
+  <trd lng="uk">&c_t;&c_v;&c_a;&c_r;&c_i;&#x43D;&c_a;</trd>
+</drv>
+
+<drv mrk="animal.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al la <tld/>oj, plej ofte kontraste al
+      <ctl>vegeta&jcirc;a</ctl>:
+      <ekz>
+        klasikaj subdividoj de la vegetala kaj <ind><tld/>a regno</ind>j
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Cyreen Knockaert</aut>
+          <vrk><url ref="&Monato;/2013/010992.php">Nomenklaturo: &ccirc;u kroma esperanta
+          finvenko?</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+        <trd lng="de">Tierreich</trd>
+      </ekz><ekz>
+        <tld/>aj fosilioj;
+      </ekz><ekz>
+        <ind><tld/>a graso</ind> (ekz-e butero), kontraste al vegeta&jcirc;a graso
+        (ekz-e oleo);
+        <trd lng="de">tierisches Fett</trd>
+      </ekz>
+      <ekz>
+        en preska&ubreve; &ccirc;iuj animalaj specioj, la sola maniero reprodukti&gcirc;i estus
+        partenogenezo
+        <fnt><aut>Andr&eacute; Cherpillod</aut>,
+        <vrk><url ref="&Monato;/2000/006937.php">Sinjorino Le secr&eacute;taire ...</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/07, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        unuarangan signifon por la ekspliko de la lingvooriginoj havas la antropologio:
+        tiu parto de la scienco, kiu okupi&gcirc;as pri la formi&gcirc;o de la homo el la cetera
+        <tld/>a mondo
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>anim&aacute;ln&iacute;</trd>,
+    <trd>&zcaron;ivo&ccaron;i&scaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">tierisch</trd>
+  <trd lng="fr">animal<klr> (adj.)</klr></trd>
+  <trd lng="id">hewani</trd>
+  <trd lng="ru">&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">&zcaron;ivo&ccaron;&iacute;&scaron;ny</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_v;&c_a;&c_r;&c_i;&#x43D;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_a;&#x43D;&c_ib;&#x43C;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="animal.0oj">
+  <kap><tld/>oj</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc mrk="animal.0oj.regno">
+    <dif>
+      Unu el la <ref tip="lst" cel="regn.0o.BIO" lst="voko:biologiaj_regnoj">regnoj</ref>
+      de la viva&jcirc;oj (<trd lng="la">Animalia</trd>):
+      <ekz>
+        sinsekvaj cikloj de produktiveco kaj malproduktiveco, kaj emocie kaj korpe,
+        inter kaj plantoj kaj <tld/>oj
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; <nom>Schleicher</nom>, la vivo de la lingvo esence ne distingi&gcirc;as de la vivo de &ccirc;iuj
+        aliaj &leftquot;vivantaj organismoj &ndash; kreska&jcirc;oj kaj <tld/>oj&rightquot;
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj vivantoj, &ccirc;u <tld/>oj, plantoj, fungoj, bakterioj, e&ccirc; protobakterioj,
+        portas la instrukciojn de sia vivo en la genoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ste&ccirc;jo Norvell</aut>
+          <vrk><url ref="&Monato;/2003/007987.html">Profeto sen honoro</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fung.0oj">fungoj</ref>,
+      <ref cel="plant.0oj">plantoj</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_mol;&c_n;&c_y; &c_s;&c_mol;&c_v;&c_je;&c_t;</trd>,
+    <trd>&c_f;&c_a;&c_w;&c_n;&c_a;</trd>,
+    <trd>&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">Reich der <ind>Tiere</ind></trd>
+  <trd lng="en">Animal kingdom</trd>
+  <trd lng="fr">r&egrave;gne animal</trd>
+  <trd lng="nl">dierenrijk</trd>
+  <trd lng="hu">&aacute;llatvil&aacute;g</trd>
+  <trdgrp lng="ru">
+    <trd>&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_y;&c_je;</trd>,
+    <trd>&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_y;&c_j; &c_m;&c_i;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_v;&c_a;&c_r;&c_i;&#x43D;&#x43D;&c_i;&c_j; &c_s;&c_v;&c_ib;&c_t;</trd>,
+    <trd>&c_t;&c_v;&c_a;&c_r;&c_i;&#x43D;&#x43D;&c_je; &c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&c_f;&c_a;&c_u;&#x43D;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+  <!--
+  $Log$
+versio 1.42 2023/11/14 09:28:25
+Dmitri Gabinski: + trd be
+
+versio 1.40 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.38 2023/05/14 19:21:00
+Dmitri Gabinski: kor de trd ru
+
+versio 1.37 2023/04/27 06:33:44
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.36 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.35 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.33 2021/09/19 08:30:22
+Wolfram Diestel: dif per ref,~a, ~oj: ekz-oj, ref-oj, trd de
+
+versio 1.32 2021/03/08 19:03:12
+-->
+</vortaro>

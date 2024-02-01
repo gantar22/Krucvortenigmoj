@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: human.xml,v 1.23 2023/12/08 09:26:31 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>human</rad>/a
+</kap>
+<drv mrk="human.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Posedanta la kompatemon, helpemon, homamon, kiuj estas la plej
+      noblaj kvalitoj de la homo:
+      <ekz>
+        mi tre bone konis junulon dol&ccirc;an, <tld/>an, nekapablan fari malbonon al iu ajn
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sepa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a, disdonema, defendanta la malfortulojn, li sin amigis de &ccirc;iuj
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li havis la opinion de homo <tld/>a kaj malavara, kaj lia populareco kreskis
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XLVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        okaza&jcirc;o, kiu tute &gcirc;isekstreme renversis mian kristanan kaj <tld/>an mondkoncepton
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sesa &Ccirc;apitro</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="filant2.0a">filantropia</ref>,
+      <ref cel="hom.0ama">homama</ref>,
+      <ref cel="hom.0eca.morale">homeca<sncref/></ref>,
+      <ref cel="kompat.0ema">kompatema</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_m;&c_a;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hum&aacute;nn&iacute;</trd>,
+    <trd>lidsk&yacute;</trd>,
+    <trd>u&scaron;lechtil&yacute; &scaron;lechetn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>human</trd>,
+    <trd>menschlich</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>humane</trd>,
+    <trd>humanitarian</trd>
+  </trdgrp>
+  <trd lng="es">humanitario</trd>
+  <trdgrp lng="fr">
+    <trd>humain<klr tip="ind"> (compatissant)</klr></trd>,
+    <trd>bon<klr tip="ind"> (compatissant)</klr></trd>,
+    <trd>compatissant</trd>,
+    <trd>sensible<klr tip="ind"> (compatissant)</klr></trd></trdgrp>
+  <trdgrp lng="it">
+    <trd>umano<klr> (qualit&agrave; morale)</klr></trd>,
+    <trd>umanitario</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4EBA;&#38291;&#30340;&#x306A;  <pr>&#x306B;&#12435;&#12370;&#12435;&#12390;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x4EBA;&#x60C5;&#21619;&#x306E;&#12354;&#x308B;  <pr>&#x306B;&#12435;&#12376;&#12423;&#12358;&#12354;&#12376;&#x306E;&#12354;&#x308B;</pr></trd>,
+    <trd>&#x4EBA;&#36947;&#30340;&#x306A;  <pr>&#12376;&#12435;&#12393;&#12358;&#12390;&#x304D;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>humaan</trd>,
+    <trd>menslievend</trd>
+  </trdgrp>
+  <trd lng="pt">humanit&aacute;rio</trd>
+  <trdgrp lng="ru">
+    <trd>&c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_g;&c_u;&c_m;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hum&aacute;nny</trd>,
+    <trd>&lcaron;udsk&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_u;&c_m;&c_a;&c_n;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_l;&c_ju;&c_d;&c_ja;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_l;&c_ju;&c_d;&c_i;&c_n;&c_o;&c_l;&c_ju;&c_b;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4EBA;&#36947; <pr>r&#xE9;nd&#xE0;o</pr></trd>,
+    <trd>&#x4EC1; <pr>r&#xE9;n</pr></trd>,
+    <trd>&#x4EC1;&#x60E0; <pr>r&#xE9;nhu&#xEC;</pr></trd>,
+    <trd>&#24904; <pr>c&#xED;</pr></trd>,
+    <trd>&#26377;&#x4EBA;&#x60C5; <pr>y&#x1D2;ur&#xE9;nq&#xED;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="human.0eco">
+  <kap><tld/>eco</kap>
+  <snc>
+    <dif>
+      Eco de <tld/>a homo:
+      <ekz>
+        iu viro <klr>[&#8230;]</klr> dum unu horo estis &jcirc;us parolanta pri <tld/>eco
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la nomo de la <tld/>eco <klr>[ili]</klr> petis <nom>Tigellinus</nom>on, ke li &ccirc;esigu
+        pluan persekutadon
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LXIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li enspiris en la lingvon spiriton de <tld/>eco kaj internaciismo
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_m;&c_a;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>humanita</trd>,
+    <trd>humanitnost</trd>,
+    <trd>lidstv&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Humanit&auml;t</trd>,
+    <trd>Menschlichkeit</trd>
+  </trdgrp>
+  <trd lng="en">humanity</trd>
+  <trd lng="es">humanidad <klr>(naturaleza humana)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>humanit&eacute;<klr tip="ind"> (compassion)</klr></trd>,
+    <trd>compassion</trd></trdgrp>
+  <trd lng="it">umanit&agrave;<klr tip="amb"> (qualit&agrave;)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EBA;&#38291;&#24615;  <pr>&#x306B;&#12435;&#12370;&#12435;&#x305B;&#12356;</pr></trd>,
+    <trd>&#x4EBA;&#x60C5;&#21619;  <pr>&#x306B;&#12435;&#12376;&#12423;&#12358;&#x307F;</pr></trd>,
+    <trd>&#x4EBA;&#36947;  <pr>&#12376;&#12435;&#12393;&#12358;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>humaniteit</trd>,
+    <trd>menslievendheid</trd>
+  </trdgrp>
+  <trd lng="pt">humanidade<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_g;&c_u;&c_m;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>&lcaron;udomilnos&tcaron;</trd>,
+    <trd>&lcaron;udskos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_u;&c_m;&c_a;&c_n;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_l;&c_ju;&c_d;&c_ja;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4EBA;&#36947; <pr>r&#xE9;nd&#xE0;o</pr></trd>,
+    <trd>&#x4EC1; <pr>r&#xE9;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="human.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Igi iun <tld/>a:
+      <ekz>
+        <tld/>igi militistojn, sova&gcirc;ulojn;
+      </ekz>
+      <ekz>
+        aliaj opinias, ke teknika&jcirc;oj pli kaj pli superregas niajn vivojn kaj tiel
+        mal<tld/>igas nin
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2011/010289.php">&Ccirc;u malsano patologia?</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_u;&c_m;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd>humanisieren</trd>,
+    <trd>menschlicher machen</trd>
+  </trdgrp>
+  <trd lng="en">humanize</trd>
+  <trdgrp lng="fr">
+    <trd>humaniser</trd>,
+    <trd>adoucir<klr tip="ind"> (rendre plus
+    humain)</klr></trd></trdgrp>
+  <trd lng="it">umanizzare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EBA;&#38291;&#21619;&#12434;&#12418;&#x305F;&#x305B;&#x308B; 
+    <pr>&#x306B;&#12435;&#12370;&#12435;&#12354;&#12376;&#12434;&#12418;&#x305F;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#25945;&#21270;&#12377;&#x308B;  <pr>&#x304D;&#12423;&#12358;&#x304B;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>veredelen</trd>,
+    <trd>menselijk maken</trd>
+  </trdgrp>
+  <trd lng="pt">humanizar<klr tip="amb"> (tornar caridoso)</klr></trd>
+</drv>
+
+<drv mrk="human.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="doktri.0o">Doktrino</ref>, ser&ccirc;anta en la helenlatina civilizo la plej
+      bonan
+      rimedon por <tld/>igi kaj klerigi la homaron:
+      <ekz>
+        disvastigi la <tld/>ismon kaj la kristanan kulturon
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekna&ubreve;a &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         ni tute surdi&gcirc;is de la la&ubreve;ta prediko pri la <tld/>ismo
+        <fnt>
+          <bib>IKr</bib>
+          <lok>Bol&ccirc;jo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Marjorie Boulton</nom> per metaforoj defendas sian <tld/>ismon
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="klasik.0a">klasika</ref>,
+      <ref cel="helen.0ismo">helenismo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_u;&c_m;&c_a;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="bg">&c_h;&c_u;&c_m;&c_a;&c_n;&c_i;&c_z;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>humanitarizmus</trd>,
+    <trd>humanitizmus</trd>,
+    <trd>humanizmus</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Humanismus</trd>,
+    <trd>Menschlichkeit</trd>
+  </trdgrp>
+  <trd lng="en">humanism</trd>
+  <trd lng="es">humanismo</trd>
+  <trd lng="fr">humanisme</trd>
+  <trd lng="it">umanesimo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EBA;&#36947;&#x4E3B;&#x7FA9;  <pr>&#12376;&#12435;&#12393;&#12358;&#12375;&#12421;&#x304E;</pr></trd>,
+    <trd>&#x30D2;&#x30E5;&#x30FC;&#x30DE;&#x30CB;&#x30BA;&#x30E0;</trd>,
+    <trd>&#x4EBA;&#25991;&#x4E3B;&#x7FA9;  <pr>&#12376;&#12435;&#12406;&#12435;&#12375;&#12421;&#x304E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">humanisme</trd>
+  <trd lng="pt">humanismo</trd>
+  <trd lng="ru">&c_g;&c_u;&c_m;&c_a;&c_n;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">humanizmus</trd>
+  <trd lng="uk">&c_g;&c_u;&c_m;&c_a;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4EBA;&#36947;&#x4E3B;&#x4E49; <pr>r&#xE9;nd&#xE0;ozh&#x1D4;y&#xEC;</pr></trd>,
+    <trd>&#x4EBA;&#25991;&#x4E3B;&#x4E49; <pr>r&#xE9;nw&#xE9;nzh&#x1D4;y&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="human.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Adepto a&ubreve; studanto de <tld/>ismo, la helenlatinan civilizon, la antikvajn
+      klasikajn literaturojn:
+      <ekz>
+        pri tiu &ccirc;i ideo jam anta&ubreve; ni paroladis &ccirc;iam la veraj religiuloj, la <tld/>istoj,
+        la framasonoj
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Pri la homaranismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Germanujo, la lando de la filozofoj kaj poetoj, kiu estis iam la centro de la
+        <tld/>istoj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto
+          1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiun sorton de la latina klare anta&ubreve;vidis unu el la plej grandaj humanistoj de
+        sia tempo
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_u;&c_m;&c_a;&c_n;&c_ib;&c_s;&c_t;</trd>
+  <trdgrp lng="de">
+    <trd>Humanist</trd>
+  </trdgrp>
+  <trd lng="en">humanist</trd>
+  <trd lng="es">humanista</trd>
+  <trd lng="fr">humaniste</trd>
+  <trd lng="it">umanista</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EBA;&#36947;&#x4E3B;&#x7FA9;&#32773;  <pr>&#12376;&#12435;&#12393;&#12358;&#12375;&#12421;&#x304E;&#12375;&#12419;</pr></trd>,
+    <trd>&#x30D2;&#x30E5;&#x30FC;&#x30DE;&#x30CB;&#x30B9;&#x30C8;</trd>,
+    <trd>&#x4EBA;&#25991;&#x4E3B;&#x7FA9;&#32773;  <pr>&#12376;&#12435;&#12406;&#12435;&#12375;&#12421;&#x304E;&#12375;&#12419;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">humanist</trd>
+  <trd lng="pt">humanista</trd>
+  <trd lng="uk">&c_g;&c_u;&c_m;&c_a;&c_n;&c_ib;&c_s;&c_t;</trd>
+</drv>
+
+<drv mrk="human.mal0a">
+  <kap>
+    mal<tld/>a,
+    <var><kap>ne<tld/>a</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      Senkompate severega, kruela ks:
+      <ekz>
+        la turmentoj egalos la krimojn de tiuj mal<tld/>aj kondamnitoj
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne povis miksi&gcirc;i en ilian mal<tld/>an kaj krimeman vivon
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sesa &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        super niaj kapoj &scirc;vebas fantomo de nova, ankora&ubreve; pli ne<tld/>a milito
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Aldono</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_g;&c_u;&c_m;&c_a;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_l;&c_ju;&c_d;&c_z;&c_k;&c_ib;</trd>,
+    <trd>&c_n;&c_je;&c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_ch;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">inhuman</trd>
+  <trd lng="fr">inhumain<klr tip="ind"> (insensible)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x975E;&#x4EBA;&#38291;&#30340;&#x306A;  <pr>&#12402;&#x306B;&#12435;&#12370;&#12435;&#12390;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x975E;&#x4EBA;&#36947;&#30340;&#x306A;  <pr>&#12402;&#12376;&#12435;&#12393;&#12358;&#12390;&#x304D;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6B8B;&#x5FCD; <pr>c&#xE1;nr&#x11B;n</pr></trd>,
+    <trd>&#x975E;&#x4EBA; <pr>f&emacron;ir&#xE9;n</pr></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.23 2023/12/08 09:26:31
+Dmitri Gabinski: + trd be
+
+versio 1.21 2023/10/17 16:45:07
+revo: transskribo per <pr>
+
+versio 1.19 2023/04/11 14:37:23
+aktualigo Monato-URL
+
+versio 1.18 2022/08/25 16:43:53
+Wolfram Diestel: +ekz-oj, ref-oj; +~a; adapto dif ~isto
+
+Revision 1.15  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2015/04/19 02:10:20  revo
+Carlos Garcia: +trd es -a -eco -ismo -isto
+
+Revision 1.13  2009/09/20 16:30:43  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2009/06/14 16:30:38  revo
+-->
+</vortaro>

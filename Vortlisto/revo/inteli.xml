@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: inteli.xml,v 1.30 2023/11/19 10:22:13 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>inteligent</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="inteli.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="inteli.0a.PSI">
+    <dif>
+      Facile komprenanta kaj vigle pensanta:
+      <ekz>
+        <tld/>a infano, lernanto, servisto;
+      </ekz>
+      <ekz>
+        li ne estas tre <tld/>a rilate al sia a&gcirc;o;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>aj rigardoj, respondoj;
+      </ekz>
+      <ekz>
+        dekdujara knabineto, ridanta, brilanta per siaj <tld/>aj okuloj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        homo <tld/>a kaj akiranta sian panon per laboro spirita
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la policestro estis homo <tld/>a: li tuj divenis, kiu estis la
+        mortiginto
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">ARK</uzo>
+        <uzo tip="stl">FIG</uzo>
+        la plimulto de la <tld/>a mondo <klr>(de la monda 
+        <ref cel="intele.0ularo">intelektularo</ref>)</klr>
+        jam nun trovos tiun &ccirc;i demandon tute superflua
+        <fnt><bib>EE</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pruden.0a">prudenta</ref>,
+      <ref cel="sagac.0a">sagaca</ref>,
+      <ref cel="sagx.0a">sa&gcirc;a</ref>,
+      <ref cel="sprit.0a">sprita</ref>, 
+      <ref cel="ruz.0a">ruza</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="bo">&t_ra;&t_gigu;&t_ga;&t_tsheg;&t_pa;&t_tsheg;&t_ca;&t_na;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>ch&aacute;pav&yacute;</trd>,
+    <trd>inteligentn&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>intelligent</trd>,
+    <trd>klug</trd>,
+    <trd>schlau</trd>,
+    <trd>clever</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>intelligent</trd>,
+    <trd>smart</trd>,
+    <trd>clever</trd>,
+    <trd>bright</trd>
+  </trdgrp>
+  <trd lng="es">inteligente</trd>
+  <trdgrp lng="fr">
+    <trd>intelligent</trd>,
+    <trd>malin</trd>,
+    <trd>ing&eacute;nieux</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>intelligens</trd>,
+    <trd>&eacute;rtelmes</trd>,
+    <trd>j&oacute;
+    <ind>felfog&oacute;k&eacute;pess&eacute;g&udblac;</ind></trd>
+  </trdgrp>
+  <trd lng="io">inteligenta</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8061;&#x660E;&#x306A;  <pr>&#x305D;&#x3046;&#x3081;&#x3044;&#x306A;</pr></trd>,
+    <trd>&#x982D;&#x306E;&#x3088;&#x3044;  <pr>&#x3042;&#x305F;&#x307E;&#x306E;&#x3044;&#x3044;</pr></trd>,
+    <trd>&#x5229;&#x53E3;&#x306A;  <pr>&#x308A;&#x3053;&#x3046;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>intelligent</trd>,
+    <trd>slim</trd>,
+    <trd>pienter</trd>
+  </trdgrp>
+  <trd lng="pl">inteligentny</trd>
+  <trd lng="pt">inteligente</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_m;&c_y;&c_sh;&c_l;&c_jo;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ch&aacute;pav&yacute;</trd>,
+    <trd>inteligentn&yacute;</trd>,
+    <trd>rozumov&yacute;</trd>
+  </trdgrp>
+  <trd lng="sv">intelligent</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_u;&c_m;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_t;&c_ja;&c_m;&c_u;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_ib;&c_n;&c_t;&c_je;&c_l;&c_ib;&c_gu;&c_je;&c_n;&c_t;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x806A;&#x660E; <pr>c&#x14D;ngming</pr></trd>,
+    <trd>&#x3469; <pr>lu&#xF3;</pr></trd>,
+    <trd>&#x6167;&#x9EE0; <pr>hu&#xEC;xi&#xE1;</pr></trd>,
+    <trd>&#x7A4E;&#x609F; <pr>y&#x1D0;ngw&#xF9;</pr></trd>,
+    <trd>&#x806A; <pr>c&#x14D;ng</pr></trd>,
+    <trd>&#x806A;&#x6167; <pr>c&#x14D;nghu&#xEC;</pr></trd>,
+    <trd>&#x667A;&#x6167; <pr>zh&#xEC;hu&#xEC;</pr></trd>,
+    <trd>&#x4FD0; <pr>l&#xEC;</pr></trd>,
+    <trd>&#x806A;&#x654F; <pr>c&#x14D;ngm&#x1D0;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inteli.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="inteli.0o.PSI">
+    <dif>
+      Kapablo facile kompreni kaj vigle pensi:
+      <ekz>
+        la <tld/>o konsistas el tio, ke per ju&gcirc;kapablo kaj
+        rezonado
+        homoj eltrovas solvojn pri problemoj, kiujn starigas la vivo
+        <fnt><bib>Lanti</bib><lok>Pensoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        savi &gcirc;in povis nur granda <tld/>o kaj detala kompreno de l'
+        situacio
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la homa <tld/>o <klr>[...]</klr> tre facile eraras
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 1a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la kamparanoj kovris al vi la tutan mondon, vualis vian <tld/>on
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 11a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="intele.0o">intelekto</ref>
+    <refgrp tip="vid">
+      <ref cel="kompre.0emo.inteligento">komprenemo</ref>,
+      <ref cel="kompre.0kapablo">komprenkapablo</ref>,
+      <ref cel="kompre.0povo">komprenpovo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>inteligent</trd>,
+    <trd>vzd&ecaron;lanec</trd>
+  </trdgrp>
+  <trd lng="de">Intelligenz</trd>
+  <trd lng="en">intelligence</trd>
+  <trd lng="es">inteligencia</trd>
+  <trdgrp lng="fr">
+    <trd>intelligence</trd>,
+    <trd>intellect</trd>
+  </trdgrp>
+  <trd lng="nl">intelligentie</trd>
+  <trd lng="pl">inteligencja</trd>
+  <trd lng="pt">intelig&ecirc;ncia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_m;&c_y;&c_sh;&c_l;&c_jo;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>inteligent</trd>,
+    <trd>vzdelanec</trd>
+  </trdgrp>
+  <trd lng="sv">intelligens</trd>
+</drv>
+
+<drv mrk="inteli.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="inteli.0eco.PSI">
+    <dif>
+      <ref tip="sin" cel="inteli.0o"><tld lit="I"/>o</ref>:
+      <ekz>
+        plenumi sian taskon kun <tld/>eco;
+      </ekz>
+      <ekz>
+        havi grandan <tld/>econ pri la negoco;
+      </ekz>
+      <ekz>
+        la faraono rimarkis en <klr>[tiuj soldatoj]</klr> <tld/>econ kaj
+        kvietan energion
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 7a</lok></fnt>;
+      </ekz>
+      <ekz>
+        vivecaj okuloj indikis <tld/>econ pli ol ordinaran
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 13a</lok></fnt>;
+      </ekz>
+      <ekz>
+        en tiuj okuloj estis multe da <tld/>eco, e&ccirc; da sa&gcirc;o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">ARK</uzo>
+        tiuj &ccirc;i plej altaj reprezentantoj de la monda <tld/>eco
+        <klr>(de la monda <ref cel="intele.0ularo">intelektularo</ref>)</klr>
+        <klr>[...]</klr> vivis unuj apud la aliaj, ne komprenante unuj
+        la
+        aliajn
+        <fnt><bib>EE</bib></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Eblas fojfoje percepti nuancon inter la kapablo (<tld/>o) kaj
+      ies eco posedi &ccirc;i tiun kapablon (<tld/>eco).
+    </rim>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>inteligence</trd>,
+    <trd>inteligentnost</trd>
+  </trdgrp>
+  <trd lng="de">Intelligenz</trd>
+  <trd lng="en">intelligence</trd>
+  <trd lng="es">inteligencia</trd>
+  <trdgrp lng="fr">
+    <trd>intelligence</trd>,
+    <trd>intellect</trd>
+  </trdgrp>
+  <trd lng="hu">j&oacute; <ind>felfog&oacute;k&eacute;pess&eacute;g&udblac;</ind></trd>
+  <trd lng="io">inteligenteso</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8061;&#x660E;&#x3055;  <pr>&#x305D;&#x3046;&#x3081;&#x3044;&#x3055;</pr></trd>,
+    <trd>&#x82F1;&#x77E5;  <pr>&#x3048;&#x3044;&#x3061;</pr></trd>,
+    <trd>&#x7406;&#x89E3;&#x529B;  <pr>&#x308A;&#x304B;&#x3044;&#x308A;&#x3087;&#x304F;</pr></trd>,
+    <trd>&#x77E5;&#x80FD;  <pr>&#x3061;&#x306E;&#x3046;</pr></trd>,
+    <trd>&#x624D;&#x80FD;  <pr>&#x3055;&#x3044;&#x306E;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">intelligentie</trd>
+  <trd lng="pl">inteligencja</trd>
+  <trd lng="pt">intelig&ecirc;ncia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_m;&c_y;&c_sh;&c_l;&c_jo;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">inteligencia</trd>
+  <trd lng="sv">intelligens</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_u;&c_m;</trd>,
+    <trd>&c_t;&c_ja;&c_m;&c_o;&c_v;&c_i;&c_t;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_k;&c_m;&c_ib;&c_t;&c_l;&c_i;&c_v;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_ib;&c_n;&c_t;&c_je;&c_l;&c_ib;&c_gu;&c_je;&c_n;&c_t;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x667A;&#x6167; <pr>zh&#xEC;hu&#xEC;</pr></trd>,
+    <trd>&#x667A;&#x529B; <pr>zh&#xEC;l&#xEC;</pr></trd>,
+    <trd>&#x667A;&#x80FD; <pr>zh&#xEC;n&#xE9;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inteli.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="inteli.0ulo.KOMUNE">
+    <dif>
+      Homo <tld/>a:
+      <ekz>
+        se oni observas la homojn, oni konstatas, ke inter ili
+        trovi&gcirc;as
+        malmulte da <tld/>uloj: preska&ubreve; &ccirc;iuj ja estas
+        kutimuloj,
+        rutinuloj, tradiciuloj
+        <fnt><bib>Lanti</bib><lok>Pensoj</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">intelligenter Mensch</trd>
+    <trd lng="en">intelligent person</trd>
+    <trdgrp lng="hu">
+      <trd>intelligens ember</trd>,
+      <trd>&eacute;rtelmes ember</trd>
+    </trdgrp>
+    <trd lng="pl">inteligent</trd>
+    <trd lng="pt">pessoa <ind>inteligente</ind></trd>
+    <trd lng="zh">&#x77E5;&#x8B58;&#x5206;&#x5B50; <pr>zh&#x12B;shif&#xE8;nz&#x1D0;</pr></trd>
+</snc>
+  <snc mrk="inteli.0ulo.intelektulo">
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      <ref tip="sin" cel="intele.0ulo">Intelektulo</ref>:
+      <ekz>
+        mi, kiel &ccirc;iu <tld/>ulo, ne povas verki sen la humoro
+        <fnt><bib>Metrop</bib>, <lok>&ccirc;apitro 1a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Intellektueller</trd>,
+      <trd>Intellektuelle</trd>
+    </trdgrp>
+    <trd lng="en">intellectual</trd>
+    <trdgrp lng="hu">
+      <trd>entellekt&uuml;el</trd>,
+      <trd>&eacute;rtelmis&eacute;gi ember</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>inteligent</trd>,
+      <trd>intelektualista</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x77E5;&#x8B58;&#x5206;&#x5B50; <pr>zh&#x12B;shif&#xE8;nz&#x1D0;</pr></trd>,
+    <trd>&#x8B80;&#x66F8;&#x4EBA; <pr>d&#xFA;sh&#x16B;r&#xE9;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="cs">
+    <trd>inteligent</trd>,
+    <trd>vzd&ecaron;lanec</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x624D;&#x4EBA;  <pr>&#x3055;&#x3044;&#x3058;&#x3093;</pr></trd>,
+    <trd>&#x82F1;&#x624D;  <pr>&#x3048;&#x3044;&#x3055;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>inteligent</trd>,
+    <trd>vzdelanec</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inteli.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="inteli.mal0a.PSI">
+    <dif>
+      Ne <ref tip="ant" cel="inteli.0a"><tld/>a</ref>,
+      <ref tip="vid" cel="stult.0a.KOMUNE">stulta</ref>:
+      <ekz>
+        la edzino kaj bopatrino per mal<tld/>a babilado elvokas mokadon
+        de
+        aliaj
+        <fnt><bib>Fab4</bib>, <lok>Bela</lok></fnt>;
+      </ekz>
+      <ekz>
+        e&ccirc; la plej mal<tld/>aj policanoj pensus pri tio
+        <fnt><bib>&Scirc;talrato</bib><lok>&ccirc;apitro 13a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hloup&yacute;</trd>,
+    <trd>neinteligentn&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>unintelligent</trd>,
+    <trd>nicht intelligent</trd>,
+    <trd>unklug</trd>,
+    <trd>dumm</trd>,
+    <trd>bl&ouml;d</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>unintelligent</trd>,
+    <trd>stupid</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>inintelligent</trd>,
+    <trd>sot</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>unintelligens</trd>,
+    <trd>neh&eacute;z <ind>felfog&aacute;s&uacute;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x611A;&#x920D;&#x306A;  <pr>&#x3050;&#x3069;&#x3093;&#x306A;</pr></trd>,
+    <trd>&#x3070;&#x304B;&#x306A;</trd>,
+    <trd>&#x982D;&#x306E;&#x60AA;&#x3044;  <pr>&#x3042;&#x305F;&#x307E;&#x306E;&#x308F;&#x308B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>tuman</trd>,
+    <trd>mato&lstroke;</trd>,
+    <trd>g&lstroke;upek</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>rude</trd>, 
+   <trd>bronco</trd>, 
+   <trd>burro<klr tip="amb"> (f; n&atilde;o inteligente)</klr></trd> 
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hl&uacute;py</trd>,
+    <trd>neinteligentn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_u;&c_p;&c_i;&c_j;</trd>,
+    <trd>&c_t;&c_u;&c_p;&c_o;&c_u;&c_m;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_ib;&c_n;&c_t;&c_je;&c_l;&c_ib;&c_gu;&c_je;&c_n;&c_t;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x611A;&#x8822; <pr>y&#xFA;ch&#x1D4;n</pr></trd>,
+    <trd>&#x4E09;&#x516B; <pr>s&#x101;nb&#x101;</pr></trd>,
+    <trd>&#x7B28; <pr>b&#xE8;n</pr></trd>,
+    <trd>&#x8822; <pr>ch&#x1D4;n</pr></trd>,
+    <trd>&#x4F97; <pr>t&#xF3;ng</pr></trd>,
+    <trd>&#x5025; <pr>k&#x14D;ng</pr></trd>,
+    <trd>&#x569A; <pr>y&#xED;n</pr></trd>,
+    <trd>&#x61F5; <pr>m&#x11B;ng</pr></trd>,
+    <trd>&#x9811; <pr>w&#xE1;n</pr></trd>,
+    <trd>&#x5446; <pr>d&#x101;i</pr></trd>,
+    <trd>&#x75F4; <pr>ch&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inteli.arta0o"> 
+  <kap>arta <tld/>o, <var><kap>artefarita <tld/>o</kap></var></kap>
+  <snc mrk="inteli.arta0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="komputik.0o.KOMP">komputiko</ref>,
+      kiu a&ubreve;tomatigas lernadon, rezonon, decidadon,
+      &gcirc;enerale por solvado de kompleksaj problemoj:
+      <ekz>
+        komence de la 1960-aj jaroj mondvaste oni instalis
+        laboratoriojn por esplori la artan <tld/>on
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Roboto">
+          roboto</url>, 3013-03-08</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sistemo <klr>...</klr> uzas artefaritan <tld/>on por identigi
+        vian tiparon per simplaj demandoj
+        <fnt>
+          <aut>CastleType</aut>,
+          <vrk><url ref="http://castletype.com/html/misc/identify.html">
+          Identigi tiparon</url></vrk>,
+          <lok>2012</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">k&uuml;nstliche Intelligenz</trd>
+  <trd lng="en">artificial intelligence</trd>
+  <trd lng="fr">intelligence artificelle</trd>
+  <trd lng="nl">kunstmatige intelligentie</trd>
+  <trd lng="zh">&#x4EBA;&#x5DE5;&#x667A;&#x80FD; <pr>r&#xE9;ng&#x14D;ngzh&#xEC;n&#xE9;ng</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.27 2023/06/18 12:40:31
+Christian Siefkes: +trd de, en
+
+versio 1.26 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.22  2017/07/11 20:10:13  revo
+Wolfram Diestel: dif chirkau dif-ref; ekz-oj
+
+Revision 1.21  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/07/26 01:10:25  revo
+Jeromo Vasxe: + arta ~o
+
+Revision 1.18  2011/07/05 05:10:17  revo
+-->
+</vortaro>

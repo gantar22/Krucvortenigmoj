@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: oktav.xml,v 1.26 2023/10/20 13:11:47 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>oktav</rad>/o
+</kap>
+<drv mrk="oktav.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="oktav.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="dif" cel="okt.0o">Okto</ref>:
+      <ekz>
+        ludi notojn en la dua, tria, ktp. <tld/>oj
+        <fnt>
+          <vrk><url ref="&Viki;/Preterblovado">Preterblovado</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la frekvenco de noto duoblas po <tld/>o
+        <fnt>
+          <vrk><url ref="https://eo.linkfang.org/wiki/Muziknoto">Muziknoto</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_k;&c_t;&c_a;&c_v;&c_a;</trd>
+    <trd lng="de">Oktave</trd>
+    <trd lng="el">&omikron;&kappa;&tau;&alfa_ton;&beta;&alfa;</trd>
+    <trd lng="en">octave</trd>
+    <trd lng="fa">&a_A;&f_k;&a_t;&a_A;&a_w;</trd>
+    <trd lng="fr">octave<klr> (intervalle musical)</klr></trd>
+    <trd lng="hu">okt&aacute;v</trd>
+    <trd lng="nl">octaaf</trd>
+    <trd lng="pl">oktawa <klr>(interwa&lstroke;)</klr></trd>
+    <trd lng="pt">oitava</trd>
+    <trd lng="ru">&c_o;&c_k;&c_t;&c_a;&c_v;&c_a;</trd>
+  </snc>
+  <snc mrk="oktav.0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Libro en kiu &ccirc;iu paperfolio estas trioble faldita kaj formas 16
+      pa&gcirc;ojn (ok foliojn):
+      <ekz>
+        la libro <klr>[&#x2026;]</klr> gajnus per tio kelkajn <tld/>ajn
+        pa&gcirc;ojn
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_ib;&c_n;-&c_a;&c_k;&c_t;&c_a;&c_v;&c_a;</trd>
+    <trd lng="de">Oktavheft</trd>
+    <trd lng="en">octavo</trd>
+    <trdgrp lng="fa">
+      <trd>&a_q;&a_T;&a_ayn; &a_n;&f_y;&a_m;&#x200C;&a_w;&a_z;&f_y;&a_r;&f_y;</trd>,
+      <trd>&a_q;&a_T;&a_ayn; &a_h;&a_sh;&a_t;&#x200C;&a_b;&a_r;&f_g;&f_y;</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>in-octavo</trd>
+    </trdgrp>
+    <trd lng="hu">nyolcadr&eacute;t</trd>
+    <trd lng="nl">octavo</trd>
+    <trd lng="pl">oktawa</trd>
+    <trd lng="ru">&c_i;&c_n;-&c_o;&c_k;&c_t;&c_a;&c_v;&c_o;</trd>
+  </snc>
+  <snc mrk="oktav.0o.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      La oka <ref tip="super" cel="tag.0o.dato">tago</ref> post 
+      <ref cel="fest.0o">festo</ref>tago, resp. &ccirc;iuj &ccirc;i ok tagoj:
+      <ekz>
+        <tld lit="O"/>o de Kristnasko <klr>(1a de jan.)</klr>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=5011">1-a de januaro</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_v;&c_o;&c_s;&c_mol;&c_m;&c_y; &c_d;&c_z;&c_je;&c_n;&c_mol; <klr>(&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja; &c_w;&c_r;&c_a;&c_ch;&c_y;&c_s;&c_t;&c_a;&c_s;&c_c;&c_ib;, &c_s;&c_mol;&c_v;&c_ja;&c_t;&c_a;)</klr></trd>
+    <trd lng="de">Oktav</trd>
+    <trd lng="pl">oktawa</trd>
+  </snc>
+  <trd lng="cs">okt&aacute;va <klr>(hud. interval)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AA;&#x30AF;&#x30BF;&#x30FC;&#x30D6;</trd>,
+    <trd>&#x516B;&#x3064;&#x6298;&#x7248;  <pr>&#x3084;&#x3063;&#x3064;&#x304A;&#x306F;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="ro">octav&abreve;</trd>
+  <trd lng="sk">okt&aacute;va</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43A;&c_t;&c_a;&c_v;&c_a;</trd>,
+    <trd>&c_ib;&#x43D;-&#x43E;&#x43A;&c_t;&c_a;&c_v;&#x43E;</trd>,
+    <trd>&c_u; &c_v;&#x43E;&c_s;&#x44C;&#x43C;&c_u; &c_ch;&c_a;&c_s;&c_t;&c_i;&#x43D;&c_u; &c_a;&c_r;&#x43A;&c_u;&c_sh;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/20 13:11:47
+revo: transskribo per <pr>
+
+versio 1.24 2023/02/21 08:34:36
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/05/01 17:17:00
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2021/06/12 01:14:03
+Vito Redsky: +trd pl +trd ro
+
+versio 1.20 2020/10/06 06:34:45
+Wolfram Diestel: +snc KRI, ekz-oj
+
+Revision 1.18  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2011/10/01 20:10:19  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2009/10/15 16:32:38  revo
+-->
+</vortaro>

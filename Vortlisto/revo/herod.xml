@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: herod.xml,v 1.7 2023/11/15 16:45:19 revo Exp $">
+    <kap>
+      <rad>Herod</rad>/o
+    </kap>
+
+<drv mrk="herod.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">HIS</uzo><uzo tip="fak">BIB</uzo>
+  <dif>
+    Nomo de pluraj anoj de antikva <ref tip="malprt" cel="palestin.0o">palestina</ref>
+    <ref tip="malprt" cel="dinast.0o">dinastio</ref>, i.a.:
+  </dif>
+  <snc mrk="herod.0o.Granda">
+    <dif>
+      <tld/>o la Granda (73&#x202F;a.K.&#x202F;-&#x202F;4&#x202F;p.K.), re&gcirc;o enpostenigita de Romio
+      por <ref cel="jude.0o">Judeo</ref>,
+      <ref cel="galile.0o">Galileo</ref> kaj <ref cel="samari1.0o">Samario</ref>:
+      <ekz>
+        <tld/>o, ekvidinte, ke li estas trompita de la sa&gcirc;uloj, tre koleris kaj
+        sendinte, li mortigis &ccirc;iujn knabojn en <nom>Bet-Le&hcirc;em</nom> <klr>[&#x2026;]</klr>
+        havantajn du jarojn a&ubreve; malpli
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 2:16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="herod.0o.Antipas">
+    <dif>
+      <tld/>o <nom>Antipas</nom> (20&#x202F;a.K.&#x202F;-&#x202F;39&#x202F;p.K.), tetrar&hcirc;o de <ref cel="galile.0o">Galileo</ref>:
+      <ekz>
+        <tld/>o kaj Pilato fari&gcirc;is amikoj unu kun la alia en tiu sama tago
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 23:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi pruvos per konvinkaj dokumentoj, ke <tld/>o, la kvaronprinco, estis mia
+        praprapatro
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_Ib;&c_r;&c_a;&c_d;</trd>
+  <trd lng="de">Herodes</trd>
+  <trd lng="en">Herod</trd>
+  <trd lng="fr">H&eacute;rode</trd>
+  <trd lng="ja">&#x30D8;&#x30ED;&#x30C7;</trd>
+  <trd lng="nl">Herodes</trd>
+  <trd lng="ru">&c_I;&c_r;&c_o;&c_d;</trd>
+   <trd lng="uk">&c_Ib;&c_r;&#x43E;&c_d;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5E0C;&#x5F8B;&#x738B; <pr>x&#x12B;l&#xFC;w&#xE1;ng</pr></trd>,
+    <trd>&#x9ED1;&#x843D;&#x5FB7; <pr>H&#x113;ilu&#xF2;d&#xE9;</pr></trd>,
+    <trd>&#x5927;&#x5E0C;&#x5F8B;&#x738B; <pr>d&#xE0;x&#x12B;l&#xFC;w&#xE1;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.6 2023/10/03 07:22:27
+Sergio Pokrovskij: +trd=ru
+
+versio 1.4 2023/05/25 16:33:14
+Paul Peeraerts: + trd nl
+
+versio 1.3 2022/11/10 09:33:50
+Dmitri Gabinski: + trd be
+-->
+
+<!--
+$Log: herod.xml,v $
+versio 1.1 2020/06/01 19:10:33
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

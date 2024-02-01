@@ -1,0 +1,788 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: komple2.xml,v 1.116 2023/12/12 19:24:45 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>komplet</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="komple2.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="komple2.0a.KOMUNE">
+    <dif>
+      En kiu mankas neniu el la eroj, kiuj devas &gcirc;in
+      konsistigi:
+      <ekz>
+        <tld/>a teleraro, traduko, kolekto, vortaro;
+      </ekz>
+      <ekz>
+        vi estu perfektaj kaj <tld/>aj, ne havante mankon
+        <fnt>
+          <bib>NT</bib>
+          <lok>Jakobo 1:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        ili beda&ubreve;rinde akceptis en la familion <tld/>an
+        vagiston
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Sterkskarabo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;i-anta&ubreve;a teksto ne estas <tld/>a
+        <fnt>
+          <bib>LR</bib>
+          <lok>2. La verkaro de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni ja &ccirc;iuj estas unu tuta&jcirc;o, ni estas <tld/>a dekduo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Lino</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="perfek.0a">perfekta</ref>,
+      <ref cel="plen.0a.kompleta">plena</ref>,
+      <ref cel="tut.0a">tuta</ref>,
+      <ref cel="mank.sen0a">senmanka</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>vollst&auml;ndig</trd>,
+      <trd>vollz&auml;hlig</trd>,
+      <trd>vollkommen</trd>,
+      <trd>komplett</trd>
+    </trdgrp>
+    <trd lng="en">complete<klr> (adj)</klr></trd>
+    <trdgrp lng="es">
+      <trd>completo</trd>,
+      <trd>entero</trd>,
+      <trd>integral</trd>,
+      <trd>pleno</trd>,
+      <trd>perfecto</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>complet<klr tip="ind"> (adj.)</klr></trd>,
+      <trd>absolu<klr tip="ind"> (ironiquement)</klr></trd>,
+      <trd>achev&eacute;</trd>,
+      <trd>consomm&eacute;<klr tip="ind"> (ironiquement)</klr></trd>,
+      <trd>entier<klr tip="ind"> (adj.)</klr></trd>,
+      <trd>int&eacute;gral</trd>,
+      <trd>parfait<klr tip="ind"> (ironiquement)</klr></trd>,
+      <trd>pur<klr tip="ind"> (ironiquement)</klr></trd>,
+      <trd>plein</trd>,
+      <trd>rempli</trd>,
+      <trd>total<klr tip="ind"> (ironiquement)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>kompletny</trd>,
+      <trd>zupe&lstroke;ny</trd>,
+      <trd>ca&lstroke;kowity</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>completo</trd>,
+      <trd>inteiro</trd>,
+      <trd>perfeito</trd>,
+      <trd>pleno</trd>
+    </trdgrp>
+    <trdgrp lng="tok">
+      <trd>ale</trd>,
+      <trd>ali</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="komple2.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="komple2.0a.spaco">
+      <fnt><bib>EKV</bib><lok>&para;209</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="spac.metrika0o">metrika spaco</ref>)</klr>
+        Tia, ke &ccirc;iuj &gcirc;iaj
+        <ref cel="vic.kosxia0o">ko&scirc;iaj vicoj</ref>
+        konver&gcirc;as en &gcirc;i.
+      </dif>
+      <trd lng="de">vollst&auml;ndig<klr tip="ind"> (-er
+      Raum)</klr></trd>
+      <trd lng="en">complete<klr tip="ind"> (adj, space)</klr></trd>
+      <trd lng="es">completo<klr tip="amb">
+      (espacio m&eacute;trico)</klr></trd>
+      <trd lng="fr"><klr tip="ind">(espace) </klr>complet</trd>
+      <trd lng="pl"><klr tip="amb">(przestrze&nacute;)
+      </klr>zupe&lstroke;na</trd>
+      <trd lng="ru">&c_p;&c_o;&c_l;&c_n;&c_o;&c_je;<klr tip="amb">
+      (&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+    </subsnc>
+    <subsnc mrk="komple2.0a.latiso">
+      <dif>
+        <klr>(p.p. <ref cel="latis.0o.MAT">latiso</ref>)</klr>
+        Tia, ke ajna subaro de &gcirc;i (ne nur duelementa) akceptas
+        <ref cel="infim.0o">infimon</ref> kaj
+        <ref cel="suprem.0o">supremon</ref>.
+      </dif>
+      <trd lng="de">vollst&auml;ndig<klr tip="ind"> (-er
+      Verband)</klr></trd>
+      <trd lng="en">complete<klr tip="ind"> (adj, lattice)</klr></trd>
+      <trd lng="es">ret&iacute;culo<klr tip="amb"> (&aacute;lgebra)</klr></trd>
+      <trd lng="fr"><klr tip="ind">(treillis) </klr>complet</trd>
+      <trd lng="pl"><klr tip="amb">(krata) </klr>zupe&lstroke;na</trd>
+      <trd lng="ru">&c_p;&c_o;&c_l;&c_n;&c_a;&c_ja;<klr tip="amb">
+      (&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a;)</klr></trd>
+    </subsnc>
+    <subsnc mrk="komple2.0a.grafeo">
+      <fnt><bib>KompLeks</bib></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="grafe.0o.strukturo">grafeo</ref>)</klr>
+        Tia, ke du ajnaj verticoj de &gcirc;i &ccirc;iam estas
+        <ref cel="najbar.0a.grafee">najbaraj</ref>.
+      </dif>
+      <trd lng="de">vollst&auml;ndig<klr tip="ind"> (-er
+      Graph)</klr></trd>
+      <trd lng="en">complete<klr tip="ind"> (adj, graph)</klr></trd>
+      <trd lng="es">completo<klr tip="amb"> (grafo)</klr></trd>
+      <trd lng="fr"><klr tip="ind">(graphe) </klr>complet</trd>
+      <trd lng="pl"><klr tip="ind">(graf) </klr>pe&lstroke;ny</trd>
+      <trd lng="ru">&c_p;&c_o;&c_l;&c_n;&c_y;&c_j;<klr tip="ind">
+      (&c_g;&c_r;&c_a;&c_f;)</klr></trd>
+    </subsnc>
+  </snc>
+  <trd lng="af">volledige</trd>
+  <trd lng="am">&#x1270;&#x1320;&#x1293;&#x1240;&#x1240;</trd>
+  <trd lng="ar">&a_k;&a_A;&a_m;&a_l;&a_t_marbuta;</trd>
+  <trd lng="az">tam</trd>
+  <trd lng="bn">&#x9B8;&#x9AE;&#x9CD;&#x9AA;&#x9C2;&#x9B0;&#x9CD;&#x9A3;</trd>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_o;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_c;&c_e;&c_l;&c_y;</trd>,
+    <trd>&c_s;&c_u;&c_c;&c_e;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ra;&t_dzata;&t_naro;&t_ga;&t_sa;&t_tsheg;</trd>
+  <trd lng="bs">potpune</trd>
+  <trd lng="co">cumpleta</trd>
+  <trdgrp lng="cs">
+    <trd>celkov&yacute;</trd>,
+    <trd>cel&yacute;</trd>,
+    <trd>kompletn&iacute;</trd>,
+    <trd>&uacute;pln&yacute;</trd>
+  </trdgrp>
+  <trd lng="cy">cwblhau</trd>
+  <trd lng="da">komplet</trd>
+  <trd lng="de">vollst&auml;ndig</trd>
+  <trdgrp lng="es">
+    <trd>completo</trd>
+  </trdgrp>
+  <trd lng="et">t&auml;ielik</trd>
+  <trd lng="eu">osoa</trd>
+  <trd lng="fy">kompleet</trd>
+  <trd lng="ga">cr&iacute;ochnaithe</trd>
+  <trd lng="gd">cr&igrave;ochnaichte</trd>
+  <trd lng="gl">completo</trd>
+  <trd lng="gu">&#xAAA;&#xAC2;&#xAB0;&#xACD;&#xAA3;</trd>
+  <trd lng="hi">&#x92A;&#x942;&#x930;&#x93E;</trd>
+  <trd lng="hmn">tiav</trd>
+  <trd lng="hr">potpun</trd>
+  <trd lng="ht">konpl&egrave;</trd>
+  <trd lng="hy">&#x561;&#x574;&#x562;&#x578;&#x572;&#x57B;&#x561;&#x56F;&#x561;&#x576;</trd>
+  <trd lng="ig">zuru oke</trd>
+  <trd lng="is">heill</trd>
+  <trd lng="ja">&#x5B8C;&#x5168;&#x306A; <pr>&#x304B;&#x3093;&#x305C;&#x3093;&#x306A;</pr></trd>
+  <trd lng="jv">lengkap</trd>
+  <trd lng="ka">&#x10E1;&#x10E0;&#x10E3;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&c_a;&c_ja;&#x49B;&c_t;&c_a;&c_l;&#x493;&c_a;&c_n;</trd>
+  <trd lng="km">&#x1796;&#x17C1;&#x1789;&#x179B;&#x17C1;&#x1789;</trd>
+  <trd lng="kn">&#xCB8;&#xC82;&#xCAA;&#xCC2;&#xCB0;&#xCCD;&#xCA3;</trd>
+  <trd lng="ko">&#xC644;&#xB8CC;</trd>
+  <trd lng="ku">tev&icirc;</trd>
+  <trd lng="ky">&c_a;&c_ja;&c_k;&c_t;&c_o;&c_o;</trd>
+  <trd lng="lat">completum</trd>
+  <trd lng="lo">&#xEAA;&#xECD;&#xEB2;&#xEC0;&#xEA5;&#xEB1;&#xE94;&#xEAA;&#xEBB;&#xEA1;&#xE9A;&#xEB9;&#xE99;</trd>
+  <trd lng="lt">pilnas</trd>
+  <trd lng="lv">piln&#299;gs</trd>
+  <trd lng="mg">tanteraka</trd>
+  <trd lng="mi">oti</trd>
+  <trd lng="mk">&c_c;&c_je;&c_l;&c_o;&c_s;&c_n;&c_a;</trd>
+  <trd lng="ml">&#xD2A;&#xD42;&#xD7C;&#xD23;&#xD4D;&#xD23;&#xD2E;&#xD3E;&#xD2F;</trd>
+  <trd lng="mn">&c_b;&#x4AF;&c_r;&c_e;&c_n;</trd>
+  <trd lng="mr">&#x92A;&#x942;&#x930;&#x94D;&#x923;</trd>
+  <trd lng="ms">lengkap</trd>
+  <trd lng="mt">kompluta</trd>
+  <trd lng="my">&#x1015;&#x103C;&#x100A;&#x1037;&#x103A;&#x1005;&#x102F;&#x1036;&#x101E;&#x1031;&#x102C;</trd>
+  <trd lng="ne">&#x92A;&#x942;&#x930;&#x94D;&#x923;</trd>
+  <trdgrp lng="nl">
+    <trd>compleet</trd>,
+    <trd>volledig</trd>
+  </trdgrp>
+  <trd lng="ny">amphumphu</trd>
+  <trd lng="pa">&#xA2E;&#xA41;&#xA15;&#xA70;&#xA2E;&#xA32; &#xA39;&#xA4B;</trd>
+  <trd lng="ps">&a_b;&a_sh;&f_p;&#x693;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_c;&c_je;&c_l;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="rw">byuzuye</trd>
+  <trd lng="sd">&a_m;&#x6AA;&a_m;&a_l;</trd>
+  <trd lng="si">&#xDC3;&#xDB8;&#xDCA;&#xDB4;&#xDD6;&#xDBB;&#xDCA;&#xDAB;</trd>
+  <trdgrp lng="sk">
+    <trd>cel&yacute;</trd>,
+    <trd>ucelen&yacute;</trd>
+  </trdgrp>
+  <trd lng="sl">popolna</trd>
+  <trd lng="sm">atoatoa</trd>
+  <trd lng="sn">yose</trd>
+  <trd lng="so">dhammaystiran</trd>
+  <trd lng="sq">i plot&euml;</trd>
+  <trd lng="st">feletseng</trd>
+  <trd lng="su">kumplit</trd>
+  <trd lng="sw">kamili</trd>
+  <trd lng="ta">&#xBAE;&#xBC1;&#xBB4;&#xBC1;&#xBAE;&#xBC8;&#xBAF;&#xBBE;&#xBA9;</trd>
+  <trd lng="te">&#xC2A;&#xC42;&#xC30;&#xC4D;&#xC24;&#xC3F;</trd>
+  <trd lng="tg">&c_p;&c_u;&c_r;&c_r;&c_a;</trd>
+  <trd lng="th">&#xE2A;&#xE21;&#xE1A;&#xE39;&#xE23;&#xE13;&#xE4C;</trd>
+  <trd lng="tl">kumpleto na ang</trd>
+  <trd lng="tt">&c_t;&c_u;&c_l;&c_y;</trd>
+  <trd lng="uk">&c_p;&c_o;&c_v;&c_n;&c_i;&c_j;</trd>
+  <trd lng="ur">&a_m;&f_k;&a_m;&a_l;</trd>
+  <trd lng="uz">to&#x2019;la</trd>
+  <trd lng="vi">ho&agrave;n th&agrave;nh</trd>
+  <trd lng="xh">epheleleyo</trd>
+  <trd lng="yi">&gimel;&alef;&#x5B7;&nun;&ftsadi;</trd>
+  <trd lng="yo">pari</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6574; <pr>zh&#x11B;ng</pr></trd>,
+    <trd>&#x5B8C;&#x6574; <pr>w&#xE1;nzh&#x11B;ng</pr></trd>,
+    <trd>&#x5168;&#x90E8;&#x5730; <pr>qu&#xE1;nb&#xF9;de</pr></trd>,
+    <trd>&#x5341;&#x5206; <pr>sh&#xED;f&#x113;n</pr></trd>,
+    <trd>&#x5341;&#x6210; <pr>sh&#xED;ch&#xE9;ng</pr></trd>,
+    <trd>&#x6574;&#x4E2A; <pr>zh&#x11B;ngge</pr></trd>,
+    <trd>&#x9F4A;&#x5168; <pr>q&#xED;qu&#xE1;n</pr></trd>,
+    <trd>&#x5168;&#x526F; <pr>qu&#xE1;nf&#xF9;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">kuqedile</trd>
+</drv>
+
+<drv mrk="komple2.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="komple2.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="dif" cel="komple2.vesto0o">Vesto<tld/>o</ref>:
+      <ekz>
+        li surhavis belan <tld/>on el blua drapo;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> ligis du kikarojn da ar&gcirc;ento en du paketoj
+        kaj du <tld/>ojn da vestoj kaj donis al siaj du junuloj
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 5:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li vestis sin per sia diman&ccirc;a <tld/>o, siaj plej pimpa
+        &ccirc;apelo, palto, kaproledaj gantoj, kaj nigraj &scirc;uoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2014/010918.php">Mirakloj</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        juna sinjoro, elegante vestita en sobre griza <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2012/010756.php">Pika
+          partio</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o kaj la kravato de la deputito (uniformo portata de
+        pluraj sama&gcirc;aj junaj viroj en la &ccirc;ambroj)
+        subite memorigis min pri atestantoj de Jehovo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2012/010756.php">Pika
+          partio</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi posedas unusolan <tld/>on, malhelkoloran, kiun mi
+        el&scirc;rankigas nupto- a&ubreve; funebro-kiale
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2011/010399.php">Komplete
+          konfuzita</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t; <klr>(&c_a;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>,
+      <trd>&c_s;&c_t;&c_r;&c_o;&c_j;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Kleider</trd>,
+      <trd>Anzug</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>suit<klr> (n, of clothes)</klr></trd>,
+      <trd>outfit<klr> (n, of clothes)</klr></trd>,
+      <trd>set<klr> (n, of clothes)</klr></trd>
+    </trdgrp>
+    <trd lng="es">traje<klr> (chaqueta y pantal&oacute;n)</klr></trd>
+    <trd lng="fr">complet<klr tip="ind"> (costume)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>komplet</trd>,
+      <trd>kostium</trd>,
+      <trd>garnitur</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x5957;&#x88C5; <pr>t&#xE0;ozhu&#x101;ng</pr></trd>,
+    <trd>&#x897F;&#x670D; <pr>x&#x12B;f&#xFA;</pr></trd>,
+    <trd>&#x897F;&#x88C5; <pr>x&#x12B;zhu&#x101;ng</pr></trd>,
+    <trd>&#x5957;&#x670D; <pr>t&#xE0;of&#xFA;</pr></trd>,
+    <trd>&#x4E00;&#x5957; <pr>y&#x12B;t&#xE0;o</pr></trd>,
+    <trd>&#x4E00;&#x8EAB; <pr>y&#x12B;sh&#x113;n</pr></trd>,
+    <trd>&#x672F;&#x7B56; <pr>sh&#xF9;c&#xE8;</pr></trd>,
+    <trd>&#x519B;&#x7565; <pr>j&#x16B;nl&#xFC;&#xE8;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="komple2.0o.KOMUNE">
+    <dif>
+      Io <tld/>a:
+      <ekz>
+        <tld/>o da mebloj;
+      </ekz>
+      <ekz>
+        sin prezenti <ind>en plena <tld/>o</ind>
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+        <trd lng="fr">au grand <ind>complet</ind></trd>
+      </ekz>
+      <ekz>
+        unika &scirc;aka <tld/>o (kun &ccirc;iuj &scirc;akfiguroj!) el
+        eburo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Anatoli Ionesov</aut>
+          <vrk><url ref="&Monato;/2006/008920.php">Perlo
+          &ccirc;e la Silka Vojo</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas du politikaj principoj, kiuj povas funkcii nur en <tld/>o:
+        la principo de demokratia pluralismo kaj la principo de jura
+        &scirc;tato
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vinko O&scaron;lak</aut>
+          <vrk><url ref="&Monato;/2010/010022.php">Dekstrismo en
+          demokratio</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ensemb.0o.KOMUNE">ensemblo</ref>,
+      <ref cel="garnit.0o.KOMUNE">garnituro</ref>,
+      <ref cel="servic.0o.KUI">servico</ref>,
+      <ref cel="sortim.0o.KOMUNE">sortimento</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_u;&c_k;&c_u;&c_p;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_k;&c_a;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;</trd>,
+      <trd>&c_n;&c_a;&c_b;&c_o;&c_r;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Satz</trd>,
+      <trd>Ganzes</trd>
+    </trdgrp>
+    <trd lng="en">set<klr> (n, of matching items)</klr></trd>
+    <trdgrp lng="es">
+      <trd>juego<klr> (con todos los accesorios)</klr></trd>,
+      <trd>conjunto<klr> (todas las partes necesarias)</klr></trd>,
+      <trd>lote<klr> (de accesorios)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>assortiment<klr tip="ind"> (d'objets assortis)</klr></trd>,
+      <trd>batterie<klr tip="ind"> (d'objets assortis)</klr></trd>,
+      <trd>ensemble<klr tip="ind"> (d'objets assortis)</klr></trd>,
+      <trd>jeu<klr tip="ind"> (d'objets assortis)</klr></trd>,
+      <trd>lot<klr tip="ind"> (d'objets assortis)</klr></trd>,
+      <trd>set<klr tip="ind"> (de table)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>komplet</trd>,
+      <trd>garnitur</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>agreg&aacute;t</trd>,
+    <trd>celek</trd>,
+    <trd>komplet</trd>,
+    <trd>sada</trd>,
+    <trd>sb&iacute;rka</trd>,
+    <trd>soubor</trd>,
+    <trd>soustroj&iacute;</trd>,
+    <trd>v&yacute;stroj</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x5F0F;  <pr>&#x3044;&#x3063;&#x3057;&#x304D;</pr></trd>,
+    <trd>&#x4E00;&#x305D;&#x308D;&#x3044;  <pr>&#x3072;&#x3068;&#x305D;&#x308D;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>complet</trd>,
+    <trd>pak</trd>,
+    <trd>volledig <ind>stel</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>komplet</trd>,
+    <trd>sada</trd>,
+    <trd>s&uacute;bor</trd>
+  </trdgrp>
+  <trd lng="uk">&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;</trd>
+</drv>
+
+<drv mrk="komple2.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="komple2.0eco.KOMUNE">
+    <dif>
+      Eco de io <tld/>a:
+      <ekz>
+        prezenti ion <ind>en plena <tld/>eco</ind>;
+        <trdgrp lng="fr">
+          <trd>en <ind>totalit&eacute;</ind></trd>,
+          <trd>en <ind>int&eacute;gralit&eacute;</ind></trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        bibliografio klopodanta pri <tld/>eco
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19633">Johann
+          Sebastian Bach</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_w;&c_n;&c_a;&c_t;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_c;&c_e;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_c;&c_e;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">&uacute;plnost</trd>
+  <trd lng="de">Vollst&auml;ndigkeit</trd>
+  <trd lng="en">completeness</trd>
+  <trd lng="es">completitud</trd>
+  <trdgrp lng="fr">
+    <trd>compl&eacute;tude</trd>,
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5B8C;&#x74A7;&#x3055;  <pr>&#x304B;&#x3093;&#x307A;&#x304D;&#x3055;</pr></trd>,
+    <trd>&#x5B8C;&#x5168;&#x6027;  <pr>&#x304B;&#x3093;&#x305C;&#x3093;&#x305B;&#x3044;</pr></trd>,
+    <trd>&#x5B8C;&#x5099;&#x6027;  <pr>&#x304B;&#x3093;&#x3073;&#x305B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">volledigheid</trd>
+  <trdgrp lng="pl">
+    <trd>ca&lstroke;o&sacute;&cacute;</trd>,
+    <trd>kompletno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_n;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_c;&c_je;&c_l;&c_o;&c_s;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_c;&c_je;&c_l;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">&uacute;plnos&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5B8C;&#x6574; <pr>w&#xE1;nzh&#x11B;ng</pr></trd>,
+    <trd>&#x5B8C;&#x5099;&#x6027; <pr>w&#xE1;nb&#xE8;ix&#xEC;ng</pr></trd>,
+    <trd>&#x5B8C;&#x6574;&#x6027; <pr>w&#xE1;nzh&#x11B;ngx&#xEC;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="komple2.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="komple2.0igi.KOMUNE">
+    <dif>
+      Fari ion <tld/>a:
+      <ekz>
+        <tld/>igi kolekton, verkon;
+      </ekz>
+      <ekz>
+        la ora senfino de la maro <tld/>igis tiun grandiozan
+        pejza&gcirc;on;
+      </ekz>
+      <ekz>
+        laborante super mi mem, mi <tld/>igus miajn sciojn
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igi &ccirc;iam la sumon de siaj pekoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Tesalonikanoj 2:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> finis kaj <tld/>igis la konstrua&jcirc;ojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>iga</ind> kurso <klr>(por <tld/>igi la
+        instruon)</klr>.
+        <trdgrp lng="es">
+          <trd>complementario</trd>,
+          <trd>suplementario</trd>,
+          <trd>adicional</trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>compl&eacute;mentaire<klr tip="ind">
+          (additionnel)</klr></trd>,
+          <trd>additionnel</trd>,
+          <trd>suppl&eacute;mentaire</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_p;&c_a;&c_w;&c_n;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_w;&c_n;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_ja;&c_r;&c_sh;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_tsha;&t_ra;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>dopl&ncaron;ovat</trd>,
+    <trd>kompletiovat</trd>,
+    <trd>kompletizovat</trd>
+  </trdgrp>
+  <trd lng="de">vervollst&auml;ndigen</trd>
+  <trd lng="en">complete<klr> (vt)</klr></trd>
+  <trdgrp lng="es">
+    <trd>completar</trd>,
+    <trd>ultimar</trd>,
+    <trd>finalizar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>compl&eacute;ter</trd>,
+    <trd>parachever</trd>,
+    <trd>parfaire</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5168;&#x90E8;&#x305D;&#x308D;&#x3048;&#x308B;  <pr>&#x305C;&#x3093;&#x3076;&#x305D;&#x308D;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x88DC;&#x5145;&#x3059;&#x308B;  <pr>&#x307B;&#x3058;&#x3085;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5B8C;&#x5168;&#x306B;&#x3059;&#x308B;  <pr>&#x304B;&#x3093;&#x305C;&#x3093;&#x306B;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x4ED5;&#x4E0A;&#x3052;&#x308B;  <pr>&#x3057;&#x3042;&#x3052;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>aanvullen</trd>,
+    <trd>vervolledigen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kompletowa&cacute;</trd>,
+    <trd>dope&lstroke;nia&cacute;</trd>,
+    <trd>uzupe&lstroke;nia&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_o;&c_p;&c_o;&c_l;&c_n;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_o;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_p;&c_o;&c_l;&c_n;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_o;&c_s;&c_p;&c_o;&c_l;&c_n;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_o;&c_s;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">dokon&ccaron;i&tcaron; <klr>(dielo)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_p;&c_o;&c_v;&c_n;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_p;&c_o;&c_v;&c_n;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8487; <pr>ch&#x1CE;n</pr></trd>,
+    <trd>&#x5B8C;&#x6BD5; <pr>w&#xE1;nb&#xEC;</pr></trd>,
+    <trd>&#x5B8C;&#x6210; <pr>w&#xE1;nch&#xE9;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="komple2.ne0a">
+  <kap>ne<tld/>a, <var><kap>mal<tld/>a</kap></var></kap>
+  <snc mrk="komple2.ne0a.KOMUNE">
+    <dif>
+      En kiu mankas necesa a&ubreve; atendita parto:
+      <ekz>
+        el ka&ubreve;zo ne<tld/>a ne povas naski&gcirc;i sekva&jcirc;o
+        <tld/>a
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tia talento]</klr> en la plej bona okazo estas kapabla
+        krei nur objektojn kriplajn, &hcirc;aosajn kaj ne<tld/>ajn
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        la findecido estas farita de ne<tld/>a delegacio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>W. M. A. De Smet</aut>
+          <vrk><url ref="&Monato;/2004/008418.html">Edward
+          Croegaert, la forgesita lingvokreanto</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_p;&c_o;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_k;&c_a;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_c;&c_e;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>inkompletn&iacute;</trd>,
+    <trd>kus&yacute;</trd>,
+    <trd>ne&uacute;pln&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">unvollst&auml;ndig</trd>
+  <trd lng="en">incomplete</trd>
+  <trdgrp lng="es">
+    <trd>incompleto</trd>,
+    <trd>imperfecto</trd>,
+    <trd>inconcluso</trd>,
+    <trd>inacabado</trd>,
+    <trd>parcial</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>incomplet</trd>,
+    <trd>fragmentaire</trd>,
+    <trd>imparfait<klr tip="ind"> (incomplet)</klr></trd>,
+    <trd>inachev&eacute;</trd>,
+    <trd>partiel</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x5B8C;&#x5168;&#x306A;  <pr>&#x3075;&#x304B;&#x3093;&#x305C;&#x3093;&#x306A;</pr></trd>,
+    <trd>&#x4E0D;&#x5099;&#x306A;  <pr>&#x3075;&#x3073;&#x306A;</pr></trd>,
+    <trd>&#x4E0D;&#x5341;&#x5206;&#x306A;  <pr>&#x3075;&#x3058;&#x3085;&#x3046;&#x3076;&#x3093;&#x306A;</pr></trd>,
+    <trd>&#x672A;&#x5B8C;&#x6210;&#x306E;  <pr>&#x307F;&#x304B;&#x3093;&#x305B;&#x3044;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>niekompletny</trd>,
+    <trd>nieca&lstroke;kowity</trd>,
+    <trd>niepe&lstroke;ny</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_je;&c_p;&c_o;&c_l;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_z;&c_a;&c_v;&c_je;&c_r;&c_sh;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nekompletn&yacute;</trd>,
+    <trd>neucelen&yacute;</trd>,
+    <trd>ne&uacute;pln&yacute;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_n;&c_je;&c_p;&c_o;&c_v;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7247; <pr>pi&#xE0;n</pr></trd>,
+    <trd>&#x70C2;&#x5C3E; <pr>l&#xE0;nw&#x11B;i</pr></trd>,
+    <trd>&#x672A;&#x6210; <pr>w&#xE8;ich&#xE9;ng</pr></trd>,
+    <trd>&#x4E0D;&#x5B8C;&#x5168; <pr>b&#xF9;w&#xE1;nqu&#xE1;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="komple2.vesto0o">
+  <kap>vesto<tld/>o</kap>
+  <snc mrk="komple2.vesto0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Tuto da akordaj vestoj;
+      <ref tip="sin" cel="komple2.0o.TEKS">kompleto</ref>:
+      <ekz>
+        li surhavis multekostan grizan vesto<tld/>on, kun kiu
+        kolore akordis liaj eksterlandaj &scirc;uoj
+        <fnt><bib>MkM</bib><lok>&ccirc;ap. 1</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kostum.0o.TEKS">kostumo</ref>,
+      <ref cel="tualet.0o.TEKS">tualeto<sncref/></ref>
+    </refgrp>
+    <trd lng="de">Anzug</trd>
+  </snc>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t; <klr>(&c_a;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>,
+      <trd>&c_s;&c_t;&c_r;&c_o;&c_j;</trd>
+    </trdgrp>
+  <trdgrp lng="en">
+    <trd>suit<klr> (n, of clothes)</klr></trd>,
+    <trd>outfit<klr> (n, of clothes)</klr></trd>
+  </trdgrp>
+  <trd lng="es">traje<klr> (chaqueta y pantal&oacute;n)</klr></trd>
+  <trd lng="fr">complet<klr tip="ind"> (costume)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>komplet</trd>,
+    <trd>kostium</trd>,
+    <trd>garnitur</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_s;&c_t;&c_ju;&c_m;<klr tip="ind">
+    (&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;
+    &c_o;&c_d;&c_je;&c_zh;&c_d;&c_y;)</klr></trd>,
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;
+    &c_o;&c_d;&c_je;&c_zh;&c_d;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x897F;&#x670D; <pr>x&#x12B;f&#xFA;</pr></trd>,
+    <trd>&#x897F;&#x88C5; <pr>x&#x12B;zhu&#x101;ng</pr></trd>,
+    <trd>&#x5957;&#x670D; <pr>t&#xE0;of&#xFA;</pr></trd>,
+    <trd>&#x5957;&#x88C5; <pr>t&#xE0;ozhu&#x101;ng</pr></trd>,
+    <trd>&#x4E00;&#x8EAB; <pr>y&#x12B;sh&#x113;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.116 2023/12/12 19:24:45
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.114 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.112 2023/08/29 12:45:02
+Wolfram Diestel: ja: +prononco
+
+versio 1.111 2023/08/28 08:31:46
+Dmitri Gabinski: + trd be
+
+versio 1.110 2023/04/30 20:23:21
+Robert Baruch: +trd: en
+
+versio 1.109 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.31  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
+Revision 1.30  2019/06/30 07:42:48  revo
+-->
+</vortaro>

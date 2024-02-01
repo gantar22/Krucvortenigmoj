@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: arakid.xml,v 1.36 2023/10/28 08:33:08 revo Exp $">
+<kap>
+  <rad>arakid</rad>/o <fnt><bib>PV</bib></fnt>,
+  <var><kap><rad var="&hcirc;">ara&hcirc;id</rad>/o</kap></var>
+</kap>
+
+<drv mrk="arakid.0o">
+  <kap><tld/>o, <var><kap><tld var="&hcirc;"/>o</kap></var></kap>
+  <snc mrk="arakid.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="fabac.0oj">fabacoj</ref>
+      (<trd lng="la">Arachis</trd>);
+      <ref tip="lst" cel="herb.0o" lst="voko:faboparencoj">herbo</ref>, 
+      kies oleri&ccirc;aj <ref tip="prt" cel="gusx.0o">gu&scirc;oj</ref> maturi&gcirc;as
+      en la tero:
+      <ekz>
+        <klr>[en]</klr> la rakonto pri diablo kaj terkulturisto <klr>[&#x2026;]</klr> ili
+        dividas rikolton je supra&jcirc;oj kaj malsupra&jcirc;oj, kaj komence la diablo ricevas
+        supra&jcirc;ojn de <tld/>oj kaj poste malsupra&jcirc;ojn de maizo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2007/009009.php">Ruza leporo kaj &ccirc;iuj aliaj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/b/be/Arachis_pintoi.jpg/320px-Arachis_pintoi.jpg" prm="PD">floroj kaj
+    folioj de <tld/>o (Arachis pintoi), Insulo Borneo
+        <fnt>
+          <aut>Lordtct, propra verko</aut>
+          <lok><url ref="&WCW;/File:Arachis_pintoi.jpg">&WCW;/File:Arachis_pintoi.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="zh">&#x82B1;&#x751F; <pr>hu&#x101;sh&#x113;ng</pr></trd>
+</snc>
+  <snc mrk="arakid.0o.mangxo">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      La man&gcirc;ebla grajno de la specio
+      <ref tip="malprt" cel="ter.0nukso.BOT">ternukso<sncref ref="ter.0nukso.BOT"/></ref>:
+      <ekz>
+        helpe de la pluvo, la kamparanoj produktas maizon, <tld/>on, maniokon a&ubreve; rizon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sagbadjelou Kokou/pg</aut>
+          <vrk><url ref="&Monato;/2005/008658.php">Pro pluvo plu</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiom genia aparato ne estas produktebla kaj a&ccirc;etebla kontra&ubreve; kelkaj <tld/>oj
+        <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007154.php">Finfine oni povas dibo&ccirc;i sen pento</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 30</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <tld var="&hcirc;"/>a oleo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=598553">Arakida oleo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld var="&hcirc;"/>o-kapa cikado
+        <fnt>
+          <aut>Wouter F. Pilger</aut>
+          <vrk><url ref="ara&hcirc;ido">PPL Insektoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/5/52/Arachis_hypogaea_004.JPG/320px-Arachis_hypogaea_004.JPG" prm="CC     BY-SA 3.0">sekigitaj <tld/>ogu&scirc;oj, (Arachis hypogaea)
+        <fnt>
+          <aut>H. Zell, propra verko</aut>
+          <lok><url ref="&WCW;/File:Arachis_hypogaea_004.JPG">&WCW;/File:Arachis_hypogaea_004.JPG</url></lok>
+        </fnt>
+    </bld>
+    <trdgrp lng="zh">
+    <trd>&#x82B1;&#x751F;&#x7CD6; <pr>hu&#x101;sh&#x113;ngt&#xE1;ng</pr></trd>,
+    <trd>&#x5730;&#x8C46; <pr>d&#xEC;d&#xF2;u</pr></trd>,
+    <trd>&#x843D;&#x82B1;&#x751F; <pr>lu&#xF2;hu&#x101;sh&#x113;ng</pr></trd>,
+    <trd>&#x571F;&#x8C46; <pr>t&#x1D4;d&#xF2;u</pr></trd>,
+    <trd>&#x5E26;&#x58F3;&#x82B1;&#x751F; <pr>d&#xE0;ik&#xE9;hu&#x101;sh&#x113;ng</pr></trd>,
+    <trd>&#x5E36;&#x6BBC;&#x82B1;&#x751F; <pr>d&#xE0;ik&#xE9;hu&#x101;sh&#x113;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_a;&c_r;&c_a;&c_h;&c_ib;&c_s;</trd>
+  <trd lng="bg">&c_f;&c_malmol;&c_s;&c_t;&c_malmol;&c_k;</trd>
+  <trd lng="bo">&t_sa;&t_bata;&t_tsheg;&t_ta;&t_ma;&t_tsheg;</trd>
+  <trd lng="ca">cacauet</trd>
+  <trdgrp lng="cs">
+    <trd>ara&scaron;&iacute;d</trd>,
+    <trd>bursk&yacute; o&rcaron;&iacute;&scaron;ek</trd>,
+    <trd>podzemnice olejn&aacute;</trd>
+  </trdgrp>
+  <trd lng="de">Erdnuss</trd>
+  <trd lng="en">peanut</trd>
+  <trd lng="es">cacahuate</trd>
+  <trdgrp lng="fr">
+    <trd>arachide</trd>,
+    <trd>cacahu&egrave;te</trd>
+  </trdgrp>
+  <trd lng="he">&bet;&#x5BC;&#x5B9;&tet;&#x5B6;&fnun;</trd>
+  <trdgrp lng="hu">
+    <trd>amerikai mogyor&oacute;</trd>,
+    <trd>b&uacute;rmogyor&oacute;</trd>,
+    <trd>f&ouml;ldimogyor&oacute;</trd>
+  </trdgrp>
+  <trd lng="id">kacang</trd>
+  <trd lng="ja">&#x30E9;&#x30C3;&#x30AB;&#x30BB;&#x30A4;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_r;&c_a;&c_h;&c_i;&c_s;</trd>,
+    <trd>&c_z;&c_je;&c_m;&c_l;&c_ja;&c_n;&c_o;&c_j;
+&c_o;&c_r;&c_je;&c_h;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ara&scaron;id</trd>,
+    <trd>b&uacute;rsky orech</trd>
+  </trdgrp>
+  <trd lng="tr">yer f&inodot;st&inodot;&gbreve;&inodot;</trd>
+  <trd lng="uk">&c_a;&c_r;&c_a;&c_h;&c_ib;&c_s;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.34 2023/05/13 11:19:30
+Wolfram Diestel: +var kun ekz-oj
+
+versio 1.33 2023/04/29 16:31:54
+Paul Peeraerts: Steloj -> monato
+
+versio 1.32 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.31 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.26  2019/01/26 10:10:16  revo
+Wolfram Diestel: +ekz-oj, +bld-oj
+
+Revision 1.25  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/11/15 04:10:15  revo
+-->
+</vortaro>

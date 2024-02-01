@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fasxis1.xml,v 1.23 2023/11/09 19:13:16 revo Exp $">
+<kap>
+<rad>fa&scirc;ist</rad>/o
+</kap>
+<drv mrk="fasxis1.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="adept.0o.FIL">Adepto</ref>
+      de <ref tip="vid" cel="fasxis.0o.POL">fa&scirc;ismo</ref>:
+      <ekz>
+        post 1933, kiam en Germanio ekregis <tld/>oj, la librovendejo i&gcirc;is renkonti&gcirc;loko
+        por rifu&gcirc;intaj artistoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Antanas Grincevi&ccaron;ius</aut>
+          <vrk><url ref="&Monato;/2004/008234.html">Helene Holzman</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en 1940 la italaj <tld/>oj de <nom>Mussolini</nom> invadis Grekion el teritorio, jam
+        okupita de ili en Albanio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2006/008833.php">Kaj la prezidanto vane atendis</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniu kondamnis Parizon pro elektosukcesoj de <tld/>o <nom>Le Pen</nom>, neniu havis
+        zorgojn pro Svislando, kie dekstregulo en parlamentaj elektoj akiris fortan
+        subtenon de la civitanoj, famaj pro demokrateco
+        <fnt><aut>Stefan Maul</aut>,
+        <vrk><url ref="&Monato;/2000/006915.php">Kanonoj kontra&ubreve; paseroj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/04, p. 5</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_sh;&c_y;&c_s;&c_t;</trd>
+  <trd lng="ca">feixista</trd>
+  <trd lng="de">Faschist</trd>
+  <trd lng="en">fascist</trd>
+  <trd lng="es">fascista</trd>
+  <trd lng="fr">fasciste</trd>
+  <trd lng="hu">fasiszta</trd>
+  <trd lng="ja">&#x30D5;&#x30A1;&#x30B7;&#x30B9;&#x30C8;</trd>
+  <trd lng="nl">fascist</trd>
+  <trd lng="pl">faszysta</trd>
+  <trd lng="pt">fascista</trd>
+  <trd lng="ru">&c_f;&c_a;&c_sh;&c_i;&c_s;&c_t;</trd>
+  <trd lng="uk">&c_f;&c_a;&c_sh;&c_i;&c_s;&c_t;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6CD5;&#x897F;&#x65AF;&#x515A;&#x5458; <pr>f&#x1CE;x&#x12B;s&#x12B;d&#x1CE;ngyu&#xE1;n</pr></trd>,
+    <trd>&#x6CD5;&#x897F;&#x65AF;&#x4E3B;&#x4E49;&#x8005; <pr>f&#x1CE;x&#x12B;s&#x12B;zh&#x1D4;y&#xEC;zh&#x11B;</pr></trd>,
+    <trd>&#x6CD5;&#x897F;&#x65AF;&#x5206;&#x5B50; <pr>f&#x1CE;x&#x12B;s&#x12B;f&#xE8;nz&#x1D0;</pr></trd>,
+    <trd>&#x6CD5;&#x897F;&#x65AF; <pr>f&#x1CE;x&#x12B;s&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fasxis1.kontraux0o">
+  <kap>
+    kontra&ubreve;<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      Homo malsubtenanta fa&scirc;ismon:
+      <ekz>
+        <nom>Pau Casals</nom> estas por la katalunoj ne nur unu el la plej grandaj muzikistoj de
+        nia tempo, sed anka&ubreve; elstara kontra&ubreve;<tld/>o, pacbatalanto kaj defendanto de
+        la rajtoj de la kataluna popolo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ferriol Macip i Bonet</aut>
+          <vrk><url ref="&Monato;/2007/009253.php">Casals hispanigita</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="antifa.0o">antifa&scirc;isto</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_y;&c_f;&c_a;&c_sh;&c_y;&c_s;&c_t;</trd>
+  <trd lng="en">antifascist</trd>
+  <trd lng="de">Antifaschist</trd>
+  <trd lng="nl">antifascist</trd>
+  <trd lng="zh">&#x53CD;&#x6CD5;&#x897F;&#x65AF;&#x4E3B;&#x4E49;&#x8005; <pr>f&#x1CE;nf&#x1CE;x&#x12B;s&#x12B;zh&#x1D4;y&#xEC;zh&#x11B;</pr></trd>
+</drv>
+
+
+
+
+</art>
+<!--
+$Log$
+versio 1.21 2023/04/26 14:28:25
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.20 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2021/08/05 13:34:39
+Dmitri Gabinski: + trd be
+
+versio 1.17 2020/10/10 23:11:04
+Robin van der Vliet: tajperaro korektita, +trd
+
+Revision 1.15  2019/03/10 20:10:17  revo
+Wolfram Diestel: + drv kontraux~o
+
+Revision 1.14  2019/03/10 19:10:18  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.13  2011/06/03 06:10:16  revo
+Sebastian Cyprych: +trd pl +ref fasxismo
+
+Revision 1.12  2009/07/01 17:21:56  revo
+-->
+</vortaro>

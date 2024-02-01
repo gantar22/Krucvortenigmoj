@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konstitu.xml,v 1.13 2024/01/03 20:27:04 revo Exp $">
+<kap>
+  <rad>konstitu</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="konstitu.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="konstitu.0i.estigi">
+    <dif>
+      <refgrp tip="dif">
+        <ref cel="est.0igi">Estigi</ref>,
+        <ref cel="konsis.0igi">konsistigi</ref>,
+        <ref cel="form.0i.konsistigi">formi</ref>
+      </refgrp>:
+      <ekz>
+        la imito de la realo <tld/>as la esencon de la teatro
+        <fnt><bib>DonKihxoto</bib>, <lok>&ccirc;apitro 48a, p.
+        360a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;efa ka&ubreve;zo estas maljusta sistemo, kiun <tld/>as la tutfranca identeco baze
+        de blanka raso
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zlatko Ti&scaron;ljar</aut>
+          <vrk><url ref="&Monato;/2006/008912.php">Signalo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la frua infana&gcirc;o <tld/>as periodon de grava disvolvi&gcirc;o en la homa vivo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2013/010927.php">Profitinda infana&gcirc;o</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve;tempaj naski&gcirc;oj <tld/>as tutmonde la unuan mort-kialon por novnaskitaj
+        beboj kaj la due plej gravan (post pne&ubreve;monio) inter la infanoj malpli ol
+        5-jaraj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2013/011063.php">Aspektoj de vivekspekto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la aktuala disvasti&gcirc;anta kontrasto pri la esenco de la &scirc;tata laikeco sin
+        <tld/>as kiel formo de relativista subjektivismo, la&ubreve; kiu ne ekzistas etika
+        objektiva ordo, &leftquot;natura&#x201D;, kiel regulilo de la homa agado, sed nur la
+        subjektiva volo de la individuoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Armando Zecchin</aut>
+          <vrk><url ref="&Monato;/2006/008871.php">&Scirc;tato, eklezio kaj ideologia laikeco</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="prezen1.0i.esti">prezenti<sncref/></ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_a;&c_l;&c_jo;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;edstavovat</trd>,
+    <trd>tvo&rcaron;it</trd>,
+    <trd>ustavit</trd>,
+    <trd>zalo&zcaron;it</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>konstituieren</trd>,
+    <trd>ausmachen</trd>
+  </trdgrp>
+  <trd lng="fr">constituer</trd>
+  <trdgrp lng="nl">
+    <trd>vormen</trd>,
+    <trd><ind>bestaan</ind> uit</trd>,
+    <trd>constitueren</trd>
+  </trdgrp>
+  <trd lng="pl">konstytuowa&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>constituir</trd>,
+    <trd>compor</trd>,
+    <trd>formar</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>constituie</trd>,
+    <trd>forma</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ustanovi&tcaron;</trd>,
+    <trd>zalo&zcaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#21344; <pr>zh&#xE0;n</pr></trd>,
+    <trd>&#26500;&#25104; <pr>g&#xF2;uch&#xE9;ng</pr></trd>,
+    <trd>&#x7D44;&#x5EFA; <pr>z&#x1D4;ji&#xE0;n</pr></trd>,
+    <trd>&#x7D50;&#25104; <pr>ji&#xE9;ch&#xE9;ng</pr></trd>,
+    <trd>&#x7D44;&#x968A; <pr>z&#x1D4;du&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.13 2024/01/03 20:27:04
+Wolfram Diestel: +ref
+
+versio 1.12 2023/12/21 06:31:46
+Wolfram Diestel: +ref
+
+versio 1.10 2022/09/28 13:07:00
+Dmitri Gabinski: + trd be
+
+versio 1.9 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.7  2019/03/17 23:10:17  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.6  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/10/28 08:10:15  revo
+-->
+</vortaro>

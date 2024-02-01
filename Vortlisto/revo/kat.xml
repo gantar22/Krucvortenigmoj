@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kat.xml,v 1.118 2023/12/12 19:24:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kat</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kat.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kat.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Malgranda <ref tip="lst" cel="best.rabo0o" lst="voko:rabobestoj">rabobesto</ref>;
+      <ref tip="lst" cel="speci.0o.BIO" lst="voko:zoologiaj_specioj">specio</ref>
+       de <ref tip="malprt" cel="felis.0o">feliso</ref>
+      (<trd lng="la">Felis silvestris</trd>), kiu estas
+      tenata kiel hejma besto
+      ekzistas en multaj varia&jcirc;oj, interalie por
+      kapti musojn kaj ratojn:
+      <ekz>
+        <ind>kiam <tld/>o promenas, la musoj festenas</ind>
+        <klr>(kiam mastro foriras, ne sin &gcirc;enas la
+        servantoj)
+        </klr><fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">quand le <ind>chat</ind> dort, les
+        souris dansent</trd>
+        <trd lng="hu">ha nincs otthon a macska, cincognak az egerek
+        </trd>
+        <trd lng="nl">als de <ind>kat</ind> van huis is, dansen de
+        muizen</trd>
+        <trd lng="pl">gdy <ind>kota</ind> nie ma, myszy harcuj&aogonek;
+        </trd>
+      </ekz>
+      <ekz>
+        <ind>danci kiel <tld/>o &ccirc;irka&ubreve; poto</ind>
+        <klr>(peni por pla&ccirc;i)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">faire la danse du <ind>ventre</ind><klr tip="ind">
+        (fig., pour parvenir &agrave; ses fins)</klr></trd>
+        <trd lng="hu">ker&uuml;lgeti, mint macska a forr&oacute;
+        k&aacute;s&aacute;t</trd>
+        <trd lng="nl">vleien<klr tip="ind"> (om iets de
+        bekomen)</klr></trd>
+      </ekz>
+      <ekz>
+        <ind>vivi kun iu, kiel hundo kun <tld/>o</ind>
+        <klr>(malamike)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">s'entendre avec quelqu'un comme <ind>chien</ind>
+        et chat
+        </trd>
+        <trd lng="hu">&uacute;gy &eacute;lnek, mint a kutya meg a macska
+        </trd>
+        <trd lng="nl">als <ind>kat</ind> en hond leven</trd>
+        <trd lng="pl">&zdot;y&cacute; jak pies z <ind>kotem</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>kiam <tld/>o jam forman&gcirc;is, forpelado ne helpos</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="hu">es&odblac; ut&aacute;n k&ouml;p&ouml;nyeg</trd>
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/5/58/Collage_of_Six_Cats-01.jpg/576px-Collage_of_Six_Cats-01.jpg" prm="CC-BY-SA-2.0">katoj de diversaj felkoloroj
+        <fnt>
+          <aut>Caspian blue</aut>
+          <lok><url ref="&WCW;/File:Collage_of_Six_Cats-01.jpg">https://commons.wikimedia.org/wiki/File:Collage_of_Six_Cats-01.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="af">kat</trd>
+  <trd lng="am">&#x12F5;&#x1218;&#x1275;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_q;&a_T;</trd>
+  <trd lng="be">&c_k;&c_o;&c_t;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_t;&c_k;&c_a;</trd>
+  <trd lng="bn">&#x9AC;&#x9BF;&#x9A1;&#x9BC;&#x9BE;&#x9B2;</trd>
+  <trd lng="bo">&t_zha;&t_gigu;&t_tsheg;&t_ma;&t_gigu;&t_tsheg;</trd>
+  <trd lng="br">kazh</trd>
+  <trd lng="ca">gat</trd>
+  <trd lng="co">gattu</trd>
+  <trdgrp lng="cs">
+    <trd>ko&ccaron;ka</trd>
+  </trdgrp>
+  <trd lng="cy">cath</trd>
+  <trd lng="da">kat</trd>
+  <trd lng="de">Katze</trd>
+  <trdgrp lng="en">
+    <trd>cat</trd>,
+    <trd>puss</trd>,
+    <trd>pussy</trd>,
+    <trd>pussycat</trd>
+  </trdgrp>
+  <trd lng="es">gato</trd>
+  <trd lng="et">kass</trd>
+  <trd lng="eu">katu</trd>
+  <trd lng="fr">chat</trd>
+  <trd lng="fy">kat</trd>
+  <trd lng="gl">gato</trd>
+  <trd lng="gu">&#xAAC;&#xABF;&#xAB2;&#xABE;&#xAA1;&#xAC0;</trd>
+  <trd lng="hi">&#x92C;&#x93F;&#x932;&#x94D;&#x932;&#x940;</trd>
+  <trd lng="hmn">miv</trd>
+  <trd lng="hr">ma&ccaron;ka</trd>
+  <trd lng="ht">chat</trd>
+  <trd lng="hu">macska</trd>
+  <trd lng="hy">&#x56F;&#x561;&#x57F;&#x578;&#x582;</trd>
+  <trd lng="id">kucing</trd>
+  <trd lng="ig">pusi</trd>
+  <trd lng="io">kato</trd>
+  <trd lng="is">k&ouml;ttur</trd>
+  <trd lng="ja">&#x732B; <pr>&#x306D;&#x3053;</pr></trd>
+  <trd lng="ka">&#x10EA;&#x10D0;&#x10E2;</trd>
+  <trd lng="kk">&c_m;&c_y;&c_s;&c_y;&#x49B;</trd>
+  <trd lng="km">&#x1786;&#x17D2;&#x1798;&#x17B6;</trd>
+  <trd lng="kn">&#xCAC;&#xCC6;&#xC95;&#xCCD;&#xC95;&#xCC1;</trd>
+  <trd lng="ko">&#xACE0;&#xC591;&#xC774;</trd>
+  <trd lng="ku">pis&icirc;k</trd>
+  <trd lng="ky">&c_m;&c_y;&c_sh;&c_y;&c_k;</trd>
+  <trd lng="lo">&#xEC1;&#xEA5;&#xEC9;&#xE87;</trd>
+  <trd lng="lt">kat&#x117;</trd>
+  <trd lng="lv">ka&#311;is</trd>
+  <trd lng="mg">saka</trd>
+  <trd lng="mi">ngeru</trd>
+  <trd lng="mk">&c_m;&c_a;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="ml">&#xD2A;&#xD42;&#xD1A;&#xD4D;&#xD1A;</trd>
+  <trd lng="mn">&c_m;&c_u;&c_u;&c_r;</trd>
+  <trd lng="mr">&#x92E;&#x93E;&#x902;&#x91C;&#x930;</trd>
+  <trd lng="ms">kucing</trd>
+  <trd lng="mt">qattus</trd>
+  <trd lng="my">&#x1000;&#x103C;&#x1031;&#x102C;&#x1004;&#x103A;</trd>
+  <trd lng="ne">&#x92C;&#x93F;&#x930;&#x93E;&#x932;&#x94B;</trd>
+  <trdgrp lng="nl">
+    <trd>kat</trd>,
+    <trd>poes</trd>
+  </trdgrp>
+  <trd lng="ny">mphaka</trd>
+  <trd lng="pa">&#xA2C;&#xA3F;&#xA71;&#xA32;&#xA40;</trd>
+  <trdgrp lng="pl">
+    <trd>kot</trd>,
+    <trd>mruczek<klr> (pot.)</klr></trd>,
+    <trd>dachowiec<klr> (pot.)</klr></trd>,
+    <trd>kicia<klr> (pot., dzieci&eogonek;ce)</klr></trd>
+  </trdgrp>
+  <trd lng="ps">&f_p;&a_y;&a_sh;&a_w;</trd>
+  <trd lng="pt">gato</trd>
+  <trd lng="ro">pisic&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_sh;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_o;&c_t;</trd>
+  </trdgrp>
+  <trd lng="rw">injangwe</trd>
+  <trd lng="sd">&a_b;&a_l;&a_y;</trd>
+  <trd lng="si">&#xDB6;&#xDC5;&#xDBD;&#xDCF;</trd>
+  <trd lng="sk">ma&ccaron;ka</trd>
+  <trd lng="sm">pusi</trd>
+  <trd lng="sn">katsi</trd>
+  <trd lng="sq">mace</trd>
+  <trd lng="st">gato</trd>
+  <trd lng="su">ucing</trd>
+  <trd lng="sv">katt</trd>
+  <trd lng="sw">paka</trd>
+  <trd lng="ta">&#xBAA;&#xBC2;&#xBA9;&#xBC8;</trd>
+  <trd lng="te">&#xC2A;&#xC3F;&#xC32;&#xC4D;&#xC32;&#xC3F;</trd>
+  <trd lng="tg">&c_g;&c_u;&c_r;&c_b;&c_a;</trd>
+  <trd lng="th">&#xE41;&#xE21;&#xE27;</trd>
+  <trd lng="tl">pusa</trd>
+  <trd lng="tt">&c_m;&#x4D9;&c_ch;&c_je;</trd>
+  <trd lng="uk">&c_k;&c_ib;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="ur">&a_b;&a_l;&f_y;</trd>
+  <trd lng="uz">mushuk</trd>
+  <trd lng="vi">m&egrave;o</trd>
+  <trd lng="vo">kat</trd>
+  <trd lng="xh">ikati</trd>
+  <trd lng="yi">&qof;&alef;&#x5B7;&ftsadi;</trd>
+  <trd lng="yo">o nran</trd>
+  <trd lng="zh">&#x732B; <pr>m&#x101;o</pr></trd>
+  <trd lng="zu">likati</trd>
+</drv>
+
+<drv mrk="kat.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o, propra al <tld/>o:
+      <ekz>
+        Helka <ind>per <tld/>aj pa&scirc;oj</ind>, kun oblikva
+        rigardo &scirc;teliris al la fortepiano
+        <fnt>
+        <aut>E. Orzeszkowa trad. K. Bein</aut>
+        <vrk>La bona sinjorino</vrk><lok>
+        <url ref="http://www.esperanto.pl/page.php?tid=1196">
+        http://www.esperanto.pl/page.php?tid=1196</url></lok>
+        </fnt>;
+        <trd lng="fr">&agrave; pas de <ind>loup</ind></trd>
+      </ekz>
+      <ekz>
+        <ind><tld/>aj manieroj</ind> <klr>(flataj)</klr>.
+        <trdgrp lng="fr">
+          <trd><ind>chatterie</ind>s<klr tip="ind">
+          (&ccirc;alineries)</klr></trd>,
+          <trd><ind>c&acirc;linerie</ind>s</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_c;&c_ib;&c_n;&c_y;</trd>
+  <trd lng="br">-<ind>kazh</ind></trd>
+  <trd lng="ca">fel&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>ko&ccaron;i&ccaron;&iacute;</trd>,
+    <trd>ko&ccaron;i&ccaron;&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Katzen...</trd>
+  <trd lng="en">feline</trd>
+  <trd lng="es">felino</trd>
+  <trdgrp lng="fr">
+    <trd>de <ind>chat</ind></trd>,
+    <trd>f&eacute;lin<klr tip="ind"> (relatif au chat)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">macska-</trd>
+  <trd lng="io">katala</trd>
+  <trd lng="ja">&#x732B;&#x306E; <pr>&#x306D;&#x3053;&#x306E;</pr></trd>
+  <trd lng="nl">katten-</trd>
+  <trd lng="pl">koci</trd>
+  <trd lng="pt">felino</trd>
+  <trd lng="ru">&c_k;&c_o;&c_sh;&c_a;&c_ch;&c_i;&c_j;</trd>
+  <trd lng="sk">ma&ccaron;ac&iacute;</trd>
+  <trd lng="sv">katt-</trd>
+  <trd lng="uk">&c_k;&c_o;&c_t;&c_ja;&c_ch;&c_i;&c_j;</trd>
+  <trd lng="vo">katik</trd>
+</drv>
+
+<drv mrk="kat.0ido">
+  <kap><tld/>ido, <var><kap><tld/>idino</kap></var></kap>
+  <snc>
+    <dif>
+      Ido de <tld/>o:
+      <ekz>
+        <ind>plej juna <tld/>ido musojn jam pelas</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="fr">bon <ind>chien</ind> chasse de race</trd>
+        <trd lng="nl">de <ind>appel</ind> valt niet ver van de
+        boom</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_c;&c_ja;&c_n;&c_ja;</trd>
+  </snc>
+  <trd lng="br">kazhig</trd>
+  <trdgrp lng="de">
+    <trd>Katzenjunges</trd>
+  </trdgrp>
+  <trd lng="en">kitten</trd>
+  <trd lng="es">cachorro de <ind>gato</ind></trd>
+  <trd lng="fr">chaton<klr tip="ind"> (petit du chat)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>kismacska</trd>,
+    <trd>cica</trd>
+  </trdgrp>
+  <trd lng="id"><ind>anak</ind> kucing</trd>
+  <trd lng="io">katyuno</trd>
+  <trd lng="ja">&#x5B50;&#x732B; <pr>&#x3053;&#x306D;&#x3053;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>kitten</trd>,
+    <trd>katje</trd>,
+    <trd>poesje</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>koci&eogonek;</trd>,
+    <trd>kiciu&sacute;<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>bichano</trd>,
+    <trd>gatinho</trd>,
+    <trd>bichana</trd>,
+    <trd>gatinha</trd>
+  </trdgrp>
+  <trd lng="ro">pisoi</trd>
+  <trd lng="ru">&c_k;&c_o;&c_t;&c_jo;&c_n;&c_o;&c_k;</trd>
+  <trd lng="sv">kattunge</trd>
+  <trd lng="uk">&c_k;&c_o;&c_sh;&c_je;&c_n;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x732B;&#x513F; <pr>m&#x101;o&#xE9;r</pr></trd>,
+    <trd>&#x5C0F;&#x732B; <pr>xi&#x1CE;om&#x101;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kat.0ino">
+  <kap><tld/>ino</kap>
+  <snc>
+    <dif>
+      Inseksa <tld/>o.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_o;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_o;&c_sh;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="br">kazhez</trd>
+  <trd lng="de">Katze<klr> (weibl.)</klr></trd>
+  <trdgrp lng="en">
+    <trd>female <ind>cat</ind></trd>,
+    <trd>queen</trd>
+  </trdgrp>
+  <trd lng="es">gata</trd>
+  <trd lng="fr"><ind>chat</ind>te</trd>
+  <trd lng="hu">n&odblac;st&eacute;ny <ind>macska</ind></trd>
+  <trd lng="id"><ind>kucing</ind> betina</trd>
+  <trd lng="io">katino</trd>
+  <trd lng="ja">&#x96CC;&#x732B; <pr>&#x3081;&#x3059;&#x306D;&#x3053;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>poes</trd>,
+    <trd>vrouwtjeskat</trd>,
+    <trd>wijfjeskat</trd>
+  </trdgrp>
+  <trd lng="pl">kotka</trd>
+  <trd lng="pt">gata</trd>
+  <trd lng="ru">&c_k;&c_o;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="sv">katthona</trd>
+  <trd lng="uk">&c_k;&c_ib;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="vo">jikat</trd>
+</drv>
+
+<drv mrk="kat.vir0o">
+  <kap>vir<tld/>o</kap>
+  <snc>
+    <dif>
+      Virseksa <tld/>o:
+      <ekz>
+        <ind>eksvir<tld/>o</ind> <klr>(kastrita <tld/>o)</klr>.
+        <trd lng="vo">hokat</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_o;&c_t; <klr>(&c_s;&c_a;&c_m;&c_je;&c_c;)</klr></trd>
+  <trd lng="bg">&c_k;&c_o;&c_t;&c_a;&c_r;&c_a;&c_k;</trd>
+  <trd lng="br">targazh</trd>
+  <trd lng="cs">kocour</trd>
+  <trd lng="de">Kater</trd>
+  <trdgrp lng="en">
+    <trd>tomcat</trd>,
+    <trd>male <ind>cat</ind></trd>
+  </trdgrp>
+  <trd lng="es"><ind>gato</ind> macho</trd>
+  <trdgrp lng="fr">
+    <trd><ind>chat</ind> m&acirc;le</trd>,
+    <trd>matou</trd>
+  </trdgrp>
+  <trd lng="hu">kandur</trd>
+  <trd lng="id"><ind>kucing</ind> jantan</trd>
+  <trd lng="io">katulo</trd>
+  <trd lng="ja">&#x96C4;&#x732B; <pr>&#x304A;&#x3059;&#x306D;&#x3053;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>kater</trd>,
+    <trd>mannetjeskat</trd>
+  </trdgrp>
+  <trd lng="pl">kocur</trd>
+  <trdgrp lng="pt">
+    <trd>gato macho</trd>,
+    <trd>gat&atilde;o</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_t;</trd>
+  <trd lng="sk">koc&uacute;r</trd>
+  <trd lng="sv">hankatt</trd>
+  <trd lng="uk">&c_k;&c_ib;&c_t; (&c_s;&c_a;&c_m;&c_je;&c_c;&c_mol;)</trd>
+  <trd lng="vo">hikat</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.118 2023/12/12 19:24:44
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.116 2023/11/16 09:27:17
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.115 2023/10/18 14:48:10
+revo: transskribo per <pr>
+
+versio 1.114 2023/08/26 13:23:36
+Mahaer Mahmud: aldonis bildon
+
+versio 1.113 2022/09/16 09:36:54
+Dmitri Gabinski: + trd be
+
+versio 1.112 2022/04/07 16:40:26
+Noam Mohr: +trd en kat-
+
+versio 1.45 2020/12/29 10:10:36
+Aleks Andre: +trd bo
+
+versio 1.44 2020/11/29 23:10:51
+-->
+</vortaro>

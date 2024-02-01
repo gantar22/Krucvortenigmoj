@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: everest.xml,v 1.8 2023/11/07 20:34:12 revo Exp $">
+    <kap>
+      <rad>Everest</rad>/o
+    </kap>
+
+<drv mrk="everest.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">GEOG</uzo>
+  <snc>
+    <dif>
+      Plej alta <ref tip="lst" lst="voko:montoj" cel="mont.0o.GEOG">monto</ref> de la mondo, 
+      situanta en <ref tip="malprt" cel="himalaj.H0o">Himalajo</ref>:
+      <ekz>
+        <nom>Wolfgang Nairz</nom> <klr>[&#x2026;]</klr> la 3an de majo 1978 kiel unua a&ubreve;striano surgrimpis
+        <tld/>on
+        <fnt><aut>E. Georgiev</aut>,
+        <vrk><url ref="&Monato;/2000/007116.html">Sir Edmund Hillary: Vivo
+        dedi&ccirc;e al
+        la &scirc;erpoj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/10, p. 18-19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Monto Olimpo <klr>(sur Marso)</klr> estas trioble pli granda ol <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj'</aut>
+          <vrk><url ref="&Monato;/2010/009989.php">Voja&gcirc;o unudirekta</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gla&ccirc;eroj de la monto <tld/>o spertis, ene de 50 jaroj, malaperon de 13&#x202F;% de
+        sia amplekso
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/011067.php">Everesto mem blovospiras</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="bo">&t_ja;&t_naro;&t_tsheg;&t_ma;&t_naro;&t_tsheg;&t_ga;&t_lata;&t_nga;&t_tsheg;&t_ma;</trd>
+    <trd lng="de">Mount Everest</trd>
+    <trd lng="en">Mount Everest</trd>
+    <trd lng="fr">Everest</trd>
+    <trd lng="nl">Everest</trd>
+  </snc>
+  <trd lng="be">&c_E;&c_v;&c_e;&c_r;&c_e;&c_s;&c_t;</trd>
+  <trd lng="ja">&#x30A8;&#x30D9;&#x30EC;&#x30B9;&#x30C8;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_Je;&c_v;&c_je;&c_r;&c_je;&c_s;&c_t;</trd>,
+    <trd>&c_D;&c_zh;&#x43E;&#x43C;&#x43E;&#x43B;&c_u;&#x43D;&c_g;&#x43C;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x73E0;&#x5CF0; <pr>zh&#x16B;f&#x113;ng</pr></trd>,
+    <trd>&#x73E0;&#x7A46;&#x6717;&#x739B;&#x5CF0; <pr>zh&#x16B;m&#xF9;l&#x1CE;ngm&#x1CE;f&#x113;ng</pr></trd>,
+    <trd>&#x73E0;&#x7A46;&#x6717;&#x739B; <pr>zh&#x16B;m&#xF9;l&#x1CE;ngm&#x1CE;</pr></trd>
+  </trdgrp>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.6 2023/06/21 14:29:57
+Dmitri Gabinski: + trd be
+
+versio 1.5 2023/04/26 12:45:52
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.4 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.2 2021/05/16 19:51:57
+Wolfram Diestel: +trd bo
+-->
+</vortaro>

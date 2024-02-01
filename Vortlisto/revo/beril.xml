@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: beril.xml,v 1.22 2023/10/29 19:11:01 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>beril</rad>/o
+</kap>
+
+<drv mrk="beril.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="beril.0o.MIN">
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      <ref tip="super" cel="minera.0o">Mineralo</ref>,
+      <frm>Al<sub>2</sub>Be<sub>3</sub>(Si<sub/>O<sub>3</sub>)<sub>6</sub></frm>;
+      kiel juvel&scirc;tono, 
+      <ref tip="sub" cel="smeral.0o.MIN">smeraldo</ref> kun fre&scirc;e verda koloro, 
+      <ref tip="sub" cel="akvamarin.0o.MIN">akvamarino</ref> kun koloro de marakvo, 
+      heliodoro (a&ubreve; ora <tld/>o) ktp, 
+      konsistanta el natura 
+      <ref tip="super" cel="silici.0ato">siliciato</ref> de 
+      <ref tip="super" cel="alumin1.0o">aluminio</ref> kaj 
+      <ref tip="super" cel="berili.0o">berilio</ref>,
+      sesangule (heksagone) kristali&gcirc;anta:
+      <ekz>
+        krizolito, kaj onikso, kaj <tld/>o, en oraj kadretoj ili estu
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 28:20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="zh">&#x7DA0;&#x67F1;&#x77F3; <pr>l&#xFC;zh&#xF9;sh&#xED;</pr></trd>
+</snc>
+  <trd lng="be">&c_b;&c_e;&c_r;&c_y;&c_l;</trd>
+  <trd lng="ca">beril</trd>
+  <trd lng="cs">beryl</trd>
+  <trd lng="de">Beryll</trd>
+  <trd lng="en">beryl</trd>
+  <trd lng="es">berilo</trd>
+  <trd lng="fr">b&eacute;ryl</trd>
+  <trd lng="he">&#x5D1;&#x5E8;&#x5D9;&#x5DC;&#x5D9;&#x5D5;&#x5DD;</trd>
+  <trd lng="hu">berill</trd>
+  <trd lng="ja">&#x7DD1;&#x67F1;&#x77F3;  <pr>&#x308A;&#x3087;&#x304F;&#x3061;&#x3085;&#x3046;&#x305B;&#x304D;</pr></trd>
+  <trd lng="pl">beryl</trd>
+  <trd lng="ru">&c_b;&c_je;&c_r;&c_i;&c_l;&c_l;</trd>
+  <trd lng="sk">beryl</trd>
+  <trd lng="uk">&#x431;&#x435;&#x440;&#x438;&#x43B;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+Revision 1.16  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2007/10/31 17:30:21  revo
+Sebastian Cyprych: kor frm; kor dif +ref akvamarino, kristaligxi
+
+Revision 1.13  2007/10/30 17:30:36  revo
+Sebastian Cyprych: korekto de dif +ref al smeraldo
+
+Revision 1.12  2007/06/13 16:32:22  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2006/06/01 16:32:08  revo
+Sebastian Cyprych: +ref siliciato,aluminio,berilio -rim siliciato +frm
++trd pl
+-->
+</vortaro>

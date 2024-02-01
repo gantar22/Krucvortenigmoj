@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: diskrimin.xml,v 1.12 2023/11/04 14:29:02 revo Exp $">
+<kap>
+  <rad>diskrimin</rad>/i <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="diskrimin.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="diskrimin.0i.distingi">
+    <uzo tip="stl">RAR</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      <ref tip="dif" cel="distin.0i">Distingi</ref>:
+      <ekz>
+        la tipa Atapaska lingvo <tld/>as pri la fizikaj formoj de naturaj
+        objektoj
+        <fnt>
+          <aut>K. Miner</aut>,
+          <vrk><url ref="http://www.sunflower.com/~miner/TAGLIBRO_package/taglibro.html">
+          taglibro</url></vrk>,
+          <lok>2004-08-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_d;&c_r;&c_o;&c_z;&c_mol;&c_n;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="pl">wyr&oacute;&zdot;nia&cacute;</trd>
+    <trd lng="pt">distinguir</trd>
+  </snc>
+  <rim>
+    Oni uzas <tld/>i anka&ubreve; kiel mallonga formo de
+    <ref tip="hom" cel="diskrim.0i">diskriminacii</ref>.
+  </rim>
+  <trd lng="de">diskriminieren <klr>(unterscheiden)</klr></trd>
+  <trd lng="en">discriminate</trd>
+  <trd lng="fr">discriminer</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&c_r;&c_ib;&c_z;&#x43D;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43F;&c_ib;&c_z;&#x43D;&c_a;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_d;&c_ib;&#x43B;&#x44F;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6709;&#x8FA8;&#x8B58;&#x529B; <pr>y&#x1D2;ubi&#xE0;nsh&#xED;l&#xEC;</pr></trd>,
+    <trd>&#x6709;&#x504F;&#x5DEE; <pr>y&#x1D2;upi&#x101;nch&#x101;</pr></trd>,
+    <trd>&#x6709;&#x5DEE;&#x5225; <pr>y&#x1D2;uch&#x101;bi&#xE9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="diskrimin.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="diskrimin.0o.distingo">
+    <uzo tip="stl">RAR</uzo>
+    <ref tip="dif" cel="distin.0o">distingo</ref>
+    <trd lng="be">&c_a;&c_d;&c_r;&c_o;&c_z;&c_mol;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </snc>
+  <trd lng="cs">diskriminace</trd>
+  <trd lng="de">Diskrimination <klr>(Unterscheidung)</klr></trd>
+  <trd lng="en">discrimination</trd>
+  <trd lng="fr">discrimination</trd>
+  <trd lng="pl">wyr&oacute;&zdot;nienie<klr>
+    (odr&oacute;&zdot;nienie)</klr></trd>
+  <trd lng="pt">distin&ccedil;&atilde;o</trd>
+  <trd lng="sk">diskrimin&aacute;cia</trd>
+  <trd lng="zh">&#x6B67;&#x8996; <pr>q&#xED;sh&#xEC;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.11 2023/11/04 09:23:16
+Wolfram Diestel: movis ~i POL al diskriminaci/
+
+versio 1.9 2021/04/07 07:53:01
+Dmitri Gabinski: + trd be
+
+Revision 1.7  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2013/12/02 15:10:34  revo
+Damien Brucker: +trd fr
+
+Revision 1.4  2010/01/18 17:31:52  revo
+Russ Williams: +trd en
+
+Revision 1.3  2009/06/19 05:10:20  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2007/06/22 17:24:53  revo
+-->
+</vortaro>

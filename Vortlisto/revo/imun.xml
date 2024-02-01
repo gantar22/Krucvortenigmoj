@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: imun.xml,v 1.24 2023/11/19 10:22:12 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>imun</rad>/a
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="imun.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="imun.0a.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Tute &scirc;irmita kontra&ubreve; infekta <ref cel="san.mal0o">malsano</ref>:
+      <ekz>
+        la <tld/>a sistemo de la organismo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2007/008991.php">La &ccirc;efaj murdistoj de HIV-infektitoj</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malsanuloj uzis specialajn medikamentojn, kiuj subpremas <tld/>an reagon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2007/008991.php">La &ccirc;efaj murdistoj de HIV-infektitoj</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tie]</klr> unuafoje naski&gcirc;is la viruso, provokanta &ccirc;e homo la tiel nomatan
+        sindromon de <tld/>operdo, tio estas aidoso
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2004/008160.html">Afriko kaj aidoso</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la viruso de aidoso utiligas anka&ubreve; tiujn receptorojn por penetri en <tld/>ajn
+        &ccirc;elojn <klr>(vd <ref cel="cxel.imun0o"><tld/>&ccirc;elo</ref>)</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2008/009427.php">&Ccirc;u estas homoj rezistaj al aidoso?</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sistem.imun0o">imunsistemo</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_ib;&c_m;&c_u;&c_n;&c_n;&c_y;</trd>,
+      <trd>&c_n;&c_je;&c_w;&c_s;&c_p;&c_r;&c_y;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y; <klr tip="amb">(&c_d;&c_a;
+      &c_ib;&c_n;&c_f;&c_e;&c_k;&c_c;&c_y;&c_ib;, &c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_y;)</klr></trd>
+    </trdgrp>
+    <trd lng="de">immun</trd>
+    <trd lng="en">immune</trd>
+    <trdgrp lng="hu">
+      <trd>v&eacute;dett<klr tip="ind"> (betegs&eacute;ggel szemben)</klr></trd>,
+      <trd>ellen&aacute;ll&oacute;k&eacute;pes<klr tip="ind"> (betegs&eacute;ggel
+      szemben)</klr></trd>,
+      <trd>immunis</trd>
+    </trdgrp>
+    <trd lng="nl">immuun</trd>
+    <trd lng="pl">odporny</trd>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_je;&c_v;&c_o;&c_s;&c_p;&c_r;&c_i;&c_i;&c_m;&c_ch;&c_i;&c_v;&c_y;&c_j; (&c_k; &c_b;&c_o;&c_l;&c_je;&c_z;&c_n;&c_i;)</trd>,
+      <trd>&c_i;&c_m;&c_u;&c_n;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+    <trd lng="sv">immun</trd>
+  </snc>
+  <snc mrk="imun.0a.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Ne respondeca anta&ubreve; la le&gcirc;o, &scirc;irmita per le&gcirc;a <ref cel="privil.0a">privilegio</ref>.
+    </dif>
+    <trd lng="be">&c_n;&c_je;&c_d;&c_a;&c_t;&c_y;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="de">immun</trd>
+    <trd lng="en">exempt</trd>
+    <trdgrp lng="hu">
+      <trd>mentes<klr tip="ind">(mentess&eacute;get &eacute;lvez&odblac;)</klr></trd>,
+      <trd>mentess&eacute;get &eacute;lvez&odblac;</trd>
+    </trdgrp>
+    <trd lng="nl">onschendbaar</trd>
+    <trdgrp lng="pl">
+      <trd>nietykalny</trd>,
+      <trd>korzystaj&aogonek;cy z <ind>immunitetu</ind></trd>,
+      <trd>korzystaj&aogonek;cy z <ind>listu &zdot;elaznego</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_i;&c_k;&c_o;&c_s;&c_n;&c_o;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="imun.0a.rezista">
+    <dif>
+      <ref cel="rezist.0i">Rezista</ref> kontra&ubreve; difektoj, kontra&ubreve; atako:
+      <ekz>
+        korod-<tld/>a &scirc;talo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan Macaoidh</aut>
+          <vrk><url ref="https://www.monato.be/2003/008042.html">Pinte!</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> bezonas ta&ubreve;gajn vesta&jcirc;ojn, precipe varmajn gantojn kaj
+        akvo-<tld/>ajn botojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Saliko</aut>
+          <vrk><url ref="https://www.monato.be/2006/009096.php">Glaciskulptado</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la sola homo, kiu &scirc;ajnis <tld/>a kontra&ubreve; &scirc;ia &ccirc;armo, estis &scirc;ia propra patrino
+        <fnt>
+          <bib>StU</bib>
+          <lok>Al Romo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ni]</klr> spertis ke malblinda estas amo kaj ne <tld/>a kontra&ubreve; malkompreno
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="https://www.monato.be/2012/010461.php">Soneto por M.</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">gefeit</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>chr&aacute;n&ecaron;n&yacute;</trd>,
+    <trd>imunn&iacute;</trd>
+  </trdgrp>
+  <trd lng="es">inmune</trd>
+  <trdgrp lng="fr">
+    <trd>immun</trd>,
+    <trd>immuniser</trd>,
+    <trd>jouissant de l'<ind>immunit&eacute;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x514D;&#x75AB;&#x306E;  <pr>&#x3081;&#x3093;&#x3048;&#x304D;&#x306E;</pr></trd>,
+    <trd>&#x514D;&#x9664;&#x306E;  <pr>&#x3081;&#x3093;&#x3058;&#x3087;&#x306E;</pr></trd>,
+    <trd>&#x8010;&#x6027;&#x306E;&#x3042;&#x308B;  <pr>&#x305F;&#x3044;&#x305B;&#x3044;&#x306E;&#x3042;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">imune</trd>
+  <trd lng="ru">&c_i;&c_m;&c_je;&c_ju;&c_shch;&c_i;&c_j; &c_i;&c_m;&c_m;&c_u;&c_n;&c_i;&c_t;&c_je;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>chr&aacute;nen&yacute;</trd>,
+    <trd>im&uacute;nny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&c_m;&c_u;&c_n;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_p;&c_r;&c_i;&c_j;&c_n;&c_ja;&c_t;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_t;&c_a;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_shch;&c_o; &c_m;&c_a;&c_jeu; &c_ib;&c_m;&c_u;&c_n;&c_ib;&c_t;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x514D;&#x75AB; <pr>mi&#x1CE;ny&#xEC;</pr></trd>
+</drv>
+
+<drv mrk="imun.0eco">
+  <kap><tld/>eco</kap>
+  <dif>
+    Stato de iu <tld/>a:
+  </dif>
+  <snc mrk="imun.0eco.MED">
+      <uzo tip="fak">MED</uzo>
+      <ekz>
+        foresto de la <tld/>eco al &ccirc;i tiu viruso <klr>[&#x2026;]</klr> akcelis disvastigon de
+        epidemio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2003/008099.html">Birda gripo, &ccirc;u dan&gcirc;era por la homo?</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fakuloj ekzamenis la <tld/>ecan reagon &ccirc;e la vundorando kaj el tio deduktas,
+        ke la morto okazis 10 a&ubreve; 15 minutojn post la vundi&gcirc;o
+        <fnt>
+          <bib>CKv</bib>
+          <lok>4</lok>
+        </fnt>.
+      </ekz>
+    <trdgrp lng="be">
+      <trd>&c_ib;&c_m;&c_u;&c_n;&c_ib;&c_t;&c_e;&c_t;</trd>,
+      <trd>&c_n;&c_je;&c_w;&c_s;&c_p;&c_r;&c_y;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">Immunit&auml;t</trd>
+    <trdgrp lng="hu">
+      <trd>v&eacute;detts&eacute;g<klr tip="ind"> (betegs&eacute;ggel
+      szemben)</klr></trd>,
+      <trd>ellen&aacute;ll&oacute;k&eacute;pess&eacute;g<klr tip="ind"> (betegs&eacute;ggel
+      szemben)</klr></trd>,
+      <trd>immunit&aacute;s</trd>
+    </trdgrp>
+    <trd lng="nl">immuniteit</trd>
+    <trd lng="pl">odporno&sacute;&cacute;</trd>
+  </snc>
+  <snc mrk="imun.0eco.JUR">
+      <uzo tip="fak">JUR</uzo>
+      <ekz>
+        <tld/>eco de la parlamentanoj;
+      </ekz>
+      <ekz>
+        li e&ccirc; elposteni&gcirc;is, rezignante pri sia deputita <tld/>eco, por ke la
+        prokuratorejo libere enketu
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="https://www.monato.be/2011/010311.php">&Ccirc;u an&gcirc;elo a&ubreve; diablo?</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Usono strikte rifuzas agnoskon de la monda puntribunalo kaj elmar&ccirc;andis
+        <tld/>econ por siaj soldatoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="https://www.monato.be/2004/008349.html">Morala degenero</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    <trdgrp lng="be">
+      <trd>&c_ib;&c_m;&c_u;&c_n;&c_ib;&c_t;&c_e;&c_t;</trd>,
+      <trd>&c_n;&c_je;&c_d;&c_a;&c_t;&c_y;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">Immunit&auml;t</trd>
+    <trd lng="hu">mentess&eacute;g</trd>
+    <trd lng="nl">onschendbaarheid</trd>
+    <trdgrp lng="pl">
+      <trd>nietykalno&sacute;&cacute;</trd>,
+      <trd>immunitet</trd>
+    </trdgrp>
+    <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_i;&c_k;&c_o;&c_s;&c_n;&c_o;&c_v;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>imunita</trd>,
+    <trd>imunnost</trd>,
+    <trd>nedotknutelnost</trd>
+  </trdgrp>
+  <trd lng="en">immunity</trd>
+  <trd lng="es">inmunidad</trd>
+  <trd lng="fr">immunit&eacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x514D;&#x75AB;  <pr>&#x3081;&#x3093;&#x3048;&#x304D;</pr></trd>,
+    <trd>&#x514D;&#x9664;  <pr>&#x3081;&#x3093;&#x3058;&#x3087;</pr></trd>,
+    <trd>&#x514D;&#x8CAC;  <pr>&#x3081;&#x3093;&#x305B;&#x304D;</pr></trd>,
+    <trd>&#x514D;&#x8CAC;&#x7279;&#x6A29;  <pr>&#x3081;&#x3093;&#x305B;&#x304D;&#x3068;&#x3063;&#x3051;&#x3093;</pr></trd>,
+    <trd>&#x8010;&#x6027;  <pr>&#x305F;&#x3044;&#x305B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">imunidade</trd>
+  <trd lng="ru">&c_i;&c_m;&c_m;&c_u;&c_n;&c_i;&c_t;&c_je;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>imunita</trd>,
+    <trd>nedotknute&lcaron;nos&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_ib;&c_m;&c_u;&c_n;&c_ib;&c_t;&c_je;&c_t;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x514D;&#x75AB;&#x529B; <pr>mi&#x1CE;ny&#xEC;l&#xEC;</pr></trd>,
+    <trd>&#x514D;&#x75AB; <pr>mi&#x1CE;ny&#xEC;</pr></trd>,
+    <trd>&#x5916;&#x4EA4;&#x7279;&#x6743; <pr>w&#xE0;iji&#x101;ot&#xE8;qu&#xE1;n</pr></trd>,
+    <trd>&#x62B5;&#x6297;&#x529B; <pr>d&#x1D0;k&#xE0;ngl&#xEC;</pr></trd>,
+    <trd>&#x8C41;&#x514D; <pr>hu&#xF2;mi&#x1CE;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="imun.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="imun.0igi.MED">
+    <dif>
+      Fari iun <tld/>a:
+      <ekz>
+        <uzo tip="fak">MED</uzo>
+        vakcino <tld/>igas kontra&ubreve; variolo;
+      </ekz>
+      <ekz>
+        dum la 60aj jaroj, pro <tld/>iga programo, tuberkulozo ne plu mortigis kaj oni
+        forgesis ties dan&gcirc;erojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007148.html">Ne mortis mortiga malsano</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vakcinoj je 70-80 % <tld/>igas la vakcinitojn kontra&ubreve; kancero de la utercerviko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2010/010159.php">Vakcino preventas kancerojn</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="vakcin.0i">vakcini</ref>
+    </refgrp>
+    <trd lng="be">&c_ib;&c_m;&c_u;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">immunisieren</trd>
+    <trd lng="en">immunize</trd>
+    <trd lng="fr">immuniser</trd>
+    <trdgrp lng="hu">
+      <trd>v&eacute;dett&eacute; tesz</trd>,
+      <trd>immuniss&aacute; tesz</trd>,
+      <trd>immuniz&aacute;l</trd>
+    </trdgrp>
+    <trd lng="nl">immuniseren</trd>
+    <trd lng="pl">uodparnia&cacute;</trd>
+    <trd lng="ru">&c_i;&c_m;&c_m;&c_u;&c_n;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    <trd lng="zh">&#x514D;&#x75AB;&#x6CD5; <pr>mi&#x1CE;ny&#xEC;f&#x1CE;</pr></trd>
+</snc>
+  <trd lng="es">inmunizar</trd>
+  <trdgrp lng="ja">
+    <trd>&#x514D;&#x75AB;&#x306B;&#x3059;&#x308B;  <pr>&#x3081;&#x3093;&#x3048;&#x304D;&#x306B;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x514D;&#x9664;&#x3059;&#x308B;  <pr>&#x3081;&#x3093;&#x3058;&#x3087;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">imunizar</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&c_m;&c_u;&c_n;&c_ib;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_n;&c_a;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_ib;&c_m;&c_u;&c_n;&c_ib;&c_t;&c_je;&c_t;</trd>
+  </trdgrp>
+</drv>
+<adm>
+  Enkonduki drv-ojn de la tipo rust~a kaj la
+  sencovastigon de ~a, kiun tio implicas.
+  <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.21 2023/06/13 20:24:36
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2008/11/23 19:11:33  revo
+Wieland Pusch: entoj por unikodo
+
+Revision 1.15  2008/11/09 17:30:45  revo
+Russ Williams: +trd en
+
+Revision 1.14  2006/03/13 17:32:05  revo
+Jeromo Vasxe: + kk mrk
+
+Revision 1.13  2005/10/26 16:32:16  revo
+-->
+</vortaro>

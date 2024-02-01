@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: perist.xml,v 1.21 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>peristil</rad>/o
+</kap>
+<drv mrk="perist.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="perist.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="kort.0o">Korto</ref>, kiun &ccirc;irka&ubreve;as 
+      <ref tip="prt" cel="galeri.0o.ekstera">galerio</ref> apogata sur kolonoj:
+      <ekz>
+        en la koridoro, &ccirc;irka&ubreve;anta la <tld/>on, estis la nomoj kaj
+        portretoj de &ccirc;iuj faraonoj
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 8a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="klostr.0o">klostro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_e;&c_r;&c_y;&c_s;&c_t;&c_y;&c_l;&c_mol;</trd>
+  <trd lng="ca">peristil</trd>
+  <trdgrp lng="cs">
+    <trd>ochoz</trd>,
+    <trd>peristyl</trd>,
+    <trd>peristylos</trd>,
+    <trd>sloupov&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Perystilium</trd>
+  <trd lng="en">peristyle</trd>
+  <trd lng="es">peristilo</trd>
+  <trd lng="fr">p&eacute;ristyle</trd>
+  <trdgrp lng="hu">
+    <trd>periszt&uuml;lion</trd>,
+    <trd>periszt&iacute;lium</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x67F1;&#x5ECA;  <pr>&#x3061;&#x3085;&#x3046;&#x308D;&#x3046;</pr></trd>,
+    <trd>&#x67F1;&#x5217;  <pr>&#x3061;&#x3085;&#x3046;&#x308C;&#x3064;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">zuilengang</trd>
+  <trd lng="pl">perystyl</trd>
+  <trd lng="pt">peristilo</trd>
+  <trd lng="ro">curte</trd>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_i;&c_s;&c_t;&c_i;&c_l;&c_mol;</trd>
+  <trd lng="sk">dvor so st&lacute;porad&iacute;m</trd>
+  <trd lng="uk">&#x43F;&#x435;&#x440;&#x438;&#x441;&#x442;&#x438;&#x43B;&#x44C;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.18 2022/02/05 21:24:31
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.17 2021/08/28 10:31:49
+Wolfram Diestel: +ref
+
+versio 1.16 2021/06/30 13:34:01
+Dmitri Gabinski: + trd be
+
+Revision 1.14  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2010/10/30 16:30:40  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/02/27 17:34:52  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/06/01 16:30:59  revo
+-->
+</vortaro>

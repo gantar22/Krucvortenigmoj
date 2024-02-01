@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lecion.xml,v 1.34 2024/01/15 16:14:09 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lecion</rad>/o <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="lecion.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="lecion.0o.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      <ref tip="vid" cel="instru.0ajxo">Instrua&jcirc;o</ref>
+      kiu estas parto de
+      <ref tip="malprt" cel="kurs.0o.lerna">kurso</ref>.
+    </dif>
+    <subsnc mrk="lecion.0o.kuna">
+      <dif>
+        Tio, kion instruisto lernigas al lernanto:
+        <ekz>
+          doni <tld/>ojn de muziko kaj de franca lingvo
+          <fnt>
+            <bib>Marta</bib>
+          </fnt>,
+          <tld/>ojn de pentrado
+          <fnt>
+            <bib>Marta</bib>
+          </fnt>,
+          <tld/>ojn de belskribado
+          <fnt>
+            <bib>DL</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          ellernadi <klr>[lingvon]</klr> per helpo de <tld/>oj
+          <fnt>
+            <bib>EE</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <nom>Ib</nom> devis nun komenci la vizitadon de anta&ubreve;konfirmaciaj <tld/>oj
+          <fnt>
+            <bib>Fab3</bib>
+            <lok>Ib kaj malgranda kristino</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          &scirc;i ne povis partopreni en la <tld/>oj de religio
+          <fnt>
+            <bib>Fab3</bib>
+            <lok>Juda knabino</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la instruisto <klr>[&#x2026;]</klr> diris al la knaboj <tld/>on pri la granda graveco
+          de la scienco
+          <fnt>
+            <bib>Far2</bib>
+            <lok>&Ccirc;apitro I</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          oni povas tie a&ubreve;di diversajn publikajn parolojn kaj <tld/>ojn
+          <fnt>
+            <bib>FK</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          al kokino la ovo <tld/>ojn ne donu
+          <fnt>
+            <bib>PrV</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/>oj al profesoro estas vana laboro
+          <fnt>
+            <bib>PrV</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <ind>doni <tld/>on de moroj</ind><fnt><bib>PrV</bib></fnt>
+          <klr>(severe ripro&ccirc;i; vd
+            <refgrp tip="vid">
+              <ref cel="lav">lavo</ref>,
+              <ref cel="kap.0o">kapo</ref>
+            </refgrp>)</klr>.
+            <trd lng="de">eine <ind>Moralpredigt</ind> halten</trd>
+            <trd lng="hu">m&oacute;resre tan&iacute;t</trd>
+        </ekz>
+      </dif>
+      <refgrp tip="sub">
+        <ref cel="lekci.0o">lekcio</ref>,
+        <ref cel="preleg.0o">prelego</ref>.
+      </refgrp>
+    <refgrp tip="vid">
+       <ref cel="instru.0o.instruajxo">instruo<sncref/></ref>,
+       <ref cel="instru1.0o.KOMUNE">instrukcio<sncref/></ref>
+    </refgrp>
+      <trdgrp lng="ca">
+         <trd>lli&ccedil;&oacute;</trd>,
+         <trd>classe <klr tip="ind">(lli&ccedil;&oacute;)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="de">
+         <trd>Lehre</trd>,
+         <trd>Lektion</trd>
+      </trdgrp>
+      <trd lng="hu">lecke</trd>
+      <trd lng="sv">lektion</trd>
+    </subsnc>
+    <subsnc mrk="lecion.0o.tasko">
+      <dif>
+        <ref tip="sin" cel="task.0o.ordonita">Tasko</ref>
+        por individua laboro, kiun lernanto devas mem
+        fari kaj la&ubreve;bezone prezenti al la instruisto:
+        <ekz>
+          se la lernanto scius bone sian <tld/>on, la instruanto lin ne punus
+          <fnt>
+            <bib>F</bib>
+            <lok>&FE; 20</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          li devis vartadi sian malgrandan fratinon <klr>[&#x2026;]</klr> kaj krom tio li devis
+          anka&ubreve; lernadi siajn <tld/>ojn
+          <fnt>
+            <bib>Fab2</bib>
+            <lok>Malgranda Tuk</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          alportu la kajeron, ni ripetos vian aritmetikan <tld/>on
+          <fnt>
+            <bib>IK</bib>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+         <trd>Aufgabe</trd>,
+         <trd>Hausaufgabe</trd>
+      </trdgrp>
+      <trd lng="es">deberes<klr> (escolar)</klr></trd>
+      <trd lng="fr">devoir<klr> (scolaire)</klr></trd>
+      <trdgrp lng="hu">
+         <trd>feladat</trd>,
+         <trd>h&aacute;zi <ind>feladat</ind></trd>
+      </trdgrp>
+      <trd lng="sv">l&auml;xa</trd>
+    </subsnc>
+  </snc>
+  <snc mrk="lecion.0o.sperto">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Instruo de la <ref tip="super" cel="spert.0o">sperto</ref>:
+      <ekz>
+        malvenko <klr>[&#x2026;]</klr> estus <tld/>o de prudento kaj humileco por la princo
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi skribos al mi &ccirc;i tiun <tld/>on per oraj literoj sur la tabulon de mia cerbo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>por malsa&gcirc;ulo bastono, por sa&gcirc;ulo <tld/>o</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="hu">ostob&aacute;nak bot, okosnak <ind>lecke</ind></trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekzemp.0o">ekzemplo</ref>
+    </refgrp>
+    <trdgrp lng="de">
+       <trd>Lehre</trd>,
+       <trd>Lektion</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+       <trd>lecke</trd>,
+       <trd>tanuls&aacute;g</trd>
+    </trdgrp>
+    <trd lng="sv">lektion</trd>
+  </snc>
+  <snc mrk="lecion.0o.lego">
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="leg.0o.versio">lego<sncref/></ref>
+  </snc>
+  <trd lng="be">&c_u;&c_r;&c_o;&c_k;</trd>
+  <trd lng="bo">&#xF66;&#xFB3;&#xF7C;&#xF56;&#xF0B;&#xF5A;&#xF53;&#xF0B;</trd>
+  <trd lng="br">kentel</trd>
+  <trdgrp lng="cs">
+    <trd>lekce</trd>,
+    <trd>&uacute;kol</trd>
+  </trdgrp>
+  <trd lng="el">&my;&alfa_ton;&theta;&eta;&my;&alfa;</trd>
+  <trd lng="en">lesson</trd>
+  <trd lng="es">lecci&oacute;n</trd>
+  <trd lng="fr">le&ccedil;on</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6388;&#x696D;  <pr>&#x3058;&#x3085;&#x304E;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x3051;&#x3044;&#x3053;</trd>,
+    <trd>&#x30EC;&#x30C3;&#x30B9;&#x30F3;  <pr>&#x308C;&#x3063;&#x3059;&#x3093;</pr></trd>,
+    <trd>&#x5B66;&#x8AB2;  <pr>&#x304C;&#x3063;&#x304B;</pr></trd>,
+    <trd>&#x8AB2;&#x696D;  <pr>&#x304B;&#x304E;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x8AB2;  <pr>&#x304B;</pr></trd>,
+    <trd>&#x6559;&#x8A13;  <pr>&#x304D;&#x3087;&#x3046;&#x304F;&#x3093;</pr></trd>,
+    <trd>&#x6212;&#x3081;  <pr>&#x3044;&#x307E;&#x3057;&#x3081;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">les</trd>
+  <trdgrp lng="pl">
+    <trd>lekcja</trd>,
+    <trd>pogadanka</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>li&ccedil;&atilde;o</trd>,
+   <trd>aula</trd>,
+   <trd>ensinamento</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>lec&#x21B;ie</trd>,
+    <trd>conversa&#x21B;ie</trd>
+  </trdgrp>
+  <trd lng="ru">&c_u;&c_r;&c_o;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>lekcia</trd>,
+    <trd>&uacute;loha; pou&ccaron;enie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_r;&#x43E;&#x43A;</trd>,
+    <trd>&#x43B;&c_je;&#x43A;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&c_z;&c_a;&#x43D;&#x44F;&c_t;&c_t;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6559;&#x8A13; <pr>ji&#xE0;oxun</pr></trd>,
+    <trd>&#x6559;&#x8BAD; <pr>ji&#xE0;oxun</pr></trd>,
+    <trd>&#x529F;&#x8AB2; <pr>g&#x14D;ngk&#xE8;</pr></trd>,
+    <trd>&#x529F;&#x8BFE; <pr>g&#x14D;ngk&#xE8;</pr></trd>,
+    <trd>&#x8AB2;&#x696D; <pr>k&#xE8;y&#xE8;</pr></trd>,
+    <trd>&#x8BFE;&#x4E1A; <pr>k&#xE8;y&#xE8;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lecion.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="lecion.0i.PED">
+    <dif>
+      Prezenti, <ref tip="super" cel="instru.0i">instrui</ref> <tld/>on:
+      <ekz>
+        al vi mi <tld/>os vane a&ubreve; mise
+        <fnt>
+          <aut>W. Auld</aut>,
+          <vrk>La Infana Raso</vrk>,
+          <lok>1956</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de tempo al tempo vizitos scivolaj e&ubreve;ropanoj <klr>[&#x2026;]</klr> por <tld/>i pri troa
+        orgojlo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2013/010967.php">Referendumo ena-ekstera</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="instru.0i">instrui</ref>
+  </snc>
+  <trd lng="be">&c_ch;&c_y;&c_t;&c_a;&c_c;&c_mol; <ind>&c_l;&c_je;&c_k;&c_c;&c_y;&c_ju;</ind></trd>
+  <trdgrp lng="de">
+    <trd>lehren</trd>,
+    <trd>unterrichten</trd>,
+    <trd>predigen</trd>
+  </trdgrp>
+  <trd lng="es">hacer los <ind>deberes</ind></trd>
+  <trd lng="fr">faire la <ind>le&ccedil;on</ind></trd>
+  <trd lng="pl">lekcj&eogonek; prowadzi&cacute;</trd>
+  <trd lng="ro">lec&#x21B;ii de plumb</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E8B;&#x5148;&#x544A;&#x77E5; <pr>sh&#xEC;xi&#x101;ng&#xE0;ozh&#x12B;</pr></trd>,
+    <trd>&#x8B1B;&#x6388; <pr>ji&#x1CE;ngsh&#xF2;u</pr></trd>,
+    <trd>&#x8BB2;&#x6388; <pr>ji&#x1CE;ngsh&#xF2;u</pr></trd>,
+    <trd>&#x5F00;&#x8BFE; <pr>k&#x101;ik&#xE8;</pr></trd>,
+    <trd>&#x958B;&#x8AB2; <pr>k&#x101;ik&#xE8;</pr></trd>,
+    <trd>&#x6559;&#x5BFC; <pr>ji&#xE0;od&#x1CE;o</pr></trd>,
+    <trd>&#x6559;&#x5C0E; <pr>ji&#xE0;od&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.33 2024/01/13 11:22:42
+Wolfram Diestel: +ref
+
+versio 1.32 2023/10/19 05:15:34
+revo: transskribo per <pr>
+
+versio 1.30 2023/03/17 07:26:27
+Dmitri Gabinski: + trd be
+
+versio 1.29 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.26 2021/02/21 10:39:03
+Wolfram Diestel: +ekz-oj, +ref-oj
+
+Revision 1.24  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/05/05 18:10:16  revo
+-->
+</vortaro>

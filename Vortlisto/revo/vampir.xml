@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vampir.xml,v 1.27 2023/10/21 16:50:35 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>vampir</rad>/o
+</kap>
+<drv mrk="vampir.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="vampir.0o.ZOO">
+  <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Sudamerika <ref tip="lst" cel="vesper1.0o" lst="voko:vespertoj">vesperto</ref>,
+      kiu nutras sin nur de sango de aliaj bestoj;
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">genro</ref>
+      de <ref tip="malprt" cel="vesper1.0oj">vespertoj</ref>  (<trd lng="la">Desmodus</trd>):
+      <ekz>
+        en suda kaj centra Ameriko la plej gravan rolon en disvastigo de 
+        rabio havas sangosu&ccirc;antaj vespertoj, kiuj sin nutras per sango de mambestoj
+        kaj infektas ilin je rabio, ili <klr>[&#x2026;]</klr> nomi&gcirc;as <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2008/009550.php">Batalo kontra&ubreve; mortiga malsano</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/1/16/Desmodus-mutter%2BJungtier.tif/535px-Desmodus-mutter%2BJungtier.tif" prm="CC BY-SA 4.0"><tld/>ino kun <tld/>ido (Desmodus rotundus)
+        <fnt>
+          <aut>Uwe Schmidt</aut>
+          <lok><url ref="&WCW;/File:Desmodus-mutter%252BJungtier.tif">&WCW;/File:Desmodus-mutter%2BJungtier.tif</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="be">&c_v;&c_a;&c_m;&c_p;&c_ib;&c_r;</trd>
+    <trd lng="de">Vampir <klr tip="amb">(Fledermaus)</klr></trd>
+    <trd lng="hu">v&aacute;mp&iacute;r</trd>
+    <trd lng="id"><ind>kelelawar</ind> vampir</trd>
+    <trd lng="pt">vampiro<klr tip="amb"> (morcego)</klr></trd>
+    <trd lng="sv">vampyr</trd>
+  </snc>
+  <snc mrk="vampir.0o.fabela">
+    <dif>
+      Fabela <ref tip="super" cel="fantom.0o.MAG">fantomo</ref>
+      eliranta nokte el tombo por su&ccirc;i sangon de dormantoj:
+      <ekz>
+        grafo Drakulo, &ccirc;efo de la <tld/>oj, kiu lo&gcirc;as en soleca kastelo en Transilvanio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2005/008717.php">Bram Stoker, kreinto de Dracula</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tie laboras sor&ccirc;istoj kaj magiistoj, <tld/>oj, spiritoj, &gcirc;inoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nina Kor&jcirc;enevskaja-Gouriou</aut>
+          <vrk><url ref="&Monato;/2006/008819.php">Kial lundo ekas sabate?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_a;&c_m;&c_p;&c_ib;&c_r;</trd>,
+      <trd>&c_v;&c_u;&c_p;&c_y;&c_r;</trd>,
+      <trd>&c_v;&c_u;&c_r;&c_d;&c_a;&c_l;&c_a;&c_k;</trd>
+    </trdgrp>
+    <trd lng="de">Vampir</trd>
+    <trdgrp lng="hu">
+      <trd>v&aacute;mp&iacute;r</trd>,
+      <trd>v&eacute;rsz&iacute;v&oacute; (k&iacute;s&eacute;rtet)</trd>
+    </trdgrp>
+    <trd lng="id">vampir</trd>
+    <trd lng="pt">vampiro</trd>
+    <trd lng="sv">vampyr</trd>
+  </snc>
+  <snc mrk="vampir.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Iu ri&ccirc;i&gcirc;anta je malprofito de aliaj; ekspluatanto:
+      <ekz>
+        &ccirc;esu la malkompreno pro nekono reciproka! nur intrigantoj &gcirc;in profitas
+        <klr>[&#x2026;]</klr>, nur en mallumo vivas la <tld/>oj, brilu la suno, ili malaperos
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_a;&c_m;&c_p;&c_ib;&c_r;</trd>,
+      <trd>&c_k;&c_r;&c_y;&c_v;&c_a;&c_s;&c_m;&c_o;&c_k;</trd>
+    </trdgrp>
+    <trd lng="de">Blutsauger</trd>
+    <trd lng="el">&beta;&rho;&ypsilon;&kappa;&omikron_ton;&lambda;&alfa;&kappa;&alfa;&sigma_fina;</trd>
+    <trdgrp lng="hu">
+      <trd>v&aacute;mp&iacute;r</trd>,
+      <trd>szipolyoz&oacute;</trd>
+    </trdgrp>
+    <trd lng="pt">vampiro<klr tip="amb"> (explorador)</klr></trd>
+    <trd lng="sv">blodsugare</trd>
+  </snc>
+  <trd lng="bg">&c_v;&c_a;&c_m;&c_p;&c_i;&c_r;</trd>
+  <trd lng="ca">vampir</trd>
+  <trd lng="en">vampire</trd>
+  <trd lng="es">vampiro</trd>
+  <trdgrp lng="fr">
+    <trd>vampire</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5438;&#x8840;&#x9B3C;  <pr>&#x304D;&#x3085;&#x3046;&#x3051;&#x3064;&#x304D;</pr></trd>,
+    <trd>&#x30C1;&#x30B9;&#x30A4;&#x30B3;&#x30A6;&#x30E2;&#x30EA;&#x30E2;&#x30C9;&#x30AD;</trd>,
+    <trd>&#x975E;&#x60C5;&#x306A;&#x643E;&#x53D6;&#x8005;  <pr>&#x3072;&#x3058;&#x3087;&#x3046;&#x306A;&#x3055;&#x304F;&#x3057;&#x3085;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">vampier</trd>
+  <trd lng="ru">&c_v;&c_a;&c_m;&c_p;&c_i;&c_r;</trd>
+  <trd lng="sk">up&iacute;r</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x430;&#x43C;&#x43F;&#x456;&#x440;</trd>,
+    <trd>&#x443;&#x43F;&#x438;&#x440;</trd>,
+    <trd>&#x432;&#x430;&#x43C;&#x43F;&#x456;&#x440;</trd>,
+    <trd>&#x43A;&#x440;&#x43E;&#x432;&#x43E;&#x43F;&#x438;&#x439;&#x446;&#x44F;</trd>,
+    <trd>&#x43A;&#x440;&#x43E;&#x432;&#x43E;&#x436;&#x435;&#x440;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/21 16:50:35
+revo: transskribo per <pr>
+
+versio 1.25 2022/05/06 12:17:21
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.22  2019/02/05 18:10:29  revo
+Wolfram Diestel: +ekz-oj, +bld
+
+Revision 1.21  2014/11/09 04:10:30  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.20  2014/04/22 18:11:14  revo
+Wieland Pusch: +trd bg
+
+Revision 1.19  2013/10/22 18:10:18  revo
+Wolfram Diestel: ref al lst vespertoj, prilaboris dif
+
+Revision 1.18  2012/08/11 18:10:21  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/02/23 17:30:54  revo
+-->
+</vortaro>

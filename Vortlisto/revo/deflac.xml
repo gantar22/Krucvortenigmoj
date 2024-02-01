@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+ <art mrk="$Id: deflac.xml,v 1.22 2023/08/31 10:43:58 revo Exp $">
+<kap>
+   <rad>deflaci</rad>/o
+</kap>
+<drv mrk="deflac.0o">
+   <kap><tld/>o</kap>
+   <uzo tip="fak">EKON</uzo>
+   <snc>
+    <subsnc>
+      <dif>
+        Malplimulti&gcirc;o de la papermona kvanto en la
+        cirkulado.
+      </dif>
+      <trd lng="ca">escassetat monet&agrave;ria</trd>
+      <trd lng="de">Geldverknappung</trd>
+      <trd lng="hu">p&eacute;nzsz&udblac;k&iacute;t&eacute;s</trd>
+    </subsnc>
+    <subsnc>
+     <dif>
+        Alti&gcirc;o de a&ccirc;etpovo de la mono:
+        <ekz>
+          sekvontjare ni atendu e&ccirc; <tld/>on je 0,4&#x202F;%
+          <fnt>
+            <bib>Monato</bib>
+            <aut>last</aut>
+            <vrk><url ref="&Monato;/2009/009827.php">Kvin jaroj en E&ubreve;ropa Unio</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          anka&ubreve; en Japanio troveblas tiaj cirkonstancoj, foje e&ccirc; pli malbonaj ol aliloke
+          pro longda&ubreve;ra <tld/>o
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Isikawa Takasi</aut>
+            <vrk><url ref="&Monato;/2013/010932.php">Adapti, persisti, akcepti</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la registaro de <nom>Abe &Scirc;inzo</nom>, <klr>[&#x2026;]</klr> por definitive eliri el la <tld/>o kaj
+          enordigi la financojn, enkondukis a&ubreve;dacan ekonomian politikon
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Isikawa Takasi</aut>
+            <vrk><url ref="&Monato;/2014/011179.php">Abenomiko, a&ubreve;daca defio</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la grafika&jcirc;o &gcirc;uste montras, ke la ka&ubreve;zo de la <tld/>o ku&scirc;as en malalta laborpago
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Isikawa Takasi</aut>
+            <vrk><url ref="&Monato;/2014/011179.php">Abenomiko, a&ubreve;daca defio</url></vrk>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="ca">revaluaci&oacute;</trd>
+      <trd lng="de">Aufwertung</trd>
+      <trd lng="hu">fel&eacute;rt&eacute;kel&odblac;d&eacute;s</trd>
+    </subsnc>
+    <adm>
+        Mi ne komprenis, &ccirc;u la antonimo koncernas
+        amba&ubreve; subsencojn. La redakto de "inflacio" ne sugestas tion.
+        Sama demando pri la termino "malinflacio", cetere ne
+        ekzistanta sub "inflacio". 
+        <aut>MB</aut>
+    </adm>
+   </snc>
+   <refgrp tip="sin">
+      <ref cel="inflac.mal0o">malinflacio</ref>;
+   </refgrp>
+   <refgrp tip="ant">
+      <ref cel="inflac.0o">inflacio</ref>.
+   </refgrp>
+   <trd lng="be">&c_d;&c_e;&c_f;&c_l;&c_ja;&c_c;&c_y;&c_ja;</trd>
+   <trd lng="ca">deflaci&oacute;</trd>
+   <trd lng="de">Deflation</trd>
+   <trd lng="es">deflaci&oacute;n</trd>
+   <trd lng="en">deflation</trd>
+   <trd lng="fa">&a_t;&a_w;&a_r;&a_m; &a_m;&a_n;&a_f;&f_y;</trd>
+   <trd lng="fr">d&eacute;flation</trd>
+   <trd lng="he">&#x5D3;&#x5E4;&#x5DC;&#x5E6;&#x5D9;&#x5D4;</trd>
+  <trd lng="hu">defl&aacute;ci&oacute;</trd>
+   <trd lng="ja">&#x30C7;&#x30D5;&#x30EC;&#x30FC;&#x30B7;&#x30E7;&#x30F3;</trd>
+  <trd lng="pl">deflacja</trd>
+   <trd lng="pt">defla&ccedil;&atilde;o</trd>
+   <trd lng="ru">&c_d;&c_je;&c_f;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
+   <trd lng="sk">defl&aacute;cia</trd>
+  <trd lng="sk">odnos vetrom</trd>
+  <trd lng="cs">odnos v&ecaron;trem</trd>
+  <trd lng="uk">&#x434;&#x435;&#x444;&#x43B;&#x44F;&#x446;&#x456;&#x44F;</trd>
+</drv>
+   </art>
+   <!--
+$Log$
+Revision 1.18  2019/02/25 18:10:22  revo
+Wolfram Diestel: +ekz
+
+Revision 1.17  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2012/09/04 08:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2009/06/16 16:31:58  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2009/04/30 16:30:44  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/07/19 16:30:58  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/11/29 20:07:14  revo
+-->
+</vortaro>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: stafilokok.xml,v 1.6 2023/10/21 07:46:48 revo Exp $">
+<kap>
+  <rad>stafilokok</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="stafilokok.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stafilokok.0o.BAK">
+    <uzo tip="fak">BAK</uzo>
+    <dif>
+      Globforma, nemovi&gcirc;ema
+      <ref tip="super" cel="bakter.0o.BAK">bakterio</ref>
+      vivanta en amaseto,
+      trovebla en la naturo, sur ha&ubreve;to, mukozoj...;
+      (<trd lng="la">Staphylococcus</trd>):
+      <ekz>
+        ili grupi&gcirc;as kiel vinberoj en vinberaro tiel ke ili nomi&gcirc;as 
+        <tld/>oj
+        <fnt>
+          <aut>M. Sujet</aut>,
+          <vrk><url ref="https://groups.yahoo.com/neo/groups/per-esperanto-politiko/conversations/messages/339">
+          karbobacilo kaj televidado</url></vrk>,
+          <lok>esperanto-politiko, 2001-11-06</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        duono el la oraj <tld/>oj troveblaj en Usono rezistas al la penicilino
+        <fnt>
+          <vrk><url ref="&Viki;/Kontra%C5%ADantibiotika_rezisto">Kontra&ubreve;antibiotika rezisto</url></vrk>
+        </fnt>.
+      </ekz>      
+    </dif>
+    <bld lok="&WCU;/thumb/d/d3/Staphylococcus_aureus_VISA_2.jpg/625px-Staphylococcus_aureus_VISA_2.jpg" prm="PD">elektronmikroskopa bildigo de oraj <tld/>oj (Staphylococcus aureus)
+        <fnt>
+          <aut>Matthew J. Arduino, Janice Haney Carr</aut>
+          <lok><url ref="&WCW;/File:Staphylococcus_aureus_VISA_2.jpg">&WCW;/File:Staphylococcus_aureus_VISA_2.jpg</url></lok>
+        </fnt>
+    </bld>    
+  </snc>
+  <trd lng="de">Staphylokokke</trd>
+  <trd lng="en">staphylococcus</trd>
+  <trd lng="fr">staphylocoque</trd>
+  <trd lng="ja">&#x30D6;&#x30C9;&#x30A6;&#x7403;&#x83CC;  <pr>&#x30D6;&#x30C9;&#x30A6;&#x304D;&#x3085;&#x3046;&#x304D;&#x3093;</pr></trd>
+  <trd lng="uk">&#x441;&#x442;&#x430;&#x444;&#x456;&#x43B;&#x43E;&#x43A;&#x43E;&#x43A;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.4 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.2 2020/11/18 11:11:10
+Wolfram Diestel: +ekz, +bld, +trd de
+-->
+</vortaro>

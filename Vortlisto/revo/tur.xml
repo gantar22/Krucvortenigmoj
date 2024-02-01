@@ -1,0 +1,437 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tur.xml,v 1.42 2023/10/21 14:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tur</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="tur.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tur.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Tre alta, ne tre vasta <ref tip="super" cel="konstr.0ajxo.domo">konstrua&jcirc;o</ref>,
+      plej ofte ronda a&ubreve; kvadrata:
+      <ekz>
+        ni konstruu al ni <klr>[&#x2026;]</klr> <tld/>on, kies supro atingos la &ccirc;ielon
+        <klr>(vd <ref cel="tur.Babel0o.FRAZ">Babel<tld/>o</ref>)</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 11:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gardostaranto staris sur la <tld/>o <klr>[&#x2026;]</klr> kaj li ekvidis la
+        alproksimi&gcirc;antan amason
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 9:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li plialtigis la <tld/>ojn, kaj konstruis ekstere ankora&ubreve; alian muregon
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Kroniko 32:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili starigis sie&gcirc;ajn <tld/>ojn, 
+        detruis <klr>[la]</klr> palacojn
+        <klr>(kp <ref tip="sub" cel="bastio.0o.siegxturo">bastiono<sncref/></ref>)</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 23:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj sonoriloj de la pre&gcirc;eja <tld/>o sonorvokis
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Malgranda Niko kaj granda Niko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la supro de Ejfela <tld/>o li tagman&gcirc;is
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pulvo<tld/>o
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        stari por iu kiel muro kaj <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_je;&c_zh;&c_a;</trd>,
+      <trd>&c_v;&c_y;&c_sh;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trd lng="en">tower</trd>
+    <trdgrp lng="fr">
+      <trd>tour<klr> (b&acirc;timent)</klr></trd>
+    </trdgrp>
+    <trd lng="hi">&#x92E;&#x940;&#x928;&#x93E;&#x930; [<ind>mīnār</ind>]</trd>
+    <trd lng="hu">torony</trd>
+    <trd lng="id">menara</trd>
+    <trd lng="it">torre</trd>
+    <trd lng="pl">wie&zdot;a</trd>
+    <trd lng="ru">&c_b;&c_a;&c_sh;&c_n;&c_ja;</trd>
+  </snc>
+  <snc mrk="tur.0o.sxaka">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="super" cel="sxak.0peco">&Scirc;akpeco</ref> kutime figurata per <tld/>o, movebla la&ubreve;
+      vertikaloj a&ubreve; horizontaloj de la &scirc;aktabulo:
+      <ekz>
+        <tld/>o estas tre utila por protekti la anta&ubreve;eniron de peono
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Turo_(%C5%9Dako)">Turo (&scirc;ako)</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_t;&c_u;&c_r;&c_a;</trd>
+    <trd lng="en">rook</trd>
+    <trdgrp lng="fr">
+      <trd>tour<klr> (&eacute;checs)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">b&aacute;stya</trd>
+    <trd lng="id"><ind>benteng</ind> (bidak catur)</trd>
+    <trd lng="it">torre<klr> (scacchi)</klr></trd>
+    <trd lng="ru">&c_l;&c_a;&c_d;&c_mol;&c_ja;</trd>
+  </snc>
+  <trd lng="cs">v&ecaron;&zcaron;</trd>
+  <trd lng="de">Turm</trd>
+  <trd lng="es">torre</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5854;  <pr>&#x3068;&#x3046;</pr></trd>,
+    <trd>&#x3084;&#x3050;&#x3089;</trd>,
+    <trd>&#x9418;&#x697C;  <pr>&#x3057;&#x3087;&#x3046;&#x308D;&#x3046;</pr></trd>,
+    <trd>&#x98DB;&#x3073;&#x8FBC;&#x307F;&#x53F0;  <pr>&#x3068;&#x3073;&#x3053;&#x307F;&#x3060;&#x3044;</pr></trd>,
+    <trd>&#x30EB;&#x30FC;&#x30AF;</trd>,
+    <trd>&#x98DB;&#x8ECA;  <pr>&#x3072;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">toren</trd>
+  <trdgrp lng="pl">
+    <trd>wie&zdot;a</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>torre</trd>
+  </trdgrp>
+  <trd lng="sk">ve&zcaron;a</trd>
+  <trd lng="sv">torn</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_je;&c_zh;&c_a;</trd>,
+    <trd>&c_b;&c_a;&c_sh;&c_t;&c_a;</trd>,
+    <trd>&c_v;&c_i;&c_sh;&c_k;&c_a;</trd>,
+    <trd>&c_t;&c_u;&c_r;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="tur.Babel0o">
+  <kap>Babel<tld/>o</kap>
+  <snc mrk="tur.Babel0o.FRAZ">
+    <uzo tip="fak">BIB</uzo>
+    <uzo tip="stl">FRAZ</uzo>
+    <uzo tip="fak">ESP</uzo>
+    <dif>
+      Simbolo de la lingva <ref cel="hxaos.0o.FIG">&hcirc;aoso</ref>,
+      aludo al mito el la Hebrea Biblio:
+      <ekz>
+        vi anka&ubreve; pri la <tld/>o de Babelo bonege parolas
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili ka&scirc;e helpas konkurantojn por instigi novan <tld/>on de Babelo inter mondaj
+        lingvoj
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        problemo de kreskanta Babel-<tld/>o ene de la EU-komunumo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008344.html">Babele babili</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dia puno pro la babel<tld/>a konstruado
+        <fnt>
+          <aut>Nikolao Gudskov</aut>
+          <vrk>
+          <url ref="&Monato;/2012/010587.php">&Ccirc;u ideoj de Zamenhof ne plu
+          valoras?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/12, p. 21</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="babel.B0o">Babelo</ref>,
+       <ref cel="zigurat.0o">zigurato</ref>
+    </refgrp>
+    <trd lng="be">&c_B;&c_a;&c_b;&c_ib;&c_l;&c_jo;&c_n;&c_s;&c_k;&c_a;&c_ja;
+    &c_v;&c_je;&c_zh;&c_a;</trd>
+    <trd lng="bg">&c_V;&c_a;&c_v;&c_i;&c_l;&c_o;&c_n;&c_s;&c_k;&c_a; &c_k;&c_u;&c_l;&c_a;</trd>
+    <trd lng="ca">torre de Babel</trd>
+    <trdgrp lng="de">
+      <trd>Turm von <ind>Babel</ind></trd>,
+      <trd>Turm zu <ind>Babel</ind></trd>
+    </trdgrp>
+    <trd lng="en">Tower of Babel</trd>
+    <trd lng="es">Torre de Babel</trd>
+    <trd lng="fa">&a_b;&a_r;&a_j; &a_b;&a_A;&a_b;&a_kasra;&a_l;</trd>
+    <trd lng="fr">tour de Babel</trd>
+    <trd lng="he">&mem;&#x2137;&dalet;&lamed; &bet;&bet;&lamed;</trd>
+    <trdgrp lng="hu">
+      <trd>B&aacute;bel tornya</trd>,
+      <trd>b&aacute;beli torony</trd>
+    </trdgrp>
+    <trd lng="id">Menara Babel</trd>
+    <trd lng="it">Torre di <ind>Babele</ind></trd>
+    <trd lng="nl">toren van Babel</trd>
+    <trd lng="pl">wie&zdot;a Babel</trd>
+    <trd lng="ru">&c_V;&c_a;&c_v;&c_i;&c_l;&c_o;&c_n;&c_s;&c_k;&c_o;&c_je;
+    &c_s;&c_t;&c_o;&c_l;&c_p;&c_o;&c_t;&c_v;&c_o;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
+    <trd lng="sk">Babylonsk&aacute; ve&zcaron;a</trd>
+    <trd lng="sv">Babels torn</trd>
+    <trd lng="tr">Babil kulesi</trd>
+    <trd lng="uk">&c_V;&c_a;&c_v;&c_i;&c_l;&c_o;&c_n;&c_s;&c_mol;&c_k;&c_a;
+    &c_v;&c_je;&c_zh;&c_a;</trd>
+  </snc>
+  <trd lng="cs">Babylonsk&aacute; v&ecaron;&zcaron;</trd>
+  <trd lng="ja">&#x30D0;&#x30D9;&#x30EB;&#x306E;&#x5854;  <pr>&#x30D0;&#x30D9;&#x30EB;&#x306E;&#x3068;&#x3046;</pr></trd>
+</drv>
+
+<drv mrk="tur.reg0o">
+  <kap>reg<tld/>o, <var><kap>kontrol<tld/>o</kap></var></kap>
+  <snc mrk="tur.reg0o.AVI">
+    <uzo tip="fak">AVI</uzo>
+    <dif>
+      <tld lit="T"/>o &ccirc;e flughaveno, de kiu oni observas kaj regas la 
+      avian trafikon:
+      <ekz>
+        regulkonforma radiofonia konversacio inter la reg<tld/>o kaj alteri&gcirc;anta
+        <klr>[&#x2026;]</klr> aviadilo
+        <fnt>
+          <aut>Pejno Simono</aut>
+            <vrk><url ref="&Monato;/2000/007143.php">&Ccirc;u ni mortu miskomprene? (2)</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 23-25</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la atmosferaj kondi&ccirc;oj malebligis, ke la reg<tld/>o vidu la 
+        akcidenton
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Aviadila_kolizio_de_1977_en_Los_Rodeos">
+          Aviadila kolizio...</url>, 2010-02-03</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nederlanda piloto ne komprenis anglalingvan mesa&gcirc;on senditan el la kanaria
+        kontrol<tld/>o
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007159.php">Flugilhavaj vortoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 22</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        infana vo&ccirc;o a&ubreve;di&gcirc;is el la kontrol<tld/>o de novjorka
+        flughaveno <nom>JFK</nom>
+        <fnt>
+          <aut>D. Karthaus</aut>,
+          <vrk><url ref="http://radioverda.com/programoj/2010/3/14/rv161-20100314.html">
+          Radio Verda</url></vrk>,
+          <lok>RV161, 2010-03-14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_y;&c_s;&c_p;&c_e;&c_t;&c_ch;&c_a;&c_r;&c_s;&c_k;&c_a;&c_ja; &c_v;&c_je;&c_zh;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_t;&c_r;&c_o;&c_l;&c_mol;&c_n;&c_a;-&c_d;&c_y;&c_s;&c_p;&c_e;&c_t;&c_ch;&c_a;&c_r;&c_s;&c_k;&c_ib; &c_p;&c_u;&c_n;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kontrollturm</trd>,
+    <trd>Tower</trd>
+  </trdgrp>
+  <trd lng="en">control tower</trd>
+  <trd lng="fr">tour de contr&ocirc;le</trd>
+  <trd lng="id"><ind>menara</ind> kontrol</trd>
+  <trd lng="it"><ind>torre</ind> di controllo</trd>
+</drv>
+
+<drv mrk="tur.lum0o">
+  <kap><ofc>*</ofc>lum<tld/>o <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-5097">lum'tur'</url></lok></fnt></kap>
+  <snc mrk="tur.lum0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <tld lit="T"/>a <ref tip="super" cel="konstr.0ajxo.domo">konstrua&jcirc;o</ref>
+      kun supra ordinare rotacia lum&jcirc;etilego por
+      montri la vojon al &scirc;ipoj, aviadiloj kaj ceteraj:
+      <ekz>
+        la lum<tld/>o kaj pre&gcirc;eja <tld/>o de <nom>Skagen</nom> aperis al ili kiel ardeo kaj cigno
+        sur la blua akvo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lum<tld/>oj de la malproksima ankora&ubreve; <nom>Newhaven</nom> komencis brileti
+        <fnt>
+          <bib>FdO</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia patro estis <ind>lum<tld/>gardisto</ind>
+        <fnt>
+          
+          <aut>Garvan Makaj'</aut>
+          <vrk><url ref="&Monato;/2010/009989.php">Voja&gcirc;o unudirekta</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/08-09, p. 30</lok>
+        </fnt>.
+        <trd lng="de">Leuchtturmw&auml;rter</trd>
+      </ekz>
+    </dif>
+    <trd lng="es">faro</trd>
+    <trd lng="fr">phare</trd>
+    <trd lng="hu">vil&aacute;g&iacute;t&oacute;torony</trd>
+    <trd lng="id">mercusuar</trd>
+    <trd lng="it">faro</trd>
+    <trd lng="pl">latarnia morska</trd>
+  </snc>
+  <snc mrk="tur.lum0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Gvidanto, <ref cel="gvid.0ilo.ilo">gvidilo</ref>:
+      <ekz>
+        Anglio, lum<tld/>o de demokratio inter la nacioj
+        <fnt>
+          
+          <aut>Paul Blaskowicz</aut>
+          <vrk><url ref="&Monato;/2005/008694.php">Amuza Gubbins</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/09, p. 6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tuta entrepreno meritas atenton pro siaj ekologiaj ideoj <klr>[&#x2026;&gcirc;i
+        estas]</klr> lum<tld/>o en la medio de universitata instruado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jens Spillner</aut>
+          <vrk><url ref="&Monato;/2015/011524.php">Nova fakejo vid-al-vide de renoma
+          eldonejo</url></vrk>
+          <lok>2015/08-09, p. 20-21</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">f&aacute;rosz</trd>
+    <trd lng="nl">vuurtoren</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_ja;&c_k;</trd>
+  <trd lng="cs">maj&aacute;k</trd>
+  <trd lng="de">Leuchtturm</trd>
+  <trd lng="en">lighthouse</trd>
+  <trd lng="ja">&#x706F;&#x53F0;  <pr>&#x3068;&#x3046;&#x3060;&#x3044;</pr></trd>
+  <trd lng="pt">farol</trd>
+  <trd lng="ru">&c_m;&c_a;&c_ja;&c_k;</trd>
+  <trd lng="sk">maj&aacute;k</trd>
+  <trd lng="sv">fyr<klr>(torn)</klr></trd>
+  <trd lng="uk">&c_m;&c_a;&c_ja;&c_k;</trd>
+</drv>
+
+<drv mrk="tur.ebura0o">
+  <kap>ebura <tld/>o</kap>
+  <snc mrk="tur.ebura0o.FRAZ">
+    <uzo tip="stl">FRAZ</uzo>
+    <dif>
+      Klerula <ref cel="izol.0iteco">izoli&gcirc;o</ref> de la ordinara mondo:
+      <ekz>
+        arto nun ne plu estas ponto inter la artisto kaj lia publiko, la
+        artistoj fermi&gcirc;as en eburaj <tld/>oj, produktas, kaj poste
+        &jcirc;etas la rezultojn kvaza&ubreve; spite al la publiko
+        <fnt>
+          <aut>C. C. Guglielminetti</aut>,
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr64/                   kompreni.html">
+          Kompreni a&ubreve; ne</url></vrk>,
+          <lok>Nica Literatura Revuo, 1961-03 &gcirc;is 04, numero 6/4, p.
+          156-160a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en tiu periodo filmlaborantoj eliris el la ebura <tld/>o kaj
+        kontemplis, kion bezonas la plejparto de la &ccirc;inoj en la
+        vivo
+        <fnt>
+          <aut>Wa Na</aut>,
+          <vrk><url ref="http://www.chinareport.com.cn/13k/13K-7.htm">
+          &Ccirc;inaj filmaj re&gcirc;isoroj de nova generacio</url>
+          </vrk>,
+          <lok>El popola &Ccirc;inio, vidita je 2006-06-14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_je;&c_zh;&c_a; &c_s;&c_a; &c_s;&c_l;&c_a;&c_n;&c_o;&c_v;&c_a;&c_j; &c_k;&c_o;&c_s;&c_t;&c_k;&c_ib;</trd>
+  <trd lng="de">Elfenbeinturm</trd>
+  <trd lng="en">ivory tower</trd>
+  <trd lng="fr">tour d'ivoire</trd>
+  <trd lng="id"><ind>menara</ind> gading</trd>
+  <trd lng="it"><ind>torre</ind> d'avorio</trd>
+  <trd lng="nl">ivoren <ind>toren</ind></trd>
+  <trd lng="pl"><ind>wie&zdot;a</ind>
+  z ko&sacute;ci s&lstroke;oniowej</trd>
+  <trd lng="pt">torre de marfim</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.42 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.41 2023/09/10 15:34:10
+revo: korekto de transskribo
+
+versio 1.39 2023/06/14 10:30:59
+Dmitri Gabinski: + trd be
+
+versio 1.38 2023/05/05 06:31:47
+Paul Peeraerts: + <lok> + kor de tajperaro
+
+versio 1.37 2023/05/01 12:44:55
+Paul Peeraerts: Steloj -> monato
+
+versio 1.36 2022/05/05 17:08:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.35 2022/04/14 20:41:15
+Noam Mohr: +trd en kontrolturo
+
+versio 1.32 2021/03/13 09:52:26
+-->
+</vortaro>

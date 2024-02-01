@@ -1,0 +1,814 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: elekt.xml,v 1.119 2023/11/07 20:34:10 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>elekt</rad>/i <fnt><bib>FK</bib></fnt>
+</kap>
+
+<drv mrk="elekt.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="elekt.0i.KOMUNE">
+    <dif>
+      Preni el du a&ubreve; el multaj, pro prefero:
+      <ekz>
+        <tld/>i se&gcirc;on, amikon, vinon;
+      </ekz>
+      <ekz>
+        Moseo <tld/>is bravajn homojn inter la tuta <nom>Izrael</nom>, kaj faris ilin estroj super
+        la popolo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 18:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kruela patro <tld/>is por &scirc;i malbelegan, maljunan, senharan baronon,
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej bona vojo, kiun li povus <tld/>i
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i lingvon internacian
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu vorto havas en la vortaro multe da signifoj, el kiuj oni devas divenprove
+        <tld/>i la &gcirc;ustan
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kio bone aspektas, tion &ccirc;iu <tld/>as
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>el du malbonoj pli malgrandan <tld/>u</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="de">aus zwei <ind>&Uuml;bel</ind>n w&auml;hle das geringere</trd>
+      </ekz>
+      <ekz>
+        kiu devas, tiu <tld/>i ne povas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>adis sen fino, edzi&gcirc;is kun porkino
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li bezonas nur <tld/>i inter multaj <tld/>inda&jcirc;oj;
+      </ekz>
+      <ekz>
+        sen<tld/>e <klr>(hazarde, trafe maltrafe)</klr>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kribr.0i">kribri</ref>.
+    </refgrp>
+    <trdgrp lng="es">
+      <trd>elegir</trd>,
+      <trd>escoger</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>choisir</trd>,
+      <trd>&eacute;lire<klr tip="ind"> (choisir)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="elekt.0i.vocxdoni">
+    <uzo tip="fak">POL</uzo>
+    <uzo tip="klr">(iun a&ubreve; kolektivon)</uzo>
+    <dif>
+      La&ubreve; regularo <ref tip="super" cel="decid.0i">decidi</ref>, kiu plenumu funkcion a&ubreve;
+      okupu posteno:
+      <ekz>
+        <tld/>i deputiton, prezidanton, papon
+        <klr>(vo&ccirc;done <tld/>i iun por la koncerna posteno)</klr>;
+      </ekz>
+      <ekz>
+        <tld/>i iun prezidanto;
+      </ekz>
+      <ekz>
+        la <ind><tld/>antaro</ind> estis multnombra;
+        <trd lng="es">electorado</trd>
+        <trd lng="fr">&eacute;lectorat</trd>
+      </ekz>
+      <ekz>
+        li estas tro juna kaj ne estas <ind><tld/>ebla</ind>;
+        <trd lng="es">elegible</trd>
+        <trd lng="fr">&eacute;ligible</trd>
+      </ekz>
+      <ekz>
+        la &leftquot;Lingva Komitato&rightquot; <tld/>ita de la Bulonja Kongreso
+        <fnt>
+          <bib>LR</bib>
+          <lok>2. La verkaro de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Amerika Filozofia Societo <klr>[&#x2026;]</klr> <tld/>is komitaton por pripensi kaj
+        decidi la demandon, &ccirc;u lingvo internacia estas necesa, &ccirc;u &gcirc;i estas kreebla,
+        kaj kiel &gcirc;i devas esti
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="balot.0i.tr">baloti<sncref/></ref>
+    <refgrp tip="prt">
+      <ref cel="balot.0i.ntr">baloti<sncref/></ref>,
+      <ref cel="vocx.0doni">vo&ccirc;doni</ref>,
+      <ref cel="rund1.0o.POL">rundo<sncref/></ref>
+    </refgrp>
+    <rim num="1">
+      Tia uzo de <ctl><tld/>i</ctl> ebligas oportunajn transitivajn
+      esprimojn, kiujn <ctl>vo&ccirc;doni</ctl> ne ebligas. Se tamen
+      aperas riskoj miksi sencojn <sncref ref="elekt.0i.KOMUNE"/> kaj
+      <sncref ref="elekt.0i.vocxdoni"/>, estas preferinde diri
+      <ctl>vo&ccirc;done <tld/>i</ctl> a&ubreve; <ctl>balote <tld/>i</ctl>.
+      Cetere la radiko <ctl>balot/</ctl> havas sencon pli
+      specialigitan kaj kelkaj preferas uzi &gcirc;in anstata&ubreve;
+      <ctl><tld/>/</ctl>, kiam la senco permesas, precipe en
+      deriva&jcirc;oj a&ubreve; kunmeta&jcirc;oj.
+    </rim>
+    <adm>
+      Mi ne komprenas la aserton de Rim.1 ke &leftquot;elekti&rightquot;
+      iel povas servi kiel transitiva anstata&ubreve;a&jcirc;o de
+      &leftquot;vo&ccirc;doni&rightquot;.
+      <aut>Sergio Pokrovskij</aut>
+
+      La aserto en la unua frazo de la rimarko celas nur konstati,
+      ke "morga&ubreve; ni elektos la prezidenton" estas pli
+      kompakta kaj oportuna, ol "morga&ubreve; ni vo&ccirc;donos por
+      elekti, kiu el la kandidatoj plenumos la funkcion de prezidento".
+
+      Mia persona konvinko estas, ke uzi la radikon "elekt" ekster
+      &ccirc;i tiu oportuna okazo estas uzado ar&hcirc;aika,
+      bazi&gcirc;anta &ccirc;efe sur nacilingvaj influoj (ru, de) kaj
+      sur la uzo de samorigina latina radiko en aliaj lingvoj
+      (fr, en,...).
+      Mi preferas uzi "baloti", kiu preska&ubreve; &ccirc;iam povas
+      apliki&gcirc;i, kiam temas pri la "elekta" procezo en publikaj
+      aferoj. Plie, mi ne certas, &ccirc;u la senco vere apartenas
+      al la fako POL.
+      <aut>MB</aut>
+    </adm>
+    <trdgrp lng="es">
+      <trd>elegir<klr> (para un puesto)</klr></trd>,
+      <trd>votar</trd>
+    </trdgrp>
+    <trd lng="fr">&eacute;lire<klr tip="ind"> (&agrave; un poste)</klr>
+    </trd>
+  </snc>
+  <snc mrk="elekt.0i.REL">
+    <uzo tip="fak">REL</uzo>
+    <uzo tip="klr">(dio)</uzo>
+    <dif>
+      Apartigi, destini ion a&ubreve; iun por tasko, savo, kredo ktp:
+      <ekz>
+        la sepan tagon de la semajno Dio <tld/>is, ke &gcirc;i estu pli sankta, ol la ses
+        unuaj tagoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kaj la tribon de <nom>Efraim</nom> Li ne <tld/>is,
+        sed Li <tld/>is la tribon de <nom>Jehuda</nom>,
+        la monton <nom>Cion</nom>, kiun Li ekamis
+        <fnt><bib>MT</bib>, <lok>&Psa; 78:67-68</lok></fnt>;
+      </ekz>
+      <ekz>
+        sed la Sinjoro diris al li: ekiru, &ccirc;ar li estas
+        <tld/>ita ilo por mi, por porti mian nomon anta&ubreve;
+        la nacianoj
+        <fnt><bib>NT</bib>, <lok>&Ago; 9:15</lok></fnt>;
+      </ekz>
+      <ekz>
+        Hebreoj, popolo de Dio <tld/>ita kaj per sufero preparita al granda tasko
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind><mll tip="kom">multaj vokitoj</mll>, sed ne multaj
+        <tld/>itoj</ind>
+        <fnt><bib>PrV</bib></fnt>
+        <klr>(kp &Mat; 22:14; proverbi&gcirc;is kun la senco
+        <ctl>multe da <tld/>ebla&jcirc;oj, sed malmulte da
+        <tld/>inda&jcirc;oj</ctl>)</klr> &dash;
+        <ref tip="vid" cel="destin.antaux0ismo">anta&ubreve;destinismo</ref>.
+        <trd lng="ru"><mll tip="kom">&c_m;&c_n;&c_o;&c_g;&c_o;
+        &c_z;&c_v;&c_a;&c_n;&c_y;&c_h;</mll>,
+        &c_d;&c_a; &c_m;&c_a;&c_l;&c_o;
+        &c_i;&c_z;&c_b;&c_r;&c_a;&c_n;&c_n;&c_y;&c_h;</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>auserw&auml;hlen</trd>,
+      <trd>er&#xAD;kie&#xAD;sen</trd>,
+      <trd>erw&auml;hlen</trd>
+    </trdgrp>
+    <trd lng="es">destinar<klr> (a una tarea)</klr></trd>
+  </snc>
+  <trd lng="af">kies</trd>
+  <trd lng="am">&#x121D;&#x1228;&#x1325;</trd>
+  <trd lng="ar">&a_A;&a_kh;&a_t;&a_r;</trd>
+  <trd lng="az">se&ccedil;in</trd>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_b;&c_r;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9A8;&#x9BF;&#x9B0;&#x9CD;&#x9AC;&#x9BE;&#x99A;&#x9A8;</trd>
+  <trd lng="bo">&t_-a;&t_da;&t_drengbu;&t_ma;&t_sa;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="bs">odaberite</trd>
+  <trdgrp lng="ca">
+    <trd>triar</trd>,
+    <trd>escollir</trd>
+    <trd>elegir</trd>
+  </trdgrp>
+  <trd lng="co">selezziun&agrave;</trd>
+  <trdgrp lng="cs">
+    <trd>volit</trd>,
+    <trd>vybrat</trd>,
+    <trd>vyb&iacute;rat</trd>,
+    <trd>vyvolit</trd>,
+    <trd>zvolit</trd>
+  </trdgrp>
+  <trd lng="cy">dewis</trd>
+  <trd lng="da">v&aelig;lg</trd>
+  <trd lng="de">w&auml;hlen</trd>
+  <trdgrp lng="en">
+    <trd>elect</trd>,
+    <trd>choose</trd>,
+    <trd>select</trd>
+  </trdgrp>
+  <trd lng="es">elegir</trd>
+  <trd lng="et">vali</trd>
+  <trd lng="eu">hautatu</trd>
+  <trd lng="fy">&uacute;tkieze</trd>
+  <trd lng="ga">roghnaigh</trd>
+  <trd lng="gd">tagh</trd>
+  <trd lng="gl">seleccione</trd>
+  <trd lng="gu">&#xAAA;&#xAB8;&#xA82;&#xAA6;</trd>
+  <trd lng="ha">za&zcaron;i</trd>
+  <trd lng="hi">&#x91A;&#x92F;&#x928;</trd>
+  <trd lng="hmn">xaiv</trd>
+  <trd lng="hr">odaberite</trd>
+  <trd lng="ht">chwazi</trd>
+  <trdgrp lng="hu">
+    <trd>v&aacute;laszt</trd>,
+    <trd>kiv&aacute;laszt</trd>,
+    <trd>megv&aacute;laszt</trd>
+  </trdgrp>
+  <trd lng="hy">&#x568;&#x576;&#x57F;&#x580;&#x565;&#x56C;</trd>
+  <trd lng="ig">h&#x1ECD;r&#x1ECD;</trd>
+  <trd lng="is">velja</trd>
+  <trd lng="ja">&#x9078;&#x629E;&#x3059;&#x308B; <pr>&#x305B;&#x3093;&#x305F;&#x304F;&#x3059;&#x308B;</pr></trd>
+  <trd lng="jv">pilih</trd>
+  <trd lng="ka">&#x10D0;&#x10D8;&#x10E0;&#x10E9;&#x10D8;&#x10D4;&#x10D7;</trd>
+  <trd lng="kk">&c_t;&c_a;&#x4A3;&c_d;&c_a;&c_u;</trd>
+  <trd lng="km">&#x1787;&#x17D2;&#x179A;&#x17BE;&#x179F;</trd>
+  <trd lng="kn">&#xC86;&#xCAF;&#xCCD;&#xC95;&#xCC6;</trd>
+  <trd lng="ko">&#xC120;&#xD0DD;</trd>
+  <trd lng="ku">neqandin</trd>
+  <trd lng="ky">&c_t;&c_a;&c_n;&c_d;&c_o;&c_o;</trd>
+  <trd lng="lat">eligere</trd>
+  <trd lng="lo">&#xEC0;&#xEA5;&#xEB7;&#xEAD;&#xE81;</trd>
+  <trd lng="lt">pasirinkti</trd>
+  <trd lng="lv">izv&emacron;lieties</trd>
+  <trd lng="mg">mifidy</trd>
+  <trd lng="mi">t&imacron;pako</trd>
+  <trd lng="mk">&c_i;&c_z;&c_b;&c_je;&c_r;&c_je;&c_t;&c_je;</trd>
+  <trd lng="ml">&#xD24;&#xD46;&#xD30;&#xD1E;&#xD4D;&#xD1E;&#xD46;&#xD1F;&#xD41;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_g;&c_e;&c_zh; &c_s;&c_o;&c_n;&c_g;&c_o;&c_o;&c_d;</trd>
+  <trd lng="mr">&#x928;&#x93F;&#x935;&#x921;&#x93E;</trd>
+  <trd lng="ms">pilih</trd>
+  <trd lng="mt">tag&#x127;&zdot;el</trd>
+  <trd lng="my">&#x1000;&#x102D;&#x102F;&#x101B;&#x103D;&#x1031;&#x1038;&#x1015;&#x102B;</trd>
+  <trd lng="ne">&#x932;&#x947;&#x928;&#x947;</trd>
+  <trd lng="ny">sankhani</trd>
+  <trd lng="oc">causir</trd>
+  <trd lng="pa">&#xA26;&#xA40; &#xA1A;&#xA4B;&#xA23; &#xA15;&#xA30;&#xA4B;</trd>
+  <trdgrp lng="pl">
+    <trd>wybiera&cacute;</trd>,
+    <trd>obiera&cacute;</trd>
+  </trdgrp>
+  <trd lng="ps">&a_gh;&a_w;&a_r;&a_h;</trd>
+  <trdgrp lng="pt">
+    <trd>escolher</trd>,
+    <trd>optar</trd>,
+    <trd>eleger</trd>,
+    <trd>nomear</trd>,
+    <trd>designar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_b;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_i;&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>;
+    <trd>&c_v;&c_y;&c_b;&c_r;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_i;&c_z;&c_b;&c_r;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="rw">hitamo</trd>
+  <trd lng="sd">&a_m;&a_n;&a_t;&a_kh;&a_b; &#x6AA;&a_r;&a_y;&a_w;</trd>
+  <trd lng="si">&#xDAD;&#xDDD;&#xDBB;&#xDCF;</trd>
+  <trdgrp lng="sk">
+    <trd>voli&tcaron;</trd>,
+    <trd>vybera&tcaron;</trd>,
+    <trd>zvoli&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sl">izberite</trd>
+  <trd lng="sm">filifili</trd>
+  <trd lng="sn">sarudza</trd>
+  <trd lng="so">doorasho</trd>
+  <trd lng="sq">zgjidhni</trd>
+  <trd lng="st">khetha</trd>
+  <trd lng="su">milih</trd>
+  <trd lng="sw">kuchagua</trd>
+  <trd lng="ta">&#xBA4;&#xBC7;&#xBB0;&#xBCD;&#xBA8;&#xBCD;&#xBA4;&#xBC6;&#xB9F;&#xBC1;</trd>
+  <trd lng="te">&#xC0E;&#xC02;&#xC1A;&#xC41;&#xC15;&#xC4B;&#xC02;&#xC21;&#xC3F;</trd>
+  <trd lng="tg">&c_i;&c_n;&c_t;&c_i;&c_h;&c_o;&c_b; &c_k;&c_u;&c_n;&c_je;&c_d;</trd>
+  <trd lng="th">&#xE40;&#xE25;&#xE37;&#xE2D;&#xE01;</trd>
+  <trd lng="tl">piliin</trd>
+  <trd lng="tt">&c_s;&c_a;&c_j;&c_l;&c_a;&c_g;&c_y;&c_z;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_m;&a_n;&a_t;&a_kh;&a_b; &f_k;&a_r;&f_y;&#x6BA;</trd>
+  <trd lng="uz">tanlang</trd>
+  <trd lng="vi">ch&#x1ECD;n</trd>
+  <trd lng="xh">khetha</trd>
+  <trd lng="yi">&alef;&vav;&yod;&samekh;&qof;&lamed;&yod;&yod;&#x5B7;&bet;&fnun;</trd>
+  <trd lng="yo">yan</trd>
+  <trdgrp lng="zh">
+    <trd>&#x9009;&#x4E2D; <pr>xu&#x1CE;nzh&#x14D;ng</pr></trd>,
+    <trd>&#x6295;&#x7968; <pr>t&#xF3;upi&#xE0;o</pr></trd>,
+    <trd>&#x62E9;&#x673A; <pr>z&#xE9;j&#x12B;</pr></trd>,
+    <trd>&#x62E3; <pr>ji&#x1CE;n</pr></trd>,
+    <trd>&#x62E9; <pr>z&#xE9;</pr></trd>,
+    <trd>&#x9009;&#x7528; <pr>xu&#x1CE;ny&#xF2;ng</pr></trd>,
+    <trd>&#x9009;&#x4E0A; <pr>xu&#x1CE;nsh&#xE0;ng</pr></trd>,
+    <trd>&#x9009;&#x53D6; <pr>xu&#x1CE;nq&#x1D4;</pr></trd>,
+    <trd>&#x9009;&#x62E9; <pr>xu&#x1CE;nz&#xE9;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">ukhethe</trd>
+</drv>
+
+<drv mrk="elekt.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ago de tiu, kiu <tld/>as a&ubreve; rezulto de tiu ago:
+      <ekz>
+        ni devas observi plej severan <tld/>on
+        <fnt><bib>Fab2</bib>, <lok>Monteto de elfoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        nenia kongreso povas fari tian <tld/>on
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni havus ankora&ubreve; tute liberan elekton inter <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>LR</bib>
+          <lok>3. Etimologio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de <tld/>o tro multa plej malbona rezulto
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        regiona partio Ligo Norda venkis grandioze en <tld/>oj al komunumaj parlamentoj
+         <fnt>
+          <aut>Stefan Maul</aut>
+
+          <vrk><url ref="&Monato;/1993/A930802.php">Alarmsignalo el Italio</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/08, p. 5</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_b;&c_a;&c_r;</trd>,
+    <trd>&c_v;&c_y;&c_b;&c_a;&c_r;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_i;&c_z;&c_b;&c_o;&c_r;</trd>
+  <trd lng="bo">&t_-a;&t_naro;&t_sa;&t_tsheg;&t_ba;&t_sa;&t_data;&t_shabchu;&t_tsheg;</trd>
+  <trd lng="ca">elecci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>elekce</trd>,
+    <trd>volba</trd>,
+    <trd>volby</trd>,
+    <trd>v&yacute;b&ecaron;r</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Wahl</trd>,
+    <trd>Auswahl</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>election<klr> (result)</klr></trd>,
+    <trd>choice</trd>,
+    <trd>selection</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>elecci&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>choix</trd>,
+    <trd>&eacute;lection</trd>
+  </trdgrp>
+  <trd lng="he">&bet;&#x5BC;&#x5B0;&het;&#x5B4;&yod;&resh;&#x5B8;&he;</trd>
+  <trdgrp lng="hu">
+    <trd>v&aacute;laszt&aacute;s</trd>,
+    <trd>kiv&aacute;laszt&aacute;s</trd>,
+    <trd>megv&aacute;laszt&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9078;&#x629E;  <pr>&#x305B;&#x3093;&#x305F;&#x304F;</pr></trd>,
+    <trd>&#x9078;&#x5B9A;  <pr>&#x305B;&#x3093;&#x3066;&#x3044;</pr></trd>,
+    <trd>&#x9078;&#x6319;  <pr>&#x305B;&#x3093;&#x304D;&#x3087;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">wyb&oacute;r</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_b;&c_o;&c_r;</trd>,
+    <trd>&c_v;&c_y;&c_b;&c_o;&c_r;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vo&lcaron;ba</trd>,
+    <trd>v&yacute;ber</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_b;&c_ib;&c_r;</trd>,
+    <trd>&c_v;&c_i;&c_b;&c_ib;&c_r;&c_k;&c_a;</trd>,
+    <trd>&c_o;&c_b;&c_r;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_v;&c_i;&c_b;&c_o;&c_r;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7DE8;&#x64B0; <pr>bi&#x101;nzhu&#xE0;n</pr></trd>,
+    <trd>&#x4F9B;&#x9009;&#x62E9;&#x4F7F;&#x7528; <pr>g&#x14D;ngxu&#x1CE;nz&#xE9;sh&#x1D0;y&#xF2;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="elekt.0ebla">
+  <kap>
+    <tld/>ebla
+  </kap>
+  <snc>
+    <dif>
+      Tia, ke oni povas <tld/>i &gcirc;in (kutime inter pluraj aliaj):
+      <ekz>
+        Esperanto fari&gcirc;is <tld/>ebla objekto en mezgradaj lernejoj de <nom>Rio de Janeiro</nom>
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        viroj kaj virinoj estas egalrajtaj kaj elekteblaj al &ccirc;iuj oficoj <klr>[de
+        UEA]</klr>
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        verki anta&ubreve;sciencan faklaboron <klr>[&#x2026;]</klr> pri libere <tld/>ebla temo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2013/010987.php">Trompintoj trompataj</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">w&auml;hlbar</trd>
+  <trdgrp lng="en">
+    <trd>selectable</trd>,
+    <trd>choosable</trd>
+  </trdgrp>
+  <trd lng="fr">s&eacute;lectionnable</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9078;&#x629E;&#x3067;&#x304D;&#x308B;  <pr>&#x305B;&#x3093;&#x305F;&#x304F;&#x3067;&#x304D;&#x308B;</pr></trd>,
+    <trd>&#x88AB;&#x9078;&#x6319;&#x8CC7;&#x683C;&#x306E;&#x3042;&#x308B;  <pr>&#x3072;&#x305B;&#x3093;&#x304D;&#x3087;&#x3057;&#x304B;&#x304F;&#x306E;&#x3042;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="zh">&#x7B26;&#x5408;&#x6761;&#x4EF6; <pr>f&#xFA;h&#xE9;ti&#xE1;oji&#xE0;n</pr></trd>
+</drv>
+
+<drv mrk="elekt.0eblo">
+  <kap>
+    <tld/>eblo,
+    <var><kap><tld/>ebleco</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      Tio, kion oni povas <tld/>i, <ref tip="sin" cel="altern2.0o.elekto">alternativo<sncref/></ref>:
+      <ekz>
+        la <tld/>ebloj de albana kosovano, tibetano, &ccirc;e&ccirc;eno a&ubreve; kurdo unuflanke, de
+        serbo, &ccirc;ino, ruso a&ubreve; turko aliflanke, ne estas la samaj
+        <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio:
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[apena&ubreve;]</klr> iom memorigis pri kermeso infantempa, la tumulto mankis, la
+        <tld/>eblo
+        <fnt>
+          <bib>OIP</bib>
+          <lok>Ombro sur interna pejza&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la studentoj estas junaj kaj havas malmultajn <tld/>eblecojn survoje en la
+        studado
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 3 (53)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u eblas demokratio, se ne ekzistas <tld/>eblo kaj mankas alternativo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2004, &#x2116; 3 (113)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la parolanto povas &gcirc;ui plenan <tld/>eblecon pri la vortoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mireille Grosjean</aut>
+          <vrk><url ref="&Monato;/2011/010267.php">Svislando: la arto interkompreni&gcirc;i</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="opci.0o.KOMUNE">opcio<sncref/></ref>
+    <refgrp tip="vid">
+      <ref cel="ebl.0eco">ebleco</ref>
+    </refgrp>
+    <rim>
+      Por bona stilo oni distingu la <tld/>eblecon (singulare, la fakton, ke ekzistas
+      alternativoj) kaj la <tld/>eblojn (plurale, la alternativoj mem).
+      <aut>W. Diestel</aut>
+    </rim>
+  </snc>
+  <trd lng="de">Wahlm&ouml;glichkeit</trd>
+  <trd lng="en">choice <klr>(option)</klr></trd>
+  <trd lng="fr">choix</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9078;&#x629E;&#x80A2;  <pr>&#x305B;&#x3093;&#x305F;&#x304F;&#x3057;</pr></trd>,
+    <trd>&#x30AA;&#x30D7;&#x30B7;&#x30E7;&#x30F3;  <pr>&#x304A;&#x3077;&#x3057;&#x3087;&#x3093;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="elekt.0ema">
+  <kap><tld/>ema</kap>
+  <snc>
+    <dif>
+      Subtile rafinanta kaj malfacile kontentigebla &ccirc;e la
+      <tld/>ado:
+      <ekz>
+        tro <tld/>ema ricevas nenion
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        esti tre <tld/>ema rilate <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>W. H. Simcock</aut>
+          <vrk><url ref="&Monato;/2005/008676.php">Abortigo kaj la biblio</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bon.0o">bono</ref>,
+      <ref cel="delika.0a">delikata 7</ref>,
+      <ref cel="postul.0ema">postulema</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_b;&c_o;&c_r;&c_l;&c_ib;&c_v;&c_y;
+  </trd>
+  <trdgrp lng="ca">
+    <trd>descontentad&iacute;s</trd>,
+    <trd>indec&iacute;s</trd>
+  </trdgrp>
+  <trd lng="cs">vyb&iacute;rav&yacute;</trd>
+  <trd lng="de">w&auml;hlerisch</trd>
+  <trd lng="en">picky</trd>
+  <trdgrp lng="es">
+    <trd>selectivo</trd>,
+    <trd>exigente</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>difficile<klr tip="ind"> (exigeant)</klr></trd>,
+    <trd>exigeant</trd>,
+    <trd>s&eacute;lectif</trd>
+  </trdgrp>
+  <trd lng="hu">v&aacute;logat&oacute;s</trd>
+  <trd lng="ja">&#x9078;&#x308A;&#x597D;&#x307F;&#x3059;&#x308B;  <pr>&#x3048;&#x308A;&#x3054;&#x306E;&#x307F;&#x3059;&#x308B;</pr></trd>
+  <trd lng="pl">wybredny</trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_b;&c_o;&c_r;&c_ch;&c_i;&c_v;&c_y;&c_j;
+  </trd>
+  <trd lng="sk">v&yacute;ber&ccaron;iv&yacute;</trd>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_b;&c_ib;&c_r;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>
+  <trd lng="zh">&#x6311;&#x5254; <pr>ti&#x101;ot&#x12B;</pr></trd>
+</drv>
+
+<drv mrk="elekt.0ita">
+  <kap><tld/>ita</kap>
+  <snc>
+    <uzo tip="klr">(pri persono a&ubreve; afero)</uzo>
+    <dif>
+      Apartenanta al la bonaj kaj preferindaj:
+      <ekz>
+        <tld/>ita societo;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> malgranda biblioteko <klr>[&#x2026;]</klr> enhavas la plej <tld/>itajn
+        trezorojn de la angla literaturo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la plej <tld/>itaj niaj tomboj enterigu vian mortintinon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 23:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;arojn de Faraono kaj lian militistaron Li &jcirc;etis
+        en la maron, kaj liaj <tld/>itaj militestroj dronis en la
+        Ru&gcirc;a Maro
+        <fnt><bib>MT</bib>, <lok>&Eli; 15:4</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="apart.0a.speciala">aparta<sncref/></ref>,
+      <ref cel="star.el0a.eminenta">elstara<sncref/></ref>,
+      <ref cel="eminen1.0a">eminenta</ref>,
+      <ref cel="elit.0a">elita</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_b;&c_r;&c_a;&c_n;&c_y;</trd>
+  <trdgrp lng="ca">
+    <trd>selecte</trd>,
+    <trd>granat</trd>,
+    <trd>distingit</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ur&ccaron;en&yacute;</trd>,
+    <trd>vybran&yacute;</trd>,
+    <trd>zvolen&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ausgew&auml;hlt</trd>,
+    <trd>auserlesen</trd>,
+    <trd>erlesen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>chosen</trd>,
+    <trd>elected</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>elegido</trd>,
+    <trd>escogido</trd>,
+    <trd>selecto</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&eacute;lu<klr tip="ind"> (s&eacute;lect)</klr></trd>,
+    <trd>s&eacute;lect</trd>,
+    <trd>choisi</trd>
+  </trdgrp>
+  <trd lng="he">&nun;&#x5B4;&bet;&het;&#x5B8;&resh;</trd>
+  <trdgrp lng="hu">
+    <trd>v&aacute;logatott</trd>,
+    <trd>kiv&aacute;lasztott</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9078;&#x3070;&#x308C;&#x305F;  <pr>&#x3048;&#x3089;&#x3070;&#x308C;&#x305F;</pr></trd>,
+    <trd>&#x9078;&#x51FA;&#x3055;&#x308C;&#x305F;  <pr>&#x305B;&#x3093;&#x3057;&#x3085;&#x3064;&#x3055;&#x308C;&#x305F;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">kooptacja</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_b;&c_r;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_v;&c_y;&c_b;&c_r;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_t;&c_b;&c_o;&c_r;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">vyvolen&yacute;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5165;&#x9009; <pr>r&#xF9;xu&#x1CE;n</pr></trd>,
+    <trd>&#x4F18;&#x9009; <pr>y&#xF2;uxu&#x1CE;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="elekt.al0i">
+  <kap>al<tld/>i</kap>
+  <snc>
+    <dif>
+      <tld lit="E"/>i al (iu grupo, komitato ks):
+      <ekz>
+        se la nombro de la <tld/>itaj membroj estas malpli ol 25, la
+        kongreso al<tld/>as la mankantajn;
+      </ekz>
+      <ekz>
+        en kelkaj kantonoj ne-svisoj rajtas esti al<tld/>itaj al urbaj parlamentoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mireille Grosjean</aut>
+          <vrk><url ref="&Monato;/2015/011394.php">Kultura mozaiko</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi, pro politika agado, estis al<tld/>ita al elita grupo de aktivuloj
+        suspektindaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2013/011111.php">Saluton, ser&gcirc;ento!</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_v;&c_y;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_y;&c_b;&c_r;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">prov&eacute;st dopl&ncaron;kovou volbu</trd>
+  <trd lng="en">elect to</trd>
+  <trdgrp lng="es">
+    <trd>elegir para completar</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>bev&aacute;laszt</trd>,
+    <trd>koopt&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x65B0;&#x4F1A;&#x54E1;&#x3068;&#x3057;&#x3066;&#x9078;&#x51FA;&#x3059;&#x308B;  <pr>&#x3057;&#x3093;&#x304B;&#x3044;&#x3044;&#x3093;&#x3068;&#x3057;&#x3066;&#x305B;&#x3093;&#x3057;&#x3085;&#x3064;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x9078;&#x4EFB;&#x3059;&#x308B;  <pr>&#x305B;&#x3093;&#x306B;&#x3093;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_v;&c_y;&c_b;&c_r;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_o;&c_v;&c_y;&c_b;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">previes&tcaron; doplnkov&uacute; vo&lcaron;bu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_o;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_k;&c_o;&c_o;&c_p;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.118 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+versio 1.117 2023/10/03 04:25:45
+Robert Baruch: +trd: en
+
+versio 1.115 2023/08/29 17:27:07
+Wolfram Diestel: ja: prononco
+
+versio 1.114 2023/07/05 19:25:13
+Wolfram Diestel: +nom
+
+versio 1.113 2023/04/12 07:24:49
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.112 2023/04/07 15:27:04
+Paul Peeraerts: &Monato;
+
+versio 1.111 2023/01/15 09:24:09
+Wolfram Diestel: +~ebla, ~eblo
+
+versio 1.110 2022/04/27 14:38:54
+-->
+</vortaro>

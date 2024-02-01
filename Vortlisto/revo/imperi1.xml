@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: imperi1.xml,v 1.22 2023/11/16 18:29:53 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>imperial</rad>/o
+  <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="imperi1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="imperi1.0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Surtegmenta fako de veturilo a&ubreve; vagono, aran&gcirc;ita por sidigi
+      veturantojn a&ubreve; por meti pakojn:
+      <ekz>
+        mi klarigos al vi sur la <tld/>o de tiu omnibuso
+        <fnt>
+          <aut>G. K. Chesterton, trad. Cecil Bean</aut>:
+          <vrk>La Naiveco de Pastro Brown</vrk>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis tro malvarme por supreniri sur <tld/>on
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la veturigisto komencis, per helpo de kelkaj portistoj, levi tri grandegajn
+        kestojn sur la <tld/>on de la veturilo
+        <fnt>
+          <bib>TAA</bib>
+          <lok>&Ccirc;apitro IX.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni unue prizorgis la pasa&gcirc;erojn de la interno de l&#8217; veturilo kaj poste atentis
+        la nemultajn voja&gcirc;antojn sur la <tld/>o
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld
+      lok="&WCU;/thumb/b/b3/Oberdeck-Pferdebahnwagen_(Dresden).jpg/500px-Oberdeck-Pferdebahnwagen_(Dresden).jpg"
+      prm="PD"
+      >&ccirc;evaltramo kun <tld/>o, Dresdeno, &ccirc;. 1880
+        <fnt>
+          <aut>http://www.deutschefotothek.de/obj30116946.html</aut>
+          <lok><url ref="&WCW;/File:Oberdeck-Pferdebahnwagen_(Dresden).jpg"
+              >https://commons.wikimedia.org/wiki/File:Oberdeck-Pferdebahnwagen_(Dresden).jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="be">&c_ib;&c_m;&c_p;&c_e;&c_r;&c_y;&c_ja;&c_l;</trd>
+    <trdgrp lng="de">
+      <trd>Imperiale</trd>,
+      <trd>Oberdeck <klr>(Doppelstockwagen)</klr></trd>
+    </trdgrp>
+    <trd lng="en">top deck of vehicle</trd>
+    <trd lng="fr">imp&eacute;riale</trd>
+    <trd lng="hu">imperi&aacute;l<klr tip="amb"> (busztet&odblac;)</klr></trd>
+    <trdgrp lng="it">
+      <trd>imperiale<klr> (aut., fer.)</klr></trd>,
+      <trd>secondo piano di torpedone</trd>
+    </trdgrp>
+    <trd lng="nl">imperiaal</trd>
+    <trd lng="pt">tejadilho</trd>
+    <trd lng="ru">&c_i;&c_m;&c_p;&c_je;&c_r;&c_i;&c_a;&c_l;</trd>
+  </snc>
+  <snc mrk="imperi1.0o.monero">
+    <fnt><bib>KrED</bib></fnt>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Iama rusa dek-rubla ora <ref tip="super" cel="mon.0ero">monero</ref>
+      (de 1755 &gcirc;is 1895).
+    </dif>
+    <ref tip="vid" cel="rubl.0o">rublo</ref>
+    <trd lng="be">&c_ib;&c_m;&c_p;&c_e;&c_r;&c_y;&c_ja;&c_l;</trd>
+    <trd lng="de">Imperial</trd>
+    <trd lng="fr">pi&egrave;ce d'or de dix roubles</trd>
+    <trd lng="hu">imperi&aacute;l<klr tip="amb"> (arany
+    t&iacute;zrubeles)</klr></trd>
+    <trd lng="ru">&c_i;&c_m;&c_p;&c_je;&c_r;&c_i;&c_a;&c_l;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>imperi&aacute;l</trd>,
+    <trd>odd&iacute;l na st&rcaron;e&scaron;e dostavn&iacute;ku</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#23627;&#19978;&#24109;  <pr>&#12362;&#12367;&#12376;&#12423;&#12358;&#12379;&#12365;</pr></trd>,
+    <trd>&#33655;&#29289;&#32622;&#12365;&#22580;  <pr>&#12395;&#12418;&#12388;&#12362;&#12365;&#12400;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">imperi&aacute;l</trd>
+  <trd lng="uk">&c_ib;&c_m;&c_p;&c_je;&c_r;&c_ib;&c_a;&c_l;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/11/16 18:29:53
+Wolfram Diestel: +ekz-oj, bld, trd de
+
+versio 1.21 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2011/12/10 21:10:34  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2009/06/02 18:47:30  revo
+Russ Williams: +trd en
+
+Revision 1.14  2005/10/26 16:31:39  revo
+Luiz Portella: +trd pt
+
+Revision 1.13  2004/10/18 16:31:22  revo
+Marc Bavant: kor fakindikojn
+
+Revision 1.12  2004/02/08 17:49:09  revo
+-->
+</vortaro>

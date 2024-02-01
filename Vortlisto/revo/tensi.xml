@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tensi.xml,v 1.27 2023/10/21 13:02:26 revo Exp $">
+<kap>
+  <rad>tensi</rad>/o
+</kap>
+<drv mrk="tensi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tensi.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      <klr>(inter du punktoj A kaj B)</klr>
+      <ref tip="super" cel="grand.fizika0o">Fizika grando</ref>,
+      egala al la diferenco inter la <ref cel="potenc1.0o.ELE">potencialo</ref>
+      en B kaj la potencialo en A:
+      <ekz>
+        la <tld/>o inter la du ekstrema&jcirc;oj de rezistilo estas
+        proporcia al la <klr>(intenso de la)</klr> &gcirc;in trapasanta
+        kurento;
+      </ekz>
+      <ekz>
+        potencilo, kiu ne plene efike konvertas elektran povon al la malalta <tld/>o
+        uzata de elektronikaj cirkvitoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2004/008261.html">Kvietigu tiun
+          komputilon!</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <nom>Ros</nom> ektremis, kvaza&ubreve; <tld/>o pasus tra &scirc;ia tuta korpo
+        <fnt>
+	<aut>Julian Modest</aut>
+	<vrk><url ref="&Monato;/2001/007215.php">La peko de Ros</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/01, p. 24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="potenc1.0adiferenco">potenciala diferenco</ref>,
+      <ref cel="elektr.0astrecxo">elektra stre&ccirc;o</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="fort.elektromova0o">elektromova forto</ref>,
+      <ref cel="volt.v0o">volto</ref>
+    </refgrp>
+    <trd lng="be">&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="en">voltage</trd>
+    <trd lng="pl">napi&eogonek;cie</trd>
+    <trd lng="ru">&c_n;&c_a;&c_p;&c_r;&c_ja;&c_zh;&c_je;&c_n;&c_i;&c_je;
+    <klr tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;.)</klr></trd>
+  </snc>
+  <snc mrk="tensi.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Stre&ccirc;orezisto de organa parieto al &gcirc;ia enhavo:
+      <ekz>
+        <ind>arteria <tld/>o</ind>.
+        <trd lng="be">&c_a;&c_r;&c_t;&c_e;&c_r;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_y; &c_c;&c_ib;&c_s;&c_k;</trd>
+          <trdgrp lng="hu">
+            <trd>ver&odblac;eres
+            <ind>v&eacute;rnyom&aacute;s</ind></trd>,
+            <trd>art&eacute;ri&aacute;s
+            <ind>v&eacute;rnyom&aacute;s</ind></trd>
+          </trdgrp>
+        <trd lng="ru">&c_a;&c_r;&c_t;&c_je;&c_r;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+          <ind>&c_d;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_c;&c_ib;&c_s;&c_k; <klr tip="amb">(&c_m;&c_e;&c_d;.)</klr></trd>
+      <trd lng="de">Gef&auml;&szlig;widerstand</trd>
+    <trd lng="en">tension</trd>
+    <trdgrp lng="hu">
+      <trd>nyom&aacute;s</trd>,
+      <trd>tenzi&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>napi&eogonek;cie</trd>,
+      <trd>napr&eogonek;&zdot;enie</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>press&atilde;o arterial</trd>,
+      <trd>tens&atilde;o arterial</trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je; <klr tip="amb">(&c_m;&c_je;&c_d;.)</klr></trd>
+  </snc>
+  <snc mrk="tensi.0o.strecxo">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="super" cel="strecx.0o">Stre&ccirc;o</ref> inter du aferoj, polusoj kun malsamaj kondi&ccirc;oj:
+      <ekz>
+        la konkordo en la diversaj parlamentoj kontrastas al la <tld/>oj, kiuj akri&gcirc;as
+        en la federacia parlamento, aparte inter valonoj kaj flandroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ivo Durwael</aut>
+          <vrk><url ref="&Monato;/2009/009871.php">Kverelas la komunumoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        psikologia krimromano kun bonega <tld/>plena krimfadeno
+        <klr>(vd <ref tip="sin" cel="suspens.0o">suspenso</ref>)</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2013/011040.php">Toter Lehrer, guter
+          Lehrer</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inter la objektiva kaj subjektiva niveloj de mondkontemplado ofte ekzistas
+        <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Luiza Carol</aut>
+          <vrk><url ref="&Monato;/2011/010287.php">Inter videbleco kaj
+          nevidebleco</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akord.mal0o">malakordo</ref>,
+      <ref cel="harmon1.mal0o">malharmonio</ref>
+    </refgrp>
+    <trd lng="be">&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="de">Verwerfung</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nap&ecaron;t&iacute;</trd>,
+    <trd>tenze</trd>,
+    <trd>tlak</trd>
+  </trdgrp>
+  <trd lng="de">Spannung</trd>
+  <trdgrp lng="fr">
+    <trd>tension<klr tip="ind"> (&eacute;lec.)</klr></trd>,
+    <trd>diff&eacute;rence de potentiel</trd>,
+    <trd>voltage</trd>
+  </trdgrp>
+  <trd lng="hu">fesz&uuml;lts&eacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F35;&#x529B;  <pr>&#x3061;&#x3087;&#x3046;&#x308A;&#x3087;&#x304F;</pr></trd>,
+    <trd>&#x5FDC;&#x529B;  <pr>&#x304A;&#x3046;&#x308A;&#x3087;&#x304F;</pr></trd>,
+    <trd>&#x96FB;&#x5727;  <pr>&#x3067;&#x3093;&#x3042;&#x3064;</pr></trd>,
+    <trd>&#x7DCA;&#x5F35;  <pr>&#x304D;&#x3093;&#x3061;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x8840;&#x5727;  <pr>&#x3051;&#x3064;&#x3042;&#x3064;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">spanning</trd>
+  <trdgrp lng="pt">
+    <trd>ten&atilde;o</trd>,
+    <trd>voltagem</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nap&auml;tie</trd>,
+    <trd>tenzia</trd>,
+    <trd>tlak</trd>
+  </trdgrp>
+  <trdgrp lng="th">
+    <trd>&#xE41;&#xE23;&#xE07;&#xE15;&#xE36;&#xE07;</trd>,
+    <trd>&#xE04;&#xE27;&#xE32;&#xE21;&#xE40;&#xE04;&#xE23;&#xE35;&#xE22;&#xE14;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_u;&c_g;&c_a;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_u;&c_zh;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_t;&c_ja;&c_g;</trd>,
+    <trd>&c_t;&c_i;&c_s;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tensi.kontinua0o">
+  <kap>kontinua <tld/>o, <var><kap>konstanta <tld/>o</kap></var></kap>
+  <snc>
+    <dif>
+      <tld lit="T"/>o, konstanta la&ubreve; grando kaj direkto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_l;&c_a;&c_je; <ind>&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+  <trd lng="de">Gleichspannung</trd>
+  <trd lng="en">DC voltage <klr>(direct current voltage)</klr></trd>
+  <trd lng="fr">tension continue</trd>
+  <trd lng="hu">egyenfesz&uuml;lts&eacute;g</trd>
+  <trd lng="ja">&#x5B9A;&#x96FB;&#x5727;  <pr>&#x3066;&#x3044;&#x3067;&#x3093;&#x3042;&#x3064;</pr></trd>
+  <trd lng="pl">sta&lstroke;e <ind>napi&eogonek;cie</ind></trd>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_o;&c_je;
+  <ind>&c_n;&c_a;&c_p;&c_r;&c_ja;&c_zh;&c_je;&c_n;&c_i;&c_je;</ind>
+  <klr tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;.)</klr></trd>
+  <trd lng="th">&#xE44;&#xE1F;&#xE1F;&#xE49;&#xE32;&#xE01;&#xE23;&#xE30;&#xE41;&#xE2A;&#xE15;&#xE23;&#xE07;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.25 2023/08/22 06:27:54
+Wolfram Diestel: +ref, -adm
+
+versio 1.24 2023/04/23 14:27:15
+
+versio 1.23 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2022/03/21 14:34:54
+Dmitri Gabinski: + trd be
+
+Revision 1.19  2016/11/28 14:10:14  revo
+Warut Bunprasert: +trd th
+
+Revision 1.18  2015/12/31 16:10:24  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.17  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+-->
+</vortaro>

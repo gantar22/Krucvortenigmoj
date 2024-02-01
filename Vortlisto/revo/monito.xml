@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: monito.xml,v 1.22 2023/12/18 07:23:22 revo Exp $">
+<kap>
+  <rad>monitor</rad>/o <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="monito.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="monito.0o.PED">
+    <fnt><bib>JED</bib></fnt>
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Lernanto servanta kiel helpa instruanto:
+      <ekz>
+        la&ubreve;vice tiuj i&gcirc;as <tld/>oj, kiuj estas pli
+        instruitaj
+        <fnt>
+          <aut>C. Ecabert, trad. C. Gacond</aut>,
+          <vrk><url ref="http://www.esperanto-gacond.ch/Claude_Gacond_Radioprelego_0230.pdf">
+          Patro Gregoro Girard</url></vrk>,
+          <lok>radioprelego, 1968-03-06 kaj 09</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="repetitor.0o">repetitoro</ref>
+    <trd lng="be">&c_p;&c_a;&c_m;&c_o;&c_ch;&c_n;&c_ib;&c_k; &c_n;&c_a;&c_s;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_k;&c_a;</trd>
+    <trd lng="en">student who assists a teacher</trd>
+    <trd lng="hu">felvigy&aacute;z&oacute; <klr tip="amb">(di&aacute;k)</klr></trd>
+    <trd lng="fr">moniteur<klr> (formateur)</klr></trd>
+    <trd lng="nl">monitor<klr tip="ind"> (onderwijzer)</klr></trd>
+    <trd lng="pt">monitor <klr>(estudante)</klr></trd>
+  </snc>
+  <snc mrk="monito.0o.KOMP">
+    <fnt><bib>KompLeks</bib></fnt>
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Aparato a&ubreve; programo por kontinue kontroli funkciojn de sistemo,
+      paciento ks:
+      <ekz>
+        <tld/>oj por kontroli la radiadan dozon en la aero estas instalitaj en pli ol
+        600 publikaj lokoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Yazaki Yoko</aut>
+          <vrk><url ref="&Monato;/2015/011442.php">Fuku&scirc;ima kvar jarojn post la granda
+          tertremo</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e televidiloj kaj <tld/>oj, la konsumo estas
+        rilata al la heleco de &ccirc;iu punkto
+        <fnt>
+          <aut>D. Clemente</aut>,
+          <vrk><url ref="http://www.danielclemente.com/consumo/index.eo.html">
+          Kiom konsumas komputilo?</url></vrk>,
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="ekran.0bloko.KOMP">ekranbloko</ref>
+    <ref tip="vid" cel="protok.0o.KOMP_raporto">protokolo<sncref/></ref>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_a;&c_n;&c_ib;&c_t;&c_o;&c_r;</trd>,
+      <trd>&c_d;&c_y;&c_s;&c_p;&c_l;&c_je;&c_j;</trd>,
+      <trd>&c_e;&c_k;&c_r;&c_a;&c_n;</trd>
+    </trdgrp>
+    <trd lng="en">monitor</trd>
+    <trd lng="pl">monitor</trd>
+  </snc>
+  <snc mrk="monito.0o.MAR">
+    <fnt><bib>PVEF</bib></fnt>
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Malnova speco de forte kirasita batal&scirc;ipo.
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_n;&c_ib;&c_t;&c_o;&c_r; <klr>(&c_k;&c_a;&c_r;&c_a;&c_b;&c_je;&c_l;&c_mol;)</klr></trd>
+    <trd lng="en">monitor (warship)</trd>
+    <trd lng="fr">moniteur<klr> (vaisseau)</klr></trd>
+    <trd lng="hu">monitor<klr tip="ind"> (haj&oacute;)</klr></trd>
+    <trd lng="nl">monitor<klr tip="ind"> (vaartuig)</klr></trd>
+    <trd lng="pl">monitor<klr tip="ind"> (okr&eogonek;t)</klr></trd>
+    <trd lng="pt">monitor<klr>(navio)</klr></trd>
+  </snc>
+  <snc mrk="monito.0o.ZOO">
+    <fnt><bib>PVEF</bib></fnt>
+    <uzo tip="stl">ARK</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="dif" cel="varan.0o.ZOO">Varano</ref>:
+      <ekz>
+        jen, kio estas malpura por vi inter la rampa&jcirc;oj:
+        <klr>[&#8230;]</klr> la talpo kaj la muso kaj la lacerto
+        kun &gcirc;ia speco kaj la geko kaj la <tld/>o
+        <fnt><bib>MT</bib>, <lok>&Lev;, 11:29-30</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_v;&c_a;&c_r;&c_a;&c_n;</trd>
+    <trd lng="en">monitor lizard</trd>
+    <trd lng="fr">l&eacute;zard moniteur<klr> (varan)</klr></trd>
+    <trd lng="hu">n&iacute;lusi <ind>var&aacute;nusz</ind></trd>
+    <trd lng="nl">nijlvaraan</trd>
+    <trd lng="pt">lagarto-monitor</trd>
+  </snc>
+  <rim>
+    La vorto devenas de la latina &leftquot;<nac>monere</nac>&rightquot; (<ref cel="avert.0i">averti</ref>,
+    <ref cel="memor.0igi">memorigi</ref>). Kp.
+    <ref cel="monume.0o">monumento</ref>, <ref cel="monstr.0o">monstro</ref>.
+    La komuna etimologio de la supraj sencoj estas apena&ubreve; plu divenebla.
+  </rim>
+  <trdgrp lng="cs">
+    <trd>d&aacute;lkov&eacute; kontroln&iacute; za&rcaron;&iacute;zen&iacute;</trd>,
+    <trd>monitor</trd>
+  </trdgrp>
+  <trd lng="de">Monitor</trd>
+  <trdgrp lng="sk">
+    <trd>asistuj&uacute;ci &zcaron;iak</trd>,
+    <trd>pomocn&iacute;k u&ccaron;ite&lcaron;a</trd>,
+    <trd>radca</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_o;&c_n;&c_ib;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_p;&c_o;&c_m;&c_ib;&c_ch;&c_n;&c_i;&c_k; &c_u;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_ja;</trd>,
+    <trd>&c_u;&c_ch;&c_je;&c_n;&c_mol;-&c_r;&c_je;&c_p;&c_je;&c_t;&c_i;&c_t;&c_o;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="monito.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <snc mrk="monito.0i.kontroli">
+    <dif>
+      Kontinue <ref tip="super" cel="kontro.0i.konformecon">kontroli</ref>
+      per tiucela rimedo:
+      <ekz>
+        &ccirc;iuj itineroj estos strikte <tld/>ataj <klr>[&#8230;]</klr> kaj voja&gcirc;o tra la tuta
+        lando estas ver&scirc;ajne nepermesebla
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2014/011323.php">Bicikle al Nord-Koreio</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        klimata <tld/>ado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2012/010754.php">Protektanta biodiversecon</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la bu&gcirc;eto anta&ubreve;vidis la kostojn de esplorado, projektado, disvolvo, konstruo,
+        <tld/>ado kaj gvidado dum unu jaro de medioedukadcentro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ivo Durwael</aut>
+          <vrk><url ref="&Monato;/2004/008236.html">La rikolto de la nova tempo</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+       <ref cel="rigard.super0i.FIG">superrigardi<sncref/></ref>,
+       <ref cel="inspek.0i">inspekti</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_a;&c_n;&c_ib;&c_t;&c_o;&c_r;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_k;&c_a;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>monitoren</trd>,
+    <trd>&uuml;berwachen</trd>
+  </trdgrp>
+<trd lng="en">monitor</trd>
+  <trd lng="ja">&#12514;&#12491;&#12479;&#12522;&#12531;&#12464;&#12377;&#12427;</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.22 2023/12/18 07:23:22
+Wolfram Diestel: +fnt JED, PVEF
+
+versio 1.20 2023/08/21 01:20:20
+David Dichelle: +trd en
+
+versio 1.19 2023/07/05 07:28:39
+Dmitri Gabinski: + trd be
+
+versio 1.18 2022/07/01 21:25:40
+Jeromo Vasxe: reordig. snc
+
+versio 1.17 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.14  2017/09/06 16:10:17  revo
+Jeromo Vasxe: fnt C
+
+Revision 1.13  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:20  revo
+-->
+</vortaro>

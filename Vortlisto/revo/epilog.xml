@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: epilog.xml,v 1.26 2023/11/07 20:34:11 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>epilog</rad>/o
+</kap>
+<drv mrk="epilog.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">TEA</uzo>
+  <snc>
+    <dif>
+      Fina parto de <ref tip="malprt" cel="verk.0o.propra">verko</ref>,
+      <ref tip="sin" cel="parol.post0o">postparolo</ref>:
+      <ekz>
+        &ccirc;ar ne temas pri krimromano, ne estu malpermesite rakonti la <tld/>on, cetere
+        facile diveneblan
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2008/009455.php">Mezepokaj sekret(igit)aj sonetoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la <tld/>o de tia historio estas de preska&ubreve; &ccirc;iuj konata: la de&jcirc;oranta ekonomia
+        elito subpremas la ceterulojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jozefo Lejte</aut>
+          <vrk><url ref="&Monato;/2008/009459.php">Kiuj sendependi&gcirc;u? (7)</url></vrk>
+        </fnt>.
+      </ekz>  
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="parol.antaux0o">anta&ubreve;parolo</ref>,
+      <ref cel="prolog.0o">prologo</ref>
+    </refgrp>
+    <trd lng="be">&c_e;&c_p;&c_ib;&c_l;&c_jo;&c_g;</trd>
+    <trd lng="bg">&c_je;&c_p;&c_i;&c_l;&c_o;&c_g;</trd>
+    <trd lng="ca">ep&iacute;leg</trd>
+    <trdgrp lng="de">
+       <trd>Nachrede</trd>,
+       <trd>Nachspiel</trd>,
+       <trd>Schluss</trd>,
+       <trd>Epilog</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>epilog</trd>,
+      <trd>epilogue</trd>
+    </trdgrp>
+    <trd lng="es">ep&iacute;logo</trd>
+    <trd lng="fr">&eacute;pilogue</trd>
+    <trdgrp lng="hu">
+       <trd>epil&oacute;gus</trd>,
+       <trd>ut&oacute;sz&oacute;</trd>,
+       <trd>ut&oacute;j&aacute;t&eacute;k</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>epiloog</trd>,
+      <trd>slot<klr tip="ind"> (epiloog)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>epilog</trd>,
+      <trd>zako&nacute;czenie</trd>
+    </trdgrp>
+    <trd lng="pt">ep&iacute;logo</trd>
+    <trd lng="ru">&c_e;&c_p;&c_i;&c_l;&c_o;&c_g;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dohra</trd>,
+    <trd>doslov</trd>,
+    <trd>epilog</trd>,
+    <trd>z&aacute;v&ecaron;r</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8DCB;  <pr>&#x3070;&#x3064;</pr></trd>,
+    <trd>&#x7D42;&#x7AE0;  <pr>&#x3057;&#x3085;&#x3046;&#x3057;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x30A8;&#x30D4;&#x30ED;&#x30FC;&#x30B0;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>doslov</trd>,
+    <trd>z&aacute;ver</trd>
+  </trdgrp>
+
+  <trd lng="uk">&#x435;&#x43F;&#x456;&#x43B;&#x43E;&#x433;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7E8C;&#x96C6; <pr>x&#xF9;j&#xED;</pr></trd>,
+    <trd>&#x4F59;&#x6CE2; <pr>y&#xFA;b&#x14D;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+Revision 1.21  2019/01/14 07:10:14  revo
+Wolfram Diestel: +sin postparolo, +ekz-oj, ref-oj antauparolo, prologo
+
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/09/02 15:10:30  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2012/08/10 14:11:31  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2010/02/05 17:30:49  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2010/01/14 18:27:28  revo
+-->
+</vortaro>

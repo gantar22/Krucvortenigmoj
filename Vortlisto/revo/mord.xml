@@ -1,0 +1,595 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mord.xml,v 1.40 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>mord</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="mord.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="mord.0i.dente">
+    <dif>
+      En<ref tip="super" cel="trancx.0i.KOMUNE">tran&ccirc;i</ref> a&ubreve; 
+      &scirc;iri per <ref cel="dent.0o.busxo">dento</ref>j:
+      <ekz>
+        &ccirc;irka&ubreve;is min hundoj <klr>[&#x2026;]</klr> ili <tld/>as miajn manojn kaj piedojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 22:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>is la serpento
+        <fnt>
+          <bib>MT</bib>
+          <lok>Predikanto 10:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili <tld/>is sian langon pro dolorego
+        <fnt>
+          <bib>NT</bib>
+          <lok>Apokalipso 16:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <klr>[tiuj]</klr> profetoj <klr>[&#x2026;]</klr> <tld/>as per siaj dentoj kaj predikas
+        pacon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Mi&hcirc;a 3:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malgra&ubreve; sia humila teni&gcirc;o, la princo <tld/>is la lipojn kaj kunpremis la pugnojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la bestoj]</klr> tra<tld/>is per la dentoj la trunketon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Elinjo-fingreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        unu anaso alflugis kaj <tld/>is la anasidon en la nuko
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malbela anasido</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la infano gratis kaj <tld/>is kiel sova&gcirc;a kateto
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel arbo, kiun <tld/>as vermo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        restis nenio absolute, nek por <tld/>i, nek por gluti
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu bojas, ne <tld/>as
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu <tld/>i ne povas, kisi ekprovas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>harap</trd>,
+      <trd>mar</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_u;&c_s;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_u;&c_k;&c_u;&c_s;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="mord.0i.ataki">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ekdifekti, ekkonsumi kvaza&ubreve; per <tld/>o;
+      <ref tip="dif" cel="atak.0i.ekdifekti">ataki<sncref/></ref>: 
+      <ekz>
+        la vaporo <tld/>is miajn brakojn kaj la bruston kaj brogis ilin
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 28</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nudajn piedojn mordis la akra sablo
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        grincado de segilo <tld/>anta la lignon
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la salpetrokampo de la interna lando <tld/>as la piedojn de la vaganta indianino
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Harry Martinson</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mord.0umi.TEK"><tld/>umi</ref>,
+      <ref cel="kauxst.0a.KEM">ka&ubreve;stika</ref>,
+      <ref cel="korod.0i.KEM">korodi</ref>,
+      <ref cel="skrap.0i">skrapi</ref>.
+    </refgrp>
+    <trdgrp lng="hu">
+      <trd>belemar</trd>,
+      <trd>kimar</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_z;&c_malmol;&c_je;&c_d;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_r;&c_a;&c_z;&c_r;&c_u;&c_sh;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="mord.0i.dolorigi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ripete dolorigi kvaza&ubreve; per <tld/>ado:
+      <ekz>
+        &ccirc;u la dentdoloro ne <tld/>is viajn nervojn
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La senditoj de morto</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        &scirc;ia &jcirc;aluzeco veki&gcirc;as kaj kruele &scirc;in <tld/>as en koro
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kolero kaj malsato <tld/>is interne en &scirc;ia malplena korpo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Knabino, kiu pa&scirc;is sur panon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fumo <tld/>is la okulojn
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XLIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la bulvardistoj sukcese &leftquot;<tld/>os&rightquot; la registaron
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2014/011230.php">Malbelon beligi: la Greenwald-principo</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+
+      <ekz>
+        tiu konstanta zorgo <tld/>adis lian koron;
+      </ekz><ekz>
+        <tld/>etita de &ccirc;agreno, de enuo.
+      </ekz>
+    </dif>
+    <trd lng="hu">mardos</trd>
+    <trd lng="ru">&c_g;&c_r;&c_y;&c_z;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_u;&c_s;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_c;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ra;&t_mata;&t_shabchu;&t_ga;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="ca">mossegar</trd>
+  <trdgrp lng="cs">
+    <trd>bodat</trd>,
+    <trd>hryzat</trd>,
+    <trd>korodovat</trd>,
+    <trd>kousat</trd>,
+    <trd>kousnout</trd>,
+    <trd>leptat</trd>,
+    <trd>roze&zcaron;&iacute;rat</trd>,
+    <trd>u&scaron;tknout</trd>
+  </trdgrp>
+  <trd lng="de">bei&szlig;en</trd>
+  <trd lng="en">bite</trd>
+  <trd lng="es">morder</trd>
+  <trd lng="fr">mordre</trd>
+  <trd lng="id">meng<ind>gigit</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x304B;&#x3080;</trd>,
+    <trd>&#x304B;&#x307F;&#x3064;&#x304F;</trd>,
+    <trd>&#x304B;&#x3058;&#x308B;</trd>,
+    <trd>&#x524A;&#x308A;&#x53D6;&#x308B;  <pr>&#x3051;&#x305A;&#x308A;&#x3068;&#x308B;</pr></trd>,
+    <trd>&#x8150;&#x98DF;&#x3059;&#x308B;  <pr>&#x3075;&#x3057;&#x3087;&#x304F;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bijten</trd>
+  <trdgrp lng="pl">
+    <trd>gry&zacute;&cacute;</trd>,
+    <trd>pogry&zacute;&cacute;</trd>,
+    <trd>ugry&zacute;&cacute;</trd>,
+    <trd>k&aogonek;sa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">morder</trd>
+  <trdgrp lng="ro">
+    <trd>mu&#x219;c&abreve;</trd>,
+    <trd>roade</trd>,
+    <trd>mesteca</trd>,
+    <trd>pi&#x219;ca</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hr&yacute;z&tcaron;</trd>,
+    <trd>korodova&tcaron;</trd>,
+    <trd>k&uacute;sa&tcaron;</trd>,
+    <trd>rozo&zcaron;iera&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_u;&c_s;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_zh;&c_a;&c_l;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_m;&c_o;&c_r;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_v;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_t;&c_r;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&#x2019;&c_ji;&c_d;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mord.0eti">
+  <kap><ofc>*</ofc> <tld/>eti</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Sen&scirc;ire, singarde, nervoze a&ubreve; petole ion <tld/>i: 
+      <ekz>
+        li ekmeditis kaj <tld/>etis la malsupran lipon
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;aptiro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kliento <tld/>etis la ungojn kaj denove profundi&gcirc;is en sian meditadon
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">knabbern</trd>
+    <trd lng="en">nibble</trd>
+    <trd lng="es">mordisquear</trd>
+    <trd lng="fr">mordiller</trd>
+    <trd lng="id">meng<ind>gerogot</ind>i</trd>
+    <trd lng="pl">przygryza&cacute;</trd>
+    <trd lng="ro">mu&#x219;c&abreve;tur&abreve;</trd>  
+  </snc>
+  <snc>
+    <dif>
+      <ref tip="sin" cel="rongx.0i">Ron&gcirc;i</ref>:
+      <ekz>
+        Grenjo stari&gcirc;is anta&ubreve; la fenestro kaj <tld/>etis la vitron
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">nibble</trd>
+    <trd lng="es">roer</trd>
+    <trd lng="fr">ronger</trd>
+  </snc>
+  <snc mrk="mord.0eti.konsumi">
+    <dif>
+      Dolore, iom post iom <ref cel="konsum.0i">konsumi</ref> optimismon,
+      &gcirc;ojon:
+      <ekz>
+        zorgo? &mdash; tiu &ccirc;i vermo <tld/>etas tro malrapide
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Herbeno ne estis feli&ccirc;a, &ccirc;ar lin <tld/>etis du konsciencripro&ccirc;oj
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu konsciencripro&ccirc;ado <klr>[komencis]</klr> <tld/>eti mian tutan vivadon
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekdua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dub.0igi.iun">dubigi</ref>,
+      <ref cel="cxerp.el0i">el&ccirc;erpi</ref>,
+      <ref cel="sucx.el0i.ekspluati">elsu&ccirc;i<sncref/></ref>,
+      <ref cel="lac.0igi">lacigi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_g;&c_r;&c_y;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_u;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="de">nagen</trd>
+  <trd lng="en">gnaw</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8EFD;&#x304F;&#x304B;&#x3080;  <pr>&#x304B;&#x308B;&#x304F;&#x304B;&#x3080;</pr></trd>,
+    <trd>&#x304B;&#x3058;&#x308B;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_k;&c_u;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_g;&c_r;&c_i;&c_z;&c_t;&c_i;</trd>,
+    <trd>&c_k;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i; (&c_p;&c_r;&c_o; &c_r;&c_i;&c_b;&c_u;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mord.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="mord.0umi.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Prilabori surfacon per ka&ubreve;stika substanco por &gcirc;in purigi,
+      kolorigi, krei desegna&jcirc;on, cirkviton ktp:
+      <ekz>
+        <tld/>umi lignon per solva&jcirc;o de kolorilo;
+      </ekz><ekz>
+        la kupran platon de gravuro ni <tld/>umu per azotacido.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_r;&c_a;&c_v;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_t;&c_r;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">tractar <klr>(superf&iacute;cies)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>roze&zcaron;rat</trd>,
+    <trd>roze&zcaron;&iacute;rat</trd>,
+    <trd>rozleptat</trd>
+  </trdgrp>
+  <trd lng="de">&auml;tzen</trd>
+  <trd lng="en">corrode</trd>
+  <trd lng="es">corroer</trd>
+  <trd lng="fr">mordancer</trd>
+  <trdgrp lng="pl">
+    <trd>trawi&cacute;  <klr>(tech)</klr></trd>,
+    <trd>korodowa&cacute;  <klr>(tech)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>gravat  <klr>(tehnologie)</klr></trd>,
+    <trd>roade</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_t;&c_r;&c_a;&c_v;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_m;&c_o;&c_r;&c_i;&c_t;&c_mol;<klr> (&c_k;&c_i;&c_s;&c_l;&c_o;&c_t;&c_o;&c_j; &c_i; &c_t;.&c_p;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozlepta&tcaron;</trd>,
+    <trd>rozo&zcaron;ra&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_o;&c_r;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_v;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_t;&c_r;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+    <adm>
+      Ne trovi&gcirc;is cita&jcirc;o a&ubreve; pruvo de tia uzo...
+      E.D. Krause donas anstata&ubreve;e TEK korodi kaj MED ka&ubreve;terizi
+      <aut>WD</aut>
+    </adm>
+</drv>
+
+<drv mrk="mord.cxirkaux0i">
+  <kap>&ccirc;irka&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="M"/>i &ccirc;e la &ccirc;irka&ubreve;o:
+      <ekz>
+        la malsato vin devigos &ccirc;irka&ubreve;<tld/>i viajn proprajn ostojn
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li havas sufi&ccirc;e da mono, por a&ccirc;eti &ccirc;e bu&ccirc;isto &scirc;afan kapon, kiun li &ccirc;irka&ubreve;<tld/>as
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XXXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tenante per papereto osteton, &scirc;i &ccirc;irka&ubreve;<tld/>is
+        kotleton
+        <fnt><bib>Metrop</bib>, <lok>&ccirc;ap. 4a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_k;&c_u;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_b;&c_g;&c_r;&c_y;&c_z;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>abnagen</trd>,
+    <trd>abknabbern</trd>
+  </trdgrp>
+  <trd lng="en">nibble off</trd>
+  <trd lng="es">morder<klr tip="ind"> (el contorno)</klr></trd>
+  <trd lng="fr">grignotter<klr tip="ind"> (sur le
+  pourtour)</klr></trd>
+  <trd lng="hu">k&ouml;rber&aacute;g</trd>
+  <trdgrp lng="pl">
+    <trd>ogryza&cacute;</trd>,
+    <trd>ogry&sacute;&cacute;</trd>,
+    <trd>obgryza&cacute;</trd>
+  </trdgrp>
+  <trd lng="ro">roade</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_k;&c_u;&c_s;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_g;&c_l;&c_o;&c_d;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_g;&c_l;&c_o;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_o;&c_b;&c_g;&c_r;&c_i;&c_z;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="mord.de0i">
+  <kap>de<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Deigi per <tld/>o parton de io:
+      <ekz>
+        &ccirc;arma pupo, <klr>[&#x2026;]</klr> nun la abomeninda buldogo de<tld/>is al &gcirc;i la kapon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne&gcirc;ulino rigardis la belan pomon <klr>[&#x2026;]</klr> sed apena&ubreve; &scirc;i de<tld/>is
+        peceton, &scirc;i falis senviva
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ne&gcirc;ulino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        preni<klr>[nte&#x2026;]</klr> pecon da pano, <klr>[&#x2026;]</klr> &scirc;i de<tld/>is peceton kaj
+        ma&ccirc;ante &gcirc;in reprenis la laboron
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_k;&c_u;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_c;&c_ib;&c_n;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">arrencar <klr>(d'un mos)</klr></trd>
+  <trd lng="cs">ukousnout</trd>
+  <trd lng="de">abbei&szlig;en</trd>
+  <trd lng="en">bite off</trd>
+  <trdgrp lng="es">
+    <trd>tarazar</trd>,
+    <trd>arrancar a mordiscos</trd>
+  </trdgrp>
+  <trd lng="fr">arracher<klr tip="ind"> (en mordant)</klr></trd>
+  <trd lng="hu">leharap</trd>
+  <trd lng="ja">&#x98DF;&#x3044;&#x3061;&#x304E;&#x308B;  <pr>&#x304F;&#x3044;&#x3061;&#x304E;&#x308B;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>odgry&zacute;&cacute;</trd>,
+    <trd>odgryza&cacute;</trd>
+  </trdgrp>
+  <trd lng="ro">mu&#x219;c&abreve;</trd>
+  <trd lng="ru">&c_o;&c_t;&c_k;&c_u;&c_s;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">odhryzn&uacute;&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_k;&c_u;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_g;&c_r;&c_i;&c_z;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mord.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Estigi kava&jcirc;on a&ubreve; truon <tld/>ante:
+      <ekz>
+        en la palma folio, kiun mi donis al vi, &gcirc;i el<tld/>is
+        truon, kiel saluton al la re&gcirc;idino
+        <fnt><bib>Fab1</bib>, <lok>&Gcirc;ardeno de la
+        paradizo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_k;&c_u;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_g;&c_r;&c_y;&c_z;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="de">herausbei&szlig;en</trd>
+  <trd lng="en">bite out</trd>
+  <trd lng="es">agujerear de un mordisco</trd>
+  <trdgrp lng="pl">
+    <trd>wytacza&cacute;</trd>,
+    <trd>wy&zdot;era&cacute;</trd>,
+    <trd>wygryza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>rostogoli</trd>,
+    <trd>m&acirc;nca</trd>,
+    <trd>mesteca</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_k;&c_u;&c_s;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_g;&c_r;&c_y;&c_z;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.40 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.38 2023/05/06 13:23:52
+Christian Siefkes: +trd de, en
+
+versio 1.37 2023/02/14 17:30:24
+Wolfram Diestel: +snc-mrk
+
+versio 1.36 2022/11/23 09:28:27
+Dmitri Gabinski: + trd be
+
+versio 1.35 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.34 2022/04/08 20:34:05
+Wolfram Diestel: ekz-oj, ref-oj, trd de, +~eti FIG
+
+versio 1.32 2022/02/23 19:22:36
+Wolfram Diestel: ~i 1: ekz-oj
+
+versio 1.31 2021/12/28 08:37:21
+-->
+</vortaro>

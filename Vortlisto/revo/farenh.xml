@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: farenh.xml,v 1.17 2023/11/09 19:13:15 revo Exp $">
+<kap>
+<rad>Farenhejt</rad>/o
+</kap>
+<drv mrk="farenh.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PERS</uzo>
+  <snc>
+    <dif>
+      Germanlingve:
+      <nom>Daniel Gabriel</nom> <trd lng="de">Fahrenheit</trd>, 1686-1736; germana
+      <ref tip="lst" lst="voko:historiaj_personoj" cel="fizik.0isto">fizikisto</ref>,
+      inventinto de alkohola kaj hidrarga termometroj kaj de la
+      <ref cel="farenh.0a"><tld lit="f"/>a</ref> temperaturskalo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_F;&c_a;&c_r;&c_e;&c_n;&c_g;&c_a;&c_j;&c_t;</trd>
+  <trd lng="bg">&c_F;&c_a;&c_r;&c_je;&c_n;&c_h;&c_a;&c_j;&c_t;</trd>
+  <trd lng="ca">Farenheit</trd>
+  <trd lng="cs">Fahrenheit</trd>
+  <trd lng="en">Fahrenheit</trd>
+  <trd lng="fr">Fahrenheit</trd>
+  <trd lng="hu">Fahrenheit</trd>
+  <trd lng="ja">&#x30D5;&#x30A1;&#x30FC;&#x30EC;&#x30F3;&#x30CF;&#x30A4;&#x30C8;</trd>
+  <trd lng="nl">Daniel Gabriel <ind>Fahrenheit</ind></trd>
+  <trd lng="pl">Daniel Gabriel <ind>Fahrenheit</ind></trd>
+  <trd lng="pt">Fahrenheit</trd>
+  <trd lng="ru">&c_F;&c_a;&c_r;&c_je;&c_n;&c_g;&c_je;&c_j;&c_t;</trd>
+  <trd lng="sk">Fahrenheit</trd>
+</drv>
+<drv mrk="farenh.0a">
+  <kap><tld lit="f"/>a
+    <fnt><bib>PIV1</bib></fnt>
+  </kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o, specife al lia temperaturskalo:
+      <ekz>
+        kelvino<klr>[n]</klr> kiel SI-unuo, oni &gcirc;uste skribas per minuskla k, &gcirc;in neniam
+        akompanas la vorto grado a&ubreve; gradoj, a&ubreve; la simbolo &deg;, malsame ol &ccirc;e gradoj
+        celsiaj a&ubreve; <tld lit="f"/>aj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=22758">Kelvino</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+<!-- tro leksikonaj informoj, prefere referencu al Vikipedio ks.:
+ la&ubreve; kiu,
+      &ccirc;e la
+      normala atmosfera premo, la akvo glacii&gcirc;as je 32 <tld
+      lit="f"/>aj
+      gradoj (32&#730;F) kaj ekbolas je 212 <tld lit="f"/>aj gradoj
+      (212&#730;F), kiu intervalo estas dividita en 180 egalajn partojn.
+    </dif>
+    <rim num="1">
+      La <tld lit="f"/>an skalon oni ankora&ubreve; uzas en Usono; en
+      sciencoj kaj en plimulto de aliaj landoj oni uzas la
+      <ref tip="vid" cel="celsi.0a">celsian skalon</ref>.
+    </rim>
+    <rim num="2">
+      La formulo por konverti celsian temperaturon <frm>C</frm> en
+      <tld lit="f"/>an <frm>F</frm> estas <frm>F = 9C/5 + 32</frm>;
+      la inversa konverto estas <frm>C = 5(F - 32)/9</frm>.
+    </rim>
+    <rim num="3">
+      La intenco estis, ke la temperaturo de la glacii&gcirc;o estu
+      30&#730;F
+      kaj la temperaturo de la homa korpo estu 90&#730;F; nu, post
+      precizigo tiuj valoroj korekti&gcirc;is al 32&#730;F kaj
+      98.6&#730;F.
+    </rim>
+-->
+    <ref tip="vid" cel="kelvin.k0o.FIZ">kelvino</ref>
+  </snc>
+  <adm>
+  Por koherigi kun aliaj samspecaj artikoloj mi preferus meti
+  &ccirc;i tien nur referencojn al aliaj terminoj kun f~a (skalo,
+  grado,...)
+  kaj transporti la nunan materialon al sub "skalo" (drv "farenhejta
+  (temperatur)skalo"). <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_a;&c_v;&c_o;&c_d;&c_l;&c_je;
+  <ind>&c_F;&c_a;&c_r;&c_e;&c_n;&c_g;&c_a;&c_j;&c_t;&c_a;</ind></trd>
+  <trd lng="bg">&c_F;&c_a;&c_r;&c_je;&c_n;&c_h;&c_a;&c_j;&c_t;</trd>
+  <trd lng="ca">en escala Farenheit</trd>
+  <trd lng="de">Fahrenheit</trd>
+  <trd lng="en">fahrenheit</trd>
+  <trd lng="fr"><klr tip="ind">(selon l'&eacute;chelle de)
+  </klr>Fahrenheit</trd>
+  <trd lng="hu">Fahrenheit-</trd>
+  <trd lng="nl">fahrenheit</trd>
+  <trd lng="pl">Fahrenheita</trd>
+  <trd lng="ru">&c_p;&c_o;
+  <ind>&c_F;&c_a;&c_r;&c_je;&c_n;&c_g;&c_je;&c_j;&c_t;&c_u;</ind></trd>
+  <trd lng="zh">&#x534E;&#x6C0F; <pr>hu&#xE1;sh&#xEC;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+Revision 1.14  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2011/12/06 10:10:30  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.11  2011/06/03 06:10:14  revo
+Sebastian Cyprych: +trd pl +ref kelvin
+
+Revision 1.10  2008/11/05 17:31:04  revo
+Wieland Pusch: +trd bg
+
+Revision 1.9  2007/05/16 16:30:36  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2004/10/15 16:31:14  revo
+-->
+</vortaro>

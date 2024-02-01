@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: od.xml,v 1.26 2023/10/20 13:11:47 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>od</rad>/o
+</kap>
+<drv mrk="od.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="od.0o.POE">
+    <uzo tip="fak">POE</uzo>
+    <dif>
+      Lirika <ref tip="super" cel="poem.0o">poemo</ref>, 
+      dividita en strofoj, ordinare similaj inter si:
+      <ekz>
+        porpage lasi <tld/>on dirante al kelnero: sistemo de <nom>Verlaine</nom>
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+        </fnt>!
+      </ekz>
+      <ekz>
+        kiu renkontis Horacion en siaj knabaj studoj, tuj revokos al sia
+        menso ties <tld/>on pri monto <nom>Soracte</nom>
+        apud Romo, blanka pro la ne&gcirc;o, kaj la frosti&gcirc;intaj riveroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2012/010377.php">Nuntempo en antikva vesto</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_o;&c_d;&c_a;</trd>
+  <trd lng="bg">&c_o;&c_d;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>oslavn&aacute; b&aacute;se&ncaron;</trd>,
+    <trd>&oacute;da</trd>
+  </trdgrp>
+  <trd lng="de">Ode</trd>
+  <trd lng="el">&omega;&delta;&eta_ton;</trd>
+  <trd lng="en">ode</trd>
+  <trdgrp lng="fa">
+    <trd>&a_q;&a_S;&f_y;&a_d;&a_h;</trd>,
+    <trd>&f_ch;&f_k;&a_A;&a_m;&a_h;</trd>,
+    <trd>&a_sh;&a_ayn;&a_r; &a_t;&a_gh;&a_z;&a_l;&f_y;</trd>
+  </trdgrp>
+  <trd lng="fr">ode</trd>
+  <trd lng="hu">&oacute;da</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AA;&#x30FC;&#x30C9;</trd>,
+    <trd>&#x980C;&#x6B4C;  <pr>&#x3057;&#x3087;&#x3046;&#x304B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">ode</trd>
+  <trd lng="pl">oda</trd>
+  <trd lng="pt">ode</trd>
+  <trd lng="ru">&c_o;&c_d;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>oslavn&aacute; b&aacute;se&ncaron;</trd>,
+    <trd>&oacute;da</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>ode</trd>,
+    <trd>kv&auml;de</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43E;&#x434;&#x430;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/20 13:11:47
+revo: transskribo per <pr>
+
+versio 1.24 2022/05/01 17:17:00
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.21  2018/11/29 17:10:19  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.20  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/08/12 17:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2010/05/04 16:30:43  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2008/07/29 16:30:39  revo
+-->
+</vortaro>

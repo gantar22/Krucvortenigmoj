@@ -1,0 +1,607 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: adres.xml,v 1.68 2023/10/27 13:42:09 revo Exp $">
+<kap>
+   <ofc>*</ofc><ofc>1</ofc><ofc>8</ofc>
+   <rad>adres</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="adres.0o">
+   <kap><tld/>o</kap>
+   <snc mrk="adres.0o.KOMUNE">
+     <dif>
+       Precizaj <ref tip="super" cel="indik.0o.sciigo">indiko</ref>j por atingi iun, ion:
+       <ekz>
+         &scirc;i donis al li sian <tld/>on, prenis de li lian, &ndash; 
+         kaj ili disi&gcirc;is amike
+         <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo, (rakonto de V.
+         Devjatnin), 2</lok></fnt>.
+       </ekz>
+     </dif>
+     <subsnc mrk="adres.0o.POSX">
+       <uzo tip="fak">POSX</uzo>
+       <dif>
+         <ref tip="super" cel="skrib.sur0o">Surskribo</ref> sur leterkoverto a&ubreve; paka&jcirc;o, montranta la
+         nomon de iu kaj la precizan lokon, kie li lo&gcirc;as:
+         <ekz>
+           sur tia letero la diversaj partoj de la <tld/>o kuras unu sur
+           alian
+           <fnt><bib>FK</bib>, <lok>5, el la vivo kaj sciencoj, el la
+           po&scirc;to</lok></fnt>;
+         </ekz>
+        <ekz>
+          siajn paperojn <klr>[&#x2026;]</klr> &scirc;i metu ilin en koverton kaj skribu sur &ccirc;i tiu la
+          <tld/>on de la bienmastro
+          <fnt>
+            <bib>Fab3</bib>
+            <lok>Kora sufero</lok>
+          </fnt>.
+        </ekz>
+       </dif>
+       <trd lng="de">Anschrift</trd>
+       <trd lng="he">&mem;&ayin;&fnun;</trd>
+       <trdgrp lng="ja">
+         <trd>&#x4F4F;&#x6240; <pr>&#x3058;&#x3085;&#x3046;&#x3057;&#x3087;</pr></trd>,
+         <trd>&#x3042;&#x3066;&#x5148; <pr>&#x3042;&#x3066;&#x3055;&#x304D;</pr></trd>,
+         <trd>&#x30A2;&#x30C9;&#x30EC;&#x30B9; <pr>&#x3042;&#x3069;&#x308C;&#x3059;</pr></trd>
+       </trdgrp>
+       <trd lng="ms">alamat</trd>
+       <trd lng="pl">adres pocztowy</trd>
+       <trd lng="th">&#xE17;&#xE35;&#xE48;&#xE2D;&#xE22;&#xE39;&#xE48;</trd>
+     </subsnc>
+     <subsnc mrk="adres.0o.KOMP">
+       <uzo tip="fak">KOMP</uzo>
+       <uzo tip="fak">RET</uzo>
+       <dif>
+         Nombro, kodo a&ubreve; nomo, indikanta parton de komputila
+         memoro, dispona&jcirc;on a&ubreve; retnodon:
+         <ekz>
+           <tld/>o plena, absoluta, relativa, fakta, fizika, virtuala;
+         </ekz>
+         <ekz>
+           <tld/>a spaco;
+         </ekz>
+         <ekz>
+          64-bita <tld/>o
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url ref="https://eo.wikipedia.org/?curid=37916">IEEE 1394</url></lok>
+          </fnt>;
+         </ekz>
+         <ekz>
+          &ccirc;iu komputilo kaj enkursigilo en la reto havas <nom>IP</nom>-<tld/>on
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url ref="https://eo.wikipedia.org/?curid=1871">IP-adreso</url></lok>
+          </fnt>;
+         </ekz>
+         <ekz>
+          kompreneble <nom>RTL.tv</nom> estus multe pli konvena adreso ol <nom>RTL.com</nom>
+          <fnt><aut>Stefan Maul</aut>: 
+          <vrk><url ref="&Monato;/2000/007180.html">Ri&ccirc;a per .tv</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/12, p. 6</lok>
+        </fnt>.
+         </ekz>
+       </dif>
+    <refgrp tip="vid">
+      <ref cel="montr.0ilo">montrilo</ref>,
+      <ref cel="lig.0ilo.KOMP">ligilo<sncref/></ref>,
+      <ref cel="refere.0o.KOMP">referenco<sncref/></ref>,
+      <ref cel="regxistr.0o">re&gcirc;istro</ref>
+    </refgrp>
+     </subsnc>
+     <trd lng="ja">&#x30A2;&#x30C9;&#x30EC;&#x30B9; <pr>&#x3042;&#x3069;&#x308C;&#x3059;</pr></trd>
+   </snc>
+  <trd lng="be">&c_a;&c_d;&c_r;&c_a;&c_s;</trd>
+  <trd lng="bg">&c_a;&c_d;&c_r;&c_je;&c_s;</trd>
+  <trd lng="bo">&t_kha;&t_tsheg;&t_ba;&t_yata;&t_nga;&t_tsheg;</trd>
+  <trd lng="br">chomlec'h</trd>
+  <trd lng="cs">adresa</trd>
+  <trd lng="de">Adresse</trd>
+  <trd lng="en">address</trd>
+  <trdgrp lng="es">
+     <trd>direcci&oacute;n</trd>,
+     <trd>se&ntilde;as</trd>
+   </trdgrp>
+  <trd lng="fr">adresse</trd>
+  <trd lng="he">&kaf;&tav;&vav;&bet;&tav;</trd>
+  <trd lng="hu">c&iacute;m</trd>
+  <trd lng="id">alamat</trd>
+  <trd lng="it">indirizzo</trd>
+  <trd lng="nl">adres</trd>
+  <trd lng="pl">adres</trd>
+  <trd lng="pt">endere&ccedil;o</trd>
+  <trd lng="ru">&c_a;&c_d;&c_r;&c_je;&c_s;</trd>
+  <trd lng="sk">adresa</trd>
+  <trd lng="sv">adress</trd>
+  <trd lng="tr">adres</trd>
+  <trd lng="uk">&c_a;&c_d;&c_r;&c_je;&c_s;&c_a;</trd>
+  <trd lng="zh">&#x5730;&#x5740;<klr> [d&igrave;zh&#x1D0;]</klr></trd>
+</drv>
+
+<drv mrk="adres.0i">
+   <kap><tld/>i</kap>
+   <gra><vspec>tr</vspec></gra>
+   <snc mrk="adres.0i.POSX">
+     <uzo tip="fak">POSX</uzo>
+     <dif>
+       <ref tip="super" cel="skrib.0i.signojn">Skribi</ref> <tld/>on sur letero, paka&jcirc;o:
+       <ekz>
+         el la tri leteroj unu estis <tld/>ita: al Lia Episkopa
+         Mo&scirc;to, Sinjoro N.
+         <fnt><bib>F</bib>, <lok>&FE; 42</lok></fnt>;
+       </ekz>
+      <ekz>
+        mi <tld/>os divenprove strato Po&scirc;toficeja
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvara</lok>
+        </fnt>.
+      </ekz>
+     </dif>
+     <trdgrp lng="br">
+       <trd>skriva&ntilde; ar <ind>chomlec'h</ind></trd>,
+       <trd>kas</trd>
+     </trdgrp>
+     <trd lng="en">address <klr tip="ind">(a letter)</klr></trd>
+     <trd lng="id">meng<ind>alamat</ind>i</trd>
+     <trd lng="nl">adresseren</trd>
+     <trd lng="pl">adresowa&cacute;</trd>
+     <trd lng="pt">endere&ccedil;ar</trd>
+     <trd lng="sv">adressera</trd>
+     <trd lng="th">&#xE40;&#xE02;&#xE35;&#xE22;&#xE19;&#xE17;&#xE35;&#xE48;&#xE2D;&#xE22;&#xE39;&#xE48;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x5199;&#x4E0A;&#x59D3;&#x540D;&#x5730;&#x5740; <pr>xi&#x11B;sh&#xE0;ngx&#xEC;ngm&#xED;ngd&#xEC;zh&#x1D0;</pr></trd>,
+    <trd>&#x5BEB;&#x4E0A;&#x59D3;&#x540D;&#x5730;&#x5740; <pr>xi&#x11B;sh&#xE0;ngx&#xEC;ngm&#xED;ngd&#xEC;zh&#x1D0;</pr></trd>,
+    <trd>&#x5199;&#x6709;&#x5730;&#x5740; <pr>xi&#x11B;y&#x1D2;ud&#xEC;zh&#x1D0;</pr></trd>,
+    <trd>&#x5BEB;&#x6709;&#x5730;&#x5740; <pr>xi&#x11B;y&#x1D2;ud&#xEC;zh&#x1D0;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="adres.0i.sendi">
+    <dif>
+      <ref tip="super" cel="send.0i.ion">Sendi</ref> ion al ies <tld/>o:
+      <ekz>
+        mi permesas al mi <tld/>i al vi mian prezaron &gcirc;eneralan kaj samtempe kelkajn
+        specimenojn de la vendobjektoj
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu &scirc;atus kunlabori povas sin <tld/>i al respondeculino 
+        pri tema programo <klr>[&ccirc;e]</klr> <frm>cbaro@yahoo.com</frm>
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2001, &#x2116;3</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+     <trdgrp lng="de">
+       <trd>schicken</trd>,
+       <trd>senden</trd>
+     </trdgrp>
+     <trd lng="en">send <klr tip="ind">(by mail)</klr></trd>
+     <trd lng="es">remitir</trd>
+     <trdgrp lng="id">
+       <trd>meng<ind>alamat</ind>kan</trd>,
+       <trd>[<ind>tuju</ind>] menujukan (surat)</trd>
+     </trdgrp>
+     <trdgrp lng="pt">
+       <trd>remeter</trd>,
+       <trd>enviar</trd>
+     </trdgrp>
+     <trd lng="nl">verzenden</trd>
+     <trd lng="th">&#xE2A;&#xE48;&#xE07;&#xE44;&#xE1B;&#xE15;&#xE32;&#xE21;&#xE17;&#xE35;&#xE48;&#xE2D;&#xE22;&#xE39;&#xE48;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x4F20;&#x771F;&#x53CA;&#x90AE;&#x5BC4;&#x9012;&#x9001; <pr>chu&#xE1;nzh&#x113;nj&#xED;y&#xF3;uj&#xEC;d&#xEC;s&#xF2;ng</pr></trd>,
+    <trd>&#x50B3;&#x771F;&#x53CA;&#x90F5;&#x5BC4;&#x905E;&#x9001; <pr>chu&#xE1;nzh&#x113;nj&#xED;y&#xF3;uj&#xEC;d&#xEC;s&#xF2;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="adres.0i.alparoli">
+    <dif>
+       <ref tip="super" cel="direkt.0i.stiri">Direkti</ref> parolon k.a. al iu:
+       <ekz>
+         <tld/>i al iu sian dankon
+         <fnt><bib>PV</bib></fnt>;
+       </ekz>
+      <ekz>
+        la komandanto <klr>[&#x2026;]</klr> lerte <tld/>is al &ccirc;iu &ccirc;eestanto &gcirc;entilan a&ubreve; spritan
+        vorton
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Deksepa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi estas certa, ke tiun kisadon vi ne <tld/>as al alia viro
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sesa</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="direkt.sin0ial">sin direkti</ref>,
+       <ref cel="turn.0igxi">sin turni</ref>
+    </refgrp>
+     <trdgrp lng="de">
+       <trd>richten <klr>(an)</klr></trd>,
+       <trd>wenden <klr>(an)</klr></trd>
+     </trdgrp>
+     <trd lng="en">address <klr tip="ind">(a person)</klr></trd>
+     <trd lng="he">&lamed;&pe;&nun;&vav;&tav; &alef;&lamed;</trd>
+     <trd lng="nl">zich <ind>richten</ind> tot</trd>
+     <trd lng="pl">adresowa&cacute;</trd>
+     <trd lng="sv">rikta</trd>
+   </snc>
+  <trd lng="be">&c_a;&c_d;&c_r;&c_a;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">adresovat</trd>
+  <trd lng="de">adressieren</trd>
+  <trdgrp lng="fr">
+     <trd>adresser</trd>,
+     <trd>envoyer</trd>,
+     <trd>exp&eacute;dier</trd>,
+     <trd>exprimer</trd>,
+     <trd>poster<klr tip="ind"> (envoyer par la poste)</klr></trd>,
+     <trd>pr&eacute;senter</trd>
+   </trdgrp>
+  <trd lng="he">&lamed;&mem;&ayin;&fnun;</trd>
+  <trd lng="hu">(meg)<ind>c&iacute;mez</ind></trd>
+  <trd lng="it">indirizzare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9001;&#x308B;  <pr>&#x304A;&#x304F;&#x308B;</pr></trd>,
+    <trd>&#x304B;&#x3051;&#x308B;</trd>,
+    <trd>&#x5411;&#x3051;&#x308B;  <pr>&#x3080;&#x3051;&#x308B;</pr></trd>,
+    <trd>&#x3042;&#x3066;&#x540D;&#x3092;&#x66F8;&#x304F;  [<pr>&#x3042;&#x3066;&#x306A;&#x3092;&#x304B;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">adresseren</trd>
+  <trdgrp lng="ru">
+     <trd>&c_a;&c_d;&c_r;&c_je;&c_s;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+     <trd>&c_n;&c_a;&c_p;&c_r;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
+   </trdgrp>
+  <trd lng="sk">adresova&tcaron;</trd>
+  <trd lng="uk">&c_a;&c_d;&c_r;&c_je;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="adres.0anto">
+  <kap><tld/>anto</kap>
+  <snc>
+    <dif>
+      Tiu, kiu <tld/>as:
+      <ekz>
+        letero, sendita per interreto, atingas la <tld/>aton post kelkaj minutoj a&ubreve;
+        horoj, kie ajn lo&gcirc;us <tld/>anto kaj <tld/>ato
+        <fnt>
+          <vrk><url ref="http://www.eventoj.hu/arkivo/eve-156.htm">Eventoj n-ro 156 - 2/septembro 1998</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+     <trd lng="be">&c_a;&c_d;&c_r;&c_a;&c_s;&c_a;&c_n;&c_t;</trd>
+     <trd lng="br">kaser</trd>
+     <trd lng="de">Absender</trd>
+     <trdgrp lng="fr">
+       <trd>exp&eacute;diteur</trd>,
+       <trd>destinateur</trd>
+     </trdgrp>
+     <trd lng="en">sender</trd>
+     <trd lng="es">remitente</trd>
+     <trd lng="he">&mem;&mem;&ayin;&fnun;</trd>
+     <trdgrp lng="hu">
+       <trd>felad&oacute;</trd>,
+       <trd>k&uuml;ld&odblac;</trd>
+     </trdgrp>
+     <trd lng="id">[<ind>kirim</ind>] pengirim</trd>
+     <trd lng="it">mittente</trd>
+     <trd lng="nl">afzender</trd>
+     <trd lng="pl">nadawca</trd>
+     <trdgrp lng="pt">
+       <trd>remetente</trd>,
+       <trd>expedidor</trd>
+     </trdgrp>
+     <trd lng="ro">expeditor</trd>
+     <trdgrp lng="ru">
+       <trd>&c_o;&c_t;&c_p;&c_r;&c_a;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>,
+       <trd>&c_a;&c_d;&c_r;&c_je;&c_s;&c_a;&c_n;&c_t;</trd>
+     </trdgrp>
+     <trd lng="tr">g&ouml;nderen</trd>
+     <trd lng="sk">odosielate&lcaron;</trd>
+     <trd lng="sv">avs&auml;ndare</trd>
+   </snc>
+  <trdgrp lng="cs">
+    <trd>adresant</trd>,
+    <trd>adresuj&iacute;c&iacute;</trd>,
+    <trd>odesilatel</trd>
+  </trdgrp>
+   <trdgrp lng="ja">
+    <trd>&#x767A;&#x4FE1;&#x4EBA;  <pr>&#x306F;&#x3063;&#x3057;&#x3093;&#x306B;&#x3093;</pr></trd>,
+    <trd>&#x5DEE;&#x51FA;&#x4EBA;  <pr>&#x3055;&#x3057;&#x3060;&#x3057;&#x306B;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="th">
+     <trd>&#xE1C;&#xE39;&#xE49;&#xE17;&#xE35;&#xE48;&#xE40;&#xE02;&#xE35;&#xE22;&#xE19;&#xE17;&#xE35;&#xE48;&#xE2D;&#xE22;&#xE39;&#xE48;</trd>,
+     <trd>&#xE1C;&#xE39;&#xE49;&#xE2A;&#xE48;&#xE07;</trd>
+   </trdgrp>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_p;&c_r;&c_a;&c_v;&c_n;&c_i;&c_k;</trd>
+</drv>
+
+<drv mrk="adres.0ato">
+  <kap><ofc>*</ofc><tld/>ato</kap>
+  <snc>
+    <dif>
+      Tiu, kies nomon surhavas letero a&ubreve; paka&jcirc;o:
+      <ekz>
+        meti tuj sub la nomo de la <tld/>ato la straton kaj numeron
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         en korespondado kun personoj nekonataj estas bone &ccirc;iam 
+         peni uzadi nur vortojn el &leftquot;Fundamento&rightquot; &ccirc;ar nur 
+         pri tiaj vortoj ni povas esti certaj, ke nia adresato ilin nepre trovos en sia vortaro
+         <fnt><bib>F</bib>, <lok>anta&ubreve;parolo</lok></fnt>;
+      </ekz>
+      <ekz>
+        la leteroj estas ricevataj &ccirc;e la &Gcirc;eneva Oficejo, de kie ili estas transdonataj
+        al la <tld/>ato, se bezone post traduko
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Tria Parto</lok>
+        </fnt>.
+      </ekz>
+     </dif>
+     <trdgrp lng="be">
+       <trd>&c_a;&c_d;&c_r;&c_a;&c_s;&c_a;&c_t;</trd>,
+       <trd>&c_a;&c_t;&c_r;&c_y;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+     </trdgrp>
+     <trd lng="br">degemerer</trd>
+     <trdgrp lng="de">
+       <trd>Empf&auml;nger</trd>,
+       <trd>Adressat</trd>
+     </trdgrp>
+     <trd lng="en">addressee</trd>
+     <trd lng="es">destinatario</trd>
+     <trd lng="fr">destinataire</trd>
+     <trd lng="he">&nun;&mem;&ayin;&fnun;</trd>
+     <trd lng="hu">c&iacute;mzett</trd>
+     <trd lng="it">destinatario</trd>
+     <trd lng="nl">geadresseerde</trd>
+     <trd lng="pl">adresat</trd>
+     <trd lng="pt">destinat&aacute;rio</trd>
+     <trdgrp lng="ru">
+       <trd>&c_p;&c_o;&c_l;&c_u;&c_ch;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
+       <trd>&c_a;&c_d;&c_r;&c_je;&c_s;&c_a;&c_t;</trd>
+     </trdgrp>
+     <trd lng="sk">adres&aacute;t</trd>
+     <trd lng="sv">adressat</trd>
+   </snc>
+   <rim>
+     La&ubreve; la gramatiko kaj la kutima modelo <em>Petro <tld/>as
+     leteron al Pa&ubreve;lo</em>, la <tld/>ato devus esti la
+     <em>letero</em> (kp <em>letero <tld/>ita al Pa&ubreve;lo</em>). La
+     formo <tld/>ulo estas tute malpreciza, &ccirc;ar logike &gcirc;i
+     egale ta&ubreve;gas indiki la <tld/>anton. Gramatike &gcirc;usta formo
+     estus <em>al<tld/>ato</em>, tamen fakte &gcirc;i ne estas uzata. Tial en
+     tia situacio oni prefere nomu Petron <em>sendanto</em> kaj
+     Pa&ubreve;lon, <em>ricevonto</em>.
+   </rim>
+  <trdgrp lng="ja">
+    <trd>&#x540D;&#x3042;&#x3066;&#x4EBA;  <pr>&#x306A;&#x3042;&#x3066;&#x306B;&#x3093;</pr></trd>,
+    <trd>&#x53D7;&#x53D6;&#x4EBA;  <pr>&#x3046;&#x3051;&#x3068;&#x308A;&#x306B;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prij&iacute;mate&lcaron;</trd>,
+    <trd>pr&iacute;jemca</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>adresovan&yacute;</trd>,
+    <trd>adres&aacute;t</trd>
+  </trdgrp>
+   <trd lng="th">&#xE1C;&#xE39;&#xE49;&#xE23;&#xE31;&#xE1A;</trd>
+  <trd lng="uk">&c_a;&c_d;&c_r;&c_je;&c_s;&c_a;&c_t;</trd>
+</drv>
+
+<drv mrk="adres.0aro">
+   <kap><tld/>aro</kap>
+   <snc>
+     <dif>
+       Kolekto da <tld/>oj en kajero, memorlibro a&ubreve; komputila
+       dosiero:
+      <ekz>
+        la <tld/>aro de &ccirc;iuj grupoj homaranaj
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>El la mondo homarana (hilelista).</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la <tld lit="A"/>aro unuj nomoj kaj <tld/>oj estas skribitaj per ortografio
+        Esperanta kaj aliaj per la diversaj ortografioj naciaj
+        <fnt>
+          <bib>LR</bib>
+          <lok>Dua Parto &ndash; Gramatiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         SAT <klr>[&#x2026;]</klr> eldonas &ccirc;iujare Jarlibron kun 
+         <tld/>aro de la membroj
+         <fnt><bib>Lanti</bib>, <lok>Rutinemo</lok></fnt>;
+      </ekz>
+      <ekz>
+        la <tld lit="A"/>aro de rete atingeblaj esperantistoj kaj E-organizoj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#x2116; 8-9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+     <trd lng="be">&c_a;&c_d;&c_r;&c_a;&c_s;&c_n;&c_y; &c_d;&c_a;&c_v;&c_je;&c_d;&c_n;&c_ib;&c_k;</trd>
+     <trd lng="bg">&c_a;&c_d;&c_r;&c_je;&c_s;&c_n;&c_a; &c_k;&c_n;&c_i;&c_g;&c_a;</trd>
+     <trdgrp lng="br">
+       <trd>karned chomlec'hio&ugrave;</trd>,
+       <trd>roll chomlec'hio&ugrave;</trd>
+     </trdgrp>
+     <trd lng="de">Adressbuch</trd>
+     <trd lng="en">address book</trd>
+     <trd lng="es">directorio</trd>
+     <trd lng="fr">carnet d'adresses</trd>
+     <trd lng="he">&pe;&nun;&qof;&samekh; &kaf;&tav;&vav;&bet;&vav;&tav;</trd>
+     <trdgrp lng="hu">
+       <trd>c&iacute;mjegyz&eacute;k</trd>,
+       <trd>c&iacute;mt&aacute;r</trd>
+     </trdgrp>
+     <trd lng="id"><ind>buku</ind> alamat</trd>
+     <trd lng="it">rubrica<klr> (di indirizzi)</klr></trd>
+     <trdgrp lng="ja">
+       <trd>&#x4F4F;&#x6240;&#x9332; <pr>&#x3058;&#x3085;&#x3046;&#x3057;&#x3087;&#x308D;&#x304F;</pr></trd>,
+       <trd>&#x30A2;&#x30C9;&#x30EC;&#x30B9;&#x5E33; <pr>&#x3042;&#x3069;&#x308C;&#x3059;&#x3061;&#x3087;&#x3046;</pr></trd>
+     </trdgrp>
+     <trdgrp lng="nl">
+       <trd>adresboek</trd>,
+       <trd>adressenbestand</trd>,
+       <trd>adressenlijst</trd>
+     </trdgrp>
+     <trdgrp lng="pl">
+       <trd>ksi&aogonek;&zdot;ka <ind>adresowa</ind></trd>
+     </trdgrp>
+     <trdgrp lng="pt">
+       <trd>livro de endere&ccedil;os</trd>,
+       <trd>diret&oacute;rio</trd>
+     </trdgrp>
+     <trdgrp lng="ru">
+       <trd>&c_a;&c_d;&c_r;&c_je;&c_s;&c_n;&c_a;&c_ja; &c_k;&c_n;&c_i;&c_zh;&c_k;&c_a;</trd>,
+       <trd>&c_a;&c_d;&c_r;&c_je;&c_s;&c_n;&c_y;&c_j; &c_s;&c_p;&c_r;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_i;&c_k;</trd>,
+       <trd>&c_a;&c_d;&c_r;&c_je;&c_s;&c_n;&c_i;&c_k;</trd>
+     </trdgrp>
+     <trd lng="sk">adres&aacute;r</trd>
+     <trd lng="sv">adressbok</trd>
+   </snc>
+  <trd lng="cs">adres&aacute;&rcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>adres&aacute;r, zoznam adries</trd>,
+    <trd>zoznam adries</trd>
+  </trdgrp>
+   <trd lng="th">&#xE2A;&#xE21;&#xE38;&#xE14;&#xE23;&#xE32;&#xE22;&#xE0A;&#xE37;&#xE48;&#xE2D;&#xE17;&#xE35;&#xE48;&#xE2D;&#xE22;&#xE39;&#xE48;</trd>
+</drv>
+
+<drv mrk="adres.ret0o">
+   <kap>ret<tld/>o</kap>
+   <snc mrk="adres.ret0o.KOMP">
+     <uzo tip="fak">KOMP</uzo>
+     <uzo tip="fak">RET</uzo>
+     <dif>
+       Signo&ccirc;eno uzata en komputila reto por indiki komputilon kaj
+       komputadan objekton (ekz-e dosieron per Interreta <tld/>o)
+       a&ubreve; uzanton (per retpo&scirc;ta <tld/>o):
+       <ekz>
+         bonvenaj estos mallongaj salutmesa&gcirc;oj tra mia ret<tld/>o
+         <fnt>
+         <aut>H. Masson</aut>,
+         <vrk>ret-info: infanfestivalo</vrk>,
+         <lok>soc.culture.esperanto, 1998-10-09</lok></fnt>.
+       </ekz>
+      <ekz>
+        vi povas trovi ilin sub la ret<tld/>o <frm>www.monato.be</frm> en la rubriko Konvencioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2009/009793.php">Kompatindaj redaktoroj</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+     </dif>
+     <trdgrp lng="be">
+       <trd>&c_s;&c_je;&c_c;&c_je;&c_v;&c_y; &c_a;&c_d;&c_r;&c_a;&c_s;</trd>,
+       <trd>&c_Ib;&c_n;&c_t;&c_e;&c_r;&c_n;&c_e;&c_t;-&c_a;&c_d;&c_r;&c_a;&c_s;</trd>,
+       <trd>&c_a;&c_d;&c_r;&c_a;&c_s; &c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_a;&c_j; &c_p;&c_o;&c_sh;&c_t;&c_y;</trd>
+     </trdgrp>
+     <trd lng="bg">&c_i;&c_m;&c_je;&c_j;&c_l; &c_a;&c_d;&c_r;&c_je;&c_s;</trd>
+     <trd lng="br">chomlec'h postel</trd>
+     <trdgrp lng="de">
+       <trd>E-Mail-Adresse</trd>,
+       <trd>elektronische Adresse</trd>
+     </trdgrp>
+     <trdgrp lng="en">
+       <trd>email address</trd>
+     </trdgrp>
+     <trd lng="es">direcci&oacute;n de internet</trd>
+     <trd lng="fr">adresse &eacute;lectronique</trd>
+     <trd lng="id"><ind>alamat</ind> surel (e-mail)</trd>
+     <trd lng="he">&kaf;&tav;&vav;&bet;&tav;
+&dalet;&vav;&alef;"&lamed;
+     </trd>
+     <trdgrp lng="hu">
+       <trd>e-mail <ind>c&iacute;m</ind></trd>,
+       <trd>dr&oacute;tpostac&iacute;m</trd>
+     </trdgrp>
+     <trdgrp lng="it">
+       <trd>email<klr> (indirizzo)</klr></trd>,
+       <trd><ind>indirizzo</ind> di posta elettronica</trd>
+     </trdgrp>
+     <trd lng="nl">Internet-adres</trd>
+     <trdgrp lng="pl">
+        <trd>adres elektroniczny</trd>,
+        <trd>adres sieciowy</trd>,
+     </trdgrp>
+     <trd lng="pt">endere&ccedil;o eletr&ocirc;nico</trd>
+     <trdgrp lng="ru">
+       <trd>&c_s;&c_je;&c_t;&c_je;&c_v;&c_o;&c_j; &c_a;&c_d;&c_r;&c_je;&c_s;</trd>,
+       <trd>&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_y;&c_j; &c_a;&c_d;&c_r;&c_je;&c_s;</trd>
+     </trdgrp>
+     <trd lng="sk">internetov&aacute; <ind>adresa</ind></trd>
+     <trd lng="th">&#xE17;&#xE35;&#xE48;&#xE2D;&#xE22;&#xE39;&#xE48;&#xE2D;&#xE35;&#xE40;&#xE21;&#xE25;</trd>
+     <trdgrp lng="zh">
+    <trd>&#x7535;&#x5B50;&#x4FE1;&#x7BB1; <pr>di&#xE0;nz&#x1D0;x&#xEC;nxi&#x101;ng</pr></trd>,
+    <trd>&#x96FB;&#x5B50;&#x4FE1;&#x7BB1; <pr>di&#xE0;nz&#x1D0;x&#xEC;nxi&#x101;ng</pr></trd>,
+    <trd>&#x90AE;&#x7BB1; <pr>y&#xF3;uxi&#x101;ng</pr></trd>,
+    <trd>&#x90F5;&#x7BB1; <pr>y&#xF3;uxi&#x101;ng</pr></trd>,
+    <trd>&#x90AE;&#x4EF6;&#x5730;&#x5740; <pr>y&#xF3;uji&#xE0;nd&#xEC;zh&#x1D0;</pr></trd>,
+    <trd>&#x90F5;&#x4EF6;&#x5730;&#x5740; <pr>y&#xF3;uji&#xE0;nd&#xEC;zh&#x1D0;</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="cs">
+    <trd>adresa elektronick&eacute; po&scaron;ty</trd>,
+    <trd>internetov&aacute; adresa</trd>,
+    <trd>mailov&aacute; adresa</trd>,
+    <trd>s&iacute;&tcaron;ov&aacute; adresa</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30E1;&#x30FC;&#x30EB;&#x30A2;&#x30C9;&#x30EC;&#x30B9;  <pr>&#x3081;&#x30FC;&#x308B;&#x3042;&#x3069;&#x308C;&#x3059;</pr></trd>,
+    <trd>&#x30CD;&#x30C3;&#x30C8;&#x30EF;&#x30FC;&#x30AF;&#x30A2;&#x30C9;&#x30EC;&#x30B9;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>adresa elektronickej po&scaron;ty</trd>,
+    <trd>internetov&aacute; adresa</trd>
+  </trdgrp>
+  <trd lng="uk">&c_je;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_a; &c_a;&c_d;&c_r;&c_je;&c_s;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.67 2023/10/12 16:57:42
+revo: transskribo per <pr>
+
+versio 1.65 2023/07/02 14:30:33
+Vito Redsky: +trd pl kor
+
+versio 1.64 2023/04/18 14:35:18
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.63 2023/03/26 12:43:50
+Paul Peeraerts: monato.net -> &Monato;
+
+versio 1.62 2022/07/09 12:49:08
+Wolfram Diestel: ~anto..ret~o: +ekz-oj
+
+versio 1.61 2022/07/08 20:33:13
+Wolfram Diestel: ~i: +ekz-oj, ref-oj, trd de
+
+versio 1.60 2022/07/08 17:36:49
+Wolfram Diestel: ~o: +ekz-oj, ref-oj
+
+versio 1.56 2021/05/13 07:04:57
+-->
+</vortaro>

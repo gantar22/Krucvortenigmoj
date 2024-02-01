@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: iu.xml,v 1.101 2023/11/19 10:22:14 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>iu</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="iu.0">
+  <kap><ofc>*</ofc><tld/></kap>
+  <snc mrk="iu.0.ulo">
+    <dif>
+      Nedifina pronomo uzata por montri personon:
+      <ekz>
+        <tld/> venis;
+      </ekz><ekz>
+        <tld/> tion diris al mi;
+      </ekz><ekz>
+        mi restigos <tld/>jn el la homoj &ccirc;i tie
+        <fnt><bib>MT</bib>, <lok>&Gen; 33:15</lok></fnt>;
+      </ekz><ekz>
+        tion diris al mi <tld/>, kiu bone tion scias.
+        &#x2010; Tiu <tld/> mensogis<fnt>Z</fnt>;
+      </ekz><ekz>
+        li estas ja pli merita ol <tld/> ajn.
+      </ekz>
+    </dif>
+    <!--ref tip="vid" cel="cxiu">&ccirc;iu Rim</ref-->
+    <!-- ref forigita cxar mi apartigis la koncernan snc [Pokrovskij]-->
+    <ref tip="vid" cel="io.0">io</ref>
+    <trd lng="ca">alg&uacute;</trd>
+    <trd lng="de">jemand</trd>
+    <trd lng="es">alguien</trd>
+    <trdgrp lng="fr">
+      <trd>quelqu'un</trd>
+    </trdgrp>
+    <trd lng="hu">valaki</trd>
+    <trd lng="nl">iemand</trd>
+    <trd lng="oc">qualqu'un</trd>
+    <trd lng="pl">kto&sacute;</trd>
+    <trd lng="pt">algu&eacute;m<klr tip="amb"> (pronome
+indefinido)</klr></trd>
+    <trdgrp lng="ro">
+      <trd>cineva</trd>,
+      <trd>un oarecare</trd>,
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_je;&c_k;&c_t;&c_o;</trd>,
+      <trd>&c_k;&c_t;&c_o;-&c_t;&c_o;</trd>,
+      <trd>&c_k;&c_t;&c_o;-&c_n;&c_i;&c_b;&c_u;&c_d;&c_mol;</trd>,
+      <trd>&c_k;&c_t;&c_o;-&c_l;&c_i;&c_b;&c_o;</trd>
+    </trdgrp>
+    <trd lng="th">&#xE1A;&#xE32;&#xE07;&#xE04;&#xE19;</trd>
+    <trd lng="tok">jan</trd>
+  </snc>
+  <snc mrk="iu.0.elektajxo">
+    <dif>
+      Nedifina pronomo uzata por montri personon a&ubreve; a&jcirc;on,
+      konsideratan individue kaj aparte inter aliaj samspecaj:
+      <ekz>
+        <tld/>j el la libroj estas &scirc;iritaj <fnt><bib>PIV1</bib></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="unu.0.unuj">unu</ref>
+    <rim> &Ccirc;i-okaze <em><tld/></em> similas al nedifina
+    artikolo.</rim>
+    <trd lng="ca">algun</trd>
+    <trdgrp lng="de">
+      <trd>einer</trd>,
+      <trd>eine</trd>,
+      <trd>eines</trd>,
+      <trd>welche</trd>,
+      <trd>irgendwelche</trd>
+    </trdgrp>
+    <trd lng="es">alg&uacute;n</trd>
+    <trdgrp lng="fr">
+      <trd>certains</trd>,
+      <trd>quelques-uns</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>valamelyik <klr tip="amb"> (k&ouml;z&uuml;l&uuml;k)</klr></trd>,
+      <trd>egyik <klr tip="amb"> (k&ouml;z&uuml;l&uuml;k)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>een of andere</trd>,
+      <trd>enkele</trd>,
+      <trd>enkelen</trd>
+    </trdgrp>
+    <trdgrp lng="oc">
+      <trd>qualques unes</trd>,
+      <trd>d'unes</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>jaka&sacute;</trd>,
+      <trd>jaki&sacute;</trd>,
+      <trd>jakie&sacute;</trd>,
+      <trd>kto&sacute;</trd>,
+    </trdgrp>
+    <trd lng="pt">algum<klr tip="amb"> (pronome indefinido)</klr></trd>
+    <trd lng="ro">un anumit</trd>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_je;&c_k;&c_o;&c_t;&c_o;&c_r;&c_y;&c_j;</trd>,
+      <trd>&c_k;&c_a;&c_k;&c_o;&c_j;-&c_t;&c_o;</trd>
+    </trdgrp>
+    <trdgrp lng="th">
+      <trd>&#xE1A;&#xE32;&#xE07;&#xE2D;&#xE22;&#xE48;&#xE32;&#xE07;</trd>,
+      <trd>&#xE1A;&#xE32;&#xE07;&#xE2A;&#xE34;&#xE48;&#xE07;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="iu.0.adj">
+    <dif>
+      Nedifina adjektivo, uzata por montri, ke la persono a&ubreve;
+      objekto estas konsiderata kiel simpla unuo inter aliaj
+      samspecaj:
+      <ekz>
+        <tld/>j homoj havas apartajn kapablojn por la matematiko;
+      </ekz><ekz>
+        mi legis tion en <tld/> libro mia.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="unu.0.artikolo">unu</ref>
+    <rim>
+      <em><tld lit="I"/></em> montras la individuecon de homo a&ubreve;
+      objekto kontraste kun la tuto de samaj aliaj. <em>Ia</em>
+      montras la specialan kvaliton de homo a&ubreve; objekto kontraste kun
+      la malsamaj kvalitoj de la aliaj.
+    </rim>
+    <trd lng="ca">algun</trd>
+    <trdgrp lng="de">
+      <trd>irgendein</trd>,
+      <trd>irgendwelche</trd>
+    </trdgrp>
+    <trd lng="es">alg&uacute;n</trd>
+    <trdgrp lng="fr">
+      <trd>un <ind>certain</ind></trd>,
+      <trd>quelque</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>valamelyik <klr tip="amb"> (egy bizonyos)</klr></trd>,
+      <trd>egy bizoynos</trd>
+    </trdgrp>
+    <trd lng="nl">enkele</trd>
+    <trdgrp lng="oc">
+      <trd>un <ind>certan</ind></trd>,
+      <trd>qualque</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>jaki&sacute;</trd>,
+      <trd>kt&oacute;ry&sacute;</trd>,
+      <trd>niejaki</trd>,
+      <trd>niekt&oacute;ry</trd>,
+    </trdgrp>
+    <trd lng="pt">algum</trd>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_je;&c_k;&c_o;&c_t;&c_o;&c_r;&c_y;&c_j;</trd>,
+      <trd>&c_k;&c_a;&c_k;&c_o;&c_j;-&c_t;&c_o;</trd>
+    </trdgrp>
+    <trd lng="th">&#xE1A;&#xE32;&#xE07;...</trd>
+    <trdgrp lng="zh">
+    <trd>&#x6709;&#x4EBA; <pr>y&#x1D2;ur&#xE9;n</pr></trd>,
+    <trd>&#x54EA; <pr>n&#x1CE;</pr></trd>,
+    <trd>&#x4E0D;&#x77E5;&#x662F;&#x8AB0; <pr>b&#xF9;zh&#x12B;sh&#xEC;sh&#xE9;i</pr></trd>,
+    <trd>&#x968F;&#x4FBF;&#x54EA;&#x4E2A;&#x4EBA; <pr>su&#xED;bi&#xE0;nn&#x1CE;ger&#xE9;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="af">&#x2018;n</trd>
+  <trd lng="am">&#x12A0;&#x1295;&#x12F5;</trd>
+  <trd lng="ar">&a_w;</trd>
+  <trd lng="az">bir</trd>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_j;&c_k;&c_ib;</trd>,
+    <trd>&c_ja;&c_k;&c_ib;&c_s;&c_mol;</trd>,
+    <trd>&c_ja;&c_k;&c_ib;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x98F;&#x995;&#x99F;&#x9BF;</trd>
+  <trd lng="bs">a</trd>
+  <trd lng="co">un</trd>
+  <trdgrp lng="cs">
+    <trd>kdosi</trd>,
+    <trd>kter&yacute;si</trd>,
+    <trd>leckter&yacute;</trd>,
+    <trd>mnoh&yacute;</trd>,
+    <trd>n&ecaron;kdo</trd>,
+    <trd>n&ecaron;kter&yacute;</trd>
+  </trdgrp>
+  <trd lng="cy">mae</trd>
+  <trd lng="da">en</trd>
+  <trd lng="et">lugema</trd>
+  <trd lng="eu">baten</trd>
+  <trd lng="fy">yn</trd>
+  <trd lng="ga">ar</trd>
+  <trd lng="gl">unha</trd>
+  <trd lng="gu">&#xA8F;&#xA95;</trd>
+  <trd lng="ha">wani</trd>
+  <trd lng="hi">&#x90F;&#x915;</trd>
+  <trd lng="hmn">ib</trd>
+  <trd lng="hr">pitaj</trd>
+  <trd lng="ht">yon</trd>
+  <trd lng="hy">&#x567;</trd>
+  <trd lng="ig">ihe</trd>
+  <trd lng="is">sem</trd>
+  <trd lng="ja">&#x306E;</trd>
+  <trd lng="jv">lan</trd>
+  <trd lng="ka">&#x10D8;&#x10D7;&#x10D0;&#x10DB;&#x10D0;&#x10E8;&#x10D4;&#x10D7;</trd>
+  <trd lng="kk">&c_Je;&c_g;&c_je;&c_r;</trd>
+  <trd lng="km">&#x1798;&#x17BD;&#x1799;</trd>
+  <trd lng="kn">&#xC92;&#xC82;&#xCA6;&#xCC1;</trd>
+  <trd lng="ko">&#xC774;</trd>
+  <trd lng="ku">yek</trd>
+  <trd lng="ky">&c_b;&c_i;&c_r;</trd>
+  <trd lng="lo">&#xEC0;&#xE9B;&#xEB1;&#xE99;</trd>
+  <trd lng="lt">gro&zcaron;is</trd>
+  <trd lng="lv">vi&#x146;iem</trd>
+  <trd lng="mg">iray</trd>
+  <trd lng="mi">he</trd>
+  <trd lng="mk">&c_n;&c_a;</trd>
+  <trd lng="ml">&#xD12;&#xD30;&#xD41;</trd>
+  <trd lng="mn">&c_n;&c_mol;</trd>
+  <trd lng="mr">&#x90F;&#x915;</trd>
+  <trd lng="ms">seorang</trd>
+  <trd lng="mt">l</trd>
+  <trd lng="my">&#x1010;&#x1005;&#x103A;&#x1001;&#x102F;</trd>
+  <trd lng="ne">&#x90F;&#x915;</trd>
+  <trd lng="ny">ndi</trd>
+  <trd lng="pa">&#xA07;&#xA71;&#xA15;</trd>
+  <trd lng="ps">&f_y;&a_w;</trd>
+  <trd lng="sd">&a_h;&#x6AA;</trd>
+  <trd lng="si">&#xD9A;</trd>
+  <trd lng="sk">niekto</trd>
+  <trd lng="sm">se</trd>
+  <trd lng="sn">chinhu</trd>
+  <trd lng="so">ah</trd>
+  <trd lng="sq">nj&euml;</trd>
+  <trd lng="st">e</trd>
+  <trd lng="su">hiji</trd>
+  <trd lng="sv">n&aring;gon</trd>
+  <trd lng="ta">&#xB92;&#xBB0;&#xBC1;</trd>
+  <trd lng="te">&#xC12;&#xC15;</trd>
+  <trd lng="tg">&c_ja;&c_k;</trd>
+  
+  <trd lng="tl">isang</trd>
+  <trd lng="tt">&c_a;&c_n;</trd>
+  <trd lng="uk">&c_v;&c_o;&c_n;&c_a;</trd>
+  <trd lng="ur">&a_A;&f_y;&f_k;</trd>
+  <trd lng="uz">e&#x2019;lonni</trd>
+  <trd lng="vi">m&#x1ED9;t</trd>
+  <trd lng="vo">ek</trd>
+  <trd lng="xh">ye</trd>
+  <trd lng="yi">&alef;&#x5B7;&fnun;</trd>
+  <trd lng="yo">ohun</trd>
+</drv>
+
+<drv mrk="iu.kelk0j">
+  <kap>kelk<tld/>j</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="iu.kelk0j.pronomo">
+    <dif>
+      Kelkaj homoj inter aliaj:
+      <ekz>
+        kelk<tld/>j rigardas mirigitaj al la gracia,
+        ankora&ubreve; preska&ubreve; knabineca mastrino, kiu nun
+        staras anta&ubreve; ili
+        <fnt>
+          <aut>J. Linnankoski, trad. V. Set&auml;l&auml;</aut>,
+          <vrk>Batalo pri la Domo Heikkil&auml;</vrk>,
+          <lok>1919</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <trd lng="fr">d'aucuns</trd>
+    <trd lng="pl">kilku</trd>
+    <trd lng="ru">&c_k;&c_o;&c_je;-&c_k;&c_t;&c_o;</trd>
+    <trd lng="zh">&#x6709;&#x7684; <pr>y&#x1D2;ude</pr></trd>
+</snc>
+  <snc mrk="iu.kelk0j.determinilo">
+    <dif>
+      Ia nombro da:
+      <ekz>
+        el kelk<tld/>j fenestroj eli&gcirc;is lumo
+        <fnt><aut>I. Nemere</aut>, <vrk>Sur Kampo Granita</vrk>, 
+        <lok>1983</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pl">jaka&sacute; ilo&sacute;&cacute;</trd>
+    <trd lng="ru">&c_k;&c_o;&c_je;-&c_k;&c_a;&c_k;&c_i;&c_je;</trd>
+  </snc>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_je;&c_j;&c_k;&c_ib;&c_ja;</trd>,
+      <trd>&c_ja;&c_k;&c_ib;&c_ja;&c_s;&c_mol;</trd>,
+      <trd>&c_n;&c_je;&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
+    </trdgrp>
+</drv>
+
+<drv mrk="iu.mult0j">
+  <kap>mult<tld/>j</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="iu.mult0j.pronomo">
+    <dif>
+      Multaj homoj inter aliaj:
+      <ekz>
+        sciante, ke mi skribas por gazeto, mult<tld/>j nomus
+        min <ctl>intelektulo</ctl>
+        <fnt>
+          <aut>E. Lanti</aut>,
+          <vrk><url ref="http://www.satesperanto.org/lanti/v3_16.htm">Intelektulo? &#x2010; Manlaborulo?</url></vrk>.
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_n;&c_o;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="ru">&c_m;&c_n;&c_o;&c_g;&c_i;&c_je;</trd>
+</drv>
+
+
+</art>
+<!--
+$Log$
+versio 1.100 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.99 2021/12/10 17:41:17
+Warut Bunprasert: red th
+
+versio 1.29 2021/05/17 13:59:17
+Dmitri Gabinski: + trd be
+
+Revision 1.27  2017/11/01 19:10:33  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.26  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/10/28 19:10:17  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.23  2013/10/02 08:10:13  revo
+-->
+</vortaro>

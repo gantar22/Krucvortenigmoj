@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ikt.xml,v 1.8 2023/11/19 10:22:12 revo Exp $">
+<kap>
+  <rad>ikt</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="ikt.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="ikt.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Subita <ref tip="dif" cel="kriz.0o.MED">kriza<sncref/></ref>
+      malsani&gcirc;o:
+      <ekz>
+        ni alportis vin al <nom>Richmond</nom> &ccirc;ar vi havas historion
+        de <tld/>oj, humoroj, senkonscii&gcirc;o
+        <fnt>
+          <aut>trad. R. Williams</aut>,
+          <vrk><url ref="http://filmoj.net/la-horoj">
+          La horoj</url></vrk>,
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Woodrow Wilson</nom> <klr>[...]</klr> mortis 67-jara&gcirc;a, je la 3-a de
+        februaro, 1924, en Va&scirc;ingtono pro <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4579">Woodrow
+          Wilson</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="apople.0o">apopleksio</ref>
+    <refgrp tip="vid">
+      <ref cel="atak.0o.ekkapto">atako<sncref/></ref>,
+      <ref cel="infarkt.0o">infarkto</ref>,
+      <ref cel="epilep.0o">epilepsio</ref>,
+      <ref cel="konvul.0o.MED">konvulsio<sncref/></ref>,
+      <ref cel="bat.0o.FIG">bato<sncref/></ref>,
+      <ref cel="akcent.0o">akcento</ref>
+    </refgrp>
+    <trd lng="de">Anfall</trd>
+    <trd lng="fr">ictus</trd>
+    <trd lng="zh">&#x77AC;&#x9593;&#x885D;&#x52D5; <pr>sh&#xF9;nji&#x101;nch&#x14D;ngd&#xF2;ng</pr></trd>
+</snc>
+  <trdgrp lng="cs">
+    <trd>iktus</trd>,
+    <trd>mozkov&aacute; mrtvice</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>iktus</trd>,
+    <trd>mozgov&aacute; m&racute;tvica</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_i;&c_t;&c_m;&c_ib;&c_ch;&c_n;&c_i;&c_j;/&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_n;&c_i;&c_j; &c_n;&c_a;&c_g;&c_o;&c_l;&c_o;&c_s;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_l;&c_a;&c_h;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_t;&c_u;&c_p; &c_h;&c_v;&c_o;&c_r;&c_o;&c_b;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_p;&c_a;&c_d;&c_o;&c_k;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2023/08/02 20:23:52
+Wolfram Diestel: +ref, nom
+
+Revision 1.4  2017/07/07 18:10:21  revo
+Wolfram Diestel: konkretigis dif, ref-oj, +ekz
+
+Revision 1.3  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2013/11/23 11:10:18  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

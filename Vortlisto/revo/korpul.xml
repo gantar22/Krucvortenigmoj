@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: korpul.xml,v 1.20 2023/12/03 09:58:58 revo Exp $">
+<kap>
+  <rad>korpulent</rad>/a <fnt><bib>BdV</bib></fnt>
+</kap>
+<drv mrk="korpul.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="korpul.0a.KOMUNE">
+    <dif>
+      <ref tip="dif" cel="amplek.korp0a.KOMUNE">Korpampleksa</ref>:
+      <ekz>
+        interne <klr>[&#x2026;]</klr> sidis la <tld/>a figuro de virino de matura
+        a&gcirc;o
+          <fnt>
+            <bib>BdV</bib>
+          </fnt>;
+      </ekz>
+      <ekz>
+        sana <tld/>a animo, kun tiom da sapo sur la brilanta viza&gcirc;o
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estis sufi&ccirc;e <tld/>a, portis somerajn vestojn kaj pajlan &ccirc;apelon
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Dekdu per la po&scirc;to</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+       <ref cel="dik.0a">dika</ref>,
+       <ref cel="svelt.mal0a">malsvelta</ref>,
+       <ref cel="plump.0a">plumpa</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+     <trd>&c_m;&c_a;&c_zh;&c_n;&c_y;</trd>,
+     <trd>&c_t;&c_l;&c_u;&c_s;&c_t;&c_y;</trd>,
+     <trd>&c_g;&c_l;&c_a;&c_d;&c_k;&c_ib;</trd>,
+     <trd>&c_p;&c_o;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>korpulentn&iacute;</trd>,
+    <trd>t&ecaron;lnat&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>korpulent</trd>,
+     <trd>beleibt</trd>,
+     <trd>wohlbeleibt</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>corpulent</trd>,
+    <trd>fat</trd>,
+    <trd>fleshy</trd>,
+    <trd>obese</trd>,
+    <trd>stout</trd>
+  </trdgrp>
+  <trd lng="es">corpulento</trd>
+  <trd lng="fr">corpulent</trd>
+  <trdgrp lng="hu">
+     <trd>testes</trd>,
+     <trd>korpulens</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x592A;&#x3063;&#x305F;  <pr>&#x3075;&#x3068;&#x3063;&#x305F;</pr></trd>,
+    <trd>&#x80A5;&#x6E80;&#x4F53;&#x306E;  <pr>&#x3072;&#x307E;&#x3093;&#x305F;&#x3044;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>corpulent</trd>,
+    <trd>zwaarlijvig</trd>
+    <trd>dik</trd>,
+    <trd>gezet</trd>,
+    <trd>vlezig</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>korpulentny</trd>,
+    <trd>brzuchaty</trd>
+    <trd>oty&lstroke;y</trd>,
+    <trd>t&eogonek;gi</trd>,
+    <trd>za&zdot;ywny</trd>
+  </trdgrp>
+  <trd lng="pt">corpulento</trd>
+  <trd lng="ro">corpolent</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_t;&c_u;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>korpulentn&yacute;</trd>,
+    <trd>telnat&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5958; <pr>zhu&#x1CE;ng</pr></trd>,
+    <trd>&#x4FBF;&#x4FBF; <pr>pi&#xE1;npi&#xE1;n</pr></trd>,
+    <trd>&#x80A5;&#x7855; <pr>f&#xE9;ishu&#xF2;</pr></trd>,
+    <trd>&#x80D6; <pr>p&#xE0;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.19 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+Revision 1.16  2018/09/10 22:10:20  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.15  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/08/12 20:10:12  revo
+Jeromo Vasxe: ref dif
+
+Revision 1.12  2009/09/13 16:56:27  revo
+Paul Peeraerts: +nl
+
+Revision 1.11  2006/11/14 17:30:36  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/03/16 18:17:00  revo
+-->
+</vortaro>

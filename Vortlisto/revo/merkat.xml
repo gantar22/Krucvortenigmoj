@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: merkat.xml,v 1.48 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>merkat</rad>/o
+</kap>
+
+<drv mrk="merkat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="merkat.0o.EKON">
+    <tezrad fak="EKON"/>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Stato de a&ccirc;etpovo kaj a&ccirc;etemo pri iu komerca&jcirc;o
+      a&ubreve; borsa valoro:
+      <ekz>
+        la koton<tld/>o;
+      </ekz>
+      <ekz>
+        tiu varo havas vastan <tld/>on;
+      </ekz>
+      <ekz>
+        ser&ccirc;i al si novajn <tld/>ojn;
+      </ekz>
+      <ekz>
+        la &ccirc;ina bilo<tld/>o funkcias kiel barometro de la
+        ekonomio
+        <fnt>
+        <aut>Huang Tingsheng</aut>,
+        <vrk>La &ccirc;ina bilomerkato</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2001a, numero 8a, p. 10a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la multeco de varoj en la <tld/>o pu&scirc;as homojn en materialismon
+        <fnt>
+          <aut>Remigiusz Mielcarek</aut>
+          
+          <vrk><url ref="&Monato;/1994/A940101.php">Enmigrintoj en ora ka&gcirc;o</url></vrk>
+          <bib>Monato</bib>
+          <lok>1994/01, p. 15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kafo &leftquot;solidara&rightquot; <klr>[&#x2026;]</klr> konsistigas malpli ol 1 % de la tuta kafo<tld/>o
+        <fnt>
+          <aut>Gianfranco Cazzaro</aut>
+          <vrk><url ref="&Monato;/1994/A940602.php">Morale a&ccirc;eti, konscie subteni</url></vrk>
+          <bib>Monato</bib>
+          <lok>1994/06, p. 9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la konkurenca forto de Usono en la monda eksporta <tld/>o estis pli granda ol tiu de E&ubreve;ropo
+        <fnt>
+	<aut>Marc Vanden Bempt</aut>
+	<vrk><url ref="&Monato;/2000/006821.php">E&ubreve;ro unujara</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        cigaredojn, kiuj kontrabande trafis la britan nigran <tld/>on, 
+        litovaj krimuloj disvastigas helpe de tie lo&gcirc;antaj samlandanoj
+       <fnt>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        internacia <tld/>sistemo
+        <fnt>
+          <aut>Gianfranco Cazzaro</aut>
+          <vrk><url ref="&Monato;/1994/A940602.php">Morale a&ccirc;eti, konscie subteni</url></vrk>
+          <bib>Monato</bib>
+          <lok>1994/06, p. 9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        financa <tld/>o <klr>(kie oni vendas valutojn)</klr>
+        <fnt>
+	<aut>Marc Vanden Bempt</aut>
+	<vrk><url ref="&Monato;/2000/006821.php">E&ubreve;ro unujara</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        akcia <tld/>o.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="ekonom1.0o.situacio">ekonomio</ref>
+    <rim mrk="merkat.0o.RIM_EVI">
+      <em>Merkato</em> neniam signifas placon a&ubreve; ejon. Kp <ref cel="bazar.0o">bazaro</ref>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_r;&c_y;&c_n;&c_a;&c_k; <klr>(&c_ja;&c_k;
+  &c_e;&c_k;&c_a;&c_n;&c_a;&c_m;&c_ib;&c_ch;&c_n;&c_a;&c_ja;
+  &c_k;&c_a;&c_t;&c_e;&c_g;&c_o;&c_r;&c_y;&c_ja;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>odbyti&scaron;t&ecaron;</trd>,
+    <trd>trh</trd>
+  </trdgrp>
+  <trd lng="de">Markt</trd>
+  <trd lng="en">market</trd>
+  <trd lng="es">mercado</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;bouch&eacute; commercial</trd>,
+    <trd>march&eacute;</trd>
+  </trdgrp>
+  <trd lng="hu">piac</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E02;&#x5834;  <pr>&#x3057;&#x3058;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x8CA9;&#x8DEF;  <pr>&#x306F;&#x3093;&#x308D;</pr></trd>,
+    <trd>&#x53D6;&#x5F15;  <pr>&#x3068;&#x308A;&#x3072;&#x304D;</pr></trd>,
+    <trd>&#x58F2;&#x8CB7;  <pr>&#x3070;&#x3044;&#x304B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>markt<klr tip="ind"> (afzetgebied)</klr></trd>,
+    <trd>afzetgebied</trd>
+  </trdgrp>
+  <trd lng="pl">rynek <klr>(ekonom.)</klr></trd>
+  <trd lng="pt">mercado <klr>(econ.)</klr></trd>
+  <trd lng="ru">&c_r;&c_y;&c_n;&c_o;&c_k;
+  <klr>(&c_e;&c_k;&c_o;&c_n;&c_o;&c_m;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je;
+  &c_p;&c_o;&c_n;&c_ja;&c_t;&c_i;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>odbyti&scaron;te</trd>,
+    <trd>trh</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_i;&#x43D;&#x43E;&#x43A; (&c_z;&c_b;&c_u;&c_t;&c_u;)</trd>,
+    <trd>&#x43F;&#x43E;&#x43F;&c_i;&c_t; &c_t;&c_a; &#x43F;&c_r;&#x43E;&#x43F;&#x43E;&c_z;&c_i;&c_c;&c_ib;&#x44F; &#x43D;&c_a;
+    &c_t;&#x43E;&c_v;&c_a;&c_r;&c_i;</trd>,
+    <trd>&c_t;&#x43E;&c_r;&c_g;&#x43E;&c_v;&c_ib; &c_u;&c_g;&#x43E;&c_d;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="merkat.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="merkat.0isto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Esploristo de <tld/>oj helpanta difini produktojn ta&ubreve;gajn
+      por a&ccirc;etantoj:
+      <ekz>
+        duono de la laboro estas helpado por reklamistoj kaj <tld/>istoj
+        <fnt>
+          <aut>Kronostar</aut>,
+          <vrk><url ref="http://www.eklaboru.com/posteno_priskribo.php?id=17">
+          Asistanto por &gcirc;enerala direktoro</url></vrk>,
+          <lok>Eklaboru!, 2006-11-17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        gren<tld/>isto lastan jaron asertis ke Francio facile povas 
+        produkti grenojn por nutri dekoble sian propran lo&gcirc;antaron
+        <fnt>
+	<aut>Guido van Damme</aut>
+	<vrk><url ref="&Monato;/2001/007272.php">Reen al la edena paradizo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/02, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        liber<tld/>istoj
+        <fnt>
+	<aut>Donald Rogers</aut>
+	<vrk><url ref="&Monato;/2000/006819.php">Laborema koalicio</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 11</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_r;&c_k;&c_je;&c_t;&c_o;&c_l;&c_ja;&c_g;</trd>,
+    <trd>&c_d;&c_a;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_ch;&c_y;&c_k; &c_r;&c_y;&c_n;&c_k;&c_u;</trd>
+  </trdgrp>
+  <trd lng="de">Marktforscher</trd>
+  <trd lng="en">market researcher</trd>
+  <trd lng="es">analista de mercado</trd>
+  <trdgrp lng="fr">
+    <trd>marketiste</trd>,
+    <trd>mercatiste</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30DE;&#x30FC;&#x30B1;&#x30C6;&#x30A3;&#x30F3;&#x30B0;&#x5C02;&#x9580;&#x5BB6;  <pr>&#x30DE;&#x30FC;&#x30B1;&#x30C6;&#x30A3;&#x30F3;&#x30B0;&#x305B;&#x3093;&#x3082;&#x3093;&#x304B;</pr></trd>,
+    <trd>&#x5E02;&#x5834;&#x5C02;&#x9580;&#x5BB6;  <pr>&#x3044;&#x3061;&#x3070;&#x305B;&#x3093;&#x3082;&#x3093;&#x304B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="merkat.en0igi">
+  <kap>en<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="merkat.en0igi.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="dif" cel="merkat.sur0igi">Sur<tld/>igi</ref>:
+      <ekz>
+        malgranda firmao <klr>[&#x2026;]</klr> provis en<tld/>igi kurson sur kompakta disko pri aviada
+        lingvo
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007159.php">Flugilhavaj vortoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 22</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        malperfekta&jcirc;oj ekzistas nur en la en<tld/>igo
+        <fnt>
+        <aut>Evgeni Georgiev</aut>,
+        <vrk>A&ubreve;strio: lando de ekologia kultivado</vrk>,
+        <bib>Monato</bib>,
+        <lok>1997/09, p. 19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol; &c_n;&c_a; <ind>&c_r;&c_y;&c_n;&c_a;&c_k;</ind></trd>,
+    <trd>&c_v;&c_y;&c_v;&c_je;&c_s;&c_mol;&c_c;&c_ib; &c_n;&c_a; <ind>&c_r;&c_y;&c_n;&c_a;&c_k;</ind></trd>
+  </trdgrp>
+  <trd lng="de">in den <ind>Markt bringen</ind></trd>
+  <trd lng="en">to bring to market</trd>
+  <trd lng="es">comercializar</trd>
+  <trdgrp lng="fr">
+    <trd>commercialiser</trd>,
+    <trd>lancer<klr> (un produit)</klr></trd>,
+    <trd>mettre sur le <ind>march&eacute;</ind></trd>
+  </trdgrp>
+   <trdgrp lng="nl">
+    <trd>commercialiseren</trd>,
+    <trd>op de <ind>markt</ind> brengen</trd>
+  </trdgrp>
+  <trd lng="pl">wprowadza&cacute; na <ind>rynek</ind></trd>
+  <trd lng="ru">&c_v;&c_y;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;
+  &c_n;&c_a; &c_r;&c_y;&c_n;&c_o;&c_k;</trd>
+</drv>
+
+<drv mrk="merkat.sur0igi">
+  <kap>sur<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="merkat.sur0igi.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Ekvendi novan produkton, aran&gcirc;ante &gcirc;ian prireklamadon,
+      liveradon,
+      uzhelpon:
+      <ekz>
+        eta kompanio, kiu sur<tld/>igis komputilan programon, kiu tuj
+        tutmonde furoras, i&gcirc;as ege valora
+        <fnt>
+        <aut>R. Rotsaert</aut>,
+        <vrk>Piramidaj investoj...</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 1997a, numero 7a, p. 24a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        komputila tradukprogramo Atlas, sur<tld/>igita en 1984
+        <fnt>
+       <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2000/006881.php">Universala Retlingvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/04, p. 26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni senprokraste sendis skipojn da laboristoj por ekspluati la okron, kiu rapide estis
+        sur<tld/>igita
+        <fnt><aut>Robert Roze</aut>,
+        <vrk><url ref="&Monato;/2000/006945.php">Flagrantaj koloroj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/06, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam la persona komputilo estis disvolvita kaj sur<tld/>igita en Usono,
+        &gcirc;i estis planita kaj programita por anglalingvanoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2005/008705.php">Plurlingva tekstoprilaborado</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="merkat.en0igi">en<tld/>igi</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="lancx.0i.sociajxon">lan&ccirc;i</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol; &c_n;&c_a; <ind>&c_r;&c_y;&c_n;&c_a;&c_k;</ind></trd>,
+    <trd>&c_v;&c_y;&c_v;&c_je;&c_s;&c_mol;&c_c;&c_ib; &c_n;&c_a; <ind>&c_r;&c_y;&c_n;&c_a;&c_k;</ind></trd>
+  </trdgrp>
+  <trd lng="cs">uv&eacute;st na trh</trd>
+  <trd lng="de">auf den <ind>Markt bringen</ind></trd>
+  <trd lng="en">to bring to market</trd>
+  <trd lng="es">comercializar</trd>
+  <trdgrp lng="fr">
+    <trd>commercialiser</trd>,
+    <trd>lancer<klr> (un produit)</klr></trd>,
+    <trd>mettre sur le <ind>march&eacute;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E02;&#x5834;&#x306B;&#x51FA;&#x3059;  <pr>&#x3044;&#x3061;&#x3070;&#x306B;&#x3060;&#x3059;</pr></trd>,
+    <trd>&#x58F2;&#x308A;&#x51FA;&#x3059;  <pr>&#x3046;&#x308A;&#x3060;&#x3059;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>commercialiseren</trd>,
+    <trd>op de <ind>markt</ind> brengen</trd>
+  </trdgrp>
+  <trd lng="pl">wprowadza&cacute; na <ind>rynek</ind></trd>
+  <trd lng="ru">&c_v;&c_y;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;
+  &c_n;&c_a; &c_r;&c_y;&c_n;&c_o;&c_k;</trd>
+  <trd lng="sk">uvies&tcaron; na trh</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_s;&c_t;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i; &#x43D;&c_a; &c_r;&c_i;&#x43D;&#x43E;&#x43A;</trd>
+</drv>
+
+<drv mrk="merkat.labor0o">
+  <kap>labor<tld/>o</kap>
+  <snc mrk="merkat.labor0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Momenta kaj loka stato de dungemo, senlaboreco, salajroj:
+      <ekz>
+        elastaj labortempoj kreis en la lastaj dek jaroj pli flekseblan
+        labor<tld/>on
+        <fnt>
+        <aut>E. Georgiev</aut>,
+        <vrk>Pli maljunaj, pli sa&gcirc;aj...</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 1999a, numero 3a, p. 18a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        homoj, kiuj apartenas al komunumoj aliaj ol la tradiciaj kristanaj eklezioj,
+        ofte spertas ekskludojn kaj rifuzojn en la labor<tld/>o, eduko kaj aliaj vivokampoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Istvan Ertl</aut>
+          <vrk><url ref="&Monato;/2003/008103.html">Dio en la konstitucio, diablo en la
+          detaloj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ceteraj EU-&scirc;tatoj, &scirc;ajne, intencas plu rifuzi al &leftquot;nov-landaj&#x201D; 
+        laborprenantoj liberan aliron al ilia labor<tld/>o, kvankam &ccirc;i tiuj homoj devus &gcirc;ui samajn
+        rajtojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Istv&aacute;n Ertl</aut>
+          <vrk><url ref="&Monato;/2003/008140.html">Pri orienti&gcirc;o kaj
+          okcidenti&gcirc;o</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_y;&c_n;&c_a;&c_k; &c_p;&c_r;&c_a;&c_c;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>pracovn&iacute; trh</trd>,
+    <trd>trh pr&aacute;ce</trd>
+  </trdgrp>
+  <trd lng="de">Arbeitsmarkt</trd>
+  <trd lng="en">labor market</trd>
+  <trd lng="es"><ind>mercado</ind> de trabajo</trd>
+  <trdgrp lng="fr">
+    <trd>march&eacute; du travail</trd>
+  </trdgrp>
+  <trd lng="ja">&#x52B4;&#x50CD;&#x5E02;&#x5834;  <pr>&#x308D;&#x3046;&#x3069;&#x3046;&#x3057;&#x3058;&#x3087;&#x3046;</pr></trd>
+  <trd lng="nl">arbeidsmarkt</trd>
+  <trd lng="pl">rynek pracy</trd>
+  <trd lng="ru">&c_r;&c_y;&c_n;&c_o;&c_k;
+  &c_t;&c_r;&c_u;&c_d;&c_a;</trd>
+  <trd lng="sk">trh pr&aacute;ce</trd>
+  <trd lng="uk">&c_r;&c_i;&#x43D;&#x43E;&#x43A; &#x43F;&c_r;&c_a;&c_c;&c_ib;</trd>
+</drv>
+
+<drv mrk="merkat.nigra0o">
+  <kap>nigra <tld/>o</kap>
+  <snc mrk="merkat.nigra0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Kontra&ubreve;le&gcirc;a <tld/>o sen pago de vendimposto:
+      <ekz>
+        ekzistas la mondo de la rapida mono, drogo-vendado, nigra
+        <tld/>o
+        <fnt>
+        <aut>J. Schram</aut>,
+        <vrk>Re: Mortpuno</vrk>,
+        <lok>soc.culture.esperanto, 1998-04-20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro la nigra <tld/>o de cigaredoj la brita bu&gcirc;eto &ccirc;iujare perdas &ccirc;irka&ubreve; 2,5 miliardojn da
+        pundoj
+       <fnt>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvankam bankoj limigas la kvanton de devizoj kunporteblaj, 
+        komercistoj trovas solvon kaj &scirc;an&gcirc;as valutojn &ccirc;e la nigra <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Henriel Fidilalao</aut>
+          <vrk><url ref="&Monato;/2012/010829.php">&Ccirc;ine, &ccirc;u ne?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ch;&c_o;&c_r;&c_n;&c_y; <ind>&c_r;&c_y;&c_n;&c_a;&c_k;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>pokoutn&iacute; trh</trd>,
+    <trd>&ccaron;ern&yacute; trh</trd>
+  </trdgrp>
+  <trd lng="de">Schwarzmarkt</trd>
+  <trd lng="en">black market</trd>
+  <trd lng="es">mercado negro</trd>
+  <trd lng="fr">march&eacute; noir</trd>
+  <trdgrp lng="ja">
+    <trd>&#x95C7;&#x53D6;&#x5F15;  <pr>&#x3084;&#x307F;&#x3068;&#x308A;&#x3072;&#x304D;</pr></trd>,
+    <trd>&#x30D6;&#x30E9;&#x30C3;&#x30AF;&#x30DE;&#x30FC;&#x30B1;&#x30C3;&#x30C8;</trd>
+  </trdgrp>
+  <trd lng="nl">zwarte <ind>markt</ind></trd>
+  <trd lng="pl">czarny <ind>rynek</ind></trd>
+  <trd lng="sk">&ccaron;ierny trh</trd>
+  <trd lng="uk">&c_ch;&#x43E;&c_r;&#x43D;&c_i;&c_j; &c_r;&c_i;&#x43D;&#x43E;&#x43A;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.48 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.46 2023/04/30 18:29:27
+Paul Peeraerts: Steloj -> monato
+
+versio 1.45 2023/04/27 10:31:13
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.44 2023/04/25 12:45:52
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.43 2023/04/24 06:32:46
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.42 2023/04/24 05:28:13
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.41 2023/04/23 16:33:08
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.40 2023/04/13 12:48:44
+-->
+</vortaro>

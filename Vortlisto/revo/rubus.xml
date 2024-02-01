@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rubus.xml,v 1.32 2023/10/03 10:29:28 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>rubus</rad>/o
+</kap>
+<drv mrk="rubus.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc mrk="rubus.0o.genro">
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="rozac.0oj">rozacoj</ref>
+      (<trd lng="la">Rubus</trd>), dorna arbedo kun ru&gcirc;aj a&ubreve;
+      nigraj, dol&ccirc;aj, man&gcirc;eblaj plurfruktoj.
+      Unu &gcirc;ia specio estas la
+      <ref tip="sub" cel="framb.0ujo">frambujo</ref>.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_a;&c_l;&c_ib;&c_n;&c_a; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>,
+      <trd>&c_a;&c_zh;&c_y;&c_n;&c_a; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>,
+      <trd>&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_n;&c_k;&c_a; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+    </trdgrp>
+    <trd lng="fr">ronce</trd>
+    <trdgrp lng="hu">
+      <trd>szeder</trd>,
+      <trd>m&aacute;lna</trd>
+    </trdgrp>
+    <trd lng="nl">braam<klr tip="ind"> (vruchten)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>je&zdot;yna</trd>,
+      <trd>o&zdot;yna</trd>,
+      <trd>ostr&eogonek;&zdot;yna</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>silva</trd>,
+      <trd>sar&ccedil;a</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_u;&c_b;&c_u;&c_s;
+       <klr tip="amb">(&c_r;&c_o;&c_d; &c_r;&c_o;&c_z;&c_o;&c_c;&c_v;&c_je;&c_t;&c_n;&c_y;&c_h; &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_j;)</klr></trd>
+  </snc>
+  <snc mrk="rubus.0o.specio">
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" lst="voko:botanikaj_specioj">Specio</ref> de <ref
+      tip="malprt" cel="rubus.0o.genro"><tld/>o
+      <sncref ref="rubus.0o.genro"/></ref>
+      (<trd lng="la">Rubus fruticosus</trd> = arbusta rubuso), kun nigra
+      plurfrukto:
+      <ekz>
+        tio estas tre respektinda alta saliko, sed tuberplena kaj maljuna, en la mezo &gcirc;i
+        estas disfendita, kaj el la kava&jcirc;o elkreskas herbo kaj <tld/>o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Poligono</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        florantaj konvolvuloj kaj trunketa&jcirc;oj de <tld/>o, en formo de longaj girlandoj
+        pendis inter la arboj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sonorilo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la abeloj zumadis &ccirc;irka&ubreve; la antikva ju&gcirc;loko, la volvotrunkoj de <tld/>o volvi&gcirc;is
+        super la oferaltaro, kiu, lavita de la pluvo, brilis en la lumo de la suno
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj longaj bran&ccirc;oj etendis sin super la malnovaj &scirc;tonoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sambuka virineto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>arbeto
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="../bld/rubus.jpg">
+      floroj kaj folioj de nigra <tld/>o
+    </bld>
+    <trd lng="be">&c_a;&c_zh;&c_y;&c_n;&c_a;</trd>
+    <trd lng="bg">&c_k;&c_malmol;&c_p;&c_i;&c_n;&c_a;</trd>
+    <trd lng="de">Brombeerstrauch</trd>
+    <trdgrp lng="fr">
+      <trd>ronce commune</trd>,
+      <trd>m&ucirc;rier sauvage</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>vadszeder</trd>,
+      <trd>f&ouml;ldi <ind>szeder</ind></trd>,
+      <trd>fekete <ind>szeder</ind></trd>
+    </trdgrp>
+    <trd lng="nl">braambes</trd>
+    <trd lng="pl">je&zdot;yna krzewiasta</trd>
+    <trd lng="ru">&c_je;&c_zh;&c_je;&c_v;&c_i;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="rubus.0o.bero">
+    <dif>
+      <ref tip="dif" cel="rubus.0bero"><tld lit="R"/>bero</ref>:
+      <ekz>
+        mi plantis <tld/>ujon kaj mi atendas nun: &ccirc;u iam mi man&gcirc;os <tld/>ojn de sur mia
+        planto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sigmond J.</aut>
+          <vrk><url ref="&Monato;/2007/008896.php">Sep citronsemoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Nina</nom> invitis la knabon sidi&gcirc;i, kaj &scirc;i alportis el la domo sukon el <tld/>oj,
+        pomojn kaj kekson
+        <fnt>
+          <bib>Monato</bib>
+          <aut>J. Modest</aut>
+          <vrk><url ref="&Monato;/2008/009347.php">Nina kaj la knabo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni &ccirc;iam trovis kaj man&gcirc;is <tld/>ojn kaj arbarajn fragojn, ege bongustajn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>J. Sigmond</aut>
+          <vrk><url ref="&Monato;/2009/009693.php">La mistera nokto</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+        <trdgrp lng="be">
+      <trd>&c_m;&c_a;&c_l;&c_ib;&c_n;&c_a; <klr>(&c_ja;&c_g;&c_a;&c_d;&c_a;)</klr></trd>,
+      <trd>&c_a;&c_zh;&c_y;&c_n;&c_a; <klr>(&c_ja;&c_g;&c_a;&c_d;&c_a;)</klr></trd>,
+      <trd>&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_n;&c_k;&c_a; <klr>(&c_ja;&c_g;&c_a;&c_d;&c_a;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">ostru&zcaron;n&iacute;k ostru&zcaron;inat&yacute;</trd>
+  <trdgrp lng="en">
+    <trd>blackberry</trd>,
+    <trd>bramble</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30AD;&#x30A4;&#x30C1;&#x30B4;</trd>,
+    <trd>&#x30D6;&#x30E9;&#x30C3;&#x30AF;&#x30D9;&#x30EA;&#x30FC;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ostru&zcaron;ina <klr>(ker)</klr></trd>,
+    <trd>&ccaron;ernica</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43E;&c_zh;&c_i;&#x43D;&c_a; (&#x43A;&c_u;&c_shch;)</trd>
+</drv>
+
+<drv mrk="rubus.0ujo">
+  <kap>
+    <tld/>ujo
+  </kap>
+  <snc mrk="rubus.0ujo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="dif" cel="rubus.0o.specio"><tld lit="R"/>o<sncref/></ref>:
+      <ekz>
+        el dornarbetoj oni ne kolektas figojn, nek el <tld/>ujo oni rikoltas vinberojn
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Luk; 6:44</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_a;&c_l;&c_ib;&c_n;&c_a; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>,
+      <trd>&c_a;&c_zh;&c_y;&c_n;&c_a; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>,
+      <trd>&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_n;&c_k;&c_a; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>je&zdot;yna</trd>,
+      <trd>ciernisty krzak</trd>
+    </trdgrp>
+</drv>
+
+<drv mrk="rubus.marcxa_0o">
+  <kap>
+    mar&ccirc;a <tld/>o
+  </kap>
+  <snc mrk="rubus.marcxa_0o.BOT">
+    <dif>
+      <ref tip="dif" cel="hxamemor.0o">&Hcirc;amemoro</ref>:
+      <ekz>
+        mar&ccirc;a <tld/>o <klr>[&#8230;]</klr> estas en la nordaj landoj inter la plej aprezataj
+        sova&gcirc;aj beroj
+        <fnt>
+          <aut>-</aut>
+          <vrk><url
+          ref="https://nordanaturo.wordpress.com/2010/06/19/planto-de-la-semajno-25-rubuso-marca/">Planto
+          de la semajno 25: rubuso mar&ccirc;a</url></vrk>
+          <lok>Norda naturo, 2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_r;&c_o;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="pl">je&zdot;yna bagienna</trd>
+</drv>
+
+<drv mrk="rubus.0bero">
+  <kap><tld/>bero</kap>
+  <snc mrk="rubus.0bero.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      La man&gcirc;ebla <ref tip="super" cel="frukt.0o.BOT">frukto</ref> de rubuso.
+    </dif>
+  </snc>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_a;&c_l;&c_ib;&c_n;&c_a; <klr>(&c_ja;&c_g;&c_a;&c_d;&c_a;)</klr></trd>,
+      <trd>&c_a;&c_zh;&c_y;&c_n;&c_a; <klr>(&c_ja;&c_g;&c_a;&c_d;&c_a;)</klr></trd>,
+      <trd>&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_n;&c_k;&c_a; <klr>(&c_ja;&c_g;&c_a;&c_d;&c_a;)</klr></trd>
+    </trdgrp>
+  <trd lng="cs">ostru&zcaron;ina <klr>(plod)</klr></trd>
+  <trd lng="de">Brombeere</trd>
+  <trd lng="fr">m&ucirc;re sauvage</trd>
+  <trd lng="ja">&#x30AD;&#x30A4;&#x30C1;&#x30B4;</trd>
+  <trd lng="pl">je&zdot;yna popielica</trd>
+  <trdgrp lng="sk">
+    <trd>ostru&zcaron;ina</trd>,
+    <trd>&ccaron;ernica</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43E;&c_zh;&c_i;&#x43D;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.32 2023/10/03 10:29:28
+Dmitri Gabinski: + trd be
+
+versio 1.30 2023/07/05 18:35:57
+Vito Redsky: +trd pl
+
+versio 1.28 2022/01/20 07:27:52
+Dmitri Gabinski: + trd be
+
+versio 1.27 2021/04/22 21:52:49
+Jeromo Vasxe: + marcxa ~o
+
+Revision 1.25  2018/12/31 19:10:15  revo
+Wolfram Diestel: +ekz-oj, +snc frukto, +~ujo
+
+Revision 1.24  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/12/23 21:10:09  revo
+-->
+</vortaro>

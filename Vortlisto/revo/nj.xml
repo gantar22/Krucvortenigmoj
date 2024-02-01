@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: nj.xml,v 1.28 2023/10/20 05:22:00 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  -<rad>nj</rad>/
+</kap>
+
+<subart>
+<drv mrk="nj.0">
+  <kap>-<tld/></kap>
+  <snc>
+    <dif>
+      Sufikso karesa almetata post la unua a&ubreve; unuaj silaboj
+      de ina nomo a&ubreve; alia vorto indikanta inon:
+      <ekz>
+        Klaron kaj Sofion iliaj gepatroj nomas <klr>...</klr> Kla<tld/>o
+        kaj So<tld/>o (a&ubreve; Sofi<tld/>o)
+        <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>;
+      </ekz>
+      <ekz>
+        kuzino! Kuzineto! Kuzi<tld/>o
+        <fnt><bib>Marta</bib></fnt>!
+      </ekz>
+      <ekz>
+        Alice, permesu, ke mi nomu vin Ali<tld/>o
+        <fnt><bib>Metrop</bib></fnt>!
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="in.0">in</ref>,
+      <ref cel="cxj.0">&ccirc;j</ref>,
+      <ref cel="et._0.sufikso">et</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de"><klr>-</klr>i</trd>
+  <trd lng="en">diminutive feminine suffix of endearment (-y angle estas
+  amba&ubreve;seksa)</trd>
+  <trd lng="fr">-ette<klr tip="ind"> (diminutif
+  f&eacute;minin)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>-<ind>ka</ind></trd>,
+    <trd>-<ind>ke</ind></trd>,
+    <trd>-<ind>i</ind></trd>
+  </trdgrp>
+  <trd lng="pl">przyrostek zdrobnienia rzeczownik&oacute;w rodzaju &zdot;e&nacute;skiego</trd>
+  <trd lng="ro">sufix diminutiv feminin</trd>
+  <trdgrp lng="ru">
+    <trd>-<ind>&c_k;&c_a;</ind><klr tip="ind"> (&c_l;&c_a;&c_s;&c_k;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_s;&c_u;&c_f;&c_f;&c_i;&c_k;&c_s;
+    &c_zh;&c_je;&c_n;&c_s;&c_k;&c_o;&c_g;&c_o; &c_r;&c_o;&c_d;&c_a;)</klr></trd>,
+    <trd>-<ind>&c_ch;&c_k;&c_a;</ind><klr tip="ind"> (&c_l;&c_a;&c_s;&c_k;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_s;&c_u;&c_f;&c_f;&c_i;&c_k;&c_s;
+    &c_zh;&c_je;&c_n;&c_s;&c_k;&c_o;&c_g;&c_o; &c_r;&c_o;&c_d;&c_a;)</klr></trd>,
+    <trd>-<ind>&c_n;&c_mol;&c_k;&c_a;</ind><klr tip="amb"> (&c_l;&c_a;&c_s;&c_k;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_s;&c_u;&c_f;&c_f;&c_i;&c_k;&c_s;
+    &c_zh;&c_je;&c_n;&c_s;&c_k;&c_o;&c_g;&c_o; &c_r;&c_o;&c_d;&c_a;)</klr></trd>
+  </trdgrp>
+</drv>
+</subart>
+
+<subart>
+<dif>
+Samsignifa memstara vortero.
+</dif>
+<drv mrk="nj.avi0o">
+  <kap>avi<tld/>o</kap>
+  <snc mrk="nj.avi0o.FAM">
+    <dif>
+      Karesvorto por <ref tip="sin" cel="av.0ino">avino</ref>:
+      <ekz>
+        Panjo! Pa&ccirc;jo! Avi<tld/>o! Ne ju&gcirc;u min severe
+        <fnt><bib>Jamburg</bib>, <lok>&ccirc;apitro 15a, p. 91a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_b;&c_u;&c_l;&c_ja;</trd>,
+    <trd>&c_b;&c_a;&c_b;&c_u;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_b;&c_a;&c_b;&c_ch;&c_je;</trd>
+  <trd lng="cs">babi&ccaron;ka</trd>
+  <trdgrp lng="de">
+    <trd>Omi</trd>
+  </trdgrp>
+  <trd lng="en">granny</trd>
+  <trdgrp lng="fr">
+    <trd>mamie</trd>,
+    <trd>m&eacute;m&eacute;</trd>
+  </trdgrp>
+  <trd lng="nl">oma</trd>
+  <trdgrp lng="pl">
+    <trd>babcia</trd>,
+    <trd>babunia</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>bunic&abreve;</trd>,
+    <trd>mamaie</trd>
+  </trdgrp>
+  <trd lng="sk">babi&ccaron;ka</trd>
+</drv>
+
+<drv mrk="nj.o0o">
+  <kap>o<tld/>o</kap>
+  <snc mrk="nj.o0o.FAM">
+    <dif>
+      Karesvorto por <ref tip="sin" cel="onkl.0ino">onklino</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_c;&c_jo;&c_t;&c_u;&c_h;&c_n;&c_a;</trd>
+  <trd lng="cs">teti&ccaron;ka</trd>
+  <trdgrp lng="fr">
+    <trd>tata<klr> (tante)</klr></trd>,
+    <trd>tatie<klr> (tante)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x304A;&#x3070;&#x3061;&#x3083;&#x3093;</trd>
+  <trdgrp lng="pl">
+    <trd>ciocia</trd>,
+    <trd>cioteczka</trd>,
+    <trd>ciotunia</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>m&abreve;tu&#x219;&abreve;</trd>,
+    <trd>tanti</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_jo;&c_t;&c_u;&c_sh;&c_k;&c_a;</trd>,
+    <trd>&c_t;&c_jo;&c_t;&c_je;&c_n;&c_mol;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">tetu&scaron;ka</trd>
+  <trd lng="uk">&c_t;&c_ib;&c_t;&#x43E;&#x43D;&#x44C;&#x43A;&c_a;</trd>
+</drv>
+
+<drv mrk="nj.pa0o">
+  <kap>pa<tld/>o</kap>
+  <snc mrk="nj.pa0o.FAM">
+    <dif>
+      Karesvorto por <ref tip="sin" cel="patr.0ino.GEN">patrino</ref>:
+      <ekz>
+        pa<tld/>o! &#x2010; &scirc;i diris, &ccirc;irka&ubreve;prenante la
+        kolon de la patrino
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_m;&c_u;&c_s;&c_ja;</trd>,
+    <trd>&c_m;&c_a;&c_m;&c_u;&c_l;&c_ja;</trd>,
+    <trd>&c_m;&c_a;&c_t;&c_u;&c_l;&c_je;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_a;&t_tsheg;&t_ma;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>maminka</trd>,
+    <trd>mati&ccaron;ka</trd>
+  </trdgrp>
+  <trd lng="en">mommy</trd>
+  <trd lng="fr">maman</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DE;&#x30DE;  <pr>&#x307E;&#x307E;</pr></trd>,
+    <trd>&#x304B;&#x3042;&#x3061;&#x3083;&#x3093;</trd>
+  </trdgrp>
+  <trd lng="nl">mama</trd>
+  <trdgrp lng="pl">
+    <trd>mama</trd>,
+    <trd>mamusia</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>mam&abreve;</trd>,
+    <trd>m&abreve;mic&abreve;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_a;&c_m;&c_a;</trd>,
+    <trd>&c_m;&c_a;&c_m;&c_o;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_m;&c_a;&c_m;&c_je;&c_n;&c_mol;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">mami&ccaron;ka</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_a;&c_t;&c_u;&c_s;&#x44F;</trd>,
+    <trd>&#x43D;&c_je;&#x43D;&#x44C;&#x43A;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nj.i0o">
+  <kap>i<tld/>o</kap>
+  <snc mrk="nj.i0o.ino">
+    <dif>
+      Karesvorto indikanta <ref tip="sin" cel="in.0o">inon</ref>
+      <ekz>
+        kvankam mi &scirc;atas la i<tld/>ojn, <klr>...</klr> mi certe
+        estos tro lacega por e&ccirc; rimarki ilin!
+        <fnt>
+        <vrk><url ref="http://miresperanto.narod.ru/humuro/rikardo-cash-5.htm">&Scirc;ercoj de Rikardo
+        Cash-5</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    </snc>
+    <trd lng="be">&c_zh;&c_a;&c_n;&c_ch;&c_y;&c_n;&c_k;&c_a;</trd>
+    <trd lng="pl">babka  <klr>(pot.)</klr></trd>
+    <trd lng="ro">bab&abreve;</trd> 
+    <trd lng="ru">&c_b;&c_a;&c_b;&c_o;&c_n;&c_mol;&c_k;&c_a;</trd>
+    <trd lng="tok">meli</trd>
+</drv>
+
+<drv mrk="nj.va0o">
+  <kap>va<tld/>o</kap>
+  <snc mrk="nj.va0o.FAM">
+    <dif>
+      Karesvorto por <ref tip="sin" cel="vart.0istino">vartistino</ref>:
+      <ekz>
+        Va<tld/>o Li, iama mamnutristino de Jado
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 8a, volumo 1a, p.
+        121a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_ja;&c_n;&c_je;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="fr">nounou</trd>
+  <trd lng="pl">niania</trd>
+  <trd lng="ro">d&abreve;dac&abreve;</trd>
+  <trd lng="ru">&c_n;&c_ja;&c_n;&c_je;&c_ch;&c_k;&c_a;</trd>
+</drv>
+</subart>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/20 05:22:00
+revo: transskribo per <pr>
+
+versio 1.26 2023/03/22 19:22:26
+Paul Peeraerts: + trd nl
+
+versio 1.25 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.24 2022/03/31 08:39:19
+Dmitri Gabinski: + trd be
+
+versio 1.22 2022/01/19 22:30:59
+Vito Redsky: +trd pl +trd ro
+
+versio 1.21 2021/03/24 11:58:21
+Wolfram Diestel: kor. ref-cel
+
+versio 1.20 2020/12/29 11:10:32
+Aleks Andre: +trd bo
+
+Revision 1.18  2016/01/26 14:10:21  revo
+-->
+</vortaro>

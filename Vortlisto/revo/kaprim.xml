@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kaprim.xml,v 1.19 2023/12/03 08:00:22 revo Exp $">
+<kap>
+  <rad>kaprimulg</rad>/o
+</kap>
+<drv mrk="kaprim.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" lst="voko:zoologiaj_genroj" cel="genr.0o.BIO">Genro</ref>
+      el familio <tld/>edoj (<trd lng="la">Caprimulgus</trd>),
+      <ref tip="lst" lst="voko:birdoj" cel="bird.0o.ZOO">birdo</ref>
+      kun lar&gcirc;a beko, grandaj okuloj kaj arb&scirc;elkolora plumaro:
+      <ekz>
+        <tld/>oj vivas en malfermaj kaj malsekaj ebena&jcirc;oj kaj ondaj terenoj kie abundas
+        veprejoj kaj filikejoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=26022">Kaprimulgo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>  
+    <refgrp tip="sin">
+      <ref cel="hirund.nokto0o">noktohirundo</ref>
+    </refgrp>   
+    <bld lok="&WCU;/thumb/e/ee/Long-tailed_nightjar_(Caprimulgus_climacurus_climacurus)_male.jpg/640px-Long-tailed_nightjar_(Caprimulgus_climacurus_climacurus)_male.jpg" prm="CC BY-SA 4.0"><tld/>o (Caprimulgus climacurus), Gambio
+        <fnt>
+          <aut>Charles J Sharp, propra verko</aut>
+          <lok><url ref="&WCW;/File:Long-tailed_nightjar_(Caprimulgus_climacurus_climacurus)_male.jpg">&WCW;/File:Long-tailed_nightjar_(Caprimulgus_climacurus_climacurus)_male.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>              
+  <trd lng="be">&c_l;&c_ja;&c_l;&c_ja;&c_k;</trd>
+  <trd lng="br">adren</trd>
+  <trd lng="ca">g&egrave;nere Caprimulgus</trd>
+  <trd lng="cs">lelek</trd>
+  <trdgrp lng="de">
+    <trd>Ziegenmelker</trd>,
+    <trd>Nachtschwalbe</trd>
+  </trdgrp>
+  <trd lng="en">nightjar</trd>
+  <trdgrp lng="fr">
+    <trd>engoulevent</trd>
+    <trd><ind>crapaud</ind> volant<klr tip="ind">
+    (engoulevent)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">kecskefej&odblac;</trd>
+  <trd lng="ja">&#x30E8;&#x30BF;&#x30AB;</trd>
+  <trdgrp lng="nl">
+    <trd>geitenmelker<klr tip="ind"> (zwaluw)</klr></trd>,
+    <trd>nachtzwaluw</trd>
+  </trdgrp>
+  <trd lng="pl">lelek kozod&oacute;j</trd>
+  <trd lng="pt">noitib&oacute;</trd>
+  <trd lng="ru">&c_k;&c_o;&c_z;&c_o;&c_d;&c_o;&c_j;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x440;&#x456;&#x43C;&#x43B;&#x44E;&#x433;&#x430;</trd>,
+    <trd>&#x441;&#x43F;&#x43B;&#x44E;&#x448;&#x43A;&#x430;</trd>,
+    <trd>&#x441;&#x43F;&#x43B;&#x44E;&#x445;&#x430;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E09;&#x58F0;&#x591C;&#x9E70; <pr>s&#x101;nsh&#x113;ngy&#xE8;y&#x12B;ng</pr></trd>,
+    <trd>&#x591C;&#x9DF9; <pr>y&#xE8;y&#x12B;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.17 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.14  2011/12/06 23:10:18  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.13  2005/10/15 16:32:56  revo
+Luiz Portella: +trd pt
+
+Revision 1.12  2005/06/22 16:32:52  revo
+Alan ar Gall: +trd br
+
+Revision 1.11  2005/01/07 17:31:18  revo
+Vito Redsky: korekto <pl> + 2-a vorto
+
+Revision 1.10  2004/11/07 17:32:19  revo
+Marc Bavant: +trd fr
+
+Revision 1.9  2002/10/18 16:40:32  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2001/11/25 17:35:34  revo
+-->
+</vortaro>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ombud.xml,v 1.9 2023/10/30 09:28:01 revo Exp $">
+<kap>
+  <rad>ombud</rad>/o <fnt><bib>Viki</bib></fnt>,
+  <var><kap><rad var="ombudsman">ombudsman</rad>/o <fnt><bib>Viki</bib></fnt></kap></var>
+</kap>
+<drv mrk="ombud.0o">
+  <kap><tld/>o, <var><kap><tld var="ombudsman"/>o</kap></var></kap>
+  <snc mrk="ombud.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="super" cel="oficia.0ulo.POL">Oficialulo</ref>, kiu reprezentas la interesojn de
+      individuoj per esplorado kaj traktado de plendoj pri malbona administrado a&ubreve; malobservado de
+      rajtoj:
+      <ekz>
+        esploro de <tld/>o devas esti farita la&ubreve; maniero difinita de la <ind><tld/>okomisiono</ind>
+        por certigi justecon kaj senpartiecon
+        <trd lng="de">Ombudskommission</trd>
+        <trd lng="en">ombuds commission</trd>
+        <trd lng="nl">ombudscommissie</trd>
+        <trd lng="sv">ombudskommission</trd>
+        <fnt>
+          <vrk><url ref="https://meta.wikimedia.org/wiki/Ombuds_commission/eo">Ombudokomisiono &#8208;
+          Meta</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        publika konsultado pri lingvoj, lan&ccirc;ita de la E&ubreve;ropa <tld lit="O" var="ombudsman"/>o
+        <fnt>
+          <vrk><url ref="&UEA;gk/755a1">Universala Esperanto-Asocio: Gazetaraj
+          Komunikoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sindikatestroj kaj e&ccirc; la hispana <tld/>smano (popoldefendanto) montris siajn
+        rezervojn pri la propono
+        <fnt>
+          <aut>Hektor Alos i Font</aut>
+          <vrk><url ref="&Monato;/2006/008812.php"
+              >Survoje al pli granda memregado</url></vrk>
+              <bib>Monato</bib>
+          <lok>2006/02, p. 10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se tiaj agadoj estas kontrolataj fare de <tld/>smanoj, tiuokaze la gvatsistemoj
+        en publikaj lokoj povas esti utilaj
+        <fnt>
+          <aut>Laszlo Istvan Toth</aut>
+          <vrk><url ref="&Monato;/2008/009554.php"
+              >Granda frato gvatas (3)</url></vrk>
+              <bib>Monato</bib>
+          <lok>2008/08, p. 7</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="arbitr1.0ulo">arbitracianto, arbitraciulo</ref>,
+      <ref cel="mediaci.0isto.JUR">mediaciisto, mediacianto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_m;&c_b;&c_u;&c_d;&c_z;&c_m;&c_e;&c_n;</trd>,
+    <trd>&c_u;&c_p;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_zh;&c_a;&c_n;&c_y; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Ombudsmann</trd>,
+    <trd>Ombudsfrau</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ombud</trd>,
+    <trd>ombuds</trd>,
+    <trd>ombudsperson</trd>,
+    <trd>ombudsman</trd>,
+    <trd>ombudswoman</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>ombudspersoon</trd>,
+    <trd>ombudsman</trd>,
+    <trd>ombudsvrouw</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ombudsman</trd>,
+    <trd>rzecznik</trd>
+  </trdgrp>
+  <trd lng="ro">ombudsman</trd>
+  <trdgrp lng="sv">
+    <trd>ombudsman</trd>,
+    <trd>ombudskvinna</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.9 2023/10/30 09:28:01
+Dmitri Gabinski: + trd be
+
+versio 1.8 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
+
+versio 1.7 2023/05/06 05:26:34
+Paul Peeraerts: + 2 lok
+
+versio 1.6 2022/05/01 17:17:00
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.5 2022/01/09 10:31:49
+Wolfram Diestel: +2 ekz el Monato
+
+versio 1.4 2021/06/25 20:30:35
+Vito Redsky: +trd pl +trd ro
+
+versio 1.3 2021/02/23 13:01:52
+Wolfram Diestel: +ref
+
+versio 1.2 2021/02/22 10:11:17
+-->
+</vortaro>

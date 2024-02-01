@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: eventu.xml,v 1.32 2023/11/07 20:34:12 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>eventual</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="eventu.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="eventu.0a.KOMUNE">
+    <dif>
+      Povanta okazi, depende de necertaj cirkonstancoj:
+      <ekz>
+        <tld/>a vintra glacii&gcirc;o de la rivero povus estigi dan&gcirc;erajn inundojn printempe
+        <fnt>
+       <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2000/006857.php">Danuba &scirc;iptrafiko paralizita</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la uzantoj de Esperanto tre konscias pri la <tld/>a nekompreneblo de iu suka
+        loklingva esprimo en internacia medio
+        <fnt>
+	<aut>Pejno Simono</aut>
+	<vrk><url ref="&Monato;/2000/006813.php">Plansprache und Phraseologie</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/06, p. 33</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ebl.0a">ebla</ref>,
+      <ref cel="kondic1.0a">kondi&ccirc;a</ref>,
+      <ref cel="okaz.0a.situacia">okaza</ref>,
+      <ref cel="probab.0a">probabla</ref>,
+      <ref cel="sxajn.ver0a">ver&scirc;ajna</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_g;&c_ch;&c_y;&c_m;&c_y;</trd>,
+    <trd>&c_ib;&c_m;&c_a;&c_v;&c_je;&c_r;&c_n;&c_y;</trd>,
+    <trd>&c_e;&c_v;&c_e;&c_n;&c_t;&c_u;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>eventu&aacute;ln&iacute;</trd>,
+    <trd>p&rcaron;&iacute;padn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>eventuell</trd>,
+    <trd>m&ouml;glich</trd>,
+    <trd>etwaig</trd>,
+    <trd>allf&auml;llig<klr> [&Ouml;s]</klr></trd>
+  </trdgrp>
+  <trd lng="en">contingent</trd>
+  <trd lng="es">eventual</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_H;&a_t;&a_m;&a_A;&a_l;&f_y;</trd>,
+    <trd>&a_m;&a_H;&a_t;&a_m;&a_l;&#x200C;</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;ventuel</trd>
+  <trd lng="hu">esetleges</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5834;&#x5408;&#x306B;&#x3088;&#x3063;&#x3066;&#x306F;&#x8D77;&#x3053;&#x308A;&#x5F97;&#x308B;  <pr>&#x3070;&#x3042;&#x3044;&#x306B;&#x3088;&#x3063;&#x3066;&#x306F;&#x304A;&#x3053;&#x308A;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x4E0D;&#x78BA;&#x5B9A;&#x306A;  <pr>&#x3075;&#x304B;&#x304F;&#x3066;&#x3044;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">eventueel</trd>
+  <trdgrp lng="pl">
+    <trd>ewentualny</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>eventual</trd>,
+    <trd>contingente</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_z;&c_m;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_v;&c_p;&c_o;&c_l;&c_n;&c_je;
+    &c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">pr&iacute;padn&yacute;</trd>
+  <trdgrp lng="sv">
+    <trd>eventuell</trd>,
+    <trd>m&ouml;jlig</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&c_zh;&#x43B;&c_i;&c_v;&c_i;&c_j; (&c_z;&c_a; &#x43F;&c_je;&c_v;&#x43D;&c_i;&c_h; &#x43E;&c_b;&c_s;&c_t;&c_a;&c_v;&c_i;&#x43D;)</trd>,
+    <trd>&c_j;&#x43C;&#x43E;&c_v;&c_ib;&c_r;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_je;&c_v;&c_je;&#x43D;&c_t;&c_u;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&#x43D;&c_a;&c_g;&c_ib;&c_d;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8AAA;&#x4E0D;&#x5B9A; <pr>shu&#x14D;bud&#xEC;ng</pr></trd>,
+    <trd>&#x6F5B;&#x529B; <pr>qi&#xE1;nl&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eventu.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="eventu.0e.KOMUNE">
+    <dif>
+      La&ubreve; la kondi&ccirc;oj, se <ref cel="ebl.0e">eble</ref>:
+      <ekz>
+        skribu, <tld/>e telegrafu;
+      </ekz>
+      <ekz>
+        prokuroroj ekis ekzameni, minacas lin <tld/>e puno
+        <fnt>
+       <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2000/006835.php">Pekoj de patriarko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vice staras eksterlandanoj el orienta E&ubreve;ropo kaj el Afriko, petante permeson
+        lo&gcirc;i kaj <tld/>e labori en Irlando
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007030.php">Ser&ccirc;ata: justa solvo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 13</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ebl.laux0e">la&ubreve;eble</ref>,
+      <ref cel="supoz.0eble">supozeble</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u; <ind>&c_v;&c_y;&c_p;&c_a;&c_d;&c_k;&c_u;</ind></trd>,
+    <trd>&c_p;&c_r;&c_y;
+    <ind>&c_n;&c_je;&c_a;&c_b;&c_h;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</ind></trd>
+  </trdgrp>
+  <trd lng="bo">&#xF42;&#xF45;&#xF72;&#xF42;&#xF0B;&#xF56;&#xFB1;&#xF7A;&#xF51;&#xF0B;&#xF53;&#xF0B;</trd>
+  <trdgrp lng="cs">
+    <trd>eventu&aacute;ln&ecaron;</trd>,
+    <trd>pop&rcaron;&iacute;pad&ecaron;</trd>,
+    <trd>p&rcaron;&iacute;padn&ecaron;</trd>,
+    <trd>respektive</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>eventuell</trd>,
+     <trd>evtl.<klr> [mll.]</klr></trd>,
+     <trd>m&ouml;glicherweise</trd>,
+     <trd>etwa</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>possibly</trd>,
+    <trd>perhaps</trd>
+  </trdgrp>
+  <trd lng="es">eventualmente</trd>
+  <trd lng="fr">&eacute;ventuellement</trd>
+  <trd lng="hu">esetleg</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5834;&#x5408;&#x306B;&#x3088;&#x3063;&#x3066;&#x306F;  <pr>&#x3070;&#x3042;&#x3044;&#x306B;&#x3088;&#x3063;&#x3066;&#x306F;</pr></trd>,
+    <trd>&#x3072;&#x3087;&#x3063;&#x3068;&#x3059;&#x308B;&#x3068;</trd>,
+    <trd>&#x3082;&#x3057;&#x3082;&#x306E;&#x6642;&#x306B;&#x306F;  <pr>&#x3082;&#x3057;&#x3082;&#x306E;&#x3068;&#x304D;&#x306B;&#x306F;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">ewentualnie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i; &c_s;&c_l;&c_u;&c_ch;&c_a;&c_je;</trd>,
+    <trd>&c_v; &c_s;&c_l;&c_u;&c_ch;&c_a;&c_je;
+    &c_ch;&c_je;&c_g;&c_o;</trd>
+  </trdgrp>
+  <trd lng="sk">pr&iacute;padne</trd>
+  <trd lng="sv">eventuellt</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_i;&#x43D;&c_a;&c_g;&c_ib;&c_d;&#x43D;&#x43E;</trd>,
+    <trd>&#x43F;&c_r;&c_i; &#x43D;&c_a;&c_g;&#x43E;&c_d;&c_ib;</trd>,
+    <trd>&c_u; &c_r;&c_a;&c_z;&c_ib; &c_ch;&#x43E;&c_g;&#x43E;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x96BE;&#x9053; <pr>n&#xE1;nd&#xE0;o</pr></trd>,
+    <trd>&#x6709;&#x53EF;&#x80FD; <pr>y&#x1D2;uk&#x11B;n&#xE9;ng</pr></trd>,
+    <trd>&#x83AB;&#x975E; <pr>m&#xF2;f&#x113;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eventu.0ajxo">
+  <kap><tld/>a&jcirc;o, <var><kap><tld/>o</kap></var></kap>
+  <snc mrk="eventu.0ajxo.KOMUNE">
+    <dif>
+      <tld lit="E"/>a fakto, ebla okaza&jcirc;o dependa je
+      cirkonstancoj:
+      <ekz>
+        mi dubas, &ccirc;u vi sukcesos <klr>[&#x2026;]</klr> kaj por &ccirc;iu <tld/>o, mi kunvokos la
+        kunvenon
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sortobatoj &gcirc;enerale rezultas de <tld/>oj neperceptitaj, a&ubreve; ne 
+        sufi&ccirc;e atentitaj
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk>La Granda Kaldrono</vrk>,
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cirkon1.0o">cirkonstanco</ref>,
+      <ref cel="hazard.0o">hazardo</ref>,
+      <ref cel="kondic1.0o">kondi&ccirc;o</ref>,
+      <ref cel="okaz.0o">okazo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_g;&c_ch;&c_y;&c_m;&c_y;
+    &c_v;&c_y;&c_p;&c_a;&c_d;&c_a;&c_k;</trd>,
+    <trd>&c_ib;&c_m;&c_a;&c_v;&c_je;&c_r;&c_n;&c_y;
+    &c_v;&c_y;&c_p;&c_a;&c_d;&c_a;&c_k;</trd>,
+    <trd>&c_m;&c_a;&c_g;&c_ch;&c_y;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_m;&c_a;&c_zh;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">eventualita</trd>
+  <trdgrp lng="de">
+     <trd>Eventualit&auml;t</trd>,
+     <trd>etwa eintretender Umstand</trd>,
+     <trd>m&ouml;gliches Ereignis</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>contingency</trd>,
+    <trd>eventuality</trd>
+  </trdgrp>
+  <trd lng="es">eventualidad</trd>
+  <trd lng="fr">&eacute;ventualit&eacute;</trd>
+  <trd lng="hu">eshet&odblac;s&eacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5076;&#x767A;&#x4E8B;&#x4EF6;  <pr>&#x3050;&#x3046;&#x306F;&#x3064;&#x3058;&#x3051;&#x3093;</pr></trd>,
+    <trd>&#x4E88;&#x6E2C;&#x3055;&#x308C;&#x5F97;&#x308B;&#x4E8B;&#x614B;  <pr>&#x3088;&#x305D;&#x304F;&#x3055;&#x308C;&#x3048;&#x308B;&#x3058;&#x305F;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">ewetualno&sacute;&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_z;&c_m;&c_o;&c_zh;&c_n;&c_y;&c_j;
+    &c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;</trd>,
+    <trd>&c_v;&c_o;&c_z;&c_m;&c_o;&c_zh;&c_n;&c_o;&c_je;
+    &c_o;&c_b;&c_s;&c_t;&c_o;&c_ja;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trd lng="sk">eventualita</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&#x43F;&c_a;&c_d;&#x43A;&#x43E;&c_v;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_v;&c_i;&#x43F;&c_a;&c_d;&#x43E;&#x43A;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x53EF;&#x9810;&#x898B;&#x8CBB; <pr>b&#xF9;k&#x11B;y&#xF9;ji&#xE0;nf&#xE8;i</pr></trd>,
+    <trd>&#x53EF;&#x80FD;&#x6027; <pr>k&#x11B;n&#xE9;ngx&#xEC;ng</pr></trd>,
+    <trd>&#x4E07;&#x4E00; <pr>w&#xE0;ny&#x12B;</pr></trd>,
+    <trd>&#x4E0D;&#x53EF;&#x9810;&#x898B;&#x8CBB; <pr>b&#xF9;k&#x11B;y&#xF9;ji&#xE0;nf&#xE8;i</pr></trd>,
+    <trd>&#x53EF;&#x80FD;&#x6027; <pr>k&#x11B;n&#xE9;ngx&#xEC;ng</pr></trd>,
+    <trd>&#x4E07;&#x4E00; <pr>w&#xE0;ny&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/14 15:49:05
+revo: transskribo per <pr>
+
+versio 1.29 2023/04/30 07:23:44
+Paul Peeraerts: Steloj -> monato
+
+versio 1.28 2023/04/25 05:28:02
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.27 2023/04/24 14:28:14
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.26 2023/04/24 08:32:27
+Paul Peeraerts: @Sxteloj -> @Monato
+
+versio 1.25 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2021/02/06 09:11:12
+Wolfram Diestel: kor. ref-cel
+
+versio 1.21 2021/01/27 08:50:23
+-->
+</vortaro>

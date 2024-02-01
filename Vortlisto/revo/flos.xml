@@ -1,0 +1,542 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: flos.xml,v 1.27 2023/11/09 20:48:33 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>flos</rad>/o
+</kap>
+
+<drv mrk="flos.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Kuna&jcirc;o, aro da arbaj <ref tip="prt" cel="trunk.0o.BOT">trunko</ref>j &jcirc;etitaj en riveron,
+      por ke la fluo ilin transportu:
+      <ekz>
+        ni hakos lignon de Lebanon, kiom vi bezonas, kaj ni sendos &gcirc;in al vi per
+        <tld/>oj sur la maro &gcirc;is Jafo
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Kroniko 2:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi laboris sur grandaj <klr>[&#x2026;]</klr> <tld/>oj, sur kiuj ni mem &ccirc;arpentis
+        iaspecan kabaneton
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc>
+    <dif>
+      Similspeca trabaro, konstruita por transporti homojn
+      a&ubreve; diversajn materialojn:
+      <ekz>
+        &scirc;ipetoj <klr>[&#x2026;]</klr> diskuradis en &ccirc;iujn direktojn por tralasi grandegan
+        <tld/>on, kiu portis el Supra Egipto malsupren grandegajn &scirc;tonojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de Teboj veturis al la maro multenombraj <tld/>oj kun la tritiko
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        supren malsupren <klr>[&#x2026;]</klr> balancis sin malbona neta&ubreve;ga <tld/>o kun kvar,
+        kvin malfeli&ccirc;uloj, kiuj sen&ccirc;ese dronadis en <klr>[la]</klr> akvamasoj por en
+        la sekvanta momento denove elna&gcirc;i
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ar en la &scirc;ipo trovi&gcirc;is kelke da ekstraj velstangoj, tri a&ubreve; kvar grandaj traboj
+        el ligno, kaj unu ekstra masto a&ubreve; du, mi komencis fari <tld/>on
+        <fnt>
+          <bib>Rob</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pt">jangada</trd>
+  </snc>
+  <bld lok="&WCU;/thumb/f/f7/1873_Feddersen_Landschaft_mit_Fl&ouml;&szlig;en_anagoria.JPG/640px-1873_Feddersen_Landschaft_mit_Fl&ouml;&szlig;en_anagoria.JPG" prm="PD">1873 Feddersen: pejza&gcirc;o kun <tld/>oj
+      <fnt>
+        <aut>Hans Peter Feddersen, anagoria</aut>
+        <lok><url ref="&WCW;/File:1873_Feddersen_Landschaft_mit_Fl%C3%B6%C3%9Fen_anagoria.JPG">&WCW;/File:1873_Feddersen_Landschaft_mit_Fl&ouml;&szlig;en_anagoria.JPG</url></lok>
+      </fnt>
+  </bld>
+  <trdgrp lng="cs">
+    <trd>pl&tcaron;</trd>,
+    <trd>pr&aacute;m</trd>,
+    <trd>vor</trd>
+  </trdgrp>
+  <trd lng="de">Flo&szlig;</trd>
+  <trdgrp lng="en">
+    <trd>raft</trd>,
+    <trd>(log) boom</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>balsa</trd>,
+    <trd>armad&iacute;a</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>radeau</trd>,
+    <trd>train de bois</trd>
+  </trdgrp>
+  <trd lng="ja">&#x3044;&#x304B;&#x3060;</trd>
+  <trd lng="nl">vlot<klr tip="ind"> (z.nw.)</klr></trd>
+  <trd lng="ru">&c_p;&c_l;&c_o;&c_t;</trd>
+  <trd lng="sk">pl&tcaron;</trd>
+  <trd lng="uk">&#x43F;&#x43B;&c_ib;&c_t; (&c_d;&#x43B;&#x44F; &c_s;&#x43F;&#x43B;&c_a;&c_v;&c_u; &c_a;&c_b;&#x43E;
+  &#x43F;&c_je;&c_r;&c_je;&#x43F;&c_r;&c_a;&c_v;&c_i;)</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7B4F; <pr>f&#xE1;</pr></trd>,
+    <trd>&#x7B4F;&#x5B50; <pr>f&#xE1;zi</pr></trd>,
+    <trd>&#x6CED; <pr>f&#xFA;</pr></trd>,
+    <trd>&#x68D1; <pr>p&#xE1;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flos.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="flos.0i.transporti">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      <ref tip="super" cel="port.trans0i">Transporti</ref> arbotrunkojn kiel <tld/>o:
+      <ekz>
+        mi plenumos vian tutan deziron pri la arboj cedraj <klr>[&#x2026;]</klr> mi <tld/>os
+        ilin sur la maro &gcirc;is la loko, pri kiu vi sciigos al mi
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Re&gcirc;oj 5:9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">fl&ouml;&szlig;en</trd>
+    <trd lng="en">raft</trd>
+    <trd lng="fr">radeau</trd>
+    <trd lng="ru">&c_s;&c_p;&c_l;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;
+    <klr>(&c_p;&c_o;
+    &c_t;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_ju;)</klr></trd>
+  </snc>
+  <snc mrk="flos.0i.maldroni">
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      Resti surface de flua&jcirc;o pro malpezeco en maniero de
+      <tld/>o, sekvante la fluon:
+      <ekz>
+        galeroj <klr>[&#x2026;]</klr> <tld/>is &ccirc;e la sabla bordo
+        <fnt>
+          <bib>DKM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bajdaro (kajako de aleutoj) <tld/>as sur la maro, sen veloj, sen remiloj, sen ia direktilo
+        <fnt>
+          <bib>&Ccirc;uk&ccirc;oj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni trovis la remboaton renversita, sed &gcirc;i <tld/>is surmare
+        <fnt>
+          <bib>VRA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li surdorse <klr>[&#x2026;]</klr> <tld/>as sur la maro
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tia moderna kargo&scirc;ipo verdire ne plu estas &scirc;ipo, &gcirc;i estas <tld/>anta ma&scirc;ino
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        konsiderinte <klr>[&#x2026;]</klr> la situacion, en kiu &scirc;i sin trovis <klr>[&#x2026;]</klr>,
+        &scirc;i ne volis lasi la aferojn <tld/>i la&ubreve;flue
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+       <ref cel="dron.0i.MAR">droni<sncref/></ref>,
+       <ref cel="merg.0igxi">mergi&gcirc;i</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="driv.0i.MAR">drivi<sncref/></ref>,
+      <ref cel="flu.0i">flui</ref>,
+      <ref cel="nagx.0i">na&gcirc;i</ref>,
+      <ref cel="sxveb.0i">&scirc;vebi</ref>.
+    </refgrp>  
+    <trdgrp lng="cs">
+      <trd>plout</trd>,
+      <trd>plynout</trd>,
+      <trd>spl&yacute;vat</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>schwimmen</trd>,
+      <trd>aufschwimmen</trd>,
+      <trd>nicht <ind>untergehen</ind></trd>
+    </trdgrp>
+    <trd lng="en">float<klr tip="ind"> (on water)</klr></trd>
+    <trd lng="es">flotar</trd>
+    <trd lng="fr">flotter<klr tip="ind"> (intr., sur l'eau)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>vlotten</trd>,
+      <trd>bovendrijven</trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol;&c_s;&c_ja;
+    &c_n;&c_a; &c_p;&c_l;&c_a;&c_v;&c_u;</trd>
+    <trd lng="sk">pl&aacute;va&tcaron;</trd>
+    <trd lng="th">&#xE25;&#xE2D;&#xE22;
+    (&#xE2D;&#xE22;&#xE39;&#xE48;&#xE1A;&#xE19;&#xE19;&#xE49;&#xE33;)</trd>
+  </snc>
+  <snc mrk="flos.0i.sxvebi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="dif" cel="sxveb.0i.fluge">&Scirc;vebi</ref>, <ref cel="glis.0i">glisi</ref>:
+      <ekz>
+        la falombrelo <klr>[&#x2026;]</klr> malvolvi&gcirc;as, flug&scirc;vebas belege en la aero kaj
+        <tld/>as <klr>(<ref cel="glis.0i">glisas</ref>)</klr> milde al la tero
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la alia flanko de la golfo <klr>[&#x2026;]</klr> levas sin la urbodomo,
+        <klr>[&#x2026;]</klr> la malhelru&gcirc;a domego kvaza&ubreve; kviete <tld/>as sur la matenbrila
+        akvo
+        <fnt>
+          <bib>ViV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inter la okulgloboj kaj la fermitaj palpebroj <tld/>is brunaj makuloj kun fajre
+        verda bordero
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">gleiten</trd>
+  </snc>
+  <trd lng="ja">&#x6D6E;&#x3044;&#x3066;&#x3044;&#x308B;  <pr>&#x3046;&#x3044;&#x3066;&#x3044;&#x308B;</pr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&c_a;&c_v;&c_a;&c_t;&c_i; (&#x43D;&c_a; &#x43F;&#x43E;&c_v;&c_je;&c_r;&c_h;&#x43D;&c_ib; &c_v;&#x43E;&c_d;&c_i;)</trd>,
+    <trd>&c_s;&#x43F;&#x43B;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;&c_s;&#x44F; (&#x43F;&c_r;&#x43E; &c_d;&c_je;&c_r;&c_je;&c_v;&c_i;&#x43D;&c_u;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flos.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="flos.0igi.flosi_tr">
+    <dif>
+      <ref tip="dif" cel="flos.0i.transporti">Flosi<sncref/></ref>:
+      <ekz>
+        ni segis la arbojn kaj <tld/>igis ilin malsupren sur la rivero
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lena Karpunina</aut>
+          <vrk><url ref="&Monato;/2004/008350.html">Tiu tago</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igado estis en Karintio grava transportmaniero inter 1200 kaj 1940
+        <fnt>
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2001/007186.html">Vakeroj de Alpoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 10</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">fl&ouml;&szlig;en</trd>
+    <trd lng="ru">&c_s;&c_p;&c_l;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;
+    <klr>(&c_p;&c_o;
+    &c_t;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_ju;)</klr></trd>
+    <trdgrp lng="zh">
+    <trd>&#x98C4;&#x6D6E; <pr>pi&#x101;of&#xFA;</pr></trd>,
+    <trd>&#x6C67; <pr>qi&#x101;n</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="flos.0igi.nagxigi">
+    <dif>
+      Fari ke io <ref cel="flos.0i.maldroni">flosu<sncref/></ref>, meti en <tld/>an staton:
+      <ekz>
+        amba&ubreve; knabojn la servistoj metis en korbon, kiun <tld/>igis en superbordi&gcirc;inta
+        Tibero kaj raportis al la re&gcirc;o plenumon de la tasko
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Romulo_kaj_Remo">Romulo kaj Remo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">plavit <klr>(d&rcaron;&iacute;v&iacute;)</klr></trd>
+  <trd lng="en">float<klr tip="ind"> (tr.)</klr></trd>
+  <trd lng="es">hacer <ind>flotar</ind></trd>
+  <trd lng="fr">flotter<klr tip="ind"> (tr.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D6E;&#x304B;&#x3079;&#x308B;  <pr>&#x3046;&#x304B;&#x3079;&#x308B;</pr></trd>,
+    <trd>&#x3044;&#x304B;&#x3060;&#x306B;&#x7D44;&#x3093;&#x3067;&#x6D41;&#x3059;  <pr>&#x3044;&#x304B;&#x3060;&#x306B;&#x304F;&#x3093;&#x3067;&#x306A;&#x304C;&#x3059;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">doen <ind>vlotten</ind></trd>
+  <trd lng="sk">plavi&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43F;&#x43B;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_v;&#x43E;&c_z;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&#x43F;&c_r;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_u;&c_s;&c_t;&c_i;&c_t;&c_i; &#x43D;&c_a; &c_v;&#x43E;&#x43B;&#x44E; &c_h;&c_v;&c_i;&#x43B;&#x44C;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flos.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+    <dif>
+      Per<tld/>a transportado:
+      <ekz>
+        la <tld/>ado la&ubreve; Tara estas turisma alloga&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Dimitrije Jani&ccaron;i&cacute;</aut>
+          <vrk><url ref="&Monato;/2008/009630.php">Vidinda ponto</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiuj, kiuj partoprenos en la <tld/>ado, venu la 7-an de a&ubreve;gusto matene
+        <fnt>
+          <vrk><url ref="http://ra.nsk.ru/RA-10/">RA: Renkonti&gcirc;o de Amikoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post 70-kilometra surrivera <tld/>ado, li volis atingi la kreolan vila&gcirc;on
+        <fnt>
+          <bib>Kon11</bib>
+          <vrk>Raymond Maufrais: Pereinta en &gcirc;angalo</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Fl&ouml;&szlig;en</trd>
+    <trd lng="es">flotaci&oacute;n</trd>
+    <trd lng="fr">flottage</trd>
+    <trd lng="ru">&c_s;&c_p;&c_l;&c_a;&c_v;<klr tip="amb">
+    (&c_n;&c_a;&c_p;&c_r;. &c_l;&c_je;&c_s;&c_a; &c_p;&c_o;
+    &c_v;&c_o;&c_d;&c_je;)</klr></trd>
+  </snc>
+  <snc>
+    <dif>
+      Stato de tio, kio <tld/>as:
+      <ekz>
+        pro la buntaj koloroj kaj gracia <tld/>ado de balono, multaj grandaj entreprenoj
+        prenis balonon kiel sian propagandilon
+        <fnt>
+          <vrk><url ref="https://www.onyc.hu/uploads/dokumentumtar/file_exercise/6/ESZPERANT%C3%93_C1_Olvas%C3%A1sk%C3%A9szs%C3%A9g_feladatok.pdf">I.
+          Olvas&aacute;sk&eacute;szs&eacute;g</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Treiben</trd>
+    <trd lng="en">floating</trd>
+    <trd lng="es">flotando</trd>
+    <trd lng="fr">flottement<klr tip="ind"> (fait de
+    flotter)</klr></trd>
+  </snc>
+  <trd lng="cs">voroplavba</trd>
+  <trd lng="ja">&#x6D6E;&#x904A;  <pr>&#x3075;&#x3086;&#x3046;</pr></trd>
+  <trd lng="nl">vlotten<klr tip="ind"> (z.nw.)</klr></trd>
+  <trd lng="sk">plavba na plti</trd>
+  <trd lng="uk">&#x43F;&#x43B;&c_a;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+</drv>
+
+<drv mrk="flos.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Tiu, kiu kondukas <tld/>on:
+      <ekz>
+        ofte sur <tld/>o staris kabano kun forno, kvar a&ubreve; kvin <tld/>istoj stiris
+        <fnt>
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2001/007186.html">Vakeroj de Alpoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 10</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la arbohakisto intense kunlaboris &gcirc;is en la komenco de la 20-a jarcento kun la
+        <klr>[&#x2026;]</klr> <tld/>isto kaj karbigisto
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Arbohakisto">Arbohakisto</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">vora&rcaron;</trd>
+  <trd lng="de">Fl&ouml;&szlig;er</trd>
+  <trd lng="es">flotador<klr tip="ind"> (trabajador que flota
+  la madera)</klr></trd>
+  <trd lng="fr">flotteur<klr tip="ind"> (ouvrier qui flotte le
+  bois)</klr></trd>
+  <trd lng="ja">&#x3044;&#x304B;&#x3060;&#x4E57;&#x308A;  <pr>&#x3044;&#x304B;&#x3060;&#x306E;&#x308A;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>vlotter</trd>,
+    <trd>houtvlotter</trd>,
+    <trd>vlotvoerder</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_p;&c_l;&c_a;&c_v;&c_shch;&c_i;&c_k;</trd>
+  <trd lng="sk">pltn&iacute;k</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43F;&#x43B;&c_a;&c_v;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&#x43F;&#x43B;&#x43E;&c_t;&#x43E;&c_g;&#x43E;&#x43D;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_v;&c_ib;&c_z;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flos.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Objekto a&ubreve; ilo, kiu <tld/>as, servanta por montri nivelon
+      a&ubreve; rapidecon de fluo, a&ubreve; por subteni ion en akvo:
+      <ekz>
+        flanka <tld/>ilo de kanuo;
+      </ekz>
+      <ekz>
+        fi&scirc;o kaptis la hokon de <nom>Anne</nom>, la <tld/>ilo sinkis en la akvon, kaj
+        <nom>Anne</nom> levis
+        perkon aeren
+        <fnt>
+          <vrk><url ref="https://tombonokto.vuodatus.net/">Tombonokto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        flugil-<tld/>ilo kaj benzinujo el la franca flugboato de Amundsen <klr>[&#x2026;]</klr>
+        estis trovitaj &ccirc;e la marbordo
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Roald_Amundsen">Roald Amundsen</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        boato: tia <tld/>ilo, kia estas kutime pelata per ma&scirc;ino
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fizalio, alinomata de la britoj &leftquot;portugala milit&scirc;ipo&rightquot;, posedas <tld/>ilon
+        plenan je gaso, kiu elstaras el la marsurfaco
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=55516">Fizalio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+       <ref cel="bu.0o">buo</ref>,
+       <ref cel="ponton.0o">pontono</ref>
+    </refgrp>
+    <refgrp tip="malprt">
+       <ref cel="areome.0o">areometro</ref>,
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="nagx.0ilo">na&gcirc;ilo</ref>,
+      <ref cel="vezik.nagxo0o">na&gcirc;oveziko</ref>,
+      <ref cel="stabil.0igilo">stabiligilo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">plov&aacute;k</trd>
+  <trdgrp lng="de">
+    <trd>Schwimmer</trd>,
+    <trd>Schwimmk&ouml;rper</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>float</trd>,
+    <trd>bob</trd>,
+  </trdgrp>
+  <trd lng="es">flotador<klr tip="ind"> (objeto)</klr></trd>
+  <trd lng="fr">flotteur<klr tip="ind"> (objet)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D6E;&#x304D;  <pr>&#x3046;&#x304D;</pr></trd>,
+    <trd>&#x30D5;&#x30ED;&#x30FC;&#x30C8;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>dobber</trd>,
+    <trd>vlotter</trd>,
+    <trd>drijver</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_p;&c_l;&c_a;&c_v;&c_o;&c_k;</trd>
+  <trd lng="sk">plav&aacute;k</trd>
+</drv>
+
+<drv mrk="flos.0linio">
+  <kap><tld/>linio</kap>
+  <uzo tip="fak">MAR</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="nivel.0o.ebeno">Nivelo</ref>, &gcirc;is kiu enakvi&gcirc;as &scirc;ipo:
+      <ekz>
+        la fi&scirc;ista skuno <klr>[&#x2026;]</klr> estis 33 metrojn longa, 7,6&#x202F;m lar&gcirc;a kaj 3,4&#x202F;m
+        profunda sub la <tld/>linio
+        <fnt>
+          <vrk><url ref="https://familiaro.com/nova-urbo-decembro-2017">Nova urbo</url></vrk>
+          <lok>familiaro, 5/2017 Oktobro 2017</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">&ccaron;&aacute;ra ponoru</trd>
+  <trd lng="de">Wasserlinie<klr tip="amb"> (Schiff)</klr></trd>
+  <trd lng="en">waterline<klr tip="amb"> (ship)</klr></trd>
+  <trd lng="es">l&iacute;nea de flotaci&oacute;n</trd>
+  <trd lng="fr">ligne de flottaison</trd>
+  <trd lng="ja">&#x55AB;&#x6C34;&#x7DDA;  <pr>&#x304D;&#x3063;&#x3059;&#x3044;&#x305B;&#x3093;</pr></trd>
+  <trd lng="ru">&c_v;&c_a;&c_t;&c_je;&c_r;&c_l;&c_i;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="sk">ponorov&aacute; &ccaron;iara</trd>
+  <trd lng="uk">&c_v;&c_a;&c_t;&c_je;&c_r;&#x43B;&c_ib;&#x43D;&c_ib;&#x44F;</trd>
+  <trd lng="zh">&#x822F; <pr>zh&#x14D;ng</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/14 19:15:45
+revo: transskribo per <pr>
+
+versio 1.24 2023/04/30 08:29:09
+Paul Peeraerts: Steloj -> monato
+
+versio 1.23 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2021/08/16 16:47:30
+Wolfram Diestel: ~igi..~linio: ekz-oj, ref-oj
+
+versio 1.20 2021/08/16 15:34:04
+Wolfram Diestel: ~o: ekz-oj; ~i: +snc (tr), snc FIG, ekz-oj, ref-oj
+
+Revision 1.18  2016/03/18 14:10:16  revo
+Warut Bunprasert: +trd th
+
+Revision 1.17  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+-->
+</vortaro>

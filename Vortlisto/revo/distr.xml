@@ -1,0 +1,622 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: distr.xml,v 1.34 2024/01/15 09:27:53 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>distr</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="distr.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="distr.0i.PSI">
+    <dif>
+      Deturni ies atenton de &jcirc;usa al nova temo,
+      <ref tip="vid" cel="atent.mal0igi.PSI">malatentigi</ref>.
+    </dif>
+    <subsnc mrk="distr.0i.deatentigi">
+      <dif>
+        Malhelpe deturni la spiriton de &gcirc;ia okupi&gcirc;o:
+        <ekz>
+          la lernantojn <tld/>is zumado de mu&scirc;o;
+        </ekz>
+        <ekz>
+          la urba bruo tro <tld/>as min;
+        </ekz>
+        <ekz>
+          Maria <klr>[&#8230;]</klr> sidis apud la piedoj de la Sinjoro, kaj a&ubreve;skultis lian
+          parolon, sed Marta estis <tld/>ata pro multo da servado
+          <fnt>
+            <bib>NT</bib>
+            <lok>Luko 10:40</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          vi atentu la Sinjoron ne<tld/>ite
+          <fnt>
+            <bib>NT</bib>
+            <lok>I. Korintanoj 7:35</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la incitita &ccirc;efpastro ne lasis sin <tld/>i de siaj ideoj
+          <fnt>
+            <bib>Far2</bib>
+            <lok>&Ccirc;apitro XV</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          li turnis distrite per siaj maldikaj fingroj la pa&gcirc;ojn de la libro
+          <fnt>
+            <bib>IK</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          liaj <tld/>itaj okuloj direkti&gcirc;adis &ccirc;iumomente al la paperoj, kiuj ku&scirc;is sur la
+          tablo
+          <fnt>
+            <bib>Marta</bib>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="ant">
+         <ref cel="atent.0igi">atentigi</ref>,
+        <ref cel="fokus.0i">fokusi</ref>
+      </refgrp>
+      <refgrp tip="vid">
+        <ref cel="absorb">malabsorbigi</ref>
+      </refgrp>
+      <trd lng="be">&c_a;&c_d;&c_c;&c_ja;&c_g;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_u;&c_v;&c_a;&c_g;&c_u;)</klr></trd>
+      <trd lng="de">ablenken</trd>
+      <trdgrp lng="fr">
+        <trd>d&eacute;ranger<klr tip="ind"> (distraire)</klr></trd>,
+        <trd>distraire<klr tip="ind"> (d&eacute;ranger)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">sz&oacute;rakoztat</trd>
+      <trd lng="pl">rozprasza&cacute;</trd>
+      <trdgrp lng="pt">
+        <trd>distrair</trd>,
+        <trd>desviar a <ind>aten&ccedil;&atilde;o</ind></trd>
+      </trdgrp>
+      <trd lng="ru">&c_o;&c_t;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
+    </subsnc>
+    <subsnc mrk="distr.0i.amuzi">
+      <dif>
+        Deturni la spiriton de &gcirc;iaj prizorgoj, agrable okupante,
+        amuzante &gcirc;in:
+        <ekz>
+          la kuracisto diras, ke mi bezonas min <tld/>i, vidi aliajn viza&gcirc;ojn &ccirc;irka&ubreve; mi
+          <fnt>
+            <bib>FK</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <klr>[tie]</klr> oni povis trafi ilin en ilia vera formo: tiu
+          de
+          <tld/>ato, de <ctl>amuzi&gcirc;anto</ctl>
+          <fnt><bib>UrdHadda</bib>, <lok>p. 17</lok></fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="enu">malenuigi</ref>,
+        <ref cel="lac">mallacigi</ref>,
+        <ref cel="strecx">malstre&ccirc;i</ref>
+      </refgrp>
+      <trdgrp lng="be">
+        <trd>&c_z;&c_a;&c_j;&c_m;&c_a;&c_c;&c_mol;</trd>,
+        <trd>&c_z;&c_a;&c_b;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+        <trd>&c_p;&c_a;&c_c;&c_ja;&c_sh;&c_a;&c_c;&c_mol;</trd>
+      </trdgrp>
+      <trdgrp lng="de">
+        <trd>zerstreuen</trd>,
+        <trd>unterhalten</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>amuser</trd>,
+        <trd>divertir<klr tip="ind"> (amuser)</klr></trd>,
+        <trd>distraire<klr tip="ind"> (amuser)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">kikapcsol<klr tip="ind">
+      (sz&oacute;rakoztat)</klr></trd>
+      <trdgrp lng="pl">
+        <trd>bawi&cacute;</trd>,
+        <trd>cieszy&cacute;</trd>
+      </trdgrp>
+      <trdgrp lng="pt">
+        <trd>distrair</trd>,
+        <trd>divertir</trd>,
+        <trd>entreter</trd>
+      </trdgrp>
+      <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
+    </subsnc>
+  </snc>
+  <snc mrk="distr.0i.disigi">
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      <ref tip="dif" cel="dis.0igi">Disigi</ref>:
+      <ekz>
+        &ccirc;irka&ubreve;e en la &ccirc;ambro estis <tld/>ita ankora&ubreve; multo da sendifinaj puf-se&gcirc;oj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne parolante pri la multegaj, <tld/>itaj en la tuta mondo familioj, kiuj
+        elstrekis la viandon el sia tabelo de man&gcirc;oj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_l;&c_ja;&c_c;&c_mol;</trd>
+    <trd lng="de">verstreuen</trd>
+    <trdgrp lng="fr">
+      <trd>distraire<klr tip="ind"> (s&eacute;parer)</klr></trd>,
+      <trd>&eacute;parpiller</trd>,
+      <trd>s&eacute;parer<klr tip="ind"> (&eacute;parpiller)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">sz&eacute;tsz&oacute;r</trd>
+    <trdgrp lng="pl">
+      <trd>oddziela&cacute;</trd>,
+      <trd>rozdziela&cacute;</trd>,
+      <trd>roz&lstroke;&aogonek;cza&cacute;</trd>,
+      <trd>rozrzuca&cacute;</trd>,
+      <trd>rozprasza&cacute;<klr> (rozrzuca&cacute;)</klr></trd>,
+      <trd>separowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x8D70;&#25955; <pr>z&#x1D2;us&#xE0;n</pr></trd>,
+    <trd>&#x8F9F; <pr>p&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="cs">
+    <trd>pobavit</trd>,
+    <trd>rozpt&yacute;lit</trd>
+  </trdgrp>
+  <trd lng="en">distract</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6C17;&#12434;&#25955;&#12425;&#12377;  <pr>&#x304D;&#12434;&#12385;&#12425;&#12377;</pr></trd>,
+    <trd>&#x6C17;&#26228;&#12425;&#12375;&#12434;&#12373;&#x305B;&#x308B;  <pr>&#x304D;&#12400;&#12425;&#12375;&#12434;&#12373;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozpt&yacute;li&tcaron;</trd>,
+    <trd>zab&aacute;va&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_v;&#x43E;&#x43B;&c_ib;&#x43A;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_v;&c_a;&c_zh;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="distr.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="distr.0a.KOMUNE">
+    <dif>
+      Kiu <tld/>as, logas la atenton al nova
+      a&ubreve; al amuza temo:
+      <ekz>
+        la <tld/>ajn momentojn de miaj &ccirc;iutagaj
+        promenadoj ofte plenigis &ccirc;armaj kontempladoj
+        <fnt><bib>Revadoj</bib>, <lok>Unua promenado</lok></fnt>;
+      </ekz>
+      <ekz>
+        tiu biblia libro ne estas <tld/>a lega&jcirc;o
+        <fnt>
+	<aut>Jorge Camacho</aut>
+	<vrk><url ref="&Monato;/2000/006820.php">Plia libro biblia</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/08, p. 24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rakontaro sukcesa, le&gcirc;era, sed kelkfoje pensiga, <tld/>a, neniam teda
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2003/007810.html">Plezuro diluita de
+          mislingva&jcirc;oj</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amaskomunikiloj &gcirc;enerale i&gcirc;is pli kaj pli <tld/>aj, precipe sub influo de
+        privata, komerca televido
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Maul Stefan</aut>
+          <vrk><url ref="&Monato;/2004/008228.html">Retrorigarde kaj
+          perspektive</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_b;&c_a;&c_w;&c_l;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>roztr&zcaron;it&yacute;</trd>,
+    <trd>rozt&ecaron;kan&yacute;</trd>,
+    <trd>t&ecaron;kav&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ablenkend</trd>,
+    <trd>zerstreuend</trd>,
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>distrayant</trd>,
+    <trd>divertissant</trd>
+  </trdgrp>
+  <trd lng="he">&#x5DE;&#x5D1;&#x5D3;&#x5E8;</trd>
+  <trd lng="hu">sz&oacute;rakoztat&oacute;</trd>
+  <trd lng="ja">&#x6C17;&#26228;&#12425;&#12375;&#x306E;  <pr>&#x304D;&#12400;&#12425;&#12375;&#x306E;</pr></trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">roztr&zcaron;it&yacute;</trd>
+  <trd lng="uk">&c_r;&#x43E;&c_z;&c_v;&c_a;&c_zh;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="distr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="distr.0o.deatentigxo">
+    <dif>
+      Animastato de tiu, kiu distri&gcirc;as:
+      <ekz>
+        li dum ripoziga <tld/>o forgesas grincon de la kriz'
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Homoj &Ccirc;e L' Marbordo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi plezuri&gcirc;is en tiu <tld/>o de la okuloj
+        <fnt><bib>Revadoj</bib>, <lok>Sepa promenado</lok></fnt>;
+      </ekz>
+      <ekz>
+        pure vanaj fikcioj <klr>[&#8230;]</klr>, kiuj enhavas neniun veran
+        instruon kaj celas nur <tld/>on
+        <fnt><bib>Revadoj</bib>, <lok>Kvara promenado</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="atent.0o">atento</ref>
+    <trdgrp lng="fr">
+      <trd>amusement</trd>,
+      <trd>distraction</trd>,
+      <trd>divertissement</trd>,
+      <trd>inattention<klr tip="ind"> (distraction)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">sz&oacute;rakoz&aacute;s</trd>
+    <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_l;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_b;&c_a;&c_v;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_c;&c_je;&c_h;&c_a;</trd>,
+    <trd>&c_a;&c_d;&c_c;&c_ja;&c_g;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_u;&c_v;&c_a;&c_g;&c_ib;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>baven&iacute;</trd>,
+    <trd>rozpt&yacute;len&iacute;</trd>,
+    <trd>z&aacute;bava</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Unterhaltung</trd>,
+    <trd>Ablenkung</trd>,
+    <trd>Zerstreuung</trd>
+  </trdgrp>
+  <trd lng="he">&#x5D1;&#x5D9;&#x5D3;&#x5D5;&#x5E8;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5A2F;&#x697D;  <pr>&#12372;&#12425;&#x304F;</pr></trd>,
+    <trd>&#x6C17;&#26228;&#12425;&#12375;  <pr>&#x304D;&#12400;&#12425;&#12375;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">zabavenie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&c_v;&c_a;&c_g;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_b;&c_a;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5A1B;&#x6A02; <pr>y&#xFA;l&#xE8;</pr></trd>
+</drv>
+
+<drv mrk="distr.0ajxo">
+  <kap><tld/>a&jcirc;o, <var><kap><tld/>i&gcirc;o</kap></var></kap>
+  <snc mrk="distr.0ajxo.KOMUNE">
+    <dif>
+      Afero, okupo, okaza&jcirc;o kiu <tld/>as:
+      <ekz>
+        tiuj sonoj penetradis &gcirc;is en la malliberejon de Georgo, kaj tio donis al li
+        <tld/>a&jcirc;on
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amuzi&gcirc;u, la juneco bezonas <tld/>a&jcirc;ojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la laboruloj rapidas al ripozo a&ubreve; al <tld/>i&gcirc;o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Eisinger</nom> <klr>[&#8230;]</klr> elpensadis historietojn, <tld/>a&jcirc;ojn,
+        en kiuj li mem estis celo de mokado
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="https://www.vedem-terezin.cz/eo/la-respubliko-skid.html">
+          La respubliko &Scaron;kid</url></vrk>,
+          <lok>[vidita en 2017]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="amuz.0ajxo.KOMUNE">amuza&jcirc;o</ref>,
+      <ref cel="sxat.0okupo">&scirc;atokupo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_b;&c_a;&c_v;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd>Entspannung</trd>,
+    <trd>Freizeit</trd>
+  </trdgrp>
+  <trd lng="fr">distraction</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6C17;&#26228;&#12425;&#12375;&#x306B;&#x306A;&#x308B;&#12418;&#x306E; 
+    <pr>&#x304D;&#12400;&#12425;&#12375;&#x306B;&#x306A;&#x308B;&#12418;&#x306E;</pr></trd>,
+    <trd>&#x5A2F;&#x697D;  <pr>&#12372;&#12425;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="zh">&#x7DE9;&#x548C; <pr>hu&#x1CE;nh&#xE9;</pr></trd>
+</drv>
+
+<drv mrk="distr.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="distr.0igxi.deatentigxi">
+    <dif>
+      Esti malatentigata:
+      <ekz>
+        &ccirc;iuj hundoj devas esti de&ccirc;enigitaj kaj pelitaj en ilian mezon, ke ili disi&gcirc;u,
+        <tld/>i&gcirc;u kaj kuru sub vian pafon
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni povas lin trankvile pridemandi dum kelkaj
+        minutoj: li neniam <tld/>i&gcirc;as
+        <fnt>
+          <aut>A. Fern&aacute;ndez</aut>,
+          <vrk>Kalejdoskopa rememoro</vrk>,
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_d;&c_c;&c_ja;&c_g;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+    <trdgrp lng="fr">
+      <trd>se <ind>d&eacute;concentrer</ind></trd>,
+      <trd>se <ind>disperser</ind><klr tip="ind"> (se
+      d&eacute;concentrer)</klr></trd>,
+      <trd>se dissiper<klr tip="ind"> (se
+      d&eacute;concentrer)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>elkalandozik<klr tip="ind"> (sz&oacute;rakozott)</klr></trd>,
+      <trd>sz&oacute;rakozott</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>rozprasza&cacute; si&eogonek;</trd>,
+      <trd>by&cacute; <ind>roztargnionym</ind></trd>,
+      <trd>by&cacute; <ind>roztrzepanym</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_t;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </snc>
+  <snc mrk="distr.0igxi.amuzigxi">
+    <dif>
+      Esti amuzata:
+      <ekz>
+        la publiko bone <tld/>i&gcirc;is, &ccirc;iuj ridegis
+        <fnt>
+          <aut>J. Sigmond, S. Rodin</aut>,
+          <vrk>Libazar' Kaj Tero</vrk>,
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam ne&gcirc;as en la montoj, lokaj familioj veturas tien por <tld/>i&gcirc;i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>William Simcock</aut>
+          <vrk><url ref="&Monato;/2003/007873.html">Impresoj pri Portugalio</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i &scirc;atis babili kaj <tld/>i&gcirc;i kun sprita homo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2004/008358.html">Kuracbaneje</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_a;&c_b;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>,
+      <trd>&c_r;&c_a;&c_z;&c_mol;&c_v;&c_je;&c_j;&c_v;&c_a;&c_c;&c_c;&c_a; <klr>(&c_p;&c_je;&c_r;&c_a;&c_n;.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>s'<ind>amuser</ind></trd>,
+      <trd>se <ind>distraire</ind></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>sz&oacute;rakozik</trd>,
+      <trd>kikapcsol&oacute;dik</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>bawi&cacute; si&eogonek;</trd>,
+      <trd>oddawa&cacute; si&eogonek; <ind>zabawie</ind></trd>
+      <trd>oddawa&cacute; si&eogonek; <ind>rozrywce</ind></trd>,
+      <trd>oddawa&cacute; si&eogonek; <ind>uciechom</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </snc>
+  <snc mrk="distr.0igxi.disigxi">
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      <ref cel="dis.0igxi">Disi&gcirc;i</ref>, <ref cel="ir.dis0i">disiri</ref>:
+      <ekz>
+        la espero <tld/>i&gcirc;is, kiel fumo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nebulo tute <tld/>i&gcirc;is
+        <fnt>
+          <aut>R. L. Stevenson, trad. W. Morrison kaj W. W. Mann</aut>,
+          <vrk><url
+          ref="http://eo.wikisource.org/wiki/Doktoro_Jekyll_kaj_Sinjoro_Hyde/La_afero_pri_la_Carew-mortigo">
+          Doktoro Jekyll kaj Sinjoro Hyde</url></vrk>,
+          <lok>1909</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
+    <trdgrp lng="fr">
+      <trd>s'<ind>&eacute;parpiller</ind></trd>,
+      <trd>s'<ind>&eacute;gailler</ind></trd>,
+      <trd>s'<ind>&eacute;vanouir</ind><klr tip="ind">
+      (s'&eacute;parpiller)</klr></trd>,
+      <trd>se <ind>s&eacute;parer</ind><klr tip="ind">
+      (s'&eacute;parpiller)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">sz&eacute;tsz&oacute;r&oacute;dik</trd>
+    <trdgrp lng="pl">
+      <trd>oddziela&cacute; si&eogonek;</trd>,
+      <trd>rozdziela&cacute; si&eogonek;</trd>,
+      <trd>roz&lstroke;&aogonek;cza&cacute; si&eogonek;</trd>,
+      <trd>rozprasza&cacute; si&eogonek;<klr>
+      (rozrzuca&cacute;)</klr></trd>,,
+      <trd>rozstawa&cacute; si&eogonek;<klr> (z
+      kim&sacute;)</klr></trd>,
+      <trd>rozchodzi&cacute; si&eogonek;<klr> (z
+      kim&sacute;)</klr></trd>,
+      <trd>separowa&cacute; si&eogonek;</trd>
+    </trdgrp>
+  </snc>
+<trdgrp lng="de">
+    <trd>sich <ind>ablenken</ind></trd>,
+    <trd>sich <ind>zerstreuen</ind></trd>
+  </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5EA;&#x5D1;&#x5D3;&#x5E8;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6C17;&#x304C;&#25955;&#x308B;  <pr>&#x304D;&#x304C;&#12385;&#x308B;</pr></trd>,
+    <trd>&#x6C17;&#12434;&#x7D1B;&#12425;&#12377;  <pr>&#x304D;&#12434;&#x307E;&#x304E;&#12425;&#12377;</pr></trd>,
+    <trd>&#x6C17;&#26228;&#12425;&#12375;&#12434;&#12377;&#x308B;  <pr>&#x304D;&#12400;&#12425;&#12375;&#12434;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_v;&#x43E;&#x43B;&c_ib;&#x43A;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_v;&c_a;&c_zh;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_z;&c_a;&c_b;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
+  <trd lng="zh">&#25490;&#36963; <pr>p&#xE1;iqi&#x1CE;n</pr></trd>
+</drv>
+
+<drv mrk="distr.0igxema">
+  <kap><tld/>i&gcirc;ema</kap>
+  <snc mrk="distr.0igxema.neatenta">
+    <dif>
+      Ne kapabla fiksi sian atenton a&ubreve; neatenta pro tro profunda
+      medito:
+      <ekz>
+        la grandaj sciencistoj estas ofte <tld/>i&gcirc;emaj;
+      </ekz>
+      <ekz>
+        <tld/>i&gcirc;eme kaj revante mi mar&scirc;adis sen
+        &ccirc;irka&ubreve;rigardi
+        <fnt><bib>Revadoj</bib>, <lok>Na&ubreve;a promenado</lok></fnt>;
+      </ekz>
+      <ekz>
+        Aniko aspektis <tld/>i&gcirc;ema, &scirc;ia rigardo erarvagis, kaj en &scirc;ia parolo kvaza&ubreve;
+        mankis logiko
+        <fnt>
+          <aut>Julian Modest</aut>
+            <vrk><url ref="&Monato;/2000/007050.php">La kaptilo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 21</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        mi &scirc;vitegis pro stre&ccirc;o kiam li estis &jcirc;etanta al mi sian <tld/>i&gcirc;eman rigardon
+        <fnt>
+          <aut>Konstanten Krysakov</aut>
+          <vrk><url ref="&Monato;/2000/006805.php">Kota akvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 28</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="atent.0a">atenta</ref>
+  </snc>
+  <trd lng="be">&c_n;&c_ja;&c_w;&c_v;&c_a;&c_zh;&c_l;&c_ib;&c_v;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>zerstreut</trd>,
+    <trd>unaufmerksam</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>distrait<klr tip="ind"> (&eacute;tourdi)</klr></trd>,
+    <trd>&eacute;tourdi<klr tip="ind"> (distrait)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">sz&oacute;rakozott</trd>
+  <trdgrp lng="ja">
+    <trd>&#12358;&#x308F;&#x306E;&#x305D;&#12425;&#x306E;</trd>,
+    <trd>&#x307C;&#12435;&#12420;&#x308A;&#12375;&#x305F;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>roztargniony</trd>,
+    <trd>roztrzepany<klr> (nieuwa&zdot;ny)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_je;&c_ja;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_v;&c_n;&c_i;&c_m;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_t;&c_v;&c_l;&c_je;&c_k;&c_a;&c_ju;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_u;&c_v;&c_a;&c_zh;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_u;&c_v;&c_a;&c_zh;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#25955;&#x4F48;&#22320; <pr>s&#xE0;nb&#xF9;de</pr></trd>,
+    <trd>&#x4E0D;&#21608;&#21040; <pr>b&#xF9;zh&#x14D;ud&#xE0;o</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.34 2024/01/15 09:27:53
+Dmitri Gabinski: + trd be
+
+versio 1.32 2023/10/14 11:26:54
+revo: transskribo per <pr>
+
+versio 1.30 2023/04/30 06:30:36
+Paul Peeraerts: Steloj -> monato
+
+versio 1.29 2023/04/23 12:44:04
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.28 2023/04/17 15:28:11
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.27 2022/05/01 22:30:55
+Ulrich Fellmann: distro: +1 DE trd; distrajxo: 2 DE sxangxoj
+
+versio 1.26 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2022/04/22 16:48:28
+-->
+</vortaro>

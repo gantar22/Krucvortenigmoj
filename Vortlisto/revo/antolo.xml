@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: antolo.xml,v 1.30 2023/10/12 18:05:09 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>antologi</rad>/o
+</kap>
+<drv mrk="antolo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="antolo.0o.BELE">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:komunikoj" cel="tekst.0aro">Tekstaro</ref>,
+      libro en kiu estas kolektitaj arte valoraj prozaj a&ubreve; poeziaj verkoj
+      a&ubreve; fragmentoj el beletraj verkoj de diversaj
+      a&ubreve;toroj:
+      <ekz>
+        <tld/>o el sepdek tri poemoj
+        <fnt>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2003/008065.html">Finaj agordoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/10, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de elektitaj gaelaj poemoj verkitaj en la tuta 20a jarcento
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007935.html">Ne plu krios la koko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/10, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ctl>Esperanta <tld/>o: poemoj 1887-1981</ctl>
+        <fnt><vrk>Esperanta antologio: poemoj 1887-1981. &dash; Roterdamo:
+        Universala Esperanto-Asocio, 1984</vrk></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="digxest.0o">di&gcirc;esto</ref>,
+       <ref cel="epitom.0o">epitomo</ref>,
+       <ref cel="kresto.0o">krestomatio</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="antolo.0o.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Simila kolekto de verkoj muzikaj, belartaj, kinaj ktp.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_a;&c_n;&c_t;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="ca">antologia</trd>
+  <trdgrp lng="cs">
+    <trd>antologie</trd>,
+    <trd>v&yacute;bor z liter.</trd>
+  </trdgrp>
+  <trd lng="de">Anthologie</trd>
+  <trd lng="en">anthology</trd>
+  <trd lng="es">antolog&iacute;a</trd>
+  <trdgrp lng="fa">
+    <trd>&f_g;&a_z;&f_y;&a_d;&a_h;</trd>,
+    <trd>&f_g;&a_l;&f_ch;&f_y;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">anthologie</trd>
+  <trdgrp lng="he">
+    <trd>&#x5D0;&#x5B7;&#x5E0;&#x5EA;&#x5D5;&#x5B9;&#x5DC;&#x5D5;&#x5B9;&#x5D2;&#x5B4;&#x5D9;&#x5B8;&#x5D4;</trd>,
+    <trd>&#x5DE;&#x5D1;&#x5D7;&#x5E8; &#x5D9;&#x5E6;&#x5D9;&#x5E8;&#x5D5;&#x5EA;</trd>
+  </trdgrp>
+  <trd lng="hu">antol&oacute;gia</trd>
+  <trd lng="it">antologia</trd>
+  <trd lng="ja">&#x6587;&#x5B66;&#x9078;&#x96C6;  <pr>&#x3076;&#x3093;&#x304C;&#x304F;&#x305B;&#x3093;&#x3057;&#x3085;&#x3046;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>bloemlezing</trd>,
+    <trd>antologie</trd>
+  </trdgrp>
+  <trd lng="pl">antologia</trd>
+  <trd lng="ro">antologie</trd>
+  <trd lng="ru">&c_a;&c_n;&c_t;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>antol&oacute;gia</trd>,
+    <trd>antol&oacute;gia</trd>,
+    <trd>liter&aacute;rny v&yacute;ber</trd>,
+    <trd>zborn&iacute;k</trd>
+  </trdgrp>
+  <trd lng="uk">&c_a;&#x43D;&c_t;&#x43E;&#x43B;&#x43E;&c_g;&c_ib;&#x44F;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.28 2023/05/07 09:24:30
+Paul Peeraerts: + lok
+
+versio 1.27 2023/01/25 23:28:31
+Vito Redsky: + trd pl + trd ro
+
+versio 1.26 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.23 2020/12/06 22:38:10
+Wolfram Diestel: ekz-oj, ref-oj
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2013/08/16 11:10:15  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.19  2012/01/01 20:10:26  revo
+-->
+</vortaro>

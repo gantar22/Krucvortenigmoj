@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: jahurt.xml,v 1.27 2023/12/03 07:09:06 revo Exp $">
+<kap>
+  <rad>jahurt</rad>/o <fnt><bib>PV</bib></fnt>,
+  <var><kap><rad var="g">jogurt</rad>/o <fnt><bib>PV</bib></fnt></kap></var>
+</kap>
+<drv mrk="jahurt.0o">
+  <kap><tld/>o,
+    <var><kap><tld var="g"/>o</kap></var>
+  </kap>
+  <uzo tip="fak">KUI</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="lakt.0o.mambesto">Lakto</ref>
+      acidigita per speciala fermento, ofte kun aldono de fruktoj,
+      tre saniga por la intestoj:
+      <ekz>
+        laktejo fabrikas <tld/>ojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=304667">Sainte-Marie-la-Blanche</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        haveblas pluraj specoj de acidlakto, kefiro kaj <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=51484">Finnlanda kuirarto</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        poroduktoj reklamataj televide, kiel <tld var="g"/>o kaj aliaj lakta&jcirc;oj ri&ccirc;igitaj je
+        vegetalaj steroloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/011124.php">Atentu la koron</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anstata&ubreve;igu ilin per plantdevena lakto (kiel sojlakto), sojo<tld var="g"/>o a&ubreve; sojka&ccirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lode Van De Velde</aut>
+          <vrk><url ref="&Monato;/2013/010934.php">Sablohorlo&gcirc;o for&scirc;ovas piramidon</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="kefir.0o">kefiro</ref>
+  </snc>
+  <trd lng="be">&c_jo;&c_g;&c_u;&c_r;&c_t;</trd>
+  <trd lng="bg">&c_k;&c_i;&c_s;&c_je;&c_l;&c_o; &c_m;&c_l;&c_ja;&c_k;&c_o;</trd>
+  <trd lng="ca">iogurt</trd>
+  <trd lng="cs">jogurt</trd>
+  <trd lng="de">Joghurt</trd>
+  <trd lng="el">
+  &gamma;&jota;&alfa;&omikron;&ypsilon_ton;&rho;&tau;&jota;</trd>
+  <trd lng="en">yogurt</trd>
+  <trd lng="es">yogur</trd>
+  <trdgrp lng="fr">
+    <trd>yaourt</trd>,
+    <trd>yoghourt</trd>,
+    <trd>yogourt</trd>
+  </trdgrp>
+  <trd lng="hu">joghurt</trd>
+  <trd lng="it">yoghurt</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E8;&#x30FC;&#x30B0;&#x30EB;&#x30C8;</trd>,
+    <trd>&#x30E4;&#x30AF;&#x30EB;&#x30C8;  <pr>&#x3084;&#x304F;&#x308B;&#x3068;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">yoghurt</trd>
+  <trd lng="pl">jogurt</trd>
+  <trd lng="pt">iogurte</trd>
+  <trd lng="ru">&c_j;&c_o;&c_g;&c_u;&c_r;&c_t;</trd>
+  <trd lng="sk">jogurt</trd>
+  <trd lng="sv">yoghurt</trd>
+  <trd lng="tr">yo&gbreve;urt</trd>
+  <trd lng="uk">&#x439;&#x43E;&#x433;&#x443;&#x440;&#x442;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x9178;&#x5976; <pr>su&#x101;nn&#x1CE;i</pr></trd>,
+    <trd>&#x9178;&#x4E73; <pr>su&#x101;nr&#x1D4;</pr></trd>,
+    <trd>&#x9178;&#x4E73;&#x916A; <pr>su&#x101;nr&#x1D4;l&#xE0;o</pr></trd>,
+    <trd>&#x4F18;&#x683C; <pr>y&#x14D;ug&#xE9;</pr></trd>,
+    <trd>&#x4F18;&#x916A;&#x4E73; <pr>y&#x14D;ulu&#xF2;r&#x1D4;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/18 05:25:55
+revo: transskribo per <pr>
+
+versio 1.23 2020/09/09 06:10:37
+Wolfram Diestel: +tld-var
+
+Revision 1.21  2018/12/16 17:10:18  revo
+Wolfram Diestel: +var, +ekz-oj
+
+Revision 1.20  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2013/09/23 14:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.18  2009/08/27 16:31:53  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.17  2008/06/02 16:30:30  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2004/09/26 16:31:50  revo
+-->
+</vortaro>

@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: moder.xml,v 1.23 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>moder</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="moder.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="moder.0a.KOMUNE">
+    <dif>
+      Ne <ref cel="tro.0a">troa</ref>, ne <ref tip="ant" cel="eksces.0a">ekscesa</ref>, ne 
+      <ref tip="ant" cel="ekstre.0a.kvante">ekstrema<sncref/></ref>:
+      <ekz>
+        se ili neniam restas sen rimedoj, tio estas la merito de ilia <tld/>a vivo
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sa&gcirc;ulo sciis esti <tld/>a: li montris la internan vundon de l' &scirc;tato, sed li
+        ne flamigis &gcirc;in
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li nun sentis al &scirc;i amon nur <tld/>an
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li sidi&gcirc;is &ccirc;e la kartotablo kun esprimo de <tld/>a plezuro
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vivo <tld/>a estas vivo sendan&gcirc;era
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a ru&gcirc;eco de la konjunktivo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mez.0a">meza</ref>,
+      <ref cel="modest.0a">modesta</ref>,
+      <ref cel="sobr.0a">sobra</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_r;&c_y;&c_m;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_m;&c_ja;&c_r;&c_k;&c_o;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_u;&c_m;&c_je;&c_r;&c_je;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>decentn&iacute;</trd>,
+    <trd>m&iacute;rn&yacute;</trd>,
+    <trd>um&iacute;rn&ecaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>m&auml;&szlig;ig</trd>,
+    <trd>gem&auml;&szlig;igt</trd>
+  </trdgrp>
+  <trd lng="en">moderate</trd>
+  <trd lng="es">moderado, -a</trd>
+  <trdgrp lng="fa">
+    <trd>&a_m;&f_y;&a_A;&a_n;&a_h;&zwnj;&a_r;&a_w;</trd>,
+    <trd>&a_m;&a_ayn;&a_t;&a_d;&a_l;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>m&eacute;diocre</trd>,
+    <trd>mod&eacute;r&eacute;</trd>,
+    <trd>modique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>m&eacute;rs&eacute;kelt</trd>,
+    <trd>m&eacute;rt&eacute;kletes</trd>,
+    <trd>m&eacute;rt&eacute;ktart&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9069;&#x5EA6;&#x306E;  <pr>&#x3066;&#x304D;&#x3069;&#x306E;</pr></trd>,
+    <trd>&#x624B;&#x3054;&#x308D;&#x306A;  <pr>&#x3066;&#x3054;&#x308D;&#x306A;</pr></trd>,
+    <trd>&#x307B;&#x3069;&#x307B;&#x3069;&#x306E;</trd>,
+    <trd>&#x7BC0;&#x5EA6;&#x3042;&#x308B;  <pr>&#x305B;&#x3064;&#x3069;&#x3042;&#x308B;</pr></trd>,
+    <trd>&#x7A4F;&#x5065;&#x306A;  <pr>&#x304A;&#x3093;&#x3051;&#x3093;&#x306A;</pr></trd>,
+    <trd>&#x4E2D;&#x5EB8;&#x306A;  <pr>&#x3061;&#x3085;&#x3046;&#x3088;&#x3046;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>matig</trd>,
+    <trd>gematigd</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>skromny</trd>,
+    <trd>opanowany</trd>,
+    <trd>umiarkowany</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>moderado</trd>,
+    <trd>comedido</trd>,
+    <trd>frugal</trd>,
+    <trd>m&oacute;dico</trd>,
+    <trd>temperado <klr>(moderado)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>modest</trd>,
+    <trd>senin</trd>,
+    <trd>moderat</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_m;&c_je;&c_r;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">mierny</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43C;&#x456;&#x440;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x43E;&#x43C;&#x456;&#x440;&#x43A;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x441;&#x442;&#x440;&#x438;&#x43C;&#x430;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x441;&#x43A;&#x440;&#x43E;&#x43C;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="moder.0eco">
+  <kap><tld/>eco, <var><kap><tld/>o</kap></var></kap>
+  <snc mrk="moder.0eco.KOMUNE">
+    <dif>
+      Eco de iu a&ubreve; io <tld/>a:
+      <ekz>
+        en la mezo de la <klr>[&#x2026;]</klr> uragano de via pasio vi devas observi certan
+        <tld/>econ, kiu donas al &ccirc;io harmonion
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sa&gcirc;econ, <tld/>econ, paciencon ne konis ili
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li sciis gardi certan <klr>[&#x2026;]</klr> <tld/>econ en dibo&ccirc;o
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vivo sen <tld/>o kondukas al mizero
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_r;&c_y;&c_m;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_m;&c_ja;&c_r;&c_k;&c_o;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_u;&c_m;&c_je;&c_r;&c_je;&c_n;&c_o;&c_s;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>m&iacute;rnost</trd>,
+    <trd>zdr&zcaron;enlivost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>M&auml;&szlig;igung</trd>,
+    <trd>M&auml;&szlig;igkeit</trd>
+  </trdgrp>
+  <trd lng="en">moderation</trd>
+  <trd lng="es">moderaci&oacute;n</trd>
+  <trdgrp lng="fa">
+    <trd>&a_m;&f_y;&a_A;&a_n;&a_h;&zwnj;&a_r;&a_w;&f_y;</trd>,
+    <trd>&a_A;&a_ayn;&a_t;&a_d;&a_A;&a_l;</trd>
+  </trdgrp>
+  <trd lng="fr">mod&eacute;ration</trd>
+  <trdgrp lng="hu">
+    <trd>m&eacute;rs&eacute;kletess&eacute;g</trd>,
+    <trd>m&eacute;rt&eacute;kletess&eacute;g</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9069;&#x5EA6;  <pr>&#x3066;&#x304D;&#x3069;</pr></trd>,
+    <trd>&#x7BC0;&#x5EA6;  <pr>&#x305B;&#x3064;&#x3069;</pr></trd>,
+    <trd>&#x4E2D;&#x5EB8;  <pr>&#x3061;&#x3085;&#x3046;&#x3088;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>gematigdheid</trd>,
+    <trd>mate</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>skromno&sacute;&cacute;</trd>,
+    <trd>umiarkowanie</trd>
+  </trdgrp>
+  <trd lng="ro">cump&abreve;tare</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_m;&c_je;&c_r;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>miernos&tcaron;</trd>,
+    <trd>umiernenos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43C;&#x456;&#x440;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x43F;&#x43E;&#x43C;&#x456;&#x440;&#x43A;&#x43E;&#x432;&#x430;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x441;&#x442;&#x440;&#x438;&#x43C;&#x430;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x441;&#x43A;&#x440;&#x43E;&#x43C;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="moder.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="moder.0igi.KOMUNE">
+    <dif>
+      Igi ion a&ubreve; iun <tld/>a:
+      <ekz>
+        kolerego malfacile <tld/>igita kuntiris liajn lipojn
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la amo <klr>[&#x2026;]</klr> naski&gcirc;as per tempo, kaj la sperto anka&ubreve; montras, ke tempo
+        &gcirc;in tre ofte <tld/>igas
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por &scirc;afo tondita Dio venton <tld/>igas
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="brid.0i.FIG">bridi<sncref/></ref>,
+      <ref cel="mild.0igi">mildigi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_ib;&c_sh;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_r;&c_a;&c_v;&c_ja; &c_u;&c_m;&c_je;&c_r;&c_je;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>m&iacute;rnit <klr>(rychlost)</klr></trd>,
+    <trd>zm&iacute;rnit</trd>,
+    <trd>zm&iacute;r&ncaron;ovat</trd>
+  </trdgrp>
+  <trd lng="de">m&auml;&szlig;igen</trd>
+  <trd lng="en">moderate</trd>
+  <trd lng="es">moderar</trd>
+  <trd lng="fa">&a_t;&a_ayn;&a_d;&f_y;&a_l; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trdgrp lng="fr">
+    <trd>mod&eacute;rer</trd>,
+    <trd>temp&eacute;rer</trd>
+  </trdgrp>
+  <trd lng="hu">m&eacute;rs&eacute;kel</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7BC0;&#x5236;&#x3059;&#x308B;  <pr>&#x305B;&#x3063;&#x305B;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7DE9;&#x548C;&#x3059;&#x308B;  <pr>&#x304B;&#x3093;&#x308F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6291;&#x3048;&#x308B;  <pr>&#x304A;&#x3055;&#x3048;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">matigen</trd>
+  <trdgrp lng="pl">
+    <trd>moderowa&cacute;</trd>,
+    <trd>poskramia&cacute;</trd>,
+    <trd>za&lstroke;agodzi&cacute;</trd>,
+    <trd>przyt&lstroke;umia&cacute;</trd>,
+    <trd>u&sacute;mierza&cacute;</trd>
+  </trdgrp>
+    <trdgrp lng="ro">
+    <trd>modera</trd>,
+    <trd>&icirc;mbl&acirc;nzi</trd>,
+    <trd>cump&abreve;ta</trd>,
+    <trd>suprim&abreve;</trd>,
+    <trd>calmeaz&abreve;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_m;&c_je;&c_r;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_d;&c_je;&c_r;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">zmierni&tcaron;</trd>
+  <trd lng="uk">&#x437;&#x43C;&#x435;&#x43D;&#x448;&#x438;&#x442;&#x438;</trd>
+</drv>
+
+<drv mrk="moder.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="moder.0ismo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Pli&scirc;ato de <ref tip="vid" cel="kompro.0o">kompromisaj</ref>,
+      maldrastaj, prudentaj agmanieroj, kontraste al <ref tip="ant" cel="ekstre.0ismo.POL">ekstremismo</ref>:
+      <ekz>
+        troigo en sociaj ekstremoj nomi&gcirc;as emfaze ekstremismo
+        <klr>[&#x2026;]</klr>, kies inverso estas <tld/>ismo
+        <fnt>
+          <aut>E. Pauli</aut>,
+          <vrk><url ref="http://www.cfh.ufsc.br/~simpozio/">
+          Enciklopedio simpozio</url></vrk>,
+          <lok>artikolo &leftquot;ekstrema&rightquot;, 1996</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ismo do estas: malekstrema kaj neideologia pozicio
+        <fnt>
+          <aut>K. Miner</aut>,
+          <vrk><url ref="http://www.sunflower.com/~miner/TAGLIBRO_package/taglibro.html">
+          taglibro</url></vrk>,
+          <lok>2004-03-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="defetism.0o">defetismo</ref>,
+      <ref cel="konfor.0ismo">konformismo</ref>,
+      <ref cel="oportu.0ismo">oportunismo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Mitte <klr>(politisch)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>centrisme</trd>,
+    <trd>mesure<klr> (mod&eacute;ration)</klr></trd>,
+    <trd>mod&eacute;ration</trd>
+  </trdgrp>
+  <trd lng="ja">&#x7A4F;&#x548C;&#x4E3B;&#x7FA9;  <pr>&#x304A;&#x3093;&#x308F;&#x3057;&#x3085;&#x304E;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>umiar</trd>,
+    <trd>pow&sacute;ci&aogonek;gliwo&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>modera&#x21B;ie</trd>,
+    <trd>cump&abreve;tare</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="moder.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="moder.mal0a.KOMUNE">
+    <dif>
+      <ref tip="super" cel="tro.0a">Troa</ref>, ekscesa, ekstrema:
+      <ekz>
+        &scirc;i perdis la konscion &ccirc;e la penso, ke &scirc;i estas en la manoj de tiel mal<tld/>a
+        kaj potenca sinjoro
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        knabino <klr>[&#x2026;]</klr> meze de la mal<tld/>a kaj senbrida amaso
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun karaktero tia, kia estas la &scirc;ia, pasia, mal<tld/>a, kaj pu&scirc;anta &ccirc;ion &gcirc;is
+        ekstremo, mi konfesas, ke mi ne estas trankvila
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="brid.sen0a">senbrida</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="lim.0o">limo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_n;&c_ja;&c_s;&c_t;&c_r;&c_y;&c_m;&c_a;&c_n;&c_y;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_p;&c_r;&c_je;&c_k;&c_o;&c_m;&c_je;&c_r;&c_je;&c_n;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_k;&c_a;&c_l;&c_je;&c_n;</trd>,
+    <trd>&c_n;&c_je;&c_u;&c_m;&c_je;&c_r;&c_je;&c_n;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nest&rcaron;&iacute;dm&yacute;</trd>,
+    <trd>nez&rcaron;&iacute;zen&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>unm&auml;&szlig;ig</trd>,
+    <trd>exzessiv</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>excessive</trd>,
+    <trd>immoderate</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>desmesurado</trd>,
+    <trd>excesivo</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_f;&a_r;&a_A;&a_T;&f_y;</trd>,
+    <trd>&a_t;&a_n;&a_d;&a_r;&a_w;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>excessif</trd>,
+    <trd>immod&eacute;r&eacute;</trd>,
+    <trd>outr&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>m&eacute;rt&eacute;ktelen</trd>,
+    <trd>szertelen</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x904E;&#x5EA6;&#x306E;  <pr>&#x304B;&#x3069;&#x306E;</pr></trd>,
+    <trd>&#x7BC0;&#x5EA6;&#x306E;&#x306A;&#x3044;  <pr>&#x305B;&#x3064;&#x3069;&#x306E;&#x306A;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>onmatig</trd>,
+    <trd>buitensporig</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ekstremalny</trd>,
+    <trd>przesadny</trd>,
+    <trd>nieumiarkowany</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>extrem</trd>,
+    <trd>exagerat</trd>,
+    <trd>imoderat</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_je;&c_u;&c_m;&c_je;&c_r;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bezuzdn&yacute;</trd>,
+    <trd>nestriedmy</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x435;&#x43F;&#x43E;&#x43C;&#x456;&#x440;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43D;&#x435;&#x43F;&#x43E;&#x43C;&#x456;&#x440;&#x43A;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43D;&#x435;&#x441;&#x442;&#x440;&#x438;&#x43C;&#x430;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.20 2021/06/19 15:32:26
+Wolfram Diestel: ekz-oj, ref-oj
+
+versio 1.19 2021/02/14 19:10:32
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.17  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/03/01 08:10:16  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.15  2013/08/05 09:10:15  revo
+Joop Eggen: +trd bg de en
+
+Revision 1.14  2010/05/18 16:30:39  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2008/09/20 07:22:18  revo
+-->
+</vortaro>

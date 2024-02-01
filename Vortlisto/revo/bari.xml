@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bari.xml,v 1.27 2023/08/31 08:48:49 revo Exp $">
+  <kap>
+    <rad>bari</rad>/o
+    <fnt>Z</fnt>
+  </kap>
+<drv mrk="bari.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <mlg kod="IUPAC">Ba</mlg>
+  <snc>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM" lst="voko:&hcirc;emiaj_elementoj" val="56">elemento</ref> kun
+      atomnumero 56, atompezo 137,34;
+      <ref tip="super" cel="metal.teralkala0o">teralkala metalo</ref>
+      ar&gcirc;ente blanka, fandebla anta&ubreve; la ru&gcirc;i&gcirc;o; denseco 3,78:
+      <ekz>
+        <tld/>o estas venena
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=24496">Bario</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Humphry Davy</nom> malkovris la elementojn natrio, kalio, <tld/>o, stroncio, kalcio
+        kaj magnezio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=46473">Humphry Davy</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_r;&c_y;&c_j;</trd>
+  <trd lng="bg">&c_b;&c_a;&c_r;&c_i;&c_j;</trd>
+  <trd lng="br">bariom</trd>
+  <trd lng="ca">bari</trd>
+  <trd lng="cs">baryum</trd>
+  <trd lng="de">Barium</trd>
+  <trd lng="en">barium</trd>
+  <trd lng="es">bario</trd>
+  <trd lng="fr">baryum</trd>
+  <trd lng="he">&#x5D1;&#x5E8;&#x5D9;&#x5D5;&#x5DD;</trd>
+  <trd lng="hu">b&aacute;rium</trd>
+  <trd lng="id">barium</trd>
+  <trd lng="it">bario</trd>
+  <trd lng="ja">&#x30D0;&#x30EA;&#x30A6;&#x30E0;</trd>
+  <trd lng="la">Barium</trd>
+  <trd lng="nl">barium</trd>
+  <trd lng="pl">bar</trd>
+  <trd lng="pt">b&aacute;rio</trd>
+  <trd lng="ru">&c_b;&c_a;&c_r;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>b&aacute;rium</trd>,
+    <trd>b&aacute;ryum</trd>
+  </trdgrp>
+  <trd lng="sv">barium</trd>
+  <trd lng="uk">&#x431;&#x430;&#x440;&#x456;&#x439;</trd>
+</drv>
+</art>
+<!--
+$Log$
+Revision 1.23  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/06/06 04:10:27  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.20  2014/01/30 16:10:29  revo
+Joop Eggen: +trd bg
+
+Revision 1.19  2013/09/17 19:10:51  revo
+Wolfram Diestel: val
+
+Revision 1.18  2013/09/15 15:10:38  revo
+Wolfram Diestel: simb. laux IUPAC
+
+Revision 1.17  2013/08/24 20:10:37  revo
+-->
+</vortaro>

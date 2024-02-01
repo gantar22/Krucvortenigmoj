@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: utarakand.xml,v 1.3 2023/01/11 09:32:59 revo Exp $">
+<kap>
+  <rad>Utarakand</rad>/o <fnt><bib>Viki</bib></fnt>
+</kap>
+<drv mrk="utarakand.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="utarakand.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Gubernio en la norda parto de
+      <ref tip="malprt" cel="hind.H0ujo.POL">Hindujo</ref>:
+      <ekz>
+        bida melio en <klr>...</klr> <tld/>o
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Bida_melio">
+          Bida melio</url>, 2014-06-01</lok>
+        </fnt>.        
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_U;&c_t;&c_a;&c_r;&c_a;&c_k;&c_g;&c_a;&c_n;&c_d;</trd>
+  <trd lng="fr">Uttarakhand</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.3 2023/01/11 09:32:59
+Dmitri Gabinski: + trd be
+
+versio 1.2 2022/05/06 12:17:08
+aktualigo lingvokodoj kaj URL-unuoj
+-->
+</vortaro>

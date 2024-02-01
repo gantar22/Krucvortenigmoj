@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: novic.xml,v 1.30 2023/10/20 05:22:00 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>novic</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="novic.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="novic.0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Mona&hcirc;i&gcirc;onto, viro pasiganta provtempon en mona&hcirc;ejo anta&ubreve; 
+      definitive mona&hcirc;i&gcirc;i:
+      <ekz>
+        episkopo do devas esti neripro&ccirc;ebla, edzo de unu edzino, sobra, moderema,
+        ordema, gastama, instruema, <klr>[&#x2026;]</klr> ne <tld/>o, por ke li ne &scirc;velu per
+        fiereco kaj ne falu en la kondamnon de la diablo
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Timoteo 3:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Karolo <nom>Pi&ccirc; </nom><klr>[&#x2026;]</klr> fari&gcirc;is por kelkaj monatoj e&ccirc;
+        <tld/>o &ccirc;e dominikanoj, sed balda&ubreve; revenis hejmen
+        <fnt>
+          <vrk>Karolo Pi&ccirc; kaj liaj mondoj</vrk>
+          <lok><url ref="http://www.mujweb.cz/Veda/traxler/INFORM2.HTM">Informilo-2 de la 14a
+          Internacia Esperanto-konferenco</url>,
+          en Str&aacute;&zcaron;nice, 2001-07-16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="laik.0o">laiko</ref>
+    <trd lng="be">&c_p;&c_a;&c_s;&c_l;&c_u;&c_sh;&c_n;&c_ib;&c_k;</trd>
+    <trd lng="br">danvez <ind>lean</ind></trd>
+    <trd lng="de">Novize</trd>
+    <trd lng="hu">nov&iacute;cius</trd>
+    <trd lng="nl">novice</trd>
+    <trdgrp lng="ru">
+      <trd>&c_b;&c_je;&c_l;&c_je;&c_c;</trd>,
+      <trd>&c_p;&c_o;&c_s;&c_l;&c_u;&c_sh;&c_n;&c_i;&c_k;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="novic.0o.novulo">
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="dif" cel="nov.0ulo">Novulo</ref>:
+      <ekz>
+        li estas <tld/>o &ccirc;e virinoj;
+      </ekz>
+      <ekz>
+        <tld/>e maltrafi;
+      </ekz>
+      <ekz>
+        mi <esc>komensis</esc> lerni Esperanton pluraj semajnoj anta&ubreve; nun, mi ankora&ubreve; estas
+        <tld/>o, kaj mi benzonas la <esc>vortaro</esc> apud mi
+        <fnt>
+          <vrk><url ref="https://forum.unilang.org/viewtopic.php?t=40847">Nova kaj aspiranta
+          parolanto - UniLang</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inter la kursanoj estas lernejanoj, studentoj, plena&gcirc;uloj, <tld/>oj kaj spertuloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jefim Zajdman</aut>
+          <vrk><url ref="&Monato;/2003/008030.html">Malgrandaj grandaj
+          majstroj</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se ekzistas tia impona gazeto, la internacia lingvo de d-ro <nom>Zamenhof</nom> estas viva
+        kaj matura, konvinki&gcirc;is la <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2013/010937.php">Ar&gcirc;enta kunlaboro</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj jam kapablas pli-malpli kontentige legi en Esperanto
+        <fnt>
+          <aut>V. Kudrjavcev</aut>,
+          <vrk>Mi rekomendas...</vrk>,
+          <bib>LOdE</bib>,
+          <lok>1999:1 (51)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu <tld/>o devis kelkfoje mane reskribi la <ctl>Teorion</ctl>
+        <fnt>
+          <aut>V. Melnikov</aut>,
+          <vrk>Esperanto kaj &rightquot;veraj&#x201D; homoj</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2001:1</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="vetera.0o.FIG">veterano<sncref/></ref>,
+    </refgrp>
+    <rim>
+      Nur la senco <tld/>o<sncref ref="novic.0o.REL"/> estas
+      Fundamenta, kiel atestas la UV-tradukoj en la lingvojn kiuj
+      ne konfuzas <ctl>mona&hcirc;i&gcirc;onto</ctl>n kaj <ctl>novulo</ctl>n.
+      La sencon <tld/>o<sncref ref="novic.0o.novulo"/> PV kaj
+      amba&ubreve; PIV-oj misprezentas kiel figuran, iel (kiel?)
+      derivitan el <tld/>o<sncref ref="novic.0o.REL"/>; fakte
+      temas pri atavismo <esc>latin(id)a</esc> &dash; en Latino, male ol en
+      Esperanto, la &ccirc;efsignifo de <ctl>novicius</ctl> estis la
+      &gcirc;enerala <ctl>novulo</ctl>, el kiu la senco
+      <ctl>mona&hcirc;i&gcirc;onto</ctl> evoluis per specialigo, facile
+      komprenebla kadre de mona&hcirc;ejo, sed komika en aliaj situacioj.
+      Tial la ekzemplo pri
+      <ekz>
+        <tld/>o &ccirc;e virinoj,
+      </ekz>
+      persiste
+      prezentata de PV kaj amba&ubreve; PIV-oj, provizas ri&ccirc;an materialon
+      por fantazioj &ccirc;e homo, en kies gepatra lingvo ne ekzistas la
+      konfuzo inter <ctl>mona&hcirc;i&gcirc;onto</ctl> kaj <ctl>novulo</ctl>
+      &ndash; sed por fantazioj tute alispece amuzaj ol &ccirc;e la
+      latinidlingvanoj.
+      <aut>S. Pokrovskij</aut>
+    </rim>
+    <rim>
+      Indiferente pri historia deveno kaj fundamenteco
+      la figura uzo de  <ctl>novico</ctl> tamen
+      ne &scirc;ajnas tre malfacile komprenebla, ekzemple ne pli ol tiu de
+      kontrasta <ctl>veterano</ctl>,
+      kiu prezentas similan etendon de speciala, societa senco
+      al &gcirc;enerala, civila senco.
+      <aut>&jcirc;v</aut>
+    </rim>
+    <trd lng="be">&c_p;&c_a;&c_ch;&c_a;&c_t;&c_k;&c_o;&c_v;&c_je;&c_c;</trd>
+    <trd lng="br">neveziad</trd>
+    <trdgrp lng="de">
+      <trd>Neuling</trd>,
+      <trd>Frischling</trd>
+    </trdgrp>
+    <trd lng="es">principiante</trd>
+    <trd lng="hu">kezd&odblac;</trd>
+    <trd lng="nl">nieuweling<klr tip="ind"> (ontr.)</klr></trd>
+    <trd lng="ru">&c_n;&c_o;&c_v;&c_i;&c_ch;&c_o;&c_k;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>novic</trd>,
+    <trd>nov&aacute;&ccaron;ek</trd>
+  </trdgrp>
+  <trd lng="en">novice</trd>
+  <trd lng="es">novicio</trd>
+  <trd lng="fr">novice<klr> (masc.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4FEE;&#x7DF4;&#x58EB;  <pr>&#x3057;&#x3085;&#x3046;&#x308C;&#x3093;&#x3057;</pr></trd>,
+    <trd>&#x898B;&#x7FD2;&#x3044;&#x50E7;  <pr>&#x307F;&#x306A;&#x3089;&#x3044;&#x305D;&#x3046;</pr></trd>,
+    <trd>&#x521D;&#x5FC3;&#x8005;  <pr>&#x3057;&#x3087;&#x3057;&#x3093;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x65B0;&#x524D;  <pr>&#x3057;&#x3093;&#x307E;&#x3048;</pr></trd>,
+    <trd>&#x672A;&#x7D4C;&#x9A13;&#x8005;  <pr>&#x307F;&#x3051;&#x3044;&#x3051;&#x3093;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>fryc</trd>,
+    <trd>nowicjusz</trd>,
+    <trd>&zdot;&oacute;&lstroke;todzi&oacute;b</trd>
+  </trdgrp>
+  <trd lng="pt">novi&ccedil;o</trd>
+  <trdgrp lng="ro">
+    <trd>novice</trd>,
+    <trd>&icirc;ncep&abreve;tor</trd>,
+    <trd>mucos</trd>
+  </trdgrp>
+  <trd lng="sk">nov&aacute;&ccaron;ik</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x43E;&#x432;&#x430;&#x447;&#x43E;&#x43A;</trd>,
+    <trd>&#x43F;&#x43E;&#x441;&#x43B;&#x443;&#x448;&#x43D;&#x438;&#x43A;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="novic.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="novic.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Sensperta, komencanta en la koncerna afero;
+      ne <ref tip="ant" cel="vetera.0a.FIG">veterana</ref>:
+      <ekz>
+        servistineto <tld/>a
+        <fnt>
+          <aut>G. Eekhoud, trad. Amatus</aut>,
+          <vrk>La Servistineto</vrk>,
+          <lok>Belga Esperantisto, 1910-02, p. 24a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bak.nov0ita.FIG">novbakita</ref>
+    </refgrp>
+    <trd lng="de">unerfahren</trd>
+  </snc>
+  <trd lng="fr">novice<klr> (adj.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>nieobeznany</trd>,
+    <trd>nieobyty</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>necunoscut</trd>,
+    <trd>neobi&#x219;nuit</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="novic.0ino">
+  <kap><tld/>ino</kap>
+  <snc mrk="novic.0ino.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Virino pasiganta provtempon en mona&hcirc;inejo anta&ubreve; 
+      definitive mona&hcirc;ini&gcirc;i:
+      <ekz>
+        <tld/>ino en la samariana ordeno
+        <fnt>
+          <vrk><url ref="http://www.ikue.org/cz/arkivo/a-61-1-06.htm">Dio Benu 61-1/2006 -
+          IKUE</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_l;&c_u;&c_sh;&c_n;&c_ib;&c_c;&c_a;</trd>
+  <trd lng="br">danvez <ind>leanez</ind></trd>
+  <trd lng="cs">novicka</trd>
+  <trd lng="de">Novizin</trd>
+  <trd lng="en">novice</trd>
+  <trd lng="es">novicia</trd>
+  <trd lng="fr">novice<klr> (f&eacute;m.)</klr></trd>
+  <trd lng="hu">nov&iacute;cia</trd>
+  <trd lng="nl">novice<klr tip="ind"> (vr.)</klr></trd>
+  <trd lng="pl">nowicjuszka</trd>
+  <trdgrp lng="ro">
+    <trd>novice&#x219;ti</trd>,
+    <trd>novice</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_je;&c_l;&c_i;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_l;&c_u;&c_sh;&c_n;&c_i;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">novicka</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/20 05:22:00
+revo: transskribo per <pr>
+
+versio 1.28 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.26 2022/01/04 22:31:57
+Vito Redsky: + trd pl + trd ro
+
+Revision 1.24  2017/10/02 15:10:15  revo
+Jeromo Vasxe: + ~a
+
+Revision 1.23  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2009/10/24 16:31:33  revo
+Russ Williams: +trd en
+
+Revision 1.20  2009/10/15 16:32:03  revo
+-->
+</vortaro>

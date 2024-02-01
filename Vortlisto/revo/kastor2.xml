@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kastor2.xml,v 1.15 2023/12/03 08:00:24 revo Exp $">
+<kap>
+<rad>Kastor</rad>/o
+</kap>
+<drv mrk="kastor2.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kastor2.0o.mit">
+  <uzo tip="fak">MIT</uzo>
+    <dif>
+      Helena heroo, filo de
+      <ref tip="vid" cel="zeuxs.0o">Ze&ubreve;so</ref>, &gcirc;emela frato
+      de <ref tip="vid" cel="poluks.0o.mit">Polukso</ref>, kaj do unu el
+      du <ref tip="vid" cel="dioskur.0oj">Dioskuroj</ref>;
+      cetere partoprenanto en la ekspedicio de la
+      <ref tip="malprt" cel="argonauxt.0oj">Argona&ubreve;toj</ref>:
+      <ekz>
+        je <tld/>o! kiel dormema mi estas
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>!
+      </ekz>
+      <ekz>
+        kiom da forto estas en vi, da floranta juneco, kapabloj, talentoj! veraj ...
+        <tld/>o kaj Polukso
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Polukso kaj <tld/>o estis edukitaj de Kirono, la centa&ubreve;ro
+        <klr>[&#x2026;]</klr>
+        <tld/>o fari&gcirc;is &ccirc;ar&scirc;oforo kaj Polukso luktisto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=306587">Kastoro
+          kaj Polukso</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_K;&c_a;&c_s;&c_t;&c_a;&c_r; <klr tip="amb">(&c_m;&c_ib;&c_t;&c_y;&c_ch;&c_n;&c_y; &c_g;&c_je;&c_r;&c_o;&c_j;)</klr></trd>
+  </snc>
+  <snc mrk="kastor2.0o.ast">
+    <mlg>&alfa; Gem</mlg>
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Unu el du &ccirc;efaj <ref tip="super" cel="stel.0o.AST">stelo</ref>j de la stelaro de la 
+      <ref tip="malprt" cel="gxemel.Gx0oj">&Gcirc;emeloj</ref>:
+      <ekz>
+        la &gcirc;emelidoj estas meteorfluo <klr>[radianta el]</klr> regiono kiu proksimas la
+        stelon <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=531279">&Gcirc;emelidoj</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+   <trdgrp lng="be">
+    <trd>&c_K;&c_a;&c_s;&c_t;&c_a;&c_r; <klr tip="amb">(&c_z;&c_o;&c_r;&c_k;&c_a;)</klr></trd>,
+    <trd>&c_A;&c_l;&c_mol;&c_f;&c_a; <ind>&c_B;&c_l;&c_ib;&c_z;&c_mol;&c_n;&c_ja;&c_t;&c_a;&c_w;</ind></trd>
+  </trdgrp>
+ </snc>
+  <ref tip="hom" cel="kastor.0o">kastoro (ron&gcirc;ulo)</ref>
+  <trd lng="cs">Kastor</trd>
+  <trd lng="de">Kastor</trd>
+  <trd lng="fr">Castor</trd>
+  <trd lng="it">Castore</trd>
+  <trd lng="ja">&#x30AB;&#x30B9;&#x30C8;&#x30EB;</trd>
+  <trd lng="nl">Castor</trd>
+  <trd lng="pl">Kastor</trd>
+  <trd lng="sk">Kastor</trd>
+  <trd lng="uk">&#x41A;&c_a;&c_s;&c_t;&#x43E;&c_r;</trd>
+  <trd lng="zh">&#x5BB6;&#x5177;&#x4E0B;&#x7684;&#x5C0F;&#x6ED1;&#x8F2A; <pr>ji&#x101;j&#xF9;xi&#xE0;d&#xEC;xi&#x1CE;ohu&#xE1;l&#xFA;n</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.13 2022/10/01 18:41:53
+Dmitri Gabinski: + trd be
+
+versio 1.11 2021/05/26 14:59:10
+Wolfram Diestel: ekz-oj, ref-hom
+
+Revision 1.9  2018/10/24 20:10:19  revo
+Wolfram Diestel: +ekz, koncizigis dif, +germ trd, mlg
+
+Revision 1.8  2018/10/24 18:10:17  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.7  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2014/04/15 13:10:19  revo
+Damien Brucker: +trd fr
+
+Revision 1.4  2009/08/24 16:31:33  revo
+-->
+</vortaro>

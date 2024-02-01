@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: komple.xml,v 1.46 2023/12/03 09:58:54 revo Exp $">
+<kap>
+  <rad>kompleks</rad>/a <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="komple.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="komple.0a.malsimpla">
+    <dif>
+      <ref tip="sin" cel="simpl.mal0a.plurpeca">Malsimpla</ref>,
+      enhavanta en si malsamajn elementojn:
+      <ekz>
+        <tld/>a ideo, demando, karaktero.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="simpl.0a.unupeca">simpla</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="konfuz.0a">konfuza</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>verwickelt</trd>,
+      <trd>zusammengesetzt</trd>,
+      <trd>komplex</trd>,
+      <trd>kompliziert</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>complexe<klr tip="ind"> (adj., composite)</klr></trd>,
+      <trd>compos&eacute;<klr tip="ind"> (adj.)</klr></trd>,
+      <trd>composite<klr tip="ind"> (adj.)</klr></trd>,
+      <trd>h&eacute;t&eacute;rog&egrave;ne</trd>
+    </trdgrp>
+    <trd lng="pt">complexo</trd>
+    <trd lng="ru">&c_s;&c_l;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="komple.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="nombr.0o.MAT">nombro</ref>)</klr>
+      De la tipo <frm am="a+i*b"><k>a</k>+<k>i</k>&middot;<k>b</k></frm>, kie
+      <frm am="a,b"><k>a</k>, <k>b</k></frm> estas <ref cel="reel.0o.MAT">reeloj</ref>
+      kaj <frm am="i^2=-1"><k>i</k><sup>2</sup> = -1</frm>;
+      rilata al tia nombro:
+      <ekz>
+        la aro <frm am="bb C"><g>C</g></frm> de &ccirc;iuj <tld/>aj nombroj
+        konsistigas <ref cel="korp.0o.MAT">korpon</ref>, kiu samtempe
+        estas
+        dudimensia reela <ref cel="spac.vektora0o">vektora spaco</ref>;
+      </ekz>
+      <ekz>
+        <tld/>a funkcio <klr>(kies valoroj estas <tld/>aj)</klr>, ebeno
+        <klr>(e&ubreve;klida afina ebeno, uzata por doni geometrian
+        prezenton de la <tld/>aj nombroj)</klr>, <ref cel="spac.vektora0o">vektora spaco</ref>
+        <klr>(super la korpo de
+        <tld/>aj nombroj)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="de">komplex</trd>
+    <trd lng="fr"><klr tip="ind">(nombre) </klr>complexe</trd>
+    <trd lng="pl">zespolony</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF58;&#xF42;&#xF7C;&#xF0B;&#xF62;&#xF99;&#xF7C;&#xF42;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
+  <trdgrp lng="cs">
+    <trd>komplexivn&iacute;</trd>,
+    <trd>komplexn&iacute;</trd>,
+    <trd>souborn&yacute;</trd>,
+    <trd>souhrnn&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">komplex</trd>
+  <trd lng="en">complex</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8907;&#x5408;&#x3057;&#x305F;  <pr>&#x3075;&#x304F;&#x3054;&#x3046;&#x3057;&#x305F;</pr></trd>,
+    <trd>&#x5165;&#x308A;&#x7D44;&#x3093;&#x3060;  <pr>&#x3044;&#x308A;&#x304F;&#x3093;&#x3060;</pr></trd>,
+    <trd>&#x8907;&#x96D1;&#x306A;  <pr>&#x3075;&#x304F;&#x3056;&#x3064;&#x306A;</pr></trd>,
+    <trd>&#x8907;&#x7D20;&#x6570;&#x306E; <pr>&#x3075;&#x304F;&#x305D;&#x3059;&#x3046;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>complex</trd>,
+    <trd>samengesteld</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kompleksowy</trd>,
+    <trd>skomplikowany</trd>,
+    <trd>zespolony</trd>,
+    <trd>z&lstroke;o&zdot;ony</trd>
+  </trdgrp>
+<trdgrp lng="ro">
+    <trd>complex</trd>,
+    <trd>complicat</trd>,
+    <trd>compozit</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>komplexn&yacute;</trd>,
+    <trd>s&uacute;hrnn&yacute;</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43A;&#x43E;&#x43C;&#x43F;&#x43B;&c_je;&#x43A;&c_s;&#x43D;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x590D;&#x6742; <pr>f&#xF9;z&#xE1;</pr></trd>,
+    <trd>&#x4F7F;&#x590D;&#x6742;&#x5316; <pr>sh&#x1D0;f&#xF9;z&#xE1;hu&#xE0;</pr></trd>,
+    <trd>&#x589E;&#x52A0;&#x9EBB;&#x70E6; <pr>z&#x113;ngji&#x101;m&#xE1;fan</pr></trd>,
+    <trd>&#x932F;&#x7D9C; <pr>cu&#xF2;z&#xF2;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="komple.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="komple.0o.tuto">
+    <dif>
+      Tuta&jcirc;o da malsama&jcirc;oj unuigitaj por unu sama celo:
+      <ekz>
+        la vivo estas <tld/>o da fortoj batalantaj kontra&ubreve; la morto.
+      </ekz>
+    </dif>
+    <subsnc mrk="komple.0o.PSI">
+      <uzo tip="fak">PSI</uzo>
+      <dif>
+        Tuto de interrilataj pensoj kaj
+        <ref tip="vid" cel="sent.0o">sentoj</ref>,
+        konscie a&ubreve; nekonscie premaj,
+        eventuala ka&ubreve;zo de ne&ubreve;rozo:
+        <ekz>
+        oni ekmalkovras, kial propra <tld/>o, propra problemo, propra
+        karaktera trajto ludas rolon en la maniero pritrakti la kazon,
+        kaj fojfoje &gcirc;ene en&scirc;ovi&gcirc;as
+        <fnt>
+          <aut>C. Piron</aut>,
+          <vrk><url ref="http://claudepiron.free.fr/articlesenesperanto/lingvoj2.htmhttp://claudepiron.free.fr/articlesenesperanto/lingvoj2.htm">
+          &Ccirc;u la tuta mondo suferas pro afazio?</url></vrk>,
+          <lok>2007</lok>
+        </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;</trd>,
+      <trd>&c_s;&c_u;&c_k;&c_u;&c_p;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Komplex</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>ensemble</trd>,
+      <trd>assemblage</trd>,
+      <trd>complexe<klr tip="ind"> (subst., assemblage)</klr></trd>,
+      <trd>collection<klr tip="ind"> (assemblage)</klr></trd>,
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;</trd>,
+      <trd>&c_s;&c_o;&c_v;&c_o;&c_k;&c_u;&c_p;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="zh">&#x603B;&#x4F53; <pr>z&#x1D2;ngt&#x1D0;</pr></trd>
+</snc>
+  <snc mrk="komple.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <ref cel="komple.0a.MAT"><tld lit="K"/>a <sncref/></ref>
+      <ref tip="super" cel="nombr.0o.MAT">nombro</ref>.
+    </dif>
+    <refgrp tip="sin">
+      Preska&ubreve;a sinonimo:
+      <ref cel="imagin.0o">imaginaro</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      Atributoj de komplekso:
+      <ref cel="part.reela0o">reela parto</ref>,
+      <ref cel="part.imaginara0o">imaginara parto</ref>,
+      <ref cel="modul.0o.komplekso">modulo</ref>,
+      <ref cel="argume.0o.komplekso">argumento</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      Rilatantaj nocioj:
+      <ref cel="konjug.0ito.MAT">konjugito</ref>.
+    </refgrp>
+    <rim>
+      Bricard <fnt><bib>MatTerm</bib><lok>p. 15</lok></fnt> nomas tiujn
+      nombrojn <ctl>imaginaroj</ctl>. Li krome enkondukas la terminon
+      <ctl><tld/>a nombro</ctl>, kiel nocion iom pli vastan, nome
+      linearaj
+      kombina&jcirc;oj de pluraj <ctl>unuoj</ctl>
+      <frm am="i_1,i_2,...,i_n"><k>i</k><sub>1</sub>,
+      <k>i</k><sub>2</sub>,...
+      <k>i</k><sub><k>n</k></sub></frm>,
+      al kiuj oni altrudas specifan multiplikan operacion (nun oni nomas
+      tiajn
+      nombrojn hiperkompleksaj).
+      Se la multipliko estas komuteca, oni ricevas la kutimajn
+      imaginarojn.
+      Oni poste &ccirc;esis uzi <ctl>imaginaro</ctl> kaj parolis
+      anstata&ubreve;e pri <ctl><tld/>a nombro</ctl>. Estas mirinde, kial
+      la termino <ctl><tld/>o</ctl> aperas &ccirc;i-sence nek en
+      <fnt><bib>PIV1</bib></fnt>, nek en <fnt><bib>MatVort</bib></fnt>,
+      nek en <fnt><bib>PIV2</bib></fnt>, kvankam la matematika lingva&jcirc;o
+      tre kutimas al tiaj rektaj substantivigoj de adjektiva radiko
+      (
+      <ekz>
+        racionalo, imaginaro, rekto...
+      </ekz>
+      ). &Ccirc;e tiuj a&ubreve;toroj
+      la termino <ctl><tld/>o</ctl> referencas alian aferon, en la kampo
+      de
+      geometrio, elementa aritmetiko, algebra topologio ktp.
+      &Ccirc;ar la termino estas jam ege multsenca, &scirc;ajnas, ke
+      mankas pravigo por da&ubreve;re eksterlasi la sencon
+      <ctl><tld/>a nombro</ctl>, cetere tre oportunan kaj preska&ubreve;
+      trudatan de la adjektiva uzo de <ctl><tld/>a</ctl> kun la senco
+      <ctl>rilata al <tld/>a nombro</ctl>.
+    </rim>
+    <trd lng="be">&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;&c_n;&c_y; &c_l;&c_ib;&c_k;</trd>
+      <trd lng="cs">komplexn&iacute; &ccaron;&iacute;slo</trd>
+    <trdgrp lng="de">
+      <trd>komplexe <ind>Zahl</ind></trd>,
+      <trd>imagin&auml;re <ind>Zahl</ind></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>complex <ind>number</ind></trd>,
+      <trd>imaginary <ind>number</ind></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>nombre complexe</trd>,
+      <trd>nombre imaginaire</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>samengesteld <ind>getal</ind></trd>,
+      <trd>imaginair <ind>getal</ind></trd>
+    </trdgrp>
+    <trd lng="pl">liczba zespolona</trd>
+    <trd lng="ro">num&abreve;r complex</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;&c_n;&c_o;&c_je; <ind>&c_ch;&c_i;&c_s;&c_l;&c_o;</ind></trd>,
+      <trd>&c_m;&c_n;&c_i;&c_m;&c_o;&c_je; <ind>&c_ch;&c_i;&c_s;&c_l;&c_o;</ind></trd>
+    </trdgrp>
+      <trd lng="sk">komplexn&eacute; &ccaron;&iacute;slo</trd>
+    <trd lng="zh">&#x590D;&#x6570; <pr>f&#xF9;sh&#xF9;</pr></trd>
+</snc>
+  <snc mrk="komple.0o.aritmetiko">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="stl">ARK</uzo>
+    <uzo tip="klr">(elementa aritmetiko)</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <ref cel="nombr.0o.MAT">Nombro</ref>, kunmetita el pluraj
+      partoj, kiujn necesas pritrakti aparte dum kalkuloj.
+    </dif>
+    <rim>
+      Historie temas pri nombroj esprimitaj en bazo alia ol la dekuma,
+      kiel
+      ekz-e la tempo (horoj, minutoj, sekundoj) a&ubreve; la angulmezuroj.
+    </rim>
+    <trdgrp lng="de">
+      <trd>Tupel</trd>
+    </trdgrp>
+    <adm>
+      Mi dubas, cxu Tupel estas gxusta traduko, kvankam cxi tiuj nombroj
+      ja estas opoj, kun specifaj reguloj pri aritmetikaj operacioj. Sed
+      ankaux la dekumaj nombroj estas opoj.
+      <aut>MB</aut>
+    </adm>
+    <trd lng="zh">&#x591A;&#x5143;&#x7D44; <pr>du&#x14D;yu&#xE1;nz&#x1D4;</pr></trd>
+</snc>
+  <snc mrk="komple.0o.geometrio">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 37</lok></fnt>
+    <dif>
+      Aro da <ref cel="rekt.0o.MAT">rektoj</ref>, kiuj dependas de tri
+      parametroj.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s; &c_p;&c_r;&c_o;&c_s;&c_t;&c_y;&c_h;</trd>,
+      <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s; &c_p;&c_r;&c_a;&c_m;&c_y;&c_h;</trd>
+    </trdgrp>
+    <trd lng="de">Geradenkomplex</trd>
+    <trd lng="en">complex of lines</trd>
+    <trd lng="fr">complexe de droites</trd>
+    <trd lng="pl">kompleks prostych</trd>
+    <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s; &c_p;&c_r;&c_ja;&c_m;&c_y;&c_h;</trd>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x8907;&#x5408;&#x4F53;  <pr>&#x3075;&#x304F;&#x3054;&#x3046;&#x305F;&#x3044;</pr></trd>,
+    <trd>&#x30B3;&#x30F3;&#x30D7;&#x30EC;&#x30C3;&#x30AF;&#x30B9;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>blok</trd>,
+    <trd>ca&lstroke;o&sacute;&cacute;</trd>,
+    <trd>kompleks</trd>,
+    <trd>zesp&oacute;&lstroke;</trd>
+  </trdgrp>
+<trdgrp lng="ro">
+    <trd>bloc</trd>,
+    <trd>&icirc;ntreg</trd>,
+    <trd>tot</trd>,
+    <trd>complex</trd>,
+    <trd>echip&abreve;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43C;&#x43F;&#x43B;&c_je;&#x43A;&c_s;</trd>,
+    <trd>&c_s;&c_u;&#x43A;&c_u;&#x43F;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="komple.edipa0o">
+  <kap>edipa <tld/>o, <var><kap><tld/>o de Edipo</kap></var></kap>
+  <snc mrk="komple.edipa0o.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      La&ubreve; psi&hcirc;analizo
+      <ref tip="super" cel="komple.0o.PSI"><tld/>o</ref> aperanta &ccirc;e
+      infano inter la 3a kaj la 6a jara&gcirc;o, pro kiu &gcirc;i deziras kaj
+      &jcirc;aluzas la aliseksan el la gepatroj:
+      <ekz>
+        Freud nomis tion la edipa <tld/>o, la&ubreve; la antikva helena
+        dramtemo pri Princo Edipo, kiu estis destinita de la dioj murdi
+        sian patron kaj amori kun sia patrino
+        <fnt>
+          <aut>D. Broadribb</aut>,
+          <vrk>La Komenco de Psikanalizo</vrk>,
+          <lok><url ref="http://web.me.com/donbroadribb1/Mirmekobo/Mirmekobo_files/Mirmekobo%204.pdf">
+          Mirmekobo, 2009-04</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_E;&c_d;&c_y;&c_p;&c_a;&c_w; &c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;</trd>
+  <trd lng="en">Oedipus complex</trd>
+  <trd lng="fr">complexe d'&OElig;dipe</trd>
+  <trd lng="ja">&#x30A8;&#x30C7;&#x30A3;&#x30D7;&#x30B9;&#x30B3;&#x30F3;&#x30D7;&#x30EC;&#x30C3;&#x30AF;&#x30B9;</trd>
+  <trd lng="pl">kompleks Edypa</trd>
+  <trd lng="ro">complexul Oedip</trd>
+  <trd lng="zh">&#x604B;&#x6BCD;&#x60C5;&#x7ED3; <pr>li&#xE0;nm&#x1D4;q&#xED;ngji&#xE9;</pr></trd>
+</drv>
+
+<drv mrk="komple.0odemalplivaloreco">
+  <kap><tld/>o de malplivaloreco,
+  <var><kap><tld/>o de malsupereco</kap></var>,
+  <var><kap>minus<tld/>o</kap></var></kap>
+  <snc mrk="komple.0odemalplivaloreco.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Sento pri propra malpli granda valoro
+      kompare kun aliaj homoj:
+      <ekz>
+        rompi&gcirc;as la interna harmonio inter la individuo kaj la ekstera
+        mondo, kiam la individuo eliras el la kadroj de siaj kapabloj
+        kaj, penante levi&gcirc;i supren, ricevas <tld/>on de malplivaloreco
+        kaj falas en kruelecon kaj bigotecon
+        <fnt>
+          <aut>I. Efremov, trad. J. Finkel</aut>,
+          <vrk><url ref="http://www.esperanto.mv.ru/Efremov/horo_05.html">
+          Horo de Bovo</url></vrk>,
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; mia opinio, de iom da tempo, Esperanton hantas la
+        minus<tld/>o kaj la maso&hcirc;ismo
+        <fnt>
+          <aut>T. del Barrio</aut>,
+          <vrk><url ref="http://www.liberafolio.org/2007/normalalingvo/">
+          La normala lingvo</url></vrk>,
+          <lok>Beletra Almanako, 2007-09</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la mankosenton de homa bebo, kiu perceptas sin senhelpa, Adler
+        komprenis kiel fortega pozitiva motivigo por kresko kaj evoluo.
+        Nur postaj negativaj faktoroj en la homa evoluo bremsas tiun
+        motivigon kaj kreas <tld/>on  pri malsupereco
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Individua_psikologio">
+          individua psikologio</url>, 2010-04-02</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="estim.mem0o.PSI">memestimo</ref>
+  </refgrp>
+  <trd lng="be">&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s; &c_n;&c_je;&c_p;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_r;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  <trdgrp lng="fr">
+    <trd>complexe d'inf&eacute;riorit&eacute;</trd>,
+    <trd>sentiment d'inf&eacute;riorit&eacute;</trd>
+  </trdgrp>
+  <trd lng="ja">&#x52A3;&#x7B49;&#x611F;  <pr>&#x308C;&#x3063;&#x3068;&#x3046;&#x304B;&#x3093;</pr></trd>
+  <trd lng="pl">kompleks ni&zdot;szo&sacute;ci</trd>
+  <trdgrp lng="ro">
+    <trd>complex de inferioritate</trd>,
+    <trd>sentiment de inferioritate</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.45 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.44 2023/09/13 16:30:43
+Wolfram Diestel: pr. ja
+
+versio 1.42 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.40 2021/07/30 07:27:03
+Dmitri Gabinski: + trd be; kor de trd cs, sk
+
+versio 1.38 2021/05/13 14:51:36
+Wolfram Diestel: kor. snc@mrk
+
+versio 1.37 2020/05/30 18:10:34
+Robin Hill: +trd en, edipa ~o
+
+Revision 1.36  2020/02/15 09:10:28  revo
+Wolfram Diestel: formuloj per am
+
+Revision 1.35  2019/05/03 22:10:18  revo
+-->
+</vortaro>

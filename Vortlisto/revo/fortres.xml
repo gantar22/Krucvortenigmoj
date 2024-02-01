@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fortres.xml,v 1.14 2023/11/10 06:08:00 revo Exp $">
+<kap>
+  <rad>fortres</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="fortres.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ARKI</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      <ref tip="super" cel="fortik.0ajxo">Fortika&jcirc;o</ref> kun propra
+      garnizono kaj necesa&jcirc;oj, por la defendo de urbo a&ubreve; lo&gcirc;ata areo:
+      <ekz>
+        oni povis lin vidi rajdanta al la <tld lit="F"/>o Antonia,
+        kiu situis norde, tuj apud la Granda Templo
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 26a, p. 269a</lok></fnt>;
+      </ekz>
+      <ekz>
+        en <nom>Carcassona</nom> estas plej granda mezepoka <tld/>o de E&ubreve;ropo, kiu estis proklamita
+        kiel ero de la Monda Kulturhereda&jcirc;o de Unesko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marc Gassion</aut>
+          <vrk><url ref="&Monato;/2003/007934.html">Aude</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        li ne akceptas bonan konsilon, nek lasas &gcirc;in eniri lian <tld/>on
+        <klr>(fermitan menson)</klr>
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="burg.0o">burgo</ref>,
+       <ref cel="citade.0o">citadelo</ref>,
+       <ref cel="kastel.0o.MIL">kastelo<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_r;&c_t;&c_e;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="ca">fortalesa</trd>
+  <trdgrp lng="cs">
+    <trd>opevn&ecaron;n&eacute; postaven&iacute;</trd>,
+    <trd>opevn&ecaron;n&iacute;</trd>,
+    <trd>pevnost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Festung</trd>,
+    <trd>Fort</trd>
+  </trdgrp>
+  <trd lng="en">fortress</trd>
+  <trd lng="es">fortaleza</trd>
+  <trd lng="fr">forteresse</trd>
+  <trdgrp lng="hu">
+    <trd>er&odblac;d&iacute;tm&eacute;ny</trd>,
+    <trd>er&odblac;d</trd>
+  </trdgrp>
+  <trd lng="it">fortezza</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8981;&#x585E;  <pr>&#x3088;&#x3046;&#x3055;&#x3044;</pr></trd>,
+    <trd>&#x7826;  <pr>&#x3068;&#x308A;&#x3067;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>forte</trd>,
+    <trd>fortifica&ccedil;&atilde;o</trd>,
+    <trd>fortaleza</trd>,
+    <trd>pra&ccedil;a-forte</trd>,
+    <trd>pra&ccedil;a-de-guerra</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>opevnen&eacute; postavenie</trd>,
+    <trd>pevnos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x444;&#x43E;&#x440;&#x442;&#x435;&#x446;&#x44F;</trd>,
+    <trd>&#x442;&#x432;&#x435;&#x440;&#x434;&#x438;&#x43D;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7B51;&#x8981;&#x585E; <pr>zh&#xFA;y&#xE0;os&#x101;i</pr></trd>,
+    <trd>&#x4EE5;&#x8981;&#x585E;&#x9632;&#x5B88; <pr>y&#x1D0;y&#xE0;os&#x101;if&#xE1;ngsh&#x1D2;u</pr></trd>,
+    <trd>&#x5821; <pr>b&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.13 2023/10/14 19:15:45
+revo: transskribo per <pr>
+
+versio 1.11 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.9 2021/05/21 13:15:34
+Wolfram Diestel: ekz, ref-oj, trd de
+
+Revision 1.7  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2010/06/06 16:31:25  revo
+Antonio Codazzi: +trd it
+
+Revision 1.5  2007/06/05 16:31:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2005/06/05 16:57:04  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2005/04/04 16:35:06  revo
+-->
+</vortaro>

@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hetman.xml,v 1.23 2023/10/16 05:12:01 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>hetman</rad>/o
+</kap>
+<drv mrk="hetman.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="genera1.0o">Generalo</ref>
+      de <ref tip="vid" cel="kozak.0o">kozakoj</ref>:
+      <ekz>
+        sova&gcirc;aj <tld/>oj, kies nomoj malaperis
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Turgardisto Ole</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Pre&gcirc;o por <tld/>o <nom>Mazepa</nom> ne estis montrita en Rusio, tio signifas, ke la
+        posedantoj de kinoretoj ne taksis la filmon sufi&ccirc;e kvalita
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Grigorij Arosev</aut>
+          <vrk><url ref="&Monato;/2003/008007.html">Filmo ukraina</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        okaze de la 370a datreveno de la naski&gcirc;o de la ukraina <tld/>o la prezidanto de
+        Ukrainio ina&ubreve;guris monumenton dedi&ccirc;itan al <nom>Mazepa</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Dmitrij Cibulevskij</aut>
+          <vrk><url ref="&Monato;/2009/009799.php">Ovacioj, a&ubreve; &ccirc;u nur ovoj?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_je;&c_t;&c_m;&c_a;&c_n;</trd>,
+      <trd>&c_a;&c_t;&c_a;&c_m;&c_a;&c_n;</trd>
+    </trdgrp>
+    <trd lng="cs">hejtman</trd>
+    <trdgrp lng="de">
+      <trd>Hetman</trd>,
+      <trd>Ataman</trd>
+    </trdgrp>
+    <trd lng="en">hetman</trd>
+    <trdgrp lng="fr">
+      <trd>ataman</trd>,
+      <trd>hetman<klr tip="ind"> (chef cosaque)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>hetman</trd>,
+      <trd>atam&aacute;n</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>atamano</trd>, 
+      <trd>hetman</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>hetman</trd>,
+      <trd>kozakkenhoofdman</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>hetman</trd>,
+      <trd>ataman</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+     <trd>h&eacute;tm&atilde;</trd>, 
+     <trd>h&eacute;tman</trd> 
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_je;&c_t;&c_m;&c_a;&c_n;</trd>,
+      <trd>&c_a;&c_t;&c_a;&c_m;&c_a;&c_n;</trd>
+    </trdgrp>
+    <trdgrp lng="sk">
+      <trd>ataman</trd>,
+      <trd>hajtman</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="hetman.0o.kapitano">
+    <dif>
+       Soldata a&ubreve; rabista <ref tip="dif" cel="kapita1.0o.MIL">kapitano</ref>:
+      <ekz>
+        estas decidite, mi estas via <tld/>o kaj bravulo estos tiu majstro inter vi, kiu
+        plej sova&gcirc;e bruligos, plej kruele mortigos
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Hauptmann</trd>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30BF;&#x30DE;&#x30F3;</trd>,
+    <trd>&#x8ECD;&#x53F8;&#x4EE4;&#x5B98;  <pr>&#x3050;&#x3093;&#x3057;&#x308C;&#x3044;&#x304B;&#x3093;</pr></trd>,
+    <trd>&#x968A;&#x9577;  <pr>&#x305F;&#x3044;&#x3061;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x433;&#x435;&#x442;&#x44C;&#x43C;&#x430;&#x43D;</trd>,
+    <trd>&#x43E;&#x442;&#x430;&#x43C;&#x430;&#x43D;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/16 05:12:01
+revo: transskribo per <pr>
+
+versio 1.21 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.18  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
+Revision 1.17  2019/01/27 18:10:14  revo
+Wolfram Diestel: +snc kapitano
+
+Revision 1.16  2018/12/19 14:10:27  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.15  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2009/09/07 16:31:37  revo
+-->
+</vortaro>

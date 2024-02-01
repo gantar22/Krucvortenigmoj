@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: limerik.xml,v 1.20 2024/01/15 19:02:14 revo Exp $">
+<kap>
+  <rad>limerik</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="limerik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="limerik.0o.POE">
+    <uzo tip="fak">POE</uzo>
+    <dif>
+      Angladevena, &scirc;erca, kvinversa <ref tip="super" cel="poem.0o">poemeto</ref>
+      kutime priskribanta la strangan konduton de homo lo&gcirc;anta en iu
+      nomata urbo a&ubreve; lando:
+      <ekz>
+        &leftquot;<nom>A book of nonsense</nom>&rightquot; <klr>[&#x2026;]</klr> estis ri&ccirc;e
+        ilustrita kaj entenis la plej
+        &scirc;atatajn lirika&jcirc;ojn de <nom>Lear</nom>: <tld/>ojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1153">Edward Lear</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_m;&c_e;&c_r;&c_y;&c_k; <klr>(&c_v;&c_je;&c_r;&c_sh;)</klr></trd>
+  <trd lng="cs">limerik</trd>
+  <trd lng="de">Limerick</trd>
+  <trd lng="en">limerick</trd>
+  <trd lng="fr">limerick</trd>
+  <trd lng="hu">limerick</trd>
+  <trd lng="nl">limerick</trd>
+  <trd lng="pl">limeryk</trd>
+  <trd lng="pt">limerick</trd>
+  <trd lng="ru">&c_l;&c_i;&c_m;&c_je;&c_r;&c_i;&c_k;</trd>
+  <trd lng="sk">limerik</trd>
+</drv>
+
+<drv mrk="limerik.L0o">
+  <kap><tld lit="L"/>o</kap>
+  <snc mrk="limerik.L0o.urbo">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="malprt" cel="irland.I0o">Irlanda</ref>
+      <ref tip="lst" lst="voko:urboj" cel="urb.0o">urbo</ref>:
+      <ekz>
+        <tld lit="L"/>o meritas viziton pro sia impona situo apud la
+        granda rivero
+        <nom>Shannon</nom> kaj &gcirc;ia kastelo
+        <fnt>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2015/011241.php">Rondvoja&gcirc;i trajne</url></vrk>
+          <bib>Monato</bib>
+          <lok>2015/08, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;irka&ubreve; 2000 judoj alvenis de orienta E&ubreve;ropo kaj hejmi&gcirc;is en
+        Belfasto, Korko,
+        Derio, Dro&hcirc;edo, Dublino, <tld lit="L"/>o, Lurgano
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/008105.html">Renkonti&gcirc;o kun &scirc;rumpanta komunumo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/11, p. 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_L;&c_ib;&c_m;&c_e;&c_r;&c_y;&c_k; <klr>(&c_g;&c_o;&c_r;&c_a;&c_d;)</klr></trd>
+  <trd lng="de">Limerick</trd>
+  <trd lng="en">Limerick</trd>
+  <trd lng="fr">Limerick</trd>
+  <trd lng="uk">&c_l;&c_ib;&c_m;&c_je;&c_r;&c_i;&c_k;&c_a; (&c_zh;&c_a;&c_r;&c_t;&c_ib;&c_v;&c_l;&c_i;&c_v;&c_i;&c_j; &c_v;&c_ib;&c_r;&c_sh;)</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5229;&#x9ED8;&#x91CC;&#x514B; <pr>L&#xEC;m&#xF2;l&#x1D0;k&#xE8;</pr></trd>,
+    <trd>&#x5229;&#x9ED8;&#x91CC;&#x514B; <pr>l&#xEC;m&#xF2;l&#x1D0;k&#xE8;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.19 2023/07/01 16:32:18
+Christian Siefkes: +trd en
+
+versio 1.18 2023/06/23 08:34:00
+Dmitri Gabinski: + trd be
+
+versio 1.17 2023/05/10 13:36:36
+Paul Peeraerts: + lok
+
+versio 1.16 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.13  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
+Revision 1.12  2019/06/03 10:10:17  revo
+Jeromo Vasxe: disig. en 2 drv pro majuskl. de urbo
+
+Revision 1.11  2018/12/08 10:10:20  revo
+Wolfram Diestel: +snc urbo, +ekz-oj
+
+Revision 1.10  2015/07/04 08:37:38  revo
+-->
+</vortaro>

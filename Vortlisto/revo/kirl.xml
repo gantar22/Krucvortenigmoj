@@ -1,0 +1,742 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kirl.xml,v 1.49 2023/12/03 09:58:49 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>kirl</rad>/i <fnt><bib>MT</bib></fnt>
+</kap>
+<drv mrk="kirl.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kirl.0i.MOV">
+    <dif>
+      Komuniki al likva&jcirc;o rapidan turni&gcirc;an movon, kiu foje
+      naskas &scirc;a&ubreve;mon; komuniki similan movon al gaso a&ubreve;
+      pulvora substanco:
+      <ekz>
+        &ccirc;u vi povas eltiri levjatanon per fi&scirc;hoko <klr>[&#x2026;]</klr> &#x2010; kiel
+        kaldronon &gcirc;i
+        ondigas la profundon, la maron &gcirc;i <tld/>as kiel &scirc;mira&jcirc;on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 41:31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi devas balda&ubreve; iri malsupren, por iom <tld/>i en la potoj kaj
+        gustumi
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni kuiris en vitraj glasoj, oni <tld/>is kaj distilis, en
+        pistujoj oni pistis
+        spicojn
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Du fratoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        homaj svarmoj estis la stratoj, unuj pu&scirc;is &ccirc;i tien, aliaj tien,
+        estis vera
+        <tld/>igo de urbanoj kaj vila&gcirc;anoj, mona&hcirc;oj kaj soldatoj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>ita kremo</ind>;
+        <trd lng="hu">tejsz&iacute;nhab</trd>
+        <trd lng="nl">slagroom</trd>
+        <trd lng="ru">&c_v;&c_z;&c_b;&c_i;&c_t;&c_y;&c_je; &c_s;&c_l;&c_i;&c_v;&c_k;&c_i;</trd>
+        <trd lng="sv">vispgr&auml;dde</trd>
+      </ekz>
+      <ekz>
+        la uragano <tld/>is la ondegojn de la maro;
+      </ekz>
+      <ekz>
+        polv<tld/>ita grenplanko
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Ivar Lo-johansson</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per la mano mi forte <tld/>is la biletbulojn per vigla turnado tiel, ke neniu
+        povos dubi, ke ili estas bone miksitaj
+        <fnt>
+          <bib>KrM</bib>
+          <lok>41. Aliajn Gvidas Kaj Mem Ne Vidas.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &leftquot;trankvilon! ne paniku!&rightquot; <klr>[&#x2026;]</klr> tuj tiu admono <klr>[&#x2026;]</klr> redonas
+        pacon kaj klarecon al la menso &jcirc;us <tld/>ita
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Ritmaj lumoj en la nokto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        gajaj kaj &gcirc;ojaj homoj petolis kaj <tld/>adis la atmosferon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Brigitte Faverial</aut>
+          <vrk><url ref="&Monato;/2003/007994.html">Datreveno por ridi</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="miks.0i">miksi</ref>,
+      <ref cel="vip.0i">vipi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>batre</trd>,
+    <trd>remenar<klr tip="ind"> (batre)</klr></trd>,
+    <trd>deixatar<klr tip="ind"> (ous)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>prot&rcaron;ep&aacute;vat</trd>,
+    <trd>rozt&rcaron;ep&aacute;vat</trd>,
+    <trd>t&rcaron;epat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>quirlen</trd>,
+    <trd>schlagen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>stir</trd>,
+    <trd>swirl</trd>,
+    <trd>whirl</trd>
+  </trdgrp>
+  <trd lng="es">batir</trd>
+  <trdgrp lng="fr">
+    <trd>agiter<klr tip="ind"> (un liquide, par ex.)</klr></trd>,
+    <trd>battre<klr tip="ind"> (agiter vigoureusement)</klr></trd>,
+    <trd>brasser<klr tip="ind"> (remuer en m&eacute;langeant)</klr></trd>,
+    <trd>remuer<klr tip="ind"> (agiter)</klr></trd>,
+    <trd>touiller</trd>,
+    <trd>tourner<klr tip="ind"> (touiller)</klr></trd>,
+    <trd>faire <ind>tourbillonner</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kever</trd>,
+    <trd>kavar</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>agitare<klr tip="ind"> (un liquido)</klr></trd>,
+    <trd>battere<klr tip="ind"> (agitare vigorosamente)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304B;&#x304D;&#x307E;&#x308F;&#x3059;</trd>,
+    <trd>&#x304B;&#x304D;&#x6DF7;&#x305C;&#x308B;  <pr>&#x304B;&#x304D;&#x307E;&#x305C;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">roeren</trd>
+  <trdgrp lng="pl">
+    <trd>kr&eogonek;ci&cacute;</trd>,
+    <trd>wirowa&cacute;</trd>,
+    <trd>miesza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_m;&c_je;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_z;&c_b;&c_a;&c_l;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_z;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pretrepa&tcaron;</trd>,
+    <trd>rozv&iacute;ri&tcaron;</trd>,
+    <trd>v&iacute;ri&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">vispa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_ib;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_b;&c_o;&c_v;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i; (&c_m;&c_a;&c_s;&c_l;&c_o;</trd>,
+    <trd>&c_k;&c_r;&c_je;&c_m;)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6405;&#x62CC; <pr>ji&#x1CE;ob&#xE0;n</pr></trd>,
+    <trd>&#x64E3; <pr>d&#x1CE;o</pr></trd>,
+    <trd>&#x6405;&#x52A8; <pr>ji&#x1CE;od&#xF2;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kirl.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kirl.0o.KOMUNE">
+    <dif>
+      Rapida rondirado de likva&jcirc;o ks:
+      <ekz>
+        akvo<tld/>o, vento<tld/>o
+        <fnt><bib>PV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MET</uzo>
+        <ind><tld/>oventego</ind> 
+        <klr>(<ref cel="ciklon.0o">ciklono</ref>)</klr>;
+        <trd lng="es">cicl&oacute;n</trd>
+        <trd lng="fr">cyclone</trd>
+        <trd lng="it">ciclone</trd>
+        <trd lng="hu">forg&oacute;sz&eacute;l</trd>
+        <trd lng="nl">cycloon</trd>
+        <trd lng="pl">cyklon</trd>
+      </ekz>
+      <ekz>
+        &ccirc;i-jare tutmonde estis aparte multaj <klr>[&#x2026;]</klr> tajfunoj,
+        ciklonoj kaj
+        tornadoj, do <tld/>o&scirc;tormoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2004/008474.html">Koincido</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <nom>Ingrid</nom> kiel <tld/>ovento kuris al la &scirc;ranko
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Kuni&gcirc;o</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="vortic.0o">vortico</ref>
+    <adm>
+      PIV1 ne lasis "~ventego" en la ekz, sed lasis &gcirc;in en la
+      difino de "ciklono". Eblas konsideri, ke temas pri veraj
+      sinonimoj kaj krei apartan drv. Restas la demando, kio estis
+      la intenco de la Z-a "vento~o". <aut>MB</aut>
+    </adm>
+    <trd lng="de">Wirbel</trd>
+    <trdgrp lng="en">
+      <trd>swirl</trd>,
+      <trd>whirl</trd>
+    </trdgrp>
+    <trd lng="es">remolino</trd>
+    <trdgrp lng="fr">
+      <trd>tourbillon</trd>,
+      <trd>maelstr&ouml;m</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&ouml;rv&eacute;ny</trd>,
+      <trd>forgatag</trd>
+    </trdgrp>
+    <trd lng="nl">dwarreling</trd>
+    <trdgrp lng="pl">
+      <trd>wir</trd>,
+      <trd>ruch <ind>wirowy</ind></trd>,
+      <trd>ruch <ind>obrotowy</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_i;&c_h;&c_r;&c_mol;</trd>
+    <trd lng="sv">virvel</trd>
+  </snc>
+  <snc mrk="kirl.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Rapida turni&gcirc;o perceptata &ccirc;irka&ubreve; a&ubreve; en si:
+      <ekz>
+        estis <tld/>o en lia kapo, kaj li estis proksima al sveno
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Sia propra mastro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la boateto eni&gcirc;as <tld/>on de l&#x2019; karnavalo
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &jcirc;etataj en la <tld/>on de senbrida fervoro
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        donanto en la <tld/>o de familiaj kvereloj e&ccirc; eksentas kulpon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2007/008977.php">Mia estrino estas vampiro</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum vi dancos inter &ccirc;ampanaj &scirc;a&ubreve;m-bobeloj, vi sentos la <tld/>on
+        de pli nigraj kurentoj subsurfacaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Macgill</aut>
+          <vrk><url ref="&Monato;/2004/008195.html">Satiro el la umbiliko</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trdgrp lng="de">
+    <trd>Wirbel</trd>,
+    <trd>Kreisel</trd>
+  </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x6F2A; <pr>y&#x12B;</pr></trd>,
+    <trd>&#x8ED2;&#x7136;&#x5927;&#x6CE2; <pr>xu&#x101;nr&#xE1;nd&#xE0;b&#x14D;</pr></trd>,
+    <trd>&#x98C6;&#x98A8; <pr>bi&#x101;of&#x113;ng</pr></trd>,
+    <trd>&#x9F8D;&#x5708;&#x98A8; <pr>l&#xF3;ngqu&#x101;nf&#x113;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="kirl.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(de <ref tip="super" cel="kamp.0o.MAT">kampo</ref>
+      <frm am="E">E</frm>,
+      alprenanta valorojn en reela tridimensia vektora spaco)</klr>
+      Vektora kampo kun valoroj en la sama spaco, kies komponantoj
+      &ccirc;e &ccirc;iu punkto egalas al
+      <frm am="(del_2E_3-del_3E_2,del_3E_1-del_1E_3,del_1E_2-del_2E_1)">(&#x2202;<sub>2</sub>E<sub>3</sub>-&#x2202;<sub>3</sub>E<sub>2</sub>,
+      &#x2202;<sub>3</sub>E<sub>1</sub>-&#x2202;<sub>1</sub>E<sub>3</sub>,
+      &#x2202;<sub>1</sub>E<sub>2</sub>-&#x2202;<sub>2</sub>E<sub>1</sub>)</frm>,
+      kie <frm am="E_i">E<sub><k>i</k></sub></frm> signas la
+      <frm am="i"><k>i</k></frm>-an komponanton de <frm am="E">E</frm>:
+      <ekz>
+        la <tld/>on de <frm am="E">E</frm> oni kutime signas per
+        <frm am="nabla^^E"> &#x2207;&#x2227;E</frm>,
+        <frm am="&quot;kirl&quot; E">kirl E</frm> a&ubreve; <frm am="&quot;rot&quot; E">rot
+        E</frm>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Rotation</trd>,
+      <trd>Rotor</trd>,
+      <trd>Quirl</trd>,
+      <trd>Wirbel</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>curl<klr tip="ind"> (of a vector field)</klr></trd>,
+      <trd>rotor<klr tip="ind"> (of a vector field)</klr></trd>
+    </trdgrp>
+    <trd lng="es">rotacional</trd>
+    <trdgrp lng="fr">
+      <trd>rotationnel</trd>,
+      <trd>tourbillon<klr tip="ind"> (d'un champ vectoriel)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">rot&aacute;ci&oacute;</trd>
+    <trd lng="it">rotore<klr tip="ind"> (di un campo
+    vettoriale)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>wirowo&sacute;&cacute;<klr tip="ind"> (pola wektorowego)</klr></trd>,
+      <trd>rotacja</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_i;&c_h;&c_r;&c_mol;<klr tip="ind">
+      (&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_o;&c_g;&c_o;
+      &c_p;&c_o;&c_l;&c_ja;)</klr></trd>,
+      <trd>&c_r;&c_o;&c_t;&c_o;&c_r;<klr tip="ind">
+      (&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_o;&c_g;&c_o;
+      &c_p;&c_o;&c_l;&c_ja;)</klr></trd>,
+      <trd>&c_r;&c_o;&c_t;&c_a;&c_c;&c_i;&c_ja;<klr tip="ind">
+      (&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_o;&c_g;&c_o;
+      &c_p;&c_o;&c_l;&c_ja;)</klr></trd>
+    </trdgrp>
+    <trd lng="sv">rotation</trd>
+  </snc>
+  <trd lng="cs">v&iacute;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6E26;  <pr>&#x3046;&#x305A;</pr></trd>,
+    <trd>&#x6E26;&#x5DFB;  <pr>&#x3046;&#x305A;&#x307E;&#x304D;</pr></trd>,
+    <trd>&#x65CB;&#x56DE;  <pr>&#x305B;&#x3093;&#x304B;&#x3044;</pr></trd>,
+    <trd>&#x56DE;&#x8EE2;  <pr>&#x304B;&#x3044;&#x3066;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rot&aacute;cia</trd>,
+    <trd>v&iacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_h;&c_o;&c_r;</trd>,
+    <trd>&c_v;&c_i;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kirl.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="kirl.0ajxo.MOV">
+    <dif>
+      Io movita, miksita per <tld/>ado:
+      <ekz>
+        <tld/>a&jcirc;oj el flamo kaj cindro kovras la stratojn
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        prepari varman trinka&jcirc;on a&ubreve; e&ccirc; frostan <tld/>a&jcirc;on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2011/010535.php">Sanige ... kaj sensukere</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">swirl</trd>
+  <trd lng="es">remolino</trd>
+  <trdgrp lng="nl">
+    <trd>dwarreling</trd>,
+    <trd>warreling</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wir</trd>,
+    <trd>ruch <ind>wirowy</ind></trd>,
+    <trd>ruch <ind>obrotowy</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kirl.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="kirl.0igxi.MOV">
+    <dif>
+      <klr>(likva&jcirc;o)</klr> Rapide <ref cel="turn.0igxi.ruligxi">turni&gcirc;i</ref>, ofte kun &scirc;a&ubreve;mo:
+      <ekz>
+        la maro <tld/>i&gcirc;is sub la vento;
+      </ekz>
+      <ekz>
+        vento <tld/>i&gcirc;is kaj el la facila polvo de la altmonta aero elvolvi&gcirc;is a&ubreve;to
+        <fnt>
+          <bib>KKr</bib>
+          <lok>I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun obtuza tondro &gcirc;i falis en la ne&gcirc;on, kiu <tld/>i&gcirc;is supren, kiel fumo de
+        bombtrafo
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Albert Viksten</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="kirl.0igxi.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Percepti&gcirc;i kiel rapide turni&gcirc;anta:
+      <ekz>
+        sentoj kaj bildoj <tld/>i&gcirc;is en &scirc;ia interno, kvaza&ubreve; dum febroson&gcirc;o
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malsupre domarego, parkoj, &gcirc;ardenoj, stratoj <tld/>i&gcirc;is <klr>[&#x2026;]</klr> kaj ni
+        preska&ubreve; glui&gcirc;is al la sidlokoj pro la centrifuga forto
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dua &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia kapo turni&gcirc;is, &ccirc;irka&ubreve; mi <tld/>i&gcirc;is la mondo
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dua &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia stomako <tld/>i&gcirc;is &ccirc;e a&ubreve;do de tiu lama banala&jcirc;o
+        <fnt>
+          <bib>KrM</bib>
+          <lok>39. Ni Forton Pli Fre&scirc;an Akiras.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i&gcirc;o de emocioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Claude Piron</aut>
+          <vrk><url ref="&Monato;/2004/008264.html">Funkcio kreas organon</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pensoj kelkfoje <tld/>i&gcirc;as &scirc;ajne senfadene
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2007/009010.php">Resume de l' mio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kure de la libro la rakonta fluo pli kaj pli <tld/>i&gcirc;as, kvaza&ubreve;
+        rapidi&gcirc;anta akvo survoje al falego
+        <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2001/007110.php">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 31</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="agit.0igxi">agiti&gcirc;i</ref>,
+      <ref cel="emoci.0igxi">emocii&gcirc;i</ref>,
+      <ref cel="sku.0igxi">skui&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trd lng="en">swirl</trd>
+  <trdgrp lng="de">
+    <trd>verwirbeln</trd>,
+    <trd>wirbeln</trd>
+  </trdgrp>
+  <trd lng="es">arremolinarse</trd>
+  <trdgrp lng="fr">
+    <trd>tournoyer</trd>,
+    <trd>tourbillonner</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kavarog</trd>,
+    <trd>&ouml;rv&eacute;nylik</trd>
+  </trdgrp>
+  <trd lng="it">turbinare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6E26;&#x5DFB;&#x304F;  <pr>&#x3046;&#x305A;&#x307E;&#x304F;</pr></trd>,
+    <trd>&#x65CB;&#x56DE;&#x3059;&#x308B;  <pr>&#x305B;&#x3093;&#x304B;&#x3044;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>dwarrelen</trd>,
+    <trd>krioelen</trd>,
+    <trd>wervelen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wirowa&cacute;</trd>,
+    <trd>kr&eogonek;ci&cacute; si&eogonek;</trd>,
+    <trd>obraca&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_r;&c_u;&c_zh;&c_i;&c_t;&c_mol;&c_s;&c_ja; &c_v;&c_i;&c_h;&c_r;&c_je;&c_m;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_r;&c_u;&c_zh;&c_i;&c_t;&c_mol;&c_s;&c_ja; &c_v; &c_v;&c_o;&c_d;&c_o;&c_v;&c_o;&c_r;&c_o;&c_t;&c_je;, &c_s;&c_m;&c_je;&c_r;&c_ch;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sv">virvla</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_ib;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_z;&c_b;&c_o;&c_v;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja; (&c_p;&c_r;&c_o; &c_m;&c_a;&c_s;&c_l;&c_o;)</trd>
+  </trdgrp>
+  <trd lng="zh">&#x65CB;&#x6DA1; <pr>xu&#xE1;nw&#x14D;</pr></trd>
+</drv>
+
+<drv mrk="kirl.0ilo">
+  <kap><tld/>ilo <fnt><bib>PIV2</bib></fnt></kap>
+  <snc mrk="kirl.0ilo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Aparato por <tld/>i ovojn, kremon ktp:
+      <ekz>
+        tie mi eksponis ovo<tld/>ilon kaj enspezis sufi&ccirc;e por vivteni min
+        <fnt>
+          <bib>KrM</bib>
+          <lok>34. Granda Parolisto Estas Duba Faristo.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas uzata elektra <tld/>ilo por teni &gcirc;in malfermita, la &scirc;atantoj de vintra
+        banado venas al sia glacitruo &ccirc;iutage
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Saliko</aut>
+          <vrk><url ref="&Monato;/2009/009629.php">Vintra banado</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kremo devas esti le&gcirc;ere batita per &scirc;a&ubreve;migilo a&ubreve; <tld/>ilo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=462081">Batita kremo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>R&uuml;hrger&auml;t</trd>,
+      <trd>Mixer</trd>
+    </trdgrp>
+    <trd lng="en">whisk</trd>
+    <trd lng="es">batidora</trd>
+    <trdgrp lng="fr">
+      <trd>batteur<klr tip="ind"> (cuisine)</klr></trd>,
+      <trd>fouet<klr tip="ind"> (cuisine)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>habver&odblac;</trd>,
+      <trd>kever&odblac;(eszk&ouml;z)</trd>
+    </trdgrp>
+    <trd lng="it">sbattitore<klr tip="ind"> (in cucina)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>garde</trd>,
+      <trd>klopper</trd>
+    </trdgrp>
+    <trd lng="pl">mikser</trd>
+    <trd lng="ru">&c_m;&c_i;&c_k;&c_s;&c_je;&c_r;</trd>
+    <trd lng="sv">visp</trd>
+  </snc>
+  <snc mrk="kirl.0ilo.KOMUNE">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Aparato por <tld/>i diversajn materialojn, ekz. sablon kun cemento
+      kaj akvo (por ricevi betonon), grenojn ktp.
+    </dif>
+    <ref tip="vid" cel="miks.beton0ilo">betonmiksilo</ref>
+    <trd lng="en">mixer</trd>
+    <trd lng="fr">mixeur</trd>
+    <trd lng="pl">mieszalnik</trd>
+    <trd lng="zh">&#x6405;&#x62CC;&#x673A; <pr>ji&#x1CE;ob&#xE0;nj&#x12B;</pr></trd>
+</snc>
+<ref tip="vid" cel="miks.0ilo">miksilo</ref>
+  <trdgrp lng="ja">
+    <trd>&#x6CE1;&#x7ACB;&#x3066;&#x5668;  <pr>&#x3042;&#x308F;&#x3060;&#x3066;&#x304D;</pr></trd>,
+    <trd>&#x652A;&#x62CC;&#x6A5F;  <pr>&#x304B;&#x304F;&#x306F;&#x3093;&#x304D;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_ib;&c_sh;&c_a;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_v;&c_a;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kirl.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="kirl.sen0a.KOMUNE">
+    <dif>
+      Ne havanta <tld/>ojn:
+      <ekz>
+        la orgeno ricevas por la ludado de malnova muziko la preferatan
+        vivan kaj trankvilan (sen<tld/>an) orgenventon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19603">Orgeno</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">unverwirbelt</trd>
+    <trd lng="hu">&ouml;rv&eacute;nymentes</trd>
+    <trdgrp lng="pl">
+      <trd>bezwirowy</trd>,
+      <trd>laminarny</trd>
+    </trdgrp>
+    <trd lng="sv">virvelfri</trd>
+  </snc>
+  <snc mrk="kirl.sen0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(p.p. vektora <ref tip="super" cel="kamp.0o.MAT">kampo</ref>)</klr>
+      Kies <ref cel="kirl.0o.MAT"><tld/>o <sncref/></ref> egalas al
+      nulo:
+      <ekz>
+        &ccirc;iu sen<tld/>a vektora kampo povas esti esprimita kiel gradiento
+        de iu skalara
+        kampo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=270041">Gradienta teoremo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="potenc1.0hava">potencialhava.</ref>
+    <trd lng="de">wirbelfrei<klr tip="ind"> (-es Vektorfeld)</klr></trd>
+    <trd lng="es">irrotacional</trd>
+    <trd lng="en">irrotational<klr tip="ind"> (field)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(champ) </klr>irrotationnel</trd>
+    <trd lng="hu">rot&aacute;ci&oacute;mentes</trd>
+    <trd lng="it">irrotazionale</trd>
+    <trd lng="pl"><klr tip="amb">(pole) </klr>bezwirowe</trd>
+    <trd lng="ru">&c_b;&c_je;&c_z;&c_v;&c_i;&c_h;&c_r;&c_je;&c_v;&c_o;&c_je;<klr tip="amb"> (&c_p;&c_o;&c_l;&c_je;)</klr></trd>
+    <trd lng="sv">virvelfri</trd>
+  </snc>
+</drv>
+
+<drv mrk="kirl.akvo0o">
+  <kap>akvo<tld/>o</kap>
+  <snc mrk="kirl.akvo0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Loko de akvejo, kie akvo rapide
+      <ref tip="super" cel="vortic.0o">vortice</ref>
+      rondiras kun ensu&ccirc;a forto;
+      <ref tip="sin" cel="kirl.0o.KOMUNE">akvoturno</ref>:
+      <ekz>
+        ili sukcesis trairi sendama&gcirc;e la kaptilon <klr>[&#x2026;]</klr> kaj el
+        la terura akvo<tld/>o
+        <fnt>
+          <vrk><url ref="http://www.dantepoliglotta.it/eo/homero-la-sippereo-de-uliso-inter-skilo-kaj-karibdo/">Homero</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        multaj ser&ccirc;antoj faltrafas en la akvo<tld/>i&gcirc;on de spirituala materialismo kaj
+        psi&hcirc;ismo, precipe kiam la sola provilo estas ilia propra &leftquot;sento&rightquot;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Christian Declerck</aut>
+          <vrk><url ref="&Monato;/2009/009048.php">Spirituala materialismo</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">vodn&iacute; v&iacute;r</trd>
+  <trd lng="de">Strudel</trd>
+  <trdgrp lng="en">
+    <trd>whirlpool</trd>,
+    <trd>eddy</trd>
+  </trdgrp>
+  <trd lng="es">remolino<klr tip="ind"> (de agua)</klr></trd>
+  <trd lng="fr">tourbillon<klr tip="ind"> (d'eau)</klr></trd>
+  <trd lng="hu">v&iacute;z&ouml;rv&eacute;ny</trd>
+  <trd lng="it">gorgo</trd>
+  <trd lng="ja">&#x6E26;&#x5DFB;  <pr>&#x3046;&#x305A;&#x307E;&#x304D;</pr></trd>
+  <trd lng="nl">draaikolk</trd>
+  <trd lng="pl">wir wodny</trd>
+  <trd lng="ru">&c_v;&c_o;&c_d;&c_o;&c_v;&c_o;&c_r;&c_o;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>kr&uacute;t&ncaron;ava</trd>,
+    <trd>vodn&yacute; v&iacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6F29; <pr>xu&#xE1;n</pr></trd>,
+    <trd>&#x6F29;&#x6DA1; <pr>xu&#xE1;nw&#x14D;</pr></trd>,
+    <trd>&#x6D04; <pr>hu&#xED;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.48 2023/10/18 16:50:28
+revo: transskribo per <pr>
+
+versio 1.46 2023/04/17 05:27:57
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.45 2023/04/11 16:10:36
+aktualigo Monato-URL
+
+versio 1.44 2022/07/11 16:50:30
+Ulrich Fellmann: kirli: +1 plia DE trd
+
+versio 1.43 2022/05/20 16:44:13
+Wolfram Diestel: ~ilo: +ref, trd en,fr
+
+versio 1.42 2022/05/20 05:30:18
+Wolfram Diestel: ~a&jcirc;o: konkretigo dif, ~i&gcirc;i: +ref-oj
+
+versio 1.41 2022/05/19 06:38:15
+Wolfram Diestel: +ekz-oj, ref, trd de
+
+versio 1.40 2022/05/18 17:34:55
+-->
+</vortaro>

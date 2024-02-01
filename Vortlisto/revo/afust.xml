@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: afust.xml,v 1.23 2023/10/12 16:57:43 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>afust</rad>/o
+</kap>
+<drv mrk="afust.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="port.0ilo">Portilo</ref>
+      de pezaj pafiloj kiel kanono kc:
+      <ekz>
+        ses generaloj metis la &ccirc;erkon sur <tld/>on de ha&ubreve;bizo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4256">Tom&aacute;&scaron; Garrigue Masaryk</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_a;&c_f;&c_je;&c_t;</trd>
+  <trd lng="cs">lafeta</trd>
+  <trdgrp lng="de">
+     <trd>Lafette</trd>,
+     <trd>Selbstfahrlafette</trd>
+  </trdgrp>
+  <trd lng="en">gun carriage</trd>
+  <trd lng="fr">aff&ucirc;t<klr tip="amb"> (de canon)</klr></trd>
+  <trdgrp lng="he">
+    <trd>&#x5DB;&#x5DF;</trd>,
+    <trd>&#x5D7;&#x5E6;&#x5D5;&#x5D1;&#x5D4;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;gy&uacute;talp</trd>,
+    <trd>l&ouml;vegtalp</trd>,
+    <trd>lafetta</trd>
+  </trdgrp>
+  <trd lng="it">affusto</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7832;&#x67B6;  <pr>&#x307B;&#x3046;&#x304B;</pr></trd>,
+    <trd>&#x9283;&#x67B6;  <pr>&#x3058;&#x3085;&#x3046;&#x304B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">affuit</trd>
+  <trd lng="pt">carreta<klr tip="amb"> (de canh&atilde;o ou
+  metralhadora)</klr></trd>
+  <trd lng="ru">&c_l;&c_a;&c_f;&c_je;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>lafeta</trd>,
+    <trd>lafeta <klr>(voj.)</klr></trd>
+  </trdgrp>
+  <trd lng="uk">&#x432;&#x456;&#x439;&#x441;&#x44C;&#x43A;. &#x43B;&#x430;&#x444;&#x435;&#x442;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/12 16:57:43
+revo: transskribo per <pr>
+
+Revision 1.18  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2010/06/10 16:30:49  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2004/05/18 16:31:55  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/05/17 16:31:57  revo
+Viliam Bur: +trd sk
+
+Revision 1.13  2003/02/03 17:31:23  revo
+Ulrich Fellmann: + 2 trd de
+
+Revision 1.12  2002/10/30 18:37:26  revo
+-->
+</vortaro>

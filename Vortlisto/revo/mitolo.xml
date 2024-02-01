@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mitolo.xml,v 1.22 2023/10/19 16:45:37 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>mitologi</rad>/o
+</kap>
+<drv mrk="mitolo.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MIT</uzo>
+  <snc mrk="mitolo.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Scienco studanta la <ref tip="prt" cel="mit.0o.MIT">mitojn
+      <sncref/></ref>:
+      <ekz>
+        la <nom>Edda</nom> estas rekomandita speciale <klr>[al]</klr> studentoj de la <tld/>o
+        <fnt>
+          <vrk><url ref="https://www.amazon.com/Edda-Snorri-Sturluson-Traduko-Esperanto/product-reviews/1595690786">Amazon.com: Customer reviews: La Edda de Snorri Sturluson ...</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Melih Cevdet Anday</nom> <klr>[&#x2026;]</klr> estis instruisto de fonetiko kaj prononcado kaj
+        <tld/>o
+        <fnt>
+          <vrk><url ref="https://esperantoturkiye.wordpress.com/2017/07/04/melih-cevdet-anday-odiseo-kun-ligitaj-manoj/">Esperanto T&uuml;rki&#x307;ye - Retpa&gcirc;o de la turka esperantistaro</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="mitolo.0o.mitaro">
+     <dif>
+      <ref tip="dif" cel="mit.0aro">Mitaro</ref>:
+      <ekz>
+        &leftquot;Pigmaliono ricevis sian Galateon&rightquot;, estis dirite en unu el la kantoj &#x2010; &leftquot;jen
+        denove io mitologia!&rightquot; diris la bopatrino
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>&leftquot;Bela&rightquot;</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la helena <tld/>o estas aro da mitoj kaj legendoj de la antikvaj grekoj, kiu
+        temas pri iliaj diversaj dioj kaj herooj, la naturo de la mondo kaj la
+        origino kaj signifo de ilia propra kultado kaj ritoj
+        <fnt>
+          <vrk><url ref="&Viki;/Helena_mitologio">Helena mitologio - Vikipedio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la antikva latva <tld/>o estas parto de la balta <tld/>o kaj havas multajn
+        simila&jcirc;ojn kompare kun la litova <tld/>o
+        <fnt>
+          <vrk><url ref="&Viki;/Latva_mitologio">Latva mitologio - Vikipedio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_ib;&c_t;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="ca">mitologia</trd>
+  <trdgrp lng="cs">
+    <trd>b&aacute;jeslov&iacute;</trd>,
+    <trd>mytologie</trd>
+  </trdgrp>
+  <trd lng="de">Mythologie</trd>
+  <trd lng="en">mythology</trd>
+  <trd lng="es">mitolog&iacute;a</trd>
+  <trdgrp lng="fr">
+    <trd>mythologie</trd>
+  </trdgrp>
+  <trd lng="hu">mitol&oacute;gia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x795E;&#x8A71;&#x5B66;  <pr>&#x3057;&#x3093;&#x308F;&#x304C;&#x304F;</pr></trd>,
+    <trd>&#x795E;&#x8A71;&#x4F53;&#x7CFB;  <pr>&#x3057;&#x3093;&#x308F;&#x305F;&#x3044;&#x3051;&#x3044;</pr></trd>,
+    <trd>&#x795E;&#x8A71;&#x96C6;  <pr>&#x3057;&#x3093;&#x308F;&#x3057;&#x3085;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">mythologie</trd>
+  <trd lng="pl">mitologia</trd>
+  <trd lng="pt">mitologia</trd>
+  <trd lng="ro">mitologie</trd>
+  <trd lng="ru">&c_m;&c_i;&c_f;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">b&aacute;joslovie</trd>
+  <trd lng="uk">&#x43C;&#x456;&#x444;&#x43E;&#x43B;&#x43E;&#x433;&#x456;&#x44F;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/19 16:45:37
+revo: transskribo per <pr>
+
+versio 1.20 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2020/09/10 20:10:31
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/08/20 00:10:45  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2006/08/07 16:31:38  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2003/06/03 16:31:16  revo
+-->
+</vortaro>

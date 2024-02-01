@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: uzin.xml,v 1.17 2023/10/21 16:50:28 revo Exp $">
+<kap>
+   <rad>uzin</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="uzin.0o">
+   <kap><tld/>o</kap>
+   <snc mrk="uzin.0o.EKON">
+     <uzo tip="fak">EKON</uzo>
+     <dif>
+       <ref tip="super" cel="fabrik.0o.EKON">Fabriko</ref>, precipe por
+       metalproduktado kaj metalprilaborado, en kiu la plej grava laboro
+       estas farata per ma&scirc;inoj:
+       <ekz>
+         la <tld/>o prosperis dum la pasinta duonjaro
+         <fnt><bib>Jamburg</bib>, <lok>&ccirc;apitro 18a, p. 106a</lok></fnt>;
+       </ekz>
+      <ekz>
+        la feraj uzinoj havis altkonjunkturon jam komence de la milito
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Disaj vojoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj <tld/>oj kaj altfornoj funkciis, estis fumnubo apud fumnubo en &ccirc;iu valo
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nun la <tld/>o fabrikas nur centojn da volframaj fadenoj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de ba&ubreve;ksito
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ren&eacute;e Triolle</aut>
+          <vrk><url ref="&Monato;/2015/011584.php">Ru&gcirc;aj &scirc;limoj en Mediteraneo</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+   <trdgrp lng="be">
+     <trd>&c_z;&c_a;&c_v;&c_o;&c_d;</trd>,
+     <trd>&c_f;&c_a;&c_b;&c_r;&c_y;&c_k;&c_a; <klr>(&c_m;&c_e;&c_t;&c_a;&c_l;&c_ju;&c_r;&c_g;&c_ib;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
+   </trdgrp>
+  <trd lng="ca">foneria</trd>
+  <trdgrp lng="cs">
+    <trd>tov&aacute;rna</trd>,
+    <trd>z&aacute;vod</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Werk <klr>(Industrie)</klr></trd>,
+    <trd>Produktionsst&auml;tte</trd>,
+    <trd>Fabrik <klr>(Metallurgie...)</klr></trd>
+  </trdgrp>
+  <trd lng="es">funder&iacute;a <klr>(metalurgia)</klr></trd>
+  <trdgrp lng="fi">
+     <trd>tehdas <klr tip="amb"> (suuri metalliteollisuuslaitos)</klr></trd>,
+   </trdgrp>
+  <trdgrp lng="fr">
+     <trd>fonderie</trd>,
+     <trd>usine m&eacute;tallurgique</trd>
+   </trdgrp>
+  <trd lng="it">fonderia</trd>
+  <trd lng="ja">&#x51B6;&#x91D1;&#x5DE5;&#x5834;  <pr>&#x3084;&#x304D;&#x3093;&#x3053;&#x3046;&#x3058;&#x3087;&#x3046;</pr></trd>
+  <trdgrp lng="no">
+     <trd>jernverk</trd>,
+     <trd>fabrikkanlegg</trd>
+   </trdgrp>
+  <trdgrp lng="pt">
+    <trd>usina</trd>
+   </trdgrp>
+  <trd lng="ru">&c_z;&c_a;&c_v;&c_o;&c_d;</trd>
+  <trd lng="sk">z&aacute;vod</trd>
+  <trd lng="uk">&c_z;&c_a;&c_v;&c_o;&c_d;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.17 2023/10/21 16:50:28
+revo: transskribo per <pr>
+
+versio 1.15 2023/04/11 19:23:02
+aktualigo Monato-URL
+
+versio 1.14 2023/03/02 10:34:20
+Guillermo Molleda Jimena: +trd es
+
+versio 1.13 2022/08/05 14:31:07
+Wolfram Diestel: +ekz, trd de
+
+versio 1.11 2021/04/26 07:54:15
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2011/12/06 17:10:19  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.7  2009/08/18 19:20:22  revo
+-->
+</vortaro>

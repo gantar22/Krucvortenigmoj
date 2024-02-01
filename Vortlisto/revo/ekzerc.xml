@@ -1,0 +1,757 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ekzerc.xml,v 1.109 2023/12/12 19:23:58 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>ekzerc</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ekzerc.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ekzerc.0i.PED">
+    <dif>
+      Lertigi per la praktiko:
+      <ekz>
+        <tld/>u vin al pieco
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Timoteo 4:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i la soldatojn
+        <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 22</lok></fnt>;
+      </ekz>
+      <ekz>
+        vi lernos flugi, mi jam bone <tld/>os tion kun vi
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Cikonioj</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        en la lernejo <klr>[&#x2026;]</klr> oni <tld/>is
+        <klr>(vd <ref cel="instru.0i.PED">instrui</ref>)</klr> vin en la skriboj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> iomete legis kaj <tld/>is sin per babilado
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        grandaj oratoroj <tld/>is multe sian vo&ccirc;on en la komenco
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>sin <tld/>i</ind> en parolado
+        <fnt>
+          <bib>TAA</bib>
+          <lok>&Ccirc;APITRO VII</lok>
+        </fnt>;
+        <trd lng="be">&c_p;&c_r;&c_a;&c_k;&c_t;&c_y;&c_k;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+        <trd lng="ca">exercitar-se</trd>
+        <trdgrp lng="es">
+          <trd>entrenarse</trd>,
+          <trd>ejercitarse</trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>s'<ind>exercer</ind><klr tip="ind">
+          (s'entra&icirc;ner)</klr></trd>,
+          <trd>s'<ind>entra&icirc;ner</ind><klr tip="ind">
+          (s'exercer)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="pl">
+          <trd>&cacute;wiczy&cacute; si&eogonek;</trd>,
+          <trd>wprawia&cacute; si&eogonek;</trd>
+        </trdgrp>
+        <trd lng="ru">&c_u;&c_p;&c_r;&c_a;&c_zh;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
+      </ekz>
+      <ekz>
+        pacience <tld/>adi sian orelon, &gcirc;is oni alkutimi&gcirc;as
+        al klara diferencigado de la
+        multaj reciproke tre simile sonantaj vortoj
+        <fnt>
+          <bib>EE</bib>
+          <lok>VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        niaj kongresoj estas <tld/>anta kaj edukanta
+        anta&ubreve;parolo <klr>(enkonduko)</klr> por la estonta
+        historio de la interfratigita homaro
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en
+          Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="discip.0i">disciplini</ref>,
+      <ref cel="dres.0i">dresi</ref>,
+      <ref cel="hard.0i">hardi</ref>,
+      <ref cel="trejn.0i">trejni</ref>
+    </refgrp>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_k;&c_t;&c_y;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="ca">exercitar</trd>
+    <trdgrp lng="cs">
+      <trd>cvi&ccaron;it</trd>,
+      <trd>procvi&ccaron;it</trd>,
+      <trd>procvi&ccaron;ovat</trd>,
+      <trd>vycvi&ccaron;it</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>&uuml;ben (sich, mit)</trd>,
+      <trd>exerzieren <klr>(soldatojn)</klr></trd>,
+      <trd>ausbilden</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>exercise</trd>,
+      <trd>train</trd>,
+      <trd>drill</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>ejercitar</trd>,
+      <trd>entrenar</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>exercer<klr tip="ind"> (entra&icirc;ner)</klr></trd>,
+      <trd>entra&icirc;ner<klr tip="ind"> (exercer)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>&cacute;wiczy&cacute;</trd>,
+      <trd>szkoli&cacute;</trd>,
+      <trd>trenowa&cacute;</trd>,
+      <trd>wprawia&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>exercitar</trd>,
+      <trd>exercer</trd>,
+      <trd>treinar</trd>,
+      <trd>ensaiar</trd>
+    </trdgrp>
+    <trd lng="ru">&c_u;&c_p;&c_r;&c_a;&c_zh;&c_n;&c_ja;&c_t;&c_mol;</trd>
+    <trdgrp lng="sk">
+      <trd>cvi&ccaron;i&tcaron;</trd>,
+      <trd>nacvi&ccaron;ova&tcaron;</trd>
+    </trdgrp>
+    <trd lng="zh">&#x8A13;&#x7DF4; <pr>x&#xF9;nli&#xE0;n</pr></trd>
+</snc>
+  <snc mrk="ekzerc.0i.apliki">
+    <dif>
+      <ref tip="super" cel="aplik.0i">Apliki</ref> por lerti&gcirc;i:
+      <ekz>
+        iliaj granduloj <tld/>as a&ubreve;toritaton super ili
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 20:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se mi <tld/>us la kuracarton, &ccirc;iutage mi riskus vidi aliajn agoniojn
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fine la jaroj pasigitaj <klr>[&#x2026;]</klr> en absoluta soleco <klr>[&#x2026;]</klr>
+        <tld/>is sur &scirc;i kvietigan influon, kiu &scirc;in plimalardigis
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekkvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en Nederlando estis en la 16-a jarcento tre popularaj la t.n. &leftquot;retorikaj
+        &ccirc;ambroj&rightquot;, <klr>[&#x2026;]</klr> en kiuj ili pli <tld/>is literaturon per deklamadoj
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi devus anka&ubreve; <tld/>i instruadon, li diris, se vi estus tiel afabla, vi rolus
+        kiel lernanto, kaj mi instruus
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiel &scirc;irmitaj kontra&ubreve; ia ajn malfeli&ccirc;a&jcirc;o, <klr>[&#x2026;]</klr> kredeble neniam Kamu&scirc;o
+        a&ubreve; lia edzino trovos okazon <tld/>i sian sindonemon
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la uzon de tiuj esprimoj <klr>[&#x2026;]</klr>
+        li povis <tld/>i, ilin elparolante en
+        momentoj ta&ubreve;gaj
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="prov.el0i.KOMUNE">elprovi</ref>,
+      <ref cel="lern.0i">lerni</ref>,
+      <ref cel="prakti.0i">praktiki</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_k;&c_t;&c_y;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_u;&c_zh;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>aus&uuml;ben</trd>,
+      <trd>ein&uuml;ben</trd>,
+      <trd>praktizieren</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x8B28; <pr>m&#xF3;</pr></trd>,
+    <trd>&#x8084; <pr>y&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="ja">
+    <trd>&#x8A13;&#x7DF4;&#x3059;&#x308B;  <pr>&#x304F;&#x3093;&#x308C;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7DF4;&#x7FD2;&#x3055;&#x305B;&#x308B;  <pr>&#x308C;&#x3093;&#x3057;&#x3085;&#x3046;&#x3055;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&#x43F;&c_r;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_r;&c_je;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ekzerc.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ekzerc.0o.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Io por <tld/>i sin a&ubreve; aliajn:
+      <ekz>
+        <tld/>o de legado
+        <fnt><bib>F</bib>, <lok>&FE; 2</lok></fnt>;
+      </ekz>
+      <ekz>
+        gimnastikaj <tld/>oj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ia regimento faras <tld/>ojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Matildo fervore amuzi&gcirc;is per <tld/>oj de rajdarto
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Oka</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiuj <tld/>oj, ta&ubreve;gaj por <klr>[&#x2026;]</klr> studentoj, ne ta&ubreve;gis plu por ilia a&gcirc;o
+        kaj ilia situacio
+        <fnt>
+          <bib>ChL</bib>
+          <lok>Noto De L&#x2019; A&ubreve;toro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu parolado prezentas samtempe novan <tld/>on de la vo&ccirc;o
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">oefening</trd>
+  <trd lng="am">&#x12E8;&#x12A0;&#x12AB;&#x120D; &#x1265;&#x1243;&#x1275; &#x12A5;&#x1295;&#x1245;&#x1235;&#x1243;&#x1234;</trd>
+  <trd lng="ar">&a_m;&a_m;&a_A;&a_r;&a_s;&a_t_marbuta;</trd>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_k;&c_t;&c_y;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="bn">&#x9AC;&#x9CD;&#x9AF;&#x9BE;&#x9AF;&#x9BC;&#x9BE;&#x9AE;</trd>
+  <trd lng="bs">vje&zcaron;be</trd>
+  <trd lng="ca">exercici</trd>
+  <trd lng="co">teacher</trd>
+  <trdgrp lng="cs">
+    <trd>cvi&ccaron;en&iacute;</trd>,
+    <trd>t&ecaron;lesn&aacute; n&aacute;maha</trd>,
+    <trd>&uacute;loha</trd>
+  </trdgrp>
+  <trd lng="cy">ymarfer corff</trd>
+  <trd lng="da">motion</trd>
+  <trd lng="de">&Uuml;bung</trd>
+  <trdgrp lng="en">
+    <trd>exercise</trd>,
+    <trd>drill</trd>
+  </trdgrp>
+  <trd lng="es">ejercicio</trd>
+  <trd lng="et">kasutamise</trd>
+  <trd lng="eu">ariketa</trd>
+  <trd lng="fr">exercice</trd>
+  <trd lng="fy">oefenje</trd>
+  <trd lng="ga">a fheidhmi&uacute;</trd>
+  <trd lng="gd">eacarsaich</trd>
+  <trd lng="gl">exercicio</trd>
+  <trd lng="gu">&#xA95;&#xAB8;&#xAB0;&#xAA4;</trd>
+  <trd lng="ha">motsa jiki</trd>
+  <trd lng="he">&tav;&resh;&gimel;&yod;&lamed;</trd>
+  <trd lng="hi">&#x935;&#x94D;&#x92F;&#x93E;&#x92F;&#x93E;&#x92E;</trd>
+  <trd lng="hmn">qoj ib ce</trd>
+  <trd lng="hr">vje&zcaron;ba</trd>
+  <trd lng="ht">f&egrave; egz&egrave;sis</trd>
+  <trd lng="hy">&#x57E;&#x561;&#x580;&#x56A;&#x578;&#x582;&#x569;&#x575;&#x578;&#x582;&#x576;</trd>
+  <trd lng="ig">mmega</trd>
+  <trd lng="is">&aelig;fing</trd>
+  <trd lng="ja">&#x30A8;&#x30AF;&#x30B5;&#x30B5;&#x30A4;&#x30BA;</trd>
+  <trd lng="jv">ngleksanani</trd>
+  <trd lng="ka">&#x10E1;&#x10EC;&#x10D0;&#x10D5;&#x10DA;&#x10D4;&#x10D1;&#x10D0;</trd>
+  <trd lng="kk">&c_zh;&c_a;&c_t;&c_t;&c_y;&#x493;&c_u;</trd>
+  <trd lng="km">&#x1780;&#x17B6;&#x179A;&#x1792;&#x17D2;&#x179C;&#x17BE;&#x179B;&#x17C6;&#x17A0;&#x17B6;&#x178F;&#x17CB;&#x1794;&#x17D2;&#x179A;&#x17B6;&#x178E;</trd>
+  <trd lng="kn">&#xCB5;&#xCCD;&#xCAF;&#xCBE;&#xCAF;&#xCBE;&#xCAE;</trd>
+  <trd lng="ko">&#xC6B4;&#xB3D9;</trd>
+  <trd lng="ku">f&ecirc;re</trd>
+  <trd lng="ky">&c_k;&#x4E9;&c_n;&#x4AF;&c_g;&#x4AF;&#x4AF;</trd>
+  <trd lng="lat">exercitium</trd>
+  <trd lng="lo">&#xEAD;&#xEAD;&#xE81;&#xE81;&#xECD;&#xEB2;&#xEA5;&#xEB1;&#xE87;&#xE81;&#xEB2;&#xE8D;</trd>
+  <trd lng="lt">pratimas</trd>
+  <trd lng="lv">vingrin&#257;jums</trd>
+  <trd lng="mg">fanatanjahan-tena</trd>
+  <trd lng="mi">mahi</trd>
+  <trd lng="mk">&c_v;&c_je;&c_zh;&c_b;&c_i;</trd>
+  <trd lng="ml">&#xD35;&#xD4D;&#xD2F;&#xD3E;&#xD2F;&#xD3E;&#xD2E;&#xD02;</trd>
+  <trd lng="mn">&c_d;&c_a;&c_s;&c_g;&c_a;&c_l;</trd>
+  <trd lng="mr">&#x935;&#x94D;&#x92F;&#x93E;&#x92F;&#x93E;&#x92E;</trd>
+  <trd lng="ms">senaman</trd>
+  <trd lng="mt">e&zdot;er&#x10B;izzju</trd>
+  <trd lng="my">&#x101C;&#x1031;&#x1037;&#x1000;&#x103B;&#x1004;&#x1037;&#x103A;</trd>
+  <trd lng="ne">&#x935;&#x94D;&#x92F;&#x93E;&#x92F;&#x93E;&#x92E;</trd>
+  <trd lng="ny">olimbitsa</trd>
+  <trd lng="pa">&#xA15;&#xA38;&#xA30;&#xA24;</trd>
+  <trdgrp lng="pl">
+    <trd>&cacute;wiczenie</trd>,
+    <trd>zadanie</trd>,
+    <trd>trening</trd>,
+    <trd>wprawka</trd>
+  </trdgrp>
+  <trd lng="ps">&a_t;&a_m;&a_r;&f_y;&a_n;</trd>
+  <trd lng="ru">&c_u;&c_p;&c_r;&c_a;&c_zh;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="rw">imyitozo</trd>
+  <trd lng="sd">&a_j;</trd>
+  <trd lng="si">&#xDC0;&#xDCA;&#xDBA;&#xDCF;&#xDBA;&#xDCF;&#xDB8;</trd>
+  <trdgrp lng="sk">
+    <trd>cvik</trd>,
+    <trd>cvi&ccaron;enie</trd>
+  </trdgrp>
+  <trd lng="sl">vadba</trd>
+  <trd lng="sm">faatinoina</trd>
+  <trd lng="sn">kusimbisa muviri</trd>
+  <trd lng="so">jimicsiga</trd>
+  <trd lng="sq">ushtrim</trd>
+  <trd lng="st">ho ikoetlisa</trd>
+  <trd lng="su">latihan</trd>
+  <trd lng="sw">zoezi</trd>
+  <trd lng="ta">&#xB89;&#xB9F;&#xBB1;&#xBCD;&#xBAA;&#xBAF;&#xBBF;&#xBB1;&#xBCD;&#xB9A;&#xBBF;</trd>
+  <trd lng="te">&#xC35;&#xC4D;&#xC2F;&#xC3E;&#xC2F;&#xC3E;&#xC2E;&#xC02;</trd>
+  <trd lng="tg">&c_v;&c_a;&c_r;&c_z;&c_i;&c_sh;</trd>
+  <trd lng="th">&#xE01;&#xE32;&#xE23;&#xE2D;&#xE2D;&#xE01;&#xE01;&#xE33;&#xE25;&#xE31;&#xE07;&#xE01;&#xE32;&#xE22;</trd>
+  <trd lng="tl">pagsasanay</trd>
+  <trd lng="tt">&c_k;&#x4AF;&c_n;&c_je;&c_g;&#x4AF;&c_l;&#x4D9;&c_r;</trd>
+  <trd lng="uk">&c_v;&c_p;&c_r;&c_a;&c_v;&c_a;</trd>
+  <trd lng="ur">&a_w;&a_r;&a_z;&a_sh;</trd>
+  <trd lng="uz">mashq</trd>
+  <trd lng="vi">t&#x1EAD;p th&#x1EC3; d&#x1EE5;c</trd>
+  <trd lng="xh">umsebenzi</trd>
+  <trd lng="yi">&gimel;&ayin;&nun;&yod;&tet;&vav;&nun;&gimel;</trd>
+  <trd lng="yo">idaraya</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6F14;&#x7DF4; <pr>y&#x1CE;nli&#xE0;n</pr></trd>,
+    <trd>&#x7DF4;&#x7FD2; <pr>li&#xE0;nx&#xED;</pr></trd>,
+    <trd>&#x4E60;&#x9898; <pr>x&#xED;t&#xED;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">umsebenzi</trd>
+</drv>
+
+<drv mrk="ekzerc.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="ekzerc.0ado.PED">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        korpa <tld/>ado malmulte utilas, sed pieco utilas al &ccirc;io
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Timoteo 4:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ado de soldatoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li sidi&gcirc;is teren, en la mezo de la salono, muelita kaj disrompita de la tia
+        danca <tld/>ado
+        <fnt>
+          <bib>DKM</bib>
+          <lok>&Ccirc;apitro LXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ado de la vo&ccirc;o estas necesa al &ccirc;iu komencanto
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i iris hiera&ubreve; vespere al la popolparko en Torento, kaj post la tiea nokta
+        <tld/>ado &scirc;i certe ne estas vekebla
+        <fnt>
+          <bib>Tor</bib>
+          <lok>II.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_k;&c_t;&c_y;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="ca">exercitaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>n&aacute;cvik</trd>,
+    <trd>v&yacute;cvik</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>&Uuml;bung</trd>,
+    <trd>Drill</trd>,
+    <trd>Training</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>exercise</trd>,
+    <trd>practice</trd>,
+    <trd>training</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>ejercicio</trd>,
+    <trd>pr&aacute;ctica</trd>,
+    <trd>entrenamiento</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>entra&icirc;nement</trd>,
+    <trd>exercice<klr tip="ind"> (entra&icirc;nement)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&alef;&vav;&samekh;&fpe; &tav;&resh;&gimel;&yod;&lamed;&yod;&fmem;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A13;&#x7DF4;  <pr>&#x304F;&#x3093;&#x308C;&#x3093;</pr></trd>,
+    <trd>&#x7DF4;&#x7FD2;  <pr>&#x308C;&#x3093;&#x3057;&#x3085;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&cacute;wiczenie</trd>,
+    <trd>szkolenie</trd>,
+    <trd>trening</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_p;&c_r;&c_a;&c_zh;&c_n;&c_je;&c_n;&c_i;&c_je;<klr tip="amb"> (&c_p;&c_r;&c_o;&c_c;&c_je;&c_s;&c_s;)</klr></trd>,
+    <trd>&c_t;&c_r;&c_je;&c_n;&c_i;&c_r;&c_o;&c_v;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cvi&ccaron;enie</trd>,
+    <trd>v&yacute;cvik</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x64CD;&#x7DF4; <pr>c&#x101;oli&#xE0;n</pr></trd>,
+    <trd>&#x64CD; <pr>c&#x101;o</pr></trd>,
+    <trd>&#x8A13;&#x7DF4;&#x65E5; <pr>x&#xF9;nli&#xE0;nr&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ekzerc.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="ekzerc.0aro.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Kolekto de <tld/>oj, ofte kun kreskanta malfacileco
+      ebligante plenan akiron de iu kapablo:
+      <ekz>
+        <tld/>aro de la lingvo internacia &leftquot;Esperanto&rightquot;
+        <fnt><bib>F</bib>, <lok>&FE; 1</lok></fnt>;
+      </ekz>
+      <ekz>
+        konkordanco de la vortoj de <tld lit="E"/>aro
+        <fnt>
+          <bib>Ifigenio</bib>
+          <lok>Ifigenio en Ta&ubreve;rido</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_k;
+  <ind>&c_p;&c_r;&c_a;&c_k;&c_t;&c_y;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_w;</ind></trd>
+  <trd lng="ca">llibre d'<ind>exercici</ind>s</trd>
+  <trd lng="cs">cvi&ccaron;ebnice</trd>
+  <trd lng="de">&Uuml;bungsreihe</trd>
+  <trdgrp lng="en">
+    <trd>exercise book</trd>,
+    <trd>practice book</trd>,
+    <trd>problem book</trd>
+  </trdgrp>
+  <trd lng="es"><ind>libro</ind> de ejercicios</trd>
+  <trd lng="fr"><ind>recueil</ind> d'exercices</trd>
+  <trd lng="he">&alef;&vav;&samekh;&fpe; &tav;&resh;&gimel;&yod;&lamed;&yod;&fmem;</trd>
+  <trd lng="ja">&#x7DF4;&#x7FD2;&#x554F;&#x984C;&#x96C6;  <pr>&#x308C;&#x3093;&#x3057;&#x3085;&#x3046;&#x3082;&#x3093;&#x3060;&#x3044;&#x3057;&#x3085;&#x3046;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>&cacute;wiczenia<klr> (pot.)</klr></trd>,
+    <trd>zeszyt <ind>&cacute;wicze&nacute;</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_b;&c_o;&c_r;&c_n;&c_i;&c_k;
+  <ind>&c_u;&c_p;&c_r;&c_a;&c_zh;&c_n;&c_je;&c_n;&c_i;&c_j;</ind></trd>
+  <trd lng="sk">cvi&ccaron;ebnica</trd>
+  <trd lng="uk">&c_z;&c_b;&c_ib;&c_r;&#x43D;&c_i;&#x43A; &c_v;&#x43F;&c_r;&c_a;&c_v;</trd>
+</drv>
+
+<drv mrk="ekzerc.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="ekzerc.0igxi.PED">
+    <dif>
+      Sin <tld/>i:
+      <ekz>
+        ili <tld/>i&gcirc;is &ccirc;iutage
+        <fnt><bib>Fab1</bib>, <lok>Cikonioj</lok></fnt>;
+      </ekz>
+      <ekz>
+        la elfknabinoj <tld/>i&gcirc;as en novaj dancoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sinjoro <klr>[&#x2026;]</klr> montris arbaron de lancoj de la soldatoj, kiuj
+        <tld/>i&gcirc;is en la korto
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i&gcirc;i en Esperanta parolado
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en
+          Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por forigi la timtremon estas tre konsilinde <tld/>i&gcirc;i kiom eble plej multe
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_k;&c_t;&c_y;&c_k;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="ca">exercitar-se</trd>
+  <trd lng="de">sich <ind>&uuml;ben</ind></trd>
+  <trdgrp lng="en">
+    <trd>exercise</trd>,
+    <trd>practice</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>entrenarse</trd>,
+    <trd>ejercitarse</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s'<ind>exercer</ind><klr tip="ind">
+    (s'entra&icirc;ner)</klr></trd>,
+    <trd>s'<ind>entrainer</ind><klr tip="ind"> (s'exercer)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&lamed;&he;&tav;&alef;&mem;&fnun;</trd>
+  <trd lng="ja">&#x7DF4;&#x7FD2;&#x3059;&#x308B;  <pr>&#x308C;&#x3093;&#x3057;&#x3085;&#x3046;&#x3059;&#x308B;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>&cacute;wiczy&cacute; si&eogonek;</trd>,
+    <trd>szkoli&cacute; si&eogonek;</trd>,
+    <trd>trenowa&cacute;</trd>,
+    <trd>wprawia&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_u;&c_p;&c_r;&c_a;&c_zh;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&#x43F;&c_r;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_t;&c_r;&c_je;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ekzerc.0iteco">
+  <kap><tld/>iteco</kap>
+  <snc mrk="ekzerc.0iteco.PED">
+    <dif>
+      <ref tip="super" cel="lert.0eco">Lerteco</ref> akirita de l' <tld/>i&gcirc;ado:
+      <ekz>
+        la ka&ubreve;zo de la balbutado ku&scirc;as ne en la lingvo, sed nur en la nesufi&ccirc;a
+        <tld/>iteco de la diritaj personoj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne
+          sur Mer en la 5a de a&ubreve;gusto 1905</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;iaj fingroj perdis la <tld/>itecon kaj konfuzi&gcirc;adis sur la klavoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nenio en la mondo <klr>[&#x2026;]</klr> povis konkuri en la fleksi&gcirc;emeco de iliaj
+        movoj, kun la elasteco de iliaj saltoj, kun la <klr>[&#x2026;]</klr>
+        perfekta <tld/>iteco de iliaj langoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_r;&c_a;&c_k;&c_t;&c_y;&c_k;&c_a;&c_v;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>habilitat</trd>,
+    <trd>destresa</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>cvik</trd>,
+    <trd>zb&ecaron;hlost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Ge&uuml;btheit</trd>,
+    <trd>Gewandtheit</trd>,
+    <trd>Geschicklichkeit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>facility (through practice)</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>adresse</trd>,
+    <trd>dext&eacute;rit&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A13;&#x7DF4;&#x5EA6;  <pr>&#x304F;&#x3093;&#x308C;&#x3093;&#x305F;&#x3073;</pr></trd>,
+    <trd>&#x7FD2;&#x719F;&#x5EA6;  <pr>&#x3057;&#x3085;&#x3046;&#x3058;&#x3085;&#x304F;&#x3069;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wyszkolenie</trd>,
+    <trd>wprawa</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_n;&c_o;&c_r;&c_o;&c_v;&c_k;&c_a;</trd>,
+    <trd>&c_u;&c_m;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_n;&c_a;&c_t;&c_r;&c_je;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vycvi&ccaron;enos&tcaron;</trd>,
+    <trd>zbehlos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_t;&c_r;&c_je;&#x43D;&#x43E;&c_v;&c_a;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_v;&#x43F;&c_r;&c_a;&c_v;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_v;&c_i;&c_sh;&#x43A;&c_ib;&#x43B;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6280;&#x827A; <pr>j&#xEC;y&#xEC;</pr></trd>,
+    <trd>&#x770B;&#x5BB6;&#x672C;&#x9818; <pr>k&#x101;nji&#x101;b&#x11B;nl&#x1D0;ng</pr></trd>,
+    <trd>&#x6280;&#x80FD; <pr>j&#xEC;n&#xE9;ng</pr></trd>,
+    <trd>&#x653B; <pr>g&#x14D;ng</pr></trd>,
+    <trd>&#x719F;&#x7DF4; <pr>sh&#xFA;li&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ekzerc.stil0o">
+  <kap>stil<tld/>o</kap>
+  <snc mrk="ekzerc.stil0o.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      <tld lit="E"/>o de verkado celanta mastrigi ian apartan stilon,
+      ofte super nur formala temo:
+      <ekz>
+        <ctl>Stil<tld/>oj</ctl>
+        <klr>(franclingva verko de <nom>R. Queneau</nom>)</klr>
+        <fnt>
+          <aut>R. Queneau, trad. I. Ertl</aut>,
+          <vrk>Stilekzercoj</vrk>,
+          <lok>La Kromkancerkliniko 4, 1986</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se anka&ubreve; miaj venontaj stil<tld/>oj estos bonaj, mi certe
+        ricevos anka&ubreve; denove la noton &leftquot;bone&rightquot;
+        <fnt><aut>U. Matthias</aut>,
+        <vrk><url ref="http://www.u-matthias.de/verko/fajron.htm">
+        Fajron sentas mi interne</url></vrk>,
+        <lok>Pro Esperanto, 1990</lok></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&ccirc;u]</klr> temas pri publikigitaj partoj de iu granda romano a&ubreve; simple pri
+        stil<tld/>oj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 6 (56)</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_y;&c_l;&c_jo;&c_v;&c_a;&c_je; <ind>&c_p;&c_r;&c_a;&c_k;&c_t;&c_y;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+  <trd lng="ca">exercici d'estil</trd>
+  <trd lng="de">Stil&uuml;bung</trd>
+  <trdgrp lng="en">
+    <trd>style exercise</trd>,
+    <trd>exercise in style</trd>
+  </trdgrp>
+  <trd lng="fr">exercice de style</trd>
+  <trd lng="es">ejercicio de estilo</trd>
+  <trd lng="pl">&cacute;wiczenie stylu</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.109 2023/12/12 19:23:58
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.107 2023/10/14 15:34:42
+revo: transskribo per <pr>
+
+versio 1.105 2023/08/31 08:31:02
+Dmitri Gabinski: + trd be
+
+versio 1.104 2023/04/02 22:26:18
+Vito Redsky: +trd pl
+
+versio 1.103 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.101 2022/02/25 14:25:34
+Wolfram Diestel: ~o..stil~o: ekz-oj, trd de
+
+versio 1.100 2022/02/24 21:26:13
+Wolfram Diestel: ~i: distingi du snc, ekz-oj, ref-oj, trd de
+
+versio 1.25 2021/04/12 17:41:14
+-->
+</vortaro>

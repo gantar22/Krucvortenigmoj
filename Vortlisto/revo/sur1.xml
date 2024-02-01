@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sur1.xml,v 1.24 2023/09/04 15:14:33 revo Exp $">
+<kap>
+  <rad>sur</rad>/o
+</kap>
+<drv mrk="sur1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">ANA</uzo>
+  <snc mrk="sur1.0o.ANA">
+    <dif>
+      Muskola elstaro, kiu formas la malanta&ubreve;an parton
+      de la <ref tip="malprt" cel="krur.0o.tuto">kruro</ref>:
+      <ekz>
+        folioj <klr>[&#x2026;]</klr> kovris la vojeton, mar&scirc;i tie ofte similas vadi en
+        multekolora rivereto &gcirc;is la <tld/>o
+        <fnt>
+          <aut>Steven K. Smith</aut>
+          <vrk><url ref="https://www.sksmithmusic.com/esperanto/auxtuna.html">A&ubreve;tuna Mensogo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kruro, &scirc;velinte, ru&gcirc;ete brilis, la piedo, kuni&gcirc;inte kun la <tld/>o, perdis
+        sian formon
+        <fnt>
+          <aut>Aleksandro Grin</aut>
+          <vrk><url ref="http://www.esperanto.mv.ru/Grin/vojo_2_14.html">La vojo nenien</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="tibi.0karno.ANA">tibikarno</ref>
+  </snc>
+  <rim>
+    Ne konfuzu kun <ref tip="hom" cel="sura.0o">surao</ref>.
+  </rim>
+  <trd lng="be">&c_l;&c_y;&c_t;&c_k;&c_a;</trd>
+  <trd lng="ca">panxell</trd>
+  <trd lng="cs">l&yacute;tko</trd>
+  <trdgrp lng="de">
+    <trd>Wade</trd>,
+    <trd>Sura</trd>
+  </trdgrp>
+  <trd lng="en">calf</trd>
+  <trd lng="es">pantorrilla</trd>
+  <trd lng="fr">mollet</trd>
+  <trdgrp lng="hu">
+    <trd>l&aacute;bikra</trd>,
+    <trd>v&aacute;dli</trd>
+  </trdgrp>
+  <trd lng="id">betis</trd>
+  <trdgrp lng="it">
+    <trd>gastrocnemio</trd>,
+    <trd>gemelli<klr tip="amb"> (muscolo)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x3075;&#x304F;&#x3089;&#x306F;&#x304E;</trd>
+  <trd lng="nl">kuit<klr tip="ind"> (v.been)</klr></trd>
+  <trd lng="pl">&lstroke;ydka</trd>
+  <trd lng="ru">&c_i;&c_k;&c_r;&c_a; <klr tip="amb">(&c_n;&c_o;&c_g;&c_i;)</klr></trd>
+  <trd lng="sk">l&yacute;tko <klr>(m&auml;so)</klr></trd>
+  <trd lng="uk">&#x43B;&#x438;&#x442;&#x43A;&#x430;</trd>
+</drv>
+</art>
+<!--
+$Log$
+Revision 1.21  2019/04/14 08:10:20  revo
+Wolfram Diestel: +ekz-oj, ref surao
+
+Revision 1.20  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/05/30 17:10:22  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.17  2012/08/10 14:12:11  revo
+Axel Rousseau: +trd fr
+
+Revision 1.16  2010/01/15 17:30:19  revo
+Russ Williams: movi ref al tibikarno
+
+Revision 1.15  2010/01/14 18:27:24  revo
+-->
+</vortaro>

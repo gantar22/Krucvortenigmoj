@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: liken.xml,v 1.23 2024/01/15 19:02:14 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>liken</rad>/o
+</kap>
+<drv mrk="liken.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <snc mrk="liken.0o.BOT">
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      Iu el grupo de vegeta&jcirc;oj (<trd lng="la">Lichenes</trd>)
+      formitaj per simbiozo de fungo kaj algo; kreskantaj sur muroj,
+      arboj, &scirc;tonegoj:
+      <ekz>
+        vane Atrejo fosis per la manoj inter la &scirc;tonoj por trovi almena&ubreve; radikon, sed nenio kreskis tie &ccirc;i, e&ccirc; ne musko a&ubreve; <tld/>oj
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Igramul', la Multulo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/8/8c/Flavoparmelia_caperata_-_lichen_-_Caperatflechte.jpg/640px-Flavoparmelia_caperata_-_lichen_-_Caperatflechte.jpg" prm="CC BY-SA 3.0"><tld/>o (ver&scirc;ajne: Flavoparmelia caperata), Hesse, Germanujo
+    
+        <fnt>
+          <aut>Norbert Nagel, M&ouml;rfelden-Walldorf, Germanujo, propra verko</aut>
+          <lok><url ref="&WCW;/File:Flavoparmelia_caperata_-_lichen_-_Caperatflechte.jpg">&WCW;/File:Flavoparmelia_caperata_-_lichen_-_Caperatflechte.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="be">&c_l;&c_ib;&c_sh;&c_a;&c_j;&c_n;&c_ib;&c_k; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+    <trd lng="el">&lambda;&epsilon;&jota;&chi;&eta_ton;&ny;&alfa;</trd>
+    <trd lng="en">lichen</trd>
+    <trd lng="fr">lichen</trd>
+    <trd lng="hu">zuzm&oacute;</trd>
+    <trdgrp lng="id">
+      <trd>liken</trd>,
+      <trd><ind>lumut</ind> kerak</trd>
+    </trdgrp>
+    <trd lng="nl">korstmos</trd>
+    <trdgrp lng="pl">
+      <trd>porost</trd>,
+      <trd>grzyb zlichenizowany</trd>
+    </trdgrp>
+    <trd lng="ru">&c_l;&c_i;&c_sh;&c_a;&c_j;&c_n;&c_i;&c_k; <klr>(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  </snc>
+  <snc mrk="liken.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Ha&ubreve;ta <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref> karakterizata de ha&ubreve;tdifektoj
+      <tld/>&scirc;ajnaj:
+      <ekz>
+        se li vidos, ke la infekta&jcirc;o fari&gcirc;is malpli rimarkebla kaj &gcirc;i ne disvasti&gcirc;is
+        sur la ha&ubreve;to, tiam la pastro deklaru lin pura: &gcirc;i estas <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 13:6</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_l;&c_ib;&c_sh;&c_a;&c_j; <klr>(&c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_a;)</klr></trd>
+    <trd lng="fr">lichen plan<klr> (peau)</klr></trd>
+    <trd lng="hu">s&ouml;m&ouml;r</trd>
+    <trd lng="pl">liszaj</trd>
+    <trd lng="ru">&c_l;&c_i;&c_sh;&c_a;&c_j; <klr>(&c_b;&c_o;&c_l;&c_je;&c_z;&c_n;&c_mol;)</klr></trd>
+  </snc>
+  <trd lng="ca">liquen</trd>
+  <trd lng="de">Flechte</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5730;&#x8863;  <pr>&#x3061;&#x3044;</pr></trd>,
+    <trd>&#x82D4;&#x861A;  <pr>&#x3053;&#x3051;&#x861A;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">l&iacute;quen</trd>
+  <trd lng="uk">&#x43B;&#x438;&#x448;&#x430;&#x439;&#x43D;&#x438;&#x43A;</trd>
+  <trd lng="zh">&#x9752;&#x82D4; <pr>q&#x12B;ngt&#xE1;i</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/19 14:32:17
+revo: transskribo per <pr>
+
+Revision 1.18  2017/03/31 07:10:26  revo
+Damien Brucker: +trd fr
+
+Revision 1.17  2014/11/18 20:10:47  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2014/09/18 07:10:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2013/10/09 19:11:28  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.14  2011/12/06 18:10:17  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.13  2003/05/06 16:33:53  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/09/07 17:35:58  revo
+-->
+</vortaro>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nuo.xml,v 1.3 2022/05/01 16:20:54 revo Exp $">
+<kap>
+    <rad>nu</rad>/o
+</kap>
+<drv mrk="nuo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="nuo.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      La dektria litero de la greka alfabeto <klr>(&Ny;, &ny;)</klr>:
+      <ekz>
+        anka&ubreve; eblas ilin <klr>[la Grekajn literojn]</klr> plene
+        Esperantigi
+        kun O-fina&jcirc;oj, ekz.: <klr>[...]</klr> muo, <tld/>o, ksio,
+        <klr>[...]</klr>
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk><url
+          ref="&PMEG;gramatiko/neoficialaj_vortetoj.html#i-n8l">Grekaj
+          literoj en PMEG &para;19</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Trovi&gcirc;as en la PIV-oj la neasimilita formo <ctl>nu</ctl>.
+    </rim>
+  </snc>
+  <trd lng="en">nu</trd>
+  <trd lng="fr">nu</trd>
+  <trd lng="pl">ny  <klr>(litera grecka)</klr></trd>
+  <trd lng="ro">niu  <klr>(liter&abreve;)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.3 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.2 2021/04/21 22:59:51
+Vito Redsky: +trd pl +trd ro
+-->
+</vortaro>

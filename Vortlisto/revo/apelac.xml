@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: apelac.xml,v 1.27 2023/10/28 08:33:07 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>apelaci</rad>/i
+</kap>
+<drv mrk="apelac.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <uzo tip="fak">JUR</uzo>
+  <uzo tip="fak">EKON</uzo>
+  <snc mrk="apelac.0i.JUR">
+    <dif>
+      <ref tip="super" cel="vok.al0i">Alvoki</ref> al supera 
+      tribunalo kontra&ubreve; verdikto de malpli supera
+      ju&gcirc;istaro:
+      <ekz>
+        la <tld/>a kortumo nuligis la decidon de la tribunalo;
+      </ekz>
+      <ekz>
+        estas vera nenio el tiuj aferoj, pri kiuj ili min akuzas, <klr>[&#x2026;]</klr> mi
+        <tld/>as al Cezaro
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 25:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en &ccirc;iuj kazoj de eksigo el la ofico la eksigito rajtas <tld/>i en tempolimo de
+        30 tagoj post la ricevo de la decido: al la Komitato, se estis kompetenta la
+        Estraro, kaj al la Estraro en &ccirc;iuj aliaj kazoj
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i jam <tld/>is al la Supera Arbitracia Kortumo kaj planas procesi kontra&ubreve; la
+        Peterburga KUGI en Moskvo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok> 2003, &#x2116; 5 (103)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="instan.0o">instanco</ref>,
+      <ref cel="revizi.0i">revizii</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_p;&c_e;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_a;&c_p;&c_e;&c_l;&c_ja;&c_c;&c_y;&c_ju;</ind></trd>,
+      <trd>&c_a;&c_b;&c_s;&c_k;&c_a;&c_r;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_o;&c_b;&c_zh;&c_a;&c_l;&c_v;&c_a;&c_m;</trd>
+    <trdgrp lng="de">
+      <trd><ind>Rechtsmittel</ind> einlegen</trd>,
+      <trd>ein Urteil <ind>anfechten</ind></trd>
+    </trdgrp>
+    <trd lng="es">apelar</trd>
+    <trd lng="fr">faire <ind>appel</ind></trd>
+    <trd lng="hu">fellebbez</trd>
+    <trd lng="nl">in hoger beroep gaan</trd>
+    <trdgrp lng="ru">
+      <trd>&c_a;&c_p;&c_je;&c_l;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_b;&c_zh;&c_a;&c_l;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="zh">&#x4E0D;&#x670D; <pr>b&#xF9;f&#xFA;</pr></trd>
+</snc>
+  <snc mrk="apelac.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Proteste, postule, pete alvoki:
+      <ekz>
+        la homoj ka&scirc;is anta&ubreve; mi homecon, kiam mi <tld/>is al homeco, &mdash; flugu do for de
+        mi, simpatio kaj homa indulgeco!
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni persiste <tld/>is al la idealoj de Esperanto
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Konferenco <tld/>as al instancoj, respondecaj pri la instruado kaj edukado en
+        diversaj &scirc;tatoj vastigi la instruadon de Esperanto
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>as al la logiko
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_p;&c_e;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_k;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>appelieren</trd>,
+      <trd>anmahnen</trd>
+    </trdgrp><trd lng="ru">&c_v;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x547C;&#x5401; <pr>h&#x16B;y&#xF9;</pr></trd>,
+    <trd>&#x547C;&#x7C72; <pr>h&#x16B;y&#xF9;</pr></trd>,
+    <trd>&#x4FDB; <pr>mi&#x1CE;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="ca">apel&middot;lar</trd>
+  <trdgrp lng="cs">
+    <trd>apelovat</trd>,
+    <trd>odvolat se k vy&scaron;&scaron;&iacute; instanci</trd>,
+    <trd>protestovat</trd>,
+    <trd>revokovat</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>appeal</trd>
+  </trdgrp>
+  <trd lng="he">&lamed;&ayin;&resh;&ayin;&resh;</trd>
+  <trdgrp lng="hu">
+    <trd>apell&aacute;l</trd>,
+    <trd>hivatkozik<klr tip="ind"> (apell&aacute;l)</klr></trd>,
+    <trd>fordul<klr tip="ind"> (apell&aacute;l)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>appellarsi</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A34;&#x3048;&#x308B;  <pr>&#x3046;&#x3063;&#x305F;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x63A7;&#x8A34;&#x3059;&#x308B;  <pr>&#x3053;&#x3046;&#x305D;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x4E0A;&#x544A;&#x3059;&#x308B;  <pr>&#x3058;&#x3087;&#x3046;&#x3053;&#x304F;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">apelova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x43F;&#x435;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43E;&#x441;&#x43A;&#x430;&#x440;&#x436;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/13 16:46:48
+revo: transskribo per <pr>
+
+versio 1.23 2021/12/14 16:48:07
+Wolfram Diestel: ekz-oj, ref, trd de
+
+versio 1.22 2021/12/14 10:34:33
+Wolfram Diestel: snc-mrk
+
+versio 1.21 2021/12/14 09:31:46
+Damien Brucker: +mrk cxe snc
+
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2011/12/08 11:10:18  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.16  2004/03/21 17:31:02  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/05/20 16:31:19  revo
+-->
+</vortaro>

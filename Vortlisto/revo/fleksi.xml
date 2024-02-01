@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: fleksi.xml,v 1.26 2023/10/14 19:15:45 revo Exp $">
+    <kap><ofc>1</ofc>
+      <rad>fleksi</rad>/o</kap>
+
+    <drv mrk="fleksi.0i">
+      <kap><tld/>i</kap>
+      <gra><vspec>tr</vspec></gra>
+      <snc>
+      <uzo tip="fak">LIN</uzo>
+	<dif>
+	  &Scirc;an&gcirc;i vortoformojn la&ubreve; la gramatikaj kategorioj de koncerna lingvo:
+	  <ref tip="sub" cel="konjug1.0i">konjugacii</ref> verbojn,
+	  <ref tip="sub" cel="deklin.0i">deklinacii</ref> substantivojn ktp.
+	</dif>
+      </snc>
+      <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol; <klr tip="amb">(&c_s;&c_l;&c_o;&c_v;&c_a;: &c_s;&c_k;&c_l;&c_a;&c_n;&c_ja;&c_c;&c_mol;, &c_s;&c_p;&c_r;&c_a;&c_g;&c_a;&c_c;&c_mol; &c_ib; &c_d;&c_a; &c_g;. &c_p;.)</klr></trd>
+  <trd lng="cs">oh&yacute;bat <klr>(sklo&ncaron;ovat| &ccaron;asovat)</klr></trd>
+  <trdgrp lng="de">
+	<trd>beugen</trd>,
+	<trd>flektieren</trd>
+      </trdgrp>
+  <trd lng="en">inflect</trd>
+  <trd lng="fr">fl&eacute;chir<klr tip="ind"> (gramm.)</klr></trd>
+  <trd lng="hu">ragoz</trd>
+  <trd lng="nl">buigen<klr tip="ind"> (taalk.)</klr></trd>
+  <trd lng="pl">odmienia&cacute;</trd>
+  <trd lng="pt">flexionar</trd>
+  <trd lng="ru">&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol; <klr>(&c_s;&c_l;&c_o;&c_v;&c_o; &c_p;&c_o; &c_s;&c_l;&c_o;&c_v;&c_o;&c_f;&c_o;&c_r;&c_m;&c_a;&c_m;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>oh&yacute;ba&tcaron; <klr>(sklo&ncaron;ova&tcaron;, &ccaron;asova&tcaron;)</klr></trd>,
+    <trd>oh&yacute;ba&tcaron; <klr>(sklo&ncaron;ova&tcaron;| &ccaron;asova&tcaron;)</klr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&#x43C;&c_ib;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+    <drv mrk="fleksi.0o">
+      <kap><tld/>o</kap>
+      <snc mrk="fleksi.0o.paradigmo">
+      <uzo tip="fak">GRA</uzo>
+	<dif>
+	  Sistemo de diversaj gramatikaj formoj, kiujn povas akcepti
+	  vorto; <tld/>ado:
+	  <ekz>
+	    la &ccirc;efaj &scirc;an&gcirc;oj kiujn proponas la nova projekto estas ...
+	    la forigo de la akuzativo, de la <tld/>o &ccirc;e la adjektivoj
+	    <klr>(t.e. la adjektivo devis i&gcirc;i nevaria,
+	      ne<tld/>ebla)</klr>
+	    <fnt><aut>G. Waringhien</aut>:
+	      <vrk>Lingvo kaj vivo</vrk>
+	      <lok>Rotterdam: UEA, 1989. P. 52-53.</lok>
+	    </fnt>.
+	  </ekz>
+	</dif>
+	<refgrp tip="sub">
+	  <ref cel="deklin.0o">deklinacio</ref>,
+	  <ref cel="konjug1.0o">konjugacio</ref>.
+	</refgrp>
+	<ref tip="prt" cel="paradi.0o">paradigmo</ref>
+        <trd lng="be">&c_s;&c_l;&c_o;&c_v;&c_a;&c_z;&c_mol;&c_m;&c_ja;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+	<trd lng="hu">ragoz&aacute;s</trd>
+  <trdgrp lng="pt">
+    <trd>flex&atilde;o</trd>,
+    <trd>inflex&atilde;o</trd>
+  </trdgrp>
+	<trd lng="ru">&c_s;&c_l;&c_o;&c_v;&c_o;&c_i;&c_z;&c_m;&c_je;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+      </snc>
+      <snc mrk="fleksi.0o.ilo">
+	<dif>
+	  = <ref tip="dif" cel="fleksi.0ilo">Fleksiilo</ref>:
+	  <ekz>
+	    li uzas la nombrajn signojn ... por &ccirc;iuj gramatikaj <tld/>oj
+	    <fnt><aut>&Z;</aut> <lok>citite la&ubreve; PIV, art.
+	    &leftquot;fleksio&leftquot;</lok></fnt>.
+	  </ekz>
+	</dif>
+	<adm>
+	  Ne konante la kuntekston, estas malfacile aserti, ke la ekz-o
+	  uzas &rightquot;~oj&rightquot; en la senco de "~iloj". Sxajnas al mi, ke la unua
+	  senco konvenus.
+	  <aut>MB</aut>
+	</adm>
+       <trd lng="be">&c_f;&c_l;&c_je;&c_k;&c_s;&c_ib;&c_ja;</trd>
+	<trd lng="hu">rag</trd>
+	<trd lng="ru">&c_f;&c_l;&c_je;&c_k;&c_s;&c_i;&c_ja;</trd>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>flexe</trd>,
+    <trd>oh&yacute;b&aacute;n&iacute; <klr>(mluv.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+	<trd>Beugung</trd>,
+	<trd>Biegung</trd>,
+	<trd>Flexion</trd>,
+	<trd>Flektion</trd>
+      </trdgrp>
+  <trd lng="en">inflexion</trd>
+  <trd lng="es">inflexi&oacute;n</trd>
+  <trd lng="fr">flexion<klr tip="ind"> (gramm.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C48;&#x6298;  <pr>&#x304F;&#x3063;&#x305B;&#x3064;</pr></trd>,
+    <trd>&#x8A9E;&#x5C3E;&#x5909;&#x5316;  <pr>&#x3054;&#x3073;&#x3078;&#x3093;&#x304B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+     <trd>buiging</trd>,
+     <trd>flexie</trd>
+  </trdgrp>
+  <trd lng="pl">fleksja</trd>    
+  <trdgrp lng="sk">
+    <trd>oh&yacute;banie</trd>,
+    <trd>sklo&ncaron;ovanie a&nbsp;&ccaron;asovanie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43A;&c_ib;&#x43D;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_f;&#x43B;&c_je;&#x43A;&c_s;&c_ib;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+    <drv mrk="fleksi.0a">
+      <kap><tld/>a</kap>
+      <snc>
+      <uzo tip="fak">LIN</uzo>
+	<dif>
+	  <ref tip="dif" cel="fleksi.0ebla">Fleksiebla</ref>
+	  <klr>(vorto, vortospeco)</klr>.
+	</dif>
+<trd lng="be">&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y; <klr tip="amb">(&c_a;&c_b; &c_s;&c_l;&c_o;&c_v;&c_je;)</klr></trd>
+	<trd lng="es">flexivo</trd>
+	<trd lng="fr">variable<klr tip="ind"> (poss&egrave;dant une
+	    flexion)</klr></trd>
+	<trd lng="hu">ragozhat&oacute;</trd>
+	<trd lng="ru">&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_je;&c_m;&c_y;&c_j; <klr>(&c_o; &c_s;&c_l;&c_o;&c_v;&c_je;)</klr></trd>
+      </snc>
+      <snc>
+	<dif>
+	  <ref tip="dif" cel="fand.kun0ema.LIN">Kunfandema</ref>
+	  <klr>(lingvo)</klr> a&ubreve;
+	  <ref tip="dif" cel="fand.kun0o">kunfanda</ref>
+	  <klr>(vorto)</klr>.
+	</dif>
+<trd lng="be">&c_f;&c_l;&c_je;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
+	<trd lng="fr">flexionnel</trd>
+	<trd lng="hu">ragoz&oacute;</trd>
+	<trd lng="ru">&c_f;&c_l;&c_je;&c_k;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j; <klr>(&c_ja;&c_z;&c_y;&c_k;)</klr></trd>
+      </snc>
+      <trdgrp lng="de">
+	<trd>beugungsf&auml;hig</trd>,
+	<trd>flektierbar</trd>
+      </trdgrp>
+      <trdgrp lng="ja">
+    <trd>&#x5C48;&#x6298;&#x306E;  <pr>&#x304F;&#x3063;&#x305B;&#x3064;&#x306E;</pr></trd>,
+    <trd>&#x5C48;&#x6298;&#x3057;&#x305F;  <pr>&#x304F;&#x3063;&#x305B;&#x3064;&#x3057;&#x305F;</pr></trd>,
+    <trd>&#x5909;&#x5316;&#x3057;&#x305F;  <pr>&#x3078;&#x3093;&#x304B;&#x3057;&#x305F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">verbuigbaar</trd>
+      <trd lng="pl">fleksyjny</trd>
+      <trd lng="uk">&c_f;&#x43B;&c_je;&#x43A;&c_t;&c_i;&c_v;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+    <drv mrk="fleksi.0ajxo">
+      <kap><tld/>a&jcirc;o</kap>
+      <snc>
+      <uzo tip="fak">LIN</uzo>
+	<dif>
+	  <ref tip="sin" cel="vort.0formo">Vortformo</ref> aperanta
+	  en fleksiado.
+	</dif>
+        <trd lng="be">&c_s;&c_l;&c_o;&c_v;&c_a;&c_f;&c_o;&c_r;&c_m;&c_a;</trd>
+	<trd lng="en">inflexion</trd>
+	<trd lng="fr">forme fl&eacute;chie</trd>
+	<trd lng="hu">ragozott alak</trd>
+        <trd lng="pl">fleksja</trd>
+	<trd lng="ru">&c_s;&c_l;&c_o;&c_v;&c_o;&c_f;&c_o;&c_r;&c_m;&c_a;</trd>
+      </snc>
+    </drv>
+
+    <drv mrk="fleksi.0ebla">
+      <kap><tld/>ebla</kap>
+      <snc>
+      <uzo tip="fak">GRA</uzo>
+	<dif>
+	  Karakterizas vorton a&ubreve; vortospecon, kiu povas varii la&ubreve;
+	  deklinacio a&ubreve; konjugacio.
+	</dif>
+	<trd lng="fr">variable<klr tip="ind"> (poss&egrave;dant une
+	    flexion)</klr></trd>
+	<trd lng="hu">ragozhat&oacute;</trd>
+	<trd lng="ru">&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_m;&c_y;&c_j; <klr>(&c_o; &c_s;&c_l;&c_o;&c_v;&c_je;)</klr></trd>
+      </snc>
+      <trd lng="be">&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y; <klr tip="amb">(&c_a;&c_b; &c_s;&c_l;&c_o;&c_v;&c_je;)</klr></trd>
+      <trdgrp lng="de">
+	<trd>beugungsf&auml;hig</trd>,
+	<trd>flektierbar</trd>
+      </trdgrp>
+      <trd lng="nl">verbuigbaar</trd>
+      <trd lng="pl">odmienialny</trd>
+      <trd lng="uk">&c_z;&#x43C;&c_ib;&#x43D;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+    <drv mrk="fleksi.0ilo">
+      <kap><tld/>ilo</kap>
+      <snc>
+      <uzo tip="fak">LIN</uzo>
+	<dif>
+	  Lingva rimedo por krei fleksiajn vortoformojn:
+	  <ekz>
+	    fina&jcirc;oj estas la plej kutima ekstera <tld/>ilo, sed la lingvoj
+	    germana kaj angla uzas anka&ubreve; umla&ubreve;ton (kiu estas speco de interna
+	    <tld/>ilo), kp <ctl>goose</ctl> kaj <ctl>geese</ctl>.
+	  </ekz>
+	</dif>
+<trd lng="be">&c_f;&c_l;&c_je;&c_k;&c_s;&c_ib;&c_ja;</trd>
+	<trd lng="en">inflexion</trd>
+	<trd lng="fr">flexif<klr tip="ind"> (proc&eacute;d&eacute; de flexion)</klr></trd>
+	<trd lng="hu">rag</trd>
+        <trd lng="pl">ko&nacute;c&oacute;wka  <ind>fleksyjna</ind></trd>
+	<trd lng="ru">&c_f;&c_l;&c_je;&c_k;&c_s;&c_i;&c_ja;</trd>
+      </snc>
+    </drv>
+
+    <drv mrk="fleksi.ne0ebla">
+      <kap>ne<tld/>ebla, <var><kap>sen<tld/>a</kap></var></kap>
+      <snc>
+      <uzo tip="fak">GRA</uzo>
+	<dif>
+	  Karakterizas vorton a&ubreve; vortospecon, kies formo ne varias:
+	  <ekz>
+	    en la e&ubreve;ropaj lingvoj, la adverbo estas ordinare
+	    sen<tld/>a vorto <fnt>PIV</fnt>.
+	  </ekz>
+	</dif>
+<trd lng="be">&c_n;&c_ja;&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y; <klr tip="amb">(&c_a;&c_b; &c_s;&c_l;&c_o;&c_v;&c_je;)</klr></trd>
+	<trdgrp lng="de">
+	  <trd>nicht beugungsf&auml;hig</trd>,
+	  <trd>unflektierbar</trd>
+	</trdgrp>
+	<trd lng="es">invariable</trd>
+	<trd lng="fr">invariable<klr tip="ind"> (sans flexion)</klr></trd>
+	<trdgrp lng="hu">
+	  <trd>ragozhatatlan</trd>,
+	  <trd>nem <ind>ragozhat&oacute;</ind></trd>
+	</trdgrp>
+	<trd lng="nl">onbuigbaar<klr tip="ind"> (gramm.)</klr></trd>
+        <trd lng="pl">nieodmienny</trd>
+	<trd lng="ru">&c_n;&c_je;&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_m;&c_y;&c_j; <klr>(&c_o; &c_s;&c_l;&c_o;&c_v;&c_je;)</klr></trd>
+      </snc>
+      <trd lng="ja">&#x4E0D;&#x5909;&#x5316;&#x306E;  <pr>&#x3075;&#x3078;&#x3093;&#x304B;&#x306E;</pr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_v;&c_ib;&c_d;&#x43C;&c_ib;&#x43D;&#x44E;&c_v;&c_a;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_z;&#x43C;&c_ib;&#x43D;&#x44E;&c_v;&c_a;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_z;&#x43C;&c_ib;&#x43D;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.26 2023/10/14 19:15:45
+revo: transskribo per <pr>
+
+versio 1.24 2023/05/10 12:44:33
+Dmitri Gabinski: + trd be
+
+versio 1.23 2023/04/09 22:26:31
+Vito Redsky: +trd pl 
+
+  Revision 1.20  2017/05/01 13:10:17  revo
+  Wolfram Diestel: kor. ref
+
+  Revision 1.19  2015/07/04 08:37:34  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.18  2015/06/29 16:39:29  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:29:38  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.16  2012/10/23 00:11:10  revo
+-->
+</vortaro>

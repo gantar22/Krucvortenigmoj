@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: respons.xml,v 1.22 2023/10/26 21:21:52 revo Exp $">
+<kap>
+  <rad>respons</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="respons.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="respons.0i.prisekvoj">
+    <dif>
+      Anta&ubreve;akcepti <ref cel="port.0i.morale">porti<sncref/></ref>
+      la sekvojn de iu ago:
+      <ekz>
+        La konsulejo ne <tld/>as pri eraroj en la vizoj kiujn &gcirc;i donas
+        <fnt><aut>Sergio Pokrovskij</aut>: <vrk>Spertoj pri tutmondi&gcirc;o</vrk>.
+          <bib>LOdE</bib>, <lok>&#8470;57 (1999:7)</lok></fnt>;
+      </ekz><ekz>
+        en la sama kajero <klr>...</klr> aperas la jenaj misteraj
+        linioj efektive rilataj &#8208; kaj mi <tld/>as pri la aserto
+        &#8208; al la okaza&jcirc;o <klr>...</klr>
+        <fnt>
+          <aut>W. Fern&aacute;ndez-Fl&oacute;rez, trad. F. de Diego</aut>:
+          <vrk>La malica komizo</vrk>, <lok>1993</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="respons.0i.zorgi">
+    <dif>
+      Esti rajtigita kaj devanta <ref cel="zorg.pri0i">prizorgi</ref>
+      bonan staton, ta&ubreve;gan funkciadon a&ubreve; realigon de io, kaj devonta
+      kontentigi a&ubreve; iel respondi al la eventualaj plendoj rilataj al
+      mankoj en tiu prizorgo:
+      <ekz>
+        la Konsulo (a&ubreve; la Vickonsulo pri informado) <tld/>as pri
+        la retagentejo <ctl>Heroldo Komunikas</ctl>
+        <fnt><lok><url ref="http://www.esperantio.net/civito.php"
+           >La pa&gcirc;aro de la &leftquot;Esperanta Civito&rightquot;</url></lok></fnt>;
+      </ekz>
+    </dif>
+    <trd lng="he">&he;&#1464;&yod;&#1464;&he; [&lamed;&#1460;&he;&yod;&vav;&#1465;&tav;, -, &yod;&#1460;&he;&yod;&#1462;&he;] &alef;&#1463;&het;&resh;&#1463;&alef;&yod; &lamed;-</trd>
+  </snc>
+  <snc mrk="respons.0i.kulpi">
+    <dif>
+      Esti ka&ubreve;zo de io, kaj speciale <ref cel="kulp.0i">kulpi</ref> pri io:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        oni rajtas supozi, ke anoj de tiuj familioj heredas
+        genon, kiu <tld/>as pri hereda (familia) kancero
+        <fnt>
+          <aut>S. Norvell</aut>,
+          <vrk>&Ccirc;u anka&ubreve; genoj responsas pri melanomo?</vrk>,
+          <bib>Monato</bib>, <lok>1997:7, p. 14a</lok>
+        </fnt>
+        <klr>(t.e. kiu <ref cel="kulp.0i">kulpas</ref> pri la kancero,
+        kiu &gcirc;in <ref cel="kauxz.0i">ka&ubreve;zas</ref>)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="he">&nun;&#1464;&tav;&#1463;&fnun; [&lamed;&#1464;&tav;&#1461;&tav;, &nun;&vav;&#1465;&tav;&#1461;&fnun;, &yod;&#1460;&yod;&tav;&#1461;&fnun;] &alef;&#1462;&tav; &he;&#1463;&dalet;&#1460;&yod;&fnun;</trd>
+  </snc>
+
+  <refgrp tip="sin">
+    <ref cel="respon.0eci0umi">respondeci</ref>,
+    <ref cel="respon.0eci0umi">respondumi</ref>,
+    <ref cel="respon.0i.responsi">respondi<sncref/></ref>
+  </refgrp>
+  <trd lng="en">to be responsible</trd>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_z;&c_a; &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_y;&c_m;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>b&yacute;t odpov&ecaron;dn&yacute;</trd>,
+    <trd>odpov&iacute;dat za</trd>
+  </trdgrp>
+  <trd lng="de">verantworten</trd>
+  <trdgrp lng="es">
+    <trd>hacerse responsable de</trd>,
+    <trd>ser responsable de</trd>,
+    <trd>hacerse cargo de</trd>,
+    <trd>encargarse de</trd>
+  </trdgrp>
+  <trd lng="fr">&ecirc;tre responsable<klr tip="amb"> de</klr></trd>
+  <trdgrp lng="hu">
+    <trd>felel&odblac;ss&eacute;get visel</trd>,
+    <trd>felel&odblac;ss&eacute;ggel tartozik</trd>,
+    <trd>felel&odblac;s</trd>
+  </trdgrp>
+  <trd lng="id">ber<ind>tanggung jawab</ind></trd>
+  <trd lng="nl">verantwoordelijk zijn</trd>
+  <trd lng="pl">odpowiada&cacute; za</trd>
+  <trd lng="pt">responsabilizar-se</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_v;&c_je;&c_ch;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_z;&c_a; &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>,
+    <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_m;</ind><klr tip="amb"> (&c_z;&c_a; &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">zodpoveda&tcaron; za</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_v;&c_ib;&c_d;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_m;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_a;&c_t;&c_i; (&c_z;&c_a; &c_shch;&c_o;-&c_n;.)</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_t;&c_i; &c_v;&c_ib;&c_d;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="respons.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="respons.0a.aktive">
+    <dif>
+      Kiu <tld/>as pri io:
+    </dif>
+    <subsnc mrk="respons.0a.fidinda">
+      <dif>
+        Kiu <tld/>as pri siaj agoj kaj tial estas fidinda:
+        <ekz>
+          <tld/>a politikisto devas sobre stari&gcirc;i kontra&ubreve; nesanaj
+          kaj nerealigeblaj revoj
+          <fnt>
+          <aut>K. &Ccaron;apek, trad. J. Vondrou&scaron;ek</aut>:
+          <vrk>Apokrifoj 2</vrk>, <lok>Imperiestro Diokleciano</lok>
+          </fnt>;
+        </ekz><ekz>
+          &scirc;tato donanta al la Salamandroj le&gcirc;ojn, agnoskas ilin
+          &gcirc;uste per tio esta&jcirc;oj <tld/>aj kaj liberaj, juraj subjektoj,
+          ja e&ccirc; siaj &scirc;tatanoj
+          <fnt>
+          <aut>K. &Ccaron;apek, trad. J. Vondrou&scaron;ek</aut>,
+          <vrk>Milito kontra&ubreve; salamandroj</vrk>,
+          <lok>libro 2a, &ccirc;ap. 2a.</lok></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="nl">verantwoord</trd>
+    </subsnc>
+    <subsnc mrk="respons.0a.kompetenta">
+      <dif>
+        Kiu <tld/>as pri io, al kiu io estas komisiita kune kun la
+        necesa ordonpovo, kaj kiu sekve estas kompetenta
+        por fari &gcirc;in:
+        <ekz>
+          la administracioj centra, teritoria, loka a&ubreve; superteritoria,
+          <tld/>aj pri la teritorio de la koncerna lingvo
+          <fnt>
+          <vrk>Universala Deklaracio pri la Lingvaj Rajtoj</vrk>
+          <lok><url ref="http://www.esperantio.net/deklaracio.php#chIIIart16">Art. 16a.</url></lok>.
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="nl">verantwoordelijk</trd>
+    </subsnc>
+    <trd lng="es">ser responsable de (una actividad)</trd>
+  </snc>
+  <snc mrk="respons.0a.posteno">
+    <dif>
+      Afero tiom grava ke la persono, kiu pri &gcirc;i okupi&gcirc;as, <tld/>u pri
+      ta&ubreve;ga plenumado:
+      <ekz>
+        <ind><tld/>a posteno</ind>.
+        <trdgrp lng="hu">
+          <trd>felel&odblac;s poszt</trd>,
+          <trd>felel&odblac;s tiszts&eacute;g</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <trd lng="es">(un cargo) de responsabilidad</trd>
+  </snc>
+  <trd lng="en">responsible</trd>
+  <trd lng="be">&c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>odpov&iacute;daj&iacute;c&iacute;</trd>,
+    <trd>odpov&ecaron;dn&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">verantwortlich</trd>
+  <trd lng="fr">responsable</trd>
+  <trd lng="hu">felel&odblac;s</trd>
+  <trd lng="id">ber<ind>tanggung jawab</ind></trd>
+  <trd lng="nl">verantwoordelijk</trd>
+  <trd lng="pl">odpowiedzialny</trd>
+  <trd lng="ru">&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>zodpovedaj&uacute;ci</trd>,
+    <trd>zodpovedn&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="respons.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="respons.0o.KOMUNE">
+    <dif>
+      La stato esti <tld/>a pri io:
+      <ekz>
+        sinjoro Povondra subite decidi&gcirc;is surpreni la tutan
+        <tld/>on
+        <fnt>
+          <aut>K. &Ccaron;apek, trad. J. Vondrou&scaron;ek</aut>,
+          <vrk>Milito kontra&ubreve; salamandroj</vrk>,
+          <lok>libro 1a, &ccirc;ap. 3a.</lok></fnt>;
+      </ekz><ekz>
+        la administra komitato de la Civita Banko agas a&ubreve;tonome kaj sub
+        individua <tld/>o
+        <fnt>
+          <vrk>Propono de Konstitucia &Ccirc;arto de la Esperanta Civito</vrk>,
+          <lok><url ref="&LOdE;H-civit1.htm">Art. 28, &para;3.</url></lok>
+        </fnt>;
+      </ekz><ekz>
+        &ccirc;i-kadre devas havi prioritaton medioprotektado,
+        sociala sekureco kaj tergloba <tld/>o
+        <fnt>
+        <lok><url ref="http://www.comlink.apc.org/ave/efvp_eko.htm">Programaj Gvidlinioj de la
+        E&ubreve;ropa Federacio
+        de Verdaj Partioj</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="sin">
+    <ref cel="respon.0eco.responso">respondeco<sncref/></ref>,
+    <ref cel="respon.0umo">respondumo</ref>
+  </refgrp>
+<trd lng="en">responsibility</trd>
+  <trd lng="be">&c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="cs">odpov&ecaron;&dcaron; p&rcaron;i bohoslu&zcaron;b&ecaron;</trd>
+  <trd lng="de">Verantwortung</trd>
+  <trd lng="es">responsabilidad</trd>
+  <trd lng="fr">responsabilit&eacute;</trd>
+  <trd lng="hu">felel&odblac;ss&eacute;g</trd>
+  <trdgrp lng="id">
+    <trd>responsibilitas</trd>,
+    <trd>tanggung jawab</trd>
+  </trdgrp>
+  <trd lng="nl">verantwoordelijkheid</trd>
+  <trd lng="pl">odpowiedzialno&sacute;&cacute;</trd>
+  <trd lng="ru">&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">odpove&dcaron; pri bohoslu&zcaron;be</trd>
+</drv>
+
+<drv mrk="respons.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="respons.0ulo.KOMUNE">
+    <dif>
+      Persono kiu okaze (en iu aran&gcirc;o ktp) a&ubreve; regule <tld/>as pri io:
+      <ekz>
+        <klr>(Varankin)</klr> <ctl>kolektis</ctl> plej grandan
+        kvanton de gvid-postenoj en SEU: vic-prezidanto kaj unu el la
+        sekretarioj de la Centra Komitato de SEU, <tld/>ulo pri la
+        propaganda kaj organiza laboro <klr>...</klr>
+        <fnt>
+        <aut>N. Stepanov</aut>:
+        <vrk>Jubileo de Vladimir Varankin (1902&ndash;1938)</vrk>,
+        <lok><url ref="http://nikst.boom.ru/Esperante/vara.htm">Ruslanda Esperantisto, 1992:11
+        (17)</url></lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">responsible person or party</trd>
+  <trd lng="be">&c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_y; <klr>(&c_n;&c_a;&c_z;&c_o;&c_w;&c_n;&c_ib;&c_k;)</klr></trd>
+  <trd lng="de">Verantwortlicher</trd>
+  <trd lng="es">responsable</trd>
+  <trd lng="fr">responsable<klr> (subst.)</klr></trd>
+  <trd lng="hu">felel&odblac;s <klr>(szem&eacute;ly)</klr></trd>
+  <trd lng="id"><baz>tanggung jawab</baz>penanggung jawab</trd>
+  <trd lng="nl">verantwoordelijke</trd>
+  <trdgrp lng="pl">
+    <trd>osoba  <ind>odpowiedzialna</ind></trd>,
+    <trd>pe&lstroke;nomocnik</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;<klr tip="amb"> (&c_v; &c_z;&c_n;&c_a;&c_ch;. &c_s;&c_u;&c_shch;.)</klr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/26 21:21:52
+Matt Brooks: +tr en
+
+versio 1.21 2023/09/27 06:31:23
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.20 2023/06/10 21:23:25
+Vito Redsky: +trd pl
+
+versio 1.19 2023/03/26 11:22:24
+Sergio Pokrovskij: +disigo snc-oj de ~i
+
+versio 1.18 2023/02/26 07:26:13
+Sergio Pokrovskij: TEZ
+
+versio 1.17 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.15  2020/03/14 11:18:28  revo
+aktualigis URL de Ondo(2)
+
+Revision 1.14  2015/08/24 20:10:14  revo
+-->
+</vortaro>

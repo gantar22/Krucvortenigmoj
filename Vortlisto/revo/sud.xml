@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sud.xml,v 1.115 2023/10/21 07:46:48 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sud</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sud.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">GEOG</uzo>
+  <snc mrk="sud.0o.horizonta">
+    <dif>
+      Unu el la kvar <ref tip="super" cel="punkt.cxef0o.geografia">geografiaj &ccirc;efpunktoj</ref>,
+      punkto de la horizonto
+      situanta dekstre de homo rigardanta la sunlevi&gcirc;on kaj
+      ku&scirc;anta &gcirc;uste kontra&ubreve;direkte al <ref cel="nord.0o.horizonta">nordo</ref>:
+      <ekz>
+        <nom>Abram</nom> iris pluen, &ccirc;iam pluen al <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 12:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        direktante sin al <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 13:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        voja&gcirc;o al <tld/>o
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vento fari&gcirc;is favora, &gcirc;i blovis de <tld/>-okcidento
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">sud</trd>
+    <trd lng="hu">d&eacute;l</trd>
+  </snc>
+  <snc mrk="sud.0o.absoluta">
+    <dif>
+      Parto de iu lando, kiu trovi&gcirc;as &gcirc;uste
+      kontra&ubreve;direkte al nordo:
+      <ekz>
+        la re&gcirc;o de <nom>Arad</nom>, kiu lo&gcirc;is en la <tld/>o de la lando
+        <nom>Kanaana</nom>, a&ubreve;dis, ke venas la Izraelidoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 33:40</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;ino de la <tld/>o
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 11:31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la arboj de la <tld/>o
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        baobaboj de l' <tld lit="S"/>o, cedroj, pinoj kaj kverkoj de l' Nordo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li mem en sia knaba a&gcirc;o estis ja en la <tld/>o, en la lando de la Hispanoj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>migdia</trd>,
+      <trd>migjorn</trd>
+    </trdgrp>
+    <trd lng="hu">d&eacute;li r&eacute;sz</trd>
+  </snc>
+  <trd lng="af">Suid-</trd>
+  <trd lng="am">&#x12F0;&#4705;&#4709;</trd>
+  <trd lng="ar">&a_A;&a_l;&#x62C;&a_n;&a_w;&a_b;</trd>
+  <trd lng="az">c&#601;nub</trd>
+  <trd lng="be">&c_p;&c_o;&c_w;&c_d;&c_z;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="bn">&#x9A6;&#2453;&#x9CD;&#x9B7;&#x9BF;&#x9A3;</trd>
+  <trd lng="bo">&#xF63;&#xFB7;&#xF7C;&#xF0B;</trd>
+  <trd lng="bs">jug</trd>
+  <trd lng="ca">sud</trd>
+  <trd lng="co">sudu</trd>
+  <trd lng="cs">jih</trd>
+  <trd lng="cy">de</trd>
+  <trd lng="da">syd</trd>
+  <trd lng="de">S&uuml;den</trd>
+  <trd lng="en">south</trd>
+  <trd lng="es">sur</trd>
+  <trd lng="et">l&#xF5;una</trd>
+  <trd lng="eu">hegoaldean</trd>
+  <trd lng="fr">sud</trd>
+  <trd lng="fy">s&#xFA;d</trd>
+  <trd lng="ga">&#xF3; dheas</trd>
+  <trd lng="gd">deas</trd>
+  <trd lng="gl">sur</trd>
+  <trd lng="gu">&#xAA6;&#xA95;&#xACD;&#xAB7;&#xABF;&#xAA3;</trd>
+  <trd lng="ha">kudu</trd>
+  <trd lng="hi">&#2342;&#2325;&#x94D;&#2359;&#x93F;&#2339;</trd>
+  <trd lng="hmn">sab qab teb</trd>
+  <trd lng="hr">jug</trd>
+  <trd lng="ht">sid</trd>
+  <trd lng="hy">&#1392;&#1377;&#1408;&#1377;&#x57E;</trd>
+  <trd lng="id">selatan</trd>
+  <trd lng="ig">nd&#x1ECB;da</trd>
+  <trd lng="is">su&#xF0;ur</trd>
+  <trd lng="it">sud</trd>
+  <trd lng="ja">&#21335; <pr>&#x30CA;&#x30F3;</pr></trd>
+  <trd lng="jv">kidul</trd>
+  <trd lng="ka">&#x10E1;&#x10D0;&#x10DB;&#x10EE;&#x10E0;&#x10D4;&#x10D7;</trd>
+  <trd lng="kk">&#x43E;&#x4A3;&c_t;&#x4AF;&c_s;&c_t;&c_ib;&#x43A;</trd>
+  <trd lng="km">&#6039;&#x17B6;&#6018;&#6017;&#x17B6;&#6020;&#x178F;&#x17D2;&#6036;&#x17BC;&#6020;</trd>
+  <trd lng="kn">&#xCA6;&#xC95;&#xCCD;&#xCB7;&#xCBF;&#xCA3;</trd>
+  <trd lng="ko">&#xB0A8;&#xCABD;</trd>
+  <trd lng="ku">ba&#x15F;&#xFB;r</trd>
+  <trd lng="ky">&c_t;&#x4AF;&c_sh;&c_t;&#x4AF;&#x43A;</trd>
+  <trd lng="lat">austri</trd>
+  <trd lng="lo">&#xEC0;&#xE82;&#xE94;&#xE9E;&#xEB2;&#xE81;&#xEC3;&#xE95;&#xEC9;</trd>
+  <trd lng="lt">&#x12F; pietus</trd>
+  <trd lng="lv">dienvidu</trd>
+  <trd lng="mg">atsimo</trd>
+  <trd lng="mi">ki te tonga</trd>
+  <trd lng="mk">&#1112;&c_u;&c_g;</trd>
+  <trd lng="ml">&#xD24;&#xD46;&#xD15;&#xD4D;&#xD15;&#xD4D;</trd>
+  <trd lng="mn">&c_u;&c_r;&c_d;</trd>
+  <trd lng="mr">&#2342;&#2325;&#x94D;&#2359;&#x93F;&#2339;</trd>
+  <trd lng="ms">selatan</trd>
+  <trd lng="mt">nofsinhar</trd>
+  <trd lng="my">&#4112;&#4145;&#x102C;&#4100;&#x103A;</trd>
+  <trd lng="ne">&#2342;&#2325;&#x94D;&#2359;&#x93F;&#2339;</trd>
+  <trd lng="nl">zuiden</trd>
+  <trd lng="ny">kum&#8217;mwera</trd>
+  <trd lng="pa">&#xA26;&#xA71;&#xA16;&#xA23;</trd>
+  <trd lng="pl">po&lstroke;udnie</trd>
+  <trd lng="ps">&a_s;&a_w;&#x6CC;&a_l;</trd>
+  <trd lng="ru">&c_ju;&c_g;</trd>
+  <trd lng="rw">majyepfo</trd>
+  <trd lng="sd">&#x68F;&#x6A9;&#x6BB;</trd>
+  <trd lng="si">&#xDAF;&#xD9A;&#xDD4;&#xDAB;&#xDD4;</trd>
+  <trd lng="sk">juh</trd>
+  <trd lng="sl">ju&#x17E;no</trd>
+  <trd lng="sm">saute</trd>
+  <trd lng="sn">chamhembe</trd>
+  <trd lng="so">koonfur</trd>
+  <trd lng="sq">jug</trd>
+  <trd lng="st">ka boroa</trd>
+  <trd lng="su">kidul</trd>
+  <trd lng="sw">kusini</trd>
+  <trd lng="ta">&#xBA4;&#xBC6;&#xBB1;&#xBCD;&#xB95;&#xBC1;</trd>
+  <trd lng="te">&#xC26;&#xC15;&#xC4D;&#xC37;&#xC3F;&#xC23;</trd>
+  <trd lng="tg">&#x4B7;&c_a;&#x43D;&c_u;&c_b;</trd>
+  <trd lng="th">&#xE17;&#xE32;&#xE07;&#xE15;&#xE2D;&#xE19;&#xE43;&#xE15;&#xE49;</trd>
+  <trd lng="tl">timog</trd>
+  <trd lng="tt">&#x43A;&#x4E9;&#x43D;&#x44C;&#x44F;&#x43A;</trd>
+  <trd lng="uk">&#x43F;&c_ib;&c_v;&c_d;&c_je;&#x43D;&#x43D;&#x43E;</trd>
+  <trd lng="ur">&#x62C;&a_n;&a_w;&a_b;&#x6CC;</trd>
+  <trd lng="uz">janub</trd>
+  <trd lng="vi">nam</trd>
+  <trd lng="vo">sul&uuml;d</trd>
+  <trd lng="xh">mazantsi</trd>
+  <trd lng="yi">&#x5D3;&#x5E8;&#x5D5;&#x5DD;</trd>
+  <trd lng="yo">guusu</trd>
+  <trdgrp lng="zh">
+    <trd>&#21335; <pr>n&aacute;n</pr></trd>,
+    <trd>&#21335;&#x65B9; <pr>n&aacute;nfāng</pr></trd>
+  </trdgrp>
+  <trd lng="zu">eningizimu</trd>
+</drv>
+
+<drv mrk="sud.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="sud.0a.situanta">
+    <dif>
+      Situanta en <tld/>o a&ubreve; de tie venanta:
+      <ekz>
+        li lo&gcirc;is en la <tld/>a lando
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 24:62</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Amalek</nom> lo&gcirc;as en la <tld/>a parto de la lando
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 13:29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la flanko <tld/>a
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 26:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>a limo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 34:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        blovas la <tld/>a vento
+        <fnt><bib>NT</bib>, <lok>&Luk; 12:55</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a Azio
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Post jarmiloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>aj provincoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_w;&c_d;&c_n;&c_jo;&c_v;&c_y;</trd>
+  <trdgrp lng="ca">
+    <trd>austral</trd>,
+    <trd>meridional</trd>
+  </trdgrp>
+  <trd lng="cs">ji&zcaron;n&iacute;</trd>
+  <trdgrp lng="de">
+    <trd>S&uuml;d-</trd>,
+    <trd>s&uuml;dlich</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>austral</trd>,
+    <trd>du <ind>sud</ind></trd>
+  </trdgrp>
+  <trd lng="hu">d&eacute;li</trd>
+  <trdgrp lng="it">
+    <trd>del <ind>sud</ind></trd>,
+    <trd>medidionale</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#21335;&#x306E;  <pr>&#x307F;&#x306A;&#x307F;&#x306E;</pr></trd>,
+    <trd>&#21335;&#x90E8;&#x306E;  <pr>&#x306A;&#12435;&#12406;&#x306E;</pr></trd>,
+    <trd>&#21335;&#x65B9;&#x306E;  <pr>&#x306A;&#12435;&#x307D;&#12358;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">po&lstroke;udniowy</trd>
+  <trd lng="ru">&c_ju;&c_zh;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">ju&zcaron;n&yacute;</trd>
+  <trd lng="uk">&#x43F;&c_ib;&c_v;&c_d;&c_je;&#x43D;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="sud.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="sud.0ano.homo">
+    <dif>
+      Homo naskita a&ubreve; lo&gcirc;anta en la
+      <tld/>o<sncref ref="sud.0o.absoluta"/>:
+      <ekz>
+        kaj la <tld/>anoj ekposedos la monton de <nom>Esav</nom>
+        <fnt><bib>MT</bib>, <lok>&Oba; 1:19</lok></fnt>;
+      </ekz>
+      <ekz>
+        oni devas servi la &scirc;taton dum unu jaro en alia regiono ol tiu, de kiu oni
+        devenas, <tld/>anoj servas en la nordo, norduloj en la <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Princo Henriko Oguinye</aut>
+          <vrk><url ref="&Monato;/2011/010417.php">Dividoj venkitaj almena&ubreve;
+          parte</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    <ref tip="hom" cel="sudan.S0o">Sudano</ref> nomi&gcirc;as anka&ubreve; afrika &scirc;tato.
+  </rim>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_w;&c_d;&c_n;&c_jo;&c_v;&c_ib;&c_k;</trd>,
+    <trd>&c_zh;&c_y;&c_h;&c_a;&c_r; <ind>&c_p;&c_o;&c_w;&c_d;&c_n;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="ca">meridional <klr>(subst.)</klr></trd>
+  <trd lng="cs">S&uacute;d&aacute;nec</trd>
+  <trdgrp lng="de">
+    <trd>S&uuml;dl&auml;nder</trd>
+  </trdgrp>
+  <trd lng="fr">sudiste</trd>
+  <trd lng="hu">d&eacute;li</trd>
+  <trd lng="it">meridionale<klr> (sost.)</klr></trd>
+  <trd lng="pl">po&lstroke;udniowiec</trd>
+  <trd lng="ru">&c_ju;&c_zh;&c_a;&c_n;&c_i;&c_n;</trd>
+  <trd lng="sk">Sud&aacute;nec</trd>
+</drv>
+
+<drv mrk="sud.0ede">
+  <kap><tld/>e de</kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="sud.0ede.en">
+    <dif>
+      <ref tip="super" cel="en.0.kie">En</ref> la <tld/>a parto de:
+      <ekz>
+        la fi&scirc;havenoj estas multaj, precipe <tld/>e de Bretonio
+        <fnt>
+        <aut>J. Ducloyer</aut>,
+        <vrk>Bretonio</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2000a, numero 2a, p. 18a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_n;&c_a; <ind>&c_p;&c_o;&c_w;&c_d;&c_n;&c_ib;</ind> &c_a;&c_d;&#8230;</trd>
+    <trd lng="hu"><klr tip="amb">(vmi)</klr> d&eacute;li r&eacute;sz&eacute;n</trd>
+    <trd lng="pl">na <ind>po&lstroke;udniu</ind></trd>
+    <trd lng="ru">&c_n;&c_a; &c_ju;&c_g;&c_je;<klr> (+ &c_r;&c_o;&c_d;.
+    &c_p;&c_a;&c_d;.)</klr></trd>
+  </snc>
+  <snc mrk="sud.0ede.ekster">
+    <dif>
+      <ref tip="super" cel="ekster.0.kie">Ekster</ref>, pli <tld/>e ol:
+      <ekz>
+        la stepo <tld/>e de <nom>Kinerot</nom>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Josuo 11:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        180&#x202F;km <tld/>e de Kopenhago
+        <fnt>
+        <aut>-</aut>,
+        <vrk>J. S. Larsen</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2002a, numero 11a, p. 6a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Gramatike pli konsekvenca estus distingigi &ccirc;i tiun sencon
+      per la direkta formo de la adverbo, kiel faras la lingvoj
+      distingantaj &ccirc;i tiun nuancon (ekz-e la rusa: dek kilometrojn
+      suden, supren, dekstren de io). Sed en Esperanto tio ial ne
+      enradiki&gcirc;is.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trd lng="be">&c_n;&c_a; <ind>&c_p;&c_o;&c_w;&c_d;&c_z;&c_je;&c_n;&c_mol;</ind> &c_a;&c_d;&#8230;</trd>
+    <trd lng="hu"><klr tip="amb">(vmit&odblac;l)</klr> d&eacute;lre</trd>
+    <trd lng="pl">na <ind>po&lstroke;udnie</ind> od</trd>
+    <trd lng="ru">&c_n;&c_a; &c_ju;&c_g; &c_o;&c_t;</trd>
+  </snc>
+  <trd lng="ca">al sud de</trd>
+  <trd lng="cs">ji&zcaron;n&ecaron; od</trd>
+  <trdgrp lng="de">
+    <trd>s&uuml;dlich von</trd>
+  </trdgrp>
+  <trd lng="fr">au sud de</trd>
+  <trd lng="it">a <ind>sud</ind> di</trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;<ind>&#x306E;&#21335;&#x306B; 
+    </ind><pr>&#x306E;&#x307F;&#x306A;&#x307F;&#x306B;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#x306E;&#21335;&#20596;&#x306B; 
+    </ind><pr>&#x306E;&#x307F;&#x306A;&#x307F;&#x304C;&#x308F;&#x306B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ju&zcaron;ne</trd>,
+    <trd>na juh od</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.115 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.114 2023/09/10 15:34:10
+revo: korekto de transskribo
+
+versio 1.113 2023/09/05 06:31:19
+Wolfram Diestel: kor. ja ind.
+
+versio 1.111 2023/08/29 18:31:14
+Wolfram Diestel: ja: prononco
+
+versio 1.110 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.108 2021/11/23 09:31:31
+Dmitri Gabinski: + trd be
+
+Revision 1.31  2019/07/07 11:10:30  revo
+Aleks Andre: zh: indekso
+
+Revision 1.30  2015/07/04 08:37:44  revo
+-->
+</vortaro>

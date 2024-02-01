@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sold.xml,v 1.31 2023/10/21 07:46:47 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>sold</rad>/o
+</kap>
+<drv mrk="sold.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sold.0o.MIL">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Militista <ref tip="super" cel="salajr.0o">salajro</ref>:
+      <ekz>
+        pagi la <tld/>on al la regimentoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu el ili ricevis bluan kaskon kaj iom pli grandan <tld/>on
+        <fnt><aut>Stefan Maul</aut>:
+          <vrk><url ref="&Monato;/2000/006837.php">Neglektata kontinento</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/02, p. 5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        honora <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2012/010653.php">Honorsoldulo</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_r;&c_a;&c_sh;&c_o;&c_v;&c_a;&c_je; &c_z;&c_a;&c_b;&c_je;&c_s;&c_mol;&c_p;&c_ja;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;
+      <klr>(&c_v;&c_a;&c_j;&c_s;&c_k;&c_o;&c_w;&c_c;&c_a;)</klr></trd>,
+      <trd>&c_p;&c_l;&c_a;&c_t;&c_a; <klr>(&c_z;&c_a; &c_v;&c_a;&c_j;&c_s;&c_k;&c_o;&c_v;&c_u;&c_ju;
+      &c_s;&c_l;&c_u;&c_zh;&c_b;&c_u;)</klr></trd>
+    </trdgrp>
+    <trd lng="de">Sold</trd>
+    <trd lng="fr">solde<klr tip="ind"> (salaire)</klr></trd>
+    <trd lng="hu">zsold</trd>
+    <trdgrp lng="it">
+      <trd>soldo<klr> (paga, salario)</klr></trd>,
+      <trd>deca<klr> (gerg. mil.)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">soldij</trd>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_je;&c_n;&c_je;&c_zh;&c_n;&c_o;&c_je; &c_d;&c_o;&c_v;&c_o;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_i;&c_je;
+      <klr>(&c_v;&c_o;&c_je;&c_n;&c_n;&c_o;&c_s;&c_l;&c_u;&c_zh;&c_a;&c_shch;&c_je;&c_g;&c_o;)</klr></trd>,
+      <trd>&c_zh;&c_a;&c_l;&c_o;&c_v;&c_a;&c_n;&c_mol;&c_je; <klr>(&c_v; &c_n;&c_a;&c_jo;&c_m;&c_n;&c_o;&c_j;
+      &c_a;&c_r;&c_m;&c_i;&c_i;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sold.0o.MON">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Malnova <ref tip="lst" cel="unu.monasub0o" lst="voko:monunuoj">mona subunuo</ref> de
+      Francujo, egala al kvin <ref cel="centim.0o">centimoj</ref>;
+      tiom valora kupra a&ubreve; nikela monero:
+      <ekz>
+        mi gajnis, pli rapide ol mi supozis, la dek <tld/>ojn
+        <fnt><bib>KielAkvo</bib>, <lok>1:1</lok></fnt>.
+      </ekz>
+    </dif>
+    <adm>
+      La du sencoj estas etimologie ligitaj, sed apena&ubreve; rilatigeblaj
+      ene de Esperanto. Indas konsideri, &ccirc;u aparta artikolo necesas.
+      <aut>MB</aut>
+    </adm>
+    <trd lng="be">&c_s;&c_o;&c_l;&c_mol;&c_d;&c_a;</trd>
+    <trdgrp lng="hu">
+      <trd>garas</trd>,
+      <trd>solidus</trd>,
+      <trd>sou</trd>
+    </trdgrp>
+    <trd lng="de">Sou</trd>
+    <trd lng="en">sou</trd>
+    <trd lng="fr">sou<klr tip="ind"> (ancienne monnaie)</klr></trd>
+    <trd lng="it">soldo<klr> (antica moneta)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>sou</trd>,
+      <trd>stuiver</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_o;&c_l;&c_mol;&c_d;&c_o;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>slu&zcaron;n&eacute;</trd>,
+    <trd>&zcaron;old</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30B9;&#x30FC;</trd>,
+    <trd>&#x4FF8;&#x7D66;  <pr>&#x307B;&#12358;&#x304D;&#12421;&#12358;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&zdot;o&lstroke;d</trd>,
+    <trd>sold</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sl&uacute;&zcaron;ne</trd>,
+    <trd>&zcaron;old</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43E;&#x43B;&#x44C;&c_d;&#x43E; (&c_g;&c_r;&#x43E;&c_sh;&#x43E;&c_v;&c_ib; &#x43E;&c_d;&c_i;&#x43D;&c_i;&c_c;&c_ib;)</trd>,
+    <trd>&#x43F;&#x43B;&c_a;&c_t;&#x43D;&#x44F; (&c_u; &c_v;&c_ib;&c_j;&c_s;&#x44C;&#x43A;&#x43E;&c_v;&c_i;&c_h;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sold.0ulo">
+  <kap><tld/>ulo <fnt><bib>PIV1</bib></fnt></kap>
+  <snc mrk="sold.0ulo.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      <ref tip="dif" cel="soldat.dungo0o">Dungosoldato</ref>:
+      <ekz>
+        la svedaj militistoj &dash; kiel iam en Bohemio &dash;
+        ne kapablis reteni siajn <tld/>ulojn kaj ne malebligis al ili
+        rabadon
+        <fnt>
+          <aut>F. Ko&zcaron;&iacute;k, trad. Z. Rus&iacute;n, trad. M. Malovec</aut>
+          <vrk>Lumo en tenebroj</vrk>
+          <lok><url
+          ref="http://www.volny.cz/malovec/tenebr3.htm">http://www.volny.cz/malovec/tenebr3.htm</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne mankas aventuremaj <tld/>uloj por partopreni tian legion
+        <fnt>
+       <aut>Werner Schad</aut>
+          <vrk><url ref="&Monato;/2000/006953.php">Bezonata: nova &leftquot;fremdula
+          legio&#x201D;</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/07, p. 27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        dum la <tld/>uloj de la Monda Organizo pri Komerco (MOK) certigas
+        la cirkuladon de la komercaj fluoj, tiuj de la Monda Banko kaj
+        de la Internacia Mon-Fonduso (IMF) okupi&gcirc;as pri la financa fluo
+        <fnt>
+          <aut>trad. V. Lutermano</aut>,
+          <vrk>Le Monde Diplomatique en Esperanto</vrk>,
+          <lok><url ref="&Mondediplo;article752.html">2002-10</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_j;&c_m;&c_ib;&c_t;</trd>,
+    <trd>&c_n;&c_a;&c_jo;&c_m;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_n;&c_a;&c_je;&c_m;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="cs">
+    <trd>sold&aacute;t</trd>,
+    <trd>&zcaron;oldn&eacute;&rcaron;</trd>,
+    <trd>&zcaron;old&aacute;k</trd>
+  </trdgrp>
+  <trd lng="de">S&ouml;ldner</trd>
+  <trd lng="fr">mercenaire<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="it">mercenario<klr> (sost.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x50AD;&#20853;  <pr>&#12424;&#12358;&#12408;&#12356;</pr></trd>,
+    <trd>&#x96C7;&#12356;&#20853;  <pr>&#12420;&#12392;&#12356;&#12408;&#12356;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>huurling</trd>,
+    <trd>huursoldaat</trd>,
+    <trd>soldenier</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&zdot;o&lstroke;nierz zaci&eogonek;&zdot;ny</trd>,
+    <trd>najemnik</trd>
+  </trdgrp>
+  <trd lng="sk">&zcaron;oldnier</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_j;&#x43C;&c_a;&#x43D;&c_je;&c_c;&#x44C;</trd>,
+    <trd>&#x43D;&c_a;&c_jeu;&#x43C;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.30 2023/09/30 20:23:16
+Vito Redsky: +trd pl 
+
+versio 1.28 2023/04/22 15:25:55
+Paul Peeraerts: &steloj -> monato.be
+
+versio 1.27 2023/04/18 16:30:18
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.26 2022/08/10 08:36:52
+Dmitri Gabinski: + trd be
+
+versio 1.25 2022/05/05 05:09:57
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2020/01/08 18:10:39
+Wolfram Diestel: +ekz-oj
+
+Revision 1.22  2020/01/04 18:20:33  revo
+-->
+</vortaro>

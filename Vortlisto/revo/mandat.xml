@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mandat.xml,v 1.21 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>mandat</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="mandat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mandat.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Rajtiga komisio
+      donita al iu por reprezenti la rajtiganton kaj agi
+      en lia nomo:
+      <ekz>
+        <tld/>o de deputito;
+      </ekz>
+      <ekz>
+        kolonia <tld/>o kontrolata de la Ligo de Nacioj.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_n;&c_d;&c_a;&c_t;</trd>
+    <trd lng="ca">mandat</trd>
+    <trd lng="en">mandate</trd>
+    <trd lng="es">mandato</trd>
+    <trdgrp lng="hu">
+      <trd>megb&iacute;z&aacute;s</trd>,
+      <trd>felhatalmaz&aacute;s</trd>,
+      <trd>mand&aacute;tum</trd>
+    </trdgrp>
+    <trd lng="nl">mandaat</trd>
+    <trdgrp lng="ru">
+      <trd>&c_m;&c_a;&c_n;&c_d;&c_a;&c_t;</trd>,
+      <trd>&c_p;&c_o;&c_r;&c_u;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_p;&c_o;&c_l;&c_n;&c_o;&c_m;&c_o;&c_ch;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="mandat.0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Dokumento, per kiu oni donas tian komision.
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_n;&c_d;&c_a;&c_t;</trd>
+    <trdgrp lng="ca">
+      <trd>ordre</trd>,
+      <trd>mandat</trd>
+    </trdgrp>
+    <trd lng="de">Mandat</trd>
+    <trd lng="en">mandate</trd>
+    <trdgrp lng="es">
+      <trd>orden</trd>,
+      <trd>mandato</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>megb&iacute;z&oacute;lev&eacute;l</trd>,
+      <trd>mand&aacute;tum</trd>
+    </trdgrp>
+    <trd lng="nl">mandaat</trd>
+    <trd lng="ru">&c_m;&c_a;&c_n;&c_d;&c_a;&c_t;</trd>
+  </snc>
+  <snc mrk="mandat.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Dokumento per kiu oni ordonas pagi difinitan sumon al difinita
+      persono:
+      <ekz>
+        <ind>po&scirc;t<tld/>o</ind>.
+        <trd lng="be">&c_p;&c_a;&c_sh;&c_t;&c_o;&c_v;&c_y; &c_p;&c_je;&c_r;&c_a;&c_v;&c_o;&c_d;</trd>
+        <trd lng="ca">gir postal</trd>
+        <trd lng="es">giro postal</trd>
+        <trd lng="hu">postautalv&aacute;ny</trd>
+        <trd lng="pl">przekaz pocztowy</trd>
+        <trd lng="ro">mandat po&#x219;tal</trd>
+        <trd lng="ru">&c_p;&c_o;&c_ch;&c_t;&c_o;&c_v;&c_y;&c_j; &c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_g;&c_r;&c_a;&c_sh;&c_o;&c_v;&c_y; &c_p;&c_je;&c_r;&c_a;&c_v;&c_o;&c_d;</trd>
+    <trdgrp lng="ca">
+      <trd>xec</trd>,   
+      <trd>ordre de pagament</trd>,
+      <trd>transfer&egrave;ncia</trd>,
+    </trdgrp>
+    <trd lng="en">money order</trd>
+    <trdgrp lng="es">
+      <trd>cheque</trd>,   
+      <trd>orden de pago</trd>,
+      <trd>transferencia</trd>,
+    </trdgrp>
+    <trd lng="nl">wissel</trd>
+    <trd lng="pt">mandato</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>mand&aacute;t</trd>,
+    <trd>pln&aacute; moc</trd>,
+    <trd>pov&ecaron;&rcaron;en&iacute;</trd>
+  </trdgrp>
+  <trd lng="fr">mandat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x59D4;&#x4EFB;  <pr>&#x3044;&#x306B;&#x3093;</pr></trd>,
+    <trd>&#x59D4;&#x4EFB;&#x72B6;  <pr>&#x3044;&#x306B;&#x3093;&#x3058;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x8077;&#x52D9;  <pr>&#x3057;&#x3087;&#x304F;&#x3080;</pr></trd>,
+    <trd>&#x8B70;&#x5E2D;  <pr>&#x304E;&#x305B;&#x304D;</pr></trd>,
+    <trd>&#x4EFB;&#x671F;  <pr>&#x306B;&#x3093;&#x304D;</pr></trd>,
+    <trd>&#x70BA;&#x66FF;  <pr>&#x304B;&#x308F;&#x305B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>mandat</trd>,
+    <trd>bon</trd>,
+    <trd>kupon</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>mandat</trd>,
+    <trd>amend&abreve;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mand&aacute;t</trd>,
+    <trd>pln&aacute; moc</trd>,
+    <trd>poverenie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x430;&#x43D;&#x434;&#x430;&#x442;</trd>,
+    <trd>&#x43F;&#x43E;&#x432;&#x43D;&#x43E;&#x432;&#x430;&#x436;&#x435;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.18 2020/05/27 20:10:33
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.16  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2015/04/07 10:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.14  2012/06/25 16:10:08  revo
+Jeromo Vasxe: + 3 fak + trd fr
+
+Revision 1.13  2011/12/03 16:10:13  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.12  2006/07/29 16:32:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2006/01/12 21:53:31  revo
+-->
+</vortaro>

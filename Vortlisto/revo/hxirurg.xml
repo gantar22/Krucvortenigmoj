@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hxirurg.xml,v 1.30 2023/11/15 17:08:02 revo Exp $">
+<kap>
+  <ofc>8</ofc><rad>&hcirc;irurg</rad>/o <fnt><bib>Fab4</bib></fnt>,
+  <var><kap><ofc>8</ofc>
+     <rad var="k">kirurg</rad>/o <fnt><bib>PV</bib></fnt></kap></var>
+</kap>
+<drv mrk="hxirurg.0o">
+  <kap><tld/>o, <var><kap><tld var="k"/>o</kap></var></kap>
+  <snc mrk="hxirurg.0o.hxirurgiisto">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="dif" cel="hxirur.0isto">&Hcirc;irurgiisto</ref>:
+      <ekz>
+        iu kvaza&ubreve; sub<tld/>o, kiu trovi&gcirc;is sur tiu loko, sed kiu la&ubreve; sia profesio estis
+        for&gcirc;isto kaj butikisto, provizore banda&gcirc;is Georgon
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi devis elpensi ian mizeran senkulpigon por tiu angla <tld/>o,
+        kial
+        mi ne redonis al li la libron
+        <fnt>
+        <aut>Edward Everett Hale, trad. E. L. Robinson, trad. Don
+        Harlow</aut>,
+        <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/La_Viro_Senpatria.html">La viro
+        senpatria</url></vrk>,
+          <lok>1907 kaj 1994</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        litovaj <tld var="k"/>oj sukcese transplantis koron de dujara knabo,
+        pereinta en akcidento, al 15-monata knabino
+        <fnt><aut>Last</aut>:
+        <vrk>La litova prezidanto donacis siajn organojn</vrk>,
+        <bib>Monato</bib><lok>jaro 2001a, numero 11a, p. 21a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld var="k"/>oj &ccirc;e la hospitalo unue ne volis operacii lin pri hernio, &ccirc;ar la paciento
+        pezis malpli ol 45 kg kaj ne tre sanis
+        <fnt>
+          <aut>Sabeo Fu</aut>
+            <vrk><url ref="&Monato;/2000/007127.php">Escepto-recepto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 14</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_ib;&c_r;&c_u;&c_r;&c_g;</trd>
+  <trd lng="bg">&c_h;&c_i;&c_r;&c_u;&c_r;&c_g;</trd>
+  <trdgrp lng="de">
+    <trd>Chirurg</trd>,
+    <trd>Knochenarzt</trd>
+  </trdgrp>
+  <trd lng="ca">cirurgi&agrave;</trd>
+  <trd lng="es">cirujano</trd>
+  <trd lng="fr">chirurgien</trd>
+  <trd lng="hu">seb&eacute;sz</trd>
+  <trd lng="ja">&#x5916;&#x79D1;&#x533B;  <pr>&#x3052;&#x304B;&#x3044;</pr></trd>
+  <trd lng="nl">chirurg</trd>
+  <trd lng="pl">chirurg</trd>
+  <trd lng="pt">cirurgi&atilde;o</trd>
+  <trd lng="ru">&c_h;&c_i;&c_r;&c_u;&c_r;&c_g;</trd>
+  <trd lng="sk">chirurg</trd>
+  <trd lng="sv">kirurg</trd>
+  <trd lng="it">chirurgo</trd>
+  <trd lng="uk">&c_h;&c_ib;&c_r;&c_u;&c_r;&c_g;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5916;&#x79D1;&#x533B;&#x751F; <pr>w&#xE0;ik&#x113;y&#x12B;sh&#x113;ng</pr></trd>,
+    <trd>&#x5916;&#x79D1;&#x533B;&#x5E08; <pr>w&#xE0;ik&#x113;y&#x12B;sh&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2023/10/17 16:45:07
+revo: transskribo per <pr>
+
+versio 1.27 2023/04/30 12:42:34
+Paul Peeraerts: Steloj -> monato
+
+versio 1.26 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.24 2020/09/06 16:32:34
+Wolfram Diestel: +tld-var
+
+Revision 1.22  2018/08/06 22:10:27  revo
+Michel Cantigneaux: aperas unue en PV (1934), oficiala en 8OA (1974)
+
+Revision 1.21  2009/03/15 17:30:53  revo
+Wieland Pusch: +trd bg
+
+Revision 1.20  2009/03/13 17:30:59  revo
+Antonio Codazzi: +trd it
+
+Revision 1.19  2006/05/22 16:32:04  revo
+-->
+</vortaro>

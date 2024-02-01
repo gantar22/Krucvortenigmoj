@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rendiment.xml,v 1.15 2023/10/20 19:20:37 revo Exp $">
+<kap>
+  <rad>rendiment</rad>/o
+</kap>
+
+<drv mrk="rendiment.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="rendiment.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="kvocie.0o">Kvociento</ref>
+      de utila laboro per elspezita energio:
+      <ekz>
+        la produktado de elektro per fotovoltaaj &ccirc;eloj provokas kritikojn, pro la alta
+        kostoprezo kaj la malgranda <tld/>o, &gcirc;i estas efika nur en idealaj
+        cirkonstancoj, kie abundas suno
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2007/009344.php">&Ccirc;u biokarbura&jcirc;oj helpas a&ubreve; malhelpas?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum anta&ubreve; kelkaj jaroj neniu dubis pri la utilo de biokarbura&jcirc;oj, oni nun
+        &gcirc;enerale konsentas ke ili apena&ubreve; efikas kontra&ubreve; la klimat&scirc;an&gcirc;i&gcirc;o, &ccirc;ar ilia
+        produktado postulas tro da energio, foje la <tld/>o e&ccirc; estas negativa
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2008/009511.php">Man&gcirc;i estos pli koste</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_c;&c_y;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_k;&c_a;&c_e;&c_f;&c_ib;&c_c;&c_y;&c_je;&c_n;&c_t; &c_k;&c_a;&c_r;&c_y;&c_s;&c_n;&c_a;&c_g;&c_a; &c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_ja;</trd>
+    </trdgrp>
+    <trd lng="de">Wirkungsgrad</trd>
+    <trd lng="hu">hat&aacute;sfok</trd>
+    <trd lng="pt">rendimento</trd>    
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_t;&c_d;&c_a;&c_ch;&c_a;</trd>,
+      <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+      <trd>&c_k;&c_o;&c_e;&c_f;&c_f;&c_i;&c_c;&c_i;&c_je;&c_n;&c_t; &c_p;&c_o;&c_l;&c_je;&c_z;&c_n;&c_o;&c_g;&c_o; &c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rendiment.0o.kapablo">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Produkto<ref tip="super" cel="kapabl.0o">kapablo</ref> de rimedo: kampo, ma&scirc;ino ks:
+      <ekz>
+        la lo&gcirc;antoj de la Mekong-delto, &ccirc;e la suda landparto, per du rizrikoltoj ricevas
+        jarajn <tld/>ojn de 10 &gcirc;is 12 tunoj/ha
+        <fnt>
+       <aut>Maryvonne kaj Bruno Robineau</aut>
+          <vrk><url ref="&Monato;/2000/006831.php">La&ubreve; ritmo de la rizejoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/02, p. 18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="spez.en0o">enspezo</ref>
+    <trdgrp lng="de">
+      <trd>Ausbeute</trd>,
+      <trd>Ertrag</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rendiment.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="profit.0o.EKON">Profito</ref>
+      akirita per kapitalo (valorpapero, investoj) en
+      formo de dividendo, rento ktp:
+      <ekz>
+        la banko, kiu da&ubreve;re havis grandajn gajnojn, nun strebas al <tld/>o de 25&#x202F; el
+        propra kapitalo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2005/008671.php">Diabla cirklo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_a;&c_h;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_y;&c_b;&c_y;&c_t;&c_k;&c_o;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_r;&c_e;&c_n;&c_t;&c_a;&c_b;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">Rendite</trd>
+    <trd lng="en">yield</trd>
+    <trdgrp lng="hu">
+      <trd>hozam</trd>,
+      <trd>j&ouml;vedelmez&odblac;s&eacute;g</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_o;&c_h;&c_o;&c_d;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_i;&c_b;&c_y;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+      <trd>&c_r;&c_je;&c_n;&c_t;&c_a;&c_b;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="en">
+    <trd>performance</trd>,
+    <trd>efficiency</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>rendement</trd>,
+    <trd>efficience</trd>
+  </trdgrp>
+  <trd lng="ja">&#x52B9;&#x7387;  <pr>&#x3053;&#x3046;&#x308A;&#x3064;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>efektywno&sacute;&cacute;</trd>,
+    <trd>wydajno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;&c_i;&c_v;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_je;&c_f;&c_je;&c_k;&c_t;&c_i;&c_v;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rendiment.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc mrk="rendiment.0a.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="dif" cel="profit.0a">Profita</ref>:
+      <ekz>
+        <klr>[la]</klr> minado &gcirc;is nun ne estis ekonomie <tld/>a
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2011/010416.php">Revoj pri skistogaso</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;tataj monolitoj estis dispecigitaj kaj disvenditaj al pli <tld/>aj privataj
+        kompanioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2013/011033.php">Forpasis la (in)fera sinjorino</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>profitabel</trd>,
+    <trd>effizient</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>profitable</trd>,
+    <trd>efficient</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>sprawny</trd>,
+    <trd>wydajny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;&c_i;&c_v;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_je;&c_f;&c_je;&c_k;&c_t;&c_i;&c_v;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rendiment.alt0a">
+  <kap>
+    alt<tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Havanta altan <tld/>on:
+      <ekz>
+        <klr>[riz]</klr>varioj altrendimentaj
+        <fnt>
+       <aut>Maryvonne kaj Bruno Robineau</aut>
+          <vrk><url ref="&Monato;/2000/006831.php">La&ubreve; ritmo de la rizejoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/02, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        patrinoj timis pri la efikoj de alt<tld/>a kultivado kaj malsanigaj man&gcirc;a&jcirc;oj por
+        la infanoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marie-Ho</aut>
+          <vrk><url ref="&Monato;/2010/009979.php">La ekologiaj nutra&jcirc;oj de AMAP</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="fekund.0a.FIG">fekunda<sncref/></ref>,
+       <ref cel="frukt.0odona0oporta">fruktodona</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">ertragreich</trd>
+  <trdgrp lng="en">
+    <trd>high-yield</trd>,
+    <trd>lucrative</trd>,
+    <trd>fruitful</trd>
+  </trdgrp>
+  <trd lng="pl">o wysokiej  <ind>sprawno&sacute;ci</ind></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.15 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.13 2023/06/11 14:24:29
+Christian Siefkes: +trd en
+
+versio 1.12 2023/06/10 21:23:29
+Vito Redsky: +trd pl 
+
+versio 1.11 2023/04/20 06:33:15
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.10 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.8 2020/12/10 20:36:27
+Wolfram Diestel: disigis snc kapablo de profito; +~a, alt~a; ekz-oj, trd de
+
+Revision 1.6  2019/02/14 17:10:21  revo
+Wolfram Diestel: +ekz-oj, germ. trd-oj
+
+Revision 1.5  2014/04/05 19:10:20  revo
+-->
+</vortaro>

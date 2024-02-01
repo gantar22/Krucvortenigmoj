@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: patolo.xml,v 1.25 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>patologi</rad>/o
+</kap>
+<drv mrk="patolo.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc mrk="patolo.0o.fako">
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="medici.0o.SCI">medicino</ref>,
+      <ref tip="lst" cel="scienc.0o.fako" lst="voko:sciencoj">scienco</ref> 
+      pri la organaj difekti&gcirc;oj ka&ubreve;zitaj de malsano:
+      <ekz>
+        <nom>John McCrae</nom> rapide avancis kiel kuracisto, laboris pri a&ubreve;topsioj, pri <tld/>o,
+        pri konta&gcirc;aj malsanoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="&Monato;/2015/011504.php">Tre bonvena verko, sed ...</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="patolo.0o.procezo">
+    <dif>
+      Malsaneca procezo:
+      <ekz>
+        viroj trafataj de gravaj dent-<tld/>oj havas ekzakte 3,29-oblan probablon sperti erekti&gcirc;an
+        deficiton ol la ceteraj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/011056.php">Armitaj &gcirc;is la dentoj kontra&ubreve;
+          impotenteco</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="san.mal0o">malsano</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_t;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="cs">patologie</trd>
+  <trd lng="de">Pathologie</trd>
+  <trd lng="en">pathology</trd>
+  <trd lng="fr">pathologie</trd>
+  <trdgrp lng="hu">
+    <trd>k&oacute;rtan</trd>,
+    <trd>patol&oacute;gia</trd>
+  </trdgrp>
+  <trd lng="id">patologi</trd>
+  <trd lng="ja">&#x75C5;&#x7406;&#x5B66;  <pr>&#x3073;&#x3087;&#x3046;&#x308A;&#x304C;&#x304F;</pr></trd>
+  <trd lng="nl">pathologie</trd>
+  <trd lng="pl">patologia</trd>
+  <trd lng="pt">patologia</trd>
+  <trd lng="ro">patologie</trd>
+  <trd lng="ru">&c_p;&c_a;&c_t;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">patol&oacute;gia</trd>
+  <trd lng="uk">&#x43F;&#x430;&#x442;&#x43E;&#x43B;&#x43E;&#x433;&#x456;&#x44F;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.22 2021/12/12 21:28:10
+Vito Redsky: + trd pl + trd ro
+
+Revision 1.20  2018/11/25 17:10:19  revo
+Wolfram Diestel: +snc malsano, +ekz-oj
+
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/11/12 08:10:46  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2013/09/22 19:10:57  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.15  2010/04/15 16:30:36  revo
+-->
+</vortaro>

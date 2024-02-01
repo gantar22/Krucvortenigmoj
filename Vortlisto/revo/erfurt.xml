@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: erfurt.xml,v 1.5 2023/11/07 20:34:11 revo Exp $">
+    <kap>
+      <rad>Erfurt</rad>/o
+    </kap>
+
+<drv mrk="erfurt.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">GEOG</uzo><uzo tip="fak">POL</uzo>
+    <dif>
+      &Ccirc;ef<ref tip="lst" lst="voko:urboj" cel="urb.0o.ARKI">urbo</ref> 
+      de <ref tip="malprt" cel="turing.T0ujo">Turingujo</ref>:
+      <ekz>
+        la Teatro de <tld/>o
+        <fnt>
+          <vrk><url ref="https://s3.amazonaws.com/ww-article-cache-1/eo/Teatro_de_Erfurto">Historio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        elsendo el <tld/>o
+        <fnt>
+          <vrk><url ref="http://www.ikue.org/cz/arkivo/a-103-3-16.htm">Dio Benu 103-3/2016</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Domo de la ora unukornulo trovi&gcirc;as sur la katedralplaco de
+        <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=448761">Haus zum Goldenen Einhorn (Erfurt)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_E;&c_r;&c_f;&c_u;&c_r;&c_t;</trd>
+    <trd lng="de">Erfurt</trd>
+    <trdgrp lng="fr">
+      <trd>Erford</trd>,
+      <trd>Erfurt</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="uk">&#x415;&#x440;&#x444;&#x443;&#x440;&#x442;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x827E;&#x5C14;&#x798F;&#x7279; <pr>&#xE0;i&#x11B;rf&#xFA;t&#xE8;</pr></trd>,
+    <trd>&#x57C3;&#x5C14;&#x5BCC;&#x7279; <pr>&#x101;i&#x11B;rf&#xF9;t&#xE8;</pr></trd>
+  </trdgrp>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.3 2021/10/12 16:47:16
+Dmitri Gabinski: +trd be
+
+versio 1.2 2020/05/18 10:10:34
+Damien Brucker: +trd fr
+-->
+</vortaro>

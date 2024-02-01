@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tropism.xml,v 1.6 2023/10/21 14:37:42 revo Exp $">
+<kap>
+  <rad>tropism</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="tropism.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tropism.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Kreskado a&ubreve; movi&gcirc;o de viva&jcirc;o
+      en iu direkto reage al ekstera a&ubreve; interna,
+      loga a&ubreve; malloga influo:
+      <ekz>
+        Myxobolus bufonis estas specio kun forta prefero
+        al la histaro (hista <tld/>o)
+        <fnt>
+          <aut>U. Zillmann, F. Mutschmann, C. Zwerger, trad. R.
+          Sachs</aut>
+          <vrk><url ref="&STEB;zoologio/kompendio-parazitoj-de-bestoj/sekcioa.htm">
+          Kompendio de la plej gravaj parazitoj &ccirc;e malgrandaj kaj
+          laboratoriaj bestoj</url></vrk>
+          <lok>Scienca Revuo, Faka kromkajero, a&ubreve;tuno 2000</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">tropism</trd>
+  <trd lng="fr">tropisme</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5411;&#x6027;  <pr>&#x3053;&#x3046;&#x305B;&#x3044;</pr></trd>,
+    <trd>&#x5C48;&#x6027;  <pr>&#x304F;&#x3063;&#x305B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_t;&c_r;&c_o;&c_p;&c_ib;&c_z;&c_m;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.4 2022/05/26 16:40:34
+Noam Mohr: +trd en
+
+versio 1.3 2022/05/05 17:08:12
+aktualigo lingvokodoj kaj URL-unuoj
+-->
+</vortaro>

@@ -1,0 +1,2677 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: skrib.xml,v 1.198 2023/12/12 20:10:28 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>skrib</rad>/i
+</kap>
+<drv mrk="skrib.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="skrib.0i.signojn">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Grafike prezenti parolojn per literoj a&ubreve; aliaj konvenciaj
+      desegnoj:
+      <ekz>
+        la patro ne legas libron, sed li <tld/>as leteron
+        <fnt><bib>F</bib>, <lok>&FE; 9</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i literojn, nulojn;
+      </ekz>
+      <ekz>
+        li scipovas nek legi, nek <tld/>i;
+      </ekz>
+      <ekz>
+        viaj leteroj estas &ccirc;iam <tld/>itaj tute nelegeble
+        <fnt><bib>F</bib>, <lok>&FE; 41</lok></fnt>;
+      </ekz>
+      <ekz>
+        li <ind><tld/>as kiel kokino</ind> <klr>(tute nelegeble)</klr>;
+        <trd lng="hu">olyan az &iacute;r&aacute;sa, mint a macskakapar&aacute;s</trd>
+        <trd lng="ru">&c_p;&c_i;&c_sh;&c_je;&c_t; &c_k;&c_a;&c_k; &c_k;&c_u;&c_r;&c_i;&c_c;&c_a;
+        &c_l;&c_a;&c_p;&c_o;&c_j;</trd>
+      </ekz>
+    </dif>
+    <subsnc mrk="skrib.0i.esprimi">
+      <dif>
+        Per tiaj rimedoj esprimi pensojn:
+        <ekz>
+          <tld/>i en gazeto;
+        </ekz>
+        <ekz>
+          verse <tld/>ita rakonto;
+        </ekz>
+        <ekz>
+          mi trovis anka&ubreve; altaron, sur kiu estis <tld/>ite: <ctl>al dio
+          nekonata</ctl>
+          <fnt><bib>NT</bib>, <lok>&Ago; 17:23</lok></fnt>;
+        </ekz>
+        <ekz>
+          <ind>kiel estas <tld/>ite</ind> <klr>(en la Biblio)</klr>;
+          <trd lng="hu">amint &iacute;rva vagyon</trd>
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          sur &scirc;ia viza&jcirc;o estas <tld/>ita
+          <klr>(montri&gcirc;as, evidenti&gcirc;as)</klr> mildeco;
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          Mi <tld/>os Mian le&gcirc;on sur ilia koro
+          <fnt>
+            <bib>MT</bib>
+            <lok>Jeremia 31:33</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>schreiben</trd>,
+        <trd>verfassen</trd>,
+        <trd>niederlegen</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="skrib.0i.sciigi">
+      <dif>
+        Per <tld/>a&jcirc;o sciigi al iu:
+        <ekz>
+          li <tld/>u al &scirc;i eksedzigan leteron kaj donu &gcirc;in en &scirc;ian manon
+          kaj forsendu &scirc;in el sia domo
+          <fnt>
+            <bib>MT</bib>
+            <lok>Readmono 24:1</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          mi <tld/>as al vi novan ordonon
+          <fnt>
+            <bib>NT</bib>
+            <lok>I. Johano 2:8</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          fidante pri via obeo, mi skribas al vi, sciante, ke vi faros
+          e&ccirc; pli multe, ol kiom mi diras
+          <fnt>
+            <bib>NT</bib>
+            <lok>Filemon 1:21</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>schreiben</trd>,
+        <trd>schriftlich <ind>kund tun</ind></trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="skrib.0i.registri">
+      <dif>
+        Registri, decidi per <tld/>o a&ubreve; kun simila
+        a&ubreve;toritato:
+        <ekz>
+          Vi <tld/>as kontra&ubreve; mi maldol&ccirc;a&jcirc;on
+          <fnt>
+            <bib>MT</bib>
+            <lok>Ijob 13:26</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          respondis Pilato: kion mi <tld/>is, tion mi <tld/>is
+          <klr>(ne&scirc;an&gcirc;eble)</klr>;
+        </ekz>
+        <ekz>
+          ve al tiuj, kiuj <tld/>as maljustajn verdiktojn
+          <fnt>
+            <bib>MT</bib>
+            <lok>Jesaja 10:1</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          estis <tld/>ite <klr>(de la fatalo)</klr>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>schreiben</trd>,
+        <trd>verfassen</trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <snc mrk="skrib.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      <ref tip="vid" cel="regist.0i.TEK">Registri</ref>
+      datumojn sur da&ubreve;ran materialon por konservo.
+    </dif>
+  </snc>
+  <snc mrk="skrib.0i.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Sendi datumon el pli alta nivelo de la memorhierarkio al malpli
+      alta (periferia), ekzemple el la &ccirc;efmemoro sur diskon:
+      <ekz>
+        oni devas nur el&scirc;uti grandan iso-dosieron, skribi &gcirc;in kiel
+        diskobildon sur KD-on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Edmund Grimley Evans</aut>
+          <vrk><url ref="&Monato;/2010/010031.php">Knoppix</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        legi kaj <tld/>i la kutimajn mikrosoftajn dosierojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2005/008660.php">De
+          triopa monopolo al mikrosofta monopolo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">skryf</trd>
+  <trd lng="am">&#4931;&#x134D;</trd>
+  <trd lng="ar">&a_A_hamza_sube;&a_r;&a_s;&a_A;&a_l;</trd>
+  <trd lng="az">yazmaq</trd>
+  <trd lng="be">&c_p;&c_ib;&c_s;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_i;&c_sh;&c_a;</trd>
+  <trd lng="bn">&#x9B2;&#x9BF;&#2454;&#x9C1;&#x9A8;</trd>
+  <trd lng="bo">&t_-a;&t_ba;&t_rata;&t_gigu; &t_ba;&t_rata;&t_gigu;&t_sa; &t_ba;&t_rata;&t_gigu;
+  &t_ba;&t_rata;&t_gigu;&t_sa;&t_tsheg;</trd>
+  <trd lng="bs">pi&scaron;u</trd>
+  <trd lng="co">scrivemu</trd>
+  <trdgrp lng="cs">
+    <trd>ps&aacute;t</trd>,
+    <trd>uchovat</trd>,
+    <trd>ulo&zcaron;it</trd>,
+    <trd>vkl&aacute;dat</trd>,
+    <trd>zapsat do pam&ecaron;ti</trd>
+  </trdgrp>
+  <trd lng="cy">ysgrifennu</trd>
+  <trd lng="da">skrive</trd>
+  <trd lng="de">schreiben</trd>
+  <trd lng="en">write</trd>
+  <trd lng="es">escribir</trd>
+  <trd lng="et">kirjuta</trd>
+  <trd lng="eu">idatzi</trd>
+  <trd lng="fr">&eacute;crire</trd>
+  <trd lng="fy">skriuwe</trd>
+  <trd lng="ga">scr&iacute;obh</trd>
+  <trd lng="gd">sgr&igrave;obhadh</trd>
+  <trd lng="gl">escribir</trd>
+  <trd lng="gu">&#xAB2;&#xA96;&#xAB5;&#xABE;</trd>
+  <trd lng="ha">rubuta</trd>
+  <trd lng="hi">&#2354;&#x93F;&#2326;&#2344;&#x93E;</trd>
+  <trd lng="hmn">sau ntawv</trd>
+  <trd lng="hr">pisati</trd>
+  <trd lng="ht">ekri</trd>
+  <trdgrp lng="hu">
+    <trd>&iacute;r</trd>,
+    <trd>meg&iacute;r</trd>,
+    <trd>le&iacute;r</trd>
+  </trdgrp>
+  <trd lng="hy">&#1379;&#1408;&#1381;&#x56C;</trd>
+  <trd lng="id"><baz>tulis</baz>menulis</trd>
+  <trd lng="ig">dee</trd>
+  <trd lng="is">skrifa</trd>
+  <trd lng="it">scrivere</trd>
+  <trd lng="ja">&#x66F8;&#x304F; <pr>&#x304B;&#x304F;</pr></trd>
+  <trd lng="jv">nulis</trd>
+  <trd lng="ka">&#x10D3;&#x10D0;&#x10EC;&#x10D4;&#x10E0;&#x10D0;</trd>
+  <trd lng="kk">&c_zh;&c_a;&c_z;&c_u;</trd>
+  <trd lng="km">&#x179F;&#x179A;&#x179F;&#x17C1;&#x179A;</trd>
+  <trd lng="kn">&#xCAC;&#xCB0;&#xCC6;&#xCAF;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xC4F0;&#xAE30;</trd>
+  <trd lng="ku">niv&icirc;sandin</trd>
+  <trd lng="ky">&c_zh;&c_a;&c_z;&c_u;&c_u;</trd>
+  <trd lng="lat">scribo</trd>
+  <trd lng="lo">&#xE82;&#xEBD;&#xE99;</trd>
+  <trd lng="lt">ra&scaron;yti</trd>
+  <trd lng="lv">rakst&#299;t</trd>
+  <trd lng="mg">manoratra</trd>
+  <trd lng="mi">te tuhituhi</trd>
+  <trd lng="mk">&c_p;&c_i;&c_sh;&c_u;&c_v;&c_a;</trd>
+  <trd lng="ml">&#xD0E;&#xD34;&#xD41;&#xD24;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_b;&c_i;&c_ch;&c_i;&c_h;</trd>
+  <trd lng="mr">&#2354;&#2375;&#2326;&#2344;</trd>
+  <trd lng="ms">menulis</trd>
+  <trd lng="mt">jiktbu</trd>
+  <trd lng="my">&#x101B;&#4145;&#4152;&#x101E;&#x102C;&#4152;</trd>
+  <trd lng="ne">&#2354;&#2375;&#2326;&#x94D;&#2344;</trd>
+  <trd lng="nl">schrijven</trd>
+  <trd lng="ny">kulemba</trd>
+  <trd lng="pa">&#xA32;&#xA3F;&#xA16;&#xA23; &#xA26;&#xA40;</trd>
+  <trd lng="pl">pisa&cacute;</trd>
+  <trd lng="ps">&a_w;&a_l;&f_y;&f_k;&a_y;</trd>
+  <trd lng="pt">escrever</trd>
+  <trd lng="ro">scrie</trd>
+  <trd lng="ru">&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="rw">andika</trd>
+  <trd lng="sd">&a_l;&f_k;&#x6BB;</trd>
+  <trd lng="si">&#xDBD;&#xDD2;&#xDBA;&#xDB1;&#xDCA;&#xDB1;</trd>
+  <trdgrp lng="sk">
+    <trd>ulo&zcaron;i&tcaron;</trd>,
+    <trd>zap&iacute;sa&tcaron; do pam&auml;te</trd>
+  </trdgrp>
+  <trd lng="sl">pisati</trd>
+  <trd lng="sm">tusi</trd>
+  <trd lng="sn">nyora</trd>
+  <trd lng="so">qori</trd>
+  <trd lng="sq">shkruaj</trd>
+  <trd lng="st">ngola</trd>
+  <trd lng="su">nulis</trd>
+  <trd lng="sv">skriva</trd>
+  <trd lng="sw">kuandika</trd>
+  <trd lng="ta">&#xB8E;&#xBB4;&#xBC1;&#xBA4;</trd>
+  <trd lng="te">&#xC30;&#xC3E;&#xC2F;&#xC21;&#xC3E;&#xC28;&#xC3F;&#xC15;&#xC3F;</trd>
+  <trd lng="tg">&c_n;&c_a;&c_v;&c_i;&c_sh;&c_t;&c_a;&c_n;</trd>
+  <trd lng="th">&#xE40;&#xE02;&#xE35;&#xE22;&#xE19;</trd>
+  <trd lng="tl">sumulat</trd>
+  <trd lng="tt">&c_ja;&c_z;</trd>
+  <trd lng="uk">&c_n;&c_a;&c_p;&c_i;&c_s;&c_a;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_l;&f_k;&#x6BE;&a_n;&a_A;</trd>
+  <trd lng="uz">yozish</trd>
+  <trd lng="vi">vi&#x1EBF;t</trd>
+  <trd lng="xh">bhala</trd>
+  <trd lng="yi">&shin;&resh;&yod;&yod;&#x5B7;&bet;&fnun;</trd>
+  <trd lng="yo">k&#x1ECD;</trd>
+  <trd lng="zh">&#20889; <klr>(tr. &#x5BEB;)</klr> <pr>xi&ecaron;</pr></trd>
+  <trd lng="zu">ukubhala</trd>
+</drv>
+
+<drv mrk="skrib.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      <tld lit="S"/>ita, per<tld/>a:
+      <ekz>
+        <tld/>a literaturo
+        <fnt>
+          <bib>DL</bib>
+        </fnt>
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Fonetiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a lingvo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a ekzameno
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni faris la kontrakton ne <ind><tld/>e</ind> sed
+        parole
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 31</lok>
+        </fnt>;
+        <trd lng="it">per iscritto</trd>
+      </ekz>
+      <ekz>
+        vi legos en la jena <tld/>a peto
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="cs">spisovn&yacute;</trd>
+    <trd lng="de">schriftlich</trd>
+    <trd lng="en">written<klr> (adj.)</klr></trd>
+    <trd lng="es">escrito<klr> (adj.)</klr></trd>
+    <trd lng="fr">&eacute;crit<klr tip="ind"> (adj.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>&iacute;r&aacute;sos</trd>,
+      <trd>&iacute;rott</trd>
+    </trdgrp>
+    <trd lng="id">ter<ind>tulis</ind></trd>
+    <trd lng="it">scritto</trd>
+    <trd lng="nl">schriftelijk</trd>
+    <trd lng="pl">pisemny</trd>
+    <trd lng="ro">scris</trd>
+    <trd lng="ru">&c_p;&c_i;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+    <trd lng="sk">spisovn&yacute;</trd>
+    <trd lng="sv">skriftlig</trd>
+  </snc>
+  <snc mrk="skrib.0a.rilata">
+    <dif>
+      Rilata al <tld/>ado; por<tld/>a:
+      <ekz>
+        granda, per verda drapo kovrita tablo
+        kun multaj fakoj super la <ind><tld/>a plata&jcirc;o</ind>
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+        <trd lng="de">Schreibplatte</trd>
+      </ekz>
+    </dif>
+    <trd lng="en">writing<klr> (adj.)</klr></trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_o;&c_v;&c_y;</trd>,
+    <trd>&c_r;&c_u;&c_k;&c_a;&c_p;&c_ib;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">schriftlich</trd>
+  <trdgrp lng="ja">
+    <trd>&#x66F8;&#x304B;&#x308C;&#x305F;  <pr>&#x304B;&#x304B;&#x308C;&#x305F;</pr></trd>,
+    <trd>&#25991;&#x5B57;&#12391;&#34920;&#12373;&#x308C;&#x305F;  <pr>&#12418;&#12376;&#12391;&#12354;&#12425;&#x308F;&#12373;&#x308C;&#x305F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_i;&c_s;&c_mol;&c_m;&c_o;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_u;&c_k;&c_o;&c_p;&c_i;&c_s;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="skrib.0o.skribado">
+    <dif>
+      <ref tip="dif" cel="skrib.0ado"><tld lit="S"/>ado</ref>:
+      <ekz>
+        <tld/>o-ma&scirc;ino
+        <fnt><aut>Gilbert Ledon</aut>,
+        <vrk><url ref="&Monato;/2000/006916.php">Bugra bug-insekto</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/05, p. 5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>otablo
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni ekzercis vin en la <tld/>oj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Schreiben</trd>
+    <trd lng="nl">schrijven<klr tip="ind"> (z.nw.)</klr></trd>
+  </snc>
+  <snc mrk="skrib.0o.sistemo">
+    <dif>
+      <ref tip="dif" cel="sistem.skrib0o"><tld lit="S"/>sistemo</ref>:
+      <ekz>
+        la literumado de arabaj nomoj en latina <tld/>o estas tre &hcirc;aosa,
+        &ccirc;ar preska&ubreve; &ccirc;iu a&ubreve;toro uzas sian propran sistemon
+        <fnt>
+          <aut>Konrad Hinsen</aut>
+            <vrk><url ref="&Monato;/2000/007063.php">Um Keltum'</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 15</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        stenografia <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bernhard Pabst</aut>
+          <vrk><url ref="&Monato;/2008/009376.php">Inter
+          libroj posttagmeze</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        blindula <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2012/010656.php">Ekspozicio
+          migranta</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la korea <tld/>o povas aspekti simile al la simboloj de la &ccirc;ina
+        kaj japana; sed fakte temas pri tute alia sistemo
+        <fnt>
+        <aut>B. Kendal</aut>,
+        <vrk>La korea</vrk>,
+        <bib>Monato</bib>,
+        <lok>2002/03, p. 21-23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Schrift</trd>
+    <trd lng="ru">&c_p;&c_i;&c_s;&c_mol;&c_m;&c_o;<klr tip="amb">
+    (&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;
+    &c_z;&c_a;&c_p;&c_i;&c_s;&c_i;)</klr></trd>
+  </snc>
+  <snc mrk="skrib.0o.ajxo">
+    <dif>
+      <ref tip="dif" cel="skrib.0ajxo"><tld lit="S"/>a&jcirc;o</ref>:
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>diron oni neas, <tld/>o ne pereas</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="de">wer <ind>schreibt</ind> der bleibt</trd>
+        <trd lng="es">las palabras se las lleva el viento, los
+          <ind>escritos</ind> permanecen
+        </trd>
+        <trd lng="fr">les paroles s'envolent, les <ind>&eacute;crits</ind>
+          restent
+        </trd>
+        <trd lng="hu">a sz&oacute; elsz&aacute;ll, az &iacute;r&aacute;s megmarad</trd>
+        <trd lng="ru">&c_ch;&c_t;&c_o; <ind>&c_n;&c_a;&c_p;&c_i;&c_s;&c_a;&c_n;&c_o;
+        &c_p;&c_je;&c_r;&c_o;&c_m;</ind>, &c_n;&c_je;
+        &c_v;&c_y;&c_r;&c_u;&c_b;&c_i;&c_sh;&c_mol; &c_t;&c_o;&c_p;&c_o;&c_r;&c_o;&c_m;</trd>
+      </ekz>
+      <ekz>
+        sur kelkaj folioj la <tld/>o ofte aperas tiel pala, tiel
+        nedistingebla,
+        ke oni pensas, ke oni havas anta&ubreve; si malplenan folion
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">REL</uzo>
+        la <ref cel="skrib.SanktaS0o">Sankta <tld lit="S"/>o</ref>
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Schrift</trd>
+    <trd lng="nl">schrift</trd>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_a;&c_p;&c_i;&c_s;&c_a;&c_n;&c_n;&c_o;&c_je; <klr>(&c_v; &c_z;&c_n;&c_a;&c_ch;.
+      &c_s;&c_u;&c_shch;.)</klr></trd>,
+      <trd>&c_z;&c_a;&c_p;&c_i;&c_s;&c_mol;</trd>,
+      <trd>&c_n;&c_a;&c_d;&c_p;&c_i;&c_s;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="skrib.0o.maniero">
+    <dif>
+      <ref tip="dif" cel="manier.skrib0o"><tld lit="S"/>maniero</ref>:
+      <ekz>
+        ne estis la man<tld/>o de Anino
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2004/008357.html">La unua
+          nokto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de nomoj, e&ccirc; &gcirc;is la 20a jarcento, ne estis tute
+        fiksita
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2006/008970.php">Genealogio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="nl">geschrift</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_o;</trd>,
+    <trd>&c_p;&c_ib;&c_s;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ya;&t_gigu;&t_ga;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>p&iacute;semnost</trd>,
+    <trd>spis</trd>,
+    <trd>z&aacute;pis</trd>
+  </trdgrp>
+  <trd lng="en">writing<klr> (process, result, system, or style)</klr></trd>
+  <trd lng="es">escritura</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;criture</trd>,
+    <trd>&eacute;crit<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">&iacute;r&aacute;s</trd>
+  <trd lng="id"><ind>tulis</ind>an</trd>
+  <trd lng="it">scrittura</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5B57;  <pr>&#12354;&#12374;&#x306A;</pr></trd>,
+    <trd>&#x4F5C;&#x54C1;  <pr>&#12373;&#x304F;&#12402;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">pismo</trd>
+  <trd lng="ro">scriere </trd>
+  <trd lng="ru">&c_p;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>p&iacute;somnos&tcaron;</trd>,
+    <trd>spis</trd>,
+    <trd>z&aacute;pis</trd>
+  </trdgrp>
+  <trd lng="sv">skrift</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_i;&c_s;&c_mol;&c_m;&c_o;</trd>,
+    <trd>&c_p;&c_i;&c_s;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.0acxi">
+  <kap><tld/>a&ccirc;i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="skrib.0acxi.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Malbele, malklare, malpure <tld/>i:
+      <ekz>
+        la maljuna sekretario <klr>[&#8230;]</klr> klinis sin al
+        la tablo kaj rapide <tld/>a&ccirc;is tion, kion diris la
+        junulo
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen oni <tld/>a&ccirc;as sur pa&gcirc;o 15: &leftquot;De via morta sag' mi estas pala
+        floro&#x201D;,
+        &gcirc;uste estus: &leftquot;De via morta sang' mi estas pala floro&#x201D;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2014/011173.php">Malgaje
+          pri patrino</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_e;&c_m;&c_z;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_n;&c_je;&c_a;&c_h;&c_a;&c_j;&c_n;&c_a;
+  &c_p;&c_ib;&c_s;&c_a;&c_c;&c_mol;)</klr></trd>
+  <trd lng="de">schmieren <klr>(schreiben)</klr></trd>
+  <trdgrp lng="en">
+    <trd>scrawl<klr> (tr)</klr></trd>,
+    <trd>scribble<klr> (tr)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">gribouiller</trd>
+  <trdgrp lng="pl">
+    <trd>bazgra&cacute;</trd>,
+    <trd>gryzmoli&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>m&acirc;zg&abreve;leal&abreve;</trd>,
+    <trd>m&acirc;zg&abreve;litur&abreve;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.0ado">
+  <kap><ofc>*</ofc><tld/>ado</kap>
+  <snc mrk="skrib.0ado.TIP">
+    <dif>
+      Uzado de literoj a&ubreve; aliaj signoj por <tld/>i:
+      <ekz>
+        bastoneto, sur kiu oni tenas plumon por <tld/>ado, estas
+        plumingo
+        <fnt><bib>F</bib>, <lok>&FE; 40</lok></fnt>.
+      </ekz>
+      <ekz>
+        la klaso de la legado kaj <tld/>ado
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ado per hieroglifaj desegna&jcirc;oj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estis okupita je <tld/>ado de kalkuloj en granda libro
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la bel<tld/>ado multe al mi servis
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Schreiben</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_o;</trd>,
+    <trd>&c_p;&c_ib;&c_s;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>psan&iacute;</trd>,
+    <trd>sepisov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="en">writing<klr> (process)</klr></trd>
+  <trd lng="es">escritura<klr tip="ind"> (actividad)</klr></trd>
+  <trd lng="fr">&eacute;criture<klr tip="ind"> (activit&eacute;)</klr></trd>
+  <trd lng="hu">&iacute;r&aacute;s<klr tip="ind"> (tev&eacute;eknys&eacute;g)</klr></trd>
+  <trd lng="id"><baz>tulis</baz> penulisan</trd>
+  <trd lng="it">scrittura<klr> (attivit&agrave;)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x7B46;&#x8A18;  <pr>&#12402;&#12387;&#x304D;</pr></trd>,
+    <trd>&#x66F8;&#x6CD5;  <pr>&#12375;&#12423;&#x307B;&#12358;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">pisanie</trd>
+  <trd lng="ro">scris</trd>
+  <trd lng="ru">&c_p;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">p&iacute;sanie</trd>
+  <trd lng="sv">skrift<klr> (aktivitet)</klr></trd>
+  <trd lng="th">&#xE01;&#xE32;&#xE23;&#xE40;&#xE02;&#xE35;&#xE22;&#xE19;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_i;&c_s;&c_mol;&c_m;&c_o;</trd>,
+    <trd>&c_p;&c_i;&c_s;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="skrib.0ajxo.TIP">
+    <dif>
+      Serio da signoj notantaj parolojn, kalkulojn a&ubreve; aliajn
+      komunika&jcirc;ojn:
+      <ekz>
+        &ccirc;iu <tld/>a&jcirc;o inspirita de Dio estas anka&ubreve; utila por instruo
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Timoteo 3:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        montru al mi denaron, kies bildon kaj sur<tld/>a&jcirc;on &gcirc;i portas?
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 20:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        papirusaj volva&jcirc;oj, kovritaj de amba&ubreve; flankoj per <tld/>a&jcirc;oj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kancelariistoj, kiuj kopias en la oficejoj fremdan <tld/>a&jcirc;on
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i trarigardis la pa&gcirc;ojn plenajn de belforma kaj pura <tld/>a&jcirc;o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dokume.0o">dokumento</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_d;&c_p;&c_ib;&c_s;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_ib;&c_s;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_ib;&c_s;&c_a;&c_n;&c_a;&c_je; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd><klr>(ein)</klr> Schreiben</trd>,
+    <trd>Geschriebenes</trd>,
+    <trd>Schriftst&uuml;ck</trd>
+  </trdgrp>
+  <trd lng="en">writing<klr> (result)</klr></trd>
+  <trdgrp lng="es">
+    <trd>escrito</trd>,
+    <trd>escritura</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&eacute;crit<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>irom&aacute;ny</trd>,
+    <trd>irat</trd>
+  </trdgrp>
+  <trd lng="id"><ind>tulis</ind>an</trd>
+  <trd lng="it">scritto<klr> (sost.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#25991;&#x66F8;  <pr>&#12406;&#12435;&#12375;&#12423;</pr></trd>,
+    <trd>&#x66F8;&#x304D;&#29289;  <pr>&#x304B;&#x304D;&#12418;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">opschrift</trd>
+  <trdgrp lng="pl">
+    <trd>dokument</trd>,
+    <trd>pismo</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>document</trd>,
+    <trd>scrisoare</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_p;&c_i;&c_s;&c_a;&c_n;&c_n;&c_o;&c_je;<klr tip="amb">
+    (&c_s;&c_u;&c_shch;.)</klr></trd>,
+    <trd>&c_z;&c_a;&c_p;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_d;&c_p;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_p;&c_i;&c_s;&c_mol;&c_m;&c_o;</trd>
+  </trdgrp>
+  <trd lng="sv">skrift</trd>
+</drv>
+
+<drv mrk="skrib.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="skrib.0ejo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Loko ta&ubreve;ge aran&gcirc;ita por <tld/>ado:
+      <ekz>
+        mona&hcirc;oj nomataj kopiistoj <klr>[&#8230;]</klr> faris sian laboron en
+        ejo
+        trovita ene de preska&ubreve; &ccirc;iuj mona&hcirc;ejoj nomita latinlingve
+        &leftquot;<nac>scriptorium</nac>&rightquot; (<tld/>ejo)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19143">Tipografio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ju;&c_r;&c_o;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_t;&c_o;&c_r;&c_a;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_y;&c_p;&c_t;&c_o;&c_r;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="cs">p&iacute;s&aacute;rna</trd>
+  <trdgrp lng="de">
+    <trd>Skriptorium</trd>,
+    <trd>Schreibstube</trd>
+  </trdgrp>
+  <trd lng="en">scriptorium</trd>
+  <trdgrp lng="es">
+    <trd>despacho<klr tip="ind"> (espacio para escribir)</klr></trd>,
+    <trd>estudio</trd>,
+    <trd>scriptorium</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bureau<klr tip="ind"> (pi&egrave;ce pour &eacute;crire)</klr></trd>,
+    <trd>cabinet de travail</trd>,
+    <trd>scriptorium</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>iroda</trd>,
+    <trd>&iacute;r&oacute;szoba</trd>
+  </trdgrp>
+  <trd lng="id">skriptorium</trd>
+  <trd lng="it">scrittoio</trd>
+  <trdgrp lng="nl">
+    <trd>kabinet</trd>,
+    <trd>typkamer</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>biuro</trd>,
+    <trd>skryptorium</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>birou</trd>,
+    <trd>scriptoriu</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_ju;&c_r;&c_o;</trd>,
+    <trd>&c_r;&c_a;&c_b;&c_o;&c_ch;&c_i;&c_j; &c_k;&c_a;&c_b;&c_i;&c_n;&c_je;&c_t;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_i;&c_p;&c_t;&c_o;&c_r;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">pis&aacute;re&ncaron;</trd>
+</drv>
+
+<drv mrk="skrib.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="skrib.0ilo.KOMUNE">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      &Ccirc;io, kio servas por <tld/>i:
+      <ekz>
+        granda tablo, kovrita per verda drapo, plena de libroj, kajeroj
+        kaj <tld/>iloj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per fera <tld/>ilo kun plumbo, gravuritaj por eterne sur roko
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 19:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi prenis la etenditan paperon kaj rigardis la pinton de la
+        <tld/>ilo
+        <fnt>
+        <aut>S. &Scirc;timec</aut>,
+        <vrk>Hejmo en Meze&ubreve;ropo</vrk>,
+        <bib>Monato</bib>,
+        <lok>1996/01, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la ligna <tld/>otablo apud la fenestro staris <tld/>ma&scirc;ino
+        kaj apud paperfaskoj ujo kun <tld/>iloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lode Van de Velde</aut>
+          <vrk><url ref="&Monato;/2010/010053.php">Ekslibriso</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iuj eltrovis diversajn rimedojn, ekzemple <tld/>ilojn kun
+        ka&scirc;itaj slipetoj a&ubreve; kopioj, por friponi dum la ekzameno
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2009/009886.php">Ekzameno
+          ekzamenata</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_o;&c_v;&c_a;&c_ja;
+  &c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>pis&aacute;tko</trd>,
+    <trd>psac&iacute; pot&rcaron;eba</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Stift</trd>,
+    <trd>Schreibger&auml;t</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>marker<klr> (n, for writing)</klr></trd>,
+    <trd>pen<klr> (n)</klr></trd>,
+    <trd>pencil<klr> (n)</klr></trd>,
+    <trd>stylus</trd>,
+    <trd>quill<klr> (n, for writing)</klr></trd>,
+    <trd>writing instrument</trd>
+  </trdgrp>
+  <trd lng="es">instrumento de <ind>escritura</ind></trd>
+  <trd lng="fr">instrument d'<ind>&eacute;criture</ind></trd>
+  <trdgrp lng="hu">
+    <trd>&iacute;r&oacute;eszk&ouml;z</trd>,
+    <trd>&iacute;r&oacute;szersz&aacute;m</trd>
+  </trdgrp>
+  <trd lng="id"><ind>alat</ind> tulis</trd>
+  <trd lng="it">strumento di <ind>scrittura</ind></trd>
+  <trd lng="ja">&#x7B46;&#x8A18;&#20855;  <pr>&#12402;&#12387;&#x304D;&#12368;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>pen</trd>,
+    <trd>potlood</trd>,
+    <trd>schrijfbenodigdheid</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>co&sacute; do pisania</trd>,
+    <trd>pisak</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>ceva de scris</trd>,
+    <trd>un pix</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o; &c_p;&c_i;&c_s;&c_mol;&c_m;&c_a;</trd>
+  <trd lng="sk">p&iacute;sacia potreba</trd>
+  <trd
+  lng="th">&#xE40;&#xE04;&#xE23;&#xE37;&#xE48;&#xE2D;&#xE07;&#xE40;&#xE02;&#xE35;&#xE22;&#xE19;</trd>
+  <trd lng="tr">kalem</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_n;&c_a;&c_r;&c_ja;&c_d;&c_d;&c_ja; &c_d;&c_l;&c_ja;
+    &c_p;&c_i;&c_s;&c_mol;&c_m;&c_a; (&c_r;&c_u;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_o;&c_l;&c_ib;&c_v;&c_je;&c_c;&c_mol; &c_ib; &c_t;.&c_p;.)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.0ilaro">
+  <kap><ofc>*</ofc><tld/>ilaro</kap>
+  <snc mrk="skrib.0ilaro.TIP">
+    <dif>
+      Sortimento de skribiloj:
+      <ekz>
+        mia <tld/>ilaro konsistas el inkujo, sablujo, kelke da plumoj,
+        krajono kaj inksorbilo
+        <fnt><bib>F</bib>, <lok>&FE; 34</lok></fnt>;
+      </ekz>
+      <ekz>
+        jen sur la ronda tablo plumo, krajono kaj <tld/>ilaro de la
+        poeto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=499583">Baumbach-domo
+          (Meiningen)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_o;&c_v;&c_y;&c_ja;
+  &c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_y;</trd>
+  <trd lng="cs">psac&iacute; pot&rcaron;eby</trd>
+  <trdgrp lng="de">
+    <trd>Schreibzeug</trd>
+  </trdgrp>
+  <trd lng="en">writing set</trd>
+  <trdgrp lng="es">
+    <trd>estuche<klr tip="ind"> (para &uacute;tiles de escritura)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>trousse<klr tip="ind"> (outils d'&eacute;criture)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&iacute;r&oacute;k&eacute;szlet</trd>,
+    <trd>&iacute;r&oacute;eszk&ouml;z&ouml;k</trd>
+  </trdgrp>
+  <trd lng="ja">&#25991;&#x623F;&#20855;  <pr>&#12406;&#12435;&#x307C;&#12358;&#12368;</pr></trd>
+  <trd lng="nl">pennenzak</trd>
+  <trd lng="pl">pi&oacute;rnik</trd>
+  <trd lng="ro">creion caz</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_i;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y;&c_je;
+    &c_p;&c_r;&c_i;&c_n;&c_a;&c_d;&c_l;&c_je;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_i;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j; &c_p;&c_r;&c_i;&c_b;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">p&iacute;sacie potreby</trd>
+  <trd lng="uk">&c_p;&c_i;&c_s;&c_mol;&c_m;&c_o;&c_v;&c_je;
+  &c_p;&c_r;&c_i;&c_l;&c_a;&c_d;&c_d;&c_ja;</trd>
+</drv>
+
+<drv mrk="skrib.0isto">
+  <kap><ofc>*</ofc><tld/>isto</kap>
+  <snc mrk="skrib.0isto.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Homo, kies profesio estas <tld/>i a&ubreve; trans<tld/>i:
+      <ekz>
+        <tld/>isto simple transskribas paperojn
+        <fnt><bib>F</bib>, <lok>&FE; 37</lok></fnt>.
+      </ekz>
+      <ekz>
+        venadis <tld/>isto de la re&gcirc;o kaj la &ccirc;efpastro, kaj ili
+        kunligadis kaj kalkuladis la monon
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 12:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la urbo<tld/>isto kvietigis la amason
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 19:35</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Pentuer</nom>, pastro kaj <tld/>isto de l' ministro
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_ib;&c_s;&c_a;&c_r;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_p;&c_ib;&c_s;&c_ch;&c_y;&c_k;</trd>
+  </trdgrp>
+  <trd lng="cs">p&iacute;sa&rcaron;</trd>
+  <trdgrp lng="de">
+    <trd>Schreiber</trd>,
+    <trd>Berufsschreiber</trd>,
+    <trd/>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>copyist<klr> (profession)</klr></trd>,
+    <trd>scribe<klr> (profession)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>copista</trd>,
+    <trd>escribiente</trd>,
+    <trd>escriba</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>copiste</trd>,
+    <trd>&eacute;crivain public</trd>,
+    <trd>scribe</trd>
+  </trdgrp>
+  <trd lng="hu">&iacute;rnok</trd>
+  <trd lng="id"><baz>tulis</baz> penulis</trd>
+  <trdgrp lng="it">
+    <trd>copista</trd>,
+    <trd>scrivano</trd>,
+    <trd>scriba</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7B46;&#32789;&#32773;  <pr>&#12402;&#12387;&#12371;&#12358;&#12375;&#12419;</pr></trd>,
+    <trd>&#x66F8;&#x8A18;  <pr>&#12375;&#12423;&#x304D;</pr></trd>,
+    <trd>&#x4EE3;&#x66F8;&#x4EBA;  <pr>&#12384;&#12356;&#12375;&#12423;&#x306B;&#12435;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>schrijver</trd>,
+    <trd>typist</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>skryba</trd>,
+    <trd>sofer</trd>,
+    <trd>pisarz</trd>
+  </trdgrp>
+  <trd lng="ro">scrib</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_i;&c_s;&c_je;&c_c;</trd>,
+    <trd>&c_p;&c_i;&c_s;&c_a;&c_r;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">pis&aacute;r</trd>
+  <trd lng="sv">skrivare<klr> (yrke)</klr></trd>
+  <trd lng="th">&#xE2D;&#xE32;&#xE25;&#xE31;&#xE01;&#xE29;&#xE13;&#xE4C;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_i;&c_s;&c_u;&c_v;&c_a;&c_ch;</trd>,
+    <trd>&c_p;&c_i;&c_s;&c_a;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.al0i">
+  <kap>al<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="skrib.al0i.skribi">
+    <dif>
+      Sendi, havigi <tld/>a&jcirc;on al:
+      <ekz>
+        li al<tld/>is la urbestraron
+        <fnt>
+          <aut>Milokula Kato</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/57082/208788">
+          Tro Elspeziga Blogado</url></vrk>,
+          <lok>2009-12-03</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">anschreiben</trd>
+    <trd lng="en">write to</trd>
+    <trd lng="es">escribir a</trd>
+    <trd lng="fr">&eacute;crire &agrave;<klr> (qqun)</klr></trd>
+  </snc>
+  <snc mrk="skrib.al0i.atribui">
+    <dif>
+      Rigardi kiel respondeca pri, apartena, koncerna pri;
+      <ref tip="vid" cel="jugx.al0i">alju&gcirc;i</ref>;
+      <ref tip="vid" cel="atribu.0i">atribui</ref>:
+      <ekz>
+        mia religio mi nomas tiun religion, en kiu mi naski&gcirc;is, a&ubreve; al
+        kiu mi estas oficiale al<tld/>ita
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        verko, kiun, ekde &gcirc;ia malkovro (okazinta en 1976), oni
+        al<tld/>is al
+        iu malfrua sekvanto de Karava&gcirc;o, sed ne al la majstro mem
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/010954.php">La
+          testamento de Karava&gcirc;o</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la popolamaso <klr>[&#8230;]</klr> al<tld/>as al &ccirc;io tio
+        precipan, misteran por &gcirc;i kaj gravan signifon
+        <fnt>
+         <aut>L. N. Tolstoj, trad. I. Ma&ccirc;ernis</aut>,
+         <vrk><url ref="http://cindymckee.com/librejo/TOLSTOJ_Kristanismo_kaj_patriotismo.pdf">
+         Kristanismo kaj Patriotismo</url></vrk>,
+         <lok>1931</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">zuschreiben</trd>
+    <trd lng="en">ascribe<klr> (tr)</klr></trd>
+    <trd lng="es">imputar</trd>
+    <trd lng="fr">imputer</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">p&rcaron;ipsat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x66F8;&#x304D;&#x8DB3;&#12377;  <pr>&#x304B;&#x304D;&#x305F;&#12377;</pr></trd>,
+    <trd>&#x66F8;&#x304D;&#x52A0;&#12360;&#x308B;
+    <pr>&#x304B;&#x304D;&#x304F;&#x308F;&#12360;&#x308B;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#x306E;&#x305B;&#12356;&#x306B;&#12377;&#x308B;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dopisa&cacute;</trd>,
+    <trd>dopisywa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>ad&abreve;uga&#x21B;i</trd>,
+    <trd>spune un</trd>
+  </trdgrp>
+  <trd lng="sk">prip&iacute;sa&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_p;&c_i;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i; (&c_d;&c_o;
+    &c_o;&c_r;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_c;&c_ib;&c_ji; &c_ib; &c_t;.&c_p;.)</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_p;&c_i;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;
+    (&c_a;&c_v;&c_t;&c_o;&c_r;&c_s;&c_t;&c_v;&c_o; &c_ib; &c_t;.&c_p;.)</trd>,
+    <trd>&c_d;&c_o;&c_p;&c_i;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.bel0ado">
+  <kap>bel<tld/>ado</kap>
+  <snc mrk="skrib.bel0ado.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      <ref tip="lst" cel="art.bel0o.BELA" lst="voko:artoj">Belarto</ref>
+      de <tld/>ado, precipe de man<tld/>ado;
+      <ref tip="sin" cel="kaligrafi.0o.BELA">kaligrafio</ref>:
+      <ekz>
+        li donas lecionojn de bel<tld/>ado
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bel<tld/>o i&gcirc;is <klr>[&#8230;]</klr> inspira fonto de profesiuloj de
+        literfasono kaj grafikarto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=52696">E&ubreve;ropa
+          kaligrafio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_l;&c_ib;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_g;&c_o;&c_zh;&c_a;&c_p;&c_ib;&c_s;</trd>
+  </trdgrp>
+  <trd lng="cs">kaligrafie</trd>
+  <trdgrp lng="de">
+    <trd>Kalligraphie</trd>,
+    <trd>Sch&ouml;nschrift</trd>
+  </trdgrp>
+  <trd lng="en">calligraphy</trd>
+  <trd lng="es">caligraf&iacute;a</trd>
+  <trd lng="fr">calligraphie</trd>
+  <trd lng="id">kaligrafi</trd>
+  <trd lng="it">calligrafia<klr> (bella scrittura)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x80FD;&#x66F8;&#x6CD5;  <pr>&#x306E;&#12358;&#12375;&#12423;&#x307B;&#12358;</pr></trd>,
+    <trd>&#x66F8;&#36947;  <pr>&#12375;&#12423;&#12393;&#12358;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kaligrafia</trd>,
+    <trd>pismo pi&eogonek;kne</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>caligrafie</trd>,
+    <trd>frumos scris</trd>
+  </trdgrp>
+  <trd lng="sk">krasopis</trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_a;&c_l;&c_ib;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_s;&c_n;&c_o;&c_p;&c_i;&c_s;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.bel0isto">
+  <kap>bel<tld/>isto</kap>
+  <snc mrk="skrib.bel0isto.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Homo kapabla pri bel<tld/>ado;
+      <ref tip="sin" cel="kaligraf.0o.BELA">kaligrafo</ref>:
+      <ekz>
+        <nom>Jean Larcher</nom> estas franca bel<tld/>isto naskita en
+        1947
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=125714">Jean
+          Larcher</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        manskriba&jcirc;o de s<klr>injo</klr>ro <nom>Guozhu</nom> estis en
+        stilo flua
+        kaj fluga kiel verko de bel<tld/>isto
+        <fnt>
+        <aut>Harpina</aut>,
+        <vrk>Intervidi&gcirc;o en la hotelo blanka cigno</vrk>,
+        <lok><url ref="http://www.elerno.net/penseo/pen3.htm">Penseo,
+        numero 137a, 2003-02</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_ib;&c_g;&c_r;&c_a;&c_f;</trd>
+  <trd lng="de">Kalligraph</trd>
+  <trd lng="en">calligrapher</trd>
+  <trd lng="es">cal&iacute;grafo</trd>
+  <trd lng="fr">calligraphe</trd>
+  <trd lng="id">kaligraf</trd>
+  <trd lng="it">calligrafo<klr> (di bella scrittura)</klr></trd>
+  <trd lng="pl">kaligraf</trd>
+  <trd lng="ro">caligraf</trd>
+</drv>
+
+<drv mrk="skrib.cxirkaux0i">
+  <kap><ofc>*</ofc>&ccirc;irka&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="skrib.cxirkaux0i.KOMUNE">
+    <dif>
+      Marki limojn &ccirc;irka&ubreve; io; enfermi en limojn:
+      <ekz>
+        &ccirc;irka&ubreve;<tld/>i temon, ser&ccirc;on;
+      </ekz>
+      <ekz>
+        la supraj kriteriaroj estas <klr>[&#8230;]</klr> nesufi&ccirc;e precizaj
+        <klr>[&#8230;]</klr> por difini proverbon, <klr>[&#8230;]</klr> ni
+        tamen studos la proverbojn de la vidpunkto de iliaj formaj
+        specifa&jcirc;oj,
+        kio helpu &ccirc;irka&ubreve;<tld/>i la demandon
+        <fnt>
+          <aut>Marc Bavant</aut>
+          <vrk><url ref="https://www.academia.edu/7296327/Proverboj_uzoj_kaj_interpretoj">Proverboj:
+
+           uzoj kaj interpretoj</url></vrk>
+          <lok>Analizo de Fiedler</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         multaj fakuloj klopodis &ccirc;irka&ubreve;<tld/>i, el negativa vidpunkto,
+         la semantikan spektron de tiu koncepto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=428630">Filozofio de la
+          religio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">umrei&szlig;en</trd>
+    <trd lng="en">circumscribe<klr> (tr, to limit)</klr></trd>
+    <trd lng="es">circunscribir</trd>
+    <trd lng="fr">circonscrire</trd>
+    <trd lng="hu">k&ouml;r&uuml;l&iacute;r</trd>
+  </snc>
+  <snc mrk="skrib.cxirkaux0i.per_aliaj_vortoj">
+    <dif>
+       Priskribi ion per aliaj vortoj, kiam mankas a&ubreve; estu prisilentita
+       (ekzemple en enigmo) preciza esprimo:
+      <ekz>
+        la vorto &leftquot;<nac>afo&scirc;&eacute;</nac>&rightquot; devenas el la joruba lingvo kaj
+        konsistas el
+        tri vortoj <klr>[&#8230;]</klr>, oni povus &ccirc;irka&ubreve;<tld/>i &gcirc;in per la
+        vortoj &leftquot;la eldirita fari&gcirc;as faro&rightquot;
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=520480">Karnavalo en
+          Salvador de Bahio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">umschreiben</trd>
+    <trdgrp lng="en">
+      <trd>describe<klr> (tr, without using the word being described)</klr></trd>,
+      <trd>paraphrase<klr> (tr)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="skrib.cxirkaux0i.cxiuflanke">
+    <uzo tip="stl">RAR</uzo>
+    <dif>
+      <tld lit="S"/>i &ccirc;iudirekten:
+      <ekz>
+        anta&ubreve; li estas kelkaj libroj en la germana lingvo,
+        aro da skiza&jcirc;oj, &ccirc;irka&ubreve;<tld/>itaj folioj da papero
+        <fnt><bib>Metrop</bib>, <lok>&ccirc;apitro 1a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">&uuml;berall <ind>beschreiben</ind></trd>
+    <trd lng="en">write<klr> (tr, in all directions)</klr></trd>
+    <trd lng="hu">k&ouml;rbe&iacute;r</trd>
+  </snc>
+  <snc mrk="skrib.cxirkaux0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <dif>
+      Trovi <ref cel="figur.geometria0o">geometrian figuron</ref>
+      desegneblan &ccirc;irka&ubreve; dua, tiel ke la dua estu
+      <ref cel="skrib.en0ita">en<tld/>ita</ref> en la unua:
+      <ekz>
+        &ccirc;irka&ubreve;<tld/>i kubon &ccirc;irka&ubreve; sfero.
+      </ekz>
+    </dif>
+    <trd lng="de">einschlie&szlig;en</trd>
+    <trd lng="en">circumscribe<klr> (tr, geometry)</klr></trd>
+    <trd lng="es">circunscribir</trd>
+    <trd lng="fr">circonscrire</trd>
+    <trd lng="hu">k&ouml;r&eacute;je rajzol</trd>
+    <trdgrp lng="pl">
+      <trd>opisa&cacute;</trd>,
+      <trd>opisywa&cacute;</trd>
+    </trdgrp>
+    <trd lng="ro">descrie</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="it">circoscrivere</trd>
+  <trd lng="ru">&c_o;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="uk">&c_o;&c_p;&c_i;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="skrib.cxirkaux0ita">
+  <kap>&ccirc;irka&ubreve;<tld/>ita</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib>, <lok>p. 18</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(p.p.
+      <ref cel="figur.geometria0o">geometria figuro</ref> rilate
+      al alia)</klr>
+      Tia, ke la dua figuro estas <ref cel="skrib.en0ita">en<tld/>ita</ref>
+      en la unua:
+      <ekz>
+        la&ubreve; en<tld/>itaj kaj &ccirc;irka&ubreve;<tld/>itaj plurlateroj en cirklo,
+        <klr>[Arkimedo]</klr> povis kalkuli la valoron de &pi; inter
+        3+10/71 kaj 3+1/7
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=151">Arkimedo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_ib;&c_s;&c_a;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>umbeschrieben</trd>,
+    <trd>eingeschlossen</trd>
+  </trdgrp>
+  <trd lng="en">circumscribed<klr> (adj)</klr></trd>
+  <trd lng="es">circunscrito</trd>
+  <trd lng="fr">circonscrit<klr tip="ind">
+  (en p. d'une figure dans une autre)</klr></trd>
+  <trd lng="hu">k&ouml;rberajzolt</trd>
+  <trd lng="it">circoscritto</trd>
+  <trd lng="pl">opisany</trd>
+  <trd lng="ro">descris</trd>
+  <trd lng="ru">&c_o;&c_p;&c_i;&c_s;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="skrib.en0i">
+  <kap>en<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="skrib.en0i.KOMUNE">
+    <dif>
+      <tld lit="S"/>e meti en ion:
+      <ekz>
+        li ne estis en<tld/>ita en la genealogian liston kiel
+        unuenaskito;
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Kroniko 5:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en Via libro estis en<tld/>itaj &ccirc;iuj tagoj destinitaj
+        <fnt><bib>MT</bib>, <lok>&Psa; 139:16</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        glore en<tld/>i sian nomon en la historion
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista
+          en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiom kostas <ind>en<tld/>i&gcirc;o en la universitato</ind> kaj &ccirc;u mi
+        povus ricevi stipendion
+       <fnt>
+          <aut>Spomenka &Scaron;timec</aut>
+          <vrk><url ref="&Monato;/1993/A931201.php">Saluton el Absurdistano</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/12, p. 9</lok>
+        </fnt>.
+        <trd lng="de">Immatrikulation</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gravur.0i">gravuri</ref>,
+      <ref cel="regist.0i">registri</ref>,
+      <ref cel="stamp.0i">stampi</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>einschreiben</trd>,
+      <trd>eintragen</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>be&iacute;r</trd>,
+      <trd>bejegyez</trd>
+    </trdgrp>
+    <trd lng="it">iscrivere</trd>
+    <trd lng="nl">bijschrijven</trd>
+    <trd lng="pl">wpisywa&cacute;</trd>
+  </snc>
+  <snc mrk="skrib.en0i.registri">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Registri kiel &scirc;uldon a&ubreve; bonhavon:
+      <ekz>
+        volu akcepti &gcirc;in kiel &gcirc;ustan kaj en<tld/>i la sumon en nian
+        krediton
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        esti bone en<tld/>ita &ccirc;e iu
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="it">iscrivere</trd>
+    <trd lng="pl">zapisywa&cacute;</trd>
+  </snc>
+  <snc mrk="skrib.en0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <dif>
+      Trovi la plej grandan
+      <ref cel="figur.geometria0o">geometrian figuron</ref> de unu tipo,
+      kiun eblas desegni ene de figuro de dua tipo:
+      <ekz>
+        en<tld/>i plurlateron en cirklo(n), sferon en piramido(n).
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="skrib.cxirkaux0i">&ccirc;irka&ubreve;<tld/>i</ref>.
+    </refgrp>
+    <rim>
+      Por doni precizan difinon necesas konsideri la du apartajn
+      tipojn de figuro. Vd
+      <refgrp tip="vid">
+        <ref cel="skrib.en0ita">en<tld/>ita</ref>.
+      </refgrp>
+    </rim>
+    <trdgrp lng="de">
+      <trd>einbeschreiben</trd>
+    </trdgrp>
+    <trd lng="hu">berajzol</trd>
+    <trd lng="it">inscrivere</trd>
+    <trd lng="pl">wpisa&cacute;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">zaznamenat <klr>(do n&ecaron;&ccaron;eho)</klr></trd>
+  <trd lng="en">inscribe<klr> (tr)</klr></trd>
+  <trd lng="es">inscribir</trd>
+  <trd lng="fr">inscrire</trd>
+  <trdgrp lng="ja">
+    <trd>&#x66F8;&#x304D;&#x8FBC;&#12416;  <pr>&#x304B;&#x304D;&#12371;&#12416;</pr></trd>,
+    <trd>&#x8A18;&#20837;&#12377;&#x308B;  <pr>&#x304D;&#x306B;&#12421;&#12358;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x767B;&#x8A18;&#12377;&#x308B;  <pr>&#12392;&#12358;&#x304D;&#12377;&#x308B;</pr></trd>,
+    <trd>&#20869;&#x63A5;&#12373;&#x305B;&#x308B;  <pr>&#x306A;&#12356;&#x305B;&#12387;&#12373;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>introduce&#x21B;i</trd>,
+    <trd>salva&#x21B;i</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">zaznamena&tcaron;</trd>
+  <trd lng="uk">&c_v;&c_p;&c_i;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="skrib.en0igxi">
+  <kap>
+    en<tld/>i&gcirc;i
+  </kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="skrib.en0igxi.KOMUNE">
+    <dif>
+      En<tld/>i a&ubreve; en<tld/>igi sian nomon, por
+      <ref tip="vid" cel="regist.0igxi.KOMUNE">registri&gcirc;i</ref>,
+      por <ref tip="vid" cel="al.0igxi">ali&gcirc;i</ref>:
+      <ekz>
+        &ccirc;u vi volas en<tld/>i&gcirc;i en la soldataron
+        <fnt>
+          <aut>F. Schiller, trad. L. L. Zamenhof</aut>
+          <vrk>La rabistoj</vrk>
+          <lok>1908</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="en">sign up for<klr> (ntr, with 'en' + acc)</klr></trd>
+  <trd lng="fr">s'<ind>inscrire</ind></trd>
+  <trd lng="ja">&#x767B;&#37682;&#12373;&#x308C;&#x308B;  <pr>&#12392;&#12358;&#x308D;&#x304F;&#12373;&#x308C;&#x308B;</pr></trd>
+</drv>
+
+<drv mrk="skrib.en0ita">
+  <kap>en<tld/>ita</kap>
+  <snc mrk="skrib.en0ita.encirklosfero">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib>, <lok>p. 28</lok></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="later.plur0o">plurlatero</ref> rilate al
+      <ref cel="cirkl.0o.linio">cirklo</ref> a&ubreve;
+      p.p. <ref cel="edr.plur0o">pluredro</ref> rilate al
+      <ref cel="sfer.0o.surfaco">sfero</ref>)</klr>
+      Tia, ke &ccirc;iuj &gcirc;iaj verticoj situas sur la cirklo, a&ubreve;
+      sur la sfero:
+      <ekz>
+        &ccirc;iuj verticoj de en<tld/>ita pluredro situas egaldistance
+        al iu punkto, kiu estas la centro de sfero, en kiu &gcirc;i estas
+        en<tld/>ita.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="skrib.en0ita.enplurlateropluredro">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatStokTerm</bib>, <lok>p. 50</lok></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="cirkl.0o.linio">cirklo</ref> rilate al
+      <ref cel="later.plur0o">plurlatero</ref> a&ubreve; p.p.
+      <ref cel="sfer.0o.surfaco">sfero</ref> rilate al
+      <ref cel="edr.plur0o">pluredro</ref>)</klr>
+      Tia, ke &gcirc;i tan&gcirc;as &ccirc;iujn laterojn de la plurlatero,
+      a&ubreve; &ccirc;iujn facojn de la pluredro:
+      <ekz>
+        por &ccirc;iu triangulo kaj por &ccirc;iu regula plurlatero
+        ekzistas en<tld/>ita cirklo;
+      </ekz>
+      <ekz>
+        por &ccirc;iu kvaredro kaj por &ccirc;iu regula pluredro
+        ekzistas en<tld/>ita sfero;
+      </ekz>
+      <ekz>
+        en geometrio, la en<tld/>ita cirklo de triangulo estas la plej
+        granda cirklo enhavata en la triangulo;
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=237795">Enskribita
+            cirklo kaj alskribitaj cirkloj de triangulo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="skrib.en0ita.enkonusocilindro">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(p.p. <ref cel="sfer.0o.surfaco">sfero</ref> rilate al
+      <ref cel="konus.0o.surfaco">konuso</ref> a&ubreve;
+      <ref cel="cilind.0o.surfaco">cilindro</ref>)</klr>
+      Tia, ke &gcirc;i tan&gcirc;as &ccirc;iujn
+      <ref cel="nask.0anto.rekto">naskantojn</ref> de la dua figuro.
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_p;&c_ib;&c_s;&c_a;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>einbeschrieben</trd>
+  </trdgrp>
+  <trd lng="en">inscribed</trd>
+  <trd lng="es">inscrito</trd>
+  <trdgrp lng="fr">
+    <trd>inscrit<klr tip="ind"> (en p. d'une figure dans une
+    autre)</klr></trd>,
+    <trd>inscriptible<klr tip="ind"> (en p. d'une figure dans une
+    autre)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">berajzolt</trd>
+  <trd lng="it">inscritto</trd>
+  <trd lng="ja">&#20869;&#x63A5;&#12375;&#x305F;  <pr>&#x306A;&#12356;&#x305B;&#12387;&#12375;&#x305F;</pr></trd>
+  <trd lng="pl">wpisany</trd>
+  <trd lng="ro">&icirc;nscris</trd>
+  <trd lng="ru">&c_v;&c_p;&c_i;&c_s;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="skrib.mis0i">
+  <kap>
+    mis<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      Skribi ion mal&gcirc;uste, &ccirc;u ortografie, &ccirc;u enhave:
+      <ekz>
+        okazis mis<tld/>o de iu naski&gcirc;akta oficisto, tiel ke unu parto de la familio
+        fari&gcirc;is Verstrata kaj la alia Verostrata
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la librodorso &leftquot;<nom>Hmeljnickij</nom>&rightquot; estas mis<tld/>ita per malnova
+        ortografio
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 6 (68)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="ortogr.mis0i">misortografii</ref>
+    <refgrp tip="vid">
+      <ref cel="cit.mis0i">misciti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_m;&c_y;&c_l;&c_ja;&c_c;&c_c;&c_a; <klr tip="amb">(&c_n;&c_a;
+    &c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;)</klr></trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_a;&c_p;&c_ib;&c_s;&c_k;&c_u;</ind></trd>
+  </trdgrp>
+  <trd lng="de">verschreiben</trd>
+  <trd lng="en">misscribe<klr> (tr)</klr></trd>
+  <trd lng="id"><ind>salah</ind> tulis</trd>
+</drv>
+
+<drv mrk="skrib.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Distinge kaj vive prezenti ion per vortoj, tiamaniere, ke la
+      a&ubreve;danto a&ubreve; leganto povas &gcirc;in sufi&ccirc;e precize imagi:
+      <ekz>
+        &ccirc;io, kion li faris, kaj lia sa&gcirc;eco estas pri<tld/>itaj en la
+        libro
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Re&gcirc;oj 11:41</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> pri<tld/>is al &scirc;i la vojon, kiun &scirc;i devas iri
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de unu patrino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> rakontis al &scirc;i <klr>[&#8230;]</klr> la teruran
+        krimmortigon,
+        pri<tld/>is al &scirc;i la lokon, kie la frato lin mortigis kaj
+        enterigis lian kadavron
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Elfo de la rozo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li pri<tld/>is al ili la inferon kiel malbonodoran kavernon,
+        en kiun enfluas la tuta malpura&jcirc;o kaj maldelikata&jcirc;o de la tuta
+        mondo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la historio estas vera kaj &gcirc;i estas pri<tld/>ita en itala lingvo
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pri<tld/>ita per kelkaj vortoj
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne eble estas pri<tld/>i a&ubreve; rakonti la impresojn
+        <fnt>
+          <bib>FdO</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li detale pri<tld/>as siajn infanjarojn, la vivon de sia familio
+        <fnt>
+        <aut>J. Modest</aut>,
+        <vrk>Sincere kaj honeste pri si mem</vrk>,
+        <bib>Monato</bib>,
+        <lok>1995:7, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="desegn.0i">desegni</ref>,
+      <ref cel="pentr.0i">pentri</ref>,
+      <ref cel="rakont.0i">rakonti</ref>,
+      <ref cel="skiz.0i">skizi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="af">beskryf</trd>
+  <trd lng="am">&#x12ED;&#x130D;&#4616;&#4921;</trd>
+  <trd lng="ar">&a_w;&a_S;&a_f;</trd>
+  <trd lng="az">t&#601;svir</trd>
+  <trd lng="be">&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bn">&#x9AC;&#x9B0;&#x9CD;&#x9A3;&#x9A8;&#x9BE;</trd>
+  <trd lng="bs">opisuju</trd>
+  <trd lng="co">numaru di</trd>
+  <trdgrp lng="cs">
+    <trd>l&iacute;&ccaron;it</trd>,
+    <trd>popisovat</trd>,
+    <trd>popsat</trd>,
+    <trd>prov&eacute;st popis</trd>,
+    <trd>vyl&iacute;&ccaron;it</trd>
+  </trdgrp>
+  <trd lng="cy">disgrifio</trd>
+  <trd lng="da">beskrive</trd>
+  <trdgrp lng="de">
+    <trd>beschreiben</trd>
+  </trdgrp>
+  <trd lng="en">describe</trd>
+  <trd lng="es">describir</trd>
+  <trd lng="et">kirjeldama</trd>
+  <trd lng="eu">deskribatuko</trd>
+  <trd lng="fr">d&eacute;crire</trd>
+  <trd lng="fy">beskriuwe</trd>
+  <trd lng="ga">cur s&iacute;os a dh&eacute;anamh</trd>
+  <trd lng="gd">a &#8216;m&igrave;neachadh</trd>
+  <trd lng="gl">describir</trd>
+  <trd lng="gu">&#xAB5;&#xAB0;&#xACD;&#xAA3;&#xAA8;</trd>
+  <trd lng="ha">bayyana</trd>
+  <trd lng="hi">&#2357;&#2352;&#x94D;&#2339;&#2344;</trd>
+  <trd lng="hmn">piav qhia txog</trd>
+  <trd lng="hr">opisati</trd>
+  <trd lng="ht">dekri</trd>
+  <trdgrp lng="hu">
+    <trd>le&iacute;r</trd>,
+    <trd>ismertet</trd>
+  </trdgrp>
+  <trd lng="hy">&#1398;&#x56F;&#1377;&#1408;&#1377;&#1379;&#1408;&#1381;&#x56C;</trd>
+  <trd lng="id">men<ind>deskripsi</ind>kan</trd>
+  <trd lng="ig">k&#x1ECD;waa</trd>
+  <trd lng="is">l&yacute;sa</trd>
+  <trd lng="it">descrivere</trd>
+  <trd lng="ja">&#x8AAC;&#x660E;&#12377;&#x308B; <pr>&#x305B;&#12388;&#12417;&#12356;&#12377;&#x308B;</pr></trd>
+  <trd lng="jv">njl&egrave;ntr&egrave;hak&eacute;</trd>
+  <trd lng="ka">&#x10D0;&#x10E6;&#x10EC;&#x10D4;&#x10E0;&#x10E1;</trd>
+  <trd lng="kk">&c_s;&c_i;&c_p;&c_a;&c_t;&c_t;&c_a;&c_u;</trd>
+  <trd lng="km">&#6038;&#x17B7;&#6038;&#x178E;&#x17CC;&#6035;&#x17B6;</trd>
+  <trd lng="kn">&#xCB5;&#xCBF;&#xCB5;&#xCB0;&#xCBF;&#xCB8;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xC124;&#xBA85;</trd>
+  <trd lng="ku">ter&icirc;fkirin</trd>
+  <trd lng="ky">&c_b;&c_a;&c_ja;&c_n;&c_d;&c_o;&c_o;</trd>
+  <trd lng="lat">describere</trd>
+  <trd lng="lo">&#xEAD;&#xEB0;&#xE97;&#xEB4;&#xE9A;&#xEB2;&#xE8D;</trd>
+  <trd lng="lt">apib&#x163B;dinti</trd>
+  <trd lng="lv">aprakst&#299;t</trd>
+  <trd lng="mg">mamaritra</trd>
+  <trd lng="mi">whakaahua</trd>
+  <trd lng="mk">&c_o;&c_p;&c_i;&c_sh;&c_je;</trd>
+  <trd lng="ml">&#xD35;&#xD3F;&#xD35;&#xD30;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_t;&c_a;&c_j;&c_l;&c_b;&c_a;&c_r;&c_l;&c_a;&c_h;</trd>
+  <trd lng="mr">&#2357;&#2352;&#x94D;&#2339;&#2344;</trd>
+  <trd lng="ms">menggambarkan</trd>
+  <trd lng="mt">jiddeskrivu</trd>
+  <trd lng="my">&#4118;&#4145;&#x102B;&#x103A;&#4117;&#x103C;</trd>
+  <trd lng="ne">&#2357;&#2352;&#x94D;&#2339;&#2344;</trd>
+  <trdgrp lng="nl">
+    <trd>beschrijven</trd>,
+    <trd>omschrijven</trd>
+  </trdgrp>
+  <trd lng="ny">pofotokoza</trd>
+  <trd lng="pa">&#xA26;&#xA3E; &#xA35;&#xA30;&#xA23;&#xA28;</trd>
+  <trd lng="pl">opisa&cacute;</trd>
+  <trd lng="ps">&a_t;&a_sh;&a_r;&f_y;&a_H;</trd>
+  <trd lng="ro">descrie</trd>
+  <trd lng="ru">&c_o;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="rw">sobanura</trd>
+  <trd lng="sd">&a_b;&a_y;&a_A;&a_n;</trd>
+  <trd lng="si">&#xDC0;&#xDD2;&#xDC3;&#xDCA;&#xDAD;&#xDBB;</trd>
+  <trd lng="sk">pop&iacute;sa&tcaron;</trd>
+  <trd lng="sl">opisati</trd>
+  <trd lng="sm">fa&#x2BB;amatala</trd>
+  <trd lng="sn">tsanangura</trd>
+  <trd lng="so">qeexaan</trd>
+  <trd lng="sq">p&euml;rshkruajn&euml;</trd>
+  <trd lng="st">hlalosa</trd>
+  <trd lng="su">ngagambarkeun</trd>
+  <trd lng="sv">beskriva</trd>
+  <trd lng="sw">kuelezea</trd>
+  <trd lng="ta">&#xBB5;&#xBBF;&#xBB5;&#xBB0;&#xBBF;&#xB95;&#xBCD;&#xB95;</trd>
+  <trd
+  lng="te">&#xC35;&#xC30;&#xC4D;&#xC23;&#xC3F;&#xC02;&#xC1A;&#xC47;&#xC02;&#xC26;&#xC41;&#xC15;&#xC41;</trd>
+  <trd lng="tg">&c_t;&c_a;&c_s;&c_v;&c_i;&c_r; &c_k;&c_a;&c_r;&c_d;&c_a;&c_n;</trd>
+  <trd lng="th">&#xE2D;&#xE18;&#xE34;&#xE1A;&#xE32;&#xE22;</trd>
+  <trd lng="tl">ilarawan</trd>
+  <trd lng="tt">&c_t;&c_a;&c_s;&c_v;&c_i;&c_r;&c_l;&c_a;</trd>
+  <trd lng="uk">&c_o;&c_p;&c_i;&c_s;&c_a;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_w;&a_D;&a_A;&a_H;&a_t;</trd>
+  <trd lng="uz">tasvirlab</trd>
+  <trd lng="vi">m&ocirc; t&#x1EA3;</trd>
+  <trd lng="xh">chaza</trd>
+  <trd lng="yi">&bet;&alef;&#x5B7;&shin;&resh;&yod;&yod;&#x5B7;&bet;&fnun;</trd>
+  <trd lng="yo">apejuwe</trd>
+  <trd lng="zu">uchaze</trd>
+</drv>
+
+<drv mrk="skrib.post0o">
+  <kap>post<tld/>o</kap>
+  <snc>
+    <dif>
+      Noto, aldonita fine de letero, post la sub<tld/>o:
+      <ekz>
+        tion &scirc;i mem propramane aldonis en post<tld/>o,
+        en kiu ankora&ubreve; estis dirite: &leftquot;Amikan saluton al
+        <nom>Knut</nom>!&rightquot;
+        <fnt><bib>Fab3</bib>, <lok>sub la saliko</lok></fnt>;
+      </ekz>
+      <ekz>
+        al &ccirc;i tiu mallonga biografio mi povas aldoni personan
+        post<tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2007/009181.php">Nekonata
+          genio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; la klarigoj, alportitaj de du gravaj post<tld/>oj, li
+        apartenas al
+        generacio de talentaj verkistoj, forpasintaj tro frue pro la
+        sama ka&ubreve;zo: tuberkulozo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marcel Lemeltier</aut>
+          <vrk><url ref="&Monato;/2012/010235.php">&Ccirc;u
+          forgesita trezoro?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_p;&c_ib;&c_s;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_t;&c_s;&c_k;&c_r;&c_y;&c_p;&c_t;&c_u;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Nachwort</trd>,
+    <trd>Schlussbemerkung</trd>,
+    <trd>Postskriptum</trd>
+  </trdgrp>
+  <trd lng="en">postscript</trd>
+  <trd lng="es">posdata</trd>
+  <trd lng="fr">post-scriptum</trd>
+  <trd lng="hu">ut&oacute;irat</trd>
+  <trdgrp lng="id">
+    <trd>notabene</trd>,
+    <trd>N.B.</trd>
+  </trdgrp>
+  <trd lng="it">post scriptum</trd>
+  <trdgrp lng="ja">
+    <trd>&#12354;&#12392;&#x304C;&#x304D;</trd>,
+    <trd>&#x8FFD;&#x4F38;  <pr>&#12388;&#12356;&#12375;&#12435;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dopisek</trd>,
+    <trd>postscriptum <klr> (PS)</klr> </trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>not&abreve;</trd>,
+    <trd>postscript <klr> (ps)</klr> </trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_s;&c_t;&c_s;&c_k;&c_r;&c_i;&c_p;&c_t;&c_u;&c_m;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_p;&c_i;&c_s;&c_k;&c_a;<klr tip="amb">
+(&c_k; &c_p;&c_i;&c_s;&c_mol;&c_m;&c_u;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">dodatok <klr>(v liste)</klr></trd>
+  <trdgrp lng="sv">
+    <trd>efterskrift</trd>,
+    <trd>post scriptum</trd>
+  </trdgrp>
+  <trdgrp lng="th">
+    <trd>&#xE1B;&#xE31;&#xE08;&#xE09;&#xE34;&#xE21;&#xE25;&#xE34;&#xE02;&#xE34;&#xE15;</trd>,
+    <trd>&#xE1B;.&#xE25;.</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_s;&c_t;&c_s;&c_k;&c_r;&c_i;&c_p;&c_t;&c_u;&c_m;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_p;&c_i;&c_s;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.sub0i">
+  <kap>sub<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="skrib.sub0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <tld lit="S"/>i sian nomon sub io por montri sian a&ubreve;torecon
+      a&ubreve; sian aprobon:
+      <ekz>
+        la re&gcirc;o Dario sub<tld/>is la dekreton
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 6:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sub<tld/>i per sia nomo dokumenton
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        du leterojn skribis al si reciproke <nom>Ib</nom> kaj Kristino, kaj &ccirc;iu el
+        ili estis sub<tld/>ita: fidela &gcirc;is la morto
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Ib kaj malgranda kristino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hilelisto mi nomas &ccirc;iun homon, kiu sub<tld/>is la &leftquot;Deklaracion
+        de Hilelisto&rightquot;
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tuta verko estis sub<tld/>ita per belsenca pse&ubreve;donimo:
+        &leftquot;Doktoro Esperanto&rightquot;
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en 1948 multaj landoj <klr>[&#8230;]</klr> sub<tld/>is la Deklaracion
+        de Homaj Rajtoj
+        <fnt>
+        <aut>M. McKay</aut>,
+        <vrk>Pri libroj ... kaj pri braceletoj</vrk>,
+        <bib>Monato</bib>,
+        <lok>1998:5, p. 10a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="paraf.0o">parafo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bo">&t_sa;&t_tsheg;&t_ya;&t_gigu;&t_ga;&t_tsheg;&t_ra;&t_gata;&t_yata;&t_ga;&t_tsheg;</trd>
+  <trd lng="cs">podepsat</trd>
+  <trdgrp lng="de">
+    <trd>unterschreiben</trd>,
+    <trd>unterzeichnen</trd>
+  </trdgrp>
+  <trd lng="en">sign <klr>(one's name)</klr></trd>
+  <trdgrp lng="es">
+    <trd>firmar<klr tip="ind"> (por ej. un contrato)</klr></trd>,
+    <trd>subscribir</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>signer<klr tip="ind"> (par ex. un contrat)</klr></trd>,
+    <trd>souscrire</trd>
+  </trdgrp>
+  <trd lng="hu">al&aacute;&iacute;r</trd>
+  <trdgrp lng="id">
+    <trd><baz>tanda tangan</baz>menandatangani</trd>,
+    <trd>teken</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>firmare</trd>, <trd>sottoscrivere</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7F72;&#x540D;&#12377;&#x308B;  <pr>&#12375;&#12423;&#12417;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x4E0B;&#x306B;&#x66F8;&#x304F;  <pr>&#12375;&#x305F;&#x306B;&#x304B;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">ondertekenen</trd>
+  <trd lng="pl">podpisa&cacute;</trd>
+  <trd lng="ro">semn</trd>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">podp&iacute;sa&tcaron;</trd>
+  <trdgrp lng="sv">
+    <trd>underteckna</trd>,
+    <trd>skriva under</trd>
+  </trdgrp>
+  <trdgrp lng="th">
+    <trd>&#xE25;&#xE07;&#xE25;&#xE32;&#xE22;&#xE21;&#xE37;&#xE2D;&#xE0A;&#xE37;&#xE48;&#xE2D;</trd>,
+    <trd>&#xE40;&#xE0B;&#xE47;&#xE19;&#xE0A;&#xE37;&#xE48;&#xE2D;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_ib;&c_d;&c_p;&c_i;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_i; &c_p;&c_ib;&c_d;&c_p;&c_i;&c_s;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.sub0o">
+  <kap>sub<tld/>o</kap>
+  <snc mrk="skrib.sub0o.JUR">
+    <dif>
+      <tld lit="S"/>a almeto de sia nomo, ordinare malsupre de dokumento
+      a&ubreve; a&jcirc;o, por marki posedon, a&ubreve;tentikon, konsenton:
+      <ekz>
+        pergameno, kovrita per multe da pastraj sigeloj kaj per
+        sub<tld/>oj de la plej eminentaj Fenicianoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i dis&scirc;iris la koverton kaj rigardis la sub<tld/>on, jes, &scirc;ia
+        anta&ubreve;sento ne trompis &scirc;in: la letero estis de li
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="id">
+      <trd>tanda tangan</trd>,
+      <trd><ind>teken</ind>an</trd>
+    </trdgrp>
+    <refgrp tip="vid">
+      <ref cel="sigel.0o">sigelo</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="skrib.sub0o.ato">
+    <dif>
+      La ago sub<tld/>i mem:
+      <ekz>
+        post la sub<tld/>o de sia nomo li fari&gcirc;is tute malfeli&ccirc;a, kiel
+        iu kiu fordonis sian havon kaj siajn rajtojn
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="id">
+      <trd><baz>tanda tangan</baz>penandatanganan</trd>,
+      <trd><baz>teken</baz>tekenan</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="skrib.sub0o.noto">
+    <dif>
+      Titolo a&ubreve; noto <tld/>ita sub koncerna objekto:
+      <ekz>
+        sur la muro pendis granda diverskolora bildo kun la sub<tld/>o:
+        Kongreso de Vieno
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova strata lanterno</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la muro oni vidis la portretojn de la malnovaj urbestroj
+        <klr>[&#8230;]</klr> kun iliaj sub<tld/>oj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_d;&c_p;&c_ib;&c_s;</trd>
+  <trd lng="bo">&t_sa;&t_tsheg;&t_ya;&t_gigu;&t_ga;&t_tsheg;</trd>
+  <trd lng="cs">podpis</trd>
+  <trdgrp lng="de">
+    <trd>Unterschrift</trd>,
+    <trd>Signatur</trd>
+  </trdgrp>
+  <trd lng="en">signature</trd>
+  <trd lng="es">firma</trd>
+  <trdgrp lng="fr">
+    <trd>signature</trd>
+  </trdgrp>
+  <trd lng="hu">al&aacute;&iacute;r&aacute;s</trd>
+  <trd lng="it">firma</trd>
+  <trd lng="ja">&#x7F72;&#x540D;  <pr>&#12375;&#12423;&#12417;&#12356;</pr></trd>
+  <trd lng="nl">handtekening</trd>
+  <trd lng="pl">podpis</trd>
+  <trd lng="ro">semn&abreve;tur&abreve;</trd>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_mol;</trd>
+  <trd lng="sk">podpis</trd>
+  <trd lng="sv">underskrift</trd>
+  <trd lng="uk">&c_p;&c_ib;&c_d;&c_p;&c_i;&c_s;</trd>
+</drv>
+
+<drv mrk="skrib.sur0o">
+  <kap>sur<tld/>o</kap>
+  <snc>
+    <dif>
+      <tld lit="S"/>a&jcirc;o sur objekto a&ubreve; <ref tip="vid" cel="monume.0o">monumento</ref>:
+      <ekz>
+        en tiu momento aperis fingroj de homa mano kaj komencis skribi
+        <klr>[&#8230;]</klr>
+        sur la kalkita muro de la re&gcirc;a salono, kaj la re&gcirc;o
+        <klr>[&#8230;]</klr> diris al la
+        sa&gcirc;uloj de <nom>Babel</nom>: kiu ajn tralegos &ccirc;i tiun sur<tld/>on kaj
+        klarigos al mi &gcirc;ian
+        signifon, tiu <klr>[&#8230;]</klr> estos la tria reganto en la regno
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 5:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la muroj trovi&gcirc;is multe da sur<tld/>oj, el kiuj duono estis
+        direktitaj kontra&ubreve; la bela Italujo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la geedzoj lasis pretigi por si sian tomban &scirc;tonon kun
+        sur<tld/>o
+        kaj nomoj, lasante libera nur la lokon por la jaro de la morto
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Malnova tomba &scirc;tono</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni algluis al &gcirc;i paperon kun la sur<tld/>o: unuaranga kvalito
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kolo de botelo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fragmento de &scirc;tono kun hebrea sur<tld/>o
+        <fnt>
+        <aut>A. Taylor Szrajbman</aut>,
+        <vrk>Kadi&scirc; por Jedwabne (2)</vrk>,
+        <bib>Monato</bib>,
+        <lok>2002:6, p. 7a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_p;&c_ib;&c_s;</trd>,
+    <trd>&c_n;&c_a;&c_d;&c_p;&c_ib;&c_s;</trd>
+  </trdgrp>
+  <trd lng="cs">n&aacute;pis</trd>
+  <trdgrp lng="de">
+    <trd>Aufschrift</trd>
+  </trdgrp>
+  <trd lng="en">inscription<klr> (result)</klr></trd>
+  <trdgrp lng="es">
+    <trd>inscripci&oacute;n</trd>,
+    <trd>ep&iacute;grafe</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&eacute;pigraphe<klr tip="ind"> (subst.)</klr></trd>,
+    <trd>inscription</trd>
+  </trdgrp>
+  <trd lng="hu">felirat</trd>
+  <trdgrp lng="id">
+    <trd>epigraf</trd>,
+    <trd>inskripsi</trd>,
+    <trd>piagam</trd>,
+    <trd>prasasti</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>epigrafe</trd>,
+    <trd>iscrizione</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#34920;&#x66F8;&#x304D;  <pr>&#x304A;&#12418;&#12390;&#x304C;&#x304D;</pr></trd>,
+    <trd>&#30865;&#37528;  <pr>&#12402;&#12417;&#12356;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>opschrift</trd>,
+    <trd>grafschrift</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>napis</trd>,
+    <trd>nag&lstroke;&oacute;wek</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>inscrip&#x21B;ie</trd>,
+    <trd>titlu</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_d;&c_p;&c_i;&c_s;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>nadpis</trd>,
+    <trd>n&aacute;pis</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_p;&c_i;&c_s;</trd>,
+    <trd>&c_n;&c_a;&c_d;&c_p;&c_i;&c_s;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.trans0i">
+  <kap><ofc>*</ofc>trans<tld/>i</kap>
+  <snc mrk="skrib.trans0i.kopii">
+    <dif>
+      <ref tip="vid" cel="kopi.0i.tekston">Kopii</ref> tekston en alian
+      dokumenton:
+      <ekz>
+        verkisto verkas librojn, kaj <tld/>isto simple trans<tld/>as
+        paperojn
+        <fnt><bib>F</bib>, <lok>&FE; 37</lok></fnt>.
+      </ekz>
+      <ekz>
+        li trans<tld/>u al si kopion de &ccirc;i tiu instruo en libron
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 17:18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_k;&c_a;&c_p;&c_ib;&c_ja;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_t;&c_e;&c_k;&c_s;&c_t;
+      &c_p;&c_je;&c_r;&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;&c_m;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>&uuml;bertragen</trd>,
+      <trd>umschreiben</trd>,
+      <trd>kopieren</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>copy<klr> (tr)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&aacute;t&iacute;r <klr tip="ind">(vhov&aacute;)</klr></trd>,
+      <trd>&aacute;tm&aacute;sol</trd>,
+      <trd>&aacute;tvezet <klr tip="ind">(dokumentumon)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd><baz>kopi</baz> mengopi</trd>,
+      <trd><baz>salin</baz> menyalin</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>trascrivere</trd>,
+      <trd>copiare</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;<klr tip="amb">
+    (&c_k;&c_u;&c_d;&c_a;-&c_l;.)</klr></trd>
+  </snc>
+  <snc mrk="skrib.trans0i.alisisteme">
+    <dif>
+      Re<tld/>i tekston per alia <tld/>sistemo a&ubreve; ortografio:
+      <ekz>
+        trans<tld/>i &ccirc;inan tekston per latinaj literoj;
+      </ekz>
+      <ekz>
+        trans<tld/>i anglan vorton per la Internacia Alfabeto Fonetika;
+      </ekz>
+      <ekz>
+        la titolpa&gcirc;o de ege rara kaj antikva biblio en la gaela lingvo
+        <klr>[&#8230;]</klr> trans<tld/>ita el la irlanda tiparo al la
+        legeblaj romiaj minuskloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2006/008950.php">Ne
+          irlandgaela, sed skotgaela</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        signalojn samtempe senditajn de la du sondiloj la&ubreve;longe de sia
+        voja&gcirc;o, li poste
+        <klr>[&#8230;]</klr> per komputila programo <klr>[&#8230;]</klr> sukcesis
+        trans<tld/>i <klr>[&#8230;]</klr>
+        sen modifi a&ubreve; aldoni ion, kiel <klr>[&#8230;]</klr> muziko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paulo S&eacute;rgio Viana</aut>
+          <vrk><url ref="&Monato;/2014/011273.php">A&ubreve;skultu
+
+          simfonion, a&ubreve;skultu la universon</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_k;&c_r;&c_y;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">transkribieren</trd>
+    <trdgrp lng="en">
+      <trd>transcribe<klr> (tr)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>trascrivere</trd>,
+      <trd>traslitterare</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>opsat</trd>,
+    <trd>p&rcaron;epsat</trd>
+  </trdgrp>
+  <trd lng="es">transcribir</trd>
+  <trdgrp lng="fr">
+    <trd>transcrire</trd>
+  </trdgrp>
+  <trd lng="hu">&aacute;t&iacute;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8EE2;&#x8A18;&#12377;&#x308B;  <pr>&#12390;&#12435;&#x304D;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x66F8;&#x304D;&#20889;&#12377;  <pr>&#x304B;&#x304D;&#12358;&#12388;&#12377;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">overschrijven</trd>
+  <trdgrp lng="pl">
+    <trd>wypisa&cacute;</trd>,
+    <trd>przepisa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>dezabona&#x21B;i</trd>,
+    <trd>rescrie&#x21B;i</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_l;&c_i;&c_t;&c_je;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;<klr>
+(alilingven)</klr></trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_k;&c_r;&c_i;&c_b;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;<klr>
+(fonetike)</klr></trd>,
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kop&iacute;rova&tcaron;</trd>,
+    <trd>prep&iacute;sa&tcaron;</trd>
+  </trdgrp>
+  <trd lng="th">&#xE16;&#xE2D;&#xE14;&#xE2D;&#xE31;&#xE01;&#xE29;&#xE23;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_i;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;
+    (&c_k;&c_o;&c_p;&c_ib;&c_ju;&c_v;&c_a;&c_t;&c_i;)</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_k;&c_r;&c_i;&c_b;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrib.plugo0o">
+  <kap>plugo<tld/>o</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc mrk="skrib.plugo0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Antikva
+      <ref tip="super" cel="manier.skrib0o.sistemo">skribmaniero</ref>,
+      &ccirc;e kiu la parnumeraj linioj havas
+      kontra&ubreve;an direkton ol la neparnumeraj, simile al la sulkoj
+      de kamparano pluganta sian kampon:
+      <ekz>
+        <ind>plugo<tld/>ado</ind>n praktikis prakritanoj, &hcirc;etidoj,
+        etruskoj k.a.;
+        <trd lng="es">bustrofedon</trd>
+        <trd lng="fr">boustroph&eacute;don</trd>
+        <trd lng="grc">&beta;&omikron;&ypsilon;&sigma;&tau;&rho;&omikron;&phi;&eta;&delta;&omikron_ton;&ny;</trd>
+        <trdgrp lng="hu">
+          <trd>busztrofedon</trd>,
+          <trd>megt&eacute;r&odblac; <ind>&iacute;r&aacute;s</ind></trd>
+        </trdgrp>
+        <trd lng="nl">ploegschrift</trd>
+        <trd lng="ru">&c_b;&c_u;&c_s;&c_t;&c_r;&c_o;&c_f;&c_je;&c_d;&c_o;&c_n;</trd>
+      </ekz>
+      <ekz>
+        en plugo<tld/>a&jcirc;o alterni&gcirc;as la linioj dedekstraj kaj la
+        demaldekstraj, a&ubreve; (malpli ofte) desupraj kaj desubaj.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_b;&c_u;&c_s;&c_t;&c_r;&c_a;&c_f;&c_e;&c_d;&c_o;&c_n;</trd>
+    <trdgrp lng="de">
+      <trd>Bustrophedon</trd>,
+      <trd>Pflugschrift</trd>
+    </trdgrp>
+    <trd lng="en">boustrophedon</trd>
+    <trdgrp lng="es">
+      <trd>escribir en <ind>bustrofedon</ind></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>&eacute;crire en <ind>boustroph&eacute;don</ind></trd>
+    </trdgrp>
+    <trd lng="hu">v&aacute;ltakoz&oacute; ir&aacute;nyban <ind>&iacute;r</ind></trd>
+    <trd lng="it">scrittura <ind>bustrofedica</ind></trd>
+    <trd lng="nl">in <ind>ploegschrift</ind> schrijven</trd>
+    <trd lng="pl">zapisa&cacute; jako bustrofedon</trd>
+    <trd lng="ro">scrie bustrofedon</trd>
+    <trd lng="ru">&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;
+    <ind>&c_b;&c_u;&c_s;&c_t;&c_r;&c_o;&c_f;&c_je;&c_d;&c_o;&c_n;&c_o;&c_m;</ind></trd>
+  </snc>
+  <rim>
+    Tiun vorton mi trovis nur en vortaroj. La greka
+    &leftquot;<nac>&beta;&omikron;&ypsilon;&sigma;&tau;&rho;&omikron;&phi;&eta;&delta;&omikron_ton;&ny;</nac>&rightquot;
+    la&ubreve;vorte traduki&gcirc;as kiel &leftquot;bovoturna&rightquot;. Majstro proponas
+    la&ubreve;greke
+    &leftquot;bustrofedono&rightquot;.
+    Vikipedio donas &leftquot;plugo<tld/>ado&rightquot; kaj &leftquot;tienreena <tld/>o&rightquot;.
+    <aut>Wolfram Diestel</aut>
+  </rim>
+</drv>
+
+<drv mrk="skrib.SanktaS0o">
+  <kap>Sankta <tld lit="S"/>o</kap>
+  <snc mrk="skrib.SanktaS0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Verko, kiun religia grupo rigardas die inspirita:
+      <ekz>
+        la&ubreve;te li proklamis la vortojn de la Sankta <tld lit="S"/>o
+        <fnt><bib>Fab4</bib>, <lok>Filino de la mar&ccirc;a
+        re&gcirc;o</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi estas bakala&ubreve;ro de la Sankta <tld lit="S"/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Duakanonaj libroj estas verkoj, kiujn la hebrea Biblio ne
+        agnoskas,
+        sed kiujn la romkatolikoj atribuas tamen al la Sankta <tld lit="S"/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2003/008024.html">La
+          Biblio nun estas (preska&ubreve;) kompleta</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">die <ind>Heilige Schrift</ind></trd>
+  </snc>
+  <trdgrp lng="en">
+    <trd>Scripture</trd>,
+    <trd>Holy Scripture</trd>,
+    <trd>Holy Writ</trd>
+  </trdgrp>
+  <trd lng="es">Santas <ind>Escrituras</ind></trd>
+  <trd lng="fr"><ind>&Eacute;criture</ind> Sainte</trd>
+  <trd lng="hu">Szent&iacute;r&aacute;s</trd>
+  <trd lng="id"><ind>Kitab</ind> Suci</trd>
+  <trd lng="it">Sacre <ind>Scritture</ind></trd>
+  <trd lng="nl">Heilige <ind>Schrift</ind></trd>
+  <trd lng="pl">Pismo &Sacute;wi&eogonek;te</trd>
+  <trd lng="ro">Sf&acirc;nta Scriptur&abreve;</trd>
+  <trd lng="ru">&c_s;&c_v;&c_ja;&c_shch;&c_je;&c_n;&c_n;&c_o;&c_je;
+  <ind>&c_p;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je;</ind></trd>
+</drv>
+
+<drv mrk="skrib.0eraro">
+  <kap><tld/>eraro</kap>
+  <snc mrk="skrib.0eraro.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Misa uzo de literoj rilate al ortografio:
+      <ekz>
+        en la sciencaj nomoj troveblas kelkaj <tld/>eraroj
+        <fnt>
+        <aut>W. M. A. De Smet</aut>,
+        <vrk>Ekzotaj arboj en Esperantujo</vrk>,
+        <bib>Monato</bib>,
+        <lok>1997:10, p. 19a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la unua eldono de la rusa &leftquot;Unua Libro&rightquot; entenas vortojn
+        <klr>[&#8230;]</klr> pro <tld/>eraro,
+        kun formo alia ol en la sekvaj eldonoj franca, pola, dua rusa,
+        ktp.:
+        <esc>speri</esc> (esperi), <esc>vinki</esc> (venki)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=11643">Unua
+          Libro</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;an&gcirc;o de &leftquot;<nom>Holley</nom>&rightquot; al
+        &leftquot;<nom>Holly</nom>&rightquot; devenis de
+        <tld/>eraro en kontrakto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=160874">Buddy
+          Holly</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kobold.pres0o">preskoboldo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_p;&c_ib;&c_s;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_m;&c_y;&c_l;&c_k;&c_a; <klr>(&c_n;&c_a;
+    &c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schreibfehler</trd>
+  </trdgrp>
+  <trd lng="en">typo</trd>
+  <trdgrp lng="es">
+    <trd>error de escritura</trd>,
+    <trd>falta de ortograf&iacute;a</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>faute d'&eacute;criture</trd>,
+    <trd>faute d'orthographe</trd>
+  </trdgrp>
+  <trd lng="hu">el&iacute;r&aacute;s</trd>
+  <trdgrp lng="id">
+    <trd><ind>salah</ind> tik</trd>,
+    <trd>saltik</trd>,
+    <trd>typo</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>errore di scrittura</trd>,
+    <trd>errore di ortografia</trd>
+  </trdgrp>
+  <trd lng="ja">&#x66F8;&#x304D;&#38291;&#36949;&#12356;  <pr>&#x304B;&#x304D;&#x307E;&#12385;&#x304C;&#12356;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>schrijffout</trd>,
+    <trd>spellingsfout</trd>
+  </trdgrp>
+  <trd lng="pl">omy&lstroke;ka pisarska</trd>
+  <trd lng="ro">gre&#537;eal&abreve; scriitor</trd>
+  <trd lng="ru">&c_o;&c_p;&c_i;&c_s;&c_k;&c_a;</trd>
+  <trdgrp lng="sv">
+    <trd>stavfel</trd>,
+    <trd>skrivfel</trd>
+  </trdgrp>
+  <trd lng="th">&#xE01;&#xE32;&#xE23;&#xE40;&#xE02;&#xE35;&#xE22;&#xE19;&#xE1C;&#xE34;&#xE14;</trd>
+  <trd lng="uk">&c_o;&c_p;&c_i;&c_s;&c_k;&c_a;</trd>
+</drv>
+
+<drv mrk="skrib.0karaktero">
+  <kap><tld/>karaktero</kap>
+  <snc mrk="skrib.0karaktero.mana">
+    <dif>
+      Ies persona stilo man<tld/>i (precipe pri la aspekto de
+      la literoj):
+      <ekz>
+        gracie &gcirc;i estis <tld/>ita, tio estis <tld/>karaktero de
+        sinjorino
+        <fnt><bib>Fab2</bib>,
+          <lok>Malnova strata lanterno</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi konas la <tld/>an karakteron de l&#8217; letero?
+        &#8208; &gcirc;i estas mano de Hamleto
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+         la <tld/>karaktero de mia frato!
+          <fnt>
+            <aut>&Scirc;ilero, tr. &Z;</aut>: <vrk>La rabistoj</vrk>.
+            <lok><url
+            ref="https://books.google.ru/books?id=Re_FBgAAQBAJ&amp;pg=PA23&amp;lpg=PA23&amp;dq=a+skribkaraktero+de+mia+frato&amp;source=bl&amp;ots=FMEQ_GQVyF&amp;sig=lhuaxdxditFVOOZku79ZTe1MK1Y&amp;hl=en&amp;sa=X&amp;ei=UaDuVM-jOam9ygPUhoKwDw&amp;ved=0CCIQ6AEwAA#v=onepage&amp;q&amp;f=false">1:2</url></lok>
+          </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_o;&c_ch;&c_y;&c_r;&c_k;</trd>,
+    <trd>&c_m;&c_a;&c_n;&c_e;&c_r;&c_a; &c_p;&c_ib;&c_s;&c_mol;&c_m;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>charakter p&iacute;sma</trd>,
+    <trd>rukopis</trd>,
+    <trd>zp&uring;sob psan&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schreibweise</trd>
+  </trdgrp>
+  <trd lng="en">handwriting</trd>
+  <trd lng="id"><ind>tulis</ind>an tangan</trd>
+  <trdgrp lng="it">
+    <trd>scrittura<klr> (modo personale)</klr></trd>,
+    <trd>calligrafia<klr> (scrittura)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7B46;&#x8DE1;  <pr>&#12402;&#12387;&#x305B;&#x304D;</pr></trd>,
+    <trd>&#x5B57;&#x4F53;  <pr>&#12376;&#x305F;&#12356;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">schrijfwijze</trd>
+  <trd lng="pl">charakter pisma</trd>
+  <trd lng="ro">caracterul scrisorii</trd>
+  <trd lng="ru">&c_p;&c_o;&c_ch;&c_je;&c_r;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>charakter p&iacute;sma</trd>,
+    <trd>rukopis</trd>
+  </trdgrp>
+  <trd lng="sv">handstil</trd>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_je;&c_r; &c_p;&c_i;&c_s;&c_mol;&c_m;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_ch;&c_je;&c_r;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+</art><!--
+$Log$
+versio 1.198 2023/12/12 20:10:28
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.197 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.196 2023/09/29 02:30:47
+Eko Nur Syah Hidayat: +trd id 2
+
+versio 1.195 2023/09/13 16:30:32
+Wolfram Diestel: pr. ja
+
+versio 1.194 2023/09/13 06:30:20
+Eko Nur Syah Hidayat: +trd id 2
+
+versio 1.193 2023/09/04 18:29:44
+Wolfram Diestel: kor. ja ind
+
+versio 1.191 2023/08/30 06:31:44
+Wolfram Diestel: ja: prononco
+
+versio 1.190 2023/08/29 16:34:28
+-->
+</vortaro>

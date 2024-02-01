@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mantel.xml,v 1.123 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>mantel</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="mantel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="mantel.0o.senmanika">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Vasta longa senmanika
+      <ref tip="lst" lst="voko:vesta&jcirc;oj" cel="vest.super0o">supervesto</ref>,
+      kiu malstrikte pendas de sur la &scirc;ultroj:
+      <ekz>
+        <nom>Adaha</nom> deprenis de siaj &scirc;ultroj lanan <tld/>on, kaj metis
+        &gcirc;in &ccirc;irka&ubreve; la knabineton
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 9a</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi vidis inter la militakira&jcirc;o belan &Scirc;inaran <tld/>on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Josuo 7:21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dirante tion, la princo &jcirc;etis sur la &scirc;ultrojn
+        <tld/>on kun kapu&ccirc;o kaj elglitis en la &gcirc;ardenon
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 16a</lok></fnt>;
+      </ekz>
+      <ekz>
+        envolvu vin en vian <tld/>on, &ccirc;ar kiel ajn varmege
+        &ccirc;i tie rostas la suno, unu pa&scirc;on plue estas glacie
+        malvarme
+        <fnt><bib>Fab1</bib>, <lok>&Gcirc;ardeno de la
+        paradizo</lok></fnt>;
+      </ekz>
+      <ekz>
+        kozaka, kavaleria <tld/>o.
+      </ekz>
+    </dif>
+    <subsnc mrk="mantel.0o.regxa">
+      <dif>
+        Similaspekta vesto specialcela, kiu ne nepre servas
+        kiel supervesto:
+        <ekz>
+          re&gcirc;a <tld/>o;
+        </ekz>
+        <ekz>
+          <ref tip="sub" cel="mantel.friz0o">friz<tld/>o</ref>.
+        </ekz>
+      </dif>
+      <trd lng="ru">&c_m;&c_a;&c_n;&c_t;&c_i;&c_ja;</trd>
+    </subsnc>
+    <subsnc mrk="mantel.0o.protekto">
+      <uzo tip="stl">FIG</uzo>
+      <dif>
+        <ref tip="dif" cel="protek.0ado">Protekto</ref>,
+        &scirc;irmo:
+        <ekz>
+          etendu vian <tld/>on sur vian servistinon,
+          &ccirc;ar vi estas savanto
+          <fnt><bib>MT</bib>, <lok>&Rut; 3:9</lok></fnt>;
+        </ekz>
+        <ekz>
+          la tiraneco aperus en la velure mola mensogo<tld/>o de la kundecida rajto
+          <fnt>
+            <bib>Mortul&Scirc;ip</bib>
+            <lok>&Ccirc;apitro 9</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          okcidentaj industri-landoj volas akapari la merkaton de la tria mondo sub
+          <tld/>o de altruismo
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2006/008867.php">Primitive</url></vrk>
+            <lok>2006</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="mask.0o">masko</ref>,
+        <ref cel="vual.0o">vualo</ref>
+      </refgrp>
+      <trdgrp lng="es">
+        <trd>manto</trd>,
+        <trd>abrigo</trd>
+      </trdgrp>
+      <trd lng="hu">(vminek a)<ind>leple</ind></trd>
+      <trd lng="ru">&c_p;&c_o;&c_k;&c_r;&c_o;&c_v;</trd>
+    </subsnc>
+    <refgrp tip="sub">
+      <ref cel="burnus.0o">burnuso</ref>,
+      <ref cel="peleri.0o">pelerino</ref>,
+      <ref cel="poncx.0o">pon&ccirc;o</ref>
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>cape</trd>,
+      <trd>cloak</trd>,
+      <trd>mantle</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>k&ouml;peny</trd>,
+      <trd>pal&aacute;st</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_l;&c_a;&c_shch;</trd>,
+      <trd>&c_n;&c_a;&c_k;&c_i;&c_d;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="mantel.0o.kunmanika">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      En la e&ubreve;ropa modo de post la 18a jc, &gcirc;enerala nomo de
+      <ref tip="super" cel="vest.super0o">supervesto</ref> en
+      formo de iom longa <ref tip="super" cel="kaftan.0o">kaftano</ref>:
+      <ekz>
+        voja&gcirc;<tld/>o, pluv<tld/>o, pelto<tld/>o;
+      </ekz>
+      <ekz>
+        homoj &scirc;irmis sin per pluvombreloj kontra&ubreve; la pluvo,
+        per <tld/>oj kontra&ubreve; la malvarmo
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        Mahometo <klr>[&#x2026;]</klr> deiris de la &ccirc;evalo, prenis la
+        serpenteton kaj metis &gcirc;in en la manikon de sia <tld/>o
+        <fnt>
+          <aut>C. Bachiller, trad. J. H. Ferreira</aut>,
+          <vrk>La Naski&gcirc;o de la Tabako</vrk>
+          <lok>en: Fundamenta Krestomatio, 1903</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        izvo&scirc;&ccirc;ikoj vestitaj en la tradicia longa blua
+        <tld/>o kun zono &ccirc;irka&ubreve; la talio kaj sube dika &scirc;afopelto,
+        kondukas en la stratoj <klr>[&#x2026;]</klr> siajn veturilojn
+        <fnt><bib>Voja&gcirc;Imp</bib>, <lok>en Peterburgo</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="palt.0o">palto</ref>,
+      <ref cel="reding.0o">redingoto</ref>,
+      <ref cel="surtut.0o">surtuto</ref>,
+      <ref cel="talar.0o">talaro</ref>
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>coat</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>k&ouml;peny</trd>,
+      <trd>kab&aacute;t</trd>
+    </trdgrp>
+    <trd lng="id">mantel</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_a;&c_l;&c_mol;&c_t;&c_o;</trd>,
+      <trd>&c_m;&c_a;&c_k;&c_i;&c_n;&c_t;&c_o;&c_sh;</trd>,
+      <trd>&c_p;&c_l;&c_a;&c_shch;</trd>
+    </trdgrp>
+  </snc>
+<!--
+  <snc mrk="mantel.0o.palto">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Palto por virinoj.
+    </dif>
+    <adm>
+      Dubinda difino, dubinda uzo. PIV2 &ccirc;i tiun sencon ne donas,
+      kaj anka&ubreve; mi opinias &gcirc;in forigenda.
+      <aut>Sergio</aut>
+    </adm>
+    <trdgrp lng="ru">
+      <trd>&c_m;&c_a;&c_n;&c_t;&c_i;&c_l;&c_mol;&c_ja;</trd>,
+      <trd>&c_zh;&c_je;&c_n;&c_s;&c_k;&c_o;&c_je;
+      <ind>&c_p;&c_a;&c_l;&c_mol;&c_t;&c_o;</ind></trd>
+    </trdgrp>
+    <trd lng="hu">n&odblac;i <ind>kab&aacute;t</ind></trd>
+  </snc>
+-->
+  <trd lng="af">rok</trd>
+  <trd lng="am">&#x12AB;&#x1356;&#x122D;&#x1275;</trd>
+  <trd lng="ar">&a_m;&a_ayn;&a_T;&a_f;</trd>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_l;&c_ib;&c_t;&c_o;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_sh;&c_ch;</trd>,
+    <trd>&c_p;&c_y;&c_l;&c_a;&c_v;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_a;&c_l;&c_t;&c_o;</trd>
+  <trd lng="bn">&#x995;&#x9CB;&#x99F;</trd>
+  <trd lng="bo">&t_sa;&t_tata;&t_naro;&t_da;&t_tsheg;&t_tha;&t_shabchu;&t_nga;&t_tsheg;</trd>
+  <trd lng="bs">kaput</trd>
+  <trd lng="co">stemma</trd>
+  <trdgrp lng="cs">
+    <trd>kab&aacute;t</trd>,
+    <trd>mantl</trd>,
+    <trd>pl&aacute;&scaron;t&ecaron;nka</trd>,
+    <trd>pl&aacute;&scaron;&tcaron;</trd>
+  </trdgrp>
+  <trd lng="cy">c&ocirc;t</trd>
+  <trd lng="da">frakke</trd>
+  <trd lng="de">Mantel</trd>
+  <trd lng="es">capa</trd>
+  <trd lng="et">mantel</trd>
+  <trd lng="eu">berokia</trd>
+  <trdgrp lng="fr">
+    <trd>cape</trd>,
+    <trd>manteau</trd>
+  </trdgrp>
+  <trd lng="fy">jas</trd>
+  <trd lng="ga">c&oacute;ta</trd>
+  <trd lng="gd">c&ograve;ta</trd>
+  <trd lng="gl">abrigo</trd>
+  <trd lng="gu">&#xA95;&#xACB;&#xA9F;</trd>
+  <trd lng="ha">gashi</trd>
+  <trd lng="hi">&#x915;&#x94B;&#x91F;</trd>
+  <trd lng="hmn">tsho tiv no</trd>
+  <trd lng="hr">kaput</trd>
+  <trd lng="ht">rad</trd>
+  <trd lng="hy">&#x57E;&#x565;&#x580;&#x561;&#x580;&#x56F;&#x578;&#x582;</trd>
+  <trd lng="ig">uwe</trd>
+  <trd lng="is">frakki</trd>
+  <trd lng="ja">&#x30B3;&#x30FC;&#x30C8;</trd>
+  <trd lng="jv">jas</trd>
+  <trd lng="ka">&#x10E5;&#x10E3;&#x10E0;&#x10D7;&#x10E3;&#x10D9;&#x10D8;</trd>
+  <trd lng="kk">&c_p;&c_a;&c_l;&c_mol;&c_t;&c_o;</trd>
+  <trd lng="km">&#x1790;&#x17D2;&#x1793;&#x17B6;&#x17C6;&#x1780;&#x17BC;&#x178F;</trd>
+  <trd lng="kn">&#xC95;&#xCCB;&#xC9F;&#xCCD;</trd>
+  <trd lng="ko">&#xCF54;&#xD2B8;</trd>
+  <trd lng="ku">post</trd>
+  <trd lng="ky">&c_zh;&#x4AF;&c_n;</trd>
+  <trd lng="lat">tunica</trd>
+  <trd lng="lo">&#xEC0;&#xE9B;&#xEB7;&#xEAD;&#xE81;&#xEAB;&#xEB8;&#xEC9;&#xEA1;&#xE99;&#xEAD;&#xE81;</trd>
+  <trd lng="lt">kailis</trd>
+  <trd lng="lv">m&emacron;telis</trd>
+  <trd lng="mg">akanjo</trd>
+  <trd lng="mi">koti</trd>
+  <trd lng="mk">&c_k;&c_a;&c_p;&c_u;&c_t;</trd>
+  <trd lng="ml">&#xD05;&#xD19;&#xD4D;&#xD15;&#xD3F;</trd>
+  <trd lng="mn">&c_c;&c_u;&c_v;</trd>
+  <trd lng="mr">&#x921;&#x917;&#x932;&#x93E;</trd>
+  <trd lng="ms">kot</trd>
+  <trd lng="mt">kowt</trd>
+  <trd lng="my">&#x1000;&#x102F;&#x1010;&#x103A;&#x1021;&#x1004;&#x103A;&#x1039;&#x1000;&#x103B;&#x102E;</trd>
+  <trd lng="ne">&#x915;&#x94B;&#x91F;</trd>
+  <trd lng="nl">mantel</trd>
+  <trd lng="ny">odula</trd>
+  <trd lng="pa">&#xA15;&#xA4B;&#xA1F;</trd>
+  <trd lng="pl">p&lstroke;aszcz</trd>
+  <trd lng="ps">&f_p;&a_w;&#x69A;</trd>
+  <trdgrp lng="pt">
+      <trd>casaco</trd>,
+      <trd>sobretudo</trd>,
+      <trd>capote</trd>
+      <trd>capa</trd>
+    </trdgrp>
+  <trd lng="rw">ikoti</trd>
+  <trd lng="sd">&#x6AA;&a_w;&#x67D;</trd>
+  <trd lng="si">&#xD9A;&#xDB6;&#xDCF;&#xDBA;</trd>
+  <trdgrp lng="sk">
+    <trd>pl&aacute;&scaron;&tcaron;</trd>,
+    <trd>zvrchn&iacute;k</trd>
+  </trdgrp>
+  <trd lng="sl">pla&scaron;&ccaron;</trd>
+  <trd lng="sm">peleue</trd>
+  <trd lng="sn">bhachi</trd>
+  <trd lng="so">jaakad</trd>
+  <trd lng="sq">pallto</trd>
+  <trd lng="st">seaparo</trd>
+  <trd lng="su">mantel</trd>
+  <trd lng="sw">kanzu</trd>
+  <trd lng="ta">&#xB95;&#xBCB;&#xB9F;&#xBCD;</trd>
+  <trd lng="te">&#xC15;&#xC4B;&#xC1F;&#xC41;</trd>
+  <trd lng="tg">&c_p;&c_a;&c_l;&c_t;&c_o;</trd>
+  <trd lng="th">&#xE40;&#xE2A;&#xE37;&#xE49;&#xE2D;&#xE42;&#xE04;&#xE49;&#xE17;</trd>
+  <trd lng="tl">amerikana</trd>
+  <trd lng="tt">&c_p;&c_a;&c_l;&c_mol;&c_t;&c_o;</trd>
+  <trd lng="uk">&c_p;&c_a;&c_l;&c_mol;&c_t;&c_o;</trd>
+  <trd lng="ur">&f_k;&a_w;&#x679;</trd>
+  <trd lng="uz">palto</trd>
+  <trd lng="vi">&aacute;o</trd>
+  <trd lng="xh">ibhatyi</trd>
+  <trd lng="yi">&mem;&alef;&#x5B7;&nun;&tet;&lamed;</trd>
+  <trd lng="yo">ndan</trd>
+  <trd lng="zu">isikhumba</trd>
+</drv>
+
+<drv mrk="mantel.friz0o">
+  <kap>friz<tld/>o</kap>
+  <snc mrk="mantel.friz0o.KOS">
+    <dif>
+      Tuko kiun oni surmetas sur la &scirc;ultrojn de la kliento en
+      frizejo (a&ubreve; en alia simila loko) por protekti liajn vestojn
+      dum hartondado, &scirc;minkado ktp.
+    </dif>
+  </snc>
+  <trd lng="de">Fris&ouml;rumhang</trd>
+  <trdgrp lng="en">
+    <trd>barber cape</trd>,
+    <trd>salon cape</trd>
+  </trdgrp>
+  <trd lng="fr">blouse de coiffeur</trd>
+  <trd lng="nl">kappersmantel</trd>
+  <trd lng="pl">peleryna</trd>
+  <trd lng="ru">&c_p;&c_je;&c_n;&c_mol;&c_ju;&c_a;&c_r;<klr> (&c_v;
+  &c_p;&c_a;&c_r;&c_i;&c_k;&c_m;&c_a;&c_h;&c_je;&c_r;&c_s;&c_k;&c_o;&c_j;)</klr></trd>
+</drv>
+
+<drv mrk="mantel.pelto0o">
+  <kap>pelto<tld/>o</kap>
+  <snc mrk="mantel.pelto0o.varma">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Varma vintra
+      <ref tip="super" cel="mantel.0o.kunmanika">mantelo<sncref/></ref>
+      el pelto:
+      <ekz>
+        li estis vestita en pelto<tld/>o kun kastora
+        kolumo kaj astrakana malnovre&gcirc;ima anta&ubreve;revolucia
+        &ccirc;apo
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_sh;&c_u;&c_b;&c_a;</trd>
+  </snc>
+  <snc mrk="mantel.pelto0o.luksa">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Luksa pelta
+      <ref tip="super" cel="mantel.0o.kunmanika">mantelo<sncref/></ref>,
+      precipe ina:
+      <ekz>
+        la a&ubreve;toj alvenis unu post la alia, kaj lukse dekoritaj
+        uniformoj, admirindaj, ermenaj pelt<tld/>oj, blankaj
+        frakoj estis videblaj
+        <fnt>
+        <aut>J. Rejt&odblac;, trad. L. Bal&aacute;zs</aut>,
+        <lok><url ref="http://www.freeweb.hu/verkoj/02.htm">La anta&ubreve;en&scirc;ovita garnizono</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_sh;&c_u;&c_b;&c_a;</trd>
+  </snc>
+  <trd lng="be">&c_sh;&c_u;&c_b;&c_a;</trd>
+  <trd lng="de">Pelzmantel</trd>
+    <trd lng="en">mink</trd>
+  <trd lng="es">capa de piel</trd>
+  <trdgrp lng="fr">
+    <trd>manteau fourr&eacute;</trd>,
+    <trd>pelisse</trd>
+  </trdgrp>
+  <trd lng="nl">bontmantel</trd>
+</drv>
+
+<drv mrk="mantel.pluv0o">
+  <kap>
+    pluv<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="M"/>o <ref cel="penetr.ne0ebla">nepenetrebla</ref> de akvo por protekti sin kontra&ubreve;
+      malseka vetero:
+      <ekz>
+        <nom>Berg</nom> surhavis pluvmantelon, la mantelo estas malseka, sed la vesto sub &gcirc;i &ndash; seka
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de sur liaj &scirc;ultroj pendis granda, akrakolora teksa&jcirc;o, kion kun iom da bonvolo
+        oni povus rigardi pluv<tld/>o
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_a;&c_sh;&c_ch;</trd>
+  <trd lng="de">Regenmantel</trd>
+  <trd lng="en">raincoat</trd>
+  <trd lng="fr">imperm&eacute;able </trd>
+  <trdgrp lng="ja">
+    <trd>&#x96E8;&#x304C;&#x3063;&#x3071;  <pr>&#x3042;&#x307E;&#x30AC;&#x30C3;&#x30D1;</pr></trd>,
+    <trd>&#x30EC;&#x30A4;&#x30F3;&#x30B3;&#x30FC;&#x30C8;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_o;&c_m;&c_o;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j; &c_p;&c_l;&c_a;&c_shch;</trd>,
+    <trd>&c_d;&c_o;&c_shch;&c_o;&c_v;&c_i;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="mantel.ter0o">
+  <kap>ter<tld/>o</kap>
+  <snc mrk="mantel.ter0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      Interna, varmega kaj gluema parto de la tero,
+      &ccirc;irka&ubreve; la
+      <ref tip="vid" cel="kern.ter0o.GEOL">terkerno</ref>
+      kaj sub la
+      <ref tip="vid" cel="krust.ter0o.GEOL">terkrusto</ref>:
+      <ekz>
+        helpe de la esplorado pri tertremo de interna lando de Antarkto 
+        oni konos la profundan strukturon de terkrusto kaj ter<tld/>o
+        <fnt>
+          <aut>Zhao Xi</aut>,
+          <vrk><url ref="http://esperanto.china.org.cn/novajhoj/2010-01/06/content_19189879.htm">
+          &Ccirc;inio finkonstruis sian tertremo-esploran
+          stacion...</url></vrk>,
+          <lok>2010-01-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_t;&c_y;&c_ja; <klr>(&c_Z;&c_ja;&c_m;&c_l;&c_ib;)</klr></trd>
+  <trd lng="cs">zemsk&yacute; pl&aacute;&scaron;&tcaron;</trd>
+  <trd lng="en">mantle</trd>
+  <trd lng="es">manto terrestre</trd>
+  <trd lng="fr">manteau terrestre<klr> (g&eacute;ol.)</klr></trd>
+  <trd lng="pl">p&lstroke;aszcz <klr>ziemski</klr></trd>
+  <trd lng="sk">zemsk&yacute; pl&aacute;&scaron;&tcaron;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.123 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.121 2023/04/11 16:10:37
+aktualigo Monato-URL
+
+versio 1.120 2022/07/04 17:31:40
+Wolfram Diestel: +ekz
+
+versio 1.119 2022/05/05 18:34:42
+Wolfram Diestel: dubinda snc 3 forkomentita
+
+versio 1.118 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.116 2021/12/27 09:40:44
+Dmitri Gabinski: + trd be
+
+versio 1.115 2021/10/10 11:23:27
+Wolfram Diestel: +plu~o
+
+versio 1.39 2020/07/19 11:10:37
+-->
+</vortaro>

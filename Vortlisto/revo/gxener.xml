@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: gxener.xml,v 1.109 2023/12/12 19:24:43 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>&gcirc;eneral</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="gxener.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="gxener.0a.KOMUNE">
+    <dif>
+      Rilatanta senescepte al tuto a&ubreve; al la plej granda parto el
+      personoj a&ubreve; objektoj; ne<ref tip="ant" cel="apart.0a.speciala">aparta<sncref/></ref>,
+      ne<ref tip="ant" cel="indivi.0a">individua</ref>,
+      mal<ref tip="ant" cel="specia.0a">speciala</ref>:
+      <ekz>
+        <tld/>a kunveno
+        <fnt>
+          <bib>NT</bib>
+          <lok>Hebreoj 12:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        precizaj kalkuloj estas en la ar&hcirc;ivoj, mi memoras nur la <tld/>ajn nombrojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni apla&ubreve;du, kraku kaj bruu, por elesprimi la <tld/>an &gcirc;ojon
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;parmonujo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eksonis <tld/>a alvoko kontra&ubreve; la malamikojn
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Juda knabino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur tiu kampo staris alligita la kokino <klr>[&#x2026;]</klr>, por ke &gcirc;i ne forkuru en
+        la <tld/>a konfuzo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Kion la patro faras, estas &ccirc;iam &gcirc;usta</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a milita komisario
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kora sufero</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tre interesas min la <tld/>a opinio pri li
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni volas nur &gcirc;ustigi kelkajn punktojn <tld/>ajn
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Nefermita letero al s-ro de Beaufront.</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="univer1.0a">universala</ref>
+    <refgrp tip="ant">
+       <ref cel="konkre.0a">konkreta</ref>,
+       <ref cel="preciz.0a">preciza</ref>,
+       <ref cel="specif.0a.aparta">specifa<sncref/></ref>
+    </refgrp>
+    <refgrp tip="vid">
+       <ref cel="oni.0a">onia</ref>,
+       <ref cel="publik.0a.nefermita">publika<sncref/></ref>,
+       <ref cel="mond.tut0a">tutmonda</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_je;&c_n;&c_e;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_u;&c_s;&c_je;&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_o;&c_b;&c_shch;</trd>,
+    <trd>&c_g;&c_l;&c_a;&c_v;&c_je;&c_n;</trd>
+  </trdgrp>
+  <trd lng="cs">v&scaron;eobecn&yacute;</trd>
+  <trd lng="el">&gamma;&epsilon;&ny;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">general</trd>
+  <trdgrp lng="es">
+    <trd>general</trd>,
+    <trd>gen&eacute;rico</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>g&eacute;n&eacute;ral</trd>,
+    <trd>commun</trd>,
+    <trd>global</trd>,
+    <trd>ordinaire</trd>
+  </trdgrp>
+  <trd lng="hu">&aacute;ltal&aacute;nos</trd>
+  <trdgrp lng="it">
+    <trd>generale</trd>
+    <trd>generico</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5168;&#x822C;&#x306E;  <pr>&#x305C;&#x3093;&#x3071;&#x3093;&#x306E;</pr></trd>,
+    <trd>&#x5168;&#x4F53;&#x306E;  <pr>&#x305C;&#x3093;&#x305F;&#x3044;&#x306E;</pr></trd>,
+    <trd>&#x4E00;&#x822C;&#x7684;&#x306A;  <pr>&#x3044;&#x3063;&#x3071;&#x3093;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x666E;&#x901A;&#x306E;  <pr>&#x3075;&#x3064;&#x3046;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">algemeen</trd>
+  <trdgrp lng="pl">
+    <trd>generalny</trd>,
+    <trd>walny</trd>,
+    <trd>og&oacute;lnikowy</trd>,
+    <trd>gremialny</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>geral</trd>,
+    <trd>gen&eacute;rico</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_s;&c_je;&c_o;&c_b;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_g;&c_je;&c_n;&c_je;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>generell</trd>,
+    <trd>allm&auml;n</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_g;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&#x43E;&c_v;&c_s;&#x44E;&c_d;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_gu;&c_je;&#x43D;&c_je;&c_r;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x901A; <pr>t&#x14D;ng</pr></trd>,
+    <trd>&#x666E;&#x904D; <pr>p&#x1D4;bi&#xE0;n</pr></trd>,
+    <trd>&#x6CDB; <pr>f&#xE0;n</pr></trd>,
+    <trd>&#x4E00;&#x822C;&#x90FD; <pr>y&#xEC;b&#x101;nd&#x14D;u</pr></trd>,
+    <trd>&#x666E;&#x901A; <pr>p&#x1D4;t&#x14D;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gxener.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="gxener.0e.KOMUNE">
+    <dif>
+      En maniero <tld/>a, ne speciala:
+      <ekz>
+        tiuj servistinoj <klr>[&#x2026;]</klr> <tld/>e havas multe da laboro
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estis <tld/>e bona homo, sed li havis la strangan malfortecon, ke li ne povis
+        toleri la aspekton de sakristiano
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Malgranda Niko kaj granda Niko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la rakontoj de fratoj <nom>Grimm</nom>, kiel <tld/>e &ccirc;iuj fabeloj, plej multe pla&ccirc;as al
+        infanaj legantoj
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Anta&ubreve;parolo de la tradukinto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>e ne amas tiajn parolojn, sed precipe nun, en la nuna jaro, tia
+        senkolora oficiala parolo estus granda peko
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">algemene</trd>
+  <trd lng="am">&#x12A0;&#x1320;&#x1243;&#x120B;&#x12ED;</trd>
+  <trd lng="ar">&a_ayn;&a_A;&a_m;</trd>
+  <trd lng="az">&#xFC;mumi</trd>
+  <trdgrp lng="be">
+    <trd>&c_u; <ind>&c_c;&c_e;&c_l;&c_y;&c_m;</ind></trd>,
+    <trd>&c_a;&c_g;&c_u;&c_l;&c_a;&c_m;</trd>,
+    <trd>&c_a;&c_b;&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_ja;&c_ju;&c_ch;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_o;&c_b;&c_shch;&c_o;</trd>,
+    <trd>&c_i;&c_z;&c_o;&c_b;&c_shch;&c_o;</trd>,
+    <trd>&c_v;&c_malmol;&c_o;&c_b;&c_shch;&c_je;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9B8;&#x9BE;&#x9A7;&#x9BE;&#x9B0;&#x9A3;</trd>
+  <trd lng="bo">&#xF58;&#xF44;&#xF0B;&#xF46;&#xF7A;&#xF0B;</trd>
+  <trd lng="cy">gyffredinol</trd>
+  <trd lng="da">generelt</trd>
+  <trdgrp lng="de">
+    <trd>allgemein</trd>,
+    <trd>generell</trd>
+  </trdgrp>
+  <trd lng="et">&#xFC;ldiselt</trd>
+  <trd lng="eu">oro</trd>
+  <trdgrp lng="fr">
+    <trd>g&eacute;n&eacute;ralement</trd>,
+    <trd>commun&eacute;ment</trd>,
+    <trd>en <ind>gros</ind></trd>,
+    <trd>globalement</trd>,
+    <trd>ordinairement</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>generalmente</trd>,
+    <trd>gen&eacute;ricamente</trd>,
+    <trd>en general</trd>
+  </trdgrp>
+  <trd lng="fy">algemien</trd>
+  <trd lng="ga">ginear&#xE1;lta</trd>
+  <trd lng="gd">fharsaingeachd</trd>
+  <trd lng="gl">xeral</trd>
+  <trd lng="gu">&#xAB8;&#xABE;&#xAAE;&#xABE;&#xAA8;&#xACD;&#xAAF;</trd>
+  <trd lng="hi">&#x938;&#x93E;&#x92E;&#x93E;&#x928;&#x94D;&#x92F;</trd>
+  <trd lng="hr">op&cacute;i</trd>
+  <trd lng="ht">jeneral</trd>
+  <trd lng="hy">&#x563;&#x56C;&#x56D;&#x561;&#x57E;&#x578;&#x580;</trd>
+  <trd lng="ig">n&#x2019;ozuzu</trd>
+  <trd lng="is">almennt</trd>
+  <trdgrp lng="it">
+    <trd>generalmente</trd>,
+    <trd>in generale</trd>
+  </trdgrp>
+  <trd lng="ja">&#x4E00;&#x822C; <pr>&#x3044;&#x3063;&#x3071;&#x3093;</pr></trd>
+  <trd lng="jv">umum</trd>
+  <trd lng="ka">&#x10D6;&#x10DD;&#x10D2;&#x10D0;&#x10D3;&#x10D8;</trd>
+  <trd lng="kk">&c_zh;&c_a;&#x43B;&#x43F;&#x44B;</trd>
+  <trd lng="km">&#x1791;&#x17BC;&#x1791;&#x17C5;</trd>
+  <trd lng="kn">&#xCB8;&#xCBE;&#xCAE;&#xCBE;&#xCA8;&#xCCD;&#xCAF;</trd>
+  <trd lng="ko">&#xC77C;&#xBC18;</trd>
+  <trd lng="ku">gi&#x15F;t&#xEE;</trd>
+  <trd lng="ky">&c_zh;&c_a;&#x43B;&#x43F;&#x44B;</trd>
+  <trd lng="lat">generalis</trd>
+  <trd lng="lo">&#xEC2;&#xE94;&#xE8D;&#xE97;&#xEBB;&#xEC8;&#xEA7;&#xEC4;&#xE9B;</trd>
+  <trd lng="lt">bendras</trd>
+  <trd lng="lv">visp&#257;r&#275;js</trd>
+  <trd lng="mg">ankapobeny</trd>
+  <trd lng="mi">wh&#x15D1;nui</trd>
+  <trd lng="mk">&#x43E;&#x43F;&c_sh;&c_t;&#x43E;</trd>
+  <trd lng="ml">&#xD2A;&#xD4A;&#xD24;&#xD41;&#xD35;&#xD3E;&#xD2F;</trd>
+  <trd lng="mn">&c_je;&c_r;&#x4E9;&#x43D;&c_h;&c_i;&c_j;</trd>
+  <trd lng="mr">&#x938;&#x93E;&#x92E;&#x93E;&#x928;&#x94D;&#x92F;</trd>
+  <trd lng="ms">umum</trd>
+  <trd lng="mt">&#x121;enerali</trd>
+  <trd lng="my">&#x101A;&#x1031;&#x1018;&#x102F;&#x101A;&#x103B;</trd>
+  <trd lng="ne">&#x938;&#x93E;&#x92E;&#x93E;&#x928;&#x94D;&#x92F;</trd>
+  <trd lng="ny">ambiri</trd>
+  <trd lng="pa">&#xA06;&#xA2E; &#xA24;&#xA4C;&#xA30; &#x2018;&#xA24;&#xA47;</trd>
+  <trdgrp lng="pl">
+    <trd>w og&oacute;le</trd>,
+    <trd>generalnie</trd>,
+    <trd>walnie</trd>,
+    <trd>og&oacute;lnikowo</trd>,
+    <trd>gremialnie</trd>
+  </trdgrp>
+  <trd lng="ps">&a_ayn;&a_m;&a_w;&a_m;&#x64A;</trd>
+  <trdgrp lng="pt">
+   <trd>geralmente</trd>,
+   <trd>em <ind>geral</ind><klr tip="ind"> (adv.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_o;&c_b;&c_shch;&c_je;</trd>,
+    <trd>&c_o;&c_b;&c_y;&c_ch;&c_n;&c_o;</trd>,
+    <trd>&c_o;&c_b;&c_y;&c_k;&c_n;&c_o;&c_v;&c_je;&c_n;&c_n;&c_o;</trd>,
+    <trd>&c_v; <ind>&c_c;&c_je;&c_l;&c_o;&c_m;</ind></trd>,
+    <trd>&c_v; <ind>&c_o;&c_b;&c_shch;&c_je;&c_m;</ind></trd>
+  </trdgrp>
+  <trd lng="rw">rusange</trd>
+  <trd lng="sd">&a_ayn;&a_A;&a_m;</trd>
+  <trd lng="si">&#xDB4;&#xDDC;&#xDAF;&#xDD4;</trd>
+  <trd lng="sl">splo&scaron;no</trd>
+  <trd lng="sm">lautele</trd>
+  <trd lng="sn">Kazhinji</trd>
+  <trd lng="so">guud ahaan</trd>
+  <trd lng="sq">p&#xEB;rgjithshme</trd>
+  <trd lng="st">kakaretso</trd>
+  <trd lng="su">umum</trd>
+  <trd lng="sw">ujumla</trd>
+  <trd lng="ta">&#xBAA;&#xBCA;&#xBA4;&#xBC1;</trd>
+  <trd lng="te">&#xC38;&#xC3E;&#xC27;&#xC3E;&#xC30;&#xC23;</trd>
+  <trd lng="tg">&c_g;&c_je;&#x43D;&c_je;&c_r;&c_a;&#x43B;</trd>
+  <trd lng="th">&#xE17;&#xE31;&#xE48;&#xE27;&#xE44;&#xE1B;</trd>
+  <trd lng="tl">pangkalahatan</trd>
+  <trd lng="tt">&c_g;&#x43E;&#x43C;&c_u;&#x43C;&c_i;</trd>
+  <trd lng="uk">&c_z;&c_a;&c_g;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
+  <trd lng="ur">&#x62C;&a_n;&a_r;&a_l;</trd>
+  <trd lng="uz">umumiy</trd>
+  <trd lng="vi">chung</trd>
+  <trd lng="xh">ngokubanzi</trd>
+  <trd lng="yi">&#x5D0;&#x5B7;&#x5DC;&#x5D2;&#x5E2;&#x5DE;&#x5D9;&#x5D9;&#x5E0;&#x5E2;</trd>
+  <trd lng="yo">gbogboogbo</trd>
+  <trd lng="zh">&#x666E;&#x904D;&#x5730; <pr>p&#x1D4;bi&#xE0;nde</pr></trd>
+  <trd lng="zu">jikelele</trd>
+</drv>
+
+<drv mrk="gxener.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="gxener.0o.KOMUNE">
+    <dif>
+      <tld lit="&Gcirc;"/>a ideo, diro...:
+      <ekz>
+        decidinte, ke la diversaj frazoj donitaj al <tld/>o jam
+        ampleksas &scirc;in en la societon <klr>[&#x2026;]</klr> &scirc;i ekdemandis
+        <klr>[&#x2026;]</klr>
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk>La Granda Kaldrono</vrk>,
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="publik.0o">publiko</ref>
+  </snc>
+  <rim>
+    Ne konfuzu kun <ref tip="hom" cel="genera1.0o">generalo</ref>.
+  </rim>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_je; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>,
+    <trd>&c_c;&c_e;&c_l;&c_a;&c_je; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Verallgemeinerung</trd>
+  <trd lng="es">generalidad</trd>
+  <trd lng="fr">g&eacute;n&eacute;ralit&eacute;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6982;&#x62EC;&#x5316; <pr>g&#xE0;iku&#xF2;hu&#xE0;</pr></trd>,
+    <trd>&#x666E;&#x904D;&#x5316; <pr>p&#x1D4;bi&#xE0;nhu&#xE0;</pr></trd>,
+    <trd>&#x6CDB;&#x5316; <pr>f&#xE0;nhu&#xE0;</pr></trd>,
+    <trd>&#x5E7F;&#x4E49; <pr>gu&#x1CE;ngy&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gxener.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="gxener.0igi.KOMUNE">
+    <dif>
+      Fari, ke io havu <tld/>an amplekson:
+      <ekz>
+        &scirc;i ne <tld/>igis siajn pensojn kaj sentojn, &scirc;i ne konsciis precize la tre
+        komplikitan fenomenon, kiu regis &scirc;ian sorton
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li iom tro <tld/>igas mian aserton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2005/008539.php">Malvarma milito kaj la orienta
+          bloko</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvankam sendube ekzistas granda simileco inter multaj tjurkaj lingvoj,
+        <klr>[&#x2026;]</klr> ne eblas tion <tld/>igi al &ccirc;iuj membroj de tiu familio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>H&egrave;ctor Al&ograve;s i Font</aut>
+          <vrk><url ref="&Monato;/2013/011015.php">La turka: pli granda, pli diversa
+          familio</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hodia&ubreve; la situacio estas multe pli favora al la <tld/>igo de la angla ol tiam
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2003/008022.html">Tridek jaroj da sa&gcirc;o</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiun rolon <klr>[&#x2026;]</klr> transprenis kaj <tld/>igis E&ubreve;ropa Unio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/2007/009338.php">Separismo ne, egalrajteco
+          jes</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igado de pli regula kalendaro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>W. M. A. De Smet</aut>
+          <vrk><url ref="&Monato;/2004/008418.html">Edward Croegaert, la forgesita
+          lingvokreanto</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+       <ref cel="abstrah.0i">abstrahi</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="aplik.0i">apliki</ref>,
+      <ref cel="vast.dis0igi">disvastigi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_g;&c_je;&c_n;&c_e;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verallgemeinern</trd>,
+    <trd>generalisieren</trd>
+  </trdgrp>
+  <trd lng="el">
+  &gamma;&epsilon;&ny;&jota;&kappa;&epsilon;&ypsilon_ton;&omega;</trd>
+  <trd lng="en">generalize</trd>
+  <trd lng="es">generalizar</trd>
+  <trd lng="fr">g&eacute;n&eacute;raliser</trd>
+  <trd lng="hu">&aacute;ltal&aacute;nos&iacute;t</trd>
+  <trd lng="it">generalizzare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x822C;&#x5316;&#x3059;&#x308B;  <pr>&#x3044;&#x3063;&#x3071;&#x3093;&#x304B;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6CE2;&#x53CA;&#x3055;&#x305B;&#x308B;  <pr>&#x306F;&#x304D;&#x3085;&#x3046;&#x3055;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">veralgemenen</trd>
+  <trdgrp lng="pl">
+    <trd>uog&oacute;lnia&cacute;</trd>,
+    <trd>generalizowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">generalizar</trd>
+  <trd lng="ru">&c_o;&c_b;&c_o;&c_b;&c_shch;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="uk">&c_u;&c_z;&c_a;&c_g;&c_a;&#x43B;&#x44C;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trd lng="zh">&#x4E00;&#x6982;&#x800C;&#x8AD6; <pr>y&#x12B;g&#xE0;i&#xE9;rl&#xF9;n</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.109 2023/12/12 19:24:43
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.107 2023/10/15 18:38:19
+revo: transskribo per <pr>
+
+versio 1.105 2023/08/29 10:31:30
+Wolfram Diestel: ja: +prononco
+
+versio 1.104 2023/07/14 09:28:49
+Dmitri Gabinski: + trd be
+
+versio 1.103 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.101 2021/09/11 20:30:58
+Wolfram Diestel: ref
+
+versio 1.28 2021/04/14 19:01:10
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.26  2018/07/10 10:10:16  revo
+-->
+</vortaro>

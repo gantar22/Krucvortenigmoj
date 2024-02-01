@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: deploj.xml,v 1.17 2023/11/04 13:16:27 revo Exp $">
+<kap>
+  <rad>deploj</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="deploj.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="deploj.0i.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Loki, dis<ref tip="super" cel="met.0i.loki">meti</ref>
+      batalontojn prete por ekago:
+      <ekz>
+        kun sia tuta <tld/>ita plotono
+        <fnt><bib>DonKihxoto</bib>, <lok>dua parto, &ccirc;apitro 11a,
+        p. 454a</lok></fnt>
+      </ekz>
+      <ekz>
+        Napoleono poste <tld/>is la armeon orienten por elimini la minacon de A&ubreve;strio
+        kaj Rusio
+        <fnt>
+          <vrk><url ref="&Viki;/Granda_Armeo">Grande Arm&eacute;e</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la armeo kaj miliciaj fortoj <tld/>is masive &ndash; kun tankoj, peza artilerio,
+        <klr>[&#x2026;]</klr>
+        <fnt>
+          <vrk><url ref="&Mondediplo;article1525.html">La strategio de Pakistano &ccirc;e
+          turnopunkto</url></vrk>
+          <lok>Le Monde diplomatique' en Esperanto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="deploj.0i.TEK">
+    <uzo tip="fak">TEK</uzo><uzo tip="fak">KOMP</uzo>
+    <dif>
+      <klr>(pri aparato a&ubreve; programaro)</klr> Meti en la lokon por plenumi la intencitan funkcion;
+      <ref tip="sin" cel="instal.0i.ion">instali</ref>:
+      <ekz>
+        en 1989 Atlantis <tld/>is du planetajn sondojn
+        <fnt>
+          <vrk><url ref="&Viki;/Kosmopramo_Atlantis">Kosmopramo Atlantis - Vikipedio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>deployen</trd>,
+      <trd>installieren</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x914D;&#x7F6E; <pr>p&#xE8;izh&#xEC;</pr></trd>,
+    <trd>&#x7F6E; <pr>zh&#xEC;</pr></trd>,
+    <trd>&#x88C5;&#x7F6E; <pr>zhu&#x101;ngzh&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <refgrp tip="vid">
+    <ref cel="dispon.0igi">disponigi</ref>,
+    <ref cel="proviz.0i">provizi</ref>,
+    <ref cel="star.0igi.meti">starigi</ref>
+  </refgrp>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_g;&c_o;&c_r;&c_t;&c_v;&c_a;&c_c;&c_mol;
+  <klr>(&c_v;&c_o;&c_j;&c_s;&c_k;&c_a;)</klr></trd>
+  <trd lng="ca">desplegar</trd>
+  <trd lng="cs">se&rcaron;adit do pochodov&eacute;ho tvaru</trd>
+  <trd lng="de">aufstellen</trd>
+  <trd lng="es">desplegar<klr> (mil.)</klr></trd>
+  <trd lng="fr">d&eacute;ployer<klr> (mil.)</klr></trd>
+  <trdgrp lng="it">
+    <trd>dispiegare<klr> (mil.)</klr></trd>,
+    <trd>spiegare<klr> (mil.)</klr></trd>,
+    <trd>distendere<klr> (mil.)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">rozlokowywa&cacute;<klr> (np. wojska)</klr></trd>
+  <trd lng="pt">desdobrar <klr tip="amb">(mil.)</klr></trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_o;&c_r;&c_a;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_v;&c_o;&c_je;&c_n;&c_n;&c_o;&c_je;
+  &c_p;&c_o;&c_d;&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">zoradi&tcaron; do pochodov&eacute;ho tvaru</trd>
+  <trd lng="uk">&c_r;&#x43E;&c_z;&c_g;&#x43E;&c_r;&c_t;&c_a;&c_t;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.16 2023/08/01 10:31:58
+Wolfram Diestel: +tr
+
+versio 1.15 2023/04/13 06:31:17
+Wolfram Diestel: +ref
+
+versio 1.14 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.12 2020/10/13 20:35:13
+Wolfram Diestel: +snc TEK, KOMP, +ekz-oj
+
+Revision 1.10  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2014/12/19 17:10:15  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.8  2012/09/04 11:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2010/06/06 16:30:40  revo
+-->
+</vortaro>

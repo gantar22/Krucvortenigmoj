@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vor.xml,v 1.17 2023/04/13 15:27:19 revo Exp $">
+<kap>
+  <rad>vor</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="vor.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vor.0i.mangxegi">
+    <dif>
+      <ref tip="dif" cel="mangx.0egi">Man&gcirc;egi</ref>:
+      <ekz>
+        lang<tld/>i
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Lamentado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kadavro de porko a&ubreve; de cervo estas &jcirc;etita a&ubreve; pendigita por ke malsatantaj
+        varanoj venu tie <tld/>i &gcirc;ian putrantan karnon
+        <fnt>
+          <aut>Wim de Smet</aut>
+          <vrk><url ref="&Monato;/2000/006900.php">La &leftquot;drakoj&#8221; de Komodo:
+          Gigantaj bestoj sur izola insulo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;afoj, kaproj, bovoj k.c., kiujn amas ataki kaj <tld/>i ne nur la leopardoj, sed
+        anka&ubreve; diversaj aliaj rabobestoj sova&gcirc;aj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2007/009210.php">La mondo la&ubreve; la vidpunkto de leopardo</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la publiko <klr>[&#8230;]</klr> <tld/>is artikolojn kaj fotojn
+        aperigitajn
+        en kla&ccirc;revuoj
+        <fnt><aut>Paul Gubbins</aut>: <vrk>Diana... &ccirc;u diino?</vrk>,
+        <bib>Monato</bib>, <lok>jaro 1997a, numero 9a, p. 16a</lok></fnt>.
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la konstruado <tld/>is tri miliardojn da e&ubreve;roj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2010/010081.php">Misteroj</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="konsum.0i">konsumi</ref>,
+       <ref cel="avid.0i">avidi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_zh;&c_e;&c_r;&c_c;&c_ib;</trd>
+  <trd lng="ca">devorar</trd>
+  <trdgrp lng="cs">
+    <trd>po&zcaron;&iacute;rat</trd>,
+    <trd>trhat potravu zuby</trd>,
+    <trd>&zcaron;r&aacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verschlingen</trd>,
+    <trd>fressen</trd>
+  </trdgrp>
+  <trd lng="en">devour</trd>
+  <trd lng="es">devorar</trd>
+  <trd lng="fr">d&eacute;vorer</trd>
+  <trd lng="hu">fal</trd>
+  <trd lng="nl">verslinden</trd>
+  <trdgrp lng="pl">
+    <trd>&zdot;re&cacute;</trd>,
+    <trd>po&zdot;era&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>devorar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_zh;&c_r;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_zh;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hlta&tcaron;</trd>,
+    <trd>&zcaron;ra&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ji;&c_s;&c_t;&c_i; (&#x43F;&c_r;&#x43E; &c_t;&c_v;&c_a;&c_r;&c_i;&#x43D;)</trd>,
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&#x43E;&c_zh;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.17 2023/04/13 15:27:19
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.16 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.13  2019/08/17 23:10:17  revo
+Sam Penter: +trd nl
+
+Revision 1.12  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2013/09/25 14:10:13  revo
+Jessica Grasso: aldonis anglan tradukon de vori
+
+Revision 1.9  2013/04/22 07:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2012/08/13 10:10:33  revo
+-->
+</vortaro>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tor.xml,v 1.25 2023/10/21 14:37:42 revo Exp $">
+<kap>
+  <rad>tor</rad>/o
+</kap>
+<drv mrk="tor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tor.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      <ref tip="super" cel="surfac.0o.MAT">Surfaco</ref>, naskita de
+      <ref cel="cirkl.0o.linio">cirklo</ref> rotacianta &ccirc;irka&ubreve;
+      rekto, kiu situas en la ebeno de la cirklo, sed &gcirc;in ne sekcas;
+      <ref tip="super" cel="solid.0o.geometrio">solido</ref>, kiun limas
+      tia surfaco:
+      <ekz>
+        <tld/>o estas <ref cel="homeom.0a">homeomorfia</ref> al la
+        <ref cel="produt.kartezia0o">kartezia produto</ref> de du
+        cirkloj;
+      </ekz>
+      <ekz>
+        pli &gcirc;enerale, <frm><k>n</k></frm>-dimensian <tld/>on oni nomas
+        la kartezian produton de <frm><k>n</k></frm> cirkloj.
+      </ekz>
+    </dif>
+    <rim>
+      Bricard
+      <fnt><bib>MatTerm</bib>, <lok>p. 30</lok></fnt> &ccirc;i-sence uzas
+      formon <ctl>toruso</ctl>, trovi&gcirc;anta anka&ubreve; en
+      <fnt><bib>MatStokTerm</bib>, <lok>p. 53</lok></fnt>.
+    </rim>
+    <trd lng="be">&c_t;&c_o;&c_r;</trd>
+    <trdgrp lng="de">
+      <trd>Torus</trd>,
+      <trd>Ringfl&auml;che</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>torus</trd>,
+      <trd>toroid</trd>
+    </trdgrp>
+    <trd lng="es">toro<klr> (geometr&iacute;a)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>t&oacute;rusz</trd>,
+      <trd>gy&udblac;r&udblac;fel&uuml;let</trd>
+    </trdgrp>
+    <trd lng="pl">torus</trd>
+    <trd lng="pt">toro</trd>
+    <trd lng="ru">&c_t;&c_o;&c_r;</trd>
+  </snc>
+  <snc mrk="tor.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="modlur.0o.ARKI">Modluro</ref>, ronda
+      elstara&jcirc;o
+      &ccirc;irka&ubreve; kolono.
+    </dif>
+    <trd lng="be">&c_t;&c_o;&c_r;&c_u;&c_s; <klr>(&c_a;&c_r;&c_h;.)</klr></trd>
+    <trd lng="en">torus</trd>
+    <trd lng="hu">p&aacute;rnatag<klr tip="amb"> (oszlopon)</klr></trd>
+    <trd lng="nl">voetring<klr tip="ind"> (v.e.zuil)</klr></trd>
+    <trd lng="pt">toro</trd>
+    <trdgrp lng="ru">
+      <trd>&c_t;&c_o;&c_r;&c_u;&c_s;</trd>,
+      <trd>&c_p;&c_o;&c_l;&c_u;&c_k;&c_r;&c_u;&c_g;&c_l;&c_y;&c_j; &c_f;&c_r;&c_i;&c_z;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>anuloid</trd>,
+    <trd>kruhov&yacute; prstenec</trd>,
+    <trd>torus</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>toro<klr> (arquitectura)</klr></trd>,
+    <trd>bocel</trd>
+  </trdgrp>
+  <trd lng="fr">tore</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7389;&#x7E01;  <pr>&#x305F;&#x307E;&#x3048;&#x3093;</pr></trd>,
+    <trd>&#x5186;&#x74B0;&#x9762;  <pr>&#x3048;&#x3093;&#x304B;&#x3093;&#x3081;&#x3093;</pr></trd>,
+    <trd>&#x30C8;&#x30FC;&#x30E9;&#x30B9;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kruhov&yacute; prstenec</trd>,
+    <trd>torus</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&#x43E;&c_r;</trd>,
+    <trd>&#x43A;&c_ib;&#x43B;&#x44C;&c_c;&c_je;</trd>,
+    <trd>&c_v;&c_a;&#x43B;&c_i;&#x43A;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.23 2022/09/15 07:42:16
+Dmitri Gabinski: + trd be
+
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2006/02/16 17:32:26  revo
+Tulio Flores: +trd pt
+
+Revision 1.17  2005/08/14 16:31:47  revo
+Jeromo Vasxe: + tez snc arki
+
+Revision 1.16 2003/09/25 16:32:01 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15 2003/01/02 17:51:52 revo
+-->
+</vortaro>

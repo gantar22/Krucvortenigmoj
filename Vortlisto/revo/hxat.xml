@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hxat.xml,v 1.6 2023/11/16 09:24:30 revo Exp $">
+<kap>
+    <rad>&hcirc;at</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="hxat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="hxat.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="dom.0o.konstruajxo">Domo</ref>
+      kun pajla tegmento; <ref tip="super" cel="kaban.0o">pajlkabano</ref>:
+      <ekz>
+        du fojojn li nokte eniris <tld/>ojn dum la lo&gcirc;antoj ku&scirc;is
+        dormantaj sur siaj matoj
+        <fnt>
+          <aut>E. R. Burroughs, trad. D. J. Harlow</aut>,
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Tarzan/index.html">
+          Tarzan de la simioj</url></vrk>,
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la komunumo <nom>&Lstroke;yse</nom> estas centro de la popola arto kun ligna
+        pre&gcirc;ejo plena de popolartaj pentra&jcirc;oj kaj lignaj
+        <klr>[&#8230;]</klr> vila&gcirc;aj <tld/>oj
+        <fnt>
+          <aut>Pola Radio</aut>,
+          <vrk><url ref="http://www.polskieradio.pl/eo/dokument.aspx?iid=78140">
+          &Lstroke;yse i Lipniki</url></vrk>,
+          <lok>2008-03-15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_a;&c_t;&c_a; <klr>(&c_z; &c_s;&c_a;&c_l;&c_a;&c_m;&c_ja;&c_n;&c_y;&c_m; &c_d;&c_a;&c_h;&c_a;&c_m;)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Schilfh&uuml;tte</trd>,
+    <trd>Reethaus</trd>
+  </trdgrp>
+  <trd lng="fr">chaumi&egrave;re</trd>
+  <trd lng="hu">szalmatet&odblac;s h&aacute;z</trd>
+  <trdgrp lng="it">
+    <trd>casa con tetto di paglia</trd>,
+    <trd>casone<klr> (casa rurale)</klr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_h;&c_a;&c_t;&c_a;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2023/11/16 09:24:30
+Wolfram Diestel: +trd de, ref
+
+versio 1.4 2022/02/10 08:33:24
+Dmitri Gabinski: + trd be
+
+versio 1.3 2020/10/19 08:11:14
+Jozefo Horvath: +tr hu
+
+Revision 1.1  2010/05/28 16:30:21  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

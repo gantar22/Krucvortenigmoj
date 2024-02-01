@@ -1,0 +1,604 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bul.xml,v 1.43 2023/10/29 19:11:04 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>bul</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="bul.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="bul.0o.KOMUNE">
+    <dif>
+      Peco da ia ajn materio kun proksimuma 
+      <ref tip="lst" lst="voko:formoj" cel="form.0o.aspekto">formo</ref> de
+      <ref cel="glob.0o.FORM">globo</ref>, <ref cel="sfer.0o.KOMUNE">sfero</ref>:
+      <ekz>
+        <tld/>o el pasto, viando, ne&gcirc;o, papero;
+      </ekz>
+      <ekz>
+        <klr>[en]</klr> la dua po&scirc;o <klr>[trovi&gcirc;is]</klr> tondilo en ingo, plenmano da
+        vitraj perloj, kelkaj <tld/>oj da fadeno, kudrilujo
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni havas ankora&ubreve; duonon da <ind>pan<tld/>o</ind>
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>;
+        <trd lng="de">Laib <klr>(Brot)</klr></trd>
+      </ekz>
+      <ekz>
+        la tajloreto prenis panon el la &scirc;ranko, tran&ccirc;is
+        pecon tra la tuta <tld/>o kaj sur&scirc;miris la marmeladon
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La kura&gcirc;a tajloreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas tiel malvarme, ke la nuboj glacii&gcirc;as en <tld/>ojn kaj falas malsupren en
+        formo de malgrandaj blankaj &ccirc;ifonetoj <klr>&#x2026;</klr>, &scirc;i parolis pri la ne&gcirc;o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Cikonioj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iliaj haroj <klr>[estis]</klr> kunvolvitaj sur la malanta&ubreve;o de la kapo en formo
+        de <tld/>o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        serpentaj tordo<tld/>oj, el kiuj elstaris la kapoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la stana soldato fandi&gcirc;is kaj fari&gcirc;is <tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Persista stana soldato</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">VULG</uzo>
+        se ne estus tiu &ccirc;i &ccirc;agrena persista <tld/>o da karno <klr>(mortonta korpo)</klr>, 
+        kiu simile al la sor&ccirc;ista hundo en la fabeloj, baras al mi la vojon al miaj trezoroj
+        <fnt>
+          <bib>Rabistoj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia koro estis kvaza&ubreve; <tld/>o da glacio
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Fabelo en sep rakontoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_m;&c_ja;&c_k;</trd>,
+    <trd>&c_k;&c_l;&c_jo;&c_c;&c_k;&c_a; <klr>(pasta)</klr></trd>,
+    <trd>&c_f;&c_r;&c_y;&c_k;&c_a;&c_d;&c_e;&c_l;&c_mol;&c_k;&c_a;
+    <klr>(vianda)</klr></trd>,
+    <trd>&c_s;&c_mol;&c_n;&c_ja;&c_zh;&c_o;&c_k;
+    <klr>(ne&gcirc;a)</klr></trd>
+  </trdgrp>
+  <trd lng="bo">&t_ra;&t_data;&t_naro;&t_ga;&t_tsheg;&t_ra;&t_data;&t_naro;&t_ga;&t_tsheg;</trd>
+  <trd lng="ca">bola</trd>
+  <trdgrp lng="cs">
+    <trd>hrouda</trd>,
+    <trd>knedl&iacute;k</trd>,
+    <trd>koule</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Klo&szlig;</trd>,
+    <trd>Ball</trd>,
+    <trd>Brocken</trd>,
+    <trd>Klumpen</trd>,
+    <trd>Batzen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ball</trd>, <trd>lump</trd>
+  </trdgrp>
+  <trd lng="es">bola</trd>
+  <trd lng="fr">boule</trd>
+  <trdgrp lng="he">
+    <trd>&resh;&gimel;&bet;</trd>,
+    <trd>&gimel;&vav;&shin;</trd>
+  </trdgrp>
+  <trd lng="hu">gomb&oacute;c</trd>
+  <trd lng="it">boccia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7389;  <pr>&#x304E;&#x3087;&#x304F;</pr></trd>,
+    <trd>&#x56E3;&#x5B50;  <pr>&#x3060;&#x3093;&#x3054;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bol</trd>,
+    <trd>bal</trd>,
+    <trd>klomp</trd>,
+    <trd>klont</trd>,
+    <trd>kluit</trd>,
+    <trd>prop</trd>,
+    <trd>dot</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>bu&lstroke;a</trd>,
+    <trd>bry&lstroke;a</trd>,
+    <trd>klucha</trd>,
+    <trd>k&lstroke;&aogonek;b</trd>,
+    <trd>bochen</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>bola</trd>,
+    <trd>torr&atilde;o</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_m;&c_o;&c_k;</trd>,
+    <trd>&c_k;&c_o;&c_m;</trd>,
+    <trd>&c_k;&c_l;&c_jo;&c_c;&c_k;&c_a; <klr>(pasta)</klr></trd>,
+    <trd>&c_f;&c_r;&c_i;&c_k;&c_a;&c_d;&c_je;&c_l;&c_mol;&c_k;&c_a;
+    <klr>(vianda)</klr></trd>,
+    <trd>&c_s;&c_n;&c_je;&c_zh;&c_o;&c_k; <klr>(ne&gcirc;a)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">snehov&aacute; gu&lcaron;a</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_r;&c_u;&c_d;&#x43A;&c_a;</trd>,
+    <trd>&#x43A;&#x43B;&c_u;&c_b;&#x43E;&#x43A;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E38;&#x5B50; <pr>w&#xE1;nzi</pr></trd>,
+    <trd>&#x56E2; <pr>tu&#xE1;n</pr></trd>,
+    <trd>&#x571F;&#x5757; <pr>t&#x1D4;ku&#xE0;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bul.0eto">
+  <kap>
+    <tld/>eto
+  </kap>
+  <snc mrk="bul.0eto.KOMUNE">
+    <dif>
+      <tld lit="B"/>o pli malgranda ol pugno:
+      <ekz>
+        &scirc;i ekvidis paperan <tld/>eton, kiu ruli&gcirc;is &gcirc;is la fenestro, <klr>[&#x2026;&scirc;i]</klr> &gcirc;in
+        zorge malfaldis, legis
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu el la sanktaj insektoj rulis anta&ubreve; si argilan <tld/>eton
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 1a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;evalo kaj bovino amas la fojnon, kaj la hordeajn <tld/>etojn oni devas
+        superforte pu&scirc;i en ilian gor&gcirc;on
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 12a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en kelkaj nestoj videblis e&ccirc; &ccirc;armaj lanugaj <tld/>etoj &ndash; la &jcirc;us elkovitaj
+        birdidoj
+        <fnt>
+          <bib>LOdE</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Tekstaro;?nomo=ondo-de-esperanto">Sova&gcirc;a vivo en
+          Esperanto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> ellasis rondajn <tld/>etojn de la blua fumo
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Kn&ouml;llchen</trd>,
+      <trd>Kl&uuml;mpchen</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="bul.0eto.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Diversspeca kuirita pasto<tld/>o:
+      <ekz>
+        mi vidis denove la stufitan &scirc;afa&jcirc;on <klr>[&#x2026;]</klr> kaj la supon kun la reveme
+        na&gcirc;antaj <tld/>etoj...
+        <fnt>
+          <bib>RBa</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi rigardas lin super supotelero en kiu viand<tld/>etoj na&gcirc;as
+        <fnt>
+          <aut>S. &Scaron;timec</aut>
+          <vrk>Ombro sur interna pejza&gcirc;o</vrk>
+          <lok>1984</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>etoj la&ubreve; <nom>K&ouml;nigsberg</nom> <klr>[&#x2026;]</klr> estas malgrandaj viand<tld/>etoj el la
+        regiono de la iama orientprusa urbo
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <ind>frit<tld/>eto</ind>j tute bone gustas
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+        <trdgrp lng="de">
+          <trd>Bulette</trd>,
+          <trd>Frikadelle</trd>,
+          <trd>Bratling</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        kiam li volis kapti plotojn kaj alburnojn, li metis pastan <tld/>eton sur la
+        hokon
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+       <ref cel="falafel.0o.bulo">falafelo<sncref/></ref>,
+       <ref cel="knedlik.0o">knedliko</ref>,
+       <ref cel="nok.0oj">nokoj</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Kl&ouml;&szlig;chen</trd>,
+      <trd>Kn&ouml;del</trd>,
+      <trd>Nocke</trd>,
+      <trd>Klops</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ja">&#x5C0F;&#x3055;&#x3044;&#x7389;  <pr>&#x3061;&#x3044;&#x3055;&#x3044;&#x305F;&#x307E;</pr></trd>
+  <trd lng="uk">&c_g;&c_r;&c_u;&c_d;&#x43E;&c_ch;&#x43A;&c_a;</trd>
+</drv>
+
+<drv mrk="bul.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="bul.0igi.KOMUNE">
+    <dif>
+      Premi a&ubreve; iel formi al <tld/>o:
+      <ekz>
+        la publiko elektis lote kelkajn <tld/>igitajn biletojn
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la me&ccirc;ingo enestis <tld/>igita strio de vi&scirc;tuko
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tradiciaj grandsa&gcirc;uloj, kiuj kreskigas barbon, karakterize <tld/>igas la
+        hararon
+        <fnt>
+          <bib>Kon11</bib>
+          <aut>Probal Dasgupta</aut>
+          <vrk>Barato</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>&Ccirc;i&ubreve; Jang</nom> demetis la surtuton, rule <tld/>igis kaj
+        metis &gcirc;in sur apudan se&gcirc;on
+        <fnt>
+          <aut>Fang &Gcirc;ja&gcirc;jun, trad. &Ubreve;ang
+          &Scirc;i&jcirc;ong</aut>,
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/epc/epc8708/kafejo.html">
+          Kanto-stelulo migranta inter kafejoj</url></vrk>,
+          <lok>El popola &Ccirc;inio, 1987-08, p. 37-39a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="glu.kun0i">kunglui</ref>,
+       <ref cel="konglomer.0i">konglomeri</ref>
+    </refgrp>
+    <trdgrp lng="zh">
+    <trd>&#x7403;&#x5316; <pr>qi&#xFA;hu&#xE0;</pr></trd>,
+    <trd>&#x6210;&#x7403; <pr>ch&#xE9;ngqi&#xFA;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="ca">fer una bola</trd>
+  <trd lng="cs">svinout do klubka <klr>(prov&aacute;zek)</klr></trd>
+  <trdgrp lng="de">
+    <trd>zusammenkn&auml;ueln</trd>,
+    <trd>einen Klo&szlig; <ind>formen</ind></trd>,
+    <trd>verkn&uuml;llen</trd>
+  </trdgrp>
+  <trd lng="fr">mettre en <ind>boule</ind><klr> (sens
+  propre)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E38;&#x3081;&#x308B;  <pr>&#x307E;&#x308B;&#x3081;&#x308B;</pr></trd>,
+    <trd>&#x56E3;&#x5B50;&#x306B;&#x3059;&#x308B;  <pr>&#x3060;&#x3093;&#x3054;&#x306B;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>formowa&cacute; <ind>bu&lstroke;&eogonek;</ind></trd>,
+    <trd>lepi&cacute; <ind>kluch&eogonek;</ind></trd>,
+    <trd>zwija&cacute; w <ind>k&lstroke;&aogonek;b</ind></trd>
+  </trdgrp>
+  <trd lng="sk">zvin&uacute;&tcaron; do klbka
+  <klr>(&scaron;n&uacute;ru)</klr></trd>
+</drv>
+
+<drv mrk="bul.0igxi">
+  <kap><tld/>i&gcirc;i, <var><kap>kun<tld/>i&gcirc;i</kap></var></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="bul.0igxi.KOMUNE">
+    <dif>
+      Formi&gcirc;i kiel <tld/>o kunpremi&gcirc;e, &scirc;vele a&ubreve;
+      alimaniere:
+      <ekz>
+	la nuboj kun<tld/>i&gcirc;is en unu solan grandan
+	minacan mason
+	<fnt><bib>Fab1</bib> <lok>Sova&gcirc;aj cignoj</lok></fnt>;
+      </ekz>
+      <ekz>
+	oni trovis &scirc;in, en la soleca lito, <tld/>i&gcirc;inta kiel
+	salikoko
+	<fnt>
+        <aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>,
+	<vrk>Cent Jaroj da Soleco</vrk>
+        <lok>1992</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">apilar-se (en forma de bola)</trd>
+  <trdgrp lng="de">
+    <trd>sich <ind>verkn&auml;ueln</ind></trd>,
+    <trd>verklumpen</trd>,
+    <trd>zusammenbacken</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>se <ind>blottir</ind></trd>,
+    <trd>se mettre en <ind>boule</ind><klr> (sens propre)</klr></trd>,
+    <trd>s'<ind>enrouler</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>gomolyog</trd>,
+    <trd>&ouml;sszeg&ouml;mb&ouml;ly&ouml;dik</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E38;&#x307E;&#x308B;  <pr>&#x307E;&#x308B;&#x307E;&#x308B;</pr></trd>,
+    <trd>&#x56E3;&#x5B50;&#x306B;&#x306A;&#x308B;  <pr>&#x3060;&#x3093;&#x3054;&#x306B;&#x306A;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">klonteren</trd>
+  <trdgrp lng="pl">
+    <trd>zwija&cacute; si&eogonek;<klr> w kulk&eogonek;</klr></trd>,
+    <trd>zbryla&cacute; si&eogonek;</trd>,
+    <trd>zbija&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F; &c_v; &c_g;&c_r;&c_u;&c_d;&#x43A;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_v;&c_a;&c_t;&c_i; &c_g;&c_r;&c_u;&c_d;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;&#x43C;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x6210;&#x56E2; <pr>ch&#xE9;ngtu&#xE1;n</pr></trd>
+</drv>
+
+<drv mrk="bul.faden0o">
+  <kap>faden<tld/>o</kap>
+  <snc mrk="bul.faden0o.TEKS">
+    <dif>
+      <tld lit="B"/>forma <ref tip="super" cel="volv.0ajxo">volva&jcirc;o</ref> da fadeno:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la konfuzita faden<tld/>o de nia sorto estas malligita! <klr>[&#x2026;]</klr> faru
+        pre&gcirc;on <klr>(kp <ref cel="park1.0o">Parco</ref>)</klr>
+        <fnt>
+          <bib>Rabistoj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fadenoj estas kutime vendataj sub la formo de <ref tip="vid" cel="boben.0o.KOMUNE">bobeno<sncref/></ref> (
+        ekz. fadenbobeno de kotono) a&ubreve; de <tld/>o (ekz. faden<tld/>o de lano)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=125593">Fadeno</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="boben.0o.KOMUNE">bobeno<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_l;&c_u;&c_b;&c_o;&c_k;</trd>
+  <trd lng="ca">cabdell</trd>
+  <trd lng="cs">klubko</trd>
+  <trd lng="de">Kn&auml;uel</trd>
+  <trdgrp lng="en">
+    <trd>threadball</trd>,
+    <trd>yarnball</trd>
+  </trdgrp>
+  <trd lng="fr">pelote <klr tip="ind">(de fil, etc.)</klr></trd>
+  <trd lng="hu">gombolyag</trd>
+  <trd lng="it">gomitolo</trd>
+  <trd lng="ja">&#x7CF8;&#x7389;  <pr>&#x3044;&#x3068;&#x3060;&#x307E;</pr></trd>
+  <trd lng="nl">kluwen</trd>
+  <trdgrp lng="pl">
+    <trd>motek</trd>,
+    <trd>k&lstroke;&eogonek;bek</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_l;&c_u;&c_b;&c_o;&c_k;</trd>
+  <trd lng="sk">klbko</trd>
+  <trd lng="sv">nystan</trd>
+  <trd lng="uk">&#x43A;&#x43B;&c_u;&c_b;&#x43E;&#x43A; (&#x43D;&c_i;&c_t;&#x43E;&#x43A;)</trd>
+</drv>
+
+<drv mrk="bul.har0o">
+  <kap>har<tld/>o</kap>
+  <snc mrk="bul.har0o.KOS">
+    <dif>
+      <ref tip="dif" cel="tuber.har0o">Hartubero</ref>:
+      <ekz>
+        &scirc;iaj haroj estis noditaj al har<tld/>o por montri &scirc;ian dignon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=24039">Vikingoj</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+	ho, &scirc;ia ebona hararo densa kaj brile glata! jen hispana pinglo
+	en helena har<tld/>o
+	<fnt>
+    	  <aut>Guo Moruo, trad. -</aut>,
+    	  <vrk><url ref="&CRI;1/2003/12/26/1@2087.htm">
+    	  Karamela Knabino</url></vrk>,
+    	  <lok>&Ccirc;ina Radio Internacia, 2003-12-26</lok>
+	</fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="har.0plektajxo">harplekta&jcirc;o</ref>
+    <trdgrp lng="zh">
+    <trd>&#x7E82; <pr>zu&#x1CE;n</pr></trd>,
+    <trd>&#x9AFB; <pr>j&#xEC;</pr></trd>,
+    <trd>&#x7E82;&#x513F; <pr>zu&#x1CE;n&#x113;r</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="ca">
+    <trd>trossa</trd>,
+    <trd>castanya</trd>
+  </trdgrp>
+  <trd lng="cs">drdol</trd>
+  <trd lng="de">Dutt</trd>
+  <trd lng="en">bun <klr>(hair)</klr></trd>
+  <trd lng="fr">chignon</trd>
+  <trd lng="hu">konty</trd>
+  <trd lng="it">crocchia</trd>
+  <trdgrp lng="nl">
+    <trd>haarbal</trd>,
+    <trd>haarknoet</trd>
+  </trdgrp>
+  <trd lng="pl">kok</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_u;&c_ch;&c_o;&c_k; <klr tip="amb">(&c_p;&c_r;&c_i;&c_ch;&c_jo;&c_s;&c_k;&c_a;)</klr></trd>,
+    <trd>&c_u;&c_z;&c_je;&c_l; <klr tip="amb">(&c_v;&c_o;&c_l;&c_o;&c_s;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>drdol</trd>,
+    <trd>uzol</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bul.karbo0eto">
+  <kap>karbo<tld/>eto</kap>
+  <snc mrk="bul.karbo0eto.HEJM">
+    <dif>
+      <tld lit="B"/>forme kunpremita a&ubreve; kungluita karbopolvo,
+      uzebla kiel brula&jcirc;o:
+      <ekz>
+        mi a&ccirc;etos kvin &gcirc;inojn da karbo<tld/>etoj je kredito
+        <fnt>
+          <aut>Lao She, trad. Wang Chongfang</aut>,
+          <vrk><url ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          Kamelo &Scirc;jangzi</url></vrk>,
+          <lok>1988</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="brik.0eto">briketo</ref>
+    <trd lng="zh">&#x578B;&#x7164; <pr>x&#xED;ngm&#xE9;i</pr></trd>
+</snc>
+  <trdgrp lng="de">
+     <trd>Brikett</trd>,
+     <trd>Eierkohle</trd>
+  </trdgrp>
+  <trd lng="fr">boulet de charbon</trd>
+  <trd lng="ja">&#x8C46;&#x70AD;  <pr>&#x307E;&#x3081;&#x305F;&#x3093;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>briket</trd>,
+    <trd>eierkool</trd>,
+    <trd>extraciet</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bul.ter0o">
+  <kap>ter<tld/>o</kap>
+  <snc mrk="bul.ter0o.AGR">
+    <dif>
+      Kunglui&gcirc;inta amaseto da tero:
+      <ekz>
+        li kuris momenton inter la ter<tld/>oj <klr>(de la plugokampo)</klr> kaj subite
+        englitis en musan truon
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Fingreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni &jcirc;etis la terbulojn sur la &ccirc;erkon <klr>[&#x2026;kiu balda&ubreve;]</klr> malaperis sub la
+        sekvanta &scirc;ovelkvanto da tero
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        koto de la trua mureto falis sur lin, kaj momenton poste 
+        ter<tld/>oj kaj &scirc;tonoj pluvis &ccirc;irka&ubreve; li
+        <fnt>
+          <aut>J. Francis</aut>
+          <vrk>La Granda Kaldrono</vrk>
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Erdklumpen</trd>,
+    <trd>Brocken <klr>(Erde)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">motte de terre</trd>
+  <trd lng="ja">&#x571F;&#x304F;&#x308C;  <pr>&#x3064;&#x3061;&#x304F;&#x308C;</pr></trd>
+  <trd lng="nl">aardkluit</trd>
+  <trd lng="uk">&c_g;&c_r;&c_u;&c_d;&#x43A;&c_a; &c_z;&c_je;&#x43C;&#x43B;&c_ib;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.42 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.40 2023/05/03 16:39:01
+revo: aktualigo URL-unuoj
+
+versio 1.39 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.38 2022/04/22 09:33:08
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.34 2022/02/20 20:28:17
+Jeromo Vasxe: har~o ref dif
+
+versio 1.33 2021/06/29 19:21:50
+Wolfram Diestel: +~eto; ekz-oj, ref-oj, trd de
+
+Revision 1.29  2017/10/09 15:10:14  revo
+Jeromo Vasxe: ~tero
+
+Revision 1.28  2016/11/26 18:10:14  revo
+-->
+</vortaro>

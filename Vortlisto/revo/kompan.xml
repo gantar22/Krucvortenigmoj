@@ -1,0 +1,630 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kompan.xml,v 1.41 2023/12/03 09:58:53 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kompani</rad>/o
+</kap>
+
+<drv mrk="kompan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kompan.0o.direktantaro">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Kuni&gcirc;o da personoj kune direktantaj komercan a&ubreve;
+      industrian aferon:
+      <ekz>
+        firmo X kaj K&deg; <klr>(legu: kaj <tld/>o)</klr>;
+      </ekz><ekz>
+        fari <tld/>on kun iu.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="asoci.0o">asocio</ref>
+    </refgrp>
+    <trd lng="de">Gesellschaft</trd>
+    <trd lng="fr">compagnie<klr tip="ind"> (association de
+    g&eacute;rants)</klr></trd>
+    <trdgrp lng="it">
+      <trd>compagnia</trd>,
+      <trd>societ&agrave;</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>maatschappij</trd>,
+      <trd>vennootschap</trd>
+    </trdgrp>
+    <trd lng="pt">companhia</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_i;&c_ja;</trd>,
+      <trd>&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kompan.0o.afero">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Tiu komerca a&ubreve; industria afero mem:
+      <ekz>
+        <ind>fervoja <tld/>o</ind>;
+        <trd lng="fr">compagnie de chemins de fer</trd>
+        <trd lng="hu">vas&uacute;tt&aacute;rsas&aacute;g</trd> 
+        <trd lng="it">compagnia ferroviaria</trd>
+        <trd lng="nl">spoorwegmaatschappij</trd>       
+      </ekz><ekz>
+        <ind>asekura <tld/>o</ind>;
+        <trd lng="fr">compagnie d'assurances</trd>
+        <trd lng="hu">biztos&iacute;t&oacute;t&aacute;rsas&aacute;g</trd>
+        <trd lng="it">compagnia assicuratrice</trd>
+        <trd lng="nl">verzekeringsmaatschappij</trd>        
+      </ekz>
+      <ekz>
+        supernaciaj <tld/>oj
+        <fnt>
+       <aut>Ji&rcaron;&iacute; Patera</aut>
+          <vrk><url ref="&Monato;/2001/007258.html">Post la kunsido de financistoj en
+          Prago</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        telefona <tld/>o
+         <fnt>
+          <aut>Will Green</aut>
+          <vrk><url ref="&Monato;/1994/A940103.php">Will Green kondukas vin tra sia telefona
+          labirinto</url></vrk>
+          <bib>Monato</bib>
+          <lok>1994/01, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        transport<tld/>o
+        <fnt>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        opinio-sondada <tld/>o
+        <fnt>
+       <aut>LAST/pg</aut>
+          <vrk><url ref="&Monato;/2000/006828.php">Mizero en la mezo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/09, p. 14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="entrep.0o.EKON">entrepreno<sncref/></ref>,
+      <ref cel="firm1.0o">firmo, firmao</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="societ.0o">societo</ref>
+    </refgrp>
+    <trd lng="de">Gesellschaft</trd>
+    <trd lng="fr">compagnie<klr tip="ind"> (soci&eacute;t&eacute;)</klr></trd>
+    <trd lng="hu">gazdas&aacute;gi <ind>t&aacute;rsas&aacute;g</ind></trd> 
+    <trdgrp lng="it">
+      <trd>compagnia</trd>,
+      <trd>societ&agrave;</trd>
+    </trdgrp>   
+    <trdgrp lng="nl">
+      <trd>maatschappij</trd>,
+      <trd>vennootschap</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_i;&c_ja;</trd>,
+      <trd>&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kompan.0o.kunestado">
+    <dif>
+      Kunestado, stato de iu
+      <ref cel="akompa.0i.kunesti">akompanata</ref>:
+      <ekz>
+        vi volas <tld/>on &dash; iru en la butiketon: tie kavaliro
+        rakontos
+        al vi pri tendaroj kaj raportos al vi, kion &ccirc;iu stelo
+        signifas en la &ccirc;ielo
+        <fnt><bib>Revizoro</bib><lok>2:1</lok></fnt>;
+      </ekz><ekz>
+        en <tld/>o e&ccirc; morto facili&gcirc;as
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        neniu ta&ubreve;gis por <tld/>o, &ccirc;iu estis sengusta kaj triviala
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Korta koko kaj ventkoko</lok>
+        </fnt>;
+      </ekz><ekz>
+        kun kia kanajlaro mi devas nun esti en <tld/>o
+        <fnt><bib>Fab2</bib><lok>Gefian&ccirc;oj</lok></fnt>!
+      </ekz><ekz>
+        tute ne estas agrable <ind>havi <tld/>on kun</ind> vi
+        <fnt><bib>Fab2</bib><lok>Malbela anasido</lok></fnt>!
+        <trdgrp lng="fr">
+          <trd>&ecirc;tre en <ind>compagnie</ind> de</trd>,
+          <trd>c&ocirc;toyer<klr tip="ind"> (fr&eacute;quenter)</klr></trd>,
+          <trd>fr&eacute;quenter<klr tip="ind"> (qn)</klr></trd>
+        </trdgrp>
+        <trd lng="hu">vki <ind>t&aacute;rsas&aacute;g&aacute;ban</ind> van</trd>      
+      </ekz>
+    </dif>
+    <trd lng="de">Begleitung</trd>
+    <trdgrp lng="fr">
+      <trd>compagnie<klr tip="ind"> (pr&eacute;sence de
+      personnes)</klr></trd>,
+      <trd>soci&eacute;t&eacute;<klr tip="ind"> (compagnie de
+      personnes)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>t&aacute;rsas&aacute;g</trd>,
+      <trd>komp&aacute;nia</trd>
+    </trdgrp>
+    <trd lng="it">compagnia</trd>
+    <trd lng="nl">gezelschap</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_i;&c_ja;</trd>,
+      <trd>&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kompan.0o.akompanantaro">
+    <dif>
+      <ref tip="dif" cel="akompa.0antaro">Akompanantaro</ref>:
+      <ekz>
+        neniam anta&ubreve;e li estis en tia maldelikata kaj needukita
+        <tld/>o
+        <fnt><bib>Fab1</bib><lok>Galo&scirc;oj de feli&ccirc;o</lok></fnt>;
+      </ekz><ekz>
+        tie kunvenis gaja <tld/>o
+        <fnt><bib>Metrop</bib><lok>&ccirc;ap. 3</lok></fnt>;
+      </ekz><ekz>
+        la <tld/>o, kiel vi vidas, estas negranda,
+        miksa kaj senartifika
+        <fnt><bib>MkM</bib><lok>&ccirc;ap. 22</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>compagnie<klr tip="ind"> (entourage)</klr></trd>,
+      <trd>assembl&eacute;e<klr tip="ind"> (assistance)</klr></trd>,
+      <trd>assistance<klr tip="ind"> (assembl&eacute;e)</klr></trd>,
+      <trd>entourage</trd>,
+      <trd>escorte</trd>,
+      <trd>suite<klr tip="ind"> (personnes qui
+      accompagnent)</klr></trd>,
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>t&aacute;rsas&aacute;g</trd>,
+      <trd>k&iacute;s&eacute;ret</trd>
+    </trdgrp>
+    <trd lng="it">compagnia</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_i;&c_ja;</trd>,
+      <trd>&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x8FDE;&#x961F; <pr>li&#xE1;ndu&#xEC;</pr></trd>,
+    <trd>&#x4F34; <pr>b&#xE0;n</pr></trd>,
+    <trd>&#x62A4;&#x536B; <pr>h&#xF9;w&#xE8;i</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="kompan.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      En la orienta E&ubreve;ropo, mezepoke &dash; grupo da viroj
+      (kelkcent, malpli ol milo) dungi&gcirc;intaj por servi princon en milito,
+      administrado de la princujo kaj de la persona bieno de la
+      princo:
+      <ekz>
+        Svetoslavo iris al li kun sia filo Olgo kaj la malgranda
+        <tld/>o
+        <fnt>
+          <aut>S. Pokrovskij</aut>:
+          <vrk><url ref="https://www.esperanto.be/fel/mon/priutf/850-8.html">Moskvo
+          jubileas</url></vrk>. <bib>Monato</bib>
+        </fnt>.            
+      </ekz>
+    </dif>
+    <trdgrp lng="el">
+      <trd>&sigma;&ypsilon;&ny;&omikron;&delta;&jota_ton;&alfa;</trd>,
+      <trd>&epsilon_densa;&tau;&alfa;&jota_ton;&rho;&omikron;&jota;</trd>
+    </trdgrp>
+    <trd lng="it">compagnia</trd>
+    <trd lng="la">comitatus</trd>
+    <trd lng="ru">&c_d;&c_r;&c_u;&c_zh;&c_i;&c_n;&c_a;</trd>
+  </snc>
+  <snc mrk="kompan.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="rot.0o.kompanio">roto</ref>
+    <trd lng="de">Rotte</trd>
+    <trd lng="fr">compagnie<klr tip="ind"> (unit&eacute;
+    militaire)</klr></trd>
+    <trd lng="it">compagnia</trd>
+    <trdgrp lng="zh">
+    <trd>&#x8FDE; <pr>li&#xE1;n</pr></trd>,
+    <trd>&#x72FC;&#x7FA4; <pr>l&#xE1;ngq&#xFA;n</pr></trd>,
+    <trd>&#x91CE;&#x732A;&#x7FA4; <pr>y&#x11B;zh&#x16B;q&#xFA;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_a;&c_n;&c_ib;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>sdru&zcaron;en&iacute;</trd>,
+    <trd>spolek</trd>,
+    <trd>spole&ccaron;nost</trd>
+  </trdgrp>
+  <trd lng="en">company</trd>
+  <trd lng="es">compa&ntilde;&iacute;a</trd>
+  <trd lng="he">&het;&bet;&resh;&he;</trd>
+  <trd lng="hu">sz&aacute;zad</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4F1A;&#x793E;  <pr>&#x304B;&#x3044;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x4EF2;&#x9593;  <pr>&#x306A;&#x304B;&#x307E;</pr></trd>,
+    <trd>&#x4E00;&#x540C;  <pr>&#x3044;&#x3061;&#x3069;&#x3046;</pr></trd>,
+    <trd>&#x4E00;&#x884C;  <pr>&#x3044;&#x3063;&#x3053;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ekipa</trd>,
+    <trd>kompania</trd>,
+    <trd>sp&oacute;&lstroke;ka</trd>
+  </trdgrp>
+  <trd lng="ro">companie</trd>
+  <trdgrp lng="sk">
+    <trd>dru&zcaron;ina</trd>,
+    <trd>spolok</trd>,
+    <trd>zdru&zcaron;enie</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8FDE;&#x961F; <pr>li&#xE1;ndu&#xEC;</pr></trd>,
+    <trd>&#x5546;&#x884C; <pr>sh&#x101;ngh&#xE1;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kompan.en0ode">
+  <kap>en <tld/>o de</kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="kompan.en0ode.kun">
+    <dif>
+      <ref tip="dif" cel="kun.0.kie">Kun<sncref/></ref>:
+      <ekz>
+        estis aparta plezuro sidi en apudhejma &gcirc;ardeno
+        en <tld/>o de amikoj
+        <fnt><bib>Voja&gcirc;o</bib>
+          <aut>B. Kolker</aut><lok>leciono 25a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lokulo en <tld/>o de tri apena&ubreve; bu&ccirc;itaj muflonoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2010/010163.php">&Ccirc;asantoj &ccirc;asataj</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en bela <tld/>o de aliaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2003/008000.html">Jur-renverso</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+       <ref cel="akompa.0atede">akompanate de, en akompano de</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>im <ind>Beisein</ind> von</trd>,
+    <trd>in <ind>Gesellschaft</ind> von</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>avec<klr tip="ind"> (en compagnie de)</klr></trd>,
+    <trd>en <ind>compagnie</ind> de</trd>,
+    <trd>accompagn&eacute; de</trd>
+  </trdgrp>
+  <trd lng="hu">t&aacute;rsas&aacute;g&aacute;ban</trd> 
+  <trd lng="it">in <ind>compagnia</ind> di</trd>
+  <trd lng="nl">in <ind>gezelschap</ind> van</trd> 
+  <trd lng="pl">w towarzystwie...</trd>     
+  <trd lng="ro">&icirc;n cadrul companiei ...</trd>
+  <trd lng="ru">&c_v; <ind>&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;</ind><klr>
+   (&c_k;&c_o;&c_g;&c_o;-&c_l;.)</klr></trd>
+  <trd lng="zh">&#x8F14;&#x4EE5; <pr>f&#x1D4;y&#x1D0;</pr></trd>
+</drv>
+
+<drv mrk="kompan.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="kompan.0ano.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Ano de <tld/>o <sncref ref="kompan.0o.direktantaro"/>:
+      <ekz>
+        mi estas aktiva <tld/>anino de mia edzo
+        en industria entrepreno
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_a;&c_n;&c_mol;&c_jo;&c_n;</trd>
+    <trd lng="de">Gesellschafter</trd>
+    <trd lng="en">associate</trd>
+    <trd lng="fr">associ&eacute;<klr tip="ind"> (dans une
+    compagnie)</klr></trd>
+    <trd lng="he">&shin;&vav;&tav;&fpe;</trd>
+    <trdgrp lng="hu">
+      <trd>t&aacute;rsas&aacute;gi tag</trd>,
+      <trd>c&eacute;gt&aacute;rs</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>compagno</trd>,
+      <trd>socio</trd>
+    </trdgrp>
+    <trd lng="nl">vennoot</trd>
+    <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_mol;&c_o;&c_n;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x5408;&#x4F19;&#x4EBA; <pr>h&#xE9;hu&#x1D2;r&#xE9;n</pr></trd>,
+    <trd>&#x516C;&#x53F8;&#x80A1;&#x4E1C; <pr>g&#x14D;ngs&#x12B;g&#x1D4;d&#x14D;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="kompan.0ano.akompananto">
+    <dif>
+      <ref tip="dif" cel="akompa.0anto">Akompananto</ref>:
+      <ekz>
+        ili donis al li tridek <tld/>anojn, ke ili estu kun li
+        <fnt><bib>MT</bib><lok>&Jug; 14:11</lok></fnt>;
+      </ekz><ekz>
+        ili geste signis al siaj <tld/>anoj en la alia &scirc;ipeto,
+        ke ili venu kaj helpu ilin
+        <fnt><bib>NT</bib><lok>&Luk; 5:7</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Begleiter</trd>,
+      <trd>Kumpan</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>compagnon<klr tip="ind"> (personne qui
+      accompagne)</klr></trd>,
+      <trd>accompagnateur</trd>
+      <trd>membre de la <ind>suite</ind></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>t&aacute;rs</trd>,
+      <trd>k&iacute;s&eacute;r&odblac;</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>cavaliere<klr> (fig.)</klr></trd>,
+      <trd>accompagnatore</trd>
+    </trdgrp>
+      <trd lng="nl">metgezel</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kompa&ncaron;on</trd>,
+    <trd>kumpa&ncaron;on</trd>,
+    <trd>pr&uring;vodce</trd>,
+    <trd>spole&ccaron;n&iacute;k <klr>(obch.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5171;&#x540C;&#x51FA;&#x8CC7;&#x8005;  <pr>&#x304D;&#x3087;&#x3046;&#x3069;&#x3046;&#x3057;&#x3085;&#x3063;&#x3057;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x4F1A;&#x793E;&#x54E1;  <pr>&#x304B;&#x3044;&#x3057;&#x3083;&#x3044;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">wsp&oacute;lnik</trd>     
+  <trd lng="ro">partener</trd>
+  <trd lng="sk">spolo&ccaron;n&iacute;k</trd>
+</drv>
+
+<drv mrk="kompan.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="kompan.0ulo.RAR">
+    <uzo tip="stl">RAR</uzo>
+    <dif>
+      <ref tip="dif" cel="akompa.0anto">Akompananto</ref>:
+      <ekz>
+        la edzino de <nom>&Scirc;im&scirc;on</nom> fari&gcirc;is edzino de lia
+        festena <tld/>ulo, kiu <tld/>is al li
+        <fnt><bib>MT</bib><lok>&Jug; 14:20</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_a;&c_n;&c_mol;&c_jo;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>kompa&ncaron;on</trd>,
+    <trd>kumpa&ncaron;on</trd>,
+    <trd>pr&uring;vodce</trd>,
+    <trd>spole&ccaron;n&iacute;k <klr>(obch.)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Begleiter</trd>
+  <trd lng="en">companion</trd>
+  <trd lng="es">acompa&ntilde;ante</trd>
+  <trdgrp lng="fr">
+    <trd>compagnon<klr tip="ind"> (personne qui
+    accompagne)</klr></trd>,
+    <trd>accompagnateur</trd>
+    <trd>membre de la <ind>suite</ind></trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&mem;&lamed;&vav;&vav;&he;</trd>,
+    <trd>&het;&bet;&resh;</trd>
+  </trdgrp>
+  <trd lng="hu">k&iacute;s&eacute;r&odblac;</trd>
+  <trdgrp lng="it">
+    <trd>cavaliere<klr> (fig.)</klr></trd>,
+    <trd>accompagnatore</trd>
+  </trdgrp>
+  <trd lng="ja">&#x4EF2;&#x9593;  <pr>&#x306A;&#x304B;&#x307E;</pr></trd>
+  <trd lng="nl">metgezel</trd>
+  <trdgrp lng="pl">
+    <trd>cz&lstroke;onek <klr>(ekipy)</klr></trd>,
+    <trd>uczestnik</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>membru <klr>(echipajului)</klr></trd>,
+    <trd>participant</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_mol;&c_o;&c_n;</trd>
+  <trd lng="sk">spolo&ccaron;n&iacute;k</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4F34; <pr>b&#xE0;n</pr></trd>,
+    <trd>&#x4F34;&#x4FA3; <pr>b&#xE0;nl&#x1D4;:</pr></trd>,
+    <trd>&#x4FA3; <pr>l&#x1D4;:</pr></trd>,
+    <trd>&#x540C;&#x4F34; <pr>t&#xF3;ngb&#xE0;n</pr></trd>,
+    <trd>&#x4F19;&#x4F34; <pr>hu&#x1D2;b&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+    
+<drv mrk="kompan.0olr">
+  <kap><tld/>o kun limigita respondeco<fnt>IKEV</fnt></kap>
+  <mlg>Klr</mlg>
+  <snc mrk="kompan.0olr.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Komerca <tld/>o kiu la&ubreve;le&gcirc;e respondecas pri siaj agoj
+      nur &gcirc;is la sumo de sia societa kapitalo, sed ne per la privata poseda&jcirc;o
+      de la unuopaj membroj:
+      <ekz>
+        la firmao <nom>DHL</nom>, ekde la jaro 2002 <tld/>o kun limigita respondeco la&ubreve; germana
+        juro, estas parto de la akcia <tld/>o <nom>Deutsche Post AG</nom>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=569949">DHL (firmao)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_v;&c_a;&c_r;&c_y;&c_s;&c_t;&c_v;&c_a; &c_z; &c_a;&c_b;&c_m;&c_je;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_a;&c_j; &c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ju;</trd>
+  <trdgrp lng="cs">
+    <trd>spole&ccaron;nost s ru&ccaron;en&iacute;m omezen&yacute;m</trd>,
+    <trd>zkr. s.r.o.</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Gesellschaft mit beschr&auml;nkter Haftung</trd>,
+    <trd>GmbH</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>limited liability company</trd>,
+    <trd>LLC</trd>,
+    <trd>company with limited liability</trd>,
+    <trd>WLL</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>sarl</trd>,
+    <trd>S.A.R.L</trd>
+  </trdgrp>
+  <trd lng="pl">sp&oacute;&lstroke;ka z ograniczon&aogonek; odpowiedzialno&sacute;ci&aogonek; <klr>(sp. z
+  o.o.)</klr></trd>     
+  <trd lng="ro">societate cu r&abreve;spundere limitat&abreve;</trd>    
+  <trd lng="sk">spolo&ccaron;nos&tcaron; s ru&ccaron;en&iacute;m obmedzen&yacute;m</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6709;&#x9650;&#x516C;&#x53F8; <pr>y&#x1D2;uxi&#xE0;ng&#x14D;ngs&#x12B;</pr></trd>,
+    <trd>&#x6709;&#x9650;&#x8CAC;&#x4EFB;&#x516C;&#x53F8; <pr>y&#x1D2;uxi&#xE0;nz&#xE9;r&#xE8;ng&#x14D;ngs&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kompan.akci0o">
+  <kap>akcia <tld/>o<fnt>IKEV</fnt>,
+    <var><kap>akcio-<tld/>o</kap></var>
+  </kap>
+  <mlg>AK</mlg>
+  <snc mrk="kompan.akci0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Komerca <tld/>o
+      kies <ref cel="kapita.0o">kapitalo</ref>
+      estas dividita en
+      <ref cel="akci.0o">akciojn</ref>, atestantajn la
+      rajtojn de la <tld/>anoj (akciuloj) ilin posedantaj:
+      <ekz>
+        a&ubreve;stralia akcio-<tld/>o
+        <fnt><aut>Katalin Smid&eacute;liusz</aut>: 
+          <vrk><url ref="&Monato;/2000/006912.php">Cinike cianide -- &ccirc;u respondecas
+          Okcidento?</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/04, p. 15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        niaj akciaj <tld/>oj bankrotas sole pro tio,
+        ke mankas honestaj homoj
+        <fnt>
+          <aut>I. Turgenjev trad. K. Bein</aut>
+          <vrk>Patroj kaj filoj</vrk><lok>&ccirc;ap. 10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="societ.akci0o">akcia societo</ref>
+    <rim>
+      Ne konfuzu kun:
+      <ref cel="korpor.0o">korporacio</ref>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_a;&c_k;&c_c;&c_y;&c_j;&c_n;&c_a;&c_je; &c_t;&c_a;&c_v;&c_a;&c_r;&c_y;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="cs">akciov&aacute; spole&ccaron;nost</trd>
+  <trdgrp lng="de">
+    <trd>Aktiengesellschaft</trd>,
+    <trd>AG</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>joint-stock company</trd>,
+    <trd>company with share capital</trd>,
+    <trd>corporation</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>SA<klr> (soci&eacute;t&eacute; par actions)</klr></trd>,
+    <trd>soci&eacute;t&eacute; par actions<klr> (SA)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">r&eacute;szv&eacute;nyt&aacute;rsas&aacute;g</trd>
+  <trd lng="ja">&#x682A;&#x5F0F;&#x4F1A;&#x793E;  <pr>&#x304B;&#x3076;&#x3057;&#x304D;&#x304C;&#x3044;&#x3057;&#x3083;</pr></trd>
+  <trd lng="pl">sp&oacute;&lstroke;ka akcyjna <klr>(S.A.)</klr></trd>     
+  <trd lng="ro">societate pe ac&#x21B;iuni</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_k;&c_c;&c_i;&c_o;&c_n;&c_je;&c_r;&c_n;&c_o;&c_je;
+      &c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_A;&c_O;</trd>
+  </trdgrp>
+  <trd lng="sk">akciov&aacute; spolo&ccaron;nos&tcaron;</trd>
+  <trdgrp lng="sv">
+    <trd>aktiebolag</trd>,
+    <trd>AB</trd>
+  </trdgrp>
+  <trd lng="tr">hisse senetli &scedil;irket<klr>(A.&Scedil;.)</klr></trd>
+  <trdgrp lng="zh">
+    <trd>&#x80A1;&#x4EFD;&#x516C;&#x53F8; <pr>g&#x1D4;f&#xE8;ng&#x14D;ngs&#x12B;</pr></trd>,
+    <trd>&#x80A1;&#x4EFD;&#x6709;&#x9650;&#x516C;&#x53F8; <pr>g&#x1D4;f&#xE8;ny&#x1D2;uxi&#xE0;ng&#x14D;ngs&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.40 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.38 2023/04/24 12:46:20
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.37 2023/04/23 16:33:02
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.36 2023/04/21 12:44:28
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.35 2023/04/19 11:23:52
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.34 2023/04/12 15:27:30
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.33 2023/03/27 08:33:43
+Paul Peeraerts: &Monato;
+
+versio 1.32 2022/08/21 08:35:43
+-->
+</vortaro>

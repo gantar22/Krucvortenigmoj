@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: eviden.xml,v 1.25 2024/01/11 22:30:41 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>evident</rad>/a
+</kap>
+
+<drv mrk="eviden.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="eviden.0a.LOG">
+    <dif>
+      Tiel klara kaj senduba, ke &gcirc;i ne bezonas pruvon:
+      <ekz>
+        la vero ne estas &ccirc;iam <tld/>a por la spirito;
+      </ekz>
+      <ekz>
+        <tld/>a eraro.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cert.0a">certa</ref>,
+      <ref cel="frap.okul0a">okulfrapa</ref>,
+      <ref cel="palp.0ebla">palpebla</ref>,
+      <ref cel="vid">videbla</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_ib;&c_d;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_u;&c_m;&c_n;&c_je;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_ja;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd
+  lng="bo">&#xF58;&#xF44;&#xF7C;&#xF53;&#xF0B;&#xF42;&#xF66;&#xF63;&#xF0B;&#xF51;&#xF7C;&#xF51;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
+  <trdgrp lng="cs">
+    <trd>evidentn&iacute;</trd>,
+    <trd>jasn&yacute;</trd>,
+    <trd>nepochybn&yacute;</trd>,
+    <trd>o&ccaron;ividn&yacute;</trd>,
+    <trd>zjevn&yacute;</trd>,
+    <trd>z&rcaron;ejm&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>offensichtlich</trd>,
+     <trd>offenkundig</trd>,
+     <trd>offenbar</trd>,
+     <trd>augenscheinlich</trd>,
+     <trd>einleuchtend</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+     <trd>evident</trd>,
+     <trd>clear</trd>,
+     <trd>obvious</trd>,
+     <trd>unmistakable</trd>
+  </trdgrp>
+  <trd lng="es">evidente</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;vident</trd>,
+    <trd>manifeste<klr> (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>nyilv&aacute;nval&oacute;</trd>,
+    <trd>evidens</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x660E;&#x767D;&#x306A;  <pr>&#12417;&#12356;&#x306F;&#x304F;&#x306A;</pr></trd>,
+    <trd>&#x81EA;&#x660E;&#x306E;  <pr>&#12376;&#12417;&#12356;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ewidentny</trd>,
+    <trd>oczywisty</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>evidente</trd>,
+    <trd>&oacute;bvio</trd>,
+    <trd>inequ&iacute;voco</trd>,
+    <trd>patente</trd>,
+    <trd>manifesto</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_ch;&c_je;&c_v;&c_i;&c_d;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_ja;&c_v;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_o;&c_m;&c_n;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>zjavn&yacute;</trd>,
+    <trd>zrejm&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>tydlig</trd>,
+    <trd>uppenbar</trd>,
+    <trd>sj&auml;lvklar</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_ch;&c_je;&c_v;&c_i;&c_d;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x44F;&c_v;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_s;&c_u;&#x43C;&#x43D;&c_ib;&c_v;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x770B;&#x628A; <pr>k&#xE0;nb&#x1CE;</pr></trd>,
+    <trd>&#x663E;&#x800C;&#26131;&#x89C1; <pr>xi&#x1CE;n&#xE9;ry&#xEC;ji&#xE0;n</pr></trd>,
+    <trd>&#x5F70;&#x5F70; <pr>zh&amacron;ngzh&amacron;ng</pr></trd>,
+    <trd>&#x663E;&#x89C1; <pr>xi&#x1CE;nji&#xE0;n</pr></trd>,
+    <trd>&#x663E;&#28982; <pr>xi&#x1CE;nr&#xE1;n</pr></trd>,
+    <trd>&#x660E;&#x663E;&#22320; <pr>m&#xED;ngxi&#x1CE;nde</pr></trd>,
+    <trd>&#x660E;&#x663E; <pr>m&#xED;ngxi&#x1CE;n</pr></trd>,
+    <trd>&#x663E;&#x660E; <pr>xi&#x1CE;nm&#xED;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eviden.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="eviden.0e.LOG">
+    <dif>
+      Tute sendube:
+      <ekz>
+      la dika metala bastonpinto estas tute trivita, &ccirc;ar <tld/>e li
+      multe mar&scirc;is kun &gcirc;i
+      <fnt>
+        <aut>A. Conan Doyle, trad. W. Auld</aut>
+        <vrk>La &ccirc;ashundo de la Baskerviloj</vrk>
+        <lok>p. 8a</lok>
+      </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_ib;&c_d;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_a;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_u;&c_m;&c_n;&c_je;&c_n;&c_n;&c_a;</trd>,
+    <trd>&c_ja;&c_w;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>evidentn&ecaron;</trd>,
+    <trd>jasn&ecaron;</trd>,
+    <trd>nasnad&ecaron;</trd>,
+    <trd>nasnad&ecaron;</trd>,
+    <trd>nepochybn&ecaron;</trd>,
+    <trd>o&ccaron;ividn&ecaron;</trd>,
+    <trd>z&rcaron;ejm&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>offensichtlich</trd>,
+     <trd>offenkundig</trd>,
+     <trd>offenbar</trd>,
+     <trd>augenscheinlich</trd>,
+     <trd>einleuchtend</trd>
+  </trdgrp>
+  <trd lng="en">obviously</trd>
+  <trd lng="es">evidentemente</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;videmment</trd>,
+    <trd>&agrave; l'&eacute;vidence</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>nyilv&aacute;nval&oacute;an</trd>,
+    <trd>k&eacute;ts&eacute;gtelen&uuml;l</trd>
+  </trdgrp>
+  <trd lng="ja">&#x660E;&#12425;&#x304B;&#x306B;  <pr>&#12354;&#x304D;&#12425;&#x304B;&#x306B;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>ewidentnie</trd>,
+    <trd>oczywi&sacute;cie</trd>,
+    <trd>pewnie</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_ch;&c_je;&c_v;&c_i;&c_d;&c_n;&c_o;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_o;&c_m;&c_n;&c_je;&c_n;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>navidomo&ccaron;i</trd>,
+    <trd>nepochybne</trd>,
+    <trd>zrejme</trd>
+  </trdgrp>
+  <trd lng="sv">tydligen</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_ch;&c_je;&c_v;&c_i;&c_d;&#x43D;&#x43E;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_s;&c_u;&#x43C;&#x43D;&c_ib;&c_v;&#x43D;&#x43E;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x660E;&#x663E;&#22320; <pr>m&#xED;ngxi&#x1CE;nde</pr></trd>
+</drv>
+
+<drv mrk="eviden.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="eviden.0ajxo.LOG">
+    <dif>
+      Afero evidenta, klare videbla a&ubreve; memkomprenebla, kiu ne bezonas pruvon:
+      <ekz>
+        li ekkredis, kiel oni kredas <tld/>a&jcirc;on
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">&eacute;vidence</trd>
+</drv>
+
+<drv mrk="eviden.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="eviden.0eco.LOG">
+    <dif>
+      Klareco, kiun prezentas la vero al la spirito,
+      estigante certecon:
+      <ekz>
+        la <tld/>eco de la geometriaj demonstroj.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_ib;&c_d;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_u;&c_m;&c_n;&c_je;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>evidentnost</trd>,
+    <trd>nepochybnost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Offensichtlichkeit</trd>,
+     <trd>Augenscheinlichkeit</trd>,
+     <trd>Evidenz<klr> [sci]</klr></trd>
+  </trdgrp>
+  <trd lng="en">obviousness</trd>
+  <trd lng="fr">&eacute;vidence</trd>
+  <trdgrp lng="hu">
+    <trd>nyilv&aacute;nval&oacute;s&aacute;g</trd>,
+    <trd>evidencia</trd>
+  </trdgrp>
+  <trd lng="ja">&#x660E;&#x767D;&#12373;  <pr>&#12417;&#12356;&#x306F;&#x304F;&#12373;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>ewidentno&sacute;c</trd>,
+    <trd>oczywisto&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_ch;&c_je;&c_v;&c_i;&c_d;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_o;&c_m;&c_n;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nepochybnos&tcaron;</trd>,
+    <trd>zrejmos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_ch;&c_je;&c_v;&c_i;&c_d;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_s;&c_u;&#x43C;&#x43D;&c_ib;&c_v;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eviden.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="eviden.0igi.LOG">
+    <dif>
+      Igi <tld/>a, klare elmontri:
+      <ekz>
+        mi timas, ke la malka&scirc;i&gcirc;o de mia kulpeco samtempe <tld/>igos vian kunkulpecon
+        <fnt>
+          <bib>MrA</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>montrer avec &eacute;vidence</trd>,
+    <trd>rendre <ind>&eacute;vident</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eviden.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="eviden.0igxi.LOG">
+    <dif>
+      I&gcirc;i klare vera, nedubebla:
+      <ekz>
+        jam <tld/>i&gcirc;is ke alia tutmonda milito,
+        pli detrua ol la unua, estis neevitebla
+        <fnt>
+          <aut>W. Heller, trad. B. Westerhoff</aut>
+          <vrk>Lidia, la Vivo de Lidia Zamenhof, Filino de Esperanto</vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_ja;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_k;&c_a;&c_z;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="fr">s'<ind>av&eacute;rer</ind></trd>
+  <trd lng="ja">&#x660E;&#x767D;&#x306B;&#x306A;&#x308B; 
+  <pr>&#12417;&#12356;&#x306F;&#x304F;&#x306B;&#x306A;&#x308B;</pr></trd>
+  <trd lng="zh">&#x6D6E;&#x51FA;&#x6C34;&#38754; <pr>f&#xFA;ch&#x16B;shu&#x1D0;mi&#xE0;n</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2024/01/11 22:30:41
+Jeromo Vasxe: + ~ajxo + ~igi
+
+versio 1.23 2023/10/14 15:49:05
+revo: transskribo per <pr>
+
+versio 1.20 2021/06/17 06:38:35
+Dmitri Gabinski: + trd be
+
+Revision 1.17  2015/12/28 04:10:18  revo
+Alain Gerard: +fnt +trd fr
+
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/04/09 16:31:41  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2009/06/22 16:31:06  revo
+-->
+</vortaro>

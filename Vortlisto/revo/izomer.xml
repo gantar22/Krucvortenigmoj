@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: izomer.xml,v 1.9 2023/11/19 10:22:14 revo Exp $">
+<kap>
+  <rad>izomer</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="izomer.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="izomer.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <ref tip="super" cel="substa.0o.FIZ">Substanco</ref>,
+      kiu rilate al alia havas saman elementan
+      konsiston, saman bazan &hcirc;emian formulon:
+      <ekz>
+        la kemia konsisto de tiaj sistemoj enhavas grandan nombron da 
+        diversaj homologoj, <tld/>oj kaj hibridaj kombina&jcirc;oj
+        <fnt>
+          <aut>F. P. Turenko, A. E. Gon&ccirc;arov</aut>,
+          <vrk><url ref="https://scienca-revuo.info/article/download/162/141">
+          Evoluo de Konstitucia Analizo por Polidispersaj
+          Sistemoj</url></vrk>,
+          <lok>Scienca Revuo, 1977:3 (125)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_z;&c_a;&c_m;&c_e;&c_r;</trd>
+  <trd lng="de">Isomer</trd>
+  <trd lng="en">isomer</trd>
+  <trd lng="fr">isom&egrave;re<klr> (subst.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x7570;&#x6027;&#x4F53;  <pr>&#x3044;&#x305B;&#x3044;&#x305F;&#x3044;</pr></trd>,
+    <trd>&#x7570;&#x6027;&#x6838;  <pr>&#x3044;&#x305B;&#x3044;&#x304B;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">isomeer</trd>
+  <trd lng="uk">&c_ib;&c_z;&c_o;&c_m;&c_je;&c_r;</trd>
+  <trd lng="zh">&#x540C;&#x5206;&#x5F02;&#x6784;&#x4F53; <pr>t&#xF3;ngf&#x113;ny&#xEC;g&#xF2;ut&#x1D0;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.6 2023/05/28 10:28:40
+Paul Peeraerts:  + trd nl 
+
+versio 1.5 2023/05/18 14:24:42
+Christian Siefkes: +trd en
+
+versio 1.3 2021/11/03 07:28:54
+Dmitri Gabinski: + trd be
+
+versio 1.2 2020/11/16 20:10:45
+Wolfram Diestel: +trd de, ref
+-->
+</vortaro>

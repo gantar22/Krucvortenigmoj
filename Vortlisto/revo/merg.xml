@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: merg.xml,v 1.22 2023/10/19 15:13:16 revo Exp $">
+<kap>
+   <rad>merg</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="merg.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="merg.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="met.0i.movi">Meti</ref> en likva&jcirc;on, enprofundigi:
+      <ekz>
+        mia se&gcirc;o portis min tra akvobaseno, en kiun mi estis <tld/>ita &gcirc;is la kolo,
+        poste ventolilo blovis al mi varman aeron
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la salamandro devis nur denove <tld/>i sin kaj simple elpa&scirc;i, forpu&scirc;i la
+        malnovan ha&ubreve;ton
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i <tld/>is kristkandelojn <klr>[por]</klr> ke estu iom festece
+        <fnt>
+          <bib>VRA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>inte en la harojn siajn sveltajn fingrojn kun la pinte fajlitaj ungoj, &scirc;i
+        relegadis la skribitan
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        amikinoj <tld/>itaj en tedaj geedzecoj enviis min
+        <fnt>
+          <aut>Spomenka &Scaron;timec</aut>
+          <vrk>Ombro sur interna pejza&gcirc;o</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dron.0igi">dronigi</ref>,
+      <ref cel="tremp.0i">trempi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+     <trd>&c_a;&c_k;&c_u;&c_n;&c_a;&c_c;&c_mol;</trd>,
+     <trd>&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;
+     <klr tip="amb">
+     (&c_u; &c_v;&c_a;&c_d;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;)</klr>
+     </trd>,
+     <trd>&c_p;&c_a;&c_g;&c_r;&c_u;&c_zh;&c_a;&c_c;&c_mol;
+     <klr tip="amb">
+     (&c_u; &c_v;&c_a;&c_d;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;)</klr>
+     </trd>
+   </trdgrp>
+   <trdgrp lng="de">
+     <trd>tauchen</trd>,
+     <trd>eintauchen</trd>,
+     <trd>untertauchen</trd>
+   </trdgrp>
+   <trd lng="en">immerse</trd>
+   <trd lng="fr">immerger</trd>
+   <trdgrp lng="hu">
+     <trd>bemer&iacute;t</trd>,
+     <trd>lemer&iacute;t</trd>
+   </trdgrp>
+   <trdgrp lng="ja">
+    <trd>&#x3064;&#x3051;&#x308B;</trd>,
+    <trd>&#x3072;&#x305F;&#x3059;</trd>,
+    <trd>&#x6C88;&#x3081;&#x308B;  <pr>&#x3057;&#x305A;&#x3081;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">onderdompelen</trd>
+   <trdgrp lng="pl">
+     <trd>zanurza&cacute;</trd>,
+     <trd>pogr&aogonek;&zdot;a&cacute;</trd>
+   </trdgrp>
+   <trdgrp lng="pt">
+     <trd>imergir</trd>,
+     <trd>mergulhar <klr>(algo em um l&iacute;quido</klr></trd>
+   </trdgrp>
+   <trdgrp lng="ru">
+     <trd>&c_o;&c_k;&c_u;&c_n;&c_a;&c_t;&c_mol;</trd>,
+     <trd>&c_o;&c_k;&c_u;&c_n;&c_u;&c_t;&c_mol;</trd>,
+     <trd>&c_p;&c_o;&c_g;&c_r;&c_u;&c_z;&c_i;&c_t;&c_mol;
+     <klr tip="amb">
+     (&c_v; &c_zh;&c_i;&c_d;&c_k;&c_o;&c_s;&c_t;&c_mol;)</klr>
+     </trd>
+   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43D;&c_u;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&#x43D;&c_u;&c_r;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_r;&#x43E;&#x43C;&#x43B;&#x44F;&c_t;&c_i; (&c_v; &c_r;&c_ib;&c_d;&c_i;&#x43D;&c_u;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="merg.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="merg.0igxi.TEK">
+    <dif>
+      Enlikvi&gcirc;i, <ref tip="vid" cel="dron.0i">droni</ref>,
+      surfundi&gcirc;i:
+      <ekz>
+        <tld/>i&gcirc;i en la lokajn varmajn kaj sulfitajn akvojn meze de frosta vintra nokto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2012/010845.php">Saturnia: Vintra magio</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>i&gcirc;is en subkonscian lagon de emocioj
+       <fnt>
+          <aut>Konstanten Krysakov</aut>
+          <vrk><url ref="&Monato;/2000/006805.php">Kota akvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 28</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la veraj faktoj <tld/>i&gcirc;as en mar&ccirc;o de <klr>[&#x2026;]</klr> duonfaktoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2005/008763.php">Faktoj senfaktaj kaj murdo en la
+          metroo</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="dron.0i.MAR">droni<sncref/></ref>,
+       <ref cel="abism.en0igxi">enabismi&gcirc;i</ref>,
+       <ref cel="akv.en0igxi">enakvi&gcirc;i</ref>,
+       <ref cel="plongx.0i.SPO">plon&gcirc;i<sncref/></ref>,
+       <ref cel="sink.0i">sinki</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+     <trd>&c_a;&c_k;&c_u;&c_n;&c_a;&c_c;&c_c;&c_a;</trd>,
+     <trd>&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_c;&c_a;
+     <klr tip="amb">
+     (&c_u; &c_v;&c_a;&c_d;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;)</klr>
+     </trd>,
+     <trd>&c_p;&c_a;&c_g;&c_r;&c_u;&c_zh;&c_a;&c_c;&c_c;&c_a;
+     <klr tip="amb">
+     (&c_u; &c_v;&c_a;&c_d;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;)</klr>
+     </trd>
+   </trdgrp>
+   <trdgrp lng="hu">
+     <trd>lemer&uuml;l</trd>,
+     <trd>elmer&uuml;l</trd>,
+     <trd>belemer&uuml;l</trd>
+     <trd>els&uuml;llyed</trd>
+   </trdgrp>
+   <trdgrp lng="ja">
+    <trd>&#x3064;&#x304B;&#x308B;</trd>,
+    <trd>&#x6C88;&#x3080;  <pr>&#x3057;&#x305A;&#x3080;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">zinken</trd>
+   <trdgrp lng="pl">
+     <trd>pogr&aogonek;&zdot;a&cacute; si&eogonek;</trd>,
+     <trd>ton&aogonek;&cacute;</trd>
+   </trdgrp>
+   <trdgrp lng="ru">
+     <trd>&c_o;&c_k;&c_u;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+     <trd>&c_p;&c_o;&c_g;&c_r;&c_u;&c_z;&c_i;&c_t;&c_mol;&c_s;&c_ja;
+     <klr tip="amb">
+     (&c_v; &c_zh;&c_i;&c_d;&c_k;&c_o;&c_s;&c_t;&c_mol;)</klr>
+     </trd>
+   </trdgrp>
+  <trd lng="uk">&c_z;&c_a;&#x43D;&c_u;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+</drv>
+
+<drv mrk="merg.0igxo">
+  <kap><tld/>i&gcirc;o</kap>
+  <snc mrk="merg.0igxo.KOMUNE">
+    <dif>
+      Subi&gcirc;o en likva&jcirc;on.
+    </dif>
+  </snc>
+  <snc mrk="merg.0igxo.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Plena eni&gcirc;o en ian medion:
+      <ekz>
+        kelktagaj lingvaj <tld/>i&gcirc;oj
+        <fnt>
+          <aut>I. Gon&ccirc;arova</aut>,
+          <vrk><url ref="&Sezonoj;2015/07/masi-15/">
+          MASI 20-jara. Bela juna a&gcirc;o!</url></vrk>,
+          <lok>La Balta Ondo, 2015-07-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_g;&c_r;&c_u;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="fr">immersion</trd>
+</drv>
+
+<drv mrk="merg.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="merg.el0i.TEK">
+    <dif>
+      <ref cel="met.el0i.prezenti">Elmeti</ref> el likva&jcirc;o, elprofundigi:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        donas tempon al Al&gcirc;erio por el<tld/>i politikan solvon
+        <fnt>
+          <bib>MD11</bib>
+          <vrk>Kion opinias Al&gcirc;ero pri la malia situacio?</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    En unu verko la vorto aperas plurloke en la senco &leftquot;el&ccirc;erpi&rightquot;:
+    <ekz>
+      elmergita de laboro kaj maldormo
+      <fnt>
+        <bib>VRA</bib>
+      </fnt>.
+    </ekz>
+  </rim>
+   <trd lng="be">&c_v;&c_y;&c_n;&c_u;&c_c;&c_mol; <klr tip="amb">(&c_z; &c_v;&c_a;&c_d;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ib;)</klr>
+   </trd>
+   <trd lng="ja">&#x5F15;&#x304D;&#x4E0A;&#x3052;&#x308B;  <pr>&#x3072;&#x304D;&#x3042;&#x3052;&#x308B;</pr></trd>
+  <trdgrp lng="nl">
+     <trd>ophalen</trd>,
+     <trd>uittrekken</trd>
+   </trdgrp>
+   <trdgrp lng="hu">
+     <trd>kidug <klr tip="amb">(folyad&eacute;kb&oacute;l)</klr></trd>,
+     <trd>felsz&iacute;nre hoz
+     <klr tip="amb">(folyad&eacute;kb&oacute;l)</klr></trd>
+   </trdgrp>
+   <trd lng="pl">wynurza&cacute;</trd>
+   <trd lng="ru">&c_v;&c_y;&c_n;&c_u;&c_t;&c_mol;
+   <klr tip="amb">(&c_i;&c_z; &c_zh;&c_i;&c_d;&c_k;&c_o;&c_s;&c_t;&c_i;)
+   </klr></trd>
+</drv>
+
+<drv mrk="merg.el0igxi">
+  <kap>el<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="merg.el0igxi.TEK">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Eli&gcirc;i; <ref tip="sin" cel="emergx.0i">emer&gcirc;i</ref>:
+      <ekz>
+        jen el la konfuzaj, sinkontra&ubreve;diraj sentoj subite el<tld/>i&gcirc;is alia, kiu preska&ubreve;
+        &scirc;in sufokis: angoro
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kurioze tiutempe reel<tld/>i&gcirc;as anka&ubreve; pluraj temoj el lia juna&gcirc;a produktado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/010954.php">La testamento de
+          Karava&gcirc;o</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_n;&c_y;&c_r;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_c;&c_a; &c_n;&c_a; &c_p;&c_a;&c_v;&c_je;&c_r;&c_h;&c_n;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="de">auftauchen</trd>
+  <trd lng="fr">&eacute;merger</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9854;&#x3092;&#x51FA;&#x3059;  <pr>&#x304B;&#x304A;&#x3092;&#x3060;&#x3059;</pr></trd>,
+    <trd>&#x6D6E;&#x304B;&#x3073;&#x51FA;&#x308B;  <pr>&#x3046;&#x304B;&#x3073;&#x3067;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">oprijzen</trd>
+  <trd lng="hu">
+   felbukkan <klr tip="amb">(folyad&eacute;kb&oacute;l)</klr></trd>
+  <trd lng="pl">wynurza&cacute; si&eogonek;</trd>
+</drv>
+
+<drv mrk="merg.sub0eblasxipo">
+  <kap>sub<tld/>ebla &scirc;ipo</kap>
+  <snc>
+    <dif>
+      &Scirc;ipo ks, povanta veturi surakve kaj enakve:
+      <ekz>
+        la unua superprofundakva <ind>duon-sub<tld/>ebla</ind> drilo-platformo de &Ccirc;inio
+        <klr>[&#x2026;]</klr> ekfunkciis en &Scirc;anhajo
+        <fnt>
+          <aut>Niu Xueqin</aut>
+          <lok><url ref="http://www.espero.com.cn/se/txt/2011-05/24/content_360224.htm">Espero,
+          2011-05-24</url></lok>
+        </fnt>;
+        <trd lng="de">Halbtaucher...</trd>
+      </ekz>
+      <ekz>
+         submarboato estas sub<tld/>ebla &scirc;ipo.
+      </ekz>
+    </dif>
+  </snc>
+ <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_b;&c_m;&c_a;&c_r;&c_y;&c_n;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_v;&c_o;&c_d;&c_n;&c_a;&c_ja; &c_l;&c_o;&c_d;&c_k;&c_a;</trd>.
+    <trd>&c_p;&c_a;&c_d;&c_v;&c_o;&c_d;&c_n;&c_y; &c_ch;&c_o;&c_v;&c_je;&c_n;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Tauchboot</trd>,
+     <trd>Unterwasserfahrzeug</trd>
+  </trdgrp>
+  <trd lng="fr">bateau submersible</trd>
+  <trd lng="hu">mer&uuml;l&odblac;k&eacute;pes haj&oacute;</trd>
+  <trd lng="nl">duikboot</trd>
+  <trdgrp lng="pl">
+    <trd>&lstroke;&oacute;d&zacute; <ind>podwodna</ind></trd>,
+    <trd>okr&eogonek;t <ind>podwodny</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.20 2023/04/17 15:28:24
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.19 2022/06/10 08:35:49
+Dmitri Gabinski: + trd be
+
+versio 1.18 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.16 2021/11/04 07:29:18
+Dmitri Gabinski: + trd be
+
+versio 1.15 2021/08/19 05:24:57
+Wolfram Diestel: +ref
+
+versio 1.14 2021/08/18 18:34:25
+Wolfram Diestel: +ekz-oj
+
+Revision 1.12  2008/06/05 16:30:23  revo
+-->
+</vortaro>

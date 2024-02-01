@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hispani.xml,v 1.24 2023/11/15 17:08:01 revo Exp $">
+<kap>
+  <rad>Hispani</rad>/o
+  <fnt><bib>RLN</bib></fnt>
+</kap>
+
+<drv mrk="hispani.H0o">
+  <kap><tld/>o</kap>
+  <snc mrk="hispani.H0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+   <ref tip="dif" cel="hispan.H0ujo">Hispanujo</ref>:
+      <ekz>
+        preska&ubreve; okcent kilometroj la&ubreve; malnovaj romiaj
+        vojoj norde de <tld/>o,
+        kiuj estas dividitaj je du bran&ccirc;oj &ndash; tra la aragonaj
+        kaj tra la navaraj <esc>Pirineoj</esc> <klr>(Pireneoj)</klr>
+        <fnt>
+          <aut>Rafaela Urue&ntilde;a</aut>
+          <vrk><url ref="&Monato;/2000/006809.php">Vojoj al la sankta urbo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;is la 13a jarcento la suda parto de <tld/>o estis
+        araba-islama lando
+        <fnt>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2000/006903.php">Arabaj vortoj en la germana
+          kaj esperanta lingvoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 15</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        ne menciante Islandon, la plej okcidentaj regionoj en
+        E&ubreve;ropo estas en Irlando, <tld/>o kaj Portugalio
+        <fnt>
+          <aut>Jean Cruchon</aut>
+            <vrk><url ref="&Monato;/2000/007081.php">Vidinda Bretonio</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 4</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_Ib;&c_s;&c_p;&c_a;&c_n;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_I;&c_s;&c_p;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="cs">&Scaron;pan&ecaron;lsko</trd>
+  <trd lng="da">Spanien</trd>
+  <trd lng="de">Spanien</trd>
+  <trd lng="en">Spain</trd>
+  <trd lng="es">Espa&ntilde;a</trd>
+  <trdgrp lng="fr">
+    <trd>Espagne</trd>,
+    <trd>Royaume d'Espagne</trd>
+  </trdgrp>
+  <trd lng="id">Spanyol</trd>
+  <trd lng="it">Spagna</trd>
+  <trd lng="ja">&#x30B9;&#x30DA;&#x30A4;&#x30F3;  <pr>&#x3059;&#x307A;&#x3044;&#x3093;</pr></trd>
+  <trd lng="nl">Spanje</trd>
+  <trd lng="no">Spania</trd>
+  <trd lng="pl">Hiszpania</trd>
+  <trd lng="pt">Espanha</trd>
+  <trd lng="sk">&Scaron;panielsko</trd>
+  <trd lng="uk">&c_Ib;&c_s;&c_p;&c_a;&c_n;&c_ib;&c_ja;</trd>
+  <trd lng="zh">&#x897F;&#x73ED;&#x7259; <pr>X&#x12B;b&#x101;ny&#xE1;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.23 2023/10/16 05:55:37
+revo: transskribo per <pr>
+
+versio 1.21 2023/08/18 20:23:01
+Wolfram Diestel: fnt RLN, klr
+
+versio 1.20 2023/04/30 12:42:27
+Paul Peeraerts: Steloj -> monato
+
+versio 1.19 2023/04/15 12:42:50
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.18 2023/04/13 18:31:11
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.17 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.16 2022/04/05 08:45:19
+Dmitri Gabinski: + trd be
+
+Revision 1.13  2018/02/24 19:10:18  revo
+-->
+</vortaro>

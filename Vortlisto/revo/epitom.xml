@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: epitom.xml,v 1.26 2023/11/07 20:34:11 revo Exp $">
+<kap>
+  <rad>epitom</rad>/o
+</kap>
+<drv mrk="epitom.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="epitom.0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:komunikoj" cel="verk.0o.propra">Verko</ref>,
+      kiu <ref cel="resum.0i">resumas</ref>
+       pli ampleksan verkon por studa celo a&ubreve; lerneja uzo:
+      <ekz>
+        <ctl><tld lit="E"/>o de esperantologio</ctl>
+        <fnt>
+        <aut>N. Gudskov</aut>,
+        <vrk>Epitomo de esperantologio</vrk>
+        <lok>REU-Impeto, 2002</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kompleta <tld/>o de la eduka scenaro en nia reala mondo
+        <fnt>
+          <vrk><url ref="https://www.coursehero.com/file/p4oqmp5/Li-akceptis-metilernadon-de-la-butiko-de-sia-patro-kaj-post-sia-morto-li-povis/">Li
+          akceptis metilernadon de la butiko de sia patro kaj ...</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        malvarma kafo vere estas la <tld/>o de &ccirc;io, kion elstara taso da kafo devus esti
+        <fnt>
+          <vrk><url ref="https://eo.haymancoffee.com/Blogoj/kafo-blogo/kvin-surprizaj-avanta%C4%9Doj-de-malvarma-kafo">Kvin
+          Surprizaj Avanta&gcirc;oj de Malvarma Bierkafo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la urbo <nom>Baden-Baden</nom> <klr>[&#x2026;]</klr> ne estas granda kosmopolita urbo kiel
+        Berlino, &gcirc;i estas la <tld/>o de bela vivado
+        <fnt>
+          <vrk><url ref="https://www.saveatrain.com/blog/europe-visit-senior-travelers/?lang=eo">7
+          Plej Bonaj Urboj En E&ubreve;ropo Viziti Por Maljunaj ...</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>  
+    <ref tip="sin" cel="digxest.0o">di&gcirc;esto</ref>
+    <refgrp tip="vid">
+      <ref cel="elekt.0o">elekto</ref>,
+      <ref cel="esenc.0o">esenco</ref>,
+      <ref cel="ekstra.0o.TIP">ekstrakto<sncref/></ref>,
+      <ref cel="kompen.0o">kompendio</ref>,
+      <ref cel="kompil.0ajxo">kompila&jcirc;o</ref>,
+      <ref cel="kvodli.0o">kvodlibeto</ref>,
+      <ref cel="resum.0o">resumo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_n;&c_s;&c_p;&c_e;&c_k;&c_t;</trd>,
+    <trd>&c_s;&c_k;&c_a;&c_r;&c_o;&c_ch;&c_a;&c_n;&c_y;
+    &c_p;&c_je;&c_r;&c_a;&c_k;&c_a;&c_z;</trd>,
+    <trd>&c_r;&c_e;&c_f;&c_e;&c_r;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trd lng="ca">ep&iacute;tom</trd>
+  <trdgrp lng="de">
+    <trd>Abriss</trd>,
+    <trd>Kurzfassung</trd>,
+    <trd>Auszug</trd>,
+    <trd>Epitome</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>epitome <klr tip="amb">(abstract summary)</klr></trd>,
+    <trd>digest</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;pitom&eacute;</trd>
+  <trdgrp lng="hu">
+    <trd>epitom&eacute;</trd>,
+    <trd>kivonatos m&udblac;</trd>,
+    <trd>r&ouml;vid <ind>kivonat</ind></trd>,
+    <trd>foglalat<klr tip="ind"> (kivonat)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x629C;&#x7C8B;  <pr>&#x3070;&#x3063;&#x3059;&#x3044;</pr></trd>,
+    <trd>&#x8981;&#x7D04;  <pr>&#x3088;&#x3046;&#x3084;&#x304F;</pr></trd>,
+    <trd>&#x6897;&#x6982;  <pr>&#x3053;&#x3046;&#x304C;&#x3044;</pr></trd>,
+    <trd>&#x6982;&#x8981;  <pr>&#x304C;&#x3044;&#x3088;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>streszczenie<klr tip="amb"> (ksi&aogonek;&zdot;ki)</klr></trd>,
+    <trd>skr&oacute;t<klr tip="amb"> (ksi&aogonek;&zdot;ki)</klr></trd>,
+    <trd>bryk</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>ep&iacute;tome</trd>,
+    <trd>comp&ecirc;ndio</trd>,
+    <trd>sinopse</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_v;&c_l;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_o;&c_k;&c_r;&c_a;&c_shch;&c_jo;&c_n;&c_n;&c_o;&c_je;
+    &c_i;&c_z;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_k;&c_o;&c_n;&c_s;&c_p;&c_je;&c_k;&c_t;</trd>,
+    <trd>&c_d;&c_a;&c_j;&c_d;&c_zh;&c_je;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>epitom&eacute;</trd>,
+    <trd>v&yacute;&tcaron;ah z diela</trd>
+  </trdgrp>
+  <trd lng="cs">epitom&eacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_t;&#x44F;&c_g;</trd>,
+    <trd>&c_s;&#x43A;&#x43E;&c_r;&#x43E;&c_ch;&c_je;&#x43D;&c_i;&c_j; &c_v;&c_i;&#x43A;&#x43B;&c_a;&c_d;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6458;&#x8981; <pr>zh&#x101;iy&#xE0;o</pr></trd>,
+    <trd>&#x7BC0;&#x672C; <pr>ji&#xE9;b&#x11B;n</pr></trd>,
+    <trd>&#x7BC0;&#x7565; <pr>ji&#xE9;l&#xFC;&#xE8;</pr></trd>,
+    <trd>&#x7B80;&#x672C; <pr>ji&#x1CE;nb&#x11B;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+versio 1.23 2022/07/17 07:28:17
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.22 2022/07/14 09:32:41
+Wolfram Diestel: +kor. ref
+
+versio 1.20 2020/12/06 22:38:10
+Wolfram Diestel: +ekz-oj, refoj, trd "digest"
+
+Revision 1.18  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/07/16 10:10:41  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2010/04/16 16:31:12  revo
+Russ Williams: +trd en
+
+Revision 1.15  2009/06/14 16:31:12  revo
+-->
+</vortaro>

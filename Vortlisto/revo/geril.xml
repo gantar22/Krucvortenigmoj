@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: geril.xml,v 1.17 2023/11/11 10:00:40 revo Exp $">
+<kap>
+  <rad>geril</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="geril.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="geril.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      <ref tip="dif" cel="milit.cxikan0o.MIL">&Ccirc;ikanmilito</ref>:
+      <ekz>
+        liaj gamboj estas harditaj per montmigrado en la tempo de
+        <tld/>o kontra&ubreve; Japanio
+        <fnt><bib>HomojMan&gcirc;antaj</bib> <lok>&leftquot;tragedio de man&gcirc;o en
+        la insulo Mindanao&rightquot;, p. 33a</lok></fnt>;
+      </ekz>
+      <ekz><ind><tld/>milito</ind>
+      <trd lng="de">Guerillakrieg</trd>
+      <trd lng="es">Guerra de Guerrillas</trd>;
+      <trd lng="hu">gerillah&aacute;bor&uacute;</trd>
+      <trd lng="nl">guerrillaoorlog</trd>
+      </ekz>
+      <ekz>
+        mar&scirc;i <tld/>e;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo> politikaj <tld/>oj
+         <fnt>
+           <aut>P. Gubbins</aut>
+           <vrk>Britio: Politikaj Geriloj</vrk>
+           <bib>Monato</bib>
+           <lok>1989:06, p. 10a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_r;&c_t;&c_y;&c_z;&c_a;&c_n;&c_s;&c_k;&c_a;&c_ja; <ind>&c_v;&c_a;&c_j;&c_n;&c_a;</ind></trd>,
+    <trd>&c_g;&c_je;&c_r;&c_y;&c_l;&c_mol;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>gerila</trd>,
+    <trd>partyz&aacute;nsk&aacute; v&aacute;lka</trd>
+  </trdgrp>
+  <trd lng="de">Guerilla</trd>
+  <trd lng="en">guerilla war</trd>
+  <trd lng="es">guerrilla</trd>
+  <trd lng="fr">gu&eacute;rilla</trd>
+  <trd lng="hu">gerillaharc</trd>
+  <trd lng="it">guerriglia</trd>
+  <trd lng="ja">&#x30B2;&#x30EA;&#x30E9;&#x6226;  <pr>&#x30B2;&#x30EA;&#x30E9;&#x305B;&#x3093;</pr></trd>
+  <trd lng="nl">guerrilla</trd>
+  <trd lng="pt">guerrilha</trd>
+  <trd lng="sk">partiz&aacute;nske boje</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_a;&c_r;&c_t;&c_i;&c_z;&c_a;&#x43D;&c_s;&#x44C;&#x43A;&c_a; &c_v;&c_ib;&c_j;&#x43D;&c_a;</trd>,
+    <trd>&c_gu;&c_je;&c_r;&c_i;&#x43B;&#x44C;&#x44F;</trd>,
+    <trd>&c_gu;&c_v;&c_je;&c_r;&c_i;&#x43B;&#x44C;&#x44F;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x6E38;&#x51FB;&#x6218; <pr>y&#xF3;uj&#x12B;zh&#xE0;n</pr></trd>
+</drv>
+
+<drv mrk="geril.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="geril.0ano.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Ano de grupo, praktikanta <tld/>on.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_t;&c_y;&c_z;&c_a;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>makista</trd>,
+    <trd>partyz&aacute;n</trd>
+  </trdgrp>
+  <trd lng="de">Guerrillero</trd>
+  <trd lng="en">guerilla</trd>
+  <trd lng="es">guerrillero</trd>
+  <trd lng="fr">guerrillero</trd>
+  <trd lng="hu">gerilla</trd>
+  <trd lng="it">guerrigliero</trd>
+  <trd lng="ja">&#x30B2;&#x30EA;&#x30E9;&#x968A;&#x54E1;  <pr>&#x3052;&#x308A;&#x3089;&#x305F;&#x3044;&#x3044;&#x3093;</pr></trd>
+  <trd lng="nl">guerrillastrijder</trd>
+  <trd lng="pt">guerrilheiro</trd>
+  <trd lng="sk">partiz&aacute;nsky bojovn&iacute;k</trd>
+  <trdgrp lng="uk">
+    <trd>&c_gu;&c_je;&c_r;&c_i;&#x43B;&#x44C;&#x44F;&c_s;</trd>,
+    <trd>&c_gu;&c_v;&c_je;&c_r;&c_i;&#x43B;&#x44C;&#x44F;&c_s;</trd>,
+    <trd>&#x43F;&c_a;&c_r;&c_t;&c_i;&c_z;&c_a;&#x43D;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.16 2023/10/15 06:07:00
+revo: transskribo per <pr>
+
+versio 1.15 2023/09/08 12:41:20
+Dmitri Gabinski: + trd be
+
+versio 1.12 2022/02/07 20:23:54
+Jeromo Vasxe: ref
+
+Revision 1.10  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2010/06/06 16:30:43  revo
+Antonio Codazzi: +trd it
+
+Revision 1.7  2009/09/14 16:31:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2009/09/11 16:31:31  revo
+-->
+</vortaro>

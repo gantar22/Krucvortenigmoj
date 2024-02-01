@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tubj.xml,v 1.10 2023/12/05 08:31:43 revo Exp $">
+<kap>
+    <rad>tubj</rad>/o <fnt><bib>RokPop</bib></fnt>
+</kap>
+<drv mrk="tubj.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tubj.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Granda latuna <ref tip="lst" lst="voko:blovinstrumentoj"
+      cel="instru2.blov0o">blovinstrumento</ref> kun valvoj:
+      <ekz>
+        la <tld/>o <klr>[&#8230;]</klr> ludas la plej malaltajn notojn en la
+        latuna blovinstrumenta familio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=230845">Tubjo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/e/eb/VDC_2519_%2839110503025%29.jpg/640px-VDC_2519_%2839110503025%29.jpg"
+    prm="PD"><tld/>isto
+        <fnt>
+          <aut>La Usona Armea Bando, VDC_2519</aut>
+          <lok><url
+          ref="&WCW;/File:VDC_2519_(39110503025).jpg">&WCW;/File:VDC_2519_(39110503025).jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="de">Tuba</trd>
+  </snc>
+  <trd lng="be">&c_t;&c_u;&c_b;&c_a; <klr tip="amb">(&c_m;&c_u;&c_z;. &c_ib;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_e;&c_n;&c_t;)</klr></trd>
+  <trd lng="ca">tuba</trd>
+  <trdgrp lng="cs">
+    <trd>basov&aacute; trubka</trd>,
+    <trd>tuba</trd>
+  </trdgrp>
+  <trd lng="en">tuba</trd>
+  <trdgrp lng="it">
+   <trd>tuba</trd>,
+   <trd>flicorno<klr> (basso o contrabbasso)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x30C1;&#x30E5;&#x30FC;&#x30D0;</trd>
+  <trd lng="pl">tuba</trd>
+  <trdgrp lng="sk">
+    <trd>tr&uacute;ba</trd>,
+    <trd>tuba</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_u;&c_b;&c_a;</trd>,
+    <trd>&c_v;&c_je;&#x43B;&c_i;&#x43A;&c_a; &c_b;&c_a;&c_s;&#x43E;&c_v;&c_a; &c_t;&c_r;&c_u;&c_b;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.10 2023/12/05 08:31:43
+Dmitri Gabinski: + trd be
+
+Revision 1.6  2018/11/03 11:10:18  revo
+Wolfram Diestel: +ekz, +bld, +ref
+
+Revision 1.5  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2012/08/14 15:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2010/02/12 17:30:19  revo
+Antonio Codazzi: +trd it +fak
+
+Revision 1.1  2010/01/14 18:27:07  revo
+Russ Williams: nova artikolo
+-->
+</vortaro>

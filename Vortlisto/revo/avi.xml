@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: avi.xml,v 1.34 2023/10/28 08:33:11 revo Exp $">
+<kap>
+  <rad>avi</rad>/o
+  <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="avi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="avi.0o.AVI">
+    <dif>
+      <ref tip="dif" cel="aviad.0ilo">Aviadilo</ref>:
+      <ekz>
+        subsona, <ind>supersona <tld/>o</ind>;
+        <trd lng="de">&Uuml;berschallflieger</trd>
+      </ekz>
+      <ekz>
+        <ind>&ccirc;as<tld/>o</ind>,
+        <trd lng="ca">ca&ccedil;a</trd>
+        <trd lng="de">Jagdflieger</trd>
+        <trd lng="en">fighter</trd>
+        <trd lng="it">caccia<klr> (aeroplano)</klr></trd>
+        <trd lng="ru">&c_i;&c_s;&c_t;&c_r;&c_je;&c_b;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+      </ekz>
+      <ekz>
+        bildoj de soldatoj kaj tankoj, de batal-<tld/>oj kaj bombofumo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2003/008137.html">Mondo alia</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>bomb<tld/>o</ind>,
+        <trd lng="ca">bombarder</trd>
+        <trd lng="de">Bomber</trd>
+        <trd lng="en">bomber</trd>
+        <trd lng="it">bombardiere<klr> (aeroplano)</klr></trd>
+        <trd lng="ru">&c_b;&c_o;&c_m;&c_b;&c_a;&c_r;&c_d;&c_i;&c_r;&c_o;&c_v;&c_shch;&c_i;&c_k;</trd>
+      </ekz>
+      <ekz>
+        <ind>skolt<tld/>o</ind>,
+        <trd lng="ca">avi&oacute; escolta</trd>
+        <trd lng="de">Aufkl&auml;rungsflugzeug</trd>
+        <trd lng="en">spy aircraft</trd>
+        <trd lng="it"><ind>aereo</ind> spia</trd>
+        <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_l;&c_jo;&c_t;-&c_sh;&c_p;&c_i;&c_o;&c_n;</trd>
+      </ekz>
+      <ekz>
+        <ind>&scirc;ar&gcirc;<tld/>o</ind>;
+        <trdgrp lng="ca">
+          <trd>avi&oacute; de c&agrave;rrega</trd>,
+          <trd>avi&oacute; de transport</trd>
+        </trdgrp>
+        <trd lng="de">Transportflugzeug</trd>
+        <trdgrp lng="en">
+          <trd>freight carrier</trd>,
+          <trd>cargo aircraft</trd>
+        </trdgrp>
+        <trd lng="it">cargo<klr> (aeroplano)</klr></trd>
+        <trd lng="ru">&c_g;&c_r;&c_u;&c_z;&c_o;&c_v;&c_o;&c_j;
+        &c_s;&c_a;&c_m;&c_o;&c_l;&c_jo;&c_t;</trd>
+      </ekz>
+      <ekz>
+        miloj da pasa&gcirc;eroj do draste spertis la pruvon, ke <ind>jet<tld/>o</ind>j nur &scirc;ajne flugas
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2010/010064.php">Ven&gcirc;o</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+        <trd lng="de"><klr>(D&uuml;sen-)</klr>Jet</trd>
+      </ekz>
+      <ekz>
+        grandkapacitaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Christian Bertin</aut>
+          <vrk><url ref="&Monato;/2004/008255.html">Re&gcirc;ino de la maroj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>opiloto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2006/008913.php">Paniko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>okompanio
+        <fnt>
+          <vrk><url ref="&STEB;ingxenierado/trafiko/aviado/saest82-16.htm">Aviada transportado kaj
+          estonteco de fueloj en LH2</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur aerodromo en Moskvo alteri&gcirc;is sesloka <ind>pasa&gcirc;era <tld/>o</ind>
+        <fnt>
+          <bib>MkM</bib>
+          <lok>27</lok>
+        </fnt>;
+        <trd lng="de">Passagierflugzeug</trd>
+      </ekz>
+      <ekz>
+        Irako ne plu estas grava temo, ne plu aperas bildoj de
+        soldatoj kaj tankoj, de batal-<tld/>oj kaj bombofumo
+        <fnt><bib>Monato</bib>,
+        <aut>Stefan Maul</aut>: <vrk>Mondo alia</vrk></fnt>;
+      </ekz>
+      <ekz>
+        la bombado estas filmita el <tld/>o 
+        (kvadratetoj de bombobjektoj, fulmoj de
+        eksplodoj, grenadfuneloj)
+        <fnt>
+          <bib>KFl</bib>
+          <lok>VIII. &Scirc;tupoj al idealo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;efa problemo de <tld/>o&hcirc;emia laboro estas la flanka
+        forflugo de &hcirc;emia&jcirc;oj dis&scirc;prucigataj per
+        laboranta <ind>agro<tld/>o</ind>
+        <fnt>
+          <aut>Richard Partecke</aut>:
+          <vrk>Malalta flugo permesata!</vrk>.
+          <lok>AEST 1984. Brno, 1984, p. 52</lok>
+        </fnt>.
+        <trd lng="ca">avi&oacute; fumigador</trd>
+      </ekz>
+    </dif>
+    <ref tip="super" cel="aparat.flug0o">flugaparato</ref>
+    <ref tip="lst" cel="vetur.0ilo" lst="voko:veturiloj">veturilo</ref>
+    <rim>
+      La uzado de <ctl>avio</ctl> lastatempe pliofti&gcirc;as, tamen
+      <ctl>aviadilo</ctl> restas pli kutima kaj &gcirc;enerala vorto;
+      certe <ctl>avio</ctl> estas pli uzata ol la arkaiki&gcirc;inta
+      <ctl>aeroplano</ctl>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_m;&c_a;&c_l;&c_jo;&c_t;</trd>
+  <trd lng="bg">&c_s;&c_a;&c_m;&c_o;&c_l;&c_je;&c_t;</trd>
+  <trd lng="ca">avi&oacute;</trd>
+  <trdgrp lng="de">
+    <trd>Flugzeug</trd>,
+    <trd>Flugmaschine</trd>,
+    <trd>Flugapparat</trd>
+  </trdgrp>
+  <trd lng="en">aircraft</trd>
+  <trd lng="es">avi&oacute;n</trd>
+  <trd lng="fr">avion</trd>
+  <trd lng="he">&mem;&tet;&vav;&samekh;</trd>
+  <trd lng="hu">rep&uuml;l&odblac;g&eacute;p</trd>
+  <trd lng="io">aeroplano</trd>
+  <trd lng="it">aeroplano</trd>
+  <trd lng="ja">&#x98DB;&#x884C;&#x6A5F; <pr>&#x3072;&#x3053;&#x3046;&#x304D;</pr></trd>
+  <trd lng="nl">vliegtuig</trd>
+  <trd lng="pl">samolot</trd>
+  <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_l;&c_jo;&c_t;</trd>
+  <trd lng="sk">lietadlo</trd>
+  <trd lng="cs">letadlo</trd>
+  <trd lng="uk">&c_l;&c_ib;&c_t;&c_a;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E58;&#x4EBA;&#x98DB;&#x6A5F; <pr>ch&#xE9;ngr&#xE9;nf&#x113;ij&#x12B;</pr></trd>,
+    <trd>&#x8F7D;&#x4EBA;&#x98DE;&#x673A; <pr>ch&#xE9;ngr&#xE9;nf&#x113;ij&#x12B;</pr></trd>,
+    <trd>&#x98DB;&#x6A5F; <pr>f&#x113;ij&#x12B;</pr></trd>,
+    <trd>&#x98DE;&#x673A; <pr>f&#x113;ij&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="avi.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="avi.0i.AVI">
+    <dif>
+      Aerveturi per <tld/>o.
+    </dif>
+    <trd lng="be">&c_l;&c_ja;&c_c;&c_je;&c_c;&c_mol;
+    <ind>&c_s;&c_a;&c_m;&c_a;&c_l;&c_jo;&c_t;&c_a;&c_m;</ind></trd>
+    <trdgrp lng="ca">
+      <trd>volar</trd>,
+      <trd>viatjar en avi&oacute;</trd>
+    </trdgrp>
+    <trd lng="de">fliegen</trd>
+    <trd lng="en">fly</trd>
+    <trd lng="es">volar<klr tip="amb"> (en avi&oacute;n)</klr></trd>
+    <trd lng="hu">rep&uuml;l<klr tip="ind">
+    (rep&uuml;l&odblac;g&eacute;pen)</klr></trd>
+    <trd lng="it">volare<klr> (con aeroplano)</klr></trd>
+    <trd lng="ru">&c_l;&c_je;&c_t;&c_a;&c_t;&c_mol;
+    &c_s;&c_a;&c_m;&c_o;&c_l;&c_jo;&c_t;&c_o;&c_m;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x98DB;&#x6A5F;&#x53BB; <pr>f&#x113;ij&#x12B;q&#xF9;</pr></trd>,
+    <trd>&#x98DE;&#x673A;&#x53BB; <pr>f&#x113;ij&#x12B;q&#xF9;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="cs">l&eacute;tat letadlem</trd>
+  <trd lng="sk">lieta&tcaron; lietadlom</trd>
+</drv>
+
+<drv mrk="avi.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="avi.0a.AVI">
+    <dif>
+      Rilata al <tld/>o a&ubreve; <tld/>ado; uzanta <tld/>on:
+      <ekz>
+        <tld/>a transportado, po&scirc;to <klr>(kp <ref cel="posxt.aer0a">aerpo&scirc;ta</ref>)</klr>;
+      </ekz>
+      <ekz>
+        voja&gcirc;i, sendi ion <ind><tld/>e</ind>;
+        <trdgrp lng="ca">
+          <trd>en avi&oacute;</trd>,
+          <trd>per avi&oacute;</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        esti&gcirc;is dama&gcirc;o en la <tld/>a strukturo
+        <fnt>
+          <vrk><url ref="https://www.lingq.com/en/learn-esperanto-online/courses/262944/preventa-medicino-por-aviadiloj-1109394/">Preventa medicino por aviadiloj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li partoprenis la unuan rusan <tld/>an feston en Peterburgo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Dmitrij Cibulevskij</aut>
+          <vrk><url ref="&Monato;/2004/008276.html">Ukraina Ikaro</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Internacia Civil-<tld lit="A"/>a Organiza&jcirc;o
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007159.php">Flugilhavaj vortoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 22</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        ili ne&ubreve;trale rilatas al usonaj kaj britaj <tld/>aj atakoj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 3 (53)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni havas germanan konsulejon en Novosibirsko, kaj rektajn <tld/>ajn flugojn en
+        Germanion
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 7 (57)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por la UKanoj estas planata <tld/>a flugo Moskvo &ndash; Tel-Avivo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 12 (62)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      La&ubreve; nacilingvaj kutimoj oni ofte trovas la adjektivon
+      &leftquot;<ref cel="aer.0a.tra">aera</ref>&rightquot; uzata en la senco de <ctl>avia</ctl>.      
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_v;&c_ib;&c_ja;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>,
+      <trd>&c_p;&c_a;&c_v;&c_je;&c_t;&c_r;&c_a;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trd lng="ca">aeri</trd>
+    <trd lng="de">fliegend</trd>
+    <trd lng="en">aviational</trd>
+    <trdgrp lng="hu">
+      <trd>l&eacute;gi</trd>,
+      <trd>rep&uuml;l&odblac;</trd>
+    </trdgrp>
+    <trd lng="it">aereo<klr> (per aeroplano)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_a;&c_v;&c_i;&c_a;-</trd>,
+      <trd>&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.33 2023/10/13 17:08:38
+revo: transskribo per <pr>
+
+versio 1.32 2023/04/29 16:32:07
+Paul Peeraerts: Steloj -> monato
+
+versio 1.31 2022/05/06 15:47:03
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.30 2022/05/05 06:36:34
+Wolfram Diestel: +ref
+
+versio 1.29 2022/05/04 06:37:17
+Wolfram Diestel: ~o, ~a: +ekz-oj
+
+versio 1.28 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.27 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.23  2019/09/09 20:10:16  revo
+-->
+</vortaro>

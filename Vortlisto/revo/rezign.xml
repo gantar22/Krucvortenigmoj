@@ -1,0 +1,412 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rezign.xml,v 1.38 2023/10/20 19:20:37 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>rezign</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="rezign.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="rezign.0i.KOMUNE">
+    <gra><vspec>x</vspec></gra>
+    <dif>
+      Definitive <ref tip="super" cel="las.for0i">forlasi</ref> ian postulon, 
+      pretendon, esperon a&ubreve; deziron;
+      <ref tip="sin" cel="preten.mal0i">malpretendi</ref>:
+      <ekz>
+        la pluvego estis tiom fortega, ke oni devis <tld/>i, ekbruligi la fajron
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XXVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;ino <klr>[&#x2026;]</klr> post la morto de sia filo <tld/>is la tronon
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ordonas al mi <tld/>i duonon de miaj enspezoj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>os nenion
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>is pri <klr>[sia celo]</klr> kaj pri si mem, kaj tio estis la plej
+        malbona
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se vi <tld/>os la rajtojn al mia filino, vi ricevos tiom da oro, kiom vi volos
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Sesope oni trairas la tutan mondon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        diru al &scirc;i, ke <klr>[&#x2026;]</klr> mi <tld/>as mian amon
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;aptiro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i provis per konvenaj vortoj prudentigi Kristoforon, sed
+        anta&ubreve; liaj trankvila rideto kaj amike foriga gesto &scirc;i fine devis <tld/>i
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Feli&ccirc;a homo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estas kapabla <tld/>i &ccirc;ion, for&jcirc;eti &ccirc;iujn anta&ubreve;ju&gcirc;ojn
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XXI</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="konsen.for0i">forkonsenti</ref>
+    <refgrp tip="vid">
+      <ref cel="abdik.0i">abdiki</ref>,
+      <ref cel="ced.0i.fordoni">cedi<sncref/></ref>,
+      <ref cel="jxet.for0i">for&jcirc;eti</ref>,
+      <ref cel="met.for0i">formeti</ref>,
+      <ref cel="kapitu.0i.FIG">kapitulaci<sncref/></ref>,
+      <ref cel="las.0i.transdoni">lasi<sncref/></ref>,
+      <ref cel="rezign1.0i">rezignacii</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_m;&c_o;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_d;&c_r;&c_a;&c_ch;&c_y;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_y;&c_r;&c_a;&c_ch;&c_y;&c_s;&c_ja;</trd>,
+    <trd>&c_z;&c_r;&c_a;&c_ch;&c_y;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>resignar</trd>,
+    <trd>abandonar</trd>,
+    <trd>renunciar a</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odp&iacute;rat si</trd>,
+    <trd>odstoupit</trd>,
+    <trd>podat demisi</trd>,
+    <trd>rezignovat</trd>,
+    <trd>upustit od...</trd>,
+    <trd>vzd&aacute;t se</trd>,
+    <trd>z&rcaron;&iacute;ci se</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verzichten</trd>,
+    <trd>aufgeben</trd>,
+    <trd>resignieren</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>resign</trd>,
+    <trd>give up</trd>,
+    <trd>surrender</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>abandonner<klr> (renoncer)</klr></trd>,
+    <trd>renoncer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>lemond</trd>,
+    <trd>felad</trd>,
+    <trd>el&aacute;ll <klr> (vmit&odblac;l)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x65AD;&#x5FF5;&#x3059;&#x308B;  <pr>&#x3060;&#x3093;&#x306D;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x3042;&#x304D;&#x3089;&#x3081;&#x308B;</trd>,
+    <trd>&#x653E;&#x68C4;&#x3059;&#x308B;  <pr>&#x307B;&#x3046;&#x304D;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x8F9E;&#x8077;&#x3059;&#x308B;  <pr>&#x3058;&#x3057;&#x3087;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x9000;&#x4EFB;&#x3059;&#x308B;  <pr>&#x305F;&#x3044;&#x306B;&#x3093;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>afstand doen</trd>,
+    <trd>opgeven</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rezygnowa&cacute;</trd>,
+    <trd>zrzeka&cacute; si&eogonek;</trd>,
+    <trd>wyrzeka&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>resignar-se</trd>,
+    <trd>abrir m&atilde;o de</trd>,
+    <trd>renunciar</trd>,
+    <trd>demitir-se de</trd>,        
+    <trd>abandonar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr>(&c_o;&c_t; &c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>,
+    <trd>&c_o;&c_t;&c_r;&c_je;&c_ch;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="tr">vazge&ccedil;mek</trd>
+  <trdgrp lng="sk">
+    <trd>dost&uacute;pi&tcaron;</trd>,
+    <trd>poda&tcaron; demisiu</trd>,
+    <trd>rezignova&tcaron;</trd>,
+    <trd>vzda&tcaron; sa</trd>,
+    <trd>zriec&tcaron; sa</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_m;&c_o;&c_v;&c_l;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_r;&c_ib;&c_k;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_z;&c_r;&c_ib;&c_k;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rezign.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rezign.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        tiu <tld/>o postulas kura&gcirc;on!
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ekmemoris pri la ekstera mondo, kaj suspiro de laceco kaj <tld/>o eli&gcirc;is el
+        lia brusto
+        <fnt>
+          <bib>Tor</bib>
+          <lok>IV.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni povas atingi la animan beaton <klr>[&#x2026;]</klr> anka&ubreve; per la memhumili&gcirc;o kaj per
+        la <tld/>o je la tera bonfarto
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Kvina &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej alta filozofio estas <tld/>o pri &ccirc;ia filozofado
+        <fnt>
+          <bib>KKr</bib>
+          <lok>II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post &scirc;ia <tld/>o ni ne trovis novan redaktoron
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2005/008662.php">Akurateco</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lian <tld/>on ni tre beda&ubreve;ras, &ccirc;ar li estas tre kompetenta en sia kampo
+        <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007225.php">Estimataj gelegantoj,</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 3</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="abdik.0o">abdiko</ref>,
+      <ref cel="abnega.0o">abnegacio</ref>,
+      <ref cel="preten.mal0o">malpretendo</ref>,
+      <ref cel="rezign1.0o">rezignacio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_r;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_a;&c_d;&c_m;&c_o;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>ren&uacute;ncia</trd>,
+    <trd>aband&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>malomyslnost</trd>,
+    <trd>odevzdanost</trd>,
+    <trd>rezignace</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Verzicht</trd>,
+    <trd>Aufgabe <klr>Verzicht</klr></trd>,
+    <trd>Entsagung</trd>,
+    <trd>Resignation</trd>
+  </trdgrp>
+  <trd lng="en">resignation</trd>
+  <trdgrp lng="fr">
+    <trd>abandon<klr> (renonciation)</klr></trd>,
+    <trd>renonciation</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>lemond&aacute;s</trd>,
+    <trd>felad&aacute;s</trd>,
+    <trd>belenyugv&aacute;s</trd>,
+    <trd>rezign&aacute;ci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x65AD;&#x5FF5;  <pr>&#x3060;&#x3093;&#x306D;&#x3093;</pr></trd>,
+    <trd>&#x3042;&#x304D;&#x3089;&#x3081;</trd>,
+    <trd>&#x653E;&#x68C4;  <pr>&#x307B;&#x3046;&#x304D;</pr></trd>,
+    <trd>&#x8F9E;&#x9000;  <pr>&#x3058;&#x305F;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">afstand<klr tip="ind"> (opgeven)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>rezygnacja</trd>,
+    <trd>zrzeczenie si&eogonek;</trd>,
+    <trd>ust&aogonek;pienie</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_r;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_o;&c_t;&c_k;&c_a;&c_z; <klr>(&c_o;&c_t; &c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odst&uacute;penie z miesta</trd>,
+    <trd>rezign&aacute;cia</trd>,
+    <trd>vzdanie sa</trd>,
+    <trd>zrieknutie sa</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_r;&c_je;&c_ch;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_m;&c_o;&c_v;&c_l;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_m;&c_o;&c_v;&c_a; &c_v;&c_ib;&c_d; &c_p;&c_o;&c_s;&c_t;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_a;&c_d;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_v;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rezign.0ebla">
+  <kap>
+    <tld/>ebla
+  </kap>
+  <snc>
+    <dif>
+      Pri kio oni povas <tld/>i, <ref tip="sin" cel="nepr.mal0a">malnepra</ref>:
+      <ekz>
+        la demisio de kernaj oficistoj, kiuj krom siaj meritoj anka&ubreve; disponas pri
+        malfacile <tld/>ebla sperto, ka&ubreve;zas problemon al nia Asocio
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2001, &#x2116;12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="hav.nemal0ebla">nemalhavebla</ref>
+    <ref tip="vid" cel="fakultativ.0a">fakultativa</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_a;&c_b;&c_a;&c_v;&c_ja;&c_z;&c_k;&c_o;&c_v;&c_y;</trd>,
+    <trd>&c_a;&c_d; &c_ja;&c_k;&c_o;&c_g;&c_a; &c_m;&c_o;&c_zh;&c_n;&c_a; <ind>&c_a;&c_d;&c_m;&c_o;&c_v;&c_ib;&c_c;&c_c;&c_a;</ind></trd>,
+    <trd>&c_a;&c_d; &c_ja;&c_k;&c_o;&c_g;&c_a; &c_m;&c_o;&c_zh;&c_n;&c_a; <ind>&c_a;&c_d;&c_s;&c_t;&c_u;&c_p;&c_ib;&c_c;&c_c;&c_a;</ind></trd>
+  </trdgrp>
+  <trd lng="de">verzichtbar</trd>
+  <trd lng="pl">do <ind>zrzeczenia</ind> si&eogonek;</trd>
+</drv>
+
+<drv mrk="rezign.0emo">
+  <kap><tld/>emo</kap>
+  <snc mrk="rezign.0emo.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Cedema submeti&gcirc;o; senrezista, senprotesta kaj senplenda 
+      akcepto a&ubreve; forlaso pri io:
+      <ekz>
+        mi forte rememoris la piajn instruojn <klr>[&#x2026;]</klr> pri la <tld/>emo, kiu estas
+        la ornamo kaj virto de la neposedantoj
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dua &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anstata&ubreve; tia idea diskuto, nun ni tamen atestas pitajn batalojn, <tld/>emon kaj
+        malakordojn, kiuj dis&scirc;prucis tra la tuta E-movado
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#x2116; 8-9 (106-107)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eble li pravas &ndash; &scirc;i aldonis <tld/>eme
+        <fnt>
+          <bib>KKr</bib>
+          <lok>II</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="rezign1.0o.akcepto">rezignacio</ref>
+    </snc>
+  <trd lng="be">&c_p;&c_a;&c_k;&c_o;&c_r;&c_a;</trd>
+  <trd lng="ca">resignaci&oacute;</trd>
+  <trd lng="cs">&uacute;stupnost</trd>
+  <trdgrp lng="de">
+    <trd>Entsagung</trd>,
+    <trd>Resignation</trd>,
+    <trd>Schicksalsergebenheit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>resignation</trd>,
+    <trd>defeatism</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>r&eacute;signation</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>belet&ouml;r&odblac;d&eacute;s</trd>,
+    <trd>rezign&aacute;lts&aacute;g</trd>
+  </trdgrp>
+  <trd lng="nl">berusting</trd>
+  <trdgrp lng="pl">
+    <trd>rezygnacja</trd>,
+    <trd>defetyzm</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_m;&c_i;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">&uacute;stup&ccaron;ivos&tcaron;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.38 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.36 2023/06/17 16:32:16
+Vito Redsky: +trd pl 
+
+versio 1.35 2023/05/01 11:23:40
+Paul Peeraerts: Steloj -> monato
+
+versio 1.34 2022/12/27 08:32:53
+Dmitri Gabinski: + trd be
+
+versio 1.33 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.32 2022/04/15 08:33:43
+Wolfram Diestel: ~i, ~o: +ekz-oj, ref-oj
+
+versio 1.31 2022/04/14 06:35:13
+Wolfram Diestel: ~emo: +ekz
+
+versio 1.30 2022/04/13 20:30:04
+-->
+</vortaro>

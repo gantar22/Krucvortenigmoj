@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bankro.xml,v 1.27 2023/10/29 19:11:00 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>bankrot</rad>/i
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="bankro.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="bankro.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="cxes.0igi">&Ccirc;esigi</ref> la pagon de siaj 
+      <ref tip="prt" cel="sxuld.0o">&scirc;uldo</ref>j en komerco,
+      kaj lasi deklari tiun staton per ju&gcirc;o:
+      <ekz>
+        <tld/>intaj nobeluloj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj niaj akciaj kompanioj <tld/>as sole pro tio, ke mankas honestaj homoj
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam venis la krizo, la fabrikoj <tld/>is kaj senlaboreco kreskis
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li volas esti sukcesa kaj bonprospera negocisto, sed male: li <tld/>os
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>bankrottieren</trd>,
+      <trd>Bankrott machen</trd>,
+      <trd>Konkurs machen</trd>,
+      <trd>Pleite machen</trd>,
+      <trd>pleite gehen</trd>,
+      <trd>in <ind>Konkurs gehen</ind></trd></trdgrp>
+    <trd lng="en">go bankrupt</trd>
+    <trd lng="nl">failliet gaan</trd>
+    <trdgrp lng="pl">
+      <trd>bankrutowa&cacute;</trd>,
+      <trd>og&lstroke;asza&cacute; <ind>bankructwo</ind></trd>,
+      <trd>plajtowa&cacute;</trd>
+    </trdgrp>
+    <trd lng="zh">&#x7834;&#x4EA7; <pr>p&#xF2;ch&#x1CE;n</pr></trd>
+</snc>
+  <snc mrk="bankro.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="vid" cel="fiask.0i">Fiaski</ref>,
+      <ref tip="vid" cel="sukces.mal0i">malsukcesi</ref>:
+      <ekz>
+        la Dia pardono <klr>[&#x2026;]</klr>, la senlima indulgo devus <tld/>i, se &gcirc;i volus
+        pardoni &ccirc;iujn miajn kulpojn
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la materialismo, kiun vi predikas, multfoje jam estis moda, kaj &ccirc;iam <tld/>is
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd><ind>Schiffbruch</ind>  erleiden</trd>,
+      <trd>einbrechen</trd>,
+      <trd>versagen</trd>,
+      <trd>eine <ind>Pleite</ind> erleben</trd>,
+      <trd><ind>Misserfolg</ind> haben</trd>
+      </trdgrp>
+    <trd lng="nl">mislukken</trd>
+    <trd lng="pl">splajtowa&cacute;</trd>
+    <trd lng="zh">&#x53D7;&#x632B; <pr>sh&#xF2;ucu&#xF2;</pr></trd>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_n;&c_k;&c_r;&c_u;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_b;&c_a;&c_n;&c_k;&c_r;&c_u;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bankrotovat</trd>,
+    <trd>ud&ecaron;lat bankrot</trd>,
+    <trd>zbankrotovat</trd>,
+    <trd>zkrachovat</trd>
+  </trdgrp>
+  <trd lng="fr">faire <ind>banqueroute</ind></trd>
+  <trd lng="he">&lamed;&pe;&shin;&vav;&tet; &resh;&gimel;&lamed;</trd>
+  <trdgrp lng="hu">
+    <trd>cs&odblac;dbe jut</trd>,
+    <trd>cs&odblac;d&ouml;t mond</trd>
+  </trdgrp>
+  <trd lng="ja">&#x7834;&#x7523;&#x3059;&#x308B;  <pr>&#x306F;&#x3055;&#x3093;&#x3059;&#x308B;</pr></trd>
+  <trd lng="ru">&c_o;&c_b;&c_a;&c_n;&c_k;&c_r;&c_o;&c_t;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>skrachova&tcaron;</trd>,
+    <trd>vyjs&tcaron; na mizinu</trd>,
+    <trd>zbankrotova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&#x437;&#x431;&#x430;&#x43D;&#x43A;&#x440;&#x443;&#x442;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
+</drv>
+
+<drv mrk="bankro.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bankro.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Stato de komercisto, kiu <tld/>is:
+      <ekz>
+        la <tld/>o de l' trezorejo <klr>[&#x2026;]</klr> estis prokrastita dek tagojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ekson&gcirc;is pri malfeli&ccirc;a amo, <tld/>o kaj zorgoj pri pano
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estu <tld/>o kaj estu malbona merkato kiom ajn, tia granda entrepreno ne povos
+        tute &ccirc;esi kaj malaperi
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kolerega pri tiu <tld/>o de la fatalo, kiu ruinigis &scirc;iajn plej karajn esperojn,
+        nun sinjorino Lin&scirc;ardo metis intertempojn pli kaj pli longeda&ubreve;rajn inter siaj
+        vizitoj
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kolaps.0i.FIG">kolapso<sncref/></ref>
+    </refgrp>
+    <trd lng="be">&c_b;&c_a;&c_n;&c_k;&c_r;&c_u;&c_c;&c_t;&c_v;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd>Bankrott</trd>,
+      <trd>Konkurs</trd>,
+      <trd>Pleite</trd>
+    </trdgrp>
+    <trd lng="en">bankruptcy</trd>
+    <trd lng="fr">banqueroute</trd>
+    <trd lng="hu">cs&odblac;d</trd>
+    <trdgrp lng="nl">
+      <trd>bankroet</trd>,
+      <trd>faillissement</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>bankructwo</trd>,
+      <trd>plajta</trd>
+    </trdgrp>
+    <trd lng="ru">&c_b;&c_a;&c_n;&c_k;&c_r;&c_o;&c_t;&c_s;&c_t;&c_v;&c_o;</trd>
+    <trdgrp lng="sk">
+      <trd>krach</trd>,
+      <trd>bankrot</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x65E0;&#x507F;&#x8FD8;&#x80FD;&#x529B; <pr>w&#xFA;ch&#xE1;nghu&#xE1;nn&#xE9;ngl&#xEC;</pr></trd>,
+    <trd>&#x731B;&#x649E; <pr>m&#x11B;ngchu&#xE1;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="cs">
+    <trd>bankrot</trd>,
+    <trd>konkurs</trd>,
+    <trd>krach</trd>,
+    <trd>&uacute;padek</trd>
+  </trdgrp>
+  <trd lng="he">&pe;&#x5BC;&#x5B0;&shin;&#x5C1;&#x5B4;&yod;&tet;&#x5B7;&tav; &resh;&#x5B6;&gimel;&#x5B6;&lamed;</trd>
+  <trd lng="ja">&#x7834;&#x7523;  <pr>&#x306F;&#x3055;&#x3093;</pr></trd>
+  <trdgrp lng="sk">
+    <trd>konkurz</trd>,
+    <trd>&uacute;padok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x430;&#x43D;&#x43A;&#x440;&#x443;&#x442;&#x441;&#x442;&#x432;&#x43E;</trd>,
+    <trd>&#x43D;&#x435;&#x441;&#x43F;&#x440;&#x43E;&#x43C;&#x43E;&#x436;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.23 2022/01/09 18:34:32
+Wolfram Diestel: +ekz-oj
+
+Revision 1.20  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2011/06/03 06:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2011/02/25 12:10:10  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.17  2009/07/01 17:22:02  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.16  2009/02/25 17:30:31  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2004/10/20 16:31:48  revo
+-->
+</vortaro>

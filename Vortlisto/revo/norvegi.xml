@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: norvegi.xml,v 1.21 2023/10/20 05:22:00 revo Exp $">
+<kap>
+  <rad>Norvegi</rad>/o
+</kap>
+
+<drv mrk="norvegi.N0o">
+  <kap><tld/>o</kap>
+  <snc mrk="norvegi.N0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="dif" cel="norveg.N0ujo.GEOG">Norvegujo</ref>:
+      <ekz>
+        <tld lit="N"/>o estas lando en Norda E&ubreve;ropo, sur la
+        Skandinava duoninsulo.
+        <fnt><bib>Viki</bib>,
+          <lok><url ref="&Viki;/Norvegio">Norvegio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;efkomitato en <tld/>o provas starigi komitatojn en aliaj landoj por varbi
+        virinojn por partopreni en la mar&scirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Douglas Draper</aut>
+          <vrk><url ref="&Monato;/2003/008001.html">Pa&scirc;oj al paco</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la armeoj sovetia, usona, <tld lit="n"/>a
+        <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio: 
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_N;&c_a;&c_r;&c_v;&c_e;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_N;&c_o;&c_r;&c_v;&c_je;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="cs">Norsko</trd>
+  <trd lng="de">Norwegen</trd>
+  <trd lng="en">Norway</trd>
+  <trd lng="es">Noruega</trd>
+  <trd lng="fa">&a_n;&a_r;&a_w;&f_zh;</trd>
+  <trdgrp lng="fr">
+    <trd>Norv&egrave;ge</trd>,
+    <trd>Royaume de Norv&egrave;ge</trd>
+  </trdgrp>
+  <trd lng="id">Norwegia</trd>
+  <trd lng="ja">&#x30CE;&#x30EB;&#x30A6;&#x30A7;&#x30FC;  <pr>&#x306E;&#x308B;&#x3046;&#x3047;&#x30FC;</pr></trd>
+  <trd lng="nl">Noorwegen</trd>
+  <trd lng="no">Norge</trd>
+  <trdgrp lng="pl">
+    <trd>Norwegia</trd>,
+    <trd>Kr&oacute;lestwo <ind>Norwegii</ind></trd>
+  </trdgrp>
+  <trd lng="pt">Noruega</trd>
+  <trd lng="sk">N&oacute;rsko</trd>
+  <trd lng="uk">&#x41D;&#x43E;&c_r;&c_v;&c_je;&c_g;&c_ib;&#x44F;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.21 2023/10/20 05:22:00
+revo: transskribo per <pr>
+
+versio 1.19 2023/04/07 16:34:14
+Paul Peeraerts: &Monato;
+
+versio 1.18 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.16 2021/04/12 07:08:00
+Dmitri Gabinski: +trd uz
+
+Revision 1.14  2018/05/23 03:10:24  revo
+Dusan Juretic: +trd es
+
+Revision 1.13  2017/12/28 13:10:16  revo
+Michel Cantigneaux: rimarko pri radiko kaj sufikso (+ /ino + /i/o )
+
+Revision 1.12  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:21  revo
+-->
+</vortaro>

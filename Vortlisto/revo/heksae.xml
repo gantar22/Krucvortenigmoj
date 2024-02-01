@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: heksae.xml,v 1.24 2023/11/15 16:45:18 revo Exp $">
+<kap>
+  <rad>heksaedr</rad>/o
+</kap>
+<drv mrk="heksae.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>
+  <snc>
+    <dif>
+    <ref tip="dif" cel="edr.n0o">Sesedro</ref>:
+      <ekz>
+        dum vaporigado de la solva&jcirc;o, la troo de la amoniako malaperas <klr>[kaj]</klr>
+        rezultas en formi&gcirc;o de <tld/>aj travideblaj prismoj de la kvarhidrata amonia
+        heptamolibdenato
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=530268">Amonia heptamolibdenato</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_je;&c_k;&c_s;&c_a;&c_e;&c_d;&c_a;&c_r;</trd>,
+    <trd>&c_sh;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Hexaeder</trd>,
+    <trd>Sechsflach</trd>,
+    <trd>Sechsfl&auml;chner</trd>
+  </trdgrp>
+  <trd lng="el">&epsilon;&xi;&alfa_ton;&epsilon;&delta;&rho;&omikron;</trd>
+  <trd lng="en">hexahedron</trd>
+  <trd lng="es">hexaedro</trd>
+  <trd lng="fr">hexa&egrave;dre</trd>
+  <trdgrp lng="hu">
+    <trd>hexa&eacute;der</trd>,
+    <trd>hatlap</trd>,
+    <trd>kocka</trd>
+  </trdgrp>
+  <trd lng="it">esaedro</trd>
+  <trd lng="ja">&#x516D;&#x9762;&#x4F53;  <pr>&#x308D;&#x304F;&#x3081;&#x3093;&#x305F;&#x3044;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>hexa&euml;der</trd>,
+    <trd>zesvlak</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>heksaedr</trd>,
+    <trd>sze&sacute;cian<klr> (niekoniecznie foremny)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">hexaedro</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_je;&c_k;&c_s;&c_a;&c_e;&c_d;&c_r;</trd>,
+    <trd>&c_sh;&c_je;&c_s;&c_t;&c_i;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x443;&#x431;</trd>,
+    <trd>&#x433;&#x435;&#x43A;&#x441;&#x430;&#x435;&#x434;&#x440;</trd>,
+    <trd>&#x448;&#x435;&#x441;&#x442;&#x438;&#x433;&#x440;&#x430;&#x43D;&#x43D;&#x438;&#x43A;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x516D;&#x9762;&#x4F53; <pr>li&#xF9;mi&#xE0;nt&#x1D0;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/16 05:12:01
+revo: transskribo per <pr>
+
+Revision 1.19  2009/09/04 16:30:34  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2009/02/10 14:18:03  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.17  2008/04/22 17:50:04  revo
+Sebastian Cyprych: kor trd pl
+
+Revision 1.16  2004/01/10 17:33:10  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/12/05 17:30:52  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2003/01/02 17:46:20  revo
+Marc Bavant: +trd pl
+
+Revision 1.13  2002/07/29 18:13:27  revo
+-->
+</vortaro>

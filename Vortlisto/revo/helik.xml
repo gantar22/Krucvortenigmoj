@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: helik.xml,v 1.49 2023/11/15 16:45:18 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>helik</rad>/o
+</kap>
+
+<drv mrk="helik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="helik.0o.konkhava">
+    <dif>
+      Iu el <ref tip="malprt" cel="gastro2.0oj">gastropodoj</ref>,
+      havanta firman konkon:
+      <ekz>
+        en fre&scirc;a roso de l' maten' <tld/>o flaris aventuron
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam mi estis infano, mi neniam vidis <tld/>ojn &dash; nur malgrandajn senkonkajn limakojn, en
+        pluva vetero
+        <fnt>
+        <aut>Jouko Lindstedt</aut>
+        <vrk><url ref="&Monato;/2000/006918.php">La helikoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/07, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        oni kutimas nomi la ordinaran po&scirc;tservon &leftquot;<tld/>opo&scirc;to&#x201D; kaj kutimas <tld/>e atendi
+        <fnt>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2013/010812.php">Po&scirc;to perdita</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/04, p. 20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="limak.0o.gastropodo">limako</ref>
+    <trd lng="be">&c_s;&c_m;&c_o;&c_w;&c_zh;</trd>  
+    <trd lng="bg">&c_o;&c_h;&c_l;&c_ju;&c_v;</trd>
+    <trdgrp lng="br">
+      <trd>maligorn</trd>,
+      <trd>melc'hwedenn-grogennek</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Schnecke</trd>,
+      <trd>Geh&auml;useschnecke</trd>
+    </trdgrp>
+    <trd lng="en">snail</trd>
+    <trd lng="es">caracol</trd>
+    <trd lng="fr">escargot</trd>
+    <trd lng="hu">h&aacute;zas <ind>csiga</ind></trd>
+    <trdgrp lng="id">
+      <trd>bekicot</trd>,
+      <trd>keong</trd>,
+      <trd>siput</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>slak<klr tip="ind"> (huisjes-)</klr></trd>,
+      <trd>huisjesslak</trd>
+    </trdgrp>
+    <trd lng="pt">caracol</trd>
+    <trd lng="pl">&sacute;limak</trd>
+    <trd lng="ru">&c_u;&c_l;&c_i;&c_t;&c_k;&c_a;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x8717;&#x725B; <pr>w&#x14D;ni&#xFA;</pr></trd>,
+    <trd>&#x8717; <pr>w&#x14D;</pr></trd>,
+    <trd>&#x86F3; <pr>s&#x12B;</pr></trd>,
+    <trd>&#x8717;&#x725B; <pr>gu&#x101;ni&#xFA;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="helik.0o.genro">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el la familio <ref tip="malprt" cel="helike.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Helix</trd>).
+    </dif>
+    <bld lok="&WCU;/thumb/3/36/Helix_pomatia_%28Dourbes%29.jpg/640px-Helix_pomatia_%28Dourbes%29.jpg" prm="CC BY-SA 4.0">viteja <tld/>o (Helix pomatia), &ccirc;e Dourbes, Belgujo
+         <fnt>
+           <aut>&#xA9; Hans Hillewaert, propra verko</aut>
+           <lok><url ref="&WCW;/File:Helix_pomatia_(Dourbes).jpg">&WCW;/File:Helix_pomatia_(Dourbes).jpg</url></lok>
+         </fnt>
+      <trd lng="la">Helix pomatia</trd>
+    </bld>
+    <trd lng="be">&c_s;&c_mol;&c_l;&c_ib;&c_m;&c_a;&c_k;</trd>
+    <trd lng="de">Weinbergschnecke</trd>
+    <trd lng="en">roman snail</trd>
+    <trd lng="fr">escargot de Bourgogne</trd>
+    <trd lng="hu">csiga</trd>
+    <trd lng="pl">&sacute;limak</trd>
+    <trd lng="zh">&#x6CD5;&#x56FD;&#x7530;&#x87BA; <pr>f&#x1CE;gu&#xF3;ti&#xE1;nlu&#xF3;</pr></trd>
+</snc>
+  <snc mrk="helik.0o.ascii">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Neformala nomo de la signo @
+      uzata en programlingvoj kaj retadresoj:
+      <ekz>
+        en la dua adreso la <tld/>o (@) estis anstata&ubreve;igita per &amp;#64; (la dekuma alternativo por
+        @)
+        <fnt>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/2005/008656.php">Kiel protekti retadresojn?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/07, p. 27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="aski.0o">Askio</ref>
+    <ref tip="sin" cel="po.0_signo">po-signo</ref>
+    <trd lng="be">&c_s;&c_m;&c_o;&c_w;&c_zh; <klr>(&c_z;&c_n;&c_a;&c_k; "@")</klr></trd>
+    <trd lng="de">Klammeraffe</trd>
+    <trdgrp lng="en">
+      <trd>at sign</trd>
+    </trdgrp>
+    <trd lng="es">arroba</trd>
+    <trd lng="fr">arobace</trd>
+    <trd lng="he">"<ind>&shin;&tet;&resh;&vav;&dalet;&lamed;</ind>"</trd>
+    <trd lng="hu">kukac</trd>
+    <trdgrp lng="id">
+      <trd>"<ind>a</ind>" keong</trd>,
+      <trd><ind>tanda</ind> at</trd>
+    </trdgrp>
+    <trd lng="nl">apenstaart</trd>
+    <trdgrp lng="pl">
+      <trd>ma&lstroke;pa</trd>,
+      <trd>ma&lstroke;pka</trd>,
+      <trd>a z ogonkiem</trd>
+    </trdgrp>
+    <trd lng="pt">arroba<klr tip="amb"> (s&iacute;mbolo; @)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_l;&c_i;&c_t;&c_k;&c_a;</trd>,
+      <trd>&c_s;&c_o;&c_b;&c_a;&c_k;&c_a;</trd>,
+      <trd>&c_k;&c_o;&c_r;&c_ju;&c_ch;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x5C0F;&#x8001;&#x9F20; <pr>xi&#x1CE;ol&#x1CE;osh&#x1D4;</pr></trd>,
+    <trd>&#x8001;&#x9F20;&#x53F7; <pr>l&#x1CE;osh&#x1D4;h&#xE0;o</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="cs">znak zavin&aacute;&ccaron; @</trd>
+  <trd lng="he">&het;&yod;&lamed;&zayin;&vav;&fnun;</trd>
+  <trd lng="it">chiocciola</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AB;&#x30BF;&#x30C4;&#x30E0;&#x30EA;</trd>,
+    <trd>&#x5DFB;&#x8C9D;  <pr>&#x307E;&#x304D;&#x304C;&#x3044;</pr></trd>,
+    <trd>&#x30A2;&#x30C3;&#x30C8;&#x30DE;&#x30FC;&#x30AF;</trd>
+  </trdgrp>
+  <trd lng="sk">znak zavin&aacute;&ccaron;a @</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43B;&c_i;&#x43C;&c_a;&#x43A;</trd>,
+    <trd>&c_r;&c_a;&c_v;&#x43B;&c_i;&#x43A;</trd>,
+    <trd>&c_s;&#x43E;&c_b;&c_a;&c_ch;&#x43A;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.48 2023/10/16 05:12:01
+revo: transskribo per <pr>
+
+versio 1.46 2023/05/11 14:28:35
+Paul Peeraerts: lok, url
+
+versio 1.45 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.43 2022/02/02 08:34:04
+Dmitri Gabinski: + trd be
+
+Revision 1.41  2018/10/07 08:10:15  revo
+Wolfram Diestel: pli bona bildo
+
+Revision 1.40  2018/09/02 17:10:15  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.39  2018/03/07 09:10:15  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.38  2015/07/04 08:37:35  revo
+-->
+</vortaro>

@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: skem.xml,v 1.106 2023/12/28 13:31:46 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>skem</rad>/o
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="skem.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="skem.0o.modelo">
+    <dif>
+      Teoria simpligita figura&jcirc;o, prezentanta maldetale ne la
+      formon sed la <ref tip="super" cel="arangx.0o.KOMUNE">aran&gcirc;o</ref>n kaj la
+      <ref tip="prt" cel="rilat.0o.interligo">rilato</ref>jn de io:
+      <ekz>
+        <tld/>o &ccirc;iam sama por la sama okazo
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;efparto <klr>[de parolo]</klr> povas, ekzemple, konsisti el ekspono,
+        persvado kaj refuto la&ubreve; la klasika <tld/>o
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de korpo
+        <fnt>
+          <bib>ChC</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la eventoj kutime sekvas jenan iom longan <tld/>on: unue, propono <klr>[&#8230;]</klr>,
+        sekvas malobservo <klr>[&#8230;]</klr>, paralele disvolvi&gcirc;as senprincipaj atakoj <klr>[&#8230;]</klr>,
+        la lastan stadion markas plena malsukceso
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia klerigsocieto denove eklaboros plenforte, kaj en &gcirc;ia labor<tld/>o trovi&gcirc;os
+        anka&ubreve; kursoj en esperanto
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la koncepto de UK malnovi&gcirc;is, ke &gcirc;ia program<tld/>o devus esti rearan&gcirc;ita
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#8470; 8-9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la projekto helpas en strukturigo de la teamo, &ccirc;ar &gcirc;i proponas konkretan,
+        elprovitan <tld/>on
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Organiza&jcirc;o pri Nutrado kaj Agrikulturo <klr>[&#8230;]</klr> kreis <tld/>on de la
+        akvociklo
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="strukt.0o.konstruo">strukturo</ref>
+    <refgrp tip="sub">
+      <ref cel="plan.0o">plano</ref>,
+      <ref cel="model.0o.SCI">modelo</ref>,
+      <ref cel="diagra.0o">diagramo</ref>,
+      <ref cel="grafik.0ajxo">grafika&jcirc;o</ref>,
+      <ref cel="sistematik.0o">sistematiko</ref>,
+      <ref cel="skelet.0o">skeleto</ref>,
+      <ref cel="skiz.0o">skizo</ref>,
+      <ref cel="resum.0o">resumo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="af">patroon</trd>
+  <trd lng="am">&#4757;&#x12F5;&#x134D;</trd>
+  <trd lng="ar">&a_n;&a_m;&a_T;</trd>
+  <trd lng="be">&c_s;&c_h;&c_je;&c_m;&c_a;</trd>
+  <trd lng="bn">&#x9AA;&#x9CD;&#x9AF;&#x9BE;&#x99F;&#x9BE;&#x9B0;&#x9CD;&#x9A8;</trd>
+  <trd lng="bs">obrazac</trd>
+  <trd lng="co">mintali</trd>
+  <trd lng="cy">patrwm</trd>
+  <trd lng="da">m&oslash;nster</trd>
+  <trdgrp lng="de">
+    <trd>Schema</trd>,
+    <trd>Diagramm</trd>,
+    <trd>Plan</trd>,
+    <trd>Bild</trd>,
+    <trd>Darstellung</trd>,
+    <trd>Schema<ind>zeichnung</ind></trd>,
+    <trd>Modell</trd>,
+    <trd>Struktur</trd>,
+    <trd>Muster</trd>,
+    <trd>Organigramm</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>schema</trd>,
+    <trd>diagram</trd>,
+    <trd>model</trd>,
+    <trd>structure</trd>,
+    <trd>pattern</trd>
+  </trdgrp>
+  <trd lng="et">muster</trd>
+  <trd lng="eu">eredua</trd>
+  <trdgrp lng="fr">
+    <trd>organigramme</trd>,
+    <trd>sch&eacute;ma</trd>
+  </trdgrp>
+  <trd lng="fy">patroan</trd>
+  <trd lng="ga">patr&uacute;n</trd>
+  <trd lng="gd">p&agrave;tran</trd>
+  <trd lng="gl">est&aacute;ndar</trd>
+  <trd lng="gu">&#xAAA;&#xAC7;&#xA9F;&#xAB0;&#xACD;&#xAA8;</trd>
+  <trd lng="ha">juna</trd>
+  <trd lng="hi">&#x92A;&#2376;&#x91F;&#2352;&#x94D;&#2344;</trd>
+  <trd lng="hmn">qauv</trd>
+  <trd lng="hr">uzorak</trd>
+  <trd lng="ht">mod&egrave;l</trd>
+  <trdgrp lng="hu">
+    <trd>s&eacute;ma</trd>,
+    <trd>v&aacute;zlat</trd>
+  </trdgrp>
+  <trd lng="hy">&#1413;&#1408;&#x56B;&#1398;&#1377;&#x56F;</trd>
+  <trd lng="ig">&#x1EE5;kp&#x1EE5;r&#x1EE5;</trd>
+  <trd lng="is">mynstur</trd>
+  <trd lng="it">schema</trd>
+  <trd lng="ja">&#x30D1;&#x30BF;&#x30FC;&#x30F3;</trd>
+  <trd lng="jv">pola</trd>
+  <trd lng="ka">&#x10DC;&#x10D8;&#x10DB;&#x10E3;&#x10E8;&#x10D8;</trd>
+  <trd lng="kk">&#x4AF;&c_l;&c_g;&c_ib;</trd>
+  <trd lng="km">&#6018;&#x17C6;&#x179A;&#x17BC;</trd>
+  <trd lng="kn">&#xCAE;&#xCBE;&#xCA6;&#xCB0;&#xCBF;</trd>
+  <trd lng="ko">&#xD328;&#xD134;</trd>
+  <trd lng="ku">m&icirc;nak</trd>
+  <trd lng="ky">&c_u;&c_z;&c_o;&c_r;</trd>
+  <trd lng="lat">exemplar</trd>
+  <trd lng="lo">&#xEAE;&#xEB9;&#xE9A;&#xEC1;&#xE9A;&#xE9A;</trd>
+  <trd lng="lt">modelis</trd>
+  <trd lng="lv">raksts</trd>
+  <trd lng="mg">fomba</trd>
+  <trd lng="mi">tauira</trd>
+  <trd lng="mk">&c_m;&c_o;&c_d;&c_je;&c_l;</trd>
+  <trd lng="ml">&#xD2E;&#xD3E;&#xD24;&#xD43;&#xD15;</trd>
+  <trd lng="mn">&c_h;&c_e;&c_v; &c_m;&c_a;&c_ja;&c_g;</trd>
+  <trd lng="mr">&#2344;&#x92E;&#2369;&#2344;&#x93E;</trd>
+  <trd lng="ms">corak</trd>
+  <trd lng="mt">mudell</trd>
+  <trd lng="my">&#4117;&#x102F;&#4150;&#4101;&#4150;</trd>
+  <trd lng="ne">&#2344;&#x92E;&#2369;&#2344;&#x93E;</trd>
+  <trdgrp lng="nl">
+    <trd>model</trd>,
+    <trd>schema</trd>
+  </trdgrp>
+  <trd lng="ny">chitsanzo</trd>
+  <trd lng="pa">&#xA2A;&#xA48;&#xA1F;&#xA30;&#xA28;</trd>
+  <trd lng="pl">schemat</trd>
+  <trd lng="ps">&a_b;&a_y;&a_l;&#x6AB;&a_h;</trd>
+  <trd lng="ru">&c_s;&c_h;&c_je;&c_m;&c_a;</trd>
+  <trd lng="rw">icyitegererezo</trd>
+  <trd lng="sd">&a_T;&a_r;&a_z;</trd>
+  <trd lng="si">&#xDBB;&#xDA7;&#xDCF;&#xDC0;</trd>
+  <trdgrp lng="sk">
+    <trd>obrys</trd>,
+    <trd>osnova</trd>,
+    <trd>sch&eacute;ma</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>n&aacute;stin</trd>,
+    <trd>obrys</trd>,
+    <trd>osnova</trd>,
+    <trd>sch&eacute;ma</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schema</trd>,
+    <trd>Muster</trd>,
+    <trd>Aufbau</trd>,
+    <trd>Anordnung</trd>
+  </trdgrp><trd lng="sl">vzorec</trd>
+  <trd lng="sm">mamanu</trd>
+  <trd lng="sn">muenzaniso</trd>
+  <trd lng="so">naqshad</trd>
+  <trd lng="sq">model</trd>
+  <trd lng="st">mohlala</trd>
+  <trd lng="su">corak</trd>
+  <trd lng="sw">muundo</trd>
+  <trd lng="ta">&#xB85;&#xBAE;&#xBC8;&#xBAA;&#xBCD;&#xBAA;&#xBC1;</trd>
+  <trd lng="te">&#xC28;&#xC2E;&#xC42;&#xC28;&#xC3E;</trd>
+  <trd lng="tg">&c_n;&c_a;&c_m;&c_u;&c_n;&c_a;</trd>
+  <trd lng="th">&#xE25;&#xE27;&#xE14;&#xE25;&#xE32;&#xE22;</trd>
+  <trd lng="tt">&#x4AF;&c_r;&c_n;&#x4D9;&c_k;</trd>
+  <trd lng="uk">&c_sh;&c_a;&c_b;&c_l;&c_o;&c_n;</trd>
+  <trd lng="ur">&f_p;&f_y;&#1657;&a_r;&a_n;</trd>
+  <trd lng="uz">namuna</trd>
+  <trd lng="vi">m&ocirc; h&igrave;nh</trd>
+  <trd lng="xh">ipatheni</trd>
+  <trd lng="yi">&mem;&vav;&samekh;&tet;&ayin;&resh;</trd>
+  <trd lng="yo">&Agrave;p&#x1EB9;&#x1EB9;r&#x1EB9;</trd>
+  <trd lng="zu">iphethini</trd>
+</drv>
+
+<drv mrk="skem.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="skem.0a.propre">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+	la <tld/>aj konvencioj
+	<klr>(kiel fari a&ubreve; legi <tld/>ojn)</klr>;
+      </ekz>
+      <ekz>
+	<tld/>a metodo <klr>(por solvi problemon ktp)</klr>;
+      </ekz>
+      <ekz>
+        tiel klare kaj <tld/>e li ne rezonadis, sed <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a numerado
+        <fnt>
+          <vrk><url ref="https://help.libreoffice.org/6.0/eo/text/swriter/01/06060000.html">&Ccirc;apitra
+          numerado</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        privilegioj kiujn oni donas la&ubreve; la <tld/>a aparteno al la certa klaso
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 7 (69)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="model.0a">modela</ref>,
+      <ref cel="tekton1.0a">tektona</ref>
+    </refgrp>
+    <trd lng="be">&c_s;&c_h;&c_je;&c_m;&c_n;&c_y;</trd>
+    <trdgrp lng="hu">
+      <trd>s&eacute;ma-</trd>,
+      <trd>v&aacute;zlat</trd>
+    </trdgrp>
+    <trd lng="pl">schematyczny</trd>
+    <trd lng="ru">&c_s;&c_h;&c_je;&c_m;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="skem.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <ref tip="dif" cel="skem.0eca"><tld/>eca</ref>
+    <trd lng="be">&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+    <trdgrp lng="hu">
+      <trd>sematikus</trd>,
+      <trd>v&aacute;zlatos</trd>
+    </trdgrp>
+    <trd lng="pl">schematyczny</trd>
+    <trd lng="ru">&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>ne&zcaron;ivotn&yacute;</trd>,
+    <trd>schematick&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>schematisch</trd>,
+    <trd>null acht f&uuml;nfzehn</trd>
+  </trdgrp>
+  <trd lng="fr">sch&eacute;matique</trd>
+  <trd lng="it">schematico<klr> (a schema)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x56F3;&#x5F0F;&#x306E;  <pr>&#x305A;&#12375;&#x304D;&#x306E;</pr></trd>,
+    <trd>&#27010;&#35201;&#x306E;  <pr>&#x304C;&#12356;&#12424;&#12358;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">schematick&yacute;</trd>
+  <trd lng="uk">&c_s;&c_h;&c_je;&#x43C;&c_a;&c_t;&c_i;&c_ch;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="skem.0eca">
+  <kap><tld/>eca</kap>
+  <snc>
+    <dif>
+      Prefere aplikanta <tld/>on ol aparte konformi&gcirc;i al konkreta situacio:
+      <ekz>
+        oni kutimas nomi <tld/>eca la skolon, kiu preferas esprimi la konceptojn surbaze
+        de jam ekzistanta radikaro, kaj naturalisma tiun, kiu preferas &ccirc;erpi la
+        vortojn el la aliaj lingvoj
+        <fnt>
+          <bib>BonaLingvo</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Esperanto estas a&ubreve;tonoma (<tld/>eca) lingvo, &ccirc;ar &gcirc;i obeas nur proprajn regulojn
+        <fnt>
+          <vrk><url ref="http://mi.anihost.ru/Espero/epitomoes.doc">Esperantista Unio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rutin.0a">rutina</ref>,
+      <ref cel="stereo3.0a">stereotipa</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="de">schematisch</trd>
+  <trd lng="fr">sch&eacute;matique</trd>
+  <trdgrp lng="hu">
+    <trd>sematikus</trd>,
+    <trd>v&aacute;zlatos</trd>
+  </trdgrp>
+  <trd lng="it">schematico<klr> (schematicit&agrave;)</klr></trd>
+  <trd lng="pl">schematyczny</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skem.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="skem.0ismo.ESP">
+    <uzo tip="fak">ESP</uzo>
+    <dif>
+      Tendenco, en evoluigo de lingvo (precipe de
+      <ctl>planlingvo</ctl>, kaj speciale Esperanto),
+      preferi la formojn raciajn, sistemajn kaj unuecajn
+      ol formojn fremdlingvajn, malsistemajn kaj ofte
+      redundajn:
+      <ekz>
+        la <tld/>ismaj projektoj (anka&ubreve; nomataj
+        <ctl>a&ubreve;tonomaj</ctl>)
+        prilaboras etnolingvan materialon la&ubreve; propraj <tld/>oj
+        &#8208; ili do aposteriore transprenas etnolingva&jcirc;ojn, sed
+        apriore modifas ilin
+        <fnt>
+          <aut>V. Barandovsk&aacute;-Frank</aut>,
+          <vrk><url ref="http://www.uni-paderborn.de/extern/fb/2/Kyb.Paed/INT/04-int.htm">
+          Enkonduka lernolibro de interlingvistiko</url></vrk>,
+          <lok>1995</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="pur.0ismo.LIN">purismo</ref>
+    <ref tip="ant" cel="natura.0o.ESP">naturalismo</ref>
+    <trd lng="be">&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_y;&c_z;&c_m;</trd>
+    <trd lng="de">Schematismus</trd>
+    <trd lng="fr">sch&eacute;matisme</trd>
+    <trd lng="hu">sematizmus</trd>
+    <trd lng="it">schematismo</trd>
+    <trd lng="pl">schematyzm</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_u;&c_r;&c_i;&c_z;&c_m;</trd>,
+      <trd>&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>,
+      <trd>&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x56F3;&#x5F0F;&#x8AD6;  <pr>&#x305A;&#12375;&#x304D;&#x308D;&#12435;</pr></trd>,
+    <trd>&#x56F3;&#x5F0F;&#x4E3B;&#x7FA9;  <pr>&#x305A;&#12375;&#x304D;&#12375;&#12421;&#x304E;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skem.flu0o">
+  <kap>flu<tld/>o<fnt> <bib>PIV3</bib></fnt></kap>
+  <snc mrk="skem.flu0o.TEK">
+    <dif>
+      Grafika&jcirc;o kiu prezentas sinsekvon de procedoj per vortoj kaj
+      interkonektantaj sagoj ekzemple por montri kiel funkcias
+      algoritmo, a&ubreve; kiel oni riparu aparaton.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="instru1.0o.KOMUNE">instrukcio</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_b;&c_l;&c_jo;&c_k;-&c_s;&c_h;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd>Flussdiagramm</trd>,
+    <trd>Ablaufplan</trd>
+  </trdgrp>
+  <trd lng="fr">diagramme de flux</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D41;&#x308C;&#x56F3;  <pr>&#x306A;&#x304C;&#x308C;&#x305A;</pr></trd>,
+    <trd>&#x30D5;&#x30ED;&#x30FC;&#x30C1;&#x30E3;&#x30FC;&#x30C8;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>schemat blokowy</trd>,
+    <trd>diagram blokowy</trd>,
+    <trd>diagram przep&lstroke;ywu</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&c_s;&#x43B;&c_ib;&c_d;&#x43E;&c_v;&#x43D;&c_ib;&c_s;&c_t;&#x44C; &c_d;&c_ib;&c_j;</trd>,
+    <trd>&c_ib;&#x43D;&c_s;&c_t;&c_r;&c_u;&#x43A;&c_c;&c_ib;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skem.konekto0o">
+  <kap>konekto<tld/>o <fnt><bib>PIV3</bib></fnt></kap>
+  <snc mrk="skem.konekto0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Desegna&jcirc;o, montranta kiel &ccirc;iuj eroj de iu
+      <ref tip="vid" cel="cirkvi.0o.ELEKTR">cirkvito</ref>
+      (elektra sistemo) estas konektitaj a&ubreve; konektotaj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="instru1.0o.KOMUNE">instrukcio</ref>
+    </refgrp>
+    <trd lng="de">Schaltplan</trd>
+    <trd lng="pl">schemat elektryczny</trd>
+  </snc>
+  <trd lng="be">&c_s;&c_h;&c_je;&c_m;&c_a; &c_z;&c_l;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_ja;&c_w; <klr>(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;&c_h;)</klr></trd>
+  <trd lng="ja">&#x914D;&#x7DDA;&#x56F3;  <pr>&#x306F;&#12356;&#x305B;&#12435;&#x305A;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.106 2023/12/28 13:31:46
+Dmitri Gabinski: + trd be
+
+versio 1.105 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.103 2022/07/14 09:32:34
+Wolfram Diestel: +kor. ref
+
+versio 1.102 2022/05/05 05:09:57
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.99 2021/12/31 09:32:27
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.98 2021/12/29 21:26:31
+Wolfram Diestel: ekz-oj, ref-oj; ~eca: dif-vortigo
+
+Revision 1.23  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2012/08/14 09:10:16  revo
+-->
+</vortaro>

@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: notic.xml,v 1.16 2023/12/21 06:31:49 revo Exp $">
+<kap>
+  <rad>notic</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="notic.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="notic.0o.KOMUNE">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Mallonga publika informteksto ofte farita la&ubreve; &scirc;ablono;
+      plej konciza &ccirc;irka&ubreve; deklinia <ref tip="super" cel="artiko.0o.gazeta">artikolo</ref>
+      el du, tri frazoj:
+      <ekz>
+        mi ne povis kompreni la sencon de gazet<tld/>o
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        deklinia <tld/>o
+        <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007176.php">Estimataj gelegantoj,</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 3</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        aperis en la revuo Esperanto <tld/>o pri refera&jcirc;o, kiun mi, matematikisto,
+        prezentis en Bratislavo
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007921.html">Ho, mistera pi!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/06, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld lit="N"/>oj el la kelo estas la plej filozofia verko en tiu &ccirc;i volumo
+        <fnt>
+          <aut>Anna kaj Mati Pentus</aut>
+          <vrk><url ref="&Monato;/2004/008219.html">Penetrante en la profundon de la
+          homanimo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/06, p. 25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la retejo &Gcirc;angalo proponas senpage la legadon de <tld/>oj
+        <klr>...</klr> per po&scirc;telefono
+        <fnt>
+          <aut>L. Domm&eacute;e</aut>,
+          <lok><url ref="">La Amikeco, 2006-10-13, numero
+          14a</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Vikipedio ne estas la &gcirc;usta loko por listigi <klr>...</klr>
+        biografiajn <tld/>ojn
+        <fnt>
+          <aut>V. Markov</aut>
+          <vrk><url ref="&Viki;/Vikipediista_diskuto:Chuck_SMITH">Vikipediista
+          diskuto...</url></vrk>
+          <lok>2005-06-26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="super">
+      <ref cel="komuni1.0o">komuniko</ref>,
+      <ref cel="sci.0igo">sciigo</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="aviz.0o">avizo</ref>,
+      <ref cel="koment1.0o">komento</ref>,
+      <ref cel="not.pri0o">prinoto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd><klr>(&c_k;&c_a;&c_r;&c_o;&c_t;&c_k;&c_a;&c_je;) &c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_m;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</klr></trd>,
+    <trd>&c_n;&c_a;&c_t;&c_a;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_w;&c_v;&c_a;&c_g;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_c;&c_je;&c_m;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">not&iacute;cia <klr>(breu)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>stru&ccaron;n&eacute; sd&ecaron;len&iacute;</trd>,
+    <trd>trochu del&scaron;&iacute; pozn&aacute;mka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kurzmitteilung</trd>,
+    <trd>Kurznachricht</trd>,
+    <trd><klr>(Zeitungs-)</klr>Meldung</trd>,
+    <trd>Randnotiz <klr>(Zeitung)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>noticia <klr>(breve)</klr></trd>
+    <trd>rese&ntilde;a</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>br&egrave;ve <klr> (journalistique)</klr></trd>,
+    <trd>notice</trd>
+  </trdgrp>
+  <trd lng="it">notizia</trd>
+  <trdgrp lng="ja">
+    <trd>&#30053;&#x8FF0;  <pr>&#x308A;&#12419;&#x304F;&#12376;&#12421;&#12388;</pr></trd>,
+    <trd>&#x77ED;&#x8A55;  <pr>&#x305F;&#12435;&#12404;&#12423;&#12358;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>notatka</trd>,
+    <trd>zapisek</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>not&abreve;</trd>,
+    <trd>not&abreve; de informare</trd>
+  </trdgrp>
+  <trd lng="sk">pozn&aacute;mka</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43C;&c_ib;&c_t;&#x43A;&c_a;</trd>,
+    <trd>&c_z;&c_g;&c_a;&c_d;&#x43A;&c_a;</trd>,
+    <trd>&#x43D;&#x43E;&c_t;&c_a;&c_t;&#x43A;&c_a;</trd>,
+    <trd>&c_z;&c_a;&#x43F;&c_i;&c_s;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.16 2023/12/21 06:31:49
+Wolfram Diestel: kor. ref
+
+versio 1.15 2023/10/20 05:22:00
+revo: transskribo per <pr>
+
+versio 1.13 2023/05/09 13:24:20
+Paul Peeraerts: + lok
+
+versio 1.12 2023/05/01 06:31:57
+Paul Peeraerts: Steloj -> monato
+
+versio 1.11 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.10 2022/04/28 07:29:53
+Dmitri Gabinski: + trd be
+
+versio 1.8 2021/07/01 06:41:12
+Wolfram Diestel: +ekz, precizigo dif
+
+versio 1.7 2021/06/30 12:47:40
+-->
+</vortaro>

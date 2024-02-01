@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: enzim.xml,v 1.14 2023/11/07 20:34:11 revo Exp $">
+<kap>
+  <rad>enzim</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="enzim.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="enzim.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      <ref tip="super" cel="protein.0o.FIZL">Proteino</ref> a&ubreve;
+      proteingrupo <ref tip="vid" cel="kataliz.0i.KEM">katalize</ref>
+      vigliganta bio&hcirc;emiajn reakciojn:
+      <ekz>
+        la plimulto da <tld/>oj, aktivaj biokombina&jcirc;oj estas
+        konstruitaj el albumenoj
+        <fnt>
+          <aut>C. St&oslash;p-Bowitz, M. B&eacute;la</aut>,
+          <vrk><url ref="http://www.fw.hu/eventoj/steb/biologio/enkond-fokuso/f874-p08.htm">
+          Enkonduko en la biologion</url></vrk>,
+          <lok>Fokuso, numero 1987-4, p. 8a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_n;&c_z;&c_y;&c_m;</trd>,
+    <trd>&c_f;&c_e;&c_r;&c_m;&c_e;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_je;&c_n;&c_z;&c_i;&c_m;</trd>
+  <trd lng="ca">enzim</trd>
+  <trd lng="cs">enzym</trd>
+  <trd lng="de">Enzym</trd>
+  <trd lng="en">enzyme</trd>
+  <trd lng="es">enzima</trd>
+  <trd lng="fa">&a_A_madda;&a_n;&a_z;&f_y;&a_m;</trd>
+  <trd lng="fr">enzyme</trd>
+  <trd lng="he">&#x5D0;&#x5E0;&#x5D6;&#x5D9;&#x5DD;</trd>
+  <trd lng="hu">enzim</trd>
+  <trd lng="it">enzima</trd>
+  <trd lng="ja">&#x9175;&#x7D20;  <pr>&#x3053;&#x3046;&#x305D;</pr></trd>
+  <trd lng="pl">enzym</trd>
+  <trd lng="pt">enzima</trd>
+  <trd lng="sk">enz&#xFD;m</trd>
+  <trd lng="sv">enzym</trd>
+  <trdgrp lng="uk">
+    <trd>&c_je;&#x43D;&c_z;&c_i;&#x43C;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_ch;&c_i;&#x43D;&#x43D;&c_i;&c_j; &c_f;&c_je;&c_r;&#x43C;&c_je;&#x43D;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x9176; <pr>m&#xE9;i</pr></trd>,
+    <trd>&#x9175;&#x7D20; <pr>xi&#xE0;os&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.13 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+versio 1.11 2023/08/13 10:29:24
+Dmitri Gabinski: + trd be
+
+Revision 1.7  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2012/08/01 12:10:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.5  2010/08/20 16:30:18  revo
+Wieland Pusch: +trd bg
+
+Revision 1.4  2010/06/23 16:30:51  revo
+Jeromo Vasxe: fak fizl
+
+Revision 1.3  2009/06/06 16:30:39  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.2  2009/03/05 17:30:44  revo
+-->
+</vortaro>

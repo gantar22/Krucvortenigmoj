@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vring.xml,v 1.7 2023/05/25 11:23:01 revo Exp $">
+<kap>
+  <rad>vring</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="vring.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="vring.0i.KOMUNE">
+    <dif>
+      <ref tip="dif" cel="tord.kun0i.FIZ">Kuntordi</ref>:
+      <ekz>
+        &scirc;i &jcirc;us <tld/>is la trempitan tukon
+        <fnt>
+          <aut>J. Rejt&odblac;, trad. L. Bal&aacute;zs</aut>,
+          <vrk><url ref="http://www.freeweb.hu/verkoj/22.htm">
+          Bill Teksaso, la temerarulo</url></vrk>,
+          <lok>2002-10-16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>ante la vorton
+        <fnt>
+          <aut>Alejandro Cossavella</aut>
+          <vrk><url ref="&Monato;/2006/008766.php">Poemoj de Alejandro Cossavella</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/04, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        doloreto <tld/>is al li la kapon
+        <fnt>
+          <aut>Guo Moruo</aut>,
+          <vrk><url ref="&CRI;1/2003/12/26/1@2081.htm">
+          En &ccirc;ambreto (1)</url></vrk>,
+          <lok>2003-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>odst&rcaron;edit</trd>,
+    <trd>vylisovat</trd>,
+    <trd>vyma&ccaron;kat</trd>,
+    <trd>&zcaron;d&iacute;mat</trd>
+  </trdgrp>
+  <trd lng="de">wringen</trd>
+  <trdgrp lng="fr">
+    <trd>essorer</trd>,
+    <trd>tordre<klr> (un linge etc.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">wringen</trd>
+  <trdgrp lng="sk">
+    <trd>vy&zcaron;m&yacute;ka&tcaron;</trd>,
+    <trd>&zcaron;m&yacute;ka&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&#x43A;&c_r;&c_u;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i; (&c_b;&c_ib;&#x43B;&c_i;&c_z;&#x43D;&c_u;)</trd>,
+    <trd>&c_v;&c_i;&c_ch;&c_a;&c_v;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vring.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="vring.el0i.KOMUNE">
+    <dif>
+      Torde <ref tip="vid" cel="prem.el0i">elpremi</ref>;
+      <ref tip="vid" cel="dev.el0igi.KOMUNE">eldevigi</ref>:
+      <ekz>
+        el<tld/>i la lastan guton
+        <fnt>
+          <aut>K. Miner</aut>,
+          <vrk><url ref="http://www.sunflower.com/~miner/TAGLIBRO_package/Aprilo_2008.html">
+          Taglibro</url></vrk>,
+          <lok>2008-04-17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el<tld/>u la sukon
+        <fnt>
+          <aut>Tajlvent', trad. F. Gaulthier</aut>,
+          <vrk><url ref="http://www.oocities.org/paris/8059/tajlvent.html">
+          receptoj</url></vrk>,
+          <lok>[vidita en 2014]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        oni &ccirc;ion elvringu <klr>...</klr> el la komercistoj
+        <fnt>
+          <aut>B. Traven, trad. D. kaj H.-G. Kaiser</aut>,
+          <vrk><url ref="http://cindymckee.com/librejo/btraven_registaro.pdf">
+          Registaro</url></vrk>,
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <nom>Cameron</nom> promesas referendumon pri brita membreco, se li ne el<tld/>os koncedojn
+        el Bruselo, ekzemple pri enmigrado
+        <fnt>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2015/011508.php">Malpli malbonaj inter aliaj malbonaj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2015/06, p. 6</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">vy&zcaron;d&iacute;mat</trd>
+  <trd lng="de">auswringen</trd>
+  <trdgrp lng="fr">
+    <trd>exprimer<klr> (extraire par pression)</klr></trd>,
+    <trd>extorquer</trd>,
+    <trd>pressurer</trd>
+  </trdgrp>
+  <trd lng="nl">uitwringen</trd>
+  <trd lng="sk">vykr&uacute;ca&tcaron;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2023/05/25 11:23:01
+Paul Peeraerts: kor de erara url, trd nl
+
+versio 1.6 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.3  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2014/03/26 02:10:20  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

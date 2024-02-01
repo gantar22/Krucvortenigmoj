@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: opon.xml,v 1.33 2023/10/20 13:11:48 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>opon</rad>/i
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="opon.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="opon.0i.KOMUNE">
+    <dif>
+      Aktive <ref tip="super" cel="kontraux.0i">kontra&ubreve;adi</ref>,
+      <ref tip="sin" cel="parol.kontraux0i.KOMUNE">kontra&ubreve;paroli</ref>,
+      <ref cel="ag.kontraux0i.KOMUNE">kontra&ubreve;agi</ref>,
+      <ref cel="opozic.0i.POL">opozicii</ref>:
+      <ekz>
+        anta&ubreve; kiam la patro kaj servistino povis <tld/>i, &scirc;i elkuris
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sanktaj pastroj <klr>[&#x2026;]</klr> tute ne <tld/>is, ke la princo partoprenu en
+        la soleno
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum ekscita diskuto en la kongresa laborkunsido <klr>[&#x2026;]</klr> oponis, krom
+        &gcirc;isostaj ne&ubreve;tralistoj, anka&ubreve; pluraj personoj, kiuj ne konsentis nur kun
+        kelkaj eroj
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> &ccirc;iam forte <tld/>is imperiismon, inkl. la rusan
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vole-nevole lia fato dependas de la kapablo <tld/>i ilin kaj komploti kontra&ubreve; ili
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen absurda maniero prezenti aferon, pensis <nom>Berlioz</nom>
+        kaj <tld/>is: &ndash; nu, en tio
+        estas troigo
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        influhava publika figuro sukcese <tld/>is eksperimentan instruadon de Esperanto
+        en la lernejoj
+        <fnt>
+          <bib>EfI</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="protes.0i.malkonsenti">protesti<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_ja;&c_r;&c_e;&c_ch;&c_y;&c_c;&c_mol;</trd>
+  <trd lng="ca">oposar</trd>
+  <trdgrp lng="cs">
+    <trd>b&yacute;t v opozici</trd>,
+    <trd>nam&iacute;tat</trd>,
+    <trd>odporovat</trd>,
+    <trd>oponovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>opponieren</trd>,
+    <trd><ind>Widerstand</ind> leisten</trd>
+  </trdgrp>
+  <trd lng="en">oppose</trd>
+  <trd lng="es">oponer</trd>
+  <trdgrp lng="fa">
+    <trd>&a_m;&a_kh;&a_A;&a_l;&a_f;&a_t; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_m;&a_A;&a_n;&a_ayn; &a_sh;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">opposer<klr> (s')</klr></trd>
+  <trdgrp lng="hu">
+    <trd>m&aacute;s v&eacute;lem&eacute;nyen van</trd>,
+    <trd>szembehelyezkedik</trd>,
+    <trd>ellene sz&oacute;l</trd>,
+    <trd>szembehelyezkedik</trd>,
+    <trd>oppon&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x53CD;&#x5BFE;&#x3059;&#x308B;  <pr>&#x306F;&#x3093;&#x305F;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x53CD;&#x99C1;&#x3059;&#x308B;  <pr>&#x306F;&#x3093;&#x3070;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x9006;&#x3089;&#x3046;  <pr>&#x3055;&#x304B;&#x3089;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">opponeren</trd>
+  <trdgrp lng="pl">
+    <trd>oponowa&cacute;</trd>,
+    <trd>sprzeciwia&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trd lng="pt">opor-se</trd>
+  <trdgrp lng="ro">
+    <trd>obiectiv</trd>,
+    <trd>obiecta</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_z;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_p;&c_p;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_n;&c_i;&c_k;&c_o;&c_m;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nes&uacute;hlasi&tcaron;</trd>,
+    <trd>oponova&tcaron;</trd>,
+    <trd>protire&ccaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43F;&c_je;&c_r;&c_je;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&#x43F;&#x43E;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_s;&c_u;&#x43F;&c_r;&#x43E;&c_t;&c_i;&c_v;&#x43D;&c_i;&#x43A;&#x43E;&#x43C;</trd>,
+    <trd>&c_d;&#x43E;&c_t;&c_r;&c_i;&#x43C;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43F;&c_r;&#x43E;&c_t;&c_i;&#x43B;&c_je;&c_zh;&#x43D;&c_i;&c_h;
+    &#x43F;&#x43E;&c_g;&#x43B;&#x44F;&c_d;&c_ib;&c_v;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="opon.0anto">
+  <kap><tld/>anto, <var><kap><tld/>ulo</kap></var></kap>
+  <snc mrk="opon.0anto.KOMUNE">
+    <dif>
+      Tiu, kiu <tld/>as, ekzemple la alia ludanto en
+      &scirc;akludo:
+      <ekz>
+        la <tld/>antoj precipe emfazadis la financajn &scirc;ar&gcirc;ojn
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Trasima&hcirc;o, sofista filozofo, <tld/>anto de Sokrato
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>uloj akuzis <nom>Holzmann</nom> je degne aristokrata stilo
+        <fnt>
+          <aut>T. Steele</aut>
+          <vrk>Kvaza&ubreve; &ccirc;io dependus de mi</vrk>
+          <lok>p. 91</lok>
+        </fnt>
+      </ekz>;
+      <ekz>
+        preska&ubreve; histerie, britaj <tld/>antoj de la e&ubreve;ro lan&ccirc;is dum la somero kinejan
+        kampanjon
+        <fnt>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2002/007870.html">Komediistoj senkomediaj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/09, p. 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="batal.kontraux0anto">kontra&ubreve;batalanto</ref>,
+      <ref cel="kontraux.0ulo">kontra&ubreve;ulo</ref>,
+      <ref cel="amik.mal0o">malamiko</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_p;&c_a;&c_n;&c_e;&c_n;&c_t;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_je;&c_r;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="cs">oponent</trd>
+  <trdgrp lng="de">
+    <trd>Opponent</trd>,
+    <trd>Gegner</trd>,
+    <trd>Gegenspieler</trd>
+  </trdgrp>
+  <trd lng="en">opponent</trd>
+  <trd lng="es">opositor</trd>
+  <trdgrp lng="fr">
+    <trd>adversaire</trd>,
+    <trd>opposant</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>ellenf&eacute;l</trd>,
+    <trd>opponens</trd>
+  </trdgrp>
+  <trd lng="ja">&#x53CD;&#x5BFE;&#x8005;  <pr>&#x306F;&#x3093;&#x305F;&#x3044;&#x3057;&#x3083;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>opponent</trd>,
+    <trd>tegenstander</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>oponent</trd>,
+    <trd>adwersarz</trd>,
+    <trd>przeciwnik  <klr>(w dyskusji)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">advers&aacute;rio</trd>
+  <trdgrp lng="ro">
+    <trd>oponent</trd>,
+    <trd>adversar</trd>
+  </trdgrp>
+  <trd lng="sk">oponent</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43F;&#x43E;&#x43D;&c_je;&#x43D;&c_t;</trd>,
+    <trd>&c_s;&c_u;&#x43F;&c_r;&#x43E;&c_t;&c_i;&c_v;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
+</drv>
+
+<!--
+<drv mrk="opon.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="opon.0ulo.KOMUNE">
+    <dif>
+     Tiu, kiu <tld/>as, ekzemple politike a&ubreve; ideologie:
+      <ekz>
+        <tld/>uloj akuzis Holzmann je degne aristokrata stilo
+        <fnt>
+          <aut>T. Steele</aut>
+          <vrk>Kvaza&ubreve; &ccirc;io dependus de mi</vrk>
+          <lok>p. 91</lok>
+        </fnt>
+      </ekz>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_a;&c_n;&c_e;&c_n;&c_t;</trd>
+  <trd lng="cs">oponent</trd>
+  <trdgrp lng="de">
+    <trd>Opponent</trd>,
+    <trd>Gegner</trd>,
+    <trd>Gegenspieler</trd>
+  </trdgrp>
+  <trd lng="en">opponent</trd>
+  <trd lng="es">opositor</trd>
+  <trdgrp lng="fr">
+    <trd>adversaire</trd>,
+    <trd>opposant</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>ellenf&eacute;l</trd>,
+    <trd>opponens</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>opponent</trd>,
+    <trd>tegenstander</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>oponent</trd>,
+    <trd>adwersarz</trd>,
+    <trd>przeciwnik  <klr>(w dyskusji)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">advers&aacute;rio</trd>
+  <trdgrp lng="ro">
+    <trd>oponent</trd>,
+    <trd>adversar</trd>
+  </trdgrp>
+  <trd lng="sk">oponent</trd>
+</drv>
+-->
+</art>
+<!--
+$Log$
+versio 1.33 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.31 2023/05/14 18:28:55
+Paul Peeraerts: kor de erara vrk
+
+versio 1.30 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
+
+versio 1.28 2022/01/09 22:31:26
+Vito Redsky: + trd pl + trd ro
+
+versio 1.27 2021/11/06 16:44:46
+Wolfram Diestel: Ekzem-oj, ref-oj, kunigis ~anto k ~ulo
+
+versio 1.26 2021/09/07 15:32:50
+Dmitri Gabinski: +trd be
+
+versio 1.25 2021/02/12 18:10:33
+Behnam Tabatabai: +trd fa
+
+Revision 1.23  2018/03/19 11:10:16  revo
+-->
+</vortaro>

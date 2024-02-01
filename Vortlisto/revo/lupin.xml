@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lupin.xml,v 1.26 2024/01/15 19:32:09 revo Exp $">
+<kap>
+  <rad>lupin</rad>/o <fnt>Z</fnt>,
+  <var><kap><rad var="e">lupen</rad>/o <fnt><bib>Viki</bib></fnt></kap></var>
+</kap>
+<drv mrk="lupin.0o">
+  <kap>
+    <tld/>o,
+    <var><kap><tld var="e"/>o</kap></var>
+  </kap>
+  <snc mrk="lupin.0o.BOT">
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="fabac.0oj">fabacoj</ref>
+      (<trd lng="la">Lupinus</trd>), uzata kiel fura&gcirc;o:    
+      <ekz>
+        sur la nigra tero svarmis kamparanoj, kiuj semis <tld var="e"/>on, pizon,
+        fazeolon kaj hordeon
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 7a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la blanka <tld var="e"/>o estas kultivata pro la alta enhavo de proteinoj
+        kaj karbonhidratoj <klr>[kaj]</klr> &scirc;atata nutra&jcirc;planto en
+        kelkaj
+        mediteraneaj regionoj &#x2010; precipe en Egiptujo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=617063">Blanka
+          lupeno</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <bld lok="&WCU;/thumb/f/fe/Lupinus_polyphyllus_FR_2012.jpg/512px-Lupinus_polyphyllus_FR_2012.jpg" prm="CC BY-SA 3.0"><ind>mulfolia <tld/>o</ind> (Lupinus polyphyllus), en &gcirc;ardeno,
+     Francujo
+       <fnt>
+         <aut>JLPC, propra verko</aut>
+         <lok><url ref="&WCW;/File:Lupinus_polyphyllus_FR_2012.jpg">&WCW;/File:Lupinus_polyphyllus_FR_2012.jpg</url></lok>
+       </fnt>
+    <trdgrp lng="hu">
+      <trd>erdei csillagf&uuml;rt</trd>,
+      <trd>&eacute;vel&odblac; csillagf&uuml;rt</trd></trdgrp>
+    <trd lng="la">Lupinus polyphyllus</trd>
+  </bld>
+  <rim>
+    <ref tip="hom" cel="lup.0ino">Lupino</ref>
+    estas anka&ubreve; inseksa lupo.
+  </rim>
+  <trd lng="be">&c_l;&c_u;&c_b;&c_ib;&c_n;</trd>
+  <trd lng="de">Lupine</trd>
+  <trdgrp lng="en">
+    <trd>lupin</trd>,
+    <trd>lupine</trd>
+  </trdgrp>
+  <trd lng="fa">&a_t;&a_r;&a_m;&a_s;</trd>
+  <trd lng="fr">lupin</trd>
+  <trdgrp lng="hu">
+    <trd>csillagf&uuml;rt</trd>,
+    <trd>farkasbab</trd></trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30EB;&#x30D4;&#x30CA;&#x30B9;</trd>,
+    <trd>&#x30CF;&#x30A6;&#x30C1;&#x30EF;&#x30DE;&#x30E1;</trd>,
+    <trd>&#x30CE;&#x30DC;&#x30EA;&#x30D5;&#x30B8;  <pr>&#x306E;&#x307C;&#x308A;&#x3075;&#x3058;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">lupine</trd>
+  <trd lng="pl">&lstroke;ubin</trd>     
+  <trd lng="ro">lupin</trd>
+  <trd lng="ru">&c_l;&c_ju;&c_p;&c_i;&c_n;</trd>
+  <trd lng="sv">lupin</trd>
+  <trd lng="uk">&#x432;&#x43E;&#x432;&#x447;&#x438;&#x446;&#x44F;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7FBD;&#x6247;&#x8C46;&#x5C5E; <pr>y&#x1D4;sh&#x101;nd&#xF2;ush&#x1D4;</pr></trd>,
+    <trd>&#x7FBD;&#x6247;&#x8C46;&#x5C6C; <pr>y&#x1D4;sh&#x101;nd&#xF2;ush&#x1D4;</pr></trd>,
+    <trd>&#x7FBD;&#x6247;&#x8C46; <pr>y&#x1D4;sh&#x101;nd&#xF2;u</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/19 14:32:17
+revo: transskribo per <pr>
+
+versio 1.22 2020/09/08 20:10:47
+Wolfram Diestel: +tld-var
+
+Revision 1.21  2020/02/28 21:10:55  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.20  2019/12/26 12:10:16  revo
+Wolfram Diestel: +ekz
+
+Revision 1.19  2019/03/01 16:10:19  revo
+Wolfram Diestel: +rim hom lup/in/o
+
+Revision 1.18  2018/10/07 16:10:21  revo
+Wolfram Diestel: +var, +ekz, pli bona bildo
+
+Revision 1.17  2014/06/17 09:10:10  revo
+Damien Brucker: +trd fr
+
+Revision 1.16  2013/08/26 19:10:22  revo
+-->
+</vortaro>

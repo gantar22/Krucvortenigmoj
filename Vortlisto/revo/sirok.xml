@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sirok.xml,v 1.19 2023/09/03 18:39:30 revo Exp $">
+<kap>
+  <rad>sirok</rad>/o
+  <fnt><bib>MT</bib></fnt>
+</kap>
+<drv mrk="sirok.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sirok.0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Varmega, sabla <ref tip="super" cel="vent.0o.MET">vento</ref>,
+      kiu blovas el varma <ref cel="dezert.0o">dezerto</ref>, ekzemple el Saharo:
+      <ekz>
+        ne frapos ilin <tld/>o nek la suno
+        <fnt><bib>MT</bib>, <lok>&Jes; 49:10</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiam ajn <tld/>o blovis (kutima fakto en Palermo), la <nac>Qanat</nac>-oj estis uzataj kiel
+        ventoliloj, kiuj nature kaj efike malvarmigis la aeron
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011265.php">En Palermo subtere</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_r;&c_o;&c_k;&c_a;</trd>
+  <trd lng="ca">xaloc</trd>
+  <trd lng="cs">scirocco</trd>
+  <trd lng="de">Schirokko</trd>
+  <trd lng="en">sirocco</trd>
+  <trd lng="es">siroco</trd>
+  <trdgrp lng="fr">
+    <trd>sirocco</trd>
+  </trdgrp>
+  <trd lng="hu">sirokk&oacute;</trd>
+  <trd lng="ja">&#x30B7;&#x30ED;&#x30C3;&#x30B3;</trd>
+  <trd lng="nl">sirocco</trd>
+  <trd lng="pl">sirocco  <klr>(wiatr)</klr></trd>
+  <trd lng="ru">&c_s;&c_i;&c_r;&c_o;&c_k;&c_k;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>scirocco</trd>,
+    <trd>stredozemn&yacute; hor&uacute;ci vietor</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_i;&c_r;&#x43E;&#x43A;&#x43E; (&c_v;&c_ib;&c_t;&c_je;&c_r;)</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.18 2023/08/21 11:23:37
+Vito Redsky: +trd pl 
+
+versio 1.17 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.15 2020/06/30 16:32:50
+Wolfram Diestel: +ekz
+
+Revision 1.13  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2010/10/04 16:31:11  revo
+Russ Williams: +trd en
+
+Revision 1.11  2005/05/12 16:31:12  revo
+Jeromo Vasxe: + fnt, iom gxeneralig. dif
+
+Revision 1.10  2005/04/05 16:35:39  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.9  2004/10/13 16:32:42  revo
+-->
+</vortaro>

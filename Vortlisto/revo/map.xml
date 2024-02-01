@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: map.xml,v 1.112 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>map</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="map.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="map.0o.GEOG">
+    <uzo tip="fak">AST</uzo>
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Desegno figuranta regionon per simboloj de &gcirc;iaj objektoj
+      (vojoj,
+      reliefo, grundoj, vetero...) (geografia <tld/>o, land<tld/>o),
+      a&ubreve; la
+      &ccirc;ielon kun &gcirc;iaj astroj (astronomia <tld/>o):
+      <ekz>
+        la nomo de la &ccirc;efurbo aperu sur veterprognoza <tld/>o
+        <fnt>
+        <aut>R. Pyh&auml;l&auml;</aut>,
+        <vrk>&leftquot;Stelo&rightquot; &ccirc;e
+        la urbodomo</vrk>,
+        <bib>Monato</bib>,
+        <lok>2002:6, p. 13a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="kart.0o.GEOG_AST">karto<sncref/></ref>
+    <refgrp tip="vid">
+      <ref cel="projek.0o.GEOG">projekcio <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="af">kaart</trd>
+  <trd lng="am">&#x12AB;&#x122D;&#x1273;</trd>
+  <trd lng="ar">&#x62E;&#x631;&#x64A;&#x637;&#x629;</trd>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_t;&c_a;
+    <klr>(&c_g;&c_je;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>,
+    <trd>&c_m;&c_a;&c_p;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9AE;&#x9BE;&#x9A8;&#x99A;&#x9BF;&#x9A4;&#x9CD;&#x9B0;</trd>
+  <trd lng="bo">&#xF66;&#xF0B;&#xF56;&#xF40;&#xFB2;&#xF0B;</trd>
+  <trd lng="br">kartenn</trd>
+  <trd lng="bs">karta</trd>
+  <trd lng="ca">mapa</trd>
+  <trd lng="co">mappa</trd>
+  <trd lng="cs">mapa</trd>
+  <trd lng="cy">fap</trd>
+  <trd lng="da">kort</trd>
+  <trdgrp lng="de">
+    <trd>Karte<klr tip="ind"> (geogr.)</klr></trd>,
+    <trd>Landkarte</trd>
+  </trdgrp>
+  <trd lng="en">map</trd>
+  <trd lng="es">mapa</trd>
+  <trd lng="et">kaart</trd>
+  <trd lng="eu">mapa</trd>
+  <trdgrp lng="fr">
+    <trd>carte<klr tip="ind"> (plan)</klr></trd>,
+    <trd>plan<klr tip="ind"> (carte)</klr></trd>
+  </trdgrp>
+  <trd lng="fy">map</trd>
+  <trd lng="ga">l&#xE9;arsc&#xE1;il</trd>
+  <trd lng="gl">mapa</trd>
+  <trd lng="gu">&#xAA8;&#xA95;&#xAB6;&#xACB;</trd>
+  <trd lng="hi">&#x928;&#x915;&#x94D;&#x936;&#x93E;</trd>
+  <trd lng="hmn">daim ntawv qhia</trd>
+  <trd lng="hr">karta</trd>
+  <trd lng="ht">kat jeyografik</trd>
+  <trd lng="hu">t&eacute;rk&eacute;p</trd>
+  <trd lng="hy">&#x584;&#x561;&#x580;&#x57F;&#x565;&#x566;</trd>
+  <trd lng="id">peta</trd>
+  <trd lng="is">kort</trd>
+  <trd lng="ja">&#x30DE;&#x30C3;&#x30D7;</trd>
+  <trd lng="jv">peta</trd>
+  <trd lng="ka">&#x10E0;&#x10E3;&#x10D9;&#x10D0;</trd>
+  <trd lng="kk">&#x43A;&#x430;&#x440;&#x442;&#x430;</trd>
+  <trd lng="km">&#x1795;&#x17C2;&#x1793;&#x1791;&#x17B8;</trd>
+  <trd lng="kn">&#xCA8;&#xC95;&#xCCD;&#xCB7;&#xCC6;</trd>
+  <trd lng="ko">&#xC9C0;&#xB3C4;</trd>
+  <trd lng="ku">qert</trd>
+  <trd lng="ky">&#x43A;&#x430;&#x440;&#x442;&#x430;</trd>
+  <trd lng="lat">tabula</trd>
+  <trd lng="lo">&#xEC1;&#xE9C;&#xE99;&#xE97;&#xEB5;&#xEC8;</trd>
+  <trd lng="lt">&#x17E;em&#x117;lapis</trd>
+  <trd lng="lv">karte</trd>
+  <trd lng="mg">sarintany</trd>
+  <trd lng="mk">&#x43C;&#x430;&#x43F;&#x430;</trd>
+  <trd lng="ml">&#xD2D;&#xD42;&#xD2A;&#xD1F;&#xD02;</trd>
+  <trd lng="mn">&#x433;&#x430;&#x437;&#x440;&#x44B;&#x43D; &#x437;&#x443;&#x440;&#x430;&#x433;</trd>
+  <trd lng="mr">&#x928;&#x915;&#x93E;&#x936;&#x93E;</trd>
+  <trd lng="ms">peta</trd>
+  <trd lng="mt">mappa</trd>
+  <trd lng="my">&#x1019;&#x103C;&#x1031;&#x1015;&#x102F;&#x1036;&#x1000;&#x102D;&#x102F;</trd>
+  <trd lng="ne">&#x928;&#x915;&#x94D;&#x936;&#x93E;</trd>
+  <trdgrp lng="nl">
+    <trd>kaart<klr tip="ind"> (geogr.)</klr></trd>,
+    <trd>sterrenkaart</trd>,
+    <trd>landkaart</trd>
+  </trdgrp>
+  <trd lng="ny">mapu</trd>
+  <trd lng="pa">&#xA28;&#xA15;&#xA38;&#xA3C;&#xA3E;</trd>
+  <trdgrp lng="pl">
+    <trd>mapa</trd>,
+    <trd>plan<klr> (np. miasta)</klr></trd>
+  </trdgrp>
+  <trd lng="ps">&#x646;&#x642;&#x634;&#x647;</trd>
+  <trd lng="ru">&c_k;&c_a;&c_r;&c_t;&c_a; <klr tip="amb">(&c_g;&c_je;&c_o;&c_g;&c_r;.,
+  &c_a;&c_s;&c_t;&c_r;.)</klr></trd>
+  <trd lng="rw">ikarita</trd>
+  <trd lng="sd">&#x646;&#x642;&#x634;&#x64A;</trd>
+  <trd lng="si">&#xDC3;&#xDD2;&#xDAD;&#xDD2;&#xDBA;&#xDB8;</trd>
+  <trd lng="sk">mapa</trd>
+  <trd lng="sl">zemljevid</trd>
+  <trd lng="sm">faafanua</trd>
+  <trd lng="sn">mepu</trd>
+  <trd lng="so">khariidad</trd>
+  <trd lng="sq">harta</trd>
+  <trd lng="st">mapa</trd>
+  <trd lng="su">peta</trd>
+  <trd lng="sv">karta</trd>
+  <trd lng="sw">ramani</trd>
+  <trd lng="ta">&#xBB5;&#xBB0;&#xBC8;&#xBAA;&#xB9F;&#xBA4;&#xBCD;&#xBA4;&#xBC8;</trd>
+  <trd lng="te">&#xC2E;&#xC3E;&#xC2A;&#xC4D;</trd>
+  <trd lng="tg">&#x445;&#x430;&#x440;&#x438;&#x442;&#x430;</trd>
+  <trd lng="th">&#xE41;&#xE1C;&#xE19;&#xE17;&#xE35;&#xE48;</trd>
+  <trd lng="tl">mapa</trd>
+  <trd lng="tt">&#x43A;&#x430;&#x440;&#x442;&#x430;</trd>
+  <trd lng="uk">&#x43A;&#x430;&#x440;&#x442;&#x430;</trd>
+  <trd lng="ur">&#x646;&#x642;&#x634;&#x6C1;</trd>
+  <trd lng="uz">xarita</trd>
+  <trd lng="vi">b&#x1EA3;n &#x111;&#x1ED3;</trd>
+  <trd lng="xh">imephu</trd>
+  <trd lng="yi">&#x5DE;&#x5D0;&#x5B7;&#x5E4;&#x5BC;&#x5E2;</trd>
+  <trd lng="yo">agbaye</trd>
+  <trd lng="zh">&#x5730;&#x56FE;<klr> [d&igrave;t&uacute;]</klr></trd>
+  <trd lng="zu">ibalazwe</trd>
+</drv>
+
+<drv mrk="map.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="map.0aro.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Libroforma <ref tip="super" cel="kolekt.0o.libr">kolekto</ref>
+      da <ref tip="prt" cel="map.0o"><tld/>oj</ref>, kutime kun indeksoj
+      kaj krominformoj:
+      <ekz>
+        <klr>(la revuo LOdE)</klr> instigas min trovi en la
+        <tld/>aro anta&ubreve;e nekonatajn loknomojn, ekzemple,
+        <em>Jenisejo</em>
+        <fnt>
+        <aut>A. P. Warren</aut>,
+        <bib>LOdE</bib>, <lok>numero 71 (2000:8&ndash;9)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_t;&c_l;&c_a;&c_s;
+  <klr>(&c_g;&c_je;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_y;)</klr></trd>
+  <trd lng="br">atlas</trd>
+  <trd lng="ca">atles</trd>
+  <trd lng="cs">atlas <klr>(map)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Atlas</trd>,
+    <trd>Kartenwerk</trd>
+  </trdgrp>
+  <trd lng="en">atlas</trd>
+  <trd lng="es">atlas</trd>
+  <trd lng="fr">atlas<klr tip="amb"> (g&eacute;ographique)</klr></trd>
+  <trd lng="id">atlas</trd>
+  <trd lng="ja">&#x5730;&#x56F3;&#x5E33;  <pr>&#x3061;&#x305A;&#x3061;&#x3087;&#x3046;</pr></trd>
+  <trd lng="pl">atlas</trd>
+  <trdgrp lng="pt">
+    <trd>atlas</trd>,
+    <trd>mapoteca</trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_t;&c_l;&c_a;&c_s;<klr tip="amb">
+  (&c_g;&c_je;&c_o;&c_g;&c_r;.)</klr></trd>
+  <trd lng="sk">atlas</trd>
+  <trd lng="uk">&#x430;&#x442;&#x43B;&#x430;&#x441;</trd>
+</drv>
+
+<drv mrk="map.0i">
+  <kap><tld/>i, <var><kap><tld/>igi</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="map.0i.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Prezenti iun spacon, farante <tld/>on de &gcirc;i:
+      <ekz>
+        ni malsupreniras al la Oriento, por <tld/>i kaj mezuri la tutan 
+        nordorientan Etendon de la Golfo
+        <fnt>
+          <aut>D. J. Harlow</aut>,
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/tobias_e.html">
+          El la taglibro de Tobias Finch</url></vrk>,
+          <lok>1986</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni anka&ubreve; sufi&ccirc;e detale <tld/>igis la marprofundon
+        <fnt>
+        <aut>krab</aut>
+        <vrk>Re: (vetero) varmeco en la norda duonglobo</vrk>
+        <lok>soc.culture.esperanto, 1995-01-11</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>mapar</trd>,
+    <trd>cartografiar</trd>
+  </trdgrp>
+  <trd lng="de">kartographieren</trd>
+  <trdgrp lng="es">
+     <trd>hacer un mapa</trd>,
+     <trd>cartografiar</trd>
+  </trdgrp>
+  <trd lng="fr">dessiner la <ind>carte</ind> de</trd>
+  <trd lng="id"><baz>peta</baz>memetakan</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5730;&#x56F3;&#x3092;&#x4F5C;&#x308B;  <pr>&#x3061;&#x305A;&#x3092;&#x3064;&#x304F;&#x308B;</pr></trd>,
+    <trd>&#x5199;&#x50CF;&#x3059;&#x308B;  <pr>&#x3057;&#x3083;&#x305E;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rysowa&cacute; <ind>map&eogonek;</ind></trd>,
+    <trd>nanosi&cacute; na <ind>map&eogonek;</ind></trd>,
+    <trd>rysowa&cacute; <ind>plan</ind></trd>,
+    <trd>nanosi&cacute; na <ind>plan</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_n;&c_je;&c_s;&c_t;&c_i; &c_n;&c_a;
+  <ind>&c_k;&c_a;&c_r;&c_t;&c_u;</ind></trd>
+</drv>
+
+<drv mrk="map.ide0o">
+  <kap>ide<tld/>o,
+    <var><kap>ideo<tld/>o</kap></var>,
+    <var><kap>mens<tld/>o</kap></var>
+  </kap>
+  <snc mrk="map.ide0o.KLA">
+    <dif>
+      Desegno prezentanta interrilatajn ideojn,
+      ordinare aran&gcirc;ante vortojn la&ubreve; disbran&ccirc;a skemo:
+      <ekz>
+        studi per ideo<tld/>oj 
+        <fnt>
+          <aut>F. Gobbo</aut>
+          <vrk><url ref="https://federicogobbo.name/pub/P.2010.3.pdf">
+          Pedagogiaj modeloj por distanca lingvolernado
+          - la kazo de Esperanto</url></vrk>
+          <lok>2007</lok>
+        </fnt>
+      </ekz>
+      <ekz>
+        menso<tld/>oj povas esti desegnitaj permane
+        a&ubreve; kiel "malglataj notoj" dum prelego
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="&Viki;/Mensomapo">
+          Mensomapo</url>, 2018-02-14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">mind map</trd>
+  <trdgrp lng="fr">
+    <trd>carte mentale</trd>,
+    <trd>carte heuristique</trd>
+  </trdgrp>
+  <trd lng="id"><ind>peta</ind> pikiran</trd>
+</drv>
+
+<drv mrk="map.mond0o">
+  <kap>mond<tld/>o</kap>
+  <snc mrk="map.mond0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="super" cel="map.0o.GEOG"><tld lit="M"/>o</ref>
+      prezentanta
+      la tutan konatan mondon, la tutan teron:
+      <ekz>
+        vi, kiel la magistro de la universitato, plej bone konas la
+        mond<tld/>on de Cosmas
+        <fnt><bib>SatirRak</bib>, <lok>supersti&ccirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="glob.plat0o">platglobo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>mapamundi</trd>,
+    <trd>planisferi</trd>
+  </trdgrp>
+  <trd lng="cs">mapa sv&ecaron;ta</trd>
+  <trd lng="de">Weltkarte</trd>
+  <trdgrp lng="fr">
+    <trd>carte du monde</trd>,
+    <trd>planisph&egrave;re</trd>
+  </trdgrp>
+  <trd lng="id"><ind>peta</ind> dunia</trd>
+  <trd lng="pl">mapa &sacute;wiata</trd>
+  <trd lng="ru">&c_k;&c_a;&c_r;&c_t;&c_a; &c_m;&c_i;&c_r;&c_a;</trd>
+  <trd lng="sk">mapa sveta</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x430;&#x440;&#x442;&#x430; &#x441;&#x432;&#x456;&#x442;&#x443;</trd>,
+    <trd>&#x43A;&#x430;&#x440;&#x442;&#x430; &#x43F;&#x456;&#x432;&#x43A;&#x443;&#x43B;&#x44C;</trd>
+  </trdgrp>
+</drv>
+
+
+</art>
+<!--
+$Log$
+versio 1.112 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.110 2023/05/15 14:30:52
+revo: movu drv map.0klarigo al klar/
+
+versio 1.109 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.35 2020/05/05 08:10:25
+Eko Nur Syah Hidayat: korekteto
+
+Revision 1.33  2018/10/16 16:10:14  revo
+Jeromo Vasxe: + ide~o
+
+Revision 1.32  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2014/09/01 07:10:19  revo
+-->
+</vortaro>

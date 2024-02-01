@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dierez.xml,v 1.20 2023/11/04 14:29:01 revo Exp $">
+  <kap>
+    <rad>dierez</rad>/o
+  </kap>
+  <drv mrk="dierez.0o">
+    <kap><tld/>o</kap>
+    <snc mrk="dierez.0o.FON">
+      <uzo tip="fak">FON</uzo>
+      <dif>
+        Disa prononco de vokaloj, kontraste al la diftonga:
+        <ekz>
+           en la vortoj <em>praulo, Raulo, neuzata</em>
+           la kombinoj <em>au, eu</em> formas <tld/>on
+           <klr>(ne kombini&gcirc;as en diftongojn
+           <em>a&ubreve;, e&ubreve;</em>)</klr>.
+       </ekz>
+      </dif>
+      <ref tip="ant" cel="difton.0o">diftongo</ref>
+      <trd lng="ca">hiat</trd>
+      <trd lng="de">Di&auml;rese</trd>
+      <trd lng="es">di&eacute;resis</trd>
+      <trd lng="fr">di&eacute;r&egrave;se</trd>
+      <trdgrp lng="hu">
+        <trd>dier&eacute;zis</trd>,
+        <trd>k&uuml;l&ouml;nejt&eacute;s</trd>
+      </trdgrp>
+      <trd lng="pl">diereza</trd>
+      <trd lng="pt">di&eacute;rese</trd>
+      <trd lng="zh">&#x5206;&#x97F3;&#x7B26; <pr>f&#x113;ny&#x12B;nf&#xFA;</pr></trd>
+</snc>
+    <snc mrk="dierez.0o.tremao">
+      <uzo tip="stl">EVI</uzo>
+      <ref tip="dif" cel="trema.0o">Tremao</ref>
+      <trd lng="ca">di&egrave;resi</trd>
+      <trdgrp lng="de">
+        <trd>Trema</trd>,
+        <trd>Trennungspunkte</trd>,
+        <trd>Umlautpunkte</trd>
+      </trdgrp>
+      <trd lng="fr">tr&eacute;ma</trd>
+      <trd lng="hu">tr&eacute;ma</trd>
+      <trdgrp lng="pl">
+        <trd>diereza<klr> (znak diakrytyczny)</klr></trd>,
+        <trd>tr&eacute;ma</trd>
+      </trdgrp>
+    </snc>
+  <trd lng="cs">diereze</trd>
+  <trd lng="en">diaeresis</trd>
+  <trd lng="he">&#x5D3;&#x5D9;&#x5D0;&#x5E8;&#x5D9;&#x5E1;&#x5D9;&#x5E1;</trd>
+  <trd lng="ja">&#x5206;&#x97F3;  <pr>&#x3076;&#x3093;&#x304A;&#x3068;</pr></trd>
+  <trd lng="ru">&c_d;&c_i;&c_je;&c_r;&c_je;&c_z;&c_a;</trd>
+  <trd lng="sk">osobitn&eacute; vyslovenie samohl&aacute;sok u dvojhl&aacute;sok</trd>
+</drv>
+</art>
+  <!--
+  $Log$
+versio 1.19 2023/10/14 11:26:53
+revo: transskribo per <pr>
+
+versio 1.16 2020/05/31 23:10:38
+Robin Hill: +trd en
+
+  Revision 1.14  2015/06/29 16:29:36  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.13  2012/08/10 14:11:45  revo
+  Marc Rausell: + trd ca
+
+  Revision 1.12  2009/06/14 16:30:56  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.11  2007/07/26 16:30:50  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.10  2003/05/12 16:34:04  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.9  2002/05/13 16:34:18  revo
+-->
+</vortaro>

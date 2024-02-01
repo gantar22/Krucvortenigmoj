@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ignor.xml,v 1.25 2023/11/19 10:22:02 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ignor</rad>/i
+</kap>
+<drv mrk="ignor.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Ne voli scii; intence ne atenti; konscie preterlasi:
+      <ekz>
+        sa&gcirc;ulo <tld/>as ofendon
+        <fnt><bib>MT</bib>, <lok>&Sen; 12:16</lok></fnt>;
+      </ekz>
+      <ekz>
+        la aeroplano <tld/>as la landlimojn;
+      </ekz>
+      <ekz>
+        nia movado ne plu estas <tld/>ebla.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ter.en0igi">enterigi</ref>.
+      <ref cel="konspi.0o">konspiro</ref>,
+      <ref cel="atent.preter0i">preteratenti</ref>,
+      <ref cel="silent.pri0i">prisilenti</ref>,
+      <ref cel="strut">strute</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_ib;&c_g;&c_n;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_i;&c_g;&c_n;&c_o;&c_r;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>ignorovat</trd>,
+    <trd>nedbat</trd>,
+    <trd>nev&scaron;&iacute;mat si</trd>,
+    <trd>pom&#xED;jet</trd>,
+    <trd>zneuznat</trd>
+  </trdgrp>
+  <trd lng="de">ignorieren</trd>
+  <trd lng="en">ignore</trd>
+  <trd lng="es">ignorar (no hacer caso de)</trd>
+  <trdgrp lng="fr">
+    <trd>ignorer<klr tip="ind"> (intentionnellement)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>mell&odblac;z</trd>,
+    <trd>nem vesz r&oacute;la <ind>tudom&aacute;st</ind></trd>,
+    <trd>ignor&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7121;&#x8996;&#x3059;&#x308B;  <pr>&#x3080;&#x3057;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x898B;&#x306A;&#x3044;&#x3075;&#x308A;&#x3092;&#x3059;&#x308B;  <pr>&#x307F;&#x306A;&#x3044;&#x3075;&#x308A;&#x3092;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x77E5;&#x3089;&#x306A;&#x3044;&#x3075;&#x308A;&#x3092;&#x3059;&#x308B;  <pr>&#x3057;&#x3089;&#x306A;&#x3044;&#x3075;&#x308A;&#x3092;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">negeren</trd>
+  <trdgrp lng="pl">
+    <trd>ignorowa&cacute;<klr> (nie chcie&cacute; wiedzie&cacute;, nie
+zwraca&cacute; uwagi)</klr></trd>,
+    <trd>lekcewa&zdot;y&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">ignorar</trd>
+  <trdgrp lng="ru">
+ 
+<trd>&c_i;&c_g;&c_n;&c_o;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_je; &c_p;&c_r;&c_i;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;
+&c_v;&c_o; &c_v;&c_n;&c_i;&c_m;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">ignorova&#x165;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x456;&#x491;&#x43D;&#x43E;&#x440;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43D;&#x435;&#x445;&#x442;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43D;&#x435; &#x437;&#x432;&#x435;&#x440;&#x442;&#x430;&#x442;&#x438; &#x443;&#x432;&#x430;&#x433;&#x438;</trd>,
+    <trd>&#x43D;&#x430;&#x432;&#x43C;&#x438;&#x441;&#x43D;&#x435; &#x43D;&#x435; &#x43F;&#x43E;&#x43C;&#x456;&#x447;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6C92;&#x6CE8;&#x610F;&#x5230; <pr>m&#xE9;izh&#xF9;y&#xEC;d&#xE0;o</pr></trd>,
+    <trd>&#x65E0;&#x89C6; <pr>w&#xFA;sh&#xEC;</pr></trd>,
+    <trd>&#x5FFD;&#x8996; <pr>h&#x16B;sh&#xEC;</pr></trd>,
+    <trd>&#x4E0D;&#x7406; <pr>b&#xF9;l&#x1D0;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/17 16:45:29
+revo: transskribo per <pr>
+
+Revision 1.20  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2011/11/25 19:10:08  revo
+Eduardo Navas: +trad es
+
+Revision 1.18  2010/04/19 16:30:19  revo
+Wieland Pusch: +trd bg
+
+Revision 1.17  2010/04/16 16:31:59  revo
+Russ Williams: +trd en
+
+Revision 1.16  2006/05/15 16:31:48  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2005/10/25 16:31:28  revo
+Luiz Portella: +trd pt
+
+Revision 1.14  2004/01/08 17:31:01  revo
+-->
+</vortaro>

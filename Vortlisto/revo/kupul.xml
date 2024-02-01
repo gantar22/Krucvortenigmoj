@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kupul.xml,v 1.14 2023/10/18 17:23:25 revo Exp $">
+<kap>
+  <rad>kupul</rad>/o
+</kap>
+<drv mrk="kupul.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      Malgranda folieca a&ubreve; skvameca kaliko,
+      kiu formas la bazon de kelkaj fruktoj, 
+      ekz. <ref tip="super" cel="glan.0o.BOT">glano<sncref/></ref>:
+      <ekz>
+        karpeno: <klr>[&#x2026;]</klr> la frukto estas glano kun triparta
+        flugila <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=41110">Karpeno</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="brakte.0o">brakteo</ref>
+  </snc>
+  <trdgrp lng="de">
+     <trd>Becher <klr>(Frucht)</klr></trd>,
+     <trd>Fruchtbecher</trd>,
+     <trd>Cupula</trd>
+  </trdgrp>
+  <trd lng="fr">cupule</trd>
+  <trd lng="hu">kupacs</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6BBB;&#x6597;  <pr>&#x304B;&#x304F;&#x3068;</pr></trd>,
+    <trd>&#x3078;&#x305F;</trd>
+  </trdgrp>
+  <trd lng="nl">dop<klr tip="ind"> (van eikels enz.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>kupula</trd>,
+    <trd>miseczka <klr>(owocu)</klr></trd>
+  </trdgrp>
+  <trd lng="ro">calybium &#x219;i cupule</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_ju;&c_s;&c_k;&c_a;</trd>,
+    <trd>&c_ch;&c_a;&c_sh;&c_je;&c_ch;&c_k;&c_a;
+<klr>(&c_zh;&c_jo;&c_l;&c_u;&c_d;&c_ja; &c_i; &c_t;.&c_p;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x438;&#x441;&#x43E;&#x447;&#x43A;&#x430;</trd>,
+    <trd>&#x433;&#x43D;&#x456;&#x437;&#x434;&#x435;&#x447;&#x43A;&#x43E;</trd>,
+    <trd>&#x43F;&#x43B;&#x456;&#x441;&#x43A;&#x430;</trd>,
+    <trd>&#x447;&#x430;&#x448;&#x435;&#x447;&#x43A;&#x430; ( &#x436;&#x43E;&#x43B;&#x443;&#x434;&#x44F;)</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.14 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+Revision 1.10  2018/09/12 19:10:20  revo
+Wolfram Diestel: +ekz, +ref-oj
+
+Revision 1.9  2014/04/11 15:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.8  2002/05/06 16:33:23  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2002/04/03 16:31:31  revo
+Ulrich Fellmann: ort kor en germ trd
+
+Revision 1.6  2002/04/02 17:55:52  revo
+Ulrich Fellmann: + 3 germ trdj
+
+Revision 1.5  2001/11/11 19:15:30  revo
+Yury Finkel: +trd ru
+
+Revision 1.4  2001/02/21 20:06:40  revo
+-->
+</vortaro>

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lic.xml,v 1.15 2022/03/22 18:26:51 revo Exp $">
+<kap>
+  <rad>lic</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="lic.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <snc>
+    <dif>
+      Esti <ref cel="permes.0i">permesata</ref>:
+      <ekz>
+        nupto ne <tld/>as okaze de la imperia funebro
+        <fnt><bib>RugxDom</bib>, <lok>capitro 68a, p. 453a</lok></fnt>;
+      </ekz>
+      <ekz>
+        pensi <tld/>as al estruloj, nia tasko estas de&jcirc;ori
+        <fnt>
+          <bib>SkandalJozef</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni klini&gcirc;os anta&ubreve; li kvaza&ubreve; anta&ubreve; sanktulo <klr>[&#x2026;]</klr>, tio ne <tld/>as
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne <tld/>as rompi ludilojn
+        <fnt>
+          <bib>KFl</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Ja <tld/>as nur sengrimpe // Langvori en mucida hum'
+        <fnt>
+          <bib>LSB</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="darf.0i">darfi</ref>,
+      <ref cel="rajt.0i">rajti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_b;&c_y;&c_c;&c_mol; <ind>&c_d;&c_a;&c_z;&c_v;&c_o;&c_l;&c_je;&c_n;&c_y;&c_m;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>b&yacute;t dovoleno</trd>,
+    <trd>sm&ecaron;t</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>legal sein</trd>,
+    <trd>erlaubt sein</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>estar permitido, -a</trd>,
+    <trd>ser l&iacute;cito, -a</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre <ind>l&eacute;gal</ind></trd>,
+    <trd>&ecirc;tre <ind>permis</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szabad <klr tip="ind">(vmit csin&aacute;lni)</klr></trd>,
+    <trd>megengedett <klr tip="ind">(vmit csin&aacute;lni)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd><ind>legaal</ind> zijn<klr tip="ind"> (zeldz.)</klr></trd>,
+    <trd><ind>toegelaten</ind> zijn<klr tip="ind"> (zeldz.)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">dozwolonym by&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>ser <ind>permitido</ind></trd>,
+    <trd>ser <ind>l&iacute;cito</ind></trd>
+  </trdgrp>
+  <trd lng="ro">s&abreve; fie <ind>permis&abreve;</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_p;&c_o;&c_z;&c_v;&c_o;&c_l;&c_je;&c_n;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_r;&c_a;&c_z;&c_r;&c_je;&c_sh;&c_jo;&c_n;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_p;&c_o;&c_z;&c_v;&c_o;&c_l;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_d;&c_o;&c_z;&c_v;&c_o;&c_l;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_r;&c_je;&c_sh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>by&tcaron; dovolen&eacute;</trd>,
+    <trd>by&tcaron; mo&zcaron;n&eacute;</trd>,
+    <trd>smie&tcaron; sa</trd>
+  </trdgrp>
+  <trd lng="uk">&#x434;&#x43E;&#x437;&#x432;&#x43E;&#x43B;&#x44F;&#x442;&#x438;&#x441;&#x44F;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.14 2022/01/12 20:32:29
+Wolfram Diestel: +ekz-oj, ref
+
+Revision 1.12  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2009/10/06 16:44:53  revo
+Paul Peeraerts: +nl
+
+Revision 1.9  2006/09/06 15:15:28  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2006/06/12 16:31:35  revo
+Eduardo Navas: +trd es
+
+Revision 1.7  2005/02/03 17:33:20  revo
+Wieland Pusch: +trd de
+
+Revision 1.6  2004/05/25 16:32:53  revo
+-->
+</vortaro>

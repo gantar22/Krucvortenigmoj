@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mikrorganism.xml,v 1.14 2024/01/07 08:29:35 revo Exp $">
+<kap>
+  <rad>mikroorganism</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="mikrorganism.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mikrorganism.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      &Ccirc;ia tre malgranda, okule ne videbla viva&jcirc;o: bakterio, viruso, gisto, iuj algoj...:
+      <ekz>
+        malkonvena temperaturo povas forte &gcirc;eni la vivkapablon de la
+        <tld/>oj
+        <fnt>
+          <aut>Mosonyi J.</aut>,
+          <vrk><url
+          ref="http://www.freeweb.hu/eventoj/steb/ingxenierado/ceteraj/klima/f874-p58.htm">
+          Teknika disvolvo kaj novaj produktoj...</url></vrk>,
+          <lok>Fokuso, 1987:4, p. 58a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni mortigas la <tld/>ojn lavante niajn manojn
+        <fnt>
+          <aut>L. Kordylewski</aut>,
+          <vrk>Rajtigita mortigado</vrk>,
+          <lok><url ref="http://www.esperanto-chicago.org/newsletters/03_07.pdf">
+          Saluton!, 2007-03</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+<ref tip="sin" cel="mikrob.0o">mikrobo</ref>
+<ref tip="sub" cel="cxel.unu0ulo">unu&ccirc;elulo</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_ib;&c_k;&c_r;&c_a;&c_a;&c_r;&c_g;&c_a;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="ca">microorganisme</trd>
+  <trd lng="cs">mikroorganizmus</trd>
+  <trd lng="de">Mikroorganismus</trd>
+  <trd lng="fr">microorganisme</trd>
+  <trd lng="id">mikroorganisme</trd>
+  <trd lng="ja">&#24494;&#29983;&#29289;  <pr>&#12403;&#12379;&#12356;&#12406;&#12388;</pr></trd>
+  <trd lng="pl">mikroorganizm</trd>
+  <trd lng="sk">mikroorganizmus</trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_ib;&c_k;&c_r;&c_o;&c_o;&c_r;&c_g;&c_a;&c_n;&c_ib;&c_z;&c_m;</trd>,
+    <trd>&c_m;&c_ib;&c_k;&c_r;&c_o;&c_b;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.14 2024/01/07 08:29:35
+Mahaer Mahmud: mikrobo kaj mikroorganismo estas sinonimoj
+
+versio 1.13 2024/01/07 04:28:41
+Mahaer Mahmud: aldonis vidu-ligilon
+
+versio 1.12 2023/10/19 16:45:37
+revo: transskribo per <pr>
+
+versio 1.9 2021/04/13 11:51:50
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2014/06/10 14:10:18  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.4  2012/07/26 07:10:08  revo
+-->
+</vortaro>

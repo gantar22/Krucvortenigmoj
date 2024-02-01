@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: meta.xml,v 1.5 2022/03/23 14:01:46 revo Exp $">
+<kap>
+  <rad>meta</rad>- <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="meta.0">
+  <kap><tld/>-</kap>
+  <gra><vspec>prefikso</vspec></gra>
+  <snc mrk="meta.0.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Klariganta sian propran funkciadon a&ubreve; la funkciadon de samspecaj 
+      aferoj:
+      <ekz>
+        <tld/>logiko <klr>...</klr> reprenas la lingva&jcirc;on de logiko, 
+        por klarigi logikon ... kaj estas parto de la logiko
+        <fnt>
+          <aut>B. Masala</aut>,
+          <vrk><url ref="http://osiek.org/bmasala/art/metaling.html">
+          Lingvo kaj metalingvo</url></vrk>,
+          <lok>La Gazeto, 1994 (53)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        libro la&ubreve; la ePub-formo enhavas <tld/>datumojn
+        (&leftquot;informojn pri informoj&rightquot;)
+        <fnt>
+          <aut>P. Peeraerts</aut>,
+          <vrk>Survoje al iu libro-normo</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2010a, numero xa, p. xa</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_t;&c_a;-</trd>
+  <trd lng="ca">meta-</trd>
+  <trd lng="fr">m&eacute;ta-<klr> (autodescriptif)</klr></trd>
+  <trd lng="pl">meta-</trd>     
+  <trd lng="ro">meta-</trd>
+  <trd lng="uk">&#x43C;&#x435;&#x442;&#x430;&#x2026;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2021/06/21 09:32:48
+Dmitri Gabinski: + trd be
+
+versio 1.3 2020/08/25 21:13:19
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.1  2010/06/17 16:30:44  revo
+Jeromo Va&scirc;e: nova artikolo
+-->
+</vortaro>

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: spelt.xml,v 1.20 2023/10/21 07:46:48 revo Exp $">
+<kap>
+<rad>spelt</rad>/o
+<fnt>Z</fnt>
+</kap>
+<drv mrk="spelt.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" lst="voko:botanikaj_specioj" cel="speci.0o">Specio</ref>
+      de <ref tip="super" cel="tritik.0o">tritiko</ref>
+      (<trd lng="la">Triticum spelta</trd> a&ubreve; <trd lng="la">Triticum 
+      aestivum</trd>), kulturata en montarecaj
+      regionoj kaj kies malgrandaj kaj brunaj grajnoj estas forte
+      algluitaj al la grajn&scirc;elo:
+      <ekz>
+        la tritiko kaj la <tld/>o ne estis batdifektitaj, &ccirc;ar ili estis malfrusezonaj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 9:32</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li dis&scirc;utas ja nigelon kaj dis&jcirc;etas kuminon kaj metas tritikon la&ubreve; vicoj
+        kaj hordeon en la difinitan lokon kaj <tld/>on &ccirc;e la limoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 28:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        prenu al vi tritikon kaj hordeon, fabojn kaj lentojn, milion kaj <tld/>on,
+        kaj &scirc;utu tion en unu vazon, kaj faru al vi el tio panon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 4:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        grenoj: tritiko, sekalo, hordeo, aveno, rizo, maizo, poligono, <tld/>o, milio
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/0/02/Triticum_spelta_RF.jpg/640px-Triticum_spelta_RF.jpg" prm="CC BY     4.0">maturi&gcirc;anta <tld/>o (Triticum spelta) &ccirc;e Allmendingen, Germanujo
+        <fnt>
+          <aut>Robert Flogaus-Faust, propra verko</aut>
+          <lok><url ref="&WCW;/File:Triticum_spelta_RF.jpg">&WCW;/File:Triticum_spelta_RF.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_l;&c_a;&c_v;&c_ib;&c_c;&c_a; <klr tip="amb">(&c_v;&c_ib;&c_d;
+&c_p;&c_sh;&c_a;&c_n;&c_ib;&c_c;&c_y;)</klr></trd>
+  <trd lng="cs">p&scaron;enice &scaron;palda</trd>
+  <trdgrp lng="de">
+    <trd>Dinkel</trd>,
+    <trd>Spelz<klr tip="ind"> (Weizen)</klr></trd>
+  </trdgrp>
+  <trd lng="en">spelt</trd>
+  <trd lng="fr">&eacute;peautre</trd>
+  <trdgrp lng="hu">
+    <trd>t&ouml;nk&ouml;ly</trd>,
+    <trd>nagy <ind>alakor</ind></trd>,
+    <trd>piros <ind>alakor</ind></trd>,
+  </trdgrp>
+  <trd lng="ja">&#x30B9;&#x30DA;&#x30EB;&#x30C8;&#x5C0F;&#x9EA6;  <pr>&#x30B9;&#x30DA;&#x30EB;&#x30C8;&#x3053;&#x3080;&#x304E;</pr></trd>
+  <trd lng="nl">spelt</trd>
+  <trd lng="pl"><ind>orkisz</ind> pszenny</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_b;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>prstnatec</trd>,
+    <trd>p&scaron;enica horsk&aacute;</trd>,
+    <trd>&scaron;palda</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&#x43E;&#x43B;&c_b;&c_a; (&c_r;&c_ib;&c_z;&#x43D;&#x43E;&c_v;&c_i;&c_d; &#x43F;&c_sh;&c_je;&#x43D;&c_i;&c_c;&c_ib;)</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.18 2023/03/18 16:35:19
+Paul Peeraerts: +nl
+
+Revision 1.15  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2011/12/30 11:10:08  revo
+Mireille Corobu: + trd fr
+
+Revision 1.12  2007/10/22 16:30:20  revo
+Sebastian Cyprych: +trd pl +riparo de trd en
+
+Revision 1.11  2004/11/03 17:31:56  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2004/05/17 16:31:38  revo
+-->
+</vortaro>

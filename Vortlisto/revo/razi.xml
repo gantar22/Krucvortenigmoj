@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: razi.xml,v 1.4 2023/10/24 09:26:05 revo Exp $">
+<kap>
+  <rad>razi</rad>/i
+</kap>
+<drv mrk="razi.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="razi.0i.MIL">
+    <dif>
+      Surprizataki por rabado a&ubreve; forkaptado.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_p;&c_a;&c_d;&c_a;&c_c;&c_mol; <klr>(&c_z; &c_m;&c_e;&c_t;&c_a;&c_j; &c_r;&c_a;&c_b;&c_u;&c_n;&c_k;&c_u;)</klr></trd>,
+      <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_n;&c_a;&c_b;&c_je;&c_g;</ind></trd>
+    </trdgrp>
+    <trd lng="fr">razzier</trd>
+  </snc>
+  <snc mrk="razi.0i.POL">
+    <dif>
+      Amase trakontroli distrikton a&ubreve; lokon por arestadoj.
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_a;&c_b;&c_l;&c_a;&c_v;&c_u;</ind> <klr>(&c_p;&c_a;&c_l;&c_ib;&c_c;&c_e;&c_j;&c_s;&c_k;&c_u;&c_ju;)</klr></trd>
+    <trd lng="fr">rafler<klr> (police etc.)</klr></trd>
+    <trd lng="pl">dokonywa&cacute; nalotu policyjnego</trd>
+    <trd lng="ro">face un raid al poli&#539;iei </trd>
+  </snc>
+</drv>
+
+<drv mrk="razi.0o">
+  <kap><tld/>o  <fnt><bib>PIV1</bib></fnt></kap>
+  <snc mrk="razi.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Rabatako:
+      <ekz>
+        post la fino de la <tld/>o <klr>...</klr>
+        &ccirc;iun indi&gcirc;enon pli ol kvardek-jaran oni senkompate bu&ccirc;as
+        <fnt>
+          <aut>A. Montagut</aut>,
+          <vrk><url ref="http://www.liberafolio.org/2009/vernesperanto3">
+          Verne patro kaj Verne filo</url></vrk>,
+          <lok>libera folio, 2009-02-17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_n;&c_a;&c_b;&c_je;&c_g;</trd>
+    <trd lng="fr">razzia</trd>
+  </snc>
+  <snc mrk="razi.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Amasa kontrolado kaj arestado:
+      <ekz>
+        la kortego instigis sian policon al novaj <tld/>oj
+        <fnt>
+          <aut>F. Ko&zcaron;&iacute;k, trad. J. Karen kaj J. Vondrou&scaron;ek</aut>,
+          <vrk>La plej eminenta inter Pierotoj</vrk>,
+          <lok>2001</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_b;&c_l;&c_a;&c_v;&c_a; <klr>(&c_p;&c_a;&c_l;&c_ib;&c_c;&c_e;&c_j;&c_s;&c_k;&c_a;&c_ja;)</klr></trd>
+    <trd lng="fr">rafle<klr> (police etc.)</klr></trd>
+    <trd lng="pl">nalot policyjny</trd>
+    <trd lng="ro">raid al poli&#539;iei </trd>
+  </snc>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_b;&c_ib;&c_g;</trd>,
+    <trd>&#x43D;&c_a;&#x43B;&c_ib;&c_t;</trd>,
+    <trd>&c_f;&c_a;&#x43C;. &#x43E;&c_b;&#x43B;&c_a;&c_v;&c_a;</trd>,
+    <trd>&#x43C;&c_a;&c_s;&#x43E;&c_v;&c_i;&c_j; &c_a;&c_r;&c_je;&c_sh;&c_t;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2023/10/24 09:26:05
+Dmitri Gabinski: + trd be
+
+versio 1.3 2022/08/18 22:32:24
+Vito Redsky:  +trd pl  + trd ro
+-->
+</vortaro>

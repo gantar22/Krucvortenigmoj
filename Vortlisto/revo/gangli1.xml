@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: gangli1.xml,v 1.17 2022/03/19 13:55:50 revo Exp $">
+  <kap><rad>ganglion</rad>/o</kap>
+
+<drv mrk="gangli1.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ANA</uzo>
+    <uzo tip="stl">ARK</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="nod.limfo0o">Limfonodo</ref>.
+    </dif>
+<!-- ne traduku evitindan vorton:
+    <trd lng="it">linfonodo</trd>
+    <trdgrp lng="nl">
+      <trd>ganglion<klr tip="ind"> (arch.)</klr></trd>,
+      <trd>zenuwknoop<klr tip="ind"> (arch.)</klr></trd>
+    </trdgrp>
+    <trd lng="sk">lymfatick&aacute; <klr>(miazgov&aacute;)</klr> uzlina</trd>
+    <trdgrp lng="cs">
+      <trd>ganglie</trd>,
+      <trd>ganglion</trd>,
+      <trd>nervov&aacute; uzlina</trd>
+    </trdgrp>
+-->
+  </snc>
+  <snc mrk="gangli1.0o.ganglio">
+    <uzo tip="fak">ANA</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="gangli.0o">Ganglio</ref>:
+      <ekz>
+        <nom>Gabriel Anton</nom> <klr>[&#x2026;]</klr> esploris la kortikon de cerbo kaj bazalajn <tld/>ojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=571282">Miozo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        afazio <klr>[&#x2026;]</klr> ekigas el difekto de anta&ubreve;aj areoj, <nom>Broca</nom>-areo kaj &gcirc;iaj
+        najbaroj, bazalaj <tld/>oj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=524224">Sindromo de Anton&ndash;Babi&nacute;ski</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ciliaraj ganglionoj, kiuj <klr>[&#x2026;]</klr> regul<klr>[ig]</klr>as la grandecon de
+        pupilo.
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=571282">Miozo</url></lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="uk">&#x43B;&#x456;&#x43C;&#x444;&#x430;&#x442;&#x438;&#x447;&#x43D;&#x438;&#x439; &#x432;&#x443;&#x437;&#x43E;&#x43B;</trd>
+</drv>
+
+</art>
+  <!--
+  $Log$
+versio 1.16 2021/07/14 08:33:16
+Damien Brucker: -eraro cxd cel en ref
+
+  Revision 1.14  2015/07/04 08:37:34  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.13  2015/06/29 16:29:39  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.12  2010/11/21 17:30:19  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.11  2009/08/23 16:31:10  revo
+  Paul Peeraerts: +trd nl
+
+  Revision 1.10  2006/04/09 17:51:51  revo
+  Sergio Pokrovskij: movis dif kaj trd sub "limf/o/nod/o"n (kiel en la
+  PIVoj)
+
+  Revision 1.9  2005/01/17 17:35:23  revo
+  Vito Redsky: +trd pl
+
+-->
+</vortaro>

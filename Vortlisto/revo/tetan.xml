@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tetan.xml,v 1.26 2023/12/30 14:27:19 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tetan</rad>/o
+</kap>
+<drv mrk="tetan.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tetan.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Infekta, plej ofte mortiga
+      <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref> karakterizata per
+      fortegaj
+      konvulsioj:
+      <ekz>
+        la <tld/>o post vundoj estas ofta okaza&jcirc;o
+        <fnt>
+          <aut>B. von Suttner, trad. A. Caumont kaj F. Luin</aut>
+          <vrk>For la batalilojn!</vrk>
+          <lok>1914, 2001</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vakcinado kontra&ubreve; ses malsanoj: tuberkulozo, difterio, koklu&scirc;o, morbilo, poliomjelito kaj
+        <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=39165">Edward Jenner</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_l;&c_u;&c_p;&c_n;&c_ja;&c_k;</trd>
+  <trdgrp lng="ca">
+    <trd>t&egrave;tan</trd>,
+    <trd>t&egrave;tanus</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>svalov&aacute; k&rcaron;e&ccaron;</trd>,
+    <trd>tetanus</trd>
+  </trdgrp>
+  <trd lng="de">Tetanus</trd>
+  <trd lng="en">tetanus</trd>
+  <trd lng="fa">&f_k;&a_z;&a_A;&a_z;</trd>
+  <trd lng="fr">t&eacute;tanos</trd>
+  <trd lng="hu">tetanusz</trd>
+  <trd lng="id">tetanus</trd>
+  <trdgrp lng="ja">
+    <trd>&#30772;&#x50B7;&#x98A8;  <pr>&#x306F;&#12375;&#12423;&#12358;&#12405;&#12358;</pr></trd>,
+    <trd>&#x5F37;&#x7E2E;  <pr>&#x304D;&#12423;&#12358;&#12375;&#12421;&#x304F;</pr></trd>,
+    <trd>&#x5F37;&#x76F4;&#12369;&#12356;&#x308C;&#12435;  <pr>&#x304D;&#12423;&#12358;&#12385;&#12423;&#12387;&#12369;&#12356;&#x308C;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">tetanus</trd>
+  <trd lng="pl">t&eogonek;&zdot;ec</trd>
+  <trdgrp lng="pt">
+    <trd>t&eacute;tano</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_je;&c_t;&c_a;&c_n;&c_u;&c_s;</trd>
+  <trd lng="sk">tetanus</trd>
+  <trd lng="uk">&c_t;&c_je;&c_t;&c_a;&#x43D;&c_u;&c_s;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/12/30 14:27:19
+Jeromo Vasxe: + 1 ekz
+
+versio 1.25 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/11/19 08:10:42  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.18  2014/06/05 14:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.17  2013/10/09 20:10:23  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.16  2012/07/31 08:10:14  revo
+-->
+</vortaro>

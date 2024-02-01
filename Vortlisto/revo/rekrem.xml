@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rekrem.xml,v 1.21 2023/10/20 19:20:37 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>rekrement</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="rekrem.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rekrem.0o.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Resta&jcirc;o el fruktoj, grenoj, herboj a&ubreve; aliaj vegeta&jcirc;aj partoj,
+      el kiuj oni elpremis sukon, esencon a&ubreve; alian utiligebla&jcirc;on:
+      <ekz>
+        bier<tld/>o, vinber<tld/>o, brand<tld/>o;
+      </ekz>
+      <ekz>
+        a&ccirc;e odoris <tld/>o kaj mortintaj fi&scirc;oj
+        <fnt>
+        <aut>L. Lukina, E. Lukin, trad. J. Finkel</aut>,
+        <vrk>La misiistoj</vrk>,
+        <lok><url ref="http://www.esperanto.mv.ru/Lukin/mis2.html">
+        parto 2a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fecx.0o">fe&ccirc;o</ref>,
+      <ref cel="skori.0o">skorio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_zh;&c_a;&c_m;&c_je;&c_r;&c_y;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_a;&c_l;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ml&aacute;to</trd>,
+    <trd>rostlinn&yacute; odpad</trd>,
+    <trd>sedlina po vyluhov&aacute;n&iacute;</trd>,
+    <trd>zbytek po lisov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Treber</trd>
+  <trdgrp lng="en">
+    <trd>draff</trd>,
+    <trd>dregs</trd>,
+    <trd>dross</trd>,
+    <trd>grounds</trd>,
+    <trd>husks</trd>,
+    <trd>lees</trd>,
+    <trd>refuse</trd>,
+    <trd>residue</trd>,
+    <trd>waste</trd>,
+    <trd>recrement</trd>,
+    <trd>pomace</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>g&egrave;ne<klr> (r&eacute;sidu apr&egrave;s pressurage)</klr></trd>,
+    <trd>marc<klr> (r&eacute;sidu apr&egrave;s pressurage)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">t&ouml;rk&ouml;ly</trd>
+  <trdgrp lng="ja">
+    <trd>&#x643E;&#x308A;&#x304B;&#x3059;  <pr>&#x3057;&#x307C;&#x308A;&#x304B;&#x3059;</pr></trd>,
+    <trd>&#x6B8B;&#x308A;&#x304B;&#x3059;  <pr>&#x306E;&#x3053;&#x308A;&#x30AB;&#x30B9;</pr></trd>,
+    <trd>&#x51FA;&#x3057;&#x6BBB;  <pr>&#x3060;&#x3057;&#x304C;&#x3089;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">pulp</trd>
+  <trdgrp lng="pl">
+    <trd>odpadki</trd>,
+    <trd>wywar <klr>(gorzelniany)</klr></trd>,
+    <trd>zyny <klr>(winne)</klr></trd>,
+    <trd>s&lstroke;odziny <klr>(browarniane)</klr></trd>,
+    <trd>wyt&lstroke;oki <klr>(cukrownicze)</klr></trd>,
+    <trd>wys&lstroke;odki</trd>
+  </trdgrp>
+  <trd lng="pt">res&iacute;duo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_zh;&c_i;&c_m;&c_k;&c_i;</trd>,
+    <trd>&c_zh;&c_m;&c_y;&c_h;</trd>,
+    <trd>&c_b;&c_a;&c_r;&c_d;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kal <klr>(rastlinn&eacute;ho p&ocirc;vodu)</klr></trd>,
+    <trd>rastlinn&eacute; v&yacute;lisky</trd>,
+    <trd>usadenina</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_zh;&c_i;&c_m;&c_k;&c_i;</trd>,
+    <trd>&c_m;&c_a;&c_k;&c_u;&c_h;</trd>,
+    <trd>&c_b;&c_a;&c_r;&c_d;&c_a;</trd>,
+    <trd>&c_s;&c_o;&c_l;&c_o;&c_d;&c_o;&c_v;&c_a; &c_g;&c_u;&c_shch;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.19 2022/04/30 12:40:26
+Noam Mohr: +trd en
+
+versio 1.17 2022/02/15 13:40:27
+Noam Mohr: +trd en rekremento
+
+Revision 1.15  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/04/04 18:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2011/05/27 10:10:08  revo
+Jeromo Vasxe: + trd fr
+
+Revision 1.12  2009/08/08 16:34:45  revo
+Russ Williams: +trd en
+
+Revision 1.11  2006/02/19 17:32:26  revo
+-->
+</vortaro>

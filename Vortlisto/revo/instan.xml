@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: instan.xml,v 1.27 2023/10/17 16:46:14 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>instanc</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="instan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="instan.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Grado de ju&gcirc;a povo:
+      <ekz>
+        tribunalo de unua <tld/>o, de apelacia <tld/>o;
+      </ekz>
+      <ekz>
+        konduki aferon &gcirc;is la plej alta <tld/>o;
+      </ekz>
+      <ekz>
+        <ind>last<tld/>e</ind>;
+        <trd lng="be">&c_u; &c_a;&c_p;&c_o;&c_sh;&c_n;&c_ja;&c_j;
+        <ind>&c_ib;&c_n;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ib;</ind></trd>
+        <trd lng="ca">en darrera inst&agrave;ncia</trd>
+        <trdgrp lng="fr">
+          <trd>en derni&egrave;re <ind>instance</ind></trd>,
+          <trd>en dernier <ind>recours</ind></trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>v&eacute;gs&odblac; fokon</trd>,
+          <trd>v&eacute;gs&odblac; soron</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        la supera kortumo de Belgio kondamnis last<tld/>e <klr>[&#x2026;]</klr> la
+        ekstremdekstran flandran partion <klr>[&#x2026;]</klr> Flandra Bloko kiel rasisman
+        organiza&jcirc;on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2005/008502.php">La Blok blokita ... a&ubreve; &ccirc;u?</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        kaj last<tld/>e mi atutas
+        <fnt><aut>Raymond Schwartz</aut>
+        <vrk>La Stranga Butiko</vrk><lok>Kremfakul'</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">fok<klr tip="ind"> (b&iacute;r&oacute;s&aacute;gi)</klr></trd>
+    <trd lng="pt">inst&acirc;ncia<klr tip="amb">
+    (jurisprud&ecirc;ncia)</klr></trd>
+  </snc>
+  <snc mrk="instan.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      A&ubreve;toritato posedanta ju&gcirc;an a&ubreve; decidan povon:
+      <ekz>
+        niaj plej altaj <tld/>oj eble iam decidos alie;
+      </ekz>
+      <ekz>
+        la publika opinio estas la lasta <tld/>o en politiko;
+      </ekz>
+      <ekz>
+        transigi ideon al la <tld/>o, kiu povas &gcirc;in efektivigi;
+      </ekz>
+      <ekz>
+        &ccirc;iu esperantisto scios, al kiu plej alta <tld/>o li devas sin turni
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en
+           Antwerpen en la 21a de a&ubreve;gusto 1911</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis proponita <klr>[&#x2026;]</klr> decimala sistemo <klr>[&#x2026;]</klr>, nun la skotoj
+        edukadaj <tld/>oj enkondukas sistemon, kiu estas kvaza&ubreve; kompromiso
+       <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/1993/A931103.php">Nova gaela numerala sistemo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/11, p. 21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni kunlaboru kun homoj kaj <tld/>oj aliekleziaj
+        <fnt>
+	<aut>Gerrit Berveling</aut>
+	<vrk><url ref="&Monato;/2000/006823.html">Tro senkosta pentemo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/08, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniu instanco ekrespondecis pri la afero
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007075.php">Pa&scirc;oj al purigado</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 8</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        unu el la problemoj &ccirc;e reformado de EU-<tld/>oj estos, kiel respekti la
+        grandecojn de &scirc;tatoj, ekzemple &ccirc;e la nombro de komisionanoj
+        <fnt>
+       <aut>Globus</aut>
+          <vrk><url ref="&Monato;/2000/006896.php">E&ubreve;ropa Unio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">hat&oacute;s&aacute;g</trd>
+  </snc>
+  <snc mrk="instan.0o.institucio">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="instit.0o.POL">Institucio</ref>:
+      <ekz>
+        internaciaj <tld/>oj, kiel Universala Esperanto-Asocio 
+        <fnt>
+          <aut>B. Ragnarsson</aut>,
+          <vrk>Esperanto kiel anti-lingvo</vrk>,
+          <lok>en: Strategiaj Demandoj de la Esperanto-Komunumo, 
+          1985</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <!-- sencon evitindan prefere ne traduku -->
+  </snc>
+  <snc mrk="instan.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Rultempa <ref tip="super" cel="ekzemp1.0o">ekzemplero</ref>.
+
+<!--
+      Rultempa reprezenta&jcirc;o kreita la&ubreve; sama &scirc;ablono:
+      <ekz>
+        en objektorientita programado, objekto estas <tld/>o de klaso;
+      </ekz>
+      <ekz>
+        <tld/>iigo de objekto;
+      </ekz>
+      <ekz>
+        en la lasta horo ruli&gcirc;is dek tri instancoj de la procezo;
+      </ekz>
+      <ekz>
+        ni apartigas la datumojn de la diversaj 
+        klientoj per apartaj <tld/>oj de la datumbazo;
+      </ekz>
+      <ekz>
+        ni lan&ccirc;is tri <tld/>ojn de la aplika&jcirc;o paralele por povi servi la multajn uzantojn.
+      </ekz>
+-->
+    </dif>
+    <ref tip="vid" cel="aper.0o.okazo">apero<sncref/></ref>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="ca">inst&agrave;ncia</trd>
+  <trdgrp lng="cs">
+    <trd>instance</trd>,
+    <trd>org&aacute;n</trd>,
+    <trd>stolice</trd>
+  </trdgrp>
+  <trd lng="de">Instanz</trd>
+  <trdgrp lng="en">
+    <trd>authority</trd>,
+    <trd>body</trd>,
+    <trd>court</trd>,
+    <trd>instance</trd>,
+    <trd>jurisdiction</trd>
+  </trdgrp>
+  <trd lng="es">instancia</trd>
+  <trd lng="fr">instance<klr tip="ind"> (jur., pol.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x88C1;&#x6C7A;&#x6A5F;&#x95A2;  <pr>&#x3055;&#x3044;&#x3051;&#x3064;&#x304D;&#x304B;&#x3093;</pr></trd>,
+    <trd>&#x5F53;&#x5C40;  <pr>&#x3068;&#x3046;&#x304D;&#x3087;&#x304F;</pr></trd>,
+    <trd>&#x5B98;&#x516C;&#x5E81;  <pr>&#x304B;&#x3093;&#x3053;&#x3046;&#x3061;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x5BE9;&#x7D1A;  <pr>&#x3057;&#x3093;&#x304D;&#x3085;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">instantie</trd>
+  <trd lng="ru">&c_i;&c_n;&c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">in&scaron;tancia</trd>
+  <trd lng="uk">&c_ib;&#x43D;&c_s;&c_t;&c_a;&#x43D;&c_c;&c_ib;&#x44F;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.25 2023/04/30 13:26:19
+Paul Peeraerts: Steloj -> monato
+
+versio 1.24 2023/04/26 05:28:04
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.23 2023/04/24 12:46:18
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.22 2023/04/12 12:45:50
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.21 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+-->
+</vortaro>

@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fiks.xml,v 1.54 2023/11/09 20:48:32 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>fiks</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="fiks.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="fiks.0i.flagon">
+    <dif>
+      Firme <ref tip="super" cel="mov.sen0igi">senmovigi</ref> almetante al io:
+      <ekz>
+        bluaj &scirc;tofoj, <tld/>itaj per <klr>[&#x2026;]</klr> purpuraj &scirc;nuroj, pendis sur ar&gcirc;entaj
+        ringoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ester 1:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> <tld/>is iliajn piedojn en la trabon
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 16:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la boato ne estis <tld/>ita, kaj <klr>[&#x2026;]</klr> &gcirc;i for&scirc;ovi&gcirc;is de la tero
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> de&scirc;iris unu el la rozoj kaj <tld/>is &gcirc;in al sia brusto
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Najbaraj familioj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="forgx.al0i">alfor&gcirc;i</ref>,
+      <ref cel="glu.al0i">alglui</ref>,
+      <ref cel="krocx.al0i">alkro&ccirc;i</ref>,
+      <ref cel="lig.al0i">alligi</ref>,
+      <ref cel="ten.al0i">alteni</ref>,
+      <ref cel="firm">firmigi</ref>,
+      <ref cel="najl.0i">najli</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>befestigen</trd>,
+      <trd>stecken</trd>,
+      <trd>anheften</trd>
+    </trdgrp>
+    <trd lng="en">fasten</trd>
+    <trdgrp lng="hu">
+      <trd>r&ouml;gz&iacute;t</trd>,
+      <trd>fix&aacute;l</trd>,
+      <trd>r&aacute;er&odblac;s&iacute;t</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>vastmaken</trd>,
+      <trd>vastzetten</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>mocowa&cacute;</trd>,
+      <trd>umocowa&cacute;</trd>,
+      <trd>przymocowa&cacute;</trd>,
+      <trd>przytwierdza&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_i;&c_k;&c_r;&c_je;&c_p;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_k;&c_r;&c_je;&c_p;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_u;&c_k;&c_r;&c_je;&c_p;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="zh">&#x56FA;&#x5B9A; <pr>g&#xF9;d&#xEC;ng</pr></trd>
+</snc>
+  <snc mrk="fiks.0i.rigardon">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="super" cel="turn.0i.alidirekti">Turni</ref>, 
+      meti en iun direkton a&ubreve; pozicion kaj iom longe teni tiel:
+      <ekz>
+        <ind><tld/>i la okulojn</ind> sur ion
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+        <trd lng="de">die Augen auf jemanden <ind>heften</ind></trd>
+        <trd lng="pl"><ind>utkwi&cacute;</ind> wzrok</trd>
+      </ekz>
+      <ekz>
+        ili <tld/>is sur &scirc;i siajn malbonajn rigardojn, sed &scirc;i pre&gcirc;is
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz><ekz>
+         kiam &scirc;i levis la rigardon, &scirc;iaj okuloj renkonti&gcirc;is kun la sur
+         &scirc;i <tld/>ita rigardo de la mastrino
+         <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>fixieren</trd>,
+      <trd>heften <klr>(Blick)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>r&aacute;szegez<klr tip="ind"> (&aacute;tv.)</klr></trd>,
+      <trd>megszab</trd>,
+      <trd>meg&aacute;llap&iacute;t</trd>,
+      <trd>lesz&ouml;gez<klr tip="ind"> (&aacute;tv.)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">fixeren</trd>
+    <trdgrp lng="pl">
+      <trd>ustala&cacute;</trd>,
+      <trd>zafiksowa&cacute; <klr> (pot.)</klr></trd>,
+      <trd>upewnia&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;<klr> (&c_n;&c_a;&c_c;&c_je;&c_l;&c_i;&c_t;&c_mol;)</klr></trd>,
+      <trd>&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;<klr> (&c_o; &c_p;&c_o;&c_z;&c_je;)</klr></trd>,
+      <trd>&c_u;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;<klr> (&c_v;&c_z;&c_g;&c_l;&c_ja;&c_d; &c_i; &c_t;.&c_p;.)</klr></trd>
+    </trdgrp>
+     <trd lng="zh">&#x76EF; <pr>d&#x12B;ng</pr></trd>
+</snc>
+  <snc mrk="fiks.0i.kutimon">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref cel="defini.0igi">Definitivigi</ref> kutimon, uzmanieron,
+      formon, sencon, strukturon:
+      <ekz>
+        <tld/>i prezon, rendevuon;
+      </ekz>
+      <ekz>
+        la tago de la edzi&gcirc;o estis <tld/>ita
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Fluganta kofro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ricevi <tld/>itan oficon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        paroladoj, kies formo estas tre precize <tld/>ita a&ubreve; de apartaj
+        reguloj a&ubreve; de la kutimo kaj tradicioj
+        <fnt>
+          <aut>I. Lapenna</aut>: <vrk>Retoriko</vrk>.
+          <lok>&Ccirc;ap. 13&#xAA;.</lok>
+        </fnt>;
+      </ekz><ekz>
+        ni decidis elekti la pretan kaj elprovitan lingvon Esperanto
+        <klr>[&#x2026;]</klr> kaj <tld/>i por &gcirc;i netu&scirc;eblan fundamenton 
+        <fnt>
+          <aut>&Z;</aut>:
+          <vrk>La parolado en la Guildhall</vrk>.
+          <lok>Londono, la 21an de a&ubreve;gusto 1907</lok>
+        </fnt>;
+      </ekz><ekz>
+         la Lingva Komitato povus periode publikigadi listojn da
+         vortoj, pri kiuj &gcirc;i estos konstatinta, ke la vivo kaj
+         kompetentula uzado <tld/>is por ili alian formon, ol kiun ili
+         &gcirc;is nun havis en la provizora vortarego
+         <fnt><bib>LR</bib>,
+	   <lok>Respondo 58a, Oficiala Gazeto, IV, 1911, p. 223</lok>.
+         </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="decid.0i">decidi</ref>,
+      <ref cel="defini.0igi">definitivigi</ref>,
+      <ref cel="difin.0i">difini</ref>
+    </refgrp>
+    <trd lng="de">fixieren</trd>
+    <trdgrp lng="hu">
+      <trd>r&aacute;szegez<klr tip="ind"> (&aacute;tv.)</klr></trd>,
+      <trd>megszab</trd>,
+      <trd>meg&aacute;llap&iacute;t</trd>,
+      <trd>lesz&ouml;gez<klr tip="ind"> (&aacute;tv.)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">fixeren</trd>
+    <trdgrp lng="pl">
+      <trd>ustala&cacute;</trd>,
+      <trd>zafiksowa&cacute; <klr> (pot.)</klr></trd>,
+      <trd>upewnia&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_k;&c_r;&c_je;&c_p;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_f;&c_i;&c_k;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="fiks.0i.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Igi fotografa&jcirc;on nedifektebla de la lumo:
+      <ekz>
+        forprenante la inkon de fotokopiiloj <klr>[&#x2026;]</klr> <tld/>itan per varmo
+        <fnt>
+          <aut>div.</aut>
+          <vrk><url ref="&Monato;/1993/A931002.php">Noticoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/10, p. 4</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">fixieren</trd>
+    <trd lng="nl">fixeren</trd>
+    <trd lng="pl">utrwala&cacute;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_a;&c_k;&c_r;&c_je;&c_p;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_f;&c_i;&c_k;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="fiks.0i.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <ref tip="super" cel="kapt.0i.havigi">Kapti</ref>
+      el gasa a&ubreve; likva medio kaj enpreni en
+      stabilan kombina&jcirc;on:
+      <ekz>
+        bakterioj <tld/>as nitrogenon el la aero
+        <fnt>
+          <aut>W. F. Rolt</aut>,
+          <vrk>El la Polvo de la Tero</vrk>,
+          <lok>1967</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro la simbiozo kun la bakterio <klr>[la alno]</klr> povas <tld/>i nitrogenon el
+        la aero
+        <fnt>
+          <vrk><url ref="&Viki;/Alnus_incana">Alnus incana -
+          Vikipedio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_s;&c_v;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_v;&c_ja;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="bo">&t_da;&t_naro;&t_ga;&t_sa;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>stanovit</trd>,
+    <trd>ujednat</trd>,
+    <trd>upevnit</trd>,
+    <trd>up&iacute;rat <klr>(zrak)</klr></trd>,
+    <trd>ur&ccaron;it</trd>,
+    <trd>zakotvit</trd>
+  </trdgrp>
+  <trd lng="en">fix<klr> (vt, in place)</klr></trd>
+  <trd lng="es">fijar</trd>
+  <trdgrp lng="fr">
+    <trd>fixer<klr tip="ind"> (caler, d&eacute;terminer, phot.)</klr>
+    </trd>,
+    <trd>arrimer</trd>,
+    <trd>arr&ecirc;ter<klr tip="ind"> (fixer)</klr></trd>,
+    <trd>caler</trd>,
+    <trd>d&eacute;terminer</trd>,
+    <trd>figer<klr tip="ind"> (fixer)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>fix&aacute;l</trd>,
+    <trd>r&ouml;gz&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56FA;&#x5B9A;&#x3059;&#x308B;  <pr>&#x3053;&#x3066;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x53D6;&#x308A;&#x3064;&#x3051;&#x308B;  <pr>&#x3068;&#x308A;&#x3064;&#x3051;&#x308B;</pr></trd>,
+    <trd>&#x636E;&#x3048;&#x308B;  <pr>&#x3059;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x5B9A;&#x7740;&#x3059;&#x308B;  <pr>&#x3066;&#x3044;&#x3061;&#x3083;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x53D6;&#x308A;&#x6C7A;&#x3081;&#x308B;  <pr>&#x3068;&#x308A;&#x304D;&#x3081;&#x308B;</pr></trd>,
+    <trd>&#x5B9A;&#x3081;&#x308B;  <pr>&#x3055;&#x3060;&#x3081;&#x308B;</pr></trd>,
+    <trd>&#x78BA;&#x5B9A;&#x3059;&#x308B;  <pr>&#x304B;&#x304F;&#x3066;&#x3044;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">fixar</trd>
+  <trdgrp lng="sk">
+    <trd>pripevni&tcaron;</trd>,
+    <trd>stanovi&tcaron;</trd>,
+    <trd>upevni&tcaron;</trd>,
+    <trd>ur&ccaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_k;&c_r;&c_ib;&c_p;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_k;&c_r;&c_ib;&c_p;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_k;&c_r;&c_ib;&c_p;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_k;&c_r;&c_ib;&c_p;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_r;&c_ib;&c_p;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_r;&c_ib;&c_p;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_f;&c_ib;&c_k;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_f;&c_o;&c_t;&c_o; &c_z;&c_a;&c_k;&c_r;&c_ib;&c_p;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_r;&c_ib;&c_p;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_o;&c_s;&c_je;&c_r;&c_je;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i; (&c_p;&c_o;&c_g;&c_l;&c_ja;&c_d;</trd>,
+    <trd>&c_u;&c_v;&c_a;&c_g;&c_u;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fiks.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="fiks.0a.fiksita">
+    <dif>
+      Nemovebla, <ref tip="super" cel="sxangx.sen0a">sen&scirc;an&gcirc;a</ref>:
+      <ekz>
+        kun <tld/>a rigardo mi &gcirc;in observis
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 11:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ideo tiel <tld/>a en kapo junula minacas ja frenezon
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        uzanto pagas <tld/>an sumon &ccirc;iumonate
+        <fnt>
+          <aut>Edmund Grimley Evans</aut>
+            <vrk><url ref="&Monato;/2000/007132.html">Interreto senpage</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 23</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        japanaj junuloj preferas horpagan dungon al <ind><tld/>a okupo</ind>
+        <fnt>
+          <aut>IGARASI Takeo</aut>
+            <vrk><url ref="&Monato;/2000/007171.php">Junaj liberaj laboristoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 11</lok>
+          </fnt>;
+        <trd lng="de">Festanstellung</trd>
+        <trd lng="nl">vaste <ind>benoeming</ind></trd>
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> e&ccirc; ne havas <tld/>an lo&gcirc;adreson
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mu Binghua</aut>
+          <vrk><url ref="&Monato;/2007/009311.php">Urbi&gcirc;o kaj malri&ccirc;i&gcirc;o</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la libera kadro ne konas <tld/>an tagordon kaj ebligas diversajn interparolojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2004/008465.html">&Ccirc;u e&ubreve;rop-azia bloko kontra&ubreve;
+          Usono?</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas iom malfacile teni la aparaton <tld/>a, dum oni pu&scirc;as la ekigan butonon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/2008/009612.php">Inteligenta po&scirc;amiko</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        publikaj, <tld/>aj telefonaparatoj en malfacile alireblaj komunumoj estis
+        instalitaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alberto Garc&iacute;a Fumero</aut>
+          <vrk><url ref="&Monato;/2009/009707.php">Servo alternative
+          fiksita</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="firm.0a.fiksita">firma<sncref/></ref>,
+      <ref cel="rigid.0a">rigida</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>fixn&iacute; <klr>(term&iacute;novan&yacute;)</klr></trd>,
+    <trd>s pevn&ecaron; ur&ccaron;enou lh&uring;tou</trd>,
+    <trd>s pevn&ecaron; ur&ccaron;en&yacute;m  term&iacute;nem</trd>,
+    <trd>s pevn&ecaron; ur&ccaron;en&yacute;m dnem</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>fest</trd>,
+    <trd>starr</trd>,
+    <trd>fixiert</trd>,
+    <trd>unbeweglich</trd>
+  </trdgrp>
+  <trd lng="es">fijo</trd>
+  <trdgrp lng="fr">
+    <trd>fixe</trd>,
+    <trd>fix&eacute;</trd>,
+    <trd>fig&eacute;<klr tip="ind"> (fixe)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>fix</trd>,
+    <trd>szil&aacute;rd</trd>,
+    <trd>meghat&aacute;rozott</trd>,
+    <trd>r&ouml;gz&iacute;tett</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56FA;&#x5B9A;&#x306E;  <pr>&#x3053;&#x3066;&#x3044;&#x306E;</pr></trd>,
+    <trd>&#x5B9A;&#x7740;&#x306E;  <pr>&#x3066;&#x3044;&#x3061;&#x3083;&#x304F;&#x306E;</pr></trd>,
+    <trd>&#x5B9A;&#x307E;&#x3063;&#x305F;  <pr>&#x3055;&#x3060;&#x307E;&#x3063;&#x305F;</pr></trd>,
+    <trd>&#x6C7A;&#x307E;&#x3063;&#x305F;  <pr>&#x304D;&#x307E;&#x3063;&#x305F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">vast</trd>
+  <trdgrp lng="pl">
+    <trd>sta&lstroke;y</trd>,
+    <trd>ustalony</trd>,
+    <trd>niezmienny</trd>,
+    <trd>trwa&lstroke;y</trd>,
+    <trd>zafiksowany<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_k;&c_r;&c_je;&c_p;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_f;&c_i;&c_k;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; <klr>(&c_o; &c_v;&c_z;&c_g;&c_l;&c_ja;&c_d;&c_je;)</klr>
+    </trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>fixn&yacute;</trd>,
+    <trd>nepohybliv&yacute;</trd>,
+    <trd>pevn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_ib;&c_k;&c_s;&c_o;&c_v;&c_a;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_r;&c_u;&c_h;&c_o;&c_m;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_o;&c_b;&c_r;&c_je; &c_p;&c_r;&c_i;&c_k;&c_r;&c_ib;&c_p;&c_l;&c_je;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_j; (&c_p;&c_r;&c_o; &c_p;&c_o;&c_g;&c_l;&c_ja;&c_d;)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7262;&#x7262; <pr>l&#xE1;ol&#xE1;o</pr></trd>,
+    <trd>&#x7A33;&#x56FA;&#x5730; <pr>w&#x11B;ng&#xF9;de</pr></trd>,
+    <trd>&#x675F;&#x4F4F; <pr>sh&#xF9;zh&#xF9;</pr></trd>,
+    <trd>&#x4E0D;&#x80FD;&#x79FB;&#x52A8; <pr>b&#xF9;n&#xE9;ngy&#xED;d&#xF2;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fiks.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="fiks.0eco.fiksiteco">
+    <dif>
+      Eco de tio, kio estas <tld/>a:
+      <ekz>
+        pro sia <tld/>eco kaj <ref cel="stabil.0eco">stabileco</ref>
+        la pelva zono donas al la homo la eblecon sekure
+        stari kaj movi&gcirc;i sur la du kruroj
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Pelvo_(anatomio)">Pelvo
+          (anatomio)</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la kodo de milita etiketo silento kaj <tld/>eco estas formoj de respektindeco
+        <fnt>
+          <vrk><url ref="http://verkoj.com/verkistoj/barry-friedman/ponto-strigroja/">Okazo &ccirc;e Ponto
+          Strigroja</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pevnost</trd>,
+    <trd>st&aacute;lost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Starrheit</trd>,
+    <trd>Unbeweglichkeit</trd>
+  </trdgrp>
+  <trd lng="es">fijeza</trd>
+  <trd lng="fr">fixit&eacute;</trd>
+  <trdgrp lng="hu">
+    <trd>szil&aacute;rds&aacute;g</trd>,
+    <trd>r&ouml;gz&iacute;tetts&eacute;g</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56FA;&#x5B9A;  <pr>&#x3053;&#x3066;&#x3044;</pr></trd>,
+    <trd>&#x4E0D;&#x52D5;  <pr>&#x3075;&#x3069;&#x3046;</pr></trd>,
+    <trd>&#x4E0D;&#x5909;&#x6027;  <pr>&#x3075;&#x3078;&#x3093;&#x305B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>trwa&lstroke;o&sacute;&cacute;</trd>,
+    <trd>sta&lstroke;o&sacute;&cacute;</trd>,
+    <trd>niezmienno&sacute;&cacute;</trd>,
+    <trd>zafiksowanie <klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_k;&c_r;&c_je;&c_p;&c_l;&c_jo;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_f;&c_i;&c_k;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">pevnos&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x53D8;&#x6027; <pr>b&#xF9;bi&#xE0;nx&#xEC;ng</pr></trd>,
+    <trd>&#x4E0D;&#x53D8; <pr>b&#xF9;bi&#xE0;n</pr></trd>,
+    <trd>&#x65E0;&#x5F39;&#x529B; <pr>w&#xFA;d&#xE0;nl&#xEC;</pr></trd>,
+    <trd>&#x575A;&#x786C;&#x6027; <pr>ji&#x101;ny&#xEC;ngx&#xEC;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fiks.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="fiks.0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i <tld/>ita:
+      <ekz>
+        <klr>[la &scirc;ipo]</klr> na&gcirc;is al la bordo, surpu&scirc;i&gcirc;is sur la duan rifon kaj
+        <ind>al<tld/>i&gcirc;is</ind>
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+        <trdgrp lng="de">
+          <trd>sich <ind>festsetzen</ind></trd>,
+          <trd><ind>haften</ind> bleiben</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        &ccirc;iuj okuloj <tld/>i&gcirc;is sur min
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <klr>[la]</klr> sceno <tld/>i&gcirc;is en la memoro
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd><klr>sich </klr>festsetzen</trd>,
+    <trd><klr>sich </klr>befestigen</trd>
+  </trdgrp>
+  <trd lng="es">fijarse</trd>
+  <trd lng="fr">se <ind>fixer</ind></trd>
+  <trdgrp lng="hu">
+    <trd>r&ouml;gz&uuml;l</trd>,
+    <trd>megszil&aacute;rdul</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56FA;&#x5B9A;&#x3059;&#x308B;  <pr>&#x3053;&#x3066;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x56FA;&#x307E;&#x308B;  <pr>&#x304B;&#x305F;&#x307E;&#x308B;</pr></trd>,
+    <trd>&#x5F35;&#x308A;&#x3064;&#x304F;  <pr>&#x306F;&#x308A;&#x3064;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">zich <ind>vastzetten</ind></trd>
+  <trdgrp lng="pl">
+    <trd>ustala&cacute; si&eogonek;</trd>,
+    <trd>utrwala&cacute; si&eogonek;</trd>,
+    <trd>zafiksowa&cacute; si&eogonek;<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_r;&c_je;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>
+    &c_z;&c_a;&c_k;&c_r;&c_je;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_z;&c_a;&c_f;&c_i;&c_k;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fiks.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="fiks.0ilo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Me&hcirc;anika aran&gcirc;a&jcirc;o por <tld/>i ion en dezirata
+      pozicio:
+      <refgrp tip="sub">
+        <ref cel="agraf.0o">agrafo</ref>,
+        <ref cel="kramp.0o.U">krampo</ref>,
+        <ref cel="najl.0o">najlo</ref>
+      </refgrp>
+      ktp.
+    </dif>
+    <ref tip="super" cel="junt.0o.ilo">junto</ref>
+    <trdgrp lng="de">
+      <trd>Befestigung</trd>,
+      <trd>Befestigungsstift</trd>,
+      <trd>Fixierung</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>fijador</trd>,
+      <trd>cierre</trd>
+    </trdgrp>
+    <trd lng="fr">fixation<klr> (m&eacute;ca.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>r&ouml;gz&iacute;t&odblac;</trd>,
+      <trd>r&ouml;gz&iacute;t&odblac;elem</trd>
+    </trdgrp>
+    <trd lng="pl">mocowanie</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_k;&c_r;&c_je;&c_p;&c_a;</trd>,
+      <trd>&c_f;&c_i;&c_k;&c_s;&c_a;&c_t;&c_o;&c_r;</trd>,
+      <trd>&c_k;&c_r;&c_je;&c_p;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="fiks.0ilo.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      &Hcirc;emia&jcirc;o por <tld/>i,<sncref ref="fiks.0i.FOT"/>
+      fotografa&jcirc;ojn.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Fixierer</trd>,
+      <trd>Fixiermittel</trd>
+    </trdgrp>
+    <trd lng="es">fijador</trd>
+    <trd lng="fr">fixatif<klr> (subst.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>r&ouml;gz&iacute;t&odblac;szer</trd>,
+      <trd>fix&aacute;l&oacute;szer</trd>,
+      <trd>fix&iacute;rs&oacute;</trd>
+    </trdgrp>
+    <trd lng="nl">fixeer</trd>
+    <trd lng="pl">utrwalacz</trd>
+    <trd lng="ru">&c_f;&c_i;&c_k;&c_s;&c_a;&c_zh;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x5B9A;&#x8272;&#x6599; <pr>d&#xEC;ngs&#xE8;li&#xE0;o</pr></trd>,
+    <trd>&#x5B9A;&#x8272;&#x5242; <pr>d&#xEC;ngs&#xE8;j&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="cs">v&aacute;z&aacute;n&iacute; <klr>(na ly&zcaron;&iacute;ch)</klr></trd>
+  <trd lng="en">fixer</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7559;&#x3081;&#x5177;  <pr>&#x3068;&#x3081;&#x3050;</pr></trd>,
+    <trd>&#x5B9A;&#x7740;&#x6DB2;  <pr>&#x3066;&#x3044;&#x3061;&#x3083;&#x304F;&#x3048;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">areta&ccaron;n&eacute; zariadenie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_ib;&c_k;&c_s;&c_a;&c_t;&c_i;&c_v;</trd>,
+    <trd>&c_f;&c_ib;&c_k;&c_s;&c_a;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_k;&c_r;&c_ib;&c_p;&c_l;&c_je;&c_n;&c_n;&c_ja; (&c_u; &c_l;&c_i;&c_zh;&c_a;&c_h;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fiks.antaux0i">
+  <kap>anta&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="fiks.antaux0i.KOMUNE">
+    <dif>
+      Anticipe <tld/>i:
+      <ekz>
+        <klr>[la edzo]</klr> ne revenis je la anta&ubreve;<tld/>ita tempo
+        <fnt><bib>MkM</bib><lok>&ccirc;ap. 19</lok></fnt>;
+      </ekz>
+      <ekz>
+        versoj <klr>[&#x2026;]</klr> sen anta&ubreve;<tld/>ita ritmo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2003/008021.html">Suno kaj ombroj</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>vorbestimmen</trd>,
+    <trd>im Vorhinein <ind>festlegen</ind></trd>
+  </trdgrp>
+  <trd lng="es">prefijar</trd>
+  <trdgrp lng="fr">
+    <trd>fixer d'avance</trd>,
+    <trd>convenir &agrave; l'avance</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ustala&cacute; <klr>zawczasu</klr></trd>,
+    <trd>okre&sacute;la&cacute; <klr>zawczasu</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_r;&c_a;&c_n;&c_je;&c_je; &c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_r;&c_a;&c_n;&c_je;&c_je; &c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5148;&#x5B9A; <pr>xi&#x101;nd&#xEC;ng</pr></trd>
+</drv>
+
+<drv mrk="fiks.cxirkaux0igxi">
+  <kap>&ccirc;irka&ubreve;<tld/>i&gcirc;i</kap>
+  <snc mrk="fiks.cxirkaux0igxi.KOMUNE">
+    <dif>
+      <tld lit="F"/>i&gcirc;i sur la &ccirc;irka&ubreve;o:
+      <ekz>
+        la plumaj kovroj firme &ccirc;irka&ubreve;<tld/>i&gcirc;is
+        sur ili, tiel ke ili balda&ubreve; levi&gcirc;is de la tero
+        en la formo de du blankaj cignoj
+        <fnt><bib>Fab4</bib><lok>Filino de la mar&ccirc;a re&gcirc;o
+        </lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>miteinander <ind>verwachsen</ind></trd>,
+    <trd>sich fest miteinander <ind>verbinden</ind></trd>
+  </trdgrp>
+  <trd lng="es"><ind>establecer</ind>se<klr tip="ind"> (sobre el
+  per&iacute;metro)
+  </klr></trd>
+  <trd lng="fr">se <ind>fixer</ind><klr tip="ind"> (sur le pourtour)
+  </klr></trd>
+</drv>
+
+<drv mrk="fiks.0koma">
+  <kap><tld/>punkta, <var><kap><tld/>koma</kap></var></kap>
+  <uzo tip="fak">KOMP</uzo>
+  <snc>
+    <dif>
+      Rilata al la
+      <ref tip="malprt" cel="frakci.pozicia0o">poziciaj frakcioj</ref>
+      (praktike, dekumaj a&ubreve; duumaj frakcioj) kiuj
+      havas sian <ref tip="prt" cel="on.0komo">onpunkton</ref>
+      (resp. onkomon) en iu anta&ubreve;difinita, <tld/>ita pozicio:
+      <ekz>
+        la monsumoj $5.97 ktp estas <tld/>punktaj (la punkto
+        apartigas la cendojn, <ctl>centonojn</ctl>);
+      </ekz><ekz>
+        <tld/>punkta nombroprezento, aritmetiko.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="reel.0o.KOMP">reeloj</ref>
+    <ref tip="vid" cel="glit.0punkta">glitpunkta, glitkoma</ref>
+  </snc>
+  <trd lng="cs">s pevnou desetinou &ccaron;&aacute;rkou</trd>
+  <trd lng="de">Festkomma</trd>
+  <trd lng="en">fixed-point</trd>
+  <trd lng="es">punto decimal</trd>
+  <trd lng="fr">en <ind>virgule</ind> fixe</trd>
+  <trd lng="hu">fixpontos</trd>
+  <trd lng="ja">&#x56FA;&#x5B9A;&#x5C0F;&#x6570;&#x70B9;&#x306E;  <pr>&#x3053;&#x3066;&#x3044;&#x3057;&#x3087;&#x3046;&#x3059;&#x3046;&#x3066;&#x3093;&#x306E;</pr></trd>
+  <trd lng="pl">sta&lstroke;oprzecinkowy</trd>
+  <trd lng="ru">&c_s; <ind>&c_f;&c_i;&c_k;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_j;</ind> &c_t;&c_o;&c_ch;&c_k;&c_o;&c_j;
+  <klr>(&c_i;&c_l;&c_i; &c_z;&c_a;&c_p;&c_ja;&c_t;&c_o;&c_j;)</klr>
+  </trd>
+  <trd lng="sk">s pevnou desatinnou &ccaron;iarkou</trd>
+  <trd lng="uk">&c_z; &c_f;&c_ib;&c_k;&c_s;&c_o;&c_v;&c_a;&c_n;&c_o;&c_ju; &c_k;&c_o;&c_m;&c_o;&c_ju;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.53 2023/10/14 18:06:41
+revo: transskribo per <pr>
+
+versio 1.51 2023/05/02 01:42:32
+Robert Baruch: +trd: en
+
+versio 1.50 2023/04/30 08:29:02
+Paul Peeraerts: Steloj -> monato
+
+versio 1.49 2023/04/11 12:45:39
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.48 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.46 2021/08/17 17:32:12
+Wolfram Diestel: al~igxi: trd de (en ekz)
+
+versio 1.44 2021/05/13 07:04:55
+Wolfram Diestel: kor. ref-cel
+
+versio 1.43 2021/05/12 14:51:27
+-->
+</vortaro>

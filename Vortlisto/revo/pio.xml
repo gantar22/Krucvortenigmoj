@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pio.xml,v 1.4 2022/05/01 17:51:19 revo Exp $">
+<kap>
+    <rad>pi</rad>/o
+</kap>
+<drv mrk="pio.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pio.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      La 16a litero de la greka alfabeto <klr>(&Pi;, &pi;)</klr>:
+      <ekz>
+        anka&ubreve; eblas ilin <klr>[la Grekajn literojn]</klr> plene
+        Esperantigi
+        kun O-fina&jcirc;oj, ekz.: <klr>[...]</klr> omikrono, <tld/>o, roto,
+        <klr>[...]</klr>
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk><url
+          ref="&PMEG;gramatiko/neoficialaj_vortetoj.html#i-n8l">Grekaj
+          literoj en PMEG &para;19</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Trovi&gcirc;as en la PIV-oj la neasimilita formo <ctl>pi</ctl>.
+    </rim>
+  </snc>
+  <trd lng="de">Pi</trd>
+  <trd lng="en">pi</trd>
+  <trd lng="fr">pi</trd>
+  <trd lng="pl">pi szesnasta litera alfabetu greckiego </trd>
+  <trd lng="ro">pi  &#537;aisprezecea liter&abreve; a alfabetului grec </trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.3 2022/04/11 16:46:14
+Ulrich Fellmann: pi(o): aldonis DE tradukon
+
+versio 1.2 2022/03/13 22:29:48
+Vito Redsky: + trd pl + trd ro 
+-->
+</vortaro>

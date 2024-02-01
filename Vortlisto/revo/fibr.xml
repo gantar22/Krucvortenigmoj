@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fibr.xml,v 1.37 2023/11/09 20:48:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>fibr</rad>/o <fnt><bib>Fab4</bib></fnt>
+</kap>
+<drv mrk="fibr.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="fibr.0o.ero">
+    <dif>
+      Relative longaj kaj maldikaj elementoj, kiuj en la&ubreve;longa
+      kunmeto kun similaj elementoj, konsistigas iujn materialojn
+      a&ubreve; <ref tip="malprt" cel="hist.0o">histo</ref>jn:
+      <ekz>
+        fre&scirc;e elpremita frukt- a&ubreve; legom-suko kun <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lode Van De Velde</aut>
+          <vrk><url ref="&Monato;/2013/010934.php">Sablohorlo&gcirc;o for&scirc;ovas
+          piramidon</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nervo<tld/>oj elretinaj
+        <fnt>
+          <aut>Gianfranco Cazzaro</aut>
+          <vrk><url ref="&Monato;/1995/A950101.php">La modo de fiksokuloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/01, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nova torento da vivo trafluas &gcirc;in de la plej malgrandaj <tld/>oj de la radikoj
+        &gcirc;is la plej altaj bran&ccirc;oj, e&ccirc; &gcirc;is la internon de la folioj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Lasta son&gcirc;o de maljuna kverko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>     
+        li mastrumas diable, kvaza&ubreve; &ccirc;iu <tld/>o en li estus furio
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         <uzo tip="stl">FIG</uzo>     
+         suferado, kiu <klr>[...]</klr> penetrinte la plej malgrandajn
+         <tld/>ojn de &scirc;ia korpo, bolis en &scirc;ia brusto kaj kapo surde
+         kaj mute, sed sen&ccirc;ese
+         <fnt><bib>Marta</bib></fnt>;
+       </ekz>
+    </dif>
+  </snc>
+  <snc mrk="fibr.0o.drato">
+     <uzo tip="fak">TEK</uzo>
+     <uzo tip="fak">TEKS</uzo>
+     <dif>
+       Pli-malpli longa <ref tip="super" cel="drat.0o.fadeno">drato</ref>,
+       me&hcirc;anike ricevita elde iuj substancoj:
+      <ekz>
+        nilona <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Henry Broadbent</aut>
+          <vrk><url ref="&Monato;/2012/010840.php">Plue pri kanabo</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        karbon<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Tam&aacute;s Slez&aacute;k</aut>
+          <vrk><url ref="&Monato;/2008/009631.php">Pli ol a&ubreve;to: perspektivo kaj
+          sinteno</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        speciala plasto fortigita per <tld/>oj
+        <fnt>
+	<aut>Walter Klag</aut>
+	<vrk><url ref="&Monato;/2000/007112.php">Virbovo-tirpovo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/11, p. 14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         <ref cel="fibr.lum0o">optika <tld/>o</ref>.
+       </ekz>
+     </dif>
+   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_l;&c_a;&c_k;&c_n;&c_o;</trd>,
+    <trd>&c_zh;&c_y;&c_l;&c_k;&c_a;</trd>
+    <trd>&c_p;&c_r;&c_a;&c_zh;&c_y;&c_l;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trd lng="ca">fibra</trd>
+  <trdgrp lng="cs">
+    <trd>f&iacute;br</trd>,
+    <trd>vl&aacute;kno</trd>,
+    <trd>vl&aacute;kn&ecaron;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Faser</trd>
+  <trdgrp lng="en">
+    <trd>fibre<klr> (brite)</klr></trd>,
+    <trd>fiber<klr> (usone)</klr></trd>
+  </trdgrp>
+  <trd lng="es">fibra</trd>
+  <trd lng="fr">fibre</trd>
+  <trdgrp lng="hu">
+    <trd>rost</trd>,
+    <trd>sz&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7E4A;&#x7DAD;  <pr>&#x305B;&#x3093;&#x3044;</pr></trd>,
+    <trd>&#x7DDA;&#x7DAD;  <pr>&#x305B;&#x3093;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">vezel</trd>
+  <trd lng="pl">w&lstroke;&oacute;kno</trd>
+  <trdgrp lng="pt">
+    <trd>fibra</trd>,
+    <trd>filamento</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_l;&c_o;&c_k;&c_n;&c_o;</trd>,
+    <trd>&c_f;&c_i;&c_b;&c_r;&c_a;</trd>,
+    <trd>&c_zh;&c_i;&c_l;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">vl&aacute;kno</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_r;&c_v;&#x43E;&c_v;&c_je; &c_v;&#x43E;&#x43B;&#x43E;&#x43A;&#x43D;&#x43E;</trd>
+  <trd lng="zh">&#x7E96;&#x7DAD; <pr>xi&#x101;nw&#xE9;i</pr></trd>
+</drv>
+
+<drv mrk="fibr.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="fibr.0eto.KOMUNE">
+    <dif>
+      Mallonga resp. maldika <tld/>o:
+      <ekz>
+        nuanca&jcirc;oj de la bildo &scirc;ulditaj al la malsama koncentrado de tekstilaj <tld/>etoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19385">Mortotuko de Torino</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_v;&c_o;&c_l;&c_o;&c_k;&c_o;&c_n;&c_c;&c_je;</trd>
+  </snc>
+  <snc mrk="fibr.0eto.ANA">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Longa elemento, glata a&ubreve; striita, de la muskolaj
+      <tld/>oj.
+    </dif>
+    <trdgrp lng="hu">
+      <trd>fibrilla</trd>,
+      <trd>kis <ind>izomrost</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_f;&c_i;&c_b;&c_r;&c_i;&c_l;&c_l;&c_a;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_l;&c_a;&c_k;&c_o;&c_n;&c_c;&c_a;</trd>,
+    <trd>&c_f;&c_ib;&c_b;&c_r;&c_y;&c_l;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">fibril&middot;la</trd>
+  <trdgrp lng="cs">
+    <trd>fibra</trd>,
+    <trd>fibrila</trd>
+  </trdgrp>
+  <trd lng="de">Fibrille</trd>
+  <trd lng="en">fibril</trd>
+  <trd lng="fr">fibrille</trd>
+  <trd lng="ja">&#x5C0F;&#x7E4A;&#x7DAD;  <pr>&#x3057;&#x3087;&#x3046;&#x305B;&#x3093;&#x3044;</pr></trd>
+  <trdgrp lng="sk">
+    <trd>fibra</trd>,
+    <trd>fibrila</trd>,
+    <trd>vl&aacute;kno</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&#x43E;&#x43B;&#x43E;&#x43A;&#x43D;&c_i;&#x43D;&#x43A;&c_a;</trd>,
+    <trd>&c_f;&c_ib;&c_b;&c_r;&c_i;&#x43B;&c_a;</trd>,
+    <trd>&#x43C;&c_ib;&#x43E;&c_f;&c_ib;&c_b;&c_r;&c_i;&#x43B;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fibr.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc>
+    <dif>
+      Fari&gcirc;i tia, ke la <tld/>oj aparti&gcirc;as el la tuto:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la temo de <nom>Don Juan</nom> ree <tld/>i&gcirc;as kaj malvolvi&gcirc;as
+        <fnt>
+          <vrk><url ref="&Viki;/Don_Juan_(Strauss)">Don Juan
+          (Strauss)</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Estas strange, ke ekzistas tiu senco, sed ne la pli utila
+    nome "apartigi la fibrojn". Mi ne scias, &ccirc;u "~igi" povus konveni.
+    PIV1 duone solvis la problemon per Z-a "dis~i" (apartigi la
+    ~ojn disde la cetero de la &scirc;tofo). &Scirc;ajnas al mi, ke la
+    paro dis~i/dis~i&gcirc;i estas pli alloga ol ~igi?/~i&gcirc;i. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_p;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_ja; &c_n;&c_a; &c_v;&c_a;&c_l;&c_o;&c_k;&c_n;&c_y;</trd>
+  <trd lng="de">auffasern</trd>
+  <trd lng="en">fray</trd>
+  <trd lng="hu">kirojtosodik</trd>
+  <trd lng="ja">&#x307B;&#x3050;&#x308C;&#x308B;</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_a;&c_s;&c_t;&c_mol;&c_s;&c_ja; &c_n;&c_a; &c_v;&c_o;&c_l;&c_o;&c_k;&c_n;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&#x43F;&c_a;&c_d;&c_a;&c_t;&c_i;&c_s;&#x44F; &#x43D;&c_a; &c_v;&#x43E;&#x43B;&#x43E;&#x43A;&#x43D;&c_a;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43B;&c_ib;&c_z;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fibr.dis0igi">
+  <kap>dis<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="fibr.dis0igi.KOMUNE">
+    <dif>
+      Distiri la erojn de <tld/>a&jcirc;o:
+      <ekz>
+        mia fratino donis al &scirc;i por dis<tld/>igi lanon kaj 
+        kapokon
+        <fnt>
+          <aut>W. Elsschot, trad. M. Meeuwissen</aut>,
+          <vrk><url ref="http://meeuw.org/fromagxo/node6.html">
+          Froma&gcirc;o</url></vrk>,
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_l;&c_ja;&c_c;&c_mol; &c_n;&c_a; <ind>&c_v;&c_a;&c_l;&c_o;&c_k;&c_n;&c_y;</ind></trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;fibrer</trd>,
+    <trd>lac&eacute;rer</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fibr.dis0igxi">
+  <kap>dis<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="fibr.dis0igxi.KOMUNE">
+    <dif>
+      Maldensi&gcirc;i, malfermi&gcirc;i, diseri&gcirc;ante je fibroj:
+      <ekz>
+        la kabloj <klr>[&#x2026;]</klr> dis<tld/>i&gcirc;is kaj &scirc;iri&gcirc;is 
+        je pecoj
+        <fnt>
+          <aut>V. Beekman, trad. J. Ojalo</aut>,
+          <vrk><url ref="http://miresperanto.com/biblioteko/aviadistoj/04.htm">
+          Noktaj aviadistoj</url></vrk>,
+          <lok>1989</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="faden.dis0igxi.TEKS">disfadeni&gcirc;i</ref>,
+      <ref cel="uz.el0i">eluzi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_l;&c_ja;&c_c;&c_c;&c_a; &c_n;&c_a; <ind>&c_v;&c_a;&c_l;&c_o;&c_k;&c_n;&c_y;</ind></trd>
+  <trd lng="ca">esfilagarsar-se</trd>
+  <trdgrp lng="de">
+    <trd>zerfasern</trd>,
+    <trd>ausfransen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>se <ind>d&eacute;fibrer</ind></trd>
+    <trd>s'<ind>effilocher</ind></trd>,
+    <trd>s'<ind>effranger</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fibr.lum0o">
+  <kap>lum<tld/>o <fnt><bib>KompLeks</bib></fnt>,
+  <var><kap>optika <tld/>o <fnt><bib>PIV2</bib></fnt></kap>
+  </var></kap> 
+  <snc mrk="fibr.lum0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      <ref tip="super" cel="drat.0o.fadeno">Drato</ref> el vitro,
+      plasto k.a., uzata por konduki lumon:
+      <ekz>
+        transmisiaj retoj per optikaj <tld/>oj disvati&gcirc;as pli kaj pli
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3611">Radiofonio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        laseraj impulsoj, transsendeblaj en lum<tld/>aj kabloj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=18858">Lasero</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi tajpas <klr>[vian mesa&gcirc;on kaj &gcirc;i]</klr> forflugas
+        kun neimagebla rapido la&ubreve; telefon-kablaj, lum<tld/>aj a&ubreve;
+        satelitaj kanaloj
+        <fnt>
+          <bib>Voja&gcirc;o</bib>
+          <aut>B. Kolker</aut>
+          <vrk>Per Interreto per simplaj vortoj</vrk><lok>leciono
+          26a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_je; <ind>&c_v;&c_a;&c_l;&c_a;&c_k;&c_n;&c_o;</ind></trd>
+  <trd lng="ca">fibra &ograve;ptica</trd>
+  <trdgrp lng="de">
+    <trd>Glasfaser</trd>,
+    <trd>optische <ind>Faser</ind></trd>
+  </trdgrp>
+  <trd lng="en">fibre optics</trd>
+  <trd lng="es">fibra &oacute;ptica</trd>
+  <trd lng="fr">fibre optique</trd>
+  <trdgrp lng="pl">
+    <trd>&sacute;wiat&lstroke;ow&oacute;d</trd>,
+    <trd>w&lstroke;&oacute;kno optyczne</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_p;&c_t;&c_o;&c_v;&c_o;&c_l;&c_o;&c_k;&c_n;&c_o;</trd>,
+    <trd>&c_o;&c_p;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; &c_v;&c_o;&c_l;&c_o;&c_k;&c_n;&c_o;</trd>,
+    <trd>&c_s;&c_v;&c_je;&c_t;&c_o;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5149;&#x7E96;&#x96FB;&#x7E9C; <pr>gu&#x101;ngxi&#x101;ndi&#xE0;nl&#x1CE;n</pr></trd>
+</drv>
+
+<drv mrk="fibr.per_cxiuj_0oj">
+  <kap>
+    per &ccirc;iuj <tld/>oj
+  </kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc>
+    <dif>
+      Plene <ref cel="fokus.0i.koncentri">fokusi</ref>ta al unu celo:
+      <ekz>
+        per &ccirc;iuj radik<tld/>oj de sia infana koro li alkro&ccirc;i&gcirc;is al la nova hejmo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kontra&ubreve; tiu &ccirc;i mensoga, malnobla kaj kalumnia kulpigo <klr>[&#x2026;]</klr>
+        ni protestas per &ccirc;iuj <tld/>oj de nia koro
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado en la Guildhall (Londono) en la 21a de a&ubreve;gusto 1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+         per &ccirc;iuj <tld/>oj de la animo li ankora&ubreve; volis
+         alkro&ccirc;i&gcirc;i al la jam iom post iom malaperanta espero
+         <fnt><bib>I&scirc;tar</bib><lok>&ccirc;ap. 11</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_s;&c_ib;&c_m;&c_ib; <ind>&c_f;&c_ib;&c_b;&c_r;&c_a;&c_m;&c_ib;</ind> &c_d;&c_u;&c_sh;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>mit jeder <ind>Faser</ind></trd>,
+    <trd>mit <ind>Haut</ind> und Haar</trd>
+  </trdgrp>
+  <trd lng="en">with every fibre</trd>
+</drv>
+
+
+</art>
+<!--
+$Log$
+versio 1.36 2023/10/14 18:06:40
+revo: transskribo per <pr>
+
+versio 1.34 2023/04/23 11:22:03
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.33 2023/04/12 08:32:12
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.32 2022/11/10 09:33:51
+Dmitri Gabinski: + trd be
+
+versio 1.31 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.29 2021/10/16 16:45:56
+Wolfram Diestel: +trd de
+
+versio 1.28 2020/12/02 20:36:02
+Wolfram Diestel: ekz-oj, apartigis "per chiuj ~oj"
+
+Revision 1.26  2015/07/04 08:37:34  revo
+-->
+</vortaro>

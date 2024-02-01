@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: arseni.xml,v 1.26 2023/10/28 08:33:09 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>arsenik</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="arseni.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="arseni.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      &Ccirc;iu el la venenaj kompona&jcirc;oj de arseno, precipe la arsenita
+      anhidrido As<sub>2</sub>O<sub>3</sub>:
+      <ekz>
+        unu el la mona&hcirc;inoj eniris en la kuirejon kaj havis la ideon
+        demandi kio estas la plen-mano da blanka polvo. &ndash; <tld lit="A"/>o &ndash; diris Amaranta
+        <fnt><aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>, <vrk>Cent
+        Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="it">ossido arsenioso</trd>
+    <trd lng="zh">&#x4E09;&#x6C27;&#x5316;&#x4E8C;&#x7837; <pr>s&#x101;ny&#x1CE;nghu&#xE0;&#xE8;rsh&#x113;n</pr></trd>
+</snc>
+  <snc mrk="arseni.0o.arseno">
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="arsen.0o">arseno</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_y;&c_sh;'&c_ja;&c_k; <klr tip="amb">(&c_ja;&c_d;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>arzenik</trd>,
+    <trd>otru&scaron;&iacute;k</trd>,
+    <trd>utrejch</trd>
+  </trdgrp>
+  <trd lng="de">Arsenik</trd>
+  <trd lng="en">arsenic</trd>
+  <trd lng="es">ars&eacute;nico</trd>
+  <trd lng="fr">arsenic<klr> (poison)</klr></trd>
+  <trdgrp lng="he">
+    <trd>&#x5D0;&#x5B7;&#x5E8;&#x5E1;&#x5B8;&#x5DF;</trd>,
+    <trd>&#x5D6;&#x5E8;&#x5E0;&#x5D9;&#x5DA;</trd>
+  </trdgrp>
+  <trd lng="hu">arzenikum</trd>
+  <trd lng="it">arsenico<klr> (veleno)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E9C;&#x30D2;&#x9178;  <pr>&#x3042;&#x3072;&#x3055;&#x3093;</pr></trd>,
+    <trd>&#x6BBA;&#x305D;&#x5264; <pr>&#x3055;&#x3063;&#x305D;&#x3056;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">ars&ecirc;nico</trd>
+  <trd lng="ru">&c_m;&c_y;&c_sh;&c_mol;&c_ja;&c_k; <klr tip="amb">(&c_ja;&c_d;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>arzenik</trd>,
+    <trd>oxid arzenit&yacute;</trd>
+  </trdgrp>
+  <trd lng="sv">arsenik</trd>
+  <trd lng="uk">&#x43C;&c_i;&c_sh;&#x2019;&#x44F;&#x43A;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/13 16:46:48
+revo: transskribo per <pr>
+
+versio 1.24 2023/09/12 17:25:45
+Wolfram Diestel: pr. ja
+
+Revision 1.19  2015/08/16 16:10:15  revo
+Wolfram Diestel: +spaco
+
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/02/05 11:10:08  revo
+Antonio Codazzi: ++trd it
+
+Revision 1.15  2012/02/04 17:10:16  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2007/04/14 16:30:43  revo
+-->
+</vortaro>

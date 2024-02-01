@@ -1,0 +1,434 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: numer.xml,v 1.109 2023/10/20 05:22:00 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>numer</rad>/o
+</kap>
+<drv mrk="numer.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <mlg>n-ro</mlg>
+  <snc mrk="numer.0o.nombro">
+    <dif>
+      <ref tip="super" cel="nombr.0o.MAT">Nombro</ref> montranta la vicon de iu objekto inter aliaj:
+      <ekz>
+        <tld/>o de pa&gcirc;o, telefono, bileto;
+      </ekz>
+      <ekz>
+        orda <tld/>o
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>El la mondo homarana (hilelista).</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        alfabeta registro de temoj, kun montro de la <tld/>oj, sub kiuj oni povas trovi
+        &ccirc;iun apartan temon
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Sankt-Peterburgo, strato Po&scirc;toficeja, domo <tld/>o na&ubreve;dek-sep
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvina</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kod.0o.itajxo">kodo<sncref/></ref>,
+      <ref cel="mark.0o.signo">marko<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="es">
+      <trd>n&uacute;mero</trd>,
+      <trd>cifra</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="numer.0o.objekto">
+    <dif>
+      La objekto mem signita per iu <tld/>o<sncref ref="numer.0o.nombro"/>:
+      <ekz>
+        vin atendante, mi ekzamenos tiun novan <tld/>on
+        <klr>(kp <ref cel="don.el0o.TIP">eldono</ref>)</klr> de Lingvo Internacia, kiu ku&scirc;as
+        sur la tablo
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la unua <tld/>o <klr>(<ref cel="progra.0ero">programero</ref>)</klr> de la programo,
+        la uverturo de &leftquot;Vilhelmo <nom>Tell</nom>&rightquot; pasis
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la du fratoj lotas: <nom>Gabriel</nom> eltiras la <tld/>on 87,
+        <nom>Alphonse</nom> la <tld/>on 88 <klr>(vd <ref cel="lot.0ilo">lotilo</ref>)</klr>
+        <fnt>
+          <bib>ChL</bib>
+          <lok>Noto De L&#x2019; A&ubreve;toro</lok>
+        </fnt>.
+      </ekz>
+<!-- ne trovita
+      <ekz>
+        <ind>gajna <tld/>o</ind> de loterio<fnt>Z</fnt>.
+        <trd lng="hu">nyer&odblac;sz&aacute;m</trd>
+      </ekz>
+-->
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="plat.numer0o">numerplato</ref>
+    </refgrp>
+    <trd lng="es">ejemplar</trd>
+  </snc>
+  <trd lng="af">Syfer</trd>
+  <trd lng="am">&#x1241;&#x1325;&#x122D;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_A_hamza_sure;&a_r;&a_q;&a_A;&a_m;</trd>
+  <trd lng="az">say</trd>
+  <trd lng="be">&c_n;&c_u;&c_m;&c_a;&c_r;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_n;&c_o;&c_m;&c_je;&c_r;</trd>,
+    <trd>&c_b;&c_r;&c_o;&c_j; (&c_n;&c_a; &c_v;&c_i;&c_s;&c_t;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_s;&c_p;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je; &c_i; &c_t;.&c_n;.)</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9B8;&#x982;&#x996;&#x9CD;&#x9AF;&#x9BE;</trd>
+  <trd lng="bo">&t_ga;&t_rata;&t_nga;&t_sa;&t_tsheg;&t_ka;&t_tsheg;</trd>
+  <trd lng="br">niverenn</trd>
+  <trd lng="bs">brojka</trd>
+  <trd lng="co">ma&icirc;tre</trd>
+  <trd lng="cs">&ccaron;&iacute;slo</trd>
+  <trd lng="cy">rhifolyn</trd>
+  <trd lng="da">talord</trd>
+  <trd lng="de">Nummer</trd>
+  <trd lng="en">number</trd>
+  <trd lng="et">numbritega</trd>
+  <trd lng="fr">num&eacute;ro</trd>
+  <trd lng="ga">uimhre&aacute;n</trd>
+  <trd lng="gd">&agrave;ireamh</trd>
+  <trd lng="gu">&#xA86;&#xA82;&#xA95;&#xAA1;&#xACB;</trd>
+  <trd lng="ha">adadi</trd>
+  <trd lng="hi">&#x905;&#x902;&#x915;</trd>
+  <trd lng="hmn">tus nab npawj</trd>
+  <trd lng="hr">cifra</trd>
+  <trd lng="ht">a chif</trd>
+  <trd lng="hu">sz&aacute;m</trd>
+  <trd lng="hy">&#x569;&#x57E;&#x561;&#x56F;&#x561;&#x576;</trd>
+  <trdgrp lng="id">
+    <trd>angka</trd>,
+    <trd>nomor</trd>
+  </trdgrp>
+  <trd lng="ig">onuogugu</trd>
+  <trd lng="is">talan</trd>
+  <trd lng="ja">&#x6570;&#x5B57; <pr>&#x3059;&#x3046;&#x3058;</pr></trd>
+  <trd lng="jv">angka</trd>
+  <trd lng="ka">&#x10EA;&#x10D8;&#x10E4;&#x10E0;&#x10D4;&#x10D1;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&c_s;&c_a;&c_n;</trd>
+  <trd lng="km">&#x179B;&#x17C1;&#x1781;</trd>
+  <trd lng="kn">&#xCB8;&#xC82;&#xC96;&#xCCD;&#xCAF;&#xCBE;&#xCB5;&#xCBE;&#xC9A;&#xC95;</trd>
+  <trd lng="ko">&#xC22B;&#xC790;</trd>
+  <trd lng="ku">jimar</trd>
+  <trd lng="ky">&c_s;&c_a;&c_n; &c_a;&c_t;&c_o;&c_o;&c_ch;</trd>
+  <trd lng="lat">numerales</trd>
+  <trd lng="lo">&#xE88;&#xECD;&#xEB2;&#xE99;&#xEA7;&#xE99;&#xEAB;&#xEA5;&#xEB2;&#xE8D;</trd>
+  <trd lng="lt">skaitvardis</trd>
+  <trd lng="lv">cipars</trd>
+  <trd lng="mg">anarana iombonana</trd>
+  <trd lng="mi">whika</trd>
+  <trd lng="mk">&c_b;&c_r;&c_o;&c_je;&c_v;&c_i;</trd>
+  <trd lng="ml">&#xD38;&#xD02;&#xD16;</trd>
+  <trd lng="mn">&c_t;&c_o;&c_o;&c_n;&c_y; &c_n;&c_e;&c_r;</trd>
+  <trd lng="mr">&#x906;&#x915;&#x921;&#x93E;</trd>
+  <trd lng="ms">angka</trd>
+  <trd lng="mt">numerali</trd>
+  <trd lng="my">&#x1002;&#x100F;&#x1014;&#x103A;&#x1038;</trd>
+  <trd lng="nl">nummer</trd>
+  <trd lng="pa">&#xA05;&#xA70;&#xA15;</trd>
+  <trd lng="pl">numer</trd>
+  <trd lng="ps">&a_sh;&a_m;&f_y;&a_r;</trd>
+  <trd lng="pt">n&uacute;mero</trd>
+  <trd lng="ro">num&abreve;r</trd>
+  <trd lng="ru">&c_n;&c_o;&c_m;&c_je;&c_r;</trd>
+  <trd lng="rw">mubare</trd>
+  <trd lng="sd">&#x68F;&a_w;&a_n;&a_A;&a_y_hamza;&a_y;</trd>
+  <trd lng="si">&#xD89;&#xDBD;&#xD9A;&#xDCA;&#xD9A;&#xDB8;</trd>
+  <trd lng="sk">&ccaron;&iacute;slo</trd>
+  <trd lng="sl">&scaron;tevilka</trd>
+  <trd lng="sm">n&umacron;mera</trd>
+  <trd lng="sn">nhamba</trd>
+  <trd lng="so">tireedyada</trd>
+  <trd lng="sq">num&euml;ror</trd>
+  <trd lng="st">ho sebediswa makgetlo a</trd>
+  <trd lng="su">angka</trd>
+  <trd lng="ta">&#xB8E;&#xBA3;&#xBCD;</trd>
+  <trd lng="te">&#xC38;&#xC02;&#xC16;&#xC4D;&#xC2F;&#xC3E;</trd>
+  <trd lng="tg">&c_a;&c_d;&c_a;&c_d;&#x4E3;</trd>
+  <trd lng="th">&#xE15;&#xE31;&#xE27;&#xE40;&#xE25;&#xE02;</trd>
+  <trd lng="tt">&c_s;&c_a;&c_n;</trd>
+  <trd lng="uk">&c_c;&c_i;&c_f;&c_r;&c_a;</trd>
+  <trd lng="ur">&#x6C1;&a_n;&a_d;&a_s;&f_y;</trd>
+  <trd lng="uz">raqam</trd>
+  <trd lng="vi">ch&#x1EEF; s&#x1ED1;</trd>
+  <trd lng="xh">inani</trd>
+  <trd lng="yi">&tsadi;&yod;&pe;&ayin;&resh;</trd>
+  <trd lng="zu">inani</trd>
+</drv>
+
+<drv mrk="numer.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Signi ion per <tld/>o:
+      <ekz>
+        <tld/>i pa&gcirc;ojn de libro, librojn de biblioteko;
+      </ekz>
+      <ekz>
+        la svati&gcirc;antoj, la&ubreve; la ordo de sia alveno, estis <tld/>ataj kaj starigataj en
+        vicoj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Johan&ccirc;jo-malsa&gcirc;ulo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Becher</nom> proponis <tld/>i la vortojn de tuta vortaro kaj tiujn &ccirc;i nombrojn uzi
+        kiel komunan lingvon de skribado
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por ilin poluri, mi prenos ilin en mian anta&ubreve;tukon, sed anta&ubreve;e oni devas ilin
+        <tld/>i
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dio de dormo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la la&ubreve;enhave dividitaj grupoj da proverboj estos <tld/>itaj
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_u;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_n;&c_o;&c_m;&c_je;&c_r;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trd lng="br">niverenni&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>o&ccaron;&iacute;slovat</trd>,
+    <trd>&ccaron;&iacute;slovat</trd>
+  </trdgrp>
+  <trd lng="de">nummerieren</trd>
+  <trd lng="es">numerar</trd>
+  <trd lng="fr">num&eacute;roter</trd>
+  <trd lng="hu">megsz&aacute;moz</trd>
+  <trd lng="id">me<ind>nomor</ind>i</trd>
+  <trd lng="ja">&#x756A;&#x53F7;&#x3092;&#x4ED8;&#x3051;&#x308B;  <pr>&#x3070;&#x3093;&#x3054;&#x3046;&#x3092;&#x3064;&#x3051;&#x308B;</pr></trd>
+  <trd lng="nl">nummeren</trd>
+  <trd lng="pl">numerowa&cacute;</trd>
+  <trd lng="pt">numerar</trd>
+  <trdgrp lng="ro">
+    <trd>num&abreve;ra</trd>,
+    <trd>numerota</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_u;&c_m;&c_je;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>o&ccaron;&iacute;slova&tcaron;</trd>,
+    <trd>&ccaron;&iacute;slova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_n;&c_u;&c_m;&c_je;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trd lng="zh">&#x7F16;&#x53F7; <pr>b&imacron;an h&agrave;o</pr></trd>
+</drv>
+
+<drv mrk="numer.0ebla">
+  <kap><tld/>ebla</kap>
+  <snc mrk="numer.0ebla.KOMUNE">
+    <dif>
+      Tia, ke eblas &gcirc;in <tld/>i.
+    </dif>
+    <trd lng="fr">num&eacute;rotable</trd>
+    <trd lng="hu">megsz&aacute;mozhat&oacute;</trd>
+    <trd lng="pl">przeliczalny</trd>
+    <trd lng="ro">calculat&abreve;</trd>
+  </snc>
+  <snc mrk="numer.0ebla.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="ar.0o.MAT">aro</ref>)</klr>
+      <ref cel="pov.sam0a.aroj">Sampova</ref>, kiel iu subaro de la aro
+      de entjeroj:
+      <ekz>
+        finia aro estas <tld/>ebla;
+      </ekz><ekz>
+        la aro de racionaloj estas <tld/>ebla, la aro de reeloj ne
+        estas;
+      </ekz><ekz>
+        <ref cel="spac.banahxa0o">bana&hcirc;a spaco</ref> povas havi
+        <tld/>eblan dimension, nur se finidimensia.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="diskre.0a.nombrebla">diskreta</ref>,
+      <ref cel="nombr.0ebla.MAT">nombrebla</ref>.
+    </refgrp>
+    <rim>
+      <nom>Werner</nom> uzas por &ccirc;i tiu senco <ctl>nombrebla</ctl> (germane:
+      <nac>abz&auml;hlbar</nac>) &ndash; konforma al la nacilingvaj ekvivalentoj &#x2010;, kiun li
+      distingas disde <ctl><tld/>ebla</ctl> (germane: <nac>numerierbar</nac>,
+      malofta en faka kunteksto). Tamen niaj aliaj fontoj mencias nur
+      <ctl><tld/>ebla</ctl> kaj ni preferis sekvi ilin. Notindas, ke
+      la difino en <fnt><bib>EKV</bib><lok>&para;303</lok></fnt> postulas,
+      ke nur nefiniaj aroj povas esti <tld/>eblaj, sed malmultaj
+      dividas tiun &ccirc;i vidpunkton. Notu anka&ubreve;, ke <nom>Bricard</nom>
+      <fnt><bib>MatTerm</bib><lok>p. 18</lok></fnt> konas terminon
+      <ctl>komputebla</ctl>, ver&scirc;ajne samsignifa.
+    </rim>
+    <trd lng="br">niveradus</trd>
+    <trdgrp lng="de">
+      <trd>abz&auml;hlbar</trd>,
+      <trd>diskret</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>denumerable</trd>,
+      <trd>countable</trd>,
+      <trd>discrete</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;nombrable</trd>,
+      <trd>discret<klr tip="ind"> (math.)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">megsz&aacute;ml&aacute;lhat&oacute;</trd>
+    <trdgrp lng="pl">
+      <trd>przeliczalny</trd>,
+      <trd>dyskretny</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>calculat&abreve;</trd>,
+      <trd>discret</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_ch;&c_jo;&c_t;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_m;&c_y;&c_j;</trd>,
+      <trd>&c_d;&c_i;&c_s;&c_k;&c_r;&c_je;&c_t;&c_n;&c_y;&c_j;</trd>,
+    </trdgrp>
+    <trdgrp lng="zh">
+        <trd>&#x53EF;&#x6570;&#x7684; <pr>k&ecaron; sh&#x1D4; de</pr></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ja;&c_k;&c_ib; &c_p;&c_a;&c_d;&c_d;&c_a;&c_je;&c_c;&c_c;&c_a; <ind>&c_p;&c_je;&c_r;&c_a;&c_l;&c_ib;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_ju;</ind></trd>,
+    <trd>&c_d;&c_y;&c_s;&c_k;&c_r;&c_e;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="es">numerable</trd>
+  <trd lng="uk">&c_ja;&c_k;&c_i;&c_j; &c_p;&c_ib;&c_d;&c_d;&c_a;&c_jeu;&c_t;&c_mol;&c_s;&c_ja; &c_n;&c_u;&c_m;&c_je;&c_r;&c_a;&c_c;&c_ib;&c_ji;</trd>
+</drv>
+
+<drv mrk="numer.prov0o">
+  <kap>prov<tld/>o</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="ekzemp1.prov0o">Provekzemplero</ref> de
+      gazeto:
+      <ekz>
+        bonvolu kontakti&gcirc;i kun la komunikadcentro de EEU
+        por legi la prov<tld/>on
+        <fnt><lok><url ref="http://www.chinareport.com.cn/04e/2003-4.htm">http://www.chinareport.com.cn/04e/2003-4.htm</url></lok></fnt>.
+      </ekz>
+      <ekz>
+        la prov<tld/>o de Lingvo Internacia, decembro 1895
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+          <lok>Enkonduko</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_o;&c_b;&c_n;&c_y; <ind>&c_n;&c_u;&c_m;&c_a;&c_r;</ind> <klr>(&c_p;&c_e;&c_r;&c_y;&c_ja;&c_d;&c_y;&c_ch;&c_n;&c_a;&c_g;&c_a; &c_v;&c_y;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>
+  <trd lng="br">niverenn skouer<klr tip="ind">
+(kelaouenno&ugrave;)</klr></trd>
+  <trd lng="hu">pr&oacute;basz&aacute;m</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x672C;&#x53F7;  <pr>&#x307F;&#x307B;&#x3093;&#x3054;&#x3046;</pr></trd>,
+    <trd>&#x898B;&#x672C;&#x8A8C;  <pr>&#x307F;&#x307B;&#x3093;&#x3057;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>numer pr&oacute;bny</trd>,
+    <trd>numer zerowy</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>num&abreve;rul de &icirc;ncercare</trd>,
+    <trd>num&abreve;rul de zero</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="numer.signo0o">
+  <kap>signo<tld/>o</kap>
+  <uzo tip="fak">KOMP</uzo>
+  <snc>
+    <dif>
+      En komputoscienco, nombro per kiu oni kodas
+      <ref cel="sign.0o.KOMP">signon<sncref/></ref> en
+      <ref cel="kod.0o.SCI">kodo<sncref/></ref>:
+      <ekz>
+        oni akceptas la literojn <frm><g>&ccirc;, &gcirc;, &hcirc;, &jcirc;, &scirc;, &ubreve;</g></frm> kiel simplajn
+        signojn integrajn, kun la signo<tld/>oj
+        <frm>&Ccirc;=264, &Gcirc;=284, &Hcirc;=292,</frm> <klr>&#x2026;</klr>
+        <fnt><aut>S. Pokrovskij</aut>:
+          <vrk><url ref="https://lingvakritiko.com/2018/05/09/grafemo/">Grafemo</url></vrk>.
+          <lok>Lingva kritiko, 2018.</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="super" cel="kod.0ero">kodero</ref>
+  <trdgrp lng="en">
+    <trd>code element</trd>,
+    <trd>code point</trd>,
+    <trd>code position</trd>
+  </trdgrp>
+    <trdgrp lng="fr">
+    <trd>&eacute;l&eacute;ment de <ind>code</ind></trd>,
+    <trd>mot-<ind>code</ind></trd>,
+    <trd>codet</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_d;&c_o;&c_v;&c_a;&c_ja; &c_k;&c_o;&c_m;&c_b;&c_i;&c_n;&c_a;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_k;&c_o;&c_d;&c_o;&c_n;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.109 2023/10/20 05:22:00
+revo: transskribo per <pr>
+
+versio 1.107 2023/08/29 16:35:12
+Wolfram Diestel: ja: prononco
+
+versio 1.106 2023/05/22 19:19:29
+Wolfram Diestel: +ekz-oj, ref-oj
+
+versio 1.105 2023/05/14 04:29:17
+Sergio Pokrovskij: + signo~o
+
+versio 1.104 2022/12/02 09:27:14
+Dmitri Gabinski: + trd be
+
+versio 1.103 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.101 2021/11/19 23:30:48
+Vito Redsky: +trd pl +trd ro
+
+versio 1.32 2020/05/04 11:10:22
+-->
+</vortaro>

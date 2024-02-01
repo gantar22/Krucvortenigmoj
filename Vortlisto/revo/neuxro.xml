@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: neuxro.xml,v 1.19 2023/11/03 01:31:40 revo Exp $">
+<kap>
+  <rad>ne&ubreve;rologi</rad>/o <fnt><bib>PIV1</bib></fnt>,
+  <var><kap><rad var="v">nervologi</rad>/o <fnt><bib>PIV1</bib></fnt></kap></var>
+</kap>
+<drv mrk="neuxro.0o">
+  <kap><tld/>o, <var><kap><tld var="v"/>o</kap></var></kap>
+  <snc mrk="neuxro.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="malprt" cel="medici.0o">Medicina</ref>
+      <ref tip="lst" lst="voko:sciencoj" cel="fak.0o.brancxo">fako</ref>,
+      kiu studas la <ref tip="vid" cel="fiziol1.0o">fiziologion</ref> kaj la
+      <ref tip="vid" cel="patolo.0o">patologion</ref> de la nerva sistemo:
+      <ekz>
+        esploro, publikigita en <klr>[&#8230;]</klr> medicina revuo de la Usona Akademio de
+        <tld lit="N"/>o, montris, ke ofta elmeti&gcirc;o al tiuj nesanigaj substancoj povas
+        pliigi la riskon, ke oni estos trafita de la parkinsona malsano
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011360.php">Ju pli toksaj legomoj, des pli da riskoj por
+          homoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;iaj <klr>[de mapado de cerbaj konektoj]</klr> rezultoj estas gravegaj por la <tld
+        var="v"/>o
+        <fnt>
+          <aut>E. D. Adrian</aut>
+          <vrk><url ref="https://scienca-revuo.info/files/1718-1-1856-1-10-20140426.pdf">
+          La Aktiveco de Nervo&ccirc;eloj</url></vrk>
+          <lok>Scienca Revuo, 1953:5</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_e;&c_w;&c_r;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="de">Neurologie</trd>
+  <trd lng="el">&ny;&epsilon;&ypsilon;&rho;&omikron;&lambda;&omikron;&gamma;&jota_ton;&alfa;</trd>
+  <trd lng="en">neurology</trd>
+  <trd lng="es">neurolog&iacute;a</trd>
+  <trd lng="fr">neurologie</trd>
+  <trdgrp lng="hu">
+    <trd>ideggy&oacute;gy&aacute;szat</trd>,
+    <trd>neurol&oacute;gia</trd>
+  </trdgrp>
+  <trd lng="nl">neurologie</trd>
+  <trd lng="pl">neurologia</trd>
+  <trdgrp lng="pt">
+    <trd>neurologia</trd>,
+    <trd>nevrologia</trd>
+  </trdgrp>
+  <trd lng="ro">neurologie</trd>
+  <trd lng="ru">&c_n;&c_je;&c_v;&c_r;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_v;&c_r;&#x43E;&#x43B;&#x43E;&c_g;&c_ib;&#x44F;</trd>
+</drv>
+
+<drv mrk="neuxro.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="neuxro.0isto.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="dif" cel="neuxrolo.0o">Ne&ubreve;rologo</ref>:
+      <ekz>
+        <nom>Ant&ocirc;nio Austreg&eacute;silo</nom> <klr>[&#8230;]</klr> &dash; grava <tld/>isto, li kreis la unuan
+        lernejon pri <tld/>o en Brazilo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=124907">Ant&ocirc;nio Austreg&eacute;silo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_e;&c_w;&c_r;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trdgrp lng="de">
+    <trd>Neurologe</trd>,
+    <trd>Nervenarzt</trd>
+  </trdgrp>
+  <trd lng="el">&ny;&epsilon;&ypsilon;&rho;&omikron;&lambda;&omikron_ton;&gamma;&omikron;&sigma_fina;</trd>
+  <trd lng="en">neurologist</trd>
+  <trd lng="es">neur&oacute;logo</trd>
+  <trd lng="fr">neurologue</trd>
+  <trdgrp lng="hu">
+    <trd>ideggy&oacute;gy&aacute;sz</trd>,
+    <trd>neurol&oacute;gus</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>neuroloog</trd>,
+    <trd>zenuwspecialist</trd>
+  </trdgrp>
+  <trd lng="pl">neurolog</trd>
+  <trdgrp lng="pt">
+    <trd>neurologista</trd>,
+    <trd>nevrologista</trd>
+  </trdgrp>
+  <trd lng="ro">neurolog</trd>
+  <trd lng="ru">&c_n;&c_je;&c_v;&c_r;&c_o;&c_l;&c_o;&c_g;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.19 2023/11/03 01:31:40
+Jeromo Vasxe: + var
+
+versio 1.17 2021/03/08 22:54:35
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.15  2019/02/02 11:10:22  revo
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.14  2015/01/03 13:10:11  revo
+Alain Gerard: +ref
+
+Revision 1.13  2006/02/27 17:33:06  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.12 2004/06/22 16:29:20 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2003/08/26 16:30:39 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2002/06/08 17:31:58 revo
+-->
+</vortaro>

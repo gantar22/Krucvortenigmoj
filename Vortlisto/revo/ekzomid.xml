@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekzomid.xml,v 1.3 2021/01/12 17:50:35 revo Exp $">
+<kap>
+    <rad>ekzomid</rad>/o, <var><kap><rad var="s">eksomid</rad>/o</kap></var>
+</kap>
+<drv mrk="ekzomid.0o">
+  <kap><tld/>o, <var><kap><tld var="s"/>o</kap></var></kap>
+  <snc mrk="ekzomid.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Antikva vira <ref tip="super" cel="vest.super0o">supervesto</ref>
+      grekdevena, ortangula teksa&jcirc;o falde volvita trans la maldekstra
+      &scirc;ultro kaj lasanta libera la dekstran brakon:
+      <ekz>
+        <tld/>on prefere portis laboristoj, kamparanoj kaj
+        infanterianoj;
+      </ekz><ekz>
+        helhara junulino, apena&ubreve; kovrita de mallonga <tld var="s"/>o
+        <fnt><aut>Ivan Efremov, tr. J. Finkel</aut>:
+          <vrk>Tais el Ateno</vrk>,
+          <lok><url
+          ref="https://www.esperanto.mv.ru/Efremov/tais_01.html"
+                    >&ccirc;ap. 1a</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    Kvankam tio ne rilatas al la esperanta vortofarado, tamen
+    dezirindas observi sistemecon en esperantigo de fremda&jcirc;oj.
+    Greke la vorto konsistas el <nac>&epsilon_psili;&xi;&omega;</nac> (kutime esperantigata
+    per &leftquot;<esc>ekzo-</esc>&rightquot; = <ctl>ekstere</ctl>, kaj <nac>&omega_psili_circ;µ&omikron;&sigma_fina;</nac> (&scirc;ultro);
+    do, sume <ctl>ekster&scirc;ultra&jcirc;o</ctl>. La unua parto
+    tradicie estas esperantigata per <esc>ekzo-</esc>; la dua parto ricevas la
+    plenan formon <ctl>omido</ctl>, kiel en
+    <ref cel="hxlamid.0o">&hcirc;lamido</ref>
+    (kp la formojn de genitivo ununombra greka: <nac>&epsilon_psili;&xi;&omega;µ&jota_ton;&delta;&omikron;&sigma_fina;</nac> kaj latina:
+    <nac>ex&#333;midis</nac>).
+    <aut>Sergio Pokrovskij</aut>
+  </rim>
+  <trd lng="en">exomis</trd>
+  <trd lng="fr">exomide</trd>
+  <trd lng="lat">exomis</trd>
+  <trd lng="el">&epsilon_psili;&xi;&omega;&my;&jota_ton;&sigma_fina;</trd>
+  <trd lng="ru">&c_e;&c_k;&c_z;&c_o;&c_m;&c_i;&c_d;&c_a;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.3 2021/01/12 17:50:35
+Wolfram Diestel: sintakso: var, nac
+
+Revision 1.2  2020/01/05 16:10:15  revo
+Robin van der Vliet: tajperaro korektita
+
+Revision 1.1  2019/12/29 09:10:16  revo
+Sergio Pokrovskij: nova artikolo
+-->
+</vortaro>

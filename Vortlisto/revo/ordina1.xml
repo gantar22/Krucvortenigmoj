@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ordina1.xml,v 1.24 2023/10/20 13:11:48 revo Exp $">
+<kap>
+  <rad>ordinat</rad>/o
+</kap>
+<drv mrk="ordina1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      La dua el la du
+      <ref tip="super" cel="koordi.kartezia0o">karteziaj
+      koordinatoj</ref>,
+      kiuj difinas la situon de punkto sur
+      <ref cel="eben.0o.MAT">ebeno</ref>:
+      <ekz>
+        la <tld/>on de punkto oni kutime signas 
+        per la litero <frm><k>y</k></frm>;
+      </ekz>
+      <ekz>
+        &ccirc;e grafika&jcirc;o de funkcio de unu argumento, la <tld/>o
+        prezentas la valoron de la funkcio.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="abscis.0o">absciso.</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_r;&c_d;&c_y;&c_n;&c_a;&c_t;&c_a;</trd>,
+    <trd>y-<ind>&c_k;&c_a;&c_a;&c_r;&c_d;&c_y;&c_n;&c_a;&c_t;&c_a;</ind></trd>
+  </trdgrp>
+  <trd lng="ca">ordenada</trd>
+  <trdgrp lng="cs">
+    <trd>druh&#xE1; sou&#x159;adnice</trd>,
+    <trd>ordin&#xE1;ta</trd>,
+    <trd>po&#x159;adnice</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Ordinate</trd>,
+    <trd>y-Koordinate</trd>
+  </trdgrp>
+  <trd lng="el">&tau;&alfa;&tau;&alfa;&gamma;&my;&epsilon_ton;&ny;&eta;</trd>
+  <trdgrp lng="en">
+    <trd>ordinate</trd>,
+    <trd>y-coordinate</trd>
+  </trdgrp>
+  <trd lng="es">ordenada</trd>
+  <trdgrp lng="fr">
+    <trd>ordonn&eacute;e</trd>,
+    <trd>coordonn&eacute;e y</trd>
+  </trdgrp>
+  <trd lng="hu">ordin&aacute;ta</trd>
+  <trd lng="ja">&#x7E26;&#x5EA7;&#x6A19;  <pr>&#x305F;&#x3066;&#x3056;&#x3072;&#x3087;&#x3046;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>ordinaat</trd>,
+    <trd>y-as</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rz&eogonek;dna</trd>,
+    <trd>wsp&oacute;&lstroke;rz&eogonek;dna y</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>ordenada</trd>,
+    <trd>coordenada y</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;</trd>,
+    <trd>y-<ind>&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>druh&#xE1; s&#xFA;radnica</trd>,
+    <trd>ordin&#xE1;ta</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>ordinata</trd>,
+    <trd>y-koordinat</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43E;&#x440;&#x434;&#x438;&#x43D;&#x430;&#x442;&#x430;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+Revision 1.20  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2012/08/10 14:11:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2005/12/06 17:32:32  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.17  2003/07/13 16:30:55  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2003/03/23 17:33:36  revo
+Marc Bavant: ~o: +trd pl
+
+Revision 1.15  2003/03/05 17:35:28  revo
+Marc Bavant: ~o: +ind en trd ru
+Revision 1.14  2003/02/01 17:33:50  revo
+Marc Bavant: kor trd de
+-->
+</vortaro>

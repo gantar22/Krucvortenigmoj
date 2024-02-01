@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konus.xml,v 1.29 2023/12/03 09:58:57 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>konus</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konus.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="konus.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="konus.0o.surfaco">
+      <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>
+      <dif>
+        <ref tip="super" cel="surfac.0o.MAT">Surfaco</ref>, naskita de
+        &ccirc;iuj rektoj <klr>(&gcirc;iaj
+        <ref tip="prt" cel="nask.0anto.rekto">naskantoj</ref>)</klr>,
+        kiuj havas unu komunan punkton
+        <klr>(la <ref tip="prt" cel="vertic.0o.konuso">verticon</ref> de
+        la
+        <tld/>o)</klr>, kaj sekcas fiksan linion
+        <klr>(&gcirc;ian
+        <ref tip="prt" cel="direkt.0anto.linio">direktanton</ref>)</klr>:
+        <ekz>
+          cirkla, elipsa, kvadrata ks <tld/>o <klr>(kies direktanto
+          estas
+          cirklo, elipso, kvadrato ks, orta al &gcirc;ia akso)</klr>;
+        </ekz>
+        <ekz>
+          se ebeno sekcas <tld/>on nur en &gcirc;ia vertico, &gcirc;i apartigas
+          du duonojn de la surfaco, kiujn oni nomas anka&ubreve; <tld/>oj
+          a&ubreve; duon<tld/>oj.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="konik.0o">koniko</ref>,
+        <ref cel="rekt.0ara.surfaco">rektara</ref>
+      </refgrp>
+      <trdgrp lng="de">
+        <trd>Kegel</trd>,
+        <trd>Kegelfl&auml;che</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>cone</trd>,
+        <trd>conical <ind>surface</ind></trd>
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>cono</trd>,
+        <trd>superficie <ind>c&oacute;nica</ind></trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>c&ocirc;ne</trd>,
+        <trd>surface conique</trd>
+      </trdgrp>
+      <trd lng="hu">k&uacute;pfel&uuml;let</trd>      
+      <trdgrp lng="pl">
+        <trd>sto&zdot;ek</trd>,
+        <trd>powierzchnia sto&zdot;kowa</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_k;&c_o;&c_n;&c_u;&c_s;</trd>,
+        <trd>&c_k;&c_o;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+        <ind>&c_p;&c_o;&c_v;&c_je;&c_r;&c_h;&c_n;&c_o;&c_s;&c_t;&c_mol;</ind></trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="konus.0o.solido">
+      <fnt><bib>VdE</bib></fnt>
+      <dif>
+        <ref tip="super" cel="solid.0o.geometrio">Solido</ref>, kiun
+        limas
+        duono de <ref cel="konus.0o.surfaco"><tld/>o
+        <sncref ref="konus.0o.surfaco"/></ref> <klr>(&gcirc;ia 
+        <ref tip="prt" cel="flank.0o.konuso">flanko</ref>)</klr>
+        kaj unu ebena surfaco <klr>(&gcirc;ia
+        <ref tip="prt" cel="baz.0o.figuro">bazo</ref>)</klr>,
+        kiu sekcas la <tld/>an surfacon la&ubreve; fermita linio.
+      </dif>
+      <trdgrp lng="de">
+        <trd>Kegel</trd>,
+        <trd>Kegelk&ouml;rper</trd>
+      </trdgrp>
+      <trd lng="hu">k&uacute;p</trd>      
+      <trd lng="pl">sto&zdot;ek</trd>
+    </subsnc>
+    <rim>
+      Pro la komunuza senco de <ctl><tld/>o</ctl> la vortaroj emas
+      difini &gcirc;in fake kiel solidon (vd <fnt><bib>PIV1</bib></fnt>).
+      &Scirc;ajnas al ni, ke tio estas tro pedanta, &ccirc;ar la naciaj
+      lingvoj kutime akceptas amba&ubreve; fakajn sencojn. Oni uzu
+      <ctl><tld/>a surfaco</ctl> a&ubreve; <ctl><tld/>a solido</ctl> en
+      dubaj okazoj.
+    </rim>
+  </snc>
+  <snc mrk="konus.0o.KOMUNE">
+    <dif>
+      Objekto, havanta formon de <tld/>o:
+      <ekz>
+        <tld/>oj da sukero
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o el lumradioj;
+      </ekz>
+      <ekz>
+        <tld/>formaj funeloj;
+      </ekz>
+      <ekz>
+        per siaj ridinde malgrandaj manetoj <klr>[&scirc;i]</klr> formis <tld/>on el opio
+        <fnt>
+          <bib>FdO</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        maro sabla, sur kiu tie &ccirc;i kaj tie oni vidas pintajn <tld/>ojn, kiuj levi&gcirc;as
+        iafoje &gcirc;is unueta&gcirc;a alto
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vulkanmontoj plej ofte havas la formon de plataj <tld/>oj
+        <fnt><aut>Evgeni Georgiev</aut>: 
+          <vrk><url ref="&Monato;/2001/007234.html">Vulkanoj</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/02, p. 22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Kegel</trd>
+    <trd lng="hu">k&uacute;pos</trd>    
+  </snc>
+  <snc mrk="konus.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="dif" cel="strobi.0o">Strobilo</ref>:
+      <ekz>
+        maljuna gnomo <klr>[kun]</klr> abiaj <tld/>oj sur la kapo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sub la arboj ili kolektis piceajn <tld/>ojn
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Zapfen</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_o;&c_n;&c_u;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>homole</trd>,
+    <trd>ku&zcaron;el</trd>,
+    <trd>&scaron;i&scaron;ka stromu</trd>,
+    <trd>&scaron;i&scaron;tice</trd>,
+    <trd>&scaron;&aacute;ch</trd>
+  </trdgrp>
+  <trd lng="en">cone</trd>
+  <trd lng="fr">c&ocirc;ne</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5186;&#x9310;  <pr>&#x307E;&#x308B;&#x304E;&#x308A;</pr></trd>,
+    <trd>&#x5186;&#x9310;&#x5F62;&#x306E;&#x3082;&#x306E;  <pr>&#x3048;&#x3093;&#x3059;&#x3044;&#x304B;&#x305F;&#x306E;&#x3082;&#x306E;</pr></trd>,
+    <trd>&#x7403;&#x679C;  <pr>&#x304D;&#x3085;&#x3046;&#x304B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>conus</trd>,
+    <trd>kegel<klr tip="ind"> (conus)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">cone</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_u;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>ku&zcaron;e&lcaron;</trd>,
+    <trd>&scaron;i&scaron;ka stromu</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x9310; <pr>zhu&#x12B;</pr></trd>,
+    <trd>&#x5706;&#x9525; <pr>yu&#xE1;nzhu&#x12B;</pr></trd>,
+    <trd>&#x5706;&#x9525;&#x4F53; <pr>yu&#xE1;nzhu&#x12B;t&#x1D0;</pr></trd>,
+    <trd>&#x9310;&#x9762; <pr>zhu&#x12B;mi&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konus.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="konus.0eto.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      <ref tip="vid" cel="cxel.0o.BIO">&Ccirc;elo<sncref/></ref>
+      de la retino la&ubreve; sia speco pli sensema al iu koloro,
+      tiel nomata pro sia formo:
+      <ekz>
+        en la homa okulo trovi&gcirc;as tri specoj de kolor-perceptiloj,
+        nomataj <tld/>etoj, kaj nekoloraj perceptiloj, nomataj
+        bastonetoj
+        <fnt>
+          <aut>R. F&ouml;ssmeier</aut>
+          <vrk><url ref="http://www.ais-sanmarino.org/kursoj/s1/koloroj/koloroj1.html">
+          Komputila kodado de koloraj bildoj</url></vrk>
+          <lok>[vidita en 2018]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="baston.0eto.FIZL">bastoneto</ref>
+    </refgrp>
+    <trd lng="be">&c_k;&c_o;&c_w;&c_b;&c_a;&c_ch;&c_k;&c_a; <klr>(&c_u; &c_v;&c_o;&c_k;&c_u;)</klr></trd>
+  <trd lng="de">Zapfen <klr>(Netzhaut)</klr></trd>
+  </snc>
+  <trd lng="fr">c&ocirc;ne<klr> (cellule visuelle)</klr></trd>
+  <trd lng="ja">&#x9310;&#x72B6;&#x4F53;  <pr>&#x304D;&#x308A;&#x3058;&#x3087;&#x3046;&#x305F;&#x3044;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.26 2023/04/19 11:24:09
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.25 2022/09/16 09:36:55
+Dmitri Gabinski: + trd be
+
+versio 1.24 2022/06/02 16:49:13
+Wolfram Diestel: +ekz-oj, trd de; +snc BIO
+
+Revision 1.22  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2009/09/10 16:33:03  revo
+Paul Peeraerts: +nl
+
+Revision 1.19  2005/03/28 17:14:30  revo
+-->
+</vortaro>

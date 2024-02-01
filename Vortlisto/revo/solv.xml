@@ -1,0 +1,895 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: solv.xml,v 1.118 2023/11/14 15:26:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>solv</rad>/i
+</kap>
+
+<drv mrk="solv.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="solv.0i.KOMUNE">
+    <dif>
+      Trovi nekonaton de problemo, respondon al demando,
+      rimedon por eliri el malfacila&jcirc;o:
+      <ekz>
+        <tld/>i enigmon, malhelpa&jcirc;on, konflikton;
+      </ekz><ekz>
+        <tld/>i &ccirc;iujn <klr>[&#8230;]</klr> disputojn a&ubreve; dubojn en lojala
+        interkonsento
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en
+          Antwerpen en la 21a de a&ubreve;gusto 1911</vrk>
+        </fnt>;
+      </ekz><ekz>
+        la vivo mem jam longe <tld/>is tiun &ccirc;i demandon
+        <fnt><bib>EE</bib> <lok>VI</lok></fnt>;
+      </ekz><ekz>
+        necese ni <tld/>os la dilemon
+        <fnt><bib>CKv</bib> <lok>15</lok></fnt>;
+      </ekz><ekz>
+        anstata&ubreve; <tld/>i tiujn problemojn oni nur variantumas
+        atendante iun &leftquot;heli&gcirc;on&rightquot;, epifanion, subitan venon de ta&ubreve;ga ideo
+        <fnt><bib>KFl</bib> <lok>I. Enkonduko</lok></fnt>;
+      </ekz><ekz>
+        personaj oferoj helpis <tld/>i la krizon
+        <fnt><bib>EeP</bib> <lok>Kvara Parto</lok></fnt>;
+      </ekz><ekz>
+        mono <tld/>as multajn problemojn, kaj &scirc;i estas ri&ccirc;a
+        <fnt><bib>Gerda</bib> <lok>&Ccirc;apitro 23</lok></fnt>;
+      </ekz><ekz>
+        eblas <tld/>i konfliktojn ofte plej bone per afableco
+        <fnt><bib>FSI</bib> <lok>IV</lok></fnt>;
+      </ekz><ekz>
+        Salomono mem ne <tld/>os, kio en &gcirc;i estas vera kaj kio malvera
+        <fnt><bib>Revizoro</bib><lok>1:4</lok></fnt>;
+      </ekz><ekz>
+        <ind>ne<tld/>ebla</ind> problemo;
+        <trd lng="fr">insoluble</trd>
+        <trd lng="hu">megoldhatatlan</trd>
+      </ekz><ekz>
+        la litvarmo <tld/>is liajn tremojn kaj angoron kaj balda&ubreve; li ekdormis
+        <fnt><bib>KKr</bib> <lok>I</lok></fnt>;
+      </ekz><ekz>
+        alvenis pluvatako kaj &gcirc;i venis tiel subite, ke ili devis kure
+        ser&ccirc;i &scirc;irmejon, tio <tld/>is la solenan humoron
+        <fnt><bib>LGA</bib> <lok>III.</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akord.0igi">akordigi</ref>,
+      <ref cel="decid.0i">decidi</ref>,
+      <ref cel="konklu.0i">konkludi</ref>,
+      <ref cel="strecx.mal0i">malstre&ccirc;i</ref>,
+      <ref cel="pac.0igi">pacigi</ref>
+    </refgrp>
+    <rim>
+      El la du homonimaj signifoj de &ccirc;i tiu radiko nur &ccirc;i tiu
+      intelekta estas fundamenta.
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_a;&c_sh;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_z;&c_a;&c_d;&c_a;&c_ch;&c_u;, &c_p;&c_r;&c_a;&c_b;&c_l;&c_je;&c_m;&c_u;)</klr></trd>,
+      <trd>&c_r;&c_a;&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_z;&c_a;&c_d;&c_a;&c_ch;&c_u;, &c_p;&c_r;&c_a;&c_b;&c_l;&c_je;&c_m;&c_u;)</klr></trd>
+    </trdgrp>
+    <trd lng="en">solve</trd>
+    <trdgrp lng="es">
+      <trd>resolver</trd>,
+      <trd>solucionar</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd><ofc>*</ofc>r&eacute;soudre<klr tip="ind"> (un probl&egrave;me)</klr></trd>,
+      <trd>d&eacute;brouiller<klr tip="ind"> (qc d'embrouill&eacute;)</klr></trd>,
+      <trd>d&eacute;m&ecirc;ler<klr tip="ind"> (un probl&egrave;me compliqu&eacute;)</klr></trd>,
+      <trd>d&eacute;nouer<klr tip="ind"> (un probl&egrave;me compliqu&eacute;)</klr></trd>,
+      <trd>r&eacute;gler<klr tip="ind"> (un probl&egrave;me)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>megold</trd>,
+      <trd>megfejt</trd>
+    </trdgrp>
+    <trd lng="pl"><ofc>*</ofc>rozwi&aogonek;za&cacute;</trd>
+    <trdgrp lng="ru">
+      <trd><ofc>*</ofc>&c_r;&c_je;&c_sh;&c_a;&c_t;&c_mol;<klr tip="ind"> (&c_z;&c_a;&c_d;&c_a;&c_ch;&c_u;)</klr></trd>,
+      <trd><ofc>*</ofc>&c_r;&c_a;&c_z;&c_r;&c_je;&c_sh;&c_a;&c_t;&c_mol;<klr tip="ind"> (&c_z;&c_a;&c_d;&c_a;&c_ch;&c_u;)</klr></trd>,
+      <trd>&c_r;&c_je;&c_sh;&c_i;&c_t;&c_mol;<klr tip="amb"> (&c_z;&c_a;&c_d;&c_a;&c_ch;&c_u;)</klr></trd>
+    </trdgrp>
+  </snc>
+
+  <snc mrk="solv.0i.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <subsnc mrk="solv.0i.KEM.iu">
+      <dif>
+        Tiamaniere miksi kun
+        <ref tip="vid" cel="likv.0o.FIZ">likvo</ref>
+        <ref cel="solid.0o.FIZ">solidon</ref>,
+        <ref cel="gas.0o.FIZ">gason</ref> a&ubreve; alian likvon,
+        ke la rezulto estas stabila kaj homogena likvo:
+        <ekz>
+          <tld/>i salon en akvo
+          <fnt><bib>VdE</bib></fnt>;
+        </ekz><ekz>
+          natria jodido <tld/>ita en acetono
+          <fnt><bib>PIV2</bib></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="hu">felold</trd>
+    </subsnc>
+    <subsnc mrk="solv.0i.KEM.likvo">
+      <dif>
+        <klr>(p.p. likvo)</klr>
+        Esti tia, ke eblas <tld/>i<sncref ref="solv.0i.KEM.iu"/> aliajn
+        substancojn en &gcirc;i:
+        <ekz>
+          akvo <tld/>as salon.
+        </ekz>
+      </dif>
+      <rim>
+        Ni ne trovis a&ubreve;toritatajn ekzemplojn por &ccirc;i tiu senco, sed &gcirc;i
+        aspektas pravigita pro &gcirc;ia internacieco kaj, nerekte, pro la
+        uzo en <fnt><bib>PIV2</bib></fnt> de participaj formoj
+        &leftquot;<tld/>inta&rightquot; (difino de <tld/>a&jcirc;o) a&ubreve; &leftquot;<tld/>anto&rightquot;, kiuj
+        rilatas al likvoj, ne al personoj.
+      </rim>
+      <trd lng="hu">old</trd>
+    </subsnc>
+    <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="en">dissolve</trd>
+    <trd lng="es">disolver</trd>
+    <trdgrp lng="fr">
+      <trd>dissoudre</trd>,
+      <trd>d&eacute;layer<klr tip="ind"> (dissoudre)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;&c_ja;&c_t;&c_mol;</trd>,
+      <trd>&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="af">los</trd>
+  <trd lng="am">&#4632;&#4941;&#4723;&#4725;</trd>
+  <trd lng="ar">&a_H;&a_l;</trd>
+  <trd lng="az">h&#601;ll</trd>
+  <trd lng="bn">&#2488;&#2478;&#2494;&#2471;&#2494;&#2472;</trd>
+  <trd lng="bo">&t_sa;&t_drengbu;&t_la;&t_tsheg;</trd>
+  <trd lng="bs">rije&scaron;iti</trd>
+  <trd lng="co">cambiamentu</trd>
+  <trdgrp lng="cs">
+    <trd>&rcaron;e&scaron;it</trd>,
+    <trd>lu&scaron;tit</trd>,
+    <trd>rozlu&scaron;tit</trd>,
+    <trd>rozpustit</trd>,
+    <trd>roz&rcaron;e&scaron;it</trd>,
+    <trd>vy&rcaron;e&scaron;it</trd>,
+    <trd>vy&rcaron;&iacute;dit</trd>,
+    <trd>&rcaron;e&scaron;it</trd>
+  </trdgrp>
+  <trd lng="cy">datrys</trd>
+  <trd lng="da">l&oslash;se</trd>
+  <trd lng="de">l&ouml;sen</trd>
+  <trd lng="et">lahendada</trd>
+  <trd lng="eu">konpontzeko</trd>
+  <trd lng="fy">oplosse</trd>
+  <trd lng="ga">r&eacute;iteach</trd>
+  <trd lng="gd">fuasgladh</trd>
+  <trd lng="gl">resolver</trd>
+  <trd lng="gu">&#2745;&#2738;</trd>
+  <trd lng="ha">warware</trd>
+  <trd lng="hi">&#2361;&#2354;</trd>
+  <trd lng="hmn">daws</trd>
+  <trd lng="hr">rije&scaron;iti</trd>
+  <trd lng="ht">rezoud</trd>
+  <trd lng="hy">&#1388;&#1400;&#1410;&#1390;&#1381;&#1388;</trd>
+  <trd lng="ig">idozi</trd>
+  <trd lng="is">leysa</trd>
+  <trd lng="ja">&#35299;&#12367; <pr>&#12411;&#12393;&#12367;</pr></trd>
+  <trd lng="jv">ngatasi</trd>
+  <trd lng="ka">&#4306;&#4304;&#4307;&#4304;&#4333;&#4320;&#4312;&#4311;</trd>
+  <trd lng="kk">&c_sh;&c_je;&c_sh;&c_u;</trd>
+  <trd lng="km">&#6026;&#6084;&#6087;&#6047;&#6098;&#6042;&#6070;&#6041;</trd>
+  <trd lng="kn">&#3242;&#3248;&#3263;&#3257;&#3248;&#3263;&#3256;&#3250;&#3265;</trd>
+  <trd lng="ko">&#54644;&#44208;</trd>
+  <trd lng="ku">&ccedil;areserkirin</trd>
+  <trd lng="ky">&c_ch;&c_je;&c_ch;&#1199;&#1199;</trd>
+  <trd lng="lo">&#3713;&#3762;&#3737;&#3777;&#3713;&#3785;&#3780;&#3714;</trd>
+  <trd lng="lt">i&scaron;spr&eogonek;sti</trd>
+  <trd lng="lv">atrisin&amacron;t</trd>
+  <trd lng="mg">mamaha</trd>
+  <trd lng="mi">te whakaoti</trd>
+  <trd lng="mk">&c_r;&c_je;&c_sh;&c_i;</trd>
+  <trd lng="ml">&#3370;&#3376;&#3391;&#3385;&#3376;&#3391;&#3349;&#3405;&#3349;&#3390;&#3451;</trd>
+  <trd lng="mn">&c_sh;&c_i;&c_j;&c_d;&c_v;&c_e;&c_r;&c_l;&c_e;&c_h;</trd>
+  <trd lng="mr">&#2360;&#2379;&#2337;&#2357;&#2367;&#2339;&#2381;&#2351;&#2366;&#2360;</trd>
+  <trd lng="ms">menyelesaikan</trd>
+  <trd lng="mt">isolvu</trd>
+  <trd lng="my">&#4118;&#4156;&#4145;&#4123;&#4158;&#4100;&#4154;&#4152;&#4117;&#4145;&#4152;</trd>
+  <trd lng="ne">&#2360;&#2350;&#2366;&#2343;&#2366;&#2344;</trd>
+  <trd lng="nl">oplossen</trd>
+  <trd lng="ny">kuthetsa</trd>
+  <trd lng="pa">&#2600;&#2626;&#2672; &#2617;&#2673;&#2610;</trd>
+  <trd lng="ps">&a_d; &a_H;&a_l;</trd>
+  <trd lng="rw">gukemura</trd>
+  <trd lng="sd">&a_H;&a_l; &#1706;&a_r;&#1723;</trd>
+  <trd lng="si">&#3520;&#3538;&#3523;&#3507;&#3539;&#3512;&#3495;</trd>
+  <trdgrp lng="sk">
+    <trd>l&uacute;&scaron;ti&tcaron;</trd>,
+    <trd>rie&scaron;i&tcaron;</trd>,
+    <trd>rozl&uacute;&scaron;ti&tcaron;</trd>,
+    <trd>rozpusti&tcaron;</trd>,
+    <trd>rozrie&scaron;i&tcaron;</trd>,
+    <trd>vyrie&scaron;i&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sl">re&scaron;evanje</trd>
+  <trd lng="sm">foia</trd>
+  <trd lng="sn">gadzira</trd>
+  <trd lng="so">xaliyaan</trd>
+  <trd lng="sq">zgjidhur</trd>
+  <trd lng="st">rarolla</trd>
+  <trd lng="su">meupeuskeun</trd>
+  <trd lng="sw">kutatua</trd>
+  <trd lng="ta">&#2980;&#3008;&#2992;&#3021;&#2965;&#3021;&#2965;</trd>
+  <trd
+  lng="te">&#3114;&#3120;&#3135;&#3127;&#3149;&#3093;&#3120;&#3135;&#3074;&#3098;&#3105;&#3134;&#3112;&#3135;&#3093;&#3135;</trd>
+  <trd lng="tg">&#1203;&c_a;&c_l;</trd>
+  <trd lng="th">&#3649;&#3585;&#3657;</trd>
+  <trd lng="tl">malutas</trd>
+  <trd lng="tt">&c_ch;&c_i;&c_sh;&#1199;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_r;&c_ib;&c_sh;&c_i;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_H;&a_l;</trd>
+  <trd lng="uz">hal</trd>
+  <trd lng="vi">gi&#7843;i quy&#7871;t</trd>
+  <trd lng="xh">sombulula</trd>
+  <trd lng="yi">&samekh;&alef;&#1464;&lamed;&vav;&vav;&ayin;</trd>
+  <trd lng="yo">yanju</trd>
+  <trd lng="zu">ukuxazulula</trd>
+</drv>
+
+<drv mrk="solv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="solv.0o.KOMUNE">
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      &Gcirc;usta respondo al problemo, demando; rimedo por eliri malfacila&jcirc;on:
+      <ekz>
+        <tld/>o de problemo, demando, enigmo, malfacila&jcirc;o, mistero
+        <klr>(a&ubreve;: <tld/>o al...)</klr>;
+      </ekz><ekz>
+        vi proponis enigmon al la filoj de mia popolo, kaj al mi vi
+        ne diris &gcirc;ian <tld/>on
+        <fnt><bib>MT</bib><lok>&Jug; 14:16</lok></fnt>;
+      </ekz><ekz>
+        fabelo kaj realeco estas tre proksimaj unu de la alia, sed la fabelo havas
+        harmonian <tld/>on jam &ccirc;i tie sur la tero, sed la realeco ofte for&scirc;ovas la
+        <tld/>on trans la teran vivon, en la eternecon
+        <fnt><bib>Fab3</bib> <lok>Dorna vojo de la honoro</lok></fnt>;
+      </ekz><ekz>
+        &gcirc;is la <tld/>o de la demando <klr>[&#8230;]</klr> estus sekve ankora&ubreve; tre kaj tre
+        malproksime
+        <fnt><bib>EE</bib> <lok>V</lok></fnt>;
+      </ekz><ekz>
+        kial do ni ser&ccirc;us <tld/>on de la cirkla kvadratur'?
+        <fnt><bib>LSB</bib> <lok>Al Mizantropoj</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trdgrp lng="fr">
+      <trd>solution<klr tip="ind"> (d'un probl&egrave;me)</klr></trd>,
+      <trd>aboutissement</trd>,
+      <trd>d&eacute;nouement</trd>,
+      <trd>issue<klr tip="ind"> (&agrave; un probl&egrave;me)</klr></trd>,
+      <trd>rem&egrave;de<klr tip="ind"> (&agrave; un probl&egrave;me)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">megold&aacute;s</trd>
+    <trd lng="ru">&c_r;&c_je;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="solv.0o.ago">
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      Ago <tld/>i<sncref ref="solv.0i.KOMUNE"/>:
+      <ekz>
+        la politikistoj estas tro okupataj &ccirc;e <tld/>o
+        de &ccirc;iutagaj problemoj por interesi&gcirc;i pri nia afero
+        <fnt><bib>Lanti</bib><lok>Je la lumo de la sperto</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="solv.0ado"><tld/>ado</ref>
+    <trd lng="be">&c_r;&c_a;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trdgrp lng="fr">
+      <trd>solution<klr tip="ind"> (action)</klr></trd>,
+      <trd>dissolution<klr tip="ind"> (action)</klr></trd>,
+      <trd>r&eacute;solution<klr tip="ind"> (action)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">old&aacute;s</trd>
+    <trd lng="ru">&c_r;&c_je;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="solv.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <ref tip="dif" cel="solv.0ajxo">solva&jcirc;o</ref>
+    <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;</trd>
+    <trd lng="fr">solution<klr tip="ind"> (chimie)</klr></trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;</trd>
+  </snc>
+  <trd lng="af">oplossing</trd>
+  <trd lng="am">&#4632;&#4941;&#4725;&#4612;</trd>
+  <trd lng="ar">&a_H;&a_l;</trd>
+  <trd lng="az">h&#601;ll</trd>
+  <trd lng="bn">&#2488;&#2478;&#2494;&#2471;&#2494;&#2472;</trd>
+  <trd lng="bs">rje&scaron;enje</trd>
+  <trd lng="co">definitivu</trd>
+  <trdgrp lng="cs">
+    <trd>rozlu&scaron;t&ecaron;n&iacute;</trd>,
+    <trd>roztok</trd>,
+    <trd>rozuzlen&iacute;</trd>,
+    <trd>&rcaron;e&scaron;en&iacute;</trd>
+  </trdgrp>
+  <trd lng="cy">ateb</trd>
+  <trd lng="da">opl&oslash;sning</trd>
+  <trd lng="de">L&ouml;sung</trd>
+  <trd lng="en">solution</trd>
+  <trd lng="et">lahendus</trd>
+  <trd lng="eu">irtenbide</trd>
+  <trd lng="fy">oplossing</trd>
+  <trd lng="ga">r&eacute;iteach</trd>
+  <trd lng="gd">fuasgladh</trd>
+  <trd lng="gl">soluci&oacute;n</trd>
+  <trd lng="gu">&#2697;&#2709;&#2759;&#2738;</trd>
+  <trd lng="ha">bayani</trd>
+  <trd lng="hi">&#2360;&#2350;&#2366;&#2343;&#2366;&#2344;</trd>
+  <trd lng="hmn">daws</trd>
+  <trd lng="hr">otopina</trd>
+  <trd lng="ht">solisyon</trd>
+  <trd lng="hy">&#1388;&#1400;&#1410;&#1390;&#1400;&#1410;&#1396;</trd>
+  <trd lng="ig">ngw&#7885;ta</trd>
+  <trd lng="is">lausn</trd>
+  <trd lng="ja">&#12477;&#12522;&#12517;&#12540;&#12471;&#12519;&#12531;</trd>
+  <trd lng="jv">solusi</trd>
+  <trd
+  lng="ka">&#4306;&#4304;&#4315;&#4317;&#4321;&#4304;&#4309;&#4304;&#4314;&#4312;</trd>
+  <trd lng="kk">&c_sh;&c_je;&c_sh;&c_ib;&c_m;</trd>
+  <trd lng="km">&#6026;&#6086;&#6030;&#6084;&#6087;&#6047;&#6098;&#6042;&#6070;&#6041;</trd>
+  <trd lng="kn">&#3242;&#3248;&#3263;&#3257;&#3262;&#3248;</trd>
+  <trd lng="ko">&#50857;&#50529;</trd>
+  <trd lng="ku">&ccedil;are</trd>
+  <trd lng="ky">&c_ch;&c_je;&c_ch;&c_i;&c_m;</trd>
+  <trd lng="lat">solutio</trd>
+  <trd lng="lo">&#3713;&#3762;&#3737;&#3777;&#3713;&#3785;&#3780;&#3714;</trd>
+  <trd lng="lt">sprendimas</trd>
+  <trd lng="lv">risin&amacron;jums</trd>
+  <trd lng="mg">vahaolana</trd>
+  <trd lng="mi">otinga</trd>
+  <trd lng="mk">&c_r;&c_je;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="ml">&#3370;&#3376;&#3391;&#3385;&#3390;&#3376;&#3330;</trd>
+  <trd lng="mn">&#1198;&#1199;&c_n;&c_i;&c_j; &c_sh;&c_i;&c_j;&c_d;&c_e;&c_l; &c_n;&c_mol;</trd>
+  <trd lng="mr">&#2313;&#2346;&#2366;&#2351;</trd>
+  <trd lng="ms">penyelesaian</trd>
+  <trd lng="mt">soluzzjoni</trd>
+  <trd lng="my">&#4118;&#4156;&#4145;&#4123;&#4158;&#4100;&#4154;&#4152;&#4097;&#4155;&#4096;&#4154;</trd>
+  <trd lng="ne">&#2360;&#2350;&#2366;&#2343;&#2366;&#2344;</trd>
+  <trd lng="ny">yothetsera</trd>
+  <trd lng="pa">&#2617;&#2673;&#2610; &#2617;&#2632;</trd>
+  <trd lng="pl">rozwi&aogonek;zanie</trd>
+  <trd lng="ps">&a_d; &a_H;&a_l;</trd>
+  <trd lng="rw">igisubizo</trd>
+  <trd lng="sd">&a_H;&a_l;</trd>
+  <trd lng="si">&#3520;&#3538;&#3523;&#3507;&#3540;&#3512;&#3482;&#3530;</trd>
+  <trdgrp lng="sk">
+    <trd>rie&scaron;enie</trd>,
+    <trd>rozl&uacute;&scaron;tenie</trd>,
+    <trd>roztok</trd>,
+    <trd>v&yacute;chodisko</trd>
+  </trdgrp>
+  <trd lng="sl">re&scaron;itev</trd>
+  <trd lng="sm">fofo</trd>
+  <trd lng="sn">mhinduro</trd>
+  <trd lng="so">xal</trd>
+  <trd lng="sq">zgjidhje</trd>
+  <trd lng="st">tharollo</trd>
+  <trd lng="su">leyuran</trd>
+  <trd lng="sw">ufumbuzi</trd>
+  <trd lng="ta">&#2980;&#3008;&#2992;&#3021;&#2997;&#3009;</trd>
+  <trd lng="te">&#3114;&#3120;&#3135;&#3127;&#3149;&#3093;&#3134;&#3120;&#3074;</trd>
+  <trd lng="tg">&#1203;&c_a;&c_l;</trd>
+  <trd lng="th">&#3585;&#3634;&#3619;&#3649;&#3585;&#3657;&#3611;&#3633;&#3597;&#3627;&#3634;</trd>
+  <trd lng="tl">solusyon</trd>
+  <trd lng="tt">&c_ch;&c_i;&c_sh;&c_je;&c_l;&c_je;&c_sh;</trd>
+  <trd lng="uk">&c_r;&c_ib;&c_sh;&c_je;&c_n;&c_n;&c_ja;</trd>
+  <trd lng="ur">&a_H;&a_l;</trd>
+  <trd lng="uz">qaror</trd>
+  <trd lng="vi">gi&#7843;i ph&aacute;p</trd>
+  <trd lng="xh">isisombululo</trd>
+  <trd lng="yi">&lamed;&yod;&yod;&zayin;&vav;&nun;&gimel;</trd>
+  <trd lng="yo">ojutu</trd>
+  <trd lng="zu">isixazululo</trd>
+</drv>
+
+<drv mrk="solv.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="solv.0ado.intelekta">
+    <dif>
+      Ago <ref cel="solv.0i.KOMUNE"><tld/>i<sncref/></ref>:
+      <ekz>
+        li revis pri <tld/>ado de tiaj problemoj <klr>[&#8230;]</klr> de
+        diversnaciaj interrilatoj
+        <fnt>
+          <bib>Zam</bib>
+          <lok>Zamenhofa juna&gcirc;o</lok>
+        </fnt>;
+      </ekz><ekz>
+        tiuj &ccirc;i metodoj estas uzataj por <klr>[...]</klr>
+        <tld/>ado de medio-protektaj problemoj
+        <fnt><bib>Voja&gcirc;o</bib><aut>Andr&aacute;s Lukacs</aut>
+          <vrk>Aplikata Geofiziko</vrk><lok>leciono 18a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="cs">&rcaron;e&scaron;en&iacute;</trd>
+    <trd lng="ru">&c_r;&c_je;&c_sh;&c_je;&c_n;&c_i;&c_je;<klr tip="amb"> (&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;, «&c_r;&c_je;&c_sh;&c_a;&c_n;&c_i;&c_je;»)</klr></trd>
+    <trd lng="sk">rie&scaron;enie</trd>
+  </snc>
+  <snc mrk="solv.0ado.KEM">
+    <dif>
+      Ago <ref cel="solv.0i.KEM"><tld/>i<sncref/></ref>:
+      <ekz>
+        <klr>plibonigi</klr> <tld/>adon de la grasoj en la sango
+        <fnt><aut>Jean-Jacques WINTRAECKEN</aut>:
+          <vrk>&Ccirc;ampionoj pri sidemo</vrk>. <bib>Monato</bib>.
+          <lok>&#8470;011779</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <trd lng="en">solution</trd>
+  <trdgrp lng="fr">
+    <trd>solution<klr tip="ind"> (action)</klr></trd>,
+    <trd>dissolution<klr tip="ind"> (action)</klr></trd>,
+    <trd>r&eacute;solution<klr tip="ind"> (action)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">old&aacute;s</trd>
+  <trdgrp lng="pl">
+    <trd>rozwi&aogonek;zywanie</trd>,
+    <trd>rozpuszczanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="solv.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Tuto de la <tld/>ita substanco kaj de la &gcirc;in
+      <tld/>inta likvo:
+      <ekz>
+        diluita, koncentrita <tld/>a&jcirc;o;
+      </ekz><ekz>
+        <tld/>a&jcirc;o de natria klorido en akvo;
+      </ekz><ekz>
+        &scirc;i eltiris el &scirc;ranko poteton plenan je <tld/>a&jcirc;o el araba gumo
+        <fnt><bib>ChL</bib> <lok>&Ccirc;apitro Kvina</lok></fnt>;
+      </ekz><ekz>
+        la junulino metis sub la naztruojn de l&#8217; droninto la amoniakan <tld/>a&jcirc;on
+        <fnt><bib>ChL</bib> <lok>&Ccirc;apitro Sesa</lok></fnt>;
+      </ekz><ekz>
+        la malsanulino senproteste <klr>[&#8230;]</klr> englutis <tld/>a&jcirc;on el fera peroksido
+        <fnt><bib>ChL</bib> <lok>&Ccirc;apitro Na&ubreve;a</lok></fnt>;
+      </ekz><ekz>
+        Duponto <klr>[&#8230;]</klr> en&scirc;prucis sub &gcirc;ian ha&ubreve;ton malfortan
+        kvanton da morfina <tld/>a&jcirc;o
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dekunua</lok>
+        </fnt>;
+      </ekz><ekz>
+        oni uzas la specialajn salajn <tld/>a&jcirc;ojn (<tld/>a&jcirc;oj de MOS),
+        entenantajn en necesaj koncentritecoj jonojn de natrio, kalio,
+        kloro kaj aliaj, kiujn oni enigas en la organismon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2010/010071.php">Antikva, sed ankora&ubreve; malica gasto</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="solv.0o.KEM"><tld/>o<sncref/></ref>
+    <ref tip="super" cel="miks.0ajxo">miksa&jcirc;o</ref>
+    <ref tip="vid" cel="disper.0ajxo.KEM">dispersa&jcirc;o</ref>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;</trd>
+  <trd lng="de">L&ouml;sung</trd>
+  <trd lng="en">solution</trd>
+  <trd lng="fr">solution<klr tip="ind"> (chimie)</klr></trd>
+  <trd lng="hu">oldat</trd>
+  <trd lng="ja">&#28342;&#28082;  <pr>&#12424;&#12358;&#12360;&#12365;</pr></trd>
+  <trd lng="pl">roztw&oacute;r</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;</trd>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_ch;&c_i;&c_n;</trd>
+</drv>
+
+<drv mrk="solv.0anto">
+  <kap><tld/>anto</kap>
+  <snc mrk="solv.0anto.iu">
+    <dif>
+      Iu, kiu <tld/>as ion:
+      <ekz>
+        la someraj konkursoj havas malmultajn <tld/>antojn, ni proponas nur etan taskon
+        <fnt><bib>LOdE</bib> <lok>1999, No 6 (56)</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_t;&c_o;&c_j;, &c_h;&c_t;&c_o; <ind>&c_r;&c_a;&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_v;&c_a;&c_je;</ind></trd>,
+      <trd>&c_t;&c_o;&c_j;, &c_h;&c_t;&c_o; <ind>&c_r;&c_a;&c_sh;&c_a;&c_je;</ind></trd>
+    </trdgrp>
+    <trd lng="de">L&ouml;sender</trd>
+    <trd lng="pl">rozwi&aogonek;zuj&aogonek;cy</trd>
+  </snc>
+  <snc mrk="solv.0anto.KEM">
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="fak">KEM</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+    <ref tip="dif" cel="solv.0ilo"><tld/>ilo</ref>
+    <!-- evitinda, ne traduku...
+    <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+    <trdgrp lng="cs">
+      <trd>lu&scaron;titel</trd>,
+      <trd>&rcaron;e&scaron;itel</trd>
+    </trdgrp>
+    <trd lng="fr">solvant</trd>
+    <trd lng="hu">old&oacute;szer</trd>
+    <trd lng="pl">rozpuszczalnik</trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+    <trd lng="sk">rozp&uacute;&scaron;&tcaron;adlo</trd>
+    <trd lng="uk">&c_r;&c_o;&c_z;&c_ch;&c_i;&c_n;&c_n;&c_i;&c_k;</trd>
+    -->
+  </snc>
+  <trd lng="en">solver</trd>
+  <trd lng="ja">&#28342;&#23186;  <pr>&#12424;&#12358;&#12400;&#12356;</pr></trd>
+</drv>
+
+<drv mrk="solv.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc>
+    <dif>
+      I&gcirc;i <tld/>ita:
+      <ekz>
+        <uzo tip="fak">KEM</uzo>
+        <klr>[la volatilaj oleoj]</klr> ne <tld/>i&gcirc;as en akvo,
+        nur en alkoholo, etero, kaj certaj aliaj organikaj <tld/>iloj
+        <fnt><aut>Ilona G&aacute;l</aut>
+          <vrk><url ref="&STEB;biologio/f874-p03.htm">Pri la funkcio de
+          spicoj en la nutrado</url></vrk>
+        </fnt>;
+      </ekz><ekz>
+        tio, kio komence &scirc;ajnis plej mistera, <tld/>i&gcirc;is unua
+        <fnt><bib>UrdHadda</bib><lok>p. 27</lok></fnt>;
+      </ekz><ekz>
+        en <klr>[la tago de la Sinjoro]</klr> la &ccirc;ielo forpasos
+        kun mu&gcirc;a bruego, kaj la elementoj brulante <tld/>i&gcirc;os
+        <fnt><bib>NT</bib><lok>&Pe2; 3:10</lok></fnt>;
+      </ekz><ekz>
+        la enigmo simple <tld/>i&gcirc;as
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="fr">
+    <trd>se <ind>dissoudre</ind></trd>,
+    <trd>se <ind>r&eacute;soudre</ind></trd>,
+    <trd>fondre<klr tip="ind"> (se dissoudre)</klr></trd>
+  </trdgrp>
+  <trd lng="de">sich <ind>aufl&ouml;sen</ind></trd>
+  <trd lng="en">be solved</trd>
+  <trdgrp lng="hu">
+    <trd>old&oacute;dik</trd>,
+    <trd>felold&oacute;dik</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#35299;&#27770;&#12377;&#12427;  <pr>&#12363;&#12356;&#12369;&#12388;&#12377;&#12427;</pr></trd>,
+    <trd>&#35299;&#12369;&#12427;  <pr>&#12392;&#12369;&#12427;</pr></trd>,
+    <trd>&#28342;&#35299;&#12377;&#12427;  <pr>&#12424;&#12358;&#12363;&#12356;&#12377;&#12427;</pr></trd>,
+    <trd>&#28342;&#12369;&#12427;  <pr>&#12392;&#12369;&#12427;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rozpuszcza&cacute; si&eogonek;</trd>,
+    <trd>rozp&lstroke;yn&aogonek;&cacute; si&eogonek;</trd>,
+    <trd>rozwi&aogonek;za&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_ch;&c_i;&c_n;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_s;&c_m;&c_o;&c_k;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_s;&c_i;&c_s;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_i;&c_r;&c_ib;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_v;&#8217;&c_ja;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="solv.0ilo">
+  <kap><tld/>ilo</kap>
+  <uzo tip="fak">KEM</uzo>
+  <uzo tip="fak">TEK</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      &Ccirc;ia likvo kapabla
+      <tld/>i <sncref ref="solv.0i.KEM.likvo"/> aliajn substancojn:
+      <ekz>
+        mi &scirc;prucigis sur la internon de la kamioneto la <tld/>ilon
+        <ctl>Senspurigil</ctl>, kiu detruas fingroprema&jcirc;ojn
+        <fnt><bib>&Scirc;talrato</bib><lok>&ccirc;ap. 12</lok></fnt>;
+      </ekz><ekz>
+        la elmeti&gcirc;o al certaj pesticidoj kaj <tld/>iloj cetere estis
+        asociita kun duobla risko pri disvolvi&gcirc;o de la ne&ubreve;rologia malsano
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011360.php">Ju pli toksaj legomoj, des pli da riskoj por
+          homoj</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="solv.0anto"><tld/>anto</ref>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="cs">rozpou&scaron;t&ecaron;dlo</trd>
+  <trd lng="de">L&ouml;sungsmittel</trd>
+  <trd lng="en">solvent</trd>
+  <trd lng="fr">solvant</trd>
+  <trd lng="hu">old&oacute;szer</trd>
+  <trdgrp lng="ja">
+    <trd>&#28342;&#21092;  <pr>&#12424;&#12358;&#12374;&#12356;</pr></trd>,
+    <trd>&#28342;&#23186;  <pr>&#12424;&#12358;&#12400;&#12356;</pr></trd>,
+    <trd>&#35299;&#27770;&#12398;&#12363;&#12366;
+    <pr>&#12363;&#12356;&#12369;&#12388;&#12398;&#12363;&#12366;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rozpuszczalnik</trd>,
+    <trd>&sacute;rodek umo&zdot;liwiaj&aogonek;cy rozwi&aogonek;zanie</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">rozp&uacute;&scaron;&tcaron;adlo</trd>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_ch;&c_i;&c_n;&c_n;&c_i;&c_k;</trd>
+</drv>
+
+<drv mrk="solv.de0igxi">
+  <kap>de<tld/>i&gcirc;i</kap>
+  <snc>
+    <dif>
+      Dei&gcirc;i pro <tld/>ado en iu likvo:
+      <ekz>
+        la sigelvakso de<tld/>i&gcirc;is
+        <fnt><bib>Fab2</bib> <lok>Flikilo</lok></fnt>;
+      </ekz><ekz>
+        kiam <klr>[...]</klr> la ekstera falsbrila&jcirc;o de<tld/>i&gcirc;as,
+        tiam oni pentas pri sia nesingarda elekto
+        <fnt><bib>Fab4</bib><lok>Bela</lok></fnt>;
+      </ekz><ekz>
+        polvo de<tld/>i&gcirc;as de la kaldronkrusto
+        <fnt><bib>Mortul&Scirc;ip</bib> <lok>&Ccirc;apitro 43</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">lev&aacute;lik <klr tip="amb">(old&oacute;d&aacute;ssal)</klr></trd>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="de">sich <ind>abl&ouml;sen</ind></trd>
+  <trd lng="en">be dissolved </trd>
+  <trd lng="ja">&#28342;&#12369;&#12390;&#12399;&#12364;&#12428;&#12427;
+  <pr>&#12392;&#12369;&#12390;&#12399;&#12364;&#12428;&#12427;</pr></trd>
+  <trd lng="pl">oddziela&cacute; si&eogonek;</trd>
+</drv>
+
+<drv mrk="solv.dis0i">
+  <kap>dis<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="solv.dis0i.malaperigi">
+    <dif>
+      Disigi, malaperigi, forigi per
+      <ref cel="solv.0ado.KEM"><tld/>ado<sncref/></ref>:
+      <ekz>
+        la salo, kiu dis<tld/>as vian &scirc;tuparon
+        <fnt><aut>Franz-Georg ROESSLER</aut>:
+          <vrk>&Scirc;tupoj al malplenaj po&scirc;oj</vrk>. <bib>Monato</bib>
+        </fnt>
+        <ref tip="vid" cel="korod.0i">korodi</ref>;
+      </ekz><ekz>
+        la vinon honoran nigretan
+        La A&hcirc;ajidoj plej noblaj en kalikoj dis<tld/>as
+        <fnt><aut>Homero, tr. A. Kofman</aut>: <vrk>Iliado</vrk>.
+          <lok>v. 259&ndash;260.</lok></fnt>
+        <ref tip="vid" cel="dilu.0i">dilui</ref>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;&c_ja;&c_t;&c_mol;</trd>,
+      <trd>&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="solv.dis0i.POL">
+    <uzo tip="fak">POL</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <subsnc mrk="solv.dis0i.eksigi">
+      <dif>
+        <ref tip="dif" cel="eks.0igi.POL">Eksigi<sncref/></ref>:
+        <ekz>
+          la prezidanto eldiris ultimaton por la registaro pro reformoj
+          kaj minacis aliokaze dis<tld/>i la parlamenton
+          <fnt><aut>Stefan MAUL</aut>: <vrk>Nova mizero</vrk>.
+            <bib>Monato</bib></fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="solv.dis0i.malfondi">
+      <dif>
+        <ref tip="dif" cel="fond.mal0i.POL">Malfondi</ref>:
+        <ekz>
+          por &scirc;an&gcirc;i la Statuton a&ubreve; dis<tld/>i la Ligon necesis tri
+          kvaronoj de la esprimitaj vo&ccirc;oj
+          <fnt><vrk>Esperanto en perspektivo</vrk>. <lok>1974. P. 574.</lok></fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+
+    <rim>
+      &Ccirc;i tiu nelogika pa&ubreve;sa&jcirc;o de la politikaj terminoj angla-francaj
+      estas nederivebla el la signifoj de la radiko kaj nekomprenebla
+      por la homoj kies hejma lingvo ne havas tiun stranga&jcirc;on. En PV
+      kaj en la PIV-oj &gcirc;i malestas. &Gcirc;i estas konfuza:
+      dis<tld/>ita<sncref ref="solv.dis0i.eksigi"/> (t.e. eksigita)
+      parlamento plu ekzistas kiel institucio kaj plu funkcios post la
+      elektoj, dum dis<tld/>ita<sncref ref="solv.dis0i.malfondi"/>
+      (t.e. malfondita) partio &ccirc;esas ekzisti.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+  </snc>
+  <trd lng="en">dissolve</trd>
+  <trd lng="ja">&#28342;&#35299;&#12373;&#12379;&#12427;  <pr>&#12424;&#12358;&#12363;&#12356;&#12373;&#12379;&#12427;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>rozpuszcza&cacute;</trd>,
+    <trd>rozrabia&cacute;</trd>,
+    <trd>rozwie&sacute;&cacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="solv.dis0igxi">
+  <kap>dis<tld/>i&gcirc;i</kap>
+  <snc>
+    <dif>
+      Malaperi, diseri&gcirc;i:
+      <ekz>
+        se la surtera lo&gcirc;ejo de nia tabernaklo dis<tld/>i&gcirc;os,
+        ni havas <klr>[domon]</klr> eternan en la &ccirc;ieloj
+        <fnt><bib>NT</bib><lok>&Ko2; 5:1</lok></fnt>;
+      </ekz><ekz>
+        <klr>[la malnova pilko]</klr> duone dis<tld/>i&gcirc;is de la
+        trapenetrinta akvo
+        <fnt><bib>Fab2</bib><lok>Gefian&ccirc;oj</lok></fnt>;
+      </ekz><ekz>
+        la korpo dis<tld/>i&gcirc;as, kaj la animo... kio &gcirc;i estas?
+        <fnt><bib>Fab3</bib><lok>&Scirc;tono de la sa&gcirc;uloj</lok></fnt>;
+      </ekz><ekz>
+        <uzo tip="stl">FIG</uzo>
+        la &scirc;tonblokoj super ili &ccirc;iam pli kaj pli dis<tld/>i&gcirc;is en nebulon
+        <fnt><bib>Fab1</bib> <lok>&Gcirc;ardeno de la paradizo</lok></fnt>;
+      </ekz><ekz>
+        la senco, kiun &scirc;i donis al tiuj linioj, tute dis<tld/>i&gcirc;is
+        <fnt><bib>HsT</bib> <lok>Kuni&gcirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="degel.0i">degeli</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_mol;&c_n;&c_ib;&c_k;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="de">sich <ind>aufl&ouml;sen</ind></trd>
+  <trd lng="en">dissolve</trd>
+  <trdgrp lng="fr">
+    <trd>se <ind>dissoudre</ind></trd>,
+    <trd>se <ind>r&eacute;soudre</ind></trd>,
+    <trd>dispara&icirc;tre<klr tip="ind"> (comme par dissolution)</klr></trd>,
+    <trd>se <ind>d&eacute;sagr&eacute;ger</ind></trd>,
+    <trd>se <ind>disloquer</ind></trd>,
+    <trd>fondre<klr tip="ind"> (se dissoudre)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>felold&oacute;dik</trd>,
+    <trd>szertefoszlik</trd>,
+    <trd>megsemmis&uuml;l</trd>
+  </trdgrp>
+  <trd lng="ja">&#28342;&#12369;&#12390;&#22235;&#25955;&#12377;&#12427;  <pr>&#12392;&#12369;&#12390;&#12375;&#12373;&#12435;&#12377;&#12427;</pr></trd>
+  <trd lng="pl">rozpuszcza&cacute; si&eogonek;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_t;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_i;&c_s;&c_ch;&c_je;&c_z;&c_n;&c_u;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="solv.sen0a">
+  <kap>
+    sen<tld/>a
+  </kap>
+  <snc mrk="solv.sen0a.KOMUNE">
+    <dif>
+      Kiu <tld/>on ne ricevas, kiu restas nedivenebla, nevenkebla:
+      <ekz>
+        mistero sen<tld/>a estas pli mistera
+        <fnt><bib>ChB</bib> <lok>26</lok></fnt>;
+      </ekz><ekz>
+        sen<tld/>a ekvacio
+        <fnt>
+          <aut>F. Lordon, trad. J.-M. Cash</aut>
+          <vrk><url ref="&Mondediplo;article1771.html">Sur la glittubo de la e&ubreve;ropa
+          krizo</url></vrk>
+          <lok>Le Monde diplomatique en Esperanto, 2011-11-01</lok>
+        </fnt>;
+      </ekz><ekz>
+        ni devos klasi la kazon kun la krimoj tielnomite
+        <ind>sen<tld/>a</ind>j
+        <fnt><bib>UrdHadda</bib><lok>p. 28</lok></fnt>;
+      </ekz><ekz>
+        <ind>sen<tld/>e</ind> diskuti;
+        <trdgrp lng="fr">
+          <trd>en <ind>vain</ind></trd>,
+          <trd>sans <ind>aboutir</ind></trd>
+        </trdgrp>
+      </ekz><ekz>
+        sen<tld/>aj, multekostaj kaj longtempaj intervenoj en Afganio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Yves Nicolas</aut>
+          <vrk><url ref="&Monato;/2013/010985.php">Malio kaj la granda mutulo</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_je;&c_v;&c_y;&c_r;&c_a;&c_sh;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>unl&ouml;sbar</trd>,
+    <trd>ungel&ouml;st</trd>
+  </trdgrp>
+  <trd lng="en">unsolvable</trd>
+  <trdgrp lng="fr">
+    <trd>non r&eacute;solu</trd>,
+    <trd>insoluble</trd>
+  </trdgrp>
+  <trd lng="hu">megoldatlan</trd>
+  <trd lng="pl">nierozwi&aogonek;zalny</trd>
+</drv>
+</art>
+  <!--
+  $Log$
+versio 1.118 2023/11/14 15:26:16
+David Dichelle: +trd en
+
+versio 1.117 2023/11/13 09:26:34
+Dmitri Gabinski: + trd be
+
+versio 1.116 2023/11/03 09:26:31
+Dmitri Gabinski: + trd be
+
+versio 1.115 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.114 2023/09/05 21:23:16
+Vito Redsky: +trd pl
+
+versio 1.112 2023/08/29 12:44:48
+Wolfram Diestel: ja: +prononco
+
+versio 1.111 2023/05/04 17:24:59
+Wolfram Diestel: +ref-oj
+
+versio 1.110 2023/04/11 18:56:02
+-->
+</vortaro>

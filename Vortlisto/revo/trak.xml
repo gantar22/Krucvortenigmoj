@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: trak.xml,v 1.86 2023/05/06 15:11:57 revo Exp $">
+    <kap>
+      <rad>trak</rad>/o <fnt><bib>SPV</bib></fnt>
+    </kap>
+
+<drv mrk="trak.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="trak.0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Parto de <ref tip="malprt" cel="voj.0o.TRA">vojo</ref>, lar&gcirc;a
+      por iro de unu veturilo.
+    </dif>
+    <subsnc mrk="trak.0o.FER">
+      <uzo tip="fak">FER</uzo>
+      <dif>
+        Instalita <ref tip="prt" cel="rel.0o">rel</ref>paro ebliganta iron de unu vagonaro:
+        <ekz>
+          projekto &leftquot;<nom>Stuttgart 21</nom>&rightquot; <klr>[&#8230;]</klr> anstata&ubreve;os 
+          kapstacion kun 16
+          <tld/>oj per subtera stacidomo kun nur 8 <tld/>oj
+          <fnt>
+            <aut>S. Kr&uuml;ger</aut>,
+            <vrk>&Ccirc;e germanaj fervojistoj</vrk>,
+            <bib>LOdE</bib>,
+            <lok>2002-12</lok>
+          </fnt>;
+        </ekz>
+      <ekz>
+        tra 120&#x202F;km estis konstruita nova e&ubreve;ropnorma <tld/>o kaj apud &gcirc;i estis renovigita
+        la ekzistanta rusnorma <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>LAST</aut>
+          <vrk><url ref="&Monato;/2015/011606.php">Litovio relas al E&ubreve;ropo</url></vrk>
+        </fnt>;
+      </ekz>
+        <ekz>
+          trajneto sur et&scirc;pura <tld/>o veturigas infanojn kaj plenkreskulojn tra la parko
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Saliko</aut>
+            <vrk><url ref="&Monato;/2012/010462.php">El fervoja pasinteco
+            finnlanda</url></vrk>
+          </fnt>.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="voj.rel0o">relvojo</ref>
+      <trdgrp lng="be">
+        <trd>&c_k;&c_a;&c_l;&c_ja;&c_ja;</trd>,
+        <trd>&c_p;&c_u;&c_c;&c_mol;</trd>
+      </trdgrp>
+      <trd lng="de">Gleis</trd>
+      <trd lng="en">track</trd>
+      <trd lng="pt">linha</trd>
+      <trd lng="pl">tor <klr>(kolejowy)</klr></trd>
+      <trd lng="ru">&c_k;&c_o;&c_l;&c_je;&c_ja;<klr>
+      (&c_zh;&c_je;&c_l;&c_je;&c_z;&c_n;&c_o;&c_d;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_a;&c_ja;)</klr></trd>
+    </subsnc>
+    <subsnc mrk="trak.0o.grundvoja">
+      <uzo tip="fak">TRA</uzo>
+      <dif>
+        Paro da sulkoj, enpremitaj de la radoj de multaj
+        veturiloj pasintaj per la koncerna
+        <ref tip="malprt" cel="voj.0o.TRA">vojo</ref>
+        (precipe en vojo grunda, kvankam anka&ubreve; en asfalta &scirc;oseo
+        povas esti&gcirc;i tia difekto):
+        <ekz>
+          kun tritaga stoko de rizo, ni startis kun granda
+          scivolo, kien gvidos nin tiu &ccirc;i nekredeble ru&gcirc;a,
+          argila <tld/>o
+          <fnt>
+            <aut>Marzena</aut>: <vrk>Voja&gcirc;raporto</vrk>.
+            <lok><url
+            ref="http://www.naszawyprawa.com/relacje_es.asp?ID=181&amp;autor=Marzena&amp;op=wyswietl">Vjetnamio,
+            parto 2a</url></lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_k;&c_a;&c_l;&c_ja;&c_ib;&c_n;&c_a;</trd>
+      <trd lng="en">rut</trd>
+      <trdgrp lng="de">
+        <trd>Fahrrinne</trd>,
+      </trdgrp>
+      <trd lng="ru">&c_k;&c_o;&c_l;&c_je;&c_ja;<klr> (&c_d;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_a;&c_ja;)</klr></trd>
+    </subsnc>
+    <subsnc mrk="trak.0o.AUT">
+      <uzo tip="fak">AUT</uzo>
+      <dif>
+        <ref tip="dif" cel="korido.0o.TRA">Koridoro<sncref/></ref>:
+        <ekz>
+          la policano <klr>[&#8230;]</klr> fermigis la kvar<tld/>an straton,
+          interrompante la bus- kaj tramliniojn
+          <fnt>
+            <aut>Novkastela esperanta societo</aut>,
+            <vrk><url
+            ref="http://newcastle.esperanto.org.au/newslett/jan04.htm">Newsletter</url></vrk>,
+            <lok>2004-01</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <rim>
+        &Ccirc;i tiu uzo prezentas &gcirc;enan ambiguecon kun
+        <tld/>o<sncref ref="trak.0o.TRA"/>, kaj tial ta&ubreve;gas nur
+        en landoj kie ne plu ekzistas grundaj vojoj a&ubreve; difektaj
+        &scirc;oseoj.  Beda&ubreve;rinde, tio ne veras por la tuta mondo.
+        <aut>Sergio Pokrovskij</aut>
+      </rim>
+      <trd lng="be">&c_p;&c_a;&c_l;&c_a;&c_s;&c_a; <klr>(&c_d;&c_a;&c_r;&c_o;&c_zh;&c_n;&c_a;&c_g;&c_a; &c_r;&c_u;&c_h;&c_u;)</klr></trd>
+      <trd lng="en">traffic lane</trd>
+    </subsnc>
+    <trd lng="fr">voie<klr tip="amb"> (partie de route)</klr></trd>
+    <trd lng="pl">pas ruchu</trd>
+    <trd lng="pt">pista</trd>
+    <trd lng="ro">band&abreve;  de circula&#x021b;ie</trd>
+  </snc>
+  <snc mrk="trak.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Parto de sonregistra&jcirc;o apartiganta vo&ccirc;on:
+      <ekz>
+        ni disponas pri magnetofono <klr>[&#8230;]</klr> kvar<tld/>a kun 
+        rapideco 9,5&#x202F;cm/sek
+        <fnt>
+          <aut>Universala Esperanto-Asocio</aut>,
+          <vrk><url ref="&UEA;informado/arkivo/63/jan63.html#informilo">Oficiala
+          Informilo, 1963-01, numero 353a</url></vrk>,
+          <lok>anoncetoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_t;&c_r;&c_e;&c_k;</trd>,
+      <trd>&c_g;&c_u;&c_k;&c_a;&c_v;&c_a;&c_ja; <ind>&c_d;&c_a;&c_r;&c_o;&c_zh;&c_k;&c_a;</ind></trd>
+    </trdgrp>
+    <trd lng="de">Tonspur</trd>
+    <trd lng="en">track</trd>
+    <trd lng="fr">piste<klr> (d'enregistrement)</klr></trd>
+    <trd lng="pl">&sacute;cie&zdot;ka d&zacute;wi&eogonek;kowa</trd>
+    <trd lng="pt">trilha</trd>
+    <trd lng="ru">&c_z;&c_v;&c_u;&c_k;&c_o;&c_v;&c_a;&c_ja; &c_d;&c_o;&c_r;&c_o;&c_zh;&c_k;&c_a;</trd>
+  </snc>
+  <trd lng="af">spoor</trd>
+  <trd lng="am">&#4725;&#x122B;&#x12AD;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_m;&a_s;&a_A;&a_r;</trd>
+  <trd lng="az">track</trd>
+  <trd lng="bn">&#x99F;&#x9CD;&#x9B0;&#x9CD;&#x9AF;&#x9BE;&#2453;</trd>
+  <trd lng="bo">&#xF64;&#xF74;&#xF63;&#xF0B;</trd>
+  <trd lng="bs">track</trd>
+  <trd lng="co">pista</trd>
+  <trdgrp lng="cs">
+    <trd>dr&aacute;ha letu <klr>(let.)</klr></trd>,
+    <trd>kolej (&zcaron;el.)</trd>,
+    <trd>kurz</trd>,
+    <trd>stopa magn. p&aacute;sky (el.)</trd>,
+    <trd>tra&tcaron;</trd>
+  </trdgrp>
+  <trd lng="cy">trac</trd>
+  <trd lng="da">spor</trd>
+  <trdgrp lng="de">
+    <trd>Spur</trd>,
+    <trd>Fahrspur</trd>
+  </trdgrp>
+  <trd lng="et">track</trd>
+  <trd lng="eu">pista</trd>
+  <trd lng="fy">spoar</trd>
+  <trd lng="ga">rian</trd>
+  <trd lng="gd">&#xC0;ireamh</trd>
+  <trd lng="gl">mapa</trd>
+  <trd lng="gu">&#xA9F;&#xACD;&#xAB0;&#xAC7;&#xA95;</trd>
+  <trd lng="hi">&#x91F;&#x94D;&#2352;&#2376;&#2325;</trd>
+  <trd lng="hmn">khiav</trd>
+  <trd lng="hr">staza</trd>
+  <trd lng="ht">tras</trd>
+  <trd lng="hy">&#1399;&#1377;&#x57E;&#x56B;&#1394;</trd>
+  <trd lng="ig">akara</trd>
+  <trd lng="is">lag</trd>
+  <trd lng="ja">&#x30C8;&#x30E9;&#x30C3;&#x30AF;</trd>
+  <trd lng="jv">trek</trd>
+  <trd lng="ka">&#x10E1;&#x10D8;&#x10DB;&#x10E6;&#x10D4;&#x10E0;&#x10D0;</trd>
+  <trd lng="kk">&c_zh;&#x43E;&#x43B;</trd>
+  <trd lng="km">&#6036;&#6033;</trd>
+  <trd lng="kn">&#xC9F;&#xCCD;&#xCB0;&#xCCD;&#xCAF;&#xCBE;&#xC95;&#xCCD;</trd>
+  <trd lng="ko">&#xD2B8;&#xB799;</trd>
+  <trd lng="ku">&#x15F;op</trd>
+  <trd lng="ky">&c_zh;&#x43E;&#x43B;</trd>
+  <trd lng="lat">semita</trd>
+  <trd lng="lo">&#xE81;&#xEB2;&#xE99;&#xE95;&#xEB4;&#xE94;&#xE95;&#xEB2;&#xEA1;</trd>
+  <trd lng="lt">takelis</trd>
+  <trd lng="mg">lalana</trd>
+  <trd lng="mi">ara</trd>
+  <trd lng="mk">&#x43F;&c_je;&c_s;&#x43D;&c_a;</trd>
+  <trd lng="ml">&#xD2A;&#xD3E;&#xD24;</trd>
+  <trd lng="mn">&c_z;&c_a;&#x43C;</trd>
+  <trd lng="mr">&#x91F;&#x94D;&#2352;&#2373;&#2325;</trd>
+  <trd lng="ms">trek</trd>
+  <trd lng="mt">binarju</trd>
+  <trd lng="my">&#4129;&#x101B;&#x102C;</trd>
+  <trd lng="ne">&#x91F;&#x94D;&#2352;&#x92F;&#x93E;&#2325;</trd>
+  <trd lng="ny">zikuyenda</trd>
+  <trd lng="pa">&#xA1F;&#xA30;&#xA48;&#xA15;</trd>
+  <trd lng="ps">&a_r;&a_w;&a_A;&a_n;</trd>
+  <trd lng="rw">inzira</trd>
+  <trd lng="sd">&#x6AA;&f_ch;&#x64A;</trd>
+  <trd lng="si">&#xDB8;&#xDCF;&#xDBB;&#xDCA;&#xD9C;&#xDBA;</trd>
+  <trdgrp lng="sk">
+    <trd>dr&aacute;ha letu</trd>,
+    <trd>ko&lcaron;aj</trd>,
+    <trd>kurz</trd>,
+    <trd>stopa magnetof. p&aacute;sky</trd>,
+    <trd>tra&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sl">steza</trd>
+  <trd lng="sm">ala</trd>
+  <trd lng="sn">njanji</trd>
+  <trd lng="sq">udh&#xEB;</trd>
+  <trd lng="st">pina</trd>
+  <trd lng="su">jalan satapak</trd>
+  <trd lng="sw">kufuatilia</trd>
+  <trd lng="ta">&#xBAA;&#xBBE;&#xB9F;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC1F;&#xC4D;&#xC30;&#xC3E;&#xC15;&#xC4D;</trd>
+  <trd lng="tg">&c_s;&c_u;&c_r;&c_u;&c_d;</trd>
+  <trd lng="th">&#xE15;&#xE34;&#xE14;&#xE15;&#xE32;&#xE21;</trd>
+  <trd lng="tt">&c_t;&c_r;&c_je;&#x43A;</trd>
+  <trd lng="uk">&c_t;&c_r;&c_je;&#x43A;</trd>
+  <trd lng="ur">&#1657;&a_r;&#x6CC;&#x6A9;</trd>
+  <trd lng="uz">trek</trd>
+  <trd lng="vi">theo d&#xF5;i</trd>
+  <trd lng="xh">umkhondo</trd>
+  <trd lng="yi">&#x5E9;&#x5E4;&#x5BC;&#x5D5;&#x5E8;</trd>
+  <trd lng="yo">orin</trd>
+  <trd lng="zu">ithrekhi</trd>
+</drv>
+
+<drv mrk="trak.ski0o">
+  <kap>ski<tld/>o</kap>
+  <snc>
+    <dif>
+      Vojeto por skiado:
+      <ekz>
+        preparitaj ski<tld/>oj kondukas en la pompajn vintrajn
+        arbarojn
+        <fnt>
+          <vrk><url
+          ref="http://www.ic-herzberg.de/esperanto/location/hbbrosxur.html">Herzberg-am-Harz kaj
+          &gcirc;iaj feriolokoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_y;&c_zh;&c_n;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd>Loipe</trd>,
+    <trd>Skispur</trd>
+  </trdgrp>
+  <trd lng="en">ski track</trd>
+  <trd lng="ru">&c_l;&c_y;&c_zh;&c_n;&c_ja;</trd>
+</drv>
+
+</art>
+
+  <!--
+  $Log$
+versio 1.86 2023/05/06 15:11:57
+revo: aktualigo URL-unuoj
+
+versio 1.85 2023/04/11 19:23:02
+aktualigo Monato-URL
+
+versio 1.84 2022/08/11 07:30:56
+Dmitri Gabinski: + trd be
+
+versio 1.83 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+  Revision 1.9  2017/11/26 12:10:13  revo
+  Vito Redsky: kor trd ro
+
+  Revision 1.8  2017/11/25 13:10:17  revo
+  Vito Redsky: +trd ro
+
+  Revision 1.7  2015/07/04 08:37:45  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.6  2015/06/29 16:40:20  revo
+-->
+</vortaro>

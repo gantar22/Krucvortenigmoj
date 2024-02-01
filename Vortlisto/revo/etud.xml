@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: etud.xml,v 1.15 2023/11/07 20:34:12 revo Exp $">
+<kap>
+  <rad>etud</rad>/o<fnt>Z</fnt>
+</kap>
+<drv mrk="etud.0o">
+  <kap><tld/>o</kap>
+  <snc num="1">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Muzika verko kreita por ekzercoj:
+      <ekz><tld/>oj de Chopin <klr>(&Scirc;open)</klr>.</ekz> 
+    </dif>
+    <trd lng="en">etude</trd>
+    <trd lng="pl">etiuda</trd>
+  </snc>
+  <snc num="2">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Pentra&jcirc;o a&ubreve; desegno rapide farita por ekzerco, provo,
+      studo,
+      sen zorgo pri detaloj.  
+    </dif>
+    <trdgrp lng="en">
+      <trd>study<klr> (art)</klr></trd>,
+      <trd>sketch</trd>
+    </trdgrp>
+    <trd lng="pl">szkic</trd>
+  </snc>
+  <trd lng="be">&c_e;&c_c;&c_ju;&c_d;</trd>
+  <trdgrp lng="cs">
+    <trd>cvi&#x10D;n&#xE1; skladba</trd>,
+    <trd>etuda</trd>,
+    <trd>studie</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Et&uuml;de</trd>,
+    <trd>&Uuml;bungsst&uuml;ck</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;tude<klr tip="ind"> (mus., beaux
+  arts)</klr></trd>
+  <trd lng="hu">et&udblac;d</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7FD2;&#x4F5C;  <pr>&#x3057;&#x3085;&#x3046;&#x3055;&#x304F;</pr></trd>,
+    <trd>&#x7DF4;&#x7FD2;&#x66F2;  <pr>&#x308C;&#x3093;&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">estudo</trd>
+  <trd lng="ru">&c_e;&c_t;&c_ju;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>cvi&#x10D;n&#xE1; skladba</trd>,
+    <trd>&#x161;t&#xFA;dia</trd>
+  </trdgrp>
+  <trd lng="uk">&#x435;&#x442;&#x44E;&#x434;</trd>
+  <trd lng="zh">&#x7DF4;&#x7FD2;&#x66F2; <pr>li&#xE0;nx&#xED;q&#x1D4;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.14 2023/10/14 15:49:05
+revo: transskribo per <pr>
+
+Revision 1.10  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2013/03/26 09:10:13  revo
+Russ Williams: +trd en
+
+Revision 1.8  2010/04/09 16:31:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2007/07/11 16:30:49  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2003/12/21 17:31:22  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5  2002/06/26 19:29:21  revo
+Ulrich Fellmann: + 2 trd de
+
+Revision 1.4  2002/06/11 17:32:57  revo
+-->
+</vortaro>

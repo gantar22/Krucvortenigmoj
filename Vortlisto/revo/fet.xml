@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fet.xml,v 1.27 2023/11/09 19:13:17 revo Exp $">
+<kap>
+<rad>fet</rad>/o
+</kap>
+<drv mrk="fet.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">ANA</uzo>
+  <snc>
+    <dif>
+      Nomo de l' <ref tip="super" cel="embri.0o.BIO">embrio</ref>
+      ekde la tempo, kiam &gcirc;i vidigas trajtojn de
+      esta&jcirc;o kaj &gcirc;is la tempo, kiam &gcirc;i forlasas la uteron de la patrino:
+      <ekz>
+        Hieronimo, A&ubreve;gusteno kaj Tomaso la akvinano kredis, ke virseksa <tld/>o ricevas
+        sian animon 40 tagojn kaj ina feto 80 tagojn post koncipo
+        <fnt>
+       <aut>W. H. Simcock</aut>
+          <vrk><url ref="&Monato;/2000/006948.php">Kie la toleremo?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/07, p. 10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la virino suferis anka&ubreve; de kolestazo, kiu povas facile ka&ubreve;zi subitan morton de
+        la <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ziyu</aut>
+          <vrk><url ref="&Monato;/2005/008556.php">Per patrina amo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia aku&scirc;o estis longa kaj peniga, kaj &scirc;i plurfoje petis al la hospitala
+        stabanaro, ke oni abortigu la <tld/>on, kiu &ndash; kiel oni poste konstatis &ndash;
+        estis ne vivipova
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2013/011081.php">Astrobiologio kaj religio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="embri.0o">embrio</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_o;&c_d; <klr tip="amb">(&c_v;&c_a; &c_w;&c_l;&c_o;&c_n;&c_mol;&c_n;&c_ib;)</klr></trd>
+  <trd lng="bg">&c_f;&c_je;&c_t;&c_u;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>f&eacute;tus</trd>,
+    <trd>plod</trd>,
+    <trd>z&aacute;rodek</trd>,
+    <trd>z&aacute;rodek plodu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+   <trd>F&ouml;tus</trd>,
+   <trd>Fetus [science]</trd>,
+  <trd>Leibesfrucht</trd></trdgrp>
+  <trd lng="en">fetus</trd>
+  <trd lng="es">feto</trd>
+  <trd lng="fa">&a_j;&a_n;&f_y;&a_n;</trd>
+  <trd lng="fr">f&oelig;tus</trd>
+  <trdgrp lng="hu">
+    <trd>fetus</trd>,
+    <trd>fejl&odblac;d&odblac; <ind>magzat</ind></trd>
+  </trdgrp>
+  <trd lng="it">feto</trd>
+  <trd lng="ja">&#x80CE;&#x5150;  <pr>&#x305F;&#x3044;&#x3058;</pr></trd>
+  <trd lng="nl">foetus</trd>
+  <trd lng="pl">p&lstroke;&oacute;d</trd>
+  <trd lng="pt">feto</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_t;&c_r;&c_o;&c_b;&c_n;&c_y;&c_j; &c_p;&c_l;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>plod</trd>,
+    <trd>z&aacute;rodok plodu</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_t;&c_r;&#x43E;&c_b;&#x43D;&c_i;&c_j; &#x43F;&#x43B;&c_ib;&c_d;</trd>,
+    <trd>&c_z;&c_a;&c_r;&#x43E;&c_d;&#x43E;&#x43A;</trd>,
+    <trd>&c_je;&#x43C;&c_b;&c_r;&c_ib;&#x43E;&#x43D;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x80DA; <pr>p&#x113;i</pr></trd>,
+    <trd>&#x80CE;&#x513F; <pr>t&#x101;i&#xE9;r</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/14 18:06:40
+revo: transskribo per <pr>
+
+versio 1.24 2023/04/20 12:45:48
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.23 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.20  2019/01/03 17:10:17  revo
+Wolfram Diestel: +ekz-oj, ref embrio
+
+Revision 1.19  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/08/17 01:10:19  revo
+Joop Eggen: +trd bg
+
+Revision 1.16  2011/10/08 20:10:11  revo
+-->
+</vortaro>

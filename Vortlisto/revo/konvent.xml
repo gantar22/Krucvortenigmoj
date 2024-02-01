@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konvent.xml,v 1.8 2023/12/01 09:27:01 revo Exp $">
+<kap>
+  <rad>konvent</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="konvent.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konvent.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Decida, le&gcirc;ofara
+      <ref tip="super" cel="ven.kun0o">kunveno</ref>
+      de &ccirc;iuj anoj de asocio:
+       <ekz>
+        en majo 1938 Lidia revenis al Ilinojso je la invito
+        de la Nacia Spirita Asembleo por &ccirc;eesti la &ccirc;iujaran
+        bahaan <tld/>on
+        <fnt>
+          <aut>W. Heller, trad. B. Westerhoff</aut>
+          <vrk>Lidia, la Vivo de Lidia Zamenhof, Filino de Esperanto</vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nun E&ubreve;ropa Unio do havas konstitucion, ellaboritan de <tld/>o, aprobitan jam de
+        la EU-registoj
+        <fnt>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2003/008168.html">EU-reformeto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/10, p. 7</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="asembl1.0o">asembleo</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Hauptversammlung</trd>,
+      <trd>Konvent</trd>
+    </trdgrp>
+    <trd lng="en">convent</trd>
+    <trdgrp lng="fr">
+      <trd>assembl&eacute;e g&eacute;n&eacute;rale</trd>
+      <trd>convent</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konvent.0o.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      <ref tip="super" cel="komun.0umo.societo">Komunumo</ref>, kunvivanta en
+      <ref tip="malprt" cel="monahx.0ejo">mona&hcirc;ejo</ref>:
+      <ekz>
+        je la a&gcirc;o de dek du &scirc;i estis metita de onklino en francan <tld/>on, kie &scirc;i estis
+        malfeli&ccirc;a
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2017/011788.php">Don Roberto, politikisto kaj
+          aventuristo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2017/12, p. 21</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="kongre.0o">kongregacio</ref>,
+       <ref cel="orden.0o.KAT">ordeno<sncref/></ref>
+    </refgrp>
+    <trd lng="de">Konvent</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_v;&c_e;&c_n;&c_t;</trd>
+  <trd lng="bo">&#xF56;&#xF45;&#xF74;&#xF53;&#xF0B;&#xF51;&#xF42;&#xF7C;&#xF53;&#xF0B;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2023/12/01 09:27:01
+Dmitri Gabinski: + trd be
+
+versio 1.7 2023/05/15 17:26:57
+Paul Peeraerts: <lok>, <aut>
+
+versio 1.6 2023/05/04 16:53:14
+revo: aktualigo URL-unuoj
+
+versio 1.5 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.3 2021/01/29 19:00:18
+Wolfram Diestel: +ekz, +snc KRI
+
+versio 1.2 2021/01/28 19:10:32
+Wolfram Diestel: kor. sintakson, +trd de, en
+-->
+
+</vortaro>

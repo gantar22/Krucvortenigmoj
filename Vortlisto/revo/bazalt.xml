@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bazalt.xml,v 1.23 2023/10/14 08:39:48 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>bazalt</rad>/o
+</kap>
+<drv mrk="bazalt.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MIN</uzo>
+  <snc>
+    <dif>
+      Tre malmola nigra vulkana <ref tip="super" cel="sxton.0o.MIN">&scirc;tono</ref>:
+      <ekz>
+        Luzacia montaro <klr>[&#x2026;]</klr> konsistas grandaparte el grejso kaj parte anka&ubreve;
+        el <tld/>o, kiuj apogas sin je granita soklo de anta&ubreve;kambria origino
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=41383">Luzacia montaro</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_b;&c_a;&c_z;&c_a;&c_l;&c_mol;&c_t;</trd>
+    <trd lng="bg">&c_b;&c_a;&c_z;&c_a;&c_l;&c_t;</trd>
+    <trd lng="ca">basalt</trd>
+    <trd lng="de">Basalt</trd>
+    <trd lng="en">basalt</trd>
+    <trd lng="es">basalto</trd>
+    <trdgrp lng="fa">
+      <trd>&a_s;&f_y;&a_A;&a_h;&a_s;&a_n;&f_g;</trd>,
+      <trd>&a_b;&a_A;&a_z;&a_A;&a_l;&a_t;</trd>
+    </trdgrp>
+    <trd lng="fr">basalte</trd>
+    <trd lng="hu">bazalt</trd>
+    <trd lng="pl">bazalt</trd>
+    <trd lng="ru">&c_b;&c_a;&c_z;&c_a;&c_l;&c_mol;&c_t;</trd>
+    <trd lng="it">basalto</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bazalt</trd>,
+    <trd>&ccaron;edi&ccaron;</trd>
+  </trdgrp>
+  <trd lng="he">&#x5D1;&#x5BC;&#x5B7;&#x5D6;&#x5B6;&#x5DC;&#x5B6;&#x5EA;</trd>
+  <trd lng="ja">&#x7384;&#x6B66;&#x5CA9;  <pr>&#x3052;&#x3093;&#x3076;&#x304C;&#x3093;</pr></trd>
+  <trd lng="sk">&ccaron;adi&ccaron;</trd>
+  <trd lng="uk">&#x431;&#x430;&#x437;&#x430;&#x43B;&#x44C;&#x442;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/01/02 19:10:12  revo
+Marc Rausell: +trd ca
+
+Revision 1.15  2010/04/24 17:07:36  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2009/03/09 17:30:34  revo
+Wieland Pusch: +trd bg
+
+Revision 1.13  2009/03/07 17:30:30  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2009/03/06 17:30:51  revo
+-->
+</vortaro>

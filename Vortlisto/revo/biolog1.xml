@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: biolog1.xml,v 1.44 2023/11/12 21:23:00 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>biologi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="biolog1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="biolog1.0o.SCI">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <ref tip="lst" cel="scienc.0o.fako" lst="voko:sciencoj">Scienco</ref>
+      pri la fenomenoj de la vivo kaj la diversaj
+      <ref tip="prt" cel="viv.0ajxo">viva&jcirc;oj</ref>;
+      <ref tip="sin" cel="histor.natur0o">naturhistorio</ref>:
+      <ekz>
+        <tld/>o de la bestoj
+        <fnt><bib>FK</bib>, <lok>el la vivo kaj sciencoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        li do enskribi&gcirc;is en universitato por studi <tld/>on
+        <fnt>
+          <bib>ChC</bib>
+          <lok>7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref tip="prt" cel="biolog1.molekula0o">molekula <tld/>o</ref>
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eksperimenta zoologia <tld/>o
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <trd lng="zh">&#x751F;&#29289;&#x5B66; <pr>sh&emacron;ngw&#xF9;xu&#xE9;</pr></trd>
+</snc>
+  <snc mrk="biolog1.0o.aspekto">
+    <dif>
+      La <ref tip="super" cel="aspekt.0o">aspekto</ref> de viva&jcirc;o a&ubreve; natura medio el vidpunkto de
+      <tld/>o<sncref ref="biolog1.0o.SCI"/>,
+      kontraste al neorganikaj a&ubreve; sociaj aspektoj:
+      <ekz>
+        virina <tld/>o ta&ubreve;ga por koncipi, akcepti kaj zorgi pri alia esta&jcirc;o estas
+        prenita de la kulturoj, por devigi la virinojn <klr>[&#8230;]</klr> kiel servistinoj
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Intervjuo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu tradicio de naturalismo <klr>[&#8230;]</klr> tendencas redukti la homan kondi&ccirc;on
+        al <tld/>o
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Socio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la homa <tld/>o evoluis kiel adapta me&hcirc;anismo al kondi&ccirc;oj, kiuj grandparte ne
+        plu ekzistas
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2008/009513.php">Punkto de malekvilibrigo</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_ja;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="cs">biontologie</trd>
+  <trd lng="de">Biologie</trd>
+  <trd lng="en">biology</trd>
+  <trd lng="es">biolog&iacute;a</trd>
+  <trd lng="fr">biologie</trd>
+  <trd lng="he">&bet;&yod;&vav;&lamed;&vav;&gimel;&yod;&he;</trd>
+  <trdgrp lng="hu">
+    <trd>biol&oacute;gia</trd>,
+    <trd>&eacute;lettan</trd>
+  </trdgrp>
+  <trd lng="id">biologi</trd>
+  <trd lng="ja">&#x751F;&#29289;&#x5B66;  <pr>&#x305B;&#12356;&#12406;&#12388;&#x304C;&#x304F;</pr></trd>
+  <trd lng="nl">biologie</trd>
+  <trdgrp lng="pl">
+    <trd>biologia</trd>,
+    <trd>przyroda<klr> (pot., uczniowskie)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>biol&oacute;gia</trd>,
+    <trd>biontol&oacute;gia</trd>
+  </trdgrp>
+  <trd lng="sv">biologi</trd>
+  <trd lng="uk">&c_b;&c_ib;&c_o;&c_l;&c_o;&c_g;&c_ib;&c_ja;</trd>
+</drv>
+
+<drv mrk="biolog1.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc mrk="biolog1.0a.SCI">
+    <dif>
+      Rilata al <tld/>o<sncref ref="biolog1.0o.SCI"/>:
+      <ekz>
+        lingvo, do estas regata de sociologiaj kaj ne de <tld/>aj le&gcirc;oj
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj esploroj pruvis, ke la pralo&gcirc;antoj de nia insulo &ccirc;iuj estis behinoj
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekoka &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pri la <tld/>a aspekto de la insuloj Tajvano kaj <nom>Jaejama</nom> aperis la verko
+        <klr>[&#8230;]</klr> La Voja&gcirc;o al Sudaj Insuloj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Egami</nom> lekciis pri &leftquot;Neorganika <tld lit="B"/>a Kemio de Nitrogeno&rightquot;
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="biolog1.0a.fenomeno">
+    <dif>
+      Koncernanta la fenomenojn esploratajn de <tld/>o, la viva&jcirc;ojn,
+      kontraste al neorganika naturo a&ubreve; al sociaj fenomenoj:
+      <ekz>
+        <tld/>a patrino
+        <klr>(kontraste al adopta a&ubreve; via patrino)</klr>
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Intervjuo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        persono kies <tld/>a sekso diferencas de la psika/socia sekso
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>&Ccirc;efartikolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anstata&ubreve; ser&ccirc;i la universalon en <tld/>a naturo, lastatempa <klr>[&#8230;]</klr> la
+        sociaj sciencoj kaj homstudoj fokusi&gcirc;as sur tio kion dividas &ccirc;iuj homoj
+        &ccirc;irka&ubreve; la terglobo
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Socio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        protekti la <tld/>an diversecon de la Jangzi-rivero
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>&Ccirc;efartikolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        scienca esploro konkludis ke ekzistas risko pri <tld/>a kaj ne&ubreve;ra dama&gcirc;o rezulte
+        de mikroondaj radiadoj
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Kontaktek</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Usono e&ccirc; liveris la &hcirc;emiajn kaj <tld/>ajn armilojn, per kiuj Irako tiutempe
+        povis batali
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="&Monato;/2003/008061.html">Usono inter Irano kaj Irako</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    Ne uzu la vorton en la senco <ref cel="ekologi.0a.POL">ekologia</ref>,
+    <ref cel="natur.0eco">natureca</ref>.
+  </rim>
+  <trd lng="be">&c_b;&c_ib;&c_ja;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="de">biologisch</trd>
+  <trd lng="ja">&#x751F;&#29289;&#x5B66;&#30340;  <pr>&#x305B;&#12356;&#12406;&#12388;&#x304C;&#x304F;&#12390;&#x304D;</pr></trd>
+</drv>
+
+<drv mrk="biolog1.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="biolog1.0isto.SCI">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Fakulo pri <ref tip="vid" cel="biolog1.0o"><tld/>o</ref>;
+      <ref tip="sin" cel="biolog.0o">biologo</ref>:
+      <ekz>
+        kiam unu el la amikoj de la <tld/>isto <nom>Trofim Lisenko</nom> prezentis sian kandidaton
+        al la Akademio de scienco, <nom>Andrej Sa&hcirc;arov</nom> denuncis la politikon, kiu tro
+        influis la sciencon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=160896">Andrej Sa&hcirc;arov</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_jo;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="bg">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="de">Biologe</trd>
+  <trd lng="en">biologist</trd>
+  <trd lng="es">bi&oacute;logo</trd>
+  <trd lng="fr">biologiste</trd>
+  <trd lng="he">&bet;&yod;&vav;&lamed;&vav;&gimel;</trd>
+  <trd lng="hu">biol&oacute;gus</trd>
+  <trdgrp lng="id">
+    <trd>biolog</trd>,
+    <trd>ahli biologi</trd>
+  </trdgrp>
+  <trd lng="nl">bioloog</trd>
+  <trd lng="pl">biolog</trd>
+  <trd lng="ru">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="sk">biol&oacute;g</trd>
+  <trd lng="sv">biolog</trd>
+</drv>
+
+<drv mrk="biolog1.astro0o">
+  <kap>astro<tld/>o</kap>
+  <snc mrk="biolog1.astro0o.BIO">
+    <uzo tip="fak">AST</uzo>
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Esplorado pri eblaj viva&jcirc;oj en la kosmo,
+      similaj a&ubreve; malsimilaj al la teraj:
+      <ekz>
+        ina&ubreve;guro de la Centro de Astro<tld/>o
+        <fnt>
+          <aut>D. Rodriguez</aut>,
+          <vrk><url
+          ref="https://groups.yahoo.com/neo/groups/esperanto-l/conversations/topics/30656">
+          David Galadi en hispana TV</url></vrk>,
+          <lok>sce, 2003-01-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_t;&c_r;&c_a;&c_b;&c_ib;&c_ja;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="cs">astrobiologie</trd>
+  <trd lng="en">astrobiology</trd>
+  <trd lng="fr">exobiologie</trd>
+  <trd lng="id">astrobiologi</trd>
+  <trd lng="sk">astrol&oacute;gia</trd>
+</drv>
+
+<drv mrk="biolog1.molekula0o">
+  <kap>molekula <tld/>o</kap>
+  <snc mrk="biolog1.molekula0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Parto de <ref tip="malprt" cel="biolog1.0o.SCI">biologio</ref>
+      kiu esploras la molekulajn okaza&jcirc;ojn en vivulaj &ccirc;eloj:
+      <ekz>
+        atingoj de genetiko kaj molekula <tld/>o pliri&ccirc;igis la teorion
+        de evolucio
+        <fnt>
+          <aut>V. Lemelev</aut>,
+          <vrk><url ref="&Monato;/2009/009787.php">
+          Supervivo de plej ta&ubreve;ga teorio</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2009:8-9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_je;&c_k;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_a;&c_ja; <ind>&c_b;&c_ib;&c_ja;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</ind></trd>
+  <trd lng="en">molecular biology</trd>
+  <trd lng="fr">biologie mol&eacute;culaire</trd>
+  <trd lng="id">biologi molekuler</trd>
+  <trd lng="ja">&#20998;&#x5B50;&#x751F;&#29289;&#x5B66;  <pr>&#12406;&#12435;&#12375;&#x305B;&#12356;&#12406;&#12388;&#x304C;&#x304F;</pr></trd>
+</drv>
+
+<drv mrk="biolog1.nervo0o">
+  <kap>nervo<tld/>o</kap>
+  <snc mrk="biolog1.nervo0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      <ref tip="dif" cel="neuxrobiologi.0o">Ne&ubreve;robiologio</ref>:
+      <ekz>
+        nervo<tld/>o <klr>[&#8230;]</klr> estas la scienco kiu studas la &ccirc;elojn de la nerva sistemo
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="https://eo.wikipedia.org/wiki/Ne%C5%ADroscienco">
+          Ne&ubreve;roscienco</url></vrk>
+          <lok>Vikipedio, 2023-10-21</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_e;&c_w;&c_r;&c_a;&c_b;&c_ib;&c_ja;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="en">neurobiology</trd>
+  <trd lng="es">neurobiolog&iacute;a</trd>
+  <trd lng="fr">neurobiologie</trd>
+  <trd lng="pl">neurobiologia </trd>
+  <trd lng="ro">neurobiologie</trd>
+</drv>
+
+<drv mrk="biolog1.soci0o">
+  <kap>soci<tld/>o</kap>
+  <snc mrk="biolog1.soci0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Bran&ccirc;o de biologio, kiu studas la rolon de biologiaj
+      faktoroj en la funkciado de
+      vivulaj <ref tip="vid" cel="soci.0o.BIO">socioj</ref>:
+      <ekz>
+        la soci<tld/>aj ideoj estis temo de diversaj kritikoj
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Edward_Osborne_Wilson">
+          Edward Osborne Wilson</url>, 2013-05-23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_o;&c_c;&c_y;&c_ja;&c_b;&c_ib;&c_ja;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="en">sociobiology</trd>
+  <trd lng="fr">sociobiologie</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.44 2023/11/12 21:23:00
+Jeromo Vasxe: + nervo~o
+
+versio 1.42 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.40 2023/04/11 05:36:20
+aktualigo Monato-URL
+
+versio 1.39 2022/10/24 15:42:56
+Dmitri Gabinski: + trd be
+
+versio 1.38 2022/07/03 12:48:49
+Wolfram Diestel: adapteto dif-vortigo
+
+versio 1.37 2022/07/03 10:30:08
+Wolfram Diestel: ~o: +snc "aspekto"; +~a
+
+versio 1.36 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.34 2022/03/01 08:44:49
+-->
+</vortaro>

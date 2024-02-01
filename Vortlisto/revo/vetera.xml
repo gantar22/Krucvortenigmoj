@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vetera.xml,v 1.24 2023/10/21 16:50:36 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>veteran</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="vetera.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="vetera.0o.MIL">
+    <dif>
+      Longe servinta soldato:
+      <ekz>
+        kvankam li estis nova al la trupo, li ne estis novico; male, li 
+        estis <tld/>o jam plenuminta kompletan serion da operacioj
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk>La Granda Kaldrono</vrk>,
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="vetera.0o.FIG">
+    <dif>
+      Longe servinta oficisto.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekzerc">ekzercito</ref>,
+      <ref cel="emerit.0o.POL">emerito</ref>,
+      <ref cel="spert">spertulo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_e;&c_t;&c_e;&c_r;&c_a;&c_n;</trd>
+  <trd lng="ca">veter&agrave;</trd>
+  <trdgrp lng="cs">
+    <trd><klr>(zaslou&zcaron;il&yacute;)</klr> pracovn&iacute;k na odpo&ccaron;inku</trd>,
+    <trd>veter&aacute;n</trd>,
+    <trd>vyslou&zcaron;ilec</trd>
+  </trdgrp>
+  <trd lng="de">Veteran</trd>
+  <trd lng="en">veteran</trd>
+  <trd lng="es">veterano<klr> (subst.)</klr></trd>
+  <trd lng="fr">v&eacute;t&eacute;ran</trd>
+  <trd lng="hu">veter&aacute;n</trd>
+  <trdgrp lng="ja">
+    <trd>&#x719F;&#x7DF4;&#x8005;  <pr>&#x3058;&#x3085;&#x304F;&#x308C;&#x3093;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x30D9;&#x30C6;&#x30E9;&#x30F3;  <pr>&#x3079;&#x3066;&#x3089;&#x3093;</pr></trd>,
+    <trd>&#x53E4;&#x53C2;&#x5175;  <pr>&#x3053;&#x3055;&#x3093;&#x3078;&#x3044;</pr></trd>,
+    <trd>&#x9000;&#x5F79;&#x8ECD;&#x4EBA;  <pr>&#x305F;&#x3044;&#x3048;&#x304D;&#x3050;&#x3093;&#x3058;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">veteraan</trd>
+  <trd lng="pt">veterano</trd>
+  <trd lng="ru">&c_v;&c_je;&c_t;&c_je;&c_r;&c_a;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>star&yacute; pracovn&iacute;k kolekt&iacute;vu</trd>,
+    <trd>veter&aacute;n</trd>,
+    <trd>vojensk&yacute; vysl&uacute;&zcaron;ilec</trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_je;&c_t;&c_je;&c_r;&c_a;&#x43D;</trd>
+</drv>
+
+<drv mrk="vetera.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="vetera.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Kiu havas longan sperton en la koncerna afero;
+      ne <ref tip="ant" cel="novic.0a.FIG">novica</ref>:
+      <ekz>
+        la direktadon prizorgas la <tld/>a samideano D-ro Anakreon 
+        Stamadiadis
+        <fnt>
+          <aut>Verdano</aut>,
+          <vrk>El nia Gazetaro</vrk>,
+          <lok>The British Esperantist, 1932, p. 180a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_e;&c_t;&c_e;&c_r;&c_a;&c_n;&c_s;&c_k;&c_ib;</trd>,
+    <trd>&c_d;&c_a;&c_w;&c_n;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="es">veterano<klr> (adj.)</klr></trd>
+  <trd lng="fr">v&eacute;t&eacute;ran<klr> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8001;&#x7DF4;&#x306A;  <pr>&#x308D;&#x3046;&#x308C;&#x3093;&#x306A;</pr></trd>,
+    <trd>&#x9577;&#x304F;&#x7D4C;&#x9A13;&#x3092;&#x7A4D;&#x3093;&#x3060;  <pr>&#x306A;&#x304C;&#x304F;&#x3051;&#x3044;&#x3051;&#x3093;&#x3092;&#x3064;&#x3093;&#x3060;</pr></trd>,
+    <trd>&#x30D9;&#x30C6;&#x30E9;&#x30F3;&#x306E;  <pr>&#x3079;&#x3066;&#x3089;&#x3093;&#x306E;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.22 2023/03/23 12:49:31
+Dmitri Gabinski: + trd be
+
+versio 1.20 2021/10/23 10:32:41
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.18  2017/10/02 15:10:13  revo
+Jeromo Vasxe: + ~a
+
+Revision 1.17  2017/10/02 10:10:16  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.16  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2014/04/12 14:10:21  revo
+-->
+</vortaro>

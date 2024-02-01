@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sem.xml,v 1.119 2023/12/12 20:10:27 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sem</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="sem.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sem.0i.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Enmeti <tld/>ojn en la teron, por ke ili &gcirc;ermu kaj kresku:
+      <ekz>
+        ili <tld/>is tritikon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 12:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia malamiko <klr>[&#x2026;]</klr> <tld/>is lolon meze de la tritiko
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 13:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Isaak</nom> <tld/>is en tiu lando, kaj havis en tiu jaro centoble-mezuran rikolton
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 26:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen <tld/>isto eliris, por <tld/>i
+        <fnt>
+          <bib>NT</bib>
+          <lok>Marko 4:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kion vi <tld/>as, tion vi rikoltos
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nenie <tld/>ata, &ccirc;ie trovata
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="sem.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      En multajn unuopajn lokojn meti, konigi, kreskigi:
+      <ekz>
+        <klr>[li]</klr> <tld/>as malpacon inter fratoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 6:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bu&scirc;o de sa&gcirc;uloj <tld/>as instruon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 15:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu <tld/>as maljusta&jcirc;on, tiu rikoltos suferon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 22:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kian maltrankvilon vi <tld/>as en mia koro
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        la bankiero plenmane <tld/>is ormonerojn
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mara golfo, <tld/>ita per multenombraj insuloj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        flava ebena&jcirc;o, <tld/>ita de blankaj a&ubreve; brikokoloraj makuloj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="anim.0i.inspiri">animi<sncref/></ref>,
+      <ref cel="fond.0i.FIG">fondi<sncref/></ref>,
+      <ref cel="inspir.0i">inspiri</ref>,
+      <ref cel="stimul.0i">stimuli</ref>
+    </refgrp>
+    <trd lng="nl">bezaaien</trd>
+  </snc>
+  <trd lng="be">&c_s;&c_je;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_s;&c_je;&c_ja;</trd>
+  <trd lng="bo">&t_-a;&t_da;&t_drengbu;&t_ba;&t_sa; &t_ba;&t_ta;&t_ba; &t_ga;&t_da;&t_ba;
+  &t_tha;&t_naro;&t_ba;&t_tsheg;</trd>
+  <trd lng="cs">p&rcaron;edpona s v&yacute;znamem"<klr>(p&rcaron;ibli&zcaron;n&aacute;)</klr>
+  polovina"</trd>
+  <trd lng="de">s&auml;en</trd>
+  <trd lng="en">sow</trd>
+  <trd lng="es">sembrar</trd>
+  <trdgrp lng="fr">
+    <trd>parsemer</trd>,
+    <trd>semer</trd>
+  </trdgrp>
+  <trd lng="hu">vet</trd>
+  <trd lng="it">seminare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7A2E;&#x3092;&#x307E;&#x304F;  <pr>&#x305F;&#x306D;&#x3092;&#x307E;&#x304F;</pr></trd>,
+    <trd>&#x307E;&#x304D;&#x6563;&#x3089;&#x3059;  <pr>&#x307E;&#x304D;&#x3061;&#x3089;&#x3059;</pr></trd>,
+    <trd>&#x632F;&#x308A;&#x307E;&#x304F;  <pr>&#x3075;&#x308A;&#x307E;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">zaaien</trd>
+  <trdgrp lng="pl">
+    <trd>sia&cacute;</trd>,
+    <trd>zasia&cacute;</trd>,
+    <trd>obsiewa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_je;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">predpona s v&yacute;znamom "<klr>(pribli&zcaron;n&aacute;)</klr>
+  polovica"</trd>
+  <trd lng="sv">s&aring;</trd>
+  <trd lng="uk">&c_s;&c_ib;&c_ja;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="sem.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sem.0o.KOMUNE">
+    <dif>
+      Malgranda fekunda&jcirc;o, el kiu kreskos io:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        scienco havas <tld/>on enuan, sed frukton bon&gcirc;uan
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <subsnc mrk="sem.0o.BOT">
+      <uzo tip="fak">BOT</uzo>
+      <dif>
+        Tiu parto de <ref tip="malprt" cel="frukt.0o.BOT">frukto</ref>,
+        kiu elfalas post la maturi&gcirc;o, enhavanta la embrion
+        kaj servanta por produkti
+        novan vegeta&jcirc;on:
+        <ekz>
+          iuj <tld/>oj falis apud la vojo, kaj la birdoj venis kaj
+          forman&gcirc;is ilin
+          <fnt><bib>NT</bib>, <lok>&Mat; 13:4</lok></fnt>;
+        </ekz>
+        <ekz>
+          la longe dormintaj <tld/>oj komencis doni la unuajn trunketojn
+          <fnt>
+            <bib>Paroloj</bib>
+            <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+            1907</vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          l&#x2019; amaranto, kies etajn <tld/>ojn, kiuj estas nek greneroj nek legomoj, &ccirc;iu
+          Hindo povas senpeke man&gcirc;i dum la fasto
+          <fnt>
+            <bib>IKr</bib>
+            <lok>La Miraklo De Purun Bhagat</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <klr>[ilia]</klr> nutra&jcirc;o grandparte dependas de radikoj, <tld/>oj de sova&gcirc;aj
+          plantoj, <klr>[&#x2026;]</klr>
+          <fnt>
+            <bib>Ret</bib>
+            <lok>Unua Parto</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <rim>
+        &Ccirc;e malfermfruktoj tio estas aro da <tld/>grajnoj (papavo,
+        pizo), &ccirc;e fermfruktoj tio estas la tuta frukto (greno).
+      </rim>
+    <trd lng="de">Diaspore</trd>
+    </subsnc>
+    <subsnc mrk="sem.0o.fekundiga">
+      <dif>
+        Fruktiga substanco produktata de virseksa homo,
+        besto (<ref cel="sperm.0o">spermo</ref>) a&ubreve; vegeta&jcirc;o (<ref cel="polen.0o">poleno</ref>):
+        <ekz>
+          li apena&ubreve; estis en &scirc;i, jam lia <tld/>o &scirc;prucis, kaj &scirc;i mokis lin plu
+          <fnt>
+            <bib>ChM</bib>
+            <lok>14</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la vento portas <tld/>ojn de planto al planto kaj fekundigas ilin
+          <fnt>
+            <bib>KrB</bib>
+            <lok>Ni dankas la venton</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="sv">s&auml;d</trd>
+    </subsnc>
+  </snc>
+  <snc mrk="sem.0o.GEN">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Idaro, posteulara:
+      <ekz>
+        la <tld/>o de <nom>David</nom>
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. re&gcirc;oj 11:39</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el la re&gcirc;a <tld/>o <klr>(gento)</klr> de <nom>Edom</nom>
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. re&gcirc;oj 11:14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ilian naskitaron Vi ekstermos de sur la tero, kaj ilian <tld/>on el inter la
+        homidoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 21:10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="sang.0o.GEN">sango<sncref/></ref>
+    </refgrp>
+  </snc>
+  <snc mrk="sem.0o.komenco">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Komenca manifesti&gcirc;o de io disvolvi&gcirc;onta;
+      <ref tip="sin" cel="gxerm.0o.FIG">&gcirc;ermo<sncref/></ref>:
+      <ekz>
+        <tld/>o de sova&gcirc;a malamo &gcirc;ermigis en la koro de la maljunulino
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Deksepa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o &jcirc;etita de <nom>Zamenhof</nom> havis la tempon kreski malrapide <klr>[&#x2026;]</klr> la
+        lingvo povis tiel fari&gcirc;i vere vivanta
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Aldono</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de la kanto venis en mian kapon dum mi promenis
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Intervjuo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        unu el la &ccirc;efaj problemoj, kiuj dum kelkaj jarcentoj okupis la antikvan
+        filozofion <klr>[&#x2026;]</klr> estis la demando pri la rilato <klr>[&#x2026;]</klr> inter
+        la objektoj kaj iliaj nomoj, anka&ubreve; en tiu &ccirc;i sfero la grekaj sofistoj &jcirc;etis
+        la unuajn <tld/>ojn
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">saad</trd>
+  <trd lng="am">&#x12D8;&#x122D;</trd>
+  <trd lng="ar">&a_b;&a_dh;&a_r;&a_t_marbuta;</trd>
+  <trd lng="az">toxum</trd>
+  <trd lng="bg">&c_s;&c_je;&c_m;&c_je;</trd>
+  <trd lng="bn">&#x9AC;&#x9C0;&#x99C;</trd>
+  <trd lng="bs">sjemena</trd>
+  <trd lng="co">sumente</trd>
+  <trd lng="cy">hadau</trd>
+  <trd lng="da">fr&oslash;</trd>
+  <trd lng="et">seeme</trd>
+  <trd lng="eu">hazia</trd>
+  <trd lng="fy">sied</trd>
+  <trd lng="ga">s&iacute;ol</trd>
+  <trd lng="gd">s&igrave;ol</trd>
+  <trd lng="gl">semente</trd>
+  <trd lng="gu">&#xAAC;&#xAC0;&#xA9C;</trd>
+  <trd lng="ha">iri</trd>
+  <trd lng="hi">&#x92C;&#x940;&#x91C;</trd>
+  <trd lng="hmn">noob</trd>
+  <trd lng="hr">sjeme</trd>
+  <trd lng="ht">pitit pitit</trd>
+  <trd lng="hy">&#x57D;&#x565;&#x580;&#x574;</trd>
+  <trd lng="ig">mkp&#x1EE5;r&#x1EE5;</trd>
+  <trd lng="is">fr&aelig;</trd>
+  <trd lng="ja">&#x30B7;&#x30FC;&#x30C9;</trd>
+  <trd lng="jv">winih</trd>
+  <trd lng="ka">&#x10D7;&#x10D4;&#x10E1;&#x10DA;&#x10D8;</trd>
+  <trd lng="kek">aweel</trd>
+  <trd lng="be">&c_s;&c_je;&c_m;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>semeno</trd>,
+    <trd>sem&iacute;nko</trd>
+  </trdgrp>
+  <trd lng="de">Samen</trd>
+  <trd lng="el">&sigma;&pi;&omikron_ton;&rho;&omikron;&sigma_fina;</trd>
+  <trd lng="en">seed</trd>
+  <trd lng="es">semilla</trd>
+  <trd lng="fr">semence</trd>
+  <trd lng="hu">mag</trd>
+  <trd lng="it">seme</trd>
+  <trd lng="kk">&c_t;&#x4B1;&#x49B;&c_y;&c_m;</trd>
+  <trd lng="km">&#x1796;&#x17BC;&#x1787;</trd>
+  <trd lng="kn">&#xCAC;&#xCC0;&#xC9C;</trd>
+  <trd lng="ko">&#xC528;&#xC557;</trd>
+  <trd lng="ku">toxim</trd>
+  <trd lng="ky">&c_t;&c_u;&c_k;&c_u;&c_m;</trd>
+  <trd lng="lat">semen</trd>
+  <trd lng="lo">&#xEC0;&#xEA1;&#xEB1;&#xE94;&#xE9E;&#xEB1;&#xE99;</trd>
+  <trd lng="lt">s&#x117;klos</trd>
+  <trd lng="lv">s&#275;kla</trd>
+  <trd lng="mg">voa</trd>
+  <trd lng="mi">uri</trd>
+  <trd lng="mk">&c_s;&c_je;&c_m;&c_je;</trd>
+  <trd lng="ml">&#xD35;&#xD3F;&#xD24;&#xD4D;&#xD24;&#xD4D;</trd>
+  <trd lng="mn">&#x4AF;&c_r;&c_i;&c_j;&c_n;</trd>
+  <trd lng="mr">&#x92C;&#x940;</trd>
+  <trd lng="ms">benih</trd>
+  <trd lng="mt">&zdot;errieg&#x127;a</trd>
+  <trd lng="my">&#x1021;&#x1005;&#x1031;&#x1037;</trd>
+  <trd lng="ne">&#x92C;&#x940;&#x909;</trd>
+  <trd lng="nl">zaad</trd>
+  <trd lng="ny">mbewu</trd>
+  <trd lng="pa">&#xA2C;&#xA40;&#xA1C;</trd>
+  <trdgrp lng="pl">
+    <trd>nasienie</trd>,
+    <trd>posiew</trd>,
+    <trd>ziarno</trd>
+  </trdgrp>
+  <trd lng="ps">&a_d; &a_t;&a_kh;&a_m;</trd>
+  <trd lng="ru">&c_s;&c_je;&c_m;&c_ja;</trd>
+  <trd lng="rw">imbuto</trd>
+  <trd lng="sd">&#x67B;&a_j;</trd>
+  <trd lng="si">&#xDB6;&#xDD3;&#xDA2;</trd>
+  <trdgrp lng="sk">
+    <trd>semeno</trd>,
+    <trd>semienko</trd>
+  </trdgrp>
+  <trd lng="sl">seme</trd>
+  <trd lng="sm">fatu</trd>
+  <trd lng="sn">mhodzi</trd>
+  <trd lng="so">abuur</trd>
+  <trd lng="sq">far&euml;</trd>
+  <trd lng="st">peo ea</trd>
+  <trd lng="su">siki</trd>
+  <trd lng="sw">mbegu</trd>
+  <trd lng="ta">&#xBB5;&#xBBF;&#xBA4;&#xBC8;</trd>
+  <trd lng="te">&#xC35;&#xC3F;&#xC24;&#xC4D;&#xC24;&#xC28;&#xC02;</trd>
+  <trd lng="tg">&c_t;&c_u;&c_h;&c_m;&#x4E3;</trd>
+  <trd lng="th">&#xE40;&#xE21;&#xE25;&#xE47;&#xE14;&#xE1E;&#xE31;&#xE19;&#xE18;&#xE38;&#xE4C;</trd>
+  <trd lng="tl">buto</trd>
+  <trd lng="tt">&c_o;&c_r;&c_l;&c_y;&c_k;</trd>
+  <trd lng="uk">&c_n;&c_a;&c_s;&c_ib;&c_n;&c_n;&c_ja;</trd>
+  <trd lng="ur">&a_b;&f_y;&a_j;</trd>
+  <trd lng="uz">urug &#x2018;</trd>
+  <trd lng="vi">h&#x1EA1;t gi&#x1ED1;ng</trd>
+  <trd lng="xh">imbewu</trd>
+  <trd lng="yi">&zayin;&vav;&yod;&mem;&ayin;&fnun;</trd>
+  <trd lng="yo">irugbin</trd>
+  <trd lng="zu">inzalo</trd>
+</drv>
+
+<drv mrk="sem.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="sem.0ado.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        la plugisto plugas por <tld/>ado, sulkaran&gcirc;as kaj erpas sian kampon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 28:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiel longe, kiel la tero ekzistos, <tld/>ado kaj rikoltado, malvarmo kaj varmo,
+        somero kaj vintro, tago kaj nokto ne &ccirc;esi&gcirc;os
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 8:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        malmultaj el vi konas la historion de la unuaj dek jaroj, kiuj konsistis el
+        senfina, &scirc;ajne tute sensukcesa <tld/>ado
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        rikolti fruktojn el aliula <tld/>ado
+        <klr>(profiti de aliula laboro, plagiati)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_ja;&c_w;&c_b;&c_a;</trd>
+  <trd lng="bg">&c_s;&c_je;&c_i;&c_t;&c_b;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>osev</trd>,
+    <trd>setba</trd>,
+    <trd>set&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Aussaat</trd>,
+    <trd>Saat</trd>
+  </trdgrp>
+  <trd lng="fr">semaille</trd>
+  <trd lng="ja">&#x7A2E;&#x307E;&#x304D;  <pr>&#x305F;&#x306D;&#x307E;&#x304D;</pr></trd>
+  <trd lng="pl">zasiew</trd>
+  <trdgrp lng="sk">
+    <trd>osev</trd>,
+    <trd>sejba</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_ib;&c_v;&c_b;&c_a;</trd>
+</drv>
+
+<drv mrk="sem.dis0i">
+  <kap><ofc>*</ofc>dis<tld/>i
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, dis'</lok></fnt></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sem.dis0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Disvastigi, dismeti en multajn malproksimajn lokojn:
+      <ekz>
+        la unua el la tri jaroj, dum kiuj mi kulturis grenon, mi &gcirc;in dis<tld/>is tro
+        malfrue
+        <fnt>
+          <bib>Rob</bib>
+          <lok>Parto III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        mi dis<tld/>os ilin inter popoloj, kiujn ne konos
+        ili <klr>(vd <ref cel="diaspor.0o">diasporo</ref>)</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 9:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oazoj dis<tld/>itaj en la dezerto
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li aktive dis<tld/>is kristanismon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2015/011403.php">Misiisto, mar&scirc;ado kaj detenanta mano</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu negativismo ne meritus e&ccirc; mencion, se &gcirc;i ne disrompus la konkordon kaj
+        dis<tld/>us defetismon
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sxut">dis&scirc;uti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_mol;&c_s;&c_je;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_a;&c_w;&c_s;&c_ju;&c_w;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_p;&c_r;&c_malmol;&c_s;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>rozpt&yacute;lit</trd>,
+    <trd>roztrousit</trd>
+  </trdgrp>
+  <trd lng="de">auss&auml;en</trd>
+  <trdgrp lng="en">
+    <trd>disseminate</trd>,
+    <trd>scatter</trd>
+  </trdgrp>
+  <trd lng="es">diseminar</trd>
+  <trd lng="fr">diss&eacute;miner</trd>
+  <trd lng="it">disseminare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3070;&#x3089;&#x307E;&#x304F;</trd>,
+    <trd>&#x307E;&#x304D;&#x6563;&#x3089;&#x3059;  <pr>&#x307E;&#x304D;&#x3061;&#x3089;&#x3059;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rozsiewa&cacute;</trd>,
+    <trd>rozpowszechnia&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_je;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_je;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozosia&tcaron;</trd>,
+    <trd>vysia&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_s;&c_ib;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="sem.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sem.pri0i.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Provi fekundigi per <tld/>oj:
+      <ekz>
+        dum ses jaroj pri<tld/>u vian kampon
+        <fnt><bib>MT</bib>, <lok>&Lev; 25:3</lok></fnt>.
+      </ekz>
+      <ekz>
+        la fenestroj <klr>[&#x2026;]</klr> glacii&gcirc;as tiel mirinde, kvaza&ubreve; ili estus
+        pri<tld/>itaj per floroj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">ensemencer</trd>
+  </snc>
+  <snc mrk="sem.pri0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Disigi tra la spaco de...:
+      <ekz>
+        viza&gcirc;o <klr>[&#x2026;]</klr> oran&gcirc;eflava kaj pri<tld/>ita per ru&gcirc;aj ulceroj
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la padoj estis pri<tld/>itaj per grandaj diverskoloraj
+        &scirc;tonoj
+        <fnt>
+          <aut>A. Pogorelskij, trad. A. &Hcirc;i&jcirc;njak</aut>,
+          <vrk><url ref="http://miresperanto.ru/por_infanoj/nigra_kokino/07.htm">
+          Nigra kokino</url></vrk>,
+          <lok>[vidita en 2015]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">parsemer</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_s;&c_je;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>os&iacute;t</trd>,
+    <trd>s&iacute;t</trd>,
+    <trd>vys&eacute;vat</trd>,
+    <trd>zas&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>bes&auml;en</trd>,
+    <trd>&uuml;bers&auml;en</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7A2E;&#x3092;&#x307E;&#x304F;  <pr>&#x305F;&#x306D;&#x3092;&#x307E;&#x304F;</pr></trd>,
+    <trd>&#x3070;&#x3089;&#x307E;&#x304F;</trd>
+  </trdgrp>
+  <trd lng="pl">obsia&cacute;</trd>
+  <trdgrp lng="sk">
+    <trd>posia&tcaron;</trd>,
+    <trd>sia&tcaron;</trd>,
+    <trd>zasia&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_b;&c_s;&c_ib;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_ib;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sem.flug0o">
+  <kap>flug<tld/>o</kap>
+  <snc mrk="sem.flug0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="sem.0o.BOT"><tld lit="S"/>o</ref>
+      havanta rigidan flugilon, per kiu &gcirc;i glisas la&ubreve;
+      vento:
+      <ekz>
+        tiu arbo poste &ccirc;iujare denove eksplodos en milojn
+        da tiaj mirindaj flug<tld/>oj
+        <fnt>
+          <aut>V. O&scaron;lak</aut>,
+          <vrk><url ref="http://www.esperanto.es:8080/jspui/bitstream/11013/4046/1/Eo%20-%20Oslak,%20Vinko%20-%20Filozofii%20subtende.pdf">
+          Filozofii subtende</url></vrk>,
+          <lok>2000</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Flugsamen</trd>
+  <trd lng="fr">graine ail&eacute;e</trd>
+  <trd lng="pl">nasiono skrzydlate</trd>
+</drv>
+
+<drv mrk="sem.hok0o">
+  <kap>hok<tld/>o</kap>
+  <snc mrk="sem.hok0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="sem.0o.BOT"><tld lit="S"/>o</ref>
+      havanta hokon, per kiu &gcirc;i kro&ccirc;i&gcirc;as al felo de
+      pasanta besto:
+      <ekz>
+        malmultaj rilatoj estas pli okulfrapaj ol la
+        adapti&gcirc;o de hok<tld/>oj por transporti&gcirc;o per la
+        lano a&ubreve; felo de kvarpieduloj
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro
+        12a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Kletthafter</trd>,
+    <trd>Klettfrucht</trd>
+  </trdgrp>
+  <trd lng="fr">graine &agrave; crochet</trd>
+  <trd lng="pl">nasiono haczykowate</trd>
+</drv>
+
+<drv mrk="sem.0oplantoj">
+  <kap><tld/>oplantoj</kap>
+  <snc mrk="sem.0oplantoj.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <ref tip="dif" cel="flor.0oplant">floroplantoj</ref>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_s;&c_je;&c_n;&c_n;&c_y;&c_ja; &c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_s;&c_je;&c_m;&c_je;&c_n;&c_n;&c_i; &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="de">Samenpflanzen</trd>
+  <trdgrp lng="fr">
+    <trd>phan&eacute;rogames</trd>,
+    <trd>plantes &agrave; fleurs</trd>,
+    <trd>spermaphytes</trd>
+  </trdgrp>
+  <trd lng="hu">magvas n&ouml;v&eacute;nyek</trd>
+  <trd lng="pl">ro&sacute;liny  <ind>nasienne</ind></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.119 2023/12/12 20:10:27
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.118 2023/10/21 06:31:44
+revo: transskribo per <pr>
+
+versio 1.116 2023/08/13 17:26:16
+Vito Redsky: +trd pl 
+
+versio 1.115 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.114 2022/04/07 06:34:15
+Wolfram Diestel: ~ado..: ekz-oj, trd de
+
+versio 1.113 2022/04/06 20:30:44
+Wolfram Diestel: ~o: ekz-oj, redifino snc 3 = &gcirc;ermo FIG
+
+versio 1.112 2022/04/06 06:33:21
+Wolfram Diestel: ~i: ekz-oj, ref-oj
+
+versio 1.109 2021/10/11 18:34:21
+-->
+</vortaro>

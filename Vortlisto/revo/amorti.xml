@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: amorti.xml,v 1.31 2023/10/12 18:05:09 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>amortiz</rad>/i
+</kap>
+<drv mrk="amorti.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="nul0.0igi.KOMUNE">Nuligi</ref>
+      &scirc;uldon a&ubreve; &ccirc;ioman elspezon por a&ccirc;etitaj
+      ma&scirc;inoj a&ubreve; aliaj laboriloj per iom-post-iomaj pagoj:
+      <ekz>
+        ju pli malfacile estas por la &scirc;tato <tld/>i &scirc;uldojn, des pli altaj estas rentoj
+        por novaj kreditoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2010/010078.php">&Scirc;uldoj kaj kulpoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la enspezoj multoble <tld/>is la komencajn investojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jaume Clotet</aut>
+          <vrk><url ref="&Monato;/2012/010745.php">Mi ne volas pagi ...</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni da&ubreve;re &scirc;paros energikostojn, kaj post 14 jaroj la pliaj kostoj estos
+        <tld/>itaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2014/011177.php">Pasive en la estontecon</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se oni uzas LEDon tri horojn tage, la investo estos <tld/>ita post kelke da
+        monatoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2015/011486.php">Neleda LEDo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">amortitzar</trd>
+    <trdgrp lng="de">
+      <trd>amortisieren</trd>,
+      <trd>tilgen</trd>,
+      <trd>abtragen</trd>,
+      <trd>zur&uuml;ckzahlen</trd>
+    </trdgrp>
+    <trd lng="en">amortize</trd>
+    <trd lng="es">amortizar</trd>
+    <trd lng="hu">t&ouml;rleszt</trd>
+    <trd lng="it">ammortizzare<klr> (ammortamento)</klr></trd>
+    <trd lng="pl">amortyzowa&cacute;</trd>
+    <trd lng="sk">amortizova&tcaron;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">ELE</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">AUT</uzo>
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      Malpligrandigi la sinsekvajn oscilojn de vibrado:
+      <ekz>
+        radiad&scirc;irma betono estas betono, kiu <tld/>as biologie dama&gcirc;an radiadon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=7825">Radiad&scirc;irma betono</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="damp.0i.MUZ">dampi</ref>
+    <trdgrp lng="ca">
+      <trd>amortir</trd>,
+      <trd>esmorteir</trd>
+    </trdgrp>
+    <trd lng="de">d&auml;mpfen</trd>
+    <trdgrp lng="en">
+      <trd>damp</trd>,
+      <trd>dampen</trd>
+    </trdgrp>
+    <trd lng="es">amortiguar</trd>
+    <trd lng="hu">csillap&iacute;t<klr tip="ind">
+(rezg&eacute;st)</klr></trd>
+    <trd lng="it">ammortizzare</trd>
+    <trd lng="pl">amortyzowa&cacute;</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_m;&c_a;&c_r;&c_t;&c_y;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>amortizovat</trd>,
+    <trd>splatit</trd>,
+    <trd>spl&aacute;cet</trd>,
+    <trd>umo&rcaron;it</trd>,
+    <trd>umo&rcaron;ovat <klr>(dluh)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">amortir</trd>
+  <trd lng="he">&#x5DC;&#x5E2;&#x5D1;&#x5D5;&#x5E8; &#x5E4;&#x5D7;&#x5EA; &#x5D0;&#x5D5;
+  &#x5D1;&#x5DC;&#x5D0;&#x5D9;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6E1B;&#x4FA1;&#x511F;&#21364;&#12377;&#x308B; 
+    <pr>&#12370;&#12435;&#x304B;&#12375;&#12423;&#12358;&#x304D;&#12419;&#x304F;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x6E1B;&#34928;&#12373;&#x305B;&#x308B; <pr>&#12370;&#12435;&#12377;&#12356;&#12373;&#12379;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_m;&c_o;&c_r;&c_t;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>spl&aacute;ca&tcaron;</trd>,
+    <trd>umori&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&#x43C;&#x43E;&c_r;&c_t;&c_i;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&#x43E;&c_g;&c_a;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i; &c_b;&#x43E;&c_r;&c_g;(&c_i;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="amorti.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">AUT</uzo>
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      Aparato, kiu malpligrandigas la sinsekvajn oscilojn de vibrado,
+      ekz. en a&ubreve;tomobilo:
+      <ekz>
+        skusorbilo a&ubreve; <tld/>ilo estas aparato kiu interalie trovi&gcirc;as en la suspensio de
+        veturilo por <tld/>i la osciladojn de la risorto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=536634">Skusorbilo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="damp.0ilo">dampilo</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_m;&c_a;&c_r;&c_t;&c_y;&c_z;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="ca">amortidor</trd>
+  <trdgrp lng="cs">
+    <trd>amortiz&eacute;r</trd>,
+    <trd>tlumi&ccaron; n&aacute;raz&uring;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>D&auml;mpfer</trd>,
+    <trd>Sto&szlig;d&auml;mpfer</trd>
+  </trdgrp>
+  <trd lng="en">shock absorber</trd>
+  <trd lng="es">amortiguador</trd>
+  <trd lng="fr">amortisseur</trd>
+  <trd lng="hu">leng&eacute;scsillap&iacute;t&oacute;</trd>
+  <trd lng="it">ammortizzatore</trd>
+  <trd lng="nl">schokdemper</trd>
+  <trd lng="pl">amortyzator</trd>
+  <trd lng="ru">&c_a;&c_m;&c_o;&c_r;&c_t;&c_i;&c_z;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>amortiz&eacute;r</trd>,
+    <trd>tlmi&ccaron; n&aacute;razov</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.30 2023/09/12 16:31:40
+Wolfram Diestel: pr. ja
+
+versio 1.28 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.24  2019/01/23 19:10:15  revo
+Wolfram Diestel: +ekz-oj, ref dampi(lo)
+
+Revision 1.23  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2012/07/22 16:10:11  revo
+Marc Rausell: + trd ca
+
+Revision 1.20  2010/05/17 16:30:25  revo
+-->
+</vortaro>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: epilep.xml,v 1.26 2023/11/07 20:34:11 revo Exp $">
+  <kap>
+    <ofc>1</ofc>
+    <rad>epilepsi</rad>/o
+  </kap>
+  <drv mrk="epilep.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="san.mal0o" lst="voko:malsanoj">Malsano</ref>
+      karakterizata de la perdo je l' konscio kaj de konvulsioj:
+      <ekz>
+        kial mi estas <tld/>ulo, mi ne estas certa, sed dum mia juneco kelkaj
+        maljunulinoj, kiuj kredeble estis sor&ccirc;istinoj, diris al mia kara patrino:
+        &leftquot;tiu knabo tro studas, kaj tro filozofas, li tro stre&ccirc;as la cerbon, sendube
+        li mortos dum la juneco!&rightquot; nu, tio ankora&ubreve; ne okazis, sed kredeble estis la
+        ka&ubreve;zo de la <tld/>o
+        <fnt>
+	<aut>Robert Robertson</aut>
+	<vrk><url ref="&Monato;/2000/006822.php">Metempsikozo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_p;&c_ib;&c_l;&c_je;&c_p;&c_s;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_je;&c_p;&c_i;&c_l;&c_je;&c_p;&c_s;&c_i;&c_ja;</trd>
+  <trd lng="ca">epil&egrave;psia</trd>
+  <trdgrp lng="cs">
+    <trd>epilepsie</trd>,
+    <trd>padoucnice</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Epilepsie</trd>,
+     <trd>Fallsucht<klr> (veraltet)</klr></trd>
+  </trdgrp>
+  <trd lng="el">&epsilon;&pi;&jota;&lambda;&eta;&psi;&jota_ton;&alfa;</trd>
+  <trd lng="en">epilepsy</trd>
+  <trd lng="es">epilepsia</trd>
+  <trd lng="fr">&eacute;pilepsie</trd>
+  <trdgrp lng="id">
+    <trd>ayan</trd>,
+    <trd>epilepsi</trd>
+  </trdgrp>
+  <trd lng="ja">&#x3066;&#x3093;&#x304B;&#x3093;</trd>
+  <trd lng="nl">epilepsie</trd>
+  <trdgrp lng="pl">
+    <trd>padaczka</trd>,
+    <trd>epilepsja</trd>
+  </trdgrp>
+  <trd lng="pt">epilepsia</trd>
+  <trd lng="ru">&c_e;&c_p;&c_i;&c_l;&c_je;&c_p;&c_s;&c_i;&c_ja;</trd>
+  <trd lng="sk">pad&uacute;cnica</trd>
+  <trd lng="uk">&c_je;&#x43F;&c_ib;&#x43B;&c_je;&#x43F;&c_s;&c_ib;&#x44F;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x766B;&#x75EB;&#x75C5; <pr>di&#x101;nxi&#xE1;nb&#xEC;ng</pr></trd>,
+    <trd>&#x7F8A;&#x89D2;&#x98A8; <pr>y&#xE1;ngjiaof&#x113;ng</pr></trd>,
+    <trd>&#x75EB; <pr>xi&#xE1;n</pr></trd>,
+    <trd>&#x766B;&#x75EB; <pr>di&#x101;nxi&#xE1;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/04/24 12:46:12
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.23 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/11/17 14:10:28  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.17  2014/01/17 21:10:18  revo
+Joop Eggen: +trd bg
+
+Revision 1.16  2013/10/07 15:10:31  revo
+Wolfram Diestel: ref la lst malsanoj
+
+Revision 1.15  2012/07/16 10:10:28  revo
+-->
+</vortaro>

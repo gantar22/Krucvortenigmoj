@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hirund.xml,v 1.35 2023/11/15 17:08:01 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>hirund</rad>/o
+</kap>
+
+<drv mrk="hirund.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="hirund.0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Iu el la familio <ref tip="malprt" cel="hirund1.0oj"><tld/>edoj</ref>,
+      birdo kun pintaj flugiloj kaj longa 12-pluma ofte fendita vosto:
+      <ekz>
+        turto, <tld/>o, kaj gruo observas la tempon, kiam ili devas veni
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 8:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel <tld/>o forflugas, tiel senka&ubreve;za malbeno ne efektivi&gcirc;as
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 26:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en a&ubreve;tuno &ccirc;iuj <tld/>oj flugas al la varmaj landoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Elinjo-fingreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni klare vidis la frontonon kun la nesto de <tld/>oj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Najbaraj familioj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>unu <tld/>o printempon ne alportas</ind>
+        <klr>(oni povas nenion konkludi el ununura ekzemplo)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="pl">jedna jask&oacute;&lstroke;ka wiosny nie
+        czyni</trd>
+      </ekz>
+    </dif>                     
+    <trd lng="bg">&c_l;&c_ja;&c_s;&c_t;&c_o;&c_v;&c_i;&c_c;&c_a;</trd>      
+    <trd lng="br">gwennili</trd>
+    <trd lng="cs">vla&scaron;tovka</trd>
+    <trd lng="de">Schwalbe</trd>
+    <trd lng="el">&chi;&epsilon;&lambda;&jota;&delta;&omikron_ton;&ny;&jota;</trd>
+    <trd lng="en">swallow</trd>
+    <trd lng="es">golondrina</trd>
+    <trd lng="fr">hirondelle</trd>
+    <trdgrp lng="id">
+      <trd><ind>burung</ind> layang-layang</trd>,
+      <trd>walet</trd>
+    </trdgrp>
+    <trd lng="nl">zwaluw</trd>
+    <trd lng="pl">jask&oacute;&lstroke;ka</trd>
+    <trd lng="pt">andorinha</trd>
+    <trd lng="ru">&c_l;&c_a;&c_s;&c_t;&c_o;&c_ch;&c_k;&c_a;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x71D5;&#x5B50; <pr>y&#xE0;nzi</pr></trd>,
+    <trd>&#x9CE6; <pr>y&#x1D0;</pr></trd>,
+    <trd>&#x9DFE; <pr>y&#xEC;</pr></trd>,
+    <trd>&#x71D5; <pr>y&#xE0;n</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="hirund.0o.genro">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el la familio <ref tip="malprt" cel="hirund1.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Hirundo</trd>).
+    </dif>
+    <bld lok="&WCU;/thumb/9/97/Barn_Swallow_(Hirundo_rustica)_(10).jpg/640px-Barn_Swallow_(Hirundo_rustica)_(10).jpg" prm="CC BY-SA 3.0"><tld/>oj (Hirundo rustica), County Cork, Irlando
+        <fnt>
+          <aut>Ken Billington, propra verko</aut>
+          <lok><url ref="&WCW;/File:Barn_Swallow_(Hirundo_rustica)_(10).jpg">&WCW;/File:Barn_Swallow_(Hirundo_rustica)_(10).jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_l;&c_a;&c_s;&c_t;&c_a;&c_w;&c_k;&c_a;</trd>
+  <trd lng="hu">fecske</trd>
+  <trd lng="ja">&#x30C4;&#x30D0;&#x30E1;</trd>
+  <trd lng="sk">lastovi&ccaron;ka</trd>
+  <trd lng="uk">&#x43B;&c_a;&c_s;&c_t;&c_ib;&c_v;&#x43A;&c_a;</trd>
+</drv>
+
+<drv mrk="hirund.nokto0o">
+  <kap>nokto<tld/>o</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc>
+    <ref tip="dif" cel="kaprim.0o">kaprimulgo</ref>
+  </snc>
+  <trd lng="be">&c_l;&c_ja;&c_l;&c_ja;&c_k;</trd>
+  <trd lng="br">adren</trd>
+  <trd lng="cs">lelek</trd>
+  <trd lng="de">Nachtschwalbe</trd>
+  <trd lng="hu">kecskefej&odblac;</trd>
+  <trdgrp lng="nl">
+    <trd>geitenmelker<klr tip="ind"> (zwaluw)</klr></trd>,
+    <trd>nachtzwaluw</trd>
+  </trdgrp>
+  <trd lng="pl">lelek kozod&oacute;j</trd>
+  <trd lng="pt">noitib&oacute;</trd>
+  <trd lng="sk">lelek</trd>
+  <trd lng="zh">&#x591C;&#x9DF9; <pr>y&#xE8;y&#x12B;ng</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.33 2022/12/07 09:27:32
+Dmitri Gabinski: + trd be
+
+versio 1.32 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.30 2021/02/19 18:41:43
+Wolfram Diestel: +ekz-oj, bld
+
+Revision 1.28  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2014/06/30 15:10:19  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.25  2013/09/01 15:10:46  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.24  2010/01/15 17:30:28  revo
+-->
+</vortaro>

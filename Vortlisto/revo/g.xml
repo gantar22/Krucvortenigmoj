@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: g.xml,v 1.15 2023/08/31 14:29:56 revo Exp $">
+<kap>
+   <ofc>*</ofc><ofc>7</ofc><rad>go</rad>
+</kap>
+
+<drv mrk="g.0">
+  <kap><tld/></kap>
+    <uzo tip="fak">LIN</uzo>
+    <uzo tip="fak">GRA</uzo>
+    <uzo tip="fak">FON</uzo>
+  <snc mrk="g.0.konsonanto">    
+    <dif>
+      Nomo de la oka litero de la Esperanta alfabeto:
+      <ekz>
+        nomoj de la literoj: a, bo, co, &ccirc;o, do, e, fo, <tld/>, ho
+        <klr>[...]</klr>
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 1</lok>
+        </fnt>;</ekz>
+        <ekz>
+           <tld lit="G"/>-Po-U! &ndash; aldonis jam tute la&ubreve;te la kasisto
+           <fnt><bib>Metrop</bib></fnt>;
+        </ekz>
+      uzata i.a. kiel:
+    </dif>
+  <subsnc>
+      <uzo tip="fak">MUZ</uzo>
+      <dif>
+        (maj.) nomo de la kvina tono de la C-ma&jcirc;ora gamo (392 Hz;
+        absolut-solfe&gcirc;a sol): <ekz>G bemola, diesa; G-kleo;</ekz>
+      </dif>
+      <trd lng="fr">sol</trd>
+      <trdgrp lng="nl">
+        <trd>g<klr tip="amb"> (muzieknoot)</klr></trd>,
+        <trd>sol</trd>
+      </trdgrp>
+      <trdgrp lng="no">
+        <trd>G<klr tip="amb"> (tone)</klr></trd>,
+        <trd>sol</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>g<klr tip="amb"> (nuta)</klr></trd>,
+        <trd>sol</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc>
+      <uzo tip="fak">FIZ</uzo>
+      <dif>
+        (min.) simbolo de gramo: <ekz>g;</ekz>
+      </dif>
+      <trd lng="fr">gramme</trd>
+      <trd lng="nl">gram</trd>
+      <trd lng="no">gram</trd>
+      <trd lng="pl">gram</trd>
+    </subsnc>
+    <subsnc>
+      <uzo tip="fak">FIZ</uzo>
+      <dif>
+        (min. kursive)  simbolo de konstanto de la tergravita akcelo en
+        difinita loko: <ekz>en Parizo <frm><k>g</k>=9,81
+        m/s&quadrat;</frm>.</ekz>
+      </dif>
+      <trd lng="fr">constante de gravitation</trd>
+      <trdgrp lng="nl">
+        <trd>gravitatieconstante</trd>,
+        <trd>constante van de <ind>zwaartekracht</ind></trd>
+      </trdgrp>
+      <trd lng="no">gravitasjonskonstant</trd>
+      <trd lng="pl">grawitacji sta&lstroke;a</trd>
+    </subsnc>
+    
+  </snc>
+  <trd lng="ja">&#x30B4;&#x30FC;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.14 2023/06/03 21:22:11
+Vito Redsky: +trd pl 
+
+versio 1.13 2021/05/10 18:13:50
+Wolfram Diestel: kor. drv@mrk, sintakso, +ekz
+
+Revision 1.11  2017/11/30 21:10:26  revo
+Michel Cantigneaux: aldonita kaj fundamenta per 7a OA
+
+Revision 1.10  2017/06/19 07:10:13  revo
+Wolfram Diestel: difini liternomon go, ne literon g
+
+Revision 1.9  2015/12/21 02:10:14  revo
+Evandro Avellar: +trd pt
+
+Revision 1.8  2014/12/27 07:10:13  revo
+Filip van Laenen: korr(nl,no)
+
+Revision 1.7  2014/12/27 00:10:12  revo
+Filip van Laenen: +trd(nl,no)
+
+Revision 1.6  2014/04/12 07:10:28  revo
+-->
+</vortaro>

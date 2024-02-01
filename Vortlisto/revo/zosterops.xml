@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: zosterops.xml,v 1.10 2022/06/09 08:40:53 revo Exp $">
+<kap>
+  <rad>zosterops</rad>/o,
+  <var><kap><rad var="p">zosterop</rad>/o <fnt><bib>EncJap</bib></fnt></kap></var>
+</kap>
+<drv mrk="zosterops.0o">
+  <kap><tld/>o, <var><kap><tld var="p"/>o</kap></var></kap>
+  <snc mrk="zosterops.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Malgranda <ref tip="lst" lst="voko:birdoj" cel="bird.0o.ZOO">birdo</ref> 
+      el Afriko, Azio kaj Oceanio, kun bela kanto, 
+      facile rekonebla pro blanka okulringo,
+      <ref tip="lst" lst="voko:zoologiaj_genroj" cel="genr.0o.BIO">genro</ref>
+      el familio zosteropsedoj (<trd lng="la">Zosterops</trd>):
+      <ekz>
+        hodia&ubreve; mi trovis <tld/>on saltetanta<klr>[n]</klr> sur kamelio
+        <fnt>
+          <aut>Vastalto</aut>,
+          <vrk><url ref="http://www.vastalto.com/blog">Akvosfero</url></vrk>,
+          <lok>2007-01-09</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o estis sur &gcirc;ia bran&ccirc;o kaj su&ccirc;adis
+        mielon de &gcirc;iaj floroj
+        <fnt>
+          <aut>oldulo</aut>,
+          <vrk><url ref="http://blog.goo.ne.jp/toi92">
+          [blogo]</url></vrk>,
+          <lok>2007-03-22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Grizadorsa <tld var="p"/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=113687"
+              >Zosteropedoj</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Samoa <tld var="p"/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=361649"
+              >Samoa zosteropo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld
+      lok="&WCU;/thumb/3/35/Oriental_White-eye_Zosterops_palpebrosus_by_Dr_Raju_Kasambe_DSCN8971_(2).jpg/353px-Oriental_White-eye_Zosterops_palpebrosus_by_Dr_Raju_Kasambe_DSCN8971_(2).jpg"
+      prm="CC BY-SA 4.0"
+      >Orienta <tld/>o (Zosterops palpebrosus)
+        <fnt>
+          <aut>Dr. Raju Kasambe, propra verko</aut>
+          <lok><url
+          ref="&WCW;/File:Oriental_White-eye_Zosterops_palpebrosus_by_Dr_Raju_Kasambe_DSCN8971_(2).jpg"
+              >&WCW;/File:Oriental_White-eye_Zosterops_palpebrosus_by_Dr_Raju_Kasambe_DSCN8971_(2).jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="de"> Brillenvogel</trd>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_l;&c_a;&c_v;&c_o;&c_ch;&c_k;&c_a; <klr tip="amb">(&c_p;&c_t;&c_u;&c_sh;&c_k;&c_a;)</klr></trd>
+  <trd lng="ca">zost&egrave;rops</trd>
+  <trd lng="en">white-eye</trd>
+  <trdgrp lng="fr">
+    <trd>oiseau lunette</trd>,
+    <trd>zosterops</trd>
+  </trdgrp>
+  <trd lng="hu">p&aacute;paszemes <ind>mad&aacute;r</ind></trd>
+  <trd lng="it">zosteropo</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.10 2022/06/09 08:40:53
+Dmitri Gabinski: + trd be
+
+versio 1.9 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.8 2021/04/11 18:10:37
+Wolfram Diestel: lst birdoj
+
+versio 1.7 2020/09/06 20:10:35
+Wolfram Diestel: +tld-var
+
+Revision 1.5  2015/01/23 23:10:17  revo
+Jeromo Vasxe: vortanalizilo: kor troan klr
+
+Revision 1.4  2012/08/11 17:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.3  2009/03/09 17:31:27  revo
+Antonio Codazzi: +trd it
+
+Revision 1.2  2008/03/31 17:53:17  revo
+-->
+</vortaro>

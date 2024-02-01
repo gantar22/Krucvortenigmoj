@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: menagx.xml,v 1.15 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <rad>mena&gcirc;eri</rad>/o
+</kap>
+<drv mrk="menagx.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+    <dif>
+     <ref tip="super" cel="lok.0o.spaca">Loko</ref>, 
+      kie oni kolektas kuriozajn bestojn por esploraj celoj a&ubreve; por
+      elmontrado al la publiko, bestejo:
+      <ekz>
+        leonoj estis tenitaj en <tld/>o ekde Romaj tempoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=9286">Leono</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Ludoviko la 9-a, <klr>[&#x2026;]</klr> venigis en 1255 elefanton el la
+        sankta lando
+        post perdo de la sesa krucmilito, ankora&ubreve; en la sama jaro li
+        sendis la beston
+        <klr>[&#x2026;]</klr> kiel donaco al Henriko la 3-a, la elefanto mortis
+        en la
+        <tld/>o de la turo de Londono
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=315875">Elefanto de Ludoviko la 9-a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+       <ref cel="gxarde.besto0o">besto&gcirc;ardeno</ref>,
+       <ref cel="zo.0o">zoo</ref>
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>zoo</trd>,
+      <trd>zoological garden</trd>,
+      <trd>menagerie</trd>
+    </trdgrp>
+    <trd lng="hu">man&eacute;zs</trd>
+  <trdgrp lng="pt">
+    <trd>jardim <ind>zool&oacute;gico</ind></trd>,
+    <trd>cole&ccedil;&atilde;o de <ind>animais</ind></trd>
+  </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Tia <ref cel="kolekt.0o.art">kolekto</ref>
+      da bestoj:
+      <ekz>
+        &scirc;ia lo&gcirc;ejo estis hejmo al tuta <tld/>o de e&ubreve;ropaj kaj ekzotaj
+        bestoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=13316">Sarah Bernhardt</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>zoo</trd>,
+      <trd>menagerie</trd>
+    </trdgrp>
+    <trd lng="hu">&aacute;llatsereglet</trd>    
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_a;&c_p;&c_a;&c_r;&c_k;</trd>,
+    <trd>&c_z;&c_mol;&c_v;&c_ja;&c_r;&c_y;&c_n;&c_je;&c_c;</trd>
+  </trdgrp>
+    <trdgrp lng="de">
+      <trd>Tierschau</trd>,
+      <trd>Menagerie</trd>
+    </trdgrp>
+  <trdgrp lng="es">
+    <trd>colecci&oacute;n de animales curiosos</trd>,
+    <trd>casa de fieras</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5C0F;&#x52D5;&#x7269;&#x5712;  <pr>&#x3057;&#x3087;&#x3046;&#x3069;&#x3046;&#x3076;&#x3064;&#x3048;&#x3093;</pr></trd>,
+    <trd>&#x52D5;&#x7269;&#x305F;&#x3061;  <pr>&#x3069;&#x3046;&#x3076;&#x3064;&#x305F;&#x3061;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">menagerie</trd>
+  <trd lng="pt">cole&ccedil;&atilde;o de <ind>animais</ind></trd>
+  <trd lng="ru">&c_z;&c_v;&c_je;&c_r;&c_i;&c_n;&c_je;&c_c;</trd>
+  <trd lng="uk">&#x437;&#x432;&#x456;&#x440;&#x438;&#x43D;&#x435;&#x446;&#x44C;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.15 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+Revision 1.11  2019/03/11 20:10:19  revo
+Wolfram Diestel: +ekz-oj, ref zoo, bestogxardeno
+
+Revision 1.10  2006/07/31 16:32:25  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2004/06/09 16:32:12  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/05/22 16:30:24  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2002/01/09 17:33:11  revo
+Dennis Wibrow: +trd germ
+
+Revision 1.6  2001/11/29 17:32:42  revo
+Karlo Freeman: +trd=en
+
+Revision 1.5  2001/11/26 17:33:53  revo
+-->
+</vortaro>

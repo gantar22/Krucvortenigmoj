@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ditira.xml,v 1.25 2023/10/14 11:26:54 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ditiramb</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ditira.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ditira.0o.POE">
+    <uzo tip="fak">BELE</uzo>
+    <uzo tip="fak">POE</uzo>
+    <dif>
+      Lirika entuziasma <ref tip="super" cel="poem.0o.POE">poemo</ref>,
+      origine tiaj honorantaj Dionizon:
+      <ekz>
+        Ariono estis <klr>[&#x2026;]</klr> la unua, kiu komponis <tld/>on,
+        enkondukis tiun nomon kaj instruis tiun arton en Korinto
+        <fnt>
+          <aut>Herodoto, trad. S. Sarafian</aut>,
+          <vrk>Historio</vrk>,
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tiu]</klr> speco konsistas el raportado farita de la poeto mem, oni plej
+        ofte trovas tion en <tld/>oj
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Tri</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a intermitado
+        <fnt>
+          <bib>SatirRak</bib>
+          <lok>Liriko</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Dithyrambos</trd>
+    <trd lng="ca">ditirambe</trd>
+    <trd lng="hu">ditirambus</trd>
+  </snc>
+  <snc mrk="ditira.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Entuziasma <ref cel="lauxd.0i">la&ubreve;dado</ref>.
+    </dif>
+    <trd lng="de">Loblied</trd>
+    <trd lng="ca">lloan&ccedil;a</trd>
+    <trd lng="hu">dicshimnusz</trd>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_f;&c_ib;&c_r;&c_a;&c_m;&c_b;</trd>
+  <trdgrp lng="cs">
+    <trd>chvalozp&ecaron;v</trd>,
+    <trd>dithyramb</trd>
+  </trdgrp>
+  <trd lng="el">&delta;&jota;&theta;&ypsilon_ton;&rho;&alfa;&my;&beta;&omikron;&sigma_fina;</trd>
+  <trd lng="en">dithyramb</trd>
+  <trd lng="es">ditirambo</trd>
+  <trd lng="fr">dithyrambe</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9152;&#x795E;&#x30C7;&#x30A3;&#x30AA;&#x30CB;&#x30E5;&#x30BD;&#x30B9;&#x8CDB;&#x6B4C;  <pr>&#x3055;&#x3051;&#x304B;&#x307F;&#x30C7;&#x30A3;&#x30AA;&#x30CB;&#x30E5;&#x30BD;&#x30B9;&#x3055;&#x3093;&#x304B;</pr></trd>,
+    <trd>&#x71B1;&#x72C2;&#x7684;&#x53D9;&#x60C5;&#x8A69;  <pr>&#x306D;&#x3063;&#x304D;&#x3087;&#x3046;&#x3066;&#x304D;&#x3058;&#x3087;&#x3058;&#x3087;&#x3046;&#x3057;</pr></trd>,
+    <trd>&#x71B1;&#x72C2;&#x7684;&#x8CDB;&#x8F9E;  <pr>&#x306D;&#x3063;&#x304D;&#x3087;&#x3046;&#x3066;&#x304D;&#x3055;&#x3093;&#x3058;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">dytyramb</trd>
+  <trd lng="pt">ditirambo</trd>
+  <trd lng="ru">&c_d;&c_i;&c_f;&c_i;&c_r;&c_a;&c_m;&c_b;</trd>
+  <trdgrp lng="sk">
+    <trd>chv&aacute;lospev</trd>,
+    <trd>dityramb</trd>
+  </trdgrp>
+  <trd lng="uk">&c_d;&c_i;&c_f;&c_ib;&c_r;&c_a;&c_m;&c_b;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/14 11:26:54
+revo: transskribo per <pr>
+
+versio 1.23 2022/03/15 19:24:27
+Wolfram Diestel: precizigo, +ekz-oj
+
+Revision 1.20  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/10/06 14:10:10  revo
+Russ Williams: +trd en
+
+Revision 1.18  2011/03/01 01:10:12  revo
+Glavkos Xaon: korektado
+
+Revision 1.17  2009/06/29 18:06:40  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2008/10/03 18:16:23  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.15  2007/08/08 16:31:20  revo
+-->
+</vortaro>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: emaks.xml,v 1.4 2023/04/14 15:26:04 revo Exp $">
+    <kap>
+      <rad>Emaks</rad>/o
+    </kap>
+
+<drv mrk="emaks.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Angle <trd lng="en">Emacs</trd>, tekstredaktilo origine realigita
+      de <nom>Richard Stallman</nom>
+      en 1976, programebla per Lispo:
+      <ekz>
+        tajpado de la novaj literoj estis aparta problemo, kiun mi
+        solvis ene de mia
+        preferata redaktilo, <tld/>o
+        <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="&Monato;/2000/006801.html">
+          Interreto: uniksulo ekspertas Unikodon</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/02, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o <klr>[&#8230;]</klr> normale povas trovi la ta&ubreve;gajn tiparojn,
+        se ili jam estas
+        instalitaj en la X-servilo
+        <fnt>
+          <vrk><url
+          ref="https://www.tldp.org/HOWTO/Esperanto-HOWTO-10.html"
+              >Linux-Esperanto-HOWTO: Redakti per Emakso
+              (Emacs)</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        du gnua&jcirc;oj, <tld/>o kaj la <nom>GNU</nom>-a C-tradukilo
+        <nom>gcc</nom> i&gcirc;is tre popularaj en la mondo
+        <fnt>
+          <vrk><url
+          ref="https://bertilow.com/div/komputada_leksikono/G.html"
+              >Komputada Leksikono</url></vrk>
+          <lok>litero G &ccirc;e bertilow.com</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Emacs</trd>
+    <trd lng="fr">Emacs</trd>
+    <trd lng="nl">Emacs</trd>
+  </snc>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.4 2023/04/14 15:26:04
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.3 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.2 2020/05/11 14:10:18
+Damien Brucker: +trd fr
+-->
+</vortaro>

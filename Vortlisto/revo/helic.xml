@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: helic.xml,v 1.28 2023/11/15 16:45:18 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>helic</rad>/o
+</kap>
+
+<drv mrk="helic.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="helic.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 35</lok></fnt>
+    <dif>
+      Tia neebena <ref tip="lst" lst="voko:formoj" cel="kurb.0o.MAT">kurbo</ref>, ke la
+      angulo inter &gcirc;ia <ref cel="tangx.0anto">tan&gcirc;anto</ref>
+      &ccirc;e punkto <frm>M</frm> kaj la rekto kun difinita direkto 
+      trairanta punkton <frm>M</frm> ne dependas de <frm>M</frm>:
+      <ekz>
+        cirkla <tld/>o <klr>(situanta sur cirkla
+        <ref cel="cilind.0o.surfaco">cilindro</ref>)</klr>;
+      </ekz><ekz>
+        duobla helico de DNA
+        <fnt>
+          
+          <aut>Ste&ccirc;jo Norvell</aut>
+          <vrk><url ref="&Monato;/2000/007157.html">Vivo: Riboj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 16</lok>
+        </fnt>;
+      </ekz><ekz>
+        li malfermis la pordon kaj vidis malvastan
+        <ref cel="sxtup.sxrauxba0aro"><tld/>an &scirc;tuparon</ref>
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Vidanta Mano</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      Ne konfuzu kun:
+      <ref cel="spiral.0o.MAT">spiralo</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="pasx.0o.de_helico">pa&scirc;o</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_mol;&c_p;&c_ib;&c_r;&c_a;&c_l;&c_mol;</trd>,
+      <trd>&c_sh;&c_r;&c_u;&c_b;&c_a;&c_v;&c_a;&c_ja; &c_k;&c_r;&c_y;&c_v;&c_a;&c_ja;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Schraubenlinie</trd>,
+      <trd>Helix</trd>,
+      <trd>Wendel</trd>
+    </trdgrp>
+    <trd lng="en">helix</trd>
+    <trd lng="hu">csavarvonal</trd>
+    <trd lng="id">heliks</trd>
+    <trd lng="nl">schroefdraad</trd>
+    <trd lng="pl">linia &sacute;rubowa</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_p;&c_i;&c_r;&c_a;&c_l;&c_mol;</trd>,
+      <trd>&c_v;&c_i;&c_n;&c_t;&c_o;&c_v;&c_a;&c_ja; <ind>&c_k;&c_r;&c_i;&c_v;&c_a;&c_ja;</ind></trd></trdgrp>
+  </snc>
+  <snc mrk="helic.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Rotacianta <ref tip="prt" cel="sxaft.0o">&scirc;afto</ref> a&ubreve;
+      <ref tip="prt" cel="nab.0o">nabo</ref> kun radiaj
+      <ref tip="prt" cel="al1.0o.helica">aloj<sncref/></ref>
+      aran&gcirc;itaj tiel, ke &ccirc;iu el ili formas parton de
+      &scirc;ra&ubreve;bforma surfaco, kiu movas &scirc;ipon en akvo a&ubreve; flugma&scirc;inon
+      en aero:
+      <ekz>
+        per kiu me&hcirc;anismo tiu speco de &scirc;ipo estas movata, 
+        &ccirc;ar nek velo nek remilo a&ubreve; <tld/>o ekzistis
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Urbo de Imperiestroj</lok>
+        </fnt>;
+      </ekz><ekz>
+        la pasa&gcirc;eraj avioj, kiuj funkciis per <tld/>oj, estis relative
+        malrapidaj
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url>&Monato;/2000/007089.php</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/08, p. 5</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_sh;&c_r;&c_u;&c_b;&c_a; <klr tip="amb">(&c_k;&c_a;&c_r;&c_a;&c_b;&c_l;&c_ja;,
+      &c_s;&c_a;&c_m;&c_a;&c_l;&c_jo;&c_t;&c_a;)</klr></trd>,
+      <trd>&c_v;&c_ib;&c_n;&c_t;</trd>,
+      <trd>&c_p;&c_r;&c_a;&c_p;&c_e;&c_l;&c_je;&c_r;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Schiffsschraube</trd>,
+      <trd>Luftschraube</trd>,
+      <trd>Propeller</trd>
+    </trdgrp>
+    <trd lng="en">propeller</trd>
+    <trdgrp lng="hu">
+      <trd>haj&oacute;csavar</trd>,
+      <trd>l&eacute;gcsavar</trd>,
+      <trd>propeller</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd>baling-baling</trd>,
+      <trd>propeler</trd>
+    </trdgrp>
+    <trd lng="nl">propeller</trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_i;&c_n;&c_t;<klr> (&c_d;&c_v;&c_i;&c_zh;&c_i;&c_t;&c_je;&c_l;&c_mol;)</klr></trd>,
+      <trd>&c_p;&c_r;&c_o;&c_p;&c_je;&c_l;&c_l;&c_je;&c_r;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">h&egrave;lix</trd>
+  <trd lng="el">&epsilon_ton;&lambda;&jota;&kappa;&alfa;&sigma_fina;</trd>
+  <trd lng="es">h&eacute;lice</trd>
+  <trd lng="fr">h&eacute;lice</trd>
+  <trd lng="it">elica</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x308B;&#x307E;&#x304D;&#x7DDA;  <pr>&#x3064;&#x308B;&#x307E;&#x304D;&#x305B;&#x3093;</pr></trd>,
+    <trd>&#x30B9;&#x30AF;&#x30EA;&#x30E5;&#x30FC;</trd>,
+    <trd>&#x30D7;&#x30ED;&#x30DA;&#x30E9;</trd>
+  </trdgrp>
+  <trd lng="pt">h&eacute;lice</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43F;&c_ib;&c_r;&c_a;&#x43B;&#x44C;</trd>,
+    <trd>&c_gu;&c_v;&c_i;&#x43D;&c_t;&#x43E;&#x43F;&#x43E;&c_d;&c_ib;&c_b;&#x43D;&c_a; &#x43D;&c_a;&c_r;&c_ib;&c_z;&#x43A;&c_a;</trd>,
+    <trd>&c_gu;&c_v;&c_i;&#x43D;&c_t;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&#x43F;&c_je;&#x43B;&c_je;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x63A8;&#x8FDB;&#x5668; <pr>tu&#x12B;j&#xEC;nq&#xEC;</pr></trd>,
+    <trd>&#x87BA;&#x65CB; <pr>lu&#xF3;xu&#xE1;n</pr></trd>,
+    <trd>&#x87BA;&#x65CB;&#x5F62; <pr>lu&#xF3;xu&#xE1;nx&#xED;ng</pr></trd>,
+    <trd>&#x87BA;&#x65CB;&#x7DDA; <pr>lu&#xF3;xu&#xE1;nxi&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/16 05:12:01
+revo: transskribo per <pr>
+
+versio 1.25 2023/04/04 11:22:31
+Paul Peeraerts: &Monato;
+
+Revision 1.22  2016/12/05 08:10:19  revo
+Damien Brucker: -tajperaro cxe lst:voko
+
+Revision 1.21  2016/12/03 13:10:18  revo
+Wolfram Diestel: ekz-oj, lst fromoj
+
+Revision 1.20  2014/07/06 16:10:34  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.19  2012/07/31 09:10:36  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2009/09/04 16:30:50  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2007/07/04 16:30:40  revo
+-->
+</vortaro>

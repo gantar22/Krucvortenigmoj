@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: id.xml,v 1.45 2023/11/19 10:22:02 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      -<rad>id</rad>/
+    </kap>
+    <subart>
+<drv mrk="id.0">
+    <kap>-<tld/></kap>
+  <snc>
+  <dif>
+    Sufikso esprimanta &gcirc;eneralan ideon de naskiteco, deveno:
+  </dif>
+  <subsnc mrk="id.0.BIO">
+    <dif>
+      <ref cel="id.0o.BIO"><tld/>o<sncref/></ref>:
+      <ekz>
+        <ref tip="sub" cel="cxeval.0ido">&ccirc;eval<tld/>o</ref> estas nematura &ccirc;evalo
+        <fnt><bib>F</bib>, <lok>&FE; 36</lok></fnt>;
+      </ekz><ekz>
+        <ref tip="sub" cel="hund.0ido">hund<tld/>o</ref> <klr>(naskito de hundino)</klr>;
+      </ekz><ekz>
+        <ref tip="sub" cel="bird.0ido">bird<tld/>o</ref>;
+      </ekz><ekz>
+        brut<tld/>o
+        <fnt><bib>MT</bib> <lok>&Nom; 15:11</lok></fnt>.
+      </ekz>
+    </dif>
+  </subsnc>
+  <subsnc mrk="id.0.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Analogie pri la vegetaloj:
+      <ekz>
+        kreska&jcirc;<tld/>o
+        <fnt><bib>MT</bib>, <lok>&Psa; 80:14</lok></fnt>;
+      </ekz><ekz>
+        <ref tip="sub" cel="plant.0ido">plant<tld/>o</ref>.
+      </ekz>
+    </dif>
+  </subsnc>
+  <subsnc mrk="id.0.posteulo">
+    <dif>
+      Posteuloj de reala a&ubreve; mita praulo:
+      <ekz>
+        la Hebreoj estas <ref cel="izrael.0ido">Izrael<tld/>oj</ref>,
+        &ccirc;ar ili devenas de Izraelo
+        <fnt><bib>F</bib>, <lok>&FE; 36</lok></fnt>;
+      </ekz><ekz>
+        &scirc;emidoj, hagaridoj.
+      </ekz>
+    </dif>
+  </subsnc>
+  <subsnc mrk="id.0.dinastiano">
+    <dif>
+      Ano de dinastio nomata la&ubreve; ties fondinto:
+      <ekz>
+        la Napoleon<tld/>oj esperas ricevi la tronon de Francujo
+        <fnt>
+          <aut>&Z;</aut>:
+          <vrk>Dua Libro de l' Lingvo Internacia</vrk>
+          <lok>Varsovio, 1888. III:12</lok>.
+        </fnt>;
+      </ekz><ekz>
+        <refgrp>
+          <ref cel="karol1.0ido">Karolidoj</ref>,
+          <ref cel="cxingis.0ido">&Ccirc;ingisidoj</ref>,
+          <ref cel="rurik.0ido">Rurikidoj</ref>,
+        Timurido
+        </refgrp>
+      </ekz>
+    </dif>
+  </subsnc>
+  <subsnc mrk="id.0.titolo">
+    <dif>
+      Aldonite al nobela titolo, indikas <tld/>on de posedanto de tiu
+      titolo, kiu ido mem ankora&ubreve; tiun titolon ne havas:
+      <ekz>
+        estis iam <ref cel="regx.0ido">re&gcirc;<tld/>o</ref>, kiu volis
+        edzi&gcirc;i <ts>kun</ts> <klr>al</klr>
+        <ref cel="regx.0idino">re&gcirc;<tld/>ino</ref>  
+        <fnt><bib>Fab1</bib> <lok>Re&gcirc;idino sur pizo</lok></fnt>;
+      </ekz><ekz>
+        la filoj, nepoj kaj pranepoj de re&gcirc;o estas re&gcirc;<tld/>oj
+        <fnt><bib>F</bib>, <lok>&FE; 36</lok></fnt>;
+      </ekz><ekz>
+        Necesas atentigi vin, ke la princino estis &ccirc;i tie, sed la
+        princ<tld/>ino, hejme
+        <fnt><aut>M. Lermontov, tr. N. Danovskij</aut>:
+        <vrk>Princidino Mary</vrk>.
+        <lok>Kaliningrado: Sezonoj, 2014.</lok></fnt>;
+      </ekz><ekz>
+        princ<tld/>o <klr>(filo de princo)</klr>;
+      </ekz><ekz>
+        <ref cel="sinjor.0ido">sinjor<tld/>o</ref>.
+      </ekz>
+    </dif>
+  </subsnc>
+  <subsnc mrk="id.0.BIB">
+    <uzo tip="fak">BIB</uzo>
+    <dif>
+      En bibliaj tradukoj, hebrea idioma&jcirc;o emfazanta heredan
+      a&ubreve;tentecon de aparteno al koncerna speco:
+      <ekz>
+        kio estas hom<tld/>o, ke Vi lin atentas?
+        <fnt><bib>MT</bib>, <lok>&Psa; 144:3</lok></fnt>.
+      </ekz>
+    </dif>
+  </subsnc>
+  <subsnc mrk="id.0.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Lingvofamilio nomata la&ubreve; sia reala a&ubreve; mita fonto:
+      <ekz>
+        <ind>lingvoj latinidaj</ind>;
+        <trd lng="ru">&c_r;&c_o;&c_m;&c_a;&c_n;&c_s;&c_k;&c_i;&c_je; &c_ja;&c_z;&c_y;&c_k;&c_i;</trd>
+      </ekz><ekz>
+        <ind>lingvoj &scirc;emidaj</ind>;
+        <trd lng="ru">&c_s;&c_je;&c_m;&c_i;&c_t;&c_s;&c_k;&c_i;&c_je; &c_ja;&c_z;&c_y;&c_k;&c_i;</trd>
+      </ekz>
+    </dif>
+  </subsnc>
+</snc>
+</drv>
+</subart>
+
+<subart>
+  <dif>
+    Memstara samsignifa vortero.
+    <trdgrp lng="en"><trd>progeny</trd>,
+    <trd>offspring</trd></trdgrp>
+  </dif>
+
+  <drv mrk="id.0o">
+    <kap><tld/>o</kap>
+    <snc mrk="id.0o.BIO">
+      <uzo tip="fak">BIO</uzo>
+      <dif>
+        Juna nematura animalo (besto a&ubreve; homo), precipe tia, kiu
+        ankora&ubreve; dependas je sia patrino:
+        <ekz>
+          Estis iam maljuna kaprino, kiu havis sep <tld/>ojn kaj amis
+          ilin, kiel &ccirc;iu patrino amas siajn infanojn
+          <fnt><bib>ElektFab</bib>, <vrk>La sep kapridoj</vrk></fnt>;
+        </ekz><ekz>
+          konservi al la malsupra parto <klr>[de termitejo]</klr> la
+          necesan varmecon kaj malsekecon por la disvolvi&gcirc;o de la ovoj
+          kaj por la flegado de la <tld/>oj
+          <fnt><vrk>La lo&gcirc;ejoj de la termitoj</vrk>. <bib>FK</bib></fnt>;
+        </ekz><ekz>
+          tridek mamnutrantajn kamel<klr>[in]</klr>ojn kun iliaj <tld/>oj
+          <fnt><bib>MT</bib> <lok>&Gen; 32:15</lok></fnt>;
+        </ekz><ekz>
+          mia patro ne interesi&gcirc;is pri la opinio de la hundino, kiam
+          li dronigis &scirc;iajn <tld/>ojn
+          <fnt><aut>Anna L&ouml;wenstein</aut>: <vrk>La &scirc;tona urbo</vrk></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="ru">&c_d;&c_je;&c_t;&c_jo;&c_n;&c_y;&c_sh;</trd>
+    </snc>
+    <snc mrk="id.0o.GEN">
+      <uzo tip="fak">GEN</uzo>
+      <dif>
+        Filo a&ubreve; filino rilate al amba&ubreve; a&ubreve; ajna el siaj gepatroj:
+        <ekz>
+          geedzoj kun multaj <tld/>oj;
+        </ekz><ekz>
+          la infanoj devos esti <tld/>oj de kiel eble plej
+          kapablaj personoj
+          <fnt>
+            <aut>Platono, tr. D. Broadribb</aut>:
+            <vrk>La Respubliko</vrk>. <lok>Parto 7a</lok>.
+          </fnt>;
+        </ekz><ekz>
+          justa kaj helpema li estas, humila kaj rajdanta sur
+          azeno, sur <tld/>o de azenino
+          <fnt><bib>MT</bib>, <lok>&Zeh; 9:9</lok></fnt>;
+        </ekz><ekz>
+          <uzo tip="stl">FIG</uzo>
+          &ccirc;i tiuj transmaraj barbuloj, <tld/>oj de hundoj,
+          fratoj de Fenicianoj kaj Hebreoj!
+          <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 2a.</lok></fnt>;
+        </ekz><ekz>
+          <uzo tip="fak">MIT</uzo>
+          &ccirc;e la marbordo alvenis la <tld/>oj de aero
+          <fnt><aut>Szathm&aacute;ri</aut>: <vrk>La guarbo</vrk></fnt>.
+        </ekz>
+        <ekz>
+          sed venu &ccirc;i tien vi, ho filoj de sor&ccirc;istino,
+          <tld/>oj de adultulo kaj mal&ccirc;astulino!
+          <fnt><bib>MT</bib>, <lok>&Jes; 57:3</lok></fnt>;
+        </ekz><ekz>
+          &ccirc;u povas virino forgesi sian infaneton kaj ne
+          kompati la <tld/>on de sia ventro?
+          <fnt><bib>MT</bib>, <lok>&Jes; 49:15</lok></fnt>;
+        </ekz><ekz>
+          <uzo tip="stl">FIG</uzo>
+          &ccirc;u vi ne estas infanoj de krimo, <tld/>oj de mensogo
+          <klr>...</klr>?
+          <fnt><bib>MT</bib>, <lok>&Jes; 57:4</lok></fnt>;
+        </ekz><ekz>
+          <uzo tip="stl">FIG</uzo>
+          Berveling estas vera <tld/>o de la ekumenisma epoko
+          <fnt>
+            <aut>Gon&ccedil;alo NEVES</aut>: <vrk>Nia pado</vrk>
+            <bib>Monato</bib>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>Baby</trd>,
+        <trd>Kind</trd>,
+        <trd>Spr&ouml;ssling</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>gyerek</trd>,
+        <trd>k&ouml;ly&ouml;k</trd>,
+        <trd>sarj</trd>
+      </trdgrp>
+      <trd lng="nl">kind</trd>
+      <trd lng="pl">dziecko</trd>
+      <trd lng="pt">filho</trd>
+      <trdgrp lng="ru">
+        <trd>&c_p;&c_o;&c_t;&c_o;&c_m;&c_o;&c_k;</trd>,
+        <trd>&c_p;&c_o;&c_r;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
+        <trd>&c_d;&c_i;&c_t;&c_ja;</trd>,
+        <trd>&c_ch;&c_a;&c_d;&c_o;</trd>
+      </trdgrp>
+      <trdgrp lng="sv">
+        <trd>bebis</trd>,
+        <trd>barn</trd>
+      </trdgrp>
+      <trdgrp lng="zh">
+    <trd>&#x5B50;&#x5B59; <pr>z&#x1D0;s&#x16B;n</pr></trd>,
+    <trd>&#x5B7A;&#x5B50; <pr>r&#xFA;z&#x1D0;</pr></trd>
+  </trdgrp>
+</snc>
+    <snc mrk="id.0o.pranepo">
+      <uzo tip="fak">GEN</uzo>
+      <dif>
+        <ref tip="dif" cel="id.pra0o">Pra<tld/>o</ref>:
+        <ekz>
+          mi estas filo de sa&gcirc;uloj, <tld/>o de antikvaj re&gcirc;oj
+          <fnt><bib>MT</bib>, <lok>&Jes; 19:11</lok></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="de">Nachkomme</trd>
+      <trdgrp lng="hu">
+        <trd>ivad&eacute;k</trd>,
+        <trd>ut&oacute;d</trd>
+      </trdgrp>
+      <trd lng="nl">afstammeling</trd>
+      <trd lng="pl">potomek</trd>
+      <trd lng="pt">descendente</trd>
+      <trdgrp lng="ru">
+        <trd>&c_d;&c_i;&c_t;&c_ja;</trd>,
+        <trd>&c_p;&c_o;&c_t;&c_o;&c_m;&c_o;&c_k;</trd>
+      </trdgrp>
+      <trd lng="sv">avkomma</trd>
+      <trdgrp lng="zh">
+    <trd>&#x5B50;&#x5B59; <pr>z&#x1D0;s&#x16B;n</pr></trd>,
+    <trd>&#x540E;&#x88D4; <pr>h&#xF2;uy&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+    <snc mrk="id.0o.FIG">
+      <uzo tip="stl">RAR</uzo>
+      <uzo tip="stl">EVI</uzo>
+      <uzo tip="stl">FIG</uzo>
+      <dif>
+        <ref tip="dif" cel="discxi.0o">Dis&ccirc;iplo</ref>:
+        <ekz>
+          la <tld/>oj de Apolono, de Orfeo, de Platono, de Lutero, de
+          sankta Bruno.
+        </ekz>
+      </dif>
+      <trd lng="hu">k&ouml;vet&odblac;</trd>
+      <trd lng="nl">discipel</trd>
+      <trd lng="pl">ucze&nacute;</trd>
+      <trdgrp lng="ru">
+        <trd>&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
+        <trd>&c_p;&c_i;&c_t;&c_o;&c_m;&c_je;&c_c;</trd>
+      </trdgrp>
+  </snc>
+  <ref tip="hom" cel="id1.0o">Ido (Esperantido)</ref>
+  <trdgrp lng="be">
+      <trd>&c_d;&c_z;&c_ib;&c_c;&c_ja;</trd>,
+      <trd>&c_n;&c_a;&c_sh;&c_ch;&c_a;&c_d;&c_a;&c_k;</trd>
+   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>descendent</trd>,
+    <trd>d&iacute;t&ecaron;</trd>,
+    <trd>potomek</trd>
+  </trdgrp>
+  <trd lng="cy">cyw</trd>
+  <trd lng="en">young</trd>
+  <trdgrp lng="fr">
+    <trd>petit<klr tip="ind"> (d'un animal)</klr></trd>,
+    <trd>descendant</trd>,
+    <trd>disciple</trd>,
+    <trd>h&eacute;ritier<klr tip="ind"> (disciple)</klr></trd>,
+    <trd>rejeton</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5B50;&#x3069;&#x3082;  <pr>&#x3053;&#x3069;&#x3082;</pr></trd>,
+    <trd>&#x5B50;&#x5B6B;  <pr>&#x3057;&#x305D;&#x3093;</pr></trd>,
+    <trd>&#x4FE1;&#x5949;&#x8005;  <pr>&#x3057;&#x3093;&#x307D;&#x3046;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x5F1F;&#x5B50;  <pr>&#x3067;&#x3057;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>die&tcaron;a</trd>,
+    <trd>ml&aacute;&dcaron;a</trd>,
+    <trd>potomok</trd>
+  </trdgrp>
+  <trd lng="sw">kifaranga</trd>
+  <trd lng="tg">&#x459;&c_u;&c_v;&#x43E;&c_r;&c_i;&#x43C;&c_a;&#x43A;&#x43A;&c_a;</trd>
+  <trd lng="tt">&c_t;&c_a;&c_v;&#x44B;&#x43A;</trd>
+  <trd lng="uk">&#x43A;&c_u;&c_r;&c_ch;&c_a;</trd>
+  <trd lng="uz">jo&#x2019;ja</trd>
+  <trd lng="xh">intshontsho</trd>
+  <trd lng="yo">adiye</trd>
+</drv>
+
+<drv mrk="id.pra0o">
+  <kap>pra<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Posteulo, pranepo post multaj generacioj:
+      <ekz>
+        la juna rego Hassan la 2a, filo de Mohammed la 5a kaj
+        la&ubreve;dire pra<tld/>o de la Profeto, kondamnis Ben Barka
+        al morto
+        <fnt>
+          <aut>Adrien DURANDARD</aut>:
+          <vrk>Murdo-mistero ankora&ubreve; solvota</vrk>.
+          <bib>Monato</bib>
+        </fnt>;
+      </ekz><ekz>
+        gardisto rigardus &ccirc;iun alian gardiston renkontaton kiel
+        fraton a&ubreve; fratinon, a&ubreve; patron a&ubreve; patrinon, a&ubreve; filon
+        a&ubreve; filinon, a&ubreve; prapatron a&ubreve; pra<tld/>o
+        <fnt>
+          <aut>Platono, tr. D. Broadribb</aut>:
+          <vrk>La Respubliko</vrk>. <lok>Parto 5a</lok>.
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_sh;&c_ch;&c_a;&c_d;&c_a;&c_k; <klr>(&c_p;&c_r;&c_a;&c_z; &c_p;&c_a;&c_k;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_ib;)</klr></trd>,
+    <trd>&c_p;&c_a;&c_t;&c_o;&c_m;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trd lng="de">Nachkomme</trd>
+  <trd lng="en">descendant</trd>
+  <trdgrp lng="hu">
+    <trd>ivad&eacute;k</trd>,
+    <trd>ut&oacute;d</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5B50;&#x5B6B;  <pr>&#x3057;&#x305D;&#x3093;</pr></trd>
+  <trd lng="nl">afstammeling</trd>
+  <trdgrp lng="pl">
+    <trd>prawnuk</trd>,
+    <trd>potomek</trd>
+  </trdgrp>
+  <trd lng="pt">descendente</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_i;&c_t;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_t;&c_o;&c_m;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sv">avkomma</trd>
+</drv>
+
+<drv mrk="id.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="id.0aro.praidoj">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Aro de la homoj devenantaj de sama praavo:
+      <ekz>
+        Dio <klr>[...]</klr> donu al vi <tld/>aron grandnombran, nepojn kaj pranepojn
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvina</lok>
+        </fnt>;
+      </ekz><ekz>
+        memoru Jesuon Kriston, levitan el la mortintoj, el la <tld/>aro de David
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Timoteo 2:8</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gent.0o.familio">gento<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_t;&c_o;&c_m;&c_s;&c_t;&c_v;&c_a;</trd>,
+      <trd>&c_n;&c_a;&c_sh;&c_ch;&c_a;&c_d;&c_k;&c_ib;</trd>
+    </trdgrp>
+    <trd lng="de">Geschlecht<klr tip="ind">
+    (Nachkommen)</klr></trd>
+    <trd lng="en">lineage</trd>
+    <trd lng="hu">ivad&eacute;kok</trd>
+    <trd lng="nl">nageslacht</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_t;&c_o;&c_m;&c_k;&c_i;</trd>,
+      <trd>&c_p;&c_o;&c_t;&c_o;&c_m;&c_s;&c_t;&c_v;&c_o;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="id.0aro.posteuloj">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Posteularo:
+      <ekz>
+        la <tld/>oj de la liberaj homoj estas sanaj kaj 
+        fortaj, kaj la <tld/>aro de sklavoj estas malsanema, malgaja
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_t;&c_o;&c_m;&c_s;&c_t;&c_v;&c_a;</trd>,
+      <trd>&c_n;&c_a;&c_sh;&c_ch;&c_a;&c_d;&c_k;&c_ib;</trd>
+    </trdgrp>
+    <trd lng="de">Nachkommen</trd>
+    <trd lng="en">descendants</trd>
+    <trdgrp lng="hu">
+      <trd>ut&oacute;dok</trd>,
+      <trd>lesz&aacute;rmazottak</trd>
+    </trdgrp>
+    <trd lng="nl">opvolgers</trd>
+    <trd lng="pl">potomstwo</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_t;&c_o;&c_m;&c_k;&c_i;</trd>,
+      <trd>&c_p;&c_o;&c_t;&c_o;&c_m;&c_s;&c_t;&c_v;&c_o;</trd>
+    </trdgrp>
+    <trd lng="sv">avkomma</trd>
+  </snc>
+  <snc mrk="id.0aro.FIG">
+    <uzo tip="stl">RAR</uzo>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Dis&ccirc;iplaro.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_sh;&c_ch;&c_a;&c_d;&c_k;&c_ib;</trd>,
+      <trd>&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_ib;&c_k;&c_ib;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;ti</trd>,
+    <trd>potomstvo</trd>
+  </trdgrp>
+  <trd lng="en">followers</trd>
+  <trd lng="fr">descendance</trd>
+  <trd lng="hu">tan&iacute;tv&aacute;nyok</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5B50;&#x5B6B;  <pr>&#x3057;&#x305D;&#x3093;</pr></trd>,
+    <trd>&#x5F8C;&#x88D4;  <pr>&#x3053;&#x3046;&#x3048;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+          <trd>descend&ecirc;ncia</trd>, 
+          <trd>prole</trd> 
+        </trdgrp>
+  <trdgrp lng="sk">
+    <trd>deti</trd>,
+    <trd>mla&dcaron;</trd>,
+    <trd>potomstvo</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&#x43E;&c_t;&#x43E;&#x43C;&c_s;&c_t;&c_v;&#x43E;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x540E; <pr>h&#xF2;u</pr></trd>,
+    <trd>&#x540E;&#x4EE3; <pr>h&#xF2;ud&#xE0;i</pr></trd>,
+    <trd>&#x5B50;&#x5B59; <pr>z&#x1D0;s&#x16B;n</pr></trd>
+  </trdgrp>
+</drv>
+
+  </subart>
+</art>
+  <!--
+  $Log$
+versio 1.44 2023/10/17 16:45:19
+revo: transskribo per <pr>
+
+versio 1.42 2023/04/18 09:26:08
+Dmitri Gabinski: + trd be
+
+versio 1.41 2022/07/14 05:41:47
+Sergio Pokrovskij: + TEZ
+
+versio 1.40 2022/07/13 12:58:04
+Sergio Pokrovskij: disigo en multajn subsnc
+
+versio 1.30 2021/05/23 16:02:45
+Wolfram Diestel: ref-hom
+
+  Revision 1.28  2015/10/06 18:10:15  revo
+  Cindy Moon McKee: +trd en
+
+  Revision 1.27  2015/07/04 08:37:36  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.26  2015/06/29 16:33:15  revo
+-->
+</vortaro>

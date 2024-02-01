@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ilium.xml,v 1.23 2023/11/19 10:22:12 revo Exp $">
+<kap>
+  <rad>ilium</rad>/o
+</kap>
+<drv mrk="ilium.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">ANA</uzo>
+  <snc>
+    <dif>
+      La plej granda <ref cel="ost.0o">osto</ref>
+      el la tri, kiuj formas la koksoston:
+      <ekz>
+        ostoj de la pelva zono (koksosto): <tld/>o, pubio, iskio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=17298">Homa skeleto</url></lok>
+        </fnt>.
+      </ekz> 
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="iski.0o">iskio</ref>,
+      <ref cel="ost.pub0o">pubosto</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_l;&c_u;&c_b;&c_a;&c_v;&c_ib;&c_c;&c_a;</trd>,
+    <trd>&c_k;&c_l;&c_u;&c_b;&c_a;&c_v;&c_a;&c_ja; <ind>&c_k;&c_o;&c_s;&c_mol;&c_c;&c_mol;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bedern&iacute; kost</trd>,
+    <trd>bedro</trd>
+  </trdgrp>
+  <trd lng="de">H&uuml;ftbein</trd>
+  <trd lng="en">ilium</trd>
+  <trd lng="es">ilion</trd>
+  <trd lng="fa">&a_H;&a_r;&a_q;&a_f;&f_y;</trd>
+  <trdgrp lng="fr">
+    <trd>aile iliaque</trd>,
+    <trd>ilion</trd></trdgrp>
+  <trdgrp lng="hu">
+    <trd>cs&iacute;p&odblac;csont</trd>,
+    <trd>cs&iacute;p&odblac;t&aacute;ny&eacute;r</trd>,
+    <trd>ilium</trd>
+  </trdgrp>
+  <trd lng="it">ilio<klr> (anat.)</klr></trd>
+  <trd lng="ja">&#x8178;&#x9AA8;  <pr>&#x3061;&#x3087;&#x3046;&#x3053;&#x3064;</pr></trd>
+  <trd lng="nl">darmbeen</trd>
+  <trd lng="pl">ko&sacute;&cacute; biodrowa</trd>
+  <trd lng="pt">&iacute;lio</trd>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_v;&c_z;&c_d;&c_o;&c_sh;&c_n;&c_a;&c_ja; &c_k;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>bedro</trd>,
+    <trd>bedrov&aacute; kos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x9ACB;&#x9AA8; <pr>ku&#x101;ng&#x1D4;</pr></trd>,
+    <trd>&#x65E0;&#x540D;&#x9AA8; <pr>w&#xFA;m&#xED;ngg&#x1D4;</pr></trd>,
+    <trd>&#x80EF;&#x9AA8; <pr>ku&#xE0;g&#x1D4;</pr></trd>,
+    <trd>&#x81C0;&#x9AA8; <pr>t&#xFA;ng&#x1D4;</pr></trd>,
+    <trd>&#x9AC2;&#x9AA8; <pr>k&#xE0;g&#x1D4;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.20 2022/11/08 08:41:18
+Dmitri Gabinski: + trd be
+
+versio 1.19 2022/06/13 09:31:58
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2010/11/23 17:30:22  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2009/08/23 16:31:51  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2005/12/06 17:33:02  revo
+-->
+</vortaro>

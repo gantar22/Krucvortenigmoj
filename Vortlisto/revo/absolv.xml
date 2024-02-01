@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: absolv.xml,v 1.38 2023/10/27 12:51:04 revo Exp $">
+<kap>
+  <rad>absolv</rad>/i
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="absolv.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="absolv.0i.KAT">
+    <uzo tip="fak">KAT</uzo>
+    <dif>
+      <ref tip="dif" cel="pek.0liberigi">Pekliberigi</ref>:
+      <ekz>
+        per pre&gcirc;ado dum ni uzurpos kaj pekos ni persvados la Diojn <tld/>i nin de puno
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen la verdikto <klr>[&#x2026;]</klr> kaj signo por vi <klr>[&#x2026;]</klr>, vi montros &gcirc;in
+        al la episkopo, li <tld/>os al vi anka&ubreve; tiun anta&ubreve;an mortigon, kiun vi
+        malgra&ubreve;vole plenumis
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        mi petas la Leganton <tld/>i min  de la priskribo <klr>(rezigni pri)</klr> de la ekbruanta
+        orelfenda
+        hurlado
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol; &c_g;&c_r;&c_a;&c_h;&c_ib;</trd>
+    <trdgrp lng="de">
+      <trd><ind>Absolution</ind> erteilen</trd>,
+      <trd>vergeben</trd>
+    </trdgrp>
+    <trd lng="en">absolve</trd>
+    <trdgrp lng="pl">
+      <trd>rozgrzesza&cacute;</trd>
+      <trd>odpu&sacute;ci&cacute; grzech</trd>
+      <trd>darowa&cacute; win&eogonek;</trd>
+    </trdgrp>
+    <trd lng="pt">absolver</trd>
+    <trd lng="hu">feloldoz</trd>
+    <trd lng="it">assolvere<klr> (dare l'assoluzione)</klr></trd>
+    <trd lng="ru">&c_o;&c_t;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol; &c_g;&c_r;&c_je;&c_h;&c_i;</trd>
+  </snc>
+  <snc mrk="absolv.0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="dif" cel="kondam.mal0i">Malkondamni</ref>:
+      <ekz>
+        malgra&ubreve; la gestado de la surdmutulino, la ju&gcirc;isto do <tld/>as lin
+        <fnt>
+          <bib>KrB</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum la &jcirc;uria kunsido oni faras eraran vortigon, kio ka&ubreve;zas ke, kvankam <tld/>ita
+        pri la &ccirc;efaj punktoj, &scirc;i, tamen, estos kondamnita al plurjara ekzilo en
+        Siberio
+        <fnt>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="&Monato;/2001/pdf/monato200105.pdf#page=30">Iom tro predikema
+          romano</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/05, p. 30</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="amnest.0i">amnestii</ref>,
+      <ref cel="rehabilit.0i">rehabiliti</ref>,
+      <ref cel="kulp.sen0igi">senkulpigi</ref>
+    </refgrp>
+    <rim num="1">
+      Ne&gcirc;usta estas la signifo <ctl>plenumi</ctl> (pri kurso)
+      a&ubreve; <ctl>fini</ctl> (pri ekzameno):
+      <ekz>
+        kiam mi estos <tld/>inta la lernejon, mi iros al sinjoro <nom>Beyer</nom>
+        en la montaron
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K. Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/XVI.">
+          Avineto</url></vrk>,
+          <lok>1909-1914</lok>
+        </fnt>.
+      </ekz>
+    </rim>
+    <rim num="2">
+      La du sencoj malkoheras: oni pekliberigas pekulon, oni
+      malkondamnas senkulpulon. Kaj &gcirc;enerale la vorto aspektas
+      kiel malnecesa latina barbara&jcirc;o.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_y;&c_z;&c_n;&c_a;&c_c;&c_mol; &c_n;&c_je;&c_v;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_t;&c_y;&c_m;</trd>
+    </trdgrp>
+    <trd lng="de">freisprechen</trd>
+    <trd lng="en">pardon</trd>
+    <trd lng="hu">felment</trd>
+    <trdgrp lng="it">
+      <trd>assolvere<klr> (prosciogliere)</klr></trd>,
+      <trd>prosciogliere</trd>
+    </trdgrp>
+    <trd lng="pl">u&lstroke;askawi&cacute;</trd>
+    <trdgrp lng="pt">
+      <trd>absolver</trd>,
+      <trd>perdoar</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_i;&c_z;&c_n;&c_a;&c_t;&c_mol; &c_n;&c_je;&c_v;&c_i;&c_n;&c_o;&c_v;&c_n;&c_y;&c_m;</trd>,
+      <trd>&c_o;&c_p;&c_r;&c_a;&c_v;&c_d;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="sk">oslobodi&tcaron; <klr>(ob&zcaron;alovan&eacute;ho)</klr></trd>
+  </snc>
+  <trd lng="ca">absoldre</trd>
+  <trd lng="cs">prohl&aacute;sit nevinn&yacute;m</trd>
+
+  <trd lng="es">absolver</trd>
+  <trd lng="fr">absoudre</trd>
+  <trd lng="he">&lamed;&#x5B4;&pe;&#x5B0;&tet;&vav;&#x5B9;&resh;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7F6A;&#x3092;&#x8D66;&#x3059;  <pr>&#x3056;&#x3044;&#x3092;&#x8D66;&#x3059;</pr></trd>,
+    <trd>&#x7121;&#x7F6A;&#x5BA3;&#x544A;&#x3059;&#x308B;  <pr>&#x3080;&#x3056;&#x3044;&#x305B;&#x3093;&#x3053;&#x304F;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">vergeven</trd>
+  <trdgrp lng="sk">
+    <trd>odpusti&tcaron;</trd>,
+    <trd>oslobodi&tcaron;</trd>,
+    <trd>rozhre&scaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_v;&c_ib;&#x43B;&#x44C;&#x43D;&c_i;&c_t;&c_i; &c_v;&c_ib;&c_d; &#x43F;&#x43E;&#x43A;&c_a;&c_r;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>(&#x43F;&#x43E;)&#x43C;&c_i;&#x43B;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_z;&#x43D;&c_a;&c_v;&c_a;&c_t;&c_i; &#x43D;&c_je;&c_v;&c_i;&#x43D;&#x43D;&c_i;&#x43C;</trd>,
+    <trd>&c_v;&c_i;&#x43F;&c_r;&c_a;&c_v;&c_d;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="absolv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="absolv.0o.KAT">
+    <uzo tip="fak">KAT</uzo>
+    <dif>
+      Pekliberigo:
+      <ekz>
+        la&ubreve; la le&gcirc;o, preska&ubreve; &ccirc;io puri&gcirc;as per sango kaj sen sangover&scirc;ado ne fari&gcirc;as
+        <tld/>o
+        <fnt>
+          <bib>NT</bib>
+          <lok>Hebreoj 9:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kie estas <tld/>o de &ccirc;i tiuj, ne plu estas oferado pro peko
+        <fnt>
+          <bib>NT</bib>
+          <lok>Hebreoj 10:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;je-es&rightquot; bruis la homoj, kvaza&ubreve; ili ricevus <tld/>on pro sia
+        malobservo de la sankta tago
+        <fnt>
+          <aut>A. Strindberg, trad. S. Johansson</aut>,
+          <vrk>Insulanoj De Hemsoe</vrk>,
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_a;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je; &c_g;&c_r;&c_a;&c_h;&c_o;&c_w;</trd>
+    <trdgrp lng="de">
+      <trd>Absolution</trd>,
+      <trd>Vergebung</trd>
+    </trdgrp>
+    <trd lng="it">assoluzione</trd>
+    <trdgrp lng="pl">
+      <trd>absolucja</trd>
+      <trd>rozgrzeszenie</trd>
+      <trd>odpuszczenie<klr> (winy, grzechu)</klr></trd>
+      <trd>darowanie<klr> (winy, grzechu)</klr></trd>
+    </trdgrp>
+    <trd lng="zh">&#x514D;&#x7F6A; <pr>mi&#x1CE;nzu&#xEC;</pr></trd>
+</snc>
+  <snc mrk="absolv.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Malkondamno:
+      <ekz>
+        juran <tld/>on li ja povis akiri, tamen restas &leftquot;morale kulpa&rightquot;
+        <fnt>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2014/011263.php">Germanio &dash; Ne
+          kulpas la kulpanto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/04, p. 10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="de">Freispruch</trd>
+    <trdgrp lng="it">
+      <trd>assoluzione<klr> (proscioglimento)</klr></trd>,
+      <trd>proscioglimento</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>u&lstroke;askawienie</trd>
+      <trd>&lstroke;aska</trd>
+      <trd>prawo <ind>&lstroke;aski</ind></trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x5BA3;&#x544A;&#x65E0;&#x7F6A; <pr>xu&#x101;ng&#xE0;ow&#xFA;zu&#xEC;</pr></trd>,
+    <trd>&#x5BA3;&#x544A;&#x7121;&#x7F6A; <pr>xu&#x101;ng&#xE0;ow&#xFA;zu&#xEC;</pr></trd>,
+    <trd>&#x539F;&#x8AD2; <pr>yu&#xE1;nli&#xE0;ng</pr></trd>,
+    <trd>&#x539F;&#x8C05; <pr>yu&#xE1;nli&#xE0;ng</pr></trd>,
+    <trd>&#x5BBD;&#x6055; <pr>ku&#x101;nsh&#xF9;</pr></trd>,
+    <trd>&#x5BEC;&#x6055; <pr>ku&#x101;nsh&#xF9;</pr></trd>,
+    <trd>&#x5FCF;&#x6094;&#x5F0F; <pr>ch&#xE0;nhu&#x1D0;sh&#xEC;</pr></trd>,
+    <trd>&#x61FA;&#x6094;&#x5F0F; <pr>ch&#xE0;nhu&#x1D0;sh&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="ca">absoluci&oacute;</trd>
+  <trd lng="es">absoluci&oacute;n</trd>
+  <trd lng="fr">absolution</trd>
+  <trd lng="he">&zayin;&yod;&kaf;&vav;&yod;</trd>
+  <trdgrp lng="sk">
+    <trd>odpustenie</trd>,
+    <trd>oslobodenie <klr>(ob&zcaron;alovan&eacute;ho)</klr></trd>,
+    <trd>rozhre&scaron;enie</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.37 2023/10/12 16:57:42
+revo: transskribo per <pr>
+
+versio 1.36 2023/08/29 07:24:37
+Wolfram Diestel: ja: plibonigo prononco
+
+versio 1.34 2023/05/20 16:31:18
+Paul Peeraerts: + aut + lok
+
+versio 1.33 2023/05/02 15:56:27
+revo: aktualigo URL-unuoj
+
+versio 1.32 2022/06/13 07:29:48
+Dmitri Gabinski: + trd be
+
+versio 1.30 2021/11/06 16:46:46
+Wolfram Diestel: +trd de
+
+versio 1.29 2021/11/06 10:30:28
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+Revision 1.26  2015/07/04 08:37:29  revo
+-->
+</vortaro>

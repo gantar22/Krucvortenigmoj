@@ -1,0 +1,507 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: polv.xml,v 1.34 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>polv</rad>/o
+</kap>
+
+<drv mrk="polv.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="polv.0o.KOMUNE">
+    <dif>
+      Eretoj de solida materialo sufi&ccirc;e malpezaj por &scirc;vebi en gaso, aparte en aero:
+      <ekz>
+        vi&scirc;i la <tld/>on de l' planko
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        disfali en <tld/>on
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova strata lanterno</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi estas <tld/>o kaj refari&gcirc;os <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 3:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>&jcirc;eti <tld/>on en la okulojn</ind>
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+        <trd lng="fr">jeter de la <ind>poudre</ind> aux yeux</trd>
+        <klr>(figure: mirblindigi, iluzii, vd
+        <ref tip="sin" cel="bluf.0i">blufi</ref>,
+        <ref tip="vid" cel="sabl.0o">sablo</ref>)</klr>.
+      </ekz>
+      <ekz>
+        liaj malamikoj leku <tld/>on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 72:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la mebloj estis kovritaj de <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lin Sheng</aut>
+          <vrk><url ref="&Monato;/2006/008670.php">Forpasis mia karulino</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tus! tus! la purigisto ne faru <klr>(flugigu)</klr> tiom da <tld/>o
+        <fnt>
+          <aut>Werner Klag</aut>
+          <!-- vere temas pri Werner &ccirc;i tie -->
+            <vrk><url ref="&Monato;/2000/007120.php">Karesado</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 34</lok>
+          </fnt>!
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pulv.0o">pulvo</ref>,
+      <ref cel="pulvor.0o">pulvoro</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_y;&c_l;</trd>,
+    <trd>&c_p;&c_o;&c_r;&c_a;&c_h;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_h;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_r;&c_a;&c_h;</trd>
+  <trd lng="bo">&t_tha;&t_la;&t_tsheg;&t_ba;&t_tsheg;</trd>
+  <trd lng="cs">prach</trd>
+  <trdgrp lng="de">
+    <trd>Staub</trd>,
+    <trd>Pulver</trd>
+  </trdgrp>
+  <trd lng="en">dust</trd>
+  <trd lng="es">polvo</trd>
+  <trd lng="fr">poussi&egrave;re<klr tip="ind"> (collectif)</klr></trd>
+  <trd lng="hu">por</trd>
+  <trdgrp lng="ja">
+    <trd>&#x307B;&#x3053;&#x308A;</trd>,
+    <trd>&#x3061;&#x308A;</trd>,
+    <trd>&#x5FAE;&#x7C92;  <pr>&#x3073;&#x3064;&#x3076;</pr></trd>,
+    <trd>&#x7C89;&#x672B;  <pr>&#x3075;&#x3093;&#x307E;&#x3064;</pr></trd>,
+    <trd>&#x7C89;&#x3058;&#x3093;  <pr>&#x3075;&#x3093;&#x3058;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">stof</trd>
+  <trdgrp lng="pl">
+    <trd>py&lstroke;</trd>,
+    <trd>kurz</trd>,
+    <trd>proch<klr> (g&lstroke;&oacute;wnie w wyra&zdot;eniu: "z prochu
+powsta&lstroke;e&sacute;, w proch
+    si&eogonek; obr&oacute;cisz)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">p&oacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_y;&c_l;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_h;</trd>
+  </trdgrp>
+  <trd lng="sk">prach</trd>
+  <trd lng="sv">damm</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_i;&c_l;</trd>,
+    <trd>&c_p;&c_o;&c_r;&c_o;&c_h;</trd>,
+    <trd>&c_p;&c_i;&c_l;&c_ju;&c_g;&c_a;</trd>,
+    <trd>&c_p;&c_i;&c_l;&c_ju;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_i;&c_l;&c_o;&c_k;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_h; (&c_r;&c_je;&c_sh;&c_t;&c_k;&c_i; &c_l;&c_ju;&c_d;&c_s;&c_mol;&c_k;&c_o;&c_g;&c_o; &c_t;&c_ib;&c_l;&c_a;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polv.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="polv.0a.el_polvo">
+    <dif>
+      El <tld/>o:
+      <ekz>
+        densaj <tld/>aj nuboj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        levi&gcirc;is <tld/>a nebulo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sub maldensa <tld/>a&jcirc;o de ne&gcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj'</aut>
+          <vrk><url ref="&Monato;/2015/011315.php">La islanda: revo de ne plu juna
+          lernemulo</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_y;&c_l;&c_a;&c_v;&c_y;</trd>
+    <trd lng="de">pulvrig</trd>
+    <trd lng="fr">de <ind>poussi&egrave;re</ind></trd>
+    <trd lng="hu">por-</trd>
+    <trd lng="nl">stof-</trd>
+	<trdgrp lng="pl">
+      <trd>zapylony</trd>,
+      <trd>zakurzony</trd>
+  	</trdgrp>
+    <trd lng="ru">&c_p;&c_y;&c_l;&c_je;&c_v;&c_o;&c_j;</trd>
+    <trd lng="sv">damm-</trd>
+  </snc>
+  <snc mrk="polv.0a.oplena">
+    <dif>
+      <tld lit="P"/>oplena:
+      <ekz>
+        paperoj en multaj apartaj amasoj plenigadis la <tld/>ajn &scirc;rankojn, bretojn kaj
+        tablojn
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam radio de la suno tra truo en la pordo falas en <tld/>an &ccirc;ambron, ni vidas,
+        ke tie movi&gcirc;as lumanta kolono da <tld/>o
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        viaj memorigoj estas sentencoj <tld/>aj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 13:12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_y;&c_l;&c_mol;&c_n;&c_y;</trd>,
+      <trd>&c_z;&c_a;&c_p;&c_y;&c_l;&c_je;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_p;&c_r;&c_a;&c_sh;&c_je;&c_n;</trd>
+    <trd lng="de">staubig</trd>
+    <trd lng="fr">poussi&eacute;reux</trd>
+    <trd lng="hu">poros</trd>
+    <trd lng="nl">stoffig</trd>
+    <trd lng="ru">&c_p;&c_y;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+    <trd lng="sv">dammig</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>upr&aacute;&scaron;en&yacute;</trd>,
+    <trd>zapr&aacute;&scaron;en&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">dusty</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3061;&#x308A;&#x3067;&#x3067;&#x304D;&#x305F;</trd>,
+    <trd>&#x307B;&#x3053;&#x308A;&#x3060;&#x3089;&#x3051;&#x306E;</trd>
+  </trdgrp>
+  <trd lng="sk">zapr&aacute;&scaron;en&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_u;&c_r;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_o;&c_r;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_i;&c_l;&c_je;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_k;&c_r;&c_i;&c_t;&c_i;&c_j; &c_p;&c_i;&c_l;&c_o;&c_m;/&c_p;&c_o;&c_r;&c_o;&c_h;&c_o;&c_m;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polv.0ero">
+  <kap><tld/>ero</kap>
+  <snc mrk="polv.0ero.KOMUNE">
+    <dif>
+      Unuopa ero de <tld/>o:
+      <ekz>
+        e&ccirc; unu <tld/>eron vi ne trovos sur lia vesto
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 41</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        teda sento <klr>[&#x2026;]</klr>, kvaza&ubreve; en la okulo estus <tld/>ero
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la komencaj <tld/>eroj de la mondo
+        <fnt><bib>MT</bib>, <lok>&Sen; 8:26</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiel <tld/>ero sur pesiltaso
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 40:15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_r;&c_u;&c_sh;&c_y;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_y;&c_l;&c_ib;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">Staubkorn</trd>
+  <trd lng="en">speck of dust</trd>
+  <trdgrp lng="fr">
+    <trd>grain de poussi&egrave;re</trd>,
+    <trd>poussi&egrave;re<klr tip="ind"> (grain)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3061;&#x308A;&#x30FB;&#x307B;&#x3053;&#x308A;&#x30FB;&#x7C89;&#x672B;&#x306E;&#x4E00;&#x7C92;  <pr>&#x3061;&#x308A;&#x30FB;&#x307B;&#x3053;&#x308A;&#x30FB;&#x3075;&#x3093;&#x307E;&#x3064;&#x306E;&#x3072;&#x3068;&#x3064;&#x3076;</pr></trd>,
+    <trd>&#x5FAE;&#x7C92;&#x5B50;  <pr>&#x3073;&#x308A;&#x3085;&#x3046;&#x3057;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_i;&c_l;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_r;&c_o;&c_sh;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polv.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="polv.0igi.KOMUNE">
+    <dif>
+      Disbati, disfroti ion &gcirc;is &gcirc;i estas <tld/>o:
+      <ekz>
+        rompita, neniigita, <tld/>igita
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i bombadis moskeojn, lernejojn, hospitalojn <klr>[&#x2026;]</klr>, <tld/>igis centojn
+        da lo&gcirc;ejoj, civilaj strukturoj, tutaj kvartaloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sen Rodin</aut>
+          <vrk><url ref="&Monato;/2009/009725.php">Nu, karaj fratoj ...</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="frakas.0i">frakasi</ref>,
+      <ref cel="pec">pecetigi</ref>,
+      <ref cel="pist.0i">pisti</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_y;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_r;&c_y;&c_sh;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol; &c_u; <ind>&c_p;&c_y;&c_l;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>rozm&ecaron;lnit na prach</trd>,
+    <trd>rozpr&aacute;&scaron;it</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>pulverisieren</trd>,
+    <trd>in <ind>Staub</ind> <ind>verwandeln</ind></trd>
+  </trdgrp>
+  <trd lng="en">dust</trd>
+  <trdgrp lng="fr">
+    <trd>pulv&eacute;riser<klr tip="ind"> (r&eacute;duire en
+poussi&egrave;re)</klr></trd>,
+    <trd>r&eacute;duire en <ind>poussi&egrave;re</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>por&iacute;t</trd>,
+    <trd>porr&aacute; z&uacute;z</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3061;&#x308A;&#x306B;&#x3059;&#x308B;</trd>,
+    <trd>&#x7C89;&#x672B;&#x306B;&#x3059;&#x308B;  <pr>&#x3075;&#x3093;&#x307E;&#x3064;&#x306B;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7C89;&#x7815;&#x3059;&#x308B;  <pr>&#x3075;&#x3093;&#x3055;&#x3044;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">verpulveren</trd>
+  <trdgrp lng="pl">
+      <trd>rozpyli&cacute;</trd>,
+      <trd>zetrze&cacute; na py&lstroke;</trd>,
+      <trd>zproszkowa&cacute;</trd>
+  	</trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_y;&c_l;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol; &c_v;
+&c_p;&c_r;&c_a;&c_h;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozt&lacute;c&tcaron; na prach</trd>,
+    <trd>urobi&tcaron; prach z nie&ccaron;oho</trd>
+  </trdgrp>
+  <trd lng="uk">&c_p;&c_je;&c_r;&c_je;&c_t;&c_v;&c_o;&c_r;&c_ju;&c_v;&c_a;&c_t;&c_i; &c_n;&c_a; &c_p;&c_o;&c_r;&c_o;&c_h;</trd>
+</drv>
+
+<drv mrk="polv.dis0igxi">
+  <kap>dis<tld/>i&gcirc;i,
+  <var><kap><tld/>i&gcirc;i</kap></var></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="polv.dis0igxi.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="vid" cel="er.dis0igxi">Diseri&gcirc;i</ref>,
+      <ref tip="vid" cel="fal.dis0i">disfali</ref>,
+      nenii&gcirc;i:
+      <ekz>
+        &scirc;vebas super niaj kapoj <klr>[&#x2026;]</klr> milito,
+        en kies unua tago &ccirc;iuj dokumente garantiitaj
+        princaj aliancoj dis<tld/>i&gcirc;os
+        <fnt>
+          <aut>K. Markso, trad. V. Lutermano</aut>,
+          <vrk>La interna milito en francio (1871)</vrk>,
+          <lok>2005</lok>
+        </fnt>;
+      </ekz> 
+        <ekz>
+         Mia bela revo pri la libereco polvi&gcirc;is
+         <fnt><aut>Stellan Engholm</aut>: <vrk>Al Torento</vrk>,
+         <lok>&ccirc;apitro IV, 1930</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_y;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a; &c_w; <ind>&c_p;&c_y;&c_l;</ind></trd>
+  </trdgrp>
+  <trd lng="de">zerstieben</trd>
+  <trdgrp lng="en">
+    <trd>turn to dust</trd>,
+    <trd>fall to dust</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>se <ind>dissiper</ind></trd>,
+    <trd>voler en &eacute;clats</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3061;&#x308A;&#x306B;&#x306A;&#x308B;</trd>,
+    <trd>&#x7C89;&#x672B;&#x306B;&#x306A;&#x308B;  <pr>&#x3075;&#x3093;&#x307E;&#x3064;&#x306B;&#x306A;&#x308B;</pr></trd>,
+    <trd>&#x7C89;&#x3005;&#x306B;&#x306A;&#x308B;  <pr>&#x3053;&#x306A;&#x3054;&#x306A;&#x306B;&#x306A;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_r;&c_o;&c_sh;&c_i;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_t;&c_v;&c_o;&c_r;&c_ju;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja; &c_n;&c_a; &c_p;&c_o;&c_r;&c_o;&c_h;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polv.sen0igi">
+  <kap>sen<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="polv.sen0igi.HEJM">
+    <dif>
+      Senigi ion je <tld/>o,
+      <ref tip="super" cel="pur.0igi">purige</ref>:
+      <ekz>
+        li klini&gcirc;is &gcirc;is la tero kaj demandis la maljunan virinon, &ccirc;u li eble
+        sen<tld/>igu al &scirc;i la &scirc;uojn
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ru&gcirc;aj &scirc;uoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_ja;&c_s;&c_p;&c_y;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_ch;&c_y;&c_sh;&c_ch;&c_a;&c_c;&c_mol; &c_a;&c_d; <ind>&c_p;&c_y;&c_l;&c_u;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>opr&aacute;&scaron;it</trd>,
+    <trd>sm&yacute;&ccaron;it</trd>,
+    <trd>vypr&aacute;&scaron;it</trd>,
+    <trd>zbavit prachu</trd>
+  </trdgrp>
+  <trd lng="de">entstauben</trd>
+  <trd lng="en">dust</trd>
+  <trd lng="es">quitar el polvo a</trd>
+  <trd lng="fr">d&eacute;poussi&eacute;rer</trd>
+  <trdgrp lng="hu">
+    <trd>portalan&iacute;t</trd>,
+    <trd>port t&ouml;r&ouml;l</trd>
+  </trdgrp>
+  <trd lng="ja">&#x307B;&#x3053;&#x308A;&#x3092;&#x6255;&#x3046;  <pr>&#x307B;&#x3053;&#x308A;&#x3092;&#x306F;&#x3089;&#x3046;</pr></trd>
+  <trd lng="nl">afstoffen</trd>
+  <trdgrp lng="pl">
+      <trd>odkurza&cacute;</trd>,
+      <trd>odpyla&cacute;</trd>,
+      <trd>&sacute;ciera&cacute; kurze</trd>,
+      <trd>wyciera&cacute; kurze</trd>
+  	</trdgrp>
+  <trd lng="ru">&c_v;&c_y;&c_b;&c_i;&c_t;&c_mol;
+  &c_p;&c_y;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>opr&aacute;&scaron;i&tcaron;</trd>,
+    <trd>zbavi&tcaron; prachu</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_m;&c_ib;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_t;&c_i;&c_r;&c_a;&c_t;&c_i; &c_p;&c_o;&c_r;&c_o;&c_h;/&c_p;&c_i;&c_l;</trd>,
+    <trd>&c_o;&c_ch;&c_i;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i; &c_v;&c_ib;&c_d; &c_p;&c_o;&c_r;&c_o;&c_h;&c_u;/&c_p;&c_i;&c_l;&c_u;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polv.0sxovelilo">
+  <kap><tld/>o&scirc;ovelilo</kap>
+  <fnt><bib>HejmVort</bib></fnt>
+  <snc>
+    <dif>
+      &Scirc;ovelilo, kun longa a&ubreve; mallonga tenilo,
+      por forporti <tld/>on kaj
+      aliajn balaa&jcirc;ojn post balaado.
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_u;&c_f;&c_l;&c_ib;&c_k; <klr>(&c_d;&c_l;&c_ja; &c_s;&c_mol;&c_m;&c_je;&c_c;&c_mol;&c_c;&c_ja;)</klr></trd>
+  <trd lng="en">dustpan</trd>
+  <trd lng="de">Kehrblech</trd>
+  <trd lng="fr">pelle<klr> (&agrave; poussi&egrave;re)</klr></trd>
+  <trd lng="hu">szem&eacute;tlap&aacute;t</trd>
+  <trd lng="ja">&#x3061;&#x308A;&#x3068;&#x308A;</trd>
+  <trd lng="nl">stofblik</trd>
+  <trd lng="pl">miote&lstroke;ka<klr> do kurzu</klr></trd>
+  <trd lng="ru">&c_s;&c_o;&c_v;&c_o;&c_k;</trd>
+  <trd lng="sv">sopskyffel</trd>
+  <trd lng="uk">&c_s;&c_o;&c_v;&c_o;&c_k; &c_d;&c_l;&c_ja; &c_s;&c_m;&c_ib;&c_t;&c_t;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.34 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.32 2023/05/01 08:31:19
+Paul Peeraerts: Steloj -> monato
+
+versio 1.31 2022/11/04 08:41:44
+Dmitri Gabinski: + trd be
+
+versio 1.30 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.29 2022/04/19 12:40:28
+Noam Mohr: +trd en polv-
+
+versio 1.25 2020/02/02 22:10:20
+Wolfram Diestel: +ekz-oj
+
+Revision 1.24  2020/02/02 12:10:22  revo
+Wolfram Diestel: -~sucxi, ~sucxilo: estu sub sucx'
+
+Revision 1.23  2018/06/17 16:10:18  revo
+-->
+</vortaro>

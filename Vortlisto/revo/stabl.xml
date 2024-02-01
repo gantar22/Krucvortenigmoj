@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: stabl.xml,v 1.31 2023/10/21 07:46:48 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>stabl</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="stabl.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="stabl.0o.metitablo">
+    <dif>
+      <ref tip="super" cel="tabl.0o">Tablo</ref> por metia laboro; metitablo:
+      <ekz>
+        la potisto <klr>[&#8230;]</klr> laboras sur la <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 18:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tornilo kaj ligna&jcirc;ista <tld/>o
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Fabelo pri iu, kiu migris por ekkoni timon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni a&ubreve;dis marteladon kaj frapadon, &ccirc;ar &ccirc;iu metiisto havis sian <tld/>on en la
+        pordo a&ubreve; sur la trotuaro
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la anasido flugis sur la <tld/>on, sur kiu staris la butero, kaj de tie en la
+        barelon kun la faruno
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malbela anasido</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj de teksistoj, juvelistoj, &scirc;uistoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         <ind>torno<tld/>o</ind>
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Gefian&ccirc;oj</lok>
+        </fnt>.
+        <trd lng="de">Drehbank</trd>
+        <trd lng="hu">esztergapad</trd>
+      </ekz>
+     </dif>
+     <trdgrp lng="be">
+       <trd>&c_v;&c_a;&c_r;&c_sh;&c_t;&c_a;&c_t;</trd>,
+       <trd>&c_s;&c_t;&c_a;&c_n;&c_o;&c_k;</trd>
+     </trdgrp>
+     <trd lng="bg">&c_r;&c_a;&c_b;&c_o;&c_t;&c_n;&c_a; <ind>&c_m;&c_a;&c_s;&c_a;</ind></trd>
+     <trd lng="ca">taula de treball</trd>
+     <trd lng="de">Werkbank</trd>
+     <trd lng="en">workbench</trd>
+     <trd lng="es">mesa de trabajo</trd>
+     <trdgrp lng="fr">
+       <trd>&eacute;tabli</trd>,
+       <trd>banc <klr>(de tourneur, menuisier)</klr></trd>
+     </trdgrp>
+     <trd lng="hu">munkapad</trd>
+     <trd lng="nl">werkbank</trd>
+     <trdgrp lng="ru">
+       <trd>&c_v;&c_je;&c_r;&c_s;&c_t;&c_a;&c_k;</trd>,
+       <trd>&c_s;&c_t;&c_a;&c_n;&c_o;&c_k;</trd>
+     </trdgrp>
+   </snc>
+   <snc mrk="stabl.0o.TEK">
+     <uzo tip="fak">TEK</uzo>
+     <dif>
+       Subporta kunmeta&jcirc;o el traboj servanta kiel
+       <ref tip="super" cel="baz.0o.postamento">bazo</ref>.
+     </dif>
+     <subsnc mrk="stabl.0o.tabulo">
+       <dif>
+         Movebla kvarpieda kunmeta&jcirc;o el trabetoj por subporti tabulon,
+         tabularon, plankon.
+       </dif>
+       <trdgrp lng="be">
+         <trd>&c_k;&c_o;&c_z;&c_l;&c_y;</trd>,
+         <trd>&c_s;&c_t;&c_a;&c_n;&c_ib;&c_n;&c_a;</trd>,
+         <trd>&c_sh;&c_t;&c_a;&c_t;&c_y;&c_w;</trd>
+       </trdgrp>
+       <trd lng="bg">&c_s;&c_k;&c_je;&c_l;&c_je;</trd>
+       <trd lng="ca">cavallet <klr>(general)</klr></trd>
+       <trd lng="de">Gestell</trd>
+       <trdgrp lng="en">
+         <trd>trestle</trd>,
+         <trd>support</trd>,
+         <trd>stand</trd>
+       </trdgrp>
+       <trd lng="fr">tr&eacute;teau</trd>
+       <trd lng="hu">&aacute;llv&aacute;ny</trd>
+       <trdgrp lng="nl">
+         <trd>schraag</trd>,
+         <trd>stellage</trd>
+       </trdgrp>
+       <trdgrp lng="ru">
+         <trd>&c_sh;&c_t;&c_a;&c_t;&c_i;&c_v;</trd>,
+         <trd>&c_s;&c_t;&c_a;&c_n;&c_i;&c_n;&c_a;</trd>,
+         <trd>&c_k;&c_o;&c_z;&c_l;&c_y;</trd>
+       </trdgrp>
+     </subsnc>
+     <subsnc mrk="stabl.0o.pentrajxo">
+       <dif>
+         Movebla tripieda a&ubreve; kvarpieda kunmeta&jcirc;o el trabetoj
+         por subporti prilaboratan pentra&jcirc;on; pentro<tld/>o:
+        <ekz>
+          la pentristo <klr>[&#8230;]</klr> staris la tutan tempon, kiu estis bezonata por
+          aran&gcirc;i la <tld/>on
+          <fnt>
+            <bib>Fab1</bib>
+            <lok>Kupra porko</lok>
+          </fnt>.
+        </ekz>
+       </dif>
+    <rim>
+      En teksto de 1896 trovi&gcirc;as la vorto &leftquot;staflio&rightquot;:
+      <ekz>
+        granda amaso da pentra&jcirc;oj, kiuj kovris la stafliojn kaj starigilojn
+        <fnt>
+          <aut>Valdemar Langlet</aut>
+          <vrk><url ref="&Tekstaro;?nomo=vojaghimpresoj">Voja&gcirc;impresoj</url></vrk>
+          <lok>&Ccirc;e A&hcirc;med&#8217; Pa&scirc;a&#8217;, la granda pentristo</lok>
+        </fnt>.
+      </ekz>
+    </rim>
+       <trd lng="be">&c_m;&c_a;&c_l;&c_mol;&c_b;&c_e;&c_r;&c_t;</trd>
+       <trd lng="bg">&c_t;&c_r;&c_i;&c_n;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
+       <trd lng="ca">cavallet <klr>(per a teles)</klr></trd>
+       <trd lng="de">Staffelei</trd>
+       <trd lng="en">easel</trd>
+       <trd lng="es">caballete</trd>
+       <trd lng="fr">chevalet</trd>
+       <trd lng="hu">fest&odblac;&aacute;llv&aacute;ny</trd>
+       <trdgrp lng="nl">
+         <trd>ezel<klr tip="ind"> (v.schilder)</klr></trd>,
+         <trd>schildersezel</trd>
+       </trdgrp>
+       <trd lng="ru">&c_m;&c_o;&c_l;&c_mol;&c_b;&c_je;&c_r;&c_t;</trd>
+     </subsnc>
+   </snc>
+  <trdgrp lng="cs">
+    <trd>d&iacute;lensk&yacute; st&uring;l</trd>,
+    <trd>koza</trd>,
+    <trd>podstavec</trd>,
+    <trd>pracovn&iacute; deska</trd>,
+    <trd>pracovn&iacute; st&uring;l</trd>,
+    <trd>stojan</trd>
+  </trdgrp>
+  <trd lng="es">chevalet</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4ED5;&#x4E8B;&#x53F0;  <pr>&#12375;&#12372;&#12392;&#12384;&#12356;</pr></trd>,
+    <trd>&#x4F5C;&#x696D;&#x53F0;  <pr>&#12373;&#x304E;&#12423;&#12358;&#12384;&#12356;</pr></trd>,
+    <trd>&#x53F0;  <pr>&#x305F;&#12356;</pr></trd>,
+    <trd>&#x67B6;&#x53F0;  <pr>&#x304B;&#12384;&#12356;</pr></trd>,
+    <trd>&#x69CB;&#x811A;  <pr>&#x304B;&#x307E;&#12354;&#12375;</pr></trd>,
+    <trd>&#x753B;&#x67B6;  <pr>&#x304C;&#x304B;</pr></trd>,
+    <trd>&#x30A4;&#x30FC;&#x30BC;&#x30EB;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>sztaluga</trd>,
+    <trd>warsztat  <klr>(st&oacute;&lstroke; roboczy)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>le&scaron;enie</trd>,
+    <trd>podstavec <klr>(hoblice)</klr></trd>,
+    <trd>ponk</trd>,
+    <trd>pracovn&yacute; st&ocirc;l</trd>,
+    <trd>stojan</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_je;&c_r;&c_s;&c_t;&c_a;&c_t;</trd>,
+    <trd>&c_s;&c_t;&c_a;&#x43D;&#x43E;&#x43A;</trd>,
+    <trd>&#x43C;&#x43E;&#x43B;&#x44C;&c_b;&c_je;&c_r;&c_t;</trd>,
+    <trd>&#x43A;&#x43E;&c_z;&#x43B;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stabl.cxen0o">
+  <kap>&ccirc;en<tld/>o</kap>
+  <snc mrk="stabl.cxen0o.MAS">
+    <uzo tip="fak">MAS</uzo>
+    <dif>
+      Organizo kaj ekipa&jcirc;o, per kiu fabrikata&jcirc;oj estas vice portataj
+      al sinsekvaj postenoj, kie okazas la sinsekvaj prilaboroj:
+      <ekz>
+        li enkondukis novajn labormetodojn de produktado (&ccirc;en<tld/>o ktp), kiuj altigis
+        la produktivecon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2012/010830.php">Tom&aacute;&scaron; Ba&tcaron;a, re&gcirc;o de la &scirc;uistoj</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la robotoj kapablas plenumi &ccirc;en<tld/>ajn taskojn,
+        kiel specigado de produktoj
+        <fnt>
+          <aut>J.-J. Wintraecken</aut>,
+          <vrk>Dungoficejo por robotoj</vrk>,
+          <bib>Monato</bib>,
+          <lok>2017:06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Flie&szlig;band</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_v;&c_e;&c_je;&c_r;</trd>
+  <trd lng="fr">chaine de production</trd>
+  <trd lng="ja">&#x30D9;&#x30EB;&#x30C8;&#x30B3;&#x30F3;&#x30D9;&#x30A2;</trd>
+  <trd lng="pl">linia monta&zdot;owa</trd>
+  <trd lng="uk">&#x43A;&#x43E;&#x43D;&c_v;&c_je;&c_jeu;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.30 2023/10/07 21:20:48
+Vito Redsky: +trd pl 
+
+versio 1.28 2023/07/28 09:25:16
+Dmitri Gabinski: + trd be
+
+versio 1.27 2023/05/06 14:26:05
+revo: aktualigo URL-unuoj
+
+versio 1.26 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2021/01/05 19:04:37
+Wolfram Diestel: +ekz-oj
+
+versio 1.22 2021/01/05 06:58:58
+Wolfram Diestel: +rim staflio
+
+Revision 1.20  2015/08/18 17:10:14  revo
+-->
+</vortaro>

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+
+  <art mrk="$Id: titr.xml,v 1.4 2023/10/21 13:52:03 afido Exp $">
+    <kap>
+      <rad>titr</rad>/o
+      <fnt><bib>PIV1</bib></fnt>
+    </kap>
+
+<drv mrk="titr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="titr.0o.dilua">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Maksimuma dilua <ref tip="super" cel="faktor.0o">faktoro</ref> de testsubstanco, donanta
+      ankora&ubreve; pozitivan rezulton.
+    </dif>
+  </snc>
+  <snc mrk="titr.0o.korekta">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Korekta faktoro por la koncentriteco de mezursolva&jcirc;o, t.e. la proporcio inter mezurita kaj
+      nominala koncentriteco
+      de la mezursolva&jcirc;o.
+    </dif>
+  </snc>
+  <trd lng="de">Titer</trd>
+  <trd lng="en">titer</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6EF4;&#x5B9A;&#x91CF;  <pr>&#x3066;&#x304D;&#x3066;&#x3044;&#x308A;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x6EF4;&#x5B9A;&#x6FC3;&#x5EA6;  <pr>&#x3057;&#x305A;&#x304F;&#x3066;&#x3044;&#x306E;&#x3046;&#x3069;</pr></trd>,
+    <trd>&#x7D14;&#x5206;  <pr>&#x3058;&#x3085;&#x3093;&#x3076;&#x3093;</pr></trd>,
+    <trd>&#x542B;&#x6709;&#x91CF;  <pr>&#x304C;&#x3093;&#x3086;&#x3046;&#x308A;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="titr.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <snc mrk="titr.0i.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Mezuri la koncentritecon per mezursolva&jcirc;o kun anta&ubreve;determinita koncentriteco (<tld/>o):
+      <ekz>
+        <tld/>ado de acetatacida solva&jcirc;o enhavanta 1 parton da nikelo en 2 milionoj
+        <fnt>
+          <aut>W. C. Johnson kaj M. Simmons</aut>
+          <vrk><url ref="https://eo.wikisource.org/wiki/Scienca_Revuo/vol._1,_n-ro._2/1.2-Cikloheksandion-dioksimo_(Nioksimo)_reakciilo_por_nikelo">1.2-cikloheksandion-dioksimo (&leftquot;nioksimo&#x201D;) Reakciilo Por Nikelo</url></vrk>
+          <lok>Scienca Revuo, vol. 1, n-ro. 2 (1949), p. 76&ndash;78</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bureto, aparato por fari ekzemple acid-bazan <tld/>adon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=244567">Kemia ekvilibro</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Titration</trd>
+  <trd lng="en">titration</trd>
+  <trd lng="ja">&#x6EF4;&#x5B9A;&#x3059;&#x308B;  <pr>&#x3057;&#x305A;&#x304F;&#x3066;&#x3044;&#x3059;&#x308B;</pr></trd>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.4 2023/10/21 13:52:03
+revo: transskribo per <pr>
+
+versio 1.2 2022/10/25 14:49:59
+Wolfram Diestel: plibonigo dif-vortigo
+-->
+
+<!--
+$Log: titr.xml,v $
+versio 1.1 2022/10/25 06:34:13
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

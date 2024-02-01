@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: menhir.xml,v 1.22 2023/11/21 21:23:27 revo Exp $">
+<kap>
+  <rad>menhir</rad>/o
+  <fnt><bib>PVEF</bib></fnt>
+</kap>
+<drv mrk="menhir.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="menhir.0o.ARKE">
+    <uzo tip="fak">ARKE</uzo>
+    <dif>
+      <ref cel="megali.0o">Megalit</ref>a monumento starigita vertikale:
+      <ekz>
+        la <tld/>oj, de prajarcentoj starantaj garde sur la bordoj, estis nur fantomoj
+        <fnt>
+          <aut>W&lstroke;adys&lstroke;aw Reymont, trad. Kabe</aut>
+          <vrk><url ref="&Steloj;lasta/index.html">La Lasta</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ctl>Merlo sur <tld/>o</ctl>
+        <klr>(poemaro de Alberto <nom>Goodheir</nom>)</klr>
+        <fnt><aut>Goodheir Albert</aut>, <vrk>Merlo sur menhiro.
+        Glasgovo: Glasgova Esperanto-Societo, 1974</vrk></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="super">
+      <ref cel="megali.0o">megalito</ref>
+    </refgrp>
+    <bld
+      lok="&WCU;/thumb/a/a8/Nages_menhir_du_Tribi.JPG/640px-Nages_menhir_du_Tribi.JPG"
+      prm="CC BY-SA 4.0"
+      ><tld/>o de Tribi en Nages, Francujo
+        <fnt>
+          <aut>Fagairolles 34, propra verko</aut>
+          <lok><url ref="&WCW;/File:Nages_menhir_du_Tribi.JPG"
+              >https://commons.wikimedia.org/wiki/File:Nages_menhir_du_Tribi.JPG</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_n;&c_g;&c_ib;&c_r;</trd>
+  <trd lng="bg">&c_m;&c_je;&c_n;&c_h;&c_i;&c_r; </trd>
+  <trdgrp lng="br">
+    <trd>maen-hir</trd>,
+    <trd>peulvan</trd>
+  </trdgrp>
+  <trd lng="ca">menhir</trd>
+  <trd lng="cs">menhir</trd>
+  <trdgrp lng="de">
+    <trd>H&uuml;nenstein</trd>,
+    <trd>Menhir</trd>
+  </trdgrp>
+  <trd lng="en">menhir</trd>
+  <trd lng="es">menhir</trd>
+  <trdgrp lng="fr">
+    <trd>menhir</trd>,
+    <trd>pierre lev&eacute;e</trd>
+  </trdgrp>
+  <trd lng="hu">menhir</trd>
+  <trdgrp lng="ja">
+    <trd>&#12513;&#12531;&#12498;&#12523;</trd>,
+    <trd>&#31435;&#30707;  <pr>&#12383;&#12390;&#12356;&#12375;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">menhir</trd>
+  <trd lng="pt">menir</trd>
+  <trd lng="ru">&c_m;&c_je;&c_n;&c_g;&c_i;&c_r;</trd>
+  <trd lng="sk">menhir</trd>
+  <trd lng="uk">&c_m;&c_je;&c_n;&c_g;&c_ib;&c_r; (&c_p;&c_a;&c_m;&#8217;&c_ja;&c_t;&c_n;&c_i;&c_k;)</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/11/21 21:23:27
+Wolfram Diestel: +bld
+
+versio 1.21 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.19 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.17 2021/03/03 18:59:52
+Wolfram Diestel: +ekz
+
+Revision 1.15  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2006/07/31 16:32:34  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/07/10 16:31:07  revo
+Alan ar Gall: mod tip en ref al megalito, +trd br
+
+Revision 1.12  2005/04/16 16:35:06  revo
+-->
+</vortaro>

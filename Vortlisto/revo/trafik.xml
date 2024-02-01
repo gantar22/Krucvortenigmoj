@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: trafik.xml,v 1.26 2023/10/21 14:37:42 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>trafik</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="trafik.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Komerca survoja a&ubreve; surakva interkomunikado kaj
+      inter&scirc;an&gcirc;o:
+      <ekz>
+        la &ccirc;iam kreskanta mar<tld/>o;
+      </ekz>
+      <ekz>
+        havena <tld/>o;
+      </ekz>
+      <ekz>
+        <ind>var<tld/>o</ind>;
+        <trd lng="hu">&aacute;ruforgalom</trd>
+        <trd lng="pl">transport</trd>
+      </ekz>
+      <ekz>
+        fervoja person<tld/>o;
+      </ekz>
+      <ekz>
+        <ind>transira <tld/>o</ind>
+        <klr>(transito)</klr>.
+        <trd lng="hu">&aacute;tmen&odblac; <ind>forgalom</ind></trd>
+        <trd lng="pl">tranzyt</trd>
+      </ekz>
+    </dif>
+    <trd lng="ca">tr&agrave;fic</trd>
+    <trd lng="hu">forgalom</trd>
+    <trdgrp lng="pl">
+      <trd>komunikacja</trd>,
+      <trd>transport</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Cirkulado sur vojoj:
+      <ekz>
+        sur la stratoj regas vigla <tld/>o;
+      </ekz>
+      <ekz>
+        turista <tld/>o;
+      </ekz>
+      <ekz>
+        la urbestro ordonis la dekstraflankan <tld/>on por &ccirc;iuj
+        veturiloj.
+      </ekz>
+    </dif>
+    <trd lng="ca">tr&agrave;nsit</trd>
+    <trd lng="hu">k&ouml;zleked&eacute;s</trd>
+    <trd lng="pl">ruch<klr> (drogowy)</klr></trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_u;&c_h;</trd>,
+    <trd>&c_s;&c_u;&c_v;&c_ja;&c_z;&c_mol;</trd>,
+    <trd>&c_z;&c_n;&c_o;&c_s;&c_ib;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>cestovn&iacute; ruch</trd>,
+    <trd>doprava</trd>,
+    <trd>frekvence</trd>,
+    <trd>provoz</trd>,
+    <trd>p&rcaron;eprava</trd>
+  </trdgrp>
+  <trd lng="de">Verkehr</trd>
+  <trd lng="en">traffic</trd>
+  <trdgrp lng="fr">
+    <trd>circulation<klr> (trafic)</klr></trd>,
+    <trd>trafic<klr> (circulation)</klr></trd>
+  </trdgrp>
+  <trd lng="id">lalu lintas</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EA4;&#x901A;  <pr>&#12371;&#12358;&#12388;&#12358;</pr></trd>,
+    <trd>&#x5F80;&#26469;  <pr>&#x304A;&#12358;&#12425;&#12356;</pr></trd>,
+    <trd>&#x8F38;&#36865;  <pr>&#12422;&#x305D;&#12358;</pr></trd>,
+    <trd>&#x4EA4;&#x901A;&#x904B;&#x8F38;  <pr>&#12371;&#12358;&#12388;&#12358;&#12358;&#12435;&#12422;</pr></trd>,
+    <trd>&#x4EA4;&#x901A;&#x91CF;  <pr>&#12371;&#12358;&#12388;&#12358;&#x308A;&#12423;&#12358;</pr></trd>,
+    <trd>&#x8F38;&#36865;&#x91CF;  <pr>&#12422;&#x305D;&#12358;&#x308A;&#12423;&#12358;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">verkeer</trd>
+  <trd lng="pt">tr&aacute;fego</trd>
+  <trd lng="ro">circula&#x21B;ie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_je; <klr tip="amb">(&c_d;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_o;&c_je; &c_i;
+    &c_t;.&c_p;.)</klr></trd>,
+    <trd>&c_s;&c_o;&c_o;&c_b;&c_shch;&c_je;&c_n;&c_i;&c_je; <klr tip="amb">(&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;&c_n;&c_o;&c_je;)</klr></trd>,
+    <trd>&c_t;&c_r;&c_a;&c_f;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>doprava</trd>,
+    <trd>prem&aacute;vka</trd>,
+    <trd>ruch</trd>
+  </trdgrp>
+  <trd lng="sv">trafik</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_u;&c_h; (&c_v;&c_u;&#x43B;&c_i;&c_ch;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_d;&#x43E;&c_r;&#x43E;&c_zh;&#x43D;&c_ib;&c_j;)</trd>,
+    <trd>&c_s;&#x43F;&#x43E;&#x43B;&c_u;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_t;&c_r;&c_a;&#x43D;&c_s;&#x43F;&#x43E;&c_r;&c_t;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_v;&c_je;&c_z;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_f;&c_ib;&#x43A;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="trafik.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="trafik.0i.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      <ref tip="vid" cel="cirkul.0i.TRA">Cirkuli</ref>,
+      movi&gcirc;adi sur vojoj:
+      <ekz>
+        pro glacio la havenaj &scirc;ipetoj ne povis <tld/>i.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_u;&c_h;&c_a;&c_c;&c_c;&c_a; <klr>(&c_a;&c_b; &c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_c;&c_je; &c_n;&c_a; &c_d;&c_a;&c_r;&c_o;&c_g;&c_a;&c_h;)</klr></trd>,
+    <trd>&c_c;&c_y;&c_r;&c_k;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">transitar</trd>
+  <trdgrp lng="cs">
+    <trd>dopravovat</trd>,
+    <trd>provozovat dopravu</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>circuler<klr> (en v&eacute;hicule)</klr></trd>,
+    <trd>se <ind>d&eacute;placer</ind><klr> (par un moyen de
+    transport)</klr></trd>
+  </trdgrp>
+  <trd lng="id">ber<ind>lalu lintas</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F80;&#26469;&#12377;&#x308B;  <pr>&#x304A;&#12358;&#12425;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x8F38;&#36865;&#12434;&#x884C;&#12358;  <pr>&#12422;&#x305D;&#12358;&#12434;&#x304A;&#12371;&#x306A;&#12358;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">dopravova&tcaron;</trd>
+  <trd lng="uk">&c_c;&c_i;&c_r;&#x43A;&c_u;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="trafik.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="trafik.0ilo.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      <ref tip="vid" cel="vetur.0ilo.TRA">Veturilo</ref>,
+      <ref tip="vid" cel="port.trans0ilo.TRA">transportilo</ref>,
+      ordinara rimedo por <tld/>i:
+      <ekz>
+        la plej oportuna <tld/>ilo por tia voja&gcirc;o estus
+        aeroplano.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_t;&c_n;&c_y; &c_s;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>
+  <trd lng="ca">mitj&agrave; de transport</trd>
+  <trd lng="cs">dopravn&iacute; prost&rcaron;edek</trd>
+  <trd lng="fr">moyen de transport</trd>
+  <trd lng="hu">k&ouml;zleked&eacute;si eszk&ouml;z</trd>
+  <trd lng="id"><ind>alat</ind> transportasi</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EA4;&#x901A;&#x6A5F;&#x95A2;  <pr>&#12371;&#12358;&#12388;&#12358;&#x304D;&#x304B;&#12435;</pr></trd>,
+    <trd>&#x4EA4;&#x901A;&#x624B;&#x6BB5;  <pr>&#12371;&#12358;&#12388;&#12358;&#12375;&#12421;&#12384;&#12435;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&sacute;rodek <ind>komunikacji</ind></trd>,
+    <trd>&sacute;rodek <ind>transportu</ind></trd>
+  </trdgrp>
+  <trd lng="sk">dopravn&yacute; prostriedok</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_s;&c_ib;&c_b; &c_s;&#x43F;&#x43E;&#x43B;&c_u;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_t;&c_r;&c_a;&#x43D;&c_s;&#x43F;&#x43E;&c_r;&c_t;&#x43D;&c_i;&c_j; &c_z;&c_a;&c_s;&c_ib;&c_b;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.25 2023/09/15 08:29:34
+Dmitri Gabinski: + trd be
+
+versio 1.22 2021/04/23 07:04:26
+Dmitri Gabinski: +trd be
+
+versio 1.21 2020/05/03 07:10:20
+Eko Nur Syah Hidayat: korekteto
+-->
+</vortaro>

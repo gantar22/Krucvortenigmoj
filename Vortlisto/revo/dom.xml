@@ -1,0 +1,1059 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dom.xml,v 1.151 2023/12/12 19:23:57 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>dom</rad>/o
+</kap>
+
+<drv mrk="dom.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="dom.0o.konstruajxo">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Tuta <ref tip="super" cel="konstr.0ajxo.domo">konstrua&jcirc;o</ref>,
+      destinita por homa lo&gcirc;ado (<tld/>o kun unu a&ubreve; pluraj
+      lo&gcirc;ejoj), por oficejoj (urbo<tld/>o) a&ubreve; publikaj
+      servoj (staci<tld/>o, Esperanto-<tld/>o):
+      <ekz>
+        anta&ubreve; la <tld/>o staras arbo
+        <fnt><bib>F</bib> <lok>&FE; 8</lok></fnt>;
+      </ekz>
+      <ekz>
+        bona estas <tld/>o nova kaj amiko malnova
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        apud propra <tld/>o &scirc;telisto ne &scirc;telas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dronanto <tld/>on proponas, savito e&ccirc; brikon ne donas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tola&jcirc;on malpuran lavu en la <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la administranto de mia <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 15:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        cirkumcidata estu &ccirc;iu naskita en via <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 17:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u en la <tld/>o de via patro estas loko por ni,
+        por tradormi la nokton
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 24:23</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        anta&ubreve; la sojlo de la <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 19:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>fasado
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+            <vrk><url ref="&Monato;/2000/007014.php">Orfi&gcirc;inta beleco</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/07, p. 12</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        plenokupaj <tld/>mastrinoj
+        <fnt>
+          <aut>Gianfranco Cazzaro</aut>
+          <vrk><url ref="&Monato;/1995/A950101.php">La modo de fiksokuloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/01, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref cel="best.dom0o">dombesto</ref>
+        <fnt>
+       <aut>Jean-Yves Santerre</aut>
+          <vrk><url ref="&Monato;/2000/006864.php">&Ccirc;evalrasoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>plantoj
+        <fnt>
+          <aut>M&aacute;ire NicAoidh</aut>
+          <vrk><url ref="&Monato;/2000/006878.php">&Gcirc;ardenumi</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/04, p. 20</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_o;&c_m;</trd>,
+      <trd>&c_b;&c_u;&c_d;&c_y;&c_n;&c_a;&c_k;</trd>,
+      <trd>&c_ib;&c_z;&c_b;&c_a;</trd>,
+      <trd>&c_h;&c_a;&c_t;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="bo">
+      <trd>&t_kha;&t_nga;&t_tsheg;</trd>,
+      <trd>&t_kha;&t_nga;&t_tsheg;&t_pa;&t_tsheg;</trd>
+    </trdgrp>
+    <trd lng="br">ti</trd>
+    <trd lng="ca">casa</trd>
+    <trdgrp lng="de">
+      <trd>Haus</trd>,
+      <trd>Geb&auml;ude</trd>,
+      <trd>H&uuml;tte</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>maison<klr tip="ind"> (construction)</klr></trd>,
+      <trd>b&acirc;timent</trd>
+    </trdgrp>
+    <trd lng="hu">h&aacute;z</trd>
+    <trdgrp lng="pl">
+      <trd>dom</trd>,
+      <trd>domostwo</trd>,
+      <trd>budynek</trd>,
+      <trd>blok<klr> (np. mieszkalny)</klr></trd>,
+      <trd>rezydencja</trd>
+    </trdgrp>
+    <trd lng="pt">casa</trd>
+    <trdgrp lng="ro">
+      <trd>cas&abreve;</trd>,
+      <trd>locuin&#x21B;&abreve;</trd>,
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_o;&c_m;</trd>,
+      <trd>&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_i;&c_z;&c_b;&c_a;</trd>
+    </trdgrp>
+    <trd lng="tok">tomo</trd>
+    <trdgrp lng="zh">
+    <trd>&#x623F;&#x5C4B; <pr>f&#xE1;ngw&#x16B;</pr></trd>,
+    <trd>&#x623F; <pr>f&#xE1;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="dom.0o.GEN">
+    <tezrad fak="GEN"/>
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Nobela, eminenta familianaro:
+      <ekz>
+        edzoligi&gcirc;i kun <tld/>o de nobelo
+        <fnt>
+          <aut>Moli&egrave;re, trad. &Z;</aut>
+          <vrk><url ref="https://www.americanroads.us/esperanto/Georgo_Dandin_Moliere.pdf">Georgo
+          Dandin</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni gardis honeste la honoron de nia <tld/>o, ni povas kun pura konscienco
+        partopreni en la komuna festo de nia familio
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvina Kongreso Esperantista en Barcelona en la 6a de septembro
+          1909</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="dinast.0o">dinastio</ref>
+    </refgrp>
+    <trd lng="be">&c_d;&c_o;&c_m;</trd>
+    <trd lng="br">tiegezh<klr tip="ind"> (lignez)</klr></trd>
+    <trdgrp lng="de">
+      <trd>Haus</trd>,
+      <trd>Dynastie</trd>,
+      <trd>Sippe<klr> [ark]</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>maison<klr tip="ind"> (lign&eacute;e)</klr></trd>,
+      <trd>lign&eacute;e</trd>
+    </trdgrp>
+    <trd lng="hu">h&aacute;z</trd>
+    <trd lng="pl">dom</trd>
+    <trd lng="pt">casa</trd>
+    <trd lng="ru">&c_d;&c_o;&c_m;</trd>
+    <trd lng="zh">&#x671D; <pr>ch&#xE1;o</pr></trd>
+</snc>
+  <snc mrk="dom.0o.hejmo">
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      <ref tip="dif" cel="hejm.0o">Hejmo</ref>:
+      <ekz>
+        mi restos hodia&ubreve; <tld/>e
+        <fnt><bib>F</bib>, <lok>&FE; 28</lok></fnt>;
+      </ekz>
+      <ekz>
+        jam estas tempo iri <tld/>en
+        <fnt><bib>F</bib>, <lok>&FE; 28</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_o;&c_m;</trd>,
+      <trd>&c_d;&c_a;&c_m;&c_a;&c_sh;&c_n;&c_ib; &c_a;&c_ch;&c_a;&c_g;
+      </trd>
+    </trdgrp>
+    <trdgrp lng="br">
+      <trd>k&ecirc;r<klr tip="ind"> (annez)</klr></trd>,
+      <trd>annez</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Heim</trd>
+      <trd>trautes <ind>Heim</ind></trd>
+    </trdgrp>
+    <trd lng="en">home</trd>
+    <trd lng="fr">domicile</trd>
+    <trd lng="hu">otthon</trd>
+    <trd lng="pl">dom<klr> rodzinny</klr></trd>
+    <trdgrp lng="pt">
+      <trd>casa</trd>,
+      <trd>lar</trd>,
+      <trd>domic&iacute;lio</trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_o;&c_m;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x5B89;&#x4E50;&#x7A9D; <pr>&#x101;nl&#xE8;w&#x14D;</pr></trd>,
+    <trd>&#x5C45;&#x6240; <pr>j&#x16B;su&#x1D2;</pr></trd>,
+    <trd>&#x6545;&#x4E61; <pr>g&#xF9;xi&#x101;ng</pr></trd>,
+    <trd>&#x7089;&#x8FB9; <pr>l&#xFA;bi&#x101;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="af">huis</trd>
+  <trd lng="am">&#x1264;&#x1275;</trd>
+  <trd lng="ar">&a_m;&a_n;&a_z;&a_l;</trd>
+  <trd lng="az">ev</trd>
+  <trd lng="bg">&c_k;&c_mol;&c_shch;&c_a;</trd>
+  <trd lng="bn">&#x998;&#x9B0;</trd>
+  <trd lng="bs">ku&cacute;a</trd>
+  <trd lng="co">g&icirc;te</trd>
+  <trdgrp lng="cs">
+    <trd>bar&aacute;k</trd>,
+    <trd>d&uring;m</trd>,
+    <trd>d&uring;m</trd>
+  </trdgrp>
+  <trd lng="cy">t&ycirc;</trd>
+  <trd lng="da">hus</trd>
+  <trd lng="en">house</trd>
+  <trd lng="es">casa</trd>
+  <trd lng="et">maja</trd>
+  <trd lng="eu">etxea</trd>
+  <trd lng="fr">maison</trd>
+  <trd lng="fy">h&ucirc;s</trd>
+  <trd lng="ga">teach</trd>
+  <trd lng="gd">taigh</trd>
+  <trd lng="gl">casa</trd>
+  <trd lng="gu">&#xA98;&#xAB0;</trd>
+  <trd lng="hi">&#x918;&#x930;</trd>
+  <trd lng="hmn">tsev</trd>
+  <trd lng="hr">ku&cacute;a</trd>
+  <trd lng="ht">kay</trd>
+  <trd lng="hy">&#x57F;&#x578;&#x582;&#x576;</trd>
+  <trd lng="id">rumah</trd>
+  <trd lng="ig">&#x1EE5;l&#x1ECD;</trd>
+  <trd lng="is">h&uacute;s</trd>
+  <trd lng="ja">&#x5BB6; <pr>&#x3061;</pr></trd>
+  <trd lng="ka">&#x10E1;&#x10D0;&#x10EE;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&#x4AF;&c_j;</trd>
+  <trd lng="km">&#x1795;&#x17D2;&#x1791;&#x17C7;</trd>
+  <trd lng="kn">&#xCAE;&#xCA8;&#xCC6;</trd>
+  <trd lng="ko">&#xC9D1;</trd>
+  <trd lng="ku">xan&icirc;</trd>
+  <trd lng="ky">&#x4AF;&c_j;</trd>
+  <trd lng="lat">domus</trd>
+  <trd lng="lo">&#xEC0;&#xEAE;&#xEB7;&#xEAD;&#xE99;</trd>
+  <trd lng="lt">namas</trd>
+  <trd lng="lv">m&#257;ja</trd>
+  <trd lng="mg">trano</trd>
+  <trd lng="mi">whare</trd>
+  <trd lng="mk">&c_k;&c_u;&#x45C;&c_a;</trd>
+  <trd lng="ml">&#xD35;&#xD40;&#xD1F;&#xD4D;</trd>
+  <trd lng="mn">&c_b;&c_a;&c_j;&c_sh;&c_i;&c_n;</trd>
+  <trd lng="mr">&#x918;&#x930;</trd>
+  <trd lng="ms">rumah</trd>
+  <trd lng="my">&#x1021;&#x102D;&#x1019;&#x103A;</trd>
+  <trd lng="ne">&#x918;&#x930;</trd>
+  <trd lng="nl">huis</trd>
+  <trd lng="ny">m&#x2019;nyumba</trd>
+  <trd lng="oc">ostal</trd>
+  <trd lng="pa">&#xA26;&#xA47; &#xA18;&#xA30;</trd>
+  <trd lng="ps">&f_k;&a_w;&a_r;</trd>
+  <trd lng="rw">inzu</trd>
+  <trd lng="sd">&f_g;&#x6BE;&a_r;</trd>
+  <trd lng="si">&#xDB1;&#xDD2;&#xDC0;&#xDC3;&#xD9A;&#xDCA;</trd>
+  <trd lng="sk">dom</trd>
+  <trd lng="sl">hi&scaron;a</trd>
+  <trd lng="sm">fale</trd>
+  <trd lng="sn">imba</trd>
+  <trd lng="so">guriga</trd>
+  <trd lng="sq">sht&euml;pi</trd>
+  <trd lng="st">ntlo</trd>
+  <trd lng="su">imah</trd>
+  <trd lng="sv">hus</trd>
+  <trd lng="sw">nyumba</trd>
+  <trd lng="ta">&#xBB5;&#xBC0;&#xB9F;&#xBCD;&#xB9F;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC07;&#xC32;&#xC4D;&#xC32;&#xC41;</trd>
+  <trd lng="tg">&c_h;&c_o;&c_n;&c_a;</trd>
+  <trd lng="th">&#xE1A;&#xE49;&#xE32;&#xE19;</trd>
+  <trd lng="tl">bahay</trd>
+  <trd lng="tr">ev</trd>
+  <trd lng="tt">&c_j;&c_o;&c_r;&c_t;</trd>
+  <trd lng="uk">&c_b;&c_u;&c_d;&c_i;&c_n;&c_o;&c_k;</trd>
+  <trd lng="ur">&f_g;&#x6BE;&a_r;</trd>
+  <trd lng="uz">uy</trd>
+  <trd lng="vi">nh&agrave;</trd>
+  <trd lng="vo">dom</trd>
+  <trd lng="xh">indlu</trd>
+  <trd lng="yi">&he;&vav;&yod;&zayin;</trd>
+  <trd lng="yo">ile</trd>
+  <trd lng="zu">indlu</trd>
+</drv>
+
+<drv mrk="dom.0acxo">
+  <kap><tld/>a&ccirc;o</kap>
+  <snc mrk="dom.0acxo.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Malbona <tld/>o, maloportuna, malsolida a&ubreve; iel difektita:
+      <ekz>
+        kiel longe ankora&ubreve; tiu malnova <tld/>a&ccirc;o staros
+        &ccirc;i tie &ccirc;e la strato
+        <fnt><bib>Fab2</bib>, <lok>malnova domo</lok></fnt>?
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="barak.0o">barako</ref>,
+      <ref cel="dom.0eto.KOMUNE">dometo</ref>,
+      <ref cel="kaban.0o">kabano</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="en">
+    <trd>shack</trd>,
+    <trd>hut</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>choza</trd>,
+    <trd>chabola</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bicoque</trd>,
+    <trd>masure</trd>
+  </trdgrp>
+  <trd lng="he">&bet;&yod;&tav; &mem;&tet; &lamed;&nun;&pe;&vav;&lamed;</trd>
+  <trdgrp lng="id">
+    <trd>gubuk</trd>,
+    <trd>teratak</trd>
+  </trdgrp>
+  <trd lng="ja">&#x3042;&#x3070;&#x3089;&#x3084;</trd>
+  <trdgrp lng="nl">
+    <trd>hut</trd>,
+    <trd>krot</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rudera</trd>,
+    <trd>ruina</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_m;&c_i;&c_sh;&c_k;&c_o;</trd>,
+    <trd>&c_h;&c_i;&c_b;&c_a;&c_r;&c_a;</trd>,
+    <trd>&c_h;&c_a;&c_l;&c_u;&c_p;&c_a;</trd>,
+    <trd>&c_l;&c_a;&c_ch;&c_u;&c_g;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sv">ruckel</trd>
+  <trd lng="uk"> &c_h;&c_a;&c_l;&c_u;&c_p;&c_a;</trd>
+</drv>
+
+<drv mrk="dom.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="dom.0ano.ajna">
+    <dif>
+      Lo&gcirc;anto de <tld/>o:
+      <ekz>
+        la fajrogrigado savis &ccirc;iujn <tld/>anojn.
+      </ekz>
+    </dif>
+    <trd lng="id">peng<ind>huni</ind> rumah</trd>
+    <trd lng="ru">&c_zh;&c_i;&c_l;&c_je;&c_c;<klr tip="amb">
+(&c_d;&c_o;&c_m;&c_a;)</klr></trd>
+  </snc>
+  <snc mrk="dom.0ano.subulo">
+    <dif>
+      Kunvivanto en iu hejmo, samhejmano, eventuale kontraste al la
+      <tld/>mastro:
+      <ekz>
+        <nom>Esav</nom> prenis siajn edzinojn kaj siajn filojn kaj siajn filinojn
+        kaj &ccirc;iujn siajn <tld/>anojn <klr>[&#x2026;]</klr> kaj foriris en
+        alian landon
+        <fnt><bib>MT</bib> <lok>&Gen; 36:6</lok></fnt>;
+      </ekz>
+      <ekz>
+        <nom>Abram</nom> diris: al mi Vi ne donis ja idaron, kaj jen mia <tld/>ano estos mia
+        heredanto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 15:3</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Mitbewohner</trd>
+    <trdgrp lng="id">
+      <trd><ind>teman</ind> serumah</trd>,
+      <trd><ind>teman</ind> sekamar</trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_o;&c_m;&c_o;&c_ch;&c_a;&c_d;&c_je;&c_c;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x5BA4;&#x53CB; <pr>sh&#xEC;y&#x1D2;u</pr></trd>,
+    <trd>&#x4F4F;&#x6236; <pr>zh&#xF9;h&#xF9;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_d;&c_a;&c_m;&c_a;&c_ch;&c_a;&c_d;&c_z;&c_je;&c_c;
+  </trd>
+  <trd lng="cs">obyvatel domu</trd>
+  <trdgrp lng="en">
+    <trd>housemate</trd>,
+    <trd>cohabitant</trd>,
+    <trd>roommate</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>commensal</trd>,
+    <trd>familier<klr> (du m&ecirc;me foyer)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&dalet;&yod;&yod;&resh;</trd>
+  <trd lng="hu">lak&oacute;t&aacute;rs</trd>
+  <trd lng="ja">&#x5BB6;&#x4EBA;  <pr>&#x3051;&#x306B;&#x3093;</pr></trd>
+  <trd lng="nl">medebewoner</trd>
+  <trd lng="pl">domownik</trd>
+  <trd lng="sk">obyvate&lcaron; domu</trd>
+</drv>
+
+<drv mrk="dom.0anaro">
+  <kap><tld/>anaro</kap>
+  <snc mrk="dom.0anaro.KOMUNE">
+    <dif>
+      La tuto de lo&gcirc;antoj en unu <tld/>o, anoj de kunlo&gcirc;a
+      familio:
+      <ekz>
+        <nom>Adaha</nom> tuj gajnis la sinceran korinklinon de la tuta <tld/>anaro
+        per sia natura amindeco
+        <fnt><bib>I&scirc;tar</bib> <lok>&ccirc;apitro 12a, Lemuel kaj
+        Adaha</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>obyvatelstvo domu</trd>,
+    <trd>obyvatel&eacute; domu</trd>
+  </trdgrp>
+  <trd lng="en">household</trd>
+  <trd lng="fr">maisonn&eacute;e</trd>
+  <trd lng="he">&bet;&nun;&yod; &bet;&yod;&tav;</trd>
+  <trd lng="id"><ind>rumah</ind> tangga</trd>
+  <trd lng="nl">bewoners</trd>
+  <trd lng="pl">domownicy</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_d;&c_o;&c_m;&c_o;&c_ch;&c_a;&c_d;&c_c;&c_y;</trd>
+  </trdgrp>
+  <trd lng="sk">obyvate&lcaron; domu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_je;&c_l;&c_ja;&c_d;&c_mol;</trd>,
+    <trd>&c_m;&c_je;&c_sh;&c_k;&c_a;&c_n;&c_c;&c_ib; &c_b;&c_u;&c_d;&c_i;&c_n;&c_k;&c_u;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dom.0ego">
+  <kap><tld/>ego</kap>
+  <snc mrk="dom.0ego.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Granda <ref tip="super" cel="dom.0o.konstruajxo"><tld/>o</ref>
+      ofte entenanta multajn lo&gcirc;ejojn a&ubreve; oficejojn:
+      <ekz>
+        magazenoj, fabrikoj kaj laboristaj <tld/>egoj
+        <fnt><bib>Kiso</bib>, <lok>tombeja arabesko</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="palac.0o">palaco</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="en">
+    <trd>building <klr>(apartment, office)</klr></trd>,
+    <trd>mansion</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>batisse</trd>,
+    <trd>immeuble</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>bangun</ind>an</trd>,
+    <trd>gedung</trd>,
+    <trd><ind>rumah</ind> besar</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5927;&#x304D;&#x3044;&#x5BB6;  <pr>&#x304A;&#x304A;&#x304D;&#x3044;&#x3044;&#x3048;</pr></trd>,
+    <trd>&#x9928;  <pr>&#x3080;&#x308D;&#x3064;&#x307F;</pr></trd>,
+    <trd>&#x30D3;&#x30EB;  <pr>&#x3073;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">gebouw</trd>
+  <trdgrp lng="pl">
+    <trd>gmach</trd>,
+    <trd>blok<klr> (np. mieszkalny)</klr></trd>
+  </trdgrp>
+  <trd lng="ro">cl&abreve;dire</trd>
+  <trd lng="sw">jumba</trd>
+  <trd lng="tr">bina</trd>
+</drv>
+
+<drv mrk="dom.0estro">
+  <kap>
+    <tld/>estro
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="D"/>posedanto a&ubreve; <ref cel="ekonom.0o">ekonomo</ref> (<tld/>zorgisto):
+      <ekz>
+        se ili akiros poseda&jcirc;ojn kaj domojn <klr>[&#x2026;]</klr>, ili fari&gcirc;os <tld/>estroj kaj
+        kultivistoj
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Tri</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>estro de <klr>[&#x2026;]</klr> mia sinjoro, humile petas vin enveni
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XXII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Hausherr</trd>,
+    <trd>Hausverwalter</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>pe<ind>milik</ind> rumah</trd>,
+    <trd><ind>tuan</ind> rumah</trd>
+  </trdgrp>
+  <trd lng="zh">&#x4E1C;&#x5BB6; <pr>d&#x14D;ngji&#x101;</pr></trd>
+</drv>
+
+<drv mrk="dom.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="dom.0eto.KOMUNE">
+    <dif>
+      Malgranda
+      <ref tip="super" cel="dom.0o.konstruajxo"><tld/>o</ref>
+      kun malmultaj eta&gcirc;oj, malmultaj &ccirc;ambroj:
+      <ekz>
+        ni vidas Doroteon, sin direktantan al sia kaduka <tld/>eto
+        <fnt><bib>FK</bib>, <lok>4, rakontoj, la forgesita pipo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+
+  <trdgrp lng="de">
+    <trd>H&auml;uschen</trd>,
+    <trd>H&uuml;tte</trd>
+  </trdgrp>
+  <trd lng="en">cottage</trd>
+  <trd lng="es">casita</trd>
+  <trdgrp lng="fr">
+    <trd>bungalow</trd>,
+    <trd>maisonnette</trd>
+  </trdgrp>
+  <trd lng="he">&bet;&qof;&tav;&he;</trd>
+  <trdgrp lng="id">
+    <trd>bungalo</trd>,
+    <trd>pondok</trd>,
+    <trd><ind>rumah</ind> kecil</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5C0F;&#x3055;&#x3044;&#x5BB6;  <pr>&#x3061;&#x3044;&#x3055;&#x3044;&#x3044;&#x3048;</pr></trd>,
+    <trd>&#x5C0F;&#x5C4B;  <pr>&#x3053;&#x3084;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">huisje</trd>
+  <trd lng="pl">domek</trd>
+  <trd lng="ru">&c_d;&c_o;&c_m;&c_i;&c_k;</trd>
+  <trd lng="sw">kijumba</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_d;&c_i;&c_n;&c_o;&c_ch;&c_o;&c_k;</trd>,
+    <trd>&c_h;&c_a;&c_t;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_h;&c_a;&c_t;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7A9D;&#x68DA; <pr>w&#x14D;peng</pr></trd>,
+    <trd>&#x68DA;&#x5C4B; <pr>p&#xE9;ngw&#x16B;</pr></trd>,
+    <trd>&#x5BEE; <pr>li&#xE1;o</pr></trd>,
+    <trd>&#x8305;&#x5C4B; <pr>m&#xE1;ow&#x16B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dom.ban0o">
+  <kap>ban<tld/>o</kap>
+  <snc mrk="dom.ban0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="dom.0o.konstruajxo"><tld lit="D"/>o</ref>
+      a&ubreve; dometo aran&gcirc;ita kiel
+      <ref tip="super" cel="ban.0ejo">banejo</ref>:
+      <ekz>
+        kiam <klr>[&#x2026;]</klr> la princino iris en la ban<tld/>on, li
+        saltis al &scirc;i
+        <fnt><bib>ElektFab</bib> <lok>La ora birdo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">l&aacute;zn&ecaron; budova</trd>
+  <trd lng="en">bathhouse</trd>
+  <trd lng="es">casa de ba&ntilde;os</trd>
+  <trdgrp lng="fr">
+    <trd>bains publics</trd>,
+    <trd>hammam</trd>
+  </trdgrp>
+  <trd lng="he">&bet;&yod;&tav; &resh;&het;&tsadi;&he;</trd>
+  <trd lng="id">pe<ind>mandi</ind>an umum</trd>
+  <trd lng="nl">badhuis</trd>
+  <trd lng="pl">&lstroke;a&zacute;nia</trd>
+  <trd lng="ru">&c_b;&c_a;&c_n;&c_ja;<klr tip="amb">
+(&c_d;&c_o;&c_m;)</klr></trd>
+  <trd lng="sk">k&uacute;pele <klr>(budova)</klr></trd>
+  <trd lng="sv">badhus</trd>
+  <trd lng="tr">hamam</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6D74;&#x5802; <pr>y&#xF9;t&#xE1;ng</pr></trd>,
+    <trd>&#x516C;&#x5171;&#x6D74;&#x5BA4; <pr>g&#x14D;ngg&#xF2;ngy&#xF9;sh&#xEC;</pr></trd>,
+    <trd>&#x5802;&#x5B50; <pr>t&#xE1;ngzi</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dom.cxas0o">
+  <kap>&ccirc;as<tld/>o</kap>
+  <snc mrk="dom.cxas0o.CXAS">
+    <dif>
+      <ref tip="super" cel="dom.0o.konstruajxo"><tld lit="D"/>o</ref>
+      en sova&gcirc;ejo, por restado dum plurtaga &ccirc;asado a&ubreve;
+      plezurekskurso:
+      <ekz>
+        &scirc;i eltrovis, ke la vojo <klr>[&#x2026;]</klr> kondukas nur al
+        re&gcirc;a &ccirc;as<tld/>o; kaj ke tiu <tld/>o trovi&gcirc;as
+        en la mezo de vasta arbaro
+        <fnt><bib>I&scirc;tar</bib> <lok>&ccirc;apitro 17a, Adaha
+        ser&ccirc;as Omaron</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>hunting cabin</trd>,
+    <trd>hunting lodge</trd>
+  </trdgrp>
+  <trd lng="fr">pavillon de chasse</trd>
+  <trd lng="he">&bet;&qof;&tav;&tav; &tsadi;&yod;&dalet;</trd>
+  <trd lng="id"><ind>pondok</ind> berburu</trd>
+  <trd lng="nl">jachthuisje</trd>
+  <trdgrp lng="pl">
+    <trd>chatka my&sacute;liwska</trd>,
+    <trd>schronisko</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_h;&c_o;&c_t;&c_n;&c_i;&c_ch;&c_i;&c_j; &c_d;&c_o;&c_m;&c_i;&c_k;</trd>
+  <trd lng="sv">jaktstuga</trd>
+</drv>
+
+<drv mrk="dom.logx0o">
+  <kap>lo&gcirc;<tld/>o</kap>
+  <snc mrk="dom.logx0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="dom.0o.konstruajxo"><tld lit="D"/>o</ref>
+      aran&gcirc;ita kiel unu a&ubreve; pluraj <ref tip="vid" cel="logx.0ejo">lo&gcirc;ejoj</ref>:
+      <ekz>
+        la altaj lo&gcirc;<tld/>oj kreskis kaj kreskis
+        <fnt><bib>Mortul&Scirc;ip</bib>, <lok>tria libro, &ccirc;apitro
+        48a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">residential building</trd>
+  <trdgrp lng="es">
+    <trd>vivienda</trd>,
+    <trd>residencia</trd>
+  </trdgrp>
+  <trd lng="fr">r&eacute;sidence</trd>
+  <trd lng="he">&bet;&#x5BC;&#x5B5;&yod;&tav;
+  &mem;&#x5B0;&gimel;&vav;&#x5BC;&resh;&#x5B4;&yod;&fmem;</trd>
+  <trd lng="id"><ind>tempat</ind> tinggal</trd>
+  <trd lng="nl">woonhuis</trd>
+  <trdgrp lng="pl">
+    <trd>dom mieszkalny</trd>,
+    <trd>budynek mieszkalny</trd>,
+    <trd>blok mieszkalny</trd>
+  </trdgrp>
+  <trd lng="ru">&c_zh;&c_i;&c_l;&c_o;&c_j; <ind>&c_d;&c_o;&c_m;</ind>
+  </trd>
+  <trd lng="sv">bostadshus</trd>
+  <trd lng="uk">&c_zh;&c_i;&c_t;&c_l;&c_o;&c_v;&c_i;&c_j; &c_b;&c_u;&c_d;&c_i;&c_n;&c_o;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6C11;&#x5B85; <pr>m&#xED;nzh&#xE1;i</pr></trd>,
+    <trd>&#x4F4F;&#x623F; <pr>zh&#xF9;f&#xE1;ng</pr></trd>,
+    <trd>&#x5B85;&#x5B50; <pr>zh&#xE1;izi</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dom.panel0o">
+  <kap>panel<tld/>o</kap>
+  <snc mrk="dom.panel0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Longa, plureta&gcirc;a domo entenanta multajn vicojn
+      de lo&gcirc;ejoj ordinare alireblaj per
+      sinsekvaj enirejoj:
+      <ekz>
+        ni ser&ccirc;is nian studentan hejmon, kiu estis inter
+        multaj panel<tld/>oj dekomence nevidebla
+        <fnt>
+          <aut>J. Rada</aut>
+          <vrk>Miaj impresoj el Vilno</vrk>
+          <lok><url ref="http://members.chello.cz/malovec/Start305.htm">
+          Starto, 2005:3 (216)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">barre d'immeuble</trd>
+</drv>
+
+<drv mrk="dom.rul0o">
+  <kap>rul<tld/>o</kap>
+  <snc mrk="dom.rul0o.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Radhava veturilo ene aran&gcirc;ita por lo&gcirc;o, movata per
+      tirbesto a&ubreve; a&ubreve;to:
+      <ekz>
+        certe vi a&ubreve;dis iel pri la voja&gcirc;o de juna paro tra
+        E&ubreve;ropo per simpla rul<tld/>o tirata de &ccirc;evalo
+        <fnt><aut>amikeca reto</aut>, <vrk>al niaj nederlandaj
+        samideanoj</vrk>, <lok>soc.culture.esperanto,
+        1997-12-20</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="auxt.logx0o.AUT">lo&gcirc;a&ubreve;to</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>maringotka</trd>,
+    <trd>obytn&yacute; p&rcaron;&iacute;v&ecaron;s</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>mobile home</trd>,
+    <trd>trailer house</trd>
+  </trdgrp>
+  <trd lng="es">caravana</trd>
+  <trd lng="fr">caravane<klr tip="amb"> (v&eacute;hicule)</klr></trd>
+  <trd lng="he">&qof;&#x5B8;&resh;&vav;&#x5B9;&fnun;</trd>
+  <trd lng="id">karavan</trd>
+  <trd lng="ja">&#x30C8;&#x30EC;&#x30FC;&#x30E9;&#x30FC;&#x30CF;&#x30A6;&#x30B9;</trd>
+  <trdgrp lng="nl">
+    <trd>caravan</trd>,
+    <trd>sleurhut</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kampobus</trd>,
+    <trd>karawaning</trd>,
+    <trd>przyczepa kempingowa</trd>,
+    <trd>barakow&oacute;z</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_a;&c_s;&c_s;&c_a;&c_zh;&c_i;&c_r;&c_s;&c_k;&c_i;&c_j;
+<ind>&c_a;&c_v;&c_t;&c_o;&c_p;&c_r;&c_i;&c_c;&c_je;&c_p;</ind></trd>,
+    <trd>&c_zh;&c_i;&c_l;&c_o;&c_j;
+<ind>&c_a;&c_v;&c_t;&c_o;&c_f;&c_u;&c_r;&c_g;&c_o;&c_n;</ind></trd>,
+    <trd>&c_t;&c_r;&c_je;&c_j;&c_l;&c_je;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>maringotka</trd>,
+    <trd>obytn&yacute; pr&iacute;ves</trd>
+  </trdgrp>
+  <trd lng="tr">karavan</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_i;&c_t;&c_l;&c_o;&c_v;&c_i;&c_j; &c_a;&c_v;&c_t;&c_o;&c_f;&c_u;&c_r;&c_gu;&c_o;&c_n;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_u;&c_v;&c_n;&c_i;&c_j; &c_b;&c_u;&c_d;&c_i;&c_n;&c_o;&c_ch;&c_o;&c_k;</trd>,
+    <trd>&c_b;&c_u;&c_d;&c_i;&c_n;&c_o;&c_ch;&c_o;&c_k; &c_n;&c_a; &c_k;&c_o;&c_l;&c_je;&c_s;&c_a;&c_h;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_v;&c_a;&c_n;&c_ib;&c_n;&c_g;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x623F;&#x8ECA; <pr>f&#xE1;ngch&#x113;</pr></trd>
+</drv>
+
+<drv mrk="dom.somer0o">
+  <kap>somer<tld/>o</kap>
+  <snc mrk="dom.somer0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Eksterurba privata <ref tip="super" cel="dom.0o.konstruajxo">domo</ref>, por pli agrabla
+      somera
+      lo&gcirc;ado:
+      <ekz>
+        La roma imperiestro Kla&ubreve;dio havis en Pompejo
+        somer<tld/>on
+        <fnt><bib>IntArkeol</bib>, <lok>p. 24a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_ch;&c_a;</trd>,
+    <trd>&c_l;&c_je;&c_c;&c_ib;&c_sh;&c_ch;&c_a;</trd>
+  </trdgrp>
+  <trd lng="br">ti-ha&ntilde;v</trd>
+  <trdgrp lng="cs">
+    <trd>d&uring;m pro letn&iacute; pobyt</trd>,
+    <trd>letn&iacute; s&iacute;dlo</trd>
+  </trdgrp>
+  <trd lng="en">summer house</trd>
+  <trd lng="es">casa de verano</trd>
+  <trdgrp lng="fr">
+    <trd>maison de campagne</trd>,
+    <trd>r&eacute;sidence secondaire</trd>
+  </trdgrp>
+  <trd lng="he">&bet;&yod;&tav; &qof;&yod;&ftsadi;</trd>
+  <trd lng="id"><ind>rumah</ind> musim panas</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5225;&#x8358;  <pr>&#x3079;&#x3063;&#x305D;&#x3046;</pr></trd>,
+    <trd>&#x30B5;&#x30DE;&#x30FC;&#x30CF;&#x30A6;&#x30B9;</trd>
+  </trdgrp>
+  <trd lng="nl">zomerhuisje</trd>
+  <trdgrp lng="pl">
+    <trd>domek kempingowy</trd>,
+    <trd>domek weekendowy</trd>,
+    <trd>domek letni</trd>,
+    <trd>letniak</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_je;&c_t;&c_n;&c_i;&c_j;
+<ind>&c_d;&c_o;&c_m;&c_i;&c_k;</ind></trd>,
+    <trd>&c_d;&c_a;&c_ch;&c_a;</trd>,
+    <trd>&c_v;&c_i;&c_l;&c_l;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chalupa</trd>,
+    <trd>chata</trd>
+  </trdgrp>
+  <trd lng="sv">sommarstuga</trd>
+  <trd lng="tr">k&inodot;r evi</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_a;&c_ch;&c_a;</trd>,
+    <trd>&c_l;&c_ib;&c_t;&c_n;&c_ib;&c_j; &c_b;&c_u;&c_d;&c_i;&c_n;&c_o;&c_ch;&c_o;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dom.staci0o">
+  <kap><ofc>*</ofc>staci<tld/>o <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-5206">staci'dom'</url></lok></fnt></kap>
+  <snc mrk="dom.staci0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      <ref tip="super" cel="konstr.0ajxo">Konstrua&jcirc;o</ref>
+      por halto de vagonaroj, eli&gcirc;ado kaj eni&gcirc;ado de
+      pasa&gcirc;eroj a&ubreve; komerca&jcirc;oj:
+      <ekz>
+        la vagonaro brue venis al la <klr>[&#x2026;]</klr> staci<tld/>o
+        <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo, (rakonto de V.
+        Devjatnin), 2</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_k;&c_z;&c_a;&c_l;</trd>
+  <trd lng="bg">&c_g;&c_a;&c_r;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>porzh-houarn</trd>,
+    <trd>ti-gar</trd>
+  </trdgrp>
+  <trd lng="ca">estaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>n&aacute;dra&zcaron;&iacute;</trd>,
+    <trd>stani&ccaron;n&iacute; d&uring;m</trd>
+  </trdgrp>
+  <trd lng="de">Bahnhof</trd>
+  <trdgrp lng="en">
+    <trd>terminal</trd>, <trd>station</trd>, <trd>depot</trd>
+  </trdgrp>
+  <trd lng="es">estaci&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>gare</trd>
+  </trdgrp>
+  <trd lng="he">&tav;&#x5B7;&het;&#x5B2;&nun;&#x5B8;&he;</trd>
+  <trd lng="hu">&aacute;llom&aacute;s&eacute;p&uuml;let</trd>
+  <trd lng="id">stasiun</trd>
+  <trd lng="ja">&#x99C5;&#x820E;  <pr>&#x3048;&#x304D;&#x3057;&#x3083;</pr></trd>
+  <trd lng="nl">stationsgebouw</trd>
+  <trd lng="oc">gara</trd>
+  <trdgrp lng="pl">
+    <trd>stacja</trd>,
+    <trd>dworzec</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_o;&c_k;&c_z;&c_a;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>stanica</trd>,
+    <trd>stani&ccaron;n&aacute; budova</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>station</trd>,
+    <trd>stationshus</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+    <trd>istasyon</trd>,
+    <trd>gar</trd>
+  </trdgrp>
+  <trd lng="uk">&c_n;&c_a; &c_v;&c_o;&c_k;&c_z;&c_a;&c_l;&c_ib;</trd>
+  <trd lng="vo">stejen</trd>
+  <trd lng="zh">&#x99D0;&#x5730; <pr>zh&#xF9;d&#xEC;</pr></trd>
+</drv>
+
+<drv mrk="dom.urbo0o">
+  <kap>urbo<tld/>o</kap>
+  <snc mrk="dom.urbo0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="super" cel="konstr.0ajxo">Konstrua&jcirc;o</ref>
+      funkcianta kiel &ccirc;efoficejo kaj solenejo de urba administro:
+      <ekz>
+        la mikskolora blazono sur la malnova urbo<tld/>o
+        <fnt><bib>Fab1</bib>, <lok>kupra porko</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_t;&c_u;&c_sh;&c_a;</trd>
+  <trd lng="bg">&c_k;&c_m;&c_je;&c_t;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="br">ti-k&ecirc;r</trd>
+  <trd lng="cs">radnice <klr>(budova)</klr></trd>
+  <trd lng="de">Rathaus</trd>
+  <trdgrp lng="en">
+    <trd>town hall</trd>,
+    <trd>city hall</trd>
+  </trdgrp>
+  <trd lng="es">ayuntamiento</trd>
+  <trdgrp lng="fr">
+    <trd>h&ocirc;tel de ville</trd>,
+    <trd>mairie</trd>
+  </trdgrp>
+  <trd lng="he">&bet;&yod;&tav; &he;&ayin;&yod;&resh;&yod;&yod;&he;</trd>
+  <trd lng="hu">v&aacute;rosh&aacute;za</trd>
+  <trd lng="id">balai kota</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E02;&#x5F79;&#x6240;  <pr>&#x3057;&#x3084;&#x304F;&#x3057;&#x3087;</pr></trd>,
+    <trd>&#x753A;&#x5F79;&#x5834;  <pr>&#x307E;&#x3061;&#x3084;&#x304F;&#x3070;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">stadhuis</trd>
+  <trd lng="oc">comuna, ostal comunal</trd>
+  <trd lng="pl">ratusz</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_o;&c_r;&c_o;&c_d;&c_s;&c_k;&c_a;&c_ja;
+&c_u;&c_p;&c_r;&c_a;&c_v;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_t;&c_u;&c_sh;&c_a;</trd>,
+    <trd>&c_m;&c_e;&c_r;&c_i;&c_ja;<klr tip="amb"> (&c_d;&c_o;&c_m;)
+    </klr></trd>
+  </trdgrp>
+  <trd lng="sk">radnica</trd>
+  <trd lng="sv">stadshus</trd>
+  <trdgrp lng="tr">
+    <trd>belediye</trd>,
+    <trd>belediye binas&inodot;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_a;&c_t;&c_u;&c_sh;&c_a;</trd>,
+    <trd>&c_m;&c_ib;&c_s;&c_mol;&c_k;&c_a; &c_d;&c_u;&c_m;&c_a;</trd>,
+    <trd>&c_m;&c_je;&c_r;&c_ib;&c_ja;</trd>,
+    <trd>&c_m;&c_u;&c_n;&c_ib;&c_c;&c_i;&c_p;&c_a;&c_l;&c_ib;&c_t;&c_je;&c_t;</trd>,
+    <trd>&c_m;&c_ib;&c_s;&c_mol;&c_k;&c_a; &c_r;&c_a;&c_d;&c_a; (&c_b;&c_u;&c_d;&c_i;&c_n;&c_o;&c_k;)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x793E;&#x533A;&#x4F1A;&#x5802; <pr>sh&#xE8;q&#x16B;ku&#xE0;it&#xE1;ng</pr></trd>,
+    <trd>&#x5E02;&#x653F;&#x5385; <pr>sh&#xEC;zh&#xE8;ngt&#x12B;ng</pr></trd>,
+    <trd>&#x5E02;&#x653F;&#x5927;&#x5385; <pr>sh&#xEC;zh&#xE8;ngd&#xE0;t&#x12B;ng</pr></trd>,
+    <trd>&#x793E;&#x533A;&#x4F1A;&#x5802; <pr>sh&#xE8;q&#x16B;hu&#xEC;t&#xE1;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dom.vic0o">
+  <kap>
+    vic<tld/>o
+  </kap>
+  <snc mrk="dom.vic0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Lo&gcirc;<ref tip="super" cel="dom.0o.konstruajxo">domo<sncref/></ref>
+      ordinare unufamilia,
+      konstruita sammodele kun najbaraj, staranta vice apud ili:
+      <ekz>
+        la geonkloj lo&gcirc;is en vic<tld/>o iom sude de la kvartalcentro
+        <fnt>
+          <aut>S. Johanson</aut>
+          <vrk>Ne eblas apla&ubreve;di unumane</vrk>
+          <lok>2019</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Reihenhaus</trd>
+  <trd lng="fr">maison en bande</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6392;&#x5C4B; <pr>p&#xE1;iw&#x16B;</pr></trd>,
+    <trd>&#x8FDE;&#x623F; <pr>li&#xE1;nf&#xE1;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+
+$Log$
+versio 1.151 2023/12/12 19:23:57
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.149 2023/10/14 14:40:07
+revo: transskribo per <pr>
+
+versio 1.148 2023/10/10 07:23:08
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.146 2023/08/29 12:44:39
+Wolfram Diestel: ja: +prononco
+
+versio 1.145 2023/04/30 06:30:40
+Paul Peeraerts: Steloj -> monato
+
+versio 1.144 2023/04/25 06:32:11
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.143 2023/04/15 10:28:41
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.142 2023/04/12 08:32:10
+-->
+
+</vortaro>

@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tenac.xml,v 1.11 2023/10/21 13:02:26 revo Exp $">
+<kap>
+  <rad>tenac</rad>/a <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="tenac.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="tenac.0a.KOMUNE">
+    <dif>
+      <ref tip="super" cel="persis.0ema">Persiste</ref> eltenema,
+      &scirc;irorezista, romporezista:
+      <ekz>
+        la baleno <klr>[&#8230;]</klr> diris al la Ruza Fi&scirc;o:
+        &leftquot;&ccirc;i tiu homo  estas tre <tld/>a, kaj krome li
+        ka&ubreve;zas al mi singulton, kion mi faru?&rightquot;
+        <fnt>
+          <aut>R. Kipling, trad. W. F. Pilger</aut>,
+          <vrk>Tiel do - rakontoj</vrk>,
+          <lok>Vulpo-libroj, 1992</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur <tld/>a roko, kiu el la maro vertikale levi&gcirc;as,
+        ari&gcirc;is &gcirc;is &ccirc;irka&ubreve; kvindek domoj
+        <fnt>
+          <aut>E. Kumi&ccaron;i&cacute;, trad. S. Rukelj</aut>,
+          <vrk>
+          <url ref="http://free-vz.t-com.hr/Stanko/Surprizitaj.pdf">
+          Surprizitaj nuptofestantoj</url></vrk>,
+          <lok>inko, 2001</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fer.0a.FIG">fera<sncref/></ref>,
+      <ref cel="firm.0a">firma</ref>,
+      <ref cel="fortik.0a.materialo">fortika</ref>,
+      <ref cel="sxance.ne0ebla">ne&scirc;ancelebla</ref>,
+      <ref cel="rezist.0ema">rezistema</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_y;&c_v;&c_a;&c_l;&c_y;</trd>
+  <trdgrp lng="ca">
+    <trd>tena&ccedil;</trd>,
+    <trd>porfidi&oacute;s</trd>,
+    <trd>vigor&oacute;s</trd>,
+    <trd>indeleble</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hou&zcaron;evnat&yacute;</trd>,
+    <trd>lepkav&yacute;</trd>,
+    <trd>lp&iacute;c&iacute;</trd>,
+    <trd>pevn&yacute;</trd>,
+    <trd>p&rcaron;ilnav&yacute;</trd>,
+    <trd>tuh&yacute;</trd>,
+    <trd>vazk&yacute;</trd>,
+    <trd>visk&oacute;zn&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>z&auml;h <klr>(widerstandsf&auml;hig)</klr></trd>,
+    <trd>widerstandsf&auml;hig</trd>,
+    <trd>robust</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>r&eacute;sistant</trd>,
+    <trd>robuste</trd>,
+    <trd>tenace</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x976D;&#24615;&#x306E;&#12354;&#x308B; <pr>&#12376;&#12435;&#12379;&#12356;&#12398;&#12354;&#12427;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>spoisty</trd>,
+    <trd>ci&aogonek;gliwy</trd>,
+    <trd>wytrzyma&lstroke;y</trd>,
+    <trd>stabilny</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>h&uacute;&zcaron;evnat&yacute;</trd>,
+    <trd>lepkav&yacute;</trd>,
+    <trd>pevn&yacute;</trd>,
+    <trd>tuh&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&#8217;&#x44F;&c_z;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&#x43B;&c_i;&#x43F;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&c_gu;&#x43B;&c_je;&c_j;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&c_gu;&#x43B;&c_je;&#x44E;&c_v;&c_a;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_t;&c_ib;&c_j;&#x43A;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.11 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.10 2023/09/12 19:20:02
+Wolfram Diestel: pr. ja
+
+versio 1.8 2023/07/19 10:32:11
+Dmitri Gabinski: + trd be
+
+versio 1.6 2021/08/17 18:36:37
+Wolfram Diestel: +ref-oj, trd-de
+
+Revision 1.4  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2011/12/03 20:10:18  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.2  2008/11/05 17:31:42  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2007/06/24 16:30:27  revo
+-->
+</vortaro>

@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: team.xml,v 1.104 2023/12/26 15:25:43 revo Exp $">
+<kap>
+  <rad>team</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="team.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="team.0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="super" cel="grup.0o.personoj">Grupo</ref> da kunagantoj,
+      precipe kunludantoj en sporto a&ubreve; ludo:
+      <ekz>
+        kiam &scirc;i malfermis &scirc;rankon por enmeti siajn vestojn,
+        &gcirc;i plenplenis de sportaj &scirc;uoj por unu tuta futbala
+        <tld/>o
+        <fnt>
+        <aut>S. &Scirc;timec</aut>,
+        <vrk>Morto en Melburna tramo</vrk>,
+        <bib>Monato</bib>, <lok>1997:8, p. 24a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="parti.0o.JUR">partio<sncref/></ref>,
+      <ref cel="skip.0o">skipo</ref>,
+      <ref cel="tacxme.0o">ta&ccirc;mento</ref>
+    </refgrp>
+  </snc>
+  <trd lng="af">span</trd>
+  <trd lng="am">&#4705;&#x12F5;&#4757;</trd>
+  <trd lng="ar">&a_f;&a_r;&#x64A;&a_q;</trd>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_a;&c_n;&c_d;&c_a;
+  <klr tip="amb">(&c_s;&c_p;&c_a;&c_r;&c_t;&c_o;&c_v;&c_a;&c_ja;)</klr></trd>
+  <trd lng="bn">&#x9A6;&#x9B2;</trd>
+  <trd lng="bo">&#xF62;&#xF74;&#xF0B;&#xF41;&#xF42;&#xF0B;</trd>
+  <trd lng="co">a squatra</trd>
+  <trdgrp lng="cs">
+    <trd>dru&zcaron;stvo</trd>,
+    <trd>mu&zcaron;stvo</trd>,
+    <trd>sm&ecaron;na</trd>,
+    <trd>t&yacute;m</trd>
+  </trdgrp>
+  <trd lng="cy">t&#xEE;m</trd>
+  <trd lng="da">hold</trd>
+  <trdgrp lng="de">
+    <trd>Team</trd>,
+    <trd>Mannschaft</trd>
+  </trdgrp>
+  <trd lng="en">team</trd>
+  <trd lng="es">equipo</trd>
+  <trd lng="et">meeskond</trd>
+  <trd lng="eu">taldeak</trd>
+  <trd lng="fr">&eacute;quipe</trd>
+  <trd lng="fy">ploech</trd>
+  <trd lng="ga">fhoireann</trd>
+  <trd lng="gd">sgioba</trd>
+  <trd lng="gl">equipo</trd>
+  <trd lng="gu">&#xA9F;&#xAC0;&#xAAE;</trd>
+  <trd lng="ha">tawagar</trd>
+  <trd lng="he">&qof;&bet;&vav;&tsadi;&he;
+  <klr tip="ind">(&samekh;&pe;&vav;&resh;&tet;)</klr></trd>
+  <trd lng="hi">&#x91F;&#2368;&#x92E;</trd>
+  <trd lng="hmn">pab neeg</trd>
+  <trd lng="hr">tim</trd>
+  <trd lng="ht">ekip</trd>
+  <trd lng="hu">csapat</trd>
+  <trd lng="hy">&#1385;&#x56B;&#1396;</trd>
+  <trd lng="ig">otu</trd>
+  <trd lng="is">li&#xF0;</trd>
+  <trd lng="ja">&#x30C1;&#x30FC;&#x30E0;</trd>
+  <trd lng="jv">tim</trd>
+  <trd lng="ka">&#x10D2;&#x10E3;&#x10DC;&#x10D3;&#x10D8;</trd>
+  <trd lng="kk">&#x43A;&#x43E;&#x43C;&c_a;&#x43D;&c_d;&c_a;</trd>
+  <trd lng="km">&#6016;&#x17D2;&#x179A;&#x17BB;&#6040;&#6016;&#x17B6;&#x179A;&#6020;&#x17B6;&#x179A;</trd>
+  <trd lng="kn">&#xCA4;&#xC82;&#xCA1;</trd>
+  <trd lng="ko">&#xD300;</trd>
+  <trd lng="ku">kom</trd>
+  <trd lng="ky">&#x43A;&#x43E;&#x43C;&c_a;&#x43D;&c_d;&c_a;</trd>
+  <trd lng="lat">bigas</trd>
+  <trd lng="lo">&#xE97;&#xEB5;&#xEA1;&#xE87;&#xEB2;&#xE99;</trd>
+  <trd lng="lt">komanda</trd>
+  <trd lng="lv">komanda</trd>
+  <trd lng="mg">ekipa</trd>
+  <trd lng="mi">r&#x14D;p&#x16B;</trd>
+  <trd lng="mk">&c_t;&c_i;&#x43C;&#x43E;&c_t;</trd>
+  <trd lng="ml">&#xD1F;&#xD40;&#xD02;</trd>
+  <trd lng="mn">&c_b;&c_a;&c_g;</trd>
+  <trd lng="mr">&#2360;&#2306;&#2328;</trd>
+  <trd lng="ms">pasukan</trd>
+  <trd lng="mt">tim</trd>
+  <trd lng="my">&#4129;&#4118;&#x103D;&#4146;&#4151;</trd>
+  <trd lng="ne">&#x91F;&#2368;&#x92E;</trd>
+  <trd lng="nl">team</trd>
+  <trd lng="ny">timu</trd>
+  <trd lng="pa">&#xA26;&#xA40; &#xA1F;&#xA40;&#xA2E;</trd>
+  <trd lng="pl">dru&zdot;yna</trd>
+  <trd lng="ps">&#x67C;&#x6CC;&a_m;</trd>
+  <trdgrp lng="pt">
+   <trd>time</trd>,
+   <trd>equipe</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_a;&c_n;&c_d;&c_a;
+  <klr tip="amb">(&c_s;&c_p;&c_o;&c_r;&c_t;.)</klr></trd>
+  <trd lng="rw">itsinda</trd>
+  <trd lng="sd">&#x67D;&#x64A;&a_m;</trd>
+  <trd lng="si">&#xD9A;&#xDAB;&#xDCA;&#xDA9;&#xDCF;&#xDBA;&#xDB8;</trd>
+  <trdgrp lng="sk">
+    <trd>team</trd>,
+    <trd>t&yacute;m</trd>
+  </trdgrp>
+  <trd lng="sl">ekipa</trd>
+  <trd lng="sm">au</trd>
+  <trd lng="sn">chikwata</trd>
+  <trd lng="so">kooxda</trd>
+  <trd lng="sq">ekipi</trd>
+  <trd lng="st">sehlopha</trd>
+  <trd lng="su">regu</trd>
+  <trd lng="sw">timu</trd>
+  <trd lng="ta">&#xB85;&#xBA3;&#xBBF;</trd>
+  <trd lng="te">&#xC1C;&#xC1F;&#xC4D;&#xC1F;&#xC41;</trd>
+  <trd lng="tg">&c_g;&c_u;&c_r;&#x4EF;&#x4B3;</trd>
+  <trd lng="th">&#xE17;&#xE35;&#xE21;&#xE07;&#xE32;&#xE19;</trd>
+  <trd lng="tl">koponan</trd>
+  <trd lng="tt">&#x43A;&#x43E;&#x43C;&c_a;&#x43D;&c_d;&c_a;</trd>
+  <trd lng="uk">&#x43A;&#x43E;&#x43C;&c_a;&#x43D;&c_d;&c_a;</trd>
+  <trd lng="ur">&#1657;&#x6CC;&a_m;</trd>
+  <trd lng="uz">komanda</trd>
+  <trd lng="vi">&#273;&#x1ED9;i</trd>
+  <trd lng="xh">iqela</trd>
+  <trd lng="yi">&#x5E7;&#x5D0;&#x5B8;&#x5DC;&#x5E2;&#x5E7;&#x5D8;&#x5D9;&#x5D5;&#x5D5;</trd>
+  <trd lng="yo">egbe</trd>
+  <trd lng="zu">ithimba</trd>
+</drv>
+
+<drv mrk="team.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="team.0a.KOMUNE">
+    <dif>
+      Koncernanta <tld/>on, farata de <tld/>o:
+      <ekz>
+        merkatiko estas <tld/>a laboro, kuna laboro
+        <fnt>
+          <aut>D. Keefe</aut>,
+          <vrk><url ref="&Sezonoj;2014/12/keefe-4/">
+          Merkatiko kaj &gcirc;iaj limoj en la mondo de Esperanto</url></vrk>,
+          <lok>La Balta Ondo, 2014-12-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_m;&c_a;&c_n;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_k;&c_a;&c_l;&c_je;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>collectif<klr> (adj.)</klr></trd>,
+    <trd>d'<ind>&eacute;quipe</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30C1;&#x30FC;&#x30E0;&#x306E;  <pr>&#12385;&#x30FC;&#12416;&#x306E;</pr></trd>,
+    <trd>&#x56E3;&#x4F53;&#x306E;  <pr>&#12384;&#12435;&#x305F;&#12356;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">dru&zdot;ynowa</trd>
+  <trd lng="uk">&#x43A;&#x43E;&#x43C;&c_a;&#x43D;&c_d;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="team.sam0ano">
+  <kap>sam<tld/>ano</kap>
+  <snc mrk="team.sam0ano.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Ano de la sama <tld/>o kiel la parolanto:
+      <ekz>
+        &Jcirc;ak Le Puil - vortaristo, kanzonisto, redaktoro kaj ...
+        mia iama sam<tld/>ano en dumkongresa kvizo
+        <fnt>
+        <aut>B. Kolker</aut>,
+        <vrk>Parizo slangas en Esperanto</vrk>,
+        <bib>Monato</bib>, <lok>1997:5, p. 23a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_k; &c_t;&c_o;&c_j; &c_s;&c_a;&c_m;&c_a;&c_j; &c_k;&c_a;&c_m;&c_a;&c_n;&c_d;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>Mannschaftskamerad</trd>;
+    <trd>Teamkollege</trd>
+  </trdgrp>
+  <trd lng="en"><ind>team</ind>mate</trd>
+  <trdgrp lng="es">
+    <trd>coequipero</trd>;
+    <trd>miembro del equipo</trd>
+  </trdgrp>
+  <trd lng="fr">co&eacute;quipier</trd>
+  <trd lng="he">&het;&bet;&resh; &lamed;<ind>&qof;&bet;&vav;&tsadi;&he;
+  </ind></trd>
+  <trd lng="hu">csapatt&aacute;rs</trd>
+  <trd lng="nl">teamgenoot</trd>
+  <trd lng="pl">cz&lstroke;onek <klr> tej samej </klr><ind>dru&zdot;yny
+  </ind></trd>
+  <trd lng="ru">&c_t;&c_o;&c_v;&c_a;&c_r;&c_i;&c_shch; &c_p;&c_o; &c_k;&c_o;&c_m;&c_a;&c_n;&c_d;&c_je;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.104 2023/12/26 15:25:43
+Vito Redsky: +trd pl 
+
+versio 1.103 2023/10/27 07:22:54
+Dmitri Gabinski: + trd be
+
+versio 1.102 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.100 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.98 2021/08/31 09:30:03
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.97 2021/08/24 13:32:58
+Dmitri Gabinski: + trd be
+
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:19  revo
+-->
+</vortaro>

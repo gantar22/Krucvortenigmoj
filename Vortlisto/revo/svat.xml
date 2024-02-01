@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: svat.xml,v 1.31 2023/10/21 07:46:48 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>svat</rad>/i
+  <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="svat.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="svat.0i.peri">
+    <dif>
+      <ref tip="super" cel="propon.0i">Proponi</ref> iun al alia persono kiel edzon a&ubreve; edzinon; peti
+      kiel peranto de iu alia la manon de iu:
+      <ekz>
+        vi farus sensencon &parsl; Forirante, &ccirc;ar <tld/>i mi havas intencon &parsl; Al vi Zonjon
+        <fnt>
+          <bib>SrT</bib>
+          <lok>Libro VIII.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi pripensas reedzini&gcirc;i? &ndash; kial? &ccirc;u vi venis por <tld/>i min? &ndash; eble, sed
+        <klr>[&#8230;]</klr> la koncerna viro ne estas libera
+        <fnt>
+          <aut>Anna L&ouml;wenstein</aut>
+          <vrk><url ref="https://tekstaro.com/t?nomo=la-memorajhoj-de-julia-agripina&amp;tipo=&amp;sekcio=julia-agripina-parto-6"
+              >La memora&jcirc;oj de Julia Agripina</url></vrk>
+          <lok>parto 6, &ccirc;ap. 4</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_v;&c_a;&c_t;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">verkuppeln</trd>
+    <trdgrp lng="en">
+      <trd><ofc>*</ofc>intermeddle</trd>,
+      <trd><ofc>*</ofc>act as matchmaker</trd>
+    </trdgrp>
+    <trd lng="es">proponer en matrimonio</trd>
+    <trd lng="fr"><ofc>*</ofc>s&#8217;entremettre</trd>
+    <trd lng="nl">koppelen<klr tip="ind"> (v.mensen)</klr></trd>
+    <trd lng="it">combinare<klr> (matrimonio)</klr></trd>
+    <trd lng="pl"><ofc>*</ofc>swata&cacute;</trd>
+  </snc>
+  <snc mrk="svat.0i.mem">
+    <dif>
+      <ref tip="dif" cel="svat.0igxi">Sin <tld/>i<sncref ref="svat.0i.peri"/></ref> al iu;
+      <ref tip="super" cel="varb.0i.POL">varbi</ref>
+      iun por si mem kiel edzo a&ubreve; edzino:
+      <ekz>
+        &scirc;i estis la re&gcirc;ino de la festo, kaj kie la plej belaj viroj klopodis <tld/>i &scirc;in
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 33</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia fratino ankora&ubreve; estas malgranda, <klr>[&#8230;]</klr> kion ni faros al nia
+        fratino, kiam oni <tld/>os &scirc;in?
+        <fnt>
+          <bib>MT</bib>
+          <lok>Alta kanto 8:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ata de du rivaloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2010/010084.php">Nova politika erao</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>intoj, mielvortaj kaj promesplenaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2010/010084.php">Nova politika erao</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neakcepteblaj eksterkastaj <tld/>antoj
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2000/007156.php">Sutroj kaj sa&ubreve;dadoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/12, p. 25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Por eviti konfuzon &ccirc;e la a&ubreve;skultanto a&ubreve; leganto, ni rekomendas uzi tiun &ccirc;i
+      signifon nur kun refleksivo. &Gcirc;i eniris la lingvon parte pro kelkaj neprecizaj
+      tradukoj en <fnt><bib>UV</bib></fnt> kaj pro rekta malrekomendo de la origina
+      <tld/>i<sncref ref="svat.0i.peri"/> kune kun &gcirc;iaj deriva&jcirc;oj
+      en <fnt><bib>PV</bib></fnt> pro moraj konsideroj.
+    </rim>
+    <trd lng="be">&c_s;&c_v;&c_a;&c_t;&c_a;&c_c;&c_c;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd><klr>(um jemanden)</klr> <ofc>*</ofc>werben</trd>,
+      <trd><ofc>*</ofc>freien <klr>(umwerben)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>proponerse en matrimonio</trd>,
+      <trd>pedir la mano</trd>
+    </trdgrp>
+    <trd lng="fr"><ofc>*</ofc>rechercher en mariage</trd>
+    <trd lng="it">proporsi<klr> (di matrimonio)</klr></trd>
+    <trd lng="nl">een <ind>huwelijkaanzoek</ind> doen</trd>
+    <trd lng="pl">o&sacute;wiadcza&cacute; si&eogonek;</trd>
+    <trd lng="ru">&c_s;&c_v;&c_a;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dohazovat</trd>,
+    <trd>zprost&rcaron;edkovat man&zcaron;elstv&iacute;</trd>,
+    <trd>zprost&rcaron;edkov&aacute;vat svatbu</trd>
+  </trdgrp>
+  <trd lng="en">match</trd>
+  <trd lng="fa">&a_kh;&a_w;&a_A;&a_s;&a_t;&f_g;&a_A;&a_r;&f_y;
+  &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fr">demander en <ind>mariage</ind></trd>
+  <trd lng="hu">megk&eacute;ri a kez&eacute;t <klr tip="amb">(maga
+  &eacute;s m&aacute;s
+  sz&aacute;m&aacute;ra)</klr></trd>
+  <trd lng="it">chiedere in <ind>matrimonio</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#32080;&#23130;&#12434;&#20210;&#20171;&#12377;&#12427;  <pr>&#12369;&#12387;&#12371;&#12435;&#12434;&#12385;&#12421;&#12358;&#12363;&#12356;&#12377;&#12427;</pr></trd>,
+    <trd>&#20210;&#20154;&#12377;&#12427;  <pr>&#12394;&#12371;&#12358;&#12393;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="ru"><ofc>*</ofc>&c_s;&c_v;&c_a;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dohadzova&tcaron;</trd>,
+    <trd>nahov&aacute;ra&tcaron; <klr>(na man&zcaron;elstvo)</klr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_v;&c_a;&c_t;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<!-- mankas ekzemploj, mi ne trovis tian....
+<drv mrk="svat.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Propono pri edzi&gcirc;o a&ubreve; edzini&gcirc;o.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>n&aacute;mluvy</trd>,
+    <trd>s&ncaron;atkov&eacute; zprost&rcaron;edkov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>proposici&oacute;n de matrimonio</trd>,
+    <trd>petici&oacute;n de mano</trd>
+  </trdgrp>
+  <trd lng="fa">&a_kh;&a_w;&a_A;&a_s;&a_t;&f_g;&a_A;&a_r;&f_y;</trd>
+  <trd lng="it">offerta di <ind>matrimonio</ind></trd>
+  <trd lng="pl">swaty</trd>
+  <trd lng="ro">cerere &icirc;n c&abreve;s&abreve;torie</trd>
+  <trdgrp lng="sk">
+    <trd>nahov&aacute;rky</trd>,
+    <trd>sob&aacute;&scaron;ne sprostredkovanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="svat.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc>
+    <dif>
+      Homo, kiu <tld/>is virinon.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_v;&c_a;&c_t;</trd>
+  <trd lng="cs">n&aacute;padn&iacute;k</trd>
+  <trd lng="es">pretendiente</trd>
+  <trd lng="fa">&a_kh;&a_w;&a_A;&a_s;&a_t;&f_g;&a_A;&a_r;</trd>
+  <trd lng="fr">pr&eacute;tendant<klr> (au mariage)</klr></trd>
+  <trd lng="hu">le&aacute;nyk&eacute;r&odblac;</trd>
+  <trd lng="it">pretendente<klr> (matrimonio)</klr></trd>
+  <trd lng="ru">&c_s;&c_v;&c_a;&c_t;</trd>
+  <trd lng="sk">n&aacute;padn&iacute;k</trd>
+</drv>
+-->
+
+<drv mrk="svat.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Homo, kies profesio a&ubreve; okupo estas proponi aliulojn por
+      edzi&gcirc;o:
+      <ekz>
+        la oficiala <ind><tld/>istino</ind> venis kun horoskopaj kartoj
+        <fnt>
+          <bib>RugxDom</bib>,
+          <lok>&ccirc;apitro 72a, p. 530a</lok>
+        </fnt>;
+        <trdgrp lng="it">
+          <trd>mezzana</trd>,
+          <trd>ruffiana</trd>
+         </trdgrp>
+      </ekz>
+      <ekz>
+        kun la helpo de amba&ubreve; gepatroj, la <tld/>isto fiksas la daton de la geedzi&gcirc;o la&ubreve;
+        la tradicia kalendaro
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>&Ccirc;efartikolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel &leftquot;eminenta svatistino&rightquot; estas nomumita
+        <nom>Liu Jinying</nom> de la urbestro
+        <fnt>
+          <vrk><url ref="&Monato;/1993/A930902.php">Noticoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/09, p. 4</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_v;&c_a;&c_h;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>dohazova&ccaron;</trd>,
+    <trd>dru&zcaron;ba</trd>,
+    <trd>zprost&rcaron;edkovatel man&zcaron;elstv&iacute;</trd>,
+    <trd>zprost&rcaron;edkovatel s&ncaron;atk&uring;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Heiratsvermittler</trd>,
+    <trd>Kuppler</trd>
+  </trdgrp>
+  <trd lng="fa">&a_d;&a_l;&a_A;&a_l;
+  &a_A;&a_z;&a_d;&a_w;&a_A;&a_j;</trd>
+  <trdgrp lng="fr">
+    <trd>marieur</trd>,
+    <trd>marieuse</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>h&aacute;zass&aacute;gszerz&odblac;</trd>,
+    <trd>h&aacute;zass&aacute;gk&ouml;zvet&iacute;t&odblac;</trd>,
+    <trd>t&aacute;rskeres&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>mezzano</trd>,
+    <trd>ruffiano</trd>
+   </trdgrp>
+  <trd lng="ja">&#32080;&#23130;&#20210;&#20171;&#26989;&#32773;  <pr>&#12369;&#12387;&#12371;&#12435;&#12385;&#12421;&#12358;&#12363;&#12356;&#12366;&#12423;&#12358;&#12375;&#12419;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>huwelijksmakelaar</trd>,
+    <trd>koppelaar</trd>
+  </trdgrp>
+  <trd lng="pl">swat</trd>
+  <trd lng="ru">&c_s;&c_v;&c_a;&c_h;&c_a;</trd>
+  <trd lng="sk">pyta&ccaron; <klr>(kto p&yacute;ta za &zcaron;enu pre druh&eacute;ho)</klr></trd>
+</drv>
+
+<drv mrk="svat.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc>
+    <dif>
+      Esti proponata al iu kiel edzo a&ubreve; edzino; esti petata
+      de peranto kiel edzo a&ubreve; edzino por iu alia:
+      <ekz>
+        ne &ccirc;iu fian&ccirc;i&gcirc;as, kiu <tld/>i&gcirc;as
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="svat.0igxi.sin">
+    <dif>
+      Proponi sin mem, t.e. <ref tip="dif" cel="svat.0igxi">sin <tld/>i</ref>:
+      <ekz>
+        la kapropieda <klr>[&#8230;]</klr> &ccirc;efmilitestro <klr>[&#8230;]</klr> <tld/>i&gcirc;is pri la
+        malgranda pa&scirc;tistino
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Pa&scirc;tistino kaj kamentubisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekzistis plu neniu, pri kiu li povus <tld/>i&gcirc;i, kaj tial li kun hipokrita
+        malestimo &jcirc;uris, ke li ne volas edzi&gcirc;i
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kolumo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        venis nova <tld/>i&gcirc;anto je la re&gcirc;idino
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">um die Hand <ind>anhalten</ind></trd>
+  </snc>
+  <trd lng="be">&c_s;&c_v;&c_a;&c_t;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>dohazovat</trd>,
+    <trd>zprost&rcaron;edkovat man&zcaron;elstv&iacute;</trd>,
+    <trd>zprost&rcaron;edkov&aacute;vat svatbu</trd>
+  </trdgrp>
+  <trd lng="fa">&a_kh;&a_w;&a_A;&a_s;&a_t;&f_g;&a_A;&a_r;&f_y;
+  &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fr">demander en <ind>mariage</ind></trd>
+  <trd lng="hu">megk&eacute;r&odblac; a kez&eacute;t <klr tip="amb">(maga
+  sz&aacute;m&aacute;ra)</klr></trd>
+  <trd lng="it">proporsi<klr> (matrimonio)</klr></trd>
+  <trd lng="ja">&#27714;&#23130;&#12377;&#12427;  <pr>&#12365;&#12421;&#12358;&#12371;&#12435;&#12377;&#12427;</pr></trd>
+  <trd lng="pl">o&sacute;wiadcza&cacute; si&eogonek;</trd>
+  <trd lng="ru">&c_s;&c_v;&c_a;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>dohadzova&tcaron;</trd>,
+    <trd>nahov&aacute;ra&tcaron; <klr>(na man&zcaron;elstvo)</klr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_v;&c_a;&c_t;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="svat.0igxo">
+  <kap><tld/>i&gcirc;o</kap>
+  <snc>
+    <dif>
+      Formala sinpropono kiel edzo a&ubreve; edzino:
+      <ekz>
+        ekzistis centoj da re&gcirc;idinoj, kiuj akceptus lian <tld/>i&gcirc;on kun &gcirc;ojo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Pa&scirc;tisto de porkoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Heiratsantrag</trd>
+  <trd lng="fa">&a_kh;&a_w;&a_A;&a_s;&a_t;&f_g;&a_A;&a_r;&f_y;</trd>
+  <trd lng="fr">demande en <ind>mariage</ind></trd>
+  <trd lng="hu">le&aacute;nyk&eacute;r&eacute;s</trd>
+  <trd lng="it">proposta<klr> di matrimonio</klr></trd>
+  <trd lng="ja">&#27714;&#23130;  <pr>&#12365;&#12421;&#12358;&#12371;&#12435;</pr></trd>
+  <trd lng="pl">o&sacute;wiadczyny</trd>
+</drv>
+
+<drv mrk="svat.sin0i">
+  <kap>sin <tld/>i</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="propon.0i">Proponi</ref> sin mem kiel edzo a&ubreve; edzino,
+      &ccirc;u persone, &ccirc;u pere de <tld/>isto:
+      <ekz>
+        knabinon amis la leon' freneze, sin <tld/>is &ccirc;e la patro
+        <fnt>
+          <aut>Ezopo, trad. K&aacute;lm&aacute;n Kalocsay</aut>
+          <vrk><url ref="https://egalite.hu/kalocsay/ezopo/la%20enamigxinta%20leono.htm"
+              >La Enami&gcirc;inta Leono</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i sin <tld/>is mem, <klr>[&#8230;]</klr> &ccirc;u pri &scirc;ia virinec' konscias
+        <fnt>
+          <aut>Armand Su</aut>
+          <vrk><url ref="http://literaturo.org/HARLOW-Don/Esperanto/Literaturo/Revuoj/MondaKulturo/Printempo65/butterfliesu.html"
+              >Liang &Scirc;anbo kaj &Gcirc;u Intaj, antikva &ccirc;ina legendo</url></vrk>
+          <lok>Monda Kulturo, Printempo 1965</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_v;&c_a;&c_t;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>dohazovat</trd>,
+    <trd>zprost&rcaron;edkovat man&zcaron;elstv&iacute;</trd>,
+    <trd>zprost&rcaron;edkov&aacute;vat svatbu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd><klr>(um jemanden)</klr> werben</trd>,
+    <trd>freien <klr>(umwerben)</klr></trd>,
+    <trd>um die <ind>Hand</ind> anhalten</trd>,
+    <trd><klr>(jemanden)</klr> umwerben</trd>
+  </trdgrp>
+  <trd lng="fa">&a_kh;&a_w;&a_A;&a_s;&a_t;&f_g;&a_A;&a_r;&f_y;
+  &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fr">demander en <ind>mariage</ind></trd>
+  <trd lng="hu">megk&eacute;r&odblac; a kez&eacute;t <klr tip="amb">(maga
+  sz&aacute;m&aacute;ra)</klr></trd>
+  <trd lng="it">proporsi<klr> (matrimonio)</klr></trd>
+  <trd lng="ja">&#27714;&#23130;&#12377;&#12427;  <pr>&#12365;&#12421;&#12358;&#12371;&#12435;&#12377;&#12427;</pr></trd>
+  <trd lng="pl">o&sacute;wiadcza&cacute; si&eogonek;</trd>
+  <trd lng="ru">&c_s;&c_v;&c_a;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>dohadzova&tcaron;</trd>,
+    <trd>nahov&aacute;ra&tcaron; <klr>(na man&zcaron;elstvo)</klr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_v;&c_a;&c_t;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.30 2023/10/17 18:35:27
+Wolfram Diestel: revizio: origina senco unue, rimarko pri konfuzo pro UV/PV; apartigo ~iĝi kaj sin ~i
+
+versio 1.29 2023/10/17 06:28:33
+Wolfram Diestel: +trd ofc, +ekz
+
+versio 1.27 2023/05/01 12:44:25
+Paul Peeraerts: Steloj -> monato
+
+versio 1.26 2023/04/13 12:48:29
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.25 2022/05/05 14:43:49
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2020/10/10 12:39:01
+Wolfram Diestel: ekz-oj, germ. trd-oj; forkomentis du drv
+
+Revision 1.21  2016/10/25 22:10:14  revo
+-->
+</vortaro>

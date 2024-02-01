@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: partit.xml,v 1.26 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>partitur</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="partit.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="partit.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Surpapere skribita a&ubreve; presita reprezento de muzika kompona&jcirc;o:
+       <ekz>
+        li fervore legis en sia partituro
+        <fnt>
+          <aut>Wilhelm Hauff, trad. Eugen W&uuml;ster</aut>,
+          <vrk>La Kantistino</vrk>,
+          <lok><url ref="&Gutenberg;ebooks/24763">
+          gutenberg.org</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rilate la melodiojn kaj instrumentacion la Undine-partituro
+        estas ri&ccirc;a je nova&jcirc;oj
+        <fnt>
+          <aut>Paul Bennemann</aut>,
+          <vrk>La Vendreda Klubo</vrk>,
+          <lok><url ref="&Gutenberg;ebooks/47259">
+        gutenberg.org</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_t;&c_y;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_r;&c_t;&c_i;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="ca">partitura</trd>
+  <trd lng="cs">partitura</trd>
+  <trd lng="de">Partitur</trd>
+  <trd lng="en">score<klr tip="amb"> (musical)</klr></trd>
+  <trd lng="fa">&f_p;&a_A;&a_r;&a_t;&f_y;&a_t;&a_w;&a_r;</trd>
+  <trd lng="fr">partition</trd>
+  <trdgrp lng="hu">
+    <trd>partit&uacute;ra</trd>,
+    <trd>vez&eacute;rk&ouml;nyv</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7DCF;&#x8B5C;  <pr>&#x305D;&#x3046;&#x3075;</pr></trd>,
+    <trd>&#x30B9;&#x30B3;&#x30A2;</trd>
+  </trdgrp>
+  <trd lng="nl">partituur</trd>
+  <trd lng="pl">partytura</trd>
+  <trd lng="pt">partitura</trd>
+  <trd lng="ro">partitur&abreve;</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_t;&c_i;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="sk">partit&uacute;ra</trd>
+  <trd lng="uk">&#x43F;&c_a;&c_r;&c_t;&c_i;&c_t;&c_u;&c_r;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.24 2023/06/05 12:48:55
+Jean-Marc Lugrin: Aldoni fr por partituro
+
+versio 1.23 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2021/11/23 23:30:18
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.19  2017/12/14 09:10:14  revo
+Andrew Sly: Anstatauxigis tute malgxusta difino
+
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/09/11 18:10:17  revo
+-->
+</vortaro>

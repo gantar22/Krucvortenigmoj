@@ -1,0 +1,1071 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: progra.xml,v 1.60 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>program</rad>/o
+</kap>
+<drv mrk="progra.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="progra.0o.KOMUNE">
+    <dif>
+      La&ubreve;tempa <ref tip="super" cel="list.0o.KOMUNE">listo</ref> de
+      farotaj aferoj, de taskoj.
+      <ekz>
+        <uzo tip="fak">PED</uzo>
+        lerno<tld/>o;
+      </ekz>
+      <ekz>
+        <tld/>o de kunveno;
+      </ekz>
+      <ekz>
+        vivi komunan vivon &ndash; tio signifas: havi <klr>[&#8230;]</klr> komunajn
+        pensojn pri &ccirc;io, helpi unu la alian, havi la samajn &gcirc;ojojn kaj &ccirc;agrenojn...
+        &ndash; bela programo, &ccirc;u vi efektivigis &gcirc;in?
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> <tld/>o estu preparita la&ubreve; la kongresa regularo
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge
+          en la 12a de a&ubreve;gusto 1907</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <subsnc mrk="progra.0o.POL">
+      <uzo tip="fak">POL</uzo>
+      <dif>
+        Politika <ref cel="agend.0o">agendo</ref>; la konkreta plano de partio, societo ktp:
+        <ekz>
+          <tld/>o anoncanta la intencojn de politika partio;
+        </ekz>
+        <ekz>
+          Homaranismo estas speciala kaj tute difinita politika-religia
+          <tld/>o
+          <fnt>
+            <bib>VivZam</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          religiaj moroj, kiuj estas enkondukitaj de homoj, por enporti en
+          la vivon difinitan <tld/>on kaj spiritan varmon
+          <fnt>
+            <bib>Homaranismo</bib>
+            <vrk>Dogmoj de Hilelismo</vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          tiu &ccirc;i malgranda sumo <klr>[&#8230;]</klr> servas jam por elspezoj de
+          korespondado, sendado de <tld/>oj, tabeloj da demandoj
+          <fnt>
+            <bib>FK</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          splitopartioj <klr>[&#8230;]</klr> povas per specialaj <tld/>oj kun
+          frapaj sloganoj allogi homojn kun specialaj interesoj
+          <fnt>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/1993/A930802.php">Alarmsignalo el Italio</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/08, p. 5</lok>
+        </fnt>;
+        </ekz>
+        <ekz>
+          sociaj <tld/>oj por dignaj vivkondi&ccirc;oj
+          <fnt>
+          <aut>Gianfranco Cazzaro</aut>
+          <vrk><url ref="&Monato;/1994/A940602.php">Morale a&ccirc;eti, konscie subteni</url></vrk>
+          <bib>Monato</bib>
+          <lok>1994/06, p. 9</lok>
+        </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="progra.0o.prezenta">
+      <uzo tip="fak">TEA</uzo><uzo tip="fak">TEL</uzo><uzo tip="fak">RAD</uzo>
+      <dif>
+        Listo de prezentotaj pecoj:
+        <ekz>
+          <tld/>o de koncerto;
+        </ekz>
+        <ekz>
+          la esperantlingva <tld/>o de Radio Budape&scirc;to
+          <fnt>
+
+          <vrk><url ref="&Monato;/1993/A930902.php">Noticoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/09, p. 4</lok>
+        </fnt>;
+        </ekz>
+        <ekz>
+          kolortelevidaj <tld/>oj kun multe da inter<tld/>a varbado
+          <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/1995/004358.html">Poloj per pelvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/04, p. 17</lok>
+        </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="progra.0o.komp">
+      <uzo tip="fak">KOMP</uzo>
+      <dif>
+        Priskribo de la agoj plenumotaj de komputilo, en
+        komputila lingvo a&ubreve; en &gcirc;ia ma&scirc;inkodo:
+        <ekz>
+          verki <tld/>on en C;
+        </ekz>
+        <ekz>
+          traduki <tld/>on el C;
+        </ekz>
+        <ekz>
+          bindi <tld/>on el moduloj;
+        </ekz>
+        <ekz>
+          lan&ccirc;i, plenumi, ruli <tld/>on;
+        </ekz>
+        <ekz mrk="progra.0o.aplika0o">
+          <ind>aplika <tld/>o</ind>
+          <klr>(kiun uzas ne<tld/>istoj)</klr>;
+          <trd lng="en">application program</trd>
+          <trd lng="es">aplicaci&oacute;n inform&aacute;tica</trd>
+          <trd lng="fr">application informatique</trd>
+          <trd lng="hu">felhaszn&aacute;l&oacute;i program</trd>
+          <trd lng="ru">&c_p;&c_r;&c_i;&c_k;&c_l;&c_a;&c_d;&c_n;&c_a;&c_ja; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;</trd>
+        </ekz>
+        <ekz mrk="progra.0o.0ilo">
+          <ind>il<tld/>o</ind>
+          <klr>(uzata por krei a&ubreve; funkciigi aplikajn <tld/>ojn)</klr>;
+          <trd lng="en">tool program</trd>
+          <trd lng="es">herramienta de programaci&oacute;n</trd>
+          <trd lng="hu">eszk&ouml;zprogram</trd>
+          <trd lng="ru">&c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+          &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;</trd>
+        </ekz>
+        <ekz>
+          la elpakita <tld/>o  bezonas preska&ubreve; 6 megabitokojn
+          <fnt>
+            <aut>Pa&ubreve;l Peeraerts</aut>
+            <bib>Monato</bib>
+            <vrk><url ref="&Monato;/1995/A950501.php">Ni levu la &ccirc;apelon!</url></vrk>
+            <lok>1995/05, p. 16</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          kun la <tld/>o estas provizita amaseto da diversaj litertipoj,
+          ekzemple la senserifaj Svisujo, Metroo kaj Kuriero
+          <fnt>
+            <aut>Pa&ubreve;l Peeraerts</aut>
+            <vrk><url ref="&Monato;/1995/A950501.php">Ni levu la &ccirc;apelon!</url></vrk>
+            <bib>Monato</bib>
+            <lok>1995/05, p. 16</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          estas priskribitaj nur <tld/>oj kaj dosieroj:
+          tekstoprilaboriloj, tekstoreviziiloj,
+          tradukiloj, litertiparoj,  <tld/>oj por adapti litertipojn,
+          rekoniloj, <tld/>oj por adapti  la klavaron, ktp
+          <fnt>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/1995/004514.php">Por lingvemaj
+          komputilemuloj ...</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/06, p. 22</lok>
+        </fnt>;
+        </ekz>
+        <ekz>
+          &ccirc;ar &gcirc;i estas libera <tld/>o, mi povis mem adapti &gcirc;in
+          <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="&Monato;/2000/006801.html">
+          Interreto: uniksulo ekspertas Unikodon</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/02, p. 20</lok>
+        </fnt>;
+        </ekz>
+        <ekz>
+          pluraj popularaj <tld/>oj funkcias unikode
+          <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="&Monato;/2000/006801.html">
+          Interreto: uniksulo ekspertas Unikodon</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/02, p. 20</lok>
+        </fnt>;
+        </ekz>
+        <ekz>
+          verki <tld/>ojn per familia komputilo kaj la <tld/>adlingvo
+          <nom>Basic</nom>
+          <fnt>
+          <aut>J.S. Brilleaud</aut>
+            <vrk><url ref="&Monato;/2000/007082.php">Komputiko kaj Esperanto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 4</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <ref tip="super" cel="algor.0o">algoritmo</ref>
+      <refgrp tip="vid">
+        <ref cel="bind.0ilo">bindilo</ref>,
+        <ref cel="interp2.0ilo">interpretilo</ref>,
+        <ref cel="traduk.0ilo">tradukilo</ref>
+      </refgrp>
+      <trd lng="pl">program</trd>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="plan.0o.realigota">plano<sncref/></ref>,
+      <ref cel="ord.tag0o">tagordo</ref>,
+      <ref cel="task.0aro">taskaro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>po&rcaron;ad</trd>,
+    <trd>rozvrh</trd>
+  </trdgrp>
+  <trd lng="de">Programm</trd>
+  <trd lng="en">program</trd>
+  <trd lng="es">programa</trd>
+  <trd lng="fr">programme</trd>
+  <trdgrp lng="hu">
+    <trd>m&udblac;sor</trd>,
+    <trd>program</trd>
+  </trdgrp>
+  <trd lng="io">programo</trd>
+  <trdgrp lng="ja">
+    <trd>&#12503;&#12525;&#12464;&#12521;&#12512;  <pr>&#12407;&#12429;&#12368;&#12425;&#12416;</pr></trd>,
+    <trd>&#28436;&#30446;  <pr>&#12360;&#12435;&#12418;&#12367;</pr></trd>,
+    <trd>&#24335;&#27425;&#31532;  <pr>&#12375;&#12365;&#12375;&#12384;&#12356;</pr></trd>,
+    <trd>&#30058;&#32068;  <pr>&#12400;&#12435;&#12368;&#12415;</pr></trd>,
+    <trd>&#26085;&#31243;  <pr>&#12395;&#12387;&#12390;&#12356;</pr></trd>,
+    <trd>&#20104;&#23450;  <pr>&#12424;&#12390;&#12356;</pr></trd>,
+    <trd>&#23398;&#32722;&#35336;&#30011;  <pr>&#12364;&#12367;&#12375;&#12421;&#12358;&#12369;&#12356;&#12363;&#12367;</pr></trd>,
+    <trd>&#25480;&#26989;&#35336;&#30011;  <pr>&#12376;&#12421;&#12366;&#12423;&#12358;&#12369;&#12356;&#12363;&#12367;</pr></trd>,
+    <trd>&#32177;&#38936;  <pr>&#12371;&#12358;&#12426;&#12423;&#12358;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">programma</trd>
+  <trd lng="no">program</trd>
+  <trd lng="pl">program</trd>
+  <trd lng="pt">programa</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>poriadok</trd>,
+    <trd>rozvrh</trd>
+  </trdgrp>
+  <trd lng="sv">program</trd>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trd lng="vo">program</trd>
+</drv>
+
+<drv mrk="progra.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+
+  <snc mrk="progra.0i.KOMUNE">
+    <dif>
+      Anta&ubreve;difini ordon de eventoj:
+      <ekz>
+        se trafiksistemoj kolapsos, kolizioj de a&ubreve;toj, tramoj kaj
+        fervojoj estas <tld/>itaj
+       <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2001/007289.php">Militado sen bataliloj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 6</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la franc-germana televidstacio Arte bon&scirc;ance <tld/>is mirindan
+        filmon
+        de la universale koramata <nom>Charles Chaplin</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>J.M. Parisot-Delourmel</aut>
+          <vrk><url ref="&Monato;/2004/008286.html">Charles
+          Chaplin kaj Esperanto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sekve de la (<tld/>ita) paneo de elektraj aparatoj, konsumado de
+        karto&ccirc;oj
+        kaj &ccirc;iaj aliaj aferoj por unufoja uzo, krei&gcirc;as pli kaj pli da
+        rubo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lode van de Velde kaj Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2014/011347.php">Konsumantoj
+          agiti&gcirc;as kaj konscii&gcirc;as</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Dio kree intervenis de tempo al tempo, kiam la evoluciaj fortoj,
+        kiujn li <tld/>is,
+        ne sukcesis salti al pli nova kompleksa vivformo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Armando Zecchin</aut>
+          <vrk><url ref="&Monato;/2008/009419.php">Rezolucio de
+          e&ubreve;ropa instanco pri evoluismo kaj kreismo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+
+  <snc mrk="progra.0i.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Verki <tld/>on kiu faru ion:
+      <ekz>
+        <tld/>i sintaksan analizon, formorekonon;
+      </ekz>
+      <ekz>
+        <tld/>i por (sub, en) Unikso en C;
+      </ekz>
+      <ekz>
+        &ccirc;u tiu funkcio estas <tld/>ita a&ubreve; realigita aparate?
+      </ekz>
+      <ekz>
+        oni  povas <tld/>i siajn preferatajn klavokombinojn por super-
+        kaj  sub-signitaj literoj
+        <fnt>
+            <aut>Pa&ubreve;l Peeraerts</aut>
+            <bib>Monato</bib>
+            <vrk><url ref="&Monato;/1995/A950501.php">Ni levu la &ccirc;apelon!</url></vrk>
+            <lok>1995/05, p. 16</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        ilia agado estas <tld/>i, testi, priskribi, ripari,
+        pliampleksigi la <tld/>aron
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2004/008269.html">Libera
+          programaro: nova rimedo komerci</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam la persona komputilo estis disvolvita kaj surmerkatigita en
+        Usono,
+        &gcirc;i estis planita kaj <tld/>ita por anglalingvanoj,
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2005/008705.php">Plurlingva
+          tekstoprilaborado</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iuj firmaoj anka&ubreve; <tld/>as la printilojn tiel, ke ili a&ubreve; rifuzas
+        ne-a&ubreve;tentikajn karto&ccirc;ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lode van de Velde kaj Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2014/011347.php">Konsumantoj
+          agiti&gcirc;as kaj konscii&gcirc;as</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">entwickeln</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trd lng="cs">programovat</trd>
+  <trd lng="de">programmieren</trd>
+  <trd lng="en">program</trd>
+  <trd lng="es">programar</trd>
+  <trd lng="fr">programmer</trd>
+  <trd lng="hu">programoz</trd>
+  <trdgrp lng="ja">
+    <trd>&#30058;&#32068;&#12434;&#32232;&#25104;&#12377;&#12427;  <pr>&#12400;&#12435;&#12368;&#12415;&#12434;&#12408;&#12435;&#12379;&#12356;&#12377;&#12427;</pr></trd>,
+    <trd>&#12503;&#12525;&#12464;&#12521;&#12512;&#12377;&#12427;  <pr>&#12407;&#12429;&#12368;&#12425;&#12416;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">programmeren</trd>
+  <trd lng="no">programmere</trd>
+  <trd lng="pl">programowa&cacute;</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">programova&tcaron;</trd>
+  <trd lng="sv">programmera</trd>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="progra.0ado">
+  <kap><tld/>ado</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="progra.0ado.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Verkado de komputilaj <tld/>oj, en pli vasta senco
+      inkluzive de projektado, dokumentado kaj vartado:
+      <ekz>
+        metodoj de <tld/>ado;
+      </ekz>
+      <ekz>
+        strukturema, modulema, objektema <tld/>o;
+      </ekz>
+      <ekz>
+        post iom da <tld/>ado mi ekhavis unikodan retpo&scirc;tilon kaj povis
+        sendi
+        al mi mesa&gcirc;ojn kun belaj esperantaj supersignoj
+        <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="&Monato;/2000/006801.html">
+          Interreto: uniksulo ekspertas Unikodon</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/02, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        koni kelkajn principojn pri <tld/>ado
+        <fnt>
+          <aut>J.S. Brilleaud</aut>
+            <vrk><url ref="&Monato;/2000/007082.php">Komputiko kaj Esperanto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 4</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        libera <tld/>aro donas &scirc;ancon <klr>[&#8230;]</klr> enplekti&gcirc;i en
+        avangardan <tld/>adon sen la kutimaj limigoj pro kopirajtoj kaj
+        patentoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2004/008269.html">Libera
+          programaro: nova rimedo komerci</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;katedralo&#8221; kaj &leftquot;bazaro&#8221; estas la nomoj por liaj modeloj de
+        komerca kaj libera Programado, respektive
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2004/008269.html">Libera
+          programaro: nova rimedo komerci</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        normoj ellaboritaj de W3C, la &ccirc;efa instanco por interreta
+        <tld/>ado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2005/008752.php">Netscape
+          8: plej multflanka</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="bg">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_i;&c_r;&c_a;&c_n;&c_je;</trd>
+    <trdgrp lng="de">
+      <trd>Programmierung</trd>,
+      <trd>Programmieren</trd>,
+      <trd>Softwareentwicklung</trd>,
+      <trd>Entwicklung</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>programming</trd>,
+      <trd>software engineering</trd>
+    </trdgrp>
+    <trd lng="es">programaci&oacute;n</trd>
+    <trd lng="fr">programmation</trd>
+    <trd lng="hu">programoz&aacute;s</trd>
+    <trd lng="nl">programmeren</trd>
+    <trd lng="no">programmering</trd>
+    <trd lng="pl">programowanie</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+    <trd lng="sv">programmering</trd>
+  </snc>
+  <snc mrk="progra.0ado.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(anka&ubreve; <ctl>matematika <tld/>ado</ctl>)</klr> Parto
+      de <ref tip="super" cel="operac.0esploro">operaciesploro</ref>,
+      studanta problemojn pri funkciekstremoj super aroj de
+      finidimensia vektorspaco, kiujn arojn difinas egala&jcirc;oj a&ubreve;
+      kompara&jcirc;oj:
+      <ekz>
+        la <ctl>dorssakproblemo</ctl> kaj
+        <ctl>la problemo pri voja&gcirc;a komizo</ctl> estas
+        konataj problemoj de matematika <tld/>ado;
+      </ekz>
+      <ekz>
+        dinamika, diskreta,
+        konkava, konveksa, lineara, nelineara <tld/>ado
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=104280">Optimumigo
+          (matematiko)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_t;&c_e;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_je; &c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="de"><klr>(mathematisches) </klr>Programmieren</trd>
+    <trd lng="en"><klr>(mathematical) </klr>programming</trd>
+    <trd lng="hu">matematikai programoz&aacute;s</trd>
+    <trd lng="ru">&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+    <trd lng="sv">matematisk programmering</trd>
+  </snc>
+  <trd lng="cs">programov&aacute;n&iacute; <klr>(po&ccaron;&iacute;ta&ccaron;e)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#30058;&#32068;&#32232;&#25104;  <pr>&#12400;&#12435;&#12368;&#12415;&#12408;&#12435;&#12379;&#12356;</pr></trd>,
+    <trd>&#12503;&#12525;&#12464;&#12521;&#12511;&#12531;&#12464;  <pr>&#12407;&#12429;&#12368;&#12425;&#12415;&#12435;&#12368;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">programovanie <klr>(po&ccaron;&iacute;ta&ccaron;a)</klr></trd>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
+</drv>
+
+<drv mrk="progra.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="progra.0aro.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+       La <tld/>oj stacio, satelito ktp:
+      <ekz>
+        la televid<tld/>aro, kiun la satelito  dissendas
+        <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/1995/004358.html">Poloj per pelvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/04, p. 17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="progra.0aro.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      La programoj uzataj en komputilo (ofte kontraste al
+      <ref tip="ant" cel="aparat.0aro.KOMP">aparataro</ref>):
+      <ekz>
+        <ref tip="sub" cel="progra.sistema_0aro">sistema
+        <tld/>aro</ref>;
+      </ekz>
+      <ekz>
+        <ref tip="sub" cel="progra.aplika_0aro">aplika <tld/>aro</ref>;
+      </ekz>
+      <ekz>
+        komerca, &ccirc;iesa, senpaga, libera <tld/>aro;
+      </ekz>
+      <ekz>
+        portebla <tld/>aro;
+      </ekz>
+      <ekz>
+        vivciklo de <tld/>aro;
+      </ekz>
+      <ekz>
+        <tld/>ara krizo;
+      </ekz>
+      <ekz>
+        &ccirc;iuj novaj komputiloj liveri&gcirc;os kun unikodokapabla <tld/>aro
+        <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="&Monato;/2000/006801.html">
+          Interreto: uniksulo ekspertas Unikodon</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/02, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kontra&ubreve;virusa <tld/>aro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/008036.html">Damnita
+          komputilo! Diabla Interreto!</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nokto plej konvenas al la telefon-kompanioj por testadi a&ubreve; &scirc;an&gcirc;i
+        sian <tld/>aron
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hektor Alos I Font</aut>
+          <vrk><url ref="&Monato;/2003/008062.html">Spektantoj
+          spektataj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+         oficeja programaro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2005/008660.php">De
+          triopa monopolo al mikrosofta monopolo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> disponigas aron da <tld/>oj tre similaj al la
+        &ccirc;efa <tld/>aro
+        de Mikrosofto por prilabori tekstojn, uzi la reton kaj fari
+        tabelojn kaj datenbankojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2004/007797.html">Mikrosofto
+          ektimas Linukson</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la movado por libera <tld/>aro rekte kontra&ubreve;as patentojn pri
+        tiaj aferoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2004/008269.html">Libera
+          programaro: nova rimedo komerci</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_n;&c_a;&c_je; &c_z;&c_a;&c_b;&c_je;&c_s;&c_mol;&c_p;&c_ja;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>programov&eacute; vybaven&iacute;</trd>,
+    <trd>software</trd>
+  </trdgrp>
+  <trd lng="de">Software</trd>
+  <trd lng="en">software</trd>
+  <trd lng="es">programa inform&aacute;tico</trd>
+  <trd lng="fr">logiciel</trd>
+  <trd lng="hu">szoftver</trd>
+  <trd lng="ja">&#12477;&#12501;&#12488;&#12454;&#12455;&#12450;</trd>
+  <trdgrp lng="nl">
+    <trd>software</trd>,
+    <trd>programmatuur</trd>
+  </trdgrp>
+  <trd lng="no">programvare</trd>
+  <trd lng="pl">oprogramowanie</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_n;&c_o;&c_je; &c_o;&c_b;&c_je;&c_s;&c_p;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>programov&eacute; vybavenie</trd>,
+    <trd>software</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>programvara</trd>,
+    <trd>mjukvara</trd>
+  </trdgrp>
+  <trd lng="tr">yaz&inodot;l&inodot;m</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_n;&c_je; &c_z;&c_a;&c_b;&c_je;&c_z;&c_p;&c_je;&c_ch;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_s;&c_o;&c_f;&c_t;&c_v;&c_je;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="progra.0ero">
+  <kap><tld/>ero</kap>
+  <snc mrk="progra.0ero.KOMUNE">
+    <dif>
+      Unuopa peco en <tld/>o:
+      <ekz>
+        filmofirmaoj <klr>[&#8230;]</klr> povas revendi la rajton por la sama
+        <tld/>ero plurfoje
+        <fnt>
+          <aut>F. Arnaud</aut>,
+          <vrk>Preterle&gcirc;a televidado en E&ubreve;ropo</vrk>,
+          <bib>Monato</bib>,
+          <lok>1999/03, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li  fiere anoncas <klr>[&#8230;]</klr> la programeron &leftquot;Homoj kaj
+        problemoj&rightquot;
+        <fnt>
+          <aut>PEJNO Simono</aut>
+          <vrk><url ref="&Monato;/1995/004358.html">Poloj per pelvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/04, p. 17</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        okazas anka&ubreve; ekspoziciaj <tld/>eroj: teatra&jcirc;oj, muziko kaj
+        prelegoj
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+            <vrk><url ref="&Monato;/2000/007113.php">Ser&ccirc;i la perditan paradizon</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 20</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+         renkonti&gcirc;i kun geamikoj kaj &gcirc;ui <tld/>erojn de siaj konatoj:
+         &hcirc;orkantado, ludado de diversaj instrumentoj, dancado
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="&Monato;/2004/008393.html">Alproprigi
+          hobion</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i kunvokis la parlamenton <klr>[&#8230;]</klr> por efektivigi
+        <tld/>erojn: pliigi
+        enspezimpostojn <klr>[&#8230;]</klr>, malpermesi parlamentanojn
+        elektitajn per partia
+        listo eksi&gcirc;i de tiu partio sen eksi&gcirc;i kiel parlamentano
+        <klr>[&#8230;]</klr>
+        <fnt>
+	<aut>Donald Rogers</aut>
+	<vrk><url ref="&Monato;/2000/006819.php">Laborema koalicio</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sekva <tld/>ero de la registaro estas la iompostioma forigo de
+        fruaj pensii&gcirc;oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2003/008084.html">Magra
+          majoritato</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Programmpunkt</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bod programu</trd>,
+    <trd>&ccaron;&iacute;slo programu</trd>
+  </trdgrp>
+  <trd lng="en">item<klr> (of a program or agenda)</klr></trd>
+  <trd lng="es">elemento de programa</trd>
+  <trd lng="fr">&eacute;l&eacute;ment de programme</trd>
+  <trdgrp lng="ja">
+    <trd>&#20986;&#12375;&#29289;  <pr>&#12384;&#12375;&#12418;&#12398;</pr></trd>,
+    <trd>&#28436;&#30446;  <pr>&#12360;&#12435;&#12418;&#12367;</pr></trd>,
+    <trd>&#30058;&#32068;  <pr>&#12400;&#12435;&#12368;&#12415;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">programmaonderdeel</trd>
+  <trdgrp lng="pl">
+    <trd>punkt  <ind>programu</ind></trd>,
+    <trd>cz&eogonek;&sacute;&cacute;  <ind>programu</ind></trd>
+  </trdgrp>
+  <trd lng="sk">bod programu</trd>
+  <trd lng="sv">programpunkt</trd>
+  <trd lng="uk">&c_n;&c_o;&c_m;&c_je;&c_r; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_i;</trd>
+</drv>
+
+<drv mrk="progra.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="progra.0isto.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Fakulo pri <tld/>ado:
+      <ekz>
+        la koncernaj normoj estas interkonsentitaj, kaj <tld/>istoj
+        diligente kreas la necesan substrukturon (programajn
+        bibliotekojn, ktp)
+        <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="&Monato;/2000/006801.html">
+          Interreto: uniksulo ekspertas Unikodon</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/02, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Linukso estis la unua projekto, kiu sukcesis utiligi la talenton
+        de <tld/>istoj &ccirc;irka&ubreve; la mondo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2004/008269.html">Libera
+          programaro: nova rimedo komerci</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estas komputil-<tld/>isto kaj fervora leganto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2006/008868.php">Prioritato
+          1</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Entwickler</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_i;&c_s;&c_t;</trd>
+  <trd lng="cs">program&aacute;tor</trd>
+  <trd lng="de">Programmierer</trd>
+  <trd lng="en">programmer</trd>
+  <trd lng="es">programador</trd>
+  <trd lng="fr">programmeur</trd>
+  <trd lng="hu">programoz&oacute;</trd>
+  <trd lng="io">programifisto</trd>
+  <trdgrp lng="ja">
+    <trd>&#30058;&#32068;&#32232;&#25104;&#32773;  <pr>&#12400;&#12435;&#12368;&#12415;&#12408;&#12435;&#12379;&#12356;&#12375;&#12419;</pr></trd>,
+    <trd>&#12503;&#12525;&#12464;&#12521;&#12510;</trd>
+  </trdgrp>
+  <trd lng="nl">programmeur</trd>
+  <trd lng="no">utvikler<ind> (data)</ind></trd>
+  <trd lng="pl">programista</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">program&aacute;tor</trd>
+  <trd lng="sv">programmerare</trd>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="vo">programan</trd>
+</drv>
+
+<drv mrk="progra.cel0o">
+  <kap>cel<tld/>o</kap>
+  <snc mrk="progra.cel0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Komputila <tld/>o produktita per
+      <ref tip="vid" cel="traduk.0ilo">tradukilo</ref> el
+      <ref tip="ant" cel="progra.font0o">fontprogramo</ref>.
+    </dif>
+    <trd lng="de">Zielprogramm</trd>
+  </snc>
+  <trdgrp lng="en">
+    <trd>object program</trd>,
+    <trd>target program</trd>
+  </trdgrp>
+  <trd lng="es">compilador del c&oacute;digo del programa</trd>
+  <trd lng="fr">programme objet</trd>
+  <trd lng="hu">c&eacute;lprogram</trd>
+  <trdgrp lng="ja">
+    <trd>&#12458;&#12502;&#12472;&#12455;&#12463;&#12488;&#12503;&#12525;&#12464;&#12521;&#12512;</trd>,
+    <trd>&#30446;&#27161;&#12503;&#12525;&#12464;&#12521;&#12512;  <pr>&#12418;&#12367;&#12402;&#12423;&#12358;&#12503;&#12525;&#12464;&#12521;&#12512;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">program docelowy</trd>
+  <trd lng="ru">&c_v;&c_y;&c_h;&c_o;&c_d;&c_n;&c_a;&c_ja; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_h;&c_ib;&c_d;&c_n;&c_a; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
+</drv>
+
+<drv mrk="progra.font0o">
+  <kap>font<tld/>o</kap>
+  <snc mrk="progra.font0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Komputila <tld/>o verkita en programlingvo, kiun
+      <ref tip="vid" cel="traduk.0ilo">tradukilo</ref>
+      transformas en
+      <ref tip="ant" cel="progra.cel0o">celprogramon</ref>:
+      <ekz>
+        por esti vera &leftquot;libera programo&#8221; la font<tld/>o devas esti
+        disdonata kun la ruleblaj programoj a&ubreve; esti alimaniere akirebla
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2004/008269.html">Libera
+          programaro: nova rimedo komerci</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Quellprogramm</trd>,
+      <trd>Quelle (Programm-)</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="en">source program</trd>
+  <trd lng="es">c&oacute;digo fuente del programa</trd>
+  <trd lng="fr">programme source</trd>
+  <trd lng="hu">forr&aacute;sprogram</trd>
+  <trdgrp lng="ja">
+    <trd>&#12477;&#12540;&#12473;&#12503;&#12525;&#12464;&#12521;&#12512;</trd>,
+    <trd>&#21407;&#22987;&#12503;&#12525;&#12464;&#12521;&#12512;  <pr>&#12370;&#12435;&#12375;&#12503;&#12525;&#12464;&#12521;&#12512;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bronprogramma</trd>
+  <trd lng="pl">program &zacute;r&oacute;d&lstroke;owy</trd>
+  <trd lng="ru">&c_i;&c_s;&c_h;&c_o;&c_d;&c_n;&c_a;&c_ja; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_h;&c_ib;&c_d;&c_n;&c_a; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
+</drv>
+
+<drv mrk="progra.krom0o">
+  <kap>krom<tld/>o</kap>
+  <snc mrk="progra.krom0o.KOMUNE">
+    <dif>
+      <tld lit="P"/>o aldona al &ccirc;efa <tld/>o de evento, kongreso ktp,
+      ofte distra:
+      <ekz>
+        ri&ccirc;a, varia krom<tld/>o kompletigis &ccirc;iutage la bazan prezentadon
+        en haloj kaj tendegoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2013/011059.php">Fiere
+          festis foiro</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Zusatzprogramm</trd>,
+      <trd/>,
+      <trd/>
+    </trdgrp>
+    <trd lng="en">breakout session</trd>
+  </snc>
+  <snc mrk="progra.krom0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <tld lit="P"/>o vastiganta la kapablojn de &ccirc;ef<tld/>o,
+      al kiu &gcirc;i aldoni&gcirc;as:
+      <ekz>
+        en la estonteco <nom>Firefox</nom> &gcirc;isdatigos la krom<tld/>ojn por vi
+        <fnt>
+          <aut>[E. Tr&aacute;pani k. a.]</aut>,
+          <vrk><url ref="https://www.mozilla.org/eo/plugincheck/">
+          Kontroli viajn kromprogramojn</url></vrk>,
+          <lok>[vidita en 2013]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvankam <nom>MySQL</nom> mem estas senpaga, nepre necesas diversaj
+        krom<tld/>oj, kiuj estas pagendaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2005/008659.php">OpenOffice:
+          senpaga alternativo por Microsoft Office</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Programmerweiterung</trd>,
+      <trd>Erweiterung (Software)</trd>,
+      <trd>Programmzusatz</trd>
+    </trdgrp>
+  <trdgrp lng="en">
+    <trd>add-on</trd>,
+    <trd>plug-in</trd>,
+    <trd>extension</trd>
+  </trdgrp>
+  </snc>
+  <trdgrp lng="es">
+    <trd>extensi&oacute;n<klr> (de programa inform&aacute;tico)</klr></trd>,
+    <trd>complemento</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>extension<klr> (de programme informatique)</klr></trd>,
+    <trd>plug-in</trd>
+  </trdgrp>
+  <trd lng="ja">&#12503;&#12521;&#12464;&#12452;&#12531;</trd>
+  <trd lng="pl">wtyczka</trd>
+</drv>
+
+<drv mrk="progra.sistema_0aro">
+  <kap>sistema <tld/>aro</kap>
+  <snc mrk="progra.sistema_0aro.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref cel="progra.0o.komp">Il<tld/>oj</ref> de
+      <ref cel="sistem.komputa_0o">komputa sistemo</ref>
+      necesaj por funkciigi
+      <ref cel="progra.aplika_0aro">aplikajn <tld/>ojn</ref>:
+      <ekz>
+        <nom>BIOS</nom> estas sistema <tld/>aro
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=566559">BIOS</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la unua versio de <nom>Mac OS</nom> (nomita poste) aperis en 1984, kiam oni
+        nomis &gcirc;in simple <klr>[&#8230;]</klr> sistema <tld/>aro
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=51057">Mac
+          OS</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <ref tip="sin" cel="operac.0umo">operaciumo</ref>
+  <refgrp tip="sub">
+  <ref cel="linuks.0o">Linukso</ref>,
+  <ref cel="uniks.0o">Unikso</ref>,
+  <ref cel="vindoz.0o">Vindozo</ref>
+  </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_n;&c_a;&c_je; &c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_n;&c_a;&c_je;
+  &c_z;&c_a;&c_b;&c_je;&c_s;&c_mol;&c_p;&c_ja;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="de">Systemsoftware</trd>
+  <trd lng="en">system software</trd>
+  <trd lng="hu">rendszerszoftver</trd>
+  <trd lng="nl">systeemprogrammatuur</trd>
+  <trd lng="pl">oprogramowanie systemowe</trd>
+  <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_n;&c_o;&c_je; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_n;&c_o;&c_je;
+  &c_o;&c_b;&c_je;&c_s;&c_p;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+</drv>
+
+<drv mrk="progra.aplika_0aro">
+  <kap>aplika <tld/>aro</kap>
+  <snc mrk="progra.aplika_0aro.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Kolekto da aplikaj <tld/>oj
+      por iu ekstera aplika tereno (kontraste al
+      <ref cel="progra.sistema_0aro">sistema <tld/>aro</ref>):
+      <ekz>
+        komercaj programoj por klientoj-uzantoj ordinare nomi&gcirc;as aplika
+        <tld/>aro
+        (a&ubreve; aplika&jcirc;o) en la komputika industrio, &ccirc;ar tiuj <tld/>oj sin
+        fokusas sur la
+        kapabloj por kiuj oni uzas la komputilon, kontraste al tiuj de
+        sistema
+        <tld/>aro (ekzemple la Vindoza mastruma sistemo)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=105205">Komputila
+          programo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Amikumu (aplika&jcirc;o) &#8208; kategorio: Aplika <tld/>aro
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=570236">Amikumu
+          (aplika&jcirc;o)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <refgrp tip="sub">
+  <ref cel="skajp.0o">Skajpo</ref>,
+  <ref cel="muzaik.0o">Muzaiko</ref>
+  </refgrp>
+  </snc>
+  <trd lng="de">Anwendungssoftware</trd>
+  <trd lng="en">application software</trd>
+  <trd lng="hu">alkalmaz&aacute;sszoftver</trd>
+  <trd lng="nl">gebruiksprogrammatuur</trd>
+  <trd lng="pl">oprogramowanie aplikacyjne</trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_k;&c_l;&c_a;&c_d;&c_n;&c_o;&c_je; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_n;&c_o;&c_je;
+  &c_o;&c_b;&c_je;&c_s;&c_p;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.60 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.59 2023/09/10 09:19:50
+Christian Siefkes: +trd de, en
+
+versio 1.57 2023/06/08 18:51:22
+revo: movu drv komput.0a_sistemo al sistem/
+
+versio 1.56 2023/05/01 11:23:33
+Paul Peeraerts: Steloj -> monato
+
+versio 1.55 2023/05/01 08:31:43
+Paul Peeraerts: Steloj -> monato
+
+versio 1.54 2023/04/24 06:32:42
+
+versio 1.53 2023/04/14 15:26:11
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.52 2023/04/13 12:48:50
+Paul Peeraerts: Steloj -> monato.be
+-->
+</vortaro>

@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sortim.xml,v 1.23 2023/10/21 07:46:47 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>sortiment</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sortim.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sortim.0o.EKON">
+    <dif>
+      Aro da diversaj samfakaj elmontrotaj komerca&jcirc;oj;
+      <ref tip="vid" cel="specim.0aro">specimenaro</ref>:
+      <ekz>
+        el nia granda <tld/>o da brosoj &ccirc;iugrandaj, &ccirc;iuformaj &ccirc;ie vend<klr>[u]</klr> nur ses, kaj mi
+        estos kontenta!
+        <fnt>
+          <bib>KrM</bib>
+          <lok>3. Ne Gutas Mielo El La &Ccirc;ielo.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la parfumoj venas al mi en <tld/>oj, sed se mi elmetus &ccirc;iujn sur la stando, la
+        klientoj havus malfacilon decidi&gcirc;i
+        <fnt>
+          <bib>KrM</bib>
+          <lok>20. Kontra&ubreve; &Ccirc;iu Malfacilo Ekzistas Konsilo.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        normale UEA povas porti al UK maksimume kvaronon de la
+        tuta <tld/>o de sia libroservo, sed en Roterdamo &ccirc;io
+        estis a&ccirc;etebla
+        <fnt>
+          <vrk>Libroservo de UEA abunde vendis en 1998</vrk>.
+          <bib>LOdE</bib>, <lok>N-ro 54 (1999:4)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="repert.0o">repertuaro</ref>,
+      <ref cel="stok.0o">stoko</ref>
+    </refgrp>
+    <trd lng="en">selection</trd>
+    <trdgrp lng="pt">
+      <trd>sortimento</trd>,
+      <trd>estoque</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sortim.0o.KOMUNE">
+    <dif>
+      Aro da diversaj samspecaj objektoj:
+      <ekz>
+        la kelnerino alportis <tld/>on da froma&gcirc;oj
+        <fnt>
+          <aut>Marjorie BOULTON</aut>:
+          <vrk>Ebrivirgeco</vrk>.
+          <lok>La nica literatura revuo, 3:3</lok>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu stranga <tld/>o da personoj glate kaj sperte kunlaboris
+        <fnt>
+          <bib>KrM</bib>
+          <lok>43. Nia Diligenta Kolegaro.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi devis tuj depe&scirc;i al ili <tld/>on da readmonoj, garnituron da komandoj kaj
+        servicon da precizaj instrukcioj
+        <fnt>
+          <bib>MMa</bib>
+          <lok>&Ccirc;apitro 5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o da simplaj grafikaj elementoj estas negranda kaj tial koincidoj en
+        ilia kombinado estas tre probablaj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 1 (51)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ensemb.0o.KOMUNE">ensemblo</ref>,
+      <ref cel="gam.0o.FIG">gamo<sncref/></ref>,
+      <ref cel="garnit.0o.KOMUNE">garnituro</ref>,
+      <ref cel="komple2.0o.KOMUNE">kompleto</ref>,
+      <ref cel="paletr.0o.figure">paletro<sncref/></ref>,
+      <ref cel="servic.0o.KUI">servico</ref>
+    </refgrp>
+    <trd lng="de">Auswahl <klr>(Sortiment)</klr></trd>
+    <trdgrp lng="pt">
+      <trd>sortimento</trd>,
+      <trd>estoque</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_s;&c_a;&c_r;&c_t;&c_y;&c_m;&c_e;&c_n;&c_t;</trd>,
+    <trd>&c_n;&c_a;&c_b;&c_o;&c_r;</trd>,
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_a;&c_s;&c_o;&c_r;&c_t;&c_i;&c_m;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>sortiment</trd>,
+    <trd>v&yacute;b&ecaron;r zbo&zcaron;&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Sortiment</trd>
+  <trdgrp lng="en">
+    <trd>assortment</trd>,
+    <trd>collection</trd>
+  </trdgrp>
+  <trd lng="fr">assortiment</trd>
+  <trdgrp lng="hu">
+    <trd>v&aacute;laszt&eacute;k</trd>,
+    <trd>szortiment</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x672C;&#x4E00;&#x5F0F;  <pr>&#x307F;&#x307B;&#12435;&#12356;&#12387;&#12375;&#x304D;</pr></trd>,
+    <trd>&#x8A70;&#12417;&#21512;&#x308F;&#x305B;  <pr>&#12388;&#12417;&#12354;&#x308F;&#x305B;</pr></trd>,
+    <trd>&#12402;&#12392;&#x305D;&#x308D;&#12356;</trd>
+  </trdgrp>
+  <trd lng="nl">assortiment</trd>
+  <trdgrp lng="pl">
+    <trd>asortyment</trd>,
+    <trd>dob&oacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>sortimento</trd>,
+    <trd>estoque</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_s;&c_s;&c_o;&c_r;&c_t;&c_i;&c_m;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_n;&c_a;&c_b;&c_o;&c_r;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sortiment</trd>,
+    <trd>v&yacute;ber tovaru</trd>
+  </trdgrp>
+  <trd lng="sv">sortiment</trd>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_s;&c_o;&c_r;&c_t;&c_i;&c_m;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_n;&c_a;&c_b;&c_ib;&c_r;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sortim.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sortim.0i.ordigi">
+    <dif>
+      Ta&ubreve;ge elekti kaj kunmeti komerca&jcirc;ojn inter si diferencajn,
+      sed &ccirc;iujn de sama speco:
+      <ekz>
+        la knaboj obeis la instrukciojn de la maljunulo kaj zorge <tld/>is la ferfala&jcirc;on
+        en diversajn partojn
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Erik Asklund</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lokaj kamparaninoj <tld/>is la fungojn plukitajn en arbaro
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 5 (67)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ord.0igi">ordigi</ref>,
+      <ref cel="spec.0igi">specigi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_d;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol; <klr>(&c_u; &c_n;&c_a;&c_b;&c_o;&c_r;)</klr></trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_k;&c_a;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>t&rcaron;&iacute;dit</trd>,
+    <trd>z&aacute;sobovat zbo&zcaron;&iacute;m</trd>
+  </trdgrp>
+  <trd lng="de">sorieren</trd>
+  <trd lng="en">stock</trd>
+  <trd lng="fr">r&eacute;assortir</trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;sszev&aacute;logat</trd>,
+    <trd>&ouml;ssze&aacute;ll&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x53D6;&#x308A;&#x63C3;&#12360;&#x308B;  <pr>&#12392;&#x308A;&#x305D;&#x308D;&#12360;&#x308B;</pr></trd>,
+    <trd>&#x53D6;&#x308A;&#21512;&#x308F;&#x305B;&#x308B; 
+    <pr>&#12392;&#x308A;&#12354;&#x308F;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">assorteren</trd>
+  <trd lng="pl">dostarcza&cacute;  <ind>asortyment</ind></trd>
+  <trd lng="pt">fazer <ind>sortimento</ind> de</trd>
+  <trdgrp lng="sk">
+    <trd>triedi&tcaron;</trd>,
+    <trd>z&aacute;sobova&tcaron; tovarom</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_ib;&c_d;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_b;&c_i;&c_t;&c_i; &c_n;&c_a;&c_b;&c_ib;&c_r;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_t;&c_a;&c_ch;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.22 2023/10/04 22:27:22
+Vito Redsky: +trd pl 
+
+versio 1.20 2023/04/04 07:24:51
+Dmitri Gabinski: + trd be
+
+versio 1.19 2022/05/14 16:43:45
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+Revision 1.16  2015/07/22 16:10:18  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/12/08 21:10:13  revo
+-->
+</vortaro>

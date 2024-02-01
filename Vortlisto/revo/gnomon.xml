@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: gnomon.xml,v 1.16 2023/10/15 18:38:19 revo Exp $">
+<kap>
+  <rad>gnomon</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="gnomon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="gnomon.0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      Astronomia <ref tip="super" cel="instru2.0o">instrumento</ref>,
+      konsistanta el vertikala ombro&jcirc;etilo,
+      kaj uzata krom kiel <ref tip="super" cel="horlog.sun0o.KAL">sunhorlo&gcirc;o</ref>
+      anka&ubreve; por difini la latitudon, nordon, ekvinokson, solsticon kaj ekliptikon:
+      <ekz>
+        <klr>[&ccirc;e la]</klr> sunhorlo&gcirc;o de <nom>Whitehurst</nom> <klr>[&#x2026;]</klr> unu rando de <tld/>o
+        estas la ombro&jcirc;etilo kiu &jcirc;etas la ombron anta&ubreve; tagmezo, kaj la alia rando
+        estas la ombro&jcirc;etilo kiu &jcirc;etas la ombron post tagmezo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=364556">Sunhorlo&gcirc;o de Whitehurst &amp; Son</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>nap&oacute;ra</trd>,
+      <trd>gn&oacute;mon</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_n;&c_o;&c_m;&c_a;&c_n;</trd>
+  <trd lng="ca">gn&ograve;mon</trd>
+  <trd lng="cs">gn&oacute;mon</trd>
+  <trd lng="de">Gnomon</trd>
+  <trd lng="en">gnomon</trd>
+  <trd lng="es">gnomon</trd>
+  <trd lng="fr">gnomon</trd>
+  <trd lng="it">gnomone</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B0;&#x30CE;&#x30E2;&#x30F3;</trd>,
+    <trd>&#x304D;&#x91DD;  <pr>&#x304D;&#x306F;&#x308A;</pr></trd>,
+    <trd>&#x65E5;&#x6642;&#x8A08;  <pr>&#x3072;&#x3069;&#x3051;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">gnomon</trd>
+  <trd lng="pl">gnomon</trd>
+  <trd lng="pt">gn&ocirc;mon</trd>
+  <trd lng="ru">&c_g;&c_n;&c_o;&c_m;&c_o;&c_n;</trd>
+  <trd lng="sk">gn&oacute;mon</trd>
+  <trdgrp lng="uk">
+    <trd>&#x433;&#x43D;&#x43E;&#x43C;&#x43E;&#x43D;</trd>,
+    <trd>&#x441;&#x43E;&#x43D;&#x44F;&#x447;&#x43D;&#x438;&#x439; &#x433;&#x43E;&#x434;&#x438;&#x43D;&#x43D;&#x438;&#x43A;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.16 2023/10/15 18:38:19
+revo: transskribo per <pr>
+
+versio 1.13 2022/02/21 08:35:00
+Dmitri Gabinski: + trd be
+
+Revision 1.11  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2012/08/19 00:10:41  revo
+Marc Rausell: + trd ca
+
+Revision 1.8  2011/05/25 13:10:11  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.7  2002/08/12 17:30:59  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/01/09 17:32:12  revo
+-->
+</vortaro>

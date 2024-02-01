@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: seksologi.xml,v 1.8 2023/08/05 17:26:33 revo Exp $">
+<kap>
+  <rad>seksologi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="seksologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="seksologi.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Studo de homaj kondutoj kaj problemoj rilataj al sekso:
+      <ekz>
+        <tld/>o estas la la&ubreve;sistema studado de homa sekseco
+        <fnt><bib>Viki</bib>, <lok><url ref="&Viki;/Seksologio">seksologio</url>,
+        2010-01-25</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_e;&c_k;&c_s;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="cs">sexuologie</trd>
+  <trd lng="en">sexology</trd>
+  <trd lng="fr">sexologie</trd>
+  <trd lng="pl">seksuologia</trd>
+  <trd lng="sk">sexuol&oacute;gia</trd>
+  <trd lng="uk">&c_s;&c_je;&#x43A;&c_s;&#x43E;&#x43B;&#x43E;&c_g;&c_ib;&#x44F;</trd>
+</drv>
+
+<drv mrk="seksologi.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="seksologi.0isto.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Fakulo pri <ref tip="vid" cel="seksologi.0o.MED"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_e;&c_k;&c_s;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="en">sexologist</trd>
+  <trd lng="fr">sexologue</trd>
+  <trd lng="pl">seksuolog</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2023/08/05 17:26:33
+Vito Redsky: +trd pl 
+
+versio 1.7 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.5 2022/02/17 17:41:18
+Noam Mohr: +trd en
+
+versio 1.4 2021/11/15 08:36:06
+Dmitri Gabinski: + trd be
+
+Revision 1.2  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2010/02/04 17:30:54  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

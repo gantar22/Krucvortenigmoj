@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: opci.xml,v 1.10 2023/11/23 15:27:49 revo Exp $">
+<kap>
+  <rad>opci</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="opci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="opci.0o.KOMUNE">
+    <dif>
+      Unu el la pluraj <ref tip="vid" cel="ebl.0o">eblaj</ref>
+      decidoj en <ref tip="malprt" cel="elekt.0o">elekto</ref>:
+      <ekz>
+        el &ccirc;iuj <tld/>oj, oni elektos la plej bonan, kiu anka&ubreve; estas la plej
+        malmultekosta
+        <fnt>
+          <aut>C. Piron</aut>
+          <vrk><url ref="claudepiron.free.fr/">Amo povas mortigi lingvon</url></vrk>
+          <lok>[2003?]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        unu <tld/>o konsistas el strikta &scirc;parado, la alia el grandigo de
+        la &scirc;uldoj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+        <ref cel="altern2.0o">alternativo</ref>,
+    <ref cel="ebl.0eco">ebleco</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_a;&c_r;&c_y;&c_ja;&c_n;&c_t;</trd>,
+      <trd>&c_m;&c_a;&c_g;&c_ch;&c_y;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_o;&c_p;&c_c;&c_y;&c_ja;</trd>
+    </trdgrp>
+    <trd lng="en">option</trd>
+
+    <trd lng="pl">opcja</trd>
+  </snc>
+  <snc mrk="opci.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Akirita rajto a&ccirc;eti a&ubreve; ricevi ion je difinitaj kondi&ccirc;oj je estonta
+      dato:
+      <ekz>
+        <tld/>o pri a&ccirc;eto de akcioj, valorpaperoj.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a;</trd>
+    <trd lng="en">contract option</trd>
+  </snc>
+  <trd lng="fr">option</trd>
+  <trdgrp lng="ja">
+    <trd>&#36984;&#x629E;&#x306E;&#x81EA;&#30001;  <pr>&#x305B;&#12435;&#x305F;&#x304F;&#x306E;&#12376;&#12422;&#12358;</pr></trd>,
+    <trd>&#36984;&#x629E;&#x80A2;  <pr>&#x305B;&#12435;&#x305F;&#x304F;&#12375;</pr></trd>,
+    <trd>&#36984;&#x629E;&#x6A29;  <pr>&#x305B;&#12435;&#x305F;&#x304F;&#12369;&#12435;</pr></trd>,
+    <trd>&#36984;&#x629E;&#x58F2;&#x8CB7;  <pr>&#x305B;&#12435;&#x305F;&#x304F;&#12400;&#12356;&#12400;&#12356;</pr></trd>,
+    <trd>&#x30AA;&#x30D7;&#x30B7;&#x30E7;&#x30F3;  <pr>&#x304A;&#12407;&#12375;&#12423;&#12435;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43F;&c_t;&c_a;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&#x43E;&#x43F;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&#x43C;&#x43E;&c_zh;&#x43B;&c_i;&c_v;&c_ib;&c_s;&c_t;&#x44C; &c_v;&c_i;&c_b;&#x43E;&c_r;&c_u;</trd>,
+    <trd>&#x43E;&#x43F;&c_c;&c_ib;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="opci.akcia0o">
+  <kap>akcia <tld/>o, <var><kap>valorpapera <tld/>o</kap></var></kap>
+  <snc mrk="opci.akcia0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="vid" cel="akci.0o">Akcio</ref>, kiun oni rezervas
+      kaj poste libervole a&ccirc;etos a&ubreve; ne a&ccirc;etos la&ubreve; ne&scirc;an&gcirc;ita prezo,
+      profitante pro la intertempa plivalori&gcirc;o:
+      <ekz>
+        profitanto en plano de valorpaperaj <tld/>oj neniam povas perdi
+        sian veta&jcirc;on, pro la jena evidenta kialo: li ne tuje a&ccirc;etas la
+        <tld/>ojn, kontenti&gcirc;ante atendi, ke ilia kurzo superos tiun de la
+        anta&ubreve;fiksita prezo
+        <fnt>
+          <aut>B. Cassen, trad. J. Hasbun</aut>,
+          <vrk><url ref="&Mondediplo;article799.html">
+          La dibo&ccirc;oj de la fimastroj</url></vrk>,
+          <lok>Le Monde diplomatique, 2003-08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_c;&c_y;&c_jo;&c_n;</trd>
+  <trd lng="en">stock option</trd>
+  <trdgrp lng="fr">
+    <trd>option financi&egrave;re</trd>,
+    <trd>stock-option</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.10 2023/11/23 15:27:49
+Bradford Carl Smith: Aldonu anglajn tradukojn por "opcio". 
+
+versio 1.9 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.7 2023/04/21 09:26:01
+Dmitri Gabinski: + trd be
+
+versio 1.6 2022/12/29 22:28:45
+Wolfram Diestel: +ref
+
+versio 1.5 2022/05/01 17:17:01
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.3 2020/07/19 16:32:33
+Jeromo Vasxe: + kk ref, + ekz, + akcia ~o
+
+Revision 1.1  2016/05/27 15:10:25  revo
+Damien Brucker: nova artikolo
+-->
+</vortaro>

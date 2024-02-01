@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: klon.xml,v 1.21 2023/12/03 09:58:50 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>klon</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="klon.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="klon.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Preciza genetika kopio de vivanta esta&jcirc;o:
+      <ekz>
+        du homaj <tld/>oj havus la saman genetikan
+        strukturon, sed probable alian personecon;
+      </ekz>
+      <ekz>
+        oni atingis progreson en esploro pri <tld/>oj kaj
+        trunkaj &ccirc;eloj
+        <fnt><aut>Rimo Liu, &Ccirc;inujo</aut></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_l;&c_o;&c_n;</trd>
+    <trd lng="bg">&c_k;&c_l;&c_o;&c_n;</trd>
+    <trd lng="de">Klon</trd>
+    <trd lng="en">clone</trd>
+    <trd lng="es">clon</trd>
+    <trd lng="fr">clone<klr tip="ind"> (biol.)</klr></trd>
+    <trd lng="hu">kl&oacute;n</trd>
+    <trd lng="nl">kloon</trd>
+    <trd lng="pl">klon</trd>
+    <trd lng="ru">&c_k;&c_l;&c_o;&c_n;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x514B;&#x9686; <pr>k&#xE8;l&#xF3;ng</pr></trd>,
+    <trd>&#x514B;&#x9686;&#x4EBA; <pr>k&#xE8;l&#xF3;ngr&#xE9;n</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="klon.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Preciza imita&jcirc;o de komputila programo a&ubreve; aparato,
+      realigita la&ubreve; dokumentaro a&ubreve; per
+      retroprojektado, plej ofte pli malmultekosta ol
+      la originalo:
+      <ekz>
+        operaciuma kerno por la GNU-a <tld/>o de Unikso
+        <fnt><bib>KompLeks</bib></fnt>;
+      </ekz>
+      <ekz>
+        la entrepreno Promax Technology prezentis
+        Macintosh-<tld/>on kun rapideco de 400 MHz
+        <fnt><aut>Peter Coppens</aut></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Nachahmung</trd>,
+      <trd>Clone</trd>
+    </trdgrp>
+    <trd lng="be">&c_k;&c_l;&c_o;&c_n;</trd>
+    <trd lng="bg">&c_k;&c_l;&c_o;&c_n;</trd>
+    <trd lng="en">clone</trd>
+    <trd lng="es">clon</trd>
+    <trd lng="fr">clone<klr tip="ind"> (info.)</klr></trd>
+    <trd lng="hu">kl&oacute;n</trd>
+    <trd lng="nl">kloon</trd>
+    <trd lng="pl">klon</trd>
+    <trd lng="ru">&c_k;&c_l;&c_o;&c_n;</trd>
+  </snc>
+  <ref tip="sin" cel="sozi.0o">sozio</ref>
+  <trd lng="ca">clon</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AF;&#x30ED;&#x30FC;&#x30F3;</trd>,
+    <trd>&#x6804;&#x990A;&#x7CFB;  <pr>&#x3048;&#x3044;&#x3088;&#x3046;&#x3051;&#x3044;</pr></trd>,
+    <trd>&#x5206;&#x679D;&#x7CFB;  <pr>&#x3076;&#x3093;&#x3048;&#x3060;&#x3051;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&#x43A;&#x43B;&#x43E;&#x43D;</trd>
+</drv>
+
+<drv mrk="klon.0i">
+  <kap><ofc>9</ofc><tld/>i</kap>
+  <uzo tip="fak">BIO</uzo>
+  <snc mrk="klon.0i.BIO">
+    <dif>
+      Krei <tld/>on <sncref ref="klon.0o.BIO"/>:
+      <ekz>
+        sciencistoj sukcese <tld/>is porkon, unu el la plej malfacile
+        <tld/>eblaj bestoj
+        <fnt><aut>Rimo Liu, &Ccirc;inujo</aut></fnt>;
+      </ekz>
+      <ekz>
+        ekde la sukcesaj eksperimentoj de <tld/>ado
+        avertas moralistoj: genoj ne tiom interesas
+        sciencistojn kiom komercistojn
+        <fnt><aut>Stefan Maul</aut>:
+        <vrk><url ref="&Monato;/2000/007123.html">Defio
+        a&ubreve; devio de politiko</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni elprenas unu korpo&ccirc;elon el pando kaj
+        enmetas &gcirc;in en senkernigitan ov&ccirc;elon de
+        alispeca besto por tiel krei sanan kaj
+        aktivan <tld/>itan pandidon
+        <fnt><aut>Peng Jianjun</aut>:
+        <vrk><url ref="&Monato;/2001/007372.html">Kloni
+        grandan pandon</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2001/04</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_l;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="bg">&c_k;&c_l;&c_o;&c_n;&c_i;&c_r;&c_a;&c_m;</trd>
+    <trd lng="ca">clonar</trd>
+    <trd lng="de">klonen</trd>
+    <trd lng="en">clone</trd>
+    <trd lng="es">clonar</trd>
+    <trd lng="fr">cloner</trd>
+    <trd lng="hu">kl&oacute;noz</trd>
+    <trd lng="nl">klonen</trd>
+    <trd lng="pl">klonowa&cacute;</trd>
+    <trd lng="ru">&c_k;&c_l;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    <trd lng="zh">&#x590D;&#x5236; <pr>f&#xF9;zh&#xEC;</pr></trd>
+</snc>
+  <trd lng="ja">&#x30AF;&#x30ED;&#x30FC;&#x30F3;&#x3092;&#x4F5C;&#x308B;  <pr>&#x304F;&#x308D;&#x30FC;&#x3093;&#x3092;&#x3064;&#x304F;&#x308B;</pr></trd>
+  <trd lng="uk">&#x43A;&#x43B;&#x43E;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+<adm>
+  En PIV2 la radiko havas verban karakteron.
+  <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log$
+versio 1.20 2023/10/18 16:50:28
+revo: transskribo per <pr>
+
+versio 1.18 2023/04/10 06:31:28
+Paul Peeraerts: korekto de erara Monato-ref
+
+Revision 1.15  2018/08/07 22:10:26  revo
+Michel Cantigneaux: aperas unue en PIV1 (1970), oficialaj en 9OA (2007)
+
+Revision 1.14  2013/09/19 15:10:19  revo
+Joop Eggen: +trd bg
+
+Revision 1.13  2011/12/08 12:10:13  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.12  2009/08/30 16:31:52  revo
+Paul Peeraerts: ligilo al sozio
+
+Revision 1.11  2009/03/01 17:32:33  revo
+Russ Williams: + 9OA
+
+Revision 1.10  2006/01/09 17:34:50  revo
+-->
+</vortaro>

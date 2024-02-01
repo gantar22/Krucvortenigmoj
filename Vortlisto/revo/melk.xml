@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: melk.xml,v 1.24 2023/10/19 15:13:16 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>melk</rad>/i
+    </kap>
+
+    <drv mrk="melk.0i">
+      <kap><ofc>*</ofc><tld/>i</kap>
+      <gra><vspec>tr</vspec></gra>
+      <snc>
+        <dif>
+          Eltiri per premado lakton el mamoj de besto:
+          <ekz>
+            <tld/>i bovinon, kaprinon;
+          </ekz><ekz>
+            <uzo tip="stl">FIG</uzo>
+            li sukcesis <tld/>i monon el la grupo;
+          </ekz><ekz>
+            <uzo tip="stl">FIG</uzo>
+            <tld/>i virkapron<fnt>Z</fnt>
+            <klr>(vane peni, provi neebla&jcirc;on)</klr>.
+          </ekz>
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="van.0e">vane</ref>.
+        </refgrp>
+      </snc>
+  <trd lng="be">&c_d;&c_a;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="br">goro</trd>
+  <trd lng="cs">dojiti <klr>(ml&eacute;ko)</klr></trd>
+  <trd lng="de">melken</trd>
+  <trd lng="en">milk</trd>
+  <trd lng="es">orde&ntilde;ar</trd>
+  <trd lng="fr">traire</trd>
+  <trd lng="hu">fej</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E73;&#x3092;&#x643E;&#x308B;  <pr>&#x3061;&#x3061;&#x3092;&#x3057;&#x307C;&#x308B;</pr></trd>,
+    <trd>&#x643E;&#x308A;&#x53D6;&#x308B;  <pr>&#x3057;&#x307C;&#x308A;&#x3068;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">melken</trd>
+  <trd lng="pl">doi&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>ordenhar</trd>,
+    <trd>mungir</trd>,
+    <trd>tirar <ind>leite</ind> a</trd>    
+  </trdgrp>
+  <trd lng="ro">mulge</trd>
+  <trd lng="ru">&c_d;&c_o;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">doji&tcaron; <klr>(mlieko)</klr></trd>
+  <trd lng="sv">mj&ouml;lka</trd>
+  <trd lng="uk">&c_d;&#x43E;&c_ji;&c_t;&c_i;</trd>
+</drv>
+
+    <drv mrk="melk.0ebla">
+      <kap><tld/>ebla</kap>
+      <snc>
+        <dif>
+          (Ordinare, pri hejmbestoj) Produktanta lakton:
+          <ekz>
+            <tld/>ebla bovino, kaprino, &ccirc;evalino, kamelino;
+          </ekz><ekz>
+            <uzo tip="stl">FIG</uzo>
+            <uzo tip="stl">FRAZ</uzo>
+            senfine <tld/>ebla bovino<fnt>Z</fnt>
+            <klr>(ekspluatata persono a&ubreve; afero, el kiu oni senmezure kaj
+              senfine tiras profiton)</klr>.
+          </ekz>
+        </dif>
+      </snc>
+      <trd lng="be">&c_d;&c_o;&c_j;&c_n;&c_y;</trd>
+      <trd lng="pl">dojna</trd>
+      <trd lng="ro">de muls</trd>
+      <trd lng="ru">&c_d;&c_o;&c_j;&c_n;&c_y;&c_j;</trd>
+    </drv>
+
+  </art>
+  <!--
+  $Log$
+versio 1.24 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.22 2022/08/08 14:32:18
+Dmitri Gabinski: + trd be
+
+versio 1.20 2020/08/16 20:10:33
+Vito Redsky: +trd pl +trd ro
+
+  Revision 1.18  2015/06/29 16:33:20  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.17  2010/08/25 16:30:41  revo
+  Agustin Garcia Lopez: +trd es
+
+  Revision 1.16  2006/07/31 16:32:19  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.15  2005/12/14 17:30:58  revo
+  Sergio Pokrovskij: +~ebla
+
+  Revision 1.14  2005/07/07 16:33:26  revo
+-->
+</vortaro>

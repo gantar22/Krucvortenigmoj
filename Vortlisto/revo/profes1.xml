@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: profes1.xml,v 1.23 2023/10/20 16:38:17 revo Exp $">
+    <kap>
+      <ofc>1</ofc>
+      <rad>profesor</rad>/o
+    </kap>
+
+    <drv mrk="profes1.0o">
+      <kap><tld/>o</kap>
+      <uzo tip="fak">PED</uzo>
+      <snc mrk="profes1.0o.PED">
+        <dif>
+          Altranga <ref tip="super" cel="instru.0isto.PED">instruisto</ref>
+          en supera lernejo, pli altranga ol
+          <ref cel="docent.0o">docento</ref>; normale, por ricevi la
+          pedagogan gradon de <tld/>o oni bezonas havi la sciencistan
+          gradon <ref cel="doktor.0o.SCI">doktoro</ref>:
+          <ekz>
+            <tld/>o pri &hcirc;emio, lingvistiko;
+          </ekz><ekz>
+            akiri <tld/>econ <klr>(la gradon <tld/>o)</klr>;
+          </ekz><ekz>
+            universitata <tld/>o pri genetiko
+            <fnt><aut>Marteno Ecott</aut>,
+              <vrk>Himno al toleremo</vrk>, <bib>Monato</bib>,
+              <lok>jaro 1999a, numero 5a, p. 18a</lok></fnt>.
+          </ekz>
+        </dif>
+        <trd lng="be">&c_p;&c_r;&c_a;&c_f;&c_e;&c_s;&c_a;&c_r;</trd>
+        <trd lng="bg">&c_p;&c_r;&c_o;&c_f;&c_je;&c_s;&c_o;&c_r;</trd>
+        <trd lng="en">professor</trd>
+        <trd lng="de">Professor</trd>
+        <trdgrp lng="fa">
+          <trd>&a_A;&a_s;&a_t;&a_A;&a_d;</trd>,
+          <trd>&f_p;&a_r;&a_w;&a_f;&a_s;&a_w;&a_r;</trd>
+        </trdgrp>
+        <trd lng="nl">professor</trd>
+        <trd lng="ru">&c_p;&c_r;&c_o;&c_f;&c_je;&c_s;&c_s;&c_o;&c_r;</trd>
+        <trd lng="sv">professor</trd>
+      </snc>
+      <snc mrk="profes1.0o.EVI">
+        <uzo tip="stl">EVI</uzo>
+        <dif>
+          En latinidlingvaj landoj, mez-lerneja a&ubreve; e&ccirc; baz-lerneja
+          instruisto:
+          <ekz>
+            gimnazia <tld/>o;
+          </ekz>
+        </dif>
+        <rim>
+          &Ccirc;i tiu senco estas tre misgvida internacie, kaj en Esperanto
+          nepre evitida. En PIV2 &gcirc;i ne aperas.
+          <aut>Sergio Pokrovskij</aut>
+        </rim>
+        <trd lng="en">teacher</trd>
+        <trd lng="nl">leraar<klr tip="ind"> (ontr.)</klr></trd>
+      </snc>
+  <trd lng="cs">profesor</trd>
+  <trdgrp lng="fr">
+        <trd>professeur</trd>
+      </trdgrp>
+  <trdgrp lng="hu">
+        <trd>tan&aacute;r</trd>,
+        <trd>professzor</trd>
+  </trdgrp>
+  <trd lng="ja">&#x6559;&#x6388;  <pr>&#x304D;&#x3087;&#x3046;&#x3058;&#x3085;</pr></trd>
+  <trd lng="pl">profesor</trd>    
+  <trd lng="pt">professor <klr>(universit&aacute;rio)</klr></trd>
+  <trd lng="ro">profesor</trd>
+  <trd lng="sk">profesor</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_f;&c_je;&c_s;&#x43E;&c_r;</trd>,
+    <trd>&c_v;&c_i;&#x43A;&#x43B;&c_a;&c_d;&c_a;&c_ch;</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.23 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.21 2022/06/02 22:30:26
+Vito Redsky: + trd pl + trd ro 
+
+  Revision 1.18  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:40:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.16  2013/07/26 10:10:15  revo
+  Joop Eggen: +trd bg
+
+  Revision 1.15  2010/08/12 16:30:20  revo
+  Behnam Tabatabai: +trd fa
+
+  Revision 1.14  2009/10/30 17:30:48  revo
+  Paul Peeraerts: +nl
+
+  Revision 1.13  2007/04/25 16:30:32  revo
+-->
+</vortaro>

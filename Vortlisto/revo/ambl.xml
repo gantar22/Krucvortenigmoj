@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ambl.xml,v 1.24 2023/10/28 08:33:05 revo Exp $">
+<kap>
+  <rad>ambl</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ambl.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="ambl.0i.RAJ">
+    <dif>
+      <ref tip="super" cel="ir.0i">Iri</ref> en aparta maniero de kvarpieduloj,
+      levante samtempe amba&ubreve; piedojn de sama flanko, tipa ekz. &ccirc;e kameloj a&ubreve;
+      kiam oni surgrimpas <ref cel="sxtup.0etaro">&scirc;tupetaro</ref>n:
+      <ekz>
+        ni suden <tld/>is sur sableca voja&ccirc;o
+        <fnt><aut>J. Ribillard</aut>, <vrk>Vagado sub palmoj</vrk>, 
+        <lok>UEA, 1956</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>is sur &ccirc;eval' kaj post mi la dolor'...
+        <fnt>
+          <aut>K. de Kalocsay</aut>
+          <vrk><url ref="http://www.tekstoj.nl/lm/lm23-1/renkonto.html">Renkonto al la
+          luno</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la hundo <tld/>is supren la&ubreve; la &scirc;tupoj
+        <fnt>
+          <aut>Arthur Omre</aut>
+          <vrk><url ref="&DonH;Revuoj/np/np5801/hundo.html">La
+          hundo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        lar&gcirc;mova giganto <tld/>is el unu el la tendoj, oscedante kaj frotante el okuloj
+        la dormon
+        <fnt>
+          <aut>Jack London</aut>
+          <vrk><url ref="&DonH;Revuoj/nlr/nlr14/dio.html">Dio
+          de liaj prapatroj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="galop.0i.RAJ">galopi <sncref/></ref>,
+      <ref cel="pasx.0i">pa&scirc;i</ref>,
+      <ref cel="trot.0i.RAJ">troti <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_ib;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_ib;&c_n;&c_a;&c_h;&c_a;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_ju;</ind></trd>
+  <trd lng="cs">j&iacute;t mimochodn&ecaron;</trd>
+  <trd lng="fr">ambler</trd>
+  <trd lng="ja">&#x5074;&#x5BFE;&#x6B69;&#x3067;&#x9032;&#x3080;  <pr>&#x304C;&#x308F;&#x305F;&#x3044;&#x3075;&#x3067;&#x3059;&#x3059;&#x3080;</pr></trd>
+  <trd lng="sk">&iacute;s&tcaron; mimochodne</trd>
+  <trd lng="uk">&c_j;&c_t;&c_i; <ind>&c_ib;&#x43D;&#x43E;&c_h;&c_ib;&c_d;&c_d;&#x44E;</ind></trd>
+</drv>
+
+<drv mrk="ambl.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ambl.0o.RAJ">
+    <dif>
+      Irmaniero de kvarpiedulo, kiu <tld/>as.
+    </dif>
+    <trdgrp lng="zh">
+    <trd>&#x6E9C;&#x8FBE; <pr>li&#xF9;da</pr></trd>,
+    <trd>&#x6E9C;&#x9054; <pr>li&#xF9;da</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_ib;&c_n;&c_a;&c_h;&c_a;&c_d;&c_z;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>jinochod</trd>,
+    <trd>mimochod</trd>
+  </trdgrp>
+  <trd lng="de">Passgang</trd>
+  <trd lng="en">amble</trd>
+  <trd lng="fr">amble</trd>
+  <trd lng="he">&#x5D4;&#x5D9;&#x5DC;&#x5D5;&#x5DA; &#x5DE;&#x5EA;&#x5D5;&#x5DF; &#x5E9;&#x5DC;
+  &#x5E1;&#x5D5;&#x5E1;</trd>
+  <trd lng="ja">&#x5074;&#x5BFE;&#x6B69;  <pr>&#x304C;&#x308F;&#x305F;&#x3044;&#x3075;</pr></trd>
+  <trd lng="nl">telgang</trd>
+  <trd lng="ru">&c_i;&c_n;&c_o;&c_h;&c_o;&c_d;&c_mol;</trd>
+  <trd lng="sk">inochod</trd>
+  <trd lng="uk">&c_ib;&#x43D;&#x43E;&c_h;&c_ib;&c_d;&#x44C;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.21 2023/01/30 09:28:11
+Dmitri Gabinski: + trd be
+
+versio 1.20 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.19 2022/03/16 16:54:12
+Wolfram Diestel: kor. trd
+
+versio 1.16 2020/09/04 09:11:08
+Wolfram Diestel: art/kap verba
+
+versio 1.15 2020/08/08 20:32:25
+Wolfram Diestel: +ekz-oj, +dif: kameloj, surgrimpi
+
+Revision 1.13  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2009/11/22 17:30:24  revo
+-->
+</vortaro>

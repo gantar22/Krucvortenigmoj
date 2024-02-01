@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tek.xml,v 1.30 2023/10/21 13:02:26 revo Exp $">
+<kap>
+  <rad>tek</rad>/o
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="tek.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tek.0o.KOMUNE">
+    <dif>
+      Firma <ref tip="super" cel="uj.0o">ujo</ref> el ledo a&ubreve; simila materialo 
+      por mane transporti dokumentojn, aktojn, lernolibrojn ks,
+      ofte kun tenilo a&ubreve; rimeno kaj seruro:
+      <ekz>
+        Jano tiris el sia <tld/>o kvin farmacia&jcirc;ojn
+        <fnt>
+          <bib>ChC</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la junulo gape vidis la trian knabon profiti de la &gcirc;enerala konfuzo por
+        nerimarkite inter&scirc;an&gcirc;i la <tld/>on
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Nudokrudov</nom> forigis la sigelon de la pordo de la kabineto, prenis
+        el sia <tld/>o faldmezurilon kaj pa&scirc;is en la kabineton
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 9a</lok></fnt>;
+      </ekz>
+      <ekz>
+        po&scirc;komputilon mi povas kunhavi &ccirc;iam kaj &ccirc;ie <klr>[sed]</klr>, 
+        <ref cel="komput.tek0ilo"><tld/>komputilo</ref>
+        postulas sakon a&ubreve; mem estas <tld/>o
+        <fnt>
+          <bib>LOdE</bib>
+          <aut>Sergio Pokrovskij</aut>
+          <vrk>Po&scirc;komputilo</vrk>
+          <lok>2002, &#x2116; 10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="paper.0ujo.dosiera">paperujo<sncref/></ref>
+    <refgrp tip="vid">
+       <ref cel="akt.0ujo">aktujo</ref>,
+       <ref cel="dosier.uj0o">dosierujo</ref>,
+       <ref cel="posx.0o">po&scirc;o</ref>,
+       <ref cel="tasx.0o">ta&scirc;o</ref>,
+       <ref cel="tornis.0o">tornistro</ref>,
+       <ref cel="valiz.0o">valizo</ref>
+    </refgrp>
+    <bld lok="&WCU;/thumb/a/a6/Aktentasche.JPG/640px-Aktentasche.JPG" prm="PD"><tld/>o portata subbrake
+        <fnt>
+          <aut>Bukk, propra verko</aut>
+          <lok><url ref="&WCW;/File:Aktentasche.JPG">&WCW;/File:Aktentasche.JPG</url></lok>
+        </fnt>
+    </bld>
+    <trdgrp lng="be">
+      <trd>&c_t;&c_e;&c_ch;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_a;&c_p;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_a;&c_r;&c_t;&c_f;&c_e;&c_l;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_k;&c_u;&c_f;&c_a;&c_r;&c_ch;&c_je;</trd>
+    <trd lng="bo">&t_pha;&t_da;&t_tsheg;&t_ga;&t_naro;&t_ga;&t_tsheg;</trd>
+    <trd lng="cs">sb&iacute;rka dokument&uring;</trd>
+    <trd lng="de">Aktentasche</trd>
+    <trd lng="en">briefcase</trd>
+    <trdgrp lng="es">
+      <trd>portafolios</trd>,
+      <trd>carpeta</trd>,
+      <trd>porta-documentos</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>attach&eacute;-case</trd>,
+      <trd>cartable</trd>,
+      <trd>porte-document</trd>,
+      <trd>serviette<klr> (porte-document)</klr></trd>,
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>aktat&aacute;ska</trd>,
+      <trd>iratt&aacute;rca</trd>
+    </trdgrp>
+    <trd lng="nl">aktentas</trd>
+    <trdgrp lng="pl">
+      <trd>teka</trd>,
+      <trd>teczka</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>pasta</trd>,
+      <trd>maleta</trd>,
+      <trd>valise</trd>,
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_a;&c_p;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_o;&c_r;&c_t;&c_f;&c_je;&c_l;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="sk">sekr&eacute;ciou vytvoren&aacute; ochrann&aacute; schr&aacute;nka primit&iacute;vnych
+    &zcaron;ivo&ccaron;&iacute;chov</trd>
+    <trdgrp lng="uk">
+      <trd>&c_p;&c_a;&c_p;&c_k;&c_a;</trd>,
+      <trd>&c_t;&c_je;&c_k;&c_a;</trd>,
+      <trd>&c_t;&c_je;&c_ch;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_o;&c_r;&c_t;&c_f;&c_je;&c_l;&c_mol;</trd>,
+      <trd>&c_k;&c_a;&c_p;&c_s;&c_u;&c_l;&c_a;</trd>,
+      <trd>&c_o;&c_b;&c_o;&c_l;&c_o;&c_n;&c_k;&c_a;</trd>,
+      <trd>&c_z;&c_b;&c_ib;&c_r;&c_k;&c_a;</trd>,
+      <trd>&c_k;&c_o;&c_l;&c_je;&c_k;&c_c;&c_ib;&c_ja;</trd>,
+      <trd>&c_s;&c_h;&c_o;&c_v;&c_i;&c_shch;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="tek.0o.kolektujo">
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <ref tip="super" cel="kolekt.0ujo">Kolektujo</ref> (a&ubreve; kolekto) de 
+      iuspecaj dokumentoj:
+      <ekz>
+        &scirc;i anka&ubreve; inventis kaj aran&gcirc;is valoran registrado-sistemon por ili
+        <klr>[kiel]</klr> &leftquot;karto<tld/>o&rightquot; <klr>(<ref cel="slip.0aro">sliparo</ref>)</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zofia Banet-Fornalowa</aut>
+          <vrk><url ref="https://www.monato.be/2004/008391.html">Listo de Sendler</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Libro<tld/>o Tokio
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 3 (65)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_d;&c_b;&c_o;&c_r;&c_k;&c_a; &c_d;&c_a;&c_k;&c_u;&c_m;&c_e;&c_n;&c_t;&c_a;&c_w;</trd>,
+      <trd>&c_s;&c_p;&c_r;&c_a;&c_v;&c_a; <klr tip="amb">(&c_p;&c_a;&c_d;&c_b;&c_o;&c_r;&c_k;&c_a;)</klr></trd>,
+      <trd>-&c_t;&c_e;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x624B;&#x63D0;&#x3052;&#x304B;&#x3070;&#x3093;  <pr>&#x3066;&#x3055;&#x3052;&#x304B;&#x3070;&#x3093;</pr></trd>,
+    <trd>&#x66F8;&#x985E;&#x304B;&#x3070;&#x3093;  <pr>&#x3057;&#x3087;&#x308B;&#x3044;&#x304B;&#x3070;&#x3093;</pr></trd>,
+    <trd>&#x66F8;&#x985E;&#x5165;&#x308C;  <pr>&#x3057;&#x3087;&#x308B;&#x3044;&#x3044;&#x308C;</pr></trd>,
+    <trd>&#x30D6;&#x30EA;&#x30FC;&#x30D5;&#x30B1;&#x30FC;&#x30B9;</trd>,
+    <trd>&#x53CE;&#x8535;&#x5EAB;  <pr>&#x3057;&#x3085;&#x3046;&#x305E;&#x3046;&#x3053;</pr></trd>,
+    <trd>&#x8CC7;&#x6599;&#x5BA4;  <pr>&#x3057;&#x308A;&#x3087;&#x3046;&#x3057;&#x3064;</pr></trd>,
+    <trd>&#x5B50;&#x56A2;  <pr>&#x3057;&#x306E;&#x3046;</pr></trd>,
+    <trd>&#x5305;&#x819C;  <pr>&#x307B;&#x3046;&#x307E;&#x304F;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.28 2023/06/20 08:30:35
+Dmitri Gabinski: + trd be
+
+versio 1.27 2023/05/23 20:24:20
+Wolfram Diestel: +snc kolektujo
+
+versio 1.26 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2021/05/06 19:02:11
+Wolfram Diestel: +ref
+
+versio 1.22 2021/05/06 07:00:28
+Wolfram Diestel: +ekz-oj, ref-oj, bld
+
+Revision 1.20  2016/09/08 09:10:13  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.19  2015/08/30 12:10:14  revo
+-->
+</vortaro>

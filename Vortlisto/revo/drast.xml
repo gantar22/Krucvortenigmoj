@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: drast.xml,v 1.29 2024/01/11 22:30:39 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>drast</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="drast.0a">
+  <kap><ofc>9</ofc><tld/>a</kap>
+  <snc mrk="drast.0a.KOMUNE">
+    <dif>
+      Fortege, <ref tip="sin" cel="mild.mal0a">malmilde</ref>, rapide,
+      <ref tip="sin" cel="radika.0a">radikale</ref> efikanta:
+      <ekz>
+        <tld/>a medikamento, &scirc;an&gcirc;o, kresko, esprimo
+        <fnt><bib>OA9</bib></fnt>,
+      </ekz>
+      <ekz>
+        <tld/>a kontrasto <klr>(kreanta fortan impreson)</klr>
+        <fnt><bib>OA9</bib></fnt>.
+      </ekz>
+      <ekz>
+        tio ja estas <tld/>a laksigilo
+        <fnt>
+          <bib>KrB</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni tradra&scirc;as min, kaj sufi&ccirc;e <tld/>e
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Japanujo <klr>[&#8230;]</klr> sukcesis per <tld/>a utiligo de naskolimigo kaj aliaj
+        rimedoj jam stabiligi sian lo&gcirc;antaron
+        <fnt>
+          <bib>AzS</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la optimismo pri e&ubreve;ropa estonteco <tld/>e falis, de 95&#x202F;% anta&ubreve; kelkaj jaroj &gcirc;is
+        45&#x202F;%
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2015/011460.php">Denove elmigrado</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="abrupt.0a">abrupta</ref>,
+      <ref cel="akr.0a.vigla">akra<sncref/></ref>,
+      <ref cel="drakon.0a">drakona</ref>,
+      <ref cel="efik.0a">efika</ref>,
+      <ref cel="energi.0a">energia</ref>,
+      <ref cel="grav.0a">grava</ref>,
+      <ref cel="frap.okul0a">okulfrapa</ref>,
+      <ref cel="sever.0a">severa</ref>,
+      <ref cel="rigor.0a">rigora</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_o;&c_c;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_o;&c_c;&c_n;&c_a;&c_d;&c_z;&c_je;&c_ju;&c_ch;&c_y;</trd>
+    <trd>&c_r;&c_e;&c_z;&c_k;&c_ib;</trd>,
+    <trd>&c_e;&c_f;&c_e;&c_k;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>drastisch</trd>,
+    <trd>gut einschlagend</trd>
+    <trd>wirksam</trd>,
+    <trd>stark</trd>,
+    <trd>radikal</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>drastic</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>dr&aacute;stico</trd>,
+    <trd>radical</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>drastique</trd>
+    <trd>draconien</trd>
+    <trd>frappant</trd>
+    <trd>impressionnant</trd>,
+    <trd>puissant<klr tip="ind"> (tr&egrave;s efficace)</klr></trd>
+    <trd>s&eacute;v&egrave;re<klr tip="ind"> (draconien)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>er&odblac;s hat&aacute;s&uacute;</trd>
+    <trd>er&odblac;s</trd>,
+    <trd>drasztikus</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x85AC;&#x52B9;&#x306E;&#x6FC0;&#12375;&#12356;  <pr>&#12420;&#12387;&#12371;&#12358;&#x306E;&#x306F;&#12370;&#12375;&#12356;</pr></trd>,
+    <trd>&#x5F37;&#x70C8;&#x306A;  <pr>&#x304D;&#12423;&#12358;&#x308C;&#12388;&#x306A;</pr></trd>,
+    <trd>&#x6FC0;&#x70C8;&#x306A;  <pr>&#12370;&#x304D;&#x308C;&#12388;&#x306A;</pr></trd>,
+    <trd>&#x5FB9;&#x5E95;&#30340;&#x306A;  <pr>&#12390;&#12387;&#12390;&#12356;&#12390;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x601D;&#12356;&#20999;&#12387;&#x305F;  <pr>&#x304A;&#12418;&#12356;&#x304D;&#12387;&#x305F;</pr></trd>,
+    <trd>&#x53B3;&#12375;&#12356;  <pr>&#x304D;&#12403;&#12375;&#12356;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">drastisch</trd>
+  <trd lng="pl">drastyczny</trd>
+  <trdgrp lng="pt">
+    <trd>dr&aacute;stico</trd>,
+    <trd>violento</trd>,
+    <trd>en&eacute;rgico</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_i;&c_l;&c_mol;&c_n;&c_o;&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_u;&c_ju;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_je;&c_z;&c_k;&c_i;&c_j;</trd>
+    <trd>&c_v;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_l;&c_ja;&c_ju;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_e;&c_f;&c_f;&c_je;&c_k;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_r;&c_a;&c_s;&c_t;&c_i;&c_ch;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_i;&#x43B;&#x44C;&#x43D;&#x43E; &c_d;&c_ib;&#x44E;&c_ch;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&#x44F;&#x43A;&c_i;&c_j; &c_s;&#x43F;&c_r;&c_a;&c_v;&#x43B;&#x44F;&c_jeu; &c_s;&c_i;&#x43B;&#x44C;&#x43D;&c_je;
+    &c_v;&c_r;&c_a;&c_zh;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_s;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#26681;&#x672C;&#x4E0A; <pr>g&emacron;nb&#x11B;nsh&#xE0;ng</pr></trd>,
+    <trd>&#x901F;&#25928; <pr>s&#xF9;xi&#xE0;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="drast.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="drast.0eco.KOMUNE">
+    <dif>
+      Forta, sendevoji&gcirc;a, eventuale kruda efikado:
+      <ekz>
+        la komikan li regule prezentas kun tia <tld/>eco
+        kaj natureco <klr>[&#8230;]</klr>, ke &ccirc;iuj estas ravitaj
+        <fnt>
+          <aut>T. Mann, trad. K. Schulze</aut>
+          <vrk>Lotte en Weimar</vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_z;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_m;&c_o;&c_c;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&acirc;pret&eacute;</trd>,
+    <trd>rigueur</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="drast.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="drast.0igi.KOMUNE">
+    <dif>
+      Igi <tld/>a, <ref tip="vid" cel="sever.0igi.KOMUNE">severigi</ref>, radikaligi:
+      <ekz>
+        la konservativa registaro, kiu regas en Grekio de anta&ubreve; jaro,
+        iom post iom <tld/>igas <klr>[&#8230;]</klr> la le&gcirc;aron kontra&ubreve; la rifu&gcirc;intoj
+        <fnt>
+          <aut>R. Poort, A. Pe&ccirc;&euml;nkin</aut>
+          <vrk><url ref="http://muzaiko.info/programdetaloj?id=1218">
+          Tutmondaj Nova&jcirc;oj</url></vrk>
+          <lok>Muzaiko, 2020-06-25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">raidir</trd>
+</drv>
+
+<drv mrk="drast.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="drast.mal0a.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="mild.0a">Milda</ref>,
+      <ref tip="vid" cel="iom.0post0a.KOMUNE">iompostioma</ref>,
+      ne tro subita kaj forta:
+      <ekz>
+        <klr>[&#8230;]</klr> modifi la sistemon mal<tld/>e
+        <fnt>
+          <aut>B. Vaha</aut>,
+          <vrk>Simplaj komplika&jcirc;oj</vrk>,
+          <lok><url ref="http://ilei.info/ipr/ipr_1997_3.htm">
+          Internacia Pedagogia Revuo, 1997:3</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="grad.0a.iompostioma">grada</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ja;&c_k;&c_k;&c_ib;</trd>,
+    <trd>&c_n;&c_ja;&c_m;&c_o;&c_c;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_r;&c_e;&c_z;&c_k;&c_ib;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>allm&auml;hlich</trd>,
+    <trd>graduell</trd>,
+    <trd>vorsichtig</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>paulatino</trd>,
+    <trd>gradual</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>graduel</trd>,
+    <trd>retenu<klr> (mod&eacute;r&eacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>delilkatny</trd>,
+    <trd>spokojny</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#36880;&#x6B21; <pr>zh&#xFA;c&#xEC;</pr></trd>,
+    <trd>&#36880;&#x6E10; <pr>zh&#xFA;ji&#xE0;n</pr></trd>,
+    <trd>&#x6E10;&#x6B21; <pr>ji&#xE0;nc&#xEC;</pr></trd>,
+    <trd>&#x65E5;&#x76CA;&#x589E;&#x591A;&#22320; <pr>r&#xEC;y&#xEC;z&emacron;ngdu&#x14D;de</pr></trd>,
+    <trd>&#x6E10; <pr>ji&#xE0;n</pr></trd>,
+    <trd>&#20873;&#20873; <pr>r&#x1CE;nr&#x1CE;n</pr></trd>,
+    <trd>&#20840;&#x80FD; <pr>qu&#xE1;nn&#xE9;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2024/01/11 22:30:39
+Jeromo Vasxe: + ~igi
+
+versio 1.27 2023/10/14 14:40:07
+revo: transskribo per <pr>
+
+versio 1.26 2023/10/08 18:33:35
+revo: transskribo per <pr>
+
+versio 1.24 2022/05/15 09:31:58
+Wolfram Diestel: +ref
+
+versio 1.23 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2022/01/03 19:25:27
+Dmitri Gabinski: + trd be
+
+versio 1.20 2021/03/21 17:25:31
+Wolfram Diestel: ekz-oj, ref-oj
+
+Revision 1.18  2015/01/02 11:10:15  revo
+-->
+</vortaro>

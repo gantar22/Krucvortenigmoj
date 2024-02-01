@@ -1,0 +1,883 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: senc.xml,v 1.127 2023/12/12 20:10:27 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>senc</rad>/o
+</kap>
+
+<drv mrk="senc.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="senc.0o.de_vorto">
+    <dif>
+      Ideo pri tio, kion esprimas vorto a&ubreve; frazo:
+      <ekz>
+        la vorton &leftquot;&scirc;ati&rightquot; mi uzas ordinare en la <tld/>o de &leftquot;rigardi kiel valoran, kiel
+        gravan&rightquot;
+        <fnt>
+          <bib>LR</bib>
+          <lok>2. Vortuzo</lok>
+        </fnt>;
+      </ekz><ekz>
+        la <tld/>o de amba&ubreve; vortoj estas malsama
+        <fnt>
+          <bib>LR</bib>
+          <lok>9. Refleksivaj pronomoj</lok>
+        </fnt>;
+      </ekz><ekz>
+        <klr>[sen]</klr> la akuzativo <klr>[&#8230;]</klr> la <tld/>o ofte estus ne klara
+        <fnt>
+          <bib>LR</bib>
+          <lok>5. Kazosintakso</lok>
+        </fnt>;
+      </ekz><ekz>
+        kelkaj verboj havas duoblan <tld/>on
+        <fnt>
+          <bib>LR</bib>
+          <lok>11. Verboj</lok>
+        </fnt>;
+      </ekz><ekz>
+        en la frazo &leftquot;la akvo plenigas la kru&ccirc;on&rightquot; la <tld/>o diras al ni, ke la sufikso
+        &leftquot;ig&rightquot; estas necesa
+        <fnt>
+          <bib>LR</bib>
+          <lok>1. Vortfarado</lok>
+        </fnt>;
+      </ekz><ekz>
+        la <tld/>o ne montras al ni, kian prepozicion uzi
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 29</lok>
+        </fnt>;
+      </ekz><ekz>
+        la akuzativo en nia lingvo <klr>[&#8230;]</klr> dependas <klr>[&#8230;]</klr> nur de la
+        <tld/>o
+        <fnt>
+          <bib>LR</bib>
+          <lok>5. Kazosintakso</lok>
+        </fnt>;
+      </ekz><ekz>
+        li <klr>[&#8230;]</klr> klarigis al mi la <tld/>on de la dirita&jcirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 7:16</lok>
+        </fnt>;
+      </ekz><ekz>
+        tia ekzameno ne estas ekzameno en la propra <tld/>o
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        li estis homo en plej pura <tld/>o
+        <fnt><bib>Hamlet</bib></fnt>;
+      </ekz><ekz>
+        metafora <tld/>o.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="signif.0o">signifo</ref>
+    <trdgrp lng="he">
+      <trd>&pe;&yod;&resh;&vav;&shin;</trd>,
+      <trd>&mem;&vav;&bet;&fnun;</trd>
+    </trdgrp>
+    <trd lng="be">&c_s;&c_e;&c_n;&c_s;</trd>
+    <trd lng="cs">smysl (&ccaron;eho)</trd>
+    <trdgrp lng="de">
+      <trd>Sinn</trd>,
+      <trd>Bedeutung</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>sense</trd>,
+      <trd>meaning</trd>
+    </trdgrp>
+    <trd lng="es">sentido</trd>
+    <trd lng="fr">sens<klr tip="ind"> (signification)</klr></trd>
+    <trd lng="he">&mem;&shin;&mem;&ayin;&vav;&tav;</trd>
+    <trd lng="hu">jelent&eacute;s</trd>
+    <trdgrp lng="nl">
+      <trd>zin<klr tip="ind"> (betekenis)</klr></trd>,
+      <trd>betekenis</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>sens</trd>,
+      <trd>znaczenie</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+     <trd>sentido</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_m;&c_y;&c_s;&c_l;</trd>
+  </snc>
+  <snc mrk="senc.0o.komprenebleco">
+    <dif>
+      Komprenebleco, memevidento:
+      <ekz>
+        delire kaj sen ia klara <tld/>o
+        <fnt><bib>Hamlet</bib></fnt>;
+      </ekz><ekz>
+        la tuta vivo perdis en miaj okuloj &ccirc;ian <tld/>on kaj valoron
+        <fnt><bib>VivZam</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_e;&c_n;&c_s;</trd>
+    <trd lng="cs">smysl (&ccaron;eho)</trd>
+    <trd lng="de">Sinn</trd>
+    <trdgrp lng="en">
+      <trd>sense</trd>,
+      <trd>meaning</trd>
+    </trdgrp>
+    <trd lng="es">sentido</trd>
+    <trd lng="fr">sens<klr tip="ind"> (signification)</klr></trd>
+    <trd lng="he">&mem;&shin;&mem;&ayin;&vav;&tav;</trd>
+    <trd lng="hu">&eacute;rtelem</trd>
+    <trdgrp lng="nl">
+      <trd>zin<klr tip="ind"> (betekenis)</klr></trd>,
+      <trd>betekenis</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>sens</trd>,
+      <trd>znaczenie</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_m;&c_y;&c_s;&c_l;</trd>
+  </snc>
+  <snc mrk="senc.0o.laux_linio">
+    <uzo tip="stl">EVI</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <ref tip="dif" cel="senc.0umo"><tld lit="S"/>umo</ref>:
+      <ekz>
+        <klr>[la bildoj montras]</klr> en kontra&ubreve;<klr>[horlo&gcirc;]</klr>a <tld/>o ekde la
+        supra maldekstra angulo
+        <fnt>
+          <vrk><url ref="&Viki;/Nova_ateismo">Nova ateismo - Vikipedio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    Pri nuancigo inter &leftquot;senco&rightquot; kaj &leftquot;signifo&rightquot; vidu la <ref cel="signif.0o.rim_kp_senco">rimarkon sub
+    signifo</ref>.
+  </rim>
+  <trd lng="af">sin</trd>
+  <trd lng="am">&#4661;&#x121C;&#4725;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_m;&a_ayn;&a_n;&a_A_maqsura;</trd>
+  <trd lng="az">m&#601;nada</trd>
+  <trd lng="bg">&c_s;&c_m;&c_i;&c_s;&c_malmol;&c_l;</trd>
+  <trd lng="bn">&#x99C;&#x9CD;&#x99E;&#x9BE;&#x9A8;</trd>
+  <trd lng="bs">smislu</trd>
+  <trd lng="co">asempiu</trd>
+  <trdgrp lng="cs">
+    <trd>smysl</trd>,
+    <trd>sm&ecaron;r</trd>,
+    <trd>v&yacute;znam</trd>
+  </trdgrp>
+  <trd lng="cy">synnwyr</trd>
+  <trd lng="da">fornuft</trd>
+  <trd lng="et">m&otilde;ttes</trd>
+  <trd lng="eu">zentzu</trd>
+  <trd lng="fy">sin</trd>
+  <trd lng="ga">ciall</trd>
+  <trd lng="gd">mothachadh</trd>
+  <trd lng="gl">sentido</trd>
+  <trd lng="gu">&#xA85;&#xAB0;&#xACD;&#xAA5;&#xAAE;&#xABE;&#xA82;</trd>
+  <trd lng="ha">ma&#8217;ana</trd>
+  <trd lng="hi">&#x92D;&#x93E;&#2357;&#2344;&#x93E;</trd>
+  <trd lng="hmn">siab</trd>
+  <trd lng="hr">osje&cacute;aj</trd>
+  <trd lng="ht">sans</trd>
+  <trd lng="hy">&#x56B;&#1396;&#1377;&#x57D;&#x57F;</trd>
+  <trd lng="ig">uche</trd>
+  <trd lng="is">vit</trd>
+  <trd lng="it">senso</trd>
+  <trd lng="ja">&#x611F;&#x899A; <pr>&#x304B;&#12435;&#x304B;&#x304F;</pr></trd>
+  <trd lng="jv">raos</trd>
+  <trd lng="ka">&#x10D0;&#x10D6;&#x10E0;&#x10D8;</trd>
+  <trd lng="kk">&c_s;&c_je;&c_z;&c_ib;&c_m;</trd>
+  <trd lng="km">&#6041;&#x179B;&#x17CB;</trd>
+  <trd lng="kn">&#xC85;&#xCB0;&#xCCD;&#xCA5;&#xCA6;&#xCB2;&#xCCD;&#xCB2;&#xCBF;</trd>
+  <trd lng="ko">&#xC758;&#xBBF8;</trd>
+  <trd lng="ku">h&icirc;s</trd>
+  <trd lng="ky">&c_s;&c_je;&c_z;&c_i;&c_m;</trd>
+  <trd lng="lat">sensum</trd>
+  <trd lng="lo">&#xE84;&#xEA7;&#xEB2;&#xEA1;&#xEAE;&#xEB9;&#xEC9;&#xEAA;&#xEB6;&#xE81;</trd>
+  <trd lng="lt">jausmas</trd>
+  <trd lng="lv">sapr&#257;ts</trd>
+  <trd lng="mg">hevitra</trd>
+  <trd lng="mi">tikanga</trd>
+  <trd lng="mk">&c_s;&c_m;&c_i;&c_s;&c_l;&c_a;</trd>
+  <trd lng="ml">&#xD05;&#xD7C;&#xD25;&#xD24;&#xD4D;&#xD24;&#xD3F;&#xD7D;</trd>
+  <trd lng="mn">&c_m;&c_e;&c_d;&c_r;&c_e;&c_m;&c_zh;</trd>
+  <trd lng="mr">&#2309;&#2352;&#x94D;&#2341;</trd>
+  <trd lng="ms">rasa</trd>
+  <trd lng="mt">sens</trd>
+  <trd lng="my">&#4129;&#x102C;&#x101B;&#x102F;&#4150;</trd>
+  <trd lng="ne">&#2309;&#2352;&#x94D;&#2341;</trd>
+  <trd lng="ny">m&#8217;lingaliro</trd>
+  <trd lng="pa">&#xA2D;&#xA3E;&#xA35;&#xA28;&#xA3E;</trd>
+  <trd lng="pl">kierunek<klr> (ruchu)</klr></trd>
+  <trd lng="ps">&a_A;&a_H;&a_s;&a_A;&a_s;</trd>
+  <trd lng="rw">kumva</trd>
+  <trd lng="sd">&a_A;&a_H;&a_s;&a_A;&a_s;</trd>
+  <trd lng="si">&#xDC4;&#xDD0;&#xD9F;&#xDD3;&#xDB8;&#xD9A;&#xDCA;</trd>
+  <trdgrp lng="sk">
+    <trd>smer</trd>,
+    <trd>v&yacute;znam</trd>,
+    <trd>zmysel</trd>
+  </trdgrp>
+  <trd lng="sl">ob&ccaron;utek</trd>
+  <trd lng="sm">lagona</trd>
+  <trd lng="sn">pfungwa</trd>
+  <trd lng="so">dareenka</trd>
+  <trd lng="sq">kuptim</trd>
+  <trd lng="st">kutloisiso</trd>
+  <trd lng="su">rarasaan</trd>
+  <trd lng="sw">maana</trd>
+  <trd lng="ta">&#xB89;&#xBA3;&#xBB0;&#xBCD;&#xBB5;&#xBC1;</trd>
+  <trd lng="te">&#xC2D;&#xC3E;&#xC35;&#xC02;</trd>
+  <trd lng="tg">&c_m;&c_a;&c_malmol;&c_n;&c_o;</trd>
+  <trd lng="th">&#xE04;&#xE27;&#xE32;&#xE21;&#xE23;&#xE39;&#xE49;&#xE2A;&#xE36;&#xE01;</trd>
+  <trd lng="tl">pakiramdam</trd>
+  <trd lng="tt">&c_m;&#x4D9;&c_g;&c_malmol;&c_n;&#x4D9;</trd>
+  <trd lng="uk">&c_s;&c_je;&c_n;&c_s;</trd>
+  <trd lng="ur">&a_A;&a_H;&a_s;&a_A;&a_s;</trd>
+  <trd lng="uz">sezgi</trd>
+  <trd lng="vi">&yacute; ngh&#297;a</trd>
+  <trd lng="xh">intsingiselo</trd>
+  <trd lng="yi">&zayin;&yod;&nun;&ayin;&fnun;</trd>
+  <trd lng="yo">ori</trd>
+  <trd lng="zu">ngomqondo</trd>
+</drv>
+
+<drv mrk="senc.0umo">
+  <kap><tld/>umo</kap>
+  <fnt><bib>PIV2</bib></fnt>
+  <snc>
+    <dif>
+      &Ccirc;iu el la du manieroj, en kiuj io povas movi&gcirc;i
+      la&ubreve;longe de linio:
+      <ekz>
+        angulo kalkulita el la Norda direkto la&ubreve; negativa <tld/>umo
+        <fnt>
+          <vrk><url ref="http://dictionary.sensagent.com/Kiblo/eo-eo/">Mapo kaj
+          kalkulado</url></vrk>
+        </fnt>;
+      </ekz><ekz>
+        kliko estas me&hcirc;anismo kiu permesas ke sistemo iru en ian <tld/>umon, sed blokas
+        se la sistemo emas iri al kontra&ubreve;a <tld/>umo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=293612">Kliko (mekaniko)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="orient.0igxo.bazo">orienti&gcirc;o<sncref/></ref>
+    <rim>
+      Tiu &ccirc;i vorto apena&ubreve; estas uzata, sed estis sa&gcirc;e
+      &gcirc;in enkonduki, por ke &gcirc;i anstata&ubreve;u
+      <tld/>on <sncref ref="senc.0o.laux_linio"/>, kiu estis logike
+      nepravigebla, &ccirc;ar kvankam la fundamentaj tradukoj per
+      &leftquot;<nac>sens</nac>&rightquot;, &leftquot;<nac>sense</nac>&rightquot;, &leftquot;<nac>Sinn</nac>&rightquot; &gcirc;in
+      pravigas, la tradukoj per &leftquot;<nac>&c_s;&c_m;&c_y;&c_s;&c_l;</nac>&rightquot; kaj
+      &leftquot;<nac>znaczenie</nac>&rightquot;, &leftquot;<nac>sens</nac>&rightquot; &ccirc;i tion ne allasas. Ja la
+      rusa kaj la pola preferas uzi &ccirc;i-sence vorton signifantan
+      <ctl>direkto</ctl>, kiu ne plene kontentigas, &ccirc;ar de
+      matematika vidpunkto estas du manieroj movi&gcirc;i la&ubreve; rekto, sed
+      rekto havas nur unu <ref cel="direkt.0o.afinaspaco">direkton</ref>.
+    </rim>
+    <adm>
+      La&ubreve; mi oni uzas la nocion ne nur &ccirc;e la&ubreve;linia direkto, sed anka&ubreve; &ccirc;e turni&gcirc;o:
+      sencumo la&ubreve;horlo&gcirc;a kaj kontra&ubreve;horlo&gcirc;a... (kp la ekz-on sub ~o 3)
+      <aut>WD</aut>
+    </adm>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_r;&c_u;&c_n;&c_a;&c_k; <klr>(&c_r;&c_u;&c_h;&c_u;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>smysl</trd>,
+    <trd>sm&ecaron;r</trd>
+  </trdgrp>
+  <trd lng="de">Sinn <klr>(Richtung)</klr></trd>
+  <trd lng="es">sentido<klr tip="ind"> (direcci&oacute;n)</klr></trd>
+  <trd lng="fr">sens<klr tip="ind"> (direction)</klr></trd>
+  <trd lng="hu">ir&aacute;ny</trd>
+  <trd lng="it">senso<klr> (verso, direzione)</klr></trd>
+  <trd lng="ja">&#21521;&#x304D;  <pr>&#12416;&#x304D;</pr></trd>
+  <trd lng="pl">kierunek<klr> (ruchu)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>smer</trd>,
+    <trd>zmysel</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_n;&c_a;&c_ch;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_ja;&c_m;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="senc.cxef0o">
+  <kap>&ccirc;ef<tld/>o</kap>
+  <snc mrk="senc.cxef0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Precipa, kerna <tld/>o, ne dependa je kunteksto;
+      <ref tip="sin" cel="denotaci.0o.LIN">denotacio</ref>
+      kontraste al <ref tip="ant" cel="senc.kun0o.LIN">kunsenco</ref>:
+      <ekz>
+        la greka termino &leftquot;<nac>peirasmos</nac>&rightquot; havas du
+        &ccirc;ef<tld/>ojn: tento kaj provo
+        <fnt>
+          <aut>B. Caddei</aut>
+          <vrk><url ref="http://www.ikue.org/tit112_00.html">
+          Koresponde</url></vrk>
+          <lok>Espero Katolika, 1999:9-10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_l;&c_o;&c_w;&c_n;&c_y; <ind>&c_s;&c_e;&c_n;&c_s;</ind></trd>,
+    <trd>&c_g;&c_a;&c_l;&c_o;&c_w;&c_n;&c_a;&c_je; <ind>&c_z;&c_n;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+  </trdgrp>
+  <trd lng="de">Hauptbedeutung</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;notation</trd>,
+    <trd>sens principal</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="senc.iu0e">
+  <kap>iu<tld/>e, <var><kap>certa<tld/>e</kap></var></kap>
+  <snc mrk="senc.iu0e.ARG">
+    <dif>
+      <ref tip="super" cel="iel.0">Iel</ref> rigardate, la&ubreve; iu
+      vidpunkto:
+      <ekz>
+        son&gcirc;oj estas parto de nia &ccirc;iutaga vivo <klr>[&#8230;]</klr> iu<tld/>e gravaj
+        <fnt>
+          <aut>Reza Kheir-Khah</aut>
+            <vrk><url ref="&Monato;/2000/007087.php">Mirinda dimensio de nia vivo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 16</lok>
+          </fnt>;
+      </ekz><ekz>
+        iu<tld/>e animpuriga muziko
+        <fnt>
+          <aut>J. Zajdman, P. Mo&jcirc;ajev</aut>,
+          <vrk>Ege ri&ccirc;aj harmonie</vrk>,
+          <bib>Monato</bib>,
+          <lok>2002:11, p. 24a</lok>
+        </fnt>;
+      </ekz><ekz>
+        li jen pritraktas <klr>[&#8230;]</klr> aliajn demandojn, kiel revivigo de lingvoj (la
+        hebrea kaj, certa<tld/>e, la latina)
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Reinaldo Marcelo Ferreira</aut>
+          <vrk><url ref="&Monato;/2007/009078.php">Interlingvistiko por &ccirc;iuj</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u; &c_p;&c_e;&c_w;&c_n;&c_y;&c_m; <ind>&c_s;&c_e;&c_n;&c_mol;&c_s;&c_je;</ind></trd>
+  <trdgrp lng="bg">
+    <trd>&c_v; &c_n;&c_ja;&c_k;&c_a;&c_k;&c_malmol;&c_v; &c_s;&c_m;&c_i;&c_s;&c_malmol;&c_l;</trd>,
+    <trd>&c_v; &c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_je;&c_n; &c_s;&c_m;&c_i;&c_s;&c_malmol;&c_l;</trd>
+  </trdgrp>
+  <trd lng="de">in gewissem <ind>Sinne</ind></trd>
+  <trd lng="en">in some sense</trd>
+  <trd lng="es">en cierto sentido</trd>
+  <trdgrp lng="fr">
+    <trd>dans un certain <ind>sens</ind></trd>
+  </trdgrp>
+  <trd lng="he">&bet;&alef;&yod;&zayin;&shin;&he;&vav;
+  <ind>&mem;&vav;&bet;&fnun;</ind></trd>
+  <trd lng="hu">bizonyos <ind>&eacute;rtelemben</ind></trd>
+  <trd lng="it">in un certo <ind>senso</ind></trd>
+  <trd lng="ja">&#12354;&#x308B;&#x610F;&#21619;&#12391;  <pr>&#12354;&#x308B;&#12356;&#x307F;&#12391;</pr></trd>
+  <trd lng="pl">w pewnym <ind>sensie</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_v; &c_k;&c_a;&c_k;&c_o;&c_m;-&c_t;&c_o;
+    <ind>&c_s;&c_m;&c_y;&c_s;&c_l;&c_je;</ind></trd>,
+    <trd>&c_v;
+    &c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_jo;&c_n;&c_n;&c_o;&c_m;
+    <ind>&c_s;&c_m;&c_y;&c_s;&c_l;&c_je;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="senc.kontraux0e">
+  <kap>kontra&ubreve;<tld/>e</kap>
+  <snc>
+    <dif>
+      En mala <tld/>o<sncref ref="senc.0o.laux_linio"/>:
+      <ekz>
+        mi tiurilate sentas min tute kontra&ubreve;<tld/>e de la aliaj
+        homoj
+        <fnt><bib>Revadoj</bib><lok>Sepa promenado</lok></fnt>;
+      </ekz><ekz>
+        &gcirc;ia nomo, &leftquot;<nom>Ekard</nom>&rightquot;, skribite kontra&ubreve;<tld/>e,
+        honoras la Universitaton &leftquot;<nom>Drake</nom>&rightquot;
+        <fnt>
+          <vrk><url ref="https://www.wikizero.com/eo/694_Ekard">WikiZero - 694 Ekard</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_s;&c_u;&c_p;&c_je;&c_r;&c_a;&c_k;</trd>
+  <trd lng="de">gegensinnig</trd>
+  <trdgrp lng="fr">
+    <trd>&agrave; l'<ind>envers</ind></trd>,
+    <trd>&agrave; <ind>rebours</ind></trd>
+  </trdgrp>
+  <trd lng="hu">ellent&eacute;tes <ind>&eacute;rtelemben</ind></trd>
+  <trd lng="it">contrariamente<klr> (dissentire)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>w przeciwnym <ind>kierunku</ind></trd>,
+    <trd>pod <ind>pr&aogonek;d</ind></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_s;&c_u;&c_p;&c_je;&c_r;&c_je;&c_ch; &c_z;&c_n;&c_a;&c_ch;&c_je;&c_n;&c_n;&c_ju;</trd>,
+    <trd>&c_n;&c_a;&c_v;&c_p;&c_a;&c_k;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="senc.kun0o">
+  <kap>kun<tld/>o,
+  <var><kap>krom<tld/>o</kap></var></kap>
+  <snc mrk="senc.kun0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <tld lit="S"/>o flanka, kroma a&ubreve;
+      kiu aperas depende je la
+      cirkonstancoj a&ubreve; la kunteksto;
+      <ref tip="sin" cel="konotaci.0o.LIN">konotacio</ref>:
+      <ekz>
+        &leftquot;kredo&rightquot; ja havas tro da gnoseologiaj
+        kun<tld/>oj; &ccirc;e Pa&ubreve;lo temas pri la
+        &leftquot;fido&rightquot;
+        <fnt>
+          <aut>G. Berveling</aut>,
+          <vrk>Pri kelkaj radikoj de la kristana
+          kontra&ubreve;judismo</vrk>,
+          <bib>Monato</bib>,
+          <lok>2001:10, p. 25a</lok>
+        </fnt>;
+      </ekz><ekz>
+        <klr>[la vorto]</klr> &leftquot;<nac>mamook</nac>&rightquot; akiris maldecan
+        krom<tld/>on
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/%C4%88inuka_pi%C4%9Dino">
+          &ccirc;inuka pi&gcirc;ino</url>, 2012-08-31</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="bg">
+      <trd>&c_p;&c_o;&c_d;&c_s;&c_m;&c_i;&c_s;&c_malmol;&c_l;</trd>,
+      <trd>&c_s;&c_k;&c_r;&c_i;&c_t; &c_s;&c_m;&c_i;&c_s;&c_malmol;&c_l;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_h;&c_a;&c_v;&c_a;&c_n;&c_y; <ind>&c_s;&c_e;&c_n;&c_s;</ind></trd>,
+    <trd>&c_p;&c_a;&c_d;&c_t;&c_e;&c_k;&c_s;&c_t;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_a;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="en">connotation</trd>
+  <trd lng="es">connotaci&oacute;n</trd>
+  <trd lng="fr">connotation</trd>
+  <trdgrp lng="he">
+    <trd>&qof;&vav;&nun;&vav;&tet;&tsadi;&yod;&he;</trd>,
+    <trd>&mem;&shin;&mem;&shin;&ayin;&vav;&tav;
+    &lamed;&vav;&vav;&alef;&yod;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>jelent&eacute;s&aacute;rnyalat</trd>,
+    <trd>konnot&aacute;ci&oacute;</trd>
+  </trdgrp>
+  <trd lng="it">connotazione</trd>
+  <trdgrp lng="pl">
+    <trd>podtekst</trd>,
+    <trd>zapis <ind>mi&eogonek;dzy wierszami</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_t;&c_je;&c_k;&c_s;&c_t;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_y;&c_t;&c_y;&c_j; &c_s;&c_m;&c_y;&c_s;&c_l;</trd>,
+    <trd>&c_k;&c_o;&c_n;&c_n;&c_o;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="senc.plen0a">
+  <kap>plen<tld/>a</kap>
+  <snc mrk="senc.plen0a.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <klr>(pri vorto:)</klr> Havanta propran leksikan signifon,
+      respondan al la realo en ties a&jcirc;oj, agoj a&ubreve; ecoj, kontraste al
+      gramatikiloj perdintaj sian semantikan valoron kaj plenumantaj
+      funkciojn sintaksajn:
+      <ekz>
+        <ind>plen<tld/>a verbo</ind>;
+        <trd lng="en">lexical verb</trd>
+        <trd lng="de">Vollverb</trd>
+        <trdgrp lng="ru">
+          <trd>&c_z;&c_n;&c_a;&c_m;&c_je;&c_n;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_g;&c_l;&c_a;&c_g;&c_o;&c_l;</trd>,
+          <trd>&c_p;&c_o;&c_l;&c_n;&c_o;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_y;&c_j; &c_g;&c_l;&c_a;&c_g;&c_o;&c_l;</trd>
+        </trdgrp>
+      </ekz><ekz>
+        <klr>(la verbo &#8249;aspekti&#8250;)</klr> &ccirc;iam restas en la limregiono inter
+        kopulaj kaj plen<tld/>aj verboj
+        <fnt><aut>H.A. de Hoog</aut>: <vrk>Du malsanoj en Esperanto</vrk>.
+        <lok>INKO, ISBN 91-7303-136-4. &para;53</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>autosemantisch</trd>,
+      <trd>haupts&auml;chlich (Wort)</trd>,
+      <trd>selbstst&auml;ndig (Wort)</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>content (word)</trd>
+      <trd>full<klr> word</klr></trd>,
+      <trd>autonomous<klr> (word)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_n;&c_a;&c_m;&c_je;&c_n;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_p;&c_o;&c_l;&c_n;&c_o;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="senc.plur0ajxo">
+  <kap>plur<tld/>a&jcirc;o</kap>
+  <snc mrk="senc.plur0ajxo.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Vorto, esprimo, signo, kiu havas plurajn
+      eblajn <tld/>ojn;
+      <ref tip="sin" cel="polisem.0o.LIN">polisemo</ref>:
+      <ekz>
+        sintaksa plur<tld/>a&jcirc;o estas nur unu
+        speco de plur<tld/>a&jcirc;o
+        <fnt>
+          <aut>I. Fantom</aut>,
+          <vrk><url
+          ref="https://groups.google.com/forum/#!msg/soc.culture.esperanto/xviSiYmRDZk/imD4izYb8gcJ">
+          PRI: Internacia lingvo</url></vrk>,
+          <lok>1997-03-04</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_m;&c_a;&c_t;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_a;&c_je; &c_s;&c_l;&c_o;&c_v;&c_a;</trd>,
+    <trd>&c_sh;&c_m;&c_a;&c_t;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_y; &c_v;&c_y;&c_r;&c_a;&c_z;</trd>
+  </trdgrp>
+  <trd lng="fr">polys&egrave;me</trd>
+</drv>
+
+<drv mrk="senc.plur0eco">
+  <kap>plur<tld/>eco</kap>
+  <snc mrk="senc.plur0eco.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <uzo tip="klr">(pri signo, diro...)</uzo>
+    <dif>
+      Havo de pluraj distingeblaj <tld/>oj;
+      <ref tip="sin" cel="polisemi.0o.LIN">polisemio</ref>:
+      <ekz>
+        pluraj problemoj plikomplikas la tradukan procezon, kiel ekzemple mankantaj
+        vortoj, <klr>[&#8230;]</klr> plur<tld/>eco kaj aliaj
+        <fnt>
+       <aut>Marc Vanden Bempt</aut>
+          <vrk><url ref="&Monato;/2000/006846.php">Perkomputila tradukado</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/07, p. 11</lok>
+        </fnt>;
+      </ekz><ekz>
+        la diferenco inter plur<tld/>eco kaj malprecizo
+        ofte estas konfuza
+        <fnt>
+          <aut>E. Grimley-Evans</aut>,
+          <vrk>Re: Gender in Esperanto</vrk>,
+          <lok>soc.culture.esperanto, 1996-08-30</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_m;&c_a;&c_t;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_ib;&c_s;&c_e;&c_m;&c_ib;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="de">Mehrdeutigkeit</trd>
+  <trd lng="fr">polys&eacute;mie</trd>
+</drv>
+
+<drv mrk="senc.sam0ajxo">
+  <kap>sam<tld/>a&jcirc;o</kap>
+  <snc mrk="senc.sam0ajxo.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="dif" cel="sinoni.0o.LIN">Sinonimo</ref>:
+      <ekz>
+        en tiu lingvo ekzistas <klr>[...]</klr> vortoj, kiuj ne havas
+        sam<tld/>a&jcirc;on en la franca
+        <fnt><bib>BonaLingvo</bib>, <lok>p. 11a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_n;&c_o;&c_n;&c_ib;&c_m;</trd>
+  <trd lng="bg">&c_s;&c_i;&c_n;&c_o;&c_n;&c_i;&c_m;</trd>
+  <trd lng="de">Synonym</trd>
+  <trd lng="en">synonym</trd>
+  <trd lng="es">sin&oacute;nimo</trd>
+  <trd lng="he">&mem;&yod;&lamed;&he; &nun;&resh;&dalet;&pe;&tav;</trd>
+  <trdgrp lng="fr">
+    <trd>synonyme</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>rokon &eacute;rtelm&udblac; sz&oacute;</trd>,
+    <trd>szinonima</trd>
+  </trdgrp>
+  <trd lng="it">sinonimo</trd>
+  <trd lng="nl">synoniem</trd>
+  <trdgrp lng="pl">
+    <trd>synonim</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_i;&c_n;&c_o;&c_n;&c_i;&c_m;</trd>
+</drv>
+
+<drv mrk="senc.sam0eco">
+  <kap>sam<tld/>eco</kap>
+  <snc mrk="senc.sam0eco.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="dif" cel="sinoni.0eco.LIN">Sinonimeco</ref>:
+      <ekz>
+        internacia simileco kaj sam<tld/>eco
+        de trafiksignoj gravas en internacia trafiko
+          <fnt>
+            <aut>P. Aitai</aut>,
+            <vrk><url ref="http://peeteraitai.blogspot.com/2006_12_01_archive.html">
+            blogo</url></vrk>,
+            <lok>2006-12-30</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_n;&c_a;&c_n;&c_ib;&c_m;&c_ib;&c_ja;</trd>
+  <trd lng="fr">synonymie</trd>
+</drv>
+
+<drv mrk="senc.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="senc.sen0a.propre">
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Havanta nenian <tld/>on:
+      <ekz>
+        sen<tld/>a parolado, <klr>[&#8230;]</klr> tro libera babilado
+        <fnt>
+          <bib>NT</bib>
+          <lok>Efesanoj 5:4</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>senseless</trd>,
+      <trd>nonsensical</trd>
+    </trdgrp>
+    <trd lng="es">sin sentido</trd>
+    <trd lng="he">&het;&samekh;&resh;
+    &mem;&shin;&mem;&ayin;&vav;&tav;</trd>
+    <trdgrp lng="hu">
+      <trd>&eacute;rtelmetlen</trd>,
+      <trd>k&eacute;ptelen</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>bezsensowny</trd>,
+      <trd>absurdalny</trd>,
+      <trd>nonsensowny</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="senc.sen0a.malsagxa">
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Malsa&gcirc;a:
+      <ekz>
+        la petoj, kiujn tiu virino sendis al la &ccirc;ielo, estis sen<tld/>aj, maljustaj, tro
+        postulemaj
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz><ekz>
+        pro ne&gcirc;usta timo anta&ubreve; sen<tld/>aj atakantoj ili penas <klr>[&#8230;]</klr> nei
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>;
+      </ekz><ekz>
+        <nom>Trajan</nom> konvinki&gcirc;is, ke &ccirc;io estas sen<tld/>a kaj
+        freneza
+        <fnt>
+          <aut>J. Modest</aut>,
+          <vrk>La ikono</vrk>,
+          <bib>Monato</bib>,
+          <lok>2001:12, p. 23a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>senseless</trd>,
+      <trd>absurd</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>sinsentido</trd>,
+      <trd>absurdo</trd>
+    </trdgrp>
+    <trd lng="he">&het;&samekh;&resh; &he;&#8503;&yod;&vav;&fnun;</trd>
+    <trdgrp lng="hu">
+      <trd>ostoba</trd>,
+      <trd>abszurd</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>durny</trd>,
+      <trd>g&lstroke;upi</trd>,
+      <trd>bzdurny</trd>,
+      <trd>chory</trd>,
+      <trd>poroniony</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_s;&c_s;&c_e;&c_n;&c_s;&c_o;&c_w;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_b;&c_je;&c_z;&c_s;&c_m;&c_i;&c_s;&c_l;&c_je;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>absurdn&iacute;</trd>,
+    <trd>nesmysln&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">sinnlos</trd>
+  <trd lng="es">absurdo</trd>
+  <trd lng="fr">absurde</trd>
+  <trdgrp lng="it">
+    <trd>insensato</trd>,
+    <trd>assurdo</trd>
+    </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#28961;&#x610F;&#21619;&#x306A;  <pr>&#12416;&#12356;&#x307F;&#x306A;</pr></trd>,
+    <trd>&#x304F;&#12384;&#12425;&#x306A;&#12356;</trd>
+  </trdgrp>
+  <trd lng="nl">zinloos</trd>
+  <trd lng="ru">&c_b;&c_je;&c_s;&c_s;&c_m;&c_y;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>absurdn&yacute;</trd>,
+    <trd>nezmyseln&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_z;&c_g;&c_l;&c_u;&c_z;&c_d;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_ib;&c_s;&c_je;&c_n;&c_ib;&c_t;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_a;&c_b;&c_s;&c_u;&c_r;&c_d;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="senc.sen0ajxo">
+  <kap><ofc>*</ofc>sen<tld/>a&jcirc;o</kap>
+  <snc mrk="senc.sen0ajxo.aserto">
+    <dif>
+      Aserto, okaza&jcirc;o, situacio, kiu &scirc;ajne ne havas
+      <tld/>on, ne estas komprenebla:
+      <ekz>
+        vi parolas sen<tld/>a&jcirc;on, mia amiko
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 35</lok>
+        </fnt>;
+      </ekz><ekz>
+        la bu&scirc;o de malsa&gcirc;uloj elparolas sen<tld/>a&jcirc;on
+        <fnt><bib>MT</bib> <lok>&Sen; 15:2</lok></fnt>;
+      </ekz><ekz>
+        la tuta afero estis nenio krom sen<tld/>a&jcirc;o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>!
+      </ekz><ekz>
+        <klr>[ili]</klr> okupas sin je &ccirc;ia plej sencela kaj senutila sen<tld/>a&jcirc;o, se &gcirc;i
+        nur estas en modo kaj konforma al la rutinaj ideoj de la amaso
+        <fnt><bib>EE</bib></fnt>;
+      </ekz><ekz>
+        devigi min sekvi arbitrajn sen<tld/>a&jcirc;ojn
+        <fnt><bib>BonaLingvo</bib>, <lok>p. 29a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_z;&c_g;&c_l;&c_u;&c_z;&c_mol;&c_d;&c_z;&c_ib;&c_c;&c_a;</trd>,
+    <trd>&c_b;&c_ja;&c_s;&c_s;&c_e;&c_n;&c_mol;&c_s;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_g;&c_l;&c_u;&c_p;&c_o;&c_s;&c_t;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_s;&c_m;&c_i;&c_s;&c_l;&c_i;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ga;&t_da;&t_tsheg;&t_sa;&t_nyata;&t_gigu;&t_ga;&t_sa;&t_tsheg;</trd>
+  <trdgrp lng="de">
+    <trd>Unsinn</trd>,
+    <trd>Quatsch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>nonsense</trd>,
+    <trd>senselessness</trd>,
+    <trd>absurdity</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+  	<trd>sinsentido</trd>,
+	<trd>absurdo</trd>
+  </trdgrp>
+  <trd lng="fr">absurdit&eacute;</trd>
+  <trd lng="he">&shin;&tet;&vav;&tav;</trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;rtelmetlens&eacute;g</trd>,
+    <trd>k&eacute;ptelens&eacute;g</trd>
+    <trd>ostobas&aacute;g</trd>
+  </trdgrp>
+  <trd lng="it">assurdit&agrave;</trd>
+  <trdgrp lng="ja">
+    <trd>&#12400;&#x304B;&#12370;&#x305F;&#12371;&#12392;</trd>,
+    <trd>&#x30CA;&#x30F3;&#x30BB;&#x30F3;&#x30B9;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>nonsens</trd>,
+    <trd>absurd</trd>,
+    <trd>andron</trd>,
+    <trd>banialuka</trd>,
+    <trd>bzdura</trd>,
+    <trd>g&lstroke;upota</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_je;&c_s;&c_s;&c_m;&c_y;&c_s;&c_l;&c_i;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_z;&c_d;&c_o;&c_r;</trd>,
+    <trd>&c_n;&c_je;&c_l;&c_je;&c_p;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_ib;&c_s;&c_je;&c_n;&c_ib;&c_t;&c_n;&c_i;&c_c;&c_ja;</trd>,
+    <trd>&c_d;&c_u;&c_r;&c_n;&c_i;&c_c;&c_ja;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_g;&c_l;&c_u;&c_z;&c_d;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_g;&c_l;&c_u;&c_z;&c_d;&c_ja;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.127 2023/12/12 20:10:27
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.126 2023/11/21 09:27:28
+Sergio Pokrovskij: plen~a
+
+versio 1.125 2023/10/21 06:31:44
+revo: transskribo per <pr>
+
+versio 1.123 2023/08/29 12:45:04
+Wolfram Diestel: ja: +prononco
+
+versio 1.122 2023/05/01 13:28:19
+Paul Peeraerts: Steloj -> monato
+
+versio 1.121 2023/04/24 15:27:55
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.120 2023/04/11 18:56:02
+aktualigo Monato-URL
+
+versio 1.119 2023/03/12 20:26:08
+-->
+</vortaro>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: paradizeed.xml,v 1.4 2023/01/25 10:30:56 revo Exp $">
+<kap>
+  <rad>paradizeed</rad>/oj <fnt><bib>Viki</bib></fnt>
+</kap>
+<drv mrk="paradizeed.0oj">
+  <kap><tld/>oj</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO" lst="voko:zoologiaj_familioj">Familio</ref> el la ordo
+      <ref tip="malprt" cel="paser.0oformaj">paseroformaj</ref>
+      birdoj (<trd lng="la">Paradisaeidae</trd>):
+      <ekz>
+        <nom>Ren&eacute;-Primev&egrave;re Lesson</nom> <klr>[&#8230;]</klr> estis la unua naturalisto kiu vidis
+        vivantajn <tld/>ojn en la Molukoj kaj Nov-Gvineo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=287668">Ren&eacute;-Primev&egrave;re Lesson</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="prt" cel="bird.paradiz0o">paradizbirdo</ref>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_j;&c_s;&c_k;&c_ib;&c_ja; &c_p;&c_t;&c_u;&c_sh;&c_k;&c_ib; <klr>(&c_s;&c_ja;&c_m;&#8217;&c_ja;)</klr></trd>
+  <trd lng="de">Paradiesv&ouml;gel</trd>
+  <trd lng="fr">paradis&eacute;id&eacute;s</trd>
+  <trdgrp lng="pl">
+    <trd>cudowronki</trd>,
+    <trd>ptaki rajskie</trd>
+  </trdgrp>
+  <trd lng="ro">pas&abreve;rea paradisului</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2023/01/25 10:30:56
+Dmitri Gabinski: + trd be
+
+versio 1.3 2021/11/07 22:29:40
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.1  2017/05/26 17:10:16  revo
+Ludoviko Francisco: nova artikolo
+-->
+</vortaro>

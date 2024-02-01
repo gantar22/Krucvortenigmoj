@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bagagx.xml,v 1.19 2023/10/29 19:10:59 revo Exp $">
+<kap>
+  <rad>baga&gcirc;</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+
+<drv mrk="bagagx.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bagagx.0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      <refgrp tip="sub">
+        <ref cel="kofr.0o">Kofroj</ref>,
+        <ref cel="valiz.0o">valizoj</ref>,
+        <ref cel="pak.0o">pakoj</ref>,
+        <ref cel="sak.0o">sakoj</ref>
+      </refgrp> ktp kiujn oni portas kun si &ccirc;e voja&gcirc;o
+      a&ubreve; kiujn oni ekspedas per publika transportilo:
+      <ekz>
+        iu iris eksenti la pezon de la <tld/>o, kiun oni metis apud 
+        la pordo
+        <fnt><bib>Voja&gcirc;Imp</bib>,
+          <lok>du blinduloj, sceno el la lando de Donaj kozakoj
+          </lok></fnt>;
+      </ekz>
+      <ekz>
+        la pasa&gcirc;ero uzas memservan budon por printi la <tld/>etikedojn kaj poste
+        transdonas la <tld/>on al fluglinia akceptisto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ivo Schenkel</aut>
+          <vrk><url ref="&Monato;/2010/009985.php">Fluge tra la flughaveno</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+       <ref cel="pak.0ajxo.bagagxo">paka&jcirc;o<sncref/></ref>,
+       <ref cel="sxargx.0o.KOMUNE">&scirc;ar&gcirc;o<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="zh">
+    <trd>&#x65C5;&#x884C;&#x5E26; <pr>l&#x1DA;x&#xED;ngd&#xE0;i</pr></trd>,
+    <trd>&#x884C;&#x674E; <pr>x&#xED;ngl&#x1D0;</pr></trd>,
+    <trd>&#x76AE;&#x7BB1; <pr>p&#xED;xi&#x101;ng</pr></trd>,
+    <trd>&#x884C;&#x56CA; <pr>x&#xED;ngn&#xE1;ng</pr></trd>,
+    <trd>&#x884C;&#x88C5; <pr>x&#xED;ngzhu&#x101;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_b;&c_a;&c_g;&c_a;&c_zh;</trd>
+  <trd lng="bg">&c_b;&c_a;&c_g;&c_a;&c_zh;</trd>
+  <trdgrp lng="ca">
+    <trd>bagatge</trd>,
+    <trd>equipatge</trd>,
+    <trd>fardatge</trd>
+  </trdgrp>
+  <trd lng="de">Gep&auml;ck</trd>
+  <trd lng="en">baggage</trd>
+  <trd lng="es">equipaje</trd>
+  <trd lng="fr">bagage</trd>
+  <trd lng="he">&mem;&tet;&ayin;&fnun;</trd>
+  <trd lng="hu">poggy&aacute;sz</trd>  
+  <trd lng="id">bagasi</trd>
+  <trd lng="it">bagaglio</trd>
+  <trd lng="ja">&#x624B;&#x8377;&#x7269;  <pr>&#x3066;&#x306B;&#x3082;&#x3064;</pr></trd>
+  <trd lng="nl">bagage</trd>
+  <trd lng="pl">baga&zdot;</trd>
+  <trd lng="ru">&c_b;&c_a;&c_g;&c_a;&c_zh;</trd>
+  <trd lng="sv">bagage</trd>
+  <trdgrp lng="tr">
+    <trd>valiz</trd>,
+    <trd>ba&gbreve;aj</trd>
+  </trdgrp>
+  <trd lng="uk">&c_b;&c_a;&c_gu;&c_a;&c_zh;</trd>
+</drv>
+</art>
+
+  <!--
+  $Log$
+versio 1.18 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.16 2022/04/30 12:40:26
+Noam Mohr: +trd en bagagxo
+
+versio 1.15 2022/04/26 15:00:32
+aktualigo lingvokodoj kaj URL-unuoj
+
+  Revision 1.11  2014/12/05 13:10:36  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.10  2014/10/28 04:11:01  revo
+  Eko Nur Syah Hidayat: +trd id
+
+  Revision 1.9  2012/08/24 19:10:24  revo
+  Marc Rausell: + trd ca
+
+  Revision 1.8  2011/10/15 16:10:23  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.7  2010/06/12 16:30:22  revo
+-->
+</vortaro>

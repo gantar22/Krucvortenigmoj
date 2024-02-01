@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: svazi.xml,v 1.20 2023/11/29 01:36:33 revo Exp $">
+<kap>
+  <rad>svazi</rad>/o
+</kap>
+
+<drv mrk="svazi.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+    <dif>
+      Ano de sudafrika etno ene de la bantuoj:
+      <ekz>
+        <tld/>oj <klr>[estas]</klr> popolo de Bantua grupo, &ccirc;eflo&gcirc;antoj
+        de <tld lit="S"/>lando kaj najbaraj regionoj de
+        Sud-Afriko, <klr>[ili]</klr> lo&gcirc;as anka&ubreve; en Mozambiko <klr>[&#8230;]</klr>,
+        lingvo: <tld/>a
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3067">Ni&gcirc;erkonga lingvaro</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_v;&c_a;&c_z;&c_ib;</trd>
+  <trd lng="de">Swazi</trd>
+  <trd lng="ja">&#x30B9;&#x30EF;&#x30B8;&#x4EBA;  <pr>&#x30B9;&#x30EF;&#x30B8;&#12376;&#12435;</pr></trd>
+  <trd lng="pl">Suazyjczyk</trd>
+</drv>
+
+<drv mrk="svazi.S0lando">
+  <kap>
+    <tld lit="S"/>lando <fnt><bib>RLN</bib></fnt>,
+    <var><kap><tld lit="S"/>ujo</kap></var>
+  </kap>
+  <mlg kod="ISO-3166">SZ</mlg>
+  <snc mrk="svazi.S0lando.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:&scirc;tatoj" cel="sxtat.0o.POL">&Scirc;tato</ref>
+      en la sudorienta <ref tip="malprt" cel="afrik.A0o">Afriko</ref>
+      kun &ccirc;efurbo Mbabano; teritorio de Re&gcirc;lando <tld lit="S"/>lando,
+      limanta kun <ref tip="vid" cel="mozambik.M0o.GEOG">Mozambiko</ref>
+      kaj <ref tip="vid" cel="afrik.SudA0o.GEOG">Sud-Afriko</ref>:
+      <ekz>
+        la pleja disvasti&gcirc;o de HIV/aidoso en la mondo estis observita en <tld lit="S"/>lando, kun
+        15&#x202F;816 malsani&gcirc;oj je 100&#x202F;000 personoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2013/011063.php">Aspektoj de vivekspekto</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_S;&c_v;&c_a;&c_z;&c_ib;&c_l;&c_je;&c_n;&c_d;</trd>
+  <trd lng="bg">&c_S;&c_v;&c_a;&c_z;&c_i;&c_l;&c_je;&c_n;&c_d;</trd>
+  <trd lng="de">Swasiland</trd>
+  <trd lng="en">Swaziland</trd>
+  <trdgrp lng="fr">
+    <trd>Swaziland</trd>,
+    <trd>Royaume du Swaziland</trd>
+  </trdgrp>
+  <trd lng="hu">Szv&aacute;zif&ouml;ld</trd>
+  <trd lng="id">Swaziland</trd>
+  <trd lng="it">Swaziland</trd>
+  <trd lng="nl">Swaziland</trd>
+  <trdgrp lng="pl">
+    <trd>Suazi</trd>,
+    <trd>Kr&oacute;lestwo <ind>Suazi</ind></trd>
+  </trdgrp>
+  <trd lng="pt">Suazil&acirc;ndia</trd>
+</drv>
+
+<!-- jen temas pri aparte radiko kaj bezonus aparta artikolon...
+<drv mrk="svazi.S0io">
+  <kap>
+    <tld lit="S"/>io
+  </kap>
+  <snc mrk="svazi.S0io.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+  </snc>
+  <trdgrp lng="fr">
+      <trd>Swaziland</trd>,
+      <trd>Royaume du Swaziland</trd>
+  </trdgrp>
+  <trd lng="id">Swaziland</trd>
+</drv>
+-->
+
+</art>
+
+<!--
+$Log$
+versio 1.20 2023/11/29 01:36:33
+Vito Redsky: +trd pl 
+
+versio 1.19 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.17 2022/04/07 07:29:19
+Dmitri Gabinski: + trd be
+
+Revision 1.15  2019/02/07 16:10:17  revo
+Wolfram Diestel: +~o, - ~iio, ekz-oj
+
+Revision 1.14  2014/06/24 10:10:26  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.13  2014/06/22 08:10:14  revo
+Damien Brucker: +~io
+
+Revision 1.12  2014/06/19 19:10:09  revo
+Damien Brucker: +~ujo
+
+Revision 1.11  2014/05/15 12:10:42  revo
+-->
+</vortaro>

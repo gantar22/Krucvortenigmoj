@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vafl.xml,v 1.32 2023/10/21 16:50:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vafl</rad>/o
+</kap>
+<drv mrk="vafl.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Plata <ref tip="super" cel="kuk.0o">kuko</ref>
+      bakita inter du feraj ladoj:
+      <ekz>
+        la fundamenta plato de sveda bombo estas cirkloforma maldika
+        <tld/>o,
+        sur tiu levi&gcirc;as &scirc;a&ubreve;ma korpo, <klr>[&#8230;]</klr> la tuto estas
+        kovrita de &ccirc;okolado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2013/010973.php">Bombo-bankroto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        reklami la de li fabrikatajn <tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jean Pierre VandenDaele</aut>
+          <vrk><url ref="&Monato;/2012/010697.php">De analogo al
+          cifereco: evoluo de persona historio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="oblat.0o">oblato</ref>
+  </snc>
+  <bld lok="&WCU;/thumb/4/47/Gaufre_liege.jpg/320px-Gaufre_liege.jpg" prm="CC0">
+    Belgaj vafloj el Lie&gcirc;o
+    <fnt>
+      <lok><url ref="&WCU;/File:Gaufre_liege.jpg">&WCW;/File:Gaufre_liege.jpg</url></lok>
+    </fnt>
+  </bld>
+  <trd lng="be">&c_v;&c_a;&c_f;&c_l;&c_ja;</trd>
+  <trd lng="bg">&c_v;&c_a;&c_f;&c_l;&c_a;</trd>
+  <trd lng="br">galfrezenn</trd>
+  <trd lng="ca">gofra</trd>
+  <trdgrp lng="cs">
+    <trd>oplatka</trd>,
+    <trd>vafle</trd>
+  </trdgrp>
+  <trd lng="de">Waffel</trd>
+  <trd lng="en">waffle</trd>
+  <trd lng="es">barquillo</trd>
+  <trd lng="fa">&a_w;&a_A;&a_f;&a_l;</trd>
+  <trd lng="fr">gaufre</trd>
+  <trd lng="fy">wafel</trd>
+  <trdgrp lng="he">
+    <trd>&alef;&pe;&yod;&pe;&yod;&tav;</trd>,
+    <trd>&resh;&qof;&yod;&qof;</trd>
+  </trdgrp>
+  <trd lng="hu">ostya</trd>
+  <trd lng="ja">&#x30EF;&#x30C3;&#x30D5;&#x30EB; <pr>&#x308F;&#12387;&#12405;&#x308B;</pr></trd>
+  <trd lng="nl">wafel</trd>
+  <trd lng="pl">gofr</trd>
+  <trd lng="pt">folhado<klr tip="ind"> (culin&aacute;ria)</klr></trd>
+  <trd lng="ru">&c_v;&c_a;&c_f;&c_l;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>obl&aacute;tka</trd>,
+    <trd>opl&aacute;tka</trd>
+  </trdgrp>
+  <trd lng="sv">v&aring;ffla</trd>
+  <trd lng="uk">&c_v;&c_a;&c_f;&#x43B;&#x44F;</trd>
+</drv>
+
+<drv mrk="vafl.sirop0o">
+  <kap>sirop<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Nederlanda franda&jcirc;o konsistanta el du maldikaj <tld/>oj,
+      inter kiuj estas tavolo da karamela siropo:
+      <ekz>
+        sirop<tld/>oj estas tipe nederlandaj franda&jcirc;oj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="&Viki;/Siropvaflo">Siropvaflo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/9/9a/Stroopwafels_01.jpg/240px-Stroopwafels_01.jpg" prm="CC BY-SA 3.0">
+      Sirop<tld/>oj sur telero
+      <fnt>
+        <aut>Takeaway, propra verko</aut>
+        <lok><url ref="&WCW;/File:Stroopwafels_01.jpg">&WCW;/File:Stroopwafels_01.jpg</url></lok>
+      </fnt>
+    </bld>
+  </snc>
+  <trdgrp lng="en">
+    <trd>stroopwafel</trd>
+    <trd>Dutch syrup waffle</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>stroopwafel</trd>,
+    <trd>gaufre n&eacute;erlandaise</trd>,
+    <trd>gaufre hollandaise</trd>
+  </trdgrp>
+  <trd lng="fy">sjerpwafel</trd>
+  <trd lng="ja">&#x30B9;&#x30C8;&#x30ED;&#x30FC;&#x30D7;&#x30EF;&#x30C3;&#x30D5;&#x30EB;
+  <pr>&#12377;&#12392;&#x308D;&#x30FC;&#12407;&#x308F;&#12387;&#12405;&#x308B;</pr></trd>
+  <trd lng="nl">stroopwafel</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.32 2023/10/21 16:50:35
+revo: transskribo per <pr>
+
+versio 1.31 2023/05/14 19:21:12
+Dmitri Gabinski: kor de trd bg
+
+versio 1.30 2022/05/06 12:17:21
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.28 2020/05/26 00:10:35
+Sam Penter: redakto difino sirop~o; +bld cxe ~o; +trd
+
+Revision 1.27  2020/03/10 12:10:15  revo
+Robin van der Vliet: +sirop~o
+
+Revision 1.26  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.25  2018/08/15 20:10:15  revo
+Wolfram Diestel: +ekzoj, +ref oblato
+
+Revision 1.24  2015/07/04 08:37:45  revo
+-->
+</vortaro>

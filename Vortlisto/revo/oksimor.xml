@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: oksimor.xml,v 1.9 2022/04/25 11:28:46 revo Exp $">
+<kap>
+    <rad>oksimor</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="oksimor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="oksimor.0o.SNC">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="super" cel="figur.stil0o">Stilfiguro</ref> en kiuj du elementoj 
+      kontra&ubreve;diras unu la alian, ekzemple <ctl>vivanta kadavro</ctl>:       
+      <ekz>
+        resti maljuna knabino
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per mono e&ccirc; silento fari&gcirc;as elokvento
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni estas la sola nacio en la mondo, kiu kredas, ke oni povas
+        esti edukita kaj paroli nur unu lingvon, &dash; tio estas <tld/>o
+        <fnt><aut>Marko Naoki Lins</aut>, <lok> </lok>,
+        <bib>LOdE</bib></fnt>!
+      </ekz>
+      <ekz>
+        <klr>(&ccirc;u disvendi)</klr> Esperantan naciismon &dash; kia
+        <tld/>o
+        <fnt>
+          <aut>Jorge Camacho</aut>,
+          <vrk>La liturgio de l' foiro</vrk>
+        </fnt>!
+      </ekz>
+      <ekz>
+        punka diservo &ndash; &ccirc;u tio eblas? jes, en la nuna Rusio eblas &ccirc;io, e&ccirc; tiaj <tld/>oj
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kombino de unudirekta <ctl>progreso</ctl> kaj oscila
+        <ctl>tajdo</ctl> formas amuzan <tld/>on &mdash; evidente, 
+        <ctl>tajdo</ctl> &ccirc;i tie fakte signifas ion alian ol difinite
+        <fnt><aut>Sergio Pokrovskij</aut>, 
+          <bib>LOdE</bib>,
+          <lok>2005. &#8470; 6 (128)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="pleona.0o">pleonasmo</ref>
+    <refgrp tip="vid"> 
+      <ref cel="antite.0o">antitezo</ref>,
+      <ref cel="parado.0o">paradokso</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_k;&c_s;&c_y;&c_m;&c_a;&c_r;&c_a;&c_n;</trd>,
+    <trd>&c_a;&c_k;&c_s;&c_ju;&c_m;&c_a;&c_r;&c_a;&c_n;</trd>
+  </trdgrp>
+  <trd lng="ca">ox&iacute;moron</trd>
+  <trd lng="cs">oxym&oacute;ron</trd>
+  <trd lng="de">Oxymoron</trd>
+  <trd lng="en">oxymoron</trd>
+  <trd lng="es">ox&iacute;moron</trd>
+  <trd lng="fr">oxymore</trd>
+  <trd lng="nl">oxymoron</trd>
+  <trd lng="no">oxymoron</trd>
+  <trd lng="pl">oksymoron</trd>
+  <trd lng="ro">oximoron</trd>
+  <trd lng="sk">oxymoron</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43A;&c_s;&c_i;&#x43C;&#x43E;&c_r;&#x43E;&#x43D;</trd>,
+    <trd>&#x43E;&#x43A;&c_s;&#x44E;&#x43C;&#x43E;&c_r;&#x43E;&#x43D;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.9 2022/04/25 11:28:46
+Dmitri Gabinski: + trd be
+
+versio 1.7 2022/01/22 19:20:56
+Wolfram Diestel: +ref-oj, ekz
+
+versio 1.6 2021/06/11 21:28:20
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.4  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2012/07/30 12:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2010/03/03 17:31:29  revo
+Russ Williams: +trd en
+
+Revision 1.1  2009/10/01 16:30:38  revo
+Paul Peeraerts: nova artikolo
+-->
+</vortaro>

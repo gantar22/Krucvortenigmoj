@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: higrom.xml,v 1.21 2023/11/15 17:08:00 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>higrometr</rad>/o
+</kap>
+<drv mrk="higrom.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MET</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="instru2.0o">Instrumento</ref>
+      por mezuri la malsekecon de la aero:
+      <ekz>
+        kiam la temperaturo alti&gcirc;as, la <tld/>a kapacito alti&gcirc;as kaj inverse, ju pli
+        malvarmas, des malpli la aero enhavas sekecon, &ccirc;ar ekstra akvovaporo
+        kondensi&gcirc;is
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=161657">Rosopunkto</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ciferecaj veterstacioj <klr>[&#x2026;]</klr> konsistas el du a&ubreve; pluraj partoj: la baza
+        stacio, kiu ricevas datenojn kaj analizas ilin, la sentiloj por mezuri la
+        datenojn <klr>[&#x2026;]</klr>: termometro (interne kaj ekstere), <tld/>o (interne
+        kaj ekstere), barometro (plej ofte interne), pluvmezurilo kaj ventmezurilo
+        (ekstere)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=577599">Veterstacio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_ib;&c_g;&c_r;&c_o;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>hygrometr</trd>,
+    <trd>vlhkom&ecaron;r</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Hygrometer</trd>,
+    <trd>Feuchtigkeitsmeter</trd>,
+    <trd>Feuchtigkeitsmesser</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_r;&a_T;&a_w;&a_b;&a_t;&zwnj;&a_s;&a_n;&a_j;</trd>,
+    <trd>&a_n;&a_m;&zwnj;&a_s;&a_n;&a_j;</trd>
+  </trdgrp>
+  <trd lng="fr">hygrom&egrave;tre</trd>
+  <trdgrp lng="hu">
+    <trd>l&eacute;gnedvess&eacute;gm&eacute;r&odblac;</trd>,
+    <trd>higrom&eacute;ter</trd>
+  </trdgrp>
+  <trd lng="it">igrometro</trd>
+  <trd lng="ja">&#x6E7F;&#x5EA6;&#x8A08;  <pr>&#x3057;&#x3064;&#x3069;&#x3051;&#x3044;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>hygrometer</trd>,
+    <trd>vochtigheidsmeter</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>higrometr</trd>
+  </trdgrp>
+  <trd lng="pt">higr&ocirc;metro</trd>
+  <trd lng="ru">&c_g;&c_i;&c_g;&c_r;&c_o;&c_m;&c_je;&c_t;&c_r;</trd>
+  <trd lng="sk">vlhkomer</trd>
+  <trd lng="uk">&#x433;&#x456;&#x433;&#x440;&#x43E;&#x43C;&#x435;&#x442;&#x440;</trd>
+  <trd lng="zh">&#x6E7F;&#x5EA6;&#x8BA1; <pr>sh&#x12B;d&#xF9;j&#xEC;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2023/10/16 05:55:37
+revo: transskribo per <pr>
+
+Revision 1.16  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2009/09/10 16:32:28  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2009/06/16 16:32:03  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2004/01/10 17:34:31  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2003/12/11 17:31:12  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/07/06 17:31:53  revo
+-->
+</vortaro>

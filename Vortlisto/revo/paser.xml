@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: paser.xml,v 1.32 2023/09/03 12:45:05 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>paser</rad>/o
+</kap>
+<drv mrk="paser.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="pasere.0oj"><tld/>edoj</ref> (<trd lng="la">Passer</trd>), vivanta precipe en urboj:
+      <ekz>
+        <tld/>o kaptita estas pli bona, ol aglo kaptota
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u oni ne vendas du paserojn por asaro
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 10:29</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        la historion a&ubreve;dis <klr>[mi]</klr> de la paseroj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Poligono</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj junaj <tld/>oj ne fari&gcirc;os najtingaloj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Najbaraj familioj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amase balanci&gcirc;adis la <tld/>oj sur la vinberbran&ccirc;oj kaj babiladis inter si
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova domo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ne&gcirc;a kovro kvaza&ubreve; trafalis en la teron kaj jen sur unu jen sur alia loko
+        elmontri&gcirc;is verda placeto, kie tuj eksvarmis <tld/>oj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj kaj paruoj flugetis inter la bran&ccirc;oj de la pomarboj
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i estas ankora&ubreve; <ind><tld/>o en la
+        aero</ind>
+        <fnt><bib>PrV</bib></fnt>
+        <klr> (nur projektita, ne efektivigita;
+        <refgrp tip="vid">vd. 
+          <ref cel="bird.0o">birdo</ref>,
+          <ref cel="nebul.0o">nebulo</ref>);
+        </refgrp></klr>
+        <trd lng="pl">gruszki na wierzbie</trd>
+      </ekz>
+      <ekz>
+        celis <tld/>on, trafis anseron
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pri tio jam &ccirc;iuj <tld/>oj babilas
+        <fnt><bib>PrV</bib></fnt>
+        <klr> (tio estas jam diskonata)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <bld lok="../bld/paser.jpg">
+    <ind>dom<tld/>o</ind>
+    <trd lng="bg">&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_o; &c_v;&c_r;&c_a;&c_b;&c_ch;&c_je;</trd>
+    <trd lng="br">golvan boutin</trd>
+    <trd lng="cs">vrabec dom&aacute;ci</trd>
+    <trd lng="de">Haussperling</trd>
+    <trd lng="en">house-sparrow</trd>
+    <trd lng="fr">moineau</trd>
+    <trd lng="hu">h&aacute;zi <ind>ver&eacute;b</ind></trd>
+    <trd lng="la">Passer domesticus</trd>
+    <trd lng="pl">wr&oacute;bel domowy</trd>
+    <trd lng="pt">pardal</trd>
+    <trd lng="ru">&c_d;&c_o;&c_m;&c_o;&c_v;&c_y;&c_j;
+    &c_v;&c_o;&c_r;&c_o;&c_b;&c_e;&c_j;</trd>
+  </bld>        
+  <trdgrp lng="br">
+    <trd>filip<klr tip="ind"> (evn)</klr></trd>,
+    <trd>golvan</trd>
+  </trdgrp>
+  <trd lng="cs">vrabec</trd>
+  <trdgrp lng="de">
+    <trd>Sperling</trd>,
+    <trd>Spatz</trd>
+  </trdgrp>
+  <trd lng="be">&c_v;&c_je;&c_r;&c_a;&c_b;&c_je;&c_j;</trd>
+  <trd lng="bg">&c_v;&c_r;&c_a;&c_b;&c_ch;&c_je;</trd>
+  <trdgrp lng="ca">
+    <trd>pardal</trd>,
+    <trd>teulad&iacute;</trd>
+  </trdgrp>
+  <trd lng="en">sparrow</trd>
+  <trd lng="es">gorri&oacute;n</trd>
+  <trd lng="fr">passereau</trd>
+  <trd lng="hu">ver&eacute;b</trd>
+  <trd lng="ja">&#x30B9;&#x30BA;&#x30E1;</trd>
+  <trd lng="nl">mus</trd>
+  <trd lng="pl">wr&oacute;bel</trd>
+  <trd lng="ru">&c_v;&c_o;&c_r;&c_o;&c_b;&c_je;&c_j;</trd>
+  <trd lng="sv">sparv</trd>
+  <trd lng="sk">vrabec</trd>
+  <trd lng="uk">&#x433;&#x43E;&#x440;&#x43E;&#x431;&#x435;&#x446;&#x44C;</trd>
+</drv>
+
+<drv mrk="paser.0oformaj">
+  <kap><tld/>oformaj</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="ord.0o.BIO" lst="voko:zoologiaj_ordoj">Ordo</ref> el la klaso <ref tip="malprt" cel="bird.0oj">birdoj</ref>
+      (<trd lng="la">Passeres</trd>, <trd lng="la">Passeriformes</trd>),
+      kies idoj malfermas la bekon &ccirc;e
+      tu&scirc;o de la beko a&ubreve; &ccirc;e tremeto de la nesto
+      ka&ubreve;zita de alveno de gepatra birdo.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_v;&c_r;&c_a;&c_b;&c_ch;&c_o;&c_p;&c_o;&c_d;&c_o;&c_b;&c_n;&c_i;</trd>
+  <trd lng="br">golvaneged</trd>
+  <trd lng="be">&c_v;&c_je;&c_r;&c_a;&c_b;'&c_ib;&c_n;&c_y;&c_ja; <klr tip="amb">(&c_a;&c_t;&c_r;&c_a;&c_d;)</klr></trd>
+  <trd lng="ca">passeriformes</trd>
+  <trd lng="de">Sperlingsv&ouml;gel</trd>
+  <trd lng="fr">pass&eacute;riformes</trd>
+  <trd lng="hu">ver&eacute;balak&uacute;ak</trd>
+  <trd lng="nl">zangvogels</trd>
+  <trd lng="pl">wr&oacute;blowate</trd>
+  <trd lng="ru">&c_v;&c_o;&c_r;&c_o;&c_b;&c_mol;&c_i;&c_n;&c_y;&c_je;
+  <klr tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+  <trd lng="sv">t&auml;ttingar</trd>
+  <trd lng="uk">&#x433;&#x43E;&#x440;&#x43E;&#x431;&#x446;&#x435;&#x43F;&#x43E;&#x434;&#x456;&#x431;&#x43D;&#x456;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2022/02/21 17:27:56
+Wolfram Diestel: +ekz-oj
+
+Revision 1.28  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/02/21 23:10:15  revo
+Alain Gerard: eraro en trd
+
+Revision 1.26  2013/09/04 08:10:09  revo
+Wolfram Diestel: fonto PrV
+
+Revision 1.25  2013/09/03 18:10:19  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.24  2013/09/03 17:10:23  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.23  2013/08/31 16:10:53  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
+Revision 1.22  2012/02/18 01:10:14  revo
+-->
+</vortaro>

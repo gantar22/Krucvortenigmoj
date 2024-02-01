@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: elf.xml,v 1.22 2023/11/07 20:34:10 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>elf</rad>/o
+</kap>
+<drv mrk="elf.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="elf.0o.MIT">
+    <uzo tip="fak">MIT</uzo>
+    <dif>
+      Supernatura homforma esta&jcirc;o
+    </dif>
+    <subsnc mrk="elf.0o.feo">
+      <dif>
+        Aer<ref tip="super" cel="fe.0o.MIT">feo</ref>:
+        <ekz>
+          la malgranda <tld/>o el la rozo <klr>...</klr> flugis el unu
+          floro al alia
+          <fnt><bib>Fab2</bib>, <lok>elfo de la rozo</lok></fnt>;
+        </ekz>
+        <ekz>
+          bruo iris tra la &ccirc;ambro, kvaza&ubreve; nevidebla amaso da <tld/>oj
+          akompanus la dancantojn
+          <fnt><bib>BdV</bib></fnt>.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="silf.0o.MIT">silfo</ref>
+    </subsnc>
+    <subsnc>
+      <dif>
+        Homsimila fikcia esta&jcirc;o havanta pintajn orelojn, kutime
+        belaspekta kaj kun forta ligo al magio a&ubreve; la naturo, kiu aperas
+        en multaj <ref tip="vid" cel="fantast.0o">fantastaj verkoj</ref>
+        ekde la 20-a jarcento:
+        <ekz>
+          la amo de la <tld/>oj al sia lando kaj siaj verkoj estas pli
+          profunda ol la profunda&jcirc;oj de l' Maro
+          <fnt>
+            <aut>J.R.R. Tolkien trad. William Auld</aut>
+            <vrk>La Mastro de l' Ringoj: La Kunularo de l' Ringo</vrk>
+            <lok>libro 2a. &ccirc;apitro 7a</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          Mez-tero, kies lo&gcirc;antoj konsistis el diversaj rasoj: homoj,
+          hobitoj, <tld/>oj, <ref tip="vid" cel="gnom.0o">gnomoj</ref>,
+          <ref tip="vid" cel="ork2.0o">orkoj</ref>, entoj, fantomoj,
+          duonhomoj, malicaj spiritoj, ktp, &ccirc;iuj parolantaj siajn
+          proprajn lingvojn
+          <fnt>
+            <aut>Garbhan MacAoidh</aut>,
+            <vrk><url ref="&Monato;/2002/007770.html">
+              Lingvo, mito kaj legendo</url></vrk>,
+            <bib>Monato</bib>,
+            <lok>2002:9, p. 17a</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_e;&c_l;&c_mol;&c_f;</trd>
+  <trdgrp lng="cs">
+    <trd>elf</trd>,
+    <trd>skandin&aacute;vsk&yacute; sk&rcaron;&iacute;tek</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Elf<klr> [skand]</klr></trd>,
+    <trd>Elfe<klr> [skand]</klr></trd>,
+    <trd>Elb<klr> [germ]</klr></trd>,
+    <trd>Elbe<klr> [germ]</klr></trd>
+  </trdgrp>
+  <trd lng="en">elf</trd>
+  <trd lng="es">elfo</trd>
+  <trd lng="fr">elfe</trd>
+  <trd lng="io">elfo</trd>
+  <trd lng="it">elfo</trd>
+  <trd lng="ja">&#x30A8;&#x30EB;&#x30D5; <pr>&#x3048;&#x308B;&#x3075;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>elf</trd>,
+    <trd>elfje</trd>
+  </trdgrp>
+  <trd lng="pl">elf</trd>
+  <trd lng="pt">elfo</trd>
+  <trd lng="ru">&c_e;&c_l;&c_mol;&c_f;</trd>
+  <trdgrp lng="sk">
+    <trd>elf</trd>,
+    <trd>&scaron;kriatok</trd>
+  </trdgrp>
+  <trd lng="uk">&#x435;&#x43B;&#x44C;&#x444;</trd>
+  <trd lng="zh">&#x9B49; <pr>li&#x1CE;ng</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+versio 1.20 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2020/12/03 23:10:15
+Sam Penter: + subsnc-oj; + ekz-oj; + trd-oj
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2010/12/02 17:30:31  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2008/06/12 19:06:37  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2007/06/27 16:31:47  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/07/24 16:32:46  revo
+-->
+</vortaro>

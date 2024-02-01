@@ -1,0 +1,438 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: propor.xml,v 1.32 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>proporci</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="propor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="propor.0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="rilat.0o.kvociento">Rilato</ref> de la grandoj de du a&ubreve; pluraj a&jcirc;oj
+      inter si.
+    </dif>
+    <subsnc mrk="propor.0o.parto_tuto">
+      <dif>
+        Rilato de la partoj inter si kaj kun la tuto:
+        <ekz>
+          skulptisto, kiu bone konis la <tld/>ojn
+          <fnt>
+            <bib>Tor</bib>
+            <lok>VI.</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          dudek centraj kolonoj havis po dek kvin pa&scirc;oj da &ccirc;irka&ubreve;o kaj kvar &gcirc;is kvin
+          eta&gcirc;ojn da alto, la statuoj en la templo, &ccirc;e la pilonoj, kaj &ccirc;e la sankta
+          lageto havis respondajn <tld/>ojn
+          <fnt>
+            <bib>Far3</bib>
+            <lok>&Ccirc;apitro IX</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          tri virinpersonoj kaj unu laboranta viro ne estas bona <tld/>o en hejmo
+          <fnt>
+            <bib>InfanTorent2</bib>
+            <lok>Dua Parto</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          fragmenta studobjekto <klr>[&#8230;]</klr> povas havi ian belecon en si mem, tamen,
+          nur en <klr>[&#8230;]</klr> <tld/>o kun la tuto, elsaltas &gcirc;ia vera arta valoro
+          <fnt>
+            <bib>Ret</bib>
+            <lok>Dua Parto</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la publiko kutime ne analizas la enhavon kaj la formon: &gcirc;i ne esploras la
+          <tld/>ojn de la parolado a&ubreve; de &gcirc;iaj partoj
+          <fnt>
+            <bib>Ret</bib>
+            <lok>Dua Parto</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          mi vole-nevole okulgustume pritaksadis la <tld/>ojn de &Scirc;ia korpo
+          <fnt>
+            <bib>SkandalJozef</bib>
+            <lok>Plendoj de Jozefo arestita</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="propor.0o.ekzemplero_tipo">
+      <dif>
+        Grandeco de objekto, rilate al alia analoga konsiderata kiel
+        tipo a&ubreve; normo:
+        <ekz>
+          la speguloj &ccirc;ion pligrandigadis en nekredebla <tld/>o
+          <fnt>
+            <bib>Fab1</bib>
+            <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <klr>[&scirc;i]</klr> grandi&gcirc;is &gcirc;is la gigantaj kaj tragediaj <tld/>oj de heroino en
+          antikvaj epokoj
+          <fnt>
+            <bib>ChL</bib>
+            <lok>&Ccirc;apitro Dekkvina</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          liaj elspezoj prenis fantaziajn <tld/>ojn
+          <fnt>
+            <bib>HsT</bib>
+            <lok>Disaj vojoj</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          vere kosmaj <tld/>oj
+          <fnt>
+            <bib>SatirRak</bib>
+            <lok>Liriko</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="propor.0o.lauxtempa">
+      <dif>
+        Grandeco de afero rilate al alia, kiu kreskas a&ubreve; malkreskas
+        samtempe kaj samgrade, kiel la unua:
+        <ekz>
+          &ccirc;iam devas esti <tld/>o inter risko kaj efiko
+          <fnt>
+            <bib>ChR</bib>
+            <lok>Stefano fu&gcirc;as de la polico</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la nombro de konkursantoj kaj la nombro de prezentitaj konkursa&jcirc;oj iom varias de
+          jaro al jaro sed la <tld/>oj estas proksimume samaj
+          <fnt>
+            <bib>EeP</bib>
+            <lok>Tria Parto</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="kvot.0o.KOMUNE">kvoto</ref>,
+      <ref cel="porci.0o">porcio</ref>
+    </refgrp>
+    <trdgrp lng="nl">
+      <trd>proportie</trd>,
+      <trd>verhouding</trd>
+    </trdgrp>
+    <trd lng="pl">proporcja</trd>
+  </snc>
+  <snc mrk="propor.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 8</lok></fnt>
+    <dif>
+      Egala&jcirc;o inter du <ref cel="frakci.algebra0o">algebraj
+      frakcioj</ref>:
+      <ekz>
+        <frm am="a//b=c//d"><k>a</k>/<k>b</k> = <k>c</k>/<k>d</k></frm>
+        estas <tld/>o
+        kun
+        <ref cel="term.0o.proporcio">termoj</ref>
+        <frm am="(a,b,c,d)">(<k>a</k>,<k>b</k>,<k>c</k>,<k>d</k>)</frm>.
+      </ekz>
+    </dif>
+    <rim>
+      Oni trovas en <fnt><bib>PV</bib></fnt> difinon pli vastan,
+      kiu ebligas nomi proporcio egala&jcirc;on inter frakcioj (geometria
+      <tld/>o) a&ubreve; du diferencoj (aritmetika <tld/>o). Tia uzo,
+      &scirc;ajne ne plu aktuala, rilatas kun la difino de aritmetika kaj
+      geometria meznombroj (la koncerna meznombro estas la komuna meza
+      termo
+      de samspeca <tld/>o).
+    </rim>
+    <trd lng="de">Verh&auml;ltnisgleichung</trd>
+    <trd lng="en">proportion</trd>
+    <trd lng="nl">evenredigheid</trd>
+    <trd lng="pl">proporcja</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_o;&c_r;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>pom&ecaron;r</trd>,
+    <trd>proporce</trd>,
+    <trd>&uacute;m&ecaron;ra</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Proportion</trd>,
+    <trd>Verh&auml;ltnis</trd>
+  </trdgrp>
+  <trd lng="es">proporci&oacute;n</trd>
+  <trd lng="fr">proportion</trd>
+  <trd lng="hu">ar&aacute;ny</trd>
+  <trdgrp lng="ja">
+    <trd>&#21106;&#21512;  <pr>&#x308F;&#x308A;&#12354;&#12356;</pr></trd>,
+    <trd>&#x91E3;&#21512;  <pr>&#12388;&#x308A;&#12354;&#12356;</pr></trd>,
+    <trd>&#x6BD4;&#29575;  <pr>&#12402;&#x308A;&#12388;</pr></trd>,
+    <trd>&#x6BD4;&#x4F8B;  <pr>&#12402;&#x308C;&#12356;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">propor&ccedil;&atilde;o</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_o;&c_r;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>pomer</trd>,
+    <trd>&uacute;mernos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_p;&c_o;&c_r;&c_c;&c_ib;&c_ja;</trd>,
+    <trd>(&c_s;&c_p;&c_ib;&c_v;)&c_v;&c_ib;&c_d;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_s;&c_p;&c_ib;&c_v;&c_r;&c_o;&c_z;&c_m;&c_ib;&c_r;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="propor.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="propor.0a.KOMUNE">
+    <dif>
+      Havanta kun alia kvanto rilaton de <tld/>o:
+      <ekz>
+        via taksado devas esti <tld/>a al <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 27:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al &ccirc;iu homa esta&jcirc;o oni devas doni kvanton da rajtoj kaj rimedoj precize <tld/>an
+        al la kvanto da devoj kaj respondeco
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;uste tiu <tld/>a harmonio de &ccirc;iuj partoj kaj partetoj perdigas al la detalo
+        &gcirc;ian propran individuecon
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la longeco de la enkonduko devas esti <tld/>a al la longeco du la tuta parolado
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la balotoj plenumi&gcirc;is la&ubreve; kombino de rekta elektado kaj <tld/>a reprezentado
+        <fnt>
+          <aut>Igarasi Takeo</aut>
+            <vrk><url ref="&Monato;/2000/007099.php">Koalicio kontuzita</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 7</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        Nov-Zelando havas <tld/>an elektosistemon similan al tiu de Germanio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2009/009755.php">&Ccirc;efministro kivia</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_a;&c_r;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
+    <trdgrp lng="cs">
+      <trd>alikvotn&iacute;</trd>,
+      <trd>proporcion&aacute;ln&iacute;</trd>,
+      <trd>propor&ccaron;n&iacute;</trd>,
+      <trd>&uacute;m&ecaron;rn&yacute;</trd>
+    </trdgrp>
+    <trd lng="de">proportional</trd>
+    <trd lng="es">proporcional</trd>
+    <trd lng="fr">proportionnel</trd>
+    <trd lng="hu">ar&aacute;nyos</trd>
+    <trd lng="nl">evenredig</trd>
+    <trd lng="pl">proporcjonalny</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_o;&c_r;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+    <trdgrp lng="sk">
+      <trd>primeran&yacute;</trd>,
+      <trd>&uacute;mern&yacute;</trd>
+    </trdgrp>
+    <trd lng="uk">&c_p;&c_r;&c_o;&c_p;&c_o;&c_r;&c_c;&c_ib;&c_j;&c_n;&c_i;&c_j;</trd>
+  </snc>
+  <snc mrk="propor.0a.belstatura">
+    <dif>
+      Havanta idealajn <tld/>ojn:
+      <ekz>
+        ili aspektis kiel homoj, sed estis pli <tld/>aj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ne tre altkreska korpo estis perfekte <tld/>a
+        <fnt>
+          <bib>ChB</bib>
+          <lok>14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="statur.bel0a">belstatura</ref>
+    <trd lng="de">wohlproportioniert</trd>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x91E3;&#x308A;&#21512;&#12356;&#x306E;&#12392;&#x308C;&#x305F; 
+    <pr>&#12388;&#x308A;&#12354;&#12356;&#x306E;&#12392;&#x308C;&#x305F;</pr></trd>,
+    <trd>&#x6BD4;&#x4F8B;&#12375;&#x305F;  <pr>&#12402;&#x308C;&#12356;&#12375;&#x305F;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="propor.0eal">
+  <kap><tld/>e al,
+  <var><kap><tld/>e kun</kap></var>
+  </kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="propor.0eal.KOMUNE">
+    <dif>
+      En rilata, kunmezurita grando kun...:
+      <ekz>
+        se restas ankora&ubreve; multe da jaroj, tiam <tld/>e al ili li redonu ela&ccirc;eton
+        <klr>[&#8230;]</klr> el la mono
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 25:51</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e al la nekura&gcirc;eco de la parolado aperas anka&ubreve; nekura&gcirc;eco de propagando
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Aldono</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kapablo de la homaro solvi problemojn kreskas <tld/>e al la grandeco de tiuj
+        problemoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zlatko Ti&scaron;ljar</aut>
+          <vrk><url ref="&Monato;/2014/011235.php">Kroata ekonomikisto Mladen Stani&ccaron;i&cacute; pri ekonomiaj
+          alternativoj</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni trovis malpli elvolvi&gcirc;intan blankan substancon en la maldekstra
+        cerbohemisfero <tld/>e kun la kvanto de aermalpura&jcirc;oj ensorbitaj de la
+        patrinoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paulo S&eacute;rgio Viana</aut>
+          <vrk><url ref="&Monato;/2015/011485.php">Malpura aero dama&gcirc;as infanan cerbon</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mezur.laux0ekiel.KOMUNE">la&ubreve;mezure kiel</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_p;&c_a;&c_r;&c_c;&c_y;&c_j;&c_n;&c_a; <klr>(&c_ch;&c_a;&c_m;&c_u;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>,
+    <trd>&c_u; <ind>&c_p;&c_r;&c_a;&c_p;&c_o;&c_r;&c_c;&c_y;&c_ib;</ind> &c_z; <klr>(&c_ch;&c_y;&c_m;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>in gleichem <ind>Ma&szlig;</ind>e wie</trd>,
+    <trd>im selben <ind>Verh&auml;ltnis</ind> zu</trd>,
+    <trd><ind>proportional</ind> zu</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&agrave; proportion de</trd>,
+    <trd>en fonction de</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;<ind>&#x306B;&#x6BD4;&#x4F8B;&#12375;&#12390;  </ind><pr>&#x306B;&#12402;&#x308C;&#12356;&#12375;&#12390;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#x306B;&#x91E3;&#x308A;&#21512;&#12387;&#12390;  </ind><pr>&#x306B;&#12388;&#x308A;&#12354;&#12387;&#12390;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>proporcjonalnie do</trd>,
+    <trd>proporcjonalnie z</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="propor.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="propor.mal0a.KOMUNE">
+    <dif>
+      Malegala la&ubreve; <tld/>o, malharmonia:
+      <ekz>
+        a&ubreve;taj kolizioj mal<tld/>e mortigas infanojn
+        <fnt>
+          <aut>Arono kaj Karlina</aut>,
+          <vrk>Radio Verda</vrk>,
+          <lok><url ref="http://radioverda.com/programoj/2012/6/12/rv192-20120612.html">
+          RV192</url>, 2012-06-12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pluraj malgrandaj &scirc;tatoj &ndash; pro la verkemo de tieaj korespondantoj &ndash;
+        reprezenti&gcirc;as en Monato mal<tld/>e al sia politika a&ubreve; ekonomia graveco
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2012/010646.php">Nia lando-principo: &ccirc;u silentigilo?</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nenio estas pli ridinda ol la mal<tld/>o inter ordinara, kelkfoje e&ccirc; banala
+        enhavo, kaj la emfazo de la vo&ccirc;o
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_je;&c_p;&c_r;&c_a;&c_p;&c_a;&c_r;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>unverh&auml;ltnism&auml;&szlig;ig</trd>,
+    <trd>unproportional</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;s&eacute;quilibr&eacute;</trd>,
+    <trd>disproportionn&eacute;</trd>
+  </trdgrp>
+  <trd lng="pl">nieproporcjonalny</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.32 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.31 2023/09/09 07:20:46
+Wolfram Diestel: kor. ja ind.
+
+versio 1.29 2023/05/07 22:26:49
+Vito Redsky: +trd pl
+
+versio 1.28 2023/05/01 08:31:44
+Paul Peeraerts: Steloj -> monato
+
+versio 1.27 2023/04/11 18:56:01
+aktualigo Monato-URL
+
+versio 1.26 2022/09/08 16:48:59
+Wolfram Diestel: ~e al, mal~a: +ekz, trd de
+
+versio 1.25 2022/09/08 06:11:12
+Wolfram Diestel: ~o, ~a: +ekz-oj, trd de; +~a snc "belstatura"
+
+versio 1.24 2022/07/15 07:30:31
+-->
+</vortaro>

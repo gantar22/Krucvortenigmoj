@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: durama.xml,v 1.21 2023/11/04 18:50:52 revo Exp $">
+<kap>
+  <rad>duramatr</rad>/o
+</kap>
+<drv mrk="durama.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">ANA</uzo>
+  <snc>
+    <dif>
+      La plej ekstera kaj la plej forta el la tri
+      <ref tip="super" cel="mening.0o">meningoj</ref>,
+      kiuj envolvas la cerbon:
+      <ekz>
+        meningo estas komuna nomo de la tri membranoj (<tld/>o, araknoido, piamatro),
+        kiuj &ccirc;irka&ubreve;tegas la cerbon kaj mjelon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=41664">Meningito</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        speciala metodo de loka anestezo estas &ccirc;irka&ubreve;-<tld/>a anestezo, kiu tempe
+        senfunkciigas la plej suban parton de la mjelo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=46479">Anestezo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+    <ref cel="piamat.0o">piamatro</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_c;&c_mol;&c_v;&c_jo;&c_r;&c_d;&c_a;&c_ja; &c_m;&c_a;&c_z;&c_g;&c_a;&c_v;&c_a;&c_ja; &c_a;&c_b;&c_a;&c_l;&c_o;&c_n;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_d;&c_u;&c_r;&c_a; &c_m;&c_a;&c_t;&c_je;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>podlebnice</trd>,
+    <trd>tvrd&aacute; bl&aacute;na mozkov&aacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+   <trd>harte Hirnhaut</trd>,
+   <trd>Pachymeninx</trd></trdgrp>
+  <trd lng="en">dura mater</trd>
+  <trd lng="fr">dure-m&egrave;re</trd>
+  <trdgrp lng="hu">
+    <trd>dura mater</trd>,
+    <trd>kem&eacute;ny <ind>agyh&aacute;rtya</ind></trd></trdgrp>
+  <trdgrp lng="it">
+    <trd>dura madre</trd>,
+    <trd>pachimeninge</trd>
+  </trdgrp>
+  <trd lng="ja">&#x786C;&#x819C;  <pr>&#x3053;&#x3046;&#x307E;&#x304F;</pr></trd>
+  <trd lng="la">Dura mater</trd>
+  <trdgrp lng="nl">
+    <trd>hard <ind>hersenvlies</ind></trd>,
+    <trd>dura mater</trd>
+  </trdgrp>
+  <trd lng="pl">opona twarda m&oacute;zgu</trd>
+  <trd lng="pt">dura-m&aacute;ter</trd>
+  <trd lng="ru">&c_t;&c_v;&c_jo;&c_r;&c_d;&c_a;&c_ja; &c_m;&c_o;&c_z;&c_g;&c_o;&c_v;&c_a;&c_ja; &c_o;&c_b;&c_o;&c_l;&c_o;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="sk">tvrd&aacute; mozgov&aacute; blana</trd>
+  <trd lng="uk">&c_t;&c_v;&c_je;&c_r;&c_d;&c_a; &#x43C;&#x43E;&c_z;&#x43A;&#x43E;&c_v;&c_a;
+  &#x43E;&c_b;&#x43E;&#x43B;&#x43E;&#x43D;&#x43A;&c_a;</trd>
+  <trd lng="zh">&#x8111;&#x819C; <pr>n&#x1CE;om&#xF3;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2023/10/14 14:40:08
+revo: transskribo per <pr>
+
+versio 1.18 2023/05/24 09:25:55
+Paul Peeraerts: + trd nl
+
+Revision 1.15  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/08/01 09:10:11  revo
+Joop Eggen: +trd bg
+
+Revision 1.12  2010/11/11 17:30:53  revo
+Antonio Codazzi: +trd it
+
+Revision 1.11  2007/09/08 16:30:30  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/01/15 17:31:43  revo
+-->
+</vortaro>

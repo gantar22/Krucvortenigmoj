@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konfront.xml,v 1.16 2023/12/03 09:58:55 revo Exp $">
+<kap>
+  <rad>konfront</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="konfront.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="konfront.0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Kunvenigi plurajn partiojn por a&ubreve;skulti kaj kompari iliajn
+      atesta&jcirc;ojn a&ubreve; argumentojn:
+      <ekz>
+        <nom>Jia Rong</nom> sendis <tld/>anton al la tribunalo
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 69a, volumo 2a, p.
+        465a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; &c_v;&c_o;&c_ch;&c_n;&c_u;&c_ju; <ind>&c_s;&c_t;&c_a;&c_w;&c_k;&c_u;</ind></trd>,
+      <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_p;&c_a;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+    </trdgrp>
+  <trd lng="de">gegen&uuml;berstellen</trd>
+  </snc>
+  <snc mrk="konfront.0i.defii">
+    <dif>
+      <klr>(iun a&ubreve; ion)</klr> Situigi en defia, problema, malagrabla situacio:
+      <ekz>
+        Japanio <klr>[estas]</klr> <tld/>ita kun memmortigo de lernejanoj, viktimoj de
+        lernejo&ccirc;ikanado
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Masaryk</nom> devis <tld/>i tiun fakton, kaj fari multajn kompromisojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2006/008886.php">Prisilentita heroo</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se vi volas malka&scirc;e <tld/>i la realon de la vivo, la libro estas rekomendenda
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2006/009002.php">Memoroj neniam perdas sian mal&gcirc;ojon</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        foresto de kritika analizado de propra komunumo, manko de intelekta opozicio kiu
+        <tld/>as la aliancon inter gloravidaj gvidantoj kaj apla&ubreve;danta plebo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="evit.0i">eviti</ref> (ion),
+      <ref cel="evit.0igi">evitigi</ref> (iun)
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="front.al0i">alfronti</ref>,
+      <ref cel="defi.0i">defii</ref>,
+      <ref cel="kontraux.0i.KOMUNE">kontra&ubreve;i<sncref/></ref>,
+      <ref cel="star.kontraux0i">kontra&ubreve;stari</ref>,
+      <ref cel="opon.0i">oponi</ref>,
+      <ref cel="spit.0i">spiti</ref>
+    </refgrp>
+    <trd lng="be">&c_s;&c_u;&c_t;&c_y;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>
+  </snc>
+  <trd lng="cs">konfrontovat</trd>
+  <trd lng="de">konfrontieren</trd>
+  <trd lng="es">confrontar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_r;&a_w;&f_y;&a_A;&a_r;&a_w; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_m;&a_w;&a_A;&a_j;&a_h;&a_h; &a_d;&a_A;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>confronter<klr> (devant tribunal)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5BFE;&#x8CEA;&#x3055;&#x305B;&#x308B;  <pr>&#x305F;&#x3044;&#x305F;&#x3060;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x5BFE;&#x6C7A;&#x3055;&#x305B;&#x308B;  <pr>&#x305F;&#x3044;&#x3051;&#x3064;&#x3055;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">confronteren<klr tip="ind"> (jur.)</klr></trd>
+  <trd lng="pl">konfrontowa&cacute;</trd>     
+  <trdgrp lng="pt">
+    <trd>confrontar</trd>,
+    <trd>acarear</trd>
+  </trdgrp>
+  <trd lng="ro">confrunta</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; <ind>&c_o;&c_ch;&c_n;&c_u;&c_ju; &c_s;&c_t;&c_a;&c_v;&c_k;&c_u;</ind></trd>
+  <trd lng="sk">konfrontova&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4F7F;&#x5BF9;&#x8D28; <pr>sh&#x1D0;du&#xEC;zh&#xEC;</pr></trd>,
+    <trd>&#x5BF9;&#x654C; <pr>du&#xEC;d&#xED;</pr></trd>,
+    <trd>&#x5BF9;&#x6218; <pr>du&#xEC;zh&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfront.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konfront.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Aran&gcirc;ita <ref tip="super" cel="ven.kun0o">kunveno</ref> de pluraj partioj en ju&gcirc;afero.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_o;&c_ch;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_a;&c_w;&c_k;&c_a;</trd>,
+      <trd>&c_n;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_y;&c_ja; &c_z;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_n;&c_y;</trd>
+    </trdgrp>
+  <trd lng="de">Gegen&uuml;berstellung</trd>
+  </snc>
+  <snc mrk="konfront.0i.defio">
+    <dif>
+      Situigo en defia, problema, malagrabla <ref tip="super" cel="situac.0o.cirkonstancaro">situacio</ref>:
+      <ekz>
+        &ccirc;iuj partoprenantoj multe lernis de tiu &ccirc;i sperto, per la instruado de la
+        trejnistoj, sed anka&ubreve; per opinioj &ccirc;e <tld/>o
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        krei spacon de dialogo kaj <tld/>o inter diversaj <klr>[grupoj]</klr>
+        <fnt>
+          <bib>LOdE</bib>
+          <lok> 2001, &#x2116;12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        konvencia militado estas kondukata per konvenciaj armiloj kaj batalkampaj
+        taktikoj inter du a&ubreve; pliaj &scirc;tatoj en malfermita <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2014/011172.php">Minacas nova armado-konkuro</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        frumarte denove okazis surstrataj <tld/>oj inter slavomakedonoj kaj
+        albanomakedonoj en <nom>Skopje</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2013/011002.php">Bruligita la flago</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+      <trdgrp lng="be">
+        <trd>&c_k;&c_a;&c_n;&c_f;&c_r;&c_a;&c_n;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>,
+        <trd>&c_s;&c_u;&c_t;&c_y;&c_k;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+      </trdgrp>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="front.0o">fronto</ref>,
+      <ref cel="atak.kontraux0o">kontra&ubreve;atako</ref>,
+      <ref cel="konfli.0o">konflikto</ref>,
+      <ref cel="opozic.0o.FON">opozicio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>konfrontace</trd>,
+    <trd>porovn&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Konfrontation</trd>
+  <trd lng="es">confrontaci&oacute;n</trd>
+  <trdgrp lng="fa">
+    <trd>&a_r;&a_w;&f_y;&a_A;&a_r;&a_w;&f_y;&f_y;</trd>,
+    <trd>&a_m;&a_w;&a_A;&a_j;&a_h;&a_h;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>confrontation</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5BFE;&#x8CEA;  <pr>&#x305F;&#x3044;&#x3057;&#x3064;</pr></trd>,
+    <trd>&#x5BFE;&#x8CEA;&#x5C0B;&#x554F;  <pr>&#x305F;&#x3044;&#x3057;&#x3061;&#x3058;&#x3093;&#x3082;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">confrontatie<klr tip="ind"> (jur.)</klr></trd>
+  <trd lng="pl">konfrontacja</trd>     
+  <trd lng="ro">confruntare</trd>
+  <trd lng="ru">&c_o;&c_ch;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_a;&c_v;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>konfront&aacute;cia</trd>,
+    <trd>porovnanie</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5BF9;&#x6297; <pr>du&#xEC;k&#xE0;ng</pr></trd>,
+    <trd>&#x5BF9;&#x5CD9; <pr>du&#xEC;zh&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.15 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.13 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.12 2022/03/29 09:37:04
+Dmitri Gabinski: + trd be
+
+versio 1.11 2021/12/28 15:31:46
+Wolfram Diestel: +snc defii/defio; ekz-oj, ref-oj, trd de
+
+Revision 1.9  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.7  2009/09/06 16:30:37  revo
+Paul Peeraerts: +nl
+
+Revision 1.6  2009/07/17 16:31:22  revo
+-->
+</vortaro>

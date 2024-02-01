@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dres.xml,v 1.22 2023/11/04 18:50:51 revo Exp $">
+  <kap>
+    <ofc>*</ofc>
+    <rad>dres</rad>/i
+  </kap>
+<drv mrk="dres.0i">
+  <kap>
+    <ofc>*</ofc>
+    <tld/>i
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dres.0i.malsovagxigi">
+    <dif>
+      <ref tip="super" cel="instru.0i.PED">Instrui</ref> beston por iu celo:
+      <ekz>
+        punita, kiel bovido ne <tld/>ita
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 31:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li povis <tld/>i hundon nombri de unu &gcirc;is tri
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> <tld/>is sian hundon tiamaniere, ke li &jcirc;etis al &gcirc;i paperpeceton
+        kaj <klr>[&#x2026;]</klr> la hundo devis &gcirc;in kapti kaj gluti
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &scirc;i estas <ind>ne<tld/>ebla</ind> <klr>(<ref cel="sovagx.0a">sova&gcirc;a</ref>)</klr> leonino
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>.
+        <trd lng="de">unb&auml;ndig</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_r;&c_e;&c_s;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="en">train</trd>
+    <trd lng="es">entrenar<klr tip="ind"> (un animal)</klr></trd>
+    <trd lng="fr">dresser<klr tip="ind"> (un animal)</klr></trd>
+    <trd lng="it">addestrare</trd>
+    <trd lng="pl">tresowa&cacute;</trd>
+    <trdgrp lng="pt">
+      <trd>domar</trd>,
+      <trd>amansar</trd>,
+      <trd>adrestar</trd>,
+      <trd>ensinar</trd>,
+      <trd>educar <klr tip="amb">(animais)</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_r;&c_je;&c_s;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="dres.0i.disciplini">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="dif" cel="discip.0i">Disciplini</ref>:
+      <ekz>
+        &leftquot;bone,&rightquot; respondis li, &leftquot;mi <tld/>os la gigantojn kaj ne bezonas por tio la cent
+        kavalirojn: kiu faligas sep per unu bato, tiun ne timigas du&rightquot;
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La kura&gcirc;a tajloreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nur la energia disciplino de la kolegio estas kapabla <tld/>i tiun komandeman
+        kaj kolereman karakteron
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;entila&jcirc;oj de iuj &leftquot;Vienaj Skoloj pri bona konduto&rightquot; per kiuj oni <tld/>is min en
+        infana&gcirc;o neniam infektis lin.
+        <fnt>
+          <aut>Spomenka &Scaron;timec</aut>
+          <vrk>Ombro sur interna pejza&gcirc;o</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi iru kaj kunpremu la gor&gcirc;on al tiu &ccirc;i <tld/>ita pa&scirc;tista hundo, ke la ru&gcirc;a
+        suko &scirc;prucu &ccirc;e li el &ccirc;iuj &scirc;vitporoj
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_u;&c_sh;&c_t;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_r;&c_e;&c_s;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_l;&c_a;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol; <ind>&c_d;&c_y;&c_s;&c_c;&c_y;&c_p;&c_l;&c_ib;&c_n;&c_u;</ind></trd>
+  </trdgrp>
+    <trdgrp lng="de">
+      <trd>disziplinieren</trd>,
+      <trd>z&uuml;geln</trd>
+    </trdgrp>
+  <trdgrp lng="en">
+    <trd>discipline</trd>,
+    <trd>restrain</trd>
+  </trdgrp>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="eduk.0i">eduki</ref>,
+    <ref cel="ekzerc.0i">ekzerci</ref>,
+    <ref cel="kondut.0i">kondut</ref>igi,
+    <ref cel="sovagx">malsova&gcirc;igi</ref>,
+    <ref cel="trejn.0i">trejni</ref>
+  </refgrp>  
+  <trdgrp lng="de">
+    <trd>dressieren</trd>,
+    <trd>abrichten</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8ABF;&#x6559;&#x3059;&#x308B;  <pr>&#x3061;&#x3087;&#x3046;&#x304D;&#x3087;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x8A13;&#x7DF4;&#x3059;&#x308B;  <pr>&#x304F;&#x3093;&#x308C;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x4ED5;&#x8FBC;&#x3080;  <pr>&#x3057;&#x3053;&#x3080;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_r;&c_je;&c_s;&c_i;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_m;&c_u;&c_sh;&c_t;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x99B4; <pr>x&#xFA;n</pr></trd>,
+    <trd>&#x8A13; <pr>x&#xF9;n</pr></trd>,
+    <trd>&#x57F9;&#x80B2; <pr>p&#xE9;iy&#xF9;</pr></trd>,
+    <trd>&#x57F9;&#x690D; <pr>p&#xE9;izh&#xED;</pr></trd>,
+    <trd>&#x57F9;&#x8A13; <pr>p&#xE9;ix&#xF9;n</pr></trd>
+  </trdgrp>
+</drv>
+<drv mrk="dres.0isto">
+  <kap>
+    <tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="lst" lst="voko:metioj" cel="hom.0o">Homo</ref>, kiu profesie 
+      <tld/>as bestojn:
+      <ekz>
+        cirka <tld/>isto
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bela <tld/>istino de leonoj permesis al leono preni pecon da sukero el &scirc;ia bu&scirc;o
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la korton eniris du <klr>[&#x2026;]</klr> <tld/>istoj de serpentoj kun sako plena de
+        venenaj rampa&jcirc;oj kaj komencis spektaklon
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="es">entrenador</trd>
+    <trd lng="fr">dresseur</trd>
+    <trd lng="pl">treser</trd>
+  </snc>
+  <trd lng="be">&c_d;&c_r;&c_e;&c_s;&c_ib;&c_r;&c_o;&c_w;&c_sh;&c_ch;&c_y;&c_k;</trd>
+  <trdgrp lng="de">
+    <trd>Dompteur</trd>,
+    <trd>Tierb&auml;ndiger</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>tamer</trd>,
+    <trd>animal tamer</trd>,
+    <trd>trainer</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8ABF;&#x6559;&#x5E2B;  <pr>&#x3061;&#x3087;&#x3046;&#x304D;&#x3087;&#x3046;&#x3057;</pr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_r;&c_je;&c_s;&c_i;&c_r;&c_u;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_b;&c_o;&c_r;&c_k;&c_u;&c_v;&c_a;&c_ch; (&c_z;&c_v;&c_ib;&c_r;&c_ib;&c_v;)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x99B4;&#x7378;&#x5E2B; <pr>x&#xFA;nsh&#xF2;ush&#x12B;</pr></trd>,
+    <trd>&#x8A13;&#x7DF4;&#x8005; <pr>x&#xF9;nli&#xE0;nzh&#x11B;</pr></trd>,
+    <trd>&#x99B4;&#x990A;&#x4EBA; <pr>x&#xFA;ny&#x1CE;ngr&#xE9;n</pr></trd>,
+    <trd>&#x99B4;&#x990A;&#x8005; <pr>x&#xFA;ny&#x1CE;ngzh&#x11B;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/14 14:40:07
+revo: transskribo per <pr>
+
+versio 1.19 2023/04/25 16:31:34
+Christian Siefkes: +trd en
+
+versio 1.18 2023/03/07 07:26:59
+Dmitri Gabinski: + trd be
+
+versio 1.16 2021/04/12 17:41:12
+Wolfram Diestel: +finpunkto
+
+versio 1.15 2021/04/12 07:00:58
+Wolfram Diestel: +snc FIG, ekz-oj, trd de
+
+Revision 1.13  2009/07/17 16:30:43  revo
+Sebastian Cyprych: +~isto +trd pl
+
+Revision 1.12  2007/09/02 16:30:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/12/14 17:30:50  revo
+-->
+</vortaro>

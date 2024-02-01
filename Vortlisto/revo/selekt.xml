@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: selekt.xml,v 1.26 2024/01/14 16:32:06 revo Exp $">
+<kap>
+  <rad>selekt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="selekt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="selekt.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="elekt.0i.KOMUNE">Elekti</ref>
+      kaj apartigi bonajn erojn, for&jcirc;etante aliajn.
+    </dif>
+    <subsnc mrk="selekt.0i.bredo">
+      <uzo tip="fak">BOT</uzo>
+      <uzo tip="fak">ZOO</uzo>
+      <dif>
+        Elekti kun la celo plibonigi specon, rason ks.
+      </dif>
+    </subsnc>
+    <rim>
+      Oni ne konfuzu kun <ref cel="elekt.0i">elekti</ref> en pli
+      &gcirc;enerala senco.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_e;&c_l;&c_je;&c_k;&c_c;&c_y;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol; <ind>&c_s;&c_e;&c_l;&c_je;&c_k;&c_c;&c_y;&c_ju;</ind></trd>
+  </trdgrp>
+  <trd lng="ca">seleccionar</trd>
+  <trdgrp lng="cs">
+    <trd>prov&#xE1;d&#x11B;t selekci</trd>,
+    <trd>prov&#xE1;d&#x11B;t v&#xFD;b&#x11B;r</trd>,
+    <trd>vyb&#xED;rat</trd>
+  </trdgrp>
+  <trd lng="de">selektieren</trd>
+  <trd lng="en">select</trd>
+  <trd lng="es">seleccionar</trd>
+  <trd lng="fr">s&eacute;lectionner</trd>
+  <trdgrp lng="hu">
+    <trd>kiv&aacute;laszt</trd>,
+    <trd>szelekt&aacute;l</trd>
+  </trdgrp>
+  <trd lng="it">selezionare<klr> (agr, allev, nat.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#36984;&#x629E;&#12377;&#x308B;  <pr>&#x305B;&#12435;&#x305F;&#x304F;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x6DD8;&#x6C70;&#12377;&#x308B;  <pr>&#12392;&#12358;&#x305F;&#12377;&#x308B;</pr></trd>,
+    <trd>&#20998;&#x96E2;&#12377;&#x308B;  <pr>&#12406;&#12435;&#x308A;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>selecteren</trd>,
+    <trd>kweken</trd>,
+    <trd>fokken</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dobiera&cacute;</trd>,
+    <trd>selekcjonowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_b;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_je;&c_l;&c_je;&c_k;&c_c;&c_i;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odladi&tcaron; <klr>(r&#xE1;dio, tel.)</klr></trd>,
+    <trd>selektova&tcaron;</trd>,
+    <trd>vybra&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_d;&#x43E;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_je;&#x43B;&c_je;&#x43A;&c_c;&c_ib;&#x43E;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="selekt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="selekt.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i a&ubreve; rezulto de tiu ago.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_e;&c_l;&c_je;&c_k;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_a;&c_d;&c_b;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="ca">selecci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>selekce</trd>,
+    <trd>v&#xFD;b&#x11B;r</trd>
+  </trdgrp>
+  <trd lng="de">Selektion</trd>
+  <trd lng="en">selection</trd>
+  <trd lng="es">selecci&oacute;n</trd>
+  <trd lng="fr">s&eacute;lection</trd>
+  <trdgrp lng="hu">
+    <trd>kiv&aacute;laszt&oacute;d&aacute;s</trd>,
+    <trd>szelekci&oacute;</trd>
+  </trdgrp>
+  <trd lng="it">selezione<klr> (agr, allev, nat.)</klr></trd>
+  <trd lng="nl">selectie</trd>
+  <trdgrp lng="pl">
+    <trd>dob&oacute;r</trd>,
+    <trd>selekcja</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_l;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_o;&c_t;&c_b;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>selekcia</trd>,
+    <trd>v&#xFD;ber</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_je;&#x43B;&c_je;&#x43A;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&c_d;&#x43E;&c_b;&c_ib;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="selekt.natura0o">
+  <kap>natura <tld/>o,
+  <var><kap>natura <tld/>ado</kap></var></kap>
+  <snc mrk="selekt.natura0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Rezulto de konkurado inter individuoj kaj grupoj por
+      pluvivado, pro kiu konservi&gcirc;as kaj naskas idojn
+      plej bone adaptitaj vivuloj:
+      <ekz>
+        konservon de favoraj varioj kaj forigon de
+        malfavoraj varioj, mi nomas Natura <tld lit="S"/>ado
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 4a</lok></fnt>;
+      </ekz>
+      <ekz>
+         ekzistas multaj aliaj faktoroj, kiuj influas la evolucion
+         apud la natura <tld/>o a&ubreve; kunlabore kun &gcirc;i
+         <fnt>
+           <bib>Viki</bib>,
+           <lok><url ref="&Viki;/Jaroslav_Flegr">
+           Jaroslav Flegr</url>, 2012-01-22</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_a;&c_d;&c_b;&c_o;&c_r;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;irozen&#xFD; v&#xFD;b&#x11B;r</trd>,
+    <trd>p&rcaron;&#xED;rodn&#xED; v&#xFD;b&#x11B;r</trd>
+  </trdgrp>
+  <trd lng="en">natural selection</trd>
+  <trd lng="es">selecci&oacute;n natural</trd>
+  <trd lng="fr">s&eacute;lection naturelle</trd>
+  <trd lng="hu">term&eacute;szetes <ind>kiv&aacute;laszt&oacute;d&aacute;s</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x81EA;&#28982;&#x6DD8;&#x6C70;  <pr>&#12375;&#x305C;&#12435;&#12392;&#12358;&#x305F;</pr></trd>,
+    <trd>&#x81EA;&#28982;&#36984;&#x629E;  <pr>&#12375;&#x305C;&#12435;&#x305B;&#12435;&#x305F;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">dob&oacute;r naturalny</trd>
+  <trd lng="sk">prirodzen&#xFD; v&#xFD;ber</trd>
+  <trd lng="uk">&#x43F;&c_r;&c_i;&c_r;&#x43E;&c_d;&#x43D;&c_i;&c_j; &c_d;&#x43E;&c_b;&c_ib;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2024/01/14 16:32:06
+Matt Brooks: +en traduko
+
+versio 1.25 2023/10/21 06:31:44
+revo: transskribo per <pr>
+
+versio 1.23 2023/08/06 22:27:06
+Vito Redsky: +trd pl
+
+versio 1.22 2022/10/28 07:30:56
+Dmitri Gabinski: + trd be
+
+versio 1.21 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.18  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/12/09 11:11:12  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.16  2012/08/17 13:10:09  revo
+-->
+</vortaro>

@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konces.xml,v 1.29 2023/12/03 09:58:54 revo Exp $">
+<kap>
+  <ofc>6</ofc>
+  <rad>koncesi</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konces.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konces.0i.JUR">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Doni <ref cel="konces.0o"><tld/>o</ref>n:
+      <ekz>
+        Vi estas nun la sola kaj plena proprulo de la libera poseda&jcirc;o, kiun Vi &gcirc;is nun
+        havis en farmo kiel <tld/>itan drinkejon
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi <tld/>os al mi la solan vendrajton por Britujo
+        <fnt>
+          <bib>KrM</bib>
+          <lok>35. Se Io Venas Al Bu&scirc;o, Bu&scirc;on Ne Fermu!</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        li pli bone kondukos <nom>Jorike</nom> <klr>[&#x2026;]</klr> ol <tld/>ita kapitano, kiu faras
+        nenion alian ol &ccirc;irka&ubreve;promeni la tutan tagon
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        komisiono <tld/>is la kanalojn al la du lastaj, sed Kanalo Tri, kiu proponis
+        plej grandan monsumon, proteste iniciatis ju&gcirc;aferon
+        <fnt><aut>Karlo Juh&aacute;sz</aut>,
+        <vrk><url ref="&Monato;/2000/006946.php">Apena&ubreve; Tri-umfo</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/08, p. 14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en <nom>Heuriger</nom> oni trinkas nur la vinon de la vitisto, tiun privilegion <tld/>is en
+        1784 la germana imperiestro Jozefo 2a
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2005/008410.php">Maldol&ccirc;a vino</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_d;&c_a;&c_c;&c_mol; &c_u; <ind>&c_k;&c_a;&c_n;&c_c;&c_e;&c_s;&c_ib;&c_ju;</ind></trd>
+  <trd lng="bg">&c_l;&c_i;&c_c;&c_je;&c_n;&c_z;&c_i; &c_z;&c_a; &c_v;&c_malmol;&c_z;&c_l;&c_a;&c_g;&c_a;&c_n;&c_je;</trd>
+  <trd lng="ca">concedir</trd>
+  <trdgrp lng="cs">
+    <trd>koncesionovat</trd>,
+    <trd>koncesovat</trd>,
+    <trd>povolit</trd>,
+    <trd>ud&ecaron;lit koncesi</trd>,
+    <trd>ud&ecaron;lit opr&aacute;vn&ecaron;n&iacute;</trd>,
+    <trd>&uacute;&rcaron;edn&ecaron; povolovat</trd>
+  </trdgrp>
+  <trd lng="de">konzessionieren</trd>
+  <trdgrp lng="en">
+    <trd>to <ind>license</ind></trd>,
+    <trd>to <ind>franchise</ind></trd>,
+    <trd>to <ind>concede</ind></trd>
+  </trdgrp>
+  <trd lng="es">conceder</trd>
+  <trdgrp lng="fr">
+    <trd>conc&eacute;der<klr tip="ind"> (donner en concession)</klr></trd>,
+    <trd>donner en <ind>concession</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>koncesszi&oacute;ba ad</trd>,
+    <trd>koncesszion&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x59D4;&#x8B72;&#x3059;&#x308B;  <pr>&#x3044;&#x3058;&#x3087;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6255;&#x3044;&#x4E0B;&#x3052;&#x308B;  <pr>&#x306F;&#x3089;&#x3044;&#x3055;&#x3052;&#x308B;</pr></trd>,
+    <trd>&#x8A8D;&#x53EF;&#x3059;&#x308B;  <pr>&#x306B;&#x3093;&#x304B;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">in <ind>concessie</ind> geven</trd>
+  <trdgrp lng="pl">
+    <trd>koncesji  udziela&cacute;</trd>,
+    <trd>koncesjonowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">dar em <ind>concess&atilde;o</ind></trd>
+  <trdgrp lng="ro">
+    <trd>concesii grant</trd>,
+    <trd>sunt licen&#x21B;iate</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_d;&c_a;&c_t;&c_mol; &c_v; &c_k;&c_o;&c_n;&c_c;&c_je;&c_s;&c_s;&c_i;&c_ju;</trd>
+  <trdgrp lng="sk">
+    <trd>koncesova&tcaron;</trd>,
+    <trd>udeli&tcaron; koncesiu</trd>,
+    <trd>&uacute;radne povoli&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konces.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konces.0o.JUR">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="vid" cel="privil.0o">Privilegio</ref>, <ref tip="super" cel="rajt.0o">rajto</ref> 
+      donita de oficiala instanco por ekspluati ion:
+      <ekz>
+        ju pli klaraj fari&gcirc;os <klr>[&#x2026;]</klr> avanta&gcirc;oj de la berlina varianto, des pli
+        da espero havas lia firmao ricevi <tld/>on por la moskva metropoliteno
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &Scirc;anhaja Esperantista Ligo eskapis persekutojn nur dank&#x2019; al tio, ke &gcirc;ia sidejo
+        trovi&gcirc;is en la angla <tld/>o
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en Anglio <klr>[&#x2026;]</klr> publika muziko kaj vendo de alkohola&jcirc;oj sen <tld/>o ne
+        estas permesataj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2012/010361.php">Lisuarte</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        reveki&gcirc;is la intereso de la eksterlandaj kompanioj por ricevi minejajn <tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2011/010474.php">Ri&ccirc;a tero, malri&ccirc;a popolo</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per specialaj impost-liberaj <tld/>oj, la registaro instigis neregatan
+        konstruadon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2011/010291.php">Tigro, kiu ne plu roras</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="prt" cel="permes.0ilo">permesilo</ref>
+    <ref tip="vid" cel="uz.frukt0o">fruktuzo</ref>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_c;&c_e;&c_s;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_n;&c_c;&c_je;&c_s;&c_i;&c_ja;</trd>
+  <trd lng="ca">concessi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>koncese</trd>,
+    <trd>povolen&iacute;</trd>,
+    <trd>&uacute;stupek</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Konzession</trd>,
+    <trd>Franchise</trd>,
+    <trd>Zulassung <klr>(Konzession)</klr></trd>,
+    <trd>Befugnis <klr>(Konzession)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>concession</trd>,
+    <trd>franchise</trd>
+  </trdgrp>
+  <trd lng="es">concesi&oacute;n</trd>
+  <trd lng="fr">concession<klr tip="ind"> (commerciale)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>koncesszi&oacute;</trd>,
+    <trd>kihaszn&aacute;l&aacute;si <ind>enged&eacute;ly</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x59D4;&#x8B72;  <pr>&#x3044;&#x3058;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x6255;&#x4E0B;&#x3052;  <pr>&#x306F;&#x3089;&#x3055;&#x3052;</pr></trd>,
+    <trd>&#x8A8D;&#x53EF;  <pr>&#x306B;&#x3093;&#x304B;</pr></trd>,
+    <trd>&#x5229;&#x6A29;  <pr>&#x308A;&#x3051;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">concessie</trd>
+  <trd lng="pl">koncesja</trd>     
+  <trd lng="ro">concesiune</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_c;&c_je;&c_s;&c_s;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>koncesia</trd>,
+    <trd>povolenie</trd>,
+    <trd>&uacute;stupok</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7279;&#x8A31; <pr>t&#xE8;x&#x1D4;</pr></trd>,
+    <trd>&#x7279;&#x8A31;&#x6B0A; <pr>t&#xE8;x&#x1D4;qu&#xE1;n</pr></trd>,
+    <trd>&#x92B7;&#x552E;&#x8A31;&#x53EF; <pr>xi&#x101;osh&#xF2;ux&#x1D4;k&#x11B;</pr></trd>,
+    <trd>&#x8A31;&#x53EF; <pr>x&#x1D4;k&#x11B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konces.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="konces.0ulo.JUR">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Natura a&ubreve; jura persono ricevinta <tld/>on:
+      <ekz>
+        <tld/>uloj vendantaj novajn a&ubreve;tojn profitas el tiu situacio, kaj &ccirc;iujare
+        plialti&gcirc;as ilia vendado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Fidilalao Henriel</aut>
+          <vrk><url ref="&Monato;/2007/009054.php">A&ubreve;tokomerco pli strikte regulita</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en septembro 2010 la <tld/>uloj pri purigado de Madrido minacis la urbestron pri
+        nepago de la salajroj de siaj 12&#x202F;000 laboristoj pro 289-miliona &scirc;uldo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hektor Alos i Font</aut>
+          <vrk><url ref="&Monato;/2011/010496.php">Ne pagi por ne &scirc;uldi</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;i-sube <ctl>vi</ctl> indikas <tld/>ulon de la Permesilo
+        <fnt><vrk>GNUa &Gcirc;enerala Publika Permesilo</vrk></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Se <frm>A</frm> <tld/>as al <frm>B</frm> la rajton
+      <frm>C</frm>, tiam
+      <frm>A</frm> estas <tld/>anto,
+      <frm>B</frm> estas <tld/>ulo, kaj
+      <frm>C</frm> estas <tld/>(at)a&jcirc;o.
+    </rim>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_c;&c_e;&c_s;&c_ib;&c_ja;&c_n;&c_e;&c_r;</trd>
+  <trd lng="bg">&c_l;&c_i;&c_c;&c_je;&c_n;&c_z;&c_i;&c_a;&c_n;&c_t;</trd>
+  <trd lng="ca">concessionari</trd>
+  <trd lng="cs">koncesion&aacute;&rcaron;</trd>
+  <trdgrp lng="de">
+    <trd>Konzession&auml;r</trd>,
+    <trd>Konzessionsinhaber</trd>
+  </trdgrp>
+  <trd lng="en">licensee</trd>
+  <trd lng="es">concesionario<klr> (persona o entidad que recibe una
+  concesi&oacute;n)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>concessionnaire</trd>,
+    <trd>titulaire d'une <ind>concession</ind></trd>
+  </trdgrp>
+  <trd lng="hu">koncesszi&oacute;tulajdonos</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8B72;&#x53D7;&#x4EBA;  <pr>&#x3086;&#x305A;&#x308A;&#x3046;&#x3051;&#x306B;&#x3093;</pr></trd>,
+    <trd>&#x7372;&#x5F97;&#x8005;  <pr>&#x304B;&#x304F;&#x3068;&#x304F;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>koncesjonariusz</trd>,
+    <trd>licencjobiorca</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>concesionar </trd>,
+    <trd>titularul licen&#x21B;ei</trd>
+  </trdgrp>  
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_c;&c_je;&c_s;&c_s;&c_i;&c_o;&c_n;&c_je;&c_r;</trd>
+  <trd lng="sk">koncesion&aacute;r</trd>  
+  <trdgrp lng="zh">
+    <trd>&#x7279;&#x8A31;&#x6B0A;&#x7372;&#x5F97;&#x8005; <pr>t&#xE8;x&#x1D4;qu&#xE1;nhu&#xF2;d&#xE9;zh&#x11B;</pr></trd>,
+    <trd>&#x7279;&#x8A31;&#x7D93;&#x92B7;&#x5546; <pr>t&#xE8;x&#x1D4;j&#x12B;ngxi&#x101;osh&#x101;ng</pr></trd>,
+    <trd>&#x7D93;&#x92B7;&#x6B0A;&#x6240;&#x6709;&#x8005; <pr>j&#x12B;ngxi&#x101;oqu&#xE1;nsu&#x1D2;y&#x1D2;uzh&#x113;</pr></trd>,
+    <trd>&#x8A31;&#x53EF;&#x8A3C;&#x6301;&#x6709;&#x4EBA; <pr>x&#x1D4;k&#x11B;zh&#xE8;ngch&#xED;y&#x1D2;ur&#xE9;n</pr></trd>,
+    <trd>&#x6301;&#x724C;&#x4EBA; <pr>ch&#xED;p&#xE1;ir&#xE9;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.26 2023/04/27 10:31:07
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.25 2023/04/11 16:10:36
+aktualigo Monato-URL
+
+versio 1.24 2022/06/27 06:39:36
+Wolfram Diestel: +ekz-oj, trd de
+
+Revision 1.22  2017/02/15 15:10:18  revo
+Jeromo Vasxe: eksluziva -> ekskluziva
+
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/01/22 19:10:12  revo
+-->
+</vortaro>

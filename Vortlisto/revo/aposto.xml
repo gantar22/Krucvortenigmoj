@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: aposto.xml,v 1.27 2023/10/28 08:33:08 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>apostol</rad>/o
+</kap>
+<drv mrk="aposto.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="aposto.0o.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      &Ccirc;iu el la &ccirc;efaj <ref cel="discxi.0o.FIL">dis&ccirc;iploj<sncref/></ref>,
+      kiujn <ref cel="krist.0o">Kristo</ref> elektis por prediki
+      evangelion:
+      <ekz>
+        li elektis dek du, kiujn anka&ubreve; li nomis <tld/>oj,
+        por ke ili estu kun li, kaj por ke li dissendu ilin
+        por prediki
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Mar; 3:14</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <trd lng="zh">&#x4F7F;&#x5F92; <pr>sh&#x1D0;t&#xFA;</pr></trd>
+</snc>
+  <snc mrk="aposto.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Fervora, sindona propagandisto:
+       <ekz>
+        la Kembri&gcirc;anoj akceptas nin hodia&ubreve; ne kiel komercistojn,
+        kiuj alportas al ili profiton, sed kiel <tld/>ojn
+        de ideo homara
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Tria Kongreso, 1907 en Cambridge</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="misi.0o">misio</ref>,
+      <ref cel="pionir.0o">pioniro</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_o;&c_s;&c_t;&c_a;&c_l;</trd>
+  <trd lng="cs">apo&scaron;tol</trd>
+  <trdgrp lng="de">
+    <trd>Apostel</trd>,
+    <trd>J&uuml;nger</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>apostle</trd>,
+    <trd>disciple</trd>
+  </trdgrp>
+  <trd lng="es">ap&oacute;stol</trd>
+  <trd lng="fa">&a_H;&a_w;&a_A;&a_r;&f_y;</trd>
+  <trd lng="fr">ap&ocirc;tre</trd>
+  <trd lng="he">&#x5E9;&#x5DC;&#x5D9;&#x5D7;</trd>
+  <trdgrp lng="hu">
+    <trd>apostol</trd>,
+    <trd>tan&iacute;tv&aacute;ny</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F7F;&#x5F92;  <pr>&#x3057;&#x3068;</pr></trd>,
+    <trd>&#x4F1D;&#x9053;&#x8005;  <pr>&#x3067;&#x3093;&#x3069;&#x3046;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">aposto&lstroke;</trd>
+  <trd lng="ro">apostol</trd>
+  <trd lng="ru">&c_a;&c_p;&c_o;&c_s;&c_t;&c_o;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>apo&scaron;tol</trd>,
+    <trd>vierozvest</trd>
+  </trdgrp>
+  <trd lng="uk">&c_a;&#x43F;&#x43E;&c_s;&c_t;&#x43E;&#x43B;</trd>
+</drv>
+
+<drv mrk="aposto.0i">
+  <kap><tld/>i</kap>
+  <snc>
+    <dif>
+      Diligente, fervore diskonigi, kiel <tld/>o:
+      <ekz>
+        ni devas <tld/>i tra la mondo ne nur la lingvon
+        Esperanto, sed anka&ubreve; tion, por kio &gcirc;i estis kreita
+        &dash; la interpopolan interproksimi&gcirc;on kaj simpation
+        <fnt>
+          <aut>Lidia Zamenhof</aut>
+          <vrk>Nia Misio</vrk>
+          <lok>Esperanto, 1934 (12), p. 166a-167a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="predik.0i">prediki</ref>,
+       <ref cel="propag.0i">propagandi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="fr">r&eacute;pandre<klr> (faire connaitre)</klr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/13 16:46:48
+revo: transskribo per <pr>
+
+versio 1.24 2022/04/28 07:29:58
+Dmitri Gabinski: + trd be
+
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/06/21 09:10:15  revo
+Vito Redsky: +trd pl ro
+
+Revision 1.17  2010/05/02 16:30:56  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2005/04/27 16:32:10  revo
+Raul Salinas Monteagudo: korekto trd es
+
+Revision 1.15  2003/11/10 17:31:04  revo
+-->
+</vortaro>

@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mi.xml,v 1.116 2023/10/19 16:45:37 revo Exp $">
+<kap>
+   <ofc>*</ofc> <rad>mi</rad>
+</kap>
+
+<drv mrk="mi.0">
+   <kap><ofc>*</ofc><tld/></kap>
+   <gra><vspec>pronomo</vspec></gra>
+   <snc mrk="mi.0.KOMUNE">
+     <dif>
+       La parolanto (gramatike: unua persono en ununombro):
+       <ekz>
+         <tld/> dankas vin por la prunto
+         <fnt>
+           <bib>F</bib>
+           <vrk>&FE; 14</vrk>
+         </fnt>;
+       </ekz>
+       <ekz>
+         <tld/>a, <tld/>n kaj <tld/> en mondo re&gcirc;as tri
+         <fnt><bib>PrV</bib></fnt>.
+       </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">Ek</trd>
+  <trd lng="am">&#4773;&#4756;</trd>
+  <trd lng="ar">&a_A_hamza_sure;&a_n;&a_A;</trd>
+  <trd lng="az">m&#601;n</trd>
+  <trd lng="be">&c_ja; <klr>(&c_z;&c_a;&c_j;&c_m;.)</klr></trd>
+  <trd lng="bg">&c_a;&c_z;</trd>
+  <trd lng="bn">&#2438;&#2478;&#2495;</trd>
+  <trd lng="bo">&t_nga;&t_tsheg;</trd>
+  <trd lng="br">me</trd>
+  <trd lng="bs">ja</trd>
+  <trdgrp lng="ca">
+    <trd>jo</trd>,
+    <trd>mi</trd>
+  </trdgrp>
+  <trd lng="cs">m&iacute; <klr>(&rcaron;eck&eacute; p&iacute;smeno)</klr></trd>
+  <trd lng="da">jeg</trd>
+  <trd lng="de">ich</trd>
+  <trdgrp lng="en">
+    <trd>I</trd>,
+    <trd>me</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>yo</trd>,
+    <trd>mi</trd>
+  </trdgrp>
+  <trd lng="fi">min&auml;</trd>
+  <trd lng="fr">je</trd>
+  <trd lng="fy">ik</trd>
+  <trd lng="ga">m&eacute;</trd>
+  <trd lng="gd">tha mi a &#8216;</trd>
+  <trd lng="gu">&#2745;&#2753;&#2690;</trd>
+  <trd lng="ha">ina</trd>
+  <trd lng="he">&alef;&nun;&yod;</trd>
+  <trd lng="hi">&#2350;&#2376;&#2306;</trd>
+  <trd lng="hmn">kuv</trd>
+  <trd lng="hr">ja</trd>
+  <trd lng="ht">mwen</trd>
+  <trd lng="hu">&eacute;n</trd>
+  <trd lng="hy">&#1381;&#1405;</trd>
+  <trd lng="ia">io</trd>
+  <trdgrp lng="id">
+     <trd>aku</trd>,
+     <trd>saya</trd>
+  </trdgrp>
+  <trd lng="ig">m</trd>
+  <trd lng="io">me</trd>
+  <trd lng="is">&eacute;g</trd>
+  <trd lng="it">io</trd>
+  <trdgrp lng="ja">
+    <trd>&#31169; <pr>&#12431;&#12383;&#12375;</pr></trd>
+    <trd>&#20693; <pr>&#12412;&#12367;</pr></trd>
+    <trd>&#12354;&#12383;&#12375;</trd>
+  </trdgrp>
+  <trd lng="jv">aku</trd>
+  <trd lng="ka">&#4311;&#4317;&#4309;&#4314;&#4312;</trd>
+  <trd lng="kk">&c_m;&c_je;&c_n;</trd>
+  <trd lng="km">&#6017;&#6098;&#6025;&#6075;&#6086;</trd>
+  <trd lng="kn">&#3240;&#3262;&#3240;&#3265;</trd>
+  <trd lng="ko">&#45208;&#45716;</trd>
+  <trd lng="ku">ez</trd>
+  <trd lng="ky">&c_m;&c_je;&c_n;</trd>
+  <trd lng="lo">&#3714;&#3785;&#3762;&#3742;&#3760;&#3776;&#3720;&#3771;&#3785;&#3762;</trd>
+  <trd lng="lt">A&scaron;</trd>
+  <trd lng="lv">es</trd>
+  <trd lng="mi">ahau</trd>
+  <trd lng="mk">&#1112;&c_a;&c_s;</trd>
+  <trd lng="ml">&#3358;&#3390;&#3368;&#3405;</trd>
+  <trd lng="mn">&c_b;&c_i;</trd>
+  <trd lng="mr">&#2350;&#2368;</trd>
+  <trd lng="ms">saya</trd>
+  <trd lng="my">&#4096;&#4155;&#4157;&#4116;&#4154;&#4112;&#4145;&#4140;&#4154;</trd>
+  <trd lng="ne">&#2350;</trd>
+  <trd lng="nl">ik</trd>
+  <trd lng="ny">ine</trd>
+  <trd lng="pa">&#2606;&#2632;&#2600;&#2626;&#2672;</trd>
+  <trd lng="pl">ja</trd>
+  <trd lng="ps">&a_z;&a_h;</trd>
+  <trd lng="pt">eu</trd>
+  <trd lng="ru">&c_ja;</trd>
+  <trd lng="sd">&a_m;&a_w;&a_n; &f_k;&a_y;</trd>
+  <trd lng="si">&#3512;&#3512;</trd>
+  <trdgrp lng="sk">
+    <trd>ja</trd>,
+    <trd>m&iacute; <klr>(gr&eacute;cke p&iacute;smeno)</klr></trd>
+  </trdgrp>
+  <trd lng="sm">ou</trd>
+  <trd lng="sn">ini</trd>
+  <trd lng="so">ayaan</trd>
+  <trd lng="sq">I</trd>
+  <trd lng="st">ke</trd>
+  <trd lng="su">abdi</trd>
+  <trd lng="sv">jag</trd>
+  <trd lng="sw">mimi</trd>
+  <trd lng="ta">&#2984;&#3006;&#2985;&#3021;</trd>
+  <trd lng="te">&#3112;&#3143;&#3112;&#3137;</trd>
+  <trd lng="tg">&c_m;&c_a;&c_n;</trd>
+  <trdgrp lng="th">
+    <trd>&#3593;&#3633;&#3609;</trd>,
+    <trd>&#3612;&#3617;</trd>
+  </trdgrp>
+  <trd lng="tl">ako</trd>
+  <trd lng="tok">mi</trd>
+  <trd lng="tt">&c_M;&c_i;&c_n;</trd>
+  <trd lng="uk">&c_Ja;</trd>
+  <trd lng="ur">&a_m;&f_y;&#1722;</trd>
+  <trd lng="uz">men</trd>
+  <trd lng="vi">t&ocirc;i</trd>
+  <trd lng="vo">ob</trd>
+  <trd lng="xh">mna</trd>
+  <trd lng="yi">&alef;&yod;&fkaf;</trd>
+  <trd lng="yo">mo ti</trd>
+  <trdgrp lng="zh">
+    <trd>&#25105; <pr>w&#466;</pr></trd>
+    <trd>&#21566; <pr>w&uacute;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mi.0a">
+  <kap><ofc>*</ofc><tld/>a <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5112">mi'a</url></lok></fnt></kap>
+  <snc mrk="mi.0a.KOMUNE">
+    <dif>
+      Posedata de <tld/>, rilata al <tld/>:
+      <ekz>
+        <tld/> jam havas <tld/>an &ccirc;apelon
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/> vizitis vian kuzon kaj <tld/>a vizito faris al li plezuron
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">my</trd>
+  <trd lng="am">&#4840;&#4773;&#4756;</trd>
+  <trd lng="ar">&a_l;&a_y;</trd>
+  <trd lng="az">m&#601;nim</trd>
+  <trdgrp lng="bg">
+    <trd>&c_m;&c_o;&c_j;</trd>,
+    <trd>&c_m;&c_i;</trd>
+  </trdgrp>
+  <trd lng="be">&c_m;&c_o;&c_j;</trd>
+  <trd lng="bn">&#2438;&#2478;&#2494;&#2480;</trd>
+  <trd lng="bs">moj</trd>
+  <trd lng="ca">meu</trd>
+  <trd lng="co">u mo</trd>
+  <trdgrp lng="cs">
+    <trd>moje</trd>,
+    <trd>m&uring;j</trd>
+  </trdgrp>
+  <trd lng="cy">fy</trd>
+  <trd lng="da">min</trd>
+  <trd lng="de">mein</trd>
+  <trd lng="en">my</trd>
+  <trd lng="et">minu</trd>
+  <trd lng="eu">nire</trd>
+  <trdgrp lng="fr">
+    <trd>mon</trd>,
+    <trd>ma</trd>
+  </trdgrp>
+  <trdgrp lng="fi">
+    <trd>minun ... -ni</trd>,
+    <trd>-<ind>ni</ind></trd>
+  </trdgrp>
+  <trd lng="fy">myn</trd>
+  <trd lng="ga">mo</trd>
+  <trd lng="gd">mo</trd>
+  <trd lng="gl">meu</trd>
+  <trd lng="gu">&#2734;&#2750;&#2736;&#2750;</trd>
+  <trd lng="hi">&#2350;&#2375;&#2352;&#2375;</trd>
+  <trd lng="hmn">kuv</trd>
+  <trd lng="hr">moj</trd>
+  <trd lng="ht">mwen</trd>
+  <trd lng="hy">&#1387;&#1396;</trd>
+  <trdgrp lng="id">
+    <trd><ind>milik</ind>ku</trd>,
+    <trd><ind>milik</ind> saya</trd>
+  </trdgrp>
+  <trd lng="ig">m</trd>
+  <trd lng="io">mea</trd>
+  <trd lng="is">minn</trd>
+  <trdgrp lng="ja">
+    <trd>&#31169;&#12398; <pr>&#12431;&#12383;&#12375;&#12398;</pr></trd>
+    <trd>&#20693;&#12398; <pr>&#12412;&#12367;&#12398;</pr></trd>
+    <trd>&#12354;&#12383;&#12375;&#12398;</trd>
+  </trdgrp>
+  <trd lng="jv">sandi</trd>
+  <trd lng="ka">&#4329;&#4308;&#4315;&#4312;</trd>
+  <trd lng="kk">&c_m;&c_je;&c_n;&c_ib;&#1187;</trd>
+  <trd lng="km">&#6042;&#6036;&#6047;&#6091;&#6017;&#6098;&#6025;&#6075;&#6086;</trd>
+  <trd lng="kn">&#3240;&#3240;&#3277;&#3240;</trd>
+  <trd lng="ko">&#45236;</trd>
+  <trd lng="ku">ya min</trd>
+  <trd lng="ky">&c_m;&c_je;&c_n;&c_i;&c_n;</trd>
+  <trd lng="la">meus</trd>
+  <trd lng="lat">mea</trd>
+  <trd
+  lng="lo">&#3714;&#3757;&#3719;&#3714;&#3785;&#3762;&#3742;&#3760;&#3776;&#3720;&#3771;&#3785;&#3762;</trd>
+  <trd lng="lt">mano</trd>
+  <trd lng="lv">mans</trd>
+  <trd lng="mg">ny</trd>
+  <trd lng="mi">toku</trd>
+  <trd lng="mk">&c_m;&c_o;&#1112;&c_a;&c_t;&c_a;</trd>
+  <trd lng="ml">&#3342;&#3368;&#3405;&#3377;&#3398;</trd>
+  <trd lng="mn">&c_M;&c_i;&c_n;&c_i;&c_j;</trd>
+  <trd lng="mr">&#2350;&#2366;&#2333;&#2366;</trd>
+  <trd lng="ms">saya</trd>
+  <trd lng="mt">tieg&#295;i</trd>
+  <trd lng="my">&#4100;&#4139;&#4151;</trd>
+  <trd lng="ne">&#2350;&#2375;&#2352;&#2379;</trd>
+  <trd lng="nl">mijn</trd>
+  <trd lng="ny">wanga</trd>
+  <trd lng="pa">&#2606;&#2631;&#2608;&#2631;</trd>
+  <trd lng="pl">m&oacute;j</trd>
+  <trd lng="ps">&a_z;&a_m;&a_A; &a_d;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_o;&c_j;</trd>,
+    <trd>&c_m;&c_o;&c_ja;</trd>
+    <trd>&c_m;&c_o;&c_jo;</trd>
+    <trd>&c_m;&c_o;&c_i;</trd>
+  </trdgrp>
+  <trd lng="sd">&a_m;&a_n;&a_h;&a_n;&a_j;&a_y;</trd>
+  <trd lng="si">&#3512;&#3484;&#3546;</trd>
+  <trdgrp lng="sk">
+    <trd>moje</trd>,
+    <trd>m&ocirc;j</trd>
+  </trdgrp>
+  <trd lng="sm">lo&#699;u</trd>
+  <trd lng="sn">dzangu</trd>
+  <trd lng="so">aan</trd>
+  <trd lng="sq">tim</trd>
+  <trd lng="st">ka</trd>
+  <trd lng="su">mah</trd>
+  <trd lng="sw">yangu</trd>
+  <trd lng="ta">&#2958;&#2985;&#3021;&#2985;&#3009;&#2975;&#3016;&#2991;</trd>
+  <trd lng="te">&#3112;&#3134;</trd>
+  <trd lng="tg">&c_a;&c_z; &c_m;&c_a;&c_n;</trd>
+  <trdgrp lng="th">
+    <trd>&#3586;&#3629;&#3591;&#3593;&#3633;&#3609;</trd>,
+    <trd>&#3586;&#3629;&#3591;&#3612;&#3617;</trd>
+  </trdgrp>
+  <trd lng="tl">ko</trd>
+  <trd lng="tok">mi</trd>
+  <trd lng="tt">&c_m;&c_i;&c_n;&c_je;&c_m;</trd>
+  <trd lng="uk">&c_m;&c_ib;&c_j;</trd>
+  <trd lng="ur">&a_m;&f_y;&a_r;&a_A;</trd>
+  <trd lng="uz">mening</trd>
+  <trd lng="vi">c&#7911;a t&ocirc;i</trd>
+  <trdgrp lng="vo">
+    <trd>obik</trd>,
+    <trd>oba</trd>
+  </trdgrp>
+  <trd lng="xh">yam</trd>
+  <trd lng="yi">&mem;&yod;&yod;&#1463;&fnun;</trd>
+  <trd lng="yo">mi</trd>
+  <trdgrp lng="zh">
+    <trd>&#25105; [<ind>w&#466;</ind>] <klr tip="ind">(adj.)</klr></trd>
+    <trd>&#25105;&#30340; <pr>w&#466; de</pr></trd>
+  </trdgrp>
+  <trd lng="zu">yami</trd>
+</drv>
+
+<drv mrk="mi.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="mi.0o.KOMUNE">
+    <dif>
+      La propra, memkonscia tuto de homo, rigardata kiel konstanta tra la tempo:
+      <ekz>
+        kelkaj memstaraj poemoj <klr>[&#8230;]</klr> kvaza&ubreve; a&ubreve;digas dialogon
+        inter la &leftquot;<tld/>o&rightquot; de la poeto kaj la ekstera realo
+        <fnt>
+          <aut>G. Berveling</aut>
+          <vrk><url ref="&Monato;/2013/010730.php">Brile versform-fidela traduko &gcirc;uinda</url></vrk>
+          <lok>Monato, 2013:12, p. 26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ego.0o">egoo</ref>,
+      <ref cel="indivi.0o">individuo</ref>,
+      <ref cel="mem.0o">memo</ref>,
+      <ref cel="person.0o.homo">persono<sncref/></ref>,
+      <ref cel="subjek.0o.FIL">subjekto<sncref/></ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_ja; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
+  <trdgrp lng="de">
+    <trd><klr>(das) </klr>Ich</trd>,
+    <trd>Selbst</trd>,
+    <trd>Ego</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ego</trd>,
+    <trd>self<klr> (noun)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">le <ind>moi</ind><klr> (subst.)</klr></trd>
+  <trd lng="uk">&c_s;&c_v;&c_o;&c_jeu;/&c_v;&c_l;&c_a;&c_s;&c_n;&c_je; &rightquot;&c_ja;&#8221;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.116 2023/10/19 16:45:37
+revo: transskribo per <pr>
+
+versio 1.115 2023/06/10 12:39:12
+Christian Siefkes: +trd de, en
+
+versio 1.114 2022/07/11 13:05:32
+Dmitri Gabinski: + trd be
+
+versio 1.113 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.111 2022/02/21 22:27:32
+Jeromo Vasxe: ~ laux skemo de "vi", ~a + ekz, + ~o
+
+versio 1.110 2021/12/17 17:40:28
+Warut Bunprasert: +trd th
+
+versio 1.38 2020/12/29 11:10:34
+Aleks Andre: +trd bo
+
+versio 1.37 2020/10/04 09:11:01
+-->
+</vortaro>

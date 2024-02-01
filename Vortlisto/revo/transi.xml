@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: transi.xml,v 1.23 2023/10/21 14:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>transit</rad>/o
+</kap>
+
+<drv mrk="transi.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">TRA</uzo>
+    <dif>
+      Alcela <ref tip="super" cel="mov.0o">movo</ref> pasanta tra unu a&ubreve; pluraj kromaj lokoj kaj
+      konsiderata rilate al tiuj kromlokoj:
+      <ekz>
+        senimposta <tld/>o de varoj tra la lando;
+      </ekz>
+      <ekz>
+        la <tld/>o de ruslandanoj tra Litovio <klr>[&#x2026;]</klr> al <nom>Kaliningrad</nom>
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#x2116; 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekspor.0o">eksporto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_z;&c_y;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>pr&uring;voz</trd>,
+    <trd>transit</trd>,
+    <trd>tranzit</trd>
+  </trdgrp>
+  <trd lng="de">Transit</trd>
+  <trd lng="en">transit</trd>
+  <trd lng="fr">transit</trd>
+  <trdgrp lng="hu">
+    <trd>tranzit</trd>,
+    <trd>&aacute;thalad&aacute;s</trd>,
+    <trd>&aacute;tmen&odblac;forgalom</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x514D;&#x7A0E;&#x901A;&#x904E;  <pr>&#x3081;&#x3093;&#x305C;&#x3044;&#x3064;&#x3046;&#x304B;</pr></trd>,
+    <trd>&#x30C8;&#x30E9;&#x30F3;&#x30B8;&#x30C3;&#x30C8;</trd>
+  </trdgrp>
+  <trd lng="nl">transit</trd>
+  <trd lng="pt">tr&acirc;nsito</trd>
+  <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_z;&c_i;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>cesta tovaru cez krajinu colne nezainteresovan&uacute;</trd>,
+    <trd>prevoz</trd>,
+    <trd>tranzit</trd>
+  </trdgrp>
+  <trd lng="uk">&c_t;&c_r;&c_a;&c_n;&c_z;&c_i;&c_t;</trd>
+</drv>
+
+<drv mrk="transi.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o; trapasa:
+      <ekz>
+        la po&scirc;ta&jcirc;oj difinitaj por la eksterlando kaj por <tld/>a trairo <klr>[&#x2026;]</klr>
+        estas alportataj rekte al la Berlina &ccirc;efa urba po&scirc;tejo
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        senviza <tld/>a veturado
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#x2116; 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>a pasa&gcirc;ero</ind>, vizo, flugo, tarifo;
+        <trd lng="hu">tranzitutas</trd>
+        <trd lng="nl">transitpassagier</trd>
+      </ekz>
+      <ekz>
+        Albanio i&gcirc;os <tld/>a punkto inter la okcidenta kaj orienta merkatoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2003/007967.html">La Oka Koridoro</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="ir.trans0a.loke">transira</ref>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_z;&c_y;&c_t;&c_n;&c_y;</trd>
+  <trd lng="de">Transit-</trd>
+</drv>
+
+
+<drv mrk="transi.0a_reto">
+  <kap><tld/>a reto</kap>
+  <snc>
+    <uzo tip="fak">RET</uzo>
+    <dif>
+      <ref tip="super" cel="ret.komputila0o">Komputila reto</ref>,
+      transmetanta paka&jcirc;ojn ne nur inter siaj
+      lokaj retnodoj, sed anka&ubreve; inter pluraj aliaj retoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_z;&c_y;&c_t;&c_n;&c_a;&c_ja; &c_s;&c_je;&c_t;&c_k;&c_a;</trd>
+  <trd lng="de">Transit-Netzwerk</trd>
+  <trd lng="en">transit network</trd>
+  <trd lng="fr">r&eacute;seau de transit<klr> (informatique)</klr></trd>
+  <trd lng="hu">tranzith&aacute;l&oacute;zat</trd> 
+  <trd lng="nl">transitnetwerk</trd> 
+  <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_z;&c_i;&c_t;&c_n;&c_a;&c_ja;
+  &c_s;&c_je;&c_t;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.21 2023/04/11 19:23:02
+aktualigo Monato-URL
+
+versio 1.20 2023/01/27 08:32:56
+Dmitri Gabinski: + trd be
+
+versio 1.19 2022/08/14 09:28:16
+Wolfram Diestel: +ekz; +~a
+
+versio 1.17 2021/05/10 07:03:27
+Wolfram Diestel: kor. drv@mrk
+
+Revision 1.15  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/12/05 09:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.13  2009/07/01 17:22:42  revo
+-->
+</vortaro>

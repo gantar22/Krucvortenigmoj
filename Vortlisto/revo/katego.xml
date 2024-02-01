@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: katego.xml,v 1.28 2023/12/03 08:00:25 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kategori</rad>/o
+</kap>
+<drv mrk="katego.0o">
+  <kap><ofc>1</ofc><tld/>o</kap>
+  <snc mrk="katego.0o.klaso">
+    <fnt><bib>VdE</bib></fnt>
+    <dif>
+      &Ccirc;iu el la <ref tip="sin" cel="klas.0o.speco">klaso</ref>j, en
+      kiuj oni ordigas samspecajn personojn, objektojn a&ubreve; faktojn:
+      <ekz>
+        se por akiri reputacion de granda pensulo necesas verki peze, enuige kaj nebule
+        <klr>[&#x2026;]</klr>, <nom>Volter</nom> ne povas esti metata en tiun <klr>[kategorion]</klr>
+        <fnt><bib>Kandid</bib> <lok>Anta&ubreve;parolo</lok></fnt>;
+      </ekz><ekz>
+        ekzistas <tld/>o da personoj, kiujn oni nomas emancipitaj virinoj, al tiu
+        <tld/>o apartenas pensionestrinoj, aku&scirc;istinoj, dancistinoj, <klr>[&#x2026;]</klr>
+        <fnt><bib>Fab3</bib> <lok>Du pavimbatiloj</lok></fnt>;
+      </ekz><ekz>
+        la tuta <tld/>o de la adverboj
+        <fnt>
+          <bib>LR</bib>
+          <lok>Unua Parto &ndash; Leksikologio</lok>
+        </fnt>;
+      </ekz><ekz>
+        la provoj de la unua <tld/>o estis tiel komplikitaj kaj tiel nepraktikaj, ke &ccirc;iu
+        el ili mortis tuj post la naski&gcirc;o, la provoj de la dua <tld/>o jam prezentis
+        per si lingvojn, sed da internacia ili havis en si nenion
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz><ekz>
+        &ccirc;iujn specojn de paroladoj <klr>[Aristotelo]</klr> dividas je tri &ccirc;efaj
+        <tld/>oj: paroladoj <esc>deliberativaj</esc> (politikaj), <esc>demonstrativaj</esc> kaj ju&gcirc;ejaj
+        <fnt><bib>Ret</bib> <lok>Dua Parto</lok></fnt>;
+      </ekz><ekz>
+        la sonoraj literoj, estas la vokaloj, dum al la dua <tld/>o apartenas la
+        konsonantoj
+        <fnt><bib>Ret</bib> <lok>Dua Parto</lok></fnt>;
+      </ekz><ekz>
+        pri fripono oni diras, ekzemple, &leftquot;la bona apostolo&rightquot; a&ubreve; &leftquot;la honestulo&rightquot;, pri
+        neklerulo oni diras &leftquot;nia Sokrato&rightquot;, tiuj ekzemploj apartenas al <tld/>o de
+        tropoj
+        <fnt><bib>Ret</bib> <lok>Dua Parto</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="malprt">
+      <ref cel="klasif.0o">klasifiko</ref>,
+      <ref cel="sistem.0o.SCI">sistemo<sncref/></ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="spec.0o.klaso">speco<sncref/></ref>,
+      <ref cel="takson.0o">taksono</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="katego.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      &Ccirc;iu el la plej bazaj eroj de &ccirc;ia kono:
+      <ekz>
+        la dek <tld/>oj de Aristotelo <fnt><bib>PIV2</bib></fnt>;
+      </ekz><ekz>
+        Efektive, ili signifas la kvar plej &gcirc;eneralajn <tld/>ojn, en
+        kiuj la penso klasas la pensobjektojn: la <em>konkretajn</em>
+        (a&jcirc;oj kaj uloj) kaj la <em>abstraktajn</em> (agoj kaj
+        kvalitoj)
+        <fnt><bib>PAG</bib>, <lok>&para;325</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_e;&c_g;&c_o;&c_r;&c_y;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd>Kategorie</trd>,
+    <trd>Klasse</trd>,
+    <trd>Gruppe</trd>,
+    <trd>Gattung</trd>
+  </trdgrp>
+  <trd lng="en">category</trd>
+  <trd lng="es">categor&iacute;a</trd>
+  <trd lng="fa">&a_m;&a_q;&a_w;&a_l;&a_h;</trd>
+  <trdgrp lng="fr">
+    <trd>cat&eacute;gorie</trd>,
+    <trd>classe</trd>,
+    <trd>groupe</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kateg&oacute;ria</trd>,
+    <trd>oszt&aacute;ly</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x90E8;&#x985E;  <pr>&#x3076;&#x308B;&#x3044;</pr></trd>,
+    <trd>&#x90E8;&#x9580;  <pr>&#x3076;&#x3082;&#x3093;</pr></trd>,
+    <trd>&#x7A2E;&#x985E;  <pr>&#x3057;&#x3085;&#x308B;&#x3044;</pr></trd>,
+    <trd>&#x7B49;&#x7D1A;  <pr>&#x3068;&#x3046;&#x304D;&#x3085;&#x3046;</pr></trd>,
+    <trd>&#x30AB;&#x30C6;&#x30B4;&#x30EA;&#x30FC;</trd>,
+    <trd>&#x7BC4;&#x7587;  <pr>&#x306F;&#x3093;&#x3061;&#x3085;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">categorie</trd>
+  <trd lng="pl">kategoria</trd>
+  <trd lng="ro">categorie</trd>
+  <trd lng="ru">&c_k;&c_a;&c_t;&c_je;&c_g;&c_o;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="uk">&c_k;&c_a;&c_t;&c_je;&c_g;&c_o;&c_r;&c_ib;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7BC4;&#x7587; <pr>f&#xE0;nch&#xF3;u</pr></trd>,
+    <trd>&#x5C5E; <pr>sh&#x1D4;</pr></trd>,
+    <trd>&#x9580; <pr>m&#xE9;n</pr></trd>,
+    <trd>&#x4F87; <pr>y&#xED;</pr></trd>,
+    <trd>&#x9580;&#x985E; <pr>m&#xE9;nl&#xE8;i</pr></trd>,
+    <trd>&#x7C7B;&#x76EE; <pr>l&#xE8;im&#xF9;</pr></trd>,
+    <trd>&#x7C7B; <pr>l&#xE8;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="katego.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="katego.0a.de_kategorio">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        la traduko de esprima&jcirc;oj el unu penso<tld/>a al alia penso<tld/>a sistemo &scirc;ajnas
+        ebla, se ni supozas, ke amba&ubreve; <tld/>-sistemoj estas perfekte konataj
+        <fnt><bib>EeP</bib> <lok>Dua Parto</lok></fnt>;
+      </ekz><ekz>
+        A-<tld/>a militkrimulo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Johan Derks</aut>
+          <vrk><url ref="&Monato;/2007/009221.php">Neniu konsolo</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_t;&c_e;&c_g;&c_a;&c_r;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="es">de <ind>categor&iacute;a</ind></trd>
+    <trd lng="fa">&a_m;&a_q;&a_w;&a_l;&a_h;&zwnj;&a_A;&f_y;</trd>
+    <trdgrp lng="fr">
+      <trd>de <ind>cat&eacute;gorie</ind></trd>,
+      <trd>cat&eacute;goriel</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kateg&oacute;ria-</trd>,
+      <trd>oszt&aacute;ly-</trd>
+    </trdgrp>
+    <trd lng="ru">&c_k;&c_a;&c_t;&c_je;&c_g;&c_o;&c_r;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <ref tip="hom" cel="katego1.0a.senkondicxa">kategoria (absoluta)</ref>
+  <trdgrp lng="cs">
+    <trd>kategorick&yacute;</trd>,
+    <trd>nepodn&iacute;n&ecaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>kategorisch</trd>,
+    <trd>kategoriebezogen</trd>
+  </trdgrp>
+  <trd lng="en">categorical</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7BC4;&#x7587;&#x306E;  <pr>&#x306F;&#x3093;&#x3061;&#x3085;&#x3046;&#x306E;</pr></trd>,
+    <trd>&#x65AD;&#x8A00;&#x7684;&#x306A;  <pr>&#x3060;&#x3093;&#x3052;&#x3093;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x5B9A;&#x8A00;&#x7684;&#x306A;  <pr>&#x3066;&#x3044;&#x3052;&#x3093;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x7D76;&#x5BFE;&#x7684;&#x306A;  <pr>&#x305C;&#x3063;&#x305F;&#x3044;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x7121;&#x6761;&#x4EF6;&#x306E;  <pr>&#x3080;&#x3058;&#x3087;&#x3046;&#x3051;&#x3093;&#x306E;</pr></trd>,
+    <trd>&#x660E;&#x78BA;&#x306A;  <pr>&#x3081;&#x3044;&#x304B;&#x304F;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">categorisch</trd>
+  <trdgrp lng="pl">
+    <trd>kategoryczny</trd>,
+    <trd>stanowczy</trd>,
+    <trd>zdeklarowany</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>categoric</trd>,
+    <trd>declarat</trd>,
+    <trd>ferm</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kategorick&yacute;</trd>,
+    <trd>rozhodn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_a;&c_t;&c_je;&c_g;&c_o;&c_r;&c_ib;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_a;&c_t;&c_je;&c_g;&c_o;&c_r;&c_i;&c_ch;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_u;&c_m;&c_o;&c_v;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_ib;&c_sh;&c_u;&c_ch;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_a;&c_p;&c_je;&c_l;&c_ja;&c_c;&c_ib;&c_j;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E00;&#x6982; <pr>y&#x12B;g&#xE0;i</pr></trd>,
+    <trd>&#x65AD;&#x7136; <pr>du&#xE0;nr&#xE1;n</pr></trd>,
+    <trd>&#x76F4;&#x622A;&#x4E86;&#x5F53; <pr>zh&#xED;ji&#xE9;li&#x1CE;od&#xE0;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="katego.gramatika0o">
+  <kap>gramatika <tld/>o</kap>
+  <uzo tip="fak">LIN</uzo>
+  <snc mrk="katego.gramatika0o.parolelemento">
+    <dif>
+      <ref tip="dif" cel="elemen.parol0o">Parolelemento</ref>:
+      <ekz>
+        kompreneble ni devis fronti la tre oficialan sed kontestatan
+        demandon de la gramatikaj <tld/>oj de la radikoj
+        <fnt><aut>Georges Lagrange</aut> <bib>LOdE</bib>
+          <lok>&#x2116;105 (2003:7)</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="katego.gramatika0o.eco">
+    <dif>
+      &Ccirc;iu el la plej abstraktaj ecoj de klaso da lingvaj unuoj,
+      kiun koncerna lingvo esprimas gramatike:
+      <ekz>
+        en Esperanto kazo, nombro, tenso, vo&ccirc;o, komparacio estas
+        ekzemploj pri gramatikaj <tld/>oj;
+      </ekz><ekz>
+        Se iu lingvo havas la <tld/>on genro, &gcirc;i nepre havas anka&ubreve;
+        la <tld/>on nombro
+        <fnt><aut>J.C.Wells</aut>:
+          <vrk>Lingvistikaj aspektoj de Esperanto</vrk> <lok>1978.</lok>
+        </fnt>;
+      </ekz><ekz>
+        <klr>[akordado]</klr> signifas, ke unu signifero, a&ubreve; indikilo de unu
+        gramatika <tld/>o, povas aperi du fojojn a&ubreve; pli, en apartaj
+        vortoj
+        <fnt><aut>J.C.Wells</aut>:
+          <vrk>Lingvistikaj aspektoj de Esperanto</vrk> <lok>1978.</lok>
+        </fnt>;
+      </ekz><ekz>
+        kial ekzistas gramatika <tld/>o por tempo en multege da
+        lingvoj, sed nenio tia por spaco <klr>&#x2026;</klr> ?
+        <fnt><aut>Kirilo Brosch</aut>:
+          <vrk>Spaco kaj lingvo &mdash; &ccirc;u facila afero?</vrk>
+          <bib>Monato</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">grammatical category</trd>
+    <trd lng="ru">&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja; &c_k;&c_a;&c_t;&c_je;&c_g;&c_o;&c_r;&c_i;&c_ja;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x8A5E;&#x6027; <pr>c&#xED;x&#xEC;ng</pr></trd>,
+    <trd>&#x8A5E;&#x985E; <pr>c&#xED;l&#xE8;i</pr></trd>
+  </trdgrp>
+</snc>
+  <rim>
+    <ref cel="katego.gramatika0o.parolelemento">Gramatika <tld/>o<sncref/></ref>,
+    bazita sur <ref cel="katego.0o.klaso"><tld/>o<sncref/></ref>,
+    estas tre ofta en esperantologio, kvankam &gcirc;i devias de la tradicia
+    terminaro lingvoscienca. Internacie la samformaj terminoj
+    respondas al la signifo
+    <ref cel="katego.gramatika0o.eco">gramatika <tld/>o<sncref/></ref>.
+    <aut>Sergio Pokrovskij</aut>
+  </rim>
+  <trd lng="ja">&#x6587;&#x6CD5;&#x7BC4;&#x7587;  <pr>&#x3076;&#x3093;&#x307D;&#x3046;&#x306F;&#x3093;&#x3061;&#x3085;&#x3046;</pr></trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/18 14:48:10
+revo: transskribo per <pr>
+
+versio 1.25 2023/08/25 15:24:16
+Wolfram Diestel: sintaksaj adaptoj
+
+versio 1.24 2023/04/11 16:10:36
+aktualigo Monato-URL
+
+versio 1.23 2022/07/22 12:58:10
+Sergio Pokrovskij: + rim
+
+versio 1.22 2022/07/22 10:37:01
+Sergio Pokrovskij: + ~o.2, + gramatika ~o
+
+versio 1.21 2022/05/22 12:50:24
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.20 2022/05/14 12:54:50
+Wolfram Diestel: +ekz-oj, ref-oj; apartigi ~a (senkondi&ccirc;a) al propra art
+
+versio 1.19 2022/04/29 10:33:27
+-->
+</vortaro>

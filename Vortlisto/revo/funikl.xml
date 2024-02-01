@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: funikl.xml,v 1.24 2023/11/10 06:08:01 revo Exp $">
+<kap>
+  <rad>funikl</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="funikl.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="funikl.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Membrana tubo kun arterio kaj du vejnoj, kiuj kunligas la feton al
+      la placento;
+      <ref tip="sin" cel="umbili.0asxnuro">umbilika &scirc;nuro</ref>:
+      <ekz>
+        kulio venis al mi por vendi malgrandan katidon, kiun li kaptis en la kuturejo
+        <klr>[...]</klr> &gcirc;i estis tiel novnaskita, ke &gcirc;i ankora&ubreve; havis resta&jcirc;on de
+        sia <tld/>o
+        <fnt>
+          <aut>P. T. Justesen</aut>
+          <vrk><url ref="http://www.tekstoj.nl/mr/MR452.pdf">Kiel bestoj kondutas</url></vrk>
+          <lok>Malgranda Revuo, 1945:2, p. 16a-25a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_u;&c_p;&c_a;&c_v;&c_ib;&c_n;&c_a;</trd>
+    <trd lng="bg">&c_p;&c_malmol;&c_p;&c_a; &c_k;&c_a;&c_b;&c_je;&c_l;</trd>
+    <trd lng="de">Nabelschnur</trd>
+    <trd lng="en">umbilical cord</trd>
+    <trd lng="fr">cordon ombilical</trd>
+    <trdgrp lng="it">
+      <trd><ind>funicolo</ind> ombelicale</trd>,
+      <trd><ind>cordone</ind> ombelicale</trd>
+    </trdgrp>
+    <trd lng="nl">navelstreng</trd>
+    <trd lng="pl">sznur p&eogonek;pkowy</trd>
+    <trdgrp lng="pt">
+      <trd>fun&iacute;culo</trd>,
+      <trd>cord&atilde;o umbilical</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_u;&c_p;&c_o;&c_v;&c_i;&c_n;&c_a;</trd>
+    <trd lng="zh">&#x8110;&#x5E26; <pr>q&#xED;d&#xE0;i</pr></trd>
+</snc>
+  <snc mrk="funikl.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Organo, kiu kunligas la ovolojn al la placento:
+      <ekz>
+        placento &ccirc;e plantoj estas tiu angia parto de perikarpo, al kiu la grajnoj estas
+        alfiksitaj per la <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=40133">Placento</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_je;&c_m;&c_ja;&c_n;&c_o;&c_zh;&c_k;&c_a;</trd>
+    <trd lng="de">Funiculus</trd>
+    <trd lng="en">funiculus</trd>
+    <trd lng="fr">funicule<klr tip="ind"> (bot.)</klr></trd>
+    <trd lng="it">funicolo<klr> (bot.)</klr></trd>
+    <trd lng="nl">funiculus</trd>
+    <trd lng="pl">p&eogonek;powina</trd>
+    <trdgrp lng="pt">
+      <trd>fun&iacute;culo</trd>,
+      <trd>podosperma</trd>,
+      <trd>podospermo</trd>,
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_je;&c_m;&c_ja;&c_n;&c_o;&c_zh;&c_k;&c_a;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>poutko</trd>,
+    <trd>&scaron;&ncaron;&uring;ra vaje&ccaron;n&aacute;</trd>
+  </trdgrp>
+  <trd lng="hu">k&ouml;ld&ouml;kzsin&oacute;r<klr tip="amb"> (magban is)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x73E0;&#x67C4; <pr>&#x3057;&#x3085;&#x3078;&#x3044;</pr></trd>,
+    <trd>&#x5E2F;  <pr>&#x305F;&#x3044;</pr></trd>,
+    <trd>&#x7D22;  <pr>&#x30BD;&#x30FC;</pr></trd>,
+    <trd>&#x675F;  <pr>&#x305D;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>p&uacute;tko</trd>,
+    <trd>&scaron;n&uacute;ra vaje&ccaron;n&aacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&#x43D;&c_a;&c_t;&c_i;&#x43A;</trd>,
+    <trd>&#x43F;&c_u;&#x43F;&#x43E;&c_v;&c_i;&#x43D;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/14 19:15:46
+revo: transskribo per <pr>
+
+versio 1.22 2023/09/12 17:25:54
+Wolfram Diestel: pr. ja
+
+versio 1.19 2022/03/16 08:34:21
+Dmitri Gabinski: + trd be
+
+versio 1.18 2020/09/23 18:32:24
+Jeromo Vasxe: ~o 1: + ekz
+
+Revision 1.16  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/09/23 15:10:16  revo
+Joop Eggen: +trd bg en
+
+Revision 1.13  2010/11/20 17:30:25  revo
+-->
+</vortaro>

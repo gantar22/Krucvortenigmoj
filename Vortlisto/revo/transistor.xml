@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: transistor.xml,v 1.16 2023/11/01 15:27:36 revo Exp $">
+<kap>
+    <ofc>9</ofc><rad>transistor</rad>/o
+    <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="transistor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="transistor.0o.ELET">
+   <uzo tip="fak">ELE</uzo>
+   <dif>
+     <ref tip="dif" cel="elektronik.0o">Elektronika</ref> duonkonduka
+     elemento uzata kiel signalfortigilo
+     (analoge) a&ubreve; kiel &scirc;altilo (ciferece), ordinare kun tri kondukiloj:
+      <ekz>
+        <tld/>oj estas bazaj
+        elementoj de la integraj <ref tip="super" cel="cirkvi.0o.ELEKTR">cirkvitoj</ref>;
+      </ekz>
+      <ekz>
+        <tld/>a radioaparato
+        <fnt>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+            <vrk><url ref="&Monato;/2000/007061.php">Ceramika&jcirc;oj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 24</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        progreso en fabrikorimedoj <klr>[&#8230;]</klr> ebligas meti pli da <tld/>oj en
+        kvadrata milimetro sur la blato
+        <fnt>
+          <aut>Franck Arnaud</aut>
+            <vrk><url ref="&Monato;/2000/007114.html">Intel alfrontas konkurencon</url></vrk>
+           <bib>Monato</bib>
+            <lok>2000/10, p. 16</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        moderna procesoro de persona komputilo ofte uzas por siaj milionoj da <tld/>oj
+        &ccirc;irka&ubreve; 50 vatojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2004/008261.html">Kvietigu tiun komputilon!</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_z;&c_y;&c_s;&c_t;&c_a;&c_r;</trd>
+    <trd lng="en">Transistor</trd>
+    <trd lng="nl">transistor</trd>
+  </snc>
+  <snc mrk="transistor.0o.RAD">
+    <uzo tip="fak">RAD</uzo>
+    <dif>
+      Ricevaparato enhavanta <tld/>o(j)n:
+      <ekz>
+        vi a&ubreve;skultas <tld/>on a&ubreve; volas kanti a&ubreve; ludi muzikon dum pluvas ekstere
+        <fnt>
+          <aut>Joh&aacute;n Valano</aut>
+          <vrk><url ref="&Tekstaro;?nomo=chu-li-bremsis-sufiche">&Ccirc;u li bremsis
+          sufi&ccirc;e?</url></vrk>
+          <lok>&ccirc;ap. 17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_z;&c_y;&c_s;&c_t;&c_a;&c_r;&c_n;&c_y; &c_r;&c_a;&c_d;&c_y;&c_jo;&c_p;&c_r;&c_y;&c_j;&c_m;&c_a;&c_ch;</trd>
+    <trd lng="en">Transistorradio</trd>
+  </snc>
+  <rim>
+     La vorto estas akronimo de
+     la angla lingva&jcirc;o <ctl><em>trans</em>fer res<em>istor</em></ctl>:
+  </rim>
+  <trd lng="cs">tranzistorov&yacute; radiop&rcaron;&iacute;jma&ccaron;</trd>
+  <trd lng="fr">transistor</trd>
+  <trd lng="ja">&#x30C8;&#x30E9;&#x30F3;&#x30B8;&#x30B9;&#x30BF;</trd>
+  <trd lng="sk">tranzistorov&yacute; prij&iacute;ma&ccaron;</trd>
+  <trd lng="uk">&c_t;&c_r;&c_a;&#x43D;&c_z;&c_i;&c_s;&c_t;&#x43E;&c_r;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.16 2023/11/01 15:27:36
+Dmitri Gabinski: + trd be
+
+versio 1.14 2023/05/06 15:11:57
+revo: aktualigo URL-unuoj
+
+versio 1.13 2023/05/01 12:44:53
+Paul Peeraerts: Steloj -> monato
+
+versio 1.12 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.10 2021/01/31 12:56:05
+Wolfram Diestel: ekz-oj, trd de
+
+Revision 1.8  2018/08/07 06:10:39  revo
+Michel Cantigneaux: aperas unue en PIV1 (1970), oficiala en 9OA (2007)
+
+Revision 1.7  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:40:20  revo
+-->
+</vortaro>

@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: asembl1.xml,v 1.21 2023/10/13 17:08:38 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>asemble</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="asembl1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">JUR</uzo>
+  <snc mrk="asembl1.0o.JUR">
+    <dif>
+      Interkonsili&gcirc;a a&ubreve; le&gcirc;ofaranta <ref tip="super" cel="organi2.0o">organizo</ref>,
+      kontraste al la plenuma instanco:
+      <ekz>
+        la &gcirc;enerala <tld/>o de UN
+        <fnt>
+          <aut>Maritza Guti&eacute;rrez</aut>
+          <vrk><url ref="&Monato;/1993/A931202.php">A&ubreve;di&gcirc;as komuna vo&ccirc;o</url></vrk>
+           <bib>Monato</bib>
+          <lok>1993/12, p. 10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post nur 72 tagoj la regiona <tld/>o en Nord-Irlando <klr>[&#x2026;]</klr> &ccirc;esis funkcii
+        <fnt><aut>IRL</aut>,
+        <vrk><url ref="&Monato;/2000/006913.php">Karuselo de seniluzii&gcirc;o</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/06, p. 7</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="kolegi.0o.oficistaro">kolegio</ref>
+    <refgrp tip="sub">
+      <ref cel="konvent.0o">konvento</ref>,
+      <ref cel="parlam.0o">parlamento</ref>,
+      <ref cel="sejm.0o">sejmo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_a;&c_m;&c_b;&c_l;&c_je;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>valn&eacute; shrom&aacute;&zcaron;d&ecaron;n&iacute;</trd>,
+    <trd>z&aacute;konod&aacute;rn&eacute; shrom&aacute;&zcaron;d&ecaron;n&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>beratende <ind>K&ouml;rperschaft</ind></trd>,
+     <trd>gesetzgebende <ind>K&ouml;rperschaft</ind></trd>,
+     <trd>Versammlung</trd>
+  </trdgrp>
+  <trd lng="en">assembly</trd>
+  <trd lng="es">asamblea</trd>
+  <trd lng="fr">assembl&eacute;e</trd>
+  <trd lng="he">&#x5D4;&#x5B7;&#x5E8;&#x5DB;&#x5BC;&#x5B8;&#x5D1;&#x5B8;&#x5D4;</trd>
+  <trdgrp lng="hu">
+     <trd>tan&aacute;cskoz&oacute; <ind>test&uuml;let</ind></trd>,
+     <trd>t&ouml;rv&eacute;nyhoz&oacute; <ind>test&uuml;let</ind></trd>,
+     <trd>k&ouml;zgy&udblac;l&eacute;s</trd>
+  </trdgrp>
+  <trd lng="it">assemblea</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7DCF;&#x4F1A;  <pr>&#x305D;&#x3046;&#x304B;&#x3044;</pr></trd>,
+    <trd>&#x96C6;&#x4F1A;  <pr>&#x3057;&#x3085;&#x3046;&#x304B;&#x3044;</pr></trd>,
+    <trd>&#x4F1A;&#x8B70;  <pr>&#x304B;&#x3044;&#x304E;</pr></trd>,
+    <trd>&#x8B70;&#x4F1A;  <pr>&#x304E;&#x304B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_s;&c_s;&c_a;&c_m;&c_b;&c_l;&c_je;&c_ja;</trd>
+  <trd lng="sk">zhroma&zcaron;denie</trd>
+  <trd lng="uk">&c_a;&c_s;&c_a;&#x43C;&c_b;&#x43B;&c_je;&#x44F;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/13 17:08:38
+revo: transskribo per <pr>
+
+versio 1.19 2023/04/26 12:45:58
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.18 2023/04/12 09:25:41
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.17 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.14 2021/01/29 19:00:19
+Wolfram Diestel: +ekz
+
+versio 1.13 2021/01/28 18:10:32
+Wolfram Diestel: +ref-oj
+
+Revision 1.11  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2012/02/01 15:10:11  revo
+-->
+</vortaro>

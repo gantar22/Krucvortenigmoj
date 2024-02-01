@@ -1,0 +1,567 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kongru.xml,v 1.38 2023/12/03 09:58:55 revo Exp $">
+<kap>
+  <rad>kongru</rad>/i
+  <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="kongru.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="kongru.0i.KOMUNE">
+    <dif>
+      Esti interkonforma kun:
+      <ekz>
+        la faktoj do ne <tld/>as
+        <fnt>
+          <bib>ChV</bib>
+          <lok>27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la anonimaj minacoj <klr>[&#x2026;]</klr> tute ne <tld/>is kun la karaktero de liaj
+        laborkunuloj
+        <fnt>
+          <bib>ChB</bib>
+          <lok>6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro la influo de e&ubreve;ropa subtavolo en la menso de <nom>Zamenhof</nom> trovi&gcirc;as en esperanto
+        multaj formoj, jen gramatikaj, jen vortaj, kiuj ne <tld/>as kun liaj
+        diversloke klare esprimitaj intencoj rilate al la facileco, logikeco kaj
+        internacieco de la lingvo
+        <fnt>
+          <bib>BonaLingvo</bib>
+          <lok>6. Ies Malfido, Fido Mia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        altnivela elegantec-ekvilibro <klr>[&#x2026;]</klr> <tld/>as kun la tipa stilstrukturo
+        senpompa kaj esenca de <klr>[liaj]</klr> aliaj verkistoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;io, kio videblis de tiu boato, plene kaj senrezerve <tld/>is kun la ha&ubreve;to kaj
+        la viza&gcirc;o
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konfor.0i">konformi</ref>,
+      <ref cel="konven.0i">konveni</ref>,
+      <ref cel="respon.0i">respondi</ref>,
+      <ref cel="tauxg.0i">ta&ubreve;gi</ref>
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>congrue</trd>,
+      <trd>agree</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>&ecirc;tre <ind>congru</ind></trd>,
+      <trd>co&iuml;ncider</trd>,
+      <trd>correspondre<klr tip="ind"> (&ecirc;tre en conformit&eacute;)</klr></trd>,
+      <trd>concorder</trd>,
+      <trd>cadrer<klr tip="ind"> (fam., concorder)</klr></trd>,
+      <trd>coller<klr tip="ind"> (fam., concorder)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>coincidir</trd>,
+      <trd>correspondre</trd>
+      <trd>quadrar</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>&uuml;bereinstimmen</trd>,
+      <trd>passen</trd>
+    </trdgrp>
+    <trd lng="nl">congruent zijn</trd>
+    <trdgrp lng="pl">
+      <trd>by&cacute; <ind>zgodnym</ind></trd>,
+      <trd>zgadza&cacute; si&eogonek;</trd>,
+      <trd>wykazywa&cacute; <ind>zgodno&sacute;&cacute;</ind></trd>,
+      <trd>pokrywa&cacute; si&eogonek;</trd>,
+      <trd>zgadza&cacute; si&eogonek;</trd>,
+      <trd>kongruowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_o;&c_v;&c_p;&c_a;&c_d;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_o;&c_v;&c_p;&c_a;&c_s;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x543B;&#x5408; <pr>w&#x11B;nh&#xE9;</pr></trd>,
+    <trd>&#x76F8;&#x7B26; <pr>xi&#x101;ngf&#xFA;</pr></trd>,
+    <trd>&#x8ABF;&#x5354; <pr>ti&#xE1;oxi&#xE9;</pr></trd>,
+    <trd>&#x91CD;&#x5408; <pr>ch&#xF3;ngh&#xE9;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="kongru.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Plenumi la saman funkcion kaj esti inter&scirc;an&gcirc;ebla a&ubreve;
+      uzebla kun io alia:
+      <ekz>
+        <uzo tip="fak">KOMP</uzo>
+        tiu komputilo <tld/>as kun <nom>IBM PC</nom>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KOMP</uzo>
+        la nova operaciumo <tld/>as malplien
+        <klr>(kun la malnovaj versioj, kies numeroj estas
+        malpliaj)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="de"><ind>kompatibel</ind> sein</trd>
+    <trd lng="en">to be <ind>compatible</ind></trd>
+    <trd lng="fr">&ecirc;tre <ind>compatible</ind><klr tip="ind">
+    (inf.)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>by&cacute; <ind>kompatybilnym</ind></trd>,
+      <trd>by&cacute; <ind>zgodnym</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_b;&c_y;&c_t;&c_mol; <ind>&c_s;&c_o;&c_v;&c_m;&c_je;&c_s;&c_t;&c_i;&c_m;&c_y;&c_m;</ind></trd>
+  </snc>
+  <snc mrk="kongru.0i.signocxeno">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <klr>(p.p. signo&ccirc;eno, dosiernomo ktp)</klr>
+      Esti konforma al &scirc;ablono a&ubreve; regulesprimo:
+      <ekz>
+        en esperanta loka&jcirc;aro, la plurnombraj adjektivoj
+        akuzativaj <tld/>as kun la
+        <ref cel="regul.0esprimo">regulesprimo</ref>
+        <frm>\w+ajn\</frm>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd><ind>passen</ind> zu</trd>,
+      <trd>matchen</trd>,
+      <trd>erf&uuml;llen <klr>(Suchpattern)</klr></trd>
+    </trdgrp>
+    <trd lng="en">match</trd>
+    <trd lng="fr">satisfaire<klr tip="ind"> (inf., une expression
+    r&eacute;guli&egrave;re)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>zgodza&cacute; si&eogonek;</trd>,
+      <trd>pokrywa&cacute; si&eogonek;</trd>,
+      <trd>pasowa&cacute;</trd>
+    </trdgrp>
+  <trdgrp lng="pt">
+    <trd>coincidir</trd>,
+    <trd>convir</trd>,
+    <trd>assentar</trd>,
+    <trd>adaptar-se</trd>,
+    <trd>estar de <ind>acordo</ind></trd>,
+    <trd>estar <ind>coerente</ind></trd>
+  </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_o;&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_o;&c_t;&c_o;&c_zh;&c_d;&c_je;&c_s;&c_t;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_s;&c_o;&c_v;&c_p;&c_a;&c_s;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kongru.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      Esti <ref cel="kongru.0a.MAT"><tld/>a<sncref/></ref>:
+      <ekz>
+        se du reeloj <tld/>as la&ubreve; modulo <frm am="pi">&pi;</frm>, iliaj
+        <ref cel="sinus.0o.funkcio">sinusoj</ref> estas
+        <ref cel="egal.kontraux0a">kontra&ubreve;egalaj</ref>;
+      </ekz>
+      <ekz>
+        &ccirc;ar ajna translacio estas izometrio, &ccirc;iu figuro <tld/>as
+        kun sia translacia&jcirc;o.
+      </ekz>
+    </dif>
+    <rim>
+      Oni diras sendistinge <ctl><frm am="x"><k>x</k></frm> kaj
+      <frm am="y"><k>y</k></frm>
+      <tld/>as la&ubreve; modulo <frm am="mu">&my;</frm></ctl>, a&ubreve;
+      <ctl><frm am="x"><k>x</k></frm> <tld/>as kun/je
+      <frm am="y"><k>y</k></frm> la&ubreve; modulo <frm am="mu">&my;</frm></ctl>.
+      Anstata&ubreve; <ctl><tld/>i</ctl> eblas diri <ctl>esti <tld/>a</ctl>,
+      kaj anstata&ubreve; <ctl>la&ubreve; modulo</ctl> eblas diri
+      <ctl>module</ctl>.
+    </rim>
+    <trd lng="de"><ind>kongruent</ind> sein</trd>
+    <trd lng="pl">przystawa&cacute;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>b&yacute;t v souladu</trd>,
+    <trd>kongruovat</trd>,
+    <trd>shodnout se</trd>,
+    <trd>shodovat se</trd>,
+    <trd>sn&aacute;&scaron;et se</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>ser congruente</trd>,
+    <trd>ser compatible</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x81F4;&#x3059;&#x308B;  <pr>&#x3044;&#x3063;&#x3061;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x9069;&#x5408;&#x3059;&#x308B;  <pr>&#x3066;&#x304D;&#x3054;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5408;&#x540C;&#x3067;&#x3042;&#x308B;  <pr>&#x3054;&#x3046;&#x3069;&#x3046;&#x3067;&#x3042;&#x308B;</pr></trd>,
+    <trd>&#x4E92;&#x63DB;&#x6027;&#x304C;&#x3042;&#x308B;  <pr>&#x3054;&#x304B;&#x3093;&#x305B;&#x3044;&#x304C;&#x3042;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>s&uacute;hlasi&tcaron;</trd>,
+    <trd>zhodova&tcaron; <klr>(sa)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kongru.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="kongru.0a.KOMUNE">
+    <dif>
+      <tld lit="K"/>anta:
+      <ekz>
+        elegantaj oran&gcirc;koloraj gantoj, <tld/>aj kun la pulovero,
+        ka&scirc;is miajn banda&gcirc;itajn manojn
+        <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;ap. 13</lok></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[al multaj institucioj]</klr> li povus turni sin por akiri
+        lo&gcirc;on kaj man&gcirc;on <tld/>ajn kun simpla vivo
+        <fnt>
+        <aut>O Henry, trad. S. Johannsson</aut>
+        <vrk><url ref="&LOdE;Tl-ang06.htm">
+        Policisto kaj Himno</url></vrk>
+        <lok>2001</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KOMP</uzo>
+        <tld/>aj komputiloj, programoj, interfacoj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="adekva.0a.KOMUNE">adekvata</ref>,
+      <ref cel="akord.0a.konveneco">akorda</ref>,
+      <ref cel="konfor.0a.KOMUNE">konforma</ref>
+    </refgrp>
+    <trd lng="en">compatible</trd>
+    <trdgrp lng="es">
+      <trd>congruente</trd>,
+      <trd>compatible</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>congru</trd>,
+      <trd>adequat</trd>
+      <trd>adient</trd>
+      <trd>apropriat</trd>
+      <trd>escaient</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>&uuml;bereinstimmend</trd>,
+      <trd>passend</trd>,
+      <trd>kompatibel</trd>,
+      <trd>stimmig</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>congru</trd>,
+      <trd>ad&eacute;quat</trd>,
+      <trd>appropri&eacute;</trd>,
+      <trd>compatible<klr tip="ind"> (inf.)</klr></trd>,
+      <trd>convenable<klr tip="ind"> (appropri&eacute;)</klr></trd>,
+      <trd>pertinent<klr tip="ind"> (appropri&eacute;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>zgodny</trd>,
+      <trd>pasuj&aogonek;cy</trd>,
+      <trd>pokrywaj&aogonek;cy si&eogonek;</trd>
+      <trd>kompatybilny</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_o;&c_v;&c_m;&c_je;&c_s;&c_t;&c_i;&c_m;&c_y;&c_j;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x517C;&#x5BB9; <pr>ji&#x101;nr&#xF3;ng</pr></trd>,
+    <trd>&#x76F8;&#x5BB9; <pr>xi&#x101;ngr&#xF3;ng</pr></trd>,
+    <trd>&#x5339;&#x914D; <pr>p&#x1D0;p&#xE8;i</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="kongru.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="kongru.0a.module">
+      <fnt><bib>MatTerm</bib><lok>p. 11</lok></fnt>
+      <dif>
+        <klr>(p.p. du <ref cel="reel.0o.MAT">reeloj</ref>
+        <frm am="x"><k>x</k></frm> kaj <frm am="y"><k>y</k></frm>,
+        la&ubreve; la reela <ref cel="modul.0o.kongruo">modulo</ref>
+        <frm am="mu">&my;</frm>)</klr>
+        Tiaj, ke ilia diferenco estas entjera opo de <frm am="mu">&my;</frm>;
+        simb. <frm am="x equiv y [mu]"><k>x</k> &#x2261; <k>y</k> [&my;]</frm>:
+        <ekz>
+          <frm>1111</frm> kaj <frm>4</frm> estas <tld/>aj
+          la&ubreve; modulo <frm>9</frm>;
+        </ekz>
+        <ekz>
+          la <ref cel="ring.kvocienta0o">kvocienta ringo</ref> de
+          la ringo de entjeroj per la rilato de
+          <ind><tld/>eco</ind> la&ubreve; modulo <frm>5</frm> estas
+          <ref cel="korp.0o.MAT">korpo</ref>.
+          <trd lng="de">Kongruenz<klr tip="ind"> (von
+          Zahlen)</klr></trd>
+          <trd lng="en">congruence<klr tip="ind"> (of
+          numbers)</klr></trd>
+          <trd lng="fr">congruence<klr tip="ind"> (de
+          nombres)</klr></trd>
+          <trd lng="ca">congru&egrave;ncia<klr tip="ind"> (de
+          nombres)</klr></trd>
+          <trdgrp lng="pl">
+            <trd>kongruencja<klr tip="ind"> (liczb)</klr></trd>,
+            <trd>przystawanie<klr tip="ind"> (liczb)</klr></trd>
+          </trdgrp>
+          <trd lng="ru">&c_s;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_je;<klr tip="ind"> (&c_ch;&c_i;&c_s;&c_e;&c_l;)</klr></trd>
+        </ekz>
+      </dif>
+      <trd lng="de">kongruent<klr tip="ind"> (modulo N)</klr></trd>
+      <trd lng="en">congruent<klr tip="ind"> (modulo N)</klr></trd>
+      <trd lng="fr">congru<klr tip="ind"> (modulo N)</klr></trd>
+      <trdgrp lng="ca">
+        <trd>c&ograve;ngrua<klr tip="ind"> (modulo N)</klr></trd>,
+        <trd>congruent<klr tip="ind"> (modulo N)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>przystaj&aogonek;cy<klr tip="ind"> (modulo N)</klr></trd>,
+        <trd>kongruentny<klr tip="ind"> (modulo N)</klr></trd>
+      </trdgrp>
+      <trd lng="ru">&c_s;&c_r;&c_a;&c_v;&c_n;&c_i;&c_m;&c_y;&c_j;<klr tip="ind"> (&c_p;&c_o; &c_m;&c_o;&c_d;&c_u;&c_l;&c_ju; N)</klr></trd>
+    </subsnc>
+    <subsnc mrk="kongru.0a.geometrie">
+      <fnt><bib>MatTerm</bib><lok>p. 25</lok></fnt>
+      <uzo tip="stl">ARK</uzo>
+      <dif>
+        <klr>(p.p. du
+        <ref cel="figur.geometria0o">geometriaj figuroj</ref>)</klr>
+        <ref tip="dif" cel="egal.0a.izometria">Egalaj</ref>:
+        <ekz>
+          <tld/>aj trianguloj.
+        </ekz>
+      </dif>
+      <trd lng="pl"><klr tip="amb">(figura) </klr>przystaj&aogonek;ca</trd>
+      <trd lng="ru">&c_k;&c_o;&c_n;&c_g;&c_r;&c_u;&c_e;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
+    </subsnc>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kompatibiln&iacute;</trd>,
+    <trd>kongruentn&iacute;</trd>,
+    <trd>shodn&yacute;</trd>,
+    <trd>slu&ccaron;iteln&aacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5408;&#x81F4;&#x3059;&#x308B;  <pr>&#x304C;&#x3063;&#x3061;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5408;&#x540C;&#x306E;  <pr>&#x3054;&#x3046;&#x3069;&#x3046;&#x306E;</pr></trd>,
+    <trd>&#x4E92;&#x63DB;&#x306E;  <pr>&#x3054;&#x304B;&#x3093;&#x306E;</pr></trd>,
+    <trd>&#x4E92;&#x63DB;&#x6027;&#x306E;&#x3042;&#x308B;  <pr>&#x3054;&#x304B;&#x3093;&#x305B;&#x3044;&#x306E;&#x3042;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>zhodn&yacute;</trd>,
+    <trd>zlu&ccaron;ite&lcaron;n&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kongru.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="kongru.0eco.KOMUNE">
+    <dif>
+      Eco de io <tld/>a:
+      <ekz>
+        post la aresto oni kompreneble prenis harspecimenojn el tiu lia korpoparto, kaj
+        &ccirc;iuj sciencaj analizoj kaj observoj faritaj konfirmas plenan <tld/>econ
+        <fnt>
+          <bib>ChM</bib>
+          <lok>12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la rezultoj montris la ekziston de klara <tld/>eco inter kreemo kaj frenezo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paulo S&eacute;rgio Viana</aut>
+          <vrk><url ref="&Monato;/2014/011233.php">Komikeco (iom) rimi&gcirc;as kun frenezeco</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        prof. <nom>&Zdot;elazny</nom> esprimis sian aprezon pro la <tld/>eco
+        de lastatempaj politikaj starpunktoj kaj de SAT kaj de la Civito
+        <fnt>
+          <aut>-</aut>,
+          <vrk>La Konsulo salutis la SAT-kongreson</vrk>,
+          <lok><url ref="http://www.esperantio.net/heroldo_komunikas.php?numero=200">Heroldo
+          komunikas, 2003-07-19 (200)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>congru&egrave;ncia</trd>,
+    <trd>adequaci&oacute;</trd>
+    <trd>compatibilitat</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kongruence <klr>(geometrick&yacute;ch &uacute;tvar&uring;, &ccaron;&iacute;sel,
+    &uacute;hl&uring;)</klr></trd>,
+    <trd>shodnost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>&Uuml;bereinstimmung</trd>,
+    <trd>Kongruenz</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>congruencia</trd>,
+    <trd>compatibilidad</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>congruence<klr tip="ind"> (qualit&eacute;)</klr></trd>,
+    <trd>ad&eacute;quation</trd>,
+    <trd>compatibilit&eacute;<klr tip="ind"> (inf.)</klr></trd>,
+    <trd>pertinence</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5408;&#x540C;  <pr>&#x3054;&#x3046;&#x3069;&#x3046;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>zgodno&sacute;&cacute;</trd>,
+    <trd>dopasowanie</trd>,
+    <trd>przystawanie</trd>,
+    <trd>kongruencja</trd>,
+    <trd>kompatybilno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kongruencia</trd>,
+    <trd>zhodnos&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kongru.0ekun">
+  <kap><tld/>e kun, <var><kap><tld/>e al</kap></var></kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="kongru.0ekun.KOMUNE">
+    <dif>
+      En <tld/>o, harmonio, interrespondo kun,
+      <ref tip="vid" cel="akord.0ekun.KOMUNE">akorde kun</ref>,
+      <ref tip="vid" cel="konfor.0eal.KOMUNE">konforme al</ref>:
+      <ekz>
+        la eraranto &ccirc;iam estas anta&ubreve; &ccirc;io homa estulo kiu da&ubreve;re havas
+        sian personan dignon; kaj &ccirc;iam oni devas lin trakti <tld/>e
+        kun tia digno
+        <fnt>
+          <aut>P. Cadei</aut>,
+          <vrk><url ref="http://www.radio-vatikana-esperanto.org/elsendo.php?d=2008-01-17">
+          Atesto, dialogo kaj martireco de la kristanoj</url></vrk>,
+          <lok>2008-01-17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nuntempa UEA, <tld/>e al la Manifesto de Prago, fari&gcirc;is ia
+        internacia neregistara organizo enga&gcirc;ita <klr>[&#x2026;]</klr> por
+        batali kontra&ubreve; lingva diskriminacio
+        <fnt>
+          <aut>G. Silfer</aut>,
+          <vrk><url ref="http://www.esperantio.net/index.php?id=614">
+          Ni estas pli ol samideanoj: ni estas civitanoj</url></vrk>,
+          <lok>2008-07-26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="fr">en ad&eacute;quation avec</trd>
+  <trd lng="pl">zgodnie z</trd>
+  </snc>
+<trd lng="de">in <ind>&Uuml;bereinstimmung</ind> mit</trd>
+</drv>
+
+<drv mrk="kongru.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="kongru.mal0a.KOMUNE">
+    <dif>
+      Kiu ne konformas, ne harmonias, ne kunfunkcias:
+      <ekz>
+        &scirc;ajnis al mi &ccirc;iam kiel eble plej mal<tld/>a, esti
+        praonklo, &ccirc;ar miaj pensoj kaj sentoj estis kvaza&ubreve;
+        de knabo
+        <fnt>
+          <aut>E. R. Burroughs, trad. K. R. C. Sturmer</aut>,
+          <vrk><url ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0029/index.php">
+          Princino de Marso</url></vrk>,
+          <lok>1938</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>unstimmig</trd>,
+    <trd>falsch</trd>,
+    <trd><ind>daneben</ind> liegend</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>inadapt&eacute;</trd>,
+    <trd>inad&eacute;quat</trd>,
+    <trd>incongru</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x591F; <pr>b&#xF9;g&#xF2;u</pr></trd>,
+    <trd>&#x4E0D;&#x6070;&#x5F53; <pr>b&#xF9;qi&#xE0;d&#xE0;ng</pr></trd>,
+    <trd>&#x4E0D;&#x5F53; <pr>b&#xF9;d&#xE0;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kongru.mal0ekun">
+  <kap>mal<tld/>e kun</kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="kongru.mal0ekun.KOMUNE">
+    <dif>
+      Ne <tld/>ante kun, malharmonie,
+      <ref tip="vid" cel="akord.mal0ekun.KOMUNE">malakorde kun</ref>:
+      <ekz>
+        per <klr>[nia propra korpo]</klr> eblas tuj senti
+        kiam ni al &gcirc;i agis mal<tld/>e kun la vivo
+        <fnt>
+          <aut>M. Dalmose</aut>,
+          <vrk><url ref="http://www.oomoto.or.jp/Esperanto/eoGast/mathias03.html">
+          Mi kaj Dio</url></vrk>,
+          <lok>Oomoto, 2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="fr">en inad&eacute;quation avec</trd>
+  <trd lng="pl">niezgodnie z</trd>
+  </snc>
+<trdgrp lng="de">
+  <trd>ohne <ind>&Uuml;bereinstimmung</ind> mit</trd>,
+  <trd>in <ind>Diskrepanz</ind> zu</trd>,
+  <trd>im <ind>Missverh&auml;ltnis</ind> zu</trd>
+</trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.37 2023/11/28 18:30:06
+Wolfram Diestel: +trd de; ~i, ~eco: +ekz-oj
+
+versio 1.36 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.34 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.33  2020/03/14 10:59:08  revo
+adaptis URL de Ondo
+
+Revision 1.32  2020/02/15 09:10:34  revo
+Wolfram Diestel: formuloj per am
+
+Revision 1.31  2019/09/03 08:10:15  revo
+Marc Bavant: ~i MAT: kor ekz pri sinuso (reveno al redakto de 2003!)
+
+Revision 1.30  2017/02/15 15:10:23  revo
+Jeromo Vasxe: maharmonie -> malharmonie
+
+Revision 1.29  2015/07/04 08:37:37  revo
+-->
+</vortaro>

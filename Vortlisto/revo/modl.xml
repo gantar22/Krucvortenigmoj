@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: modl.xml,v 1.21 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <rad>modl</rad>/i
+</kap>
+<drv mrk="modl.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <ref tip="super" cel="form.0i.fari">Formi</ref>
+      el moligita materio iun plastikan objekton,
+      kiun oni knedas kaj reliefigas per fingroj a&ubreve; per speciala ilo:
+      <ekz>
+        li ofte <tld/>is el argilo diversajn objektojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hoikso</aut>
+          <vrk><url ref="&Monato;/2015/011420.php">Majstro de la tradicia ceramiko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la fornojn]</klr> &scirc;i mem masonis, kaj en ili &scirc;i bakas siajn <tld/>itajn
+        an&gcirc;eletojn, vazojn, lumilojn, tablolampojn, diversspecajn potojn
+        <fnt>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+            <vrk><url ref="&Monato;/2000/007061.php">Ceramika&jcirc;oj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 24</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la stelulinoj neniel eniras &ccirc;i tiun normon pri proporcioj, tiel ke ni ne povas
+        rekte <tld/>i artistan stelulinon por manekeno
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2003/008015.html">Misa mondo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la nova itallingva biblio, ekzemple, <tld/>ita sur la nova Vulgato, enhavas
+        &ccirc;irka&ubreve; ok cent mil modifa&jcirc;ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Armando Zecchin</aut>
+          <vrk><url ref="&Monato;/2008/009539.php">Vulgato, Vulgatoj, Nova Vulgato</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ja;&c_p;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>formovat</trd>,
+    <trd>modelovat</trd>
+  </trdgrp>
+  <trd lng="de">modellieren</trd>
+  <trdgrp lng="es">
+    <trd>moldear</trd>,
+    <trd>modelar</trd>
+  </trdgrp>
+  <trd lng="fr">modeler</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F62;&#x3092;&#x4F5C;&#x308B;  <pr>&#x304B;&#x305F;&#x3092;&#x3064;&#x304F;&#x308B;</pr></trd>,
+    <trd>&#x9020;&#x5F62;&#x3059;&#x308B;  <pr>&#x305E;&#x3046;&#x3051;&#x3044;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>modelleren</trd>,
+    <trd>boetseren</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>formowa&cacute;</trd>,
+    <trd>lepi&cacute;</trd>,
+    <trd>rze&zacute;bi&cacute;</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>modela</trd>,
+    <trd>forma</trd>,
+    <trd>sculpta</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_je;&c_p;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">modelova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&#x43E;&c_r;&#x43C;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43B;&c_ib;&#x43F;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+<drv mrk="modl.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Speciala <ref tip="lst" lst="voko:iloj" cel="il.0o">ilo</ref>
+      por doni plastikan formon al moligita materio.  
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_je;&c_c;</trd>,
+    <trd>&c_z;&c_u;&c_b;&c_ib;&c_l;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">forma na odlitky</trd>
+  <trd lng="de">Modelliermesser</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;bauchoir</trd>,
+    <trd>mirette</trd>
+  </trdgrp>
+  <trd lng="ja">&#x3078;&#x3089;</trd>
+  <trd lng="nl">boetseerhoutje</trd>
+  <trd lng="pl">narz&eogonek;dzie do modelowania</trd>
+  <trd lng="pt">modelar</trd>
+  <trd lng="ro">instrument de modelare</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_je;&c_z;&c_je;&c_c;</trd>,
+    <trd>&c_z;&c_u;&c_b;&c_i;&c_l;&c_o;</trd>
+  </trdgrp>
+  <trd lng="sk">forma na odliatky</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_je;&#x43A;&c_a;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_je;&c_c;&#x44C; (&c_s;&#x43A;&c_u;&#x43B;&#x44C;&#x43F;&c_t;&#x43E;&c_r;&c_a;)</trd>,
+    <trd>&c_z;&c_u;&c_b;&c_i;&#x43B;&#x43E; (&#x43C;&c_u;&#x43B;&#x44F;&c_r;&c_a;)</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.19 2023/05/01 05:27:46
+Paul Peeraerts: Steloj -> monato
+
+versio 1.18 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.16 2020/11/07 22:11:16
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.14  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
+Revision 1.13  2018/12/05 07:10:15  revo
+Wolfram Diestel: +ekz-oj, germ trd
+
+Revision 1.12  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:20  revo
+-->
+</vortaro>

@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: egret.xml,v 1.25 2023/10/14 15:34:33 revo Exp $">
+<kap>
+  <rad>egret</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="egret.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="egret.0o.ZOO">
+    <dif>
+      Mezgranda, longkrura, longbeka mar&ccirc;obirdo, pliofte blanka, griza, hela, genro el
+      familio <ref tip="super" cel="ardeed.0oj">ardeedoj</ref> (<trd lng="la">Egretta</trd>):
+      <ekz>
+        nigraj kormoranoj, elegantaj blankaj egretoj kaj flavetaj ardeoj restas senmovaj
+        &gcirc;is ni alvenas proksime-proksime de ili
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="http://satesperanto.org/spip.php?article1586">Delto de Danubo - sur la vojo
+          de la trezoroj</url></vrk>
+          <lok>SAT, 2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_ch;&c_a;&c_p;&c_l;&c_ja;</trd>
+  </snc>
+  <snc mrk="egret.0o.pluma">
+    <dif>
+      <ref tip="dif" cel="tuf.plum0o">Plumtufo</ref>, plumkrono.
+    </dif>
+    <subsnc mrk="egret.0o.pluma_ZOO">
+      <uzo tip="fak">ZOO</uzo>
+      <dif>
+        Surkapa tufo de plumoj de iuj birdoj,
+        <ref tip="vid" cel="krest.0o.ZOO_pluma">kresto<sncref/></ref>:
+        <ekz>
+          <tld/>ardeo.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="egret.0o.TEKS">
+      <uzo tip="fak">TEKS</uzo>
+      <dif>
+        Ornama tufo de plumoj sur kapvesto;
+        <ref tip="vid" cel="krest.0o.TEKS">kresto<sncref/></ref>.
+      </dif>
+    </subsnc>
+    <trdgrp lng="be">
+      <trd>&c_ch;&c_u;&c_b;&c_o;&c_k;</trd>,
+      <trd>&c_s;&c_u;&c_l;&c_t;&c_a;&c_n; <klr tip="amb">(&c_z;&c_mol; &c_p;&c_je;&c_r;'&c_ja;)</klr></trd>
+    </trdgrp>
+  <trd lng="ca">plomall</trd>
+  <trdgrp lng="cs">
+    <trd>p&eacute;&rcaron;ov&yacute; chochol</trd>,
+    <trd>p&eacute;&rcaron;ov&yacute; h&rcaron;eben</trd>
+  </trdgrp>
+  <trd lng="de">Federkrone</trd>
+  <trdgrp lng="en">
+    <trd>crest</trd>
+  </trdgrp>
+  <trd lng="hu">b&oacute;bita</trd>
+  <trd lng="nl">aigrette</trd>
+  <trdgrp lng="pl">
+    <trd>pi&oacute;ropusz</trd>,
+    <trd>czub</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>penacho</trd>,
+    <trd>topete <klr tip="amb">(de ave)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_h;&c_o;&c_h;&c_o;&c_l;&c_o;&c_k;<klr tip="ind"> (&c_i;&c_z;
+    &c_p;&c_je;&c_r;&c_mol;&c_je;&c_v;)</klr></trd>,
+    <trd>&c_s;&c_u;&c_l;&c_t;&c_a;&c_n; <klr tip="amb">(&c_i;&c_z;
+    &c_p;&c_je;&c_r;&c_mol;&c_je;&c_v;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">iskrenie el. pri vysokom nap&auml;t&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>chochol</trd>,
+    <trd>h&rcaron;eben</trd>
+  </trdgrp>
+  </snc>
+  <trd lng="fr">aigrette</trd>
+  <trdgrp lng="ja">
+    <trd>&#x51A0;&#x7FBD;  <pr>&#x304B;&#x3093;&#x3046;</pr></trd>,
+    <trd>&#x7FBD;&#x6839;&#x98FE;&#x308A;  <pr>&#x306F;&#x306D;&#x304B;&#x3056;&#x308A;</pr></trd>,
+    <trd>&#x51A0;&#x6BDB;  <pr>&#x304B;&#x3093;&#x3082;&#x3046;</pr></trd>,
+    <trd>&#x30D6;&#x30E9;&#x30B7;&#x653E;&#x96FB;  <pr>&#x30D6;&#x30E9;&#x30B7;&#x307B;&#x3046;&#x3067;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_u;&c_b;&c_ch;&c_i;&#x43A;</trd>,
+    <trd>&c_s;&c_u;&#x43B;&c_t;&c_a;&#x43D;</trd>,
+    <trd>&#x43F;&#x43B;&#x44E;&#x43C;&c_a;&c_zh;</trd>,
+    <trd>&#x43B;&c_je;&c_t;&#x44E;&c_ch;&#x43A;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/14 15:34:33
+revo: transskribo per <pr>
+
+versio 1.23 2023/03/16 07:26:22
+Dmitri Gabinski: + trd be
+
+versio 1.21 2020/09/13 20:32:27
+Jeromo Vasxe: + snc birdo
+
+versio 1.20 2020/09/10 22:32:16
+Jeromo Vasxe: + snc teks
+
+versio 1.19 2020/09/08 22:32:38
+Jeromo Vasxe: + ref
+
+Revision 1.17  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2011/12/10 18:10:12  revo
+-->
+</vortaro>

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: stam.xml,v 1.5 2023/10/21 07:46:48 revo Exp $">
+<kap>
+  <rad>stam</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="stam.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stam.0o.BAK">
+    <uzo tip="fak">BAK</uzo>
+    <dif>
+      &Ccirc;iu mikroba kolonio sufi&ccirc;e simila al referenca kolonio
+      kaj sekve rigardata kiel samspecia:
+      <ekz>
+        la birda gripo estigita de la <tld/>o H5N1
+        de la viruso distingi&gcirc;as per eksterordinara virulenteco
+        <fnt>
+          <aut>AC</aut>
+          <vrk>La birda gripo : kia katastrofo!</vrk>
+          <lok><url ref="http://www.recim.org/solidareco/MS88EO.pdf">
+          monda solidareco, 2006-04 (88), p. 3a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_sh;&c_t;&c_a;&c_m;</trd>
+    <trd lng="fr">souche<klr> (microbienne)</klr></trd>
+  </snc>
+  <snc mrk="stam.0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <ref tip="dif" cel="radika1.0o.GRA">Radikalo<sncref/></ref>:
+      <ekz>
+        mi prenis la <tld/>ojn odor', bonodor' kaj malbonodor',
+        &ccirc;ar odor' &scirc;ajnas al mi ne-sufi&ccirc;e signifospecifa
+        <fnt>
+          <aut>J. Derks</aut>
+          <vrk><url ref="http://jki.amu.edu.pl/files/JKI%20-%20tom%2010%20-%202015.pdf">
+          Teorio de la gramatika karaktero de radikoj:
+          elirpunkto a&ubreve; stumbla&jcirc;o?</url></vrk>
+          <lok>J&eogonek;zyk, Komunikacja, Informacja / Language, Communication,
+          Information,
+          2015:10, p. 117a&ndash;139a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_s;&c_n;&c_o;&c_v;&c_a; <klr>(&c_s;&c_l;&c_o;&c_v;&c_a;)</klr></trd>
+    <trd lng="fr">radical<klr> (gram.)</klr></trd>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x682A;  <pr>&#x304B;&#x3076;&#x305F;</pr></trd>,
+    <trd>&#x83CC;&#x682A;  <pr>&#x304D;&#x3093;&#x304B;&#x3076;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_sh;&c_t;&c_a;&#x43C;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.5 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.3 2023/06/27 07:27:45
+Dmitri Gabinski: + trd be
+-->
+</vortaro>

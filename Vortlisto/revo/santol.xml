@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: santol.xml,v 1.19 2023/09/03 12:09:44 revo Exp $">
+<kap>
+  <rad>santolin</rad>/o
+</kap>
+<drv mrk="santol.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:botanikaj_genroj" cel="genr.0o.BIO">Genro</ref>
+      el familio <ref tip="malprt" cel="astera.0oj">asteracoj</ref>
+      (<trd lng="la">Santolina</trd>), spicodoranta arbedo kun grize
+      lanecaj folioj kaj rompi&gcirc;emaj bran&ccirc;oj:
+      <ekz>
+        <tld/>o<klr>[j&#x2026;]</klr> odoras arome kaj estas ofte haraj, ili formas kelkfoje
+        rizomoj<klr>[n]</klr>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=506439">Santolino</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/3/31/Heiligenkraut_(Santolina_chamaecyparissus_L.).jpg/640px-Heiligenkraut_(Santolina_chamaecyparissus_L.).jpg" prm="CC-BY-SA-3.0"><tld/>o (Santolina chamaecyparissus)
+        <fnt>
+          <aut>Olbertz, propra verko</aut>
+          <lok><url ref="&WCW;/File:Heiligenkraut_(Santolina_chamaecyparissus_L.).jpg">&WCW;/File:Heiligenkraut_(Santolina_chamaecyparissus_L.).jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_n;&c_t;&c_a;&c_l;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="ca">g&egrave;nere Santolina</trd>
+  <trdgrp lng="de">
+    <trd>Heiligenblume</trd>,
+    <trd>Zypressenkraut</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Santolina</trd>,
+    <trd>santolina</trd>
+  </trdgrp>
+  <trd lng="fr">santoline</trd>
+  <trd lng="hu">cipruska</trd>
+  <trd lng="it">crespolina</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B5;&#x30F3;&#x30C8;&#x30EA;&#x30CA;</trd>,
+    <trd>&#x30EF;&#x30BF;&#x30B9;&#x30AE;&#x30AE;&#x30AF;</trd>
+  </trdgrp>
+  <trd lng="nl">heiligenbloem</trd>
+  <trd lng="pl">santolina</trd>
+  <trdgrp lng="pt">
+   <trd>santolina</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_a;&c_n;&c_t;&c_o;&c_l;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_g;&c_l;&c_i;&c_s;&c_t;&c_o;&c_g;&c_o;&c_n;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_a;&#x43D;&c_t;&#x43E;&#x43B;&c_ib;&#x43D;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.18 2023/07/28 15:27:25
+Dmitri Gabinski: + trd be
+
+versio 1.17 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.14  2016/09/28 20:10:42  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2015/10/26 12:11:55  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.12  2014/06/17 16:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.11  2012/01/02 19:10:10  revo
+Marc Rausell: +trd ca
+
+Revision 1.10  2009/09/28 16:30:49  revo
+Antonio Codazzi: +trd it
+
+Revision 1.9  2006/02/07 17:31:50  revo
+-->
+</vortaro>

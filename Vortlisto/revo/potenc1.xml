@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: potenc1.xml,v 1.33 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <rad>potencial</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="potenc1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="potenc1.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(de vektora <ref tip="super" cel="kamp.0o.MAT">kampo</ref> 
+      <frm am="E">E</frm>)</klr>
+      Tia skalara kampo <frm am="U">U</frm>, se &gcirc;i ekzistas, ke
+      <frm am="E">E</frm>
+      egalas al kontra&ubreve;egalo de la 
+      <ref cel="gradient.0o">gradiento</ref> de <frm am="U">U</frm>;
+      simb. <frm am="E=-&quot;grad&quot;U">E = -grad U</frm>:
+      <ekz>
+        iuj me&hcirc;anikaj fortoj akceptas <tld/>on, kiu nomi&gcirc;as
+        <tld/>a energio;
+      </ekz>
+      <ekz>
+        <tld/>a energio de akvo, transformata en elektran kurenton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2012/010595.php">Novtipa ekologia turismo</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_a;&c_t;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l;</trd>
+    <trd lng="de">Potenzial</trd>
+    <trd lng="en">potential</trd>
+    <trd lng="fr">potentiel<klr tip="ind"> (d'un champ
+    vectoriel)</klr></trd>
+    <trd lng="hu">potenci&aacute;l<klr tip="ind">
+    (vektormez&odblac;n&eacute;l)</klr></trd>
+    <trd lng="pl">potencja&lstroke;<klr tip="ind"> (pola
+    wektorowego)</klr></trd>
+    <trd lng="pt">potencial</trd>
+    <trd lng="ru">&c_p;&c_o;&c_t;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;<klr tip="ind"> (&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_o;&c_g;&c_o;
+    &c_p;&c_o;&c_l;&c_ja;)</klr></trd>
+  </snc>
+  <snc mrk="potenc1.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      <tld lit="P"/>o <sncref ref="potenc1.0o.MAT"/> de
+      <ref cel="elektr.0akampo">elektra kampo</ref>; simb. U:
+      <ekz>
+        <ind>falo de <tld/>o</ind> <klr>(observebla, la&ubreve;mezure
+        kiam oni malproksimi&gcirc;as de la &scirc;argoj)</klr>.
+        <trd lng="fr">chute de potentiel</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_a;&c_t;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l;</trd>
+    <trd lng="de">Potential</trd>
+    <trd lng="fr">potentiel<klr tip="ind"> (&eacute;lec.)</klr></trd>
+    <trd lng="hu">potenci&aacute;l<klr tip="ind"> (villamos)</klr></trd>
+    <trd lng="nl">potentiaal</trd>
+    <trd lng="pl">potencja&lstroke;</trd>
+    <trd lng="pt">potencial</trd>
+    <trd lng="ru">&c_p;&c_o;&c_t;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;</trd>
+  </snc>
+  <snc mrk="potenc1.0o.KOMUNE">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <refgrp tip="dif">
+        <ref cel="kapabl.0o">Kapablo</ref>,
+        <ref cel="latent.0o">latento</ref>:
+      </refgrp>
+      <ekz>
+        disvolvi sian tutan <tld/>on
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://www.vhemt.org/esabout.htm">
+          Movado por la Libervola Formorto de la Homaro</url></vrk>,
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de la Esperanto-movado en tiu tempo estis multe pli granda ol nun
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2004/008392.html">Reveno de heroo</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu frazeologismo, estante eble nur pa&ubreve;sa&jcirc;o de loka idioma&jcirc;o, havas la dan&gcirc;eran
+        <tld/>on i&gcirc;i anka&ubreve; esperanta idioma&jcirc;o
+        <fnt>
+	<aut>Pejno Simono</aut>
+	<vrk><url ref="&Monato;/2000/006813.php">Plansprache und Phraseologie</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/06, p. 33</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Kvankam <em>potencialo</em> estas scienca faktermino,
+      multaj &scirc;ajnas uzi &gcirc;in kiel sinonimon por eblo&#x202F;/&#x202F;ebleco
+      ver&scirc;ajne pro nacilingva influo.
+      <aut>RW</aut>
+    </rim>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x96FB;&#x4F4D;  <pr>&#x3067;&#x3093;&#x3044;</pr></trd>,
+    <trd>&#x30DD;&#x30C6;&#x30F3;&#x30B7;&#x30E3;&#x30EB;</trd>
+  </trdgrp>
+  <trd lng="sk">potenci&aacute;l</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&c_t;&c_je;&#x43D;&c_c;&c_ib;&c_a;&#x43B;</trd>,
+    <trd>&#x43F;&#x43E;&c_t;&c_je;&#x43D;&c_c;&c_ib;&c_a;&#x43B;&#x44C;&#x43D;&c_a; &c_je;&#x43D;&c_je;&c_r;&c_g;&c_ib;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="potenc1.0hava">
+  <kap><tld/>hava</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="potenc1.0hava.MAT">
+    <dif>
+      <klr>(p.p. vektora <ref tip="super" cel="kamp.0o.MAT">kampo</ref> 
+      <frm am="E">E</frm>)</klr>
+      Tia, ke ekzistas <tld/>o de &gcirc;i:
+      <ekz>
+        sub sufi&ccirc;e &gcirc;eneralaj kondi&ccirc;oj
+        kampo estas <tld/>hava, se &gcirc;i estas
+        <ref cel="kirl.sen0a.MAT">senkirla</ref>, kaj nur tiam.
+      </ekz>
+    </dif>
+    <rim>
+      Se kampo <frm am="E">E</frm> estas <tld/>hava, oni diras, 
+      anka&ubreve; ke <frm am="E">E</frm> 
+      &leftquot;akceptas <tld/>on&rightquot; a&ubreve;
+      &leftquot;derivi&gcirc;as de <tld/>o&rightquot;.
+    </rim>
+  </snc>
+  <adm>
+    Mi ne trovis auxtoritatan fonton. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_a;&c_je;
+  <klr tip="amb">(&c_p;&c_o;&c_l;&c_je;)</klr></trd>
+  <trd lng="de">potential<klr tip="ind"> (-es Vektorfeld)</klr></trd>
+  <trd lng="en">potential<klr tip="ind"> (field)</klr></trd>
+  <trdgrp lng="fr">
+    <trd><klr tip="ind">(champ) </klr>potentiel</trd>,
+    <trd><klr tip="ind">(champ) </klr>de <ind>gradient</ind></trd>,
+    <trd><klr tip="ind">(champ) </klr>de <ind>potentiel</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&ouml;rv&eacute;nymentes<klr tip="ind">
+    (vektormez&odblac;)</klr></trd>,
+    <trd>rot&aacute;ci&oacute;mentes <klr tip="ind">(vektormez&odblac;)
+    </klr></trd>,
+    <trd>potenci&aacute;l<klr tip="ind">(mez&odblac;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd><klr tip="amb">(pole) </klr>potencjalne</trd>
+  </trdgrp> 
+  <trd lng="ru">&c_p;&c_o;&c_t;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;<klr tip="amb"> (&c_p;&c_o;&c_l;&c_je;)</klr></trd>
+</drv>
+
+<drv mrk="potenc1.0adiferenco">
+  <kap><tld/>a diferenco</kap>
+  <uzo tip="fak">ELE</uzo>
+  <fnt><bib>PV</bib></fnt>
+  <snc mrk="potenc1.0adiferenco.tensio">
+    <dif>
+      <ref tip="dif" cel="tensi.0o.ELE">Tensio</ref>:
+      <ekz>
+        kemia reakcio estas ka&ubreve;zata de ekstera <tld/>a diferenco
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=40119">Elektrokemio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Uzata ankaux en grafeiko. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_r;&c_o;&c_z;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;
+  &c_p;&c_a;&c_t;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l;&c_a;&c_w;</trd>
+  <trd lng="de">Spannung</trd>
+  <trdgrp lng="en">
+    <trd>potential difference</trd>,
+    <trd>tension</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>diff&eacute;rence de <ind>potentiel</ind></trd>,
+    <trd>tension<klr tip="ind"> (&eacute;lec.)</klr></trd>,
+    <trd>voltage</trd></trdgrp>
+  <trdgrp lng="hu">
+    <trd>potenci&aacute;lk&uuml;l&ouml;nbs&eacute;g</trd>,
+    <trd>fesz&uuml;lts&eacute;g</trd>
+  </trdgrp>
+  <trd lng="pl">r&oacute;&zdot;nica
+  <ind>potencja&lstroke;&oacute;w</ind></trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_n;&c_o;&c_s;&c_t;&c_mol;
+  &c_p;&c_o;&c_t;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;&c_o;&c_v;</trd>
+</drv>
+
+<drv mrk="potenc1.skalara0o">
+  <kap>skalara <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="potenc1.skalara0o.MAT">
+    <dif>
+      <ref tip="dif" cel="potenc1.0o.MAT"><tld lit="P"/>o<sncref/></ref>:
+      <ekz>
+        magneta vektora <tld/>o kaj elektra skalara potencialo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=315610">Lorenca forto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_k;&c_a;&c_l;&c_ja;&c_r;&c_n;&c_y;
+  <ind>&c_p;&c_a;&c_t;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l;</ind></trd>
+  <trd lng="de">skalares <ind>Potenzial</ind></trd>
+  <trd lng="en">scalar <ind>potential</ind></trd>
+  <trd lng="hu">skal&aacute;r <ind>potenci&aacute;l</ind></trd>
+  <trd lng="pl">potencja&lstroke;<klr tip="ind"> (pola
+  wektorowego)</klr></trd>
+  <trd lng="fr">potentiel scalaire</trd>
+  <trd lng="ru">&c_s;&c_k;&c_a;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j;
+  <ind>&c_p;&c_o;&c_t;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;</ind></trd>
+</drv>
+
+<drv mrk="potenc1.vektora0o">
+  <kap>vektora <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV2</bib></fnt>
+  <snc mrk="potenc1.vektora0o.MAT">
+    <dif>
+      <klr>(de vektora <ref tip="super" cel="kamp.0o.MAT">kampo</ref>
+      <frm am="E">E</frm>)</klr>
+      Tia vektora kampo <frm am="A">A</frm>, se &gcirc;i ekzistas, ke
+      <frm am="E">E</frm> egalas al la <ref cel="kirl.0o.MAT">kirlo</ref> de
+      <frm am="A">A</frm>; simb. <frm am="E=&quot;rot&quot;A">E = rot A</frm>:
+      <ekz>
+        sub sufi&ccirc;e &gcirc;eneralaj kondi&ccirc;oj
+        kampo akceptas vektoran <tld/>on, se &gcirc;i estas
+        <ref cel="diverg1.sen0a">sendiver&gcirc;enca</ref>, kaj nur
+        tiam;
+      </ekz>
+      <ekz>
+        la magneta vektora <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=27375">Elektromagneta forto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_e;&c_k;&c_t;&c_a;&c_r;&c_n;&c_y;
+  <ind>&c_p;&c_a;&c_t;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l;</ind></trd>
+  <trd lng="de">Vektorpotenzial</trd>
+  <trd lng="en">vector <ind>potential</ind></trd>
+  <trd lng="fr">potentiel vecteur</trd>
+  <trd lng="hu">vektor <ind>potenci&aacute;l</ind></trd>
+  <trd lng="pl">potencja&lstroke; wektorowy</trd>
+  <trd lng="ru">&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_y;&c_j;
+  <ind>&c_p;&c_o;&c_t;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;</ind></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.33 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.31 2023/04/24 10:31:35
+Paul Peeraerts: @Sxteloj -> @Monato
+
+versio 1.30 2022/05/04 18:30:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.28 2021/05/13 09:59:02
+Wolfram Diestel: kor. snc@mrk
+
+versio 1.27 2020/03/15 12:10:21
+Wolfram Diestel: +ekz-oj
+
+Revision 1.26  2020/02/15 23:10:41  revo
+Wolfram Diestel: formuloj per am
+
+Revision 1.25  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2014/02/08 16:10:33  revo
+-->
+</vortaro>

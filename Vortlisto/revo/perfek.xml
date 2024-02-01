@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: perfek.xml,v 1.34 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>perfekt</rad>/a
+</kap>
+<drv mrk="perfek.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="perfek.0a.absolute">
+    <dif>
+      Havanta &ccirc;iujn kvalitojn kaj neniun mankon:
+      <ekz>
+        via &ccirc;iela Patro estas <tld/>a
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 5:48</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej <tld/>a esto estas la neesto
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="perfek.0a.siaspece">
+    <dif>
+      Havanta &ccirc;iujn kvalitojn necesajn en sia speco, ne plibonigebla:
+      <ekz>
+        tiel <tld/>a simileco ne estas akceptebla
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>a feli&ccirc;eco regas en la hejmo de tiuj duoblaj geedzoj, kiuj faras unu
+        kaj solan familion
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a kavaliro, kun la plej bonegaj distingi&gcirc;oj, kun brilanta teni&gcirc;o kaj
+        ekstera&jcirc;o
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a kanajlo
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+        <klr>(<ref tip="vid" cel="protok1.0o">protokanajlo</ref>)</klr>,
+      </ekz>
+      <ekz>
+        akiri <tld/>an stilon
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio, kion li verkis, estas efektive <tld/>a
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plori &ccirc;e kelkaj scenoj <tld/>e ludataj
+        <fnt>
+          <bib>Kandid</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        alfabeto, <tld/>a kaj plena
+        <fnt>
+          <bib>LR</bib>
+          <lok>Dua Parto &ndash; Gramatiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vere <tld/>a oratoro devas samtempe esti <tld/>a homo
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; mia opinio tute <tld/>a socialisto devus samtempe esti malri&ccirc;ulo kaj
+        kapitalisto, idealisto kaj materialisto
+        <fnt>
+          <bib>Tor</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tian <tld/>an solecon li ne trovis e&ccirc; en la arbaroj
+        <fnt>
+          <bib>Tor</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi primiris la <tld/>an plastikecon de la figuroj kaj la odoron
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pli <tld/>a ma&scirc;ino devas pli produkti per la sama hejtmaterialo
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="defini.0a">definitiva</ref>,
+      <ref cel="ideal.0a">ideala</ref>,
+      <ref cel="model.0a">modela</ref>,
+      <ref cel="optimum.0a">optimuma</ref>,
+      <ref cel="mank.sen0a">senmanka</ref>,
+      <ref cel="difekt.sen0a">sendifekta</ref>,
+      <ref cel="pek.sen0a">senpeka</ref>,
+      <ref cel="makul.sen0a">senmakula</ref>,
+      <ref cel="erar">senerara</ref>
+    </refgrp>
+  <trd lng="de">perfekt</trd>
+  </snc>
+  <snc mrk="perfek.0a.nombro">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="entjer.natura0o">natura entjero</ref>)</klr>
+      Tia, ke &gcirc;i egalas al la sumo de
+      &ccirc;iuj &gcirc;iaj <ref cel="divizo.0o">divizoroj</ref> (krom &gcirc;i):
+      <ekz>
+        <frm am="28=2^2*7=1+2+4+7+14">28 = 2<sup>2</sup>&#xD7;7 =
+        1+2+4+7+14</frm>.
+      </ekz>
+    </dif>                                                   
+    <trd lng="br"><klr tip="ind">(niver) </klr>parfet</trd>    
+    <trd lng="de">vollkommen<klr tip="ind"> (-e Zahl)</klr></trd>
+    <trd lng="en">perfect<klr tip="ind"> (number)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(nombre) </klr>parfait</trd>
+    <trd lng="pl"><klr tip="amb">(liczba) </klr>doskona&lstroke;a</trd>
+    <trd lng="ru">&c_s;&c_o;&c_v;&c_je;&c_r;&c_sh;&c_je;&c_n;&c_n;&c_o;&c_je;<klr tip="amb"> (&c_ch;&c_i;&c_s;&c_l;&c_o;)</klr></trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_s;&c_k;&c_a;&c_n;&c_a;&c_l;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_d;&c_a;&c_k;&c_o;&c_r;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_z;&c_a;&c_g;&c_a;&c_n;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_sa;&t_kata;&t_yata;&t_naro;&t_na;&t_tsheg;&t_ra;&t_tsata;&t_tsheg;&t_na;&t_sa;&t_tsheg;&t_ma;&t_drengbu;&t_da;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="br">peurvat</trd>
+  <trdgrp lng="cs">
+    <trd>dokonal&yacute;</trd>,
+    <trd>mistrn&yacute;</trd>,
+    <trd>perfektn&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">vollkommen</trd>  
+  <trd lng="en">perfect</trd>
+  <trd lng="es">perfecto</trd>
+  <trd lng="fr">parfait</trd>
+  <trdgrp lng="hu">
+    <trd>t&ouml;k&eacute;letes</trd>,
+    <trd>hi&aacute;nytalan</trd>,
+    <trd>perfekt</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5B8C;&#x5168;&#x306A;  <pr>&#x304B;&#x3093;&#x305C;&#x3093;&#x306A;</pr></trd>,
+    <trd>&#x5B8C;&#x74A7;&#x306A;  <pr>&#x304B;&#x3093;&#x307A;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x7533;&#x3057;&#x5206;&#x306E;&#x306A;&#x3044;  <pr>&#x3082;&#x3046;&#x3057;&#x3076;&#x3093;&#x306E;&#x306A;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>volmaakt</trd>,
+    <trd>perfect</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>doskona&lstroke;y</trd>,
+    <trd>perfekcyjny</trd>
+  </trdgrp>
+  <trd lng="pt">perfeito</trd>
+  <trd lng="ro">perfect</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_v;&c_je;&c_r;&c_sh;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_u;&c_p;&c_r;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">dokonal&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x43E;&#x441;&#x43A;&#x43E;&#x43D;&#x430;&#x43B;&#x438;&#x439;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x434;&#x43E;&#x433;&#x430;&#x43D;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x434;&#x43E;&#x43A;&#x43E;&#x43D;&#x430;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="perfek.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Peni por igi <tld/>a:
+      <ekz>
+        Li <tld/>igas mian vojon
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 22:33</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la le&gcirc;o nenion <tld/>igis
+        <fnt>
+          <bib>NT</bib>
+          <lok>Hebreoj 7:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili deziras <tld/>igi la morojn kaj purigi ilin de &ccirc;io mensoga kaj hipokrita
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Pri la homaranismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;an&gcirc;i kaj <tld/>igi siajn dogmojn
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Homaranismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi volus utiligi miajn konojn en &hcirc;emio <klr>[&#x2026;]</klr> por <tld/>igi la nunajn
+        procedojn
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> teksto estas nur provizora kaj poste <tld/>igota
+        <fnt>
+          <bib>KZG</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Petro <klr>[&#x2026;]</klr> kiel moderna <tld/>igita servisto anstata&ubreve; veni kisi la
+        manon de la juna sinjoro, nur salutis lin de malproksime
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="optimum.0igi">optimumigi</ref>,
+      <ref cel="bon.pli0igi">plibonigi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_u;&c_d;&c_a;&c_s;&c_k;&c_a;&c_n;&c_a;&c_l;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="br">peurwellaat</trd>
+  <trd lng="cs">zdokonalit</trd>
+  <trdgrp lng="de">
+    <trd>vervollkommnen</trd>,
+    <trd>perfektionieren</trd>
+  </trdgrp>
+  <trd lng="en">to perfect</trd>
+  <trd lng="fr">perfectionner</trd>
+  <trd lng="hu">t&ouml;k&eacute;letes&iacute;t</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5B8C;&#x5168;&#x306B;&#x3059;&#x308B;  <pr>&#x304B;&#x3093;&#x305C;&#x3093;&#x306B;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5B8C;&#x6210;&#x3059;&#x308B;  <pr>&#x304B;&#x3093;&#x305B;&#x3044;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">vervolmaken</trd>
+  <trdgrp lng="pl">
+    <trd>udoskonala&cacute;</trd>,
+    <trd>doskonali&cacute;</trd>
+  </trdgrp>
+  <trd lng="ro">&icirc;mbun&abreve;t&abreve;&#x21B;i</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_v;&c_je;&c_r;&c_sh;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_s;&c_o;&c_v;&c_je;&c_r;&c_sh;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cibri&tcaron;</trd>,
+    <trd>zdokona&lcaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x443;&#x434;&#x43E;&#x441;&#x43A;&#x43E;&#x43D;&#x430;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x431;&#x438;&#x442;&#x438; &#x431;&#x435;&#x437;&#x434;&#x43E;&#x433;&#x430;&#x43D;&#x43D;&#x438;&#x43C;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.34 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.31 2022/01/16 21:28:22
+Wolfram Diestel: +ref
+
+versio 1.30 2022/01/16 20:31:06
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+versio 1.29 2022/01/06 23:32:32
+Vito Redsky: + trd pl + trd ro
+
+versio 1.27 2020/02/16 00:10:37
+Wolfram Diestel: formuloj per am
+
+Revision 1.26  2019/03/01 17:10:15  revo
+Wolfram Diestel: -perfekto
+
+Revision 1.25  2019/02/12 17:10:20  revo
+Sergio Pokrovskij: +rim
+
+Revision 1.24  2015/10/08 14:10:21  revo
+-->
+</vortaro>

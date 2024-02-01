@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: u1.xml,v 1.4 2022/06/26 09:26:37 revo Exp $">
+<kap>
+    <ofc>*</ofc>-<rad>u</rad> 
+</kap>
+<drv mrk="u1.0">
+  <kap>-<tld/></kap>
+  <snc mrk="u1.0.SNC">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Verba <ref tip="super" cel="fin.0ajxo.GRA">fina&jcirc;o</ref>,
+      esprimanta <ref cel="dezir.0o">deziro</ref>n, <ref cel="rekome.0o">rekomendo</ref>n
+      a&ubreve; <ref cel="vol.0o">volo</ref>n:
+      <ekz>
+        bone ellern<tld/> kaj per ofta enrigardado konstante memorigad<tld/>
+        <klr>[&#8230;]</klr>, kio en nia lingvo estas oficiala kaj netu&scirc;ebla
+        <fnt>
+          <bib>F</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        leg<tld/> la historion de la eltrovo de Ameriko
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>&ccirc;u ni far<tld/> tion</ind>, kion li diris
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 17:6</lok>
+        </fnt>?
+        <trd lng="de"><ind>sollten</ind> wir das tun?</trd>
+      </ekz>
+      <ekz>
+        <ind>prefere mend<tld/></ind> vinkarafon
+        <fnt>
+          <bib>LSB</bib>
+          <lok>Kremkaful'!</lok>
+        </fnt>;
+        <trd lng="de"><ind>besser</ind>, du bestellst...</trd>
+      </ekz>
+      <ekz>
+        adia&ubreve;! <ind>viv<tld/> longe</ind>, tio estas la plej grava
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XXVII</lok>
+        </fnt>;
+        <trd lng="de"><ind>m&ouml;gest</ind> du lange leben</trd>
+      </ekz>
+      <ekz>
+        li esprimis la deziron, ke lia verko, krom la partoj rusa, pola, franca kaj
+        germana, enhav<tld/> anka&ubreve; parton Esperantan
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por ke <ind>oni pov<tld/> facile trovi</ind> la proverbojn, <klr>[&#8230;]</klr>
+        la la&ubreve;enhave dividitaj grupoj da proverboj estos numeritaj
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+        <trd lng="de">man <ind>soll</ind> leicht finden...</trd>
+      </ekz>
+      <ekz>
+        al amiko nova ne fid<tld/> sen provo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al la fi&scirc;o ne instr<tld/>u na&gcirc;arton
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        am<tld/> edzinon plej kore, sed ten<tld/> &scirc;in bonmore
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve;e intenc<tld/> kaj poste komenc<tld/>
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="i1.0">-i (infinitivo)</ref>,
+    <ref cel="impera.0o">imperativo</ref>,
+    <ref cel="interj.0o">interjekcio</ref>
+  </refgrp>
+  <refgrp tip="vid">
+    <ref cel="dev.0i">devi</ref>,
+<ref cel="vol.0i.deziri">voli</ref>
+  </refgrp>
+  <trdgrp lng="de">
+    <trd>sollen <klr>(Infinitiv)</klr></trd>,
+    <trd>wollen <klr>(Voluntativ)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2022/06/26 09:26:37
+Wolfram Diestel: +ekz, ref, trd de
+
+versio 1.3 2021/01/25 11:19:43
+Wolfram Diestel: +ekz cxu ni...; ref-oj
+
+Revision 1.1  2018/11/18 00:10:19  revo
+Michel Cantigneaux: nova artikolo
+-->
+</vortaro>

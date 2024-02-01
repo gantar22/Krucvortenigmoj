@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kastel.xml,v 1.35 2023/12/03 08:00:24 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kastel</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kastel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">ARKI</uzo>
+  <snc mrk="kastel.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Lo&gcirc;loko, defendata kiel <ref tip="super" cel="fortik.0ajxo">fortika&jcirc;o</ref> per fosa&jcirc;o,
+      remparoj kaj
+      turoj:
+      <ekz>
+        &ccirc;iujn iliajn <tld/>ojn ili forbruligis per fajro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 31:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur apena&ubreve; atingebla alta&jcirc;o en la insulo <klr>[<nom>Ailsa Craig</nom>]</klr> estas ruinoj
+        de kapelo kaj tre antikva <tld/>o
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008289.html">Mistera insulo Ailsa Craig</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/07, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o <nom>Schlaining</nom> vizitindas pro sia historia ri&ccirc;eco
+        <fnt>
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2000/007044.php">De perforto al paco</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 12</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="burg.0o">burgo</ref>,
+       <ref cel="citade.0o">citadelo</ref>
+    </refgrp>
+    <trd lng="de">Burg</trd>
+    <trdgrp lng="en">
+      <trd>castle</trd>,
+      <trd>citadel</trd>,
+      <trd>stronghold</trd>,
+      <trd>fort</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>v&aacute;rkast&eacute;ly</trd>,
+      <trd>v&aacute;r</trd>
+    </trdgrp>
+    <trd lng="pl">zamek</trd>
+    <trd lng="ro">castel</trd>
+    <trd lng="zh">&#x8981;&#x585E; <pr>y&#xE0;os&#xE0;i</pr></trd>
+</snc>
+  <snc mrk="kastel.0o.palaco">
+    <dif>
+      <ref tip="super" cel="konstr.0ajxo">Konstrua&jcirc;o</ref> servanta
+      kiel luksa sinjora domego:
+      <ekz>
+        oni trovis en <nom>A&hcirc;meta</nom>, la re&gcirc;a <tld/>o en la Meda lando, unu skribrula&jcirc;on, en kiu
+        estis skribita la sekvanta pormemora&jcirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ezra 6:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;o <nom>A&hcirc;a&scirc;vero&scirc;</nom> sidis sur sia re&gcirc;a trono en la <tld/>urbo &Scirc;u&scirc;an
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ester 1:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        elektu al vi la plej indajn el la bando kaj konduku ilin rekte al la <tld/>o de
+        la nobelo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni iras al la edzi&gcirc;a festo en la re&gcirc;a <tld/>o
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Cindrulino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ctl><tld lit="K"/>o de Prelongo</ctl>
+        <klr>(originala romano de <nom>H. Vallienne</nom>)</klr>
+        <fnt>
+          <aut>H. Vallienne</aut>,
+          <vrk>Kastelo de Prelongo</vrk>,
+          <lok>1907</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="palac.0o">palaco</ref>,
+      <ref cel="zigurat.0o">zigurato</ref>
+    </refgrp>
+    <trd lng="de">Schloss</trd>
+    <trdgrp lng="en">
+      <trd>castle</trd>,
+      <trd>manse</trd>,
+      <trd>mansion</trd>
+    </trdgrp>
+    <trd lng="hu">kast&eacute;ly</trd>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_m;&c_a;&c_k;</trd>
+  <trd lng="bo">&#xF58;&#xF41;&#xF62;&#xF0B;</trd>
+  <trd lng="br">kastell</trd>
+  <trdgrp lng="cs">
+    <trd>hrad</trd>,
+    <trd>z&aacute;mek</trd>
+  </trdgrp>
+  <trd lng="es">castillo</trd>
+  <trdgrp lng="fr">
+    <trd>ch&acirc;teau</trd>,
+    <trd>manoir</trd>
+  </trdgrp>
+  <trd lng="it">castello</trd>
+  <trdgrp lng="ja">
+    <trd>&#x57CE;  <pr>&#x304D;</pr></trd>,
+    <trd>&#x57CE;&#x90ED;  <pr>&#x3058;&#x3087;&#x3046;&#x304B;&#x304F;</pr></trd>,
+    <trd>&#x5927;&#x90B8;&#x5B85;  <pr>&#x3060;&#x3044;&#x3066;&#x3044;&#x305F;&#x304F;</pr></trd>,
+    <trd>&#x9928;  <pr>&#x3080;&#x308D;&#x3064;&#x307F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>kasteel</trd>,
+    <trd>slot <klr tip="ind">(kasteel)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_z;&c_a;&c_m;&c_o;&c_k; <klr>(&c_s;&c_o;&c_o;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>hrad</trd>,
+    <trd>z&aacute;mok</trd>
+  </trdgrp>
+  <trd lng="uk">&c_z;&c_a;&#x43C;&#x43E;&#x43A;</trd>
+</drv>
+
+<drv mrk="kastel.0oenaero">
+  <kap>aer<tld/>o,
+  <var><kap><tld/>o en aero</kap></var>,
+  <var><kap><tld/>o sur glacio</kap></var></kap>
+  <snc mrk="kastel.0oenaero.FRAZ">
+    <uzo tip="stl">FRAZ</uzo>
+    <dif>
+      <ref tip="vid" cel="hximer.0o.FIG">&Hcirc;imero</ref>,
+      <ref tip="vid" cel="utopi.0o">utopio</ref>,
+      grandioza fantazio sen responda reala&jcirc;o:
+      <ekz>
+        konstrui <tld/>ojn en aero
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>' en aero &dash; malsato sur tero
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        konstrui <tld/>on sur glacio
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        kiom da absurdaj aer<tld/>oj
+        <fnt>
+          <aut>S. Rodin</aut>,
+          <vrk>Bildoj pri Norda Lando</vrk>,
+          <lok>2006</lok>
+        </fnt>!
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_a;&c_v;&c_je;&c_t;&c_r;&c_a;&c_n;&c_y; <ind>&c_z;&c_a;&c_m;&c_a;&c_k;</ind></trd>
+    <trd lng="br">kestell el Loar</trd>
+    <trd lng="fr">ch&acirc;teau en Espagne</trd>
+    <trd lng="it">castello in aria</trd>
+    <trd lng="nl">luchtkasteel</trd>
+    <trd lng="pl">zamek na piasku</trd>
+  </snc>
+<trd lng="de">Luftschloss</trd>
+  <trd lng="ja">&#x7A7A;&#x4E2D;&#x697C;&#x95A3;  <pr>&#x304F;&#x3046;&#x3061;&#x3085;&#x3046;&#x308D;&#x3046;&#x304B;&#x304F;</pr></trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x73B0;&#x5B9E;&#x7684;&#x4E1C;&#x897F; <pr>b&#xF9;xi&#xE0;nsh&#xED;ded&#x14D;ngxi</pr></trd>,
+    <trd>&#x5929;&#x4E0A;&#x6389;&#x9921;&#x9905; <pr>ti&#x101;nsh&#xE0;ngdi&#xE0;oxi&#xE0;nb&#x1D0;ng</pr></trd>,
+    <trd>&#x7A7A;&#x4E2D;&#x697C;&#x9601; <pr>k&#x14D;ngzh&#x14D;ngl&#xF3;ug&#xE9;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.34 2023/10/18 14:48:10
+revo: transskribo per <pr>
+
+versio 1.32 2023/05/11 04:29:57
+Paul Peeraerts: fnt, kor en nl
+
+versio 1.31 2023/04/30 14:25:40
+Paul Peeraerts: Steloj -> monato
+
+versio 1.30 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.27 2021/05/23 07:52:42
+Wolfram Diestel: ref-tip
+
+versio 1.26 2021/05/21 13:15:34
+Wolfram Diestel: ekz-oj, ref-oj
+
+Revision 1.24  2017/08/22 22:10:25  revo
+Vito Redsky: +trd ro
+
+Revision 1.23  2015/07/04 08:37:37  revo
+-->
+</vortaro>

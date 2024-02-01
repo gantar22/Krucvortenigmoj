@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: azimut.xml,v 1.21 2023/10/13 17:08:38 revo Exp $">
+<kap>
+  <rad>azimut</rad>/o
+  <fnt><bib>FK</bib></fnt>
+</kap>
+<drv mrk="azimut.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">AST</uzo>
+  <snc>
+    <dif>
+      Horizontala <ref tip="super" cel="angul.0o.MAT">angulo</ref>
+      inter la meridiano astronomia a&ubreve; magneta &dash; kaj la vertikala
+      ebeno a&ubreve; la vertikalo, kiu trapasas tra difinita astro
+      (a&ubreve; tra difinita terpunkto):
+      <ekz>
+        oni vidos facile la eblon konstrui &gcirc;uste tian sunhorlo&gcirc;on, <klr>[&#x2026;]</klr>
+        oni nomu:
+            &delta;&nbsp;=&nbsp;la kolatitudon de la loko,
+            &alfa;&nbsp;=&nbsp;la <tld/>on de la suno,
+            D&nbsp;=&nbsp;&gcirc;ian deklini&gcirc;on,
+            h&nbsp;=&nbsp;&gcirc;ian angulon horan <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        televidaj satelitoj por rekta ricevado trovi&gcirc;as <klr>[&#x2026;]</klr> 
+        &ccirc;iam en la sama loko de la &ccirc;ielo super la <klr>[&#x2026;]</klr> uzanto de la 
+        televida servo, tio signifas, ke la riceva anteno <klr>[&#x2026;]</klr> povas 
+        resti fiksita <klr>[&#x2026;]</klr> do la&ubreve; sama <tld/>o kaj la&ubreve; la sama elevacio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=30463">Satelita televido</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_z;&c_ib;&c_m;&c_u;&c_t;</trd>
+  <trd lng="bg">&c_a;&c_z;&c_i;&c_m;&c_u;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>azimut</trd>,
+    <trd>sm&ecaron;rov&yacute; &uacute;hel</trd>
+  </trdgrp>
+  <trd lng="de">Azimut</trd>
+  <trd lng="en">azimuth</trd>
+  <trdgrp lng="es">
+    <trd>acimut</trd>,
+    <trd>azimut</trd>
+  </trdgrp>
+  <trd lng="fa">&a_s;&a_m;&a_t;<klr tip="ind"> (&a_A;&a_kh;&a_t;&a_r;&a_sh;&a_n;&a_A;&a_s;&f_y;)</klr></trd>
+  <trd lng="fr">azimut</trd>
+  <trd lng="he">&#x5D0;&#x5B7;&#x5D6;&#x5B4;&#x5D9;&#x5DE;&#x5D5;&#x5BC;&#x5D8;</trd>
+  <trd lng="hu">azimut</trd>
+  <trdgrp lng="it">
+    <trd>azimut</trd>,
+    <trd>azimuth</trd>
+  </trdgrp>
+  <trd lng="ja">&#x65B9;&#x4F4D;&#x89D2;  <pr>&#x307B;&#x3046;&#x3044;&#x304B;&#x304F;</pr></trd>
+  <trd lng="nl">azimut</trd>
+  <trd lng="pl">azymut</trd>
+  <trd lng="ru">&c_a;&c_z;&c_i;&c_m;&c_u;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>azimut</trd>,
+    <trd>smerov&yacute; uhol</trd>
+  </trdgrp>
+  <trd lng="uk">&#x430;&#x437;&#x438;&#x43C;&#x443;&#x442;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/13 17:08:38
+revo: transskribo per <pr>
+
+Revision 1.16  2016/10/13 06:10:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2015/07/29 16:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2011/09/30 13:10:10  revo
+Antonio Codazzi: +trd it
+
+Revision 1.11  2009/07/01 17:20:52  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.10  2003/11/17 08:34:08  revo
+-->
+</vortaro>

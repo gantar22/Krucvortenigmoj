@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lak.xml,v 1.36 2024/01/15 16:14:08 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lak</rad>/o
+</kap>
+<drv mrk="lak.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="lak.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Speco de rezina solva&jcirc;o uzata por surkovri kaj glazurbriligi
+      objektojn.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="emajl.0o.TEK">emajlo<sncref/></ref>,
+      <ref cel="farb.0o">farbo</ref>,
+      <ref cel="glace.0a">glacea</ref>,
+      <ref cel="glazur.0o.TEK">glazuro<sncref/></ref>
+    </refgrp>
+    <trd lng="de">Lackfirnis</trd>
+    <trdgrp lng="de">
+      <trd>Lack</trd>,
+      <trd>Firnis</trd>,
+      <trd>Lasur</trd>,
+      <trd>Anstrich</trd>,
+      <trd>Politur</trd>
+    </trdgrp>
+  </snc>
+  <!--
+  <snc>
+    <dif>
+      Natura gumo, kiu eli&gcirc;as el diversaj arboj de Hindujo.
+    </dif>
+    <trd lng="de">Lack</trd>
+  </snc>
+  -->
+  <trd lng="be">&c_l;&c_a;&c_k;</trd>
+  <trd lng="br">lakenn</trd>
+  <trd lng="ca">laca</trd>
+  <trd lng="el">&lambda;&alfa_ton;&kappa;&alfa;</trd>
+  <trd lng="en">lacquer</trd>
+  <trd lng="es">laca</trd>
+  <trdgrp lng="fr">
+    <trd>laque</trd>,
+    <trd>vernis</trd>
+  </trdgrp>
+  <trd lng="hu">lakk</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E9;&#x30C3;&#x30AB;&#x30FC;</trd>,
+    <trd>&#x6F06;  <pr>&#x3046;&#x308B;&#x3057;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">lak</trd>
+  <trd lng="pl">lakier</trd>
+  <trdgrp lng="pt">
+    <trd>verniz</trd>,
+    <trd>(goma-)laca</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_a;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>lak</trd>,
+    <trd>&scaron;elak</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lak</trd>,
+    <trd>lakov&eacute; barvivo</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43B;&c_a;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6F06; <pr>q&#x12B;</pr></trd>,
+    <trd>&#x6CB9;&#x6F06; <pr>y&#xF3;uq&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lak.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="lak.0i.KEM">
+    <dif>
+      &Scirc;miri per <tld/>o:
+      <ekz>
+        dek du se&gcirc;oj gravuritaj kaj <tld/>itaj
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 53a, volumo 2a, p.
+        192a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">
+  &c_l;&c_a;&c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">lakenna&ntilde;</trd>
+  <trd lng="ca">lacar</trd>
+  <trdgrp lng="cs">
+    <trd>lakovat</trd>,
+    <trd>lak&yacute;rovat</trd>,
+    <trd>nat&iacute;rat</trd>,
+    <trd>nat&iacute;rat lakem</trd>
+  </trdgrp>
+  <trd lng="de">lackieren</trd>
+  <trd lng="en">lacquer</trd>
+  <trd lng="es">lacar</trd>
+  <trdgrp lng="fr">
+    <trd>laquer</trd>,
+    <trd>vernir</trd>
+  </trdgrp>
+  <trd lng="hu">lakkoz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E9;&#x30C3;&#x30AB;&#x30FC;&#x3092;&#x5857;&#x308B; 
+    <pr>&#x30E9;&#x30C3;&#x30AB;&#x30FC;&#x3092;&#x306C;&#x308B;</pr></trd>,
+    <trd>&#x6F06;&#x3092;&#x5857;&#x308B;  <pr>&#x3046;&#x308B;&#x3057;&#x3092;&#x306C;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">lakken</trd>
+  <trd lng="pl">lakierowa&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>envernizar</trd>
+    <trd>laquear</trd>
+  </trdgrp>
+  <trd lng="ru">
+  &c_l;&c_a;&c_k;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>lakova&tcaron;</trd>,
+    <trd>prikr&aacute;&scaron;&lcaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43B;&c_a;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x9AF9; <pr>xi&#x16B;</pr></trd>,
+    <trd>&#x6F06; <pr>q&#x12B;</pr></trd>,
+    <trd>&#x6CB9;&#x6F06; <pr>y&#xF3;uq&#x12B;</pr></trd>,
+    <trd>&#x4F7F;&#x4E0A;&#x5F53; <pr>sh&#x1D0;sh&#xE0;ngd&#x101;ng</pr></trd>,
+    <trd>&#x4F7F;&#x4E0A;&#x7576; <pr>sh&#x1D0;sh&#xE0;ngd&#x101;ng</pr></trd>,
+    <trd>&#x5857;&#x6F06; <pr>t&#xFA;q&#x12B;</pr></trd>,
+    <trd>&#x6D82;&#x6F06; <pr>t&#xFA;q&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lak.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="lak.0ajxo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Arta&jcirc;o kovrita kaj beligita de <tld/>o:
+      <ekz>
+        por ri&ccirc;igi la kolorojn de <tld/>a&jcirc;oj, la <tld/>istoj a&ubreve;
+        inkrustis <tld/>a&jcirc;ojn
+        per perlamoto, oro, ar&gcirc;ento kc., a&ubreve; &ccirc;izis strekojn sur la
+        surfaco de
+        <tld/>a&jcirc;oj por doni kolorojn
+        <fnt>
+          <aut>Qiao Shiguang</aut>
+          <vrk><url ref="http://esperanto.china.org.cn/EL/EL/ElPopolaCxinio/98-3-10.html">
+          Lako kaj lakmetiarto</url></vrk>
+          <lok>[El Popola &Ccirc;inio, 1998?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_a;&c_k;&c_a;&c_v;&c_a;&c_n;&c_y; &c_v;&c_y;&c_r;&c_a;&c_b;</trd>
+  <trd lng="fr">laque<klr> (objet)</klr></trd>
+  <trd lng="ja">&#x6F06;&#x5668;  <pr>&#x3057;&#x3063;&#x304D;</pr></trd>
+  <trd lng="uk">&#x43B;&c_a;&#x43A;&#x43E;&c_v;&c_a;&#x43D;&c_i;&c_j; &c_v;&c_i;&c_r;&c_ib;&c_b;</trd>
+  <trd lng="zh">&#x6F06;&#x5668; <pr>q&#x12B;q&#xEC;</pr></trd>
+</drv>
+
+<drv mrk="lak.ungo0o">
+  <kap>ungo<tld/>o</kap>
+  <snc mrk="lak.ungo0o.KOS">
+    <dif>
+      Kosmetiko por surkovri ungojn per <tld/>o por ilin ornami,
+      plifortigi a&ubreve; protekti kontra&ubreve; difektoj:
+      <ekz>
+        tiom longe, kiom la ungo<tld/>o ne seki&gcirc;is, ino fakte estas
+        sendefenda
+        <fnt>
+          <aut>B. Reynolds</aut>
+          <vrk><url ref="http://www.cezarpoezio.de/209.html">
+          Kolekto de aforismoj</url></vrk>
+       </fnt>;
+      </ekz>
+      <ekz>
+        mi kisas &scirc;iajn sekajn vejnkovritajn manojn, &scirc;ia ungo<tld/>o jam
+        parte defalis de la ungoj
+        <fnt>
+          <aut>D. Bu&scirc;uev</aut>
+          <vrk><url ref="http://www.esperanto.org/literaturo/geja/EDA.htm">
+          E&hcirc;oj de arlekeno</url>
+          </vrk>
+       </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="sin" cel="vernis.ungo0o">ungoverniso</ref>
+  <trd lng="be">&c_l;&c_a;&c_k; &c_d;&c_l;&c_ja; &c_p;&c_a;&c_z;&c_n;&c_o;&c_g;&c_c;&c_ja;&c_w;</trd>
+  <trd lng="ca">esmalt d'ungles</trd>
+  <trd lng="de">Nagellack</trd>
+  <trdgrp lng="en">
+    <trd>nail varnish</trd>,
+    <trd>nail polish</trd>
+  </trdgrp>
+  <trd lng="es">laca de u&ntilde;as</trd>
+  <trd lng="fr">vernis &agrave; ongles</trd>
+  <trd lng="hu">k&ouml;r&ouml;mlakk</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30CD;&#x30A4;&#x30EB;&#x30FB;&#x30E9;&#x30C3;&#x30AB;&#x30FC;</trd>,
+    <trd>&#x30DE;&#x30CB;&#x30AD;&#x30E5;&#x30A2;</trd>
+  </trdgrp>
+  <trd lng="nl">nagellak</trd>
+  <trd lng="it">lacca per unghie</trd>
+  <trd lng="pl">lakier do paznokci</trd>
+  <trd lng="pt">esmalte<klr> (de unhas)</klr></trd>
+  <trd lng="sk">lak na nechty</trd>
+  <trd lng="cs">lak na nehty</trd>
+  <trd lng="uk">&#x43B;&c_a;&#x43A; &c_d;&#x43B;&#x44F; &#x43D;&c_ib;&c_g;&c_t;&c_ib;&c_v;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6307;&#x7532;&#x6CB9; <pr>zh&#x1D0;jiay&#xF3;u</pr></trd>,
+    <trd>&#x853B;&#x4E39; <pr>k&#xF2;ud&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.35 2024/01/04 07:24:20
+Dmitri Gabinski: + trd be
+
+versio 1.34 2023/10/19 05:15:34
+revo: transskribo per <pr>
+
+versio 1.32 2023/03/05 20:29:09
+Jean-Marc Lugrin: Sxangi la lingvon de fr al pt
+
+versio 1.31 2022/11/30 21:27:04
+Ulrich Fellmann: lako: +5 novaj DE trdj anst. 1 jama
+
+versio 1.28 2020/03/24 04:10:50
+James Rezende Piton: +trd pt  ~i, ~ajxo, ungo~
+
+Revision 1.27  2019/04/09 16:10:15  revo
+Jeromo Vasxe: + ~ajxo
+
+Revision 1.26  2016/01/20 21:10:14  revo
+Wolfram Diestel: sintaksaj korektoj de citajxoj che ungolako
+
+Revision 1.25  2015/07/04 08:37:38  revo
+-->
+</vortaro>

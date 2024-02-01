@@ -1,0 +1,524 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: oksid.xml,v 1.31 2023/11/21 09:27:27 revo Exp $">
+<kap>
+  <ofc>4</ofc><rad>oksid</rad>/o <fnt>Z</fnt> <fnt><bib>VdE</bib></fnt>
+</kap>
+<drv mrk="oksid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="oksid.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      &Ccirc;ia kombina&jcirc;o de
+      <ref tip="vid" cel="oksige.0o">oksigeno</ref>
+      kun alia elemento:
+      <ekz>
+        Magnezo <frm>MgO</frm> <klr> estas </klr> <tld/>o de magnezio
+        <fnt><bib>VdE</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    La Internacia Unio de Pura kaj Aplika &Hcirc;emio (IUPA&Hcirc;, angle IUPAC)
+    rekomendas por &ccirc;i tiu signifo la anglan terminon
+    &leftquot;oxide&rightquot; kaj ties deriva&jcirc;ojn &leftquot;mon-, di-, tri-,
+    tetr-, pent-... oxyde&rightquot;, formitajn per stumpigita greka numerala prefikso
+    indikanta la nombron de oksigenaj atomoj en la molekulo de
+    <tld/>o. La&ubreve; la 15&#xAA; regulo la vorto &leftquot;ricevis la ortografion de
+    Esperanto&rightquot; (-ks- anstata&ubreve; -x-); tamen la duan parton de tiu
+    regulo: &leftquot;&ccirc;e diversaj vortoj de unu radiko estas pli bone uzi
+    sen&scirc;an&gcirc;e nur la vorton fundamentan kaj la ceterajn formi el tiu
+    &ccirc;i lasta la&ubreve; la reguloj de la lingvo Esperanto&rightquot; la PIV-oj ignoras.
+    Por ne&ubreve;traligi la terminaron IUPA&Hcirc; fakte kreas sian apartan
+    &leftquot;lingvon internacian&rightquot; kun grekdevenaj numeraloj (kun atrefarita,
+    negreka gramatiko); tio do estas projekto konkurenca kun
+    Esperanto; kaj en la kolizio inter la Fundamento kaj IUPA&Hcirc; la PIV-oj
+    ali&gcirc;as al IUPA&Hcirc;. Tio kontrastas kun la kohera kaj esperanteca
+    tradicio matematika, ekz-e <ref cel="edr.0o">edro</ref> &#8594;
+    kvaredro, kvinedro, ... dudekedro, ... anstata&ubreve; la angla-grekecaj
+    &leftquot;tetrahedron, pentahedron, ... icosahedron ...&rightquot;.
+    <aut>Sergio Pokrovskij</aut>
+  </rim>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_k;&c_s;&c_y;&c_d;</trd>,
+    <trd>&c_v;&c_o;&c_k;&c_ib;&c_s;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kysli&ccaron;n&iacute;k</trd>,
+    <trd>oxid</trd>
+  </trdgrp>
+  <trd lng="de">Oxid</trd>
+  <trdgrp lng="el">
+    <trd>&omikron;&xi;&epsilon;&jota_ton;&delta;&jota;&omikron;</trd>,
+    <trd>&omikron;&xi;&ypsilon_ton;</trd>
+  </trdgrp>
+  <trd lng="en">oxide</trd>
+  <trd lng="es">&oacute;xico</trd>
+  <trd lng="fr">oxyde</trd>
+  <trd lng="hu">oxid</trd>
+  <trd lng="id">oksida</trd>
+  <trd lng="ja">&#37240;&#21270;&#29289;  <pr>&#12373;&#12435;&#x304B;&#12406;&#12388;</pr></trd>
+  <trd lng="nl">oxyde</trd>
+  <trd lng="pl">tlenek</trd>
+  <trd lng="pt">&oacute;xido</trd>
+  <trd lng="ro">oxid</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_o;&c_k;&c_s;&c_i;&c_d;</trd>,
+    <trd>&c_o;&c_k;&c_i;&c_s;&c_je;&c_l;</trd>
+  </trdgrp>
+  <trd lng="sk">oxid</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43A;&c_s;&c_i;&c_d;</trd>,
+    <trd>&#x43E;&#x43A;&c_i;&c_s;&c_je;&#x43D;&#x44C;</trd>
+  </trdgrp>
+  <trd lng="vo">x&uuml;d</trd>
+</drv>
+
+<drv mrk="oksid.0igi">
+  <kap><tld/>igi, <var><kap><tld/>i</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="oksid.0igi.KEM_strikte">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      &Scirc;an&gcirc;i, pli malpli komplete, en <tld/>on;
+      difekti per kombino kun oksigeno:
+      <ekz>
+        la feron <tld/>igas la malsekeco;
+      </ekz><ekz>
+         forta <tld/>iga kapablo <fnt><bib>VdE</bib></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>oxidieren</trd>,
+      <trd>rosten</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>oxyderen</trd>,
+      <trd>roesten</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="oksid.0igi.KEM_malstrikte">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      En pli vasta senco: depreni elektronojn de atomoj a&ubreve; jonoj
+      per &hcirc;emia reakcio; en tia reakcio <tld/>igilo povas esti ne
+      nur oksigeno, sed, ekzemple, fluoro a&ubreve; kloro.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="korod.0i.KEM">korodi <sncref/></ref>
+    </refgrp>
+  </snc>
+  <rim>
+    La&ubreve; logiko de esperanta vortoderivado oni devas uzi formon
+    <em>oksidigi</em>, tamen en multaj vortaroj (anka&ubreve; en PIV)
+    estas registrita mallogika formo <em>oksidi</em>.
+    <aut>Jurij Finkel</aut>
+  </rim>
+  <trd lng="be">&c_a;&c_k;&c_ib;&c_s;&c_mol;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="de">oxidieren</trd>
+  <trd lng="el">&omikron;&xi;&epsilon;&jota;&delta;&omega_ton;&ny;&omega;</trd>
+  <trd lng="en">oxidize</trd>
+  <trd lng="es">oxidar</trd>
+  <trd lng="fr">oxyder</trd>
+  <trd lng="hu">oxid&aacute;l</trd>
+  <trd lng="ja">&#37240;&#21270;&#12373;&#x305B;&#x308B;  <pr>&#12373;&#12435;&#x304B;&#12373;&#x305B;&#x308B;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>utlenia&cacute;</trd>
+    <trd>oksydowa&cacute;<klr> (pokrywa&cacute; tlenkami)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">oxidar</trd>
+  <trdgrp lng="ro">
+    <trd>oxigena</trd>,
+    <trd>oxida</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_k;&c_i;&c_s;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  <trd lng="sk">oxidova&tcaron;</trd>
+  <trdgrp lng="cs">
+    <trd>okysli&ccaron;ovat</trd>,
+    <trd>oxidovat</trd>
+  </trdgrp>
+  <trd lng="id"><baz>oksidasi</baz>mengoksidasi</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43A;&c_i;&c_s;&#x43D;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&#x43A;&c_i;&c_s;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&#x43A;&c_s;&c_i;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oksid.ne0igebla">
+  <kap>ne<tld/>igebla</kap>
+  <snc mrk="oksid.ne0igebla.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Tia, ke &gcirc;i ne <tld/>i&gcirc;as:
+      <ekz>
+        plateno estas ne<tld/>igebla.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_je;&c_a;&c_k;&c_ib;&c_s;&c_mol;&c_l;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="en">inoxydable</trd>
+  <trd lng="fr">inoxydable</trd>
+  <trd lng="id">tak ter<ind>oksidasi</ind></trd>
+  <trd lng="pl">nieutlenialny</trd>
+  <trd lng="ro">neoxidant</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_je;&c_o;&c_k;&c_i;&c_s;&c_l;&c_ja;&c_ju;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>,
+    <trd>&c_n;&c_je;&c_r;&c_zh;&c_a;&c_v;&c_je;&c_ju;&c_shch;&c_i;&c_j;<klr> (&c_o; &c_m;&c_je;&c_t;&c_a;&c_l;&c_l;&c_a;&c_h;)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oksid.unu0o">
+  <kap>unu<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po unu oksigenan atomon:
+      <ekz>
+        Silicia unu<tld/>o <klr>(<frm>SiO</frm>)</klr>;
+      </ekz><ekz>
+        <ind>karbona unu<tld/>o</ind> <klr>(<frm>CO</frm>)</klr> estas
+        venena substanco, kiu ekestas per nekompleta brulado de
+        karbonaj kombina&jcirc;oj
+        <fnt><lok><url
+        ref="https://tatoeba.org/eng/sentences/show/2955330">Tatoeba</url></lok></fnt>;
+        <trd lng="en">carbon monoxide</trd>
+        <trdgrp lng="ru">
+          <trd>&c_u;&c_g;&c_a;&c_r;&c_n;&c_y;&c_j; &c_g;&c_a;&c_z;</trd>,
+          <trd>&c_o;&c_k;&c_i;&c_s;&c_mol; &c_u;&c_g;&c_l;&c_je;&c_r;&c_o;&c_d;&c_a;</trd>
+        </trdgrp>
+      </ekz><ekz>
+        Katalizeca Malkombini&gcirc;o de Karbono Unuoksida
+        <klr>(bro&scirc;urtitolo)</klr>
+        <fnt><lok>Referencoj en &leftquot;Brita esperantisto&rightquot;,
+          <url
+          ref="https://archive.org/stream/britaesperantisto_1929_n289_apr/britaesperantisto_1929_n289_apr_djvu.txt">n-ro
+          289, 1929:4</url> kaj &leftquot;Amerika esperantisto&rightquot;,
+          vol. 42 (1930), p. 49</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_o;&c_n;&c_a;&c_a;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">monoxide</trd>
+  <trd lng="id">monoksida</trd>
+  <trd lng="pl">monotlenek</trd>
+  <trd lng="ro">monoxid</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_d;&c_n;&c_o;&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_m;&c_o;&c_n;&c_o;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oksid.du0o">
+  <kap>du<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po du oksigenajn atomojn:
+      <ekz>
+        Silicia du<tld/>o <klr>(<frm>SiO<sub>2</sub></frm>)</klr>;
+      </ekz><ekz>
+        la koncernaj instala&jcirc;oj petu de nacia instanco permeson pri
+        eligo de <ind>karbona du<tld/>o</ind>
+        <fnt><aut>Evgeni GEORGIEV</aut>:
+          <vrk>&Scirc;an&gcirc;i&gcirc;as klimato, &scirc;an&gcirc;i&gcirc;as rimedoj</vrk>
+          <bib>Monato</bib></fnt>;
+        <trdgrp lng="pl">
+          <trd>dwutlenek w&eogonek;gla</trd>,
+          <trd>ditlenek w&eogonek;gla</trd>
+        </trdgrp>
+        <trd lng="ro">dioxid</trd>
+        <trdgrp lng="ru">
+          <trd>&c_u;&c_g;&c_l;&c_je;&c_k;&c_i;&c_s;&c_l;&c_y;&c_j; &c_g;&c_a;&c_z;</trd>,
+          <trd>&c_d;&c_v;&c_u;&c_o;&c_k;&c_i;&c_s;&c_mol; &c_u;&c_g;&c_l;&c_je;&c_r;&c_o;&c_d;&c_a;</trd>,
+          <trd>&c_d;&c_i;&c_o;&c_k;&c_s;&c_i;&c_d; &c_u;&c_g;&c_l;&c_je;&c_r;&c_o;&c_d;&c_a;</trd>
+        </trdgrp>
+      </ekz><ekz>
+        por elimini la sulfuran du<tld/>on estas necesa relative
+        malalta koncentriteco de hidrogenaj jonoj
+        <fnt><aut>B. Kolker</aut>: <vrk>Esperanto en 16 tagoj</vrk>.
+        <lok><url ref="http://esperanto-mv.narod.ru/Esp16/X10.html">Leciono
+        10&#xAA;</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_ja;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">dioxide</trd>
+  <trd lng="id">dioksida</trd>
+  <trdgrp lng="pl">
+    <trd>dwutlenek</trd>,
+    <trd>ditlenek</trd>
+  </trdgrp>
+  <trd lng="ro">dioxid</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_u;&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_d;&c_i;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oksid.tri0o">
+  <kap>tri<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po tri oksigenajn atomojn:
+      <ekz>
+        Studo pri la komplekseco de l'sulfura tri<tld/>o pere de la
+        Raman-efekto <klr>(artikoltitolo)</klr>
+        <fnt><aut>Nijveld, W.J.</aut>:
+          <lok>Scienca Revuo, 1952, 4</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_y;&c_ja;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">trioxide</trd>
+  <trd lng="id">trioksida</trd>
+  <trd lng="pl">tritlenek</trd>
+  <trd lng="ro">trioxid</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_jo;&c_h;&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_t;&c_r;&c_i;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oksid.kvar0o">
+  <kap>kvar<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po kvar oksigenajn atomojn:
+      <ekz>
+        osmia kvar<tld/>o <klr>(<frm>OsO<sub>4</sub></frm>) </klr>
+        <fnt><aut>B. Kolker</aut>: <vrk>Esperanto en 16 tagoj</vrk>.
+          <lok><url ref="http://esperanto-mv.narod.ru/Esp16/X06.html">Leciono
+          6&#xAA;</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_t;&c_r;&c_a;&c_a;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">tetroxide</trd>
+  <trd lng="id">tetroksida</trd>
+  <trd lng="pl">tetratlenek</trd>
+  <trd lng="ro">tetroxid</trd>
+  <trdgrp lng="ru">
+    <trd>&c_ch;&c_je;&c_t;&c_y;&c_r;&c_jo;&c_h;&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_t;&c_je;&c_t;&c_r;&c_a;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>,
+    <trd>&c_t;&c_je;&c_t;&c_r;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oksid.kvin0o">
+  <kap>kvin<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po kvin oksigenajn atomojn:
+      <ekz>
+        fosfora kvin<tld/>o <klr>(<frm>P<sub>2</sub>O<sub>5</sub></frm>)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_e;&c_n;&c_t;&c_a;&c_a;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">pentoxide</trd>
+  <trd lng="id">pentoksida</trd>
+  <trd lng="pl">pentatlenek</trd>
+  <trd lng="ro">pentoxid</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_ja;&c_t;&c_i;&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_n;&c_t;&c_a;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>,
+    <trd>&c_p;&c_je;&c_n;&c_t;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oksid.ses0o">
+  <kap>ses<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po ses oksigenajn atomojn:
+      <ekz>
+        kvararsena ses<tld/>o
+        <klr>(<frm>As<sub>4</sub>O<sub>6</sub></frm>)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_k;&c_s;&c_a;&c_a;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">hexoxide</trd>
+  <trd lng="id">heksoksida</trd>
+  <trd lng="pl">heksatlenek</trd>
+  <trd lng="ro">hexoxid</trd>
+  <trdgrp lng="ru">
+    <trd>&c_sh;&c_je;&c_s;&c_t;&c_i;&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_g;&c_je;&c_k;&c_s;&c_a;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oksid.sep0o">
+  <kap>sep<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po sep oksigenajn atomojn:
+      <ekz>
+        durenia sep<tld/>o
+        <klr>(<frm>Re<sub>2</sub>O<sub>7</sub></frm>) </klr>
+        <fnt><aut>Z. Pluha&rcaron;</aut>:
+           <vrk>Problemoj de sistema &hcirc;emia nomenklaturo en la
+           internacia lingvo</vrk>.
+          <lok>&leftquot;Apliko de Esperanto en scienco kaj te&hcirc;niko&rightquot;.
+            &Uacute;sti nad Labem, 1980</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_p;&c_t;&c_a;&c_a;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">heptoxide</trd>
+  <trd lng="id">heptoksida</trd>
+  <trd lng="pl">heptatlenek</trd>
+  <trd lng="ro">heptoxid</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_m;&c_i;&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_g;&c_je;&c_p;&c_t;&c_a;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oksid.ok0o">
+  <kap>ok<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po ok oksigenajn
+      atomojn:
+      <ekz>
+        triurania ok<tld/>o
+        <klr>(<frm>U<sub>3</sub>O<sub>8</sub></frm>)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_k;&c_t;&c_a;&c_a;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">octoxide</trd>
+  <trd lng="id">oktoksida</trd>
+  <trd lng="pl">oktatlenek</trd>
+  <trd lng="ro">octaoxid</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_s;&c_mol;&c_m;&c_i;&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_o;&c_k;&c_t;&c_a;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oksid.naux0o">
+  <kap>na&ubreve;<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po na&ubreve; oksigenajn
+      atomojn:
+      <ekz>
+        kvarjoda na&ubreve;<tld/>o
+        <klr>[<frm>I<sub>4</sub>O<sub>9</sub></frm> a&ubreve;
+          <frm>I(IO<sub>3</sub>)<sub>3</sub></frm>]</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_o;&c_n;&c_a;&c_a;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">nonoxide</trd>
+  <trd lng="id">nonoksida</trd>
+  <trd lng="pl">nonatlenek</trd>
+  <trd lng="ro">nonoxid</trd>
+  <trd lng="ru">&c_n;&c_o;&c_n;&c_a;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+</drv>
+
+<drv mrk="oksid.dek0o">
+  <kap>dek<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po dek oksigenajn
+      atomojn:
+      <ekz>
+        kvarfosfora dek<tld/>o
+        <klr>(<frm>P<sub>4</sub>O<sub>10</sub></frm>)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_k;&c_a;&c_a;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">decoxide</trd>
+  <trd lng="id">dekoksida</trd>
+  <trd lng="pl">dekatlenek</trd>
+  <trd lng="ro">decaoxid</trd>
+</drv>
+
+<drv mrk="oksid.dekunu0o">
+  <kap>dekunu<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas po dek unu oksigenajn
+      atomojn:
+      <ekz>
+        sesprazeodima dekunu<tld/>o
+        <klr>(<frm>Pr<sub>6</sub>O<sub>11</sub></frm>)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_n;&c_d;&c_e;&c_k;&c_a;&c_a;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">undecaoxide</trd>
+  <trd lng="id">undekaoksida</trd>
+  <trd lng="pl">undekatlenek</trd>
+  <trd lng="ro">undecaoxid</trd>
+  <trd lng="ru">&c_u;&c_n;&c_d;&c_je;&c_k;&c_a;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+</drv>
+
+<drv mrk="oksid.plur0o">
+  <kap>plur<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <tld lit="O"/>o kies molekuloj entenas pli ol unu oksigenajn
+      atomojn:
+      <ekz>
+        <frm>H<sub>2</sub>O<sub>3</sub></frm> kaj
+        <frm>H<sub>2</sub>O<sub>4</sub></frm> estas hidrogenaj
+        plur<tld/>oj
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_l;&c_ib;&c_a;&c_k;&c_s;&c_y;&c_d;</trd>
+  <trd lng="en">polyoxide</trd>
+  <trd lng="id">polioksida</trd>
+  <trd lng="pl">politlenek</trd>
+  <trd lng="ro">polioxid</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_l;&c_i;&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_i;&c_o;&c_k;&c_s;&c_i;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.31 2023/11/21 09:27:27
+Dmitri Gabinski: + trd be
+
+versio 1.30 2023/10/26 03:25:04
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.29 2023/10/20 13:11:47
+revo: transskribo per <pr>
+
+versio 1.26 2022/02/27 22:29:42
+Vito Redsky: + trd pl + trd ro
+
+versio 1.25 2020/11/27 07:10:32
+Sergio Pokrovskij: 6,7,8~o
+
+versio 1.24 2020/11/27 06:10:38
+Sergio Pokrovskij: -tajperaro
+
+versio 1.23 2020/11/27 03:10:38
+Sergio Pokrovskij: +4,5~o
+
+versio 1.22 2020/11/26 12:11:03
+-->
+</vortaro>

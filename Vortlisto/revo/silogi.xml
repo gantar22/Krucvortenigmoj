@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: silogi.xml,v 1.22 2023/10/21 07:46:47 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>silogism</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="silogi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="silogi.0o.LOG">
+    <dif>
+      Logika <ref tip="super" cel="rezon.0o.LOG">rezono</ref>,
+      per kiu oni tiras aserton el alia aserto pere de tria aserto:
+      <ekz>
+        vico de fortike pakitaj <tld/>oj, kies valoron aprezus tiaj kompetentuloj, kiel
+        <klr>[&#x2026;]</klr> e&ccirc; Aristotelo mem
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        valida <tld/>o devas esti formulita la&ubreve; la modelo: &#x201A;se X validas, do anka&ubreve; Y; X
+        validas; do Y&#x2018;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2009/009682.php">La Pendantaj &Gcirc;ardenoj estis son&gcirc;o</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi eklernis pri <tld/>oj nur dek tri jarojn post &ccirc;i tio
+        <fnt><aut>B. Vaha</aut>, <vrk>Adolesko</vrk>,
+        <lok>1987</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dedukt.0o">dedukto</ref>,
+      <ref cel="nu.0">nu</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_l;&c_ja;&c_g;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="bg">&c_s;&c_i;&c_l;&c_o;&c_g;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trd lng="ca">sil&middot;logisme</trd>
+  <trd lng="cs">sylogizmus</trd>
+  <trd lng="de">Syllogismus</trd>
+  <trd lng="en">syllogism</trd>
+  <trd lng="fr">syllogisme</trd>
+  <trd lng="hu">szillogizmus</trd>
+  <trd lng="it">sillogismo</trd>
+  <trd lng="ja">&#x4E09;&#x6BB5;&#x8AD6;&#x6CD5;  <pr>&#x3055;&#x3093;&#x3060;&#x3093;&#x308D;&#x3093;&#x307D;&#x3046;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>syllogisme</trd>,
+    <trd>sluitrede</trd>
+  </trdgrp>
+  <trd lng="pl">sylogizm</trd>
+  <trd lng="ru">&c_s;&c_i;&c_l;&c_l;&c_o;&c_g;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">syllogizmus</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_i;&#x43B;&#x43E;&c_g;&c_ib;&c_z;&#x43C;</trd>,
+    <trd>&c_u;&#x43C;&#x43E;&c_v;&c_i;&c_v;&c_ib;&c_d;</trd>,
+    <trd>&c_v;&c_i;&c_s;&#x43D;&#x43E;&c_v;&#x43E;&#x43A;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.20 2023/08/07 21:23:32
+Vito Redsky: +trd pl 
+
+versio 1.19 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.17 2022/01/12 20:32:29
+Wolfram Diestel: +ekz
+
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/07/15 10:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.12  2010/01/02 17:30:59  revo
+-->
+</vortaro>

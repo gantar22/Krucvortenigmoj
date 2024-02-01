@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konciz.xml,v 1.27 2023/12/03 09:58:54 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>konciz</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konciz.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="konciz.0a.KOMUNE">
+    <dif>
+      Esprimanta la ideojn per plej malmultaj vortoj;
+      <ref tip="vid" cel="lakon.0a">lakona</ref>,
+      <ref tip="vid" cel="lapidar.0a.FIG">lapidara</ref>:
+      <ekz>
+        <tld/>a rakonto pri la okazinta&jcirc;oj
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la disputo iom trolongi&gcirc;is, kaj mi jam intencis a&ubreve;di la <tld/>an rezulton
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen tre <tld/>a resumo pri liaj &ccirc;efaj konkludoj
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="abund.0a">abunda</ref>,
+      <ref cel="amplek.0a.vasta">ampleksa<sncref/></ref>
+    </refgrp>
+    <refgrp tip="vid">
+       <ref cel="esenc.0a">esenca</ref>,
+       <ref cel="sobr.0a.FIG">sobra<sncref/></ref>,
+       <ref cel="strikt.0a.FIG">strikta<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_o;&c_t;&c_k;&c_ib;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_l;&c_y;</trd>,
+    <trd>&c_l;&c_ja;&c_k;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>koncizn&iacute;</trd>,
+    <trd>stru&ccaron;n&yacute;</trd>,
+    <trd>zhu&scaron;t&ecaron;n&yacute;</trd>,
+    <trd>&uacute;se&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="de"><ind>kurz</ind> und b&uuml;ndig</trd>
+  <trdgrp lng="en">
+    <trd>concise</trd>,
+    <trd>brief and comprehensive</trd>,
+    <trd>laconic</trd>,
+    <trd>pithy</trd>,
+    <trd>succinct</trd>,
+    <trd>terse</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>conciso, -a</trd>,
+    <trd>lac&oacute;nico, -a</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_m;&a_w;&a_j;&a_z;</trd>,
+    <trd>&f_k;&a_w;&a_t;&a_A;&a_h;</trd>,
+    <trd>&a_m;&a_kh;&a_t;&a_S;&a_r;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>concis</trd>,
+    <trd>bref<klr tip="ind"> (condens&eacute;)</klr></trd>,
+    <trd>condens&eacute;<klr tip="ind"> (succinct)</klr></trd>,
+    <trd>ramass&eacute;<klr tip="ind"> (succinct)</klr></trd>,
+    <trd>sobre<klr tip="ind"> (succinct)</klr></trd>,
+    <trd>succinct</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7C21;&#x6F54;&#x306A;  <pr>&#x304B;&#x3093;&#x3051;&#x3064;&#x306A;</pr></trd>,
+    <trd>&#x7C21;&#x660E;&#x306A;  <pr>&#x304B;&#x3093;&#x3081;&#x3044;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">beknopt</trd>
+  <trdgrp lng="pl">
+    <trd>j&eogonek;drny</trd>,
+    <trd>kr&oacute;tki</trd>,
+    <trd>tre&sacute;ciwy</trd>,
+    <trd>zwi&eogonek;z&lstroke;y</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>conciso</trd>,
+    <trd>sucinto</trd>,
+    <trd>lac&ocirc;nico</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>firm&abreve;</trd>,
+    <trd>concis</trd>,
+    <trd>scurt</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_zh;&c_a;&c_t;&c_y;&c_j;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_t;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_l;&c_a;&c_k;&c_o;&c_n;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>stru&ccaron;n&yacute;</trd>,
+    <trd>&uacute;se&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7B80;&#x6D01; <pr>ji&#x1CE;nji&#xE9;</pr></trd>,
+    <trd>&#x7B80;&#x7EC3; <pr>ji&#x1CE;nli&#xE0;n</pr></trd>,
+    <trd>&#x7B80;&#x7EA6; <pr>ji&#x1CE;nyu&#x113;</pr></trd>,
+    <trd>&#x8981;&#x8A00;&#x4E0D;&#x70E6; <pr>y&#xE0;oy&#xE1;nb&#xF9;f&#xE1;n</pr></trd>,
+    <trd>&#x7B80;&#x660E;&#x627C;&#x8981; <pr>ji&#x1CE;nm&#xED;ng&#xE8;y&#xE0;o</pr></trd>,
+    <trd>&#x7B80;&#x660E; <pr>ji&#x1CE;nm&#xED;ng</pr></trd>,
+    <trd>&#x7B80;&#x8981; <pr>ji&#x1CE;ny&#xE0;o</pr></trd>,
+    <trd>&#x7CBE;&#x7CB9; <pr>j&#x12B;ngcu&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konciz.0e">
+  <kap>
+    <tld/>e
+  </kap>
+  <snc>
+    <dif>
+      En <tld/>a maniero:
+      <ekz>
+        Marta parolis sincere, sed <tld/>e, &scirc;i rakontis nur la faktojn de sia pasinteco
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i parolas mallonge kaj <tld/>e, sed &scirc;iaj sentoj estas pli bonaj ol kiel &scirc;i
+        &scirc;ajnigas
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fino <tld/>ege resumas la tutan paroladon
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+       <ref cel="resum.0e">resume</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_o;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_l;&c_a;</trd>,
+    <trd>&c_l;&c_ja;&c_k;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>kurz</trd>,
+    <trd>gedr&auml;ngt</trd>,
+    <trd>b&uuml;ndig</trd>,
+    <trd>knapp</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>concisely</trd>,
+    <trd>briefly</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7C21;&#x6F54;&#x306B;  <pr>&#x304B;&#x3093;&#x3051;&#x3064;&#x306B;</pr></trd>,
+    <trd>&#x624B;&#x77ED;&#x306B;  <pr>&#x3066;&#x307F;&#x3058;&#x304B;&#x306B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x603B;&#x4E4B; <pr>z&#x1D2;ngzh&#x12B;</pr></trd>,
+    <trd>&#x8981;&#x4E4B; <pr>y&#xE0;ozh&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konciz.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="konciz.0eco.KOMUNE">
+    <dif>
+      Eco, de io <tld/>a:
+      <ekz>
+        kiam ili min senvorte preteriris a&ubreve; per la plej oficiala <tld/>eco komunikis al
+        mi siajn dezirojn a&ubreve; dirinda&jcirc;ojn, mi havis la nekontra&ubreve;stareblan impulson
+        vangenfrapi ilin
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        soldataj paroladoj estas karakterizitaj de mallongeco kaj <tld/>eco, el forma
+        vidpunkto, kaj manko de argumentoj, el enhava vidpunkto
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_o;&c_t;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>konciznost</trd>,
+    <trd>stru&ccaron;nost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>K&uuml;rze</trd>,
+    <trd>B&uuml;ndigkeit</trd>,
+    <trd>Knappheit</trd>
+  </trdgrp>
+  <trd lng="en">conciseness</trd>
+  <trdgrp lng="es">
+    <trd>concisi&oacute;n</trd>,
+    <trd>laconicidad</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_A;&f_y;&a_j;&a_A;&a_z;</trd>,
+    <trd>&a_A;&a_kh;&a_t;&a_S;&a_A;&a_r;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>concision</trd>,
+    <trd>bri&egrave;vet&eacute;<klr tip="ind"> (concision)</klr></trd>,
+    <trd>sobri&eacute;t&eacute;<klr tip="ind"> (concision)</klr></trd>,
+  </trdgrp>
+  <trd lng="ja">&#x7C21;&#x6F54;  <pr>&#x304B;&#x3093;&#x3051;&#x3064;</pr></trd>
+  <trd lng="nl">beknoptheid</trd>
+  <trd lng="pl">zwi&eogonek;z&lstroke;o&sacute;&cacute;</trd>
+  <trdgrp lng="ro">
+    <trd>concizie</trd>,
+    <trd>scurtime</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_r;&c_a;&c_t;&c_k;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">stru&ccaron;nos&tcaron;</trd>
+</drv>
+
+<drv mrk="konciz.0igi">
+  <kap>
+    <tld/>igi
+  </kap>
+  <snc>
+    <dif>
+      Mallongigi al precipaj ideoj:
+      <ekz>
+        mi volas <tld/>igi mian paroladon
+        <fnt>
+          <bib>SkandalJozef</bib>
+          <lok>Plendoj de Jozefo arestita</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Esperanto prezentas multajn okazojn <tld/>igi, kiujn latinidaj lingvoj ne havas
+        <fnt>
+          <bib>BonaLingvo</bib>
+          <lok>5. La Arto De Vortfarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fojfoje mi <tld/>igas kontribua&jcirc;ojn senditajn de korespondantoj, &ccirc;ar la temo ne
+        meritas longan pritraktadon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2015/011569.php">Revuon redakti ... kaj ranoj</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="redukt.0i.malgrandigi">redukti<sncref/></ref>,
+      <ref cel="resum.0i">resumi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_a;&c_r;&c_a;&c_ch;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_mol;&c_l;&c_je;&c_j;&c_sh;&c_y;&c_m;</ind></trd>
+  </trdgrp>
+  <trd lng="de">verk&uuml;rzen</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7E2E;&#x6E1B; <pr>su&#x14D;ji&#x1CE;n</pr></trd>,
+    <trd>&#x5F04;&#x77ED; <pr>n&#xF2;ngdu&#x1CE;n</pr></trd>,
+    <trd>&#x53D8;&#x5C0F; <pr>bi&#xE0;nxi&#x1CE;o</pr></trd>,
+    <trd>&#x524A;&#x51CF; <pr>xu&#x113;ji&#x1CE;n</pr></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/25 09:25:06
+Dmitri Gabinski: + trd be
+
+versio 1.25 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.23 2023/04/11 16:10:36
+aktualigo Monato-URL
+
+versio 1.22 2022/07/14 09:32:29
+Wolfram Diestel: +kor. ref
+
+versio 1.21 2022/07/13 17:34:29
+Wolfram Diestel: +~igi
+
+versio 1.20 2022/04/24 20:31:56
+Dmitri Gabinski: + trd be
+
+versio 1.19 2021/04/03 07:50:46
+Wolfram Diestel: ekz-oj, ref-oj
+
+Revision 1.17  2015/07/04 08:37:37  revo
+-->
+</vortaro>

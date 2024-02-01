@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: supoz.xml,v 1.35 2023/10/23 09:26:01 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>supoz</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="supoz.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="supoz.0i.KOMUNE">
+    <dif>
+      Provizore akcepti ion kiel veran a&ubreve; eblan, ne posedante pruvojn
+      tute certajn:
+      <ekz>
+        mi <tld/>as, ke li balda&ubreve; alvenos;
+      </ekz>
+      <ekz>
+        li amis siajn paro&hcirc;anojn, kaj li anka&ubreve; <tld/>is, ke ili
+        estimas lin
+        <fnt><bib>Kiso</bib>, <lok>la bovinoj de la
+        paro&hcirc;estro</lok></fnt>.
+      </ekz>
+      <ekz>
+        lia viza&gcirc;o restis &ccirc;e tio &ccirc;i tiel senmova, ke
+        <klr>[&#8230;]</klr> neniu <tld/>is en li la farinton
+        <fnt>
+          <aut>C. Dickens, trad. L. L. Zamenhof</aut>,
+          <vrk>La batalo de l&#8217; vivo</vrk>,
+          <lok>1891</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili <tld/>us min impertinenta mensogulo
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="diven.0i">diveni</ref>,
+      <ref cel="hipote2.0i">hipotezi</ref>,
+      <ref cel="konjek.0i">konjekti</ref>,
+      <ref cel="kred.0i">kredi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>domn&iacute;vat se</trd>,
+    <trd>p&rcaron;edpokl&aacute;dat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>annehmen</trd>,
+    <trd>vermuten</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>suppose</trd>,
+    <trd>assume</trd>,
+    <trd>presume</trd>,
+    <trd>surmise</trd>
+  </trdgrp>
+  <trd lng="es">suponer</trd>
+  <trd lng="fr">supposer</trd>
+  <trdgrp lng="hu">
+    <trd>felt&eacute;telez</trd>,
+    <trd>feltesz <klr tip="ind">(feltesz)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4EEE;&#x5B9A;&#12377;&#x308B;  <pr>&#x304B;&#12390;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x60F3;&#x5B9A;&#12377;&#x308B;  <pr>&#x305D;&#12358;&#12390;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x60F3;&#x50CF;&#12377;&#x308B;  <pr>&#x305D;&#12358;&#x305E;&#12358;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x4E88;&#x60F3;&#12377;&#x308B;  <pr>&#12424;&#x305D;&#12358;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">veronderstellen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_l;&c_a;&c_g;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_mol;<klr tip="ind">
+(&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_l;&c_a;&c_g;&c_a;&c_t;&c_mol;)</klr></trd>,
+    <trd>&c_d;&c_o;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;<klr tip="ind">
+(&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">predpoklada&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_i;&#x43F;&c_u;&c_s;&#x43A;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_d;&#x43E;&#x43F;&c_u;&c_s;&#x43A;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="supoz.0eke">
+  <kap><tld/>e ke,
+  <var><kap>sub la <tld/>o ke</kap></var></kap>
+  <gra><vspec>konjunkcio</vspec></gra>
+  <snc mrk="supoz.0eke.KOMUNE">
+    <dif>
+      <ref tip="super" cel="se.0.KOMUNE">Se</ref> veras tio ke:
+      <ekz>
+        mankas al li <klr>[&#8230;]</klr> preteksto starigi publikan malpacon
+        kontra&ubreve; ni, &ndash; <tld/>e, ke li havas la kura&gcirc;on necesan
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 15a, Omar fari&gcirc;as
+        ventegocentro</lok></fnt>;
+      </ekz>
+      <ekz>
+        estro de la Islama Movado en Ni&gcirc;erio (IMN<nom>)</nom> konsentis
+        paroli al la gazetaro sub la <tld/>o ke lia liberigo
+        estas tuja
+        <fnt>
+          <aut>B. Shittu</aut>,
+          <vrk><url
+          ref="https://eo.today.ng/nova%C4%B5oj/Ni%C4%9Derio/59476/shiite-leader-ibrahim-zakzaky-agreed-media-parade-dss-promised-femi-falana">
+          La &ccirc;efo de la chiite Ibrahim El-Zakzaky
+          konsentis...</url></vrk>,
+          <lok>todayng, 2018-01-14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_p;&c_u;&c_sh;&c_ch;&c_a;&c_ju;&c_ch;&c_y;, &c_sh;&c_t;&c_o;</trd>,
+    <trd>&c_m;&c_ja;&c_r;&c_k;&c_u;&c_ju;&c_ch;&c_y;, &c_sh;&c_t;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>supposing that</trd>,
+    <trd>assuming that</trd>,
+    <trd>presuming that</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>en supposant que</trd>,
+    <trd>si tant est que</trd>
+  </trdgrp>
+  <trd lng="hu">felt&eacute;ve, hogy</trd>
+  <trd lng="ja">&#xFF5E;&#12392;&#x4EEE;&#x5B9A;&#12375;&#12390;  &#xFF5E;<pr>&#12392;&#x304B;&#12390;&#12356;&#12375;&#12390;</pr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_l;&c_a;&c_g;&c_a;&c_ja;, &c_ch;&c_t;&c_o;</trd>,
+    <trd>&c_je;&c_s;&c_l;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="supoz.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="supoz.0o.KOMUNE">
+    <dif>
+      Penso a&ubreve; eldiro, ke io povas esti vera, ankora&ubreve; ne
+      havante pruvon:
+      <ekz>
+        tio konfirmas miajn <tld/>ojn;
+      </ekz>
+      <ekz>
+        vi malpravas fari tian <tld/>on koncerne min
+        <fnt><bib>Lanti</bib>, <lok>tri semajnoj en Rusio, &ccirc;e la
+        sidejo de Komintern</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_p;&c_u;&c_sh;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_g;&c_ib;&c_p;&c_o;&c_t;&c_e;&c_z;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>domn&ecaron;nka</trd>,
+    <trd>hypot&eacute;za</trd>,
+    <trd>p&rcaron;edpoklad</trd>
+  </trdgrp>
+  <trd lng="de">Vermutung</trd>
+  <trdgrp lng="en">
+    <trd>assumption</trd>,
+    <trd>presumption</trd>,
+    <trd>supposition</trd>
+  </trdgrp>
+  <trd lng="es">suposici&oacute;n</trd>
+  <trd lng="fr">supposition</trd>
+  <trdgrp lng="hu">
+    <trd>felt&eacute;telez&eacute;s</trd>,
+    <trd>feltev&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4EEE;&#x5B9A;  <pr>&#x304B;&#12390;&#12356;</pr></trd>,
+    <trd>&#x60F3;&#x5B9A;  <pr>&#x305D;&#12358;&#12390;&#12356;</pr></trd>,
+    <trd>&#x60F3;&#x50CF;  <pr>&#x305D;&#12358;&#x305E;&#12358;</pr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>hypot&eacute;za</trd>,
+    <trd>odhad</trd>,
+    <trd>predpoklad</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&c_r;&c_i;&#x43F;&c_u;&c_shch;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+</drv>
+
+<drv mrk="supoz.0eble">
+  <kap><tld/>eble</kap>
+  <snc mrk="supoz.0eble.ARG">
+    <dif>
+      Kiel oni povas <tld/>i:
+      <ekz>
+        juna knabo en livreo kun metalaj butonoj, <tld/>eble &gcirc;ardenisto a&ubreve; lakeeto
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;aptiro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>eble inter ili ne estis e&ccirc; unu, kiu kredus la vortojn de
+        sinjorino <nom>Szwejc</nom>
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+      <ekz>
+        tial ke <esc>kvardekok</esc> horoj jam fluis depost la katastrofo, estas <tld/>eble, ke oni
+        devas forlasi &ccirc;iun esperon lin retrovi
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sesa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili ne estas tro ri&ccirc;aj, ili ne havas propran a&ubreve;ton <tld/>eble
+        <fnt>
+          <bib>LGA</bib>
+          <lok>II.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kred.0eble">kredeble</ref>,
+      <ref cel="probab.0e">probable</ref>,
+      <ref cel="sxajn.ver0e">ver&scirc;ajne</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_g;&c_ch;&c_y;&c_m;&c_a;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_a;&c_g;&c_o;&c_d;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>doufejme</trd>,
+    <trd>pravd&ecaron;podobn&ecaron;</trd>,
+    <trd>snad</trd>
+  </trdgrp>
+  <trd lng="de">vermutlich</trd>
+  <trdgrp lng="en">
+    <trd>presumably</trd>,
+    <trd>supposedly</trd>,
+    <trd>one can assume that</trd>,
+    <trd>probably</trd>
+  </trdgrp>
+  <trd lng="fr">vraisemblablement</trd>
+  <trd lng="hu">feltehet&odblac;en</trd>
+  <trdgrp lng="ja">
+    <trd>&#x304A;&#x305D;&#12425;&#x304F;&#x306F;</trd>,
+    <trd>&#x305F;&#12406;&#12435;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>d&uacute;fajme</trd>,
+    <trd>pravdepodobne</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_i;&#x43F;&c_u;&c_s;&c_t;&c_i;&#x43C;&#x43E;</trd>,
+    <trd>&c_d;&#x43E;&#x43F;&c_u;&c_s;&c_t;&c_i;&#x43C;&#x43E;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="supoz.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="supoz.0igi.indiki">
+    <dif>
+      Agi a&ubreve; aspekti tiel, ke oni emas <tld/>i:
+      <ekz>
+        tio <tld/>igas, ke la sukceso estos granda;
+      </ekz>
+      <ekz>
+        la aspekto de lia viza&gcirc;o <tld/>igis, ke li ne razis sin
+        almena&ubreve; tri semajnojn
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 15a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la garna&jcirc;oj de la kameloj <tld/>igas, ke ili venas el
+        la lando Egipta
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 4a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">arra enged <ind>k&ouml;vetkeztetni</ind></trd>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_a;&c_t;&c_mol; &c_o;&c_s;&c_n;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;
+       <ind>&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_l;&c_a;&c_g;&c_a;&c_t;&c_mol;</ind></trd>,
+      <trd>&c_u;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="supoz.0igi.neprigi">
+    <dif>
+      Logike <ref tip="super" cel="nepr.0igi">neprigi</ref>:
+      <ekz>
+        la juro diferencas de la filozofiaj konceptoj precipe pro
+        tio, ke &gcirc;i <tld/>igas realan sankcion
+        <fnt>
+        <aut>J. Thierry</aut>,
+        <vrk>Unu internacia problemo: la mortigisto</vrk>,
+        <lok>Nica Literatura Revuo, 2:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sed se, anstata&ubreve; <tld/>igi la mankantan ligantan vorton
+        <ctl>ke</ctl>, la frazo havas ligantan vorton alian
+        <klr>[&#8230;]</klr>,
+        tiam devas esti uzata tiu kazo, kiun postulas la
+        senco de la ekzistanta liganta vorto
+        <fnt><bib>LR</bib>,
+        <lok>respondo 7a, La Revuo, 1907, februaro</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>posztul&aacute;l</trd>,
+      <trd>el&odblac;felt&eacute;telk&eacute;nt megk&iacute;v&aacute;n</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_s;&c_t;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_l;&c_a;&c_g;&c_a;&c_t;&c_mol;<klr tip="amb">
+      (&c_k;&c_a;&c_k;
+&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_s;&c_y;&c_l;&c_k;&c_u;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">vyvolat dojem</trd>
+  <trdgrp lng="en">
+    <trd>suppose</trd>,
+    <trd>assume</trd>,
+    <trd>presume</trd>,
+    <trd>surmise</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>laisser supposer</trd>,
+    <trd>supposer<klr tip="amb"> (exiger)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x60F3;&#x8D77;&#12373;&#x305B;&#x308B;  <pr>&#x305D;&#12358;&#x304D;&#12373;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x60F3;&#x50CF;&#12373;&#x305B;&#x308B;  <pr>&#x305D;&#12358;&#x305E;&#12358;&#12373;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">vyvola&tcaron; dojem</trd>
+  <trd lng="uk">&#x43D;&c_a;&c_sh;&c_t;&#x43E;&c_v;&c_h;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43D;&c_a; &c_d;&c_u;&#x43C;&#x43A;&c_u;</trd>
+</drv>
+
+<drv mrk="supoz.antaux0o">
+  <kap>anta&ubreve;<tld/>o</kap>
+  <snc mrk="supoz.antaux0o.LOG">
+    <dif>
+      <tld lit="S"/>o, kiu estas konscia a&ubreve; nekonscia bazo de rezono:
+      <ekz>
+        ni neniam konscias pri &ccirc;iuj niaj anta&ubreve;<tld/>oj
+        <fnt>
+          <aut>K. Miner</aut>,
+          <vrk><url ref="http://www.airbits.com/~miner/TAGLIBRO_package/Marto_2007.html">
+          taglibro</url></vrk>,
+          <lok>2007-03-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aksiom.0o.FIL">aksiomo<sncref/></ref>,
+      <ref cel="jugx.antaux0o">anta&ubreve;ju&gcirc;o</ref>,
+      <ref cel="punkt.elir0o">elirpunkto</ref>,
+      <ref cel="hipote2.0o">hipotezo</ref>,
+      <ref cel="postul1.0o.FIL">postulato<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_p;&c_u;&c_sh;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_z;&c_y;&c_h;&c_o;&c_d;&c_n;&c_a;&c_je; &c_w; &c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_h;)</klr></trd>,
+    <trd>&c_p;&c_r;&c_y;&c_p;&c_u;&c_sh;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_d;&c_u;&c_m;&c_o;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">Annahme</trd>
+  <trdgrp lng="en">
+    <trd>assumption (on which reasoning is based)</trd>,
+    <trd>expectation</trd>,
+    <trd>prediction</trd>,
+    <trd>presupposition</trd>
+  </trdgrp>
+  <trd lng="fr">pr&eacute;suppos&eacute;<klr> (subst.)</klr></trd>
+</drv>
+
+<drv mrk="supoz.kontraux0e">
+  <kap>kontra&ubreve;<tld/>e</kap>
+  <snc mrk="supoz.kontraux0e.KOMUNE">
+    <dif>
+       Male ol oni <tld/>is;
+       ne <ref tip="ant" cel="supoz.laux0e.KOMUNE">la&ubreve;<tld/>e</ref>:
+      <ekz>
+        kontra&ubreve;<tld/>e ene de la moskeo la atmosfero estis tre libera,
+        kaj oni povas foti
+        <fnt>
+          <aut>[&#xB9D1;&#xC740;&#xB098;&#xB77C;?]</aut>,
+          <vrk><url ref="https://m.blog.naver.com/sokoguryo/220187181464">
+          &ccirc;u dan&gcirc;ere voja&gcirc;i en irano?</url></vrk>,
+          <lok>2014-11-20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_s;&c_u;&c_p;&c_je;&c_r;&c_a;&c_k;
+    <ind>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ju;</ind></trd>,
+    <trd>&c_n;&c_je;&c_ch;&c_a;&c_k;&c_a;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>contrary to assumptions</trd>,
+    <trd>against expectations</trd>
+  </trdgrp>
+  <trd lng="fr">de mani&egrave;re inattendue</trd>
+</drv>
+
+<drv mrk="supoz.laux0e">
+  <kap>la&ubreve;<tld/>e</kap>
+  <snc mrk="supoz.laux0e.KOMUNE">
+    <dif>
+      La&ubreve; prudenta, ver&scirc;ajna <tld/>o:
+      <ekz>
+        tre granda parto de la deportitoj apartenis al la kategorio
+        <ctl>kulakoj</ctl> &ndash; bonfartaj bienposedantoj, kiuj la&ubreve;<tld/>e
+        kontra&ubreve;us la devigan kolektivigon de la terkulturo
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>,
+          <vrk>Idoj de la imperio - la rusoj de Baltio</vrk>,
+          <lok>2016</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_v;&c_o;&c_d;&c_l;&c_je;
+  <ind>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
+  <trdgrp lng="en">
+    <trd>based on assumptions</trd>,
+    <trd>according to expectations</trd>,
+    <trd>supposed to</trd>
+  </trdgrp>
+  <trd lng="fr">par hypoth&egrave;se</trd>
+</drv>
+
+<drv mrk="supoz.mia0e">
+  <kap>mia<tld/>e</kap>
+  <snc mrk="supoz.mia0e.ARG">
+    <dif>
+      La&ubreve; <tld/>o de la parolanto:
+      <ekz>
+        ni renkontis viron fortikstaturan en militista uniformo,
+        kiu komence alparolis nin latine kaj demandis la
+        &gcirc;ardeniston, kien min &mdash; la azenon &mdash; li kondukas;
+        sed tiu, mia<tld/>e &ccirc;ar la lingvon li ne komprenis,
+        respondis nenion
+        <fnt>
+          <aut>Lukiano, trad. G. Berveling</aut>
+          <vrk>Lukio a&ubreve; Azeno</vrk>
+          <lok>1988</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kred.mia0e.ARG">miakrede</ref>,
+      <ref cel="opini.mia0e.ARG">miaopinie</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_n;&c_a; &c_m;&c_a;&c_jo;
+  <ind>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+  <trd lng="en">according to my assumptions</trd>
+  <trd lng="fr">je <ind>suppose</ind></trd>
+</drv>
+
+<drv mrk="supoz.mis0i">
+  <kap>mis<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="supoz.mis0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="erar.0i.opinii">Erari</ref> maltrafe
+      <tld/>ante:
+      <ekz>
+        la kuracistoj mis<tld/>is, ke &scirc;ia intesto &scirc;topi&gcirc;is
+        <fnt>
+        <aut>Is</aut>,
+        <vrk>Vegetanta homo naskas mem</vrk>,
+        <bib>Monato</bib>,
+        <lok>1996:5, p. 26a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_m;&c_y;&c_l;&c_k;&c_o;&c_v;&c_a;
+  <ind>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</ind></trd>
+  <trd lng="en">wrongly assume</trd>
+  <trdgrp lng="fr">
+    <trd>s'<ind>imaginer</ind></trd>,
+    <trd>supposer &agrave; tort</trd>
+  </trdgrp>
+  <trd lng="hu">t&eacute;vesen <ind>felt&eacute;telez</ind></trd>
+  <trd lng="ru">&c_o;&c_sh;&c_i;&c_b;&c_o;&c_ch;&c_n;&c_o;
+  <ind>&c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol;</ind></trd>
+</drv>
+
+<drv mrk="supoz.sen0eco">
+  <kap>sen<tld/>eco</kap>
+  <snc mrk="supoz.sen0eco.KOMUNE">
+    <dif>
+      Malhavo de <tld/>oj, de hipotezoj, de anta&ubreve;ju&gcirc;oj:
+      <ekz>
+        ne la sen<tld/>eco &gcirc;enerale kaj la&ubreve; si estas la postulo de &ccirc;iu
+        vera scienco, sed &gcirc;uste kontra&ubreve;e, havi plenon da <tld/>oj
+        <fnt>
+          <aut>T. Haecker, trad. V. O&scaron;lak</aut>,
+          <vrk>Vergilio, la patro de Okcidento</vrk>,
+          <lok>1998</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_s;&c_u;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;
+    <ind>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_w;</ind></trd>,
+    <trd>&c_n;&c_je;&c_z;&c_a;&c_a;&c_n;&c_g;&c_a;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="en">absence of assumptions</trd>
+  <trdgrp lng="fr">
+    <trd>absence de pr&eacute;jug&eacute;s</trd>,
+    <trd>ouverture d'esprit</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.35 2023/10/23 09:26:01
+Dmitri Gabinski: + trd be
+
+versio 1.34 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.33 2023/09/20 09:25:06
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.32 2023/09/08 14:26:54
+Wolfram Diestel: kor. ja ind.
+
+versio 1.30 2023/01/26 05:28:08
+Robert Baruch: +trd: en, -fr err.
+
+versio 1.28 2022/03/23 05:40:27
+Noam Mohr: +trd en antauxsupozo
+
+versio 1.27 2022/03/12 01:40:52
+Noam Mohr: +trd en
+
+versio 1.26 2022/03/01 09:40:00
+-->
+</vortaro>

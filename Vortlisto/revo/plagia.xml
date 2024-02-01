@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: plagia.xml,v 1.25 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>5</ofc>
+  <rad>plagiat</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="plagia.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BELA</uzo>
+  <uzo tip="fak">JUR</uzo>
+  <snc>
+    <dif>
+      Verko prezentata kiel propra, sed kiu estas
+      parte a&ubreve; komplete imita&jcirc;o de aliula verko:
+      <ekz>
+        registara dokumento listiganta la &leftquot;krimojn&#x201D; de <nom>Sadam</nom> riveli&gcirc;as
+        kiel <tld/>o: la kla&ubreve;noj kunskrapis &leftquot;milito-pravigilon&#x201D; el doktori&gcirc;a
+        disertacio kaj diversaj Interret-fontoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2003/008052.html">Taglibro 
+           de l' (anta&ubreve;)milito ... el la lando de &Scirc;ekspiro</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la 23an de februaro la universitato <nom>Bayreuth</nom> forprenis de <nom>zu
+        Guttenberg</nom> la doktorecon kaj deklaris partojn de lia diserta&jcirc;o kiel <tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Reinhard F&ouml;ssmeier</aut>
+          <vrk><url ref="&Monato;/2011/010330.php">Fino de ministreco: kroniko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        akuzis belga desegnisto, <klr>[&#x2026;]</klr> ke la olimpika emblemo,
+        kreita de Sano Ken&jcirc;iro <klr>[&#x2026;]</klr>, estas <tld/>o de blazono lia por teatro en Lie&gcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2015/011563.php">Pikas la Olimpikoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="fals.0a">falsa</ref>,
+    <ref cel="pastic.0o">pasti&ccirc;o</ref>
+  </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_l;&c_ja;&c_g;&c_ib;&c_ja;&c_t;</trd>,
+    <trd>&c_t;&c_v;&c_o;&c_r;&c_a;&c_k;&c_r;&c_a;&c_d;&c_z;&c_t;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">plagi</trd>
+  <trd lng="de">Plagiat</trd>
+  <trd lng="en">plagiarism</trd>
+  <trdgrp lng="fr">
+    <trd>plagiat</trd>
+  </trdgrp>
+  <trd lng="hu">pl&aacute;gium</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76D7;&#x4F5C;  <pr>&#x3068;&#x3046;&#x3055;&#x304F;</pr></trd>,
+    <trd>&#x527D;&#x7A83;  <pr>&#x3072;&#x3087;&#x3046;&#x305B;&#x3064;</pr></trd>,
+    <trd>&#x76D7;&#x7528;  <pr>&#x3068;&#x3046;&#x3088;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">plagiaat</trd>
+  <trd lng="pl">plagiat</trd>
+  <trd lng="pt">pl&aacute;gio</trd>
+  <trd lng="ru">&c_p;&c_l;&c_a;&c_g;&c_i;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>napodobenina</trd>,
+    <trd>plagi&aacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>napodobenina</trd>,
+    <trd>plagi&aacute;t</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&#x43B;&c_a;&c_gu;&c_ib;&c_a;&c_t;</trd>
+</drv>
+
+<drv mrk="plagia.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Prezenti, kiel sian propran, verkon de aliulo:
+      <ekz>
+        <tld/>ita versio de la verko Ki&hcirc;oto, kiu estis publikita en Taragono
+        en la jaro 1614, kun la titolo Dua libro de Don-Ki&hcirc;oto el Man&ccirc;o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=46321">Alonso
+           Fern&aacute;ndez de Avellaneda</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_j;&c_m;&c_a;&c_c;&c_c;&c_a; <ind>&c_p;&c_l;&c_ja;&c_g;&c_ib;&c_ja;&c_t;&c_a;&c_m;</ind></trd>,
+    <trd>&c_z;&c_a;&c_j;&c_m;&c_a;&c_c;&c_c;&c_a; <ind>&c_t;&c_v;&c_o;&c_r;&c_a;&c_k;&c_r;&c_a;&c_d;&c_z;&c_t;&c_v;&c_a;&c_m;</ind></trd>
+  </trdgrp>
+  <trd lng="ca">plagiar</trd>
+  <trdgrp lng="cs">
+    <trd>napodobovat ciz&iacute; d&iacute;lo</trd>,
+    <trd>plagovat</trd>
+  </trdgrp>
+  <trd lng="de">plagiieren</trd>
+  <trd lng="en">plagiarize</trd>
+  <trdgrp lng="fr">
+    <trd>plagier</trd>
+  </trdgrp>
+  <trd lng="hu">plagiz&aacute;l</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76D7;&#x4F5C;&#x3059;&#x308B;  <pr>&#x3068;&#x3046;&#x3055;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x527D;&#x7A83;&#x3059;&#x308B;  <pr>&#x3072;&#x3087;&#x3046;&#x305B;&#x3064;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">plagi&euml;ren</trd>
+  <trd lng="pl">plagiatowa&cacute;</trd>
+  <trd lng="ru">&c_s;&c_o;&c_v;&c_je;&c_r;&c_sh;&c_i;&c_t;&c_mol;
+&c_p;&c_l;&c_a;&c_g;&c_i;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>napodobova&tcaron; cudzie dielo</trd>,
+    <trd>plagizova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&#x43B;&c_a;&c_gu;&c_ib;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.23 2023/02/17 07:26:30
+Dmitri Gabinski: + trd be
+
+versio 1.22 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.19  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
+Revision 1.18  2018/11/27 07:10:20  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2011/12/07 00:10:12  revo
+-->
+</vortaro>

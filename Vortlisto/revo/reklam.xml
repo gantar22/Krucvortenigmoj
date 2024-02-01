@@ -1,0 +1,397 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: reklam.xml,v 1.40 2023/10/20 19:20:37 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>reklam</rad>/i <fnt><bib>EE</bib></fnt>
+</kap>
+
+<drv mrk="reklam.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="reklam.0i.EKON">
+    <dif>
+      <ref tip="super" cel="komerc.0i">Komercocele</ref>
+      anonci, la&ubreve;di kaj rekomendi al la publiko
+      por pligrandigi vendojn, varbi subtenantojn ktp:
+      <ekz>
+        <tld/>i ion, pri, por io;
+      </ekz>
+      <ekz>
+        ekfulmantaj lumoj <tld/>as la novajn stelojn de la kino
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la kolosaj vitrinoj brilas juvela&jcirc;oj, movi&gcirc;as <tld/>ataj modeloj, susuras,
+        kiel falanta akvo, silkoj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u mi ne estas animvidisto? <klr>[&#x2026;]</klr> vi mem <tld/>as &ccirc;ie, ke
+        anta&ubreve; mi la
+        animo estas malfermita libro
+        <fnt>
+          <bib>SatirRak</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la standoj <tld/>is la servojn de la telefonkompanio
+        <fnt>
+          <aut>Last</aut>,
+          <vrk>Bona reklam(aci)o</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2002:4, p. 16a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la flugma&scirc;ino estis <tld/>ataj produkta&jcirc;oj de tabakfirmao
+        <fnt>
+          <aut>Laimius Stra&zcaron;nickas/pg</aut>
+            <vrk><url ref="&Monato;/2001/007181.php">(sen titolo)</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 10</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> uzas la interreton por <tld/>i sin
+        <fnt><aut>Ionel One&#x21B;</aut>: 
+          <vrk><url ref="&Monato;/2000/007036.php">Pri kaldronoj kaj potoj: &ccirc;u amba&ubreve;
+          kotaj?</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/07, p. 6</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Ne konfuzu kun <ref cel="reklamaci.0i">reklamacii</ref>.
+    </rim>
+    <refgrp tip="vid">
+      <ref cel="varb.0i">varbi</ref>,
+      <ref cel="anonc.0i.publike">anonci<sncref/></ref>,
+      <ref cel="prokla.0i">proklami</ref>,
+      <ref cel="fam.0igi">disfamigi</ref>,
+      <ref cel="trumpe.dis0i">distrumpeti</ref>,
+      <ref cel="tamtam.0i">tamtami</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="reklam.0i.pretendi">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="preten.0i.postuli">Pretendi <sncref/></ref>:
+      <ekz>
+        ili <klr>[&#x2026;]</klr> <tld/>as la rajton uzi sian propran lingvon
+        <fnt>
+       <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2000/006880.php">Ne &ccirc;iuj lingvoj estas langaj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd>bewerben</trd>,
+    <trd>Werbung machen</trd>,
+    <trd>Reklame machen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>publicitar</trd>,
+    <trd>hacer publicidad</trd>,
+    <trd>hacer propaganda</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>faire l'<ind>article</ind></trd>,
+    <trd>faire la <ind>publicit&eacute;</ind> de</trd>,
+    <trd>promouvoir<klr> (commerce)</klr></trd>,
+    <trd>vanter sa marchandise</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>hirdet</trd>,
+    <trd>rekl&aacute;moz</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E83;&#x544A;&#x3092;&#x3059;&#x308B;  <pr>&#x3053;&#x3046;&#x3053;&#x304F;&#x3092;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5BA3;&#x4F1D;&#x3059;&#x308B;  <pr>&#x305B;&#x3093;&#x3067;&#x3093;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>reklamowa&cacute;</trd>,
+    <trd>afiszowa&cacute;</trd>,
+    <trd>og&lstroke;asza&cacute;</trd>
+  </trdgrp>
+    <trd lng="pt">propagandear</trd>
+  <trd lng="ru">&c_r;&c_je;&c_k;&c_l;&c_a;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="uk">&c_r;&c_je;&#x43A;&#x43B;&c_a;&#x43C;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="reklam.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="reklam.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Alvoko (ado a&ubreve; a&jcirc;o) al la publiko per &ccirc;iuspecaj
+      rimedoj por la&ubreve;di kaj rekomendi komerca&jcirc;on, entreprenon
+      a&ubreve; aferon:
+      <ekz>
+        fari <tld/>on al la lingvo internacia
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <nom>Volap&uuml;k</nom>istoj havis por sia agitado grandajn rimedojn kaj agadis per la
+        plej
+        vasta, pure Amerika <tld/>o
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi &jcirc;us vidis <tld/>on pri a&ubreve;tentika &jcirc;urasparka sukceno
+        <fnt>
+          <aut>Marjorie Boulton</aut>
+          <vrk><url ref="&Monato;/1994/A940201.php">Dinomanio</url></vrk>
+          <bib>Monato</bib>
+          <lok>1994/02, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en multaj urboj videblas <ind><tld/>tabulo</ind>j por varbi laboristojn, &ccirc;ar tiuj mankas al
+        preska&ubreve; &ccirc;iuj kompanioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Xu Jinming</aut>
+          <vrk><url ref="&Monato;/2014/011297.php">Labor-merkato malfacila</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+        <trdgrp lng="de">
+          <trd>Werbetafel</trd>,
+          <trd>Plakatwand</trd>
+        </trdgrp>
+        <trd lng="en">billboard</trd>
+        <trd lng="fr">affichage</trd>
+      </ekz>
+      <ekz>
+        en televidaj <tld/>oj, oni kutime
+        prezentas domojn hele lumigitajn
+        <fnt>
+          <aut>R. Rotsaert</aut>,
+          <vrk>Nehaltigeblaj prezalti&gcirc;oj</vrk>,
+          <bib>Monato</bib>,
+          <lok>2000:11, p. 8a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="admon">admono</ref>,
+      <ref cel="sxild.0o.butika">&scirc;ildo<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_a; <klr tip="amb">(&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>propagace</trd>,
+    <trd>reklama</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Werbung</trd>,
+    <trd>Reklame</trd>
+  </trdgrp>
+  <trd lng="en">advertisement</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E83;&#x544A;  <pr>&#x3053;&#x3046;&#x3053;&#x304F;</pr></trd>,
+    <trd>&#x5BA3;&#x4F1D;  <pr>&#x305B;&#x3093;&#x3067;&#x3093;</pr></trd>,
+    <trd>&#x30B3;&#x30DE;&#x30FC;&#x30B7;&#x30E3;&#x30EB;</trd>
+  </trdgrp>
+  <trd lng="ms">iklan</trd>
+  <trdgrp lng="es">
+    <trd>publicidad</trd>,
+    <trd>propaganda</trd>,
+    <trd>reclamo</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>r&eacute;clame</trd>,
+    <trd>pub</trd>,
+    <trd>publicit&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>hirdet&eacute;s</trd>,
+    <trd>rekl&aacute;m</trd>
+  </trdgrp>
+  <trd lng="nl">reclame</trd>
+  <trdgrp lng="pl">
+    <trd>reklama</trd>,
+    <trd>og&lstroke;oszenie</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>publicitate</trd>,
+    <trd>reclama</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_k;&c_l;&c_a;&c_m;&c_a;</trd>
+  <trd lng="sk">reklama</trd>
+  <trd lng="sv">reklam</trd>
+  <trd lng="uk">&c_r;&c_je;&#x43A;&#x43B;&c_a;&#x43C;&c_a;</trd>
+</drv>
+
+<drv mrk="reklam.0ilo">
+  <kap>
+    <tld/>ilo
+  </kap>
+  <snc>
+    <dif>
+      Io, kio altiras la atenton por <tld/>ado, per kio oni <tld/>as:
+      <ekz>
+        <tld/>ilo pri 16-voluma verkaro de <nom>Lenin</nom>
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amba&ubreve; oficiale okupi&gcirc;is pri eldonado de diversaj <tld/>iloj kaj revuoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>LAST</aut>
+          <vrk><url ref="&Monato;/2004/008497.html">Falsaj e&ubreve;roj dama&gcirc;as ekonomion</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>lum<tld/>ilo</ind>j
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 5 (55)</lok>
+        </fnt>;
+        <trd lng="de">Leuchtreklame</trd>
+      </ekz>
+      <ekz>
+        nigre vestitaj <ind>hom<tld/>ilo</ind>j por Kontakto
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+        <trd lng="de">Sandwich-Man</trd>
+      </ekz>
+      <ekz>
+        Stefano havis brilan ideon: signi la vojon per <ind>glu<tld/>ilo</ind>j, da kiuj li sciis
+        ke li povos ricevi stokon en apuda oficejo
+        <fnt>
+          <bib>ChR</bib>
+        </fnt>.
+        <trd lng="de">Werbeaufkleber</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_n;&c_a;&c_ja; &c_b;&c_r;&c_a;&c_sh;&c_u;&c_r;&c_a;</trd>,
+    <trd>&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_n;&c_a;&c_ja; &c_w;&c_l;&c_jo;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_n;&c_y; &c_p;&c_l;&c_ja;&c_k;&c_a;&c_t;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_zh;&c_k;&c_a; <klr tip="amb">(&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_n;&c_a;&c_ja;)</klr></trd>,
+    <trd>&c_b;&c_a;&c_n;&c_e;&c_r;</trd>,
+    <trd>&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_a; <klr tip="amb">(&c_n;&c_o;&c_s;&c_mol;&c_b;&c_ib;&c_t;)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Werbetr&auml;ger</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E83;&#x544A;&#x30D3;&#x30E9;  <pr>&#x3053;&#x3046;&#x3053;&#x304F;&#x30D3;&#x30E9;</pr></trd>,
+    <trd>&#x5E83;&#x544A;&#x7269;  <pr>&#x3053;&#x3046;&#x3053;&#x304F;&#x3076;&#x3064;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>baner</trd>,
+    <trd>reklam&oacute;wka</trd>
+  </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&#x43A;&#x43B;&c_a;&#x43C;&#x43D;&c_i;&c_j; &#x43F;&c_r;&#x43E;&c_s;&#x43F;&c_je;&#x43A;&c_t; (&c_ib;
+  &c_t;.&#x43F;.)</trd>
+</drv>
+
+<drv mrk="reklam.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="reklam.0isto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Profesia <ref tip="lst" lst="voko:metioj" cel="help.0anto">helpanto</ref> al vendado per
+      diskonigo, la&ubreve;dado,
+      <tld/>ado
+      de komerca&jcirc;o a&ubreve; afero per &ccirc;iaj komunikrimedoj:
+      <ekz>
+        eksmodi&gcirc;o ka&ubreve;zata de <tld/>istoj
+        <fnt>
+          <bib>MMa</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sufi&ccirc;as, ke tre eta proporcio de celitoj respondu, por pagi la laboron de la
+        <tld/>istoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2003/008177.html">Kia solvo por rubpo&scirc;to?</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        a&ccirc;', mi revis esti poeto, kaj nun vidu ... <tld/>isto
+        <fnt>
+          <aut>A. Garc&iacute;a Fumero</aut>,
+          <vrk>Kura&gcirc;o</vrk>,
+          <bib>Monato</bib>
+          <lok>2002:2, p. 23&ndash;25a</lok>
+        </fnt>!
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="varb.0isto">varbisto</ref>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_ib;&c_s;&c_t;</trd>
+  <trdgrp lng="de">
+    <trd>Werbefachfrau</trd>,
+    <trd>Werbefachmann</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>publicitario</trd>,
+    <trd>publicista</trd>,
+    <trd>propagandista</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>publicitaire<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>rekl&aacute;mszakember</trd>,
+    <trd>hirdet&eacute;si szakember</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>specjalista do spraw  <ind>reklamy</ind></trd>,
+    <trd>reklamodawca</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_je;&c_k;&c_l;&c_a;&c_m;&c_i;&c_s;&c_t;</trd>,
+    <trd>&c_r;&c_je;&c_k;&c_l;&c_a;&c_m;&c_shch;&c_i;&c_k;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.40 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.38 2023/06/26 10:35:38
+Dmitri Gabinski: + trd be
+
+versio 1.37 2023/06/07 22:28:46
+Vito Redsky: +trd pl 
+
+versio 1.36 2023/05/01 11:23:28
+Paul Peeraerts: Steloj -> monato
+
+versio 1.35 2023/04/25 12:45:46
+Paul Peeraerts: Steloj -> monato
+
+versio 1.34 2023/04/19 08:31:34
+Paul Peeraerts: Steloj -> monato
+
+versio 1.33 2023/04/11 10:31:32
+Paul Peeraerts: Steloj -> monato
+
+versio 1.32 2022/05/04 19:19:16
+-->
+</vortaro>

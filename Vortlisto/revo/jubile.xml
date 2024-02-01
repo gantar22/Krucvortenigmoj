@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: jubile.xml,v 1.25 2023/12/03 07:09:18 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>jubile</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="jubile.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="jubile.0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      Publika <ref tip="lst" lst="voko:festoj" cel="fest.0o.KAL">festo</ref>,
+      per kiu oni solenas kvindekan, centan a&ubreve; alian gravan
+      datrevenon de evento:
+      <ekz>
+        la 125-jara <tld/>o de Esperanto;
+      </ekz>
+      <ekz>
+        festi <tld/>on.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_ju;&c_b;&c_ib;&c_l;&c_je;&c_j;</trd>
+    <trdgrp lng="de">
+      <trd>Jubil&auml;um</trd>,
+      <trd>Gedenkfeier</trd>,
+      <trd>Jahrestag</trd></trdgrp>
+    <trd lng="nl">jubileum</trd>
+    <trdgrp lng="hu">
+      <trd>jubileum</trd>,
+      <trd>&eacute;vfordul&oacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_ju;&c_b;&c_i;&c_l;&c_je;&c_j;</trd>
+    <trd lng="sv">jubileum</trd>
+    <trdgrp lng="zh">
+    <trd>&#x5468;&#x5E74; <pr>zh&#x14D;uni&#xE1;n</pr></trd>,
+    <trd>&#x5E74;&#x7D00;&#x65E5; <pr>ni&#xE1;nj&#xEC;r&#xEC;</pr></trd>,
+    <trd>&#x60BC;&#x5FF5;&#x4EEA;&#x5F0F; <pr>d&#xE0;oni&#xE0;ny&#xED;sh&#xEC;</pr></trd>,
+    <trd>&#x7D00;&#x5FF5;&#x6703; <pr>j&#xEC;ni&#xE0;nhu&#xEC;</pr></trd>,
+    <trd>&#x7D00;&#x5FF5;&#x7BC0; <pr>j&#xEC;ni&#xE0;nji&#xE9;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="jubile.0o.KAT">
+    <uzo tip="fak">KAT</uzo>
+    <dif>
+      Solena pekabsolvo, kiun la papo konsentis unue
+      en &ccirc;iu centa jaro, poste
+      en &ccirc;iu kvindeka kaj nuntempe en &ccirc;iu dudekkvina.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Halljahr</trd>,
+      <trd>Erlassjahr</trd>,
+      <trd>Heiliges Jahr</trd>,
+      <trd>Jubeljahr</trd></trdgrp>
+    <trd lng="hu">szent&eacute;v</trd>
+    <trd lng="nl">heilig <ind>jaar</ind></trd>
+    <trdgrp lng="sv">
+      <trd>heligt <ind>&aring;r</ind></trd>,
+      <trd>jubel&aring;r</trd>
+    </trdgrp>
+    <trd lng="zh">&#x79A7;&#x5E74; <pr>x&#x1D0;ni&#xE1;n</pr></trd>
+</snc>
+  <trd lng="ca">jubileu</trd>
+  <trd lng="cs">jubileum</trd>
+  <trd lng="es">jubileo</trd>
+  <trd lng="fr">jubil&eacute;</trd>
+  <trd lng="it">giubileo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A18;&#x5FF5;&#x796D;  <pr>&#x304D;&#x306D;&#x3093;&#x3055;&#x3044;</pr></trd>,
+    <trd>&#x8056;&#x5E74;  <pr>&#x305B;&#x3044;&#x306D;&#x3093;</pr></trd>,
+    <trd>&#x5927;&#x8D66;  <pr>&#x305F;&#x3044;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">jubileu</trd>
+  <trd lng="sk">jubileum</trd>
+  <trdgrp lng="uk">
+    <trd>&#x44E;&c_v;&c_ib;&#x43B;&c_je;&c_j;</trd>,
+    <trd>&c_r;&c_ib;&c_ch;&#x43D;&c_i;&c_c;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="jubile.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="jubile.0a.KAL">
+    <dif>
+      Rilata al <tld/>o, solenanta la pason de ronda nombro
+      de jaroj post evento:
+      <ekz>
+        Lidia anta&ubreve;enpa&scirc;is por meti teron de la tombo
+        de sia patro sur la radikojn de la <tld/>a kverko  
+        <fnt>
+          <aut>W. Heller, trad. B. Westerhoff</aut>
+          <vrk>Lidia, la Vivo de Lidia Zamenhof, Filino de Esperanto</vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ja">&#x8A18;&#x5FF5;&#x796D;&#x306E;  <pr>&#x304D;&#x306D;&#x3093;&#x3055;&#x3044;&#x306E;</pr></trd>
+  <trd lng="uk">&#x44E;&c_v;&c_ib;&#x43B;&c_je;&c_j;&#x43D;&c_i;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/18 05:26:26
+revo: transskribo per <pr>
+
+versio 1.22 2022/03/31 16:45:57
+Wolfram Diestel: kor. trd uk
+
+Revision 1.19  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/09/04 14:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2011/05/29 22:10:11  revo
+Jeromo Vasxe: - num + mrk + fak
+
+Revision 1.15  2009/03/15 17:31:39  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2009/03/12 17:31:29  revo
+-->
+</vortaro>

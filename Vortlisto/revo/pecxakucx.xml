@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pecxakucx.xml,v 1.4 2023/04/19 08:31:33 revo Exp $">
+<kap>
+  <rad>pe&ccirc;aku&ccirc;</rad>/o
+</kap>
+<drv mrk="pecxakucx.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pecxakucx.0o.INF">
+    <dif>
+      Mallonga <ref tip="super" cel="preleg.0o">prelego</ref> akompanata de 20
+      <ref tip="prt" cel="bild.lum0o">lumbildo</ref>j
+      montrataj dum po 20 sekundoj:
+      <ekz>
+        iam Manolo mem komentis en sia blogo pri noveca 
+        maniero fari viglajn prezentadojn, la <tld/>o
+        <fnt>
+          <aut>T. del Barrio</aut>,
+          <vrk><url ref="http://www.delbarrio.eu/blo/2010/12/pechakucha-dirac/">
+          Pe&ccirc;aku&ccirc;o pri la Dirakoj</url></vrk>,
+          <lok>2010-12-30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tri &scirc;losiloj por sukcesa <tld/>o jenas: praktiko, praktiko kaj praktiko
+        <fnt>
+          <vrk><url ref="https://www.satesperanto.org/spip.php?article4268">Pe&ccirc;aku&ccirc;o en
+          Barcelono</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>    
+  </snc>
+  <trd lng="be">&c_p;&c_e;&c_ch;&c_a;-&c_k;&c_u;&c_ch;&c_a;</trd>
+  <trd lng="de">Pecha Kucha</trd>
+  <trd lng="en">pecha kucha</trd>
+  <trd lng="fr">pecha kucha</trd>
+  <trd lng="ja">&#12410;&#12385;&#12419;&#12367;&#12385;&#12419;</trd>
+  <trd lng="pl">Pecha Kucha</trd>
+  <trd lng="ro">PechaKucha</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2023/04/19 08:31:33
+Dmitri Gabinski: + trd be
+
+versio 1.3 2021/12/22 14:29:17
+Vito Redsky: + trd pl + trd ro
+
+versio 1.2 2020/08/08 16:32:16
+Wolfram Diestel: +ekz, +ref, trd de, en, ja, shovis "po"
+-->
+</vortaro>

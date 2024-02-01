@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: divan.xml,v 1.23 2023/10/14 11:26:54 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>divan</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="divan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="divan.0o.MEBL">
+    <dif>
+      Turkdevena <ref tip="lst" lst="voko:mebloj" cel="sof.0o.MEBL">sofo</ref>;
+      benko sen brak- a&ubreve; dorsapogiloj, garnita per kusenoj: 
+      <ekz>
+        en angulo staris lar&gcirc;a <tld/>o kun molaj kovriloj kaj kusenoj
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Goabo, la dezerto de la Koloroj</lok>
+        </fnt>;
+      </ekz>
+   </dif>
+    <refgrp tip="vid">
+      <ref cel="kanap.0o">kanapo</ref>
+    </refgrp>
+    <trd lng="be">&c_t;&c_a;&c_h;&c_t;&c_a;</trd>
+    <trdgrp lng="de">
+       <trd>Diwan</trd>,
+       <trd>Ruhebett</trd>,
+       <trd>niedriges <ind>Liegesofa</ind></trd>
+    </trdgrp>
+    <trd lng="en">ottoman</trd>
+    <trd lng="fr">divan<klr tip="ind"> (si&egrave;ge)</klr></trd>
+    <trdgrp lng="hu">
+       <trd>d&iacute;v&aacute;ny</trd>,
+       <trd>kerevet</trd>,
+       <trd>pamlag</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>otomana</trd>
+    </trdgrp>
+    <trd lng="pt">div&atilde;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_i;&c_v;&c_a;&c_n;</trd>,
+      <trd>&c_o;&c_t;&c_t;&c_o;&c_m;&c_a;&c_n;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="divan.0o.POL">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Turka &scirc;tata konsilantaro.  
+    </dif>
+  <trd lng="be">&c_d;&c_y;&c_v;&c_a;&c_n; <klr tip="amb">(&c_v;&c_o;&c_r;&c_g;&c_a;&c_n; &c_u;&c_l;&c_a;&c_d;&c_y;)</klr></trd>
+    <trd lng="de">Diwan</trd>
+    <trd lng="en">oriental council</trd>
+    <trd lng="fr">divan<klr tip="ind"> (salle du Conseil
+    turc)</klr></trd>
+    <trd lng="hu">d&iacute;v&aacute;n</trd>
+    <trd lng="pt">div&atilde;</trd>
+    <trd lng="pl">Dywan<klr> (rada turecka)</klr></trd>
+    <trd lng="ru">&c_d;&c_i;&c_v;&c_a;&c_n;</trd>
+  </snc>
+  <rim>
+    Etimologie divano signifas kolekto kaj anka&ubreve; kunveno, jen ekz. poemaro:
+      <ekz>
+        li <klr>(Goethe)</klr> finis la verkon <ctl>Okcident-orienta divano</ctl>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1990">Johann Wolfgang von
+          Goethe</url></lok>
+        </fnt>.
+      </ekz>
+  </rim>
+  <trd lng="ca">divan</trd>
+  <trdgrp lng="cs">
+    <trd>divan</trd>,
+    <trd>pohovka</trd>
+  </trdgrp>
+  <trd lng="en">divan</trd>
+  <trd lng="es">div&aacute;n</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C7;&#x30A3;&#x30D0;&#x30F3;</trd>,
+    <trd>&#x9577;&#x6905;&#x5B50;  <pr>&#x306A;&#x304C;&#x3044;&#x3059;</pr></trd>,
+    <trd>&#x56FD;&#x653F;&#x4F1A;&#x8B70;  <pr>&#x3053;&#x304F;&#x305B;&#x3044;&#x304B;&#x3044;&#x304E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>div&aacute;n</trd>,
+    <trd>pohovka</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_i;&c_v;&c_a;&#x43D;</trd>,
+    <trd>&#x43E;&c_t;&#x43E;&#x43C;&c_a;&#x43D;&#x43A;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/14 11:26:54
+revo: transskribo per <pr>
+
+versio 1.21 2023/06/28 12:54:12
+Dmitri Gabinski: + trd be
+
+versio 1.20 2022/06/16 07:29:52
+Guillermo Molleda Jimena: +trd es
+
+Revision 1.17  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2011/12/07 01:10:16  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.14  2011/03/24 12:10:10  revo
+Jeromo Vasxe: - num + mrk, + 1 ref
+
+Revision 1.13  2009/06/29 18:06:42  revo
+-->
+</vortaro>

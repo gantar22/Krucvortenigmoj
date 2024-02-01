@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: encefalogram.xml,v 1.5 2023/11/07 20:34:10 revo Exp $">
+<kap>
+  <rad>encefalogram</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="encefalogram.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="encefalogram.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Encefalobildigo vidiganta la momentan vigli&gcirc;on
+      de la kraniaj organoj en ties diversaj partoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_n;&c_c;&c_e;&c_f;&c_a;&c_l;&c_ja;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trd lng="es">encefalograma</trd>
+  <trd lng="fr">enc&eacute;phalogramme</trd>
+  <trd lng="uk">&c_je;&#x43D;&c_c;&c_je;&c_f;&c_a;&#x43B;&#x43E;&c_g;&c_r;&c_a;&#x43C;&c_a;</trd>
+  <trd lng="zh">&#x8111;&#x7535;&#x56FE; <pr>n&#x1CE;odi&#xE0;nt&#xFA;</pr></trd>
+</drv>
+
+<drv mrk="encefalogram.elektr0o">
+  <kap>elektr<tld/>o, <var><kap>elektro<tld/>o</kap></var></kap>
+  <snc mrk="encefalogram.elektr0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Encefalobildigo farita per mezurado de elektraj
+      okaza&jcirc;oj en la kraniaj organoj:
+      <ekz>
+        &ccirc;iu el ni povas sperti realan praktikon pri
+        bioelektrokemio, 
+        kiam oni faras al vi la elektrokardiogramon a&ubreve;
+        elektro<tld/>on
+        <fnt>
+          <aut>-, trad. J. Palu</aut>,
+          <vrk><url ref="http://www.fw.hu/eventoj/steb/kemio/hkk7612.htm">
+          Kion kapablas elektrono?</url></vrk>,
+          <lok>Homo kaj Kosmo, numero 1976/1-1, p. 7a-8a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_e;&c_n;&c_c;&c_e;&c_f;&c_a;&c_l;&c_ja;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trd lng="es">electroencefalograma</trd>
+  <trd lng="fr">&eacute;lectroenc&eacute;phalogramme</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2023/04/07 09:25:31
+Dmitri Gabinski: + trd be
+
+Revision 1.1  2010/10/21 16:30:23  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

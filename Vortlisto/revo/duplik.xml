@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: duplik.xml,v 1.26 2023/11/04 18:50:52 revo Exp $">
+<kap>
+  <rad>duplikat</rad>/o
+  <fnt>Z</fnt>
+  <fnt><bib>ZR</bib></fnt>
+</kap>
+<drv mrk="duplik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="duplik.0o.kopio">
+    <dif>
+      <ref tip="super" cel="kopi.0o">Kopio</ref>, dua <ref tip="super" cel="ekzemp1.0o">ekzemplero</ref> de dokumento:
+      <ekz>
+        <tld/>o de fakturo, de naski&gcirc;atesto;
+      </ekz>
+      <ekz>
+        mem-repliki&gcirc;o de DNA estas la procezo per kiu DNA estas kopiata, t.e. &dash; <tld/>oj
+        produkti&gcirc;as
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=2981">Mem-repliki&gcirc;o de DNA</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="redund.0o">redundo</ref>,
+      <ref cel="kopi.sav0o">savkopio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a;&c_t;</trd>,
+    <trd>&c_k;&c_o;&c_p;&c_ib;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>duplik&aacute;t</trd>,
+    <trd>opis</trd>,
+    <trd>stejnopis</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Doppel</trd>,
+    <trd>Kopie</trd>,
+    <trd>Duplikat</trd>,
+    <trd>Zweitausfertigung</trd>,
+    <trd>Zweitschrift</trd>,
+    <trd>Durchschlag</trd>,
+    <trd>Dublette</trd>
+  </trdgrp>
+  <trd lng="en">duplicate</trd>
+  <trd lng="es">duplicado</trd>
+  <trdgrp lng="fa">
+    <trd>&a_r;&a_w;&a_n;&a_w;&a_sh;&a_t;</trd>,
+    <trd>&f_k;&f_p;&f_y;</trd>,
+    <trd>&a_A;&a_l;&a_m;&a_th;&a_n;&f_y;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>double<klr tip="ind"> (duplicata)</klr></trd>,
+    <trd>duplicata</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>m&aacute;sodp&eacute;ld&aacute;ny</trd>,
+    <trd>duplik&aacute;tum</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x526F;&#x672C;  <pr>&#x3075;&#x304F;&#x307B;&#x3093;</pr></trd>,
+    <trd>&#x5199;&#x3057;  <pr>&#x3046;&#x3064;&#x3057;</pr></trd>,
+    <trd>&#x8B04;&#x672C;  <pr>&#x3068;&#x3046;&#x307B;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">duplikat</trd>
+  <trdgrp lng="pt">
+    <trd>duplicata</trd>,
+    <trd>segunda via</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_p;&c_i;&c_ja;</trd>,
+    <trd>&c_d;&c_u;&c_b;&c_l;&c_i;&c_k;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>duplik&aacute;t</trd>,
+    <trd>opis</trd>
+  </trdgrp>
+  <trd lng="uk">&c_d;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a;&c_t;</trd>
+  <trd lng="zh">&#x91CD;&#x590D; <pr>ch&#xF3;ngf&#xF9;</pr></trd>
+</drv>
+
+<drv mrk="duplik.0i">
+  <kap><tld/>i <fnt><bib>CCT</bib></fnt></kap>
+  <snc>    
+    <dif>
+      Produkti <tld/>on:
+      <ekz>
+        forigi <tld/>ajn dosierojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=597187">Interplaneda dosiersistemo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kopi.0i.tekston">kopii</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;
+    <ind>&c_d;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a;&c_t;</ind></trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;
+    <ind>&c_k;&c_o;&c_p;&c_ib;&c_ju;</ind></trd>,
+    <trd>&c_d;&c_u;&c_b;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_a;&c_p;&c_ib;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">duplikovat</trd>
+  <trdgrp lng="de">
+    <trd>kopieren</trd>,
+    <trd>duplizieren</trd>,
+    <trd>zweitausfertigen</trd>,
+    <trd><klr>eine </klr>Zweitausfertigung <ind>erstellen</ind></trd>,
+    <trd><klr>eine </klr>Zweitschrift erstellen</trd>,
+    <trd><klr>eine </klr>Zweitschrift <ind>ausfertigen</ind></trd>,
+    <trd><klr>ein </klr>Duplikat <ind>ausfertigen</ind></trd>
+  </trdgrp>
+  <trd lng="en">duplicate</trd>
+  <trd lng="es">duplicar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_n;&a_s;&a_kh;&a_h;&zwnj;&a_b;&a_r;&a_d;&a_A;&a_r;&f_y;
+    &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&f_k;&f_p;&f_y; &a_b;&a_r;&a_d;&a_A;&a_sh;&a_t;&a_n;</trd>
+  </trdgrp>
+  <trd lng="he">&lamed;&shin;&kaf;&pe;&lamed;</trd>
+  <trdgrp lng="hu">
+    <trd>m&aacute;sodp&eacute;ld&aacute;nyt k&eacute;sz&iacute;t</trd>,
+    <trd>lem&aacute;sol</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>duplikowa&cacute;</trd>,
+    <trd>robi&cacute; <ind>duplikat</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;
+    <ind>&c_k;&c_o;&c_p;&c_i;&c_ju;</ind></trd>,
+    <trd>&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol;
+    <ind>&c_d;&c_u;&c_b;&c_l;&c_i;&c_k;&c_a;&c_t;</ind></trd>,
+    <trd>&c_d;&c_u;&c_b;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">duplikova&tcaron;</trd>
+  <trd lng="zh">&#x6284; <pr>ch&#x101;o</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/14 14:40:08
+revo: transskribo per <pr>
+
+versio 1.23 2022/07/01 17:32:14
+Wolfram Diestel: +ekz, ref-oj, trd de
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2009/08/25 16:33:37  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2009/08/18 19:18:07  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2007/09/08 16:30:28  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2003/12/14 17:31:40  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/09/08 16:31:09  revo
+-->
+</vortaro>

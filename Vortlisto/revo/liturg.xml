@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: liturg.xml,v 1.22 2024/01/15 19:02:15 revo Exp $">
+    <kap>
+      <ofc>1</ofc>
+      <rad>liturgi</rad>/o
+    </kap>
+    <drv mrk="liturg.0o">
+      <kap><tld/>o</kap>
+      <snc mrk="liturg.0o.KRI">
+        <uzo tip="fak">KRI</uzo>
+        <dif>
+          La &ccirc;efa kristana <ref tip="super" cel="serv.Di0o">
+          diservo</ref> publika, entenanta
+          <ref tip="prt" cel="euxhxaristi.0o">e&ubreve;&hcirc;aristion</ref>:
+          <ekz>
+            gravaj traduka&jcirc;oj restis en manuskripto: ...
+            <tld lit="L"/>o la&ubreve; la
+            ordo de s-ta Johano Orbu&scirc;ulo
+            <fnt><bib>EdE</bib>, <lok>&Scirc;irjaev</lok></fnt>;
+            <!--EdE: Enciklopedio de Esperanto, Budapest 1933
+            (faksimila represo: Budapest 1979, ISBN 963 571 051 8)-->
+          </ekz><ekz>
+            dekfoje en la jaro la ortodoksa eklezio servas la
+            <tld/>on la&ubreve; Bazilo la Granda.
+          </ekz>
+        </dif>
+        <rim>
+          Tiun antikvan sencon uzas precipe la Orientaj
+          eklezioj; la Okcidentaj pli ofte nomas sian <tld/>on
+          <ref tip="sub" cel="mes.0o">meso</ref>.
+        </rim>
+        <trdgrp lng="ru">
+<trd>&c_b;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_a;&c_ja;
+<ind>&c_l;&c_i;&c_t;&c_u;&c_r;&c_g;&c_i;&c_ja;</ind></trd>,
+          <trd>&c_o;&c_b;&c_je;&c_d;&c_n;&c_ja;</trd></trdgrp>
+      </snc>
+      <snc mrk="liturg.0o.diservo">
+        <uzo tip="fak">KAT</uzo>
+        <dif>
+          &Ccirc;ia <ref tip="dif" cel="serv.Di0o">diservo</ref>:
+          <ekz>
+            &ccirc;ar en la Meso, en la dono de la sakramentoj kaj en
+            aliaj terenoj de la <tld/>o la uzo de la gepatra lingvo ne
+            malofte povas esti tre utila por la popolo, estu
+            permesite, doni al la gepatra lingvo pli vastan lokon
+            <fnt>
+              <aut>d-ro Gy&ouml;rgy Jakubinyi</aut>:
+              <vrk>Anta&ubreve;parolo al
+                &leftquot;<url ref="http://home.t-online.de/home/ulrich.matthias/latina.htm">
+                Esperanto &#x2010; la nova latino de la Eklezio
+                </url>&rightquot;</vrk>.</fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <snc mrk="liturg.0o.ritaro">
+        <uzo tip="fak">KAT</uzo>
+        <dif>
+          <ref tip="dif" cel="rit.0aro">Ritaro</ref>.
+        </dif>
+      </snc>
+  <trd lng="be">&c_l;&c_ib;&c_t;&c_u;&c_r;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="ca">lit&uacute;rgia</trd>
+  <trdgrp lng="cs">
+    <trd>bohoslu&zcaron;ba</trd>,
+    <trd>ceremonie</trd>,
+    <trd>liturgie</trd>
+  </trdgrp>
+  <trd lng="de">Liturgie</trd>
+  <trd lng="en">liturgy</trd>
+  <trd lng="es">liturgia</trd>
+  <trd lng="fr">liturgie</trd>
+  <trd lng="hu">liturgia</trd>
+  <trd lng="it">liturgia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x793C;&#x62DD;&#x5F0F;  <pr>&#x308C;&#x3044;&#x306F;&#x3044;&#x3057;&#x304D;</pr></trd>,
+    <trd>&#x5178;&#x793C;  <pr>&#x3066;&#x3093;&#x308C;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">liturgie</trd>
+  <trd lng="pl">liturgia</trd>
+  <trd lng="pt">liturgia</trd>
+  <trdgrp lng="sk">
+    <trd>bohoslu&zcaron;ba</trd>,
+    <trd>cerem&oacute;nia</trd>,
+    <trd>liturgia</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x456;&#x442;&#x443;&#x440;&#x433;&#x456;&#x44F;</trd>,
+    <trd>&#x421;&#x43B;&#x443;&#x436;&#x431;&#x430; &#x411;&#x43E;&#x436;&#x430;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7977;&#x544A;&#x6587;&#x5F0F; <pr>d&#x1CE;og&#xE0;ow&#xE9;nsh&#xEC;</pr></trd>,
+    <trd>&#x79B1;&#x544A;&#x6587;&#x5F0F; <pr>d&#x1CE;og&#xE0;ow&#xE9;nsh&#xEC;</pr></trd>,
+    <trd>&#x5723;&#x9910;&#x4EEA;&#x5F0F; <pr>sh&#xE8;ngc&#x101;ny&#xED;sh&#xEC;</pr></trd>,
+    <trd>&#x8056;&#x9910;&#x5100;&#x5F0F; <pr>sh&#xE8;ngc&#x101;ny&#xED;sh&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.21 2023/10/19 14:32:17
+revo: transskribo per <pr>
+
+  Revision 1.17  2015/07/04 08:37:38  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.16  2015/06/29 16:33:19  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.15  2014/10/14 10:10:32  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.14  2010/11/04 17:31:00  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.13  2008/05/16 16:31:25  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.12  2006/09/15 16:30:35  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.11  2005/03/28 17:13:50  revo
+-->
+</vortaro>

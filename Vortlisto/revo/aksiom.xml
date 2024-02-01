@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: aksiom.xml,v 1.35 2023/10/28 08:33:04 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>aksiom</rad>/o
+</kap>
+<drv mrk="aksiom.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="aksiom.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Aserto nedemonstrita, sed evidenta per si mem:
+      <ekz>
+        ili agas kvaza&ubreve; ili scias &ccirc;ion &ccirc;i, nomante ilin <tld/>oj, ili supozas ke ne
+        necesas pruvi tiujn <tld/>ojn <klr>[&#x2026;]</klr>, ke temas pri evidenta&jcirc;oj
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Ses</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="postul1.0o.FIL">postulato</ref>,
+      <ref cel="dogm.0o.REL">dogmo</ref>
+    </refgrp>
+    <trd lng="de">unbewiesene <ind>Behauptung</ind></trd>
+    <trd lng="pl">aksjomat</trd>
+    <trd lng="zh">&#x516C;&#x7406; <pr>g&#x14D;ngl&#x1D0;</pr></trd>
+</snc>
+  <snc mrk="aksiom.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 6</lok></fnt>
+    <dif>
+      Aserto nedemonstrita, sed akceptata kiel bazo por
+      konstrui teorion per rezonado:
+      <ekz>
+        <tld/>o pri apartigeco <klr>(la karakteriza eco de
+        <ref cel="apart.0iga.topologio">apartiga</ref> spaco)</klr>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> uzas kiel <tld/>on ke numeroj estas paraj kaj neparaj
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Ses</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        la <ind><tld/>aro</ind> de arteorio;
+        <trd lng="ca">conjunt d'axiomes</trd>
+        <trdgrp lng="de">
+          <trd>Axiomensystem</trd>
+        </trdgrp>
+        <trdgrp lng="en">
+          <trd>axiomatic <ind>system</ind></trd>,
+          <trd>axiom <ind>system</ind></trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>axiomatique<klr tip="ind"> (subst.)</klr></trd>,
+          <trd>syst&egrave;me d'axiomes</trd>
+        </trdgrp>
+        <trdgrp lng="pl">
+          <trd>aksjomatyka</trd>,
+          <trd>uk&lstroke;ad aksjomat&oacute;w</trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;
+          &c_a;&c_k;&c_s;&c_i;&c_o;&c_m;</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <tld/>aro devas esti nedependa <klr>(neniu <tld/>o rajtas esti
+        logika konsekvenco de aliaj <tld/>oj)</klr> kaj ne kontra&ubreve;dira
+        <klr>(du malsamaj konsekvencoj de la <tld/>oj ne rajtas esti
+        inter si kontra&ubreve;diraj)</klr>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konjek.0o.MAT">konjekto</ref>,
+      <ref cel="postul1.0o.MAT">postulato</ref>,
+      <ref cel="premis.0o">premiso</ref>,
+      <ref cel="teorem.0o">teoremo</ref>
+    </refgrp>
+    <trd lng="de">Axiom</trd>
+    <trdgrp lng="pl">
+      <trd>aksjomat</trd>,
+      <trd>pewnik</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x516C;&#x7406; <pr>g&#x14D;ngl&#x1D0;</pr></trd>,
+    <trd>&#x516C;&#x7406;&#x7CFB;&#x7D71; <pr>g&#x14D;ngl&#x1D0;x&#xEC;t&#x1D2;ng</pr></trd>,
+    <trd>&#x516C;&#x7406;&#x7CFB;&#x7EDF; <pr>g&#x14D;ngl&#x1D0;x&#xEC;t&#x1D2;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="aksiom.0o.KOMUNE">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      &Gcirc;enerale akceptata <ref tip="super" cel="asert.0o">aserto</ref>:
+      <ekz>
+        la tre malnova <tld/>o, ke ekzistas nenio certa en la mondo, efektivi&gcirc;is sur &scirc;i
+        en tiu mezuro, en kiu &gcirc;i estas vera
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ju&gcirc;isto ne povis deteni miran ekkrion &ndash; ho! ho! <klr>[&#x2026;]</klr> estas &ccirc;iam
+        vera la <tld/>o, kiu diras: &leftquot;ser&ccirc;u la virinon&rightquot;
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        grandigo de la genta kaj lingva problemo <klr>[&#x2026;]</klr> estis la &ccirc;efideo, kiun
+        kun la lingvo akceptis kiel <tld/>on la unuaj pioniroj de la nova lingvo
+        <fnt>
+          <bib>Zam</bib>
+          <lok>La interna ideo de esperantismo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vivo, onidire, povas ekzisti en neniu alia loko de la universo, kiom ajn vasta
+        &gcirc;i estas, tiu &ccirc;i estas <tld/>o, kvaza&ubreve; laika dogmo, kiun neniu kaj nenio
+        povas &scirc;an&gcirc;i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2012/010768.php">Kiel vi fartas, alimondanoj?</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="maksim.0o">maksimo</ref>,
+      <ref cel="princi.0o">principo</ref>,
+      <ref cel="senten.0o">sentenco</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Annahme</trd>,
+      <trd>allgemein anerkannte <ind>Tatsache</ind></trd>
+    </trdgrp>
+    <trd lng="pl">pewnik</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_k;&c_s;&c_y;&c_jo;&c_m;&c_a;</trd>
+  <trd lng="bg">&c_a;&c_k;&c_s;&c_i;&c_o;&c_m;&c_a;</trd>
+  <trd lng="ca">axioma</trd>
+  <trdgrp lng="cs">
+    <trd>axiom</trd>,
+    <trd>axioma</trd>,
+    <trd>nepochybn&yacute; p&rcaron;edpoklad</trd>
+  </trdgrp>
+  <trd lng="de">Axiom</trd>
+  <trd lng="en">axiom</trd>
+  <trd lng="es">axioma</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_S;&a_l; &a_m;&a_w;&a_D;&a_w;&a_ayn;</trd>,
+    <trd>&a_b;&a_damma;&a_n;&a_d;&a_A;&a_sh;&a_t;</trd>
+  </trdgrp>
+  <trd lng="fr">axiome</trd>
+  <trd lng="he">&alef;&#x5B7;&qof;&samekh;&#x5B4;&yod;&vav;&#x5B9;&mem;&#x5B8;&he;</trd>
+  <trd lng="it">assioma</trd>
+  <trd lng="ja">&#x516C;&#x7406;  <pr>&#x3053;&#x3046;&#x308A;</pr></trd>
+  <trd lng="mk">&c_a;&c_k;&c_s;&c_i;&c_o;&c_m;&c_a;</trd>
+  <trd lng="nl">axioma</trd>
+  <trd lng="pt">axioma</trd>
+  <trd lng="ru">&c_a;&c_k;&c_s;&c_i;&c_o;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>axi&oacute;ma</trd>,
+    <trd>axi&oacute;ma</trd>,
+    <trd>evidentn&aacute; pravda</trd>,
+    <trd>predpoklad</trd>
+  </trdgrp>
+  <trd lng="sv">axiom</trd>
+  <trd lng="uk">&c_a;&c_k;&c_s;&c_ib;&c_o;&c_m;&c_a;</trd>
+</drv>
+<adm>
+  Kiel oni diras "provizi per ~aro" ? <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log$
+versio 1.34 2023/10/12 16:57:43
+revo: transskribo per <pr>
+
+versio 1.32 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.31 2022/02/23 17:29:59
+Wolfram Diestel: +ekz-oj, ref
+
+Revision 1.28  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/05/22 15:10:15  revo
+Joop Eggen: +trd bg k.a.
+
+Revision 1.26  2012/01/03 23:10:34  revo
+Marc Rausell: +trd ca
+
+Revision 1.25  2010/04/30 12:25:22  revo
+Antonio Codazzi: +trd it
+
+Revision 1.24  2009/08/25 16:32:43  revo
+-->
+</vortaro>

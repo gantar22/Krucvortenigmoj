@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: atreps.xml,v 1.17 2023/10/13 17:08:38 revo Exp $">
+<kap>
+  <rad>atrepsi</rad>/o
+</kap>
+<drv mrk="atreps.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc mrk="atreps.0o.MED">
+    <dif>
+      <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">Malsano</ref> de novnaskitoj, ka&ubreve;zata de
+      nesufi&ccirc;a nutrado:
+      <ekz>
+        <tld/>o ofte aperas post kronika diareo
+        <fnt>
+          <lok><url ref="https://www.yumpu.com/it/document/read/12520633/a-">elerno.cn</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="marasm.0o.MED">marasmo</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_t;&c_r;&c_e;&c_p;&c_s;&c_ib;&c_ja;</trd>
+  <trd lng="ca">atr&egrave;psia</trd>
+  <trd lng="cs">atrepsie</trd>
+  <trd lng="de">Atrepsie</trd>
+  <trd lng="en">athrepsia</trd>
+  <trd lng="es">atrepsia</trd>
+  <trd lng="fr">athrepsie</trd>
+  <trdgrp lng="hu">
+    <trd>athrepsia</trd>,
+    <trd>csecsem&odblac;kori <ind>sorvad&aacute;s</ind></trd>
+  </trdgrp>
+  <trd lng="id">atrepsia</trd>
+  <trd lng="ja">&#x7121;&#x6804;&#x990A;&#x75C7;  <pr>&#x3080;&#x3048;&#x3044;&#x3088;&#x3046;&#x3057;&#x3087;&#x3046;</pr></trd>
+  <trd lng="ru">&c_a;&c_t;&c_r;&c_je;&c_p;&c_s;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>atrepsia</trd>,
+    <trd>slabos&tcaron; doj&ccaron;iat pre poruchu v tr&aacute;ven&iacute;</trd>
+  </trdgrp>
+  <trd lng="uk">&#x430;&#x442;&#x440;&#x435;&#x43F;&#x441;&#x456;&#x44F;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.17 2023/10/13 17:08:38
+revo: transskribo per <pr>
+
+versio 1.14 2020/05/16 15:34:19
+Wolfram Diestel: +cit, germ trd, ref
+
+Revision 1.12  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/11/15 05:10:29  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.10  2013/10/09 18:10:41  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.9  2005/04/04 16:36:38  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.8  2003/11/14 17:30:56  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2002/11/01 09:18:26  revo
+-->
+</vortaro>

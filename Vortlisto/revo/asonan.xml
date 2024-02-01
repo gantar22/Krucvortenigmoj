@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: asonan.xml,v 1.25 2023/10/13 17:08:38 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>asonanc</rad>/o
+</kap>
+<drv mrk="asonan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="asonan.0o.ena_ripetado">
+    <uzo tip="fak">POE</uzo>
+    <dif>
+      Efekta ripeto de sama a&ubreve; simila vokalo, ekzemple ene de verso:
+      <ekz>
+        noktuo jam ululis sur forumo;
+      </ekz>
+      <ekz>
+        ravita mi priskribas vin, &ccirc;ar mi je vi sopiras.
+      </ekz>
+    </dif>
+    <trd lng="en">alliteration</trd>
+    <trd lng="fr">allit&eacute;ration<klr tip="ind"> (de voyelles)</klr></trd>
+    <trd lng="hu">mag&aacute;nhangz&oacute;s <ind>alliter&aacute;ci&oacute;</ind></trd>
+    <trd lng="ru">&c_a;&c_l;&c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_c;&c_i;&c_ja; &c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_h;</trd>
+  </snc>
+  <snc mrk="asonan.0o.rimo">
+    <uzo tip="fak">POE</uzo>
+    <dif>
+      <ref tip="super" cel="rim.nepura0o">Nepura rimo</ref>, en kiu
+      nur la vokaloj samas:
+      <ekz>
+        faros &#x2010; baron, an&gcirc;elan &#x2010; belaj, sen&gcirc;ena &#x2010;
+        ven&gcirc;ema, muta &#x2010; suna, lavos &#x2010; banon;
+      </ekz>
+      <ekz>
+        <tld/>aj versoj.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="rimoid.0o">rimoido</ref>
+    <trd lng="fr">assonance</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_a;&c_n;&c_a;&c_n;&c_s;</trd>
+  <trd lng="ca">asson&agrave;ncia</trd>
+  <trdgrp lng="cs">
+    <trd>asonance</trd>,
+    <trd>p&rcaron;ibli&#x17E;n&#xFD; r&#xFD;m</trd>,
+    <trd>souzn&#x11B;n&#xED;</trd>
+  </trdgrp>
+  <trd lng="en">assonance</trd>
+  <trd lng="he">&#x5D3;&#x5D9;&#x5DE;&#x5D9;&#x5D5;&#x5DF;
+  &#x5EA;&#x5E0;&#x5D5;&#x5E2;&#x5D5;&#x5EA; &#x5D1;&#x5D7;&#x5E8;&#x5D5;&#x5D6;</trd>
+  <trdgrp lng="hu">
+    <trd>asszon&aacute;nc</trd>,
+    <trd>mag&aacute;nhangz&oacute;s <ind>r&iacute;m</ind></trd>
+  </trdgrp>
+  <trd lng="it">assonanza</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6BCD;&#x97F3;&#x62BC;&#x97FB;  <pr>&#x307C;&#x3044;&#x3093;&#x304A;&#x3046;&#x3044;&#x3093;</pr></trd>,
+    <trd>&#x534A;&#x8AE7;&#x97F3;  <pr>&#x306F;&#x3093;&#x304B;&#x3044;&#x304A;&#x3093;</pr></trd>,
+    <trd>&#x985E;&#x97F3;  <pr>&#x308B;&#x3044;&#x304A;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>asonans</trd>,
+    <trd>rym niedok&lstroke;adny</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>asonan&#x21B;&abreve;</trd>,
+    <trd>rim&abreve; inexact&abreve;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_s;&c_s;&c_o;&c_n;&c_a;&c_n;&c_s;</trd>,
+    <trd>&c_s;&c_o;&c_z;&c_v;&c_u;&c_ch;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">asonancia</trd>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_s;&#x43E;&#x43D;&c_a;&#x43D;&c_s;</trd>,
+    <trd>&c_s;&#x43F;&c_ib;&c_v;&c_z;&c_v;&c_u;&c_ch;&c_ch;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="asonan.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="asonan.0igi.POE">
+    <dif>
+      Fini per <tld/>oj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol; <ind>&c_a;&c_s;&c_a;&c_n;&c_a;&c_n;&c_s;</ind></trd>
+  <trd lng="ca">assonar</trd>
+  <trd lng="cs">vytv&#xE1;&rcaron;et asonance</trd>
+  <trd lng="en">alliterate</trd>
+  <trd lng="fr">assonancer</trd>
+  <trd lng="it">assonare</trd>
+  <trd lng="pl">tworzy&cacute;  <ind>asonans</ind></trd>
+  <trd lng="ro">creeaz&abreve;  <ind>asonan&#x21B;&abreve;</ind></trd>
+  <trd lng="sk">vytv&#xE1;ra&tcaron; asonancie</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/13 17:08:38
+revo: transskribo per <pr>
+
+versio 1.23 2023/03/10 06:35:51
+Dmitri Gabinski: + trd be
+
+versio 1.22 2023/02/08 01:59:43
+Vito Redsky: +trd pl + trd ro
+
+Revision 1.18  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/03/07 09:10:14  revo
+Wolfram Diestel: longa streko anstau ligstreko
+
+Revision 1.16  2012/08/04 08:10:28  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2012/02/01 01:10:13  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2005/08/13 16:34:19  revo
+-->
+</vortaro>

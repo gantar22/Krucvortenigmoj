@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dukat.xml,v 1.23 2023/08/31 10:44:02 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>dukat</rad>/o
+</kap>
+<drv mrk="dukat.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <uzo tip="fak">HIS</uzo>
+  <snc>
+    <dif>
+      Ora <ref tip="lst" lst="voko:monunuoj" cel="mon.0ero">monero</ref>, 
+      origine emisiita en Venecio de la 12a jc kaj en E&ubreve;ropo &gcirc;is la 19a jc:
+      <ekz>
+        mi havos cent orajn <tld/>ojn
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la blankaj &scirc;tonetoj, kiuj ku&scirc;is anta&ubreve; la domo, brilis kiel <tld/>oj
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen tute novaj <tld/>oj! ne malbona estas tia monujo!
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Tablo , la orazeno kaj bastono el sako</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        cent <tld/>ojn por lia portreto en miniaturo
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="zeken.0o">zekeno</ref>
+    <bld lok="&WCU;/thumb/8/86/Michele_steno%2C_zecchino%2C_1400-13.jpg/230px-Michele_steno%2C_zecchino%2C_1400-13.jpg" prm="CC BY 3.0">Venecia <tld/>o de Michele Steno, 1400
+        <fnt>
+          <aut>Sailko, propra verko</aut>
+          <lok><url ref="&WCW;/File:Michele_steno,_zecchino,_1400-13.jpg">&WCW;/File:Michele_steno,_zecchino,_1400-13.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_d;&c_u;&c_k;&c_a;&c_t;</trd>
+  <trd lng="bg">&c_d;&c_u;&c_k;&c_a;&c_t;</trd>
+  <trd lng="ca">ducat</trd>
+  <trd lng="cs">duk&aacute;t</trd>
+  <trdgrp lng="de">
+    <trd>Dukat</trd>,
+    <trd>Dukaten</trd>
+  </trdgrp>
+  <trd lng="en">ducat</trd>
+  <trd lng="es">ducado</trd>
+  <trd lng="fa">&a_d;&a_w;&f_k;&a_A;&a_t;</trd>
+  <trd lng="fr">ducat</trd>
+  <trd lng="he">&mem;&tet;&bet;&ayin; &zayin;&he;&bet; &ayin;&tav;&yod;&qof;</trd>
+  <trd lng="hu">duk&aacute;t</trd>
+  <trd lng="ja">&#x30C7;&#x30E5;&#x30AB;&#x30C3;&#x30C8;</trd>
+  <trd lng="pl">dukat</trd>
+  <trd lng="pt">ducado <klr tip="ind">(moeda)</klr></trd>
+  <trd lng="ru">&c_d;&c_u;&c_k;&c_a;&c_t;</trd>
+  <trd lng="sk">duk&aacute;t</trd>
+  <trd lng="uk">&#x434;&#x443;&#x43A;&#x430;&#x442;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2021/05/08 14:48:07
+Wolfram Diestel: +bld, sin zekeno, precizigo de dif
+
+Revision 1.17  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2009/07/01 17:21:37  revo
+Russ Williams: +trd en
+
+Revision 1.14  2009/06/20 18:00:39  revo
+Wieland Pusch: +trd bg
+
+Revision 1.13  2009/06/19 05:10:06  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2007/11/19 17:31:13  revo
+-->
+</vortaro>

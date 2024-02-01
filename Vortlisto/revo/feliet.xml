@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: feliet.xml,v 1.21 2023/11/09 19:13:16 revo Exp $">
+<kap>
+<ofc>1</ofc>
+<rad>felieton</rad>/o
+</kap>
+<drv mrk="feliet.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Origine aldona&jcirc;o al <ref tip="malprt" cel="gazet.0o">gazeto</ref>,
+      en kiu oni publikigas popece  romanon, da&ubreve;rigante &gcirc;in en pluraj sinsekvaj numeroj, 
+      nuntempe prikultura parto de perioda&jcirc;o a&ubreve; elsendo, aparte 
+      pri literaturo, teatro, scienco kc:  
+      <ekz>
+        &ccirc;iu numero enhavas bibliografian parton, tutmondan kronikon kaj tre interesan
+        <tld/>on
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Heinrich Heine</nom> <klr>[&#x2026;]</klr> i&gcirc;is pioniro de moderna &jcirc;urnalismo kaj de la
+        <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1704">Heinrich Heine</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        specifikeco <klr>[de <tld/>o]</klr> estas akra-kritika rilato pri alskribataj temoj,
+        eventoj, personoj el la sfero de kulturo, do &ccirc;efe arto, literaturo kaj scienco
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=113920">Felietono</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="artiko.0o.gazeta">artikolo</ref>,
+      <ref cel="ese.0o">eseo</ref>,
+      <ref cel="glos.0o">gloso</ref>,
+      <ref cel="kritik.0o.ART">kritiko</ref>
+    </refgrp>
+  </snc>
+<!--  <adm>
+  La difino, netusxita en PIV1, aspektas al mi tute eksmoda. Laux
+  la etimologio ja temas pri "parto de gazeta folio", sed cxu oni
+  ankoraux pensas pri tio nun? Laux mi la nocio rilatas nur al la
+  enhavo (popece aperigita romano) kaj validas por cxiuj
+  amaskomunikiloj.
+  Plie, necesas kontrasti la terminon kun "rubriko", "kroniko" ks.
+  Pola Radio ofte diras "sporta, socifamilia felietonoj", dum mi 
+  prefere parolus pri "kronikoj". <aut>MB</aut>
+  </adm>
+-->
+  <trd lng="ca">fullet&oacute;</trd>
+  <trdgrp lng="de">
+     <trd>Feuilleton</trd>,
+     <trd>Kulturteil</trd>,
+     <trd>Unterhaltungsteil</trd></trdgrp>
+  <trdgrp lng="en">
+    <trd>feuilleton</trd>,
+    <trd>serial feature</trd></trdgrp>
+  <trd lng="es">follet&iacute;n</trd>   
+  <trdgrp lng="fr">
+    <trd>feuilleton</trd>,
+    <trd>chronique</trd></trdgrp> 
+  <trdgrp lng="hu">
+     <trd>t&aacute;rca<klr tip="ind"> (sajt&oacute;)</klr></trd>,
+     <trd>folytat&aacute;s<klr tip="ind"> (reg&eacute;ny&eacute;)</klr></trd></trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5C0F;&#x8AAC;&#x6B04;  <pr>&#x3057;&#x3087;&#x3046;&#x305B;&#x3064;&#x3089;&#x3093;</pr></trd>,
+    <trd>&#x5B66;&#x82B8;&#x6B04;  <pr>&#x304C;&#x304F;&#x3052;&#x3044;&#x3089;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">feuilleton</trd>
+  <trd lng="pt">folhetim <klr tip="amb">(de jornal)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_je;&c_l;&c_mol;&c_je;&c_t;&c_o;&c_n; <klr>(&c_p;&c_u;&c_b;&c_l;&c_i;&c_k;&c_a;&c_c;&c_i;&c_ja; &c_s;
+    &c_p;&c_r;&c_o;&c_d;&c_o;&c_l;&c_zh;&c_je;&c_n;&c_i;&c_je;&c_m;)</klr></trd>,
+    <trd>&c_p;&c_o;&c_d;&c_v;&c_a;&c_l; <klr>(&c_n;&c_i;&c_zh;&c_n;&c_ja;&c_ja; &c_ch;&c_a;&c_s;&c_t;&c_mol; &c_g;&c_a;&c_z;&c_je;&c_t;&c_n;&c_o;&c_j;
+    &c_p;&c_o;&c_l;&c_o;&c_s;&c_y;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>besednica</trd>,
+    <trd>fejt&oacute;n</trd>
+  </trdgrp>
+  <trd lng="cs">fejeton</trd>
+  <trd lng="uk">&c_f;&c_je;&c_j;&#x43B;&c_je;&c_t;&#x43E;&#x43D;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5B98;&#x65B9;&#x516C;&#x5831; <pr>gu&#x101;nf&#x101;ngg&#x14D;ngb&#xE0;o</pr></trd>,
+    <trd>&#x6587;&#x827A;&#x5C0F;&#x54C1;&#x680F; <pr>w&#xE9;ny&#xEC;xi&#x1CE;op&#x1D0;nl&#xE1;n</pr></trd>,
+    <trd>&#x5C0F;&#x54C1;&#x6587; <pr>xi&#x1CE;op&#x1D0;nw&#xE9;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2023/10/14 18:06:40
+revo: transskribo per <pr>
+
+versio 1.18 2023/02/28 21:28:04
+Wolfram Diestel: +ref-oj
+
+Revision 1.15  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/10/08 13:10:10  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.12  2011/12/06 12:10:29  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.11  2009/08/08 16:33:15  revo
+Russ Williams: +trd en
+
+Revision 1.10  2007/05/20 16:31:07  revo
+-->
+</vortaro>

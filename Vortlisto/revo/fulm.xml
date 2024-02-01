@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fulm.xml,v 1.44 2023/11/10 06:08:01 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>fulm</rad>/o
+</kap>
+
+<drv mrk="fulm.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="fulm.0o.atmosfera">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Atmosfera <ref tip="super" cel="fenome.0o.FIL">fenomeno</ref> 
+      konsistanta el elektra mal&scirc;argo inter nuboj
+      a&ubreve; nuboj kaj tero, akompanata de bran&ccirc;i&gcirc;anta,
+      rapide pasanta, fajra kanalo:
+      <ekz>
+        tuj matene, komenci&gcirc;is tondroj kaj <tld/>oj, kaj densa nubo estis super la monto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 19:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fajraj <tld/>oj zigzage sin &jcirc;etadis en la &scirc;a&ubreve;man maron
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sentondra <tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li eksentis subite kvaza&ubreve; radion de <tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Persista stana soldato</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        altan arbon batas la <tld/>o
+        <klr>(ju pli elstara, des pli en
+        dan&gcirc;ero)</klr><fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> <ind><tld/>orapide</ind> preterflugadis preter miaj oreloj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Malgranda Niko kaj granda Niko</lok>
+        </fnt>;
+        <trd lng="hu">vill&aacute;mgyorsan</trd>
+        <trd lng="nl">bliksemsnel</trd>
+        <trd lng="no">lynrask</trd>
+        <trd lng="pl">b&lstroke;yskawicznie</trd>
+      </ekz>
+      <ekz>
+        dum parteto de sekundo &dash; nur tiom longe, kiom da&ubreve;ras la lumo de <tld/>o
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Flugo al la Ebura Turo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="id">kilat</trd>
+    <trdgrp lng="pl">
+      <trd>b&lstroke;yskawica</trd>,
+      <trd>piorun</trd>,
+      <trd>grom</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>rel&acirc;mpago</trd>,
+      <trd>raio</trd>,
+      <trd>corisco</trd>,
+      <trd>fa&iacute;sca</trd>
+    </trdgrp>
+    <trd lng="vo">lelit</trd>
+    <trd lng="sv">blixt</trd>
+  </snc>
+  <snc mrk="fulm.0o.ekbrilo">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Subita kaj malda&ubreve;ra ekbrilo:
+      <ekz>
+        kie nun estas viaj sprita&jcirc;oj, viaj artifikoj, viaj kantoj, viaj <tld/>oj de
+        gajeco, &ccirc;e kiuj la tuta tablo eksplodadis per rido
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>?
+      </ekz>
+    </dif>
+    <adm>
+      Pli bone trovi ekz kun ~o anstataux ek~o. <aut>MB</aut>
+    </adm>
+    <trd lng="pl">b&lstroke;yskawica</trd>
+    <trdgrp lng="pt">
+      <trd>rel&acirc;mpago</trd>,
+      <trd>raio</trd>,
+      <trd>corisco</trd>,
+      <trd>fa&iacute;sca</trd>
+    </trdgrp>
+    <trd lng="sv">blixt</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_a;&c_n;&c_k;&c_a;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_g;&c_r;&c_malmol;&c_m;</trd>,
+    <trd>&c_m;&c_malmol;&c_l;&c_n;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF42;&#xFB3;&#xF7C;&#xF42;&#xF0B;&#xF42;&#xF5E;&#xF74;&#xF0B;</trd>
+  <trd lng="cs">blesk</trd>
+  <trd lng="de">Blitz</trd>
+  <trd lng="en">lightning</trd>
+  <trdgrp lng="es">
+    <trd>rayo</trd>,
+    <trd>rel&aacute;mpago</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_r;&a_q;</trd>,
+    <trd>&a_A_madda;&a_dh;&a_r;&a_kh;&a_sh;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>foudre</trd>,
+    <trd>&eacute;clair</trd>
+  </trdgrp>
+  <trd lng="hu">vill&aacute;m</trd>
+  <trdgrp lng="ja">
+    <trd>&#x96F7;  <pr>&#x306A;&#x308B;&#x304B;&#x307F;</pr></trd>,
+    <trd>&#x7A32;&#x59BB;  <pr>&#x3044;&#x306A;&#x305A;&#x307E;</pr></trd>,
+    <trd>&#x96F7;&#x5149;  <pr>&#x3089;&#x3044;&#x3053;&#x3046;</pr></trd>,
+    <trd>&#x3072;&#x3089;&#x3081;&#x304D;</trd>
+  </trdgrp>
+  <trd lng="nl">bliksem</trd>
+  <trd lng="no">lyn</trd>
+  <trd lng="ru">&c_m;&c_o;&c_l;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="sk">blesk</trd>
+  <trd lng="uk">&c_b;&#x43B;&c_i;&c_s;&#x43A;&c_a;&c_v;&#x43A;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x96F7;&#x9583; <pr>l&#xE9;ish&#x1CE;n</pr></trd>,
+    <trd>&#x5929;&#x706B; <pr>ti&#x101;nhu&#x1D2;</pr></trd>,
+    <trd>&#x7535;&#x95EA; <pr>di&#xE0;nsh&#x1CE;n</pr></trd>,
+    <trd>&#x975D;&#x706B; <pr>ti&#x101;nhu&#x1D2;</pr></trd>,
+    <trd>&#x9583;&#x96FB; <pr>sh&#x1CE;ndi&#xE0;n</pr></trd>,
+    <trd>&#x9583; <pr>sh&#x1CE;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fulm.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="fulm.0i.atmosfere">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Ekbrili, p.p. <tld/>o:
+      <ekz>
+        ekstere tondris kaj <tld/>is
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fari&gcirc;is granda uragano: <tld/>is kaj tondris, forte pluvegis
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Re&gcirc;idino sur pizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aspektis <klr>[&#x2026;]</klr> kvaza&ubreve; la tuta mondo staris en flamoj, tiel
+        forte <tld/>is
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Poligono</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fa">&a_A_madda;&a_dh;&a_r;&a_kh;&a_sh;
+    &a_z;&a_d;&a_n;</trd>
+    <trd lng="fr">y avoir des <ind>&eacute;clairs</ind></trd>
+  </snc>
+  <snc mrk="fulm.0i.brili">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Brili kiel <tld/>o:
+      <ekz>
+        brilas glavoj, fulmas lancoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Na&hcirc;um 3:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a <klr>(bolanta)</klr> knabego
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rigardoj brilegas <tld/>ante
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la pupiloj <tld/>etadis akraj briloj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur &scirc;iaj lipoj sen&ccirc;ese tremadis <tld/>etanta rideto
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fa">&a_d;&a_r;&a_kh;&a_sh;&f_y;&a_d;&a_n;</trd>
+    <trdgrp lng="fr">
+      <trd>jeter des <ind>&eacute;clairs</ind></trd>,
+      <trd>fulgurer</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_b;&c_l;&c_ib;&c_s;&c_n;&c_u;&c_c;&c_mol;</trd>
+  <trd lng="cs">bl&yacute;skat se</trd>
+  <trd lng="de">blitzen</trd>
+  <trd lng="es">relampaguear</trd>
+  <trd lng="hu">vill&aacute;mlik</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7A32;&#x59BB;&#x304C;&#x8D70;&#x308B;  <pr>&#x3044;&#x306A;&#x305A;&#x307E;&#x304C;&#x306F;&#x3057;&#x308B;</pr></trd>,
+    <trd>&#x3072;&#x3089;&#x3081;&#x304F;</trd>
+  </trdgrp>
+  <trd lng="nl">bliksemen</trd>
+  <trd lng="no">lyne</trd>
+  <trd lng="pl">b&lstroke;yska&cacute;</trd>
+  <trd lng="ru">&c_s;&c_v;&c_je;&c_r;&c_k;&c_n;&c_u;&c_t;&c_mol;</trd>
+  <trd lng="sk">bl&yacute;ska&tcaron; sa</trd>
+  <trd lng="sv">blixtra</trd>
+  <trd lng="uk">&c_b;&#x43B;&c_i;&c_s;&#x43A;&c_a;&c_t;&c_i;</trd>
+  <trd lng="zh">&#x5612; <pr>hu&#xEC;</pr></trd>
+</drv>
+
+<drv mrk="fulm.0obati0ofrapi">
+  <kap><tld/>obati, <var><kap><tld/>ofrapi</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">MET</uzo>
+  <snc>
+    <dif>
+      Trafi per <tld/>o:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>bate &ccirc;iu laco estas for
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bernhard Pabst</aut>
+          <vrk><url ref="&Monato;/2008/009376.php">Inter libroj posttagmeze</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_c;&c_mol;
+  <ind>&c_m;&c_a;&c_l;&c_a;&c_n;&c_k;&c_a;&c_j;</ind></trd>
+  <trd lng="cs">uhodit blesk</trd>
+  <trdgrp lng="fa">
+    <trd>&a_S;&a_A;&a_ayn;&a_q;&a_h; &a_z;&a_d;&a_n;</trd>,
+    <trd>&a_b;&a_r;&a_q; &a_z;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">foudroyer</trd>
+  <trd lng="hu">vill&aacute;m s&uacute;jtja</trd>
+  <trd lng="ja">&#x96F7;&#x3067;&#x6253;&#x3064;  <pr>&#x304B;&#x307F;&#x306A;&#x308A;&#x3067;&#x3046;&#x3064;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>neerbliksemen</trd>,
+    <trd>doodbliksemen</trd>
+  </trdgrp>
+  <trd lng="no">lyne ned</trd>
+  <trdgrp lng="pl">
+    <trd>trafia&cacute;<klr> (o piorunie,
+    b&lstroke;yskawicy)</klr></trd>,
+    <trd>uderza&cacute;<klr> (o piorunie,
+    b&lstroke;yskawicy)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;
+  &c_m;&c_o;&c_l;&c_n;&c_i;&c_je;&c_j;</trd>
+  <trd lng="sk">udrie&tcaron; blesk</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_d;&c_a;&c_r;&c_i;&c_t;&c_i; &c_b;&#x43B;&c_i;&c_s;&#x43A;&c_a;&c_v;&#x43A;&#x43E;&#x44E;</trd>,
+    <trd>&c_u;&c_d;&c_a;&c_r;&c_i;&c_t;&c_i;/&#x43F;&#x43E;&c_b;&c_i;&c_t;&c_i; &c_g;&c_r;&#x43E;&#x43C;&#x43E;&#x43C;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fulm.0ilo">
+  <kap><tld/>ilo, <var><kap><tld/>olumilo</kap></var></kap>  
+  <snc>
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Ilo produktanta mallongan kaj intensan <tld/>on dum fotado:
+      <ekz>
+        tiu unua fotokompostilo estis maleleganta skatolo preska&ubreve; unu kuban metron
+        granda, en kiu <tld/>ilo projekciis lumon sur sentiva fotopapero
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Peeraerts</aut>
+          <vrk><url ref="&Monato;/2004/008280.html">Komposta revolucio kaj presada
+          stabileco</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve; duonjarcento fotistoj komencis uzi <tld/>olumilojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>J&aacute;nos S&aacute;rk&ouml;zi</aut>
+          <vrk><url ref="&Monato;/2005/008401.php">La fenomeno de ru&gcirc;aj okuloj</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_s;&c_p;&c_y;&c_sh;&c_k;&c_a; <klr tip="amb">(&c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_a;)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Fotoblitz</trd>,
+    <trd>Blitzlicht</trd>
+  </trdgrp>
+  <trd lng="en">flash</trd>
+  <trd lng="fr">flash</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D5;&#x30E9;&#x30C3;&#x30B7;&#x30E5;</trd>,
+    <trd>&#x30B9;&#x30C8;&#x30ED;&#x30DC;</trd>
+  </trdgrp>
+  <trd lng="nl">flits</trd>  
+  <trd lng="sk">blesk <klr>(pr&iacute;stroj)</klr></trd>
+  <trdgrp lng="zh">
+    <trd>&#x9583;&#x5149; <pr>sh&#x1CE;ngu&#x101;ng</pr></trd>,
+    <trd>&#x9583;&#x5149;&#x71C8; <pr>sh&#x1CE;ngu&#x101;ngd&#x113;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.43 2023/10/14 19:15:46
+revo: transskribo per <pr>
+
+versio 1.41 2022/10/31 09:36:27
+Dmitri Gabinski: + trd be
+
+versio 1.40 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2021/03/13 10:51:21
+Wolfram Diestel: movante ~otondro al tondr/; ~ilo: +ekz, trd de
+
+versio 1.36 2021/03/13 08:53:02
+Wolfram Diestel: +ekz-oj
+
+Revision 1.34  2017/03/07 13:10:19  revo
+Damien Brucker: +trd fr
+
+Revision 1.33  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:29:39  revo
+-->
+</vortaro>

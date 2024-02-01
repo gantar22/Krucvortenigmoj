@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: minut.xml,v 1.111 2023/11/18 06:30:30 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>minut</rad>/o
+</kap>
+
+<drv mrk="minut.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <fnt><bib>VdE</bib></fnt>
+  <snc mrk="minut.0o.tempo">
+    <uzo tip="fak">KAL</uzo>
+    <mlg>min</mlg>
+    <dif>
+      Komunuza <ref tip="lst" cel="unu.mezur0o" lst="voko:da&ubreve;roj">mezurunuo</ref> de
+      tempo, egala al sesdek <ref tip="prt" cel="sekund.0o.tempo">sekundoj</ref>:
+      <ekz>
+        sesdek <tld/>oj faras unu horon, kaj unu <tld/>o konsistas el sesdek sekundoj
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post kelkaj <tld/>oj levi&gcirc;os la suno
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post du <tld/>oj li sidis en dro&scirc;ko, kiu veturigis lin al la Kristiana haveno
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ok <tld/>ojn kaj kelke da sekundoj bezonas la sunlumo por
+        <klr>[atingi la teron]</klr>
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kara estas dono en <tld/>o de bezono
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kion jaroj ne donis, ofte <tld/>o alportas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sidas gasto <tld/>on, sed vidas la tuton
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="th">&#xE19;&#xE32;&#xE17;&#xE35;</trd>
+    <trd lng="zh">&#20998;&#x949F; <pr>f&emacron;n zh&#x14D;ng</pr></trd>
+  </snc>
+  <snc mrk="minut.0o.angulo">
+    <uzo tip="fak">MAT</uzo><uzo tip="fak">GEOD</uzo>
+    <dif>
+      <ref tip="lst" cel="unu.mezur0o" lst="voko:mezurunuoj">Mezurunuo</ref> de
+      <ref cel="angul.0o.MAT">angulo</ref>, egala al sesdekono
+      de <ref tip="malprt" cel="grad.0o">grado</ref>:
+      <ekz>
+        desegna&jcirc;o de sep &ccirc;ielringoj kun gradoj, <tld/>oj, sekundoj kaj sekunddekonoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vitalij kaj Anatolij Ionesov</aut>
+          <vrk><url ref="&Monato;/2010/009996.php">Mirzo Ulugbek: granda re&gcirc;o de
+          astronomio</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la komunumo situas je 20 gradoj kaj 32 <tld/>oj norda latitudo kaj 98 gradoj kaj
+        29 <tld/>oj okcidenta longitudo
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Huayacocotla">Huayacocotla</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pl">minuta</trd>
+  </snc>
+  <trd lng="af">minuut</trd>
+  <trd lng="am">&#x12F0;&#4674;&#4675;</trd>
+  <trd lng="ar">&#x62F;&a_q;&#x64A;&a_q;&a_t_marbuta;</trd>
+  <trd lng="az">d&#601;qiq&#601;</trd>
+  <trd lng="be">&c_h;&c_v;&c_ib;&c_l;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="bg">&c_m;&c_i;&c_n;&c_u;&c_t;&c_a;</trd>
+  <trd lng="bn">&#x9AE;&#x9BF;&#x9A8;&#x9BF;&#x99F;</trd>
+  <trd lng="bo">&#xF66;&#xF90;&#xF62;&#xF0B;&#xF58;&#xF0B;</trd>
+  <trdgrp lng="br">
+    <trd>munut</trd>,
+    <trd>munutenn</trd>
+  </trdgrp>
+  <trd lng="co">minutu</trd>
+  <trdgrp lng="cs">
+    <trd>chv&iacute;le</trd>,
+    <trd>minuta</trd>
+  </trdgrp>
+  <trd lng="cy">munud</trd>
+  <trd lng="da">minut</trd>
+  <trd lng="de">Minute</trd>
+  <trd lng="en">minute</trd>
+  <trd lng="es">minuto</trd>
+  <trd lng="et">minut</trd>
+  <trd lng="eu">minutu</trd>
+  <trd lng="fr">minute<klr tip="ind"> (unit&eacute; de temps,
+d'angle)</klr></trd>
+  <trd lng="fy">min&#xFA;t</trd>
+  <trd lng="ga">n&#xF3;im&#xE9;ad</trd>
+  <trd lng="gd">mionaid</trd>
+  <trd lng="gl">minuto</trd>
+  <trd lng="gu">&#xAAE;&#xABF;&#xAA8;&#xABF;&#xA9F;</trd>
+  <trd lng="ha">minti daya</trd>
+  <trd lng="he">&dalet;&qof;&he;</trd>
+  <trd lng="hi">&#x92E;&#x93F;&#2344;&#x91F;</trd>
+  <trd lng="hmn">feeb</trd>
+  <trd lng="hr">minuta</trd>
+  <trd lng="ht">minit</trd>
+  <trd lng="hu">perc</trd>
+  <trd lng="hy">&#1408;&#1400;&#x57A;&#1381;</trd>
+  <trd lng="id">menit</trd>
+  <trd lng="ig">nkeji</trd>
+  <trd lng="is">m&#xED;n&#xFA;tu</trd>
+  <trd lng="ja">&#20998; <pr>&#12406;&#12435;</pr></trd>
+  <trd lng="jv">menit</trd>
+  <trd lng="ka">&#x10EC;&#x10E3;&#x10D7;&#x10D8;</trd>
+  <trd lng="kk">&#x43C;&c_i;&#x43D;&c_u;&c_t;</trd>
+  <trd lng="km">&#6035;&#x17B6;&#6033;&#x17B8;</trd>
+  <trd lng="kn">&#xCA8;&#xCBF;&#xCAE;&#xCBF;&#xCB7;&#xCA6;</trd>
+  <trd lng="ko">&#xBD84;</trd>
+  <trd lng="ku">deqqe</trd>
+  <trd lng="ky">&#x43C;&#x4AF;&#x43D;&#x4E9;&c_t;</trd>
+  <trd lng="lo">&#xE99;&#xEB2;&#xE97;&#xEB5;</trd>
+  <trd lng="lt">minu&#x10D;i&#371;</trd>
+  <trd lng="lv">min&#x16B;te</trd>
+  <trd lng="mg">minitra</trd>
+  <trd lng="mi">meneti</trd>
+  <trd lng="mk">&#x43C;&c_i;&#x43D;&c_u;&c_t;&c_a;</trd>
+  <trd lng="ml">&#xD2E;&#xD3F;&#xD28;&#xD3F;&#xD31;&#xD4D;&#xD31;&#xD4D;</trd>
+  <trd lng="mn">&#x43C;&c_i;&#x43D;&c_u;&c_t;</trd>
+  <trd lng="mr">&#x92E;&#x93F;&#2344;&#x93F;&#x91F;</trd>
+  <trd lng="ms">minit</trd>
+  <trd lng="mt">minuta</trd>
+  <trd lng="my">&#4121;&#x102D;&#4116;&#4101;&#x103A;</trd>
+  <trd lng="ne">&#x92E;&#x93F;&#2344;&#2375;&#x91F;</trd>
+  <trd lng="nl">minuut</trd>
+  <trd lng="ny">miniti</trd>
+  <trd lng="pa">&#xA2E;&#xA3F;&#xA70;&#xA1F;</trd>
+  <trd lng="ps">&#x62F;&a_q;&#x6CC;&a_q;&#x6D0;</trd>
+  <trd lng="pt">minuto</trd>
+  <trd lng="pl">minuta</trd>
+  <trd lng="ro">minut</trd>
+  <trd lng="ru">&c_m;&c_i;&c_n;&c_u;&c_t;&c_a;</trd>
+  <trd lng="rw">umunota</trd>
+  <trd lng="sd">&a_m;&a_n;&#x67D;</trd>
+  <trd lng="si">&#xDC0;&#xDD2;&#xDB1;&#xDCF;&#xDA9;&#xDD2;</trd>
+  <trdgrp lng="sk">
+    <trd>chv&iacute;&lcaron;a</trd>,
+    <trd>min&uacute;ta</trd>
+  </trdgrp>
+  <trd lng="sm">minute</trd>
+  <trd lng="sn">Mineti</trd>
+  <trd lng="so">daqiiqadii</trd>
+  <trd lng="sq">minut&#xEB;</trd>
+  <trd lng="st">motsotso</trd>
+  <trd lng="su">menit</trd>
+  <trd lng="sw">dakika</trd>
+  <trd lng="ta">&#xBA8;&#xBBF;&#xBAE;&#xBBF;&#xB9F;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC28;&#xC3F;&#xC2E;&#xC3F;&#xC37;&#xC02;</trd>
+  <trd lng="tg">&#x43B;&c_a;&#x4B3;&c_z;&c_a;</trd>
+  <trd lng="tl">minutong</trd>
+  <trd lng="tt">&#x43C;&c_i;&#x43D;&c_u;&c_t;</trd>
+  <trd lng="uk">&c_h;&c_v;&c_i;&#x43B;&c_i;&#x43D;</trd>
+  <trd lng="ur">&a_m;&a_n;&#1657;</trd>
+  <trd lng="uz">daqiqa</trd>
+  <trd lng="vi">ph&#xFA;t</trd>
+  <trd lng="xh">mzuzu</trd>
+  <trd lng="yi">&#x5DE;&#x5D9;&#x5E0;&#x5D5;&#x5D8;</trd>
+  <trd lng="yo">i&#x1E63;&#x1EB9;ju</trd>
+  <trd lng="zh">&#20998; <pr>f&emacron;n</pr></trd>
+  <trd lng="zu">ngeminithi</trd>
+</drv>
+
+<drv mrk="minut.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="minut.0a.KAL">
+    <dif>
+      Da&ubreve;ranta <tld/>on:
+      <ekz>
+        li rigardis atente la viza&gcirc;on de la juna virino kaj respondis post <tld/>a medito
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni devis sen ia e&ccirc; <tld/>a &scirc;anceli&gcirc;o akcepti <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Fonetiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <klr>[&#8230;]</klr> luis taksion por la dudek-<tld/>a voja&gcirc;o
+        <fnt>
+       <aut>Thomas Eccardt</aut>
+          <vrk><url ref="&Monato;/2000/006859.php">Urbeto a&ubreve; sendependa lando?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili tuj &gcirc;uis kelk<tld/>an navigadon &ccirc;irka&ubreve; la atlantika ja&hcirc;thaveno
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jean-Yves Santerre</aut>
+          <vrk><url ref="&Monato;/2003/007992.html">Persistemo donis plezuron!</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="moment.0a">momenta</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>min&uuml;tig</trd>,
+    </trdgrp>
+  </snc>
+  <snc mrk="minut.0a.rilata">
+    <dif>
+      Rilata al <tld/>oj:
+      <ekz>
+        la <tld/>a montrilo longas 1,5&#x202F;m
+        <fnt>
+          <bib>Monato</bib>
+          <aut>La denaska &hcirc;arkovano Dmitrij Cibulevskij</aut>
+          <vrk><url ref="&Monato;/2004/008012.html">Katedralo renaski&gcirc;anta</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> esperas pri last<tld/>a savanto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2005/008487.php">Fina fakturo</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Karolino! murmuretis Marta kun unua<tld/>a miri&gcirc;o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">moment&aacute;neo</trd>
+  <trd lng="hu">percnyi</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#20998;&#38291;&#x306E;  <pr>&#12402;&#12392;&#12405;&#12435;&#x304B;&#12435;&#x306E;</pr></trd>,
+    <trd>&#12385;&#12423;&#12387;&#12392;&#x306E;&#38291;&#x306E;  <pr>&#12385;&#12423;&#12387;&#12392;&#x306E;&#12354;&#12356;&#12384;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">minutowy</trd>
+  <trd lng="ru">&c_m;&c_i;&c_n;&c_u;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trd lng="uk">&c_h;&c_v;&c_i;&#x43B;&c_i;&#x43D;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="minut.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="minut.0e.KAL">
+    <dif>
+      Dum unu <tld/>o:
+      <ekz>
+        7200 turnoj <tld/>e
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2004/008261.html">Kvietigu tiun komputilon!</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la malkopiilo]</klr> purigas <tld/>e po tri A4-foliojn, kaj eblos reuzi la
+        paperon plurfoje
+        <fnt>
+          <aut>div.</aut>
+          <vrk><url ref="&Monato;/1993/A931002.php">Noticoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/10, p. 4</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>min&uuml;tlich</trd>,
+      <trd>in der <ind>Minute</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>b&ecaron;hem kr&aacute;tk&eacute; chv&iacute;le</trd>,
+    <trd>v minut&ecaron;</trd>
+  </trdgrp>
+
+  <trd lng="es">en un <ind>minuto</ind></trd>
+  <trd lng="id">per <ind>menit</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#20998;&#38291;&#x306B;  <pr>&#12402;&#12392;&#12405;&#12435;&#x304B;&#12435;&#x306B;</pr></trd>,
+    <trd>&#12385;&#12423;&#12387;&#12392;&#x306E;&#38291;&#x306B;  <pr>&#12385;&#12423;&#12387;&#12392;&#x306E;&#12354;&#12356;&#12384;&#x306B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">per <ind>minuut</ind></trd>
+  <trd lng="pl">w ci&aogonek;gu <ind>minuty</ind></trd>
+  <trd lng="sk">v min&uacute;te</trd>
+</drv>
+
+<drv mrk="minut.cxiu0e">
+  <kap>
+    &ccirc;iu<tld/>e
+  </kap>
+  <snc mrk="minut.cxiu0e.tuttempe">
+    <dif>
+      Tuttempe, <ref tip="sin" cel="konsta.0e">konstante</ref>, en &ccirc;iu <tld/>o:
+      <ekz>
+        ili sidi&gcirc;os sur la tero, tremos &ccirc;iu<tld/>e, kaj eksentos teruron
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 26:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plua interparolado iris ne tiel bone, &ccirc;iu<tld/>e oni penis korekti unu la
+        alian
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#8230;]</klr> legis kaj legis kaj balancadis &ccirc;iu<tld/>e la kapon, &ccirc;ar estis
+        al li agrable scii&gcirc;i pri tiuj belegaj priskriboj de la urbo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La najtingalo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        via vivo estos senripoza &ccirc;iu<tld/>a singardo kontra&ubreve; atencoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sen Rodin</aut>
+          <vrk><url ref="&Monato;/2009/009725.php">Nu, karaj fratoj ...</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>die ganze <ind>Zeit</ind></trd>,
+    <trd>dauernd</trd>,
+    <trd>min&uuml;tlich</trd>
+  </trdgrp>
+<trd lng="id">setiap <ind>menit</ind></trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.111 2023/11/18 06:30:30
+Eko Nur Syah Hidayat: +trd id 2
+
+versio 1.110 2023/10/19 16:45:37
+revo: transskribo per <pr>
+
+versio 1.109 2023/09/10 15:34:07
+revo: korekto de transskribo
+
+versio 1.107 2023/08/29 20:27:08
+Wolfram Diestel: ja: prononco
+
+versio 1.106 2023/04/24 16:34:44
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.105 2023/04/11 12:45:45
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.104 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.30 2021/01/30 10:44:10
+-->
+</vortaro>

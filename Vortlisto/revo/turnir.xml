@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: turnir.xml,v 1.27 2023/10/21 14:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>turnir</rad>/o
+</kap>
+<drv mrk="turnir.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="turnir.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      En <ref tip="malprt" cel="epok.mez0o">mezepoko</ref>,
+      <ref cel="lukt.0o">lukto</ref> de <ref tip="prt" cel="kavali.0o.mezepoko">kavaliro</ref>j en
+      publika festa
+      vetbatalo:
+      <ekz>
+        konstruita estis mezepokstila urbo, kaj okazis tiutempa karnavalo kun interalie
+        <tld/>antaj kavaliroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2011/010405.php">Bruas la mezepoko</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">justa</trd>
+    <trdgrp lng="en">
+      <trd>tournament</trd>
+      <trd>tourney</trd>
+    </trdgrp>
+    <trd lng="es">torneo</trd>
+    <trd lng="hu">lovagi <ind>torna</ind></trd>
+    <trd lng="pl">turniej</trd>
+    <trd lng="pt">torneio</trd>
+  </snc>
+  <snc mrk="turnir.0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Granda publika <ref tip="super" cel="konkur2.0o">konkurso</ref>:
+      <ekz>
+        dum semajnoj la <tld/>' / da&ubreve;re da&ubreve;ris kaj ne &ccirc;esis
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Danc-rekordo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>o <klr>(de piedpilko)</klr> partoprenis 16 landaj teamoj, kiuj ludis
+        unue en kvar grupoj kaj poste en elimina sistemo unu kontra&ubreve; la alia
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2008/009595.php">Hispanio venkis, gastigantoj
+          seniluziigis</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>&scirc;ak<tld/></ind>o.
+        <trd lng="ca">torneig d'escacs</trd>
+        <trd lng="es"><ind>campeonato</ind> de ajedrez</trd>
+        <trd lng="hu">sakktorna</trd>
+        <trd lng="pl">turniej szachowy</trd>
+        <trd lng="pt"><ind>campeonato</ind> de xadrez</trd>
+      </ekz>
+      <ekz>
+        <nom>Zs&oacute;fia</nom> en Romo en 1989 venkis en <klr>[&scirc;ak]</klr><tld/>o, en kiu partoprenis
+        pluraj fortaj grandmajstroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Edmund Grimley Evans</aut>
+          <vrk><url ref="&Monato;/2007/009012.php">Pri edukado de geniuloj</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="pokal.0o.SPO">pokalo<sncref/></ref>,
+       <ref cel="lud.0o.ago">ludo<sncref/></ref>,
+       <ref cel="macx1.0o">ma&ccirc;o</ref>,
+       <ref cel="lud.cxampion0o">&ccirc;ampionludo</ref>
+    </refgrp>
+    <trd lng="ca">competici&oacute;</trd>
+    <trd lng="en">tournament</trd>
+    <trdgrp lng="es">
+      <trd>competici&oacute;n</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>torna</trd>,
+      <trd>verseny</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>turniej</trd>,
+      <trd>liga</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>torneio</trd>,
+      <trd>campeonato</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_u;&c_r;&c_n;&c_ib;&c_r;</trd>
+  <trd lng="ca">torneig</trd>
+  <trd lng="cs">ryt&iacute;&rcaron;sk&yacute; turnaj</trd>
+  <trd lng="de">Turnier</trd>
+  <trd lng="es">torneo</trd>
+  <trd lng="fr">tournoi</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C8;&#x30FC;&#x30CA;&#x30E1;&#x30F3;&#x30C8;  <pr>&#x3068;&#x30FC;&#x306A;&#x3081;&#x3093;&#x3068;</pr></trd>,
+    <trd>&#x52DD;&#x629C;&#x304D;&#x6226;  <pr>&#x304B;&#x3061;&#x306C;&#x304D;&#x3044;&#x304F;&#x3055;</pr></trd>,
+    <trd>&#x8A66;&#x5408;  <pr>&#x3057;&#x3042;&#x3044;</pr></trd>,
+    <trd>&#x52DD;&#x8CA0;  <pr>&#x3057;&#x3087;&#x3046;&#x3076;</pr></trd>,
+    <trd>&#x9A0E;&#x99AC;&#x8A66;&#x5408;  <pr>&#x304D;&#x3070;&#x3057;&#x3042;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">toernooi</trd>
+  <trdgrp lng="pt">
+   <trd>torneio</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_u;&c_r;&c_n;&c_i;&c_r;</trd>
+  <trd lng="sk">rytiersky turnaj</trd>
+  <trd lng="sv">turnering</trd>
+  <trd lng="uk">&c_t;&c_u;&c_r;&#x43D;&c_ib;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.25 2023/06/01 13:32:41
+Wolfram Diestel: ref
+
+versio 1.24 2022/05/05 17:08:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2020/11/15 08:32:27
+Wolfram Diestel: +ekz-oj, fak, ref-oj
+
+Revision 1.20  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/09/19 17:10:10  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.18  2013/09/28 15:10:16  revo
+Jessica Grasso: +trd en
+
+Revision 1.17  2011/12/05 01:10:14  revo
+-->
+</vortaro>

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: volg.xml,v 1.20 2023/10/21 16:50:36 revo Exp $">
+  <kap>
+    <rad>Volg</rad>/o
+    <fnt><bib>ZR</bib></fnt>
+  </kap>
+<drv mrk="volg.V0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:riveroj" cel="river.0o.GEOG">Rivero</ref>
+      en <ref tip="malprt" cel="rus.R0ujo">Rusujo</ref>,
+      la plej longa en <ref tip="malprt" cel="euxrop1.E0o">E&ubreve;ropo</ref>,
+      enfluanta <ref cel="kaspi.K0o">Kaspion</ref>:
+      <ekz>
+        <tld/>o komenci&gcirc;as sur la Valdaja Alta&jcirc;o kaj enfluas la Kaspian maron &ccirc;e &gcirc;ia nordokcidenta bordo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=12593">Volgo</url></lok>
+        </fnt>.
+      </ekz>
+     </dif>
+  </snc>
+  <trd lng="be">&c_V;&c_o;&c_l;&c_g;&c_a;</trd>
+  <trd lng="bg">&c_V;&c_o;&c_l;&c_g;&c_a;</trd>
+  <trd lng="ca">Volga</trd>
+  <trd lng="cs">Volha</trd>
+  <trd lng="de">Wolga</trd>
+  <trd lng="en">Volga</trd>
+  <trd lng="es">Volga</trd>
+  <trd lng="fa">&a_w;&a_l;&f_g;&a_A;</trd>
+  <trd lng="fr">Volga</trd>
+  <trd lng="hu">Volga</trd>
+  <trd lng="ja">&#x30DC;&#x30EB;&#x30AC;&#x5DDD;  <pr>&#x30DC;&#x30EB;&#x30AC;&#x304B;&#x308F;</pr></trd>
+  <trd lng="nl">Wolga</trd>
+  <trd lng="pl">Wo&lstroke;ga</trd>
+  <trdgrp lng="pt">
+     <trd>Volga</trd>
+  </trdgrp>
+  <trd lng="ru">&c_V;&c_o;&c_l;&c_g;&c_a;</trd>
+  <trd lng="sk">Volga</trd>
+  <trd lng="uk">&#x412;&#x43E;&#x43B;&#x433;&#x430;</trd>
+</drv>
+  </art>
+
+<!--
+$Log$
+versio 1.20 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+Revision 1.16  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2014/01/24 14:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.13  2013/12/02 11:10:18  revo
+Damien Brucker: +trd fr
+
+Revision 1.12  2013/01/01 15:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2012/08/12 17:10:32  revo
+Marc Rausell: + trd ca
+
+Revision 1.10  2011/02/15 18:10:32  revo
+-->
+</vortaro>

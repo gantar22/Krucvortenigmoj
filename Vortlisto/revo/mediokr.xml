@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mediokr.xml,v 1.6 2022/05/01 12:05:12 revo Exp $">
+<kap>
+  <rad>mediokr</rad>/a <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="mediokr.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="mediokr.0a.KOMUNE">
+    <dif>
+      Meza&ccirc;a, malbrila:
+      <ekz>
+        oni nur sciis, ke li estis iom <tld/>a oficisto, ke li ridas, 
+        ke li fumas, kaj ke foje li faris maldeca&jcirc;ojn
+        <fnt>
+          <aut>L. Couperus, trad. G. Berveling</aut>,
+          <vrk>Pri Maljunuloj, la A&jcirc;oj kiuj Pasas</vrk>,
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la a&ubreve;toro elfor&gcirc;as mondon plenan de malri&ccirc;o kaj <tld/>o
+        <fnt>
+          <vrk><url ref="https://www.nodo50.org/esperanto/Libroservo/Suzana.htm"
+              >Suzana kaj la &ccirc;asistoj de mu&scirc;oj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_s;&c_r;&c_e;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;</trd>,
+    <trd>&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;&c_h; &c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_w;</trd>
+  </trdgrp>
+  <trd lng="de">mittelm&auml;&szlig;iger <klr>(Mensch)</klr></trd>
+  <trd lng="en">mediocre</trd>
+  <trdgrp lng="fr">
+    <trd>m&eacute;diocre</trd>,
+    <trd>pi&egrave;tre</trd>
+  </trdgrp>
+  <trd lng="pl">przeci&eogonek;tny</trd>
+  <trd lng="ro">mediu</trd>
+</drv>
+
+<drv mrk="mediokr.0ulo">
+  <kap>
+    <tld/>ulo
+  </kap>
+  <snc>
+    <dif>
+      Malbrila, meza&ccirc;a homo; <ref tip="sin" cel="averagx.0ulo">avera&gcirc;ulo</ref>:
+      <ekz>
+        li skribas nek por naivaj klubanoj ie en perdita vila&gcirc;o, nek por &scirc;ajnprudaj
+        <tld/>uloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Raita Pyh&auml;l&auml;</aut>
+          <vrk><url ref="&Monato;/2005/008685.php">Kesto de viveroj</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_r;&c_e;&c_d;&c_n;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
+  <trdgrp lng="de">
+    <trd>Mittelm&auml;&szlig;iger</trd>,
+    <trd>Unkreativer</trd>,
+    <trd>Dumpfbacke</trd>
+  </trdgrp>
+</drv>
+
+
+</art>
+
+<!--
+$Log$
+versio 1.6 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.5 2022/01/03 08:37:54
+Dmitri Gabinski: + trd be
+
+versio 1.4 2020/09/09 14:32:26
+Wolfram Diestel: +ekz, +~ulo, +trd de
+
+versio 1.3 2020/08/05 22:10:38
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.1  2014/05/04 01:10:22  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

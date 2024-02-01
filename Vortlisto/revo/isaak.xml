@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: isaak.xml,v 1.7 2023/11/19 10:22:14 revo Exp $">
+    <kap>
+      <rad>Isaak</rad>/o <fnt><bib>MT</bib></fnt>,
+      <var><kap><rad var="z">Izaak</rad>/o <fnt><bib>Far1</bib></fnt></kap></var>
+    </kap>
+
+<drv mrk="isaak.0o">
+  <kap><tld/>o, <var><kap><tld var="z"/>o</kap></var></kap>
+  <snc mrk="isaak.0o.nomo">
+    <uzo tip="fak">NOM</uzo>
+    <dif>
+      Vira <ref tip="lst" lst="voko:personaj_nomoj" cel="nom.persona0o.GEN">persona nomo</ref>
+      hebredevena:
+      <ekz>
+        <tld/>o <ref cel="neuxto.0o">Ne&ubreve;tono</ref>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1803">Isaako Ne&ubreve;tono</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la unuan templon dedi&ccirc;itan al sanktulo <tld/>o de Dalmatio
+        (monako predikinta en
+        la 4-a jarcento) establis caro Petro la Granda
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=428911">Katedralo Sankta Isaako de Sankt
+          Peterburgo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="id">Isaac</trd>
+  </snc>
+  <snc mrk="isaak.0o.BIB">
+    <uzo tip="fak">BIB</uzo>
+    <dif>
+      Filo de <ref cel="abraham.0o.prapatro">Abrahamo</ref>
+      kaj patro de <ref cel="jakob.0o.BIB">Jakobo</ref> kaj Esavo:
+      <ekz>
+        <nom>Abraham</nom> naskigis <tld/>on
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Kroniko 1:34</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        prenu vian filon, vian solan, kiun vi amas, <tld/>on, kaj
+        <klr>[&#x2026;]</klr> oferu
+        lin tie kiel bruloferon sur unu el la montoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 22:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ho Dio de Abrahamo, <tld var="z"/>o kaj Jakobo, ekkompatu min
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="id">Ishak</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_Ib;&c_s;&c_a;&c_k;</trd>,
+    <trd>&c_Ib;&c_s;&c_a;&c_a;&c_k;</trd>,
+    <trd>&c_A;&c_j;&c_z;&c_ib;&c_k;</trd>,
+    <trd>&c_Ib;&c_z;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="de">Isaak</trd>
+  <trd lng="fr">Isaac</trd>
+  <trd lng="uk">&c_Ib;&c_s;&c_a;&c_a;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4EE5;&#x6492; <pr>Y&#x1D0;s&#x101;</pr></trd>,
+    <trd>&#x4EE5;&#x6492; <pr>y&#x1D0;s&#x1CE;</pr></trd>
+  </trdgrp>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.6 2023/10/12 06:32:01
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.5 2023/02/15 08:35:29
+Dmitri Gabinski: + trd be
+
+versio 1.3 2020/12/29 17:27:02
+Wolfram Diestel: + var Izaako kun fnt Far1, ekz, mencio de Esavo
+
+versio 1.2 2020/05/15 13:11:14
+Damien Brucker: +trd fr
+-->
+</vortaro>

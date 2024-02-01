@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: do.xml,v 1.102 2023/11/04 18:50:51 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>do</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="do.0">
+  <kap><ofc>*</ofc><tld/></kap>
+  <snc mrk="do.0.konsekvence">
+    <gra><vspec>konjunkcio</vspec></gra>
+    <dif>
+      <ref tip="vid" cel="sekv.0e.ARG">Sekve</ref> de tio,
+      <ref tip="vid" cel="konsek1.0e">konsekvence</ref>,
+      konklude:
+      <ekz>
+        &ccirc;ion vi vidis, mi <tld/> ne ripetas
+        <fnt>
+         <bib>Paroloj</bib>
+         <vrk>Ferma Parolado en Washington</vrk>,
+         <lok>1910</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio &ccirc;i <tld/> estas la <klr>(anta&ubreve;e priparolita)</klr> fingringo
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
+        ripro&ccirc;a murmureto demandis, je kio li ridas &dash; &leftquot;ne je vi!&rightquot; diris <nom>Britain</nom>, &dash; &leftquot;je
+        kiu <tld/>?&rightquot;
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni supozu por momento, ke tio &ccirc;i efektive estas le&gcirc;o, <klr>[&#x2026;]</klr> kio <tld/>
+        sekvas de &gcirc;i
+        <fnt>
+          <bib>LR</bib>
+          <vrk>Pri la regulo de la akcento</vrk>
+        </fnt>?
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+     <trd>&c_t;&c_a;&c_k;</trd>,
+     <trd>&c_t;&c_a;&c_k;&c_ib;&c_m; &c_ch;&c_y;&c_n;&c_a;&c_m;</trd>
+    </trdgrp>
+    <trd lng="nl">dus</trd>
+    <trdgrp lng="ru">
+     <trd>&c_i;&c_t;&c_a;&c_k;</trd>,
+     <trd>&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;</trd>,
+     <trd>&c_t;&c_o;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+     <trd>also</trd>,
+     <trd>dann</trd>,
+     <trd>folglich</trd>
+    </trdgrp>
+    <trd lng="fi">siis</trd>
+    <trdgrp lng="pl">
+     <trd>wi&eogonek;c</trd>,
+     <trd>tak wi&eogonek;c</trd>,
+     <trd>st&aogonek;d</trd>
+    </trdgrp>
+    <trd lng="vo">also</trd>
+    <trdgrp lng="zh">
+    <trd>&#x7136;&#x5219; <pr>r&#xE1;nz&#xE9;</pr></trd>,
+    <trd>&#x7230; <pr>yu&#xE1;n</pr></trd>,
+    <trd>&#x4E43;&#x5C14; <pr>n&#x1CE;i&#x11B;r</pr></trd>,
+    <trd>&#x4E8E;&#x662F; <pr>y&#xFA;sh&#xEC;</pr></trd>,
+    <trd>&#x9042;&#x81F4; <pr>su&#xEC;zh&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="do.0.emfaze">
+    <gra><vspec>adverbo</vspec></gra>
+    <dif>
+      Emfaze: vere, <ref cel="efekti.0e">efektive</ref>...
+    </dif>
+    <subsnc mrk="do.0.surprize">
+      <uzo tip="klr">(en demando a&ubreve; ekkrio)</uzo>
+      <dif>
+        Emfazanta surprizon:
+        <ekz>
+          kie <tld/> li estas? kial vi forlasis tiun homon
+          <fnt><bib>MT</bib>, <lok>&Eli; 2:20</lok></fnt>?
+        </ekz>
+        <ekz>
+          mi estas <tld/> malbenita
+          <fnt>
+            <bib>KPr</bib>
+          </fnt>!
+        </ekz>
+        <ekz>
+          sed &ccirc;u vi <tld/> ne vidas, ke &gcirc;i nur estas pentra&jcirc;o
+          <fnt>
+            <bib>Voja&gcirc;Imp</bib>
+          </fnt>?
+        </ekz>
+        <ekz>
+          &ccirc;arma Nigra Maro <klr>[&#x2026;]</klr> tiel paca, plena da trankvilo kaj pla&ccirc;o! kiel
+          <tld/> terura, timinda vi estas en via furiozo
+          <fnt>
+            <bib>Voja&gcirc;Imp</bib>
+          </fnt>?
+        </ekz>
+       </dif>
+       <trdgrp lng="be">
+         <trd>&c_zh;</trd>,
+         <trd>&c_zh;&c_a;</trd>
+       </trdgrp>
+       <trdgrp lng="de">
+         <trd>also</trd>,
+         <trd>denn</trd>
+       </trdgrp>
+       <trdgrp lng="fi">
+         <trd>siis</trd>,
+         <trd>sitten</trd>
+       </trdgrp>
+       <trd lng="nl">dan</trd>
+       <trdgrp lng="pl">
+         <trd>wi&eogonek;c</trd>,
+         <trd>-&zdot;e<klr> (jako sufiks)</klr></trd>
+       </trdgrp>
+       <trd lng="ru">&c_zh;&c_je;</trd>
+      </subsnc>
+      <subsnc mrk="do.0.insiste">
+        <dif>
+          Emfazanta la seriozecon de ordono: <ref cel="nepr.0e">nepre</ref>, 
+          definitive, <ref cel="tuj.0">tuj</ref>...: 
+        <ekz>
+            <nom>Ella</nom>, nun venu <tld/>! eksonis voko
+            <fnt>
+              <bib>FK</bib>
+            </fnt>;
+          </ekz>  
+          <ekz>
+            ne rigardu min <tld/> tiel miregante
+            <fnt>
+              <bib>FK</bib>
+            </fnt>!
+          </ekz>
+          <ekz>
+            fi <tld/>, hontu! tiel agi
+            <fnt>
+              <bib>Hamlet</bib>
+            </fnt>!
+          </ekz>
+          <ekz>
+            vin gardu <tld/>
+            <fnt>
+              <bib>Hamlet</bib>
+            </fnt>!
+          </ekz>
+          <ekz>
+            adia&ubreve; <tld/>
+            <fnt>
+              <bib>Hamlet</bib>
+            </fnt>!
+          </ekz>
+       </dif>
+       <trdgrp lng="be">
+         <trd>&c_zh;</trd>,
+         <trd>&c_zh;&c_a;</trd>
+       </trdgrp>
+       <trdgrp lng="de">
+          <trd>doch</trd>,
+          <trd>dann</trd>
+        </trdgrp>
+       <trdgrp lng="fi">
+         <trd>(no...) sitten</trd>,
+         <trd>siis</trd>,
+       </trdgrp>
+       <trd lng="nl">dan</trd>
+       <trdgrp lng="pl">
+         <trd>wi&eogonek;c</trd>,
+         <trd>-&zdot;e<klr> (jako sufiks)</klr></trd>
+       </trdgrp>
+       <trd lng="ru">&c_zh;&c_je;</trd>
+     </subsnc>
+  </snc>
+  <refgrp tip="vid">
+     <ref cel="ja.0">ja</ref>
+  </refgrp>
+  <ref tip="hom" cel="d.0">do (liternomo)</ref>
+  <trd lng="af">dus</trd>
+  <trd lng="am">&#x1235;&#x1208;&#x1206;&#x1290;&#x121D;</trd>
+  <trd lng="ar">&a_w;&a_b;&a_A;&a_l;&a_t;&a_A;&a_l;&a_y;</trd>
+  <trd lng="az">bel&#x259;likl&#x259;</trd>
+  <trd lng="bn">&#x98F;&#x987;&#x9AD;&#x9BE;&#x9AC;&#x9C7;</trd>
+  <trd lng="bs">na taj na&ccaron;in</trd>
+  <trd lng="co">cus&igrave;</trd>
+  <trdgrp lng="cs">
+    <trd>igitur</trd>,
+    <trd>tedy</trd>,
+    <trd>tud&iacute;&zcaron;</trd>
+  </trdgrp>
+  <trd lng="cy">felly</trd>
+  <trd lng="da">s&aring;ledes</trd>
+  <trdgrp lng="es">
+      <trd>pues</trd>,
+      <trd>por tanto</trd>
+   </trdgrp>
+  <trd lng="et">seega</trd>
+  <trd lng="eu">horrela</trd>
+  <trd lng="fr">donc</trd>
+  <trd lng="fy">dus</trd>
+  <trd lng="ga">d&aacute; bhr&iacute; sin</trd>
+  <trd lng="gd">mar sin a &#x2018;</trd>
+  <trd lng="gl">as&iacute;</trd>
+  <trd lng="gu">&#xA86;&#xAAE;</trd>
+  <trd lng="ha">haka ne</trd>
+  <trd lng="hi">&#x907;&#x938; &#x92A;&#x94D;&#x930;&#x915;&#x93E;&#x930;</trd>
+  <trd lng="hmn">yog li</trd>
+  <trd lng="hr">tako</trd>
+  <trd lng="ht">konsa</trd>
+  <trd lng="hy">&#x561;&#x575;&#x57D;&#x57A;&#x56B;&#x57D;&#x578;&#x57E;</trd>
+  <trd lng="ig">N&#x2019;ihi ya,</trd>
+  <trd lng="is">&#xFE;annig</trd>
+  <trd lng="ja">&#x3053;&#x306E;&#x3088;&#x3046;&#x306B;&#x3057;&#x3066;</trd>
+  <trd lng="jv">mangkono</trd>
+  <trd lng="ka">&#x10D0;&#x10DB;&#x10D2;&#x10D5;&#x10D0;&#x10E0;&#x10D0;&#x10D3;,</trd>
+  <trd lng="kk">&c_o;&c_s;&c_y;&c_l;&c_a;&c_j;&c_sh;&c_a;</trd>
+  <trd lng="km">&#x178A;&#x17BC;&#x1785;&#x17D2;&#x1793;&#x17C1;&#x17C7;</trd>
+  <trd lng="kn">&#xCB9;&#xCC0;&#xC97;&#xCC6;</trd>
+  <trd lng="ko">&#xB530;&#xB77C;&#xC11C;</trd>
+  <trd lng="ku">ji ber v&ecirc; yek&ecirc;</trd>
+  <trd lng="ky">&c_O;&c_sh;&c_je;&c_n;&c_t;&c_i;&c_p;,</trd>
+  <trd lng="lat">ita</trd>
+  <trd lng="lo">&#xE94;&#xEB1;&#xEC8;&#xE87;&#xE99;&#xEB1;&#xEC9;&#xE99;&#xE81;&#xEB2;&#xE99;</trd>
+  <trd lng="lt">taip</trd>
+  <trd lng="lv">t&#x101;d&#x113;j&#x101;di</trd>
+  <trd lng="mg">dia toy izany no</trd>
+  <trd lng="mi">te kupu</trd>
+  <trd lng="mk">&c_n;&c_a; &c_t;&c_o;&#x458; &c_n;&c_a;&c_ch;&c_i;&c_n;</trd>
+  <trd lng="ml">&#xD07;&#xD19;&#xD4D;&#xD19;&#xD28;&#xD46;</trd>
+  <trd lng="mn">&c_i;&c_j;&c_n;</trd>
+  <trd lng="mr">&#x905;&#x936;&#x93E; &#x92A;&#x94D;&#x930;&#x915;&#x93E;&#x930;&#x947;</trd>
+  <trd lng="ms">dengan itu</trd>
+  <trd lng="mt">b&#x2019;hekk</trd>
+  <trd lng="my">&#x1011;&#x102D;&#x102F;&#x101E;&#x102D;&#x102F;&#x1037;</trd>
+  <trd lng="ne">&#x92F;&#x938;&#x930;&#x940;</trd>
+  <trd lng="ny">motero</trd>
+  <trd lng="pa">&#xA07;&#xA38; &#xA2A;&#xA4D;&#xA30;&#xA15;&#xA3E;&#xA30;</trd>
+  <trd lng="ps">&f_p;&a_h; &a_d;&#x6D0; &a_t;&a_w;&#x6AB;&a_h;</trd>
+  <trdgrp lng="pt">
+      <trd>logo</trd>,
+      <trd>ent&atilde;o</trd>,
+      <trd>pois</trd>,
+      <trd>portanto</trd>,
+      <trd>por <ind>conseguinte</ind></trd>
+    </trdgrp>
+  <trd lng="rw">bityo</trd>
+  <trd lng="sd">&a_A;&a_h;&#x699;&a_y;&a_hamza; &a_T;&a_r;&a_H;</trd>
+  <trd lng="si">&#xDB8;&#xDD9;&#xDC3;&#xDDA;</trd>
+  <trdgrp lng="sk">
+    <trd>nu&zcaron;</trd>,
+    <trd>potom</trd>,
+    <trd>tak</trd>,
+    <trd>teda</trd>
+  </trdgrp>
+  <trd lng="sl">torej</trd>
+  <trd lng="sm">faapea ona</trd>
+  <trd lng="sn">saka</trd>
+  <trd lng="so">sidaas</trd>
+  <trd lng="sq">k&euml;shtu</trd>
+  <trd lng="st">ka tsela eo</trd>
+  <trd lng="su">sahingga</trd>
+  <trd lng="sw">hivyo</trd>
+  <trd lng="ta">&#xB87;&#xBB5;&#xBCD;&#xBB5;&#xBBE;&#xBB1;&#xBC1;</trd>
+  <trd lng="te">&#xC05;&#xC02;&#xC26;&#xC41;&#xC35;&#xC32;&#xC28;</trd>
+  <trd lng="tg">&#x4B3;&c_a;&c_m;&c_i;&c_n; &c_t;&c_a;&c_v;&c_r;</trd>
+  <trd lng="th">&#xE14;&#xE31;&#xE07;&#xE19;&#xE31;&#xE49;&#xE19;</trd>
+  <trd lng="tl">kaya</trd>
+  <trd lng="tt">&c_Sh;&c_u;&c_l;&c_a;&c_j; &c_i;&c_t;&c_je;&c_p;</trd>
+  <trd lng="uk">&c_t;&c_a;&c_k;&c_i;&c_m; &c_ch;&c_i;&c_n;&c_o;&c_m;</trd>
+  <trd lng="ur">&a_A;&a_s; &a_T;&a_r;&a_H;</trd>
+  <trd lng="uz">shunday</trd>
+  <trd lng="vi">do &#x111;&oacute;</trd>
+  <trd lng="xh">ngoko ke</trd>
+  <trd lng="yi">&alef;&#x5B7;&zayin;&vav;&yod; &alef;&#x5B7;&resh;&vav;&fmem;</trd>
+  <trd lng="yo">bayi</trd>
+  <trd lng="zu">kanjalo</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.101 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.100 2021/07/04 10:30:27
+Wolfram Diestel: ekz-oj; snc 2: dif-vortigo
+
+Revision 1.23  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/05/01 22:10:14  revo
+Jeromo Vasxe: + 1 ekz, + disting. konj-adv
+
+Revision 1.20  2010/08/25 16:30:29  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.19  2009/07/01 17:21:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2007/08/11 16:30:35  revo
+-->
+</vortaro>

@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: knab.xml,v 1.112 2024/01/11 07:25:10 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>knab</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="knab.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="knab.0o.KOMUNE">
+    <dif>
+      Virseksa infano:
+      <ekz>
+        mi vokas la <tld/>on, kaj li venas
+        <fnt><bib>F</bib>, <lok>&FE; 16</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">seuntjie</trd>
+  <trd lng="am">&#x12C8;&#4757;&#x12F5; &#x120D;&#4869;</trd>
+  <trd lng="ar">&a_S;&a_b;&a_y;</trd>
+  <trd lng="az">o&gbreve;lan</trd>
+  <trd lng="be">&c_h;&c_l;&c_o;&c_p;&c_ch;&c_y;&c_k;</trd>
+  <trd lng="bn">&#x99B;&#x9C7;&#x9B2;&#x9C7;</trd>
+  <trd lng="bo">&t_ba;&t_shabchu;&t_tsheg;</trd>
+  <trd lng="br">paotr</trd>
+  <trd lng="co">carusu</trd>
+  <trdgrp lng="cs">
+    <trd>chlapec</trd>,
+    <trd>hoch</trd>
+  </trdgrp>
+  <trd lng="cy">bachgen</trd>
+  <trd lng="da">dreng</trd>
+  <trdgrp lng="de">
+    <trd>Junge</trd>,
+    <trd>Knabe</trd>,
+    <trd>Bub</trd>
+  </trdgrp>
+  <trd lng="en">boy</trd>
+  <trd lng="es">chico</trd>
+  <trd lng="et">poiss</trd>
+  <trd lng="eu">mutiko</trd>
+  <trdgrp lng="fr">
+    <trd>gar&ccedil;on<klr tip="ind"> (enfant m&acirc;le, jeune
+homme)</klr></trd>,
+    <trd>jeune <ind>homme</ind></trd>,
+    <trd>gars</trd>
+  </trdgrp>
+  <trd lng="fy">jonge</trd>
+  <trd lng="ga">buachaill</trd>
+  <trd lng="gd">gille</trd>
+  <trd lng="gl">neno</trd>
+  <trd lng="gu">&#xA9B;&#xACB;&#xA95;&#xAB0;&#xACB;</trd>
+  <trd lng="ha">yaro</trd>
+  <trd lng="hi">&#2354;&#2337;&#x93C;&#2325;&#x93E;</trd>
+  <trd lng="hmn">me nyuam tub</trd>
+  <trd lng="hr">dje&ccaron;ak</trd>
+  <trd lng="ht">ti gason</trd>
+  <trd lng="hy">&#x57F;&#1394;&#1377;</trd>
+  <trd lng="id"><ind>anak</ind> laki-laki</trd>
+  <trd lng="ig">nwa</trd>
+  <trd lng="is">drengur</trd>
+  <trd lng="it">ragazzo</trd>
+  <trd lng="ja">&#30007;&#x306E;&#x5B50; <pr>&#x304A;&#x306E;&#12371;</pr></trd>
+  <trd lng="jv">cah lanang</trd>
+  <trd lng="ka">&#x10D1;&#x10D8;&#x10ED;&#x10D8;</trd>
+  <trd lng="kk">&#x4B1;&c_l;</trd>
+  <trd
+  lng="km">&#6016;&#x17D2;&#6040;&#x17C1;&#6020;&#6036;&#x17D2;&#x179A;&#x17BB;&#x179F;&#6040;&#x17D2;&#6035;&#x17B6;&#6016;&#x17CB;</trd>
+  <trd lng="kn">&#xCB9;&#xCC1;&#xCA1;&#xCC1;&#xC97;</trd>
+  <trd lng="ko">&#xC18C;&#xB144;</trd>
+  <trd lng="ku">xort</trd>
+  <trd lng="ky">&c_b;&c_a;&c_l;&c_a;</trd>
+  <trd lng="lat">puer</trd>
+  <trd lng="lo">&#xEC0;&#xE94;&#xEB1;&#xE81;&#xE9C;&#xEB9;&#xEC9;&#xE8A;&#xEB2;&#xE8D;</trd>
+  <trd lng="lt">berniukas</trd>
+  <trd lng="mg">zazalahy</trd>
+  <trd lng="mi">tamaiti</trd>
+  <trd lng="mk">&c_m;&c_o;&c_m;&c_ch;&c_je;&c_t;&c_o;</trd>
+  <trd lng="ml">&#xD15;&#xD41;&#xD1F;&#xD4D;&#xD1F;&#xD3F;</trd>
+  <trd lng="mn">&c_h;&#x4AF;&#x4AF;</trd>
+  <trd lng="mr">&#x92E;&#2369;&#2354;&#2327;&#x93E;</trd>
+  <trd lng="ms">budak</trd>
+  <trd lng="mt">tifel</trd>
+  <trd lng="my">&#x101C;&#4144;&#4096;&#x101C;&#4145;&#4152;</trd>
+  <trd lng="ne">&#2325;&#2375;&#x91F;&#x93E;</trd>
+  <trd lng="nl">jongen</trd>
+  <trd lng="ny">mnyamata</trd>
+  <trd lng="pa">&#xA09;&#xA39; &#xA2E;&#xA41;&#xA70;&#xA21;&#xA3E;</trd>
+  <trdgrp lng="pl">
+    <trd>ch&lstroke;opiec</trd>,
+    <trd>ch&lstroke;opak</trd>,
+    <trd>ch&lstroke;opczyna</trd>,
+    <trd>ch&lstroke;opi&eogonek;<klr> (staromodne)</klr></trd>
+  </trdgrp>
+  <trd lng="ps">&a_h;&a_l;&f_k;</trd>
+  <trdgrp lng="pt">
+    <trd>garoto</trd>,
+    <trd>menino</trd>
+  </trdgrp>
+  <trd lng="ro">b&abreve;iat</trd>
+  <trd lng="ru">&c_m;&c_a;&c_l;&c_mol;&c_ch;&c_i;&c_k;</trd>
+  <trd lng="rw">umuhungu</trd>
+  <trd lng="sd">&#1671;&a_w;&#x6AA;&a_r;&a_w;</trd>
+  <trd lng="si">&#xDB4;&#xDD2;&#xDBB;&#xDD2;&#xDB8;&#xDD2; &#xDC5;&#xDB8;&#xDBA;&#xDCF;</trd>
+  <trd lng="sk">chlapec</trd>
+  <trd lng="sm">tama</trd>
+  <trd lng="sn">mukomana</trd>
+  <trd lng="so">wiil</trd>
+  <trd lng="sq">djal&euml;</trd>
+  <trd lng="st">moshanyana</trd>
+  <trd lng="su">budak lalaki</trd>
+  <trd lng="sv">pojke</trd>
+  <trd lng="sw">mvulana</trd>
+  <trd lng="ta">&#xB9A;&#xBBF;&#xBB1;&#xBC1;&#xBB5;&#xBA9;&#xBCD;</trd>
+  <trd lng="te">&#xC2C;&#xC3E;&#xC2F;&#xC4D;</trd>
+  <trd lng="tg">&c_p;&c_i;&c_s;&c_a;&c_r;&c_b;&c_a;&c_ch;&c_a;</trd>
+  <trd lng="th">&#xE40;&#xE14;&#xE47;&#xE01;&#xE0A;&#xE32;&#xE22;</trd>
+  <trd lng="tl">batang lalaki</trd>
+  <trdgrp lng="tr">
+    <trd>erkek &ccedil;ocuk</trd>,
+    <trd>o&gbreve;lan</trd>,
+    <trd>delikanl&inodot;</trd>,
+    <trd>gen&ccedil; erkek</trd>
+  </trdgrp>
+  <trd lng="tt">&c_m;&c_a;&c_l;&c_a;&c_j;</trd>
+  <trd lng="uk">&c_h;&c_l;&c_o;&c_p;&c_ch;&c_i;&c_k;</trd>
+  <trd lng="ur">&a_l;&#1681;&f_k;&#x6D2;</trd>
+  <trd lng="uz">bola</trd>
+  <trd lng="vi">c&#x1EAD;u b&eacute;</trd>
+  <trd lng="xh">inkwenkwe</trd>
+  <trd lng="yi">&yod;&yod;&nun;&gimel;&lamed;</trd>
+  <trd lng="yo">&#x1ECD;m&#x1ECD;kunrin</trd>
+  <trd lng="zh">&#30007;&#x5B69; <pr>n&aacute;n h&aacute;i</pr></trd>
+  <trd lng="zu">mfana</trd>
+</drv>
+
+<drv mrk="knab.0ego">
+  <kap>
+    <tld/>ego
+  </kap>
+  <snc mrk="knab.0ego.KOMUNE">
+    <dif>
+      Juna, fortika, senmalica viro:
+      <ekz>
+        oni metu min anta&ubreve; anaron da <tld/>egoj kiel mi,
+        tiam Germanujo fari&gcirc;os respubliko, kontra&ubreve; kiu
+        Romo kaj Sparto estos mona&hcirc;inejoj!
+        <fnt>
+          <aut>F. Schiller, trad. L. L. Zamenhof</aut>
+          <vrk>La Rabistoj</vrk>
+          <lok>1928</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="brav.0ulo">bravulo</ref>,
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>brave gars</trd>,
+      <trd>gaillard</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#30007;&#x5B50;&#x6C49; <pr>n&#xE1;nz&#x1D0;h&#xE0;n</pr></trd>,
+    <trd>&#x58EE;&#x58EB; <pr>zhu&#xE0;ngsh&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_h;&c_l;&c_a;&c_p;&c_ch;&c_y;&c_n;&c_a;</trd>
+  <trd lng="ja">&#12356;&#x305F;&#x305A;&#12425;&#x597D;&#x304D;&#x306E;&#30007; 
+  <pr>&#12356;&#x305F;&#x305A;&#12425;&#12377;&#x304D;&#x306E;&#x304A;&#12392;&#12371;</pr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_l;&c_o;&c_p;&c_c;&c_ju;&c_g;&c_a;</trd>,
+    <trd>&c_h;&c_l;&c_o;&c_p;&#8217;&c_ja;&c_g;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_u;&c_b;&#8217;&c_ja;&c_g;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_u;&c_b;&c_ch;&c_i;&c_s;&c_mol;&c_k;&c_o;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="knab.0ino">
+  <kap><ofc>*</ofc><tld/>ino</kap>
+  <snc mrk="knab.0ino.KOMUNE">
+    <dif>
+      Inseksa infano:
+      <ekz>
+        Izabela scias, kiu estas la <tld/>ino en la spegulo
+        <fnt><bib>Lasu</bib> <lok>1 &leftquot;Izabela&rightquot;</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">meisie</trd>
+  <trd lng="am">&#4660;&#4725; &#x120D;&#4869;</trd>
+  <trd lng="ar">&a_f;&a_t;&a_A;&a_t_marbuta;</trd>
+  <trd lng="be">&c_d;&c_z;&c_ja;&c_w;&c_ch;&c_y;&c_n;&c_k;&c_a;</trd>
+  <trd lng="bn">&#x9AE;&#x9C7;&#x9AF;&#x9BC;&#x9C7;</trd>
+  <trd lng="bo">&t_ba;&t_shabchu;&t_tsheg;&t_ma;&t_naro;&t_tsheg;</trd>
+  <trd lng="br">plac'h</trd>
+  <trd lng="co">figghjola</trd>
+  <trdgrp lng="cs">
+    <trd>d&iacute;vka</trd>,
+    <trd>d&ecaron;v&ccaron;e</trd>,
+    <trd>holka</trd>
+  </trdgrp>
+  <trd lng="cy">merch</trd>
+  <trd lng="da">pige</trd>
+  <trd lng="de">M&auml;dchen</trd>
+  <trd lng="en">girl</trd>
+  <trd lng="es">chica</trd>
+  <trd lng="et">t&uuml;druk</trd>
+  <trd lng="eu">neska</trd>
+  <trdgrp lng="fr">
+    <trd>fille<klr tip="ind"> (enfant femelle, jeune femme)</klr></trd>,
+    <trd>jeune <ind>femme</ind></trd>
+  </trdgrp>
+  <trd lng="fy">meisje</trd>
+  <trd lng="ga">cail&iacute;n</trd>
+  <trd lng="gd">nighean</trd>
+  <trd lng="gl">nena</trd>
+  <trd lng="gu">&#xA9B;&#xACB;&#xA95;&#xAB0;&#xAC0;</trd>
+  <trd lng="hi">&#2354;&#2337;&#x93C;&#2325;&#2368;</trd>
+  <trd lng="hmn">hluas nkauj</trd>
+  <trd lng="hr">djevojka</trd>
+  <trd lng="ht">ti fi</trd>
+  <trd lng="hy">&#1377;&#1394;&#x57B;&#x56B;&#x56F;</trd>
+  <trd lng="id"><ind>anak</ind> perempuan</trd>
+  <trd lng="ig">nwa agb&#x1ECD;gh&#x1ECD;</trd>
+  <trd lng="is">st&uacute;lka</trd>
+  <trd lng="it">ragazza</trd>
+  <trd lng="ja">&#22899;&#x306E;&#x5B50; <pr>&#12417;&#x306E;&#12371;</pr></trd>
+  <trd lng="jv">prawan</trd>
+  <trd lng="ka">&#x10D2;&#x10DD;&#x10D2;&#x10DD;&#x10DC;&#x10D0;</trd>
+  <trd lng="kk">&#x49B;&c_y;&c_z; &c_b;&c_a;&c_l;&c_a;</trd>
+  <trd lng="km">&#6016;&#x17D2;&#6040;&#x17C1;&#6020;&#x179F;&#x17D2;&#x179A;&#x17B8;</trd>
+  <trd lng="kn">&#xCB9;&#xCC1;&#xCA1;&#xCC1;&#xC97;&#xCBF;</trd>
+  <trd lng="ko">&#xC18C;&#xB140;</trd>
+  <trd lng="ku">ke&ccedil;</trd>
+  <trd lng="ky">&c_k;&c_y;&c_z;</trd>
+  <trd lng="lat">puella</trd>
+  <trd lng="lo">&#xEAA;&#xEB2;&#xEA7;</trd>
+  <trd lng="lt">mergina</trd>
+  <trd lng="lv">meitene</trd>
+  <trd lng="mg">ankizivavy</trd>
+  <trd lng="mi">kotiro</trd>
+  <trd lng="mk">&c_d;&c_je;&c_v;&c_o;&#1112;&c_k;&c_a;</trd>
+  <trd lng="ml">&#xD2A;&#xD46;&#xD23;&#xD4D;&#xD15;&#xD41;&#xD1F;&#xD4D;&#xD1F;&#xD3F;</trd>
+  <trd lng="mn">&c_o;&c_h;&c_i;&c_n;</trd>
+  <trd lng="mr">&#x92E;&#2369;&#2354;&#2327;&#2368;</trd>
+  <trd lng="ms">gadis</trd>
+  <trd lng="my">&#4121;&#x102D;&#4116;&#x103A;&#4152;&#4096;&#x101C;&#4145;&#4152;</trd>
+  <trd lng="ne">&#2325;&#2375;&#x91F;&#2368;</trd>
+  <trd lng="nl">meisje</trd>
+  <trd lng="ny">mtsikana</trd>
+  <trd lng="pa">&#xA15;&#xA41;&#xA5C;&#xA40; &#xA28;&#xA42;&#xA70;</trd>
+  <trdgrp lng="pl">
+    <trd>dziewczyna</trd>,
+    <trd>dziewcz&eogonek;<klr> (staromodne)</klr></trd>,
+    <trd>dziewuszka<klr> (staromodne)</klr></trd>
+  </trdgrp>
+  <trd lng="ps">&a_n;&a_j;&a_l;&#x6CD;</trd>
+  <trdgrp lng="pt">
+    <trd>garota</trd>,
+    <trd>menina</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>fat&abreve;</trd>,
+    <trd>prieten&abreve;</trd>,
+    <trd>feti&#x21B;&abreve;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_je;&c_v;&c_o;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="rw">umukobwa</trd>
+  <trd lng="sd">&#1671;&a_w;&#x6AA;&a_r;&a_y;</trd>
+  <trd lng="si">&#xDAF;&#xDD0;&#xDBB;&#xDD2;&#xDBA;</trd>
+  <trd lng="sk">diev&ccaron;a</trd>
+  <trd lng="sl">dekle</trd>
+  <trd lng="sm">teine</trd>
+  <trd lng="sn">musikana</trd>
+  <trd lng="so">gabadh</trd>
+  <trd lng="sq">vajz&euml;</trd>
+  <trd lng="st">ngoanana</trd>
+  <trd lng="su">mojang</trd>
+  <trd lng="sv">flicka</trd>
+  <trd lng="sw">msichana</trd>
+  <trd lng="ta">&#xBAA;&#xBC6;&#xBA3;&#xBCD;</trd>
+  <trd lng="te">&#xC05;&#xC2E;&#xC4D;&#xC2E;&#xC3E;&#xC2F;&#xC3F;</trd>
+  <trd lng="tg">&c_d;&c_u;&c_h;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="th">
+    <trd>&#xE40;&#xE14;&#xE47;&#xE01;&#xE2B;&#xE0D;&#xE34;&#xE07;</trd>,
+    <trd>&#xE40;&#xE14;&#xE47;&#xE01;&#xE2A;&#xE32;&#xE27;</trd>
+  </trdgrp>
+  <trd lng="tl">batang babae</trd>
+  <trdgrp lng="tr">
+    <trd>k&inodot;z &ccedil;ocuk</trd>,
+    <trd>gen&ccedil; k&inodot;z</trd>
+  </trdgrp>
+  <trd lng="tt">&c_k;&c_y;&c_z;</trd>
+  <trd lng="uk">&c_d;&c_ib;&c_v;&c_ch;&c_i;&c_n;&c_a;</trd>
+  <trd lng="ur">&a_l;&#1681;&f_k;&f_y;</trd>
+  <trd lng="uz">qiz</trd>
+  <trd lng="vi">c&ocirc; g&aacute;i</trd>
+  <trd lng="xh">intombazana</trd>
+  <trd lng="yi">&mem;&yod;&yod;&dalet;&lamed;</trd>
+  <trd lng="yo">omobirin</trd>
+  <trd lng="zh">&#22899;&#x5B69; <pr>n&#x1DA; h&aacute;i</pr></trd>
+  <trd lng="zu">ntombazane</trd>
+</drv>
+
+<drv mrk="knab.kuir0o">
+  <kap>kuir<tld/>o</kap>
+  <snc mrk="knab.kuir0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Juna helpanto en restoracia kuirejo:
+      <ekz>
+        kuir<tld/>oj, grimacante kaj interbatante &ccirc;e la kuirforno,
+        sukcesadis samtempe a&ubreve;skulti la konversacion
+        <fnt>
+          <aut>A. Grin, trad. J. Finkel</aut>,
+          <vrk><url ref="http://www.esperanto.mv.ru/Grin/mondo.html">
+          La mondo brilanta</url></vrk>,
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_u;&c_h;&c_c;&c_ib;&c_k;</trd>,
+    <trd>&c_p;&c_a;&c_v;&c_a;&c_r;&c_ch;&c_u;&c_k;</trd>
+  </trdgrp>
+  <trd lng="fr">marmiton</trd>
+  <trdgrp lng="pl">
+    <trd>pomocnik kucharza</trd>,
+    <trd>pomocnik kuchenny</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>buc&abreve;tar asistent</trd>,
+    <trd>bucatarie ajutor</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="knab.stal0o">
+  <kap>stal<tld/>o</kap>
+  <snc mrk="knab.stal0o.RAJD">
+    <dif>
+      Juna helpanto en prizorgado de stalo,
+      de tieaj bestoj:
+      <ekz>
+        &leftquot;mi lasos vin vespere senpage en la cirkon&rightquot;
+        diris la hirta stal<tld/>o
+        <fnt>
+          <aut>S. Bubeni&ccaron;</aut>,
+          <vrk>Sub Cirkotendo</vrk>,
+          <lok>1969</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_m;&c_o;&c_ch;&c_n;&c_ib;&c_k; &c_k;&c_o;&c_n;&c_ju;&c_h;&c_a;</trd>
+  <trd lng="fr">gar&ccedil;on d'&eacute;curie</trd>
+  <trd lng="pl">stajenny</trd>
+  <trd lng="ro">b&abreve;iat la grajd</trd>
+</drv>
+
+<drv mrk="knab.sxip0o">
+  <kap>&scirc;ip<tld/>o</kap>
+  <snc mrk="knab.sxip0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Juna servanto kaj lernanto en &scirc;ipo:
+      <ekz>
+        <nom>Philipp Wahl</nom> <klr>...</klr> laboris en la komenco
+        de la tridekaj jaroj kiel &scirc;ip<tld/>o sur Rejn-&scirc;ipo
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://esperanto-karlsruhe.de/Eo/Geschichte.html">
+          Iam kompletigota historio de Esperanto en
+          Karlsruhe</url></vrk>,
+          <lok>[vidita en 2017]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ju;&c_n;&c_g;&c_a;</trd>
+  <trd lng="fr">mousse<klr> (marine)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>ch&lstroke;opiec okr&eogonek;towy</trd>,
+    <trd>majtek</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>mus</trd>,
+    <trd>marinar</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.112 2024/01/11 07:25:10
+Dmitri Gabinski: + trd be
+
+versio 1.110 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.108 2023/08/29 20:28:20
+Wolfram Diestel: ja: prononco
+
+versio 1.107 2023/08/29 16:34:30
+Wolfram Diestel: ja: prononco
+
+versio 1.106 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.105 2022/04/21 16:49:04
+Warut Bunprasert: red th
+
+versio 1.104 2022/03/30 16:39:45
+Warut Bunprasert: red th, +trd th
+
+versio 1.27 2020/03/22 08:59:57
+-->
+</vortaro>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: frango.xml,v 1.21 2023/08/31 13:11:31 revo Exp $">
+<kap><ofc>*</ofc>
+<rad>frangol</rad>/o</kap>
+<drv mrk="frango.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:botanikaj_specioj" cel="speci.0o.BIO">Specio</ref>
+      de <ref tip="super" cel="ramn.0o">ramno</ref> (<trd lng="la">Rhamnus frangula</trd>),
+      foje anka&ubreve; konsiderata kiel propra genro (<trd lng="la">Frangula</trd>);
+      <ref tip="lst" cel="arb.0eto" lst="voko:rozoparencoj">arbeto</ref>, 
+      kies beroj kaj &scirc;elo estas uzataj kiel laksigilo:
+      <ekz>
+        la <tld/>o <klr>[&#x2026;]</klr> kreskas sur acidaj grundoj en malfermaj arbaroj same
+        kiel la&ubreve;longe de riveroj kaj en mar&ccirc;oj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=64275">Frangolo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/6/6e/Illustration_Rhamnus_frangula0.jpg/357px-Illustration_Rhamnus_frangula0.jpg" prm="PD">ilustra&jcirc;o de <tld/>o
+        <fnt>
+          <lok><url ref="&WCW;/File:Illustration_Rhamnus_frangula0.jpg">&WCW;/File:Illustration_Rhamnus_frangula0.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_u;&c_sh;&c_y;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>kru&scaron;ina obecn&aacute;</trd>,
+    <trd>kru&scaron;ina ol&scaron;ov&aacute;</trd>
+  </trdgrp>
+  <trd lng="de">Faulbaum</trd>
+  <trd lng="fr">bourdaine</trd>
+  <trd lng="hu">kutyabenge</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E9;&#x30E0;&#x30CC;&#x30B9;&#x30FB;&#x30D5;&#x30E9;&#x30F3;&#x30B0;&#x30E9;</trd>,
+    <trd>&#x30BB;&#x30A4;&#x30E8;&#x30A6;&#x30AF;&#x30ED;&#x30A6;&#x30E1;&#x30E2;&#x30C9;&#x30AD;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>vuilboom</trd>,
+    <trd>sporkeboom</trd>,
+    <trd>zwarte <ind>els</ind></trd>
+  </trdgrp>
+  <trd lng="pt">amieiro-negro</trd>
+  <trd lng="ru">&c_k;&c_r;&c_u;&c_sh;&c_i;&c_n;&c_a; &c_l;&c_o;&c_m;&c_k;&c_a;&c_ja;</trd>
+  <trd lng="sk">kru&scaron;ina</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x440;&#x443;&#x448;&#x438;&#x43D;&#x430;</trd>,
+    <trd>&#x43A;&#x440;&#x443;&#x448;&#x438;&#x43D;&#x430; &#x43B;&#x430;&#x43C;&#x43A;&#x430;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.17  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/10/31 14:10:13  revo
+Wolfram Diestel: ref al rozoparencoj
+
+Revision 1.14  2013/09/08 19:10:45  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.13  2013/08/29 07:10:17  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.12  2007/06/13 16:31:26  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2004/11/02 17:32:01  revo
+-->
+</vortaro>

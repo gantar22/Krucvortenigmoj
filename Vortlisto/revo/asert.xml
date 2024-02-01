@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: asert.xml,v 1.28 2023/10/13 17:08:38 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>asert</rad>/i
+</kap>
+<drv mrk="asert.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Firme <ref tip="super" cel="cert.0igi.aserti">certigi</ref>, 
+      <ref cel="preten.0i.parole">pretendi</ref>, ke io estas vera:
+      <ekz>
+        Jesuo, kiu mortis, kaj pri kiu Pa&ubreve;lo <tld/>is, ke li vivas
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 25:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>is, ke tio estis la plej terura nokto de lia vivo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        e&ccirc; unu vorteto ne transpa&scirc;os niajn lipojn! ili &ccirc;iuj <tld/>is
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Pa&scirc;tisto de porkoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tri personoj <tld/>is, ke ili penetris &gcirc;is la fino de la arbaro kaj &ccirc;iam a&ubreve;dis
+        la mirindan sonadon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sonorilo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili kompreneble <tld/>is pri sia infano, ke &gcirc;i estas la plej bela kaj plej sa&gcirc;a
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Najbaraj familioj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="apog.0i.FIG">apogi<sncref/></ref>,
+      <ref cel="atest.0i">atesti</ref>,
+      <ref cel="firm.0igi">firmigi</ref>,
+      <ref cel="invok.0i">invoki</ref>,
+      <ref cel="konfir.0i.certigi">konfirmi<sncref/></ref>,
+      <ref cel="prav.0igi.ion">pravigi<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_p;&c_e;&c_w;&c_n;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,    
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_k;&c_o;&c_n;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_mol;&c_v;&c_ja;&c_r;&c_d;&c_zh;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_c;&c_mol;&c_v;&c_je;&c_r;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_t;&c_v;&c_malmol;&c_r;&c_d;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>jistit</trd>,
+    <trd>tvrdit</trd>,
+    <trd>uji&scaron;&tcaron;ovat</trd>
+  </trdgrp>
+  <trd lng="de">behaupten</trd>
+  <trd lng="en">assert</trd>
+  <trd lng="es">afirmar</trd>
+  <trd lng="fr">affirmer</trd>
+  <trd lng="he">&lamed;&#x5B4;&tet;&ayin;&vav;&#x5B9;&fnun;</trd>
+  <trd lng="hu">&aacute;ll&iacute;t</trd>
+  <trdgrp lng="it">
+    <trd>affermare</trd>,
+    <trd>asserire</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x65AD;&#x8A00;&#x3059;&#x308B;  <pr>&#x3060;&#x3093;&#x3052;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x4E3B;&#x5F35;&#x3059;&#x308B;  <pr>&#x3057;&#x3085;&#x3061;&#x3087;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">beweren</trd>
+  <trdgrp lng="pl">
+  <trd>twierdzi&cacute;</trd>,
+  <trd>utrzymywa&cacute; <klr>(&zdot;e)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>afirma</trd>,
+    <trd>asigura</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_v;&c_je;&c_r;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_t;&c_v;&c_je;&c_r;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">tvrdi&tcaron;</trd>
+  <trdgrp lng="sv">
+    <trd>p&aring;st&aring;</trd>,
+    <trd>f&ouml;rs&auml;kra</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_p;&c_je;&c_v;&c_n;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_v;&c_je;&c_r;&c_d;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_v;&c_je;&c_r;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="asert.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Firma certigo pri io:
+      <ekz>
+        tia <tld/>o estas iom senprudenta;
+      </ekz>
+      <ekz>
+        viajn <tld/>ojn mi ne tute bone povas kompreni, kiam vi diras, ke ekzistas tiom
+        multe da malpiuloj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; ilia <tld/>o mirigis ilin, <klr>[&#x2026;]</klr> ke ili facile komprenis la lingvon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        persiste subtenataj <tld/>oj 
+        <klr>(vd <ref cel="kalumn.0o">kalumnio</ref>, <ref cel="klacx.0o">kla&ccirc;o</ref>)</klr>, 
+        kiuj ne valoris e&ccirc; putran haringon, zumis sur la langoj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tre nebulecaj <tld/>oj
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        senbaza <tld/>o
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li inventis la faktojn por pravigi siajn teoriajn <tld/>ojn
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nova kuracisto <klr>[&#x2026;]</klr> jesigis la <tld/>on de <nom>Bazarov</nom>, ke neniu dan&gcirc;ero
+        minacas
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili rigardis liajn <tld/>ojn kiel aferojn limtu&scirc;antajn al <ref cel="blasfe.0o">blasfemo</ref>
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aksiom.0o">aksiomo</ref>,
+      <ref cel="postul1.0o">postulato</ref>,
+      <ref cel="premis.0o">premiso</ref>,
+      <ref cel="preten.0o">pretendo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_p;&c_e;&c_w;&c_n;&c_ib;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_mol;&c_v;&c_je;&c_r;&c_d;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_t;&c_v;&c_malmol;&c_r;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>tvrzen&iacute;</trd>,
+    <trd>uji&scaron;t&ecaron;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Behauptung</trd>
+  <trdgrp lng="en">
+    <trd>assertion</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>afirmaci&oacute;n</trd>,
+    <trd>aserci&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>assertion</trd>,
+    <trd>affirmation</trd>
+  </trdgrp>
+  <trd lng="he">&tet;&#x5B7;&ayin;&#x5B2;&nun;&#x5B8;&he;</trd>
+  <trd lng="hu">&aacute;ll&iacute;t&aacute;s</trd>
+  <trdgrp lng="it">
+    <trd>affermazione</trd>,
+    <trd>asserzione</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E3B;&#x5F35;  <pr>&#x3057;&#x3085;&#x3061;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x65AD;&#x8A00;  <pr>&#x3060;&#x3093;&#x3052;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bewering</trd>
+  <trdgrp lng="pl">
+    <trd>twierdzenie</trd>,
+    <trd>zapewnienie</trd>,
+    <trd>asercja</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>teorem&abreve;</trd>,
+    <trd>declara&#x21B;ie</trd>,
+    <trd>asigurarea</trd>,
+    <trd>afirma&#x21B;ie</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_v;&c_je;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_u;&c_t;&c_v;&c_je;&c_r;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">tvrdenie</trd>
+  <trdgrp lng="sv">
+    <trd>p&aring;st&aring;ende</trd>,
+    <trd>f&ouml;rs&auml;kran</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_p;&c_je;&c_v;&c_n;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_s;&c_t;&c_v;&c_je;&c_r;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_t;&c_v;&c_je;&c_r;&c_d;&c_zh;&c_je;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/13 17:08:38
+revo: transskribo per <pr>
+
+versio 1.26 2023/02/04 22:28:12
+Vito Redsky: +trd pl + trd ro
+
+versio 1.25 2022/03/16 18:34:11
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+versio 1.24 2022/03/16 15:39:07
+Wolfram Diestel: kor. trd
+
+Revision 1.20  2018/06/10 04:10:17  revo
+Dusan Juretic: +trd es
+
+Revision 1.19  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/12 18:10:12  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.17  2013/04/10 11:10:15  revo
+-->
+</vortaro>

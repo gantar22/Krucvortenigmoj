@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: retrovirus.xml,v 1.7 2023/10/29 09:24:52 revo Exp $">
+<kap>
+  <rad>retrovirus</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="retrovirus.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="retrovirus.0o.BAK">
+    <uzo tip="fak">BAK</uzo>
+    <dif>
+      <ref tip="super" cel="virus.0o.BAK">Viruso</ref>
+      kun genaro el RNA, kiun &gcirc;i retrotransskribas
+      en la genaron de infektata &ccirc;elo:
+      <ekz>
+        nova eltrovita <tld/>o nomata XMRV <klr>[&#8230;]</klr>
+        estas trovata en mamuloj kaj ka&ubreve;zas interalie
+        le&ubreve;kemion al musoj
+        <fnt>
+          <aut>M. Beno&icirc;t</aut>,
+          <vrk>Sindromo de Kronika Laceco</vrk>,
+          <lok><url
+          ref="http://www.esperanto.qc.ca/files/riverego/riverego-098.pdf">
+          La Riverego, 2009-12</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        du &gcirc;emeloj, denaske infektitaj de la <tld/>o HIV
+        <klr>(vd <ref cel="aidos.0o">aidoso</ref>)</klr>
+        <fnt>
+
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2008/009356.php">Sistemo ne imuna</url></vrk>
+          <bib>Monato</bib>
+          <lok>2008/01, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kuracistoj sukcesis plene resanigi HIV-infektitan du-jaran knabineton, al kiu
+        tuj post la naski&gcirc;o estis aplikita kombina alt-aktiva kontra&ubreve;-<tld/>a terapio
+        <fnt>
+
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2013/011019.php">Unu hirundo printempon ne alportas: sed
+          du?</url></vrk>
+              <bib>Monato</bib>
+          <lok>2013/06, p. 19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_t;&c_r;&c_a;&c_v;&c_ib;&c_r;&c_u;&c_s;</trd>
+  <trd lng="de">Retrovirus</trd>
+  <trd lng="en">retrovirus</trd>
+  <trd lng="fr">r&eacute;trovirus</trd>
+  <trd lng="nl">retrovirus</trd>
+  <trd lng="pl">retrowirus</trd>
+  <trd lng="ro">retrovirus</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2023/10/29 09:24:52
+Paul Peeraerts: + trd nl + lok
+
+versio 1.6 2022/10/29 22:32:53
+Vito Redsky: +trd pl + trd ro
+
+versio 1.5 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.4 2021/04/14 08:56:36
+Dmitri Gabinski: + trd be
+
+versio 1.3 2020/11/16 08:32:24
+Wolfram Diestel: +ekz-oj, -adm
+
+versio 1.2 2020/11/15 21:11:09
+Wolfram Diestel: +trd de, +adm
+-->
+</vortaro>

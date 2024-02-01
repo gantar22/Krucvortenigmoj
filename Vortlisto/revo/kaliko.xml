@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kaliko.xml,v 1.22 2023/12/02 21:20:04 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kalikot</rad>/o <fnt><bib>FK</bib></fnt>
+</kap>
+<drv mrk="kaliko.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">TEKS</uzo>
+  <uzo tip="fak">TIP</uzo>
+  <snc mrk="kaliko.0o.kotona">
+    <dif>
+      <ref tip="vid" cel="koton.0o">Kotona</ref> teksa&jcirc;o, similanta
+      <ref tip="vid" cel="tol.0o">tolon</ref> sed pli dika ol
+      <ref tip="vid" cel="perkal.0o">perkalo</ref>, uzata i.a.
+      por <ref cel="bind.0i.TIP">bindi</ref> librojn:
+      <ekz>
+        kruda silko po 6 &scirc;ilingoj por ulno estas kompare kun la tempo de uzado pli
+        malkara, ol <tld/>o po 1 &scirc;ilingo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tabio estas farata el silko, kotono, veluro ktp. kun plandumo el
+        <tld/>o
+        <fnt><bib>EncJap</bib> <lok>artikolo &leftquot;tabio&rightquot;, p.
+        162a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="super" cel="katun.0o">katuno</ref>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_je;&c_n;&c_k;&c_o;&c_r;</trd>
+  <trdgrp lng="ca">
+    <trd>calic&oacute;</trd>,
+    <trd>calicot</trd>
+  </trdgrp>
+  <trd lng="de">Kaliko</trd>
+  <trd lng="en">calico</trd>
+  <trd lng="es">calic&oacute;</trd>
+  <trdgrp lng="fr">
+    <trd>calicot<klr tip="ind"> (tissu)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>pamutv&aacute;szon</trd>,
+    <trd>kalik&oacute;</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30AD;&#x30E3;&#x30E9;&#x30B3;</trd>
+  <trd lng="nl">calicot</trd>
+  <trdgrp lng="pl">
+    <trd>kaliko</trd>,
+    <trd>p&lstroke;&oacute;tno angielskie</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_l;&c_je;&c_n;&c_k;&c_o;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>kaliko</trd>,
+    <trd>pl&aacute;tenn&aacute; tkanina <klr>(india)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">kaliko</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43B;&#x435;&#x43D;&#x43A;&#x43E;&#x440;</trd>,
+    <trd>&#x441;&#x438;&#x442;&#x435;&#x446;&#x44C;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x767D;&#x5E03; <pr>b&#xE1;ib&#xF9;</pr></trd>,
+    <trd>&#x82B1;&#x5E03; <pr>hu&#x101;b&#xF9;</pr></trd>,
+    <trd>&#x88C5;&#x8BA2;&#x7528;&#x5E03; <pr>zhu&#x101;ngd&#xEC;ngy&#xF2;ngb&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.19 2020/06/30 16:32:50
+Wolfram Diestel: + ekz FK, TIP bindi..., germ trd
+
+Revision 1.17  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/09/01 07:10:29  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2012/08/21 08:10:09  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2004/11/19 17:31:44  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2004/10/24 16:32:45  revo
+Marc Bavant: mod trd fr
+
+Revision 1.12  2004/03/03 17:31:56  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/05/19 19:40:47  revo
+-->
+</vortaro>

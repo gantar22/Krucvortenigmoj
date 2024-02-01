@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: profet.xml,v 1.27 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>profet</rad>/o
+</kap>
+<drv mrk="profet.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="profet.0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Homo parolanta kaj aganta pro dia misio:
+      <ekz>
+        <nom>Debora</nom>, <tld/>ino, edzino de <nom>Lapidot</nom>, estis en tiu tempo
+        ju&gcirc;istino de la Izraelidoj
+        <fnt><bib>MT</bib>, <lok>&Jug; 4:4</lok></fnt>;
+      </ekz>
+      <ekz>
+        unu viro el la <tld/>idoj diris al sia kamarado la&ubreve; la vorto de la Eternulo:
+        batu min
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Re&gcirc;oj 20:35</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref tip="sub" cel="jesu.0o.homo">Jesuo</ref>, la Nazaretano, 
+        kiu estis <tld/>o potenca age kaj parole
+        anta&ubreve; Dio kaj la tuta popolo
+        <fnt><bib>NT</bib>, <lok>&Luk; 24:19</lok></fnt>;
+      </ekz>
+      <ekz>
+        se <ref tip="sub" cel="muhama.0o.profeto">Muhamado</ref>, la islama <tld/>o, 
+        estus vivanta en nia epoko, &ccirc;u ne eblus,
+        ekzemple, ke lia koncepto pri ekonomio malhelpus la nuntempan globan krizon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hussain Al-Amily</aut>
+          <vrk><url ref="&Monato;/2015/011446.php">Islama ekonomio: &ccirc;u modelo por
+          hodia&ubreve;?</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &jcirc;uri per la barbo de l' <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="evange.0isto.predikisto">evangeliisto<sncref/></ref>,
+      <ref cel="misi.0isto">misiisto</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="profet.0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      <ref tip="super" cel="dir.antaux0isto">Anta&ubreve;diristo</ref>
+      anoncanta
+      estonta&jcirc;ojn nome de iu dia inspiro:
+      <ekz>
+        en la anta&ubreve;a tempo &ccirc;e <nom>Izrael</nom> oni tiel diradis, kiam oni iris
+        demandi Dion: ni iru al la anta&ubreve;vidisto, &ccirc;ar kion oni nun
+        nomas <tld/>o, tion oni anta&ubreve;e nomis anta&ubreve;vidisto
+        <fnt><bib>MT</bib>, <lok>&Sa1; 9:9</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj kaj poetoj revadis pri ia tre malproksima nebula tempo, en kiu la homoj
+        denove komencos komprenadi unu la alian
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne sur Mer en la 5a de a&ubreve;gusto
+          1905</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni ne bezonas esti <tld/>o, por anta&ubreve;vidi kun plena certeco, ke pli a&ubreve; malpli
+        frue <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malsa&gcirc;ulo ofte estas <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>neniu estas <tld/>o en sia urbeto</ind>
+        <trd lng="fr">nul n'est proph&egrave;te en son pays</trd>
+        <trd lng="nl">geen <ind>sant</ind> in eigen land</trd>
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="auxgur.0isto">a&ubreve;guristo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_r;&c_o;&c_k;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_o;&c_r;&c_o;&c_k;</trd>
+  <trdgrp lng="cs">
+    <trd>prof&eacute;t</trd>,
+    <trd>prorok</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Prophet</trd>,
+    <trd>Verk&uuml;nder</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>prophet</trd>,
+    <trd>seer</trd>
+  </trdgrp>
+  <trd lng="es">profeta</trd>
+  <trd lng="fr">proph&egrave;te</trd>
+  <trdgrp lng="hu">
+    <trd>pr&oacute;f&eacute;ta</trd>,
+    <trd>j&ouml;vend&odblac;mond&oacute;</trd>,
+    <trd>j&ouml;v&odblac;bel&aacute;t&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9810;&#x8A00;&#x8005;  <pr>&#x3088;&#x3052;&#x3093;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x4E88;&#x8A00;&#x8005;  <pr>&#x3088;&#x3052;&#x3093;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">profeet</trd>
+  <trdgrp lng="pl">
+    <trd>prorok</trd>,
+    <trd>wieszcz</trd>
+  </trdgrp>
+  <trd lng="pt">profeta</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_r;&c_o;&c_k;</trd>
+  <trd lng="sk">prorok</trd>
+  <trd lng="sv">profet</trd>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&c_r;&#x43E;&#x43A;</trd>
+</drv>
+
+<drv mrk="profet.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="profet.0i.REL">
+    <dif>
+      Paroli, agi komisie de dio, la&ubreve; dia inspiro:
+      <ekz>
+        <nom>Eldad</nom> kaj <nom>Medad</nom> <tld/>as en la tendaro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 11:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        penetros vin la spirito de la Eternulo, kaj vi ek<tld/>os
+        kune kun ili, kaj vi fari&gcirc;os alia homo
+        <fnt><bib>MT</bib>, <lok>&Sa1; 10:6</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="profet.0i.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      <ref tip="super" cel="dir.antaux0i">Anta&ubreve;diri</ref>:
+      <ekz>
+        li ja atingos la famon, kiun vi <tld/>as al li
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Esperanto nek &leftquot;disfalis en dialektojn&rightquot;, kiel kelkaj lingvistoj erare <tld/>is,
+        nek povos disfali
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kristanismo mem <klr>[&#x2026;]</klr> <tld/>as, ke la glavoj ne malaperos &gcirc;is la
+        fino de l&#x2019; mondo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2001, &#x2116;10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="auxgur.0i">a&ubreve;guri</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_r;&c_o;&c_ch;&c_y;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>prorokovat <klr>(n&ecaron;co, n&ecaron;komu)</klr></trd>,
+    <trd>v&ecaron;&scaron;tit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>prophezeien</trd>,
+    <trd>verk&uuml;nden</trd>,
+    <trd>weissagen</trd>
+  </trdgrp>
+  <trd lng="en">prophesy</trd>
+  <trd lng="es">profetizar</trd>
+  <trd lng="fr">proph&eacute;tiser</trd>
+  <trdgrp lng="hu">
+    <trd>j&ouml;vend&ouml;l</trd>,
+    <trd>megj&oacute;sol</trd>,
+    <trd>j&ouml;v&odblac;be l&aacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9810;&#x8A00;&#x3059;&#x308B;  <pr>&#x3088;&#x3052;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x4E88;&#x8A00;&#x3059;&#x308B;  <pr>&#x3088;&#x3052;&#x3093;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">voorspellen</trd>
+  <trdgrp lng="pl">
+    <trd>prorokowa&cacute;</trd>,
+    <trd>przepowiada&cacute;</trd>,
+    <trd>wieszczy&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_r;&c_o;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_r;&c_o;&c_ch;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>predpoveda&tcaron;</trd>,
+    <trd>prorokova&tcaron;</trd>,
+    <trd>ve&scaron;ti&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_r;&#x43E;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_r;&#x43E;&c_ch;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="profet.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="profet.0ajxo.REL">
+    <dif>
+      Die inspirita parolo a&ubreve; simbola ago de <tld/>o:
+      <ekz>
+        kiam <nom>Asa</nom> a&ubreve;dis tiujn vortojn kaj la 
+        <tld/>a&jcirc;on de la <tld/>o <nom>Oded</nom>, li kura&gcirc;i&gcirc;is
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Kroniko 15:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniam <tld/>a&jcirc;o estas alportita per homa volo, sed homoj
+        movataj de la Sankta Spirito, parolis la&ubreve; Dio
+        <fnt><bib>NT</bib>, <lok>&Pe2; 1:21</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="profet.0ajxo.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      <ref tip="dif" cel="dir.antaux0o">Anta&ubreve;diro</ref>:
+      <ekz>
+        <tld/>a&jcirc;o pri Damasko: jen Damasko ne plu estos urbo, sed &gcirc;i estos amaso da
+        ruina&jcirc;oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 17:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        balda&ubreve; pruvi&gcirc;is la vero de lia <tld/>a&jcirc;o, ke la bur&gcirc;aj esperantistoj mem ektimos
+        la talismanan valoron, kiun Esperanto posedas en la manoj de laboristoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni fojfoje e&ccirc; a&ubreve;dis, ke la mondo alproksimi&gcirc;as al sia fino, la&ubreve; (miskomprenita)
+        majaa <tld/>a&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/010777.php">&Gcirc;is la tero tremas</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="auxgur.0o">a&ubreve;guro</ref>,
+      <ref cel="promes.0o">promeso</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_r;&c_o;&c_c;&c_t;&c_v;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd>Prophezeiung</trd>,
+    <trd>Verk&uuml;ndigung</trd>,
+    <trd>Weissagung</trd>
+  </trdgrp>
+  <trd lng="en">prophecy</trd>
+  <trd lng="es">profec&iacute;a</trd>
+  <trd lng="fr">proph&eacute;tie</trd>
+  <trdgrp lng="hu">
+    <trd>j&ouml;vend&ouml;l&eacute;s</trd>,
+    <trd>pr&oacute;f&eacute;cia</trd>
+  </trdgrp>
+  <trd lng="ja">&#x9810;&#x8A00;  <pr>&#x3088;&#x3052;&#x3093;</pr></trd>
+  <trd lng="nl">voorspelling</trd>
+  <trdgrp lng="pl">
+    <trd>proroctwo</trd>,
+    <trd>przepowiednia</trd>,
+    <trd>wieszczba</trd>
+  </trdgrp>
+  <trd lng="sv">profetia</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_r;&c_o;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_r;&#x43E;&c_c;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_r;&#x43E;&#x43A;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.25 2023/04/24 22:28:28
+Vito Redsky: +trd pl 
+
+versio 1.24 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2022/02/07 21:24:07
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+Revision 1.20  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2011/06/25 11:10:26  revo
+Dominique Pelle: seniksigis la vorton *antauxe*
+
+Revision 1.18  2009/07/09 16:30:59  revo
+Wieland Pusch: +trd bg
+
+Revision 1.17  2009/07/08 16:30:41  revo
+-->
+</vortaro>

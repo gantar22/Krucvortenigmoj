@@ -1,0 +1,345 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ankora.xml,v 1.113 2023/12/12 19:23:55 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>ankora&ubreve;</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ankora.0">
+   <kap><ofc>*</ofc><tld/></kap>
+   <gra><vspec>adverbo</vspec></gra>
+   <snc mrk="ankora.0.gxisNun">
+     <dif>
+       &Gcirc;is la nuna momento:
+       <ekz>
+         estis <tld/> trankvile kaj varme
+         <fnt><bib>Fab3</bib> <lok>Malnova tomba &scirc;tono</lok></fnt>;
+       </ekz><ekz>
+        fenomeno, kian li vidis <tld/> neniam
+        <fnt><bib>Far2</bib> <lok>&Ccirc;apitro XX</lok></fnt>;
+       </ekz><ekz>
+         la sukceso <tld/> ne estas <ref cel="cert.0a.nedubebla">certa</ref>;
+       </ekz><ekz>
+         mi lin <tld/> ne konas<fnt>Z</fnt>;
+       </ekz><ekz>
+          homo <tld/> juna
+          <fnt><bib>Far3</bib> <lok>&Ccirc;apitro XVI</lok></fnt>;
+       </ekz><ekz>
+         nia atendata amiko <tld/> ne venis;
+       </ekz><ekz>
+         &scirc;iaj fortoj <tld/> ne estis ruinigitaj.
+       </ekz>
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="jam">jam ne</ref>,
+       <ref cel="plu">ne plu</ref>.
+     </refgrp>
+     <rim>
+       Oni metu <em>ankora&ubreve;</em> anta&ubreve; la nea vorto:
+       <ekz>
+        <tld/> neniu pla&ccirc;is al &ccirc;iu<fnt><bib>PrV</bib></fnt>;
+       </ekz><ekz>
+         <tld/> neniam
+         <fnt><bib>Fab2</bib>, <lok>Malbela anasido</lok></fnt>;
+       </ekz><ekz>
+        mi scias <tld/> nenion
+        <fnt><bib>Far1</bib> <lok>&Ccirc;apitro XXI</lok></fnt>.
+       </ekz>
+     </rim>
+     <trdgrp lng="fi">
+       <trd>viel&auml;</trd>,
+       <trd>yh&auml;</trd>,
+       <trd>edelleen</trd>
+     </trdgrp>
+     <trdgrp lng="es">
+     <trd>a&uacute;n</trd>,
+     <trd>todavia</trd>
+   </trdgrp>
+   <trdgrp lng="pl">
+     <trd>jeszcze</trd>,
+     <trd>wci&aogonek;&zdot;</trd>,
+     <trd>nadal</trd>
+   </trdgrp>
+   </snc>
+
+   <snc mrk="ankora.0.aldone">
+     <dif>
+       <refgrp tip="dif">
+         <ref cel="don.al0i">Aldone</ref>,
+         <ref cel="krom.0e">krome</ref>:
+       </refgrp>
+     </dif>
+     <subsnc mrk="ankora.0.similaj">
+       <dif>
+         t.e. al anta&ubreve;a io aldoni&gcirc;as alia(j) simila(j):
+         <ekz>
+           li diris <tld/> kelkajn vortojn<fnt>Z</fnt>;
+         </ekz><ekz>
+           ili estis en la distanco de <tld/> unu mejlo de la tero
+           <fnt><bib>Fab4</bib> <lok>Historio el la dunoj</lok></fnt>.
+         </ekz>
+       </dif>
+     </subsnc>
+     <subsnc mrk="ankora.0.kaj">
+       <dif>
+         <klr>(plejparte kun anta&ubreve;a <ctl>kaj</ctl>)</klr>
+         enkondukas neatenditan kroman cirkonstancon:
+         <ekz>
+           ni devos ellernadi nur unu fremdan lingvon &mdash; kaj <tld/> tre facilan
+           <fnt><bib>EE</bib>, <lok>&ccirc;ap. 2&#170;</lok></fnt>;
+         </ekz><ekz>
+           revizoro el Peterburgo, inkognite &mdash; kaj <tld/> kun sekreta ordono
+	    <fnt>
+	      <aut>N.V. Gogol, &tZ;</aut>: <vrk>La revizoro</vrk>.
+              <lok>1:1</lok>.
+	      </fnt>.
+         </ekz>
+       </dif>
+     </subsnc>
+   </snc>
+
+   <snc mrk="ankora.0.komparativa">
+     <dif>
+       Kun komparativo &gcirc;i indikas pluan pliigon:
+       <ekz>
+         La nigra arbara limako fari&gcirc;is <tld/> pli nigra
+         <fnt><bib>Fab3</bib>, <lok>&Scirc;tono de la sa&gcirc;uloj</lok></fnt>;
+       </ekz><ekz>
+         En la krepusko la &ccirc;ambro fari&gcirc;is <tld/> pli alloga
+         <fnt><bib>Fab4</bib>, <lok>Ne&gcirc;ulo</lok></fnt>;
+       </ekz><ekz>
+          &scirc;i estis <tld/> multe pli bela ol hiera&ubreve;
+          <fnt><bib>Fab1</bib> <lok>Vojkamarado</lok></fnt>.
+        </ekz>
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="ecx.0">e&ccirc;</ref>,
+       <ref cel="cxiam.0">&ccirc;iam</ref>
+     </refgrp>
+     <trd lng="en">even<klr> (more)</klr></trd>
+   </snc>
+
+   <snc mrk="ankora.0.denove">
+     <dif>
+       <refgrp tip="sin">
+         <ref cel="nov.de0e">Denove</ref>,
+         <ref cel="re.0e">ree</ref>,
+         <ref cel="plu.0e">plue</ref>:
+       </refgrp>
+       <ekz>
+         ripetu la lecionon <tld/> unu fojon;
+       </ekz><ekz>
+        ili <tld/> unu fojon <klr>[...]</klr>dancis
+        <fnt><bib>Fab3</bib> <lok>Lino</lok></fnt>;
+       </ekz><ekz>
+         Se li divenos &gcirc;uste, tiam li devos veni <tld/> du fojojn
+         <fnt><bib>Fab1</bib>, <lok>Vojkamarado</lok></fnt>.
+       </ekz>
+     </dif>
+     <trdgrp lng="fi">
+       <trd>viel&auml;</trd>,
+       <trd>viel&auml;kin</trd>,
+       <trd>lis&auml;ksi</trd>
+     </trdgrp>
+     <trd lng="es">otra vez</trd>
+   </snc>
+
+   <snc mrk="ankora.0.jam">
+     <dif>
+       <ref cel="jam.0">Jam</ref> tiom frue:
+       <ekz>
+         <tld lit="A"/> en la ventro li retenis sian fraton, kaj
+         viri&gcirc;inte li luktis kun Dio
+         <fnt><bib>MT</bib>, <lok>&Hos; 12:3</lok></fnt>;
+       </ekz><ekz>
+         <tld lit="A"/> en la fino de l&#8217; jaro 1887, t.e. <tld/> anta&ubreve;
+         la ricevo de mia libreto, la Amerika Filozofia Societo en
+         Filadelfio <klr>(&#8230;)</klr> elektis komitaton <klr>(&#8230;)</klr>
+         <fnt><aut>&Z;</aut>:
+           <vrk>Aldono al la Dua Libro de l' Lingvo Internacia</vrk>.
+         </fnt>;
+       </ekz>
+     </dif>
+     <trdgrp lng="en">
+       <trd>as far back as</trd>,
+       <trd>as early as</trd>
+     </trdgrp>
+   </snc>
+   <trd lng="af">steeds</trd>
+   <trd lng="am">&#x12A0;&#4609;&#4757;&#x121D;</trd>
+   <trd lng="ar">&a_l;&a_A; &#x64A;&a_z;&a_A;&a_l;</trd>
+   <trd lng="az">h&#601;l&#601;</trd>
+   <trd lng="be">&c_ja;&c_sh;&c_ch;&c_e;</trd>
+   <trd lng="bn">&#x98F;&#2454;&#x9A8;&#2451;</trd>
+   <trd lng="br">c'hoazh</trd>
+   <trd lng="bs">jo&scaron;</trd>
+   <trd lng="co">ancora,</trd>
+   <trd lng="cy">dal</trd>
+   <trd lng="da">stadig</trd>
+   <trdgrp lng="en">
+     <trd>still</trd>,
+     <trd>yet</trd>
+   </trdgrp>
+   <trd lng="ca">encara</trd>
+   <trd lng="cs">je&scaron;t&ecaron;</trd>
+   <trd lng="de">noch</trd>
+   <trd lng="et">veel</trd>
+  <trd lng="eu">oraindik</trd>
+  <trd lng="fr">encore</trd>
+   <trd lng="fy">noch</trd>
+  <trd lng="ga">f&#xF3;s</trd>
+  <trd lng="gd">fhathast</trd>
+  <trd lng="gl">a&#xED;nda</trd>
+  <trd lng="gu">&#xAB9;&#xA9C;&#xAC1; &#xAAA;&#xAA3;</trd>
+  <trd lng="ha">har yanzu</trd>
+  <trd lng="he">&#x5E2;&#x5D5;&#x5B9;&#x5D3;</trd>
+  <trd lng="hi">&#2309;&#x92C; &#2340;&#2325;</trd>
+  <trd lng="hmn">tseem</trd>
+  <trd lng="hr">jo&scaron; uvijek</trd>
+  <trd lng="ht">toujou</trd>
+  <trd lng="hu">m&eacute;g</trd>
+   <trd lng="hy">&#1380;&#1381;&#x57C;</trd>
+  <trd lng="id">masih</trd>
+   <trd lng="ig">ka</trd>
+  <trd lng="is">enn</trd>
+  <trd lng="it">ancora</trd>
+   <trd lng="ja">&#x307E;&#12384;</trd>
+  <trd lng="jv">isih</trd>
+  <trd lng="ka">&#x10EF;&#x10D4;&#x10E0; &#x10D9;&#x10D8;&#x10D3;&#x10D4;&#x10D5;</trd>
+  <trd lng="kk">&#x49B;&c_i;&#x43C;&#x44B;&#x43B;&c_s;&#x44B;&c_z;</trd>
+  <trd lng="km">&#6035;&#x17C5;&#x178F;&#x17C2;&#6040;&#x17B6;&#6035;</trd>
+  <trd lng="kn">&#xC87;&#xCA8;&#xCCD;&#xCA8;&#xCC2;</trd>
+  <trd lng="ko">&#xC5EC;&#xC804;&#xD788;</trd>
+  <trd lng="ku">h&#xEE;n</trd>
+  <trd lng="ky">&c_d;&c_a;&c_g;&#x44B;</trd>
+  <trd lng="lat">etiam</trd>
+  <trd lng="lo">&#xE8D;&#xEB1;&#xE87;</trd>
+  <trd lng="lt">dar</trd>
+  <trd lng="lv">v&#275;l</trd>
+  <trd lng="mg">mbola</trd>
+  <trd lng="mi">tonu</trd>
+  <trd lng="mk">&c_u;&c_sh;&c_t;&c_je;</trd>
+  <trd lng="ml">&#xD07;&#xD2A;&#xD4D;&#xD2A;&#xD4B;&#xD34;&#xD41;&#xD02;</trd>
+  <trd lng="mn">&c_h;&#x44D;&c_v;&#x44D;&#x44D;&c_r;</trd>
+  <trd lng="mr">&#2309;&#x91C;&#2370;&#2344;&#2361;&#2368;</trd>
+  <trd lng="ms">masih</trd>
+  <trd lng="mt">xorta</trd>
+  <trd lng="my">&#4102;&#4146;</trd>
+  <trd lng="ne">&#2309;&#x91D;&#2376; &#x92A;&#2344;&#x93F;</trd>
+  <trd lng="nl">nog</trd>
+   <trdgrp lng="no">
+     <trd>enn&aring;</trd>,
+     <trd>enda</trd>
+   </trdgrp>
+   <trd lng="ny">adakali</trd>
+  <trd lng="pa">&#xA05;&#xA1C;&#xA47; &#xA35;&#xA40;</trd>
+  <trdgrp lng="pl">
+     <trd>jeszcze</trd>,
+     <trd>ponownie</trd>,
+     <trd>znowu</trd>,
+     <trd>zn&oacute;w</trd>
+   </trdgrp>
+   <trd lng="ps">&#x62A;&a_r; &a_A;&a_w;&a_s;&a_h;</trd>
+  <trdgrp lng="pt">
+    <trd>ainda</trd>,
+    <trd>at&eacute; agora</trd>
+   </trdgrp>
+   <trd lng="ro">&icirc;nc&abreve;</trd>
+   <trd lng="ru">&c_je;&c_shch;&c_jo;</trd>
+   <trd lng="rw">biracyaza</trd>
+  <trd lng="sd">&a_A;&#1667;&a_A;</trd>
+  <trd lng="si">&#xDAD;&#xDC0;&#xDB8;&#xDAD;&#xDCA;</trd>
+  <trd lng="sk">e&scaron;te</trd>
+  <trd lng="sl">vedno</trd>
+  <trd lng="sm">pea</trd>
+  <trd lng="sn">vachiri</trd>
+  <trd lng="so">weli</trd>
+  <trd lng="sq">ende</trd>
+  <trd lng="st">e sa ntse e</trd>
+  <trd lng="su">masih</trd>
+  <trd lng="sw">bado</trd>
+  <trd lng="ta">&#xB87;&#xBA9;&#xBCD;&#xBA9;&#xBC1;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC07;&#xC2A;&#xC4D;&#xC2A;&#xC1F;&#xC3F;&#xC15;&#xC40;</trd>
+  <trd lng="tg">&c_t;&#x43E; &#x4B3;&#x43E;&#x43B;</trd>
+  <trd lng="th">&#xE22;&#xE31;&#xE07;&#xE04;&#xE07;</trd>
+  <trd lng="tl">pa rin</trd>
+  <trd lng="tt">&#x4BB;&c_a;&#x43C;&c_a;&#x43D;</trd>
+  <trd lng="uk">&c_shch;&c_je;</trd>
+  <trd lng="ur">&a_A;&a_b; &a_b;&#x6BE;&#x6CC;</trd>
+  <trd lng="uz">hali</trd>
+  <trd lng="vi">v&#x1EAB;n</trd>
+  <trd lng="xh">nangoku</trd>
+  <trd lng="yi">&#x5E0;&#x5D0;&#x5B8;&#x5DA;</trd>
+  <trd lng="yo">si tun</trd>
+  <trd lng="zu">namanje</trd>
+</drv>
+
+<drv mrk="ankora.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="ankora.0a.KOMUNE">
+    <dif>
+      Plua, da&ubreve;riganta, aldonata:
+      <ekz>
+        ni <klr>...</klr> verkis <tld/>an strofon
+        <fnt>
+          <aut>L. Ganman</aut>,
+          <vrk><url ref="http://www.linusganman.se/j8j.htm">
+          &Gcirc;oja</url></vrk>,
+          <lok>2015</lok>
+        </fnt>;
+      </ekz><ekz>
+        kion pensi pri la <tld/>a diskriminacio kontra&ubreve; gejaj kaj
+        lesbaj fiduloj, kion pensi pri la <tld/>a malpermeso uzi kondomojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit BERVELING</aut>
+          <vrk><url ref="&Monato;/2001/006823.html">OPINIO: TRO SENKOSTA
+          PENTEMO</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_d;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;</trd>,
+    <trd>&c_d;&c_a;&c_l;&c_je;&c_j;&c_sh;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de"><klr>(ein) </klr> weiterer</trd>
+  <trdgrp lng="es">
+    <trd>suplementario</trd>,
+    <trd>adicional</trd>,
+    <trd>de m&aacute;s</trd>,
+    <trd>de una vez m&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>subsistant</trd>
+    <trd>suppl&eacute;mentaire</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.113 2023/12/12 19:23:55
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.112 2023/03/28 06:33:34
+Paul Peeraerts: &Monato;
+
+versio 1.111 2022/12/14 10:30:43
+Sergio Pokrovskij: + 3 snc-oj
+
+versio 1.110 2022/08/22 08:39:31
+Dmitri Gabinski: + trd be
+
+versio 1.109 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.31  2016/08/14 01:10:17  revo
+Alejandro Escobedo: +trd es
+
+Revision 1.30  2016/03/18 19:10:36  revo
+Jeromo Vasxe: vspec adverbo
+
+Revision 1.29  2015/03/22 23:10:20  revo
+-->
+</vortaro>

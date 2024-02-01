@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kanoni1.xml,v 1.22 2023/12/03 08:00:22 revo Exp $">
+<kap>
+  <rad>kanoniz</rad>/i
+  <fnt>B</fnt>
+</kap>
+
+<drv mrk="kanoni1.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="kanon.en0igi">Enkanonigi</ref>:  
+      <ekz>
+        la eklezio <tld/>is nur 86 el la &gcirc;isnunaj 265 papoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2012/010367.php">Organdonanto jes,
+          organdonanto ne</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Estas nenia motivo uzi tiun formon, malsimilan al la normala
+      esperanta <ctl>enlistigi</ctl> ktp.  La&ubreve; la 15a Regulo oni
+      preferu <ctl>enkanonigi</ctl>.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>kanonizovat</trd>,
+    <trd>prohl&aacute;sit za svat&eacute;ho</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>kanonisieren</trd>,
+    <trd>heiligsprechen</trd>
+  </trdgrp>
+  <trd lng="es">canonizar</trd>
+  <trd lng="fr">canoniser</trd>
+  <trdgrp lng="hu">
+    <trd>szentt&eacute; avat</trd>,
+    <trd>kanoniz&aacute;l</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8056;&#x5217;&#x306B;&#x52A0;&#x3048;&#x308B;  <pr>&#x3072;&#x3058;&#x308A;&#x308C;&#x3064;&#x306B;&#x304F;&#x308F;&#x3048;&#x308B;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>canoniseren<klr tip="ind"> (ontr.)</klr></trd>,
+    <trd>heilig verklaren<klr tip="ind"> (ontr.)</klr></trd>,
+    <trd>zalig verklaren<klr tip="ind"> (ontr.)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">kanonizowa&cacute;</trd>
+  <trdgrp lng="ro">
+    <trd>canoniza</trd>,
+    <trd>declara ca sf&acirc;nt</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_a;&c_n;&c_o;&c_n;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">kanonizova&tcaron;</trd>
+  <trd lng="uk">&#x43A;&#x430;&#x43D;&#x43E;&#x43D;&#x456;&#x437;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E0A;&#x5929;&#x5802; <pr>sh&#xE0;ngti&#x101;nt&#xE1;ng</pr></trd>,
+    <trd>&#x5FB7;&#x9AD8; <pr>d&#xE9;g&#x101;o</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/18 14:48:09
+revo: transskribo per <pr>
+
+Revision 1.17  2018/12/25 14:10:15  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.16  2018/12/17 21:10:18  revo
+Wolfram Diestel: +ekz, +germ trd
+
+Revision 1.15  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2009/08/23 16:33:31  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.12  2004/10/31 17:33:44  revo
+Marc Bavant: +trd fr, sxovis ref ekster dif
+
+Revision 1.11  2004/03/04 17:31:00  revo
+-->
+</vortaro>

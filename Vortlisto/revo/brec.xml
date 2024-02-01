@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: brec.xml,v 1.7 2023/12/27 08:29:14 revo Exp $">
+<kap>
+    <rad>brec</rad>/o <fnt><bib>Viki</bib></fnt>
+</kap>
+<drv mrk="brec.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="brec.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Sudgermana salita nodoforma baka&jcirc;o el <ref tip="vid" cel="gist.0o.KUI">gisto</ref>pasto:
+      <ekz>
+        en <nom>Speyer</nom> la <tld/>o ja estas konsiderinda ekonomia faktoro, sed anka&ubreve; tie oni
+        ne pli gajnas per altigo de la pezo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2010/010142.php">JJB-breco</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        baka&jcirc;oj el gistopasto estas bulketulo, benjeto, <tld/>o a&ubreve; buterkuko
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=301950">Gistopasto</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        giganta <tld/>o pendas je la pinto de alta fosto, kaj viroj &jcirc;etas klabojn sur la <tld/>egon
+        por faligi &gcirc;in
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=11834">Kirchhellen</url></lok>
+        </fnt>.
+      </ekz>
+     </dif>
+     <ref tip="super" cel="kraken.0o.nodoforma">krakeno<sncref/></ref>
+    <trdgrp lng="zh">
+    <trd>&#x5B57;&#x5F62;&#38754;&#21253; <pr>z&#xEC;x&#xED;ngmi&#xE0;nb&amacron;o</pr></trd>,
+    <trd>&#26898;&#x76D0;&#21367;&#x997C; <pr>ji&amacron;oy&#xE1;nju&#x1CE;nb&#x1D0;ng</pr></trd>,
+    <trd>&#x626D;&#x7D50;&#38754;&#21253; <pr>ni&#x1D4;ji&#xE9;mi&#xE0;nb&amacron;o</pr></trd>
+  </trdgrp>
+</snc>
+<trdgrp lng="be">
+  <trd>&c_b;&c_r;&c_e;&c_c;&c_a;&c_l;&c_mol;</trd>,
+  <trd>&c_k;&c_r;&c_e;&c_n;&c_mol;&c_d;&c_z;&c_je;&c_l;&c_mol;</trd>
+</trdgrp>
+  <trd lng="de">Brezel</trd>
+  <trd lng="en">pretzel</trd>
+  <trd lng="fr">bretzel</trd>
+  <trd lng="ru">&c_B;&c_r;&c_je;&c_c;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="uk">&#x43A;&c_r;&c_je;&#x43D;&c_d;&c_je;&#x43B;&#x44C;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2023/12/27 08:29:14
+Dmitri Gabinski: + trd be
+
+versio 1.5 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.3 2020/09/16 16:32:20
+Wolfram Diestel: +ekz, ref krakeno
+
+Revision 1.1  2017/06/28 20:10:32  revo
+Damien Brucker: nova artikolo
+-->
+</vortaro>

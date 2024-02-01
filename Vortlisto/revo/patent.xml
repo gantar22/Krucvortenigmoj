@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: patent.xml,v 1.24 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
+  <rad>patent</rad>/o
+</kap>
+<drv mrk="patent.0o">
+  <kap><ofc>*</ofc><tld/>o </kap>
+  <snc>
+    <dif>
+      Dokumento rajtiganta iun ekskluzive ekspluati iun 
+      <ref cel="invent.0o">inventon</ref> 
+      <ekz><fnt><bib>F</bib>, <lok>&FE; 3</lok></fnt></ekz>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_e;&c_n;&c_t;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_t;&c_je;&c_n;&c_t;</trd>
+  <trd lng="br">breou</trd>
+  <trd lng="ca">patent</trd>
+  <trd lng="cs">patent na vyn&aacute;lez</trd>
+  <trd lng="de">Patent</trd>
+  <trd lng="en">patent</trd>
+  <trd lng="fr">brevet<klr tip="ind"> (d'invention)</klr></trd>
+  <trd lng="hu">szabadalom</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7279;&#x8A31;  <pr>&#x3068;&#x3063;&#x304D;&#x3087;</pr></trd>,
+    <trd>&#x7279;&#x8A31;&#x8A3C;  <pr>&#x3068;&#x3063;&#x304D;&#x3087;&#x3042;&#x304B;&#x3057;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">patent</trd>
+  <trd lng="pl">patent</trd>
+  <trd lng="pt">patente</trd>
+  <trd lng="ro">brevet de inven&#x21B;ie</trd>
+  <trd lng="ru">&c_p;&c_a;&c_t;&c_je;&c_n;&c_t;</trd>
+  <trd lng="sk">patent na vyn&aacute;lez</trd>
+  <trd lng="sv">patent</trd>
+  <trd lng="uk">&#x43F;&#x430;&#x442;&#x435;&#x43D;&#x442;</trd>
+</drv>
+
+<drv mrk="patent.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Garantii per <tld/>o:
+      <ekz>
+        <tld/>ita aparato.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_e;&c_n;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_t;&c_je;&c_n;&c_t;&c_o;&c_v;&c_a;&c_m;</trd>
+  <trd lng="br">breoua&ntilde;</trd>
+  <trd lng="ca">patentar</trd>
+  <trdgrp lng="cs">
+    <trd>chr&aacute;nit patentem</trd>,
+    <trd>patentovat</trd>
+  </trdgrp>
+  <trd lng="de">patentieren</trd>
+  <trd lng="en">patent</trd>
+  <trd lng="fr">breveter</trd>
+  <trd lng="hu">szabadalmaztat</trd>
+  <trd lng="ja">&#x7279;&#x8A31;&#x3092;&#x4E0E;&#x3048;&#x308B;  <pr>&#x3068;&#x3063;&#x304D;&#x3087;&#x3092;&#x3042;&#x305F;&#x3048;&#x308B;</pr></trd>
+  <trd lng="nl">patenteren</trd>
+  <trd lng="pl">opatentowa&cacute;</trd>
+  <trd lng="pt">patentear</trd>
+  <trd lng="ro">patenteaz&abreve;</trd>
+  <trd lng="ru">&c_z;&c_a;&c_shch;&c_i;&c_shch;&c_a;&c_t;&c_mol; <ind>&c_p;&c_a;&c_t;&c_je;&c_n;&c_t;&c_o;&c_m;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>chr&aacute;ni&tcaron; patentom</trd>,
+    <trd>patentova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">patentera</trd>
+  <trdgrp lng="uk">
+    <trd>&#x437;&#x430;&#x445;&#x438;&#x449;&#x430;&#x442;&#x438; &#x43F;&#x430;&#x442;&#x435;&#x43D;&#x442;&#x43E;&#x43C;</trd>,
+    <trd>&#x434;&#x430;&#x432;&#x430;&#x442;&#x438; &#x43F;&#x430;&#x442;&#x435;&#x43D;&#x442;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.21 2022/01/09 22:31:29
+Vito Redsky: + trd pl + trd ro
+
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/01/03 21:10:20  revo
+Marc Rausell: +trd ca
+
+Revision 1.16  2011/01/09 18:10:09  revo
+Wieland Pusch: +trd bg
+
+Revision 1.15  2011/01/09 13:10:08  revo
+Russ Williams: +trd en
+
+Revision 1.14  2006/02/25 17:33:28  revo
+-->
+</vortaro>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tekstur.xml,v 1.9 2022/03/28 12:03:04 revo Exp $">
+<kap>
+  <rad>tekstur</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="tekstur.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tekstur.0o.KOMUNE">
+    <dif>
+      Tu&scirc;aspekto de objekto: <ref cel="glat.0a">glata</ref>, 
+      grajna, <ref cel="sulk.0a">sulka</ref>, <ref cel="rasp.0a">raspa</ref>...:
+      <ekz>
+        la gala <tld/>o de lia ha&ubreve;to estis tio, kion <nom>Fernanda</nom>
+        rimarkis &ccirc;e la homo
+        <fnt>
+        <aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>,
+        <vrk>Cent Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>;
+      </ekz>
+      <ekz>
+        ili fakte kontrolis la <tld/>on, la kvaliton de la 
+        grundo <klr>[&#x2026;]</klr> kaj anka&ubreve; &gcirc;ian kapablon bone
+        rendimenti
+        <fnt>
+          <aut>R. P. Sawadogo</aut>,
+          <vrk>Relerni kompo&scirc;tadon</vrk>,
+          <lok><url ref="http://www.globidar.org/solidareco/mseo72.htm">
+          monda solidareco, 2002-01, numero 72a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konsistenc.0o.SUB">konsistenco</ref>,
+      <ref cel="relief.0o.FORM">reliefo</ref>,
+      <ref cel="strukt.0o.konstruo">strukturo</ref>
+    </refgrp>
+  </snc>
+  <rim mrk="tekstur.0o.RIM_HOM">
+    <ref tip="hom" cel="tekstur1.0o">Teksturo</ref> estas anka&ubreve;
+    gotika literstilo.
+  </rim>
+  <trd lng="ca">textura</trd>
+  <trd lng="de">Textur</trd>
+  <trd lng="en">texture</trd>
+  <trdgrp lng="fr">
+    <trd>grain<klr> (texture)</klr></trd>,
+    <trd>texture</trd>
+  </trdgrp>
+  <trd lng="it">grana<klr> (di superficie)</klr></trd>
+  <trd lng="pl">tekstura</trd>
+  <trd lng="sk">text&uacute;ra</trd>
+  <trd lng="cs">textura</trd>
+  <trd lng="uk">&#x442;&#x435;&#x43A;&#x441;&#x442;&#x443;&#x440;&#x430;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2020/08/26 06:32:21
+Wolfram Diestel: +ref-oj, trd de
+
+versio 1.7 2020/08/25 16:10:34
+Brian Moon: +trd en
+
+Revision 1.5  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2012/08/04 17:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.3  2011/05/27 11:10:10  revo
+Jeromo Vasxe: + 1 ref
+
+Revision 1.2  2008/10/30 19:25:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2007/04/24 16:30:24  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

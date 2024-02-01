@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: verdig.xml,v 1.25 2023/10/21 16:50:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>verdigr</rad>/o
+</kap>
+<drv mrk="verdig.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="verdig.0o.patino">
+    <dif>
+      <ref tip="super" cel="patin.0o">Patino</ref> verdeta, formi&gcirc;anta pro vetero 
+      sur kupraj tegmentoj ks:
+      <ekz>
+        la ventkoko <klr>[&#x2026;]</klr> sidigita tiel alte <klr>[&#x2026;]</klr> &scirc;vitas per <tld/>o
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Korta koko kaj ventkoko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i gustas kiel <tld/>o, tute kiel latuno
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&ccirc;apitro 34a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o disfalis en pulvoraj flokoj
+        <fnt>
+          <aut>H. G. Wells, trad. E. W. Amos</aut>
+          <vrk>La tempo-ma&scirc;ino</vrk>
+          <lok>&ccirc;apitro 5a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/1/1b/Florence-Neptune's_Verdigris.jpg/320px-Florence-Neptune's_Verdigris.jpg" prm="CC0">patino <tld/>a &ccirc;e fontano de Neptuno, Florenco, Italujo
+        <fnt>
+          <aut>Whythealgarve, propra verko</aut>
+          <lok><url ref="&WCW;/File:Florence-Neptune's_Verdigris.jpg">&WCW;/File:Florence-Neptune's_Verdigris.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="ca">verdet</trd>
+    <trd lng="de">Gr&uuml;nspan</trd>
+    <trdgrp lng="hu">
+      <trd>r&eacute;zrozsda</trd>,
+      <trd>r&eacute;zoxid</trd>
+      <trd>patina</trd>
+    </trdgrp>
+    <trd lng="nl">kopergroen</trd>
+    <trdgrp lng="pl">
+      <trd>patyna</trd>,
+      <trd>&sacute;nied&zacute;</trd>,
+      <trd>grynszpan szlachetny</trd>,
+      <trd>w&eogonek;glan hydroksomiedzi(II)</trd>
+    </trdgrp>
+    <trd lng="pt">verdete</trd>
+    <trdgrp lng="ru">
+      <trd>&c_m;&c_je;&c_d;&c_n;&c_a;&c_ja; &c_z;&c_je;&c_l;&c_je;&c_n;&c_mol;</trd>,
+      <trd>&c_ja;&c_r;&c_mol;-&c_m;&c_je;&c_d;&c_ja;&c_n;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="verdig.0o.kolorilo">
+    <uzo tip="fak">KEM</uzo>
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Dubaza <ref cel="kupr.0o">kupra</ref> <ref tip="super" cel="acetat.0o">acetato</ref>, 
+      <frm>Cu(CH<sub>3</sub>COO)<sub>2</sub></frm>, venena verda 
+      <ref tip="super" cel="kolor.0ilo">kolorilo</ref>.
+    </dif>
+    <bld lok="&WCU;/thumb/d/d2/Verdigris_Gruenspan_vert-de-gris.jpg/320px-Verdigris_Gruenspan_vert-de-gris.jpg" prm="PD"><tld/>o-kristaloj sur kuprodrato
+        <fnt>
+          <aut>Patchy, propra verko</aut>
+          <lok><url ref="&WCW;/File:Verdigris_Gruenspan_vert-de-gris.jpg">&WCW;/File:Verdigris_Gruenspan_vert-de-gris.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="ca">acetat de coure (II)</trd>
+    <trdgrp lng="de">
+      <trd>Gr&uuml;nspan</trd>,
+      <trd>Kupfer(II)-acetat</trd>
+    </trdgrp>
+    <trd lng="en">verdigris</trd>
+    <trd lng="fr">ac&eacute;tate de cuivre</trd>
+    <trd lng="hu">b&aacute;zisos <ind>r&eacute;z(II)-acet&aacute;t</ind></trd>
+    <trdgrp lng="pl">
+      <trd>grynszpan</trd>,
+      <trd>hydroksyoctan <ind>miedzi</ind>(II)</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">m&ecaron;d&ecaron;nka</trd>
+  <trd lng="fr">vert-de-gris</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30ED;&#x30AF;&#x30B7;&#x30E7;&#x30A6;</trd>,
+    <trd>&#x7DD1;&#x9752;  <pr>&#x308D;&#x304F;&#x3057;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x9752;&#x3055;&#x3073;  <pr>&#x3042;&#x304A;&#x3055;&#x3073;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>medenka</trd>,
+    <trd>oxid me&dcaron;nat&yacute;</trd>,
+    <trd>patina</trd>,
+    <trd>z&aacute;sadit&yacute; uhli&ccaron;itan me&dcaron;nat&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_ib;&c_d;&#x43D;&c_a; &c_z;&c_je;&#x43B;&c_je;&#x43D;&#x44C;</trd>,
+    <trd>&#x43C;&c_ib;&c_d;&#x44F;&#x43D;&#x43A;&c_a; (&c_f;&c_a;&c_r;&c_b;&c_a;)</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.23 2023/07/16 17:29:45
+Ulrich Fellmann: verdigro: +1 plia DE trd
+
+versio 1.22 2022/05/06 12:17:21
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2021/10/12 20:28:51
+Wolfram Diestel: precizigo de dif, +ekz-oj, bld-oj
+
+Revision 1.18  2017/06/13 16:10:16  revo
+Ludoviko Francisco: +trd fr
+
+Revision 1.17  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2015/01/17 08:10:17  revo
+-->
+</vortaro>

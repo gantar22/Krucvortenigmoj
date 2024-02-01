@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: psikosomat.xml,v 1.8 2022/07/13 21:31:38 revo Exp $">
+<kap>
+  <rad>psikosomat</rad>/a <fnt><bib>PIV1</bib></fnt>,
+  <var><kap><rad var="&hcirc;">psi&hcirc;osomat</rad>/a</kap></var>
+</kap>
+<drv mrk="psikosomat.0a">
+  <kap><tld/>a,
+  <var><kap><tld var="&hcirc;"/>a</kap></var></kap>
+  <snc mrk="psikosomat.0a.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Rilata al efiko de spirito al korpo:
+      <ekz>
+        mi febras... ver&scirc;ajne <tld/>e
+        <fnt><aut>S. Larbar</aut>, <vrk>Karuseloj</vrk>, 
+        <lok>1987</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u mi ne a&ubreve;dis pri <tld/>aj efikoj? neniam suferis 
+        stomakdoloron pro timo? ru&gcirc;igi&gcirc;is a&ubreve; &scirc;vitis pro embaraso?
+        <fnt>
+          <aut>P. Thorsen</aut>,
+          <vrk><url ref="http://www.poulthorsen.dk/fungafuso.htm">
+          Funga fu&scirc;o</url></vrk>,
+          <lok>en: Stokita Vino, 1995</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kapdoloro povas esti <tld var="&hcirc;"/>a
+        <fnt>
+          <aut>T. Steele</aut>
+          <vrk>Konvinka Kamufla&jcirc;o</vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_s;&c_y;&c_h;&c_a;&c_s;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="ca">psicosom&agrave;tic</trd>
+  <trd lng="cs">psychosomatick&yacute;</trd>
+  <trd lng="fr">psychosomatique</trd>
+  <trd lng="pl">psychosomatyczny</trd>
+  <trd lng="ro">psihosomatic</trd>
+  <trd lng="sk">psychosomatick&yacute;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2022/07/13 21:31:38
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.7 2021/06/21 09:32:46
+Dmitri Gabinski: + trd be
+
+versio 1.6 2020/09/07 20:10:33
+Wolfram Diestel: +tld-var
+
+Revision 1.4  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2012/09/23 12:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.1  2012/09/22 20:10:10  revo
+Jeromo Va&scirc;e: nova artikolo
+-->
+</vortaro>

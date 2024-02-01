@@ -1,0 +1,752 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rev.xml,v 1.50 2023/10/20 19:20:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>rev</rad>/i <fnt><bib>Fab1</bib></fnt>
+</kap>
+<drv mrk="rev.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <snc mrk="rev.0i.PSI">
+    <gra><vspec>x</vspec></gra>
+    <dif>
+      <ref tip="super" cel="imag.0i">Imagi</ref> tion, kion oni forte deziras:
+      <ekz>
+        se estus mi ri&ccirc;a! &dash; tre ofte mi <tld/>is, kaj ofte pri tio e&ccirc; pre&gcirc;on mi levis
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> <tld/>is nun, ke li ripozas sub fagoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>An&gcirc;elo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> a&ubreve;skultis la kantojn <klr>[&#x2026;]</klr> de la pastrino kaj
+        <tld/>is pri &scirc;i
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bona kaporalo <tld/>as esti generalo
+        <klr>(kp <ref cel="ambici.0i">ambicii</ref>)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        Kristo <tld/>is pri frateco de la homaro
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Pri la homaranismo</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aspir.0i">aspiri</ref>,
+      <ref cel="dezir.0i">deziri</ref>,
+      <ref cel="songx.0i">son&gcirc;i</ref>,
+      <ref cel="kastel.0o">kastelo</ref>,
+      <ref cel="aer.0o">aero</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_m;&c_je;&c_ch;&c_t;&c_a;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>sn&iacute;t</trd>,
+    <trd>tou&zcaron;it</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ersehnen</trd>,
+    <trd>ertr&auml;umen</trd>,
+    <trd>tr&auml;umen<klr> (von)</klr></trd>,
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>dream</trd>,
+    <trd>daydream</trd>,
+    <trd>muse</trd>,
+    <trd>be in a reverie</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>sognare <klr>(a occhi aperti)</klr></trd>,
+    <trd>fantasticare</trd>,
+    <trd>vagheggiare</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>so&ntilde;ar <klr>(despierto)</klr></trd>,
+    <trd>imaginar</trd>,
+    <trd>fantasear</trd>,
+    <trd>aspirar</trd>,
+    <trd>anhelar</trd>
+  </trdgrp>
+  <trd lng="fr">r&ecirc;ver de<klr tip="amb"> (fortement
+  d&eacute;sirer)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;br&aacute;ndozik</trd>,
+    <trd>&aacute;lmodozik</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7A7A;&#x60F3;&#x3059;&#x308B;  <pr>&#x304F;&#x3046;&#x305D;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5922;&#x60F3;&#x3059;&#x308B;  <pr>&#x3080;&#x305D;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5922;&#x307F;&#x308B;  <pr>&#x3086;&#x3081;&#x307F;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>dag<ind>dromen</ind></trd>,
+    <trd>mijmeren</trd>
+  </trdgrp>
+  <trd lng="pl">marzy&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>sonhar</trd>,
+    <trd>devanear</trd>,
+    <trd>fantasiar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_je;&c_ch;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>roj&ccaron;i&tcaron;</trd>,
+    <trd>sni&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43C;&c_r;&c_ib;&#x44F;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="rev.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="rev.0a.PSI">
+    <dif>
+      Absorbata en dol&ccirc;a pensado:
+      <ekz>
+        <tld/>a rigardo
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        lumo reala a&ubreve; <tld/>a
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Moderna An&gcirc;eluso</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        utila studo, ne <tld/>a&jcirc;oj
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en sia <tld/>a mondo la bonkoraj humanistoj volas eviti la ideon de kolektiva
+        respondeco
+        <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio: 
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_je;&c_t;&c_u;&c_c;&c_je;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_r;&c_o;&c_j;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_z;&c_a;&c_m;&c_je;&c_ch;&c_t;&c_a;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>sniv&yacute;</trd>,
+    <trd>sn&iacute;lkovsk&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">vertr&auml;umt</trd>
+  <trdgrp lng="en">
+    <trd>dreamy</trd>,
+    <trd>lost in thought</trd>,
+    <trd>in a reverie</trd>
+  </trdgrp>
+  <trd lng="fr">r&ecirc;veur<klr tip="amb"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;br&aacute;ndos</trd>,
+    <trd>&aacute;lmodoz&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7A7A;&#x60F3;&#x7684;&#x306A;  <pr>&#x304F;&#x3046;&#x305D;&#x3046;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x5922;&#x306E;&#x3088;&#x3046;&#x306A;  <pr>&#x3086;&#x3081;&#x306E;&#x3088;&#x3046;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">marzycielski</trd>
+  <trd lng="ru">&c_m;&c_je;&c_ch;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">sn&iacute;vaj&uacute;ci</trd>
+  <trd lng="uk">&#x43C;&c_r;&c_ib;&c_j;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="rev.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rev.0o.PSI">
+    <dif>
+      <ref tip="super" cel="imag.0o">Imago</ref> de feli&ccirc;igaj, dezirataj aferoj:
+      <ekz>
+        plekti <tld/>on;
+      </ekz>
+      <ekz>
+        dronanta en <tld/>oj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi konvinki&gcirc;is, ke &gcirc;i ne indis <tld/>ojn kaj dezirojn
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio estis nur teoriaj skizoj, palaj senkorpaj fantomoj en la regiono de <tld/>oj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en Antwerpen en la 21a de a&ubreve;gusto
+          1911</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nun la unuan fojon la <tld/>o de miljaroj komencas reali&gcirc;i
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne sur Mer en la 5a de a&ubreve;gusto
+          1905</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en tiu momento el &scirc;iaj <tld/>oj el&scirc;iris &scirc;in granda bruo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fratino maldelikate de&scirc;iris la virgan vualon, kovranta la <tld/>ojn de &scirc;ia
+        koro
+        <fnt>
+          <bib>IK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aper.0ajxo">apera&jcirc;o</ref>,
+      <ref cel="fantaz.0o.fantaziajxo">fantazio</ref>,
+      <ref cel="iluzi.0o">iluzio</ref>,
+      <ref cel="utopi.0o">utopio</ref>,
+      <ref cel="songx.0o">son&gcirc;o</ref>,
+      <ref cel="vizi.0o">vizio</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_m;&c_je;&c_ch;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>sen</trd>,
+    <trd>touha</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>(Tag-)Traum</trd>,
+    <trd>Schwarm <klr>(Traum)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>dream</trd>,
+    <trd>daydream</trd>,
+    <trd>reverie</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>sue&ntilde;o <klr>(aspiraci&oacute;n)</klr></trd>,
+    <trd>anhelo</trd>,
+    <trd>aspiraci&oacute;n</trd>,
+    <trd>ilusi&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>sogno <klr>(aspirazione)</klr></trd>,
+    <trd>fantasticheria</trd>,
+    <trd>illusione</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>r&ecirc;verie</trd>,
+    <trd>r&ecirc;ve<klr tip="amb"> (&eacute;veill&eacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;br&aacute;nd</trd>,
+    <trd>&aacute;lom <klr tip="ind">(&aacute;br&aacute;nd)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7A7A;&#x60F3;  <pr>&#x304F;&#x3046;&#x305D;&#x3046;</pr></trd>,
+    <trd>&#x5922;  <pr>&#x3086;&#x3081;</pr></trd>,
+    <trd>&#x9858;&#x671B;  <pr>&#x304C;&#x3093;&#x307C;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">marzenie</trd>
+  <trd lng="ru">&c_m;&c_je;&c_ch;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>sen</trd>,
+    <trd>t&uacute;&zcaron;ba</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43C;&c_r;&c_ib;&#x44F;</trd>
+  <trd lng="zh">&#x68A6;&#x60F3;</trd>
+</drv>
+
+<drv mrk="rev.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="rev.0ema.KOMUNE">
+    <dif>
+      Ema al <tld/>ado; kvaza&ubreve; mense foresta;
+      montranta <tld/>an animstaton:
+      <ekz>
+        tiu voja&gcirc;anto havis <klr>[&#x2026;]</klr> <tld/>emajn okulojn kaj strange noblajn
+        trajtojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>emaj iom brulantaj brunaj okuloj
+        <fnt>
+          <aut>V. Stankievi&ccirc;</aut>,
+          <vrk><url ref="http://eo.wikisource.org/wiki/El_la_vivo_de_esperantistoj/Teksto">
+          El la vivo de esperantistoj</url></vrk>,
+          <lok>1896</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rigardoj <klr>[&#x2026;]</klr> sopiraj a&ubreve; <tld/>emaj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i venkis la <tld/>emon, saltis el la lito
+        <fnt>
+          <bib>IK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_je;&c_t;&c_u;&c_c;&c_je;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_r;&c_o;&c_j;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_m;&c_je;&c_ch;&c_t;&c_a;&c_t;&c_je;&c_l;&c_je;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>sniv&yacute;</trd>,
+    <trd>sn&iacute;lkovsk&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>vertr&auml;umt</trd>,
+    <trd>schw&auml;rmerisch</trd>
+  </trdgrp>
+  <trd lng="es">so&ntilde;ador <klr>(despierto)</klr></trd>
+  <trd lng="fr">r&ecirc;veur<klr> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x7A7A;&#x60F3;&#x7656;&#x306E;  <pr>&#x304F;&#x3046;&#x305D;&#x3046;&#x304F;&#x305B;&#x306E;</pr></trd>,
+    <trd>&#x5922;&#x307F;&#x304C;&#x3061;&#x306E;  <pr>&#x3086;&#x3081;&#x307F;&#x304C;&#x3061;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">rozmarzony</trd>
+  <trd lng="sk">sniv&yacute;</trd>
+  <trd lng="uk">&#x43C;&c_r;&c_ib;&c_j;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="rev.0iga">
+  <kap><tld/>iga</kap>
+  <snc mrk="rev.0iga.PSI">
+    <dif>
+      Favoranta dol&ccirc;an, <tld/>an animstaton:
+      <ekz>
+        verdaj <tld/>igaj valoj
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>iga trankvileco de la pa&scirc;tejoj
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 1a,
+        renkonto</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_t;&c_h;&c_n;&c_ja;&c_ju;&c_ch;&c_y; &c_n;&c_a; <ind>&c_m;&c_a;&c_r;&c_y;</ind></trd>
+  <trd lng="cs">vyvol&aacute;vaj&iacute;c&iacute;
+  sn&ecaron;n&iacute;</trd>
+  <trd lng="de">tr&auml;umerisch</trd>
+  <trdgrp lng="es">
+    <trd>inspirador</trd>,
+    <trd>evocador</trd>,
+    <trd>ilusionante</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&eacute;vocateur<klr tip="amb"> (qui fait
+    r&ecirc;ver)</klr></trd>,
+    <trd>suggestif<klr tip="amb"> (qui fait r&ecirc;ver)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">zach&eogonek;cajacy do <ind>marze&nacute;</ind></trd>
+  <trd lng="hu">andal&iacute;t&oacute;</trd>
+  <trd lng="sk">vyvol&aacute;vaj&uacute;ci snenie</trd>
+</drv>
+
+<drv mrk="rev.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="rev.0ulo.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Homo ema al <tld/>ado, eventuale ne praktikema a&ubreve;
+      ne atenta al situacioj:
+      <ekz>
+        mi volas fari portreton de amiko, &mdash; skribis <nom>van Gogh</nom>  al
+        sia frato, &mdash; pentriston, <tld/>ulon, kiu laboras same, kiel
+        najtingalo kantas
+        <fnt><aut>J. Mura&scirc;kovskij, I. Mura&scirc;kovska</aut>,
+        <vrk>Kien 
+        fluas roj&#x2019; Castalie?</vrk>, <lok>1984-1987</lok></fnt>.
+      </ekz>
+      <ekz>
+        veran viron mongajnantan kaj realan vi elektu, ne <tld/>ulon
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>!
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ideal.0isto">idealisto</ref>,
+      <ref cel="utopi.0isto">utopiisto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_je;&c_t;&c_u;&c_c;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_m;&c_r;&c_o;&c_j;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_m;&c_je;&c_ch;&c_t;&c_a;&c_t;&c_je;&c_l;</trd>
+  <trd lng="cs">sn&iacute;lek</trd>
+  <trdgrp lng="de">
+    <trd>Traumer</trd>,
+    <trd>Schw&auml;rmer</trd>,
+    <trd>Traumt&auml;nzer</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>sognatore<klr>(persona)</klr></trd>,
+    <trd>illuso</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>r&ecirc;veur<klr> (subst.)</klr></trd>,
+    <trd>t&ecirc;te-en-l'air<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7A7A;&#x60F3;&#x5BB6;  <pr>&#x304F;&#x3046;&#x305D;&#x3046;&#x304B;</pr></trd>,
+    <trd>&#x5922;&#x60F3;&#x5BB6;  <pr>&#x3080;&#x305D;&#x3046;&#x304B;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">marzyciel</trd>
+  <trd lng="sk">rojko</trd>
+</drv>
+
+<drv mrk="rev.el0igi">
+  <kap>el<tld/>igi, <var><kap>sen<tld/>igi</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rev.el0igi.PSI">
+    <dif>
+      Sobrige remeti anta&ubreve; la realon kaj senigi je vanaj esperoj:
+      <ekz>
+        mi beda&ubreve;rinde sen<tld/>igos vin
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Clair Mah&eacute;</aut>
+          <vrk><url ref="&Monato;/2006/008904.php">La okcitana lingvo</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="iluzi.sen0igi">seniluziigi</ref>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_ch;&c_a;&c_r;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>probudit ze sn&ecaron;n&iacute;</trd>,
+    <trd>roz&ccaron;arovat</trd>,
+    <trd>zklamat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>entt&auml;uschen</trd>,
+    <trd>aus einem <ind>Traum</ind> rei&szlig;en</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>disillusion</trd>,
+    <trd>disappoint</trd>,
+    <trd>disenchant</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>decepcionar</trd>,
+    <trd>desilusionar</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>deludere</trd>,
+    <trd>disincantare</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;tromper</trd>,
+    <trd>d&eacute;sillusionner</trd>
+  </trdgrp>
+  <trd lng="hu">ki&aacute;br&aacute;nd&iacute;t</trd>
+  <trd lng="ja">&#x7A7A;&#x60F3;&#x304B;&#x3089;&#x76EE;&#x3092;&#x899A;&#x307E;&#x3055;&#x305B;&#x308B;  <pr>&#x304F;&#x3046;&#x305D;&#x3046;&#x304B;&#x3089;&#x3081;&#x3092;&#x3055;&#x307E;&#x3055;&#x305B;&#x308B;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>pozbawi&cacute; <ind>marze&nacute;</ind></trd>,
+    <trd>rozczarowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">roz&ccaron;arova&tcaron;</trd>
+  <trd lng="uk">&c_r;&#x43E;&c_z;&c_ch;&c_a;&c_r;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="rev.el0igxi">
+  <kap>el<tld/>i&gcirc;i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rev.el0igxi.PSI">
+    <dif>
+      Seni&gcirc;i je agrablaj, eble trompaj imagoj:
+      <ekz>
+        el<tld/>i&gcirc;ante, li devis konstati, ke turkaj kamparanoj detruis &ccirc;iujn armenajn
+        domojn en lia kvartalo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Andreas K&uuml;nzli</aut>
+          <vrk><url ref="&Monato;/2013/011020.php">Atentinda memuaro</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> ne plu havas plenan fidon de siaj el<tld/>i&gcirc;intaj vo&ccirc;donantoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Yves Nicolas</aut>
+          <vrk><url ref="&Monato;/2010/010225.php">Komuna agado, komunaj valoroj</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="iluzi.sen0igxi">seniluzii&gcirc;i</ref>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_ch;&c_a;&c_r;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_m; &c_s;&c_je;</trd>
+  <trd lng="de">austr&auml;umen</trd>
+  <trdgrp lng="en">
+    <trd>become disillusioned</trd>,
+    <trd>become disappointed</trd>,
+    <trd>become disenchanted</trd>
+  </trdgrp>
+  <trd lng="es">decepcionarse</trd>
+  <trdgrp lng="fr">
+    <trd>se <ind>d&eacute;tromper</ind></trd>,
+    <trd>perdre ses illusions</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>ki&aacute;br&aacute;ndul</trd>,
+    <trd>csal&oacute;dik</trd>
+  </trdgrp>
+  <trd lng="ja">&#x7A7A;&#x60F3;&#x304B;&#x3089;&#x3055;&#x3081;&#x308B;  <pr>&#x304F;&#x3046;&#x305D;&#x3046;&#x304B;&#x3089;&#x3055;&#x3081;&#x308B;</pr></trd>
+  <trd lng="pl">rozczarowa&cacute; si&eogonek;</trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="rev.el0igxo">
+  <kap>
+    el<tld/>i&gcirc;o,
+    <var><kap><ofc>*</ofc>dis<tld/>i&gcirc;o 
+      <fnt>
+        <bib>F</bib>, 
+        <lok>Universala Vortaro, 
+          <url ref="&AdE;/fundamento/universala_vortaro.html#av-5181">dis'rev'i&gcirc;'</url>
+        </lok>
+      </fnt></kap></var>,
+    <var><kap>sen<tld/>i&gcirc;o</kap></var></kap>
+  <snc mrk="rev.el0igxo.PSI">
+    <dif>
+      Dolora konstato, ke <tld/>o ne reali&gcirc;as, ne okazos:
+      <ekz>
+        dek ok jarojn, plenigitajn de obstina laborado de la kapo,
+        malsukcesoj, dis<tld/>i&gcirc;oj
+        <fnt><bib>FK</bib>, <lok>Nokto</lok></fnt>;
+      </ekz>
+      <ekz>
+        tiu &ccirc;i elrevi&gcirc;o estis amara, preska&ubreve; tiel dolora kiel la perdo de patro
+        <fnt>
+          <aut>Hamza Baksi&cacute;</aut>
+          <vrk><url ref="&Monato;/1993/A931001.php">La fino de la mondo komenci&gcirc;as en
+          Sarajevo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/10, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        grandega estis la sen<tld/>i&gcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julia Sigmond</aut>
+          <vrk><url ref="&Monato;/2011/010147.php">Georgo</url></vrk>
+          <lok>2011</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        li bone montras la evoluon de la senrezerva katolikeco al plena sen<tld/>i&gcirc;o pri
+        la eklezio pro &gcirc;ia konduto kontra&ubreve;a al la sana morala sento
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2014/011336.php">Temoj por pluraj romanoj</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_ch;&c_a;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="de">Entt&auml;uschung</trd>
+  <trdgrp lng="en">
+    <trd>disillusionment</trd>,
+    <trd>disappointment</trd>,
+    <trd>disenchantment</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>delusione</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>decepci&oacute;n</trd>,
+    <trd>desilusi&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;ception</trd>,
+    <trd>d&eacute;sillusion</trd>
+  </trdgrp>
+  <trd lng="hu">ki&aacute;br&aacute;ndul&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E7B;&#x6EC5;  <pr>&#x3052;&#x3093;&#x3081;&#x3064;</pr></trd>,
+    <trd>&#x5931;&#x671B;  <pr>&#x3057;&#x3064;&#x307C;&#x3046;</pr></trd>,
+    <trd>&#x843D;&#x80C6;  <pr>&#x3089;&#x304F;&#x305F;&#x3093;</pr></trd>,
+    <trd>&#x671F;&#x5F85;&#x5916;&#x308C;  <pr>&#x304D;&#x305F;&#x3044;&#x306F;&#x305A;&#x308C;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>ontgoocheling</trd>,
+    <trd>teleurstelling</trd>
+  </trdgrp>
+  <trd lng="pl">rozczarowanie</trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="uk">&c_r;&#x43E;&c_z;&c_ch;&c_a;&c_r;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+</drv>
+
+<drv mrk="rev.for0i">
+  <kap>for<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rev.for0i.PSI">
+    <dif>
+      <tld lit="R"/>ante forgesi zorgon:
+      <ekz>
+        la almozulo <klr>[&#x2026;]</klr> refre&scirc;igas sin per sukplena
+        akvomelono kaj for<tld/>as sian vivon
+        <fnt><bib>Fab4</bib>, <lok>historio el la dunoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_m;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+  <trd lng="cs">ukol&eacute;bat n&ecaron;koho <klr>(do
+  sn&ecaron;n&iacute;)</klr></trd>
+  <trd lng="de">forttr&auml;umen</trd>
+  <trd lng="en">dream away</trd>
+  <trd lng="es">distraerse de</trd>
+  <trd lng="fr">oublier<klr tip="amb"> (en r&ecirc;vant d'autre
+  chose)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>elfelejt <klr tip="ind">(bajt)</klr></trd>,
+    <trd>megfeledkezik <klr tip="ind">(bajr&oacute;l)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">opuszcza&cacute;  <ind>marzenia</ind></trd>
+  <trd lng="sk">ukol&iacute;sa&tcaron; niekoho <klr>(do
+  snenia)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&#x43C;&c_r;&c_ib;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_v;&c_je;&c_s;&c_t;&c_i; &c_u; &#x43C;&c_r;&c_ib;&#x44F;&c_h;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rev.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rev.pri0i.KOMUNE">
+    <dif>
+      <tld lit="R"/>i pri..., imagi, mense bildigi:
+      <ekz>
+        trinku iom da brando anta&ubreve; ol dormi kaj pri<tld/>i 
+        feli&ccirc;a&jcirc;ojn
+        <fnt>
+          <aut>M. Ahado</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/fajro38/422968">
+          Ebrii&gcirc;u</url></vrk>,
+          <lok>2012-10-18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nur desegna&jcirc;oj de la pri<tld/>ataj varoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ulrich Lins</aut>
+          <vrk><url ref="&Monato;/2005/008536.php">Nokta aventuro en Pjongjango</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plano tamen apena&ubreve; mencias la vortojn &leftquot;sendependeco&rightquot; kaj &leftquot;suvereneco&rightquot;, kiujn
+        la albanoj en Kosovo longe pri<tld/>as kaj atendas
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2007/009203.php">Duonkore donata</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kelkaj homoj pri<tld/>as simplan laboron kun bona salajro kaj kiel eble plej
+        malmultaj respondecoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2015/011413.php">Ulo dormanta salajron ja kaptas</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_r;&c_y;&c_c;&c_mol; &c_a;&c_b; &c_ch;&c_y;&c_m;&c_s;&c_mol;&c_c;&c_ib;</trd>,
+    <trd>&c_u;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="de">ertr&auml;umen</trd>
+  <trd lng="fr">r&ecirc;ver de</trd>
+  <trd lng="pl">my&sacute;le&cacute; o <ind>marzeniach</ind></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.50 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.48 2023/06/18 20:26:11
+Vito Redsky: +trd pl 
+
+versio 1.47 2023/06/16 10:31:11
+Dmitri Gabinski: + trd be
+
+versio 1.46 2023/04/11 09:27:09
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.45 2023/04/07 16:34:06
+Paul Peeraerts: kor de propra fusho
+
+versio 1.44 2023/03/09 20:31:15
+Ulrich Fellmann: revi: -1 DE trd, +2 DE trdj
+
+versio 1.43 2023/02/24 12:50:57
+Wolfram Diestel: +trd de klr
+
+versio 1.42 2022/10/05 14:51:10
+-->
+</vortaro>

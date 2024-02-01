@@ -1,0 +1,622 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kvalit.xml,v 1.32 2023/12/03 09:59:05 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kvalit</rad>/o
+</kap>
+<drv mrk="kvalit.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="kvalit.0o.eco">
+    <dif>
+      &Ccirc;iu el la diferencaj manieroj, kiel objekto impresas niajn
+      sentumojn kaj kiuj konsistigas &gcirc;ian ecaron, staton, eksteron, karakteron kc:
+      <ekz>
+        odoro kaj koloro estas <tld/>oj de la korpoj;
+      </ekz>
+      <ekz>
+        la vortoj &leftquot;tia, kia&rightquot; &ccirc;iam montras la <tld/>on;
+      </ekz>
+      <ekz>
+        nomi tute hazarde kaj arbitre la diversajn objektojn, ideojn, <tld/>ojn
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="ec.0o">eco</ref>
+    <refgrp tip="vid">
+      <ref cel="atribu1.0o.KOMUNE">atributo<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Qualit&auml;t</trd>,
+      <trd>Kennzeichen</trd>,
+      <trd>Eigenschaft</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>cualidad</trd>,
+      <trd>calidad</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tulajdons&aacute;g</trd>,
+      <trd>jellemz&odblac;</trd>
+    </trdgrp>
+    <trd lng="nl">kwaliteit</trd>
+  </snc>
+  <snc mrk="kvalit.0o.boneco">
+    <dif>
+      <ref tip="super" cel="grad.0o.KOMUNE">Grado</ref> de <ref cel="bon.0eco.kvalito">boneco</ref>,
+      perfekteco,
+      delikateco de io:
+      <ekz>
+        unuaranga <tld/>o
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kolo de botelo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li havu &ccirc;ion de la plej bona <tld/>o
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne havas mezurilon por via beleco, nek vortojn por viaj <tld/>oj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi havos la okazon konvinki&gcirc;i pri la alta <tld/>o de fre&scirc;aj varoj
+        <fnt>
+          <bib>LSB</bib>
+          <lok>La Stranga Butiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        brava junulo, via frato, eble iom maltimema: sed en la armeo tio estas <tld/>o
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Deka</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o bona ne bezonas admonon
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        ne kvanto sed <tld/>o decidas pri merito
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="valor.0o.utilo">valoro<sncref/></ref>,
+      <ref cel="virt.0o">virto</ref>
+    </refgrp>
+    <trd lng="bg">&c_k;&c_a;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+    <trdgrp lng="de">
+      <trd>Qualit&auml;t</trd>,
+      <trd>Tugend</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>cualidad</trd>,
+      <trd>virtud</trd>
+    </trdgrp>
+    <trd lng="hu">min&odblac;s&eacute;g</trd>
+    <trd lng="nl">kwaliteit</trd>
+  </snc>
+  <snc mrk="kvalit.0o.povo">
+    <dif>
+      Speciala <ref tip="super" cel="pov.0o.kapablo">povo</ref>; propra efiko de io:
+      <ekz>
+        la <tld/>o de magneto estas, ke &gcirc;i altiras la feron;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> spegulo <klr>[&#x2026;]</klr> havis la <tld/>on, ke &ccirc;ion bonan kaj belan, kiu en &gcirc;i
+        speguli&gcirc;is, &gcirc;i etigis preska&ubreve; &gcirc;is plena nenieco
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> prenis el tirkesto belegan brandujon, kiu &scirc;ajnis posedi la
+        netakseblan <tld/>on repleni&gcirc;i la&ubreve; trinkado
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Feli&ccirc;a homo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="propr.0eco">propreco</ref>,
+      <ref cel="kapabl">kapablo</ref>
+    </refgrp>
+    <trd lng="be">&c_u;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd>Kennzeichen</trd>,
+      <trd>Eigenschaft</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>capacidad</trd>
+      <trd>propiedad</trd>
+    </trdgrp>
+    <trd lng="fr">propri&eacute;t&eacute;</trd>
+    <trdgrp lng="hu">
+      <trd>saj&aacute;toss&aacute;g</trd>,
+      <trd>jellemz&odblac;</trd>
+    </trdgrp>
+    <trd lng="nl">eigenschap</trd>
+    <trd lng="ru">&c_s;&c_v;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  </snc>
+  <snc mrk="kvalit.0o.karaktera">
+    <dif>
+      &Ccirc;iu el la moralaj a&ubreve; intelektaj <ref cel="inklin.0o.KOMUNE">inklino</ref>j, kiuj konsistigas
+      la
+      staton de ies animo:
+      <ekz>
+        la mensogemo, la malkura&gcirc;o, la perfidemo, jen estas liaj &ccirc;efaj
+        <tld/>oj;
+      </ekz>
+      <ekz>
+        la malhumilo instigas nin malestimi la bonajn <tld/>ojn kiuj
+        mankas al ni;
+      </ekz>
+      <ekz>
+        por fari&gcirc;i oratoro fakte ne estas postulataj apartaj fizikaj <tld/>oj
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la intelektajn kaj moralajn <tld/>ojn oni ne povas mezuri per ciferoj
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili dividas la homojn la&ubreve; iliaj <tld/>oj en tri klasojn
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Tria &Ccirc;apitro</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="malprt">
+      <ref cel="karakt.0o">karaktero</ref>,
+      <ref cel="person.0eco">personeco</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Kennzeichen</trd>,
+      <trd>Eigenschaft</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>cualidad humana</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tulajdons&aacute;g</trd>,
+      <trd>jellemz&odblac;</trd>
+    </trdgrp>
+    <trd lng="nl">eigenschap</trd>
+  </snc>
+  <trd lng="be">&c_ja;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="bo">&t_sa;&t_pata;&t_shabchu;&t_sa;&t_tsheg;&t_ka;&t_tsheg;</trd>
+  <trd lng="de">Beschaffenheit</trd>
+  <trd lng="en">quality</trd>
+  <trd lng="fr">qualit&eacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CEA;  <pr>&#x3057;&#x3061;</pr></trd>,
+    <trd>&#x54C1;&#x8CEA;  <pr>&#x3072;&#x3093;&#x3057;&#x3064;</pr></trd>,
+    <trd>&#x7279;&#x6027;  <pr>&#x3068;&#x304F;&#x305B;&#x3044;</pr></trd>,
+    <trd>&#x7279;&#x8CEA;  <pr>&#x3068;&#x304F;&#x3057;&#x3064;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>cecha <klr>(rodzaj)</klr></trd>,
+    <trd>jako&sacute;&cacute;</trd>,
+    <trd>przymiot</trd>
+  </trdgrp>
+  <trd lng="pt">qualidade</trd>
+  <trd lng="ro">calitate</trd>
+  <trd lng="ru">&c_k;&c_a;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ja;&c_k;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_l;&c_a;&c_s;&c_t;&c_i;&c_v;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_gu;&c_a;&c_t;&c_u;&c_n;&c_o;&c_k;</trd>,
+    <trd>&c_s;&c_o;&c_r;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8CEA;&#x91CF; <pr>zh&#xEC;li&#xE0;ng</pr></trd>,
+    <trd>&#x8D28;&#x91CF; <pr>zh&#xEC;li&#xE0;ng</pr></trd>,
+    <trd>&#x8CEA;&#x7D20; <pr>zh&#xEC;s&#xF9;</pr></trd>,
+    <trd>&#x8D28;&#x7D20; <pr>zh&#xEC;s&#xF9;</pr></trd>,
+    <trd>&#x54C1;&#x4F4D; <pr>p&#x1D0;nw&#xE8;i</pr></trd>,
+    <trd>&#x8CEA; <pr>zh&#xEC;</pr></trd>,
+    <trd>&#x8D28; <pr>zh&#xEC;</pr></trd>,
+    <trd>&#x8CEA;&#x5730; <pr>zh&#xEC;d&#xEC;</pr></trd>,
+    <trd>&#x8D28;&#x5730; <pr>zh&#xEC;d&#xEC;</pr></trd>,
+    <trd>&#x6863;&#x6B21; <pr>d&#xE0;ngc&#xEC;</pr></trd>,
+    <trd>&#x6A94;&#x6B21; <pr>d&#xE0;ngc&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kvalit.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <uzo tip="fak">GRA</uzo>
+        <tld/>a adjektivo
+        <klr>(kontraste al personaj, posesivaj, montraj, nombraj kaj
+        nedifinaj)</klr>;
+      </ekz>
+      <ekz>
+        <klr>[&ccirc;u]</klr> oni povus trovi ian matematikan mezon, kiu iamaniere respegulus
+        la <tld/>an tutecon de la publiko
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        atingi <tld/>an elstarecon
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        abrupta malalti&gcirc;o de la <tld/>a nivelo de la verkoj
+        <fnt>
+          <bib>KFl</bib>
+          <lok>I. Enkonduko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        restas oftaj <tld/>aj problemoj, &ccirc;ar la produktantoj plejparte estas kamparanaj
+        familioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mu Binghua</aut>
+          <vrk><url ref="&Monato;/2004/008368.html">Maltrankvili&gcirc;o pro a&ccirc;aj man&gcirc;a&jcirc;oj</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="kvalit.0a.altkvalita">
+    <dif>
+      Alt<tld/>a:
+      <ekz>
+        per pli ampleksa kaj <tld/>a agado formi&gcirc;os <klr>[&#x2026;]</klr> presti&gcirc;a premgrupo
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> portis iom tro <tld/>ajn vesta&jcirc;ojn
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la posedantoj de kinoretoj ne taksis la filmon sufi&ccirc;e <tld/>a
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Grigorij Arosev</aut>
+          <vrk><url ref="&Monato;/2003/008007.html">Filmo ukraina</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">wertig</trd>
+  </snc>
+  <trd lng="be">&c_ja;&c_k;&c_a;&c_s;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+      <trd>qualitativ</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>quality</trd>,
+    <trd>qualifying</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>de calidad</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>qualitatif</trd>,
+    <trd>de <ind>qualit&eacute;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>min&odblac;s&eacute;gi</trd>,
+    <trd>kvalitat&iacute;v</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8CEA;&#x306E;  <pr>&#x3057;&#x3061;&#x306E;</pr></trd>,
+    <trd>&#x8CEA;&#x7684;&#x306A;  <pr>&#x3057;&#x3064;&#x3066;&#x304D;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>kwalitatief</trd>,
+    <trd>bepalend</trd>
+  </trdgrp>
+  <trd lng="pl"> jako&sacute;ciowy</trd>
+  <trd lng="ro">calitativ</trd>
+  <trd lng="ru">&c_k;&c_a;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="uk">&c_ja;&c_k;&c_ib;&c_s;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x8CEA;&#x91CF; <pr>zh&#xEC;li&#xE0;ng</pr></trd>,
+    <trd>&#x8D28;&#x91CF; <pr>zh&#xEC;li&#xE0;ng</pr></trd>,
+    <trd>&#x9AD8;&#x7D1A; <pr>g&#x101;oj&#xED;</pr></trd>,
+    <trd>&#x9AD8;&#x7EA7; <pr>g&#x101;oj&#xED;</pr></trd>,
+    <trd>&#x4F18;&#x8D28; <pr>y&#x14D;uzh&#xEC;</pr></trd>,
+    <trd>&#x512A;&#x8CEA; <pr>y&#x14D;uzh&#xEC;</pr></trd>,
+    <trd>&#x9AD8;&#x8CEA;&#x91CF; <pr>g&#x101;ozh&#xEC;li&#xE0;ng</pr></trd>,
+    <trd>&#x9AD8;&#x8D28;&#x91CF; <pr>g&#x101;ozh&#xEC;li&#xE0;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kvalit.0igi">
+  <kap>
+    <tld/>igi
+  </kap>
+  <snc>
+    <ref tip="dif" cel="kvalifik.0i.KOMUNE">kvalifiki</ref>
+  </snc>
+  <trd lng="be">&c_k;&c_v;&c_a;&c_l;&c_ib;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+     <trd>qualifizieren</trd>,
+     <trd>kennzeichnen</trd>
+  </trdgrp>
+  <trd lng="en">to qualify</trd>
+  <trdgrp lng="es">
+    <trd>calificar</trd>,
+    <trd>capacitar</trd>
+  </trdgrp>
+  <trd lng="fr">qualifier</trd>
+  <trdgrp lng="hu">
+    <trd>min&odblac;s&iacute;t</trd>,
+    <trd>oszt&aacute;lyoz</trd>
+  </trdgrp>
+  <trd lng="nl">kwalificeren</trd>
+  <trd lng="pl">kwalifikowa&cacute;</trd>
+  <trd lng="ro">clasifica</trd>
+  <trd lng="ru">&c_k;&c_v;&c_a;&c_l;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_v;&c_a;&c_l;&c_ib;&c_f;&c_ib;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_t;&c_i; &c_ja;&c_k;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kvalit.alt0a">
+  <kap>
+    alt<tld/>a
+  </kap>
+  <snc>
+    <dif>
+      De <tld/>a kvalito:
+      <ekz>
+        alt<tld/>a servistaro <klr>[&#x2026;]</klr> paradis en silkaj &scirc;trumpoj
+        <fnt>
+          <bib>Fab3</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li havas en Kopenhago tre gravan kaj alt<tld/>an oficon, komizecon en kontoro
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Ib kaj malgranda kristino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        homoj <klr>[&#x2026;]</klr> alt<tld/>aj per nobeleco de la spirito
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Infana babilado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        cellorna pafilo, alt<tld/>a, kies numero estis &ccirc;izile batita &gcirc;is nelegeblo
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Veli morten</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        serio de kulture kaj literature alt<tld/>aj revuoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili ne ricevos la plej alt<tld/>an edukon, nek honoron
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Ses</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="distin.0a.eminenta">distinga<sncref/></ref>,
+      <ref cel="fajn.0a">fajna</ref>,
+      <ref cel="kar.0a.EKON">kara<sncref/></ref>,
+      <ref cel="nobl.0a">nobla</ref>,
+      <ref cel="rafin.0ita">rafinita</ref>,
+      <ref cel="sublim.0a">sublima</ref>,
+      <ref cel="valor.0a.altvalora">valora<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_s;&c_a;&c_k;&c_a;&c_ja;&c_k;&c_a;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_v;&c_y;&c_s;&c_o;&c_k;&c_a;&c_g;&c_a;&c_t;&c_u;&c_n;&c_k;&c_o;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>hochwertig</trd>,
+    <trd>wertig</trd>,
+    <trd>von hoher <ind>Qualit&auml;t</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E0A;&#x8CEA;&#x306E;  <pr>&#x3058;&#x3087;&#x3046;&#x3057;&#x3064;&#x306E;</pr></trd>,
+    <trd>&#x9AD8;&#x54C1;&#x8CEA;&#x306E;  <pr>&#x3053;&#x3046;&#x3072;&#x3093;&#x3057;&#x3064;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4F18;&#x8D28; <pr>y&#x14D;uzh&#xEC;</pr></trd>,
+    <trd>&#x512A;&#x8CEA; <pr>y&#x14D;uzh&#xEC;</pr></trd>,
+    <trd>&#x9AD8;&#x54C1;&#x4F4D; <pr>g&#x101;op&#x1D0;nw&#xE8;i</pr></trd>,
+    <trd>&#x9AD8;&#x8CEA; <pr>g&#x101;ozh&#xEC;</pr></trd>,
+    <trd>&#x9AD8;&#x8D28; <pr>g&#x101;ozh&#xEC;</pr></trd>,
+    <trd>&#x9AD8;&#x54C1;&#x8CEA; <pr>g&#x101;op&#x1D0;nzh&#xEC;</pr></trd>,
+    <trd>&#x9AD8;&#x54C1;&#x8D28; <pr>g&#x101;op&#x1D0;nzh&#xEC;</pr></trd>,
+    <trd>&#x9AD8;&#x5C42; <pr>g&#x101;oc&#xE9;ng</pr></trd>,
+    <trd>&#x9AD8;&#x5C64; <pr>g&#x101;oc&#xE9;ng</pr></trd>,
+    <trd>&#x9AD8;&#x7CBE; <pr>g&#x101;oj&#x12B;ng</pr></trd>,
+    <trd>&#x9AD8;&#x7D1A; <pr>g&#x101;oj&#xED;</pr></trd>,
+    <trd>&#x9AD8;&#x7EA7; <pr>g&#x101;oj&#xED;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kvalit.mez0a">
+  <kap>
+    mez<tld/>a
+  </kap>
+  <snc>
+    <dif>
+      De meza <tld/>o:
+      <ekz>
+        mez<tld/>a brando
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="https://www.monato.be/2007/009303.php">Avera&gcirc;a litovo</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        apud la bonegaj KDoj (el &ccirc;iuj vidpunktoj) de Kajto, Persone, <nom>Jacques Yvart</nom>,
+        trovi&gcirc;as
+        beda&ubreve;rinde perfekte mez<tld/>a albumo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 7 (69)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la muziko estas vere mez<tld/>a kaj avera&gcirc;a
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 7 (69)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="averagx.0o">avera&gcirc;a</ref>,
+      <ref cel="mez.0a">meza</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ja;&c_j; <ind>&c_ja;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ib;</ind></trd>,
+    <trd>&c_p;&c_a;&c_s;&c_r;&c_e;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>mittelm&auml;&szlig;ig</trd>,
+    <trd>durchschnittlich <klr>(G&uuml;te)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E26;&#x306E;  <pr>&#x306A;&#x307F;&#x306E;</pr></trd>,
+    <trd>&#x4E2D;&#x8CEA;&#x306E;  <pr>&#x3061;&#x3085;&#x3046;&#x3057;&#x3061;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6BD4;&#x4E0A;&#x4E0D;&#x8DB3;&#x6BD4;&#x4E0B;&#x6709;&#x4F59; <pr>b&#x1D0;sh&#xE0;ngb&#xF9;z&#xFA;b&#x1D0;xi&#xE0;y&#x1D2;uy&#xFA;</pr></trd>,
+    <trd>&#x6BD4;&#x4E0A;&#x4E0D;&#x8DB3;&#x6BD4;&#x4E0B;&#x6709;&#x9918; <pr>b&#x1D0;sh&#xE0;ngb&#xF9;z&#xFA;b&#x1D0;xi&#xE0;y&#x1D2;uy&#xFA;</pr></trd>,
+    <trd>&#x516C;&#x5E73;&#x5408;&#x7406; <pr>g&#x14D;ngp&#xED;ngh&#xE9;l&#x1D0;</pr></trd>,
+    <trd>&#x5E73;&#x5E73; <pr>p&#xED;ngp&#xED;ng</pr></trd>,
+    <trd>&#x5EB8;&#x5E38; <pr>y&#x14D;ngch&#xE1;ng</pr></trd>,
+    <trd>&#x5E73;&#x5747;&#x4F86;&#x8AAA; <pr>p&#xED;ngj&#x16B;nl&#xE1;ishu&#x14D;</pr></trd>,
+    <trd>&#x5E73;&#x5747;&#x6765;&#x8BF4; <pr>p&#xED;ngj&#x16B;nl&#xE1;ishu&#x14D;</pr></trd>,
+    <trd>&#x5E73;&#x5747;&#x5730; <pr>p&#xED;ngj&#x16B;nd&#xEC;</pr></trd>,
+    <trd>&#x5E73;&#x5747;&#x800C;&#x8A00; <pr>p&#xED;ngj&#x16B;n&#xE9;ry&#xE1;n</pr></trd>,
+    <trd>&#x5E73;&#x5747;&#x8A08;&#x7B97; <pr>p&#xED;ngj&#x16B;nj&#xEC;su&#xE0;n</pr></trd>,
+    <trd>&#x5E73;&#x5747;&#x8BA1;&#x7B97; <pr>p&#xED;ngj&#x16B;nj&#xEC;su&#xE0;n</pr></trd>,
+    <trd>&#x6309;&#x5E73;&#x5747;&#x8A08;&#x7B97; <pr>&#xE0;np&#xED;ngj&#x16B;nj&#xEC;su&#xE0;n</pr></trd>,
+    <trd>&#x6309;&#x5E73;&#x5747;&#x8BA1;&#x7B97; <pr>&#xE0;np&#xED;ngj&#x16B;nj&#xEC;su&#xE0;n</pr></trd>,
+    <trd>&#x5EB8; <pr>y&#x14D;ng</pr></trd>,
+    <trd>&#x666E;&#x666E;&#x901A;&#x901A; <pr>p&#x1D4;p&#x1D4;t&#x14D;ngt&#x14D;ng</pr></trd>,
+    <trd>&#x99AC;&#x99AC;&#x864E;&#x864E; <pr>m&#x1CE;mah&#x1D4;hu</pr></trd>,
+    <trd>&#x9A6C;&#x9A6C;&#x864E;&#x864E; <pr>m&#x1CE;mah&#x1D4;hu</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kvalit.mez0ulo">
+  <kap>
+    mez<tld/>ulo
+  </kap>
+  <snc>
+    <dif>
+      Homo kiu ne elstaras en iu kapablo,
+      <ref tip="sin" cel="mediokr.0ulo">mediokrulo</ref>:
+      <ekz>
+        &ccirc;ie ajn regas mez<tld/>uloj sen entuziasmigaj ideoj
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9308-alarmsignalo.txt">El mia
+          vidpunkto</url></vrk>
+          <lok>93/08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_v;&c_y;&c_ch;&c_a;&c_j;&c_n;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_r;&c_e;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Durchschnittsb&uuml;rger</trd>,
+    <trd>Mittelm&auml;&szlig;iger</trd>,
+    <trd>Durchschnittsmensch</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E00;&#x822C;&#x4EBA; <pr>y&#xEC;b&#x101;nr&#xE9;n</pr></trd>,
+    <trd>&#x666E;&#x901A;&#x4EBA; <pr>p&#x1D4;t&#x14D;ngr&#xE9;n</pr></trd>,
+    <trd>&#x4E00;&#x822C;&#x4EBA; <pr>y&#x12B;b&#x101;nr&#xE9;n</pr></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+versio 1.30 2023/09/19 08:29:54
+Dmitri Gabinski: + trd be
+
+versio 1.28 2023/05/09 17:25:51
+Wolfram Diestel: +mez~a, ~ulo
+
+versio 1.27 2023/04/11 16:10:37
+aktualigo Monato-URL
+
+versio 1.26 2022/09/15 08:45:27
+Damien Brucker: -tajperaro cxe mrk en snc
+
+versio 1.25 2022/09/14 06:19:56
+Wolfram Diestel: +snc-mrk
+
+versio 1.24 2022/06/09 10:36:23
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.23 2022/06/08 06:34:03
+-->
+</vortaro>

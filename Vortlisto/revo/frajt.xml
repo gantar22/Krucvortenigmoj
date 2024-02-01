@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: frajt.xml,v 1.25 2023/11/10 06:08:00 revo Exp $">
+<kap><rad>frajt</rad>/i <fnt><bib>PV</bib></fnt></kap>
+<drv mrk="frajt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Kontra&ubreve; pago ekspedi komerca&jcirc;on, &scirc;ar&gcirc;on
+      per ajna transportilo:
+      <ekz>
+        oni <tld/>as &scirc;ipe, aeroplane, fervoje, omnibuse.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_r;&c_a;&c_h;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_j;&c_m;&c_a;&c_c;&c_mol; <klr>(&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_t;&c_n;&c_y; &c_s;&c_r;&c_o;&c_d;&c_a;&c_k;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>najmout si dopravn&iacute; prost&rcaron;edek</trd>,
+    <trd>p&rcaron;epravovat n&aacute;klad</trd>
+  </trdgrp>
+  <trd lng="de">verfrachten</trd>
+  <trd lng="en">freight</trd>
+  <trd lng="es">fletar</trd>
+  <trd lng="fr">fr&eacute;ter</trd>
+  <trdgrp lng="hu">
+    <trd>elfuvaroz</trd>,
+    <trd>elhaj&oacute;z</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8CC3;&#x501F;&#x308A;&#x3059;&#x308B;  <pr>&#x3061;&#x3093;&#x3057;&#x3083;&#x304F;&#x308A;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x8CC3;&#x8CB8;&#x3057;&#x3059;&#x308B;  <pr>&#x3061;&#x3093;&#x305F;&#x3044;&#x3057;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bevrachten</trd>
+  <trd lng="pt">fretar</trd>
+  <trd lng="ru">&c_f;&c_r;&c_a;&c_h;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">prepravova&tcaron; n&aacute;klad</trd>
+  <trd lng="uk">&c_f;&c_r;&c_a;&c_h;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i; (&c_n;&c_a;&c_j;&c_m;&c_a;&c_t;&c_i; &c_s;&c_u;&c_d;&c_n;&c_o; &c_d;&c_l;&c_ja; &c_p;&c_je;&c_r;&c_je;&c_v;&c_je;&c_z;&c_je;&c_n;&c_n;&c_ja; &c_v;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_u;)</trd>
+  <trdgrp lng="zh">
+    <trd>&#x88C5;&#x8FD0; <pr>zhu&#x101;ngy&#xF9;n</pr></trd>,
+    <trd>&#x79DF;&#x8239; <pr>z&#x16B;chu&#xE1;n</pr></trd>,
+    <trd>&#x542B;&#x8FD0;&#x8D39; <pr>h&#xE1;ny&#xF9;nf&#xE8;i</pr></trd>,
+    <trd>&#x9001;&#x8CA8; <pr>s&#xF2;nghu&#xF2;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frajt.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Ekspedigi per <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_p;&c_r;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol; &c_f;&c_r;&c_a;&c_h;&c_t;&c_a;&c_m;</trd>
+  <trd lng="cs">nechat dopravit</trd>
+  <trd lng="de">als Fracht aufgeben</trd>
+  <trd lng="en">freight</trd>
+  <trd lng="fr">affr&eacute;ter</trd>
+  <trdgrp lng="hu">
+    <trd>fuvaroztat</trd>,
+    <trd>fuvark&eacute;nt felad</trd>
+  </trdgrp>
+  <trd lng="ja">&#x904B;&#x9001;&#x696D;&#x8005;&#x306B;&#x59D4;&#x8A17;&#x3059;&#x308B; 
+  <pr>&#x3046;&#x3093;&#x305D;&#x3046;&#x304E;&#x3087;&#x3046;&#x3057;&#x3083;&#x306B;&#x3044;&#x305F;&#x304F;&#x3059;&#x308B;</pr></trd>
+  <trd lng="nl">doen <ind>bevrachten</ind></trd>
+  <trd lng="sk">da&tcaron; prepravi&tcaron;</trd>
+</drv>
+
+<drv mrk="frajt.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        <ind><tld/>pago</ind>;
+        <trd lng="de">Transportkosten</trd>
+      </ekz>
+      <ekz>
+        ekzistas diversspecaj <tld/>oj: (fervoja) <tld/>o,
+        omnibusa <tld/>o, aeroplana <tld/>o, &scirc;ip<tld/>o;
+      </ekz>
+      <ekz>
+        internaciaj konvencioj pri <klr>[&#x2026;]</klr> <tld/>trafiko
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kapitano de malgranda <tld/>&scirc;ipo
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        montoj da plenaskribitaj negocaj paperoj kaj
+        <ref cel="leter.frajt0o"><tld/>letero</ref>j
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 1</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_r;&c_a;&c_h;&c_t; <klr>(&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;)</klr></trd>,
+    <trd>&c_f;&c_r;&c_a;&c_h;&c_t;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="cs">cena za pron&aacute;jem n. p&rcaron;epravu</trd>
+  <trdgrp lng="de">
+    <trd>Fracht</trd>
+  </trdgrp>
+  <trd lng="en">freight</trd>
+  <trd lng="es">flete</trd>
+  <trd lng="fr">fret</trd>
+  <trdgrp lng="hu">
+    <trd>fuvar</trd>,
+    <trd>fuvard&iacute;j</trd>
+  </trdgrp>
+  <trd lng="it">costo del trasporto</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CA8;&#x7269;&#x904B;&#x9001;  <pr>&#x304B;&#x3082;&#x3064;&#x3046;&#x3093;&#x305D;&#x3046;</pr></trd>,
+    <trd>&#x8CA8;&#x7269;  <pr>&#x304B;&#x3082;&#x3064;</pr></trd>,
+    <trd>&#x904B;&#x8CC3;  <pr>&#x3046;&#x3093;&#x3061;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>vracht</trd>,
+    <trd>transportkosten</trd>
+  </trdgrp>
+  <trd lng="pl">fracht</trd>
+  <trd lng="pt">frete</trd>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_r;&c_a;&c_h;&c_t;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_z;&c_k;&c_a; &c_g;&c_r;&c_u;&c_z;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">dopravn&eacute; n&aacute;klady</trd>
+  <trd lng="sv">frakt</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_r;&c_a;&c_h;&c_t;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_je;&c_z;&c_je;&c_n;&c_n;&c_ja; &c_v;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6C34;&#x529B; <pr>shu&#x1D0;l&#xEC;</pr></trd>,
+    <trd>&#x50A4; <pr>z&#xE0;i</pr></trd>,
+    <trd>&#x8CA8;&#x7269; <pr>hu&#xF2;w&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frajt.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Objekto ekspedata <tld/>e:
+      <ekz>
+        <ind>ordinara <tld/>a&jcirc;o</ind>
+        <klr>(ekspedata per ordinara, kutima rapideco)</klr>;
+        <trd lng="de">Normalfracht</trd>
+        <trd lng="fr">fret ordinaire</trd>
+        <trdgrp lng="hu">
+          <trd>szok&aacute;sos <ind>sz&aacute;ll&iacute;tm&aacute;ny</ind></trd>,
+          <trd>norm&aacute;l <ind>fuvar&aacute;ru</ind></trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <ind>rapida <tld/>a&jcirc;o</ind>
+        <klr>(ekspedata pli rapide ol ordinare)</klr>;
+        <trd lng="de">Eilfracht</trd>
+        <trd lng="fr">fret rapide</trd>
+        <trdgrp lng="hu">
+          <trd>gyors&aacute;ru</trd>,
+          <trd>gyorssz&aacute;ll&iacute;tm&aacute;ny</trd>
+        </trdgrp>
+        <trd lng="nl">ijlgoed</trd>
+        <trd lng="ru">&c_s;&c_r;&c_o;&c_ch;&c_n;&c_y;&c_j; &c_g;&c_r;&c_u;&c_z;</trd>
+      </ekz>
+      <ekz>
+        <ind>ekspresa <tld/>a&jcirc;o</ind>
+        <klr>(liverata al adresato tuj post &gcirc;ia alveno al destinita loko,
+        vd <ref tip="sin" cel="ekspre.0a">ekspresa</ref>)</klr>.
+        <trd lng="de">Schnellfracht</trd>
+        <trd lng="fr">fret express</trd>
+        <trd lng="hu">expressz&aacute;ru</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_r;&c_a;&c_h;&c_t; <klr>(&c_g;&c_r;&c_u;&c_z;)</klr></trd>
+  <trd lng="de">Fracht</trd>
+  <trd lng="en">freight</trd>
+  <trdgrp lng="fr">
+    <trd>fret</trd>,
+    <trd>chargement</trd>
+  </trdgrp>
+  <trd lng="hu">teher&aacute;ru</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CA8;&#x7269;  <pr>&#x304B;&#x3082;&#x3064;</pr></trd>,
+    <trd>&#x7A4D;&#x8377;  <pr>&#x3064;&#x307F;&#x306B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">vrachtgoed</trd>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_z;&c_i;&c_m;&c_y;&c_j; &c_g;&c_r;&c_u;&c_z;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_r;&c_a;&c_h;&c_t;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_ib;&c_z;&c_n;&c_i;&c_j; &c_v;&c_a;&c_n;&c_t;&c_a;&c_zh;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6C34;&#x529B; <pr>shu&#x1D0;l&#xEC;</pr></trd>,
+    <trd>&#x50A4; <pr>z&#xE0;i</pr></trd>,
+    <trd>&#x8CA8;&#x7269; <pr>hu&#xF2;w&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frajt.0iganto">
+  <kap><tld/>iganto</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Tiu, kiu <tld/>igas per helpo de <tld/>isto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_u;&c_z;&c_a;&c_a;&c_d;&c_p;&c_r;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="de">Verfrachter</trd>
+  <trd lng="fr">affr&eacute;teur</trd>
+  <trdgrp lng="hu">
+    <trd>fuvaroztat&oacute;</trd>,
+    <trd>sz&aacute;ll&iacute;ttat&oacute;</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8377;&#x4E3B;  <pr>&#x306B;&#x306C;&#x3057;</pr></trd>
+  <trd lng="nl">bevrachter</trd>
+  <trd lng="ru">&c_g;&c_r;&c_u;&c_z;&c_o;&c_o;&c_t;&c_p;&c_r;&c_a;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">odosielate&lcaron; z&aacute;sielky alebo n&aacute;kladu</trd>
+  <trd lng="zh">&#x6258;&#x8FD0;&#x4EBA; <pr>tu&#x14D;y&#xF9;nr&#xE9;n</pr></trd>
+</drv>
+
+<drv mrk="frajt.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Tiu, kies profesio estas <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_k;&c_s;&c_p;&c_e;&c_d;&c_y;&c_t;&c_a;&c_r;</trd>
+  <trd lng="cs">zasilatel</trd>
+  <trd lng="de">Frachtspediteur</trd>
+  <trdgrp lng="en">
+    <trd>freighter</trd>,
+    <trd>carrier</trd>
+  </trdgrp>
+  <trd lng="es">fletador</trd>
+  <trd lng="fr">fr&eacute;teur</trd>
+  <trd lng="hu">sz&aacute;ll&iacute;tm&aacute;nyoz&oacute;</trd>
+  <trd lng="ja">&#x904B;&#x9001;&#x696D;&#x8005;  <pr>&#x3046;&#x3093;&#x305D;&#x3046;&#x304E;&#x3087;&#x3046;&#x3057;&#x3083;</pr></trd>
+  <trd lng="nl">expediteur</trd>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_k;&c_s;&c_p;&c_je;&c_d;&c_i;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_f;&c_r;&c_a;&c_h;&c_t;&c_o;&c_v;&c_shch;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dopravca</trd>,
+    <trd>prepravca</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frajt.sxip0ajxo">
+  <kap>&scirc;ip<tld/>a&jcirc;o</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="karg.0o">Kargo</ref> de &scirc;ipo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_r;&c_a;&c_h;&c_t; <klr>(&c_g;&c_r;&c_u;&c_z; &c_n;&c_a; &c_s;&c_u;&c_d;&c_n;&c_je;)</klr></trd>
+  <trd lng="de">Schiffsfracht</trd>
+  <trd lng="en">cargo</trd>
+  <trd lng="fr">cargaison</trd>
+  <trdgrp lng="hu">
+    <trd>haj&oacute;fuvar</trd>,
+    <trd>haj&oacute;rakom&aacute;ny</trd>,
+    <trd>tengeri <ind>sz&aacute;ll&iacute;tm&aacute;ny</ind></trd>
+  </trdgrp>
+  <trd lng="nl">scheepsvracht</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_u;&c_d;&c_o;&c_v;&c_o;&c_j; &c_g;&c_r;&c_u;&c_z;</trd>,
+    <trd>&c_f;&c_r;&c_a;&c_h;&c_t;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/14 19:15:45
+revo: transskribo per <pr>
+
+versio 1.23 2023/10/03 10:29:33
+Dmitri Gabinski: + trd be
+
+versio 1.21 2023/04/17 20:25:02
+Wolfram Diestel: kunigo de drv *a ~a&jcirc;o, +ekz-oj, trd de
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/10/06 09:10:27  revo
+Damien Brucker: +trd fr
+
+Revision 1.16  2014/09/05 01:10:26  revo
+Carlos Garcia: +trd es -i -ist
+
+Revision 1.15  2014/01/28 02:10:22  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2011/02/07 13:10:09  revo
+-->
+</vortaro>

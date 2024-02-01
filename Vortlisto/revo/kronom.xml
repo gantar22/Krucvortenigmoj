@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kronom.xml,v 1.19 2023/09/01 15:46:45 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>kronometr</rad>/o
+</kap>
+<drv mrk="kronom.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Tre preciza <ref tip="super" cel="horlog.0o">horlo&gcirc;o</ref>
+      ne impresebla de atmosferaj varioj:
+      <ekz>
+        <tld/>o <klr>[&#x2026;]</klr> ebligis al <nom>Cook</nom> kalkuli sian longitudinan pozicion multe
+        pli akurate, <nom>Cook</nom> faris mapojn de la sudo de la Pacifika Oceano kiuj estis
+        tiom rimarkinde akurataj ke iliaj kopioj estis ankora&ubreve; uzataj meze de la 20a
+        jarcento
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=9347">James Cook</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> miskalkulis la pozicion de la &scirc;ipo, eble &ccirc;ar li ne havis sufi&ccirc;e
+        bonan <tld/>on por ta&ubreve;ga &scirc;ipesplorado
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=288263">Nova Suda Gronlando</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_r;&c_a;&c_n;&c_o;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="de">
+     <trd>Chronometer</trd>,
+     <trd>Pr&auml;zisionsuhr</trd>
+  </trdgrp>
+  <trd lng="en">chronometer</trd>
+  <trd lng="es">cron&oacute;metro</trd>
+  <trdgrp lng="fa">
+    <trd>&a_z;&a_m;&a_A;&a_n;&zwnj;&a_s;&a_n;&a_j;</trd>,
+    <trd>&f_k;&a_r;&a_w;&a_n;&a_w;&a_m;&a_t;&a_r;</trd>
+  </trdgrp>
+  <trd lng="fr">chronom&egrave;tre</trd>
+  <trd lng="hu">kronom&eacute;ter</trd>
+  <trd lng="it">cronometro</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AF;&#x30ED;&#x30CE;&#x30E1;&#x30FC;&#x30BF;&#x30FC;</trd>,
+    <trd>&#x30B9;&#x30C8;&#x30C3;&#x30D7;&#x30A6;&#x30A9;&#x30C3;&#x30C1;</trd>
+  </trdgrp>
+  <trd lng="nl">chronometer</trd>
+  <trd lng="pl">chronometr</trd>
+  <trd lng="pt">cron&ocirc;metro</trd>
+  <trd lng="ro">cronometru</trd>
+  <trd lng="ru">&c_h;&c_r;&c_o;&c_n;&c_o;&c_m;&c_je;&c_t;&c_r;</trd>
+  <trd lng="uk">&#x445;&#x440;&#x43E;&#x43D;&#x43E;&#x43C;&#x435;&#x442;&#x440;</trd>
+</drv>
+</art>
+<!--
+$Log$
+Revision 1.16  2013/12/02 13:10:33  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2010/05/04 16:31:00  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2010/04/27 16:30:34  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2009/07/11 16:30:50  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.12  2006/10/31 17:30:49  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2006/03/03 17:31:26  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.10  2005/04/07 16:31:24  revo
+-->
+</vortaro>

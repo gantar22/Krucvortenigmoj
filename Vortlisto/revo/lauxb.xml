@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lauxb.xml,v 1.19 2024/01/15 16:14:08 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>la&ubreve;b</rad>/o
+</kap>
+<drv mrk="lauxb.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="lauxb.0o.HOR">
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      Arte farita volbo el foliaro a&ubreve; arbetoj en <ref tip="malprt" cel="gxarde.0o">&gcirc;ardeno</ref>
+      (ordinare
+      subtenita per diversspeca subtenilo):
+      <ekz>
+        jasmena <tld/>o
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malgranda frukta &gcirc;ardeno post malnova &scirc;tona domo kun longa <tld/>o anta&ubreve; la pordo
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Klaro trakuris la &gcirc;ardenon kaj haltis &ccirc;e la krado apud la siringa <tld/>o
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o, perfekte kovrita de grimpantaj kreska&jcirc;oj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en <tld/>oj lo&gcirc;u dum sep tagoj, &ccirc;iu indi&gcirc;eno en <nom>Izrael</nom> lo&gcirc;u en <tld/>oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 23:42</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="fest.0odelauxboj">Festo de La&ubreve;boj</ref>,
+       <ref cel="pergol.0o">pergolo</ref>,
+       <ref cel="pavilo.0o">pavilono</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_t;&c_a;&c_n;&c_k;&c_a;</trd>
+  <trd lng="br">pratell<klr tip="ind"> (el liorzho&ugrave;)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Laube</trd>,
+    <trd>Gartenlaube</trd>,
+    <trd>Laubengang</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>arbor</trd>,
+    <trd>booth</trd>,
+    <trd>bower</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>gloriette</trd>,
+    <trd>tonnelle</trd>
+  </trdgrp>
+  <trd lng="hu">lugas</trd>
+  <trd lng="nl">prieel</trd>
+  <trd lng="pl">altana</trd>
+  <trdgrp lng="pt">
+    <trd>caramanch&atilde;o</trd>,
+    <trd>latada <klr>(suporte para plantas)</klr></trd>
+    <trd>cani&ccedil;ado</trd>    
+  </trdgrp>
+  <trd lng="ro">foi&#x219;or</trd>
+  <trd lng="ru">&c_b;&c_je;&c_s;&c_je;&c_d;&c_k;&c_a;</trd>
+  <trd lng="es">p&eacute;rgola</trd>
+  <trd lng="uk">&c_a;&#x43B;&#x44C;&c_t;&c_a;&#x43D;&#x43A;&c_a; (&#x43E;&#x43F;&#x43E;&c_v;&c_i;&c_t;&c_a;
+  &c_z;&c_je;&#x43B;&c_je;&#x43D;&#x43D;&#x44E;)</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4EAD; <pr>t&#xED;ng</pr></trd>,
+    <trd>&#x4E54;&#x6728; <pr>qi&#xE1;om&#xF9;</pr></trd>,
+    <trd>&#x55AC;&#x6728; <pr>qi&#xE1;om&#xF9;</pr></trd>,
+    <trd>&#x673A;&#x8F74; <pr>j&#x12B;zh&#xF3;u</pr></trd>,
+    <trd>&#x6A5F;&#x8EF8; <pr>j&#x12B;zh&#xF3;u</pr></trd>,
+    <trd>&#x4EAD;&#x5B50; <pr>t&#xED;ngzi</pr></trd>,
+    <trd>&#x62F1;&#x5ECA; <pr>g&#x1D2;ngl&#xE1;ng</pr></trd>,
+    <trd>&#x51C9;&#x4EAD; <pr>li&#xE1;ngt&#xED;ng</pr></trd>,
+    <trd>&#x6DBC;&#x4EAD; <pr>li&#xE1;ngt&#xED;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.18 2022/12/04 18:31:15
+Ulrich Fellmann: lauxbo: +1 plia DE trd
+
+versio 1.16 2020/11/07 10:33:24
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.14  2006/09/01 18:30:05  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2006/01/23 17:31:17  revo
+Jeromo Vasxe: + fak hor, kor. trd fr
+
+Revision 1.12 2005/04/08 16:32:08 revo
+Alan ar Gall: +trd br, fr
+
+Revision 1.11 2004/05/06 16:32:11 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2002/10/27 17:11:20 revo
+Manuel Pancorbo: ald hisp trd
+
+Revision 1.9 2002/09/22 16:31:58 revo
+-->
+</vortaro>

@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ipsilon.xml,v 1.14 2023/08/31 20:26:10 revo Exp $">
+<kap>
+    <ofc>9</ofc><rad>ipsilon</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="ipsilon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ipsilon.0o.litero">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Neesperanta <ref tip="super" cel="liter.0o.propra">litero</ref>
+      (y, Y)
+      <ekz>
+         <tld/>o kun du streketoj supre
+         <fnt>
+           <aut>Aleksandr Blinov/Eduard Lebedev</aut>
+           <vrk><url ref="&Monato;/2001/pdf/monato200108.pdf#page=16">La &ccirc;uva&scirc;a
+           lingvo</url></vrk>
+           <bib>Monato</bib>
+           <lok>2001/08, p. 16</lok>
+         </fnt>;
+      </ekz>
+      <ekz>
+         la &jcirc;urnalistoj demandas al si &ccirc;u s-ro <tld lit="I"/>o
+         <klr>(<ref cel="kon.ne0ato.KOMUNE">nekonato</ref>)</klr>
+         intencas esti kandidato
+         <fnt>
+           <bib>MD08</bib>
+           <vrk><url ref="&Tekstaro;?nomo=mondediplo-2008">Doni al la publiko &leftquot;kion &gcirc;i
+           postulas&rightquot;</url></vrk>
+         </fnt>;
+      </ekz>
+      uzata i.a. kiel:
+    </dif>
+    <subsnc>
+      <uzo tip="fak">KEM</uzo>
+      <dif>
+      (maj.) simbolo de itrio: <ekz>Y;</ekz>
+      </dif>
+      <trd lng="fr">yttrium</trd>
+    </subsnc>
+    <subsnc>
+      <uzo tip="fak">FIZ</uzo>
+      <dif>
+      (maj.) simbolo de jota: <ekz>Y;</ekz>
+      </dif>
+      <trd lng="fr">yotta</trd>
+    </subsnc>
+    <subsnc>
+      <uzo tip="fak">MAT</uzo>
+      <dif>
+      (min.) simbolo algebra por la dua nekonata kvanto: <ekz>y;</ekz>
+      </dif>
+      <trd lng="fr">y<klr> (axe des ordonn&eacute;es)</klr></trd>
+    </subsnc>
+    <subsnc>
+      <uzo tip="fak">FIZ</uzo>
+      <dif>
+      (min.) simbolo de jokto: <ekz>y.</ekz>
+      </dif>
+      <trd lng="fr">yocto</trd>
+    </subsnc>
+    <trd lng="de">Ypsilon</trd>
+    <trd lng="fr">y<klr> (lettre)</klr></trd>
+  </snc>
+  <ref tip="sin" cel="i2.0_greka">i greka</ref>
+  <trdgrp lng="ja">
+    <trd>&#x30EF;&#x30A4;</trd>,
+    <trd>&#x30E6;&#x30D7;&#x30B7;&#x30ED;&#x30F3;</trd>
+  </trdgrp>
+  <trd lng="sk">ypsilon</trd>
+  <trdgrp lng="cs">
+    <trd>t&eacute;&zcaron; &rcaron;eck&eacute; p&iacute;sm.</trd>,
+    <trd>ypsilon</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>y</trd>,
+    <trd>Y<klr> (i grec)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ipsylon</trd>,
+    <trd>igrek</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43F;&c_s;&c_i;&#x43B;&#x43E;&#x43D;</trd>,
+    <trd>&c_ib;&c_g;&c_r;&c_je;&#x43A;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.14 2023/08/31 20:26:10
+Vito Redsky: +trd pl 
+
+versio 1.12 2023/05/16 09:25:47
+Paul Peeraerts: + lok, bib, aut
+
+versio 1.11 2023/05/04 16:53:13
+revo: aktualigo URL-unuoj
+
+versio 1.9 2021/05/11 16:01:24
+Wolfram Diestel: +2ekz, kor. ref-cel, sintakso
+
+Revision 1.7  2017/07/11 20:10:14  revo
+Wolfram Diestel: koncizigis, adaptis mrk, +germ trd
+
+Revision 1.6  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/01/22 17:10:14  revo
+-->
+</vortaro>

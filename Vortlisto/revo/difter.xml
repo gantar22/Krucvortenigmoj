@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: difter.xml,v 1.27 2023/11/04 14:29:02 revo Exp $">
+<kap>
+  <ofc>1</ofc><rad>difterit</rad>/o <fnt><bib>PV</bib></fnt>,
+  <var><kap><ofc>8</ofc><rad var="i">difteri</rad>/o
+  <fnt><bib>SPV</bib></fnt></kap></var>
+</kap>
+<drv mrk="difter.0o">
+  <kap><tld/>o, <var><kap><tld var="i"/>o</kap></var></kap>
+  <snc mrk="difter.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Infekta gor&gcirc;a <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref> karakterizata per formi&gcirc;o de
+      falsaj membranoj
+      sur la muka ha&ubreve;to, kiuj alglui&gcirc;ante al la spiraj
+      kanaloj malhelpas
+      la spiradon; la laringa formo nomi&gcirc;as <ref tip="dif" cel="krup.0o">krupo</ref>:
+      <ekz>
+        li komunikis al mi la simptomojn de l' malsano kun tiel detala 
+        &gcirc;usteco, ke mi tuj rekonis <tld/>on
+        <fnt>
+          <aut>J. Arbes, trad. J. Gr&ncaron;a</aut>,
+          <vrk>Moderna Magdaleno</vrk>,
+          <lok><url ref="&Gutenberg;etext/18178">Rakontoj</url>,
+          eld. F. Boh&aacute;&ccaron;ek, 1908</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;&ccirc;u en nia urbo estas <tld var="i"/>o?&rightquot; &#x2010; &leftquot;beda&ubreve;rinde&rightquot;
+        <fnt>
+          <aut>F. Omelka</aut>,
+          <vrk><url ref="http://eo.wikibooks.org/wiki/La_Alaska_Stafeto">
+          La Alaska Stafeto</url></vrk>,
+          <lok>1952</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_y;&c_f;&c_t;&c_e;&c_r;&c_y;&c_ja;</trd>,
+    <trd>&c_d;&c_y;&c_f;&c_t;&c_e;&c_r;&c_y;&c_t;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_d;&c_i;&c_f;&c_t;&c_je;&c_r;&c_i;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd>Difterie</trd>,
+    <trd>Diphtherie</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_d;&f_y;&a_f;&a_t;&a_r;&f_y;</trd>,
+    <trd>&a_kh;&a_n;&a_shadda;&a_A;&a_q;</trd>
+  </trdgrp>
+  <trd lng="fr">dipht&eacute;rie</trd>
+  <trd lng="id">difteri</trd>
+  <trdgrp lng="pl">
+    <trd>dyfteryt</trd>,
+    <trd>b&lstroke;onica</trd>
+  </trdgrp>
+  <trd lng="pt">difteria</trd>
+  <trd lng="ru">&c_d;&c_i;&c_f;&c_t;&c_je;&c_r;&c_i;&c_t;</trd>
+    <trd lng="zh">&#x767D;&#x5589; <pr>b&#xE1;ih&#xF3;u</pr></trd>
+</snc>
+  <trdgrp lng="cs">
+    <trd>difterie</trd>,
+    <trd>z&aacute;&scaron;krt</trd>
+  </trdgrp>
+  <trd lng="he">&#x5D3;&#x5B4;&#x5D9;&#x5E4;&#x5D8;&#x5B6;&#x5E8;&#x5B4;&#x5D9;&#x5B8;&#x5D4;</trd>
+  <trd lng="ja">&#x30B8;&#x30D5;&#x30C6;&#x30EA;&#x30A2;</trd>
+  <trd lng="sk">z&aacute;&scaron;krt</trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x438;&#x444;&#x442;&#x435;&#x440;&#x438;&#x442;</trd>,
+    <trd>&#x434;&#x438;&#x444;&#x442;&#x435;&#x440;&#x456;&#x44F;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2020/09/09 18:10:36
+Wolfram Diestel: +tld-var
+
+Revision 1.20  2019/10/26 22:10:26  revo
+Wolfram Diestel: kunigo kun difteri'
+
+Revision 1.19  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/11/17 11:12:02  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2013/10/07 15:10:52  revo
+Wolfram Diestel: ref la lst malsanoj
+
+Revision 1.15  2011/10/05 20:10:11  revo
+-->
+</vortaro>

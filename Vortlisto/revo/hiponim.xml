@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: hiponim.xml,v 1.5 2023/11/15 17:08:01 afido Exp $">
+    <kap>
+      <rad>hiponim</rad>/o
+      <fnt><bib>PIV2</bib></fnt>
+    </kap>
+
+<drv mrk="hiponim.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="dif" cel="noci.sub0o">Subnocio</ref>:
+      <ekz>
+        skarlata <klr>[&#x2026;]</klr>, karmezina, <klr>[&#x2026;]</klr> amba&ubreve; estas <tld/>oj de ru&gcirc;a
+        <fnt>
+          <bib>LAE</bib>
+          <lok>5. Leksiko Kaj Semantiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiaj rilatoj estas sinonimeco, antonimeco, plursignifo, paronimeco, <tld/>eco
+        kaj &gcirc;ia malo, kaj inverseco
+        <fnt>
+          <bib>LAE</bib>
+          <lok>5. Leksiko Kaj Semantiko</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Hyponym</trd>
+    <trd lng="en">hyponym</trd>
+    <trd lng="fr">hyponyme</trd>
+    <trd lng="pl">hiponim</trd>
+  </snc>
+  <trd lng="ja">&#x4E0B;&#x4F4D;&#x8A9E;  <pr>&#x304B;&#x3044;&#x3054;</pr></trd>
+  <trd lng="zh">&#x4E0B;&#x4E49;&#x8BCD; <pr>xi&#xE0;y&#xEC;c&#xED;</pr></trd>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.4 2023/10/16 05:55:37
+revo: transskribo per <pr>
+
+versio 1.2 2023/06/09 19:22:04
+Vito Redsky: +trd pl 
+-->
+
+<!--
+$Log: hiponim.xml,v $
+versio 1.1 2022/10/05 06:01:40
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bier.xml,v 1.44 2023/10/29 19:11:01 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>bier</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="bier.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="bier.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Fermentinta <ref tip="lst" cel="trink.0ajxo" lst="voko:trinka&jcirc;oj">trinka&jcirc;o</ref> el
+      <ref tip="prt" cel="malt.0o">malto</ref>
+      (ordinare <ref tip="prt" cel="horde.0o">hordea</ref>),
+      <ref tip="prt" cel="lupol.0o">lupolo</ref>, akvo kaj
+      <ref tip="prt" cel="gist.0o">gisto</ref>, foje kun
+      aliaj aldona&jcirc;oj:
+      <ekz>
+        hela, malhela, nigra, tritika <tld/>o;
+      </ekz>
+      <ekz>
+        la germana <tld/>o tiam estis bonega kaj ekzistis diversaj
+        specoj de &gcirc;i: Brema, Prisinga, Emsa <tld/>o, e&ccirc; la tiel nomata
+        Brunsvika mumio
+        <fnt><bib>Fab3</bib> <lok>Nokta &ccirc;apo de
+        fra&ubreve;lo</lok></fnt>;
+      </ekz>
+      <ekz>
+        kru&ccirc;oj plenaj de <tld/>o kaj vino
+        <fnt><bib>Far1</bib> <lok>&ccirc;apitro 1a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="super" cel="alkoho.0ajxo">alkohola&jcirc;o</ref>
+  <trd lng="be">&c_p;&c_ib;&c_v;&c_a;</trd>
+  <trd lng="bg">&c_b;&c_i;&c_r;&c_a;</trd>
+  <trd lng="bo">&t_dza;&t_tsheg;&t_ga;&t_da;&t_tsheg;</trd>
+  <trd lng="br">bier</trd>
+  <trd lng="ca">cervesa</trd>
+  <trd lng="cs">pivo</trd>
+  <trd lng="de">Bier</trd>
+  <trd lng="en">beer</trd>
+  <trd lng="es">cerveza</trd>
+  <trd lng="fa">&a_A_madda;&a_b;&a_j;&a_w;</trd>
+  <trd lng="fr">bi&egrave;re <klr>(boisson)</klr></trd>
+  <trd lng="he">&bet;&yod;&resh;&he;<klr tip="amb">
+  (&mem;&shin;&qof;&he;)</klr></trd>
+  <trd lng="hu">s&ouml;r</trd>
+  <trd lng="id">bir</trd>
+  <trd lng="ja">&#x30D3;&#x30FC;&#x30EB;  <pr>&#x3073;&#x30FC;&#x308B;</pr></trd>
+  <trd lng="nl">bier</trd>
+  <trd lng="oc">bi&egrave;rra</trd>
+  <trdgrp lng="pl">
+    <trd>piwo</trd>,
+    <trd>browar<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">cerveja</trd>
+  <trd lng="ro">bere</trd>
+  <trd lng="ru">&c_p;&c_i;&c_v;&c_o;</trd>
+  <trd lng="sk">pivo</trd>
+  <trd lng="sv">&ouml;l</trd>
+  <trd lng="tr">bira</trd>
+  <trd lng="uk">&c_p;&c_i;&c_v;&c_o;</trd>
+  <trd lng="vo">bil</trd>
+  <trd lng="zh">&#x5564;&#x9152;<klr> [p&iacute;ji&#x1D4;]</klr></trd>
+</drv>
+
+<drv mrk="bier.0ejo">
+  <kap>
+    <tld/>ejo
+  </kap>
+  <snc mrk="bier.0ejo.KUI">
+    <dif>
+      <ref tip="super" cel="drink.0ejo">Drinkejo</ref>, kie oni ofertas precipe <tld/>on:
+      <ekz>
+        tio estis unu el la tiuepokaj gastejoj, speco de <tld/>ejo, la &ccirc;ambro havis la
+        aspekton de Holstinia vestiblo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        starlokojn en la malanta&ubreve;a parto de teatroj, kie eblis <klr>[&#x2026;]</klr>, kiam
+        venis la pa&ubreve;zo, &ccirc;iam atingi unua la <tld/>ejon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2011/010541.php">Grincantaj genuoj ... kaj &gcirc;entileco</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="tavern.0o">taverno</ref>
+    </refgrp>
+    <trd lng="zh">&#x9152;&#x9928; <pr>ji&#x1D4;gu&#x1CE;n</pr></trd>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_ib;&c_w;&c_n;&c_a;&c_ja;</trd>,
+    <trd>&c_p;&c_ib;&c_w;&c_n;&c_u;&c_sh;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_b;</trd>
+  </trdgrp>
+  <trd lng="de">Kneipe</trd>
+  <trd lng="en">pub</trd>
+  <trd lng="fr">pub</trd>
+  <trd lng="ja">&#x30D3;&#x30E4;&#x30DB;&#x30FC;&#x30EB;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_i;&c_v;&c_o;&c_v;&c_a;&c_r;&c_n;&c_ja;</trd>,
+    <trd>&c_b;&c_r;&c_o;&c_v;&c_a;&c_r;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_i;&c_v;&c_n;&c_i;&c_j; &c_z;&c_a;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bier.barel0o">
+  <kap>
+    barel<tld/>o,
+    <var><kap>barela <tld/>o</kap></var>
+  </kap>
+  <snc mrk="bier.barel0o.KUI">
+    <dif>
+      <ref tip="super" cel="bier.0o.KUI"><tld lit="B"/>o</ref>
+      tenata en barelo kaj elkranata por konsumo,
+      kontraste al <ref tip="ant" cel="bier.botel0o.KUI">botelbiero</ref>:
+      <ekz>
+        li ser&ccirc;is kioskon; la kutiman; sidi&gcirc;is kaj petis du glasojn da barel<tld/>o
+        <fnt>
+          <aut>P. S. Viana</aut>
+          <vrk>Rulse&gcirc;o</vrk>
+          <lok>Beletra Almanako, 2010:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la bongusta barela <tld/>o estas ukrainia
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>
+          <vrk>Krimeo estas nia</vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_o;&c_ch;&c_k;&c_a;&c_v;&c_a;&c_je; <ind>&c_p;&c_ib;&c_v;&c_a;</ind></trd>
+  <trd lng="fr">bi&egrave;re &agrave; la pression</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6A3D;&#x30D3;&#x30FC;&#x30EB;  <pr>&#x305F;&#x308B;&#x3073;&#x30FC;&#x308B;</pr></trd>,
+    <trd>&#x751F;&#x30D3;&#x30FC;&#x30EB;  <pr>&#x306A;&#x307E;&#x30D3;&#x30FC;&#x30EB;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x751F;&#x5564; <pr>sh&#x113;ngp&#xED;</pr></trd>,
+    <trd>&#x6876;&#x88C5;&#x5564;&#x9152; <pr>t&#x1D2;ngzhu&#x101;ngp&#xED;ji&#x1D4;</pr></trd>,
+    <trd>&#x624E;&#x5564; <pr>zh&#x101;p&#xED;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bier.botel0o">
+  <kap>
+    botel<tld/>o,
+    <var><kap>botela <tld/>o</kap></var>
+  </kap>
+  <snc mrk="bier.botel0o.KUI">
+    <dif>
+      <ref tip="super" cel="bier.0o.KUI"><tld lit="B"/>o</ref>
+      liverata en botelo a&ubreve; ladskatolo,
+      kontraste al <ref tip="ant" cel="bier.barel0o.KUI">barelbiero</ref>:
+      <ekz>
+        li estis la &gcirc;enerala agento por kudroma&scirc;inoj, por sengrajnigaj ma&scirc;inoj por
+        maizo, por porcelanvaroj, por gudritaj kartontegmentoj, por ondolado,
+        petrolo, skribma&scirc;inoj, hispanaj pulvopafiloj &scirc;ar&gcirc;endaj tra la tubobu&scirc;o,
+        florsema&jcirc;oj, dornodrato, gazetoj, &jcirc;urnaloj, botel<tld/>oj, vinoj kaj cigaredoj
+        <fnt>
+          <aut>B. Traven, trad. D. kaj H.-G. Kaiser</aut>
+          <vrk><url ref="http://verkoj.com/dn/Cezar/btraven_%C4%89aro.pdf">&Ccirc;aro</url></vrk>
+          <lok>2016</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_u;&c_t;&c_e;&c_l;&c_je;&c_ch;&c_n;&c_a;&c_je; <ind>&c_p;&c_ib;&c_v;&c_a;</ind></trd>
+  <trd lng="fr">bi&egrave;re en bouteille</trd>
+  <trd lng="ja">&#x3073;&#x3093;&#x30D3;&#x30FC;&#x30EB;  <pr>&#x3073;&#x3093;&#x3073;&#x30FC;&#x308B;</pr></trd>
+</drv>
+</art>
+<!--
+
+$Log$
+versio 1.43 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.41 2022/12/06 08:33:44
+Dmitri Gabinski: + trd be
+
+versio 1.40 2022/08/22 22:30:30
+Jeromo Vasxe: + barel/botel~o
+
+versio 1.39 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2022/01/19 08:33:42
+Dmitri Gabinski: + trd be
+
+versio 1.36 2021/09/03 17:33:03
+Wolfram Diestel: +~ejo
+
+versio 1.35 2021/01/19 09:11:13
+Aleks Andre: +trd bo
+
+Revision 1.33  2016/07/24 16:10:24  revo
+-->
+
+</vortaro>

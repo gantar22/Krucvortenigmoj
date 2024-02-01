@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pleona.xml,v 1.25 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>pleonasm</rad>/o
+</kap>
+<drv mrk="pleona.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">LIN</uzo>
+  <uzo tip="fak">GRA</uzo>
+    <dif>
+      <ref tip="super" cel="figur.stil0o">Stilfiguro</ref> uzanta vortojn superfluajn, kiuj senutile
+      denove esprimas jam
+      esprimatan ideon:
+      <ekz>
+        la fundaj faktoj, la veraj faktoj (pardonu la <tld/>on)
+        mergi&gcirc;as en mar&ccirc;o de tiel nomataj faktoj, de duonfaktoj, precipe de komentoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2005/008763.php">Faktoj senfaktaj kaj murdo en la
+          metroo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o, do, estas kontra&ubreve;a al elipso
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la ordinara, &ccirc;iutaga vivo, la uzo de <tld/>oj estas plej ofte rezulto de
+        nesufi&ccirc;a kono de la lingvo a&ubreve; de simpla neglekto
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="elips.0o.ellaso">elipso<sncref/></ref>,
+      <ref cel="oksimor.0o">oksimoro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_je;&c_a;&c_n;&c_a;&c_z;&c_m;</trd>
+  <trd lng="ca">pleonasme</trd>
+  <trdgrp lng="cs">
+    <trd>mnohomluv</trd>,
+    <trd>pleonasmus</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Pleonasmus</trd>,
+    <trd>doppeltgemoppelt</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>pleonasm</trd>,
+    <trd>redundancy</trd>
+  </trdgrp>
+  <trd lng="es">pleonasmo</trd>
+  <trd lng="fr">pl&eacute;onasme</trd>
+  <trd lng="hu">pleonazmus</trd>
+  <trdgrp lng="ja">
+    <trd>&#20887;&#x8A9E;&#x6CD5;  <pr>&#12376;&#12423;&#12358;&#12372;&#x307B;&#12358;</pr></trd>,
+    <trd>&#20887;&#38263;&#x306A;&#34920;&#x73FE;  <pr>&#12376;&#12423;&#12358;&#12385;&#12423;&#12358;&#12394;&#12402;&#12423;&#12358;&#12370;&#12435;</pr></trd>,
+    <trd>&#20887;&#x8A9E;  <pr>&#12376;&#12423;&#12358;&#12372;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">pleonasme</trd>
+  <trd lng="pl">pleonazm</trd>
+  <trd lng="pt">pleonasmo</trd>
+  <trd lng="ro">pleonasm</trd>
+  <trd lng="ru">&c_p;&c_l;&c_je;&c_o;&c_n;&c_a;&c_z;&c_m;</trd>
+  <trd lng="sk">pleonazmus</trd>
+  <trd lng="uk">&#x43F;&#x43B;&c_je;&#x43E;&#x43D;&c_a;&c_z;&#x43C;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.24 2023/09/12 19:19:55
+Wolfram Diestel: pr. ja
+
+versio 1.22 2022/04/04 22:30:52
+Vito Redsky: + trd pl + trd ro
+
+versio 1.20 2022/01/23 08:31:03
+Wolfram Diestel: +ekz, ref
+
+versio 1.19 2022/01/22 19:20:56
+Wolfram Diestel: +ref-oj
+
+Revision 1.17  2018/11/27 19:10:15  revo
+Wolfram Diestel: +ekz
+
+Revision 1.16  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:18  revo
+-->
+</vortaro>

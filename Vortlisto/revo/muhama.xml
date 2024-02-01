@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: muhama.xml,v 1.30 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <rad>Muhamad</rad>/o,
+  <var><kap><rad var="o">Mohamed</rad>/o</kap></var>
+</kap>
+<drv mrk="muhama.0o">
+  <kap><tld/>o,
+    <var><kap><tld var="o"/>o</kap></var>
+  </kap>
+  <snc mrk="muhama.0o.nomo">
+    <uzo tip="fak">NOM</uzo>
+    <dif>
+      Vira <ref tip="lst" lst="voko:personaj_nomoj" cel="nom.persona0o.GEN">nomo</ref> araba kaj
+      islama:
+      <ekz>
+        <tld/>o la &Hcirc;orezmano ... alnomo de tiu lasta
+        (<nom>al-&Hcirc;orezmi</nom>), misformita per latinigo, plu vivas en la
+        scienca termino &leftquot;<ref cel="algor.0o">algoritmo</ref>&rightquot;
+        <fnt>
+          <aut>S. Pokrovskij</aut>:
+          <vrk>Slavonaj skriboj</vrk>,
+          <bib>LOdE</bib>, <lok>1999. No 1 (51)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Hasano la 2-a (Maroko) <klr>[&#x2026;]</klr> estis la plej a&gcirc;a filo de <tld var="o"/>o la 5-a
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=289567">Hasano la 2-a (Maroko)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">Muhammad</trd>
+    <trd lng="it">Mohammed</trd>
+  </snc>
+  <snc mrk="muhama.0o.profeto">
+    <uzo tip="fak">PERS</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">REL</uzo>
+    <uzo tip="fak">ISL</uzo>
+    <dif>
+      La profeto kaj fondinto de
+      <ref tip="vid" cel="islam.0o">islamo</ref> (&ccirc;. 570&#x202F;&#x2010;&#x202F;632),
+      la lasta kaj la plej granda el la
+      <ref tip="vid" cel="profet.0o">profetoj</ref>, kies venon
+      promesis <ref tip="vid" cel="jesu.0o.homo">Jesuo</ref>
+      (parolante pri <ref tip="vid" cel="parakl.0o">Parakleto</ref>)
+      kaj al kiu <ref tip="vid" cel="koran.0o">Korano</ref>
+      estis revelaciita:
+      <ekz>
+        <tld/>o estis kvin- a&ubreve; ses-jara, kiam li iris kun sia
+        patrino de Mako al Jasribo;
+        <fnt>
+        <aut>Mustar Abasi, red. Nino Vesela</aut>:
+        <vrk>Tezoj pri islamo kaj La vivo de la islama
+        profeto.</vrk>
+        <lok>Murree (Pakistano):
+        Universala Islama Esperanto-Asocio. 2000. P.13.</lok>.</fnt>
+      </ekz>
+      <ekz>
+        la &Ccirc;arto de Medino, estis redaktita fare de la islama profeto <tld var="o"/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=27492">Medino</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Monato decidis pri la uzo de la formo <tld/>o, kiun rekomendas 
+        la plimulto de la spertuloj pri la araba lingvo.
+        <fnt>
+        <bib>Monato</bib>
+        </fnt>
+      </ekz>
+    </dif>
+    <rim>
+      La plena nomo:
+      <nom>ABU AL-QASIM MUHAMMAD IBN 'ABD ALLAH IBN 'ABD AL-MUTTALIB IBN
+      HA&Scirc;IM</nom>. Oni trovas anka&ubreve; aliajn transskribojn, krom
+      <em>Mohamedo</em>, kiu estus oportuna en Esperanto,
+      &leftquot;<ref tip="sin" cel="mahome.0o">Mahometo</ref>&rightquot;
+      (tro kripligita, kvankam ja Zamenhofa).
+    </rim>
+    <trd lng="ca">Mahoma</trd>
+    <trd lng="it">Maometto</trd>
+  </snc>
+  <trd lng="be">&c_M;&c_u;&c_h;&c_a;&c_m;&c_a;&c_d;</trd>
+  <trd lng="ca">Muhammad</trd>
+  <trd lng="cs">Mohamed</trd>
+  <trd lng="de">Mohammed</trd>
+  <trd lng="en">Mohammed</trd>
+  <trd lng="fa">&a_m;&a_H;&a_m;&a_d;</trd>
+  <trd lng="he">&mem;&vav;&het;&mem;&dalet;</trd>
+  <trd lng="hu">Mohamed</trd>
+  <trd lng="id">Muhammad</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E0;&#x30CF;&#x30F3;&#x30DE;&#x30C9;</trd>,
+    <trd>&#x30DE;&#x30DB;&#x30E1;&#x30C3;&#x30C8;  <pr>&#x307E;&#x307B;&#x3081;&#x3063;&#x3068;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">Mohammed</trd>
+  <trd lng="pl">Mahomet</trd>
+  <trdgrp lng="pt">
+    <trd>Maom&eacute;</trd>,
+    <trd>Moamede</trd>,
+    <trd>Mohammed</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_M;&c_u;&c_h;&c_a;&c_m;&c_m;&c_a;&c_d;</trd>,
+    <trd>&c_M;&c_u;&c_h;&c_a;&c_m;&c_je;&c_d;</trd>,
+    <trd>&c_M;&c_a;&c_g;&c_o;&c_m;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">Mohamed</trd>
+  <trdgrp lng="uk">
+    <trd>&#x41C;&#x443;&#x445;&#x430;&#x43C;&#x435;&#x434;</trd>,
+    <trd>&#x41C;&#x430;&#x433;&#x43E;&#x43C;&#x435;&#x442;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.27 2021/10/13 20:30:23
+Wolfram Diestel: +tld, rim-adapteto
+
+versio 1.26 2020/09/08 20:10:46
+Wolfram Diestel: +tld-var
+
+Revision 1.24  2018/10/15 19:10:16  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.23  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2013/04/03 13:10:08  revo
+Sebastian Cyprych: kor trd pl
+
+Revision 1.21  2013/03/26 11:10:13  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.20  2012/08/19 11:10:15  revo
+-->
+</vortaro>

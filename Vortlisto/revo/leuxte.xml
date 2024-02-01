@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: leuxte.xml,v 1.31 2024/01/15 16:14:09 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>le&ubreve;tenant</rad>/o
+</kap>
+<drv mrk="leuxte.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      En terarmeo kaj aerarmeo,
+      <ref tip="super" cel="oficir.0o.MIL">oficiro</ref>, kiu rangas
+      inter
+      <ref cel="leuxte.sub0o">sub<tld/>o</ref> kaj
+      <ref cel="kapita1.0o.MIL">kapitano</ref>:
+      <ekz>
+        la <tld/>o kribris per la fingroj iom da sablo anta&ubreve; ol
+        respondi
+        <fnt><aut>Alberto Garc&iacute;a Fumero</aut>:
+        <vrk>Relevi&gcirc;o</vrk>, 
+        <bib>Monato</bib><lok>jaro 1998a, numero 1a,
+        p. 20a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_je;&c_j;&c_t;&c_e;&c_n;&c_a;&c_n;&c_t;</trd>
+  <trd lng="br">letanant</trd>
+  <trd lng="de">Leutnant</trd>
+  <trd lng="el">&ypsilon;&pi;&omikron;&lambda;&omikron;&chi;&alfa;&gamma;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">first lieutenant <klr>(Usone)</klr></trd>
+  <trd lng="es">teniente</trd>
+  <trd lng="fr">lieutenant</trd>
+  <trd lng="hu">hadnagy</trd>
+  <trd lng="nl">luitenant</trd>
+  <trd lng="pl">porucznik</trd>
+  <trd lng="pt">tenente</trd>
+  <trd lng="ro">locotenent</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_je;&c_j;&c_t;&c_je;&c_n;&c_a;&c_n;&c_t;</trd>,
+    <trd>&c_p;&c_o;&c_r;&c_u;&c_ch;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sv">l&ouml;jtnant</trd>
+  <trd lng="it">tenente<klr> (OF1)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x435;&#x439;&#x442;&#x435;&#x43D;&#x430;&#x43D;&#x442;</trd>,
+    <trd>&#x43F;&#x43E;&#x440;&#x443;&#x447;&#x438;&#x43A;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x4E2D;&#x5C09; <pr>zh&#x14D;ngw&#xE8;i</pr></trd>
+</drv>
+
+<drv mrk="leuxte.sub0o">
+  <kap>sub<tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      En terarmeo kaj aerarmeo,
+      <ref tip="super" cel="oficir.0o.MIL">oficiro</ref>, kiu rangas sub
+      <ref cel="leuxte.0o"><tld/>o</ref>;
+      plej malsupera oficiro:
+      <ekz>
+        li i&gcirc;is sub<tld/>o en 1883 post sukcesaj studoj en la Armea
+        Altlernejo
+        <fnt><aut>Wim M. A. De Smet</aut>: <vrk>Anta&ubreve; cent
+        jaroj</vrk>, <bib>Monato</bib><lok>jaro 1998a, numero 5a, p.
+        25a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="leuxte.vic0o">vic<tld/>o</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_o;&c_d;&c_sh;&c_y; 
+<ind>&c_l;&c_je;&c_j;&c_t;&c_e;&c_n;&c_a;&c_n;&c_t;</ind></trd>
+  <trdgrp lng="de">
+    <trd>Fahnenjunker</trd>,
+    <trd>F&auml;hnrich</trd>,
+    <trd>Unterleutnant</trd>
+  </trdgrp>
+  <trd lng="br">isletanant</trd>
+  <trd lng="en">second lieutenant <klr>(Usone)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>sous-lieutenant</trd>
+  </trdgrp>
+  <trd lng="hu">alhadnagy</trd>
+  <trdgrp lng="it">
+    <trd>sottotenente<klr> (OF1)</klr></trd>, 
+    <trd>guardiamarina<klr> (marina, OF1)</klr></trd>, 
+  </trdgrp>  
+  <trd lng="ru">&c_m;&c_l;&c_a;&c_d;&c_sh;&c_i;&c_j; &c_l;&c_je;&c_j;&c_t;&c_je;&c_n;&c_a;&c_n;&c_t;</trd>
+  <trd lng="nl">onderluitenant</trd>
+  <trd lng="pl">podporucznik</trd>
+  <trd lng="pt">subtenente</trd>
+  <trd lng="ro">sublocotenent</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&#x43B;&#x43E;&#x434;&#x448;&#x438;&#x439; &#x43B;&#x435;&#x439;&#x442;&#x435;&#x43D;&#x430;&#x43D;&#x442;</trd>,
+    <trd>&#x43F;&#x456;&#x434;&#x43F;&#x43E;&#x440;&#x443;&#x447;&#x438;&#x43A;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5C11;&#x5C09; <pr>sh&#xE0;ow&#xE8;i</pr></trd>,
+    <trd>&#x519B;&#x5B98;&#x5B66;&#x6821;&#x5B66;&#x751F; <pr>j&#x16B;ngu&#x101;nxu&#xE9;xi&#xE0;oxu&#xE9;sheng</pr></trd>,
+    <trd>&#x8ECD;&#x5B98;&#x5B78;&#x6821;&#x5B78;&#x751F; <pr>j&#x16B;ngu&#x101;nxu&#xE9;xi&#xE0;oxu&#xE9;sheng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="leuxte.vesel0o">
+  <kap>vesel<tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <fnt><bib>PIV1</bib><lok>veselo</lok></fnt>
+  <snc>
+    <dif>
+      En mararmeo,
+      <ref tip="super" cel="oficir.0o.MIL">oficiro</ref> kun
+      rango ekvivalenta al tiu de <ref cel="kapita1.0o.MIL">kapitano</ref>.
+    </dif>
+    <ref tip="vid" cel="vesel.0o">veselo</ref>
+  </snc>
+  <trd lng="br">letanant a vor</trd>
+  <trd lng="fr">lieutenant de vaisseau</trd>
+  <trd lng="hu">sorhaj&oacute;hadnagy</trd>
+  <trd lng="it">tenente di vascello<klr> (OF2)</klr></trd>
+  <trd lng="nl">luitenant-ter-zee</trd>
+  <trd lng="pl">komandor porucznik</trd>
+  <trd lng="pt">tenente de navio</trd>
+  <trd lng="ro">comandor</trd>
+  <trd lng="uk">&#x43A;&#x430;&#x43F;&#x456;&#x442;&#x430;&#x43D;-&#x43B;&#x435;&#x439;&#x442;&#x435;&#x43D;&#x430;&#x43D;&#x442;</trd>
+  <trd lng="zh">&#x4E2D;&#x5C09; <pr>zh&#x14D;ngw&#xE8;i</pr></trd>
+</drv>
+
+<drv mrk="leuxte.vic0o">
+  <kap>vic<tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <ref tip="dif" cel="leuxte.sub0o">sub<tld/>o</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_o;&c_d;&c_sh;&c_y; <ind>&c_l;&c_je;&c_j;&c_t;&c_e;&c_n;&c_a;&c_n;&c_t;</ind></trd>
+  <trd lng="br">isletanant</trd>
+  <trd lng="de">Unterleutnant</trd>
+  <trd lng="en">second lieutenant <klr>(Usone)</klr></trd>
+  <trd lng="hu">alhadnagy</trd>
+  <trd lng="it">sottotenente</trd>
+  <trd lng="fr">sous-lieutenant</trd>
+  <trd lng="nl">onderluitenant</trd>
+  <trd lng="pl">podporucznik</trd>
+  <trd lng="pt">subtenente</trd>
+  <trd lng="ro">sublocotenent</trd>
+  <trd lng="ru">&c_m;&c_l;&c_a;&c_d;&c_sh;&c_i;&c_j; &c_l;&c_je;&c_j;&c_t;&c_je;&c_n;&c_a;&c_n;&c_t;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&#x43B;&#x43E;&#x434;&#x448;&#x438;&#x439; &#x43B;&#x435;&#x439;&#x442;&#x435;&#x43D;&#x430;&#x43D;&#x442;</trd>,
+    <trd>&#x43F;&#x456;&#x434;&#x43F;&#x43E;&#x440;&#x443;&#x447;&#x438;&#x43A;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5C11;&#x5C09; <pr>sh&#xE0;ow&#xE8;i</pr></trd>
+</drv>
+
+<drv mrk="leuxte.vicsub0o">
+  <kap>vicsub<tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <fnt>
+  <aut>E. Grosjean-Maupin</aut>
+  <vrk>Dictionnaire complet fran&ccedil;ais-esp&eacute;ranto</vrk>
+  </fnt>
+  <snc>
+    <ref tip="dif" cel="adjuda.0o">adjudanto</ref>
+  </snc>
+  <trd lng="br">adjudant</trd>
+  <trd lng="de">Stabsfeldwebel</trd>
+  <trd lng="fr">adjudant</trd>
+  <trd lng="hu">z&aacute;szl&oacute;s</trd>
+  <trd lng="it">luogotenente</trd> 
+  <trd lng="nl">adjudant</trd> 
+  <trd lng="pl">chor&aogonek;&zdot;y</trd>
+  <trd lng="pt">suboficial</trd>
+  <trdgrp lng="ro">
+    <trd>cadet</trd>,
+    <trd>subofi&#x21B;er</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x519B;&#x58EB; <pr>j&#x16B;nsh&#xEC;</pr></trd>,
+    <trd>&#x8ECD;&#x58EB; <pr>j&#x16B;nsh&#xEC;</pr></trd>,
+    <trd>&#x4E8C;&#x7B49;&#x58EB;&#x5B98;&#x9577; <pr>&#xE8;rd&#x11B;ngsh&#xEC;gu&#x101;nch&#xE1;ng</pr></trd>,
+    <trd>&#x4E8C;&#x7B49;&#x58EB;&#x5B98;&#x957F; <pr>&#xE8;rd&#x11B;ngsh&#xEC;gu&#x101;nch&#xE1;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2021/11/30 16:50:54
+Wolfram Diestel: kor. trd de
+
+versio 1.27 2020/07/06 21:10:47
+Vito Redsky: +trd pl +trd ro  
+
+Revision 1.25  2009/07/09 16:31:48  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.24  2009/03/12 17:30:46  revo
+Antonio Codazzi: ++trd it (mararmeo), +NATO-codigo
+
+Revision 1.23  2009/03/03 17:30:54  revo
+Antonio Codazzi: +trd it
+
+Revision 1.22  2007/11/30 17:30:32  revo
+Tulio Flores: +tr pt
+
+Revision 1.21  2007/03/29 16:30:15  revo
+Wieland Pusch: +trd de
+
+Revision 1.20  2005/08/14 16:32:13  revo
+-->
+</vortaro>

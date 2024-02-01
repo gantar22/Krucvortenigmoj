@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: trib.xml,v 1.25 2023/10/21 14:37:42 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>trib</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="trib.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="trib.0o.ETN">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="naci.0o.popolo">nacio</ref>
+      kun ne-&scirc;tata organizo, &gcirc;enerale ariganta plurajn
+      <ref tip="prt" cel="gent.0o.familio">gentojn</ref>.
+    </dif>
+    <subsnc mrk="trib.0o.HIS">
+      <uzo tip="fak">HIS</uzo>
+      <dif>
+        En la antikva grek-romia kulturo grupo de
+        <ref tip="prt" cel="kuri.0o.HIS">kurioj</ref>
+        a&ubreve; <ref tip="prt" cel="fratri.0o.HIS">fratrioj</ref>
+        starigita por administraj celoj.
+      </dif>
+      <trdgrp lng="pl">
+        <trd>plemi&eogonek;</trd>,
+        <trd>szczep</trd>,
+        <trd>klan</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="trib.0o.BIB">
+      <uzo tip="fak">BIB</uzo>
+      <dif>
+        Idaro de &ccirc;iu el la dekdu hebreaj prapatroj.
+      </dif>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="klan.0o">klano</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="trib.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      &Scirc;tupo de la botanika kaj zoologia klasifikoj,
+      malpli vasta ol <ref tip="malprt" cel="famili.0o.BIO">familio</ref>,
+      pli vasta ol <ref tip="prt" cel="genr.0o.BIO">genro</ref>,
+      (<trd lng="la">tribus</trd>):
+      <ekz>
+        en la kata <tld/>o, la plejo de specioj estas striaj
+        a&ubreve; strie makulaj
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro
+        13a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_je;&c_m;&c_ja;</trd>
+  <trd lng="de">Stamm</trd>
+  <trd lng="en">tribe</trd>
+  <trd lng="es">tribu</trd>
+  <trd lng="fr">tribu</trd>
+  <trd lng="hu">t&ouml;rzs</trd>
+  <trd lng="it">trib&ugrave;</trd>
+  <trd lng="ca">tribu</trd>
+  <trdgrp lng="ja">
+    <trd>&#x90E8;&#x65CF;  <pr>&#x3076;&#x305E;&#x304F;</pr></trd>,
+    <trd>&#x7A2E;&#x65CF;  <pr>&#x3057;&#x3085;&#x305E;&#x304F;</pr></trd>,
+    <trd>&#x652F;&#x65CF;  <pr>&#x3057;&#x305E;&#x304F;</pr></trd>,
+    <trd>&#x65CF;  <pr>&#x3046;&#x304B;&#x3089;</pr></trd>,
+    <trd>&#x9023;  <pr>&#x3080;&#x3089;&#x3058;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>stam</trd>,
+    <trd>volksstam</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>plemi&eogonek;</trd>,
+    <trd>r&oacute;d</trd>,
+    <trd>pokolenie</trd>
+  </trdgrp>
+  <trd lng="pt">tribo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_je;&c_m;&c_ja;</trd>,
+    <trd>&c_r;&c_o;&c_d;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_je;&c_n;&c_o;
+    <klr tip="ind"> (&c_r;&c_o;&c_d;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&c_je;&#x43C;&#x2019;&#x44F;</trd>,
+    <trd>&c_t;&c_r;&c_i;&c_b;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="trib.0estro">
+  <kap><tld/>estro</kap>
+  <snc mrk="trib.0estro.ETN">
+    <dif>
+      Gvidanto de
+      <ref tip="vid" cel="trib.0o.ETN"><tld/>o</ref>:
+      <ekz>
+        la <tld/>estro lin atendis staranta
+        <fnt><aut>E. de Zilah</aut>, <vrk>La Princo &ccirc;e la
+        Hunoj</vrk>,
+        <lok>2011</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_y;&c_r; &c_p;&c_l;&c_je;&c_m;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>kmenov&#xFD; n&#xE1;&#x10D;eln&#xED;k</trd>,
+    <trd>n&#xE1;&#x10D;eln&#xED;k kmene</trd>
+  </trdgrp>
+  <trd lng="es">jefe de tribu</trd>
+  <trd lng="fr">chef de tribu</trd>
+  <trdgrp lng="ja">
+    <trd>&#x90E8;&#x65CF;&#x9577;  <pr>&#x3076;&#x305E;&#x304F;&#x3061;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x914B;&#x9577;  <pr>&#x3057;&#x3085;&#x3046;&#x3061;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x9996;&#x9577;  <pr>&#x3057;&#x3085;&#x3061;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">stamhoofd</trd>
+  <trd lng="sk">n&#xE1;&#x10D;eln&#xED;k kme&ncaron;a</trd>
+  <trd lng="uk">&c_v;&#x43E;&c_zh;&c_d;&#x44C; &#x43F;&#x43B;&c_je;&#x43C;&c_je;&#x43D;&c_ib;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.23 2023/07/01 18:32:16
+Paul Peeraerts:  + trd nl + lok
+
+versio 1.22 2022/10/24 14:15:49
+Dmitri Gabinski: + trd be
+
+Revision 1.19  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/04/05 11:10:16  revo
+Carlos Garcia: +trd es -o -estro
+
+Revision 1.17  2015/04/04 20:10:16  revo
+Josep-Enric Peres-i-Blesa: Aldono de nova traduko (kataluna)
+
+Revision 1.16  2014/06/10 19:10:12  revo
+Jeromo Vasxe: + ~estro
+
+Revision 1.15  2012/10/24 00:10:09  revo
+-->
+</vortaro>

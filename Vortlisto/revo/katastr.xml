@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: katastr.xml,v 1.19 2023/12/03 08:00:25 revo Exp $">
+<kap>
+  <rad>katastr</rad>/o <fnt><bib>SPV</bib></fnt>,
+  <var><kap><rad var="d">kadastr</rad>/o</kap></var>
+</kap>
+<drv mrk="katastr.0o">
+  <kap><tld/>o, <var><kap><tld var="d"/>o</kap></var></kap>
+  <snc mrk="katastr.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="dif" cel="regist.teren0o">Teren&middot;registro</ref>:
+      <ekz>
+        en <tld/>o de la urbo parte situas la valbara&jcirc;o <nom>Rozko&scaron;</nom>, ofte nomata
+        Orientbohemia maro
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=391688">&Ccaron;esk&aacute; Skalice</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por tiuj domoj li pretus pagi la valoron registritan en la bilanco (ne estas
+        konata la valoro &ccirc;e la <tld var="d"/>o, kaj probable ne ekzistas financa ekspertizo)
+        <fnt>
+          <vrk><url ref="http://www.esperantio.net/index.php?id=838">HeKo 386 9-A, 7 apr 09: OPA por La ...</url></vrk>
+        </fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_d;&c_a;&c_s;&c_t;&c_r;</trd>
+  <trd lng="ca">cadastre</trd>
+  <trdgrp lng="cs">
+    <trd>katastr&aacute;ln&iacute; rejst&rcaron;&iacute;k</trd>,
+    <trd>pozemkov&eacute; knihy</trd>,
+    <trd>rejst&rcaron;&iacute;k pozemk&uring;</trd>,
+    <trd>soupis pozemk&uring;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kataster</trd>,
+    <trd>Grundbuch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>land register</trd>,
+    <trd>register of title deeds</trd>,
+    <trd>official real estate register</trd>
+  </trdgrp>
+  <trd lng="es">catastro</trd>
+  <trd lng="fr">cadastre</trd>
+  <trdgrp lng="hu">
+    <trd>telekk&ouml;nyv</trd>,
+    <trd>kataszter</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5730;&#x7C4D;&#x7C3F;  <pr>&#x3061;&#x305B;&#x304D;&#x307C;</pr></trd>,
+    <trd>&#x571F;&#x5730;&#x53F0;&#x5E33;  <pr>&#x3068;&#x3061;&#x3060;&#x3044;&#x3061;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">kadaster<klr tip="ind"> (register)</klr></trd>
+  <trdgrp lng="pl">
+  <trd>kataster</trd>,
+  <trd>spis nieruchomo&sacute;ci</trd>
+</trdgrp>
+  <trd lng="ru">&c_k;&c_a;&c_d;&c_a;&c_s;&c_t;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>pozemkov&aacute; kniha</trd>,
+    <trd>pozemkov&yacute; register</trd>,
+    <trd>s&uacute;pis pozemkov</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43A;&#x430;&#x434;&#x430;&#x441;&#x442;&#x440;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7C3F;&#x518A; <pr>b&#xF9;c&#xE8;</pr></trd>,
+    <trd>&#x5730;&#x7C4D; <pr>d&#xEC;j&#xED;</pr></trd>,
+    <trd>&#x571F;&#x5730;&#x518A; <pr>t&#x1D4;d&#xEC;c&#xE8;</pr></trd>,
+    <trd>&#x571F;&#x5730;&#x767B;&#x8A18;&#x518A; <pr>t&#x1D4;d&#xEC;d&#x113;ngj&#xEC;c&#xE8;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="katastr.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc>
+    <dif>
+      La oficejo, kie oni flegas la <tld/>ojn; teren&middot;registr&middot;ejo:
+      <ekz>
+        origine la malgrandan farmobienon la Mansfelda sinjoraro vastigis, en la jaro
+        1757 citas la Tereziana <tld/>ejo 57 komunumojn, kiujn la sinjoraro posedis
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=239872">Colloredo-Mansfeld</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_d;&c_a;&c_s;&c_t;&c_r;</trd>
+    <trdgrp lng="de">
+      <trd>Katasteramt</trd>,
+      <trd>Grundbuchamt</trd>
+    </trdgrp>
+    <trd lng="fr">cadastre<klr tip="ind"> (service)</klr></trd>
+    <trd lng="hu">f&ouml;ldhivatal</trd>
+    <trd lng="nl">kadaster<klr tip="ind"> (dienst)</klr></trd>
+    <trd lng="pl">kataster</trd>
+    <trd lng="ru">&c_k;&c_a;&c_d;&c_a;&c_s;&c_t;&c_r;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>katastr</trd>,
+    <trd>katastr&aacute;ln&iacute; &uacute;zem&iacute; obce</trd>,
+    <trd>obvod pozemk&uring; obce</trd>
+  </trdgrp>
+  <trd lng="ja">&#x571F;&#x5730;&#x767B;&#x8A18;&#x6240;  <pr>&#x3068;&#x3061;&#x3068;&#x3046;&#x304D;&#x3057;&#x3087;</pr></trd>
+  <trdgrp lng="sk">
+    <trd>kataster</trd>,
+    <trd>katastr&aacute;lne &uacute;zemie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x430;&#x434;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x432;&#x435; &#x443;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x456;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43A;&#x430;&#x434;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x432;&#x430; &#x430;&#x434;&#x43C;&#x456;&#x43D;&#x456;&#x441;&#x442;&#x440;&#x430;&#x446;&#x456;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x571F;&#x5730;&#x5C40; <pr>t&#x1D4;d&#xEC;j&#xFA;</pr></trd>,
+    <trd>&#x5730;&#x653F;&#x5C40; <pr>d&#xEC;zh&#xE8;ngj&#xFA;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.18 2023/10/18 14:48:10
+revo: transskribo per <pr>
+
+versio 1.15 2020/12/02 18:37:14
+Wolfram Diestel: +var, +ekz
+
+Revision 1.13  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2013/04/08 20:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2008/11/23 19:12:53  revo
+Marc Bavant: ~o: sxovis materialon al "terenregistro"
+
+Revision 1.9  2005/11/24 17:32:19  revo
+Raul Salinas Monteagudo: +trd ca,es
+Revision 1.8  2005/03/31 16:32:18  revo
+Yury Finkel: +trd ru
+-->
+</vortaro>

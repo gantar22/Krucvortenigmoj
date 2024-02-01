@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tofu.xml,v 1.16 2023/10/21 14:37:42 revo Exp $">
+
+<kap>
+  <rad>tofu</rad>/o,
+  <var><kap><rad var="&ubreve;">to&ubreve;fu</rad>/o</kap></var>,
+  <var><kap><rad var="h">tohu</rad>/o</kap></var>
+</kap>
+<drv mrk="tofu.0o">
+  <kap><tld/>o  <fnt><bib>Viki</bib></fnt>,
+  <var><kap><tld var="&ubreve;"/>o <fnt><bib>EncJap</bib></fnt></kap></var>,
+  <var><kap><tld var="h"/>o <fnt><bib>PIV1</bib></fnt></kap></var>
+  </kap>
+  <uzo tip="fak">KUI</uzo>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="kaze.soj0o">Sojkazeo</ref>:
+      <ekz>
+        sojlakto trinkeblas a&ubreve; povas servi kiel materialo
+        por prepari <tld/>on
+        <fnt>
+          <aut>Le Thi Cao Truong</aut>:
+          <vrk>Esperantista vegetarano</vrk>
+          <lok>jaro 2008, p. 23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        terpomojn, pasta&jcirc;ojn kaj rizon anstata&ubreve;igu per legomoj, fabacoj, fungoj, <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lode Van De Velde</aut>
+          <vrk><url ref="&Monato;/2013/010934.php">Sablohorlo&gcirc;o for&scirc;ovas piramidon</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multaj homoj asertis ke sojfaboj en Azio estis historie uzitaj
+        nur post fermentada procezo, <klr>[&#8230;]</klr> tamen <klr>[&#8230;]</klr>
+        ekzistas signoj de konsumo de <tld var="h"/>o kiu dati&gcirc;as al 220
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=25178">Sojfabo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni ja sciis, kio estas <tld var="&ubreve;"/>o, misoo, getaoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Anna kaj Mati Pentus</aut>
+          <vrk><url ref="&Monato;/2008/009567.php">Japanio tra homoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      &leftquot;<tld lit="T"/>o&rightquot; estas la plej internacia formo de la radiko.
+      Anka&ubreve; ekzistas &leftquot;<tld var="&ubreve;"/>o&rightquot; pro la &ccirc;ina prononco
+      kaj &leftquot;<tld var="h"/>o&rightquot; pro japana prononco.
+      Nuntempe &ccirc;iuj formoj aperas pro siaj aperoj en diversaj
+      vortaroj.
+    </rim>  
+  </snc>
+  <trd lng="be">&c_t;&c_o;&c_f;&c_u;</trd>
+  <trd lng="bg">&c_t;&c_o;&c_f;&c_u;</trd>
+  <trd lng="ca">tofu</trd>
+  <trd lng="cs">tofu</trd>
+  <trdgrp lng="de">
+      <trd>Tofu</trd>, 
+      <trd>Sojabohnenpaste</trd>,
+      <trd>Sojabrei</trd>
+  </trdgrp>
+  <trdgrp lng="en"><trd>tofu</trd>, <trd>bean curd</trd></trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_t;&a_w;&a_f;&a_w;</trd>,
+    <trd>&f_p;&a_n;&f_y;&a_r; &a_s;&a_w;&f_y;&a_A;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>tofu</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+      <trd>sz&oacute;jasajt</trd>,
+      <trd>tofu</trd>
+   </trdgrp>
+  <trd lng="id"><ind>tahu</ind> (makanan)</trd>
+  <trd lng="ja">&#x8C46;&#33104;  <pr>&#12392;&#12358;&#12405;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>tofoe</trd>,
+    <trd>sojakaas</trd>
+  </trdgrp>
+  <trd lng="pl">serek <ind>tofu</ind></trd>
+  <trd lng="pt">tofu</trd>
+  <trd lng="sk">tofu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&#x43E;&c_f;&c_u;</trd>,
+    <trd>&c_s;&#x43E;&c_jeu;&c_v;&c_i;&c_j; &c_s;&c_i;&c_r;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.16 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.15 2023/09/11 14:27:06
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.12 2022/02/17 21:29:07
+Wolfram Diestel: (sxangxeto por ripari difektitan prezenton)
+
+versio 1.11 2020/09/06 20:10:36
+Wolfram Diestel: +tld-var
+
+Revision 1.9  2018/11/03 11:10:15  revo
+Wolfram Diestel: +var-oj, ekz-oj
+
+Revision 1.8  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2014/11/12 09:10:35  revo
+-->
+</vortaro>

@@ -1,0 +1,631 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dron.xml,v 1.38 2023/11/04 18:50:52 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>dron</rad>/i
+</kap>
+
+<drv mrk="dron.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="dron.0i.morti">
+    <dif>
+      <ref tip="super" cel="pere.0i.morti">Perei</ref> per sufoki&gcirc;o en akvo:
+      <ekz>
+        kura&gcirc;a maristo <tld/>is en la maro
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 37</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        liaj elektitaj militestroj <tld/>is en la Ru&gcirc;a Maro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 15:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni supozis, ke li mortis, ke li <tld/>is en la rivero
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;ipo iris al la fundo, la &scirc;ipanaro <tld/>is
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kolo de botelo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        ili trovis la gigantojn <tld/>antaj en la propra sango
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La kura&gcirc;a tajloreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>anto e&ccirc; herbeton kaptas avide
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>v&iacute;zbe <ind>f&uacute;l</ind></trd>,
+      <trd>belefullad</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>uton&aogonek;&cacute;</trd>,
+      <trd>utopi&cacute; si&eogonek;</trd>
+    </trdgrp>
+    <trd lng="pt">afogar-se</trd>
+    <trd lng="sv">drunkna</trd>
+  </snc>
+  <snc mrk="dron.0i.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      &Scirc;ipperei per <ref cel="akv.sub0igxo">subakvi&gcirc;o</ref>, 
+      <ref cel="abism.en0igxi">enabismi&gcirc;i</ref>:
+      <ekz>
+        la vento pelis ilin al la tero, la ondoj anka&ubreve; helpis, sed tio ne sufi&ccirc;is, la
+        &scirc;ipo komencis <tld/>i
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;ipeto turni&gcirc;is tri a&ubreve; kvar fojojn kaj pleni&gcirc;is de akvo &gcirc;is la rando, &gcirc;i
+        devis <tld/>i
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Persista stana soldato</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la skatolo ne <tld/>is, &gcirc;i na&gcirc;is, kiel &scirc;ipeto
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Tri oraj haroj de la diablo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">els&uuml;llyed</trd>
+    <trd lng="pl">zaton&aogonek;&cacute;</trd>
+    <trdgrp lng="pt">
+      <trd>afundar</trd>,
+      <trd>so&ccedil;obrar</trd>,
+      <trd>ir a <ind>pique</ind></trd>,
+      <trd>ir ao <ind>fundo</ind></trd>
+    </trdgrp>
+    <trd lng="sv">g&aring; under</trd>
+  </snc>
+  <snc mrk="dron.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="super" cel="profun.en0igxi.KOMUNE">Enprofundi&gcirc;i</ref> kaj 
+      <ref tip="super" cel="aper.mal0i.nevidebligxi">malaperi</ref> 
+      a&ubreve; <ref tip="super" cel="perd.0igxi">perdi&gcirc;i</ref>:
+      <ekz>
+        lia sekvantaro <tld/>is en la malluma aleo de arboj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la piedoj de la &ccirc;evaloj, sur &ccirc;iu pa&scirc;o, <tld/>is en la bruliganta sablo
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iafoje <klr>[a&ubreve;di&gcirc;is]</klr> terura &gcirc;emo, kiu tuj <tld/>is en la &gcirc;enerala tumulto
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia tor&ccirc;o lumigis apena&ubreve; parton de <klr>[la salono]</klr>, la resto <tld/>is en
+        densa krepusko
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia rigardo <tld/>is en la &ccirc;ielo, kaj du pastroj subtenis liajn sanktajn manojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en azia lukso <tld/>is la energio de l' faraonoj
+        <fnt><bib>Far1</bib>, <lok>&ccirc;ap.
+        Anta&ubreve;parolo</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ne havis jam konsciencon, kiu <tld/>is en la maro da maldol&ccirc;o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la apogse&gcirc;o kvaza&ubreve; malfermis siajn brakojn kaj li <tld/>is en la komforta
+        profundo de la <klr>[&#x2026;]</klr> meblo
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">elmer&uuml;l</trd>
+    <trdgrp lng="pl">
+      <trd>ton&aogonek;&cacute;</trd>,
+      <trd>uton&aogonek;&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>afundar</trd>,
+      <trd>mergulhar</trd>,
+    </trdgrp>
+    <trd lng="sv">drunkna</trd>
+  </snc>
+  <snc mrk="dron.0i.tro">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="super" cel="embara.0igxi">Embarasi&gcirc;i</ref> 
+      kaj <ref tip="super" cel="implik.0igxi">impliki&gcirc;i</ref>, esti super&scirc;utata
+      kaj embarasata per io:
+      <ekz>
+        la urbo ree <tld/>is en la sveniganta varmego
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>anta en la larmoj
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia tuta inteligenteco estus <tld/>inta en la frenezecon
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        depost tiu momento lia personeco komencis <tld/>i
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kortego kaj nobeluloj <tld/>as en &scirc;uldoj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gepatroj <tld/>is en sia laboro
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i en detaloj
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">mer&uuml;l</trd>
+    <trdgrp lng="pl">
+      <trd>ton&aogonek;&cacute;</trd>,
+      <trd>uton&aogonek;&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>afundar</trd>,
+      <trd>afogar-se</trd>,
+      <trd>mergulhar</trd>,
+    </trdgrp>
+    <trd lng="sv">drunkna</trd>
+  </snc>
+  <snc mrk="dron.0i.okupigxi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="super" cel="profun.en0igxi.FIG">Enprofundi&gcirc;i</ref> kaj esti 
+      ekskluzive okupata per:
+      <ekz>
+        <tld/>i en silenta melankolio
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>is en meditoj
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tuta mondo <tld/>as en demonadora&ccirc;o
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la juna faraono tiel <tld/>is en siaj pensoj, ke li preska&ubreve; ne rimarkis la
+        sennombran amason
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ser&ccirc;inte elirejon el la nuntempa malbono ili amba&ubreve; <tld/>is en teorioj idealistaj
+        <fnt>
+          <bib>Zam</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>elm&eacute;lyed</trd>,
+      <trd>elmer&uuml;l</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>ton&aogonek;&cacute;</trd>,
+      <trd>uton&aogonek;&cacute;</trd>,
+      <trd>zaton&aogonek;&cacute;</trd>,
+      <trd>zatopi&cacute; si&eogonek;</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>afundar</trd>,
+      <trd>afogar-se</trd>,
+      <trd>mergulhar</trd>,
+    </trdgrp>
+    <trdgrp lng="sv">
+      <trd>f&ouml;rsjunka</trd>,
+      <trd>drunkna</trd>
+    </trdgrp>
+  </snc>
+  <ref tip="vid" cel="sink.0i">sinki</ref>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_n;&c_u;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_t;&c_a;&c_n;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>tonout</trd>,
+    <trd>topit se</trd>,
+    <trd>utopit se</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ertrinken</trd>,
+    <trd>untergehen</trd>
+  </trdgrp>
+  <trd lng="en">drown</trd>
+  <trd lng="es">ahogarse</trd>
+  <trdgrp lng="fr">
+    <trd>couler<klr tip="ind"> (sombrer)</klr></trd>,
+    <trd>faire <ind>naufrage</ind></trd>,
+    <trd>se <ind>noyer</ind></trd>,
+    <trd>sombrer<klr tip="ind"> (couler)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6EBA;&#x308C;&#x308B;  <pr>&#x304A;&#x307C;&#x308C;&#x308B;</pr></trd>,
+    <trd>&#x6C88;&#x6CA1;&#x3059;&#x308B;  <pr>&#x3061;&#x3093;&#x307C;&#x3064;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6CA1;&#x3059;&#x308B;  <pr>&#x307C;&#x3063;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6C88;&#x3080;  <pr>&#x3057;&#x305A;&#x3080;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_o;&c_n;&c_u;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_t;&c_o;&c_n;&c_u;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_t;&c_o;&c_p;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">topi&tcaron; sa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u; &c_r;&#x456;&c_z;&#x43D;</trd>,
+    <trd>&c_t;&#x43E;&#x43D;&c_u;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x521B;&#x7ACB;&#x8005; <pr>chu&#xE0;ngl&#xEC;zh&#x11B;</pr></trd>,
+    <trd>&#x521B;&#x529E;&#x4EBA; <pr>chu&#xE0;ngb&#xE0;nr&#xE9;n</pr></trd>,
+    <trd>&#x6DF9;&#x6B7B; <pr>y&#x101;ns&#x1D0;</pr></trd>,
+    <trd>&#x6DCA; <pr>y&#x101;n</pr></trd>,
+    <trd>&#x6EBA;&#x6C34; <pr>n&#xEC;shu&#x1D0;</pr></trd>,
+    <trd>&#x6EBA; <pr>n&#xEC;</pr></trd>,
+    <trd>&#x846C;&#x8EAB;&#x9B5A;&#x8179; <pr>z&#xE0;ngsh&#x113;ny&#xFA;f&#xF9;</pr></trd>,
+    <trd>&#x6DF9; <pr>y&#x101;n</pr></trd>,
+    <trd>&#x6EC5; <pr>mi&#xE8;</pr></trd>,
+    <trd>&#x6C92; <pr>m&#xF2;</pr></trd>,
+    <trd>&#x6CA6; <pr>l&#xFA;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dron.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Igi <tld/>anta <sncref ref="dron.0i.morti"/> kaj <sncref ref="dron.0i.MAR"/>:
+      <ekz>
+        kvieti&gcirc;is la ventego kaj haltis la ondo, preta <tld/>igi la &scirc;ipon
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la linon <klr>[&#x2026;]</klr> oni metis <klr>[&#x2026;]</klr> en akvon, kvaza&ubreve; oni volus &gcirc;in
+        <tld/>igi
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Lino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la pluvo preska&ubreve; <tld/>igis <klr>(<ref cel="esting.0i">estingis</ref>)</klr> la tor&ccirc;on
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por hundon <tld/>igi, oni nomas &gcirc;in rabia
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
+        ne maro <tld/>igas &scirc;ipon sed la ventoj
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akv">subakvigi</ref>,
+      <ref cel="merg.0i">mergi</ref>,
+      <ref cel="fund">alfundigi</ref>,
+      <ref cel="abism">enabismigi</ref>.
+    </refgrp>
+    <trdgrp lng="en"><trd>to drown</trd>, <trd>sink</trd></trdgrp>
+    <trd lng="hu">v&iacute;zbe <ind>fojt</ind></trd>
+    <trdgrp lng="pl">
+      <trd>topi&cacute;</trd>,
+      <trd>zatapia&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Enprofundigi:
+      <ekz>
+        &scirc;i levis <klr>[siajn manojn]</klr> al la kapo, <tld/>igis en la haroj
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la soldatoj nur atendas okazon, por <tld/>igi en mia brusto la lancojn
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tia <klr>[&#x2026;]</klr> terura nova&jcirc;o <klr>[&#x2026;]</klr> <tld/>igus ilin en granda mal&gcirc;ojo
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> <tld/>igis sin en la ofica laboro
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la el&ccirc;erpi&gcirc;o de mia forto min <tld/>igis en dormon
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lin timigas la ekzalteco, en kiun lin <tld/>igis la okaza&jcirc;oj
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>to submerge</trd>,
+      <trd>immerse</trd>, <trd>to drown in</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>s&uuml;llyeszt</trd>,
+      <trd>belem&eacute;lyeszt</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>topi&cacute;</trd>,
+      <trd>zatapia&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Malaperigi, &ccirc;esigi:
+      <ekz>
+        la cezaro deziris <tld/>igi la memoron pri la brulo en sango
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi trinkas por <tld/>igi la zorgojn
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia stando estas tro proksime apud la orkestro: a&ubreve; la bruo <tld/>igos mian
+        vo&ccirc;on, a&ubreve; mi <tld/>igos la muzikon
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="esting.0i">estingi</ref>
+    <trd lng="en">to drown out</trd>
+    <trdgrp lng="hu">
+      <trd>elfojt</trd>,
+      <trd>megfojt</trd>
+    </trdgrp>
+    <trd lng="pl">topi&cacute;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_t;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>topit</trd>,
+    <trd>utopit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ertr&auml;nken</trd>,
+    <trd>tauchen</trd>,
+    <trd>tunken</trd>,
+    <trd>untertunken</trd>,
+    <trd>eintunken</trd>
+  </trdgrp>
+  <trd lng="es">ahogar a</trd>
+  <trdgrp lng="fr">
+    <trd>couler<klr tip="ind"> (faire sombrer)</klr></trd>,
+    <trd>faire <ind>sombrer</ind></trd>,
+    <trd>noyer</trd>,
+    <trd>plonger<klr tip="ind"> (qc dans qc)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&lamed;&#x5B0;&he;&#x5B7;&tet;&bet;&#x5BC;&#x5B4;&yod;&ayin;&#x5B7;</trd>,
+    <trd>&lamed;&he;&ayin;&lamed;&yod;&fmem;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6EBA;&#x308C;&#x3055;&#x305B;&#x308B;  <pr>&#x304A;&#x307C;&#x308C;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x6C88;&#x6CA1;&#x3055;&#x305B;&#x308B;  <pr>&#x3061;&#x3093;&#x307C;&#x3064;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x6C88;&#x3081;&#x308B;  <pr>&#x3057;&#x305A;&#x3081;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_o;&c_p;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_t;&c_o;&c_p;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">utopi&tcaron;</trd>
+  <trd lng="sv">dr&auml;nka</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&#x43E;&#x43F;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&#x43D;&c_u;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i; <klr>(&c_u; &c_r;&c_ib;&c_d;&c_i;&#x43D;&c_u;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6C90;&#x6D74; <pr>m&#xF9;y&#xF9;</pr></trd>,
+    <trd>&#x6CC5; <pr>qi&#xFA;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dron.sin0igi">
+  <kap>sin <tld/>igi</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="mort.sin0igi">Sin mortigi</ref>
+      per subakvi&gcirc;o:
+      <ekz>
+        kamparano mortigis la edzinon kaj tri infanojn kaj li mem <tld/>igis sin en
+        sankta lageto
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ion bonan, <nac>messire</nac>, &dash; &scirc;i
+        diris vo&ccirc;e kaj pensis: &leftquot;for, iel ajn for de &ccirc;i tie,
+        ekstere mi iros al la rivero kaj min <tld/>igos&rightquot;
+        <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 24a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_p;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_u;&c_t;&c_a;&c_p;&c_ib;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">sich <ind>ertr&auml;nken</ind></trd>
+  <trd lng="en">to drown oneself</trd>
+  <trd lng="fr">se <ind>noyer</ind><klr tip="ind"> (se tuer par
+      noyade)</klr></trd>
+  <trd lng="hu">v&iacute;zbe &ouml;li mag&aacute;t</trd>
+  <trdgrp lng="pl">
+    <trd>topi&cacute; si&eogonek;</trd>,
+    <trd>utopi&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_o;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_u;&c_t;&c_o;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dron.0into">
+  <kap><tld/>into</kap>
+  <snc>
+    <dif>
+      Homo, kiu <tld/>is:
+      <ekz>
+        li ekzamenis la <tld/>inton, kiun &ccirc;iuj rekonis, certigante, ke li estas unu el
+        la du turistoj
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dume la <tld/>intoj multi&gcirc;as en Mediteraneo: <klr>[&#x2026;]</klr> 3740 migrantoj
+        mortis a&ubreve; malaperis inter januaro kaj oktobro
+        <fnt>
+          <bib>MD17</bib>
+          <vrk>Inter Germanujo kaj Turkujo, la demando pri rifu&gcirc;intoj</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Ertrunkener</trd>
+    <trd lng="pl">topielec</trd>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_p;&c_je;&c_l;&c_je;&c_c;</trd>
+  <trd lng="cs">utopenec</trd>
+  <trd lng="en">drowned one</trd>
+  <trd lng="fr">noy&eacute;<klr> (subst.)</klr></trd>
+  <trd lng="ja">&#x6EBA;&#x6B7B;&#x8005;  <pr>&#x3067;&#x304D;&#x3057;&#x3057;&#x3083;</pr></trd>
+  <trd lng="sk">utopenec</trd>
+  <trd lng="uk">&c_u;&c_t;&#x43E;&#x43F;&#x43B;&c_je;&#x43D;&c_i;&#x43A;</trd>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.37 2023/10/14 14:40:08
+revo: transskribo per <pr>
+
+versio 1.35 2022/03/17 16:49:27
+Wolfram Diestel: kor. trd
+
+versio 1.33 2021/08/18 18:34:25
+Wolfram Diestel: ~into: ekz-oj
+
+versio 1.32 2021/08/18 06:35:30
+Wolfram Diestel: ~igi: ekz-oj
+
+versio 1.31 2021/08/17 20:29:04
+Wolfram Diestel: ~i: ekz-oj kun fnt
+
+versio 1.30 2021/07/30 07:27:08
+Dmitri Gabinski: + trd be
+
+  Revision 1.27  2018/06/19 02:10:20  revo
+  Dusan Juretic: +trd es
+
+  Revision 1.26  2015/10/30 11:10:23  revo
+-->
+</vortaro>

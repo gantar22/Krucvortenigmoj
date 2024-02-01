@@ -1,0 +1,604 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ekran.xml,v 1.44 2023/11/07 19:22:36 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>ekran</rad>/o <fnt><bib>Marta</bib></fnt>
+</kap>
+
+<drv mrk="ekran.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ekran.0o.vidiga">
+    <uzo tip="fak">FOT</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      La&ubreve;eble ebena surfaco uzata por vidigi bildojn per speciala
+      te&hcirc;niko:
+      <ekz>
+        <ind>kina <tld/>o</ind>
+        <klr>(blanka tuko, a&ubreve; nura blanka tabulo, sur kiun oni
+          projekcias luman bildon de objektoj)</klr>;
+        <trd lng="be">&c_k;&c_ib;&c_n;&c_a;&c_e;&c_k;&c_r;&c_a;&c_n;</trd>
+        <trd lng="de">Kinoleinwand</trd>
+        <trdgrp lng="hu">
+          <trd>moziv&aacute;szon</trd>,
+          <trd>filmv&aacute;szon</trd>
+        </trdgrp>
+        <trd lng="nl">bioscoopscherm</trd>
+        <trd lng="pl">ekran kinowy</trd>
+        <trd lng="ru">&c_k;&c_i;&c_n;&c_o;&c_e;&c_k;&c_r;&c_a;&c_n;</trd>
+        <trd lng="sv">filmduk</trd>
+      </ekz><ekz>
+        televida, <ind>komputila <tld/>o</ind>;
+        <trdgrp lng="be">
+          <trd>&c_d;&c_y;&c_s;&c_p;&c_l;&c_je;&c_j;</trd>,
+          <trd>&c_m;&c_a;&c_n;&c_ib;&c_t;&c_o;&c_r;</trd>
+        </trdgrp>
+        <trd lng="de">Computerbildschirm</trd>
+        <trd lng="he">&tsadi;&#x2137;</trd>
+        <trdgrp lng="hu">
+          <trd>sz&aacute;m&iacute;t&oacute;g&eacute;p-k&eacute;perny&odblac;</trd>,
+          <trd>monitor</trd>
+        </trdgrp>
+        <trd lng="nl">computerscherm</trd>
+        <trdgrp lng="pl">
+          <trd>monitor</trd>,
+          <trd>wy&sacute;wietlacz</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        En la kino sur fotel'! / Tie &ccirc;i amuzaj scenoj / Vigle pasas sur l' ekran'
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>En Kinematografejo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        PDF - dosiero ne&scirc;an&gcirc;ebla, kiu montras perfektan kopion de la originalo sur la
+        <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2012/010663.php">De papero al komputilo: bitigo de presitaj
+          dokumentoj</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_e;&c_k;&c_r;&c_a;&c_n;</trd>
+    <trdgrp lng="de">
+      <trd>Bildschirm</trd>,
+      <trd>Leinwand</trd>,
+      <trd>Projektionsfl&auml;che</trd>
+    </trdgrp>
+    <trdgrp lng="he">
+      <trd>&alef;&qof;&resh;&fnun;</trd>,
+      <trd>&mem;&resh;&qof;&ayin;</trd>
+    </trdgrp>
+    <trd lng="hu">k&eacute;perny&odblac;</trd>
+    <trd lng="fy">skerm</trd>
+    <trdgrp lng="nl">
+      <trd>scherm</trd>,
+      <trd>beeldscherm</trd>
+    </trdgrp>
+    <trd lng="pl">ekran</trd>
+    <trd lng="pt">tela</trd>
+    <trd lng="ru">&c_e;&c_k;&c_r;&c_a;&c_n;</trd>
+    <trd lng="sv">bildsk&auml;rm</trd>
+  </snc>
+  <snc mrk="ekran.0o.sxirmilo">
+    <dif>
+      <ref tip="dif" cel="sxirm.0ilo.MEBL">&Scirc;irmilo</ref> &#x2010;
+      objekto, kiu haltigas varmon, lumon, radiojn:
+      <ekz>
+        <tld/>o kontra&ubreve; elektromagnetaj ondoj.
+      </ekz>
+    </dif>
+    <subsnc mrk="ekran.0o.mebleto">
+      <dif>
+        Diversforma mebleto, kiun oni uzas por sin &scirc;irmi
+        kontra&ubreve; ardo de fajro:
+        <ekz>
+          proksime de la kameneto, sub &scirc;irmo de verda <tld/>o, staris tablo kun porcelana
+          servico
+          <fnt>
+            <bib>Marta</bib>
+          </fnt>.
+        </ekz>
+      </dif>
+      <ref tip="vid" cel="fendr.0o">fendro</ref>
+    </subsnc>
+    <trdgrp lng="be">
+      <trd>&c_e;&c_k;&c_r;&c_a;&c_n;</trd>,
+      <trd>&c_sh;&c_y;&c_r;&c_m;&c_a;</trd>,
+      <trd>&c_z;&c_a;&c_s;&c_l;&c_o;&c_n;</trd>
+    </trdgrp>
+    <trd lng="de"><klr>(Schutz-)</klr>Schirm</trd>
+    <trdgrp lng="hu">
+      <trd>v&eacute;d&odblac;erny&odblac;</trd>,
+      <trd>k&aacute;lyhaellenz&odblac;</trd>,
+      <trd>parav&aacute;n</trd>
+    </trdgrp>
+    <trd lng="nl">scherm</trd>
+    <trdgrp lng="pl">
+      <trd>ekran<klr> ochronny</klr></trd>
+      <trd>os&lstroke;ona</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>anteparo</trd>,
+      <trd>guarda-fogo</trd>,
+      <trd>p&aacute;ra-luz</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_e;&c_k;&c_r;&c_a;&c_n;</trd>,
+      <trd>&c_z;&c_a;&c_s;&c_l;&c_o;&c_n;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trd lng="sv">sk&auml;rm</trd>
+    <trd lng="he">&mem;&samekh;&fkaf;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x4FDD;&#x62A4;&#x4F1E; <pr>b&#x1CE;oh&#xF9;s&#x1CE;n</pr></trd>,
+    <trd>&#x63A9;&#x62A4;&#x7269; <pr>y&#x1CE;nh&#xF9;w&#xF9;</pr></trd>,
+    <trd>&#x906E;&#x853D;&#x7269; <pr>zh&#x113;b&#xEC;w&#xF9;</pr></trd>,
+    <trd>&#x76FE;&#x7D0B; <pr>d&#xF9;nw&#xE9;n</pr></trd>,
+    <trd>&#x76D4;&#x67B6; <pr>ku&#x12B;ji&#xE0;</pr></trd>,
+    <trd>&#x76FE;&#x578B;&#x7684;&#x4E1C;&#x897F; <pr>d&#xF9;nx&#xED;ngded&#x14D;ngxi</pr></trd>,
+    <trd>&#x540E;&#x76FE; <pr>h&#xF2;ud&#xF9;n</pr></trd>,
+    <trd>&#x4FDD;&#x62A4;&#x5F00;&#x5173; <pr>b&#x1CE;oh&#xF9;k&#x101;igu&#x101;n</pr></trd>
+  </trdgrp>
+</snc>
+  <rim num="1">
+    La sencoj <sncref ref="ekran.0o.vidiga"/> kaj
+    <sncref ref="ekran.0o.sxirmilo"/> estas preska&ubreve;
+    kontra&ubreve;aj
+    (la unua servas por vidigi, la dua por ka&scirc;i).  En la moderna
+    Esperanto estas tendenco uzi la vorton <tld/>o por la senco
+    vidiga (<tld/>o,<sncref ref="ekran.0o.vidiga"/>), kaj la
+    sencojn ka&scirc;ajn kaj protektajn esprimi per
+    <ctl>&scirc;irmilo</ctl>.
+  </rim>
+  <rim num="2">
+    La Akademia difino ial provas savi la etimologian konfuzon:
+    la&ubreve; &gcirc;i <tld/>o estas &ccirc;ia baro survoje de radiado,
+    sendepende de tio, &ccirc;u &gcirc;ia celo estas haltigi kaj
+    ka&scirc;i a&ubreve; vidigi.  Tia
+    difino klarigas etimologian konfuzon kaj estas interesa por la
+    lingvoj kiuj havas nur unu vorton por la du nocioj; sed &gcirc;i
+    estas nebezonata kaj malutila en Esperanto, kiu havas du
+    apartajn (kvankam etimologie ja parencajn) radikojn por tiuj
+    du apartaj nocioj...  Kaj la difino per radiado malsukcesas por
+    memlumantaj a&ubreve; likvakristalaj <tld/>oj, la stacidomaj
+    <tld/>oj
+    funkciantaj per koloraj platetoj ktp.
+  </rim>
+  <trd lng="br">skramm</trd>
+  <trd lng="en">screen</trd>
+  <trd lng="es">pantalla</trd>
+  <trd lng="fr">&eacute;cran<klr tip="ind"> (tous sens)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x3044;&#x305F;&#x3066;</trd>,
+    <trd>&#x906E;&#x853D;&#x7269;  <pr>&#x3057;&#x3083;&#x3078;&#x3044;&#x3076;&#x3064;</pr></trd>,
+    <trd>&#x6620;&#x5199;&#x5E55;  <pr>&#x3048;&#x3044;&#x3057;&#x3083;&#x307E;&#x304F;</pr></trd>,
+    <trd>&#x30B9;&#x30AF;&#x30EA;&#x30FC;&#x30F3;</trd>,
+    <trd>&#x753B;&#x9762;  <pr>&#x304C;&#x3081;&#x3093;</pr></trd>,
+    <trd>&#x8868;&#x793A;&#x753B;&#x9762;  <pr>&#x3072;&#x3087;&#x3046;&#x3058;&#x304C;&#x3081;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>obrazovka</trd>,
+    <trd>plenta</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>obrazovka</trd>,
+    <trd>parav&aacute;n</trd>,
+    <trd>plenta</trd>,
+    <trd>prom&iacute;tac&iacute; plocha</trd>,
+    <trd>st&iacute;n&iacute;tko</trd>,
+    <trd>z&aacute;st&ecaron;na</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_je;&#x43A;&c_r;&c_a;&#x43D; (&c_u; &#x43A;&c_ib;&#x43D;&#x43E;)</trd>,
+    <trd>&c_sh;&c_i;&c_r;&#x43C;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_s;&#x43B;&c_ib;&#x43D;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ekran.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ekran.0i.KOMUNE">
+    <ref tip="dif" cel="sxirm.0i">&scirc;irmi</ref>
+  </snc>
+  <trd lng="be">&c_e;&c_k;&c_r;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">p&rcaron;edstavit plentu p&rcaron;ed n&ecaron;co</trd>
+  <trdgrp lng="de">
+    <trd>abschirmen</trd>,
+    <trd>schirmen</trd>
+  </trdgrp>
+  <trd lng="fr">faire <ind>&eacute;cran</ind></trd>
+  <trd lng="he">&lamed;&mem;&samekh;&fkaf;</trd>
+  <trdgrp lng="hu">
+    <trd>v&eacute;d<klr tip="ind">
+        (v&eacute;d&odblac;erny&odblac;vel)</klr></trd>,
+    <trd>le&aacute;rny&eacute;kol</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x3044;&#x305F;&#x3066;&#x3067;&#x3055;&#x3048;&#x304E;&#x308B;</trd>,
+    <trd>&#x3064;&#x3044;&#x305F;&#x3066;&#x3092;&#x7ACB;&#x3066;&#x308B;  <pr>&#x3064;&#x3044;&#x305F;&#x3066;&#x3092;&#x305F;&#x3066;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">ekranowa&cacute;</trd>
+  <trd lng="sk">predstavi&tcaron; plentu pred nie&ccaron;o</trd>
+</drv>
+
+<drv mrk="ekran.0ego">
+  <kap><tld/>ego</kap>
+  <snc mrk="ekran.0ego.strata">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Granda <tld/>o<sncref ref="ekran.0o.vidiga"/>,
+      muntita en televida studio a&ubreve; publika loko (sur
+      domtegmento,
+      en stacidomo ktp) por vidigi kurantan eventon, reklamon,
+      anoncojn:
+      <ekz>
+        sur tiu strato, kaj anka&ubreve; sur la placoj
+        &leftquot;<nom>Platz der Republik</nom>&rightquot; kaj &leftquot;<nom>Potsdamer Platz</nom>&rightquot;
+        estis <tld/>negoj, helpe de kiuj spekteblis &ccirc;iuj
+        mat&ccirc;oj
+        <fnt>
+          <bib>Viki</bib>,
+          <vrk>
+          <url ref="&Viki;/Berlino">Berlino</url></vrk>
+        </fnt>;
+      </ekz><ekz>
+        la kunularo kaj amikaro de Frato <nom>Roger</nom> <klr>[&#x2026;]</klr>
+        partoprenis la diservon en la grandega pre&gcirc;ejo el ligno
+        en <nom>Taiz&eacute;</nom>, dum anka&ubreve; miloj da fideluloj
+        &ccirc;eestis &gcirc;in dank'
+        al <tld/>ego ekstere de la pre&gcirc;ejo
+        <fnt>
+          <bib>Viki</bib>,
+          <vrk>
+          <url ref="&Viki;/Frato_Roger">Frato Roger</url></vrk>.
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_v;&c_ja;&c_l;&c_ib;&c_k;&c_ib; <ind>&c_e;&c_k;&c_r;&c_a;&c_n;</ind></trd>
+    <trdgrp lng="de">
+      <trd>Leinwand</trd>,
+      <trd>Gro&szlig;bildschirm</trd>
+    </trdgrp>
+    <trd lng="en">big <ind>screen</ind></trd>
+    <trd lng="ru"><klr>(&c_b;&c_o;&c_l;&c_mol;&c_sh;&c_o;&c_j;)
+    </klr>&c_e;&c_k;&c_r;&c_a;&c_n;<klr> (&c_n;&c_a;
+    &c_k;&c_r;&c_y;&c_sh;&c_je; &c_d;&c_o;&c_m;&c_a; &c_i;
+    &c_t;.&c_p;.)</klr></trd>
+  </snc>
+  <snc mrk="ekran.0ego.MEBL">
+    <refgrp tip="dif">
+      <ref cel="sxirm.0ilo.MEBL">&scirc;irmilo<sncref/></ref>,
+      <ref cel="sxirm.faldo0ilo.MEBL">faldo&scirc;irmilo</ref>
+    </refgrp>
+   <trdgrp lng="be">
+      <trd>&c_sh;&c_y;&c_r;&c_m;&c_a;</trd>,
+      <trd>&c_z;&c_a;&c_s;&c_l;&c_o;&c_n;</trd>
+    </trdgrp>
+       <trd lng="es">gran pantalla</trd>
+    <trd lng="fr">paravent</trd>
+    <trdgrp lng="hu">
+      <trd>spanyolfal</trd>,
+      <trd>parav&aacute;n</trd>
+    </trdgrp>
+    <trd lng="pl">parawan</trd>
+    <trd lng="ru">&c_sh;&c_i;&c_r;&c_m;&c_a;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>stahovac&iacute; st&ecaron;na</trd>,
+    <trd>&scaron;pan&ecaron;lsk&aacute; st&ecaron;na</trd>
+  </trdgrp>
+  <trd lng="he">&#x5DE;&#x5E1;&#x5DA; &#x5D2;&#x5D3;&#x5D5;&#x5DC;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x3044;&#x305F;&#x3066;</trd>,
+    <trd>&#x5C4F;&#x98A8;  <pr>&#x3073;&#x3087;&#x3046;&#x3076;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">&scaron;panielska stena</trd>
+</drv>
+
+<drv mrk="ekran.katodradia0o">
+  <kap>katodradia <tld/>o</kap>
+  <snc mrk="ekran.katodradia0o.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      <ref tip="super" cel="ekran.0o.vidiga">Ekrano</ref>
+      en kiu elektron&jcirc;etilo aktivigas lumineska&jcirc;ojn
+      de la vidiga surfaco:
+      <ekz>
+        5-cola katodradia <tld/>o funkciis nur en teksta formo kaj 
+        prezentis 24 liniojn
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Historio_de_tekokomputiloj">
+              Historio de tekokomputiloj</url>, 2010-11-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_ib;&c_n;&c_e;&c_s;&c_k;&c_o;&c_p;</trd>,
+    <trd>&c_e;&c_k;&c_r;&c_a;&c_n; &c_z; &c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_a;-&c_p;&c_r;&c_a;&c_m;&c_ja;&c_n;&c_jo;&c_v;&c_a;&c_j; &c_t;&c_r;&c_u;&c_b;&c_k;&c_a;&c_j;</trd>
+  </trdgrp>
+  <trd lng="de">Kathodenstrahlbildschirm</trd>
+  <trd lng="es">monitor de tubos de rayos cat&oacute;dicos</trd>
+  <trd lng="fr">&eacute;cran &agrave; tube cathodique</trd>
+  <trdgrp lng="pl">
+    <trd>kineskop</trd>,
+    <trd>ekran luminescencyjny<klr> z tub&aogonek;
+        katodow&aogonek;</klr></trd>
+  </trdgrp>
+  <trd lng="zh">&#x9634;&#x6781;&#x5C04;&#x7EBF;&#x7BA1; <pr>y&#x12B;nj&#xED;sh&#xE8;xi&#xE0;ngu&#x1CE;n</pr></trd>
+</drv>
+
+<drv mrk="ekran.likvakristala0o">
+  <kap>likvakristala <tld/>o<fnt><bib>KompLeks</bib></fnt>,
+    <var><kap>LK-<tld/>o</kap></var></kap>
+  <snc mrk="ekran.likvakristala0o.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      <ref tip="super" cel="ekran.0o.vidiga">Ekrano</ref>
+      en kiu likvaj kristaloj sub elektroimpulsoj orienti&gcirc;as
+      por produkti bildojn:
+      <ekz>
+        al mi tre pla&ccirc;is LK-<tld/>oj, kiujn oni pendigis e&ccirc;
+        en vagonoj
+        <fnt>
+          <aut>A. Brika&jcirc;o</aut>,
+          <vrk><url ref="http://e-novosti.info/forumo/viewtopic.php?t=1993">
+              Esperanto &c_n;&c_o;&c_v;&c_o;&c_s;&c_t;&c_i;</url></vrk>,
+          <lok>2005-06-07</lok>
+        </fnt>;
+      </ekz><ekz>
+        la likvakristala <tld/>o havas iomete bluetan koloron
+        <fnt>
+          <aut>Vastalto</aut>,
+          <vrk>Akvosfero</vrk>,
+          <lok><url ref="http://www.vastalto.com/blog/?p=449">
+              2006-10-15</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_a;&c_d;&c_k;&c_a;&c_k;&c_r;&c_y;&c_sh;&c_t;&c_a;&c_l;&c_ib;&c_ch;&c_n;&c_y; <ind>&c_e;&c_k;&c_r;&c_a;&c_n;</ind></trd>,
+      <trd>&c_v;&c_a;&c_d;&c_k;&c_a;&c_k;&c_r;&c_y;&c_sh;&c_t;&c_a;&c_l;&c_ib;&c_ch;&c_n;&c_y; <ind>&c_d;&c_y;&c_s;&c_p;&c_l;&c_je;&c_j;</ind></trd>,
+      <trd>&c_v;&c_a;&c_d;&c_k;&c_a;&c_k;&c_r;&c_y;&c_sh;&c_t;&c_a;&c_l;&c_ib;&c_ch;&c_n;&c_y; <ind>&c_ib;&c_n;&c_d;&c_y;&c_k;&c_a;&c_t;&c_a;&c_r;</ind></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>liquid crystal display</trd>,
+      <trd>LCD</trd>
+    </trdgrp>
+    <trd lng="es">pantalla de cristal l&iacute;quido</trd>
+    <trd lng="fr">&eacute;cran &agrave; cristaux liquides</trd>
+    <trdgrp lng="pl">
+      <trd>wy&sacute;wietlacz ciek&lstroke;okrystaliczny</trd>,
+      <trd>ekran ciek&lstroke;okrystaliczny</trd>,
+      <trd>monitor ciek&lstroke;okrystaliczny</trd>
+    </trdgrp>
+    <trd lng="ru">&c_zh;&c_i;&c_d;&c_k;&c_o;&c_k;&c_r;&c_i;&c_s;&c_t;&c_a;&c_l;&c_l;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
+    &c_d;&c_i;&c_s;&c_p;&c_l;&c_je;&c_j;</trd>
+  </snc>
+  <trd lng="cs">displej z tekut&yacute;ch krystal&uring;</trd>
+  <trdgrp lng="de">
+    <trd>LCD</trd>,
+    <trd>Fl&uuml;ssigkristallanzeige</trd>
+  </trdgrp>
+  <trd lng="ja">&#x6DB2;&#x6676;&#x753B;&#x9762;  <pr>&#x3048;&#x304D;&#x3057;&#x3087;&#x3046;&#x304C;&#x3081;&#x3093;</pr></trd>
+  <trd lng="sk">displej z tekut&yacute;ch kry&scaron;t&aacute;lov</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6DB2;&#x6676;&#x663E;&#x793A; <pr>y&#xE8;j&#x12B;ngxi&#x1CE;nsh&#xEC;</pr></trd>,
+    <trd>&#x6DB2;&#x6676;&#x663E;&#x793A;&#x5668; <pr>y&#xE8;j&#x12B;ngxi&#x1CE;nsh&#xEC;q&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ekran.plasm0o">
+  <kap>plasm<tld/>o,
+    <var><kap>plasmo<tld/>o</kap></var>,
+    <var><kap>plasma <tld/>o</kap></var></kap>
+  <snc mrk="ekran.plasm0o.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      <ref tip="super" cel="ekran.0o.vidiga">Ekrano</ref>
+      en kiu gasajn &ccirc;elojn plasmigas kaj lumigas elektroimpulsoj:
+      <ekz>
+        tekkomputilo havas <klr>[&#x2026;]</klr> platan likvakristalan
+        a&ubreve; plasman <tld/>on
+        <fnt><bib>KompLeks</bib>, <lok>1996</lok></fnt>;
+      </ekz><ekz>
+        pli modernaj <klr>[&#x2026;]</klr> estas <nom>LCD</nom>-<tld/>oj kaj 
+        plasmo<tld/>oj
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Komputila_ekrano">
+              Komputila ekrano</url>, 2010-03-16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_l;&c_ja;&c_z;&c_m;&c_a;&c_v;&c_y; <ind>&c_e;&c_k;&c_r;&c_a;&c_n;</ind></trd>
+    <trd lng="es">pantalla de plasma</trd>
+    <trd lng="fr">&eacute;cran &agrave; plasma</trd>
+    <trdgrp lng="pl">
+      <trd>wy&sacute;wietlacz plazmowy</trd>,
+      <trd>ekran plazmowy</trd>,
+      <trd>monitor plazmowy</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="de">Plasmabildschirm</trd>
+  <trd lng="zh">&#x7B49;&#x79BB;&#x5B50;&#x663E;&#x793A;&#x5C4F; <pr>d&#x11B;ngl&#xED;z&#x1D0;xi&#x1CE;nsh&#xEC;b&#x1D0;ng</pr></trd>
+</drv>
+
+<drv mrk="ekran.tusx0o">
+  <kap>tu&scirc;<tld/>o</kap>
+  <snc mrk="ekran.tusx0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="super" cel="ekran.0o.vidiga"><tld lit="E"/>o</ref> kiu
+      povas esti uzata kiel enigilo por komputilo tu&scirc;ante &gcirc;in:
+      <ekz>
+        &ccirc;i tiu videoludilo havas du <tld/>ojn, kaj unu el ili estas
+        tu&scirc;<tld/>o
+        <fnt>
+          <vrk>Nintendo DS</vrk>
+          <lok><url ref="&Viki;/Nintendo_DS">Vikipedio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tie estas multfunkcia informpanelo kun tu&scirc;<tld/>o, kie oni povas ekkoni la
+        bazajn informojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Petro Chrdle</aut>
+          <vrk><url ref="&Monato;/2009/009712.php">Nova Esperanto-muzeo</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o uzas kapacitan tu&scirc;<tld/>on, kiu estas tre sentema kaj ebligas la uzon
+        de pluraj fingroj samtempe, malkiel la pli fruaj rezistaj tu&scirc;<tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2010/010076.php">Parto 3: Apple iPad - &ccirc;u revolucio a&ubreve;
+          evolucio?</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_e;&c_n;&c_s;&c_a;&c_r;&c_n;&c_y; <ind>&c_e;&c_k;&c_r;&c_a;&c_n;</ind></trd>
+  <trd lng="de">Touchscreen</trd>
+  <trd lng="en">touch screen</trd>
+  <trd lng="es">pantalla t&aacute;ctil</trd>
+  <trd lng="fy">taastskerm</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30BF;&#x30C3;&#x30C1;&#x30B9;&#x30AF;&#x30EA;&#x30FC;&#x30F3;</trd>,
+    <trd>&#x30BF;&#x30C3;&#x30C1;&#x30D1;&#x30CD;&#x30EB;  <pr>&#x305F;&#x3063;&#x3061;&#x3071;&#x306D;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>touchscreen</trd>,
+    <trd>aanraakscherm</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x89E6;&#x5E55; <pr>ch&#xF9;m&#xF9;</pr></trd>,
+    <trd>&#x89E6;&#x63A7;&#x5F0F;&#x8424;&#x5E55; <pr>ch&#xF9;k&#xF2;ngsh&#xEC;y&#xED;ngm&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ekran.0bloko">
+  <kap><tld/>bloko</kap>
+  <snc mrk="ekran.0bloko.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      En <ref tip="malprt" cel="terminal.0o">terminalo</ref> a&ubreve;
+      <ref tip="malprt" cel="komput.persona0ilo">persona
+        komputilo</ref>,
+      <ref cel="blok.0o.agregata">bloko<sncref ref="blok.0o.agregata"/></ref> en kiu estas muntita
+      komputila <ref cel="ekran.0o.vidiga"><tld/>o<sncref/></ref>:
+      <ekz>
+        rastruma <tld/>bloko tiel interaganta kun la procesoro, ke <klr>[&#x2026;]</klr>
+        <fnt>
+          <vrk><url ref="https://esperanto.mv.ru/KompLeks/B.html">Komputada Leksikono: B</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="monito.0o.KOMP">ekrano</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_y;&c_s;&c_p;&c_l;&c_je;&c_j;</trd>,
+    <trd>&c_m;&c_a;&c_n;&c_ib;&c_t;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>optick&aacute; zobrazovac&iacute; jednotka</trd>,
+    <trd>vizu&aacute;ln&iacute; zobrazovac&iacute; jednotka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Monitor</trd>,
+    <trd>Anzeigeeinheit<klr> [ark]</klr></trd>,
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>visual display unit</trd>,
+    <trd>monitor</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>monitor</trd>,
+    <trd>terminal</trd>
+  </trdgrp>
+  <trd lng="he">&#x5E0;&#x5E2;&#x5D9;&#x5DC;&#x5EA; &#x5DE;&#x5E1;&#x5DA;</trd>
+  <trdgrp lng="hu">
+    <trd>kijelz&odblac;egys&eacute;g</trd>,
+    <trd>monitor</trd>,
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>monitor</trd>,
+    <trd>jednostka <ind>monitora</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_i;&c_s;&c_p;&c_l;&c_je;&c_j;</trd>,
+    <trd>&c_m;&c_o;&c_n;&c_i;&c_t;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">optick&aacute; zobrazovacia jednotka</trd>
+</drv>
+
+<drv mrk="ekran.0kopio">
+  <kap><tld/>kopio</kap>
+  <snc mrk="ekran.0kopio.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Kopio de tio, kion oni en iu momento sur <tld/>o (cele al konservo, forsendo ks):
+      <ekz>
+        malhelpi <tld/>kopiojn
+        <fnt>
+          <vrk><url ref="https://vipapk.org/eo/screenshot-blocker-prevent-screenshots-pro-apk-1-3-0-15/">Ekrankopio
+          Blokanta Malhelpas ekrankopiojn Pro APK 1.3.0 - VIP APK</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_d;&c_y;&c_m;&c_a;&c_k; &c_e;&c_k;&c_r;&c_a;&c_n;&c_a;</trd>
+  <trd lng="de">Bildschirmfoto</trd>
+  <trd lng="en">screenshot</trd>
+  <trdgrp lng="nl">
+    <trd>schermafbeelding</trd>,
+    <trd>schermafdruk</trd>,
+    <trd>screenshot</trd>
+  </trdgrp>
+  <trd lng="es">captura de pantalla</trd>
+  <trd lng="fr">capture d'&eacute;cran</trd>
+  <trd lng="pl">zrzut <ind>ekranu</ind></trd> 
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.43 2023/10/14 15:34:42
+revo: transskribo per <pr>
+
+versio 1.41 2022/10/06 06:49:27
+Dmitri Gabinski: +trd be
+
+versio 1.40 2022/04/27 14:38:53
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2020/05/26 18:34:04
+Wolfram Diestel: pliaj ekz-oj, fnt Marta, korektetoj
+
+Revision 1.35  2017/07/15 13:10:14  revo
+Vito Redsky: +trd pl
+
+Revision 1.34  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2015/01/01 14:10:14  revo
+-->
+</vortaro>

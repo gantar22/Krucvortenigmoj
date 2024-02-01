@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: arkean.xml,v 1.11 2023/10/28 08:33:08 revo Exp $">
+<kap>
+  <rad>arkean</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="arkean.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="arkean.0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      La unua, plej praa <ref tip="super" cel="era.0o.GEOL">erao</ref>
+      de <ref tip="super" cel="kambri.antaux0o">anta&ubreve;kambrio</ref>,
+      iam taksita kiel periodo; <tld/>o da&ubreve;ris proksimume anta&ubreve; inter 4&#x202F;000
+      kaj 2&#x202F;500 milionoj da jaroj:
+      <ekz>
+        la <tld/>o komenci&gcirc;is anta&ubreve; &ccirc;irka&ubreve; 3,8 miliardoj da jaroj per elformi&gcirc;o de la
+        tera surfaco kaj da&ubreve;ris &gcirc;is anta&ubreve; 2,5 miliardoj da jaroj, &gcirc;is komenco de la
+        proterozoiko, dum tiu terhistoria epoko aperis anka&ubreve; la tera atmosfero,
+        hidrosfero, organikaj kombina&jcirc;oj (kiel ekz. proteino)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=138609">Arkeano</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="proterozoik.0o.GEOL">proterozoiko</ref>,
+      <ref cel="paleozoik.0o.GEOL">paleozoiko</ref>,
+      <ref cel="mezozoik.0o.GEOL">mezozoiko</ref>,
+      <ref cel="kenozoik.0o.GEOL">kenozoiko</ref>
+    </refgrp>
+    <trd lng="de">Archaikum</trd>
+    <trdgrp lng="zh">
+    <trd>&#x592A;&#x53E4;&#x4EE3; <pr>t&#xE0;ig&#x1D4;d&#xE0;i</pr></trd>,
+    <trd>&#x592A;&#x53E4;&#x5B99; <pr>t&#xE0;ig&#x1D4;zh&#xF2;u</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_r;&c_h;&c_je;&c_j;</trd>,
+    <trd>&c_a;&c_r;&c_h;&c_je;&c_j;&c_s;&c_k;&c_a;&c_ja; &c_e;&c_r;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">arque&agrave;</trd>
+  <trd lng="fr">Arch&eacute;en</trd>
+  <trd lng="it">archeano</trd>
+  <trdgrp lng="pl">
+    <trd>era <ind>archaiczna</ind></trd>,
+    <trd>archaik</trd>,
+    <trd>era <ind>archeozoiczna</ind></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x440;&#x445;&#x435;&#x439;</trd>,
+    <trd>&#x430;&#x440;&#x445;&#x435;&#x439;&#x441;&#x44C;&#x43A;&#x430;&#xA0;&#x435;&#x440;&#x430;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.9 2022/02/21 08:35:05
+Dmitri Gabinski: + trd be
+
+Revision 1.7  2012/08/10 14:11:39  revo
+Marc Rausell: + trd ca
+
+Revision 1.6  2012/02/16 19:06:28  revo
+mane korektis fusxitajn UTF-8-signojn
+
+Revision 1.5  2012/02/16 17:10:12  revo
+Antonio Codazzi: +trd it
+
+Revision 1.4  2008/06/08 16:30:47  revo
+Jeromo Vasxe: + fak geol + trd fr + fnt
+
+Revision 1.3 2008/05/26 16:54:05 revo
+Sebastian Cyprych: kor de ref al antauxkambrio
+
+Revision 1.2 2007/12/12 17:30:19 revo
+Sebastian Cyprych: kor cenozoiko al kenozoiko
+
+Revision 1.1 2007/12/11 17:30:19 revo
+-->
+</vortaro>

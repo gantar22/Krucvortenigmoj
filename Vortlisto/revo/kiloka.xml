@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kiloka.xml,v 1.11 2023/12/03 09:58:49 revo Exp $">
+<kap>
+  <rad>kilokalori</rad>/o
+</kap>
+
+<drv mrk="kiloka.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <mlg>kcal</mlg>
+  <snc>
+    <dif>
+      Malnova komunuza <ref tip="lst" lst="voko:mezurunuoj" cel="unu.mezur0o.SCI">mezurunuo</ref>
+      de varmo, egala al mil <ref tip="prt" cel="kalori.0o">kalorioj</ref>:
+      <ekz>
+        100&#x202F;g da blanka brasiko enhavas 25 <tld/>oj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=309699">Blanka brasiko</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum biciklado kun rapideco 30&#x202F;km/h oni bruligas 15&#x202F;kkal/km (<tld/>oj por
+        kilometro) a&ubreve; 450&#x202F;kkal/horo, dum irado kun rapideco 5&#x202F;km/horo oni bruligas 60
+        kkal/km a&ubreve; 300&#x202F;kkal/horo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=420">Biciklo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="kalori.granda0o">granda kalorio</ref>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_l;&c_ja;&c_k;&c_a;&c_l;&c_jo;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="de">Kilokalorie</trd>
+  <trd lng="es">kilocalor&iacute;a</trd>
+  <trdgrp lng="fr">
+    <trd>kilocalorie</trd>,
+    <trd>grande <ind>calorie</ind></trd>
+  </trdgrp>
+  <trd lng="ja">&#x30AD;&#x30ED;&#x30AB;&#x30ED;&#x30EA;&#x30FC;</trd>
+  <trd lng="nl">kilocalorie</trd>
+  <trd lng="pl">kilokaloria</trd>     
+  <trd lng="ro">kilocalorie</trd>
+  <trd lng="ru">&c_k;&c_i;&c_l;&c_o;&c_k;&c_a;&c_l;&c_o;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="zh">&#x5343;&#x5361;&#x8DEF;&#x88E1; <pr>qi&#x101;nk&#x1CE;l&#xF9;l&#x1D0;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.9 2022/06/06 18:39:10
+Dmitri Gabinski: + trd be
+
+Revision 1.7  2019/02/03 23:10:18  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.6  2009/08/26 16:30:51  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.5  2007/05/06 16:30:31  revo
+Wieland Pusch: +trd de
+
+Revision 1.4  2005/09/07 16:31:17  revo
+Yury Finkel: +trd ru
+
+Revision 1.3  2005/03/31 16:33:12  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.2  2004/12/13 17:32:29  revo
+Marc Bavant: +FIZ
+
+Revision 1.1  2004/10/31 17:34:13  revo
+-->
+</vortaro>

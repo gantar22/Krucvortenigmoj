@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: oriol.xml,v 1.20 2023/09/03 07:12:35 revo Exp $">
+<kap>
+<ofc>2</ofc>
+<rad>oriol</rad>/o
+</kap>
+<drv mrk="oriol.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="oriole.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Oriolus</trd>), <ref tip="lst" lst="voko:birdoj" cel="bird.0o.ZOO">birdo</ref>
+      kun flava nigra plumaro kaj kun agrabla kanto:
+      <ekz>
+        la man&gcirc;o estas &ccirc;efe insektoj kaj fruktoj, ekzemple beroj 
+        a&ubreve; &ccirc;erizoj kaj anka&ubreve; figoj, trovata en la arbaroj kie la 
+        <tld/>oj pasas grandan parton de la tempo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=223836">Oriolo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+    <bld lok="&WCU;/thumb/3/3a/Goldenoriole26.jpg/360px-Goldenoriole26.jpg" prm="PD"><tld/>o (Oriolus oriolus)
+        <fnt>
+          <aut>Naumann</aut>
+          <lok><url ref="&WCW;/File:Goldenoriole26.jpg">&WCW;/File:Goldenoriole26.jpg</url></lok>
+        </fnt>
+    </bld>
+  <trd lng="be">&c_ib;&c_v;&c_a;&c_l;&c_g;&c_a;</trd>
+  <trd lng="ca">oriol</trd>
+  <trdgrp lng="cs">
+    <trd>&zcaron;luva</trd>,
+    <trd>&zcaron;luva hajn&iacute;</trd>,
+    <trd>&zcaron;luva obecn&aacute;</trd>
+  </trdgrp>
+  <trd lng="de">Pirol</trd>
+  <trd lng="en">oriole</trd>
+  <trd lng="fr">loriot</trd>
+  <trd lng="hu">s&aacute;rgarig&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B3;&#x30A6;&#x30E9;&#x30A4;&#x30A6;&#x30B0;&#x30A4;&#x30B9;</trd>,
+    <trd>&#x30AD;&#x30AC;&#x30B7;&#x30E9;&#x30B3;&#x30A6;&#x30E9;&#x30A4;&#x30A6;&#x30B0;&#x30A4;&#x30B9;</trd>
+  </trdgrp>
+  <trd lng="nl">wielewaal</trd>
+  <trd lng="pl">wilga</trd>
+  <trd lng="ru">&c_i;&c_v;&c_o;&c_l;&c_g;&c_a;</trd>
+  <trd lng="sk">&zcaron;lna</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x438;&#x432;&#x456;&#x43B;&#x44C;&#x433;&#x430;</trd>,
+    <trd>&#x456;&#x432;&#x43E;&#x43B;&#x433;&#x430;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+Revision 1.17  2018/11/15 17:10:17  revo
+Michel Cantigneaux: bildo de oriolo
+
+Revision 1.16  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/09/08 19:11:18  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.13  2013/09/01 17:10:20  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.12  2012/08/10 14:11:42  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2003/09/17 16:32:22  revo
+-->
+</vortaro>

@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: diklin.xml,v 1.16 2023/11/04 14:29:02 revo Exp $">
+<kap>
+  <rad>diklin</rad>/a
+</kap>
+<drv mrk="diklin.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">BOT</uzo>
+  <uzo tip="klr">(pri plantoj)</uzo>
+  <snc mrk="diklin.0a.BOT">
+    <dif>
+      Havanta nur unuseksajn florojn, t.e. havanta apartajn inajn kaj malinajn
+      florojn &ccirc;u sur sama planto (<ref tip="sub" cel="monoik.0a">monoika</ref>)
+      a&ubreve; &ccirc;u sur diversaj plantoj
+      (<ref tip="sub" cel="dioik.0a">dioika</ref>):
+      <ekz>
+        kamemoro <klr>[&#x2026;]</klr> estas moltiga sta&ubreve;do, <tld/>a (unuseksa) planto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=141721">Kamemoro</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="androg.0a">androgina</ref> (monoklina)
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dvoudom&yacute;</trd>,
+    <trd>dvoud&ecaron;lo&zcaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>eingeschlechtlich</trd>,
+    <trd>eingeschlechtig</trd>,
+    <trd>diklin</trd>
+  </trdgrp>
+  <trd lng="es">diclino</trd>
+  <trd lng="fr">dicline</trd>
+  <trd lng="ja">&#x96CC;&#x96C4;&#x7570;&#x82B1;&#x306E;  <pr>&#x3057;&#x3086;&#x3046;&#x3044;&#x304B;&#x306E;</pr></trd>
+  <trdgrp lng="pt">
+    <trd>diclino</trd>,
+    <trd>dicl&iacute;nico</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_p;&c_o;&c_l;&c_y;&c_j;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_n;&c_o;&c_p;&c_o;&c_l;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">dvojdom&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_d;&c_ib;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_a;&c_t;&c_je;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_n;&c_o;&c_s;&c_t;&c_a;&c_t;&c_je;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+  <adm>
+    Eble mankas ankora&ubreve; artikolo &leftquot;monoklina&rightquot;.
+  </adm>
+  <trdgrp lng="zh">
+    <trd>&#x7537;&#x5973;&#x901A;&#x7528; <pr>n&#xE1;nn&#x1DA;t&#x14D;ngy&#xF2;ng</pr></trd>,
+    <trd>&#x5355;&#x6027; <pr>d&#x101;nx&#xEC;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.15 2023/10/14 11:26:53
+revo: transskribo per <pr>
+
+versio 1.13 2023/08/23 06:27:55
+Wolfram Diestel: +ref
+
+Revision 1.10  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2007/07/28 16:30:29  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2005/03/31 16:33:32  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.6  2002/05/02 11:37:30  revo
+Ulrich Fellmann: 3x trd de
+
+Revision 1.5  2001/05/12 18:15:37  revo
+-->
+</vortaro>

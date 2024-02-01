@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: prolog.xml,v 1.24 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>prolog</rad>/o <fnt><bib>Hamlet</bib></fnt>
+</kap>
+<drv mrk="prolog.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="prolog.0o.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      <ref tip="super" cel="konduk.en0o">Enkonduko</ref> de 
+      verko, aparte en <ref tip="malprt" cel="teatr.0ajxo">teatra&jcirc;o</ref>
+      &gcirc;i anoncas kaj preparas la agon; <ref tip="sin" cel="parol.antaux0o">anta&ubreve;parolo</ref>:
+      <ekz>
+        <tld/>o: de nia dramo estos nun komenco / ni petas kun profunda riverenco / pri
+        via bona vol&#x2019; kaj pacienco &dash; Hamleto: &ccirc;u tio &ccirc;i estas <tld/>o a&ubreve; ia aforismo?
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Oliver</nom>, ni estas sufi&ccirc;e a&gcirc;aj, ke mi diru al vi ion, kion mi ne kura&gcirc;is diri
+        anta&ubreve; tridek jaroj &dash; <nom>Oliver</nom>: Interesa <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Trevor Steele</aut>
+          <vrk><url ref="&Monato;/2015/011474.php">Tridek jarojn poste</url></vrk>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        de la 1a &gcirc;is 5a de julio okazis &leftquot;Alpitinero Stirio 2000&rightquot;, &gcirc;i konsistis el
+        <tld/>o kaj el 4 etapoj
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2000/007151.php">900 km tra montbicikla paradizo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/12, p. 20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="parol.post0o">postparolo</ref>,
+      <ref cel="epilog.0o">epilogo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_l;&c_jo;&c_g;</trd>
+  <trdgrp lng="cs">
+    <trd>prolog</trd>,
+    <trd>p&rcaron;edmluva</trd>,
+    <trd>&uacute;vod</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Vorrede</trd>,
+    <trd>Vorspiel</trd>,
+    <trd>Prolog</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>prolog</trd>,
+    <trd>prologue</trd>
+  </trdgrp>
+  <trd lng="fr">prologue</trd>
+  <trdgrp lng="hu">
+    <trd>el&odblac;hang</trd>,
+    <trd>el&odblac;j&aacute;t&eacute;k</trd>,
+    <trd>el&odblac;verseng&eacute;s</trd>,
+    <trd>prol&oacute;gus</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E8F;&#x8A00;  <pr>&#x3058;&#x3087;&#x3052;&#x3093;</pr></trd>,
+    <trd>&#x5E8F;&#x6587;  <pr>&#x3058;&#x3087;&#x3076;&#x3093;</pr></trd>,
+    <trd>&#x5E8F;&#x7AE0;  <pr>&#x3058;&#x3087;&#x3057;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x30D7;&#x30ED;&#x30ED;&#x30FC;&#x30B0;</trd>,
+    <trd>&#x5E8F;&#x5E55;  <pr>&#x3058;&#x3087;&#x307E;&#x304F;</pr></trd>,
+    <trd>&#x524D;&#x53E3;&#x4E0A;  <pr>&#x307E;&#x3048;&#x3053;&#x3046;&#x3058;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x5E8F;&#x8A5E;  <pr>&#x3058;&#x3087;&#x3057;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>voorrede</trd>,
+    <trd>proloog</trd>
+  </trdgrp>
+  <trd lng="pt">pr&oacute;logo</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trdgrp lng="sk">
+    <trd>predhovor</trd>,
+    <trd>predslov</trd>
+  </trdgrp>
+  <trd lng="sv">prolog</trd>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&#x43B;&#x43E;&c_g;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.22 2023/04/14 14:27:23
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.21 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.18  2019/01/14 08:10:14  revo
+Wolfram Diestel: adaptis dif por iom koherigi kun epilogo, ref-oj sin/ant
+
+Revision 1.17  2018/11/20 17:10:14  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.16  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/01/14 18:27:27  revo
+-->
+</vortaro>

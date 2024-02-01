@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fotome.xml,v 1.17 2023/11/10 06:08:00 revo Exp $">
+<kap><rad>fotometr</rad>/o</kap>
+<drv mrk="fotome.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="instru2.0o">Instrumento</ref>
+      por mezuri la intensecon de la lumo:
+      <ekz>
+        scinitilometro estas <tld/>o kiu a&ubreve;tomate registras scintiladon de astroj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=7761">Scintilometro</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Kepler</nom> <klr>[&#x2026;]</klr> utiligante kosman <tld/>on disvolvita de NASA,
+        <klr>[&#x2026;]</klr> observas la brilecon de pli ol 100.000 steloj dum 3,5 jaroj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=278481">Misio Kepler</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_t;&c_o;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>expozimetr</trd>,
+    <trd>fotometr</trd>,
+    <trd>osvitom&ecaron;r</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Fotometer</trd>,
+    <trd>Photometer</trd>
+  </trdgrp>
+  <trd lng="es">fot&oacute;metro</trd>
+  <trd lng="fr">photom&egrave;tre</trd>
+  <trdgrp lng="hu">
+    <trd>f&eacute;nym&eacute;r&odblac;</trd>,
+    <trd>megvil&aacute;g&iacute;t&aacute;sm&eacute;r&odblac;</trd>,
+    <trd>fotom&eacute;ter</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6E2C;&#x5149;&#x5668;  <pr>&#x305D;&#x3063;&#x3053;&#x3046;&#x304D;</pr></trd>,
+    <trd>&#x5149;&#x5EA6;&#x8A08;  <pr>&#x3053;&#x3046;&#x3069;&#x3051;&#x3044;</pr></trd>,
+    <trd>&#x9732;&#x5149;&#x8A08;  <pr>&#x308D;&#x3053;&#x3046;&#x3051;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">lichtmeter</trd>
+  <trd lng="pt">fot&ocirc;metro</trd>
+  <trd lng="ru">&c_f;&c_o;&c_t;&c_o;&c_m;&c_je;&c_t;&c_r;</trd>
+  <trd lng="sk">expozimeter</trd>
+  <trd lng="uk">&#x444;&#x43E;&#x442;&#x43E;&#x43C;&#x435;&#x442;&#x440;</trd>
+  <trd lng="zh">&#x5149;&#x5EA6;&#x8A08; <pr>gu&#x101;ngd&#xF9;j&#xEC;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.16 2023/10/14 19:15:45
+revo: transskribo per <pr>
+
+Revision 1.12  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2007/06/05 16:31:47  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2004/01/04 17:32:23  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2003/10/17 19:19:30  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2003/01/05 17:32:10  revo
+Paul Peeraerts: ald trd nl + belarangho
+
+Revision 1.6 2002/07/02 17:33:57 revo
+-->
+</vortaro>

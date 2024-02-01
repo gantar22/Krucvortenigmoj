@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: jon.xml,v 1.29 2023/12/03 07:09:18 revo Exp $">
+<kap>
+  <rad>jon</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="jon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="jon.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Nomo de molekulo a&ubreve; de <ref tip="super" cel="atom.0o.KEM">atomo</ref>, kiu gajnis a&ubreve; perdis
+      elektronojn:
+      <ref tip="sub" cel="anjon.0o.KEM">anjono</ref>,
+      <ref tip="sub" cel="katjon.0o.KEM">katjono</ref>:
+      <ekz>
+        oni uzas la specialajn salajn solva&jcirc;ojn, entenantajn en necesaj koncentritecoj
+        <tld/>ojn de natrio, kalio, kloro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2010/010071.php">Antikva, sed ankora&ubreve; malica gasto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lumo, kiun ni vidas el la kvazaroj, venas el <tld/>oj, kiuj movi&gcirc;as rapide al
+        la grandega negativa &scirc;argo de la kvazaro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Henry Broadbent</aut>
+          <vrk><url ref="&Monato;/2008/009493.php">Flankeniro al la ru&gcirc;o</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_jo;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>ion</trd>,
+    <trd>iont</trd>,
+    <trd>jont</trd>
+  </trdgrp>
+  <trd lng="de">Ion</trd>
+  <trd lng="el">&jota;&omikron_ton;&ny;</trd>
+  <trd lng="en">ion</trd>
+  <trd lng="es">i&oacute;n</trd>
+  <trd lng="fa">&f_y;&a_w;&a_n;</trd>
+  <trd lng="fr">ion</trd>
+  <trd lng="hu">ion</trd>
+  <trd lng="it">ione</trd>
+  <trd lng="ja">&#x30A4;&#x30AA;&#x30F3;</trd>
+  <trd lng="nl">ion</trd>
+  <trd lng="pl">jon</trd>
+  <trdgrp lng="pt">
+    <trd>&iacute;on</trd>,
+    <trd>i&ocirc;nio</trd>,
+    <trd>i&atilde;o</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_o;&c_n;</trd>
+  <trd lng="sk">i&oacute;n</trd>
+  <trd lng="sv">jon</trd>
+  <trdgrp lng="uk">
+    <trd>&c_j;&#x43E;&#x43D;</trd>,
+    <trd>&c_ib;&#x43E;&#x43D;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x79BB;&#x5B50; <pr>l&#xED;z&#x1D0;</pr></trd>
+</drv>
+
+<drv mrk="jon.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="jon.0igi.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Fari atomojn a&ubreve; molekulojn <tld/>oj:
+      <ekz>
+        elmeto al altenergiaj kosmaj radioj kaj alia <tld/>iganta radiado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2010/009989.php">Voja&gcirc;o unudirekta</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tekniko <klr>[&#x2026;]</klr> bazita sur <tld/>iga radiado, kiu trovas aplikon en
+        medicino kaj scienco
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2013/011032.php">Skanado &gcirc;ena kaj kancerogena</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dozoj de <tld/>iga radiado, ricevitaj de infanoj kaj plenkreskuloj el sama
+        fonto, povas havi malsamajn efikojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2014/011193.php">Malsama a&gcirc;o, malsamaj riskoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="joniz.0i">jonizi</ref>
+  </snc>
+  <trd lng="be">&c_ib;&c_ja;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>ionizovat</trd>,
+    <trd>vytv&aacute;&rcaron;et ioniz. prost&rcaron;ed&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">ionisieren</trd>
+  <trd lng="el">&jota;&omikron;&ny;&jota_ton;&zeta;&omega;</trd>
+  <trd lng="en">ionize</trd>
+  <trd lng="es">ionizar</trd>
+  <trd lng="fa">&f_y;&a_w;&a_n;&f_y;&a_d;&a_n;</trd>
+  <trd lng="fr">ioniser<klr tip="ind"> (transformer en ion)</klr></trd>
+  <trd lng="hu">ioniz&aacute;l</trd>
+  <trd lng="it">ionizzare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A4;&#x30AA;&#x30F3;&#x5316;&#x3055;&#x305B;&#x308B; 
+    <pr>&#x30A4;&#x30AA;&#x30F3;&#x304B;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x96FB;&#x96E2;&#x3055;&#x305B;&#x308B; <pr>&#x3067;&#x3093;&#x308A;&#x3055;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">ioniseren</trd>
+  <trd lng="pl">jonizowa&cacute;</trd>
+  <trd lng="pt">ionizar</trd>
+  <trd lng="ru">&c_i;&c_o;&c_n;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">ionizova&tcaron;</trd>
+  <trd lng="sv">jonisera</trd>
+  <trd lng="uk">&c_ib;&#x43E;&#x43D;&c_ib;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/18 05:26:26
+revo: transskribo per <pr>
+
+versio 1.27 2023/09/12 20:26:16
+Wolfram Diestel: pr. ja
+
+Revision 1.23  2018/12/15 15:10:13  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.22  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/01/18 13:10:13  revo
+Jeromo Vasxe: + ref + mrk
+
+Revision 1.19  2010/10/16 16:30:27  revo
+Russ Williams: +trd en
+
+Revision 1.18  2009/07/11 16:31:43  revo
+-->
+</vortaro>

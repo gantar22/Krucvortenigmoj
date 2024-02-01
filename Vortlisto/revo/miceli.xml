@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: miceli.xml,v 1.5 2023/03/13 07:26:28 revo Exp $">
+<kap>
+  <rad>miceli</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="miceli.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="miceli.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Nefrukta parto de 
+      <ref tip="malprt" cel="fung.0o.BIO">fungo</ref>,
+      konsistanta el ordinare subteraj kaj blankaj
+      fadenetoj:
+      <ekz>
+        <tld/>o konsistanta el hifoj senkoloraj
+        <fnt>
+          <aut>P. Navarro&ndash;Rosin&eacute;s, Claude Roux, X. Llimona</aut>,
+          <vrk><url
+          ref="http://lichenologue.org/fichiers/docs/1994Navarro_Roux_FunpojSquamarina.pdf">
+          Nelikenifiintaj fungoj &ccirc;e Squamarina</url></vrk>,
+          <lok>Bull. Soc. linn. Provence, 1994</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ib;&c_c;&c_e;&c_l;&c_ib;&c_j;</trd>,
+    <trd>&c_g;&c_r;&c_y;&c_b;&c_n;&c_ja;</trd>,
+    <trd>&c_g;&c_r;&c_y;&c_b;&c_n;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>mycelium</trd>,
+    <trd>podhoub&#xED;</trd>
+  </trdgrp>
+  <trd lng="en">mycelium</trd>
+  <trd lng="fr">mycelium</trd>
+  <trdgrp lng="sk">
+    <trd>myc&#xE9;lium</trd>,
+    <trd>podhubie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_r;&c_i;&c_b;&#x43D;&c_i;&c_c;&#x44F;</trd>,
+    <trd>&#x43C;&c_ib;&c_c;&c_je;&#x43B;&c_ib;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.5 2023/03/13 07:26:28
+Dmitri Gabinski: + trd be
+
+Revision 1.2  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2013/09/04 01:10:14  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

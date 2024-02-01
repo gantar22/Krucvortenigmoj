@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pist.xml,v 1.30 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pist</rad>/i
+</kap>
+<drv mrk="pist.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Dispecetigi a&ubreve; pulvorigi per batado, froto kaj premo:
+      <ekz>
+        <tld/>i pipron, salon, gria&jcirc;on;
+      </ekz>
+      <ekz>
+        li sen&ccirc;ese pesis kaj <tld/>is, murmuretante pre&gcirc;on
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         se vi <tld/>os malsa&gcirc;ulon en <tld/>ujo inter gria&jcirc;o, lia malsa&gcirc;eco de li ne aparti&gcirc;os
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 27:22</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        lia edzino <tld/>is per &scirc;tono tritikon por plata kuko
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pastraron <klr>[&#x2026;]</klr> li volis dis<tld/>i <klr>(subpremi)</klr>
+        kaj fari &gcirc;in sia servisto
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bat.dis0i.KOMUNE">disbati</ref>,
+      <ref cel="frakas.0i.KOMUNE">frakasi<sncref/></ref>,
+      <ref cel="macx.0i">ma&ccirc;i</ref>,
+      <ref cel="muel.0i">mueli</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_w;&c_ch;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>drtit</trd>,
+    <trd>m&ecaron;lnit <klr>(v hmo&zcaron;d&iacute;&rcaron;i)</klr>ml&iacute;t</trd>,
+    <trd>rozm&ecaron;l&ncaron;ovat</trd>,
+    <trd>&scaron;rotovat</trd>
+  </trdgrp>
+  <trd lng="de">zersto&szlig;en</trd>
+  <trd lng="en">pound</trd>
+  <trdgrp lng="es"> 
+    <trd>machacar</trd>,
+    <trd>majar</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&f_k;&a_w;&a_b;&f_y;&a_d;&a_n;</trd>,
+    <trd>&a_s;&a_A;&f_y;&f_y;&a_d;&a_n;</trd>,
+    <trd>&a_kh;&a_r;&a_d; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>concasser</trd>,
+    <trd>broyer</trd>,
+    <trd>piler</trd>
+  </trdgrp>
+  <trd lng="hu">apr&oacute;ra <ind>t&ouml;r</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x304D;&#x7815;&#x304F;  <pr>&#x3064;&#x304D;&#x304F;&#x3060;&#x304F;</pr></trd>,
+    <trd>&#x7C89;&#x306B;&#x3059;&#x308B;  <pr>&#x3053;&#x306A;&#x306B;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7C89;&#x7815;&#x3059;&#x308B;  <pr>&#x3075;&#x3093;&#x3055;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x3059;&#x308A;&#x3064;&#x3076;&#x3059;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>stampen<klr tip="ind"> (fijnstampen)</klr></trd>,
+    <trd>fijnstampen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>t&lstroke;uc<klr> (na proszek)</klr></trd>,
+    <trd>rozciera&cacute;<klr> (na proszek)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>pisar (no <klr tip="amb">gral</klr>)</trd>,
+    <trd>triturar</trd>,
+    <trd>socar</trd>    
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>m&abreve;cina</trd>,
+    <trd>sparge</trd>,
+    <trd>pulveriza</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_o;&c_l;&c_o;&c_ch;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>drvi&tcaron;</trd>,
+    <trd>rozdrvi&tcaron;</trd>,
+    <trd>t&lacute;c&tcaron;</trd>,
+    <trd>&scaron;rotova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&#x43E;&c_v;&#x43A;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_d;&c_r;&c_ib;&c_b;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pist.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="pist.0ejo.AGR">
+    <dif>
+      Loko, kie oni <tld/>as rikolta&jcirc;on, materialon:
+      <ekz>
+        lin<tld/>ejo
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K.
+          Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/IV.">
+          Avineto</url></vrk>,
+          <lok>[sen dato]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">concasserie</trd>
+  <trd lng="pl">proszkownia</trd>
+  <trd lng="ro">moara cu pulbere</trd>
+</drv>
+
+<drv mrk="pist.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="pist.0ilo.ilo">
+    <uzo tip="fak">KEM</uzo>
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Instrumento por <tld/>i, ordinare konsistanta el
+      tenilo kun globforma malsupro:
+      <ekz>
+        <tld/>iloj kaj <tld/>ujoj ekzistis jam en prahistoria epoko, 
+        kiam oni uzis ilin por pecetigi planterojn a&ubreve; substancojn, ekzemple por krei farbojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19733">Pistilo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        internaciaj normoj maraj severas, sekve la &scirc;ipo entenas diversajn ilojn
+        &ndash; cindrigilojn, <tld/>ilojn, kompaktigilojn &ndash; por ke neniu rubo solida estu enmaren &jcirc;etita
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Christian Bertin</aut>
+          <vrk><url ref="&Monato;/2004/008255.html">Re&gcirc;ino de la maroj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">St&ouml;&szlig;el</trd>
+    <trd lng="fa">&a_d;&a_s;&a_t;&a_h;&a_hamza_sure; &a_h;&a_A;&a_w;&a_n;</trd>
+    <trd lng="fr">pilon</trd>
+    <trd lng="hu">mozs&aacute;rt&ouml;r&odblac;</trd>
+    <trd lng="pl">t&lstroke;uczek</trd>
+    <trd lng="ro">pistil</trd>
+  </snc>
+  <snc mrk="pist.0ilo.ujo">
+    <fnt><bib>Far1</bib> </fnt>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="pist.0ujo">Pistujo</ref>:
+      <ekz>
+        ili do vizitis la muelejojn, kie la sklavoj en <esc>kelkcento</esc>
+        da mueliloj kaj <tld/>iloj preparis la farunon
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;i tie vi havas fajrujon, tie benkon, sur kiu oni povas dormi, <tld/>ilon por la tritiko kaj
+        vazon por la pasto
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    La inan organon de floro pro simila formo
+    on anka&ubreve; nomas <ref tip="hom" cel="pistil.0o">pistil&middot;o</ref>
+  </rim>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_w;&c_k;&c_a;&c_ch;</trd>,
+    <trd>&c_m;&c_ja;&c_l;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>sami&ccaron;&iacute; okv&ecaron;t&iacute;</trd>,
+    <trd>sami&ccaron;&iacute; org&aacute;ny kv&ecaron;tu</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304D;&#x306D;</trd>,
+    <trd>&#x3059;&#x308A;&#x3053;&#x304E;</trd>,
+    <trd>&#x4E73;&#x68D2;  <pr>&#x306B;&#x3085;&#x3046;&#x307C;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">stamper</trd>
+  <trd lng="ru">&c_p;&c_je;&c_s;&c_t;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>mlia&zcaron;didlo</trd>,
+    <trd>&scaron;rotovn&iacute;k</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pist.0ujo">
+  <kap><tld/>ujo</kap>
+  <snc mrk="pist.0ujo.ilo">
+    <dif>
+      Speciala vazo, en kiu oni <tld/>as:
+      <ekz>
+        la popolo disiradis kaj kolektadis kaj mueladis per muel&scirc;tonoj
+        a&ubreve; <tld/>adis en <tld/>ujo, kaj kuiradis en kaldrono kaj faradis el &gcirc;i kukojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 11:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en <tld/>ujoj oni <tld/>is spicojn
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Du fratoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_u;&c_p;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>hmo&zcaron;d&iacute;&rcaron;</trd>,
+    <trd>t&rcaron;ec&iacute; miska</trd>
+  </trdgrp>
+  <trd lng="de">M&ouml;rser</trd>
+  <trdgrp lng="es">
+    <trd>mortero</trd>,
+    <trd>almirez</trd>
+  </trdgrp>
+  <trd lng="fa">&a_h;&a_A;&a_w;&a_n;</trd>
+  <trd lng="fr">mortier</trd>
+  <trd lng="hu">mozs&aacute;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3046;&#x3059;</trd>,
+    <trd>&#x3059;&#x308A;&#x9262;  <pr>&#x3059;&#x308A;&#x3070;&#x3061;</pr></trd>,
+    <trd>&#x4E73;&#x9262;  <pr>&#x306B;&#x3085;&#x3046;&#x3070;&#x3061;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>vijzel</trd>,
+    <trd>mortier</trd>
+  </trdgrp>
+  <trd lng="pl">mo&zacute;dzierz</trd>
+  <trd lng="ro">mojar</trd>
+  <trd lng="ru">&c_s;&c_t;&c_u;&c_p;&c_a;</trd>
+  <trd lng="sk">ma&zcaron;iar <klr>(n&aacute;doba)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_u;&#x43F;&c_a;</trd>,
+    <trd>&#x43C;&c_a;&#x43A;&c_ib;&c_t;&c_r;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.28 2022/11/16 23:30:26
+Vito Redsky: +trd pl + trd ro
+
+versio 1.27 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.24  2018/09/14 17:10:18  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.23  2015/09/18 16:10:12  revo
+Jeromo Vasxe: + ~ejo, + 2 trd fr
+
+Revision 1.22  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2012/07/13 08:10:11  revo
+-->
+</vortaro>

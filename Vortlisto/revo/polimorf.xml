@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: polimorf.xml,v 1.4 2022/12/21 09:28:11 revo Exp $">
+    <kap>
+      <rad>polimorf</rad>/a
+    </kap>
+
+<drv mrk="polimorf.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MIN</uzo><uzo tip="fak">BIO</uzo>
+  <snc mrk="polimorf.0a.plurforma">
+    <dif>
+      Plurforma:
+      <ekz>
+        kalcito: <tld/>aj varioj estas la aragonito kaj vaterito
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=221528">Kalcito</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        natria karbonato estas <tld/>a, depende de premo kaj temperaturo &gcirc;i kristali&gcirc;as
+        al diversa kristalsistemo, kiu povas esti senakva a&ubreve; enhavi kristalakvon
+        <fnt>
+          <vrk><url ref="https://eo.linkfang.org/wiki/Natria_karbonato">Natria karbonato</url></vrk>
+          <lok>eo.LinkFang.org</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la arbarheliko estas regule man&gcirc;ata de la kantoturdo, kaj oni sugestis, ke ties
+        <tld/>a &scirc;elbildo estas evolua respondo por malpliigi predadon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=292509">Kantoturdo</url></lok>
+        </fnt>.
+      </ekz>      
+    </dif>
+    <trd lng="de">polymorph</trd>
+    <trd lng="en">polymorphic</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_l;&c_ib;&c_m;&c_o;&c_r;&c_f;&c_n;&c_y;</trd>
+  <trdgrp lng="pl">
+    <trd>polimorficzny</trd>,
+    <trd>wielopostaciowy</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>polimorf</trd>,
+    <trd>multiform</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43B;&c_ib;&#x43C;&#x43E;&c_r;&c_f;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_t;&#x43E;&c_j;</trd>,
+    <trd>&c_shch;&#x43E; &c_b;&c_u;&c_v;&c_a;&c_jeu; &c_v; &#x43A;&c_ib;&#x43B;&#x44C;&#x43A;&#x43E;&c_h; &c_f;&#x43E;&c_r;&#x43C;&c_a;&c_h;</trd>
+  </trdgrp>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.4 2022/12/21 09:28:11
+Dmitri Gabinski: + trd be
+
+versio 1.3 2022/05/01 18:36:13
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.1 2020/05/29 12:10:34
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

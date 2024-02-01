@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sxalm.xml,v 1.37 2023/10/21 07:46:48 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&scirc;alm</rad>/o
+</kap>
+<drv mrk="sxalm.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sxalm.0o.fluto">
+    <uzo tip="stl">POE</uzo>
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Simpla <ref tip="lst" cel="instru2.blov0o" lst="voko:blovinstrumentoj">blovinstrumento</ref>,
+      rekta <ref tip="super" cel="flut.0o">fluto</ref> el vegeta
+      a&ubreve; osta tubo kun truoj, kiajn uzas pa&scirc;tistoj:
+      <ekz>
+        alvenis al la gastejo unu kastristo de porkoj kaj per sia
+        <tld/>o fajfis tri kvar fojojn
+        <fnt><bib>DonKihxoto</bib> <lok>&ccirc;apitro 2a, p. 36a</lok></fnt>;
+      </ekz>
+      <ekz>
+        sur unu el la kanapoj ku&scirc;is <klr>[&#x2026;]</klr> flutoj, cimbalo kaj <tld/>o
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni vidis tie harpojn, liutojn <klr>[&#x2026;]</klr>, lirojn, formingojn, citrojn,
+        <tld/>ojn
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XXXVI</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_zh;&c_a;&c_l;&c_je;&c_j;&c_k;&c_a;</trd>,
+      <trd>&c_d;&c_u;&c_d;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trd lng="de">Schalmei</trd>
+    <trd lng="en"><klr>(musical) </klr>pipe</trd>
+    <trd lng="fr">pipeau</trd>
+    <trdgrp lng="hu">
+      <trd>p&aacute;sztors&iacute;p</trd>,
+      <trd>tilink&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+    <trd>zuffolo</trd>,
+    <trd>piffero</trd>,
+    <trd>ciaramella</trd>,
+    <trd>cennamella</trd>
+  </trdgrp>
+  <trd lng="pl">sza&lstroke;amaja</trd>
+  <trdgrp lng="pt">
+    <trd>gaita de cana</trd>,
+    <trd>p&iacute;fano</trd>,
+    <trd>p&iacute;faro</trd>,
+     <trd>pife</trd>,
+     <trd>pifre</trd>
+  </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_v;&c_i;&c_r;&c_je;&c_l;&c_mol;</trd>,
+      <trd>&c_d;&c_u;&c_d;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>herdersfluit</trd>,
+      <trd>schalmei</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sxalm.0o.tubo">
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      Metala tubo, per kiu oni blovas aeron en flamon por pliardigi
+      &gcirc;in; lutotubeto
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="blov.0ilo">blovilo</ref>
+    </refgrp>
+    <trd lng="de">Blasrohr</trd>
+    <trdgrp lng="en">
+      <trd>bellows</trd>,
+      <trd>windbag</trd>
+    </trdgrp>
+    <trd lng="fr">chalumeau</trd>
+    <trd lng="hu">f&uacute;v&oacute;cs&odblac;</trd>
+    <trd lng="it">cannello</trd>
+    <trd lng="nl">blaaspijp</trd>
+    <trd lng="pl">dysza</trd>
+    <trd lng="ru">&c_p;&c_a;&c_ja;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+    &c_t;&c_r;&c_u;&c_b;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="sxalm.0o.BOT">
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="tig.0o">Tigo</ref> de
+      poacoj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kan.0o">kano</ref>,
+      <ref cel="stang.0o">stango</ref>,
+      <ref cel="stip.0o">stipo</ref>,
+      <ref cel="tig.0o">tigo</ref>,
+      <ref cel="sxtip">&scirc;tipeto</ref>,
+      <ref cel="verg.0o">vergo</ref>,
+      <ref cel="stopl.0o">stoplo</ref>
+    </refgrp>
+    <trd lng="de">Halm</trd>
+    <trd lng="en">stalk</trd>
+    <trd lng="fr">tige</trd>
+    <trd lng="hu">f&udblac;sz&aacute;l</trd>
+    <trd lng="it">cannuccia<klr> (paglia)</klr></trd>
+    <trd lng="nl">halm</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_o;&c_l;&c_o;&c_m;&c_i;&c_n;&c_k;&c_a;</trd>,
+      <trd>&c_t;&c_r;&c_o;&c_s;&c_t;&c_i;&c_n;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <rim>
+    Fundamenta estas nur la muzika senco. La aliaj aperis en PV kaj
+    PIV supozeble pro la plursenceco de la franca
+    &leftquot;<nac>chalumeau</nac>&rightquot;.
+  </rim>
+  <trdgrp lng="ja">
+    <trd>&#x3042;&#x3057;&#x7B1B;  <pr>&#x3042;&#x3057;&#x3075;&#x3048;</pr></trd>,
+    <trd>&#x7267;&#x7B1B;  <pr>&#x307C;&#x304F;&#x3066;&#x304D;</pr></trd>,
+    <trd>&#x30B7;&#x30E3;&#x30EA;&#x30E5;&#x30E2;&#x30FC;</trd>,
+    <trd>&#x30B9;&#x30C8;&#x30ED;&#x30FC;</trd>,
+    <trd>&#x5439;&#x7BA1;  <pr>&#x3059;&#x3044;&#x304B;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_o;&c_l;&c_o;&c_m;&c_i;&c_n;&c_k;&c_a; (&c_d;&c_l;&c_ja;
+    &c_k;&c_o;&c_k;&c_t;&c_je;&c_j;&c_l;&c_ju; &c_ib; &c_t;.&c_p;.)</trd>,
+    <trd>&c_o;&c_ch;&c_je;&c_r;&c_je;&c_t;&c_i;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_i;&c_sh;&c_i;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_o;&c_p;&c_ib;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_d;&c_u;&c_d;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_ja;&c_l;&c_mol;&c_n;&c_a; &c_t;&c_r;&c_u;&c_b;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_je;&c_b;&c_l;&c_o;</trd>,
+    <trd>&c_s;&c_o;&c_l;&c_o;&c_m;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxalm.pajno0o">
+  <kap>
+    pajno<tld/>o
+  </kap>
+  <snc mrk="sxalm.pajno0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref cel="flut.pajno0o.MUZ">Pajnofluto</ref>:
+      <ekz>
+        &leftquot;restas por via utiligo en la urbo,&rightquot; mi diris, &leftquot;liro kaj citro; kaj en la
+        kamparo por la pa&scirc;tistoj estus ia pajn<tld/>o&rightquot;
+        <fnt>
+          <aut>Platono, trad. D. Broadribb</aut>
+          <vrk>La Respubliko</vrk>
+          <lok>1993</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Panfl&ouml;te</trd>,
+    <trd>Pfozhobel<klr> [ark]</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>flute de Pan</trd>,
+    <trd>syrinx</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30D1;&#x30F3;&#x30D1;&#x30A4;&#x30D7;</trd>
+</drv>
+
+<drv mrk="sxalm.sak0o">
+  <kap>sak<tld/>o</kap>
+  <snc mrk="sxalm.sak0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref cel="flut.sak0o.MUZ">Sakfluto</ref>:
+      <ekz>
+        la sak<tld/>o <klr>[&#x2026;]</klr> produktas bordunajn, tio signifas da&ubreve;re plusonantajn
+        tonojn akompane al la kamparanaj melodioj
+        <fnt>
+          <aut>R. R&ouml;ssler-Buckel</aut>
+          <vrk><url ref="https://www.radio-frei.de/">Turingio internacia 61</url></vrk>
+          <lok>2016</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+       en la slovaka teritorio enhejmi&gcirc;is orient-e&ubreve;ropa tipo de sak<tld/>o: la trivo&ccirc;a sakfajfilo
+       (kun duobla melodia <tld/>o kaj kun simpla akompana <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2017/011872.php">
+Sak&scirc;almoj migrantaj
+</url></vrk>
+          <lok>2017</lok>
+        </fnt>.
+      </ekz>
+
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Sackpfeife</trd>,
+    <trd>Dudelsack</trd>
+  </trdgrp>
+  <trd lng="en">bagpipes</trd>
+  <trd lng="fr">cornemuse</trd>
+  <trd lng="hu">duda</trd>
+  <trdgrp lng="it">
+    <trd>cornamusa</trd>,
+    <trd>zampogna</trd>,
+    <trd>piva</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30D0;&#x30B0;&#x30D1;&#x30A4;&#x30D7;</trd>,
+    <trd>&#x98A8;&#x7B1B;  <pr>&#x3075;&#x3046;&#x3066;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">doedelzak</trd>
+  <trdgrp lng="pl">
+    <trd>dudy</trd>,
+    <trd>koza</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_o;&c_l;&c_y;&c_n;&c_k;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_o;&c_l;&c_i;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_d;&c_u;&c_d;&c_a;</trd>,
+    <trd>&c_k;&c_o;&c_z;&c_a;</trd>,
+    <trd>&c_m;&c_ib;&c_h;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxalm.sucxo0o">
+  <kap>
+    su&ccirc;o<tld/>o,
+    <var><kap>trink<tld/>o</kap></var>
+  </kap>
+  <snc mrk="sxalm.sucxo0o.HEJM">
+    <dif>
+      Pajlero a&ubreve; alisubstanca iom rigida tubeto, per kiu oni su&ccirc;as trinka&jcirc;on:
+      <ekz>
+        su&ccirc;o<tld/>oj <klr>[&#x2026;]</klr> iam estis uzataj nur de knaboj, sed
+        <klr>[ilin]</klr> nun vaste utiligas anka&ubreve; plenkreskuloj, por ensorbi
+        koktelojn, kokakolaojn kaj similajn trinka&jcirc;ojn
+        <fnt>
+          <aut>[E. Doerfler]</aut>
+          <vrk><url ref="https://www.bitoteko.it/download/files/original/f9d9bc33ea57d701d3c90f3d2fb1a111.pdf">Plasto
+          en maro kaj poluado</url></vrk>
+          <lok>TEA-Bulteno, 2018:7-8 (144)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        juna virino trinkas per trink<tld/>o
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="&WCW;/File:Sup_sup_sup.jpg?uselang=eo">File:Sup</url></vrk>
+          <lok>Wikimedia Commons, 2020-10-04</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Trinkhalm</trd>
+  <trd lng="fr">paille pour boire</trd>
+  <trd lng="nl">rietje</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.37 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.35 2023/07/01 07:22:58
+Wolfram Diestel: +ekz
+
+versio 1.34 2023/04/11 18:56:02
+aktualigo Monato-URL
+
+versio 1.33 2023/03/23 06:32:14
+Paul Peeraerts: + 2a ekz
+
+versio 1.32 2022/05/05 14:43:49
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.31 2022/04/26 08:47:03
+Ulrich Fellmann: pajnosxalmo: +2 DE trdj
+
+versio 1.28 2022/02/15 22:27:54
+Jeromo Vasxe: + pajno~o + sucxo~o
+
+versio 1.27 2022/02/14 21:21:31
+-->
+</vortaro>

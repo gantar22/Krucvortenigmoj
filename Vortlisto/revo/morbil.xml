@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: morbil.xml,v 1.21 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>morbil</rad>/o
+</kap>
+
+<drv mrk="morbil.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Infekta <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
+      karakterizata
+      per febro kaj ha&ubreve;taj ru&gcirc;a&jcirc;oj kaj atakanta precipe infanojn:
+      <ekz>
+        anta&ubreve; 40-50 jaroj preska&ubreve; &ccirc;iu homo en la infaneco malsanis je
+        <tld/>o<fnt><aut>Vladimir Lemelev</aut>: <vrk>Vakcinado ja
+        helpas</vrk>, <bib>Monato</bib><lok>jaro 1999a, numero 4a, p.
+        4a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_z;&c_jo;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>morbilli</trd>,
+    <trd>osypky</trd>,
+    <trd>spalni&ccaron;ky</trd>
+  </trdgrp>
+  <trd lng="de">Masern</trd>
+  <trd lng="en">measles</trd>
+  <trdgrp lng="fr">
+    <trd>rougeole</trd>
+  </trdgrp>
+  <trd lng="hu">kanyar&oacute;</trd>
+  <trdgrp lng="id">
+    <trd>campak</trd>,
+    <trd>morbili</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x306F;&#x3057;&#x304B;</trd>,
+    <trd>&#x9EBB;&#x75B9;  <pr>&#x306F;&#x3057;&#x304B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">mazelen</trd>
+  <trd lng="pl">odra <klr>(choroba)</klr></trd>
+  <trd lng="pt">sarampo</trd>
+  <trd lng="ro">rujeol&abreve;</trd>
+  <trd lng="ru">&c_k;&c_o;&c_r;&c_mol;</trd>
+  <trd lng="sk">os&yacute;pky</trd>
+  <trd lng="uk">&#x43A;&c_ib;&c_r;</trd>
+</drv>
+
+<drv mrk="morbil.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        La plej bona higieno estis senutila kontra&ubreve; tio, &ccirc;ar la
+        morbila
+        viruso transmigras nur per aero-guta vojo<fnt><aut>Vladimir
+        Lemelev</aut>: <vrk>Vakcinado ja helpas</vrk>,
+        <bib>Monato</bib><lok>jaro 1999a, numero 4a, p. 4a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_z;&c_jo;&c_r;&c_n;&c_y;</trd>
+  <trd lng="de">Masern-</trd>
+  <trd lng="en">measles</trd>
+  <trdgrp lng="fr">
+    <trd>rougeoleux</trd>
+  </trdgrp>
+  <trd lng="pl">zaka&zdot;ony <ind><klr>(odr&aogonek;)</klr></ind></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.19 2023/04/13 07:24:27
+Dmitri Gabinski: + trd be
+
+versio 1.17 2020/10/19 20:11:15
+Vito Redsky: +trd pl  + trd ro 
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2014/11/19 07:10:20  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.13  2013/10/07 15:10:39  revo
+Wolfram Diestel: ref la lst malsanoj
+
+Revision 1.12  2010/04/16 16:31:16  revo
+Russ Williams: +trd en
+
+Revision 1.11  2007/06/04 16:30:26  revo
+-->
+</vortaro>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: tirozin.xml,v 1.5 2023/10/15 01:30:06 revo Exp $">
+    <kap>
+      <rad>tirozin</rad>/o
+    </kap>
+
+<drv mrk="tirozin.0o">
+  <kap><tld/>o</kap>
+  <mlg>Tyr</mlg>
+  <mlg>Y</mlg>
+  <uzo tip="fak">BIO</uzo><uzo tip="fak">KEM</uzo>
+  <snc mrk="tirozin.0o.L_tirozino">
+    <dif>
+      <frm>HO-C<sub>6</sub>H<sub>4</sub>-CH<sub>2</sub>-CH(NH<sub>2</sub>)-COOH</frm>,
+      en sia L-formo, neesenca <ref tip="super" cel="acid.amin0o">aminacido</ref>, kiu trovi&gcirc;as en
+      plej multaj proteinoj:
+      <ekz>
+        formado de tiramino postulas la disponeblecon de anta&ubreve;aj aminoacidoj <klr>[kiel]</klr>
+        <tld/>o a&ubreve; fenilalanino
+        <fnt>
+          <vrk><url ref="&Viki;/Tiramino">Tiramino - Vikipedio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiramino estas natura kompona&jcirc;o rezultanta el senkarboksiligo de la <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=588791">Tiramino</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Tyrosin</trd>
+  <trd lng="pl">tyrozyna</trd>
+  <trd lng="uk">&c_t;&c_i;&c_r;&#x43E;&c_z;&c_i;&#x43D;</trd>
+</drv>
+  </art>
+
+<!--
+$Log$
+versio 1.5 2023/10/15 01:30:06
+Vito Redsky: +trd pl 
+
+versio 1.4 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.1  2019/08/31 11:10:15  revo
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

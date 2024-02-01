@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tali.xml,v 1.26 2023/10/21 13:02:26 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tali</rad>/o
+</kap>
+<drv mrk="tali.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      &Ccirc;irka&ubreve;o de la homa korpo &ccirc;e nivelo de koksoj.
+    </dif>
+    <trdgrp lng="de">
+      <trd>H&uuml;ftumfang</trd>,
+      <trd>Taille</trd>,
+      <trd>H&uuml;fte<klr> [H&uuml;ftma&szlig;]</klr></trd>,
+      <trd>G&uuml;rtelweite</trd>
+    </trdgrp>
+    <trd lng="en">waist</trd>
+    <trd lng="es">cintura</trd>
+    <trd lng="fr">taille</trd>
+    <trd lng="hu">der&eacute;k</trd>
+    <trd lng="id">pinggang</trd>
+    <trdgrp lng="pl">
+      <trd>talia</trd>,
+      <trd>kibi&cacute;</trd>,
+      <trd>stan</trd>
+    </trdgrp>
+    <trdgrp lng="sv">
+      <trd>midja</trd>,
+      <trd>liv</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Parto de la homa korpo ekde kolo &gcirc;is koksoj:
+      <ekz>
+        &scirc;i rektigis sian elastan <tld/>on;
+      </ekz>
+      <ekz>
+        bel<tld/>a.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="brust.0o">brusto</ref>,
+      <ref cel="tors.0o">torso</ref>,
+      <ref cel="bust.0o">busto</ref>.
+    </refgrp>
+    <trd lng="hu">fels&odblac;test</trd>
+    <trdgrp lng="pl">
+      <trd>tu&lstroke;&oacute;w</trd>,
+      <trd>korpus</trd>
+    </trdgrp>
+    <trd lng="ro">corp</trd>
+  </snc>
+  <ref tip="hom" cel="tali2.0o">talio</ref>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_l;&c_ib;&c_ja;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_n;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF66;&#xF90;&#xF7A;&#xF51;&#xF0B;&#xF54;&#xF0B;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x80F4;  <pr>&#x3069;&#x3046;</pr></trd>,
+    <trd>&#x80F4;&#x4F53;  <pr>&#x3069;&#x3046;&#x305F;&#x3044;</pr></trd>,
+    <trd>&#x8170;&#x56DE;&#x308A;  <pr>&#x3053;&#x3057;&#x307E;&#x308F;&#x308A;</pr></trd>,
+    <trd>&#x8170;  <pr>&#x3053;&#x3057;</pr></trd>,
+    <trd>&#x30A6;&#x30A8;&#x30B9;&#x30C8;  <pr>&#x3046;&#x3048;&#x3059;&#x3068;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>taille</trd>,
+    <trd>middel</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_a;&c_l;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>driek</trd>,
+    <trd>p&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pas <klr>(t&ecaron;la)</klr></trd>,
+    <trd>&zcaron;ivot</trd>
+  </trdgrp>
+  <trd lng="uk">&c_t;&c_a;&#x43B;&c_ib;&#x44F;</trd>
+</drv>
+
+<drv mrk="tali.0vesto">
+  <kap><tld/>vesto</kap>
+  <snc>
+    <dif>
+      Vesto malsupreniranta nur &gcirc;is la <tld/>o; brustvesto
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="kamizo.0o">kamizolo</ref>,
+      <ref cel="vesxt.0o">ve&scirc;to</ref>,
+      <ref cel="jak.0o">jako</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>halenka bl&uring;za</trd>,
+    <trd>vesta do pasu</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5A66;&#x4EBA;&#x7528;&#x80F4;&#x7740;  <pr>&#x3075;&#x3058;&#x3093;&#x3088;&#x3046;&#x3069;&#x3046;&#x3061;&#x3083;&#x304F;</pr></trd>,
+    <trd>&#x30DC;&#x30C7;&#x30A3;&#x30B9;</trd>,
+    <trd>&#x30B3;&#x30EB;&#x30B5;&#x30FC;&#x30B8;&#x30E5;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>parte de cima</trd>
+  </trdgrp>
+  <trd lng="sk">vesta do p&aacute;su</trd>
+  <trd lng="uk">&c_b;&#x43B;&c_u;&c_z;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.24 2023/06/04 20:25:02
+Ulrich Fellmann: talio: +2 pliaj DE trdj
+
+Revision 1.20  2016/08/26 07:10:20  revo
+Alain Gerard: +trd fr
+
+Revision 1.19  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/05/30 17:10:19  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.16  2011/12/05 23:10:27  revo
+Eduardo Navas: +trad es
+
+Revision 1.15  2009/01/31 17:30:20  revo
+-->
+</vortaro>

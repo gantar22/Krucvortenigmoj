@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: informatik.xml,v 1.18 2023/11/19 10:22:13 revo Exp $">
+<kap>
+  <rad>informatik</rad>/o <fnt><bib>NePiv</bib></fnt>,
+  <var><kap><rad var="d">informadik</rad>/o <fnt><bib>PIV1</bib></fnt></kap></var>
+</kap>
+<drv mrk="informatik.0o">
+  <kap><tld/>o, <var><kap><tld var="d"/>o</kap></var></kap>
+  <snc mrk="informatik.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+       <ref tip="dif" cel="komputik.0o.KOMP">Komputiko</ref>:
+      <ekz>
+        kelkfoje mi havas problemojn pensi logike, ver&scirc;ajne &ccirc;ar mi
+        studis unu jaron <tld/>on  
+        <fnt>
+          <aut>E. Gardavsky</aut>,
+          <vrk>kiel oni ne skribu amleteron</vrk>,
+          <lok><url ref="&SCE;">soc.culture.esperanto</url>,
+          1999-11-18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Tutmonda Asocio pri Kibernetiko, <tld lit="I" var="d"/>o kaj Sistemiko
+        <fnt>
+          <aut>R. F&ouml;ssmeier</aut>,
+          <vrk>Grupo de UNIX-uzantoj</vrk>,
+          <lok><url ref="&SCE;">soc.culture.esperanto</url>,
+          1992-03-16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_f;&c_a;&c_r;&c_m;&c_a;&c_t;&c_y;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_i;&c_n;&c_f;&c_o;&c_r;&c_m;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="ca">inform&agrave;tica</trd>
+  <trdgrp lng="cs">
+    <trd>informatika</trd>,
+    <trd>nauka o informac&iacute;ch</trd>
+  </trdgrp>
+  <trd lng="de">Informatik</trd>
+  <trdgrp lng="en">
+    <trd>information technology</trd>,
+    <trd>information science</trd>
+  </trdgrp>
+  <trd lng="fr">informatique<klr> (subst.)</klr></trd>
+  <trd lng="ja">&#x60C5;&#x5831;&#x79D1;&#x5B66;  <pr>&#x3058;&#x3087;&#x3046;&#x307B;&#x3046;&#x304B;&#x304C;&#x304F;</pr></trd>
+  <trd lng="nl">informatica</trd>
+  <trd lng="pl">informatyka</trd>
+  <trd lng="pt">inform&aacute;tica</trd>
+  <trd lng="sk">informatika</trd>
+  <trd lng="uk">&c_ib;&#x43D;&c_f;&#x43E;&c_r;&#x43C;&c_a;&c_t;&c_i;&#x43A;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4FE1;&#x606F;&#x5B66; <pr>x&#xEC;nx&#x12B;xu&#xE9;</pr></trd>,
+    <trd>&#x8CC7;&#x8A0A;&#x79D1;&#x6280; <pr>z&#x12B;x&#xF9;nk&#x113;j&#xEC;</pr></trd>,
+    <trd>&#x8A08;&#x7B97;&#x6A5F;&#x79D1;&#x5B78; <pr>j&#xEC;su&#xE0;nj&#x12B;k&#x113;xu&#xE9;</pr></trd>,
+    <trd>&#x4FE1;&#x606F;&#x6280;&#x672F; <pr>x&#xEC;nx&#x12B;j&#xEC;sh&#xF9;</pr></trd>,
+    <trd>&#x4FE1;&#x606F;&#x5B66; <pr>x&#xEC;nx&#x12B;xu&#xE9;</pr></trd>,
+    <trd>&#x8CC7;&#x8A0A;&#x79D1;&#x6280; <pr>z&#x12B;x&#xF9;nk&#x113;j&#xEC;</pr></trd>,
+    <trd>&#x8A08;&#x7B97;&#x6A5F;&#x79D1;&#x5B78; <pr>j&#xEC;su&#xE0;nj&#x12B;k&#x113;xu&#xE9;</pr></trd>,
+    <trd>&#x4FE1;&#x606F;&#x6280;&#x672F; <pr>x&#xEC;nx&#x12B;j&#xEC;sh&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="informatik.0isto">
+  <kap><tld/>isto, <var><kap><tld var="d"/>isto</kap></var></kap>
+  <snc mrk="informatik.0isto.SCI">
+    <dif>
+      <ref tip="dif" cel="komput.0isto.KOMP">Komputisto</ref>:
+      <ekz>
+        kiel <tld/>isto mi multe laboras kun datumbazoj
+        <fnt>
+          <aut>santvi</aut>,
+          <vrk><url ref="http://www.esperanto-es.net/hejs/forumo">[Hejs-forumo]</url></vrk>,
+          <lok>2005-12-22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum la laboro de niaj <tld var="d"/>istoj estis perdita nia adreslibro
+        <fnt>
+          <aut>Radio Polonia</aut>,
+          <vrk><url ref="http://abonu.com/archive/info.polonia/200305/02211339.html">Programoj
+          de Esperanto-redakcio de Pola Radio</url></vrk>,
+          <lok>2005-03</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_f;&c_a;&c_r;&c_m;&c_a;&c_t;&c_y;&c_k;</trd>
+  <trd lng="ca">inform&agrave;tic</trd>
+  <trd lng="de">Informatiker</trd>
+  <trdgrp lng="en">
+    <trd>information technologist</trd>,
+    <trd>information scientist</trd>
+  </trdgrp>
+  <trd lng="fr">informaticien</trd>
+  <trd lng="nl">informaticus</trd>
+  <trd lng="pl">informatyk</trd>
+  <trd lng="uk">&c_ib;&#x43D;&c_f;&#x43E;&c_r;&#x43C;&c_a;&c_t;&c_i;&#x43A;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.17 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.15 2023/04/04 07:24:45
+Dmitri Gabinski: + trd be
+
+versio 1.14 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.12 2020/09/09 15:10:33
+Wolfram Diestel: +tld-var
+
+Revision 1.10  2015/10/13 09:10:35  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2015/09/23 12:10:14  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.8  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:15  revo
+-->
+</vortaro>

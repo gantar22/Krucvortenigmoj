@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: soveti.xml,v 1.13 2023/11/12 09:22:22 revo Exp $">
+<kap>
+    <rad>Soveti</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="soveti.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="soveti.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      <ref tip="dif" cel="sovet.UniodeS0ajSocialismajRespublikoj">Unio de
+      Sovetaj Socialismaj Respublikoj</ref>:
+      <ekz>
+        tiel restis &gcirc;is la atako de Germanio kontra&ubreve; <tld/>o, la 22an
+        de junio 1941<fnt><aut>Zofia Banet-Fornalowa</aut>, <vrk>Kadi&scirc;
+        por
+        Jedwabne</vrk>, <bib>Monato</bib>, <lok>2002/01, p.
+        18</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o estas laborista &scirc;tato
+        <fnt><bib>Metrop</bib></fnt>;
+      </ekz>
+      <ekz>
+        la malapero de la Varsovia Pakto kaj de <tld/>o
+        <fnt>
+          <aut>Hamza Baksi&cacute;</aut>
+          <vrk><url ref="&Monato;/1993/A931001.php">La fino de la mondo komenci&gcirc;as en
+          Sarajevo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/10, p. 8</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+<ref tip="sin" cel="sovet.S0unio">Sovetunio</ref>
+  <trd lng="be">&c_S;&c_a;&c_v;&c_je;&c_c;&c_k;&c_ib;
+  &c_S;&c_a;&c_ju;&c_z;</trd>
+  <trd lng="cs">Sov&ecaron;tsk&yacute; svaz</trd>
+  <trd lng="de">Sowjetunion</trd>
+  <trd lng="fr">URSS</trd>
+  <trdgrp lng="ja">
+    <trd>&#12477;&#12499;&#12456;&#12488;&#36899;&#37030;  <pr>&#12477;&#12499;&#12456;&#12488;&#12428;&#12435;&#12413;&#12358;</pr></trd>,
+    <trd>&#12477;&#36899;  <pr>&#12477;&#12428;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">Sovjet-Unie</trd>
+  <trdgrp lng="pl">
+    <trd>Zwi&aogonek;zek Socjalistycznych Republik Radzieckich</trd>,
+    <trd>Sowiety<klr> (pot., obra&zacute;l.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_S;&c_o;&c_v;&c_je;&c_t;&c_s;&c_k;&c_i;&c_j;
+    &c_S;&c_o;&c_ju;&c_z;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_a;&c_n;&c_a;
+    &c_S;&c_o;&c_v;&c_je;&c_t;&c_o;&c_v;</trd>
+  </trdgrp>
+  <trd lng="sk">Sovietsky zv&auml;z</trd>
+  <trd lng="uk">&c_R;&c_a;&c_d;&c_ja;&c_n;&c_s;&c_mol;&c_k;&c_i;&c_j; &c_S;&c_o;&c_ju;&c_z;</trd>
+</drv>
+
+<drv mrk="soveti.s0a">
+  <kap><tld lit="s"/>a</kap>
+  <snc mrk="soveti.s0a.rilata">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        ili havas &ccirc;i tie pli, ol cent leterojn el USSR,
+        po&scirc;tkartojn,
+        amason da fotoj, <tld lit="s"/>ajn librojn kaj gazetojn
+        <fnt><bib>Metrop</bib></fnt>;
+      </ekz>
+      <ekz>
+        la disfalo de la <tld lit="s"/>a imperio
+        <fnt>
+	<aut>Garbhan MacAoidh</aut>
+	<vrk><url ref="&Monato;/2000/006815.php">&Ccirc;u nova &scirc;anco por malfortaj lingvoj?</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a Esperantista Junulara Movado
+        <fnt>
+          <aut>Boris Kolker</aut>
+            <vrk><url ref="&Monato;/2000/006807.php">Fascina gazeto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/03, p. 31</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_v;&c_je;&c_c;&c_k;&c_ib;</trd>
+  <trd lng="fr">sovi&eacute;tique<klr> (adj.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>radziecki</trd>,
+    <trd>sowiecki<klr> (pot., obra&zacute;l.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_o;&c_v;&c_je;&c_t;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="de">sowjetisch</trd>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.13 2023/11/12 09:22:22
+Mahaer Mahmud: Aldonis sinonimon
+
+versio 1.12 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.10 2023/04/27 12:44:34
+
+versio 1.9 2023/04/24 10:31:48
+Paul Peeraerts: @Sxteloj -> @Monato
+
+versio 1.8 2023/04/11 09:27:12
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.7 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.4  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+-->
+</vortaro>

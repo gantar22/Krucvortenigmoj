@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: makler.xml,v 1.25 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>makler</rad>/i
+</kap>
+<drv mrk="makler.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Profesie servi kiel profitanta peranto inter vendantoj kaj
+      a&ccirc;etantoj:
+      <ekz>
+        <tld/>i pri teksa&jcirc;oj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_u;
+  &c_k;&c_a;&c_m;&c_e;&c_r;&c_c;&c_y;&c_ib;)</klr></trd>
+  <trd lng="ca">mitjan&ccedil;ar</trd>
+  <trdgrp lng="cs">
+    <trd>prost&rcaron;edkovat</trd>,
+    <trd>zprost&rcaron;edkovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>makeln</trd>,
+    <trd>als <ind>Makler</ind> t&auml;tig sein</trd>,
+    <trd>vermitteln</trd>
+  </trdgrp>
+  <trd lng="en">broker</trd>
+  <trd lng="es"><ind>intermediar</ind> a comisi&oacute;n en una transacci&oacute;n
+  comercial</trd>
+  <trdgrp lng="fr">
+    <trd>faire l'<ind>interm&eacute;diaire</ind> commercial</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&uuml;zletet k&ouml;zvet&iacute;t</trd>,
+    <trd>&uuml;gyn&ouml;k&ouml;sk&ouml;dik</trd>
+  </trdgrp>
+  <trd lng="ja">&#x4EF2;&#x8CB7;&#x696D;&#x3092;&#x3059;&#x308B;  <pr>&#x306A;&#x304B;&#x304C;&#x3044;&#x304E;&#x3087;&#x3046;&#x3092;&#x3059;&#x308B;</pr></trd>
+  <trd lng="nl">makelen</trd>
+  <trdgrp lng="pl">
+    <trd>nastr&eogonek;cza&cacute;</trd>,
+    <trd>po&sacute;redniczy&cacute; <klr>(w interesach)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>corretar</trd>,
+    <trd>promover a <ind>corretagem</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>prezent</trd>,
+    <trd>media</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">sprostredkova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x430;&#x43A;&#x43B;&#x435;&#x440;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x431;&#x443;&#x442;&#x438; &#x43F;&#x43E;&#x441;&#x435;&#x440;&#x435;&#x434;&#x43D;&#x438;&#x43A;&#x43E;&#x43C; &#x43F;&#x440;&#x438; &#x43A;&#x443;&#x43F;&#x456;&#x432;&#x43B;&#x456;-&#x43F;&#x440;&#x43E;&#x434;&#x430;&#x436;&#x443;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="makler.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Pago al la perinto en vendafero:
+      <ekz>
+        oni pagas iun procenta&jcirc;on kiel <tld/>a&jcirc;on al specialistoj
+        <klr>...</klr> kiuj helpas dum la negocado<fnt><aut>Roland
+        Rotsaert</aut>: <vrk>&Scirc;mirmono</vrk>, <bib>Monato</bib><lok>jaro
+        2000a, numero 2a, p. 8a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_m;&c_ib;&c_s;&c_ib;&c_j;&c_n;&c_a;&c_je; &c_w;&c_z;&c_n;&c_a;&c_g;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_k;&c_u;&c_r;&c_t;&c_a;&c_zh;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>comissi&oacute;</trd>,
+    <trd>corretatge</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Maklergeb&uuml;hr</trd>,
+    <trd>Maklerprovision</trd>,
+    <trd>Maklercourtage</trd>,
+    <trd>Vermittlungsgeb&uuml;hr</trd>,
+    <trd>Vermittlungsprovision</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>comisi&oacute;n</trd>,
+    <trd>corretaje</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>commission<klr> (courtage)</klr></trd>,
+    <trd>courtage<klr> (commission)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>alkuszd&iacute;j</trd>,
+    <trd>k&ouml;zvet&iacute;t&odblac;i d&iacute;j</trd>
+  </trdgrp>
+  <trd lng="ja">&#x4EF2;&#x8CB7;&#x624B;&#x6570;&#x6599;  <pr>&#x306A;&#x304B;&#x304C;&#x3044;&#x3066;&#x3059;&#x3046;&#x308A;&#x3087;&#x3046;</pr></trd>
+  <trd lng="nl">makelaarsloon</trd>
+  <trdgrp lng="pl">
+    <trd>koszty po&sacute;rednictwa</trd>,
+    <trd>prowizja maklerska</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>costurile de brokeraj</trd>,
+    <trd>comision de intermediere</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_m;&c_i;&c_s;&c_s;&c_i;&c_o;&c_n;&c_n;&c_o;&c_je; &c_v;&c_o;&c_z;&c_n;&c_a;&c_g;&c_r;&c_a;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_k;&c_u;&c_r;&c_t;&c_a;&c_zh;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x430;&#x43A;&#x43B;&#x435;&#x440;&#x441;&#x44C;&#x43A;&#x430;/&#x43A;&#x43E;&#x43C;&#x456;&#x441;&#x456;&#x439;&#x43D;&#x430; &#x432;&#x438;&#x43D;&#x430;&#x433;&#x43E;&#x440;&#x43E;&#x434;&#x430;</trd>,
+    <trd>&#x43A;&#x43E;&#x43C;&#x456;&#x441;&#x456;&#x439;&#x43D;&#x456; (&#x456;&#x43C;.)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="makler.0isto">
+  <kap><tld/>isto</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="komerc.0isto">Komercisto</ref> kiu profesie
+      <tld/>adas.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_m;&c_a;&c_k;&c_l;&c_je;&c_r;</trd>,
+    <trd>&c_b;&c_r;&c_o;&c_k;&c_je;&c_r;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_m;&c_a;&c_k;&c_l;&c_je;&c_r;</trd>
+  <trd lng="ca">mitjancer</trd>
+  <trdgrp lng="cs">
+    <trd>dohazova&ccaron;</trd>,
+    <trd>makl&eacute;&rcaron;</trd>,
+    <trd>makl&eacute;&rcaron;</trd>,
+    <trd>zprost&rcaron;edkovatel</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Makler</trd>,
+    <trd>Vermittler</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>agente <klr tip="amb">(vendendor)</klr></trd>,
+    <trd>corredor <klr tip="amb">(vendendor)</klr></trd>,
+    <trd>intermediario <klr tip="amb">(vendedor)</klr></trd>,
+    <trd>comisionista</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>broker</trd>,
+    <trd>courtier</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&uuml;gyn&ouml;k</trd>,
+    <trd>k&ouml;zvet&iacute;t&odblac; <klr tip="ind">(&uuml;zlet&eacute;)</klr></trd>,
+    <trd>alkusz</trd>,
+    <trd>br&oacute;ker</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4EF2;&#x8CB7;&#x4EBA;  <pr>&#x306A;&#x304B;&#x304C;&#x3044;&#x306B;&#x3093;</pr></trd>,
+    <trd>&#x30D6;&#x30ED;&#x30FC;&#x30AB;&#x30FC;</trd>
+  </trdgrp>
+  <trd lng="nl">makelaar</trd>
+  <trdgrp lng="pl">
+    <trd>broker</trd>,
+    <trd>makler</trd>
+  </trdgrp>
+  <trd lng="ro">agent de v&acirc;nz&abreve;ri</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_m;&c_a;&c_k;&c_l;&c_je;&c_r;</trd>,
+    <trd>&c_b;&c_r;&c_o;&c_k;&c_je;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>makl&eacute;r</trd>,
+    <trd>sprostredkovate&lcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x430;&#x43A;&#x43B;&#x435;&#x440;</trd>,
+    <trd>&#x43F;&#x43E;&#x441;&#x435;&#x440;&#x435;&#x434;&#x43D;&#x438;&#x43A;</trd>,
+    <trd>&#x43A;&#x43E;&#x43C;&#x456;&#x441;&#x456;&#x43E;&#x43D;&#x435;&#x440;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="makler.bil0isto">
+  <kap>bil<tld/>isto</kap>
+  <uzo tip="fak">EKON</uzo>
+  <fnt><bib>IKEV</bib></fnt>
+  <snc>
+    <dif>
+      Makleristo pri biloj, ekz-e akcioj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_o;&c_n;&c_d;&c_a;&c_v;&c_y; <ind>&c_b;&c_r;&c_o;&c_k;&c_je;&c_r;</ind></trd>
+  <trd lng="ca">marxant</trd>
+  <trdgrp lng="de">
+    <trd>Effektenmakler</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>stockbroker</trd>
+  </trdgrp>
+  <trd lng="hu">&eacute;rt&eacute;kpap&iacute;r&uuml;gyn&ouml;k</trd>
+  <trd lng="nl">effectenmakelaar</trd>
+  <trd lng="pl">makler papier&oacute;w warto&sacute;ciowych</trd>
+  <trdgrp lng="ro">
+    <trd>broker</trd>,
+    <trd>agent de burs&abreve;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_o;&c_n;&c_d;&c_o;&c_v;&c_y;&c_j; <ind>&c_b;&c_r;&c_o;&c_k;&c_je;&c_r;</ind></trd>
+</drv>
+
+<drv mrk="makler.borsa0isto">
+  <kap>borsa <tld/>isto</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Makleristo makleranta en borso, ekz-e rilate al akcioj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_r;&c_zh;&c_a;&c_v;&c_y; <ind>&c_b;&c_r;&c_o;&c_k;&c_je;&c_r;</ind></trd>
+  <trdgrp lng="de">
+    <trd>B&ouml;rsenmakler</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>agent de borsa</trd>,
+    <trd>broker</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd><ind>corredor</ind> de bolsa</trd>,
+    <trd><ind>agente</ind> de bolsa</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>t&odblac;zsde&uuml;gyn&ouml;k</trd>,
+    <trd>r&eacute;szv&eacute;ny&uuml;gyn&ouml;k</trd>,
+    <trd>t&odblac;zsdealkusz</trd>,
+    <trd>br&oacute;ker</trd>
+  </trdgrp>
+  <trd lng="nl">beursmakelaar</trd>
+  <trd lng="pl">makler gie&lstroke;dowy</trd>
+  <trdgrp lng="ro">
+    <trd>broker</trd>,
+    <trd>agent de burs&abreve;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_i;&c_r;&c_zh;&c_je;&c_v;&c_o;&c_j; <ind>&c_b;&c_r;&c_o;&c_k;&c_je;&c_r;</ind></trd>,
+    <trd>&c_b;&c_i;&c_r;&c_zh;&c_je;&c_v;&c_o;&c_j; <ind>&c_m;&c_a;&c_k;&c_l;&c_je;&c_r;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="makler.kambi0isto">
+  <kap>kambia <tld/>isto</kap>
+  <uzo tip="fak">EKON</uzo>
+  <fnt><bib>IKEV</bib></fnt>
+  <snc>
+    <dif>
+      Makleristo pri kambioj. Kambi-makleristo.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_e;&c_k;&c_s;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_b;&c_r;&c_o;&c_k;&c_je;&c_r;</ind></trd>,
+    <trd>&c_v;&c_e;&c_k;&c_s;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_m;&c_a;&c_k;&c_l;&c_je;&c_r;</ind></trd>
+  </trdgrp>
+  <trd lng="ca">agent de canvi</trd>
+  <trd lng="cs">sm&ecaron;ne&ccaron;n&yacute; makl&eacute;&rcaron;</trd>
+  <trdgrp lng="de">
+    <trd>Wechselmakler</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>bill broker</trd>
+  </trdgrp>
+  <trd lng="es"><ind>agente</ind> de cambio</trd>
+  <trdgrp lng="hu">
+    <trd>v&aacute;lt&oacute;alkusz</trd>,
+    <trd>lesz&aacute;m&iacute;tol&aacute;si &uuml;gyn&ouml;k</trd>,
+    <trd>lesz&aacute;m&iacute;tol&aacute;si alkusz</trd>
+  </trdgrp>
+  <trd lng="nl">wisselmakelaar</trd>
+  <trd lng="pl">broker walutowy</trd>
+  <trd lng="ro">broker valutar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_b;&c_r;&c_o;&c_k;&c_je;&c_r;</ind></trd>,
+    <trd>&c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_m;&c_a;&c_k;&c_l;&c_je;&c_r;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">zmenkov&yacute; makl&eacute;r</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.22 2020/10/15 21:11:14
+Vito Redsky: +trd pl  + trd ro 
+
+Revision 1.20  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/02/18 02:10:15  revo
+Carlos Garcia: trd+ es -ajxo -isto bors-isto kamb-isto
+
+Revision 1.18  2011/12/08 14:10:08  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.17  2009/10/09 16:30:52  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2009/01/03 17:31:18  revo
+Wieland Pusch: +trd bg
+
+Revision 1.15  2006/07/18 16:31:24  revo
+-->
+</vortaro>

@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: varb.xml,v 1.36 2023/10/21 16:50:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>varb</rad>/i
+</kap>
+<drv mrk="varb.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <dif>
+  Fari per siaj instigoj, ke:
+  </dif>
+  <snc mrk="varb.0i.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+       iu soldati&gcirc;u:
+      <ekz>
+        la banditojn kaj aventuristojn ili <tld/>is en la armeon
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>anwerben</trd>,
+      <trd>rekrutieren</trd>
+    </trdgrp>
+    <trd lng="en">recruit</trd>
+    <trd lng="it">reclutare</trd>
+    <trd lng="nl">rekruteren</trd>
+    <trd lng="pl">zaci&aogonek;ga&cacute; <klr>(do wojska)</klr></trd>
+  </snc>
+  <snc mrk="varb.0i.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      iu ani&gcirc;u al grupo, partio, doktrino:
+      <ekz>
+        vi &ccirc;irka&ubreve;iras maron kaj teron, por <tld/>i unu prozeliton
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 23:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        proklaminte la evangelion al tiu urbo, kaj <tld/>inte multajn dis&ccirc;iplojn, ili
+        revenis
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 14:21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la homaranismo <klr>[&#8230;]</klr> <tld/>os siajn adeptojn ne per blinda kredigado,
+        sed per admonado
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Pri la homaranismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i kvalifikitajn profesorojn
+        <fnt><aut>Bardhyl Selimi</aut>:
+          <vrk><url ref="&Monato;/2001/007205.html">Voja&gcirc;impresoj, somero 2000</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/01, p. 26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Haider</nom> en la pasinto ja <tld/>is iamajn naziojn
+        <fnt>
+       <aut>Vinko O&Scaron;LAK/pg</aut>
+          <vrk><url ref="&Monato;/2000/006952.php">A&ubreve;strio kaj la ceteraj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="konver3.0i.al_ideo">konverti</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>werben</trd>,
+      <trd>anwerben</trd>,
+      <trd>gewinnen</trd>
+    </trdgrp>
+    <trd lng="it">affiliare</trd>
+    <trdgrp lng="pl">
+      <trd>kaptowa&cacute;</trd>,
+      <trd>werbowa&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="varb.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      iu a&ccirc;etu produkton a&ubreve; servon, t.e. fari&gcirc;u <ref cel="klient.0o.EKON">kliento</ref>:
+      <ekz>
+        kolortelevidaj programoj kun multe da interprograma <tld/>ado
+        <fnt>
+          <aut>PEJNO Simono</aut>
+          <vrk><url ref="&Monato;/1995/004358.html">Poloj per pelvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/04, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hoteloj en junio malaltigas siajn prezojn kaj <tld/>as per la romantika nocio
+        &leftquot;junia novedzino&rightquot;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Yasuo</aut>
+          <vrk><url ref="&Monato;/2003/007854.html">&Ccirc;u &gcirc;oja plorpluvo?</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni konstante devas <tld/>i novajn abonantojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2004/008493.html">Anta&ubreve;en</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        spite al &ccirc;iaj niaj <tld/>ado kaj reklamado, la magazino ne furoris
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Maul Stefan</aut>
+          <vrk><url ref="&Monato;/2004/008228.html">Retrorigarde kaj perspektive</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="reklam.0i.EKON">reklami<sncref/></ref>
+    <trd lng="en">advertise</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_e;&c_r;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_a;&c_b;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_v;&c_a;&c_b;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_c;&c_ja;&c_g;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="br">tuta</trd>
+  <trdgrp lng="ca">
+    <trd>reclutar</trd>,
+    <trd>allistar</trd>,
+    <trd>enrolar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>prov&aacute;d&ecaron;t n&aacute;bor</trd>,
+    <trd>z&iacute;sk&aacute;vat</trd>
+  </trdgrp>
+  <trd lng="en">enlist</trd>
+  <trd lng="es">reclutar</trd>
+  <trdgrp lng="fr">
+    <trd>recruter</trd>
+  </trdgrp>
+  <trd lng="he">&lamed;<ind>&gimel;&yod;&yod;&samekh;</ind></trd>
+  <trdgrp lng="hu">
+    <trd>toboroz</trd>,
+    <trd>verbuv&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x52DF;&#x96C6;&#12377;&#x308B;  <pr>&#x307C;&#12375;&#12421;&#12358;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x5FB4;&#x52DF;&#12377;&#x308B;  <pr>&#12385;&#12423;&#12358;&#12412;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>ronselen</trd>,
+    <trd>werven</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>alistar</trd>,
+    <trd>recrutar</trd>
+  </trdgrp>
+  <trd lng="ro">capta</trd>
+  <trd lng="ru">&c_v;&c_je;&c_r;&c_b;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd><klr>(z)</klr>verbova&tcaron;</trd>,
+    <trd>robi&tcaron; n&aacute;bor</trd>,
+    <trd>verbova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_je;&c_r;&c_b;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43D;&c_a;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43D;&c_a;&c_j;&#x43C;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&#x43B;&c_u;&c_ch;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="varb.0ilo">
+  <kap>
+    <tld/>ilo
+  </kap>
+  <snc>
+    <dif>
+      Io, per kio oni <tld/>as; <ref tip="sin" cel="reklam.0ilo">reklamilo</ref>:
+      <ekz>
+        kelkaj fervojaj kompanioj <klr>[&#8230;]</klr> eldonis <tld/>ilojn kaj prospektojn en
+        Esperanto
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi montris kelkajn ekzemplerojn de Kontakto kaj <klr>[&#8230;]</klr>,
+        <ref tip="super" cel="inform.0ilo">informilo</ref>jn kaj
+        <tld/>ilojn
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aktiveco estas la plej grava <tld/>ilo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#8470; 8-9 (106-107)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi konas pli efikajn <tld/>ilojn ol a&ubreve;skultebla pruvo de Esperanto-kulturo
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>?
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="tabul.aviz0o">aviztabulo</ref>,
+      <ref cel="foli.flug0o">flugfolio</ref>,
+      <ref cel="sxild.pendo0o">pendo&scirc;ildo</ref>,
+      <ref cel="prospe.0o">prospekto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_n;&c_y; &c_m;&c_a;&c_t;&c_a;&c_r;'&c_ja;&c_l;</trd>,
+    <trd>&c_s;&c_r;&c_o;&c_d;&c_a;&c_k; <ind>&c_z;&c_a;&c_l;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Werbetr&auml;ger</trd>,
+    <trd>Werbung</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&#x43A;&#x43B;&c_a;&#x43C;&#x43D;&c_i;&c_j; &#x43F;&c_r;&#x43E;&c_s;&#x43F;&c_je;&#x43A;&c_t;</trd>,
+    <trd>&c_r;&c_je;&#x43A;&#x43B;&c_a;&#x43C;&#x43D;&c_i;&c_j; &#x43C;&c_a;&c_t;&c_je;&c_r;&c_ib;&c_a;&#x43B;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="varb.0isto">
+  <kap>
+    <tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      Kiu profesie <tld/>as:
+      <ekz>
+        vi alkondukis ja tutan aregon da rekrutoj, vi bravega <tld/>isto
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>isto &ccirc;e granda kompanio raportis, ke multaj laboristoj <klr>[&#8230;]</klr>
+        demisias post kelke da monatoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Xu Jinming</aut>
+          <vrk><url ref="&Monato;/2014/011297.php">Labor-merkato malfacila</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="reklam.0isto">reklamisto</ref>
+  </snc>
+  <trd lng="be">&c_v;&c_ja;&c_r;&c_b;&c_o;&c_w;&c_sh;&c_ch;&c_y;&c_k;</trd>
+  <trd lng="de">Anwerber</trd>
+  <trdgrp lng="en">
+    <trd>recruiter</trd>,
+    <trd>head hunter</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x52DF;&#x96C6;&#x4FC2;  <pr>&#x307C;&#12375;&#12421;&#12358;&#x304B;&#x304B;&#x308A;</pr></trd>,
+    <trd>&#x52E7;&#x8A98;&#x54E1;  <pr>&#x304B;&#12435;&#12422;&#12358;&#12356;&#12435;</pr></trd>,
+    <trd>&#x5FB4;&#20853;&#x5B98;  <pr>&#12385;&#12423;&#12358;&#12408;&#12356;&#x304B;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_je;&c_r;&c_b;&c_u;&c_v;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&#x43A;</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.36 2023/10/21 16:50:35
+revo: transskribo per <pr>
+
+versio 1.35 2023/09/12 20:26:04
+Wolfram Diestel: pr. ja
+
+versio 1.33 2023/04/21 12:44:41
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.32 2023/04/18 12:46:20
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.31 2023/04/11 12:45:35
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.30 2023/02/20 10:34:05
+Dmitri Gabinski: + trd be
+
+versio 1.29 2022/05/06 12:17:21
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.27 2022/01/29 10:28:27
+-->
+</vortaro>

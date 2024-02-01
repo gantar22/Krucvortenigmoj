@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: disper.xml,v 1.22 2023/12/06 07:24:31 revo Exp $">
+<kap>
+  <rad>dispers</rad>/i
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="disper.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="disper.0i.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Spektrigi <ref cel="lum.0o.FIZ">lumon</ref>
+      per refrakto:
+      <ekz>
+         partikloj produktataj per radiadaj kaj <tld/>aj procesoj, kiel fotonoj, ne&ubreve;trinoj kaj
+         muonoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19031">Partikla fiziko</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="disper.0i.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+       Bone <ref tip="super" cel="miks.0i.kunmiksi">miksi</ref>
+       &hcirc;emia&jcirc;ojn, kiuj apena&ubreve; kombini&gcirc;as, t.e. reagas unu kun alia:
+      <ekz>
+        por ke la sablo ne sedimenti&gcirc;u tro frue, oni <tld/>as &gcirc;in per organikaj kemia&jcirc;oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Werner Fuss</aut>
+          <vrk><url ref="&Monato;/2014/011348.php">Novtipa gasminado: &ccirc;u vere dan&gcirc;era?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dufaza <ref cel="emulsi.0o">emulsio</ref> <tld/>igita
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=534672">Emulsio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_mol;&c_s;&c_je;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dispergovat</trd>,
+    <trd>rozkl&aacute;dat <klr>(sv&ecaron;tlo)</klr></trd>,
+    <trd>rozlo&zcaron;it</trd>,
+    <trd>rozptylovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>dispergieren</trd>,
+    <trd>feinst verteilen</trd>,
+    <trd>zerstreuen</trd>
+  </trdgrp>
+  <trd lng="fr">disperser<klr tip="ind"> (la lumi&egrave;re)</klr></trd>
+  <trd lng="ja">&#20998;&#25955;&#12373;&#x305B;&#x308B;  <pr>&#12406;&#12435;&#12373;&#12435;&#12373;&#x305B;&#x308B;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>rozszczepia&cacute;<klr> (&sacute;wiat&lstroke;o)</klr></trd>,
+    <trd>rozprasza&cacute;<klr> (&sacute;wiat&lstroke;o)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">dispersar</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_je;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>rozklada&tcaron; <klr>(svetlo)</klr></trd>,
+    <trd>rozpty&lcaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_s;&c_ib;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_p;&c_o;&c_r;&c_o;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#25955;&#x51FA; <pr>s&#xE0;nch&#x16B;</pr></trd>,
+    <trd>&#20998;&#x4F48; <pr>f&emacron;nb&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="disper.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="disper.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="super" cel="fenome.0o.FIL">Fenomeno</ref> de <tld/>ado:
+      <ekz>
+        aberacio <klr>[okazas pro]</klr> <tld/>o de lumradioj, kiu kontra&ubreve;staras formi&gcirc;on de la
+        preciza bildo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=7767">Aberacio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vitro enhavanta oksidon de torio prezentas altan refraktan indicon kaj malaltan <tld/>on
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=28705">Torio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="disper.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <ref tip="super" cel="miks.0ajxo">Miksa&jcirc;o</ref> <tld/>igita:
+      <ekz>
+        la jonoj jodidaj estas multe pli grandaj ol la ordinaraj halogenidoj
+        kaj tio rezultas en pli granda spaco por <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=520881">Jodida acido</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Kontroli, &ccirc;u la termino ne povas apliki&gcirc;i anka&ubreve;
+    en balistiko. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_mol;&c_s;&c_je;&c_j;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_d;&c_y;&c_s;&c_p;&c_e;&c_r;&c_s;&c_ib;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dispergace</trd>,
+    <trd>dispergov&aacute;n&iacute;</trd>,
+    <trd>rozptylov&aacute;n&iacute;</trd>,
+    <trd>rozpt&yacute;len&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Dispersion</trd>,
+    <trd>Streuung</trd>
+  </trdgrp>
+  <trd lng="fr">dispersion<klr tip="ind"> (de la
+  lumi&egrave;re)</klr></trd>
+  <trd lng="he">&pe;&yod;&zayin;&vav;&resh; &alef;&vav;&resh;</trd>
+  <trd lng="ja">&#20998;&#25955;  <pr>&#12406;&#12435;&#12373;&#12435;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>dyspersja<klr> &sacute;wietlna</klr></trd>,
+    <trd>rozszczepienie<klr> (&sacute;wiat&lstroke;a)</klr></trd>,
+    <trd>rozproszenie<klr> (&sacute;wiat&lstroke;a)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">dispers&atilde;o</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_je;&c_ja;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_d;&c_i;&c_s;&c_p;&c_je;&c_r;&c_s;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozklad</trd>,
+    <trd>rozptyl</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_i;&c_s;&c_p;&c_je;&c_r;&c_s;&c_ib;&c_ja;</trd>,
+    <trd>&c_d;&c_i;&c_s;&c_p;&c_je;&c_r;&c_g;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#33394;&#25955;&#x4F5C;&#29992; <pr>s&#xE8;s&#x1CE;nzu&#xF2;y&#xF2;ng</pr></trd>,
+    <trd>&#x5F25;&#25955; <pr>m&#xED;s&#x1CE;n</pr></trd>,
+    <trd>&#x6D88;&#25955; <pr>xi&amacron;os&#xE0;n</pr></trd>,
+    <trd>&#25955;&#x5C04; <pr>s&#x1CE;nsh&#xE8;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="disper.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o
+  </kap>
+  <snc mrk="disper.0ajxo.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <ref tip="dif" cel="disper.0o.KEM">Disperso<sncref/></ref>.
+    </dif>
+    <ref tip="sin" cel="koloid.0o">koloido</ref>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_s;&c_p;&c_e;&c_r;&c_s;&c_ib;&c_ja; <klr>(&c_f;&c_o;&c_r;&c_m;&c_a; &c_r;&c_e;&c_ch;&c_y;&c_v;&c_a;)</klr></trd>
+  <trd lng="de">Dispersion <klr>(Gemisch)</klr></trd>
+  <trdgrp lng="zh">
+    <trd>&#33394;&#25955;&#x4F5C;&#29992; <pr>s&#xE8;s&#x1CE;nzu&#xF2;y&#xF2;ng</pr></trd>,
+    <trd>&#x5F25;&#25955; <pr>m&#xED;s&#x1CE;n</pr></trd>,
+    <trd>&#x6D88;&#25955; <pr>xi&amacron;os&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="disper.0eco">
+  <kap><tld/>eco</kap>
+  <uzo tip="fak">FOT</uzo>
+  <snc>
+    <dif>
+      La propreca intenseco, kiun havas medio dum la okazo de <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_s;&c_p;&c_e;&c_r;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dispersn&iacute; schopnost</trd>,
+    <trd>disperzita</trd>,
+    <trd>disperznost</trd>,
+    <trd>rozpt&yacute;lenost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Dispergierverm&ouml;gen</trd>,
+    <trd>Streuungsverm&ouml;gen</trd>
+  </trdgrp>
+  <trd lng="fr">dispersivit&eacute;</trd>
+  <trd lng="ja">&#20998;&#25955;&#x80FD;  <pr>&#12406;&#12435;&#12373;&#12435;&#x306E;&#12358;</pr></trd>
+  <trd lng="ru">&c_d;&c_i;&c_s;&c_p;&c_je;&c_r;&c_s;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">disperzn&aacute; schopnos&tcaron;</trd>
+  <trd lng="uk">&c_d;&c_i;&c_s;&c_p;&c_je;&c_r;&c_s;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="disper.0aangulo">
+  <kap><tld/>a angulo</kap>
+  <uzo tip="fak">FOT</uzo>
+  <snc>
+    <dif>
+      Angulo formata de ekstremaj radioj, kiuj iras &gcirc;is la
+      ekstremoj de la
+      spektro.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_u;&c_g;&c_a;&c_l;
+  &c_r;&c_a;&c_s;&c_mol;&c_s;&c_je;&c_j;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd>Dispersionswinkel</trd>,
+    <trd>Streuungswinkel</trd>
+  </trdgrp>
+  <trd lng="fr">angle de dispersion</trd>
+  <trd lng="he">&zayin;&vav;&vav;&yod;&tav; &pe;&yod;&zayin;&vav;&resh;</trd>
+  <trd lng="ja">&#20998;&#25955;&#x89D2;  <pr>&#12406;&#12435;&#12373;&#12435;&#x304B;&#12393;</pr></trd>
+  <trd lng="pt">&acirc;ngulo de dispers&atilde;o</trd>
+  <trd lng="ru">&c_u;&c_g;&c_o;&c_l;
+  &c_r;&c_a;&c_s;&c_s;&c_je;&c_ja;&c_n;&c_i;&c_ja;</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.22 2023/12/06 07:24:31
+Dmitri Gabinski: + trd be
+
+versio 1.20 2023/10/14 11:26:54
+revo: transskribo per <pr>
+
+versio 1.18 2023/05/09 05:27:46
+Wolfram Diestel: +snc-mrk
+
+versio 1.17 2023/05/04 16:40:03
+Wolfram Diestel: fnt PV, +~a&jcirc;o, +ref-oj
+
+Revision 1.13  2018/09/14 19:10:15  revo
+Wolfram Diestel: +snc-oj KEM, +ekz-oj
+
+Revision 1.12  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2009/06/24 16:30:45  revo
+-->
+</vortaro>

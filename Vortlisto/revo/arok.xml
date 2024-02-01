@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: arok.xml,v 1.20 2023/08/30 18:23:36 revo Exp $">
+<kap>
+  <rad>arok</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="arok.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+  <uzo tip="fak">SPO</uzo>
+    <dif>
+      En <ref tip="malprt" cel="sxak.0ludo">&scirc;akludo</ref>, movi ene de unu sama ludmovo du pecojn,
+      la <ref cel="regx.0o.sxaka">re&gcirc;on</ref> kaj unu el la <ref cel="tur.0o.sxaka">turoj</ref>:
+      <ekz>
+        por rajti <tld/>i necesas, ke nek la re&gcirc;o nek la turo &gcirc;is nun estis movitaj, ke
+        la kampoj inter ili estas liberaj kaj ke nek la re&gcirc;o, nek la de &gcirc;i pasata a&ubreve;
+        de &gcirc;i celata kampoj estas minacataj, tiam la re&gcirc;o rajtas iri je du kampoj
+        randen sur la baza linio, kaj la turo transsaltas &gcirc;in
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=30797">Aroko</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;
+    <ind>&c_r;&c_a;&c_k;&c_ib;&c_r;&c_o;&c_w;&c_k;&c_u;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;lat ro&scaron;&aacute;du <klr>(&scaron;ach.)</klr></trd>,
+    <trd>ro&scaron;ovat</trd>
+  </trdgrp>
+  <trd lng="de">Rochade ausf&uuml;hren</trd>
+  <trd lng="en">castle</trd>
+  <trd lng="es">enrocar</trd>
+  <trd lng="fr">roquer</trd>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5E6;&#x5E8;&#x5D9;&#x5D7; &#x5D1;&#x5E9;&#x5D7;&#x5DE;&#x5D8;</trd>
+  <trdgrp lng="hu">
+    <trd>s&aacute;ncol<klr tip="ind"> (sakk)</klr></trd>,
+    <trd>ros&aacute;l</trd>
+  </trdgrp>
+  <trd lng="it">arroccare</trd>
+  <trd lng="ja">&#x30AD;&#x30E3;&#x30B9;&#x30EA;&#x30F3;&#x30B0;&#x3059;&#x308B;</trd>
+  <trd lng="pl">roszada</trd>
+  <trd lng="pt">rocar</trd>
+  <trd lng="ru">&c_r;&c_o;&c_k;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
+  </trd>
+  <trdgrp lng="sk">
+    <trd>robi&tcaron; ro&scaron;&aacute;du</trd>,
+    <trd>urobi&tcaron; <ind>ro&scaron;&aacute;du</ind></trd>
+  </trdgrp>
+  <trd lng="uk">&#x448;&#x430;&#x445;.&#xA0;&#x440;&#x43E;&#x43A;&#x456;&#x440;&#x443;&#x432;&#x430;&#x442;&#x438;(&#x441;&#x44F;)</trd>
+</drv>
+</art>
+<!--
+$Log$
+Revision 1.16  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/07/20 16:30:19  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2008/06/17 16:30:24  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/11/30 17:30:19  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2007/05/22 16:30:50  revo
+Wieland Pusch: +trd de
+
+Revision 1.10  2004/02/29 17:31:19  revo
+-->
+</vortaro>

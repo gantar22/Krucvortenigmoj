@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: otorinolaringolog.xml,v 1.6 2022/11/04 08:41:37 revo Exp $">
+<kap>
+    <rad>otorinolaringolog</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="otorinolaringolog.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="otorinolaringolog.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="super" cel="kurac.0isto">Kuracisto</ref>, kies fako
+      estas <ref tip="vid" cel="otorinolaringologi.0o"><tld/>io</ref>:
+      <ekz>
+        <nom>Alad&aacute;r T&oacute;th</nom> <klr>[&#8230;]</klr> estis hungara kuracisto, <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=527123">Alad&aacute;r T&oacute;th (kuracisto)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      PIV mencias anka&ubreve; la terminon <em>laringologo</em>
+      <fnt>
+        <aut>Plena Ilustrita Vortaro</aut>,
+        <vrk><url ref="http://vortaro.net/#laringologo">laringologo</url></vrk>
+      </fnt>,
+      kiel sinonimon de tia specialisto.
+    </rim>
+    <trdgrp lng="de">
+      <trd>HNO-Arzt</trd>,
+      <trd>Hals-Nasen-Ohren-Arzt</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_o;&c_t;&c_a;&c_l;&c_ja;&c_r;&c_y;&c_n;&c_g;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trdgrp lng="en">
+    <trd>otorhinolaryngologist</trd>,
+    <trd>otolaryngologist</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>oto-rhino-laryngologiste</trd>,
+    <trd>ORL</trd>
+  </trdgrp>
+  <trd lng="pl">otorynolaryngolog</trd>
+  <trd lng="ro">otorinolaringolog</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_t;&#x43E;&c_r;&c_i;&#x43D;&#x43E;&#x43B;&c_a;&c_r;&c_i;&#x43D;&c_g;&#x43E;&#x43B;&#x43E;&c_g;</trd>,
+    <trd>&#x43B;&c_a;&c_r;&c_i;&#x43D;&c_g;&#x43E;&#x43B;&#x43E;&c_g;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2022/11/04 08:41:37
+Dmitri Gabinski: + trd be
+
+versio 1.4 2021/09/12 21:26:22
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.2  2015/01/04 16:10:19  revo
+Alain Gerard: +ref
+
+Revision 1.1  2015/01/04 11:10:20  revo
+Alain Gerard: nova artikolo
+-->
+</vortaro>

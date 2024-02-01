@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: propriet.xml,v 1.19 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <rad>propriet</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="propriet.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="propriet.0o.rajto">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="rajt.0o">Rajto</ref> plene uzadi, disponi kaj e&ccirc; detrui a&jcirc;on, en la
+      limoj
+      de la ekzistantaj le&gcirc;oj:
+      <ekz>
+        la a&ubreve;tora rajto restas, kompreneble, <tld/>o de la a&ubreve;toro
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Tria Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        okazis debatoj pri la rajtoj pri &leftquot;intelekta <tld/>o&rightquot; koncerne diversajn aferojn,
+        ekzemple genojn, specojn de plantoj, muzikon kaj programojn
+        <fnt>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2004/008269.html">Libera programaro: nova rimedo
+          komerci</url></vrk>
+              <bib>Monato</bib>
+          <lok>2004/04, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la granda <tld/>o financas partiojn kaj politikistojn, tiel &gcirc;i povas i&gcirc;i unika
+        subjekto de politiko
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        petite en la parlamento, <nom>Fukui</nom> prezentis sian <tld/>on <klr>[el la tempo]</klr>
+        kiam li estis prezidanto de privata kompanio
+        <fnt>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="&Monato;/2006/009053.php">Prezidanto de la japana centra banko
+          profitis</url></vrk>
+              <bib>Monato</bib>
+          <lok>2006/11, p. 21</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="posed.0o.eblo">posedo<sncref/></ref>,
+      <ref cel="propr.0eco.JUR">propreco<sncref/></ref>
+    </refgrp>
+    <rim mrk="propriet.0o.posedo">
+      En juro oni distingas posedon (latine: <nac>possessio</nac>), la efektivan disponon pri io
+      de <tld/>o (latine: <nac>dominium</nac>), la la&ubreve;jura rajto pri io. Tiel luanto a&ubreve;
+      &scirc;telisto <em>posedas</em> aferon, kiun tamen iu alia <em><tld/>as</em>.
+    </rim>
+    <trd lng="de">Eigentumsrecht</trd>
+  </snc>
+  <snc mrk="propriet.0o.objekto">
+    <dif>
+      Tio, pri kio oni havas tian rajton:
+      <ekz>
+        Esperanto ne estas limigita al iu aparta klaso a&ubreve; alia socia tavolo,
+        <klr>[&#8230;]</klr> sed &gcirc;i estas <tld/>o de la tuta homaro kaj de &ccirc;iuj personoj
+        kiuj ellernas &gcirc;in
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la insulo estis <tld/>o de diversaj nobeloj
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008289.html">Mistera insulo Ailsa Craig</url></vrk>
+              <bib>Monato</bib>
+          <lok>2004/07, p. 22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="posed.0ajxo">poseda&jcirc;o</ref>,
+      <ref cel="propr.0ajxo.JUR">propra&jcirc;o<sncref/></ref>,
+      <ref cel="propriet.0ajxo">proprieta&jcirc;o</ref>
+    </refgrp>
+    <trd lng="de">Eigentum</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a; <ind>&c_w;&c_l;&c_a;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>vlastnick&eacute; pr&aacute;vo</trd>,
+    <trd>vlastnictv&iacute;</trd>
+  </trdgrp>
+  <trd lng="fr">propri&eacute;t&eacute;<klr> (droit de possession)</klr></trd>
+  <trd lng="hu">tulajdonjog</trd>
+  <trdgrp lng="ja">
+    <trd>&#25152;&#26377;&#x6A29;  <pr>&#12375;&#12423;&#12422;&#12358;&#12369;&#12435;</pr></trd>,
+    <trd>&#x79C1;&#26377;&#x6A29;  <pr>&#12375;&#12422;&#12358;&#12369;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">dominium</trd>
+  <trd lng="nl">eigendomsrecht</trd>
+  <trd lng="pl">prawo  <ind>w&lstroke;asno&sacute;ci</ind></trd>
+  <trd lng="pt">propriedade <klr tip="amb">(jur.)</klr></trd>
+  <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_o; <ind>&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_i;</ind></trd>
+  <trd lng="sk">vlastn&iacute;cke pr&aacute;vo</trd>
+  <trd lng="uk">&c_v;&c_l;&c_a;&c_s;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="propriet.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Objekto sub <tld/>o:
+      <ekz>
+        &ccirc;u vi havas <tld/>a&jcirc;on <klr>[&#8230;]</klr>, bienon a&ubreve; domon
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 38</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        la romianoj konis tri specojn da <tld/>a&jcirc;oj <klr>[&#8230;]</klr>, <nac>res privatae</nac>, la
+        a&jcirc;oj kiuj povas esti posedataj de individuo a&ubreve; familio, <klr>[&#8230;]</klr> <nac>res
+        publicae</nac>, la a&jcirc;oj konstruitaj kaj apartigitaj por uzo de la &scirc;tato
+        <klr>[kaj]</klr> <nac>res communes</nac>, naturaj a&jcirc;oj, kiel aero, akvo kaj sova&gcirc;aj
+        bestoj, komune uzataj de &ccirc;iuj
+        <fnt>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2005/008698.php">Evitenda evoluo</url></vrk>
+              <bib>Monato</bib>
+          <lok>2005/11, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la konferencejo estis <tld/>a&jcirc;o de loka entreprenisto
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008336.html">Eta urbo, ega perturbo</url></vrk>
+              <bib>Monato</bib>
+          <lok>2004/07, p. 15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vila&gcirc;anoj havas preska&ubreve; neniun <tld/>a&jcirc;on, &ccirc;ar la komunumo senpage liveras
+        &ccirc;ion necesan por la &ccirc;iutaga vivo
+        <fnt>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2011/010245.php">Floras enklavo komunista</url></vrk>
+              <bib>Monato</bib>
+          <lok>2011/02, p. 14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="propr.0ajxo.JUR">propra&jcirc;o<sncref/></ref>,
+      <ref cel="propr.0umajxo">propruma&jcirc;o</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_u;&c_l;&c_a;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="fr">propri&eacute;t&eacute;<klr> (objet poss&eacute;d&eacute;)</klr></trd>
+  <trd lng="hu">tulajdon</trd>
+  <trdgrp lng="ja">
+    <trd>&#25152;&#26377;&#29289;  <pr>&#12375;&#12423;&#12422;&#12358;&#12406;&#12388;</pr></trd>,
+    <trd>&#x79C1;&#26377;&#x8CA1;&#29987;  <pr>&#12375;&#12422;&#12358;&#12374;&#12356;&#12373;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">eigendom</trd>
+  <trd lng="de">Eigentum</trd>
+  <trd lng="pl">w&lstroke;asno&sacute;&cacute;</trd>
+  <trd lng="ru">&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_a;&c_jeu;&c_t;&c_o;&c_k;</trd>,
+    <trd>&c_f;&c_ib;&c_l;&c_mol;&c_v;&c_a;&c_r;&c_o;&c_k;</trd>,
+    <trd>&c_s;&c_a;&c_d;&c_i;&c_b;&c_a;</trd>,
+    <trd>&c_o;&c_b;&c_ib;&c_j;&c_s;&c_t;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="propriet.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Havi la <tld/>on pri io:
+      <ekz>
+        se mi luas apartamenton, mi &gcirc;in posedas, sed ne <tld/>as
+        <fnt>
+          <bib>LAE</bib>
+          <lok>5. Leksiko Kaj Semantiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>is imponan ri&ccirc;on el nemovebla&jcirc;oj
+        <fnt>
+          <bib>ChB</bib>
+          <lok>15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ja <tld/>as akciojn de l' kooperativo
+        <fnt>
+          <bib>MMa</bib>
+          <lok>&Ccirc;apitro 9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="propr.0umi">proprumi</ref>
+    <ref tip="vid" cel="posed.0i">posedi</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_c;&c_mol; &c_v;&c_a; <ind>&c_w;&c_l;&c_a;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</ind></trd>,
+    <trd>&c_v;&c_a;&c_l;&c_o;&c_d;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">vlastnit</trd>
+  <trdgrp lng="de">
+    <trd>zum Eigentum haben</trd>,
+    <trd>besitzen<klr> [ev]</klr></trd>
+  </trdgrp>
+  <trd lng="fr">&ecirc;tre <ind>propri&eacute;taire</ind> de</trd>
+  <trd lng="hu">tulajdonol</trd>
+  <trd lng="ja">&#xFF5E;<ind>&#x306E;&#25152;&#26377;&#x6A29;&#12434;&#26377;&#12377;&#x308B; 
+  </ind><pr>&#x306E;&#12375;&#12423;&#12422;&#12358;&#12369;&#12435;&#12434;&#12422;&#12358;&#12377;&#x308B;</pr></trd>
+  <trd lng="nl">eigenaar zijn van</trd>
+  <trdgrp lng="pl">
+    <trd>mie&cacute; na  <ind>w&lstroke;asno&sacute;&cacute;</ind></trd>,
+    <trd>posiada&cacute; na  <ind/>w&lstroke;asno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_m;&c_je;&c_t;&c_mol; &c_v; <ind>&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_i;</ind></trd>
+  <trd lng="sk">vlastni&tcaron;</trd>
+</drv>
+
+<drv mrk="propriet.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc>
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Tiu, kiu havas <tld/>on pri io:
+      <ekz>
+        &ccirc;iu nacio estas spirita <tld/>ulo de sia nacia lingvo
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        UEA fari&gcirc;is <tld/>ulo de la domo en <nom>Nieuwe Binnenweg</nom>
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ri&ccirc;a <tld/>ulo &jcirc;us vizitis siajn kur&ccirc;evalojn en la stalo
+        <fnt>
+          <bib>KrB</bib>
+          <lok>Kiu amas &gcirc;uon, amu anka&ubreve; enuon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li laboris kiel ver&scirc;isto en trinkejo, kies <tld/>ulo estis irlandano
+        <fnt>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2008/009326.php">Analoj de Bailenambeann</url></vrk>
+              <bib>Monato</bib>
+          <lok>2008/01, p. 23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="propr.0ulo">proprulo</ref>,
+      <ref cel="propr.0ulo">proprumulo</ref>,
+      <ref cel="propr.0ulo">proprumanto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_l;&c_a;&c_s;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_u;&c_l;&c_a;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>majitel</trd>,
+    <trd>vlastn&iacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Eigent&uuml;mer</trd>,
+    <trd>Besitzer <klr> [ev]</klr></trd>
+  </trdgrp>
+  <trd lng="fr">propri&eacute;taire</trd>
+  <trd lng="hu">tulajdonos</trd>
+  <trdgrp lng="ja">
+    <trd>&#25152;&#26377;&#32773;  <pr>&#12375;&#12423;&#12422;&#12358;&#12375;&#12419;</pr></trd>,
+    <trd>&#25152;&#26377;&#x6A29;&#32773;  <pr>&#12375;&#12423;&#12422;&#12358;&#12369;&#12435;&#12375;&#12419;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">eigenaar</trd>
+  <trd lng="pl">w&lstroke;a&sacute;ciciel</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_v;&c_l;&c_a;&c_d;&c_je;&c_l;&c_je;&c_c;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>majite&lcaron;</trd>,
+    <trd>vlastn&iacute;k</trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_l;&c_a;&c_s;&c_n;&c_i;&c_k;</trd>
+</drv>
+
+<drv mrk="propriet.eks0igi">
+  <kap>eks<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Senigi iun je lia <tld/>a&jcirc;o, la&ubreve; le&gcirc;a proceduro,
+      kun a&ubreve; sen kompenso:
+      <ekz>
+        <ind>eks<tld/>igo</ind> pro publika utileco.
+        <trd lng="be">&c_e;&c_k;&c_s;&c_p;&c_r;&c_a;&c_p;&c_r;&c_y;&c_ja;&c_c;&c_y;&c_ja;</trd>
+        <trd lng="hu">kisaj&aacute;t&iacute;t&aacute;s</trd>
+        <trd lng="nl">onteigening</trd>
+        <trd lng="pl">wyw&lstroke;aszczenie</trd>
+        <trd lng="ru">&c_e;&c_k;&c_s;&c_p;&c_r;&c_o;&c_p;&c_r;&c_i;&c_a;&c_c;&c_i;&c_ja;</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="konfis.0i">konfiski</ref>,
+      <ref cel="rekviz.0i">rekvizicii</ref>
+    </refgrp>
+    <ref tip="vid" cel="posed.sen0igi">senposedigi</ref>
+  </snc>
+  <trd lng="be">&c_e;&c_k;&c_s;&c_p;&c_r;&c_a;&c_p;&c_r;&c_y;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd><klr>(po)</klr>zbavit vlastnictv&iacute;</trd>,
+    <trd>vyvlastnit</trd>
+  </trdgrp>
+  <trd lng="fr">exproprier</trd>
+  <trd lng="hu">kisaj&aacute;t&iacute;t</trd>
+  <trd lng="ja">&#x53CE;&#29992;&#12377;&#x308B;  <pr>&#12375;&#12421;&#12358;&#12424;&#12358;&#12377;&#x308B;</pr></trd>
+  <trd lng="nl">onteigenen</trd>
+  <trd lng="pl">wyw&lstroke;aszcza&cacute;</trd>
+  <trd lng="ru">&c_e;&c_k;&c_s;&c_p;&c_r;&c_o;&c_p;&c_r;&c_i;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">vyvlastni&tcaron;</trd>
+  <trd lng="uk">&c_je;&c_k;&c_s;&c_p;&c_r;&c_o;&c_p;&c_r;&c_ib;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.19 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.18 2023/09/04 18:29:38
+Wolfram Diestel: kor. ja ind
+
+versio 1.16 2023/05/08 16:34:06
+Paul Peeraerts: + lok
+
+versio 1.15 2023/05/07 22:26:50
+Vito Redsky: +trd pl
+
+versio 1.14 2023/04/11 18:56:01
+aktualigo Monato-URL
+
+versio 1.13 2022/10/30 08:35:58
+Wolfram Diestel: +ekz-oj, ref-oj, rim
+
+versio 1.12 2022/04/12 17:36:14
+Ulrich Fellmann: proprieti: +1 DE trd; proprieto: +rimarko
+
+Revision 1.9  2015/06/29 16:40:19  revo
+-->
+</vortaro>

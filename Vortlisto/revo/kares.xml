@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kares.xml,v 1.30 2023/12/03 08:00:23 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kares</rad>/i
+</kap>
+<drv mrk="kares.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kares.0i.tusxi">
+    <dif>
+      Delikate kaj ame tu&scirc;eti:
+      <ekz>
+        &scirc;ia patro  per mola mano <tld/>as &scirc;iajn longajn harojn
+        <fnt>
+          <aut>H. Heine, trad. L. L. Zamenhof</aut>
+          <vrk>La Rabeno de Ba&hcirc;ara&hcirc;</vrk>,
+          <lok>1929</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        selante &ccirc;evalon, oni &gcirc;in <tld/>as
+        <klr>(oni devas flati tiun, de kiu oni postulas ion al li
+        malagrablan)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind><tld/>i al iu la barbon</ind>
+        <klr>(flategi; <ref tip="vid" cel="lek.0i">leki</ref>)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+        <trdgrp lng="ca">
+          <trd>fer la barbeta</trd>,
+          <trd>afalagar</trd>
+        </trdgrp>
+        <trd lng="fr">flatter</trd>
+        <trd lng="es">halagar</trd>
+        <trd lng="en">flatter</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind><tld/>i kontra&ubreve; la haroj</ind>
+        <klr>(malflati, malpla&ccirc;i)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+        <trdgrp lng="ca">
+          <trd>venir a rep&egrave;l</trd>,
+          <trd>actuar a contracor</trd>
+        </trdgrp>
+        <trd lng="fr">prendre &agrave; <ind>rebrousse-poil</ind></trd>
+        <trd lng="es">acariciar a <ind>contrapelo</ind></trd>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i iluzion <klr>(dorloti)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la lumo <tld/>as la murojn;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la ondoj <tld/>is la dezertan bordon.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>liebkosen</trd>,
+      <trd>herzen</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>liefkozen</trd>,
+      <trd>aaien</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kares.0i.felicxigi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Plezurigi, feli&ccirc;igi,
+      <ref tip="vid" cel="dorlot.0i">dorloti</ref>:
+      <ekz>
+        viaj konsoloj <tld/>as mian animon
+        <fnt><bib>MT</bib> <lok>&Psa; 94:19</lok></fnt>;
+      </ekz>
+      <ekz>
+        brila lumo <klr>...</klr> <tld/>as iliajn okulojn
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        kiun la sorto <tld/>as, al tiu &ccirc;io sukcesas
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>schmeicheln</trd>,
+      <trd>gef&auml;llig sein</trd>
+    </trdgrp>
+    <trd lng="nl">strelen</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_a;&c_sh;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>choura&ntilde;<klr tip="ind"> (floura&ntilde;)</klr></trd>,
+    <trd>floura&ntilde;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>acariciar</trd>,
+    <trd>amanyagar</trd>,
+    <trd>acaronar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>laskat se <klr>(s n&ecaron;k&yacute;m)</klr></trd>,
+    <trd>mazlit se</trd>
+  </trdgrp>
+  <trd lng="en">caress</trd>
+  <trd lng="es">acariciar</trd>
+  <trdgrp lng="fr">
+    <trd>caresser</trd>,
+    <trd>cajoler</trd>,
+    <trd>c&acirc;liner</trd>,
+    <trd>dorloter</trd>,
+    <trd>effleurer</trd>,
+    <trd>enj&ocirc;ler</trd>
+    <trd>nourrir<klr tip="ind"> (un r&ecirc;ve, un espoir)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>simogat</trd>,
+    <trd>cir&oacute;gat</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x611B;&#x64AB;&#x3059;&#x308B;  <pr>&#x3042;&#x3044;&#x3076;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x3084;&#x3055;&#x3057;&#x304F;&#x306A;&#x3067;&#x308B;</trd>,
+    <trd>&#x305D;&#x3063;&#x3068;&#x89E6;&#x308C;&#x308B;  <pr>&#x305D;&#x3063;&#x3068;&#x3075;&#x308C;&#x308B;</pr></trd>,
+    <trd>&#x6170;&#x3081;&#x308B;  <pr>&#x306A;&#x3050;&#x3055;&#x3081;&#x308B;</pr></trd>,
+    <trd>&#x559C;&#x3070;&#x305B;&#x308B;  <pr>&#x3088;&#x308D;&#x3053;&#x3070;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x597D;&#x610F;&#x3092;&#x793A;&#x3059;  <pr>&#x3053;&#x3046;&#x3044;&#x3092;&#x3057;&#x3081;&#x3059;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>cacka&cacute;</trd>,
+    <trd>g&lstroke;aska&cacute;</trd>,
+    <trd>pie&sacute;ci&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>m&acirc;ng&acirc;ia</trd>,
+    <trd>dezmierdare</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_a;&c_s;&c_k;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>hladka&tcaron; sa <klr>(s niek&yacute;m)</klr></trd>,
+    <trd>l&aacute;ska&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_je;&c_s;&c_t;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_g;&#x43B;&c_a;&c_d;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x629A;&#x6478; <pr>f&#x1D4;m&#x14D;</pr></trd>,
+    <trd>&#x6469;&#x6332; <pr>m&#xF3;su&#x14D;</pr></trd>,
+    <trd>&#x629A;&#x6469; <pr>f&#x1D4;m&#xF3;</pr></trd>,
+    <trd>&#x5439;&#x62C2; <pr>chu&#x12B;f&#xFA;</pr></trd>,
+    <trd>&#x62C2; <pr>f&#xFA;</pr></trd>,
+    <trd>&#x640E; <pr>s&#x16B;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kares.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        ne ekzistas <tld/>o sen intereso
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        ursa (mallerta) <tld/>o<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_a;&c_s;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_ja;&c_sh;&c_ch;&c_o;&c_t;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>allazig</trd>,
+    <trd>chouradenn</trd>,
+    <trd>flouradenn</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>car&iacute;cia</trd>,
+    <trd>manyaga</trd>,
+    <trd>moixaina</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lask&aacute;n&iacute;</trd>,
+    <trd>mazlen&iacute;</trd>,
+    <trd>pohlazen&iacute;</trd>
+  </trdgrp>
+  <trd lng="es">caricia</trd>
+  <trdgrp lng="fr">
+    <trd>caresse</trd>,
+    <trd>cajolerie</trd>,
+    <trd>c&acirc;lin<klr tip="ind"> (subst.)</klr></trd>,
+    <trd>effleurement</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>simogat&aacute;s</trd>,
+    <trd>cir&oacute;gat&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x611B;&#x64AB;  <pr>&#x3042;&#x3044;&#x3076;</pr></trd>,
+    <trd>&#x6170;&#x3081;  <pr>&#x306A;&#x3050;&#x3055;&#x3081;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>liefkozing</trd>,
+    <trd>aai</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>cacanka</trd>,
+    <trd>pieszczota</trd>
+  </trdgrp>
+  <trd lng="ro">dezmierdare</trd>
+  <trd lng="ru">&c_l;&c_a;&c_s;&c_k;&c_a;</trd>
+  <trd lng="sk">maznanie</trd>
+  <trd lng="uk">&#x43B;&c_a;&c_s;&#x43A;&c_a;</trd>
+</drv>
+
+<drv mrk="kares.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      <tld lit="K"/>anta:
+      <ekz>
+        <tld/>a tu&scirc;o, kiso;
+      </ekz>
+      <ekz>
+        <tld/>aj vortoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_a;&c_s;&c_k;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_p;&c_ja;&c_sh;&c_ch;&c_o;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>chourus</trd>,
+    <trd>flourus</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>acariciador</trd>,
+    <trd>amanyagador</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>laskav&yacute;</trd>,
+    <trd>vl&iacute;dn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>cari&ntilde;oso</trd>,
+    <trd>acariciador</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>caressant</trd>,
+    <trd>cajoleur<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>c&acirc;lin<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>enjoleur<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>simogat&oacute;</trd>,
+    <trd>cir&oacute;gat&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x611B;&#x64AB;&#x3059;&#x308B;&#x3088;&#x3046;&#x306A;  <pr>&#x3042;&#x3044;&#x3076;&#x3059;&#x308B;&#x3088;&#x3046;&#x306A;</pr></trd>,
+    <trd>&#x512A;&#x3057;&#x3044;  <pr>&#x3084;&#x3055;&#x3057;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>liefkozend</trd>,
+    <trd>aaiend</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>czu&lstroke;y</trd>,
+    <trd>pieszczotliwy</trd>
+  </trdgrp>
+  <trd lng="ro">afectuos</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_a;&c_s;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_zh;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>l&aacute;skav&yacute;</trd>,
+    <trd>v&lcaron;&uacute;dny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&c_a;&c_s;&#x43A;&c_a;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_je;&c_s;&c_t;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x611B;&#x64AB; <pr>&#xE0;if&#x1D4;</pr></trd>
+</drv>
+
+<drv mrk="kares.mal0i">
+  <kap>mal<tld/>i<fnt>Z</fnt></kap>
+  <snc>
+    <dif>
+      Malmilde trakti.
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_u;&c_b;&c_a; &c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>
+  <trd lng="br">gwallgas</trd>
+  <trdgrp lng="ca">
+    <trd>maltractar</trd>,
+    <trd>tractar rudament</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>drsn&ecaron; zach&aacute;zet</trd>,
+    <trd>nevl&iacute;dn&ecaron; zach&aacute;zet</trd>
+  </trdgrp>
+  <trd lng="es">maltratar</trd>
+  <trdgrp lng="fr">
+    <trd>rudoyer</trd>,
+    <trd>brutaliser</trd>,
+    <trd>maltraiter</trd>,
+    <trd>molester</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>helybenhagy</trd>,
+    <trd>elt&aacute;ng&aacute;l</trd>,
+    <trd>megruh&aacute;z</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x624B;&#x8352;&#x304F;&#x6271;&#x3046;  <pr>&#x3066;&#x3042;&#x3089;&#x304F;&#x3042;&#x3064;&#x304B;&#x3046;</pr></trd>,
+    <trd>&#x90AA;&#x967A;&#x306B;&#x6271;&#x3046;  <pr>&#x3058;&#x3083;&#x3051;&#x3093;&#x306B;&#x3042;&#x3064;&#x304B;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">ruw behandelen</trd>
+  <trdgrp lng="pl">
+    <trd>n&eogonek;ka&cacute;</trd>,
+    <trd>brutalizowa&cacute;</trd>
+    <trd>maltretowa&cacute;</trd>,
+    <trd>molestowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>abuz</trd>,
+    <trd>h&abreve;r&#x21B;uire</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_r;&c_u;&c_b;&c_o; &c_o;&c_b;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_t;&c_r;&c_je;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_m;&c_y;&c_k;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">drsne zaobch&aacute;dza&tcaron;</trd>
+  <trd lng="uk">&c_g;&c_r;&c_u;&c_b;&#x43E; &#x43F;&#x43E;&c_v;&#x43E;&c_d;&c_i;&c_t;&c_i;&c_s;&#x44F; (&c_z; &#x43A;&c_i;&#x43C;-&#x43D;.)</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6B3A;&#x8CA0; <pr>q&#x12B;fu</pr></trd>,
+    <trd>&#x8650;&#x5F85; <pr>nu:&#xE8;d&#xE0;i</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2023/10/18 14:48:10
+revo: transskribo per <pr>
+
+versio 1.27 2023/04/14 09:25:47
+Dmitri Gabinski: + trd be
+
+Revision 1.24  2018/04/24 14:10:13  revo
+Jeromo Vasxe: ~i: 2 snc + kk fnt
+
+Revision 1.23  2018/02/01 23:10:37  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.22  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2012/09/01 20:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2011/09/06 18:10:07  revo
+-->
+</vortaro>

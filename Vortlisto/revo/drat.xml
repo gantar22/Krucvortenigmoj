@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: drat.xml,v 1.105 2023/11/04 18:50:51 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>drat</rad>/o <fnt><bib>Fab3</bib></fnt>
+</kap>
+<drv mrk="drat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="drat.0o.fadeno">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Maldika, fleksebla kaj longa cilindro el metalo
+      a&ubreve; alia materialo, ordinare kun ronda sekco:
+      <ekz>
+        la <tld/>o, per kiu <klr>[la pupoj]</klr> estis kondukataj,
+        estis tro longa
+        <fnt><bib>Fab3</bib>, <lok>&Scirc;parmonujo</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a barilo &ccirc;irka&ubreve; la placo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zofia Banet-Fornalowa</aut>
+          <vrk><url ref="&Monato;/2003/008093.html">Li semis bonon kaj belon</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>sekurigita grimpovojo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2011/010500.php">Kiam montopado fari&gcirc;is mortopado</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la radio havis mallongajn ondojn, kaj pere de ekstera longa <tld/>o kupra mi
+        povis kapti la nederlandlingvajn programojn de Sovetio, Sud-Afriko, Nederlando
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jean Pierre VandenDaele</aut>
+          <vrk><url ref="&Monato;/2012/010697.php">De analogo al cifereco: evoluo de persona
+          historio</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="faden.0o.TEK">fadeno <sncref/></ref>
+    <ref tip="malprt" cel="kabl.0o.dratofasko">kablo <sncref/></ref>
+    <ref tip="sub" cel="fibr.0o">fibro</ref>
+    <refgrp tip="vid">
+      <ref cel="filame.0o">filamento</ref>,
+      <ref cel="stang.0o">stango</ref>,
+      <ref cel="sxnur.0o">&scirc;nuro</ref>.
+    </refgrp>
+    <trd lng="es">alambre</trd>
+    <trd lng="pl">drut</trd>
+    <trd lng="pt">arame</trd>
+  </snc>
+  <snc mrk="drat.0o.kablo">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="dif" cel="kabl.0o.dratofasko">Kablo</ref>:
+      <ekz>
+        la elektromagneta <tld/>o sub la oceano jam telegrafis,
+        kiel granda estas la aera karavano
+        <fnt><bib>Fab3</bib>, <lok>Post jarmiloj</lok></fnt>;
+      </ekz>
+      <ekz>
+        vi simple per-orele sensas la rideton &ccirc;e la alia fino
+        de la <tld/>o <klr>(de la telefona linio)</klr>
+        <fnt><bib>Voja&gcirc;o</bib>, <aut>A. &Scirc;alnev, trad. B.
+        Kolker</aut>, <vrk>Usonanoj vidataj de proksimo</vrk>,
+        <lok>leciono 22a</lok></fnt>.
+      </ekz>
+      <ekz>
+        pli granda risko por ili estas alttensiaj <tld/>oj
+        <fnt>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2000/007052.php">Verda
+          nature, science, socie</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/08, p. 8</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="es">cable</trd>
+    <trdgrp lng="pl">
+      <trd>przew&oacute;d</trd>,
+      <trd>&zdot;y&lstroke;a<klr> kablowa</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="af">draad</trd>
+  <trd lng="am">&#x123D;&#x1266;</trd>
+  <trd lng="ar">&a_s;&a_l;&a_k;</trd>
+  <trd lng="az">tel</trd>
+  <trd lng="be">&c_d;&c_r;&c_o;&c_t;</trd>
+  <trd lng="bn">&#x9A4;&#x9BE;&#x9B0;&#x9C7;&#x9B0;</trd>
+  <trd lng="bo">&#xF63;&#xF95;&#xF42;&#xF66;&#xF0B;&#xF66;&#xF90;&#xF74;&#xF51;&#xF0B;</trd>
+  <trd lng="bs">&#x17E;ice</trd>
+  <trd lng="ca">filferro</trd>
+  <trd lng="co">panze</trd>
+  <trdgrp lng="cs">
+    <trd>dr&aacute;t</trd>,
+    <trd>dr&aacute;tek</trd>
+  </trdgrp>
+  <trd lng="cy">gwifren</trd>
+  <trd lng="da">ledning</trd>
+  <trd lng="de">Draht</trd>
+  <trd lng="en">wire</trd>
+  <trd lng="et">juhe</trd>
+  <trd lng="fr">fil<klr tip="amb"> (m&eacute;tallique)</klr></trd>
+  <trd lng="fy">wire</trd>
+  <trd lng="ga">sreang</trd>
+  <trd lng="gd">u&#xE8;ir</trd>
+  <trd lng="gl">f&#xED;os</trd>
+  <trd lng="gu">&#xAB5;&#xABE;&#xAAF;&#xAB0;</trd>
+  <trd lng="ha">waya</trd>
+  <trd lng="hi">&#x924;&#x93E;&#x930;</trd>
+  <trd lng="hmn">hlau</trd>
+  <trd lng="hr">&#x17E;ica</trd>
+  <trd lng="ht">fil</trd>
+  <trdgrp lng="hu">
+    <trd>huzal</trd>,
+    <trd>dr&oacute;t</trd>
+  </trdgrp>
+  <trd lng="hy">&#x574;&#x565;&#x57F;&#x561;&#x572;&#x561;&#x56C;&#x561;&#x580;</trd>
+  <trd lng="ig">izipu</trd>
+  <trd lng="is">v&#xED;r</trd>
+  <trd lng="ja">&#x30EF;&#x30A4;&#x30E4;&#x30FC;</trd>
+  <trd lng="jv">kabel</trd>
+  <trd lng="ka">&#x10DB;&#x10D0;&#x10D5;&#x10D7;&#x10E3;&#x10DA;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&c_s;&#x44B;&#x43C;</trd>
+  <trd lng="km">&#x179B;&#x17BD;&#x179F;</trd>
+  <trd lng="kn">&#xCA4;&#xC82;&#xCA4;&#xCBF;</trd>
+  <trd lng="ko">&#xC640;&#xC774;&#xC5B4;</trd>
+  <trd lng="ku">t&#xEA;lik</trd>
+  <trd lng="ky">&c_z;&#x44B;&#x43C;</trd>
+  <trd lng="lo">&#xEAA;&#xEB2;&#xE8D;</trd>
+  <trd lng="lt">vielos</trd>
+  <trd lng="lv">stieple</trd>
+  <trd lng="mg">tariby</trd>
+  <trd lng="mi">waea</trd>
+  <trd lng="mk">&c_zh;&c_i;&c_c;&c_a;</trd>
+  <trd lng="ml">&#xD15;&#xD28;&#xD4D;&#xD35;&#xD3F;</trd>
+  <trd lng="mn">&c_u;&c_t;&c_a;&c_s;</trd>
+  <trd lng="mr">&#x935;&#x93E;&#x92F;&#x930;</trd>
+  <trd lng="ms">wayar</trd>
+  <trd lng="mt">wajer</trd>
+  <trd lng="my">&#x101D;&#x102B;&#x101A;&#x102C;&#x1000;&#x103C;&#x102D;&#x102F;&#x1038;</trd>
+  <trd lng="ne">&#x924;&#x93E;&#x930;</trd>
+  <trd lng="nl">draad</trd>
+  <trd lng="ny">waya</trd>
+  <trd lng="pa">&#xA24;&#xA3E;&#xA30;</trd>
+  <trd lng="ps">&a_s;&#x6CC;&a_m;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_v;&c_o;&c_l;&c_o;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trd lng="sd">&#x62A;&a_A;&a_r;</trd>
+  <trd lng="si">&#xD9A;&#xDB8;&#xDCA;&#xDB6;&#xDD2;</trd>
+  <trd lng="sk">dr&ocirc;t</trd>
+  <trd lng="sl">&#x17E;ica</trd>
+  <trd lng="sm">uaea</trd>
+  <trd lng="sn">waya</trd>
+  <trd lng="so">silig</trd>
+  <trd lng="sq">tela</trd>
+  <trd lng="st">terata</trd>
+  <trd lng="su">kawat</trd>
+  <trd lng="sw">waya</trd>
+  <trd lng="ta">&#xB95;&#xBAE;&#xBCD;&#xBAA;&#xBBF;</trd>
+  <trd lng="te">&#xC35;&#xC48;&#xC30;&#xC4D;</trd>
+  <trd lng="tg">&c_s;&c_i;&#x43C;</trd>
+  <trd lng="th">&#xE25;&#xE27;&#xE14;</trd>
+  <trd lng="tt">&c_ch;&#x44B;&c_b;&#x44B;&#x43A;</trd>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&c_v;&c_ib;&c_d;</trd>
+  <trd lng="ur">&#x62A;&a_A;&a_r;</trd>
+  <trd lng="uz">sim</trd>
+  <trd lng="vi">d&#xE2;y</trd>
+  <trd lng="xh">ucingo</trd>
+  <trd lng="yi">&#x5D3;&#x5E8;&#x5D0;&#x5B8;&#x5D8;</trd>
+  <trd lng="yo">waya</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7DDA;&#x6750; <pr>xi&#xE0;nc&#xE1;i</pr></trd>,
+    <trd>&#x92FC;&#x7D72; <pr>g&#x101;ngs&#x12B;</pr></trd>,
+    <trd>&#x91D1;&#x5C5E;&#x4E1D; <pr>j&#x12B;nsh&#x1D4;s&#x12B;</pr></trd>,
+    <trd>&#x91D1;&#x5C5E;&#x7EBF; <pr>j&#x12B;nsh&#x1D4;xi&#xE0;n</pr></trd>,
+    <trd>&#x7535;&#x7EBF; <pr>di&#xE0;nxi&#xE0;n</pr></trd>
+  </trdgrp>
+  <trd lng="zu">ucingo</trd>
+</drv>
+
+<drv mrk="drat.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="drat.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Provizi per <tld/>oj.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_r;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_k;&c_l;&c_a;&c_d;&c_v;&c_a;&c_c;&c_mol; <ind>&c_d;&c_r;&c_o;&c_t;</ind></trd>
+  </trdgrp>
+  <trd lng="cs">st&aacute;hnout dr&aacute;tem</trd>
+  <trd lng="de">verdrahten</trd>
+  <trd lng="en">wire</trd>
+  <trd lng="es">cablear</trd>
+  <trd lng="fr">cabler</trd>
+  <trd lng="hu">huzaloz</trd>
+  <trd lng="ja">&#x91DD;&#x91D1;&#x3092;&#x5F35;&#x308B;  <pr>&#x306F;&#x308A;&#x304C;&#x306D;&#x3092;&#x306F;&#x308B;</pr></trd>
+  <trd lng="nl">van <ind>draad</ind> voorzien</trd>
+  <trdgrp lng="pl">
+    <trd>drutowa&cacute;</trd>,
+    <trd>odrutowywa&cacute;</trd>
+  </trdgrp>
+  <trd lng="sk">stiahnu&tcaron; dr&ocirc;tom</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_r;&#x43E;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_a;&c_r;&#x43C;&c_u;&c_v;&c_a;&c_t;&c_i; (&c_d;&c_r;&#x43E;&c_t;&#x43E;&#x43C;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="drat.pik0o">
+  <kap>pik<tld/>o <fnt><bib>PIV1</bib></fnt>,
+  <var><kap>pikil<tld/>o <fnt><bib>PV</bib></fnt></kap></var></kap>
+  <snc mrk="drat.pik0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Fortika <tld/>o, garnita per pikiloj kaj servanta por bariloj:
+      <ekz>
+        geto izolita per muregoj kaj pik<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zofia Banet-Fornalowa</aut>
+          <vrk><url ref="&Monato;/2004/008391.html">Listo de Sendler</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        duobla pik<tld/>aro &ccirc;irka&ubreve;anta la urbon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hektor Alos i Font</aut>
+          <vrk><url ref="&Monato;/2006/008814.php">E&ubreve;ropo plialtigas sian drataron</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hodia&ubreve; apartenas al la pasinteco la gardoturoj kaj pik<tld/>o &ccirc;e la limo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2009/009867.php">Forigo-festo</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_ju;&c_ch;&c_y; &c_d;&c_r;&c_o;&c_t;</trd>
+  <trd lng="ca">filat espin&oacute;s</trd>
+  <trd lng="de">Stacheldraht</trd>
+  <trd lng="en">barbed wire</trd>
+  <trdgrp lng="es">
+    <trd>alambrada</trd>,
+    <trd>alambre de espinos</trd>,
+    <trd>alambre de p&uacute;as</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>barbel&eacute;</trd>,
+    <trd>fil de fer barbel&eacute;</trd>
+  </trdgrp>
+  <trd lng="he">&#x5EA;&#x5D9;&#x5DC; &#x5D3;&#x5D5;&#x5E7;&#x5E8;&#x5E0;&#x5D9;</trd>
+  <trd lng="hu">sz&ouml;gesdr&oacute;t</trd>  
+  <trd lng="ja">&#x6709;&#x523A;&#x9244;&#x7DDA;  <pr>&#x3086;&#x3046;&#x3057;&#x3066;&#x3063;&#x305B;&#x3093;</pr></trd>
+  <trd lng="nl">prikkeldraad</trd>
+  <trd lng="pl">drut kolczasty</trd>
+  <trd lng="ru">&c_k;&c_o;&c_l;&c_ju;&c_ch;&c_a;&c_ja; &c_p;&c_r;&c_o;&c_v;&c_o;&c_l;&c_o;&c_k;&c_a;</trd>
+  <trd lng="uk">&#x43A;&#x43E;&#x43B;&#x44E;&c_ch;&c_i;&c_j; &c_d;&c_r;&c_ib;&c_t;</trd>
+  <trd lng="zh">&#x92FC;&#x7DDA; <pr>g&#x101;ngxi&#xE0;n</pr></trd>
+</drv>
+
+<drv mrk="drat.elektro0o">
+  <kap>elektro<tld/>o</kap>
+  <snc mrk="drat.elektro0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      <tld lit="D"/>o funkcianta kiel
+      elektro<ref tip="super" cel="konduk.0ilo.FIZ_ELE">kondukilo</ref>:
+      <ekz>
+        kupra elektro<tld/>o kun plasta izola&jcirc;o
+        <fnt>
+          <aut>PBworks</aut>,
+          <vrk><url ref="http://fotokolekto.pbworks.com/lumbestetoj">
+          lumbestetoj</url></vrk>, 
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y; <ind>&c_d;&c_r;&c_o;&c_t;</ind></trd>,
+    <trd>&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y; <ind>&c_k;&c_a;&c_b;&c_e;&c_l;&c_mol;</ind></trd>
+  </trdgrp>
+  <trd lng="ca">cable <klr>(el&egrave;ctric)</klr></trd>
+  <trd lng="es">cable <klr>(el&eacute;ctrico)</klr></trd>
+  <trd lng="fr">fil &eacute;lectrique</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.104 2023/10/14 14:40:07
+revo: transskribo per <pr>
+
+versio 1.102 2023/04/13 14:27:40
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.101 2022/05/05 08:38:21
+Dmitri Gabinski: + trd be
+
+versio 1.100 2022/04/29 07:31:07
+Dmitri Gabinski: + trd be
+
+versio 1.99 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.22  2015/09/11 10:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.21  2015/07/06 13:10:16  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.20  2015/07/04 08:37:32  revo
+-->
+</vortaro>

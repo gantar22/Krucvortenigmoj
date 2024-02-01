@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kalot.xml,v 1.14 2023/12/02 21:20:05 revo Exp $">
+<kap>
+  <rad>kalot</rad>/o
+</kap>
+<drv mrk="kalot.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kalot.0o.cxapeto">
+    <dif>
+      &Ccirc;apeto portata precipe de altaj klerikoj:
+      <ekz>
+        sendepende &ccirc;u la devotuloj ka&scirc;as sian verton sub <tld/>o, sian hipokritan mienon sub vualo
+        a&ubreve; pendumas sin sur krucifikson
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2000/007175.php">Muroj dumiljaraj solidas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 5</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a &ccirc;apo
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2000/007175.php">Muroj dumiljaraj solidas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 5</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_sh;&c_a;&c_p;&c_k;&c_a; <klr>(&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_a;&c_r;&c_a;)</klr></trd>
+    <trdgrp lng="de">
+      <trd>Pileolus</trd>,
+      <trd>Scheitelk&auml;ppchen</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kalot.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <ref tip="dif" cel="cxap.verto0o.MAT">verto&ccirc;apo.</ref>
+    <trd lng="de">Kugelkappe</trd>
+ <trd lng="be">&c_sh;&c_a;&c_p;&c_k;&c_a; &c_s;&c_f;&c_e;&c_r;&c_y;</trd>
+   </snc>
+  <trd lng="cs">kalota</trd>
+  <trdgrp lng="de">
+    <trd>Kalotte</trd>
+  </trdgrp>
+  <trd lng="en">spherical <ind>cap</ind></trd>
+  <trd lng="fr">calotte<klr tip="ind"> (sph&eacute;rique)</klr></trd>
+  <trd lng="hu">g&ouml;mbs&uuml;veg</trd>
+  <trd lng="nl">kalot</trd>
+  <trd lng="pl">czasza<klr tip="ind"> (kulista)</klr></trd>
+  <trd lng="pt">calota</trd>
+  <trd lng="ru">&c_sh;&c_a;&c_p;&c_k;&c_a; &c_s;&c_f;&c_je;&c_r;&c_y;</trd>
+  <trd lng="sk">kalota</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&c_v;&#x43F;&c_a;&#x43A;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_h;&c_ib;&c_v;&#x43A;&c_a;</trd>,
+    <trd>&c_s;&#x43D;&c_ib;&c_zh;&#x43D;&c_a; &c_sh;&c_a;&#x43F;&#x43A;&c_a; &c_g;&#x43E;&c_r;&c_i;</trd>,
+    <trd>&#x43A;&c_u;&#x43B;&#x44C;&#x43E;&c_v;&c_i;&c_j; &c_s;&c_je;&c_gu;&#x43C;&c_je;&#x43D;&c_t;</trd>,
+    <trd>&c_s;&c_f;&c_je;&c_r;&c_i;&c_ch;&#x43D;&c_i;&c_j; &c_s;&c_je;&c_gu;&#x43C;&c_je;&#x43D;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7403;&#x51A0; <pr>qi&#xFA;gu&#x101;n</pr></trd>,
+    <trd>&#x74DC;&#x76AE;&#x5E3D; <pr>gu&#x101;p&#xED;m&#xE0;o</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.13 2023/08/11 10:30:26
+Dmitri Gabinski: + trd be
+
+versio 1.12 2023/04/15 15:25:26
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.11 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.8  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2009/08/23 16:32:59  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.5  2006/09/16 16:31:44  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2003/01/02 17:47:14  revo
+-->
+</vortaro>

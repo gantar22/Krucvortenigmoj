@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: oper.xml,v 1.26 2023/10/20 13:11:48 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>oper</rad>/o
+</kap>
+
+<drv mrk="oper.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="oper.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Muzika <ref tip="super" cel="teatr.0ajxo.TEA">teatra&jcirc;o</ref>,
+      en kiu roluloj kantas, akompanate per orkestro,
+      kelkfoje kun dancoj:
+      <ekz>
+        la <tld/>oj de <nom>Wagner</nom>;
+      </ekz>
+      <ekz>
+        ni a&ubreve;skultis la tre amatan en Rusujo <tld/>on &leftquot;Vivo por la Car&rightquot;
+        de <nom>Glinka</nom>
+        <fnt><bib>Voja&gcirc;Imp</bib> <lok>El Odeso &gcirc;is
+        Konstantinopolo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="oper.0o.ARKI">
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      <ref tip="dif" cel="oper.0ejo.MUZ"><tld lit="O"/>ejo</ref>:
+      <ekz>
+        &ccirc;io, kion Parizo havis en si da brilo kaj beleco, devis hodia&ubreve; sin kolekti en la
+        <tld/>o
+        <fnt>
+          <aut>-</aut>
+          <vrk>La karaj braceletoj</vrk>
+          <lok>en: Fundamenta Krestomatio, 1905</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_o;&c_p;&c_e;&c_r;&c_a;</trd>
+  <trd lng="ca">&ograve;pera</trd>
+  <trd lng="de">Oper</trd>
+  <trd lng="el">&omikron_ton;&pi;&epsilon;&rho;&alfa;</trd>
+  <trd lng="en">opera</trd>
+  <trd lng="fr">op&eacute;ra</trd>
+  <trd lng="hu">opera</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AA;&#x30DA;&#x30E9;  <pr>&#x304A;&#x307A;&#x3089;</pr></trd>,
+    <trd>&#x6B4C;&#x5287;  <pr>&#x304B;&#x3052;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">opera</trd>
+  <trd lng="pl">opera</trd>
+  <trd lng="pt">&oacute;pera</trd>
+  <trd lng="ro">oper&abreve;</trd>
+  <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_a;</trd>
+  <trd lng="sv">opera</trd>
+  <trd lng="uk">&c_o;&c_p;&c_je;&c_r;&c_a;</trd>
+</drv>
+
+<drv mrk="oper.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="oper.0ejo.MUZ">
+    <uzo tip="fak">ARKI</uzo>
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="super" cel="teatr.0ejo.ARKI">Teatrejo</ref>
+      por prezento de <tld/>oj:
+      <ekz>
+        &leftquot;&ccirc;u vi iam estis jam en la <tld/>ejo
+        <fnt><bib>Fab3</bib> <lok>Sub la saliko</lok></fnt>?&rightquot;
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_o;&c_p;&c_e;&c_r;&c_a;</trd>,
+    <trd>&c_o;&c_p;&c_e;&c_r;&c_n;&c_y; &c_t;&c_e;&c_a;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>&ograve;pera</trd>,
+    <trd>teatre</trd>
+  </trdgrp>
+  <trd lng="cs">d&uring;m opery</trd>
+  <trdgrp lng="de">
+    <trd>Oper</trd>,
+    <trd>Opernhaus</trd>
+  </trdgrp>
+  <trd lng="en">opera house</trd>
+  <trdgrp lng="fr">
+    <trd>op&eacute;ra<klr> (b&acirc;timent)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">operah&aacute;z</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AA;&#x30DA;&#x30E9;&#x5287;&#x5834;  <pr>&#x304A;&#x307A;&#x3089;&#x3052;&#x304D;&#x3058;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x6B4C;&#x5287;&#x5834;  <pr>&#x304B;&#x3052;&#x304D;&#x3058;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">operagebouw</trd>
+  <trd lng="pl">opera</trd>
+  <trd lng="pt">&oacute;pera</trd>
+  <trd lng="ro">oper&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_p;&c_je;&c_r;&c_a; <klr tip="amb">(&c_t;&c_je;&c_a;&c_t;&c_r;)</klr></trd>,
+    <trd>&c_o;&c_p;&c_je;&c_r;&c_n;&c_y;&c_j;
+    &c_t;&c_je;&c_a;&c_t;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">dom opery</trd>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_p;&c_je;&c_r;&c_a;</trd>,
+    <trd>&c_o;&c_p;&c_je;&c_r;&c_n;&c_i;&c_j; &c_t;&c_je;&c_a;&c_t;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="oper.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="oper.0eto.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Mallonga <ref tip="super" cel="oper.0o.MUZ"><tld/>o</ref>
+      a&ubreve; duon<tld/>o
+      ofte kun facila a&ubreve; komika temo:
+      <ekz>
+        &scirc;i <klr>(&#x2026;)</klr> ekkantetis malla&ubreve;te kanton el la <tld/>eto
+        <ctl>Dek Filinoj Kandidatinoj</ctl>
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_e;&c_r;&c_e;&c_t;&c_a;</trd>
+  <trd lng="ca">opereta</trd>
+  <trd lng="cs">opereta</trd>
+  <trd lng="de">Operette</trd>
+  <trd lng="el">&omikron;&pi;&epsilon;&rho;&epsilon_ton;&tau;&tau;&alfa;</trd>
+  <trd lng="en">operetta</trd>
+  <trd lng="fr">op&eacute;rette</trd>
+  <trd lng="hu">operett</trd>
+  <trd lng="it">operetta</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AA;&#x30DA;&#x30EC;&#x30C3;&#x30BF;</trd>,
+    <trd>&#x559C;&#x6B4C;&#x5287;  <pr>&#x304D;&#x304B;&#x3052;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">operette</trd>
+  <trd lng="pl">operetka</trd>
+  <trd lng="pt">opereta</trd>
+  <trd lng="ro">operet&abreve;</trd>
+  <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_je;&c_t;&c_t;&c_a;</trd>
+  <trd lng="sk">opereta</trd>
+  <trd lng="uk">&c_o;&c_p;&c_je;&c_r;&c_je;&c_t;&c_a;</trd>
+</drv>
+
+<drv mrk="oper.duon0o">
+  <kap>duon<tld/>o,
+  <var><kap>miks<tld/>o</kap></var></kap>
+  <snc mrk="oper.duon0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="super" cel="oper.0o.MUZ"><tld lit="O"/>o</ref>
+      enhavanta nekantatajn dialogojn:
+      <ekz>
+        estas teatroj, kie oni ludas muzikajn teatra&jcirc;ojn&nbsp;:
+        <tld/>ojn, duon<tld/>ojn kaj <tld/>etojn
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="https://arkivo.esperanto-france.org/eco/parizo/deka-3.htm">Deka universala kongreso de Esperanto, Manlibro de la kongresano</url></vrk>
+          <lok>1914</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ju;&c_z;&c_ib;&c_k;&c_a;&c_l;</trd>,
+    <trd>&c_a;&c_p;&c_e;&c_r;&c_e;&c_t;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">teatre musical</trd>
+  <trdgrp lng="de">
+    <trd>Spieloper</trd>,
+    <trd>Musical</trd>
+  </trdgrp>
+  <trd lng="en">semi-opera</trd>
+  <trdgrp lng="fr">
+    <trd>op&eacute;ra bouffe</trd>,
+    <trd>op&eacute;ra comique</trd>
+  </trdgrp>
+  <trd lng="nl">opera comique</trd>
+  <trd lng="pl">musical</trd>
+  <trd lng="ro">teatru muzical</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_ju;&c_z;&c_i;&c_k;&c_l;</trd>,
+    <trd>&c_o;&c_p;&c_je;&c_r;&c_je;&c_t;&c_t;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.24 2022/12/30 20:25:30
+Jeromo Vasxe: ~o + snc ark, duon~o + ekz
+
+versio 1.23 2022/04/18 21:28:17
+Vito Redsky: + trd pl + trd ro 
+
+Revision 1.20  2015/10/17 12:10:18  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.19  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/07/14 10:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2007/09/03 16:30:20  revo
+-->
+</vortaro>

@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kurs.xml,v 1.37 2023/12/03 09:59:04 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kurs</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kurs.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kurs.0o.voja">
+    <uzo tip="fak">POSX</uzo>
+    <uzo tip="fak">TRA</uzo>
+    <uzo tip="fak">RET</uzo>
+    <dif>
+      Vojlinio la&ubreve; kiu io movi&gcirc;as a&ubreve; voja&gcirc;as;
+      <ref tip="vid" cel="trajek.0o.FIZ">trajektorio</ref>,
+      <ref tip="vid" cel="voj.0o.trajektorio">vojo<sncref/></ref>:
+      <ekz>
+        la unua <tld/>o de lia &scirc;ipservado fini&gcirc;is, la &scirc;ipo trovi&gcirc;is denove en la golfo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la devo de la po&scirc;taj oficistoj <klr>[&#x2026;]</klr>
+        estas dividi la po&scirc;ta&jcirc;ojn la&ubreve; la apartaj po&scirc;taj <tld/>oj
+        <fnt>
+          <aut>-</aut>,
+          <vrk>El la po&scirc;to</vrk>,
+          <lok>en: Fundamenta Krestomatio de la lingvo Esperanto,
+          1904</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="itiner.0o">itinero</ref>
+    <ref tip="vid" cel="kurs.en0igi">enkursigi</ref>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_u;&c_r;&c_s;</trd>,
+      <trd>&c_m;&c_a;&c_r;&c_sh;&c_r;&c_u;&c_t;</trd>
+    </trdgrp>
+    <trd lng="en">course</trd>
+    <trdgrp lng="fr">
+      <trd>cours<klr> (trajet)</klr></trd>,
+      <trd>route<klr> (trajet)</klr></trd>,
+      <trd>trajet</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&uacute;tvonal</trd>,
+      <trd>&uacute;tir&aacute;ny</trd>
+    </trdgrp>
+    <trd lng="nl">koers<klr tip="ind"> (v. boot bijv.)</klr></trd>
+    <trd lng="pt">curso</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_u;&c_r;&c_s;</trd>,
+      <trd>&c_m;&c_a;&c_r;&c_sh;&c_r;&c_u;&c_t;</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x5F81;&#x9014; <pr>zh&#x113;ngt&#xFA;</pr></trd>,
+    <trd>&#x65C5;&#x7A0B; <pr>l&#x1D4;:ch&#xE9;ng</pr></trd>,
+    <trd>&#x822A;&#x5411; <pr>h&#xE1;ngxi&#xE0;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="kurs.0o.lerna">
+    <tezrad fak="PED"/>
+    <uzo tip="stl">FIG</uzo>
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Serio da <ref tip="prt" cel="lecion.0o">lecionoj</ref>,
+      konsistiganta regulan instruon pri scienco, arto a&ubreve; metio:
+      <ekz>
+        studadi oftalmologion &ccirc;e speciala <tld/>o
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la jaro 1886 la universitato posedis jam <klr>[&#x2026;]</klr> <tld/>on de
+        mikroskopio, <tld/>on teologian, <tld/>on de retoriko kaj de &hcirc;emio
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aritmetikaj operacioj apartenis jam al la supera <tld/>o kaj estis plenumataj
+        per globetoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi finis kvinklasan <tld/>on kaj fari&gcirc;is oficisto
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref cel="frekve2.0i">frekventi</ref> <tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Dmitrij Cibulevskij</aut>
+          <vrk><url ref="&Monato;/2004/008276.html">Ukraina Ikaro</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>baza <tld/>o</ind>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="&Monato;/2007/008635.php">Ezop(ec)aj fabloj el
+          Japanio</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+        <trd lng="de">Grundkurs</trd>
+      </ekz>
+      <ekz>
+        perfektiga <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Angela Tellier</aut>
+          <vrk><url ref="&Monato;/2004/008306.html">La&ubreve;proverbaj fabeloj</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        punkorekta <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo/pg</aut>
+          <vrk><url ref="&Monato;/2005/008674.php">Profitoj, punoj kaj
+          privatigo</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>reta kurso</ind>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Grigorij Arosev</aut>
+          <vrk><url ref="&Monato;/2004/008210.html">Abonu!</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+        <trd lng="de">Webinar</trd>
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="semina.0o.kurso">seminario<sncref/></ref>
+    <refgrp tip="vid">
+       <ref cel="klas.0o.PED">klaso<sncref/></ref>
+    </refgrp>
+    <trd lng="be">&c_k;&c_u;&c_r;&c_s; <klr>(&c_n;&c_a;&c_v;&c_u;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;)</klr></trd>
+    <trd lng="ca">curs</trd>
+    <trd lng="en">course</trd>
+    <trd lng="es">curso</trd>
+    <trdgrp lng="fr">
+      <trd>cours<klr> (enseignement)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tanfolyam</trd>,
+      <trd>kurzus</trd>
+    </trdgrp>
+    <trd lng="id">kursus</trd>
+    <trd lng="nl">cursus</trd>
+    <trdgrp lng="pl">
+      <trd>kurs</trd>,
+      <trd>przebieg</trd>
+    </trdgrp>
+    <trd lng="pt">curso</trd>
+    <trd lng="ro">curs</trd>
+    <trd lng="ru">&c_k;&c_u;&c_r;&c_s;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x8AB2; <pr>k&#xE8;</pr></trd>,
+    <trd>&#x8BFE; <pr>k&#xE8;</pr></trd>,
+    <trd>&#x8B1B;&#x5EA7; <pr>ji&#x1CE;ngzu&#xF2;</pr></trd>,
+    <trd>&#x8BB2;&#x5EA7; <pr>ji&#x1CE;ngzu&#xF2;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc>
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="kurz.0o">kurzo</ref>
+    <trd lng="nl">koers<klr tip="amb"> (v.geld - ontr.)</klr></trd>
+  </snc>
+  <trd lng="bo">&#xF55;&#xFB1;&#xF7C;&#xF42;&#xF66;&#xF0B;</trd>
+  <trdgrp lng="cs">
+    <trd>kurz (&scaron;kolen&iacute;)</trd>,
+    <trd>kurz <klr>(soubor lekc&iacute;, b&ecaron;h n&ecaron;&ccaron;eho, sm&ecaron;r)</klr></trd>,
+    <trd>&scaron;kolen&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Kurs</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8B1B;&#x5EA7;  <pr>&#x3053;&#x3046;&#x3056;</pr></trd>,
+    <trd>&#x8B1B;&#x7FD2;&#x4F1A;  <pr>&#x3053;&#x3046;&#x3057;&#x3085;&#x3046;&#x304B;&#x3044;</pr></trd>,
+    <trd>&#x8AB2;&#x7A0B;  <pr>&#x304B;&#x3066;&#x3044;</pr></trd>,
+    <trd>&#x30B3;&#x30FC;&#x30B9;  <pr>&#x3053;&#x30FC;&#x3059;</pr></trd>,
+    <trd>&#x9053;&#x9806;  <pr>&#x307F;&#x3061;&#x3058;&#x3085;&#x3093;</pr></trd>,
+    <trd>&#x8DEF;&#x7DDA;  <pr>&#x308D;&#x305B;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">smer cesty</trd>
+  <trd lng="sv">kurs</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_u;&c_r;&c_s; &#x43B;&c_je;&#x43A;&c_c;&c_ib;&c_j;</trd>,
+    <trd>&c_z;&c_a;&#x43D;&#x44F;&c_t;&#x44C;</trd>,
+    <trd>&#x43A;&c_u;&c_r;&c_s;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kurs.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="kurs.0ano.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Lernanto de <ref tip="vid" cel="kurs.0o.lerna">kurso</ref>:
+      <ekz>
+        <tld/>anoj devas atente legi
+        <fnt>
+          <aut>A. Staes</aut>,
+          <vrk>A&ccirc;etu grandskale</vrk>,
+          <bib>Monato</bib>,
+          <lok>1994:1, p. 23a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inter la <tld/>anoj estas <ref cel="lern.0ejano">lernejano</ref>j, 
+        <ref cel="studen.0o">studento</ref>j, plena&gcirc;uloj, novicoj kaj
+        spertuloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jefim Zajdman</aut>
+          <vrk><url ref="&Monato;/2003/008030.html">Malgrandaj grandaj
+          majstroj</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi sendas al vi liston de partoprenintoj kaj nunaj <tld/>anoj en la &leftquot;Indi&gcirc;enaj
+        Dialogoj&rightquot;
+        <fnt>
+          <aut>Gbeglo Koffi</aut>
+            <vrk><url ref="&Monato;/2000/007009.php">Donace subteni ...</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/06, p. 4</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_l;&c_u;&c_h;&c_a;&c_ch; &c_k;&c_u;&c_r;&c_s;&c_u;</trd>,
+    <trd>&c_k;&c_u;&c_r;&c_s;&c_a;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kurzista</trd>,
+    <trd>&uacute;&ccaron;astn&iacute;k kurzu</trd>
+  </trdgrp>
+  <trd lng="de">Kursteilnehmer</trd>
+  <trd lng="es">cursillista</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;l&egrave;ve<klr> (d'un cours)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">tanfolyamhallgat&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x53D7;&#x8B1B;&#x8005;  <pr>&#x3058;&#x3085;&#x3053;&#x3046;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x8B1B;&#x7FD2;&#x751F;  <pr>&#x3053;&#x3046;&#x3057;&#x3085;&#x3046;&#x305B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">cursist</trd>
+  <trdgrp lng="pl">
+    <trd>kursant</trd>,
+    <trd>uczestnik  <ind>kursu</ind></trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>participant</trd>,
+    <trd>cursantul</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_l;&c_u;&c_sh;&c_a;&c_t;&c_je;&c_l;&c_mol; &c_k;&c_u;&c_r;&c_s;&c_a;</trd>,
+    <trd>&c_k;&c_u;&c_r;&c_s;&c_a;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">&uacute;&ccaron;astn&iacute;k kurzu</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_u;&c_r;&c_s;&c_a;&#x43D;&c_t;</trd>,
+    <trd>&c_s;&#x43B;&c_u;&c_h;&c_a;&c_ch; &#x43A;&c_u;&c_r;&c_s;&c_ib;&c_v;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8AB2;&#x7A0B;&#x53C3;&#x52A0;&#x8005; <pr>k&#xE8;ch&#xE9;ngc&#x101;nji&#x101;zh&#x11B;</pr></trd>,
+    <trd>&#x8BFE;&#x7A0B;&#x53C2;&#x52A0;&#x8005; <pr>k&#xE8;ch&#xE9;ngc&#x101;nji&#x101;zh&#x11B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kurs.en0igi">
+  <kap>en<tld/>igi
+  <fnt><bib>PIV1</bib></fnt></kap> 
+  <snc mrk="kurs.en0igi.POSX">
+    <uzo tip="fak">POSX</uzo>
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Zorgi ke senda&jcirc;o iru la&ubreve; konvena <ref tip="vid" cel="kurs.0o.voja">kurso</ref>:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        uzo <klr>[de Esperanto]</klr>
+        grandi&gcirc;<klr>[anta&#x2026;]</klr> estas bona, &ccirc;ar &gcirc;i en<tld/>igas nin al la uzo de
+        universala lingvo
+        <fnt>
+          <vrk><url ref="https://lernu.net/ru/forumo/temo/15738">&c_O;&c_b;&c_o; &c_v;&c_s;&c_jo;&c_m; &c_p;&c_r;&c_o;&c_ch;&c_je;&c_m; / &c_F;&c_o;&c_r;&c_u;&c_m;</url></vrk>
+          <lok>lernu.net</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_k;&c_u;&c_r;&c_s;</ind></trd>,
+    <trd>&c_n;&c_a;&c_k;&c_ib;&c_r;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>d&aacute;t do ob&ecaron;hu</trd>,
+    <trd>odeslat pravidelnou po&scaron;tou</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>sortieren</trd>,
+    <trd>verteilen</trd>
+  </trdgrp>
+  <trd lng="es">encaminar</trd>
+  <trd lng="fr">router</trd>
+  <trdgrp lng="hu">
+    <trd>sz&eacute;tv&aacute;logat <klr tip="ind">(post&aacute;n)</klr></trd>,
+    <trd>szort&iacute;roz <klr tip="ind">(post&aacute;n)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">in <ind>omloop</ind> brengen</trd>
+  <trdgrp lng="pl">
+    <trd>puszcza&cacute;</trd>,
+    <trd>pu&sacute;ci&cacute; w tras&eogonek;</trd>,
+    <trd>pu&sacute;ci&cacute; w obieg</trd>,
+    <trd>wys&lstroke;a&cacute;</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>da drumul &icirc;n turneu</trd>,
+    <trd>circulate</trd>,
+    <trd>trimite</trd>
+  </trdgrp>
+  <trd lng="sk">da&tcaron; do obehu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&#x43E;&c_s;&c_t;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i; &#x43F;&#x43E;&c_sh;&c_t;&c_u; (&c_z;&c_a; &c_v;&c_i;&c_z;&#x43D;&c_a;&c_ch;&c_je;&#x43D;&c_i;&#x43C;
+    &#x43C;&c_a;&c_r;&c_sh;&c_r;&c_u;&c_t;&#x43E;&#x43C;)</trd>,
+    <trd>&#x43F;&c_u;&c_s;&#x43A;&c_a;&c_t;&c_i; &c_v; &#x43E;&c_b;&c_ib;&c_g;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kurs.en0igilo">
+  <kap>en<tld/>igilo, <var><kap><tld/>ilo</kap></var></kap>
+  <snc mrk="kurs.en0igilo.RET">
+    <uzo tip="fak">RET</uzo>
+    <fnt><vrk><url ref="&KompLeks;/E.html#ENKURSIGILO">KompLeks</url></vrk></fnt>
+    <dif>
+      En <ref tip="malprt" cel="ret.komputila0o">komputila reto</ref>, aran&gcirc;a&jcirc;o ricevanta mesa&gcirc;ojn
+      (paka&jcirc;ojn), kaj
+      plusendanta ilin al la celata komputilo per preferinda vojo
+      (<ref cel="kurs.0o.voja">kurso</ref>):
+      <ekz>
+        la en<tld/>igilo ser&ccirc;as la destinadreson de la en<tld/>igenda pakedo en la
+        <ind>en<tld/>igtabelo</ind>
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Enkursigilo">Enkursigilo</url></vrk>
+        </fnt>.
+        <trd lng="de">Routingtabelle</trd>
+        <trd lng="en">routing table</trd>
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="kluz.0o">kluzo</ref>
+    <trd lng="de">Router</trd>
+    <trd lng="zh">&#x8DEF;&#x7531;&#x5668; <pr>l&#xF9;y&#xF3;uq&#xEC;</pr></trd>
+</snc>
+  <trd lng="be">&c_m;&c_a;&c_r;&c_sh;&c_r;&c_u;&c_t;&c_y;&c_z;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="en">router</trd>
+  <trd lng="es">encaminador</trd>
+  <trd lng="fr">routeur</trd>
+  <trdgrp lng="hu">
+    <trd>router</trd>,
+    <trd>&uacute;tvonalv&aacute;laszt&oacute;</trd>,
+    <trd>adat&uacute;tv&aacute;laszt&oacute;</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30EB;&#x30FC;&#x30BF;&#x30FC;</trd>
+  <trdgrp lng="nl">
+    <trd>router</trd>,
+    <trd>verkeerswisselaar<klr tip="ind"> (comp.)</klr></trd>
+  </trdgrp> 
+  <trdgrp lng="pl">
+    <trd>ruter</trd>,
+    <trd>przeka&zacute;nik</trd>
+    <trd>trasownik</trd>,
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>router</trd>,
+    <trd>releu</trd>,
+    <trd>transmi&#x21B;&atilde;tor</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_a;&c_r;&c_sh;&c_r;&c_u;&c_t;&c_i;&c_z;&c_a;&c_t;&c_o;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.36 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+versio 1.34 2023/04/27 15:26:52
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.33 2022/05/01 08:09:26
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.30 2021/05/12 07:53:08
+Dmitri Gabinski: + trd be
+
+versio 1.29 2021/03/17 11:51:09
+Wolfram Diestel: ekz-oj, ref-oj, RET
+
+versio 1.28 2020/01/21 00:10:46
+Vito Redsky: +trd pl +trd ro  
+
+Revision 1.27  2017/10/10 09:10:14  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.26  2015/07/04 08:37:38  revo
+-->
+</vortaro>

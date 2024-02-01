@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pedal.xml,v 1.28 2023/10/20 14:25:20 revo Exp $">
+<kap>
+   <ofc>1</ofc>
+   <rad>pedal</rad>/o
+</kap>
+<drv mrk="pedal.0o">
+   <kap><tld/>o</kap>
+   <snc>
+   <uzo tip="fak">TEK</uzo>
+     <dif>
+       Peco de <ref tip="malprt" cel="mehxan1.0o.pecoj">me&hcirc;anismo</ref>, 
+       kiun oni movas per <ref cel="pied.0o.ANA">piedo</ref>:
+       <ekz>
+         <tld/>o de piano, orgeno, harpo, biciklo, rad&scirc;pinilo;
+       </ekz>
+      <ekz>
+        &scirc;i eraradis en la pasa&jcirc;oj, premadis senbezone la <tld/>on, forlasadis tutajn
+        taktojn, haltadis kaj ser&ccirc;adis sur la klavaro
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        biciklo provizita per malforta motoro <klr>[estas]</klr> ofte nomata 
+        <ref tip="malprt" cel="moped.0o">mopedo</ref>, el motoro kaj <tld/>oj
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i <klr>[&#x2026;]</klr> similis al rulpremma&scirc;ino kun <tld/>oj
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Fantaziujo en Dan&gcirc;ero</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        suprenirante, luktegi kun rapidumaro kaj <ind>gas<tld/>o</ind> por melki &gcirc;is plejlasta
+        povero etan, mu&gcirc;antan motoron
+        <fnt>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/1998/monato199806.pdf#page=28">Dombestoj kaj
+          sakstratoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1998/06, p. 28</lok>
+          </fnt>;
+        <trd lng="de">Gaspedal</trd>
+        <trd lng="nl">gaspedaal</trd>
+      </ekz>
+      <ekz>
+        multaj konfuzis la brems<tld/>on kun la akcela <tld/>o
+        <fnt>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2012/010559.php">Akuzoindustrio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/01, p. 13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="krank.0o">kranko</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_e;&c_d;&c_a;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_je;&c_d;&c_a;&c_l;</trd>
+  <trd lng="ca">pedal</trd>
+  <trdgrp lng="cs">
+    <trd>ped&aacute;l</trd>,
+    <trd>&scaron;lapadlo</trd>,
+    <trd>&scaron;lapka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Pedal</trd>,
+    <trd>Tretkurbel</trd>
+  </trdgrp>
+  <trd lng="en">pedal</trd>
+  <trd lng="es">pedal</trd>
+  <trd lng="fa">&f_p;&a_d;&a_A;&a_l;</trd>
+  <trd lng="fr">p&eacute;dale</trd>
+  <trd lng="hu">ped&aacute;l</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DA;&#x30C0;&#x30EB;</trd>,
+    <trd>&#x8DB3;&#x8E0F;&#x307F;&#x30EC;&#x30D0;&#x30FC;  <pr>&#x3042;&#x3057;&#x3076;&#x307F;&#x308C;&#x3070;&#x30FC;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+     <trd>pedaal</trd>,
+     <trd>trapper</trd>
+   </trdgrp>
+  <trd lng="pl">peda&lstroke;</trd>
+  <trd lng="pt">pedal</trd>
+  <trd lng="ru">&c_p;&c_je;&c_d;&c_a;&c_l;&c_mol;</trd>
+  <trd lng="sk">ped&aacute;l</trd>
+  <trd lng="sv">pedal</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_je;&c_d;&c_a;&#x43B;&#x44C;</trd>,
+    <trd>&#x43D;&#x43E;&c_zh;&#x43D;&c_i;&c_j; &#x43F;&c_r;&c_i;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pedal.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Movi <tld/>on:
+      <ekz>
+        biciklante supren <klr>[&#x2026;]</klr> oni devas stre&ccirc;e <tld/>i
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2004/008266.html">Romantika itinero por spertaj
+          biciklantoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/05, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili foriris el Milano, <tld/>is tra la Sankta Vojo de la Longobardoj &gcirc;is
+        Brindizo por tie en&scirc;ipi&gcirc;i
+        <fnt>
+          <aut>Armando Zecchin</aut>
+          <vrk><url ref="&Monato;/2007/009125.php">Pedalante al Jerusalemo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/02, p. 18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+     <trd>&c_p;&c_e;&c_d;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+     <trd>&c_c;&c_ib;&c_s;&c_n;&c_u;&c_c;&c_mol; &c_n;&c_a;
+     <ind>&c_p;&c_e;&c_d;&c_a;&c_l;&c_mol;</ind></trd>
+   </trdgrp>
+  <trd lng="bg">&c_n;&c_a;&c_t;&c_i;&c_s;&c_k;&c_a;&c_m; <ind>&c_p;&c_je;&c_d;&c_a;&c_l;&c_i;&c_t;&c_je;</ind></trd>
+  <trd lng="cs">&scaron;lapat do ped&aacute;l&uring;</trd>
+  <trdgrp lng="de">
+    <trd>in die <ind>Pedale</ind> treten</trd>,
+    <trd>kurbeln <klr>(Pedale)</klr></trd>
+  </trdgrp>
+  <trd lng="en">pedal</trd>
+  <trd lng="es">pedalear</trd>
+  <trd lng="fr">p&eacute;daler</trd>
+  <trd lng="hu">ped&aacute;loz(ik)</trd>
+  <trd lng="ja">&#x30DA;&#x30C0;&#x30EB;&#x3092;&#x8E0F;&#x3080;  <pr>&#x307A;&#x3060;&#x308B;&#x3092;&#x3075;&#x3080;</pr></trd>
+  <trd lng="nl">trappen</trd>
+  <trdgrp lng="pl">
+     <trd>peda&lstroke;owa&cacute;</trd>,
+     <trd>naciska&cacute; <ind>peda&lstroke;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+     <trd>&c_p;&c_je;&c_d;&c_a;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+     <trd>&c_d;&c_a;&c_v;&c_i;&c_t;&c_mol; &c_n;&c_a; &c_p;&c_je;&c_d;&c_a;&c_l;&c_mol;</trd>,
+     <trd>&c_k;&c_r;&c_u;&c_t;&c_i;&c_t;&c_mol; &c_p;&c_je;&c_d;&c_a;&c_l;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pohybova&tcaron; ped&aacute;lom</trd>,
+    <trd>pou&zcaron;i&tcaron; ped&aacute;l</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&c_r;&c_a;&c_c;&#x44E;&c_v;&c_a;&c_t;&c_i; &#x43F;&c_je;&c_d;&c_a;&#x43B;&#x43B;&#x44E;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.26 2023/05/14 17:26:56
+Paul Peeraerts: + lok + url + aut
+
+versio 1.25 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
+
+versio 1.24 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2021/11/08 20:30:12
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+Revision 1.20  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/09/05 01:10:27  revo
+Carlos Garcia: +trd es -i
+
+Revision 1.18  2014/03/11 15:10:14  revo
+-->
+</vortaro>

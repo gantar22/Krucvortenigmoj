@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: auxtun.xml,v 1.47 2023/11/08 03:27:07 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>a&ubreve;tun</rad>/o
+    </kap>
+
+    <drv mrk="auxtun.0o">
+      <kap><ofc>*</ofc><tld/>o</kap>
+      <snc mrk="auxtun.0o.KAL">
+        <uzo tip="fak">KAL</uzo>
+        <dif>
+          <ref tip="lst" cel="sezon.0o.jarkvarono" lst="voko:sezonoj" val="3">Sezono</ref> de
+          malvarmi&gcirc;o post somero, anta&ubreve; vintro (la&ubreve;
+la gregoria
+          kalendaro, en la moderklimata zono de la norda duonglobo
+          &#8208;
+          de proksimume la 23a tago de septembro &gcirc;is la 21a de
+          decembro; en la suda duonglobo, de la 21a de marto &gcirc;is la
+          21a de junio):
+          <ekz>
+            multaj birdoj flugas en la <tld/>o en pli varmajn landojn
+            <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>;
+          </ekz><ekz>
+            ankora&ubreve; estis agrable varme, sed jam senteblis la
+friska spiro de
+            <tld/>o
+            <fnt>
+              <aut>Julian Modest</aut>,
+              <vrk>La ringo</vrk>,
+              <bib>Monato</bib>,
+              <lok>jaro 2002a, numero 3a, p. 32a</lok>
+            </fnt>.
+          </ekz>
+        </dif>
+        <trd lng="he">&samekh;&tav;&yod;&vav;</trd>
+        <trd lng="tr">sonbahar</trd>
+        <trd lng="vo">flukatim</trd>
+        <trdgrp lng="zh">
+    <trd>&#x79CB;&#x5B63; <pr>qi&#x16B;j&#xEC;</pr></trd>,
+    <trd>&#x79CB;&#22825; <pr>qi&#x16B;ti&amacron;n</pr></trd>,
+    <trd>&#33889;&#33796;&#x63A1;&#25688; <pr>p&#xFA;t&#xE1;oc&#x1CE;izh&amacron;i</pr></trd>,
+    <trd>&#33889;&#33796;&#x91C7;&#25688; <pr>p&#xFA;t&#xE1;oc&#x1CE;izh&amacron;i</pr></trd>,
+    <trd>&#34928;&#x843D;&#x671F; <pr>shu&amacron;ilu&#xF2;q&#x12B;</pr></trd>,
+    <trd>&#x79CB; <pr>qi&#x16B;</pr></trd>
+  </trdgrp>
+</snc>
+      <snc mrk="auxtun.0o.FIG">
+        <uzo tip="stl">FIG</uzo>
+        <dif>
+          Ekkaduki&gcirc;o.
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="klin.0igxi">klini&gcirc;i</ref>,
+          <ref cel="krepus.0o">krepusko</ref>,
+          <ref cel="velk.0i">velki</ref>,
+          <ref cel="vesper.0o">vespero</ref>.
+        </refgrp>
+      </snc>
+      <trd lng="be">&c_v;&c_o;&c_s;&c_je;&c_n;&c_mol;</trd>
+      <trd lng="bg">&c_je;&c_s;&c_je;&c_n;</trd>
+      <trd lng="bo">&#xF66;&#xF9F;&#xF7C;&#xF53;&#xF0B;&#xF40;&#xF0B;</trd>
+  <trd lng="br">diskar-amzer</trd>
+      <trd lng="cs">podzim</trd>
+      <trdgrp lng="de">
+        <trd>Herbst</trd>,
+        <trd>Sp&auml;tjahr [sudgermane]</trd>
+      </trdgrp>
+      <trd lng="ca">tardor</trd>
+      <trd lng="en">autumn</trd>
+      <trd lng="es">oto&ntilde;o</trd>
+      <trdgrp lng="fa">
+        <trd>&f_p;&a_A;&f_y;&f_y;&a_z;</trd>,
+        <trd>&a_kh;&a_z;&a_A;&a_n;</trd>
+      </trdgrp>
+      <trd lng="fr">automne</trd>
+      <trd lng="hu">&odblac;sz</trd>
+      <trd lng="id"><ind>musim</ind> gugur</trd>
+      <trd lng="it">autunno</trd>
+      <trd lng="ja">&#x79CB; <pr>&#12354;&#x304D;</pr></trd>
+      <trd lng="nl">herfst</trd>
+      <trd lng="oc">auton</trd>
+      <trd lng="pl">jesie&nacute;</trd>
+      <trd lng="ro">toamn&abreve;</trd>
+      <trd lng="ru">&c_o;&c_s;&c_je;&c_n;&c_mol;</trd>
+      <trd lng="sk">jese&ncaron;</trd>
+      <trd lng="sv">h&ouml;st</trd>
+      <trd lng="pt">outono</trd>
+      <trd lng="uk">&#x43E;&c_s;&c_ib;&#x43D;&#x44C;</trd>
+</drv>
+
+    <drv mrk="auxtun.0a">
+      <kap><tld/>a</kap>
+      <snc mrk="auxtun.0a.KAL">
+        <dif>
+          Okazanta en <tld/>o, per sia etoso simila al <tld/>o:
+          <ekz>
+            venis la lasta tago de la <tld/>a instruperiodo
+            <fnt><bib>InfanTorent2</bib>, <lok>unua parto, &ccirc;apitro
+                1a</lok></fnt>.
+          </ekz>
+        </dif>
+        <trd lng="zh">&#x79CB;&#33394; <pr>qi&#x16B;s&#xE8;</pr></trd>
+</snc>
+      <trdgrp lng="de">
+        <trd>herbstlich</trd>,
+        <trd>Herbst-</trd>,
+        <trd>im Herbst</trd>
+      </trdgrp>
+      <trdgrp lng="fa">
+        <trd>&f_p;&a_A;&f_y;&f_y;&a_z;&f_y;</trd>,
+        <trd>&f_p;&a_A;&f_y;&f_y;&a_z;&a_h;</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>automnal</trd>
+      </trdgrp>
+      <trd lng="he">&#x5E1;&#x5EA;&#x5D5;&#x5D5;&#x5D9;</trd>
+  <trd lng="id">autumnal</trd>
+  <trd lng="it">autunnale</trd>
+      <trd lng="ja">&#x79CB;&#x306E; <pr>&#12354;&#x304D;&#x306E;</pr></trd>
+      <trd lng="nl">herfst-</trd>
+      <trd lng="pl">jesienny</trd>
+      <trd lng="pt">outonal</trd>
+      <trd lng="ru">&c_o;&c_s;&c_je;&c_n;&c_n;&c_i;&c_j;</trd>
+      <trd lng="uk">&#x43E;&c_s;&c_ib;&#x43D;&#x43D;&c_ib;&c_j;</trd>
+  <trd lng="vo">flukatimik</trd>
+    </drv>
+  </art>
+  <!--
+  $Log$
+versio 1.47 2023/11/08 03:27:07
+Eko Nur Syah Hidayat: +trd id 2
+
+versio 1.45 2023/10/13 17:08:38
+revo: transskribo per <pr>
+
+  Revision 1.40  2013/10/09 01:10:21  revo
+  Benito Subejrano: + trd ca oc
+
+  Revision 1.39  2013/09/23 07:10:22  revo
+  Wolfram Diestel: +val
+
+  Revision 1.38  2013/08/25 18:10:22  revo
+  Wolfram Diestel: referenco al list sezonoj
+
+  Revision 1.37  2011/01/11 00:10:54  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.36  2009/08/18 19:18:08  revo
+  Behnam Tabatabai: +trd fa
+
+  Revision 1.35  2008/09/21 18:54:20  revo
+-->
+</vortaro>

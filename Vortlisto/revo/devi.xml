@@ -1,0 +1,435 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: devi.xml,v 1.31 2023/11/04 13:16:27 revo Exp $">
+<kap>
+  <rad>devi</rad>/i
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="devi.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="devi.0i.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Deloki&gcirc;i de la normala pozicio, direkto, valoro:
+      <ekz>
+	kompasmontrilo <tld/>as sub influo de magneto;
+      </ekz>
+      <ekz>
+        la maljuna hundo dum tuta tago vagadis longe for en la urbo <klr>[&#x2026;]</klr> poste
+        &gcirc;i <tld/>is sub pordegan volbon
+        <fnt>
+          <bib>Kiso</bib>
+          <lok>Hundo Sen Mastro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni korektos nin vo&ccirc;kalkule, se nia elekto ial <tld/>os de la prognozita
+        <fnt>
+          <bib>LOdE</bib>
+          <lok> 2003, &#x2116; 8-9 (106-107)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="anomal.0o">anomalio</ref>,
+      <ref cel="ekart.0o">ekarto</ref>,
+      <ref cel="varian1.0o">varianco</ref>
+    </refgrp>
+    <trdgrp lng="hu">
+      <trd>kit&eacute;r</trd>,
+      <trd>let&eacute;r</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>zbacza&cacute;</trd>,
+      <trd>odchyla&cacute; si&eogonek;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="devi.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="super" cel="klin.de0igxi">Deklini&gcirc;i</ref> de la regula konduto:
+      <ekz>
+        mi ne komprenas &ccirc;i tiun perfektan kunlaboron! &ccirc;i tie neniu havas <tld/>antan,
+        individuan celon
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Stalin</nom> ne <tld/>is de la lenina gvidlinio: doni al naciaj malplimultoj kiel eble
+        plej grandan a&ubreve;tonomion
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rakontante <klr>[&#x2026;]</klr> Nikolao <nom>Ivani&ccirc;</nom> iom <tld/>is de la vero
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi <tld/>as kaj maltrafas la temon
+        <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007154.php">Finfine oni povas dibo&ccirc;i sen pento</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 30</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="turn">deturni&gcirc;i</ref>,
+      <ref cel="voj.de0igxi">devoji&gcirc;i</ref>,
+      <ref cel="flank">flankeni&gcirc;i</ref>,
+      <ref cel="vag.for0i">forvagi</ref>
+    </refgrp>
+    <trd lng="de">abschweifen</trd>
+    <trd lng="hu">elt&eacute;r<klr tip="ind">
+    (a norm&aacute;list&oacute;l)</klr></trd>
+    <trd lng="pl">zbacza&cacute;</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_h;&c_ib;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>odchylovat se</trd>,
+    <trd>odch&yacute;lit se</trd>
+  </trdgrp>
+  <trd lng="de">abweichen</trd>
+  <trd lng="es">desviar</trd>
+  <trd lng="fr">d&eacute;vier<klr tip="ind"> (intr.)</klr></trd>
+  <trd lng="he">&lamed;&samekh;&tet;&vav;&tav;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x305D;&#x308C;&#x308B;</trd>,
+    <trd>&#x5916;&#x308C;&#x308B;  <pr>&#x306F;&#x305A;&#x308C;&#x308B;</pr></trd>,
+    <trd>&#x304B;&#x305F;&#x3088;&#x308B;</trd>,
+    <trd>&#x9038;&#x8131;&#x3059;&#x308B;  <pr>&#x3044;&#x3064;&#x3060;&#x3064;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>desviar-se</trd>,
+    <trd>extraviar-se</trd>
+  </trdgrp>
+  <trd lng="ru">
+  &c_o;&c_t;&c_k;&c_l;&c_o;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>odbo&ccaron;i&tcaron;</trd>,
+    <trd>odkloni&tcaron; sa</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_h;&c_i;&c_l;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_z;&c_b;&c_o;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6709;&#x5206;&#x6B67; <pr>y&#x1D2;uf&#xE8;nq&#xED;</pr></trd>,
+    <trd>&#x5F02;&#x4F53; <pr>y&#xEC;t&#x1D0;</pr></trd>,
+    <trd>&#x504F;&#x79BB; <pr>pi&#x101;nl&#xED;</pr></trd>,
+    <trd>&#x8FDD;&#x80CC; <pr>w&#xE9;ib&#xE8;i</pr></trd>,
+    <trd>&#x6F02; <pr>pi&#x101;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="devi.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Nenormala deloki&gcirc;o, deklini&gcirc;o:
+      <ekz>
+        la <tld/>o de radiregata horlo&gcirc;o estas malpli ol unu milono de sekundo
+        <fnt>
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2000/007024.php">Pli ekzakte ne eblas: Radi-regata
+            horlo&gcirc;o</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 13</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; tiu kalendaro la jaro da&ubreve;ris avera&gcirc;e 365,25 tagojn, kaj la <tld/>o estis unu
+        tago en 128 jaroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2015/011452.php">Alia kalendaro eblas</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        intenca <tld/>o de la oficiala uzo
+        <fnt>
+          <bib>MD02</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la indi&gcirc;ena lo&gcirc;antaro uzas <klr>[&#x2026;]</klr> diversajn subtilajn
+        lingvajn <tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2012/010624.php">Ciganoj a&ubreve; romaoj: &ccirc;u lingva
+          problemo?</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj formoj de transskribado
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vivo <klr>[&#x2026;]</klr> estas <tld/>a, epizoda, kaj ne kondukas rekte al kulmino la&ubreve;
+        postulo de romano
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_h;&c_ib;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_d;&c_e;&c_v;&c_ib;&c_ja;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_z;&c_r;&c_u;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_z;&c_r;&c_u;&c_h;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_y;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;
+    </trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odchylka</trd>,
+    <trd>&uacute;chylka</trd>
+  </trdgrp>
+  <trd lng="de">Abweichung</trd>
+  <trd lng="es">desviaci&oacute;n</trd>
+  <trd lng="fr">d&eacute;viation</trd>
+  <trdgrp lng="he">
+    <trd>&het;&#x5B2;&resh;&#x5B4;&yod;&gimel;&#x5B8;&he;</trd>,
+    <trd>&samekh;&tet;&yod;&he;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>devi&aacute;ci&oacute;</trd>,
+    <trd>deviancia</trd>,
+    <trd>elhajl&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3075;&#x308C;</trd>,
+    <trd>&#x304B;&#x305F;&#x3088;&#x308A;</trd>,
+    <trd>&#x9038;&#x8131;  <pr>&#x3044;&#x3064;&#x3060;&#x3064;</pr></trd>,
+    <trd>&#x81EA;&#x5DEE;  <pr>&#x3058;&#x3055;</pr></trd>,
+    <trd>&#x504F;&#x5DEE;  <pr>&#x3078;&#x3093;&#x3055;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zboczenie</trd>,
+    <trd>odchy&lstroke;ka</trd>,
+    <trd>dewiacja</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_k;&c_l;&c_o;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_m;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_d;&c_v;&c_i;&c_g;</trd>,
+    <trd>&c_i;&c_s;&c_k;&c_r;&c_i;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;
+    </trd>,
+    <trd>&c_u;&c_k;&c_l;&c_o;&c_n;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odch&yacute;lka</trd>,
+    <trd>&uacute;chylka</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_h;&c_i;&c_l;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_r;&c_u;&c_ch;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_u;&c_h;&c_i;&c_l;</trd>,
+    <trd>&c_v;&c_i;&c_k;&c_r;&c_i;&c_v;&c_l;&c_je;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5DEE;&#x5F02;&#x6027; <pr>ch&#x101;y&#xEC;x&#xEC;ng</pr></trd>,
+    <trd>&#x8C61;&#x5DEE; <pr>xi&#xE0;ngch&#x101;i</pr></trd>,
+    <trd>&#x6B67;&#x5F02; <pr>q&#xED;y&#xEC;</pr></trd>,
+    <trd>&#x7279;&#x63A1; <pr>t&#xE8;c&#x1CE;i</pr></trd>,
+    <trd>&#x4E56;&#x79BB; <pr>gu&#x101;il&#xED;</pr></trd>,
+    <trd>&#x8AA4;&#x5DEE; <pr>w&#xF9;ch&#x101;</pr></trd>,
+    <trd>&#x504F;&#x5DEE; <pr>pi&#x101;nch&#x101;</pr></trd>,
+    <trd>&#x5DEE; <pr>ch&#x101;</pr></trd>,
+    <trd>&#x8FDC;&#x8DB3; <pr>yu&#x1CE;nz&#xFA;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="devi.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Fari, ke io <tld/>u:
+      <ekz>
+        tiu direkto povas nur <tld/>igi min de la spuro, malhelpi la esploron kaj min
+        konfuzi
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Rafo haste haltigis &scirc;ian parolon, kaj intencis <tld/>igi la babilan tempon
+         <fnt>
+          <aut>Shi Chengtai</aut>
+          <vrk><url ref="&Monato;/1995/A950601.php">La kompensa kiso</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/06, p. 27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        incitistoj alkuras por <tld/>igi la kornhavulon, sed la toreadoro reekstaras,
+        feli&ccirc;e nenio grava
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Eduardo Novembro</aut>
+          <vrk><url ref="&Monato;/2014/011318.php">Ta&ubreve;ro??? Festo!!!</url></vrk>
+          <lok>2014</lok>
+        </fnt>!
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_h;&c_ib;&c_l;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_r;&c_u;&c_sh;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_y;&c_v;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odklonit</trd>,
+    <trd>odklonit</trd>,
+    <trd>sto&ccaron;it stranou</trd>,
+    <trd>sv&eacute;st</trd>,
+    <trd>vych&yacute;lit</trd>
+  </trdgrp>
+  <trd lng="de">ablenken</trd>
+  <trd lng="es">desviar</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;vier<klr tip="ind"> (tr.)</klr></trd>,
+    <trd>d&eacute;tourner</trd>
+  </trdgrp>
+  <trd lng="he">&lamed;&#x5B4;&samekh;&#x5B0;&tet;&vav;&#x5B9;&tav;</trd>
+  <trdgrp lng="hu">
+    <trd>elt&eacute;r&iacute;t</trd>,
+    <trd>let&eacute;r&iacute;t</trd>,
+    <trd>kit&eacute;r&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x305D;&#x3089;&#x3059;</trd>,
+    <trd>&#x307E;&#x3052;&#x308B;</trd>,
+    <trd>&#x304B;&#x305F;&#x3088;&#x3089;&#x305B;&#x308B;</trd>,
+    <trd>&#x9038;&#x8131;&#x3055;&#x305B;&#x308B;  <pr>&#x3044;&#x3064;&#x3060;&#x3064;&#x3055;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">odchyla&cacute;</trd>
+  <trdgrp lng="sk">
+    <trd>odkloni&tcaron;</trd>,
+    <trd>vych&yacute;li&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_h;&c_i;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_b;&c_je;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4F7F;&#x8F49;&#x5411; <pr>sh&#x1D0;zhu&#x1CE;nxi&#xE0;ng</pr></trd>,
+    <trd>&#x5F15; <pr>y&#x1D0;n</pr></trd>,
+    <trd>&#x5206;&#x6563;&#x6CE8;&#x610F; <pr>f&#x113;ns&#xE0;nzh&#xF9;y&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="devi.0aangulo">
+  <kap><tld/>a angulo</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      Angulo formata per la direktoj de la radio anta&ubreve; kaj
+      post la <tld/>ado.
+    </dif>
+  </snc>
+  <adm>
+    Dubinda vorto. Supozeble temas pri malnova formo de "refrakta
+    angulo".
+    <aut>MB</aut>
+  </adm>
+  <adm>
+    Se konservi, &scirc;ovi pli bone sub angul', evtl. kiel ekz-o
+    <aut>WD</aut>
+  </adm>
+  <trd lng="be">
+  &c_v;&c_u;&c_g;&c_a;&c_l;
+  &c_a;&c_d;&c_h;&c_ib;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_ja;
+  </trd>
+  <trd lng="de">Ablenkungswinkel</trd>
+  <trd lng="hu">kit&eacute;r&eacute;si <ind>sz&ouml;g</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x504F;&#x89D2;  <pr>&#x3078;&#x3093;&#x304B;&#x304F;</pr></trd>,
+    <trd>&#x3075;&#x308C;&#x306E;&#x89D2;  <pr>&#x3075;&#x308C;&#x306E;&#x304B;&#x3069;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">k&aogonek;t za&lstroke;amania</trd>
+  <trd lng="ru">
+  &c_u;&c_g;&c_o;&c_l;
+  &c_o;&c_t;&c_k;&c_l;&c_o;&c_n;&c_je;&c_n;&c_i;&c_ja;
+  </trd>
+</drv>
+
+<drv mrk="devi.varianca0o">
+  <kap>varianca <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="variab.hazarda0o">hazarda variablo</ref> 
+      <frm am="X">X</frm>)</klr>
+      La kvadrata radiko de &gcirc;ia <ref cel="varian1.0o">varianco
+      </ref>; simb. <frm am="sigma(X)">&sigma;(X)</frm>.
+    </dif>
+  </snc>
+  <trd lng="be">
+  &c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;&c_n;&c_a;&c_je;
+  <ind>&c_a;&c_d;&c_h;&c_ib;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</ind>
+  </trd>
+  <trd lng="cs">standardn&iacute; odchylka pr&uring;m&ecaron;ru</trd>
+  <trd lng="de">Standardabweichung</trd>
+  <trd lng="en">standard <ind>deviation</ind></trd>
+  <trd lng="es">desviaci&oacute;n t&iacute;pica</trd>
+  <trd lng="fr">&eacute;cart-type</trd>
+  <trdgrp lng="hu">
+    <trd>norm&aacute;l <ind>elt&eacute;r&eacute;s</ind></trd>,
+    <trd>standard <ind>elt&eacute;r&eacute;s</ind></trd>,
+    <trd>sz&oacute;r&aacute;s</trd>
+  </trdgrp>
+  <trd lng="pl">odchylenie standardowe<klr tip="ind"> (zmiennej losowej)
+</klr></trd>
+  <trd lng="ru">
+  &c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;&c_n;&c_o;&c_je;
+  <ind>&c_o;&c_t;&c_k;&c_l;&c_o;&c_n;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">&scaron;tandardn&aacute; odch&yacute;lka priemeru</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6807;&#x51C6;&#x5DEE; <pr>bi&#x101;ozh&#x1D4;nch&#x101;</pr></trd>,
+    <trd>&#x6807;&#x51C6;&#x504F;&#x5DEE; <pr>bi&#x101;ozh&#x1D4;npi&#x101;nch&#x101;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/14 11:26:53
+revo: transskribo per <pr>
+
+versio 1.28 2023/04/30 06:30:28
+Paul Peeraerts: Steloj -> monato
+
+versio 1.27 2023/04/12 16:34:33
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.26 2022/09/30 05:41:45
+Wolfram Diestel: +ekz, trd de
+
+versio 1.25 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2021/12/10 15:32:12
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+versio 1.21 2020/02/16 11:10:33
+Wolfram Diestel: formuloj per am
+
+Revision 1.20  2015/07/04 08:37:32  revo
+-->
+</vortaro>

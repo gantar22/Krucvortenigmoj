@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mil.xml,v 1.123 2023/12/12 20:10:24 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>mil</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="mil.0">
+   <kap><ofc>*</ofc><tld/></kap>
+   <mlg>1000</mlg>
+   <snc mrk="mil.0.MAT">
+     <dif>
+       Dekfoje cent:
+       <ekz>
+         <tld/> soldatoj;
+       </ekz>
+       <ekz>
+         <tld/>o da soldatoj.
+       </ekz>
+     </dif>
+     <ref tip="lst" cel="nombr.0o.MAT" lst="voko:nombroj" val="1000">nombro</ref>
+   </snc>
+  <snc mrk="mil.0.FIG">
+    <dif>
+      <ref tip="vid" cel="mult.0a.ununombre">Multaj<sncref/></ref>, granda nombro da:
+      <ekz>
+        konstanta regulo por la akcento en lingvo lernota estas <tld/> fojojn pli bona
+        ol akcento neregula
+        <fnt>
+          <bib>LR</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">duisend</trd>
+  <trd lng="am">&#x123A;&#x1205;</trd>
+  <trd lng="ar">&a_A_hamza_sure;&a_l;&a_f;</trd>
+  <trd lng="az">min</trd>
+  <trd lng="be">&c_t;&c_y;&c_s;&c_ja;&c_ch;&c_a;</trd>
+   <trd lng="bg">&c_h;&c_i;&c_l;&c_ja;&c_d;&c_a;</trd>
+   <trd lng="bn">&#x9B9;&#x9BE;&#x99C;&#x9BE;&#x9B0;</trd>
+  <trd lng="bo">&t_sa;&t_tata;&t_naro;&t_nga;&t_tsheg;</trd>
+  <trd lng="br">mil</trd>
+   <trd lng="bs">hiljada</trd>
+  <trd lng="co">milla</trd>
+  <trd lng="cs">tis&iacute;c</trd>
+   <trd lng="cy">mil</trd>
+  <trd lng="da">tusinde</trd>
+  <trd lng="de">tausend</trd>
+   <trd lng="en">thousand</trd>
+   <trd lng="es">mil</trd>
+   <trd lng="et">tuhat</trd>
+  <trd lng="eu">mila</trd>
+  <trd lng="fa">&a_h;&a_z;&a_A;&a_r;</trd>
+   <trd lng="fi">tuhat</trd>
+   <trd lng="fr">mille</trd>
+   <trd lng="fy">t&ucirc;zen</trd>
+   <trd lng="ga">m&iacute;le</trd>
+  <trd lng="gd">m&igrave;le</trd>
+  <trd lng="gl">mil</trd>
+  <trd lng="gu">&#xAB9;&#xA9C;&#xABE;&#xAB0;</trd>
+  <trd lng="ha">dubu</trd>
+  <trd lng="he">&alef;&lamed;&fpe;</trd>
+   <trd lng="hi">&#x939;&#x91C;&#x93E;&#x930;</trd>
+  <trd lng="hmn">txhiab</trd>
+  <trd lng="hr">tisu&cacute;a</trd>
+  <trd lng="ht">mil</trd>
+  <trd lng="hu">ezer</trd>
+   <trd lng="hy">&#x570;&#x561;&#x566;&#x561;&#x580;</trd>
+  <trd lng="id">se<ind>ribu</ind></trd>
+   <trd lng="ig">puku</trd>
+  <trd lng="io">mil</trd>
+   <trd lng="is">&#xFE;&uacute;sund</trd>
+  <trd lng="it">mille</trd>
+   <trd lng="ja">&#x5343;&#x306E; <pr>&#x305B;&#x3093;&#x306E;</pr></trd>
+  <trd lng="jv">ewu</trd>
+  <trd lng="ka">&#x10D0;&#x10D7;&#x10D0;&#x10E1;&#x10D8;</trd>
+  <trd lng="kk">&c_m;&c_y;&#x4A3;</trd>
+  <trd lng="km">&#x1796;&#x17B6;&#x1793;&#x17CB;&#x1793;&#x17B6;&#x1780;&#x17CB;</trd>
+  <trd lng="kn">&#xCB8;&#xCBE;&#xCB5;&#xCBF;&#xCB0;</trd>
+  <trd lng="ko">&#xCC9C;</trd>
+  <trd lng="ku">hezar</trd>
+   <trd lng="ky">&c_m;&c_y;&c_n;</trd>
+  <trd lng="lat">milia</trd>
+  <trd lng="lo">&#xE9E;&#xEB1;&#xE99;</trd>
+  <trd lng="lt">t&#x163B;kstan&ccaron;i&#x173;</trd>
+  <trd lng="lv">t&#363;kstotis</trd>
+  <trd lng="mg">arivo</trd>
+  <trd lng="mi">mano</trd>
+  <trd lng="mk">&c_i;&c_l;&#x458;&c_a;&c_d;&c_i;</trd>
+  <trd lng="ml">&#xD06;&#xD2F;&#xD3F;&#xD30;&#xD02;</trd>
+  <trd lng="mn">&c_m;&c_ja;&c_n;&c_g;&c_a;&c_n;</trd>
+  <trd lng="mr">&#x939;&#x91C;&#x93E;&#x930;</trd>
+  <trd lng="ms">ribu</trd>
+  <trd lng="mt">elf</trd>
+  <trd lng="my">&#x1010;&#x1011;&#x1031;&#x102C;&#x1004;&#x103A;</trd>
+  <trd lng="ne">&#x939;&#x91C;&#x93E;&#x930;</trd>
+  <trd lng="nl">duizend</trd>
+   <trd lng="ny">zikwi</trd>
+  <trd lng="pa">&#xA39;&#xA1C;&#xA3C;&#xA3E;&#xA30;</trd>
+  <trd lng="pl">tysi&aogonek;c</trd>
+   <trd lng="ps">&a_z;&a_r;&a_h;</trd>
+  <trd lng="pt">mil</trd>
+   <trd lng="ro">o mie</trd>
+   <trd lng="ru">&c_t;&c_y;&c_s;&c_ja;&c_ch;&c_a;</trd>
+   <trd lng="rw">igihumbi</trd>
+  <trd lng="sd">&a_h;&a_z;&a_A;&a_r;</trd>
+  <trd lng="si">&#xDAF;&#xDC4;&#xDC3;&#xD9A;&#xDCA;</trd>
+  <trd lng="sk">tis&iacute;c</trd>
+   <trd lng="sl">tiso&ccaron;</trd>
+  <trd lng="sm">afe</trd>
+  <trd lng="sn">churu</trd>
+  <trd lng="so">kun</trd>
+  <trd lng="sq">mij&euml;</trd>
+  <trd lng="st">tse likete tse</trd>
+  <trd lng="su">rebu</trd>
+  <trd lng="sv">tusen</trd>
+   <trd lng="sw">elfu</trd>
+  <trd lng="ta">&#xB86;&#xBAF;&#xBBF;&#xBB0;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC35;&#xC47;&#xC32;</trd>
+  <trd lng="tg">&#x4B3;&c_a;&c_z;&c_o;&c_r;</trd>
+  <trd lng="th">&#xE1E;&#xE31;&#xE19;</trd>
+  <trd lng="tl">libo</trd>
+  <trd lng="tr">bin</trd>
+   <trd lng="tt">&c_m;&c_je;&#x4A3;</trd>
+  <trd lng="uk">&c_t;&c_i;&c_s;</trd>
+  <trd lng="ur">&#x6C1;&a_z;&a_A;&a_r;</trd>
+  <trd lng="uz">ming</trd>
+  <trd lng="vi">ng&agrave;n</trd>
+  <trd lng="vo">mil</trd>
+   <trd lng="xh">iwaka</trd>
+  <trd lng="yi">&tet;&vav;&yod;&zayin;&nun;&tet;</trd>
+  <trd lng="yo">&#x1EB9;gb&#x1EB9;run</trd>
+  <trd lng="zh">&#x5343; <pr>qiān</pr></trd>
+  <trd lng="zu">abayizinkulungwane</trd>
+</drv>
+
+<drv mrk="mil.00">
+  <kap><tld/><tld/></kap>
+  <snc mrk="mil.00.KOMUNE">
+    <dif>
+      Multegaj, granda nombro da:
+      <ekz>
+        subite ekbrilas en la krepusketo la <tld/><tld/> artefaritaj
+        sunoj de tiu &ccirc;i artefarita mondo; la urbo veki&gcirc;as
+        <fnt>
+          <aut>S. Engholm</aut>
+          <vrk>Al Torento</vrk>
+          <lok>1930</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">tis&iacute;c</trd>
+  <trd lng="fr">plein de</trd>
+  <trd lng="it">migliaia<klr> (fig.)</klr></trd>
+  <trd lng="pl">tysi&aogonek;ce</trd>
+  <trd lng="sk">tis&iacute;c</trd>
+</drv>
+
+<drv mrk="mil.00o">
+  <kap><tld/><tld/>o</kap>
+  <snc mrk="mil.00o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="mult.0ego.KOMUNE">Multego</ref> da
+      nombreblaj a&jcirc;oj:
+      <ekz>
+        <tld/><tld/>oj da sanktuloj
+        <fnt><bib>MT</bib> <lok>&Rea; 33:2</lok></fnt>;
+      </ekz>
+      <ekz>
+        jen brakumoj al <tld/><tld/>oj
+        <fnt>
+          <aut>F. Schiller, trad. K. Kalocsay</aut>
+          <vrk>
+<url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5802/ schiller.html">
+          Al la &gcirc;ojo</url></vrk>
+          <lok>Norda Prismo 1958:1, p. 65-66a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">multitude</trd>
+  <trd lng="it">moltitudine</trd>
+  <trd lng="pl">tysi&aogonek;ce</trd>
+</drv>
+
+<drv mrk="mil.jar0o">
+   <kap>jar<tld/>o</kap>
+   <snc mrk="mil.jar0o.KAL">
+     <uzo tip="fak">KAL</uzo>
+     <dif>
+       <tld lit="M"/>o da jaroj; <ref tip="sin" cel="jar.mil0o"><tld/>jaro</ref>:
+      <ekz>
+        la judoj havas sian religion de jar<tld/>oj, dum la kristanoj apartenas al nova
+        sekto
+        <fnt>
+          <aut>H. Sienkiewicz, trad. Lidia Zamenhof</aut>
+          <vrk>Quo Vadis</vrk>
+          <lok>1933</lok>
+        </fnt>.
+      </ekz>
+     </dif>
+   </snc>
+  <trd lng="be">&c_t;&c_y;&c_s;&c_ja;&c_ch;&c_a;&c_g;&c_o;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_je;</trd>
+  <trdgrp lng="bg">
+     <trd>&c_h;&c_i;&c_l;&c_ja;&c_d;&c_o;&c_l;&c_je;&c_t;&c_i;&c_je;</trd>,
+     <trd>&c_h;&c_i;&c_l;&c_ja;&c_d;&c_a; &c_g;&c_o;&c_d;&c_i;&c_n;&c_i;</trd>
+   </trdgrp>
+  <trd lng="br">milved</trd>
+  <trd lng="cs">tis&iacute;cilet&iacute;</trd>
+  <trd lng="de">Jahrtausend</trd>
+  <trd lng="en">millenium</trd>
+  <trd lng="es">milenio</trd>
+  <trd lng="fa">&a_h;&a_z;&a_A;&a_r;&a_h;</trd>
+  <trd lng="fi">vuosituhat</trd>
+  <trd lng="fr">mill&eacute;naire</trd>
+  <trd lng="fy">milennium</trd>
+  <trdgrp lng="he">
+     <trd>&alef;&lamed;&fpe;</trd>,
+     <trd>&mem;&yod;&lamed;&nun;&yod;&vav;&fmem;</trd>
+   </trdgrp>
+  <trd lng="hu">&eacute;vezred</trd>
+  <trd lng="id">milenium</trd>
+  <trd lng="io">yarmilo</trd>
+  <trd lng="it">millennio</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5343;&#x5E74;&#x7D00;  <pr>&#x305B;&#x3093;&#x306D;&#x3093;&#x304D;</pr></trd>,
+    <trd>&#x30DF;&#x30EC;&#x30CB;&#x30A2;&#x30E0;</trd>
+  </trdgrp>
+  <trd lng="nl">millenium</trd>
+  <trd lng="pl">tysi&aogonek;clecie</trd>
+  <trd lng="ro">mileniu</trd>
+  <trd lng="ru">&c_t;&c_y;&c_s;&c_ja;&c_ch;&c_je;&c_l;&c_je;&c_t;&c_i;&c_je;</trd>
+  <trd lng="sk">tis&iacute;cro&ccaron;ie</trd>
+  <trd lng="sv">&aring;rtusende</trd>
+  <trd lng="th">&#xE2A;&#xE2B;&#xE31;&#xE2A;&#xE27;&#xE23;&#xE23;&#xE29;</trd>
+  <trd lng="tr">biny&inodot;l</trd>
+  <trd lng="uk">&c_t;&c_i;&c_s;&c_ja;&c_ch;&c_o;&c_l;&c_ib;&c_t;&c_t;&c_ja;</trd>
+  <trd lng="vo">milyel</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.123 2023/12/12 20:10:24
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.122 2023/10/19 16:45:37
+revo: transskribo per <pr>
+
+versio 1.121 2023/09/10 15:34:07
+revo: korekto de transskribo
+
+versio 1.119 2023/08/29 17:27:03
+Wolfram Diestel: ja: prononco
+
+versio 1.118 2022/09/02 15:34:27
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.117 2022/08/31 21:27:44
+Jeromo Vasxe: ~ + snc fig, jar~o + ekz
+
+versio 1.116 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.114 2021/12/16 15:41:16
+-->
+</vortaro>

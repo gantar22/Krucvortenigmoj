@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pasiv.xml,v 1.27 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>pasiv</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="pasiv.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="pasiv.0a.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Montranta, ke la subjekto ricevas la efikon de la ago, kiu estas
+      signifata de la verbo kaj farata de iu a&ubreve; io alia ol la subjekto:
+      <ekz>
+        <ind><tld/>a participo</ind>;
+        <trd lng="hu">szenved&odblac; mell&eacute;kn&eacute;vi <ind>igen&eacute;v</ind></trd>
+      </ekz>
+      <ekz>
+        <tld/>a <ref cel="vocx.0o.GRA">vo&ccirc;o<sncref/></ref>.
+      </ekz>
+    </dif>
+  <trdgrp lng="hu">
+    <trd>szenved&odblac;</trd>,
+    <trd>passz&iacute;v</trd>
+  </trdgrp>
+  </snc>
+  <snc mrk="pasiv.0a.malagema">
+    <dif>
+      Malagema, seniniciata, nerezistema, trotolerema,
+      <ref tip="vid" cel="inert.0a">inerta</ref>:
+      <ekz>
+        <tld/>a obeado, kontra&ubreve;staro;
+      </ekz><ekz>
+        kun la <tld/>eco de bone edukita fra&ubreve;lino<fnt>B</fnt>
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>passz&iacute;v</trd>,
+      <trd>t&eacute;tlen</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="pasiv.0a.ricevanta">
+    <dif>
+      Senaga, ricevanta la efikon de ies ago, prezentita kiel
+      objekto de ago:
+      <ekz>
+        havi <tld/>an rolon.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>passz&iacute;v</trd>,
+      <trd>szenved&odblac;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_ib;&c_w;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>nepr&uring;bojn&yacute;</trd>,
+    <trd>pasivn&iacute;</trd>,
+    <trd>trpn&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">passiv</trd>
+  <trd lng="en">passive</trd>
+  <trd lng="es">pasivo</trd>
+  <trd lng="fr">passif<klr> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x53D7;&#x8EAB;&#x306E;  <pr>&#x3058;&#x3085;&#x307F;&#x306E;</pr></trd>,
+    <trd>&#x6D88;&#x6975;&#x7684;&#x306A;  <pr>&#x3057;&#x3087;&#x3046;&#x304D;&#x3087;&#x304F;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x53D7;&#x52D5;&#x306E;  <pr>&#x3058;&#x3085;&#x3069;&#x3046;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">passief</trd>
+  <trdgrp lng="pl">
+    <trd>bierny</trd>,
+    <trd>pasywny</trd>
+  </trdgrp>
+  <trd lng="pt">passivo</trd>
+  <trd lng="ro">pasiv</trd>
+  <trd lng="ru">&c_p;&c_a;&c_s;&c_s;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>nepriebojn&yacute;</trd>,
+    <trd>pas&iacute;vny</trd>,
+    <trd>trpn&yacute;</trd>
+  </trdgrp>
+  <trd lng="sv">passiv</trd>
+  <trd lng="uk">&c_p;&c_a;&c_s;&c_i;&c_v;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="pasiv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pasiv.0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <tld lit="P"/>a <ref tip="super" cel="vocx.0o.GRA">vo&ccirc;o<sncref/></ref>:
+      <ekz>
+        e&ccirc; de vortoj, kiuj per si mem ne postulas la akuzativon, vi
+        povas
+        en nia lingvo libere &ccirc;iam fari <tld/>on, se nur la senco de tiu
+        &ccirc;i
+        pasivo estos komprenebla. Tiel estas ne malregule uzita la
+        esprimo:
+        &leftquot;la celo estas alvenita&rightquot; <klr>= ni alvenos al la celo</klr>.
+        <fnt><bib>LR</bib></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="aktiv.0o">aktivo</ref>
+    <trdgrp lng="de">
+      <trd>Passiv</trd>,
+      <trd>Leideform</trd>
+    </trdgrp>
+    <trd lng="en">passive voice</trd>
+    <trd lng="es">pasiva</trd>
+    <trdgrp lng="hu">
+      <trd>szenved&odblac; igenem</trd>,
+      <trd>szenved&odblac; alak</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>passief</trd>,
+      <trd>lijdende <ind>vorm</ind></trd>
+    </trdgrp>
+    <trd lng="pl">bierna strona</trd>
+    <trd lng="ro">diatez&abreve; pasiv&abreve;</trd>
+    <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_d;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_z;&c_a;&c_l;&c_o;&c_g;</trd>
+  </snc>
+  <snc mrk="pasiv.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Sumo de la negativa &scirc;uldata parto de propruma&jcirc;o:
+      <ekz>
+        la <tld/>o de la firmo superas la aktivon.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Passiva</trd>,
+      <trd>Verbindlichkeiten</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>debts</trd>,
+      <trd>liabilities</trd>
+    </trdgrp>
+    <trd lng="es">pasivo</trd>
+    <trdgrp lng="hu">
+      <trd>forr&aacute;sok</trd>,
+      <trd>passz&iacute;v&aacute;k</trd>
+    </trdgrp>
+    <trd lng="nl">passief</trd>
+    <trd lng="pl">pasywa {pl}</trd>
+    <trd lng="ro">pasiv  <klr>(contabilitate)</klr></trd>
+    <trd lng="ru">&c_p;&c_a;&c_s;&c_s;&c_i;&c_v;</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_ib;&c_w;</trd>
+  <trd lng="cs">trpn&yacute; rod</trd>
+  <trd lng="fr">passif<klr> (subst.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x53D7;&#x52D5;&#x614B;  <pr>&#x3058;&#x3085;&#x3069;&#x3046;&#x305F;&#x3044;</pr></trd>,
+    <trd>&#x8CA0;&#x50B5;  <pr>&#x3075;&#x3055;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">trpn&yacute; rod</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_a;&c_s;&c_i;&c_v;&c_n;&c_i;&c_j; &c_s;&c_t;&c_a;&c_n;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_i;&c_v;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pasiv.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="pasiv.0i.KOMUNE">
+    <dif>
+      Resti <tld/>a, ne agi,
+      <ref tip="vid" cel="far.neni0o">nenifari</ref>:
+      <ekz>
+        neeblas <tld/>i &ccirc;i tie apud minacanta tento
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk><url ref="http://autodidactproject.org/other/kultent_francis.html">
+          La Tento de Kul</url></vrk>,
+          <lok>Belarto, 1958-04 (1), p. 11a-15a</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">rester <ind>passif</ind></trd>
+  <trd lng="pl">biernym by&cacute;</trd>
+  <trd lng="ro">pasiv&abreve; s&abreve; fii</trd>
+</drv>
+
+<drv mrk="pasiv.0igi">
+  <kap>
+    <tld/>igi
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pasiv.0igi.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Igi esprimon funkcie kaj forme pasiva:
+      <ekz>
+        kiam oni <tld/>igas frazon, okazas tri &scirc;an&gcirc;oj: la objekto fari&gcirc;as subjekto (kaj
+        perdas sian N-fina&jcirc;on), la &ccirc;efverbo fari&gcirc;as kunmetita verbo: esti + pasiva
+        participo, la aktiva subjekto malaperas a&ubreve; fari&gcirc;as de-komplemento
+        <fnt>
+          <aut>B. Wennergren</aut>
+          <vrk><url ref="&PMEG;gramatiko/pasivo/bazaj_reguloj.html">PMEG 2022</url></vrk>
+          <lok>2022</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">passiviser</trd>
+</drv>
+
+<drv mrk="pasiv.kontraux0o">
+  <kap>kontra&ubreve;<tld/>o</kap>
+  <snc mrk="pasiv.kontraux0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Netransitiva <ref tip="vid" cel="vocx.0o.GRA">vo&ccirc;o<sncref/></ref>,
+      kiu ne a&ubreve; ellaseble esprimas la ricevanton de la verba ago:
+      <ekz>
+        la t.n. kontra&ubreve;<tld/>a vo&ccirc;o de la e&ubreve;ska verdire estas
+        X-rezultindika formo
+        <fnt>
+          <aut>M. Bavant</aut>
+          <vrk>Rezulta aspekto, dispozicio kaj posedo
+          en la lingvoj e&ubreve;ska, malnovpersa kaj elama</vrk>
+          <lok>J&eogonek;zyk, Komunikacja, Informacja, 2015:10, p.
+          254a-263a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">antipassif<klr> (subst.)</klr></trd>
+  <trd lng="pl">antypasywna strona  <klr>(antybierna)</klr></trd>
+  <trd lng="ro">anti-pasiv&abreve; partea</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.25 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
+
+versio 1.24 2022/09/11 21:28:44
+Jeromo Vasxe: + ~igi
+
+versio 1.23 2022/07/17 22:30:11
+Vito Redsky:  +trd pl  +trd ro 
+
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/02/08 16:10:36  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.17  2012/06/20 15:10:07  revo
+-->
+</vortaro>

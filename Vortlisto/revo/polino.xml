@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: polino.xml,v 1.35 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <rad>polinom</rad>/o
+</kap>
+<drv mrk="polino.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="polino.0o.formala">
+    <fnt><bib>EKV</bib><lok>&para;342</lok></fnt>
+    <dif>
+      <klr>(super <ref cel="unu.0hava">unuhava</ref>
+      <ref cel="komut.0eca.ringo">komuteca</ref>
+      <ref cel="ring.0o.MAT">ringo</ref> <frm am="bb       R"><g>R</g></frm>)</klr>
+      Tia <ref tip="super" cel="vic.0o.MAT">vico</ref> en
+      <frm am="bb R"><g>R</g></frm>,
+      ke la nombro de &gcirc;iaj ne<ref cel="nul0.0a.elemento">nulaj</ref>
+      termoj estas finia:
+      <ekz>
+        oni signas per <frm am="bb X^i"><g>X</g><sup><k>i</k></sup></frm> la <tld/>on,
+        kies <frm am="j"><k>j</k></frm>-a termo egalas al la unuo de la
+        ringo, 
+        se <frm am="i=j"><k>i</k> = <k>j</k></frm>, kaj al ties nulo
+        aliokaze;
+      </ekz>
+      <ekz>
+        la <tld/>on <frm am="bb X"><g>X</g></frm> 
+        <klr> (t.e. <frm am="bb X^1"><g>X</g><sup>1</sup></frm>)</klr>
+        oni nomas argumento;
+      </ekz>
+      <ekz>
+        la <tld/>on 
+        <frm am="(a_i)_(i in NN)">(<k>a</k><sub><k>i</k></sub>)<sub><k>i</k>&#x2208;<g>N</g></sub></frm>
+        oni ofte signas per 
+        <frm am="sum a_i bb X^i">&#x2211;<k>a</k><sub><k>i</k></sub><g>X</g><sup><k>i</k></sup></frm>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      Specifaj polinomoj:
+      <ref cel="polino.nul0o">nul<tld/>o</ref>,
+      <ref cel="polino.unuo0o">unuo<tld/>o</ref>,
+      <ref cel="monom.0o">monomo</ref>,
+      <ref cel="binom.0o">binomo</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      Epitetoj por polinomo:
+      <ref cel="konsta.0a.polinomo">konstanta</ref>,
+      <ref cel="redukt.0ebla.enringo">reduktebla</ref>,
+      <ref cel="redukt.ne0ebla.MAT">nereduktebla</ref>,
+      <ref cel="prim.0a.elemento">prima</ref>;
+
+      atributoj de polinomo:
+      <ref cel="argume.0o.polinomo">argumento</ref>,
+      <ref cel="koefic.0o.polinomo">koeficiento</ref>,
+      <ref cel="term.0o.polinomo">termo</ref>,
+      <ref cel="grad.0o.polinomo">grado</ref>,
+      <ref cel="radik.0o.polinomo">radiko</ref>;
+
+      rilataj algebraj strukturoj:
+      <ref cel="ring.polinom0o">polinomringo</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="polino.0o.funkcio">
+    <fnt><bib>PIV1</bib></fnt>
+    <ref tip="dif" cel="funkci.polinoma0o"><tld/>a funkcio.</ref>
+  </snc>
+  <rim>
+    Bricard <fnt><bib>MatTerm</bib><lok>p. 13</lok></fnt> proponis la
+    formon <ctl>polinomjo</ctl> kaj vicon da similaj terminoj, derivitaj
+    
+    a&ubreve; ne de radiko <ctl>nomj</ctl>:
+    <ekz>
+      ununomjo,
+    </ekz>
+    <ekz>
+      monomjo,
+    </ekz>
+    <ekz>
+      dunomjo...
+    </ekz>
+    Tiuj &ccirc;i formoj ne enradiki&gcirc;is. Vd anka&ubreve; la
+    rimarkon sub <ref cel="term.plur0o">plurtermo</ref>.
+  </rim>
+  <rim>
+    La nocio <tld/>o historie fontas el la <tld/>aj funkcioj, kiel
+    ekz-e <frm am="x^2+3x+7"><k>x</k><sup>2</sup>+3<k>x</k>+7</frm>. La unua senco koncernas
+    formalajn <tld/>ojn kaj prisilentas la analitikan fonon de la nocio,
+    okupi&gcirc;ante nur pri la vico de <ctl>koeficientoj</ctl>. 
+    En multaj kutimaj kuntekstoj la bildigo inter <tld/>oj kaj <tld/>aj 
+    funkcioj estas bijekcia, sed ne &ccirc;iam. Same kiel ekzistas 
+    plurargumentaj <tld/>aj funkcioj, la &ccirc;i-supra formala nocio estas
+    vastigebla anka&ubreve; al pluraj <ctl>argumentoj</ctl>: la pliajn
+    argumentojn oni ofte signas per <frm am="bb Y"><g>Y</g></frm> kaj 
+    <frm am="bb Z"><g>Z</g></frm>. Se estas pli ol tri argumentoj,
+    oni ilin signas 
+    per <frm am="bb X_i"><g>X</g><sub><k>i</k></sub></frm> kun suba
+    indico.
+  </rim>
+  <trd lng="be">&c_p;&c_a;&c_l;&c_ib;&c_n;&c_o;&c_m;</trd>
+  <trd lng="de">Polynom</trd>
+  <trd lng="en">polynomial</trd>
+  <trd lng="es">polinomio</trd>
+  <trd lng="fr">polyn&ocirc;me</trd>
+  <trd lng="hu">polinom</trd>  
+  <trd lng="ja">&#x591A;&#x9805;&#x5F0F;  <pr>&#x305F;&#x3053;&#x3046;&#x3057;&#x304D;</pr></trd>
+  <trd lng="pl">wielomian</trd>
+  <trd lng="pt">polin&ocirc;mio</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_l;&c_je;&c_n;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_i;&c_n;&c_o;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mnoho&ccaron;len</trd>,
+    <trd>polyn&oacute;m</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>mnoho&ccaron;len</trd>,
+    <trd>polynom</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43B;&#x456;&#x43D;&#x43E;&#x43C;</trd>,
+    <trd>&#x431;&#x430;&#x433;&#x430;&#x442;&#x43E;&#x447;&#x43B;&#x435;&#x43D;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polino.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="funkci.polinoma0o">polinoma funkcio</ref>,
+      <ref cel="adici.polinoma0o">polinoma adicio</ref>,
+      <ref cel="multip.polinoma0o">polinoma multipliko</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_l;&c_ib;&c_n;&c_a;&c_m;&c_ib;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="de">polynomisch</trd>
+  <trd lng="en">polynomial</trd>
+  <trd lng="es">polin&oacute;mico</trd>
+  <trd lng="fr">polynomial</trd>
+  <trd lng="hu">polinom-</trd>  
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_i;&c_n;&c_o;&c_m;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polino.formala0o">
+  <kap>formala <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="polino.0o.formala"><tld/>o <sncref/>.</ref>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;
+<ind>&c_p;&c_a;&c_l;&c_ib;&c_n;&c_o;&c_m;</ind></trd>
+  <trd lng="de">formales <ind>Polynom</ind></trd>
+  <trd lng="en">formal <ind>polynomial</ind></trd>
+  <trd lng="es"><ind>polinomio</ind> formal</trd>
+  <trd lng="fr">polyn&ocirc;me formel</trd>
+  <trd lng="hu">form&aacute;lis <ind>polinom</ind></trd>  
+  <trd lng="ru">&c_f;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;
+<ind>&c_p;&c_o;&c_l;&c_i;&c_n;&c_o;&c_m;</ind></trd>
+</drv>
+
+<drv mrk="polino.karakteriza0o">
+  <kap>karakteriza <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;189</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="endomo.0o">endomorfio</ref> 
+      <frm am="f"><k>f</k></frm> en
+      <ref cel="spac.vektora0o">vektora spaco</ref>
+      <frm am="bb E"><g>E</g></frm>) </klr>
+      <ref cel="determ.0anto.endomorfio">Determinanto</ref> de
+      <frm am="f-lambda*&quot;id&quot;_(bb E)"><k>f</k>-&lambda;&middot;id<sub><g>E</g></sub></frm>:
+      <ekz>
+        la <ref cel="ajgen.0o">ajgenoj</ref> de endomorfio estas la
+        <ref cel="radik.0o.polinomo">radikoj</ref> de ties karakteriza
+        <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_a;&c_r;&c_y;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_y;
+<ind>&c_p;&c_a;&c_l;&c_ib;&c_n;&c_o;&c_m;</ind></trd>
+  <trd lng="de">charakteristisches <ind>Polynom</ind></trd>
+  <trd lng="en">characteristic <ind>polynomial</ind></trd>
+  <trd lng="fr">polyn&ocirc;me caract&eacute;ristique</trd>
+  <trd lng="es"><ind>polinomio</ind> caracter&iacute;stico</trd>
+  <trd lng="hu">karakterisztikus <ind>polinom</ind></trd>  
+  <trd lng="pl">wielomian charakterystyczny</trd>
+  <trd lng="ru">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_je;&c_r;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
+<ind>&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_l;&c_je;&c_n;</ind></trd>
+</drv>
+
+<drv mrk="polino.nul0o">
+  <kap>nul<tld/>o, <var><kap><tld/>a nulo</kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <ref cel="konsta.0a.polinomo">Konstanta</ref>
+      <ref tip="super" cel="polino.0o.formala"><tld/>o</ref>,
+      kies &ccirc;iuj termoj egalas al la nulo de la ringo:
+      <ekz>
+        la nul<tld/>o estas nulo de la <tld/>ringo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_u;&c_l;&c_mol;-&c_p;&c_a;&c_l;&c_ib;&c_n;&c_o;&c_m;</trd>
+  <trd lng="de">Nullpolynom</trd>
+  <trd lng="en">null <ind>polynomial</ind></trd>
+  <trd lng="fr">polyn&ocirc;me nul</trd>
+  <trd lng="hu">nullpolinom</trd>  
+  <trd lng="pl">wielomian zerowy</trd>
+  <trd lng="ru">&c_n;&c_u;&c_l;&c_mol;-&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_l;&c_je;&c_n;</trd>
+</drv>
+
+<drv mrk="polino.unuo0o">
+  <kap>unuo<tld/>o, <var><kap><tld/>a unuo</kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <ref cel="konsta.0a.polinomo">Konstanta</ref>
+      <ref tip="super" cel="polino.0o.formala"><tld/>o</ref>,
+      kies nenula termo egalas al la unuo de la ringo:
+      <ekz>
+        la unuo<tld/>on oni povas signi per <frm am="bb X^0"><g>X</g><sup>0</sup></frm> a&ubreve; <frm am="bb 1"><g>1</g></frm>;
+      </ekz>
+      <ekz>
+        la unuo<tld/>o estas <ref cel="unu.0o.neuxtra">unuo</ref> 
+        de la <tld/>ringo.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>Kontroli trd de/en/ru/pl. <aut>MB</aut></adm>
+  <trd lng="be">&c_a;&c_d;&c_z;&c_ib;&c_n;&c_k;&c_a;&c_v;&c_y;
+<ind>&c_p;&c_a;&c_l;&c_ib;&c_n;&c_o;&c_m;</ind></trd>
+  <trd lng="de">Einheitspolynom</trd>
+  <trd lng="en">unit <ind>polynomial</ind></trd>
+  <trd lng="fr">polyn&ocirc;me unit&eacute;</trd>
+  <trd lng="hu">egys&eacute;gpolinom</trd>  
+  <trd lng="pl">wielomian jednostkowy</trd>
+  <trd lng="ru">&c_je;&c_d;&c_i;&c_n;&c_i;&c_ch;&c_n;&c_y;&c_j;
+<ind>&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_l;&c_je;&c_n;</ind></trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.35 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.32 2020/02/14 18:10:21
+Wolfram Diestel: formuloj per am
+
+Revision 1.31  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2012/10/23 00:13:27  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.28  2006/03/08 17:34:26  revo
+Tulio Flores: +tr pt
+
+Revision 1.27  2005/04/28 16:34:19  revo
+Raul Salinas Monteagudo: korekto trd es
+
+Revision 1.26  2005/03/06 17:34:43  revo
+-->
+</vortaro>

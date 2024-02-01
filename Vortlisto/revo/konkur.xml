@@ -1,0 +1,448 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konkur.xml,v 1.103 2023/12/03 09:58:56 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>konkur</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konkur.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="konkur.0i.KOMUNE">
+    <dif>
+      Peni <ref cel="super.0i">superi</ref> unu alian pri komuna celo:
+      <ekz>
+        kiel atleto li ne estas kronata, se li ne la&ubreve;regule <tld/>is
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Timoteo 2:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj temploj <tld/>us por havi vin kiel unuan kantistinon
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        provu konkuri kun <klr>[&#x2026;]</klr> la re&gcirc;o de Asirio, mi donos al vi du mil
+        &ccirc;evalojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 18:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nenia risorto, nenia gutaperka pilko <klr>[&#x2026;]</klr> povis <tld/>i en la
+        fleksi&gcirc;emeco de iliaj movoj, kun la elasteco de iliaj saltoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Alda</nom> demandis, &ccirc;u ni ne povas prepari pli longajn taskojn, kaj ni <klr>[&#x2026;]</klr>
+        komencis <tld/>i
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        najtingaloj <tld/>as kun estradaj kantistoj, amuzante la vizitantojn
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multaj <klr>[&#x2026;]</klr> konkuras pri tiu posteno
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Deka &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>antaj interesoj
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;APITRO I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        ju pli &gcirc;i maljuni&gcirc;as, fari&gcirc;as des pli flava kaj sulkoplena, tamen via brusto
+        <tld/>as kun la koloro kaj delikateco de la plej dol&ccirc;aj ananasoj
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la muziko <klr>[&#x2026;]</klr> tiel pene konkuradis kun la dancado, ke <klr>[ni]</klr>
+        e&ccirc; unu minuton pli ne povus elteni
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="batal.0i.milito">batali</ref>,
+      <ref cel="konfli.0i">konflikti</ref>,
+      <ref cel="konkur2.0i">konkursi</ref>,
+      <ref cel="lukt.0i">lukti</ref>,
+      <ref cel="rival.0i">rivali</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_a;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_je;&c_r;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_k;&c_u;&c_r;&c_y;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_s;&c_malmol;&c_s;&c_t;&c_je;&c_z;&c_a;&c_v;&c_a;&c_m; &c_s;&c_je;</trd>,
+    <trd>&c_s;&c_malmol;&c_r;&c_je;&c_v;&c_n;&c_o;&c_v;&c_a;&c_v;&c_a;&c_m; &c_s;&c_je;</trd>
+  </trdgrp>
+  <trd lng="ca">competir</trd>
+  <trdgrp lng="cs">
+    <trd>sout&ecaron;&zcaron;it</trd>,
+    <trd>z&aacute;vodit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>konkurrieren</trd>,
+    <trd>wetteifern</trd>,
+    <trd>rivalisieren</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>compete</trd>,
+    <trd>contend</trd>,
+    <trd>rival</trd>
+  </trdgrp>
+  <trd lng="es">competir</trd>
+  <trdgrp lng="fr">
+     <trd>rivaliser</trd>,
+     <trd>concurrencer</trd>,
+     <trd>faire concurrence &agrave;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7AF6;&#x4E89;&#x3059;&#x308B;  <pr>&#x304D;&#x3087;&#x3046;&#x305D;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7AF6;&#x3046;  <pr>&#x304D;&#x305D;&#x3046;</pr></trd>,
+    <trd>&#x5F35;&#x308A;&#x5408;&#x3046;  <pr>&#x306F;&#x308A;&#x3042;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">wedijveren</trd>
+  <trdgrp lng="pl">
+    <trd>konkurowa&cacute;</trd>,
+    <trd>rywalizowa&cacute;</trd>,
+    <trd>wsp&oacute;&lstroke;zawodniczy&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>concorrer</trd>,
+    <trd>competir</trd>,
+    <trd>rivalizar</trd>,
+    <trd>porfiar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_r;&c_je;&c_v;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_s;&c_o;&c_p;&c_je;&c_r;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_k;&c_o;&c_n;&c_k;&c_u;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">s&uacute;&tcaron;a&zcaron;i&tcaron;</trd>
+  <trd lng="tok">utala</trd>
+  <trdgrp lng="zh">
+    <trd>&#x647D; <pr>bi&#xE0;o</pr></trd>,
+    <trd>&#x7ADE; <pr>j&#xEC;ng</pr></trd>,
+    <trd>&#x5339;&#x654C; <pr>p&#x1D0;d&#xED;</pr></trd>,
+    <trd>&#x53C2;&#x8D5B; <pr>c&#x101;ns&#xE0;i</pr></trd>,
+    <trd>&#x6297;&#x8861; <pr>k&#xE0;ngh&#xE9;ng</pr></trd>,
+    <trd>&#x51FA;&#x8CFD; <pr>ch&#x16B;s&#xE0;i</pr></trd>,
+    <trd>&#x7ADE;&#x4E89;&#x6027; <pr>j&#xEC;ngzh&#x113;ngx&#xEC;ng</pr></trd>,
+    <trd>&#x4E89; <pr>zh&#x113;ng</pr></trd>,
+    <trd>&#x7ADE;&#x4E89; <pr>j&#xEC;ngzh&#x113;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="konkur.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="konkur.0e.KOMUNE">
+    <dif>
+      Kiel <tld/>antoj; <ref cel="vet.0e.FIG">vete</ref>:
+      <ekz>
+        knabinoj <klr>[&#x2026;]</klr> kantis <tld/>e kun la violono
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj <tld/>e rapidas al la pordo, sin pu&scirc;as kaj penas eliri
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tiun]</klr> foson <klr>[&#x2026;]</klr> ni buboj <tld/>e penadis transsalti
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pluraj trotuaraj kafejoj <tld/>e invitis al pla&ccirc;a sensoifigo
+        <fnt>
+          <bib>ChB</bib>
+          <lok>1</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="temp.sam0ekun">samtempe kun</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_v;&c_y;&c_p;&c_je;&c_r;&c_a;&c_d;&c_k;&c_ib;</trd>
+  <trdgrp lng="ca">
+    <trd>en competici&oacute;</trd>,
+    <trd>competitivament</trd>
+  </trdgrp>
+  <trd lng="de">um die <ind>Wette</ind></trd>
+  <trd lng="en">competitively</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7AF6;&#x4E89;&#x3067;  <pr>&#x304D;&#x3087;&#x3046;&#x305D;&#x3046;&#x3067;</pr></trd>,
+    <trd>&#x7AF6;&#x3063;&#x3066;  <pr>&#x304D;&#x305D;&#x3063;&#x3066;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">om het <ind>hardst</ind></trd>
+  <trd lng="ru">&c_n;&c_a;&c_p;&c_je;&c_r;&c_je;&c_g;&c_o;&c_n;&c_k;&c_i;</trd>
+  <trd lng="fr"><ind>concurremment</ind> (en concurrence)</trd>
+</drv>
+
+<drv mrk="konkur.0ado">
+  <kap><tld/>o, <var><kap><tld/>ado</kap></var></kap>
+  <snc mrk="konkur.0ado.KOMUNE">
+    <dif>
+      Vet<ref tip="super" cel="batal.0o">batalo</ref> inter pluraj personoj:
+      <ekz>
+        <nom>Alice</nom> partoprenas la <tld/>on je malpeza atletiko
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ia laboro kaj &ccirc;ia lerteco en la faroj estas nur <tld/>ado de unu kontra&ubreve; alia
+        <fnt>
+          <bib>MT</bib>
+          <lok>Predikanto 4:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        da personoj, kiuj deziras doni lecionojn de komenca instruado estas multe pli ol
+        da tiaj, kiuj volas ilin preni, <klr>[&#x2026;]</klr> la <tld/>ado estas grandega,
+        sekve la prezoj estas tre malaltaj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili lernu liberi&gcirc;i de malamo, evitante senutilan <tld/>adon
+        <fnt>
+          <bib>VivZam</bib>
+          <lok>Vivo de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ekonomia <tld/>ado de diversnaciaj financistoj kaj entreprenistoj &mdash; estas
+        &ccirc;iam prezentata kiel <tld/>ado inter nacioj
+        <fnt>
+          <bib>Zam</bib>
+          <lok>La interna ideo de esperantismo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konkur1.0o">konkurenco</ref>,
+      <ref cel="konkur2.0o">konkurso</ref>
+    </refgrp>
+  </snc>
+  <trd lng="af">ras</trd>
+  <trd lng="am">&#x12D8;&#x122D;</trd>
+  <trd lng="ar">&a_s;&a_b;&a_A;&a_q;</trd>
+  <trd lng="az">irqi</trd>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_a;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_je;&c_r;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_k;&c_u;&c_r;&c_e;&c_n;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_s;&c_malmol;&c_s;&c_t;&c_je;&c_z;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_malmol;&c_r;&c_je;&c_v;&c_n;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_malmol;&c_p;&c_je;&c_r;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x99C;&#x9BE;&#x9A4;&#x9BF;</trd>
+  <trd lng="bo">&t_-a;&t_ga;&t_rata;&t_na;&t_tsheg;&t_sa;&t_data;&t_shabchu;&t_ra;&t_tsheg;</trd>
+  <trd lng="bs">rase</trd>
+  <trd lng="ca">competici&oacute;</trd>
+  <trd lng="co">a punti</trd>
+  <trdgrp lng="cs">
+    <trd>hospod&aacute;&rcaron;sk&aacute; sout&ecaron;&zcaron;</trd>,
+    <trd>rivalita</trd>,
+    <trd>sout&ecaron;&zcaron;en&iacute;</trd>
+  </trdgrp>
+  <trd lng="cy">hil</trd>
+  <trd lng="da">l&oslash;b</trd>
+  <trdgrp lng="de">
+     <trd>Wettbewerb</trd>,
+     <trd>Wettstreit</trd>,
+     <trd>Wettlauf</trd>
+  </trdgrp>
+  <trd lng="en">competition</trd>
+  <trd lng="es">competici&oacute;n</trd>
+  <trd lng="et">rassi</trd>
+  <trd lng="eu">lasterketa</trd>
+  <trdgrp lng="fr">
+    <trd>concours</trd>,
+    <trd>concurrence</trd>,
+    <trd>comp&eacute;tition</trd>,
+    <trd>rivalit&eacute;</trd>
+  </trdgrp>
+  <trd lng="fy">ras</trd>
+  <trd lng="ga">cine</trd>
+  <trd lng="gd">r&egrave;is</trd>
+  <trd lng="gl">carreira</trd>
+  <trd lng="gu">&#xAB0;&#xAC7;&#xAB8;</trd>
+  <trd lng="hi">&#x926;&#x94C;&#x921;&#x93C;</trd>
+  <trd lng="hmn">haiv neeg</trd>
+  <trd lng="hr">utrka</trd>
+  <trd lng="ht">ras</trd>
+  <trd lng="hy">&#x574;&#x580;&#x581;&#x561;&#x57E;&#x561;&#x566;&#x584;</trd>
+  <trd lng="ig">agb&#x1EE5;r&#x1EE5;</trd>
+  <trd lng="is">kapp</trd>
+  <trd lng="ja">&#x30EC;&#x30FC;&#x30B9;</trd>
+  <trd lng="jv">lomba</trd>
+  <trd lng="ka">&#x10E0;&#x10D0;&#x10E1;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&c_n;&#x4D9;&c_s;&c_ib;&c_l;</trd>
+  <trd lng="km">&#x1780;&#x17B6;&#x179A;&#x1794;&#x17D2;&#x179A;&#x178E;&#x17B6;&#x17C6;&#x1784;</trd>
+  <trd lng="kn">&#xC93;&#xC9F;&#xCA6;</trd>
+  <trd lng="ko">&#xB808;&#xC774;&#xC2A4;</trd>
+  <trd lng="ku">n&icirc;jad</trd>
+  <trd lng="ky">&c_t;&c_u;&c_k;&c_u;&c_m;</trd>
+  <trd lng="lat">generis</trd>
+  <trd lng="lo">&#xEC0;&#xE8A;&#xEB7;&#xEC9;&#xEAD;&#xE8A;&#xEB2;&#xE94;</trd>
+  <trd lng="lt">var&zcaron;ybos</trd>
+  <trd lng="lv">skr&emacron;jiens</trd>
+  <trd lng="mg">hazakazaka</trd>
+  <trd lng="mi">iwi</trd>
+  <trd lng="mk">&c_t;&c_r;&c_k;&c_a;</trd>
+  <trd lng="ml">&#xD13;&#xD1F;&#xD4D;&#xD1F;&#xD02;</trd>
+  <trd lng="mn">&c_u;&c_r;&c_a;&c_l;&c_d;&c_a;&c_a;&c_n;</trd>
+  <trd lng="mr">&#x936;&#x930;&#x94D;&#x92F;&#x924;</trd>
+  <trd lng="ms">bangsa</trd>
+  <trd lng="mt">razza</trd>
+  <trd lng="my">&#x101C;&#x1030;&#x1019;&#x103B;&#x102D;&#x102F;&#x1038;</trd>
+  <trd lng="ne">&#x926;&#x94C;&#x921;</trd>
+  <trd lng="nl">wedijver</trd>
+  <trd lng="ny">mtundu</trd>
+  <trd lng="pa">&#xA26;&#xA40; &#xA26;&#xA4C;&#xA5C;</trd>
+  <trd lng="ps">&a_n;&f_zh;&a_A;&a_d;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_r;&c_je;&c_v;&c_n;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_o;&c_p;&c_je;&c_r;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trd lng="rw">ubwoko</trd>
+  <trd lng="sd">&#x684;&a_A;&a_m;&a_sh;&a_w;&a_r;&a_w;</trd>
+  <trd lng="si">&#xDA2;&#xDCF;&#xDAD;&#xDD2;&#xDBA;</trd>
+  <trd lng="sk">hospod&aacute;rska s&uacute;&tcaron;a&zcaron;</trd>
+  <trd lng="sl">rase</trd>
+  <trd lng="sm">lalolagi</trd>
+  <trd lng="sn">rudzi</trd>
+  <trd lng="so">jinsiyadda</trd>
+  <trd lng="sq">gar&euml;</trd>
+  <trd lng="st">morabe</trd>
+  <trd lng="su">balapan</trd>
+  <trd lng="sw">mbio</trd>
+  <trd lng="ta">&#xB87;&#xBA9;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC30;&#xC47;&#xC38;&#xC41;</trd>
+  <trd lng="tg">&c_n;&c_a;&c_zh;&c_o;&c_d;</trd>
+  <trd lng="th">&#xE01;&#xE32;&#xE23;&#xE41;&#xE02;&#xE48;&#xE07;&#xE02;&#xE31;&#xE19;</trd>
+  <trd lng="tl">lahi</trd>
+  <trd lng="tok">utala</trd>
+  <trd lng="tt">&c_u;&c_z;&c_y;&c_sh;</trd>
+  <trd lng="uk">&c_g;&c_o;&c_n;&c_k;&c_a;</trd>
+  <trd lng="ur">&a_r;&f_y;&a_s;</trd>
+  <trd lng="uz">irq</trd>
+  <trd lng="vi">cu&#x1ED9;c &#x111;ua</trd>
+  <trd lng="xh">uhlanga</trd>
+  <trd lng="yi">&resh;&alef;&#x5B7;&samekh;&ayin;</trd>
+  <trd lng="yo">ije</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7ADE;&#x4E89; <pr>j&#xEC;ngzh&#x113;ng</pr></trd>,
+    <trd>&#x7ADE;&#x8D5B; <pr>j&#xEC;ngs&#xE0;i</pr></trd>,
+    <trd>&#x6BD4;&#x8CFD; <pr>b&#x1D0;s&#xE0;i</pr></trd>,
+    <trd>&#x8CFD; <pr>s&#xE0;i</pr></trd>,
+    <trd>&#x7ADE;&#x4E89; <pr>j&#xEC;ngzh&#x113;ng</pr></trd>
+  </trdgrp>
+  <trd lng="zu">uhlanga</trd>
+</drv>
+
+<drv mrk="konkur.0eco">
+  <kap>
+    <tld/>eco
+  </kap>
+  <snc>
+    <dif>
+      Rilato karakterizita de <tld/>ado:
+      <ekz>
+        pro la &ccirc;eesto de Fernando apud la du kuzinoj, naski&gcirc;is inter tiuj du junulinoj
+        <tld/>eco
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekkvina</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+    <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_a;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_je;&c_r;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_k;&c_u;&c_r;&c_e;&c_n;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Rivalit&auml;t</trd>,
+    <trd>Konkurrenz</trd>
+  </trdgrp>
+</drv>
+
+
+
+
+
+
+</art>
+<!--
+$Log$
+versio 1.102 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.100 2023/05/11 10:30:37
+Dmitri Gabinski: + trd be
+
+versio 1.99 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.98 2022/04/25 18:38:11
+Wolfram Diestel: +~eco
+
+versio 1.97 2022/04/25 16:42:40
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.20  2016/10/06 10:10:23  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+-->
+</vortaro>

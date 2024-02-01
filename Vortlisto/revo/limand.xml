@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: limand.xml,v 1.18 2023/09/01 19:11:00 revo Exp $">
+<kap>
+  <rad>limand</rad>/o
+</kap>
+<drv mrk="limand.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="limand.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:zoologiaj_genroj" cel="genr.0o.BIO">Genro</ref> de
+      el familio <ref tip="malprt" cel="pleuxr3.0oj">ple&ubreve;ronektedoj</ref>
+      (<trd lng="la">Limanda</trd>),
+      ovala kaj plata fi&scirc;o, vivanta en Atlantiko:
+      <ekz>
+        <tld/>o <klr>[&#x2026;]</klr> povas atingi longon de 40 centimetroj kaj
+        pezon de 1000
+        gramoj, la plej alta registrita a&gcirc;o estas 12 jara
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=397391">Limando</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/9/9c/Limanda_limanda.jpg/638px-Limanda_limanda.jpg" prm="CC BY-SA     4.0"><tld/>o el la suda parto de Norda Maro
+        <fnt>
+          <aut>&#xA9; Hans Hillewaert, propra verko</aut>
+          <lok><url ref="&WCW;/File:Limanda_limanda.jpg">&WCW;/File:Limanda_limanda.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_m;&c_a;&c_n;&c_d;&c_a;</trd>
+  <trd lng="ca">limanda</trd>
+  <trd lng="de">Kliesche</trd>
+  <trd lng="en">dab</trd>
+  <trd lng="fr">limande</trd>
+  <trd lng="hu">lep&eacute;nyhal</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DE;&#x30AC;&#x30EC;&#x30A4;</trd>,
+    <trd>&#x30CB;&#x30B7;&#x30DE;&#x30AC;&#x30EC;&#x30A4;</trd>
+  </trdgrp>
+  <trd lng="nl">schar</trd>
+  <trdgrp lng="pl">
+    <trd>krwawo&lstroke;usk</trd>,
+    <trd>limanda</trd>
+  </trdgrp>
+  <trd lng="pt">azevia</trd>
+  <trd lng="ro">limand&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_je;&c_r;&c_sh;&c_o;&c_v;&c_a;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_l;&c_i;&c_m;&c_a;&c_n;&c_d;&c_a;</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43B;&c_i;&#x43C;&c_a;&#x43D;&c_d;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.17 2023/08/10 08:31:13
+Dmitri Gabinski: + trd be
+
+versio 1.16 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.14 2020/01/12 00:10:39
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.13  2019/03/16 09:10:14  revo
+Wolfram Diestel: aktualigis dif, +ekz, +bld
+
+Revision 1.12  2011/12/11 15:10:12  revo
+Marc Rausell: +trd ca
+
+Revision 1.11  2006/09/14 16:31:13  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/08/13 16:33:29  revo
+Jeromo Vasxe: + trd fr
+
+Revision 1.9 2002/10/06 17:35:14 revo
+-->
+</vortaro>

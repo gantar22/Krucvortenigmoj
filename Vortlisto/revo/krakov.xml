@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: krakov.xml,v 1.8 2023/12/03 09:59:00 afido Exp $">
+<kap>
+  <rad>Krakov</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="krakov.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="krakov.0o.urbo">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:urboj" cel="urb.0o.ARKI">Urbo</ref>
+      en la sudo de <ref tip="super" cel="pol.P0lando">Pollando</ref>,
+      &ccirc;. 250&#x202F;km sudokcidente de <ref cel="varsovi.0o">Varsovio</ref>:
+      <ekz>
+        la estraro de la gastama <tld/>o <klr>[&#x2026;]</klr> donis al nia kongreso sian
+        moralan kaj materialan subtenon
+        <fnt>
+          <bib>Paroloj</bib>Krakovo
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vienaj infanoj gastis en Prago, Brno, Bratislavo kaj <tld/>o, por prezenti al
+        tieaj lo&gcirc;antoj kristnaskajn kantojn
+        <fnt>
+       <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2000/006867.php">Onto-ponto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por la &ccirc;i-jara patronfesto estis dedi&ccirc;ita skulpta&jcirc;o de la Sankta Virgulino <nom>Maria</nom>
+        muldita en la pola urbo <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2008/009647.php">Dia Filo estu glorata dum
+          jarcentoj</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_K;&c_r;&c_a;&c_k;&c_a;&c_w;</trd>
+  <trd lng="de">Krakau</trd>
+  <trd lng="en">Krak&oacute;w</trd>
+  <trd lng="fr">Cracovie</trd>
+  <trd lng="ja">&#x30AF;&#x30E9;&#x30AF;&#x30D5;</trd>
+  <trd lng="nl">Krakau</trd>
+  <trd lng="uk">&#x41A;&c_r;&c_a;&#x43A;&c_ib;&c_v;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x514B;&#x62C9;&#x79D1;&#x592B; <pr>K&#xE8;l&#x101;k&#x113;f&#x16B;</pr></trd>,
+    <trd>&#x514B;&#x62C9;&#x79D1;&#x4F15; <pr>k&#xE8;l&#x101;k&#x113;f&#x16B;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2023/04/25 06:32:22
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.5 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.4 2022/04/27 06:38:26
+Dmitri Gabinski: + trd be
+
+versio 1.2 2020/12/27 14:42:41
+Jeromo Vasxe: + fnt piv1
+
+versio 1.1 2020/12/17 17:07:28
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

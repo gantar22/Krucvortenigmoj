@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: munt.xml,v 1.31 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>munt</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="munt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="munt.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Fikse <ref tip="super" cel="met.kun0i.KOMUNE">kunmeti</ref> la diversajn partojn de aparato
+      sur la
+      &gcirc;ustajn lokojn:
+      <ekz>
+        <tld/>i a&ubreve;tobusojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Karlo Juh&aacute;sz</aut>
+          <vrk><url ref="&Monato;/2010/009995.php">Pordo al okcidento</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        a&ccirc;eti komputilon <tld/>itan de malgranda &ccirc;ina
+        kompanio
+        <fnt><aut>Liu Xiaozhe</aut>: <vrk>Interreto en
+        malfacilo</vrk>, <bib>Monato</bib><lok>jaro 1997a, numero 8a, p.
+        15a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la tegmento estis kovrita per ardezplatoj <tld/>itaj la&ubreve; la franca metodo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pierre Grollemund</aut>
+          <vrk><url ref="&Monato;/2012/010736.php">La stacidomo de Kolmaro</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e IKEA vi a&ccirc;etas kelkajn paka&jcirc;ojn, devas mem transporti ilin hejmen,
+        <klr>[&#8230;]</klr> kaj mem <tld/>i &scirc;rankon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2010/010006.php">A&ubreve;tomat-homo</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+   <trdgrp lng="hu">
+     <trd>szerel</trd>,
+     <trd>&ouml;sszeszerel</trd>
+   </trdgrp>
+   <trdgrp lng="de">
+     <trd>zusammenbauen</trd>
+   </trdgrp>
+   <trdgrp lng="nl">
+     <trd>monteren</trd>,
+     <trd>assembleren</trd>,
+     <trd>samenstellen</trd>
+   </trdgrp>
+   <trdgrp lng="pl">
+     <trd>montowa&cacute;</trd>,
+     <trd>sk&lstroke;ada&cacute;</trd>,
+     <trd>zestawia&cacute;</trd>
+   </trdgrp>
+   <trd lng="pt">montar <klr tip="amb">(t&eacute;cn.)</klr></trd>
+  </snc>
+  <snc mrk="munt.0i.en">
+    <dif>
+      Al<ref tip="super" cel="fiks.0i.flagon">fiksi</ref> ion en kadro, &ccirc;e muro ks;
+      <ref tip="sub" cel="munt.en0i">en<tld/>i</ref>:
+      <ekz>
+        en flugaparatoj li <tld/>adis motorojn de rusaj motorboatoj
+        <fnt>
+       <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2000/006877.php">Nekutimaj transportiloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        forno <tld/>ita en la kastela &ccirc;irka&ubreve;fosa&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2010/009731.php">Tajg kaj Tomas</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        okulvitroj en nigra korna <ind><tld/>umo</ind>
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+        <trd lng="de">Gestell</trd>
+      </ekz>
+      <ekz>
+        li a&ccirc;etis taksion <klr>[&#8230;]</klr> kaj <tld/>is kameraon sur ties tegmento,
+        <ref cel="kupl.0i.TEK">kuplante</ref> &gcirc;in al la distanc-mezurilo de la a&ubreve;to
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Istv&aacute;n Ertl</aut>
+          <vrk><url ref="&Monato;/2011/010457.php">Perspektivoj el rubujo</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se oni nur bezonas la sateliton kun la plej furoraj nacilingvaj programoj kaj
+        aldone tiun de Pola Radio, oni povas fakte <klr>[&#8230;]</klr> <tld/>i du kapojn
+        en la saman pelvon, permesante la antenon strabi al du satelitoj samtempe
+        <fnt>
+          <aut>PEJNO Simono</aut>
+          <vrk><url ref="&Monato;/1995/004358.html">Poloj per pelvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/04, p. 17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+   <trdgrp lng="de">
+     <trd>einsetzen</trd>
+   </trdgrp>
+  </snc>
+  <snc mrk="munt.0i.FOT">
+    <uzo tip="fak">FOT</uzo><uzo tip="fak">KIN</uzo>
+    <dif>
+      Kunmeti unuopajn bildojn al komponita bildo; kunmeti filmitajn scenojn al tuta
+      filmo:
+      <ekz>
+        filmi eventon per videokamero, <tld/>i la filmon kaj translacii &gcirc;in sur la
+        ekranon
+        <fnt>
+          <bib>KFl</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">schneiden <klr>(Film)</klr></trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_a;&c_l;&c_jo;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_mol;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol; <klr>(&c_k;&c_a;&c_n;&c_s;&c_t;&c_r;&c_u;&c_k;&c_c;&c_y;&c_ju;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>montovat</trd>,
+    <trd>sestavit</trd>,
+    <trd>st&rcaron;&iacute;hat</trd>
+  </trdgrp>
+  <trd lng="de">montieren</trd>
+  <trdgrp lng="en">
+    <trd>assemble</trd>,
+    <trd>mount</trd>,
+    <trd>set</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>assembler</trd>,
+    <trd>monter<klr> (assembler)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7D44;&#x307F;&#x7ACB;&#12390;&#x308B;  <pr>&#x304F;&#x307F;&#x305F;&#12390;&#x308B;</pr></trd>,
+    <trd>&#x306F;&#12417;&#x8FBC;&#12416;  <pr>&#x306F;&#12417;&#12371;&#12416;</pr></trd>,
+    <trd>&#x7DE8;&#x96C6;&#12377;&#x308B;  <pr>&#12408;&#12435;&#12375;&#12421;&#12358;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x30ED;&#x30FC;&#x30C9;&#12377;&#x308B;</trd>
+  </trdgrp>
+  <trd lng="pl">wstawia&cacute;</trd>
+  <trd lng="pt">engastar <klr tip="amb">(pedra preciosa em
+  metal)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_o;&c_n;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_m;&c_o;&c_n;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>montova&tcaron;</trd>,
+    <trd>zostavi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&#x43D;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_a;&#x43D;&#x43E;&c_v;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&#x43F;&c_r;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_s;&c_t;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="munt.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o
+  </kap>
+  <snc mrk="munt.0ajxo.BELA">
+    <uzo tip="fak">BELA</uzo><uzo tip="fak">FOT</uzo>
+    <dif>
+      Bildo a&ubreve; foto komponita el pluraj unuopaj elementoj:
+      <ekz>
+        la vizitanto zigzagas <klr>[&#8230;]</klr> en labirinto, kie pentra&jcirc;oj, skulpta&jcirc;oj,
+        fotoj, <tld/>a&jcirc;oj, kunglua&jcirc;oj, <klr>[&#8230;]</klr> ktp prezentas buntan kaj
+        koloran bildon pri tiu kontinento
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ren&eacute;e Triolle</aut>
+          <vrk><url ref="&Monato;/2006/008835.php">500 &ccirc;efverkoj en Monako</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_t;&c_a;&c_zh; <klr>(&c_t;&c_v;&c_o;&c_r;)</klr></trd>
+  <trd lng="de">Montage <klr>(Kunst)</klr></trd>
+  <trd lng="ja">&#x7D44;&#x7ACB;&#x54C1;  <pr>&#12367;&#12415;&#12383;&#12390;&#12402;&#12435;</pr></trd>
+  <trd lng="uk">&#x43C;&#x43E;&#x43D;&c_t;&c_a;&c_zh; (&c_r;&c_je;&c_z;&c_u;&#x43B;&#x44C;&c_t;&c_a;&c_t;)</trd>
+</drv>
+
+<drv mrk="munt.en0i">
+  <kap>en<tld/>i</kap>
+  <snc mrk="munt.en0i.TEK">
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      Alfiksi en ta&ubreve;gan lokon plusan parton al aparato:
+      <ekz>
+        parabolspegula antenpelvo kun en<tld/>ita
+        kapeto<fnt><aut>Pejno Simono</aut>: <vrk>Radio/Poloj per pelvo
+        (radioprogramoj en Esperanto)</vrk>, <bib>Monato</bib><lok>jaro
+        1995a, numero 4a, p. 17a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_m;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="de">einbauen</trd>
+  <trdgrp lng="fr">
+    <trd>enficher</trd>,
+    <trd>ins&eacute;rer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>beszerel</trd>,
+    <trd>be&eacute;p&iacute;t</trd>
+  </trdgrp>
+  <trd lng="nl">inbouwen</trd>
+  <trd lng="pl">wmontowa&cacute;</trd>
+  <trd lng="ru">&c_v;&c_m;&c_o;&c_n;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="munt.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="munt.mal0i.TEK">
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      Disigi la partojn de anta&ubreve; <tld/>ita objekto evitante rompadon a&ubreve; detruon:
+      <ekz>
+        fabriko por mal<tld/>i malnovan municion
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2008/009466.php">Tragedio en Gerdec</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de la turo, finkonstruita en 1980, oni ne tute mal<tld/>is la instala&jcirc;ojn: oni
+        esperas iamaniere reuzi ilin en venontaj jaroj
+        <fnt>
+       <aut>LAST/pg</aut>
+          <vrk><url ref="&Monato;/2000/006839.php">Malmiraklo prilumita</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/08, p. 15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_m;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_m;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_e;&c_m;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>demontovat</trd>,
+    <trd>rozebrat</trd>,
+    <trd>rozmontovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ausbauen</trd>,
+    <trd>abbauen</trd>,
+    <trd>abmontieren</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>dismantle</trd>,
+    <trd>disassemble</trd>,
+    <trd>take apart</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;monter</trd>,
+    <trd>d&eacute;sassembler<klr> (d&eacute;monter)</klr></trd>,
+    <trd>disjoindre</trd>
+  </trdgrp>
+  <trd lng="hu">sz&eacute;tszerel</trd>
+  <trdgrp lng="ja">
+    <trd>&#x89E3;&#x4F53;&#12377;&#x308B;  <pr>&#x304B;&#12356;&#x305F;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#20998;&#x89E3;&#12377;&#x308B;  <pr>&#12406;&#12435;&#x304B;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x53D6;&#x308A;&#22806;&#12377;  <pr>&#12392;&#x308A;&#x306F;&#x305A;&#12377;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>demonteren</trd>,
+    <trd>losmaken</trd>,
+    <trd>ontmantelen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rozmontowa&cacute;</trd>,
+    <trd>demontowa&cacute;</trd>,
+    <trd>rozk&lstroke;ada&cacute;</trd>,
+    <trd>rozbiera&cacute; <klr tip="amb">na cz&eogonek;&sacute;ci</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_je;&c_m;&c_o;&c_n;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">rozobra&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_je;&#x43C;&#x43E;&#x43D;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_gu;&c_v;&c_i;&#x43D;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="munt.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="munt.0isto.TEK">
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      Laboristo, kiu prizorgas la <tld/>adon:
+      <ekz>
+         li plene retiri&gcirc;is de la &jcirc;azo, laboris en Novjorko kiel
+         elektro<tld/>isto
+         <fnt>
+           <bib>Viki</bib>,
+           <lok>
+             <url ref="&Viki;/Paul_Quinichette">
+             Paul Quinichette</url>,
+             2012-08-24
+           </lok>
+         </fnt>;
+      </ekz>
+      <ekz>
+         anka&ubreve; multe lerni en mia nova profesio (tiu de
+         elektro<tld/>isto-riparisto pri alt-tensiaj instala&jcirc;oj) mi
+         devas por ne perdi laborlokon.<fnt>
+           <lok>
+             <url ref="http://my.opera.com/Samideano/blog/index.dml/tag/esperarto">
+             Iom pri mia rareco (enreta)</url>,
+             2012-08-24
+           </lok>
+         </fnt>;
+      </ekz>
+      <ekz>
+        profesioj de &ccirc;inaj laborantoj &ccirc;efe estas konstruisto, kuiristo, tajloro,
+        servistino kaj elektronika <tld/>isto
+        <fnt>
+          <aut>MU Binghua</aut>
+            <vrk><url ref="&Monato;/2000/007046.php">Eksporto de laboristoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 10</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Monteur</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_m;&c_a;&c_n;&c_mol;&c_c;&c_jo;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>mont&aacute;&zcaron;n&iacute;k</trd>,
+    <trd>mont&eacute;r</trd>
+  </trdgrp>
+  <trd lng="fr">monteur</trd>
+  <trd lng="pl">monter</trd>
+  <trd lng="sk">mont&eacute;r</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&#x43D;&c_t;&c_je;&c_r;</trd>,
+    <trd>&#x43C;&#x43E;&#x43D;&c_t;&c_a;&c_zh;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&c_s;&#x43A;&#x43B;&c_a;&c_d;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&#x43C;&#x43E;&#x43D;&c_t;&c_a;&c_zh;&c_je;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.30 2023/09/12 19:20:13
+Wolfram Diestel: pr. ja
+
+versio 1.28 2023/05/01 06:31:40
+Paul Peeraerts: Steloj -> monato
+
+versio 1.27 2023/04/25 11:23:19
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.26 2023/04/24 14:28:21
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.25 2023/04/11 12:45:27
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.24 2022/12/02 10:31:20
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/05/01 12:05:12
+-->
+</vortaro>

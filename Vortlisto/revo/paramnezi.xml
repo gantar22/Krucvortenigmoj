@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: paramnezi.xml,v 1.5 2023/06/17 06:30:42 revo Exp $">
+<kap>
+  <rad>paramnezi</rad>/o <fnt><bib>Viki</bib></fnt>
+</kap>
+<drv mrk="paramnezi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="paramnezi.0o.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Sento ke momenta situacio ripetas tre similan
+      sed ne mem memoreblan pasinta&jcirc;on:
+      <ekz>
+        en 1876 Boirac proponis la terminon <ctl>d&eacute;j&agrave;
+        vu</ctl>
+        kaj i&gcirc;is konata fakulo pri <tld/>o
+        <fnt>
+          <aut>A. Kor&jcirc;enkov, H. Gorecka</aut>,
+          <vrk><url ref="&Sezonoj;2017/09/boirac/">
+          &Eacute;mile Boirac</url></vrk>,
+          <lok>La Ondo de Esperanto, 2017:8-9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_m;&c_n;&c_e;&c_z;&c_ib;&c_ja;</trd>
+  <trd lng="fr">d&eacute;j&agrave;-vu</trd>
+  <trd lng="nl">d&eacute;j&agrave; vu</trd>
+  <trd lng="pl">d&eacute;j&agrave; vu</trd>
+  <trd lng="ro">deja vu</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.5 2023/06/17 06:30:42
+Paul Peeraerts:  + trd nl
+
+versio 1.4 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.3 2022/01/31 07:28:52
+Dmitri Gabinski: + trd be
+
+versio 1.2 2021/11/30 20:32:37
+Vito Redsky: +trd pl +trd ro
+-->
+</vortaro>

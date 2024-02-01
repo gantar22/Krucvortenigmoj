@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: redakc.xml,v 1.23 2023/10/20 19:20:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>redakci</rad>/o
+</kap>
+<drv mrk="redakc.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="redakc.0o.istaro">
+    <dif>
+      Tuto de tiuj, kiuj redaktas gazeton; redaktistaro:
+      <ekz>
+        &scirc;an&gcirc;o en la Esperanto-<tld/>o de la Pola Radio.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Redaktionsteam</trd>,
+      <trd>Redakteure</trd>
+    </trdgrp>
+    <trd lng="en">editorial staff</trd>
+    <trd lng="fr">r&eacute;daction<klr> (&eacute;quipe de)</klr></trd>
+    <trd lng="hu">szerkeszt&odblac;s&eacute;g</trd>
+  </snc>
+  <snc mrk="redakc.0o.ejo">
+    <dif>
+      <ref tip="dif" cel="redakt.0ejo">Redaktejo</ref>.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Redaktionsb&uuml;ro</trd>
+    </trdgrp>
+    <trd lng="en">editorial office</trd>
+    <trd lng="fr">r&eacute;daction<klr> (bureau de)</klr></trd>
+    <trd lng="hu">szerkeszt&odblac;s&eacute;g</trd>
+  </snc>
+  <snc mrk="redakc.0o.versio">
+    <dif>
+      Stato de teksto, programo ktp:
+      <ekz>
+        ilia definitiva <tld/>o estos fiksita nur en la
+        kongreso
+        <fnt><bib>DdH</bib>: <lok>RE, 1906:2, p.27.</lok></fnt>;
+      </ekz>
+      <ekz>
+        la redakcio 24-a de la <ctl>Komputada leksikono</ctl>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="leg.0o.versio">lego</ref>,
+      <ref cel="varian.0o">varianto</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Redaktionsstand</trd>,
+      <trd>redaktioneller Bearbeitungsstand</trd>
+    </trdgrp>
+    <trd lng="nl">versie</trd>
+    <trd lng="en">edition</trd>
+    <trd lng="fr">r&eacute;daction<klr> (d'un texte)</klr></trd>
+    <trd lng="hu">szerkeszt&eacute;s</trd>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_d;&c_a;&c_k;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>modifikace</trd>,
+    <trd>redigov&#xE1;n&#xED;</trd>,
+    <trd>upravov&#xE1;n&#xED;</trd>
+  </trdgrp>
+  <trd lng="de">Redaktion</trd>
+  <trd lng="ja">&#x7DE8;&#x96C6;&#x90E8;  <pr>&#x3078;&#x3093;&#x3057;&#x3085;&#x3046;&#x3076;</pr></trd>
+  <trd lng="nl">redactie</trd>
+  <trdgrp lng="pl">
+    <trd>redakcja</trd>,
+    <trd>wydawnictwo</trd>
+  </trdgrp>
+  <trd lng="ro">redac&#x21B;ie</trd>
+  <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>modifik&#xE1;cia</trd>,
+    <trd>redigovanie</trd>,
+    <trd>upravovanie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&c_d;&c_a;&#x43A;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_s;&c_ib;&#x44F;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.21 2023/03/04 22:29:17
+Ulrich Fellmann: redakcio: +5 DE trdj
+
+versio 1.20 2022/08/24 22:32:27
+Vito Redsky:  +trd pl  + trd ro 
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/05/28 11:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2003/08/06 16:31:24  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/02/05 17:31:11  revo
+Ulrich Fellmann: alilokigo de trd = de
+
+Revision 1.13  2003/02/04 17:31:15  revo
+-->
+</vortaro>

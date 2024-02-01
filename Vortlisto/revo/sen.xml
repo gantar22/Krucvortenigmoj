@@ -1,0 +1,750 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sen.xml,v 1.39 2023/10/21 06:31:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sen</rad>
+</kap>
+<!-- ..................... sen I ...................... -->
+<subart>
+
+<drv mrk="sen.0">
+  <kap><ofc>*</ofc><tld/></kap>
+  <dif>
+    Prepozicio esprimanta iel nenormalan, neatenditan foreston, a&ubreve; iom
+    esceptan, penigan mankon:
+  </dif>
+  <snc mrk="sen.0.prep_obj">
+    <dif>
+      De objekto a&ubreve; persono:
+      <ekz>
+        li donis al mi teon kun sukero sed <tld/> kremo
+        <fnt><bib>F</bib>, <lok>Ekzercaro, &para; 26</lok></fnt>;
+      </ekz>
+      <ekz>
+        ni povas uzi akuzativon <tld/> prepozicio
+         <fnt><bib>F</bib>, <lok>Ekzercaro, &para; 29</lok></fnt>;
+      </ekz>
+      <ekz>
+        vi tute ne estas &gcirc;entila, diris la feino <tld/>
+        kolero
+      <fnt>
+        <bib>F</bib>
+        <lok>&FE; 19</lok>
+      </fnt>;
+      </ekz>
+      <ekz>
+        la generalo venis <tld/> adjutanto<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/> gutoj malgrandaj maro ne ekzistus
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        esti <tld/> pano, mono, armiloj.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="sen.0.prep_ago">
+    <dif>
+      De stato a&ubreve; ago:
+      <ekz>
+        ne venas honoro <tld/> laboro
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        tiuj fortoj devis resti por &scirc;i <tld/>
+        uzo<fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/> bezono tro multe ser&ccirc;adi en la vortaro
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ne povas subskribi <klr>[&#8230;]</klr> sen elmeti sin al ia <klr>[&#8230;]</klr> dan&gcirc;ero
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la suno neniam levi&gcirc;as <tld/> rigardi <klr>[&#8230;]</klr>
+        batalojn
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li restis du tagojn <tld/> man&gcirc;i;
+      </ekz>
+      <ekz>
+        li nenion volis decidi <tld/> demandi min;
+      </ekz>
+      <ekz>
+        vi ne permesas vin ofendi <tld/> postuli
+        kontentigon
+        <fnt>
+          <aut>Ivan Turgenjev, trad. Kazimierz Bein</aut>
+          <vrk><url ref="&EduInf;lern/librejo/0025/0024.php">Patroj kaj
+          filoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        via patro neniam povis ekrigardi vin <tld/> tio, ke li batus
+        sin en la bruston
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Kvankam la uzado de <em>sen</em> anta&ubreve; infinitivo estas neofta,
+      &gcirc;i estas tute korekta, &ccirc;ar logika kaj utila. La kutima
+      dirmaniero <em>ne ...-ante</em> ne estas &gcirc;uste samsenca,
+      &ccirc;ar &gcirc;i ne esprimas la neatenditecon a&ubreve; la
+      esceptecon de la foresto. Ekzemple:
+      <ekz>
+        ne parolante <klr>(&ccirc;ar mia temo
+        ne estas)</klr> pri la versarto, mi do ne analizos la ritmon;
+      </ekz>
+      <ekz>
+        <tld/> paroli <klr>(e&ccirc; se oni ne volas paroli)</klr>
+        pri la versarto, la tie esprimita ideo estas admirinda.
+      </ekz>
+    </rim>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_z;</trd>
+  <trd lng="bg">&c_b;&c_je;&c_z;</trd>
+  <trd lng="bo">&t_pha;&t_yata;&t_gigu;&t_tsheg;&t_la;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>ani&zcaron;</trd>,
+    <trd>bez <klr>(n&ecaron;&ccaron;eho)</klr></trd>
+  </trdgrp>
+  <trd lng="de">ohne</trd>
+  <trd lng="en">without</trd>
+  <trd lng="es">sin</trd>
+  <trd lng="fr">sans</trd>
+  <trd lng="hu">n&eacute;lk&uuml;l</trd>
+  <trd lng="it">senza</trd>
+  <trd lng="ja">&#xFF5E;<ind>&#x306A;&#12375;&#12391;</ind></trd>
+  <trd lng="nl">zonder</trd>
+  <trd lng="pl">bez  <klr>(czego&sacute;)</klr></trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;</trd>
+  <trd lng="sk">bez</trd>
+  <trd lng="uk">&c_b;&c_je;&c_z;</trd>
+</drv>
+
+</subart>
+<!-- .................... sen II .................... -->
+<subart>
+  <dif>
+    Vortero kun sama signifo: <tld/>eco, manko, malabundeco, senhaveco.
+  </dif>
+
+<drv mrk="sen.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="sen.0.vortero">
+    <dif>
+      Malhavigi iun de io; <ref cel="pren.for0i">forpreni</ref> ion de iu:
+      <ekz>
+        virino sola, <tld/>igita je sia edzo kaj siaj du filoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Rut; 1:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estis de&jcirc;etita el sia re&gcirc;a trono kaj <tld/>igita je sia gloro
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Dan; 5:20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malfeli&ccirc;a knabino! mi <tld/>igis al vi la &gcirc;ojojn de via juneco
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> nur deturnis sin, sed li ne <tld/>igis la fraton de la iluzio
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>VIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi deziregas min <tld/>igi je tiu &ccirc;ifona&jcirc;o
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekdua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne sufi&ccirc;is la nekalkuleblaj monsumoj, kiujn tiu malgranda krimulo al mi jam
+        kostis, li devis plie min <tld/>igi je ri&ccirc;a&jcirc;oj, kiuj al mi rajte apartenas
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sepa</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        Sed mi pardonon petas de Diano, &#x2AFD; Ke mi &gcirc;is nun maljuste &scirc;in <tld/>igis &#x2AFD; De
+        la
+        antikvaj decaj oferdonoj
+        <fnt>
+          <bib>Ifigenio</bib>
+          <lok>Ifigenio en Ta&ubreve;rido</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="for.0igi">forigi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_z;&c_b;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>obrat</trd>,
+    <trd>odd&ecaron;lit</trd>,
+    <trd>p&rcaron;ipravit o</trd>,
+    <trd>zbavit</trd>,
+    <trd>zprostit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>um etwas <ind>bringen</ind></trd>,
+    <trd><klr>(jemanden etwas)</klr> nehmen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>enlever</trd>,
+    <trd>d&eacute;poss&eacute;der</trd>,
+    <trd>priver<klr> de</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megfoszt</trd>,
+    <trd>mentes&iacute;t</trd>,
+    <trd>megszabad&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>privare</trd>,
+    <trd>togliere</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;<ind>&#12434;&#x596A;&#12358;  </ind><pr>&#12434;&#12358;&#12400;&#12358;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#12434;&#x53D6;&#x308A;&#x53BB;&#x308B;  </ind><pr>&#12434;&#12392;&#x308A;&#12373;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>ontdoen</trd>,
+    <trd>beroven</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pozbawia&cacute;</trd>,
+    <trd>go&lstroke;oci&cacute;</trd>,
+    <trd>obiera&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_i;&c_sh;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>obra&tcaron;</trd>,
+    <trd>pripravi&tcaron; o</trd>,
+    <trd>zbavi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_z;&c_ch;&c_je;&c_s;&c_t;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_l;&c_a;&c_v;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_g;&c_a;&c_n;&c_mol;&c_b;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_z;&c_b;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_i; &c_ch;&c_je;&c_s;&c_t;&c_ib;</trd>,
+    <trd>&c_v;&c_l;&c_a;&c_s;&c_n;&c_o;&c_ji; &c_g;&c_ib;&c_d;&c_n;&c_o;&c_s;&c_t;&c_ib;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sen.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="sen.0igxi.liberigi">
+    <dif>
+      <ref cel="liber.0igi">Liberigi</ref> sin de io;
+      forigi ion, tiel ke &gcirc;i manku al ni:
+      <ekz>
+        <tld/>i&gcirc;i de siaj vestoj;
+      </ekz>
+      <ekz>
+        <tld/>i&gcirc;i de respondeco
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekkvina &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i&gcirc;i de la konvencioj kaj adapti&gcirc;oj
+        <fnt>
+          <bib>LGA</bib>
+          <lok>II.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiel <tld/>i&gcirc;is la ju&gcirc;isto de sia preteksto, sub kies flugiloj li esperis inside
+        ludi
+        <fnt>
+          <bib>LGA</bib>
+          <lok>I.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malgra&ubreve; la tuta romana egoismo li ne povis <tld/>i&gcirc;i de amo al li
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XXXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        centoj da familioj <tld/>i&gcirc;is je sia tuta &scirc;parmono
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2005/008696.php">Disdivido de la oro</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        apudriveretaj deklivoj <tld/>i&gcirc;is je arboj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2015/011471.php">Palatinata rokolando</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+    <ref cel="met.de0i">demeti</ref>,
+      <ref cel="pren.de0i">depreni</ref>,
+      <ref cel="met.for0i">formeti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_z;&c_b;&c_y;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd>sich etwas <ind>entledigen</ind></trd>,
+    <trd>ablegen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>se d&eacute;barrasser</trd>,
+    <trd>se d&eacute;poss&eacute;der</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megfoszt&oacute;dik</trd>,
+    <trd>mentes&uuml;l</trd>,
+    <trd>megszabadul</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>privarsi</trd>,
+    <trd>togliersi</trd>,
+    <trd>liberarsi<klr> (togliersi)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;<ind>&#12434;&#28961;&#x304F;&#12377;  </ind><pr>&#12434;&#x306A;&#x304F;&#12377;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#12434;&#22833;&#12358;  </ind><pr>&#12434;&#12358;&#12375;&#x306A;&#12358;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pozbawia&cacute; si&eogonek;</trd>,
+    <trd>uwalnia&cacute; si&eogonek;</trd>,
+    <trd>wyzbywa&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_i;&c_sh;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="uk">&c_p;&c_o;&c_z;&c_b;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>
+</drv>
+
+</subart>
+
+<!-- ................ sen III ....................... -->
+<subart>
+
+  <!-- sen III A) -->
+<drv mrk="sen.0_">
+  <kap><tld/>-</kap>
+  <dif>
+    Prefikso uzata:
+  </dif>
+  <subdrv>
+    <dif>
+      Por derivi el substantivoj adjektivojn signifantajn iel
+      nenormalan foreston a&ubreve; mankon de la ideo esprimata en la substantivo:
+      <ekz>
+        <ref cel="hom.sen0a"><tld/>homa</ref>,
+        <tld/>voja dezerto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 12:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>karnaj</ind> fingroj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+        <trdgrp lng="it">
+          <trd>emaciato</trd>,
+          <trd>scarno</trd>,
+          <trd>scheletrico<klr> (fig.)</klr></trd>,
+          <trd>scheletrito</trd>
+         </trdgrp>
+         <trd lng="pl">bezcielesne</trd>
+      </ekz>
+      <ekz>
+        <tld/>ambicia,
+        <ref cel="barb.sen0a"><tld/>barba</ref>,
+        <ref cel="ekzemp.sen0a"><tld/>ekzempla</ref>,
+        <ref cel="frukt.sen0a"><tld/>frukta</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>funda</ind>;
+        <trd lng="be">&c_b;&c_ja;&c_z;&c_d;&c_o;&c_n;&c_n;&c_y;</trd>
+        <trd lng="hu">feneketlen</trd>
+        <trdgrp lng="pl">
+          <trd>bezdenny</trd>,
+          <trd>przepastny</trd>
+        </trdgrp>
+        <trd lng="ru">&c_b;&c_je;&c_z;&c_d;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>
+      </ekz>
+      <ekz>
+        <ref cel="gust.sen0a"><tld/>gusta</ref>,
+        <ref cel="korp.sen0a"><tld/>korpa</ref>,
+        <ref cel="lim.sen0a"><tld/>lima</ref>,
+        <ref cel="makul.sen0a"><tld/>makula</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>materia</ind>;
+        <trdgrp lng="it">
+          <trd>immateriale</trd>,
+          <trd>impalpabile<klr> (immateriale)</klr></trd>
+        </trdgrp>
+        <trd lng="pl">niematerialny</trd>
+      </ekz>
+      <ekz>
+        <ref cel="parti.sen0a"><tld/>partia</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>pasia</ind>;
+        <trd lng="hu">szenvtelen</trd>
+        <trd lng="it">spassionato</trd>
+        <trdgrp lng="pl">
+          <trd>beznami&eogonek;tny</trd>,
+          <trd>zr&oacute;wnowa&zdot;ony</trd>
+        </trdgrp>
+        <trd lng="ru">&c_b;&c_je;&c_s;&c_s;&c_t;&c_r;&c_a;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
+      </ekz>
+      <ekz>
+        <ref cel="senc.sen0a"><tld/>senca</ref>.
+      </ekz>
+      El tiaj adjektivoj regule derivi&gcirc;as adverboj kaj
+      substantivoj:
+      <ekz>
+        <ind><tld/>lime</ind> etendi&gcirc;i;
+        <trd lng="be">&c_b;&c_ja;&c_z;&c_mol;&c_m;&c_je;&c_zh;&c_n;&c_a;</trd>
+        <trd lng="de">grenzenlos</trd>
+        <trd lng="hu">v&eacute;telen&uuml;l</trd>
+        <trd lng="pl">bezgranicznie</trd>
+        <trd lng="ru">&c_b;&c_je;&c_z;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_n;&c_o;</trd>
+      </ekz>
+      <ekz>
+        <ref cel="senc.sen0ajxo"><tld/>senca&jcirc;o</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>partieco</ind>;
+        <trd lng="be">&c_b;&c_je;&c_s;&c_p;&c_a;&c_r;&c_t;&c_y;&c_j;&c_n;&c_y;</trd>
+        <trd lng="de">Ungeduld</trd>
+        <trd lng="hu">p&aacute;rtatlans&aacute;g</trd>
+        <trd lng="it">imparzialit&agrave;</trd>
+        <trd lng="nl">onpartijdigheid</trd>
+        <trdgrp lng="pl">
+          <trd>bezpartyjno&sacute;&cacute;</trd>,
+          <trd>bezstronno&sacute;&cacute;</trd>
+        </trdgrp>
+        <trd lng="ru">&c_b;&c_je;&c_s;&c_p;&c_a;&c_r;&c_t;&c_i;&c_j;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+      </ekz>
+      ktp.
+    </dif>
+    <snc mrk="sen.0_.kun_verb">
+      <uzo tip="klr">(verb.)</uzo>
+      <ekz>
+        <ind><tld/>ago</ind>;
+        <trd lng="be">&c_b;&c_ja;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;</trd>
+        <trd lng="hu">t&eacute;tlens&eacute;g</trd>
+        <trd lng="it">quiescenza</trd>
+        <trd lng="pl">bezczynno&sacute;&cacute;</trd>
+        <trd lng="ru">&c_b;&c_je;&c_z;&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
+      </ekz>
+      <ekz>
+        <tld/>atende;
+      </ekz>
+      <ekz>
+        <ind><tld/>brila</ind>;
+        <trd lng="it">smorto</trd>
+        <trdgrp lng="pl">
+          <trd>matowy</trd>,
+          <trd>bez  <ind>po&lstroke;ysku</ind></trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <ref cel="cel.sen0a"><tld/>cela</ref>,
+        <ref cel="cxes.sen0a"><tld/>&ccirc;esa</ref>,
+        <ref cel="dank.sen0a"><tld/>danka</ref>,
+        <ref cel="defend.sen0a"><tld/>defenda</ref> virino<fnt><bib>BdV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>efika</ind>;
+        <trd lng="be">&c_m;&c_a;&c_r;&c_n;&c_y;</trd>
+        <trd lng="hu">hat&aacute;stalan</trd>
+        <trd lng="it">inefficace</trd>
+        <trdgrp lng="pl">
+          <trd>bezskuteczny</trd>,
+          <trd>nadaremny</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <tld/>ekzerca,
+        <ref cel="fin.sen0a"><tld/>fina</ref>,
+        <ref cel="hont.sen0a"><tld/>honta</ref>,
+        <ref cel="kompat.sen0a"><tld/>kompata</ref>,
+        <ref cel="mort.sen0a"><tld/>morta</ref>;
+      </ekz>
+      <ekz>
+        <ref cel="mov.sen0a"><tld/>mova</ref>,
+        <tld/><ref cel="okup.sen0a"><tld/>okupa</ref>,
+        <ref cel="pek.sen0a"><tld/>peka</ref>,
+        <ref cel="prepar.sen0a"><tld/>prepara</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>profita</ind> <klr>(<ref tip="sin" cel="profit">neprofitiga</ref>)</klr>,
+        <trd lng="be">&c_b;&c_je;&c_s;&c_p;&c_r;&c_y;&c_b;&c_y;&c_t;&c_k;&c_o;&c_v;&c_y;</trd>
+        <trd lng="hu">profitmentes</trd>
+        <trd lng="it">disinteressato<klr> (senza lucro)</klr></trd>
+        <trd lng="pl">bez  <ind>zysku</ind></trd>
+      </ekz>
+      <ekz>
+        <ref cel="prokra.sen0e"><tld/>prokraste</ref>,
+        <ref cel="pun.sen0a"><tld/>puna</ref>,
+        <ref cel="signif.sen0a"><tld/>signifa</ref>,
+        <ref cel="zorg.sen0a"><tld/>zorga</ref>,
+        <ref cel="pend.sende0a"><tld/>dependa</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>interrompa</ind>
+        <klr>(<ref tip="sin" cel="romp.inter0i">neinterrompita</ref>)</klr>,
+        <trdgrp lng="be">
+          <trd>&c_b;&c_je;&c_s;&c_mol;&c_p;&c_je;&c_r;&c_a;&c_p;&c_y;&c_n;&c_n;&c_y;</trd>,
+          <trd>&c_b;&c_je;&c_z;&c_u;&c_p;&c_y;&c_n;&c_n;&c_y;</trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>szakadatlan</trd>,
+          <trd>sz&uuml;ntelen</trd>
+        </trdgrp>
+        <trd lng="it">ininterrotto</trd>
+        <trdgrp lng="pl">
+          <trd>bezustanny</trd>,
+          <trd>nieprzerwany</trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_b;&c_je;&c_s;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_y;&c_j;</trd>,
+          <trd>&c_b;&c_je;&c_s;&c_p;&c_r;&c_je;&c_s;&c_t;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
+          <trd>&c_b;&c_je;&c_z;&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>,
+          <trd>&c_n;&c_je;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_y;&c_j;</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <ref cel="part.sen0oprena"><tld/>partoprena</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>scieco</ind>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Predikanto 7:25</lok>
+        </fnt>.
+        <trd lng="it">inconsapevolezza</trd>
+        <trd lng="pl">stan niewiedzy</trd>
+      </ekz>
+    </snc>
+    <snc mrk="sen.0_.kun_adj">
+      <uzo tip="klr">(adj.)</uzo>
+      <ekz>
+        <ind><tld/>forta</ind><fnt><bib>PrV</bib></fnt>;
+        <trd lng="be">&c_b;&c_ja;&c_s;&c_mol;&c_s;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>
+        <trd lng="hu">er&odblac;tlen</trd>
+        <trdgrp lng="it">
+          <trd>gracile<klr> (debole)</klr></trd>,
+          <trd>debole<klr> (senza forze)</klr></trd>,
+          <trd>spossato</trd>,
+          <trd>accasciato<klr> (avvilito)</klr></trd>
+        </trdgrp>
+        <trd lng="pl">bezsilny</trd>
+        <trd lng="ru">&c_b;&c_je;&c_s;&c_s;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+      </ekz>
+      <ekz>
+        <ref cel="kulp.sen0a"><tld/>kulpa</ref>,
+        <ref cel="lac.sen0a"><tld/>laca</ref>,
+        <ref cel="per.sen0a"><tld/>pera</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>prudenta</ind>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 32:9</lok>
+        </fnt>;
+        <trdgrp lng="be">
+          <trd>&c_b;&c_je;&c_z;&c_r;&c_a;&c_z;&c_v;&c_a;&c_zh;&c_n;&c_y;</trd>,
+          <trd>&c_b;&c_ja;&c_z;&c_g;&c_l;&c_u;&c_z;&c_d;&c_y;</trd>,
+          <trd>&c_sh;&c_a;&c_l;&c_jo;&c_n;&c_y;</trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>&oacute;vatlan</trd>,
+          <trd>vigy&aacute;zatlan</trd>,
+          <trd>hebehurgya</trd>
+        </trdgrp>
+        <trd lng="it">avventato</trd>
+        <trd lng="pl">nieostro&zdot;ny</trd>
+        <trd lng="ru">&c_b;&c_je;&c_z;&c_r;&c_a;&c_s;&c_s;&c_u;&c_d;&c_n;&c_y;&c_j;</trd>
+      </ekz>
+      <ekz>
+        <ind><tld/>sperta</ind>;
+        <trd lng="be">&c_n;&c_je;&c_d;&c_a;&c_s;&c_mol;&c_v;&c_je;&c_d;&c_ch;&c_a;&c_n;&c_y;</trd>
+        <trd lng="hu">tapasztalatlan</trd>
+        <trd lng="it">inesperto<klr> (novellino)</klr></trd>
+        <trdgrp lng="pl">
+          <trd>bez  <ind>do&sacute;wiadczenia</ind></trd>,
+          <trd>niedo&sacute;wiadczony</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <ref cel="sprit.sen0a"><tld/>sprita</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>utila</ind>.
+        <trd lng="be">&c_b;&c_je;&c_s;&c_k;&c_a;&c_r;&c_y;&c_s;&c_n;&c_y;</trd>
+        <trd lng="hu">haszontalan</trd>
+        <trd lng="it">inutile</trd>
+        <trd lng="pl">bezu&zdot;yteczny</trd>
+        <trd lng="ru">&c_b;&c_je;&c_s;&c_p;&c_o;&c_l;&c_je;&c_z;&c_n;&c_y;&c_j;</trd>
+      </ekz>
+      <rim>
+        Pri tiu lasta klaso, la prefikso <em>ne</em> estas preferinda,
+        precipe kiam oni almetas sufiksojn al tiuj kunmetitaj
+        adjektivoj: prefere al
+        <ekz>
+          <tld/>erarema, <tld/>graveco, <tld/>klereco
+          <fnt><bib>Marta</bib></fnt>,
+          <tld/>ta&ubreve;geco
+        </ekz>
+        estas konsilinde uzi
+        <ekz>
+          neerarema, malgraveco, malklereco, neta&ubreve;geco.
+        </ekz>
+      </rim>
+    </snc>
+    <rim>
+      La prefikso <em>sen-</em> povas esti uzata nur anta&ubreve;
+      substantiva radiko kaj tial &gcirc;i neniam trovi&gcirc;as en la sama
+      vorto kune kun la sufiksoj adjektivaj <em>ebl, em, ind</em>. Por
+      adjektivaj a&ubreve; verbaj radikoj oni uzas la prefiksojn <em>ne</em>
+      a&ubreve; <em>mal</em>, la&ubreve; la senco. Kp.
+      <ekz>
+        <tld/>mantela kaj
+        nevestita, <tld/>kora kaj malmilda.
+      </ekz>
+    </rim>
+    <rim>
+      Pro tio ke la neado per <em>sen</em> &scirc;ajnas pli drasta
+      kaj energia ol tiu per <em>ne</em>, kiu ofte konfuzi&gcirc;as
+      por la orelo kun la simpla nea adverbo, oni kutimi&gcirc;is almeti
+      <em>sen</em> al substantivo senpere derivitaj de verbaj
+      a&ubreve; adjektivaj radikoj, tiom pli facile, &ccirc;ar la verbeco
+      a&ubreve; adjektiveco de radiko ne estas &ccirc;iam unuavide evidenta:
+    </rim>
+    <adm>
+      Ni jam referencas al vortoj senX, kie ili enestas la vortaro, &ccirc;ar tie estas pli
+      da spaco por sencoj, difinoj, fontoj ktp. Pluraj ankora&ubreve; mankas. Indas aldoni
+      ilin en la foraj artikoloj (de la radiko) kaj meti tien &ccirc;i referencojn
+      forigante klarigojn, fontojn kaj tradukojn kaj aran&gcirc;ante plurajn sur sama
+      linio por pli pla&ccirc;a aspekto sur la pa&gcirc;o.
+    </adm>
+  </subdrv>
+
+  <!-- sen III, B) -->
+  <subdrv>
+    <snc mrk="sen.0_.kun_ig_igx">
+      <dif>
+        Por derivi el substantivoj, helpe de la sufiksoj <em>ig</em>
+        kaj <em>i&gcirc;</em>, verbojn signifantajn senigon de la ideo
+        esprimata en la substantivo:
+        <ekz>
+          <tld/>arbigi <klr>(senigi je arboj)</klr>,
+          <ref cel="hom.sen0igi"><tld/>homigi</ref>,
+          <ref cel="hauxt.sen0igi"><tld/>ha&ubreve;tigi</ref>,
+          <tld/>mebligi <klr>(<ref tip="sin" cel="ig.0.kunderivado.sena">-ig<sncref/></ref>)</klr>,
+          <ref cel="mov.sen0igi"><tld/>movigi</ref>,
+          <ref cel="hered.sen0igi"><tld/>heredigi</ref>,
+          <ref cel="kulp.sen0igi"><tld/>kulpigi</ref>,
+          <tld/>kura&gcirc;igi <fnt><bib>MT</bib><lok>II. Kroniko 32:18</lok></fnt>
+          <klr>(<ref tip="sin" cel="ig.0.kunderivado">-ig<sncref/>, rim. <sncref
+          ref="ig.0.kunderivado.maniera_1"/>
+          kaj <sncref ref="ig.0.kunderivado.maniera_2"/></ref>)</klr>,
+          <tld/>brili&gcirc;i <fnt><bib>MT</bib><lok>Jeremia 14:6</lok></fnt>,
+          <tld/>kolori&gcirc;i <fnt><bib>Fab4</bib><lok>La vento rakontas pri Valdemaro Doe kaj pri liaj
+          filinoj</lok></fnt>
+          <klr>(<ref tip="sin" cel="igx.0.kunderivado.sena">-i&gcirc;<sncref/> kaj rim.</ref>)</klr>.
+        </ekz>
+      </dif>
+      <trdgrp lng="ru">
+        <trd>&c_o;&c_b;&c_je;&c_z;-</trd>,
+        <trd>&c_o;&c_b;&c_je;&c_s;-</trd>
+      </trdgrp>
+    </snc>
+  </subdrv>
+    <refgrp tip="vid">
+      <ref cel="mal.0">mal-</ref>,
+      <ref cel="ne.0">ne</ref>-
+    </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_je;&c_z;-</trd>,
+    <trd>&c_z;&c_mol;&c_n;&c_je;-</trd>
+  </trdgrp>
+  <trd lng="de">-los</trd>
+  <trdgrp lng="hu">
+    <trd>-<ind>mentes</ind></trd>,
+    <trd>-<ind>tlen</ind></trd>,
+    <trd>-<ind>tlan</ind></trd>,
+    <trd>-<ind>telen</ind></trd>,
+    <trd>-<ind>talan</ind></trd>
+  </trdgrp>
+  <trd lng="pl">bez-</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_je;&c_z;-</trd>,
+    <trd>&c_b;&c_je;&c_s;-</trd>
+  </trdgrp>
+</drv>
+</subart>
+</art>
+<!--
+$Log$
+versio 1.39 2023/10/21 06:31:44
+revo: transskribo per <pr>
+
+versio 1.38 2023/09/04 18:29:59
+Wolfram Diestel: kor. ja ind
+
+versio 1.36 2023/08/13 18:28:06
+Vito Redsky: +trd pl
+
+versio 1.35 2022/12/19 07:22:13
+Wolfram Diestel: ~igi, ~i&gcirc;i: +ekz, ref, trd de
+
+versio 1.34 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.32 2022/01/12 12:50:44
+Dmitri Gabinski: + trd be
+
+versio 1.31 2021/09/24 18:33:32
+Wolfram Diestel: III B. ref-oj
+
+versio 1.30 2021/09/24 12:44:04
+-->
+</vortaro>

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: legat1.xml,v 1.12 2023/10/19 05:15:34 revo Exp $">
+<kap>
+  <rad>legat</rad>/o <fnt><bib>MuzTerm</bib></fnt>
+</kap>
+<drv mrk="legat1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      Vo&ccirc;a a&ubreve; muzikila sonigo,
+      kiu ligas la sinsekvajn tonojn kun kontinua efekto:
+      <ekz>
+        la malo de <tld/>o estas stakato, alian funkcion havas ligaturo:
+        &gcirc;i ligas
+        sinsekvajn tonojn de sama tonalto al longa tono
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=258596">Legato
+          (muziko)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="ant">
+    <ref cel="stakat.0o">stakato</ref>,
+  </refgrp>
+  <refgrp tip="hom">
+    <ref cel="legat.0o">legato</ref> (ekleziulo)
+  </refgrp>
+  <trd lng="be">&c_l;&c_je;&c_g;&c_a;&c_t;&c_a;</trd>
+  <trd lng="de">Legato</trd>
+  <trdgrp lng="fr">
+    <trd>legato</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>legato</trd>,
+    <trd>k&ouml;t&ouml;tt el&odblac;ad&aacute;sm&oacute;d</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>legato</trd>
+  </trdgrp>
+  <trd lng="ja">&#x6559;&#x7687;&#x7279;&#x4F7F;  <pr>&#x304D;&#x3087;&#x3046;&#x3053;&#x3046;&#x3068;&#x304F;&#x3057;</pr></trd>
+  <trd lng="nl">legato</trd>
+  <trd lng="pl">legato</trd>     
+  <trd lng="ro">legato</trd>
+  <trd lng="ru">&c_l;&c_je;&c_g;&c_a;&c_t;&c_o;</trd>
+  <trd lng="sk">p&aacute;pe&zcaron;sk&yacute; vyslanec</trd>
+  <trdgrp lng="cs">
+    <trd>leg&aacute;t</trd>,
+    <trd>pape&zcaron;sk&yacute; vyslanec</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x435;&#x491;&#x430;&#x442;</trd>,
+    <trd>&#x43F;&#x430;&#x43F;&#x441;&#x44C;&#x43A;&#x438;&#x439; &#x43F;&#x43E;&#x441;&#x43E;&#x43B;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="legat1.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      Lige, ne disigante la sinsekvajn tonojn.
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_je;&c_g;&c_a;&c_t;&c_a;</trd>
+  <trd lng="cs">legato</trd>
+  <trd lng="de">gebunden</trd>
+  <trdgrp lng="fr">
+    <trd>legato</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>legato</trd>,
+    <trd>k&ouml;t&ouml;tten</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>legato</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>legato</trd>,
+    <trd>gebonden</trd>
+  </trdgrp>
+  <trd lng="pl">powi&aogonek;zane</trd>
+  <trdgrp lng="ro">
+    <trd>&icirc;nrudit</trd>,
+    <trd>legat</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_je;&c_g;&c_a;&c_t;&c_o;</trd>
+  <trd lng="sk">legato</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.12 2023/10/19 05:15:34
+revo: transskribo per <pr>
+
+Revision 1.8  2018/12/07 17:10:25  revo
+Wolfram Diestel: +ekz, germ trd
+
+Revision 1.7  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2009/10/06 16:43:48  revo
+Paul Peeraerts: +nl
+
+Revision 1.4  2005/06/10 16:31:15  revo
+Yury Finkel: +trd ru
+
+Revision 1.3  2004/05/24 16:33:21  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.2  2004/05/06 16:32:24  revo
+-->
+</vortaro>

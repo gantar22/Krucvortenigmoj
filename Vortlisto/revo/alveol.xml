@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: alveol.xml,v 1.28 2023/10/12 18:05:09 revo Exp $">
+<kap>
+  <rad>alveol</rad>/o<fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="alveol.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">MED</uzo>
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Kava&jcirc;eto:
+      <ekz>
+        la viruso penetras bronkojn kaj <tld/>ojn de pulmoj kaj ka&ubreve;zas
+        la inflaman
+        proceson (pne&ubreve;monion)
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2005/008721.php">De kie venis kaj kial &ccirc;esis netipa
+          pne&ubreve;monio?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_v;&c_e;&c_o;&c_l;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>alveol</trd>,
+    <trd>alveolus</trd>,
+    <trd>l&uring;&zcaron;ko</trd>,
+    <trd>skl&iacute;pek</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Aush&ouml;hlung</trd>,
+    <trd>H&ouml;hle</trd>,
+    <trd>Hohlraum</trd>,
+    <trd>Alveolen<klr> <klr>(Med.)</klr></klr></trd>
+  </trdgrp>
+  <trd lng="en">cavity</trd>
+  <trd lng="fr">alv&eacute;ole</trd>
+  <trd lng="he">&nun;&alef;&dalet;&yod;&tav; &resh;&yod;&alef;&vav;&tav;</trd>
+  <trdgrp lng="hu">
+    <trd>&uuml;reg</trd>,
+    <trd>kaverna</trd>,
+    <trd>alveolus</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5C0F;&#x5B54;  <pr>&#x3057;&#x3087;&#x3046;&#x3053;&#x3046;</pr></trd>,
+    <trd>&#x6B6F;&#x69FD;  <pr>&#x3057;&#x305D;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>holte</trd>,
+    <trd>kas</trd>
+  </trdgrp>
+  <trd lng="pt">alv&eacute;olo</trd>
+  <trd lng="ru">&c_a;&c_l;&c_mol;&c_v;&c_je;&c_o;&c_l;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>alveola</trd>,
+    <trd>p&lcaron;&uacute;cna dutinka</trd>,
+    <trd>zubn&aacute; jamka</trd>
+  </trdgrp>
+  <trd lng="sv">alveol</trd>
+  <trd lng="uk">&c_a;&c_l;&c_mol;&c_v;&c_je;&c_o;&c_l;&c_a;</trd>
+</drv>
+
+<drv mrk="alveol.0uloj">
+  <kap><tld/>uloj</kap>
+  <snc mrk="alveol.0uloj.BAK">
+    <uzo tip="fak">BAK</uzo>
+    <dif>
+      E&ubreve;kariotaj unu&ccirc;eluloj kun karakteriza RNA
+      kaj en sia plasmo disaj <tld/>oj
+      (<trd lng="la">Alveolata</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_v;&c_e;&c_a;&c_l;&c_ja;&c_t;&c_y;</trd>
+  <trd lng="de">Alveolata</trd>
+  <trd lng="en">alveolates</trd>
+  <trdgrp lng="fr">
+    <trd>alv&eacute;ol&eacute;s</trd>,
+    <trd>alv&eacute;olobiontes</trd>
+  </trdgrp>
+  <trd lng="pt">alveolados</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.26 2023/07/02 14:26:58
+Christian Siefkes: +trd de, en
+
+versio 1.25 2023/06/30 08:33:13
+Dmitri Gabinski: + trd be
+
+versio 1.24 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.21 2020/03/23 00:10:38
+James Rezende Piton: +trd pt
+
+Revision 1.20  2019/06/30 07:47:08  revo
+adaptis URL de Monato
+
+Revision 1.19  2019/01/24 18:10:25  revo
+Wolfram Diestel: +ekz
+
+Revision 1.18  2015/07/04 08:37:30  revo
+-->
+</vortaro>

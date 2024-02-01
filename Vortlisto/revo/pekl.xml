@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pekl.xml,v 1.25 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pekl</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="pekl.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pekl.0i.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Meti krudajn man&gcirc;a&jcirc;ojn, ekzemple viandon, fi&scirc;on, legomojn, en
+      salon por konservi ilin man&gcirc;eblaj kaj doni al ili specifan guston:
+      <ekz>
+        <tld/>ita moruo, kukumo;
+      </ekz>
+      <ekz>
+        bareloj da <tld/>ita viando
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post kaptado oni senigas <klr>[la haringojn]</klr> de intestoj, sed lasas la grasan stomakon,
+        <tld/>as ilin kaj lasas ilin maturi&gcirc;i dum dudek kvar horoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Petro Desmet'</aut>
+          <vrk><url ref="https://www.monato.be/2006/009004.php">Jubile, jubilade, gargantuece palatkareseme</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        peco da tritika pano kaj dekduo da <tld/>itaj kukumoj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#x2116; 7 (105)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en Ruslando oni trinkas kukuman <tld/>-akvon por forigi postebrion
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#x2116; 10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>ita kaj enfiksita en dosierojn <klr>[&#x2026;]</klr> de &scirc;tataj oficistoj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 40</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_l;&c_ib;&c_c;&c_mol; <klr>(&c_k;&c_a;&c_n;&c_s;&c_e;&c_r;&c_v;&c_a;&c_v;&c_a;&c_c;&c_mol;
+  &c_s;&c_o;&c_l;&c_mol;&c_l;&c_ju;)</klr></trd>
+  <trd lng="bg">&c_o;&c_s;&c_o;&c_l;&c_ja;&c_v;&c_a;&c_m;</trd>
+  <trd lng="ca">salar</trd>
+  <trdgrp lng="cs">
+    <trd>konzervovat sol&iacute;</trd>,
+    <trd>nakl&aacute;dat do soli</trd>,
+    <trd>nasolovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>p&ouml;keln</trd>,
+    <trd>in Salz <ind>einlegen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>pickle<klr tip="amb"> (in salt)</klr></trd>,
+    <trd>corn<klr tip="amb"> (in salt)</klr></trd>,
+    <trd>preserve in salt</trd>
+  </trdgrp>
+  <trd lng="fr">saler (pour conserver)</trd>
+  <trdgrp lng="hu">
+    <trd>bes&oacute;z<klr tip="ind"> (p&aacute;col)</klr></trd>,
+    <trd>s&oacute;s l&eacute;ben p&aacute;col</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5869;&#x6F2C;&#x3051;&#x306B;&#x3059;&#x308B;  <pr>&#x3057;&#x304A;&#x3065;&#x3051;&#x306B;&#x3059;&#x308B;</pr></trd>
+  <trd lng="nl">pekelen</trd>
+  <trdgrp lng="pl">
+    <trd>konserwowa&cacute;  <klr>(w soli)</klr></trd>,
+    <trd>peklowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">salgar</trd>
+  <trdgrp lng="ro">
+    <trd>conserveaz&abreve;<klr>  (&icirc;n sare)</klr></trd>,
+    <trd>s&abreve;ra</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_l;&c_i;&c_t;&c_mol;<klr tip="ind"> (&c_d;&c_l;&c_ja;
+    &c_k;&c_o;&c_n;&c_s;&c_je;&c_r;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;)</klr></trd>,
+    <trd>&c_z;&c_a;&c_s;&c_a;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol; <klr tip="amb">(&c_d;&c_l;&c_ja;
+    &c_k;&c_o;&c_n;&c_s;&c_je;&c_r;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>naklada&tcaron; m&auml;so</trd>,
+    <trd>nasoli&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_v;&c_a;&c_s;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_o;&c_l;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_o;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_m;&c_o;&c_ch;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_g;&c_o;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i; &c_v;&c_z;&c_a;&c_p;&c_a;&c_s;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pekl.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o
+  </kap>
+  <snc mrk="pekl.0ajxo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Man&gcirc;a&jcirc;o kiun oni konservis per <tld/>ado:
+      <ekz>
+        li <klr>[&#x2026;]</klr> post unu jaro sukcesis fari&gcirc;i laboristo &ccirc;e firmo, kiu fabrikis
+        <tld/>a&jcirc;ojn
+        <fnt>
+          <aut>J. Merchant</aut>
+          <vrk>Kompatinda Klem</vrk>
+          <lok>1931</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Maziero prenigis en la kuirejo la ilon, per kiu oni malfermas la <tld/>a&jcirc;ujojn,
+        detran&ccirc;is la folion el ferlado, kiu fermis la skatolon
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekunua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; <klr tip="amb">(&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;)</klr></trd>,
+    <trd>&c_s;&c_a;&c_l;&c_a;&c_n;&c_ib;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>salum</trd>,
+    <trd>sala&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>P&ouml;kelfleisch</trd>,
+    <trd>Gep&ouml;keltes</trd>,
+    <trd>P&ouml;kel-<klr> (gep&ouml;kelte Speise)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>salt meat</trd>,
+    <trd>corned beef</trd>,
+    <trd>pickled produce</trd>
+  </trdgrp>
+  <trd lng="fr">salaison</trd>
+  <trd lng="hu">s&oacute;ban tart&oacute;s&iacute;tott &eacute;lelmiszer</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5869;&#x6F2C;  <pr>&#x3057;&#x304A;&#x3065;&#x3051;</pr></trd>,
+    <trd>&#x6F2C;&#x7269;  <pr>&#x3064;&#x3051;&#x3082;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">peklowina</trd>
+  <trd lng="ro">peclin</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_l;&c_je;&c_n;&c_mol;&c_je;</trd>,
+    <trd>&c_s;&c_o;&c_l;&c_o;&c_n;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_o;&c_l;&c_ib;&c_n;&c_n;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.23 2023/06/12 05:26:24
+Wolfram Diestel: +ekz, ref
+
+versio 1.22 2023/06/11 16:29:33
+Christian Siefkes: +trd de, en
+
+versio 1.21 2022/06/10 06:36:09
+Dmitri Gabinski: + trd be
+
+versio 1.19 2022/02/21 23:29:28
+Vito Redsky: + trd pl + trd ro
+
+versio 1.18 2020/02/01 00:10:24
+Jeromo Vasxe: + ~ajxo
+
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:17  revo
+-->
+</vortaro>

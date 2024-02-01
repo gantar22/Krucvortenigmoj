@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: morv.xml,v 1.17 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <rad>morv</rad>/o
+</kap>
+<drv mrk="morv.0o">
+  <kap><tld/>o</kap>
+    <snc>
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Speco de &ccirc;eval<ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
+      infekta al homo:
+      <ekz>
+        dum la unua mondmilito, la germanoj infektis per <tld/>o &ccirc;evalojn de la rumana
+        kavalerio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=161184">Biologia armilo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_p;</trd>
+  <trd lng="ca">borm</trd>
+  <trd lng="cs">ozh&rcaron;ivka</trd>
+  <trdgrp lng="de">
+    <trd>Rotz<klr> (Krankheit)</klr></trd>,
+    <trd>Hautwurm</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>glanders</trd>,
+    <trd>equinia</trd>,
+    <trd>farcy</trd>,    
+    <trd>malleus</trd>
+  </trdgrp>
+  <trd lng="fr">morve<klr> (maladie)</klr></trd>
+  <trd lng="ja">&#x99AC;&#x9F3B;&#x75BD;  <pr>&#x3070;&#x3073;&#x305D;</pr></trd>
+  <trd lng="nl">droes</trd>
+  <trd lng="pl">nosacizna</trd>
+  <trd lng="ru">&c_s;&c_a;&c_p;</trd>
+  <trd lng="sk">sop&lcaron;avka <klr>(u ko&ncaron;a)</klr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.17 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+Revision 1.14  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2013/12/01 10:10:17  revo
+Damien Brucker: +trd fr
+
+Revision 1.11  2013/10/30 16:10:11  revo
+Jessica Grasso: +tr en
+
+Revision 1.10  2013/10/07 15:10:40  revo
+Wolfram Diestel: ref la lst malsanoj
+
+Revision 1.9  2012/08/21 07:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2011/12/06 12:10:15  revo
+-->
+</vortaro>

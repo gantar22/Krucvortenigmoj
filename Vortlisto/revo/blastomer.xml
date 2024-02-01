@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: blastomer.xml,v 1.3 2023/11/03 12:47:01 revo Exp $">
+<kap>
+  <rad>blastomer</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="blastomer.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="blastomer.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Iu el la unuaj embriaj &ccirc;eloj
+      esti&gcirc;antaj el <ref tip="vid" cel="zigot.0o.GNT">zigoto</ref>:
+      <ekz>
+        la disdui&gcirc;intaj centrioloj <klr>...</klr> difinas la polusojn de
+        la estontaj <tld/>oj
+        <fnt>
+          <aut>C. St&oslash;p-Bowitz, M. B&eacute;la</aut>,
+          <vrk><url ref="http://www.fw.hu/eventoj/steb/biologio/enkond-fokuso/f874-p08.htm">
+          Enkonduko en la biologion</url></vrk>,
+          <lok>Fokuso, 1987-04</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_l;&c_ja;&c_s;&c_t;&c_a;&c_m;&c_e;&c_r;</trd>
+  <trd lng="fr">blastom&egrave;re</trd>
+  <trd lng="uk">&c_b;&#x43B;&c_a;&c_s;&c_t;&#x43E;&#x43C;&c_je;&c_r;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.3 2023/11/03 12:47:01
+Dmitri Gabinski: + trd be
+
+-->
+</vortaro>

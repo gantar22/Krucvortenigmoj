@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: antite.xml,v 1.28 2023/10/12 18:05:09 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>antitez</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="antite.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="antite.0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Retorika <ref tip="dif" cel="figur.0o.BELE">figuro</ref>,
+      per kiu oni kontra&ubreve;metas du malajn vortojn
+      a&ubreve; ideojn por plireliefigi ilin, kiel ekzemple 
+      <ctl>feli&ccirc;o venas gute, malfeli&ccirc;o venas flue</ctl>
+      a&ubreve; <ctl>en bu&scirc;o Biblio, en koro malpio</ctl>.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_n;&c_t;&c_y;&c_t;&c_e;&c_z;&c_a;</trd>,
+      <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_p;&c_a;&c_s;&c_t;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+    </trdgrp>
+    <trd lng="de">Gegen&uuml;berstellung</trd>
+    <trdgrp lng="ru">
+      <trd>&c_a;&c_n;&c_t;&c_i;&c_t;&c_je;&c_z;&c_a;</trd>,
+      <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="antite.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      <ref tip="dif" cel="tez.kontraux0o.FIL">Kontra&ubreve;tezo</ref>:
+      <ekz>
+        mi pensas, ke inter tezo kaj <tld/>o povas ekzisti sintezo
+        <fnt>
+	<aut>Uwe Joachim Moritz/Aldo de' Giorgi</aut>
+	<vrk><url ref="&Monato;/2000/007043.php">Du opinioj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/07, p. 4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tezoj, <tld/>oj kaj sintezoj estas faritaj de homoj, kiel diris Lenino
+        <fnt>
+	<aut>Gilbert Ledon</aut>
+	<vrk><url ref="&Monato;/2001/007283.php">Putraj demokratioj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/01, p. 5</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_n;&c_t;&c_y;&c_t;&c_e;&c_z;&c_ib;&c_s;</trd>
+    <trd lng="de">Gegenbehauptung</trd>
+    <trd lng="ru">&c_a;&c_n;&c_t;&c_i;&c_t;&c_je;&c_z;&c_i;&c_s;</trd>
+  </snc>
+  <trd lng="ca">ant&iacute;tesi</trd>
+  <trd lng="cs">antiteze</trd>
+  <trd lng="de">Antithese</trd>
+  <trd lng="en">antithesis</trd>
+  <trd lng="es">ant&iacute;tesis</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_r;&a_A;&a_b;&a_r;&a_n;&a_h;&a_A;&a_d;</trd>,
+    <trd>&a_A_madda;&a_n;&a_t;&f_y;&#x200C;&a_t;&a_z;</trd>
+  </trdgrp>
+  <trd lng="fr">antith&egrave;se</trd>
+  <trd lng="he">&#x5D0;&#x5B7;&#x5E0;&#x5B0;&#x5D8;&#x5B4;&#x5D9;&#x5EA;&#x5B5;&#x5D6;&#x5B8;&#x5D4;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30F3;&#x30C1;&#x30C6;&#x30FC;&#x30BC;</trd>,
+    <trd>&#x5BFE;&#x7167;&#x6CD5;  <pr>&#x305F;&#x3044;&#x3057;&#x3087;&#x3046;&#x307B;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">antyteza</trd>
+  <trd lng="ro">antitez&abreve;</trd>
+  <trdgrp lng="sk">
+    <trd>antit&eacute;za</trd>,
+    <trd>prirovnanie protikladom</trd>,
+    <trd>protiklad</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&#x43D;&c_t;&c_i;&c_t;&c_je;&c_z;&c_a;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_t;&c_i;&c_s;&c_t;&c_a;&c_v;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.26 2023/04/23 15:25:39
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.25 2023/04/23 14:26:50
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.24 2023/01/31 20:29:35
+Vito Redsky: +trd pl + trd ro
+
+versio 1.23 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.19  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/07/30 12:10:21  revo
+-->
+</vortaro>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: natr.xml,v 1.30 2024/01/04 19:21:47 revo Exp $">
+<kap>
+  <rad>natr</rad>/o
+  <fnt><bib>JED</bib></fnt>
+</kap>
+
+<drv mrk="natr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="natr.0o.alkalo">
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Senkolora <ref tip="super" cel="alkal.0o">alkalo</ref>, <ref cel="natri.0o">natria</ref>
+      <ref tip="super" cel="hidroksid.0o">hidroksido</ref> uzata por multaj industriaj celoj;
+      <frm>NaOH</frm>:
+      <ekz>
+        kune kun fero, kiu donas la belan ru&gcirc;an koloron, estas enmarigataj <tld/>o
+        (<frm><k>NaOH</k></frm>), <klr>[&#8230;]</klr> kadmio, hidrargo, arseno kaj aliaj
+        pezaj metaloj, dan&gcirc;eraj por la sano
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ren&eacute;e Triolle</aut>
+          <vrk><url ref="&Monato;/2015/011584.php">Ru&gcirc;aj &scirc;limoj en Mediteraneo</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sod.0o">sodo</ref>
+    </refgrp>
+    <rim>
+      &Ccirc;i tiu signifo estas la sola kiun prezentas <fnt><bib>PIV1</bib></fnt>;
+      <fnt><bib>PIV2</bib></fnt> &gcirc;in ne
+      plu konas.
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_w;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja; &c_s;&c_o;&c_d;&c_a;</trd>,
+      <trd>&c_je;&c_d;&c_k;&c_ib; &c_n;&c_a;&c_t;&c_r;</trd>
+    </trdgrp>
+    <trd lng="de">&Auml;tznatron</trd>
+    <trdgrp lng="en">
+      <trd>caustic <ind>soda</ind></trd>,
+      <trd>lye</trd>
+    </trdgrp>
+    <trd lng="es">sosa c&aacute;ustica</trd>
+    <trdgrp lng="fr">
+      <trd>hydroxyde de sodium</trd>,
+      <trd>soude caustique</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>natriumhydroxide</trd>,
+      <trd>bijtende <ind>soda</ind></trd>,
+      <trd>loogzout</trd>
+    </trdgrp>
+    <trd lng="pl">soda kaustyczna</trd>
+    <trdgrp lng="ru">
+      <trd>&c_je;&c_d;&c_k;&c_i;&c_j; <ind>&c_n;&c_a;&c_t;&c_r;</ind></trd>,
+      <trd>&c_k;&c_a;&c_u;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja; &c_s;&c_o;&c_d;&c_a;</trd>,
+      <trd>&c_k;&c_a;&c_u;&c_s;&c_t;&c_i;&c_k;</trd>
+    </trdgrp>
+    <trdgrp lng="sv">
+      <trd>kaustiksoda</trd>,
+      <trd>natriumhydroxid</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="natr.0o.sodo">
+    <uzo tip="fak">BIB</uzo>
+    <dif>
+      Ne plu specife konata lavsubstanco, menciata en Biblio,
+      eble minerala <ref cel="sod.lav0o">lavsodo</ref>, eble
+      salpetro, eble <tld/>o<sncref ref="natr.0o.alkalo"/>
+      a&ubreve; io alia:
+      <ekz>
+        se vi e&ccirc; lavus vin per <tld/>o kaj uzus por vi multe da
+        sapo, via malvirto tamen restos makula anta&ubreve; Mi, diras la
+        Sinjoro
+        <fnt><bib>MT</bib>, <lok>&Jer; 2:22</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Favore al la <tld/>o<sncref ref="natr.0o.alkalo"/>-interpreto
+      menciindas la alia uzo biblia:
+      <ekz>
+        kiel demeto de vesto en tempo de malvarmo,
+        kiel vinagro sur <tld/>o,
+        tiel estas kantado de kantoj al koro suferanta
+        <fnt><bib>MT</bib>, <lok>&Sen; 25:20</lok></fnt>;
+      </ekz>
+      evidente, tiu <tld/>o grave vundas onian ha&ubreve;ton, &gcirc;uste
+      kiel la <em>ka&ubreve;stika</em> sodo <frm>NaOH</frm>.
+    </rim>
+    <trd lng="be">&c_sh;&c_ch;&c_o;&c_l;&c_a;&c_k;</trd>
+    <trd lng="de">Natron</trd>
+    <trd lng="en">nitre</trd>
+    <trd lng="fr">soude</trd>
+    <trd lng="hu">sz&oacute;da</trd>
+    <trd lng="nl">salpeter<klr tip="ind"> (arch.)</klr></trd>
+    <trd lng="pl">soda</trd>
+    <trd lng="ro">sod&abreve; </trd>
+    <trd lng="ru">&c_m;&c_y;&c_l;&c_o;</trd>
+    <trd lng="sv">natriumkarbonat</trd>
+  </snc>
+  <trd lng="cs">natron</trd>
+  <trdgrp lng="ja">
+    <trd>&#12490;&#12488;&#12525;&#12531;</trd>,
+    <trd>&#12477;&#12540;&#12480;&#30707;  <pr>&#12477;&#12540;&#12480;&#12356;&#12375;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>natron</trd>,
+    <trd>s&oacute;da</trd>,
+    <trd>uhli&ccaron;itan sodn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_ib;&c_d;&c_r;&c_o;&c_k;&c_s;&c_i;&c_d; &c_n;&c_a;&c_t;&c_r;&c_ib;&c_ju;</trd>,
+    <trd>&c_ji;&c_d;&c_k;&c_i;&c_j; &c_n;&c_a;&c_t;&c_r;</trd>,
+    <trd>&c_k;&c_a;&c_u;&c_s;&c_t;&c_i;&c_ch;&c_n;&c_a; &c_s;&c_o;&c_d;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_u;&c_s;&c_t;&c_i;&c_k;</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.30 2024/01/04 19:21:47
+Wolfram Diestel: -ekz
+
+versio 1.29 2024/01/03 20:25:12
+Wolfram Diestel: fnt JED, +~obulko
+
+versio 1.28 2023/10/19 20:12:29
+revo: transskribo per <pr>
+
+versio 1.26 2023/06/27 06:35:52
+Dmitri Gabinski: + trd be
+
+versio 1.25 2023/04/11 17:15:20
+aktualigo Monato-URL
+
+versio 1.24 2022/10/20 05:51:39
+Wolfram Diestel: +ekz, ref
+
+versio 1.22 2020/12/31 22:10:58
+Vito Redsky: +trd pl +trd ro
+
+  Revision 1.20  2015/06/29 16:33:20  revo
+-->
+</vortaro>

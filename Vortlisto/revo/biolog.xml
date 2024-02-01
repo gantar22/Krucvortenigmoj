@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: biolog.xml,v 1.31 2023/12/12 19:23:56 revo Exp $">
+<kap>
+  <ofc>7</ofc>
+  <rad>biolog</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="biolog.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="biolog.0o.BIO">
+    <dif>
+      <ref tip="dif" cel="biolog1.0isto">Biologiisto</ref>:
+      <ekz>
+        <nom>Gerrit Makkink</nom> <klr>[&#8230;]</klr> estis <tld/>o kaj multe aktivis por disvastigi
+        Esperanton en la scienca mondo
+        <fnt>
+          <aut>-</aut>
+          <vrk>Forpasoj</vrk>
+          <lok>Revuo Esperanto 2006 2</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="zh">
+    <trd>&#x751F;&#29289;&#x5B66;&#x5BB6; <pr>sh&#275;ngw&#xF9;xu&#xE9;ji&#257;</pr></trd>,
+    <trd>&#30740;&#x7A76;&#x751F;&#29289;&#x5B66;&#30340;&#x4EBA;
+    <pr>y&#xE1;nji&#x16B;sh&#275;ngw&#xF9;xu&#xE9;d&#xEC;r&#xE9;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_b;&c_ib;&c_jo;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="bg">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="cs">biolog</trd>
+  <trd lng="de">Biologe</trd>
+  <trd lng="en">biologist</trd>
+  <trd lng="es">bi&oacute;logo</trd>
+  <trd lng="fr">biologiste</trd>
+  <trd lng="he">&#x5D1;&#x5D9;&#x5D5;&#x5DC;&#x5D5;&#x5D2;</trd>
+  <trd lng="hu">biol&oacute;gus</trd>
+  <trdgrp lng="id">
+    <trd>biolog</trd>,
+    <trd><ind>ahli</ind> biologi</trd>
+  </trdgrp>
+  <trd lng="ja">&#x751F;&#29289;&#x5B66;&#32773;  <pr>&#x305B;&#12356;&#12406;&#12388;&#x304C;&#x304F;&#12375;&#12419;</pr></trd>
+  <trd lng="nl">bioloog</trd>
+  <trd lng="pl">biolog</trd>
+  <trd lng="ru">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trdgrp lng="sk">
+    <trd>biol&oacute;g</trd>,
+    <trd>biol&oacute;g</trd>
+  </trdgrp>
+  <trd lng="sv">biolog</trd>
+  <trd lng="uk">&c_b;&c_ib;&#x43E;&#x43B;&#x43E;&c_g;</trd>
+</drv>
+
+<drv mrk="biolog.astro0o">
+  <kap>astro<tld/>o</kap>
+  <snc mrk="biolog.astro0o.BIO">
+    <dif>
+      <ref tip="dif" cel="biolog1.astro0o.BIO">Astrobiologi</ref>isto:
+      <ekz>
+         la ser&ccirc;ado de la astro<tld/>oj &scirc;ajnas pli promesplena
+         ol la konjektoj de la teologoj
+         <fnt>
+           <aut>G. Makaj</aut>,
+           <vrk>Astrobiologio kaj religio</vrk>,
+           <bib>Monato</bib>,
+           <lok>2013</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_t;&c_r;&c_a;&c_b;&c_ib;&c_jo;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="en">astrobiologist</trd>
+  <trd lng="fr">astrobiologiste</trd>
+  <trd lng="pl">astrobiolog</trd>
+</drv>
+
+<drv mrk="biolog.nervo0o">
+  <kap>nervo<tld/>o</kap>
+  <snc mrk="biolog.nervo0o.BIO">
+    <dif>
+      <ref tip="dif" cel="neuxrobiolog.0o.BIO">Ne&ubreve;robiologo</ref>:
+      <ekz>
+         nervo<tld/>o, koresponda membro de Hungara Scienca Akademio
+         <fnt>
+           <aut>-</aut>
+           <vrk><url ref="https://eo.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Acs%C3%A1dy">
+           L&aacute;szl&oacute; Acs&aacute;dy</url></vrk>
+           <lok>Vikipedio, 2023-07-08</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">neurobiologiste</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/12/12 19:23:56
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.30 2023/11/27 12:46:48
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.29 2023/11/25 01:31:52
+Jeromo Vasxe: kor trd fr
+
+versio 1.28 2023/11/24 21:23:22
+Jeromo Vasxe: + ~eco ~igxi
+
+versio 1.26 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.23 2022/03/01 08:44:48
+Dmitri Gabinski: + trd be
+
+Revision 1.19  2016/09/30 12:10:31  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2015/11/26 14:10:20  revo
+-->
+</vortaro>

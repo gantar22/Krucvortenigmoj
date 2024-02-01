@@ -1,0 +1,372 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: termin.xml,v 1.109 2023/10/21 13:02:26 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>termin</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="termin.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="termin.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="super" cel="vort.0o.LIN">Vorto</ref> a&ubreve; <ref tip="super" cel="esprim.0o.ajxo">esprimo</ref>
+      speciala al iu scienco, arto, metio, fako:
+      <ekz>
+        tiaj instruitaj paroloj <klr>[&#x2026;]</klr> estas traplektitaj per <klr>[&#x2026;]</klr>
+        misteraj por la amaso <tld/>oj te&hcirc;nikaj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        proponi e&ccirc; tute nekompreneblajn barbarajn <tld/>ojn
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Pri la homaranismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multaj sciencaj <tld/>oj <klr>[&#x2026;]</klr> estas neanalizeblaj
+        <fnt>
+        <aut>M. Duc Goninaz</aut>,
+          <bib>PIV2</bib>,
+          <lok>Anta&ubreve;parolo, p. 26a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        e&ccirc; sa&gcirc;a kapo havos konsiderindan problemon kompreni la <tld/>on &leftquot;frazeologio&rightquot;
+        baze de la duonvorto &leftquot;fraz&rightquot;
+        <fnt>
+	<aut>Pejno Simono</aut>
+	<vrk><url ref="&Monato;/2000/006813.php">Plansprache und Phraseologie</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/06, p. 33</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        alklaki la substrekitajn <tld/>ojn por ekhavi e&ccirc; pli da informoj, la&ubreve; la tiel
+        nomata hiperteksta sistemo
+        <fnt>
+            <aut>Pa&ubreve;l Peeraerts</aut>
+            <vrk><url ref="&Monato;/1995/A950501.php">Ni levu la &ccirc;apelon!</url></vrk>
+            <bib>Monato</bib>
+            <lok>1995/05, p. 16</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">term</trd>
+  <trd lng="am">&#x1243;&#x120D;</trd>
+  <trd lng="ar">&a_m;&a_S;&a_T;&a_l;&#x62D;</trd>
+  <trd lng="az">m&#xFC;dd&#x259;t</trd>
+  <trd lng="be">&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;
+  <klr>(&c_s;&c_p;&c_e;&c_c;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_a;&c_je;
+  &c_s;&c_l;&c_o;&c_v;&c_a; &c_c;&c_ib; &c_v;&c_y;&c_r;&c_a;&c_z;)</klr>
+  </trd>
+  <trd lng="bn">&#x9B6;&#x9AC;&#x9CD;&#x9A6;</trd>
+  <trd lng="bs">termin</trd>
+  <trd lng="ca">terme</trd>
+  <trd lng="co">termine</trd>
+  <trdgrp lng="cs">
+    <trd>odborn&yacute; n&aacute;zev</trd>,
+    <trd>odborn&yacute; pojem</trd>,
+    <trd>odborn&yacute; v&yacute;raz</trd>,
+    <trd>terminus technicus</trd>,
+    <trd>term&iacute;n</trd>
+  </trdgrp>
+  <trd lng="cy">dymor</trd>
+  <trd lng="da">sigt</trd>
+  <trdgrp lng="de">
+    <trd>Terminus</trd>,
+    <trd>Fachausdruck</trd>,
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>term</trd>,
+    <trd>expression</trd>,
+    <trd>name</trd>
+  </trdgrp>
+  <trd lng="es">t&eacute;rmino</trd>
+  <trd lng="et">m&#xF5;iste</trd>
+  <trd lng="eu">epe</trd>
+  <trd lng="fr">terme<klr tip="amb"> (linguistique)</klr></trd>
+  <trd lng="fy">term</trd>
+  <trd lng="ga">t&#xE9;arma</trd>
+  <trd lng="gd">&#xF9;ine</trd>
+  <trd lng="gl">prazo</trd>
+  <trd lng="gu">&#xAB6;&#xAAC;&#xACD;&#xAA6;</trd>
+  <trd lng="ha">kalmomin</trd>
+  <trd lng="hi">&#x905;&#x935;&#x927;&#x93F;</trd>
+  <trd lng="hmn">lub sij hawm</trd>
+  <trd lng="hr">pojam</trd>
+  <trd lng="ht">t&#xE8;m</trd>
+  <trdgrp lng="hu">
+    <trd>szaksz&oacute;</trd>,
+    <trd>terminus</trd>
+  </trdgrp>
+  <trd lng="hy">&#x56A;&#x561;&#x574;&#x56F;&#x565;&#x57F;</trd>
+  <trd lng="ig">okwu</trd>
+  <trd lng="is">t&#xED;ma</trd>
+  <trd lng="ja">&#x8A00;&#x8449; <pr>&#x3053;&#x3068;&#x3070;</pr></trd>
+  <trd lng="ka">&#x10D5;&#x10D0;&#x10D3;&#x10D0;</trd>
+  <trd lng="kk">&#x43C;&c_je;&c_r;&c_z;&c_ib;&#x43C;</trd>
+  <trd lng="km">&#x179A;&#x1799;&#x17C8;&#x1796;&#x17C1;&#x179B;</trd>
+  <trd lng="kn">&#xCAA;&#xCA6;</trd>
+  <trd lng="ko">&#xC6A9;&#xC5B4;</trd>
+  <trd lng="ku">&#xEE;fade</trd>
+  <trd lng="ky">&#x43C;&#x4E9;&#x4E9;&#x43D;&#x4E9;&c_t;</trd>
+  <trd lng="lo">&#xEC3;&#xE99;&#xEC4;&#xEA5;&#xE8D;&#xEB0;</trd>
+  <trd lng="lt">terminas</trd>
+  <trd lng="lv">termins</trd>
+  <trd lng="mg">teny</trd>
+  <trd lng="mi">w&#x15D1;</trd>
+  <trd lng="mk">&c_t;&c_je;&c_r;&#x43C;&c_i;&#x43D;&#x43E;&c_t;</trd>
+  <trd lng="ml">&#xD15;&#xD3E;&#xD32;&#xD3E;&#xD35;&#xD27;&#xD3F;</trd>
+  <trd lng="mn">&c_c;&c_a;&c_g;</trd>
+  <trd lng="mr">&#x92E;&#x941;&#x926;&#x924;</trd>
+  <trd lng="ms">jangka</trd>
+  <trd lng="mt">tul</trd>
+  <trd lng="my">&#x101E;&#x1000;&#x103A;&#x1010;&#x1019;&#x103A;&#x1038;</trd>
+  <trdgrp lng="nl">
+    <trd>term</trd>,
+    <trd>vakterm</trd>
+  </trdgrp>
+  <trd lng="ny">akuti</trd>
+  <trd lng="pa">&#xA26;&#xA40; &#xA2E;&#xA3F;&#xA06;&#xA26;</trd>
+  <trdgrp lng="pl">
+    <trd>termin</trd>,
+    <trd>has&lstroke;o</trd>,
+    <trd>poj&eogonek;cie</trd>,
+    <trd>s&lstroke;owo</trd>,
+    <trd>nazwa</trd>
+  </trdgrp>
+  <trd lng="ps">&a_A;&a_S;&a_T;&a_l;&a_A;&#x62D;</trd>
+  <trdgrp lng="pt">
+    <trd>termo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;</trd>
+  <trd lng="rw">ijambo</trd>
+  <trd lng="sd">&a_m;&#x62F;&#x62A;</trd>
+  <trd lng="si">&#xD9A;&#xDCF;&#xDBD;&#xDD3;&#xDB1;</trd>
+  <trdgrp lng="sk">
+    <trd>odborn&yacute; n&aacute;zov</trd>,
+    <trd>term&iacute;n</trd>
+  </trdgrp>
+  <trd lng="sl">izraz</trd>
+  <trd lng="sm">vaitaimi e</trd>
+  <trd lng="sn">izwi</trd>
+  <trd lng="so">dheer</trd>
+  <trd lng="sq">term</trd>
+  <trd lng="st">nako</trd>
+  <trd lng="su">istilah</trd>
+  <trd lng="sw">mrefu</trd>
+  <trd lng="ta">&#xB95;&#xBBE;&#xBB2;</trd>
+  <trd lng="te">&#xC2A;&#xC26;&#xC02;</trd>
+  <trd lng="tg">&#x43C;&#x4EF;&#x4B3;&#x43B;&c_a;&c_t;</trd>
+  <trd lng="th">&#xE23;&#xE30;&#xE22;&#xE30;</trd>
+  <trd lng="tl">taning</trd>
+  <trd lng="tt">&c_t;&c_je;&c_r;&#x43C;&c_i;&#x43D;</trd>
+  <trd lng="uk">&c_t;&c_je;&c_r;&#x43C;&c_ib;&#x43D;</trd>
+  <trd lng="ur">&a_A;&a_S;&a_T;&a_l;&a_A;&#x62D;</trd>
+  <trd lng="uz">muddat</trd>
+  <trd lng="vi">h&#x1EA1;n</trd>
+  <trd lng="xh">ikota</trd>
+  <trd lng="yi">&#x5D8;&#x5E2;&#x5E8;&#x5DE;&#x5D9;&#x5DF;</trd>
+  <trd lng="yo">oro</trd>
+  <trd lng="zu">ithemu</trd>
+</drv>
+
+<drv mrk="termin.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="termin.0aro.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Speciala <ref tip="super" cel="vort.0oprovizo.LIN">vortoprovizo</ref> de iu scienco, arto,
+      metio, fako, eventuale kompilita kiel <ref tip="super" cel="vort.0aro.LIN">vortaro</ref>:
+      <ekz>
+        matematika <tld/>aro
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        provo de marista <tld/>aro
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>areto pri tradukado
+        <fnt><aut>R. Haveman</aut>, <vrk><url ref="http://www.tekstoj.nl/esperanto/artikoloj/terminaro.htm">
+        terminareto pri tradukado</url>, 2003-</vrk></fnt>;
+      </ekz>
+      <ekz>
+        kompili aktualan aviadan <tld/>aron
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+            <vrk><url ref="&Monato;/2000/007089.php">&Ccirc;u ni mortu miskomprene?</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 5</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>aro estas dividata en du bazajn partojn: unue indekso <klr>[&#x2026;]</klr>
+        kaj due alfabetaj vicoj de <tld/>oj el la unuopaj lingvoj
+        <fnt>
+          <aut>Zlatko Hin&scaron;t</aut>
+          <vrk><url ref="&Monato;/2005/008517.php">Suplemento al ekonomiaj
+          terminaroj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/02, p. 16</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la unuaj pa&gcirc;oj precipe konsistas el listo de la <tld/>aro uzota en la teksto
+        <fnt>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2009/009680.php">Proksimaj kaj malproksimaj
+          najbaroj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/04, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[se]</klr> usonanoj kaj aliaj parolantoj de la angla uzas malsamajn
+        <tld/>arojn kaj apena&ubreve; interkompreni&gcirc;as
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/008032.html">Monda lingvo a&ubreve; mondaj
+          lingvoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/11, p. 19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="terminologi.0o.terminaro">terminologio<sncref/></ref>
+    <rim>
+      Oni distingas diversajn tipojn de <tld/>aro la&ubreve; tio, kiel la
+      <tld/>oj estas ordigitaj kaj rilatigitaj:
+      <ref tip="sub" cel="glos.0aro">glosaro</ref> estas (alfabeta) difinlisto,
+      dum <ref tip="sub" cel="klasif.0o">klasifiko</ref> kaj
+      <ref tip="sub" cel="taksonomi.0o">taksonomio</ref> prezentas hierar&hcirc;ion,
+      <ref tip="sub" cel="tezaux.0o.SCI">teza&ubreve;ro<sncref/></ref> enhavas
+      rilatojn de speco, aparteneco, sinonimeco ks, fine
+      <ref tip="sub" cel="ontolo.0o.tezauro">ontologio<sncref/></ref>
+      prezentas reton de konceptoj kaj interrilatoj la&ubreve; formala logiko,
+      en kiu la rilatoj mem estas konceptoj de la ontologio.
+      La <ref tip="sub" cel="nomenk.0o">nomenklaturo</ref>
+      de iu fako prezentas ties oficialan <tld/>aron.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>,
+    <trd>&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y; &c_s;&c_l;&c_o;&c_w;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="ca">terminologia</trd>
+  <trdgrp lng="de">
+    <trd>Terminologie</trd>,
+    <trd>Fachw&ouml;terbuch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>glossary</trd>,
+    <trd>nomenclature</trd>,
+    <trd>terminology</trd>
+  </trdgrp>
+  <trd lng="es">diccionario especializado</trd>
+  <trdgrp lng="fr">
+    <trd>lexique</trd>,
+    <trd>terminologie<klr tip="amb"> (collection de termes)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szaksz&oacute;t&aacute;r</trd>,
+    <trd>terminol&oacute;gia</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5C02;&#x9580;&#x7528;&#x8A9E;&#x96C6;  <pr>&#x305B;&#x3093;&#x3082;&#x3093;&#x3088;&#x3046;&#x3054;&#x3057;&#x3085;&#x3046;</pr></trd>,
+    <trd>&#x8853;&#x8A9E;&#x96C6;  <pr>&#x3058;&#x3085;&#x3064;&#x3054;&#x3057;&#x3085;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>vakwoordenlijst</trd>,
+    <trd>vakwoordenboek</trd>
+  </trdgrp>
+  <trd lng="pl">s&lstroke;ownik <ind>terminologiczny</ind></trd>
+  <trdgrp lng="ru">
+    <trd>
+    &c_s;&c_l;&c_o;&c_v;&c_a;&c_r;&c_mol;
+    &c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_o;&c_v;
+    </trd>,
+    <trd>
+    &c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;
+    </trd>
+  </trdgrp>
+  <trd lng="sk">terminologick&yacute; slovn&iacute;k</trd>
+  <trd lng="cs">terminologick&yacute; slovn&iacute;k</trd>
+  <trd lng="uk">&c_t;&c_je;&c_r;&#x43C;&c_ib;&#x43D;&#x43E;&#x43B;&#x43E;&c_g;&c_ib;&c_ch;&#x43D;&c_i;&c_j;
+  &c_s;&#x43B;&#x43E;&c_v;&#x43D;&c_i;&#x43A;</trd>
+</drv>
+
+<drv mrk="termin.0aristo">
+  <kap><tld/>aristo</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="termin.0aristo.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="super" cel="lingv.0isto">Lingvisto</ref> studanta fakajn
+      <tld/>oj, kompilanta <tld/>arojn:
+      <ekz>
+        <nom>Eurodicautom</nom> <klr>[&#x2026;]</klr> povas esti interesa por
+        tradukistoj / vortaristoj / <tld/>aristoj
+        <fnt>
+        <aut>luisgui</aut>,
+        <vrk>12-lingva datumbazo (Eurodicautom)</vrk>,
+        <lok>soc.culture.esperanto, 1999-05-24</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        <nom>Christian Bertin</nom> <klr>[&#x2026;]</klr>, esperanta <tld/>aristo, vivanta en Bretonio
+        <fnt>
+          <vrk><url ref="&Viki;/Christian_Bertin">Christian Bertin -
+          Vikipedio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_k;&c_l;&c_a;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k; &c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_a;&c_g;&c_ib;&c_ch;&c_n;&c_a;&c_g;&c_a; &c_s;&c_l;&c_o;&c_w;&c_n;&c_ib;&c_k;&c_a;</trd>
+  <trd lng="ca">termin&ograve;leg</trd>
+  <trd lng="cs">tv&uring;rce slovn&iacute;k&uring; odborn&yacute;ch v&yacute;raz&uring;</trd>
+  <trd lng="de">Terminologe</trd>
+  <trd lng="fr">terminologue</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C02;&#x9580;&#x7528;&#x8A9E;&#x7814;&#x7A76;&#x5BB6;  <pr>&#x305B;&#x3093;&#x3082;&#x3093;&#x3088;&#x3046;&#x3054;&#x3051;&#x3093;&#x304D;&#x3085;&#x3046;&#x304B;</pr></trd>,
+    <trd>&#x8853;&#x8A9E;&#x5B66;&#x8005;  <pr>&#x3058;&#x3085;&#x3064;&#x3054;&#x304C;&#x304F;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">tvorca slovn&iacute;ka odborn&yacute;ch v&yacute;razov</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.109 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.107 2023/08/29 14:28:29
+Wolfram Diestel: ja: prononco
+
+versio 1.106 2023/05/05 11:23:00
+Paul Peeraerts: + lok + korekto de tajperaro
+
+versio 1.105 2023/05/01 12:44:44
+Paul Peeraerts: Steloj -> monato
+
+versio 1.104 2023/04/24 10:31:50
+Paul Peeraerts: @Sxteloj -> @Monato
+
+versio 1.103 2023/04/11 11:23:41
+Paul Peeraerts: Steloj -> monato
+
+versio 1.102 2022/12/02 09:27:12
+Dmitri Gabinski: + trd be
+
+versio 1.101 2022/05/05 17:08:11
+-->
+</vortaro>

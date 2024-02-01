@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fulg.xml,v 1.24 2023/11/10 06:08:01 revo Exp $">
+<kap><ofc>*</ofc>
+<rad>fulg</rad>/o</kap>
+<drv mrk="fulg.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Nigra densa materio lasita de fumo en kamentuboj:
+      <ekz>
+        <ind><tld/>okolora</ind>.
+        <trd lng="fr">fuligineux<klr tip="ind"> (couleur)</klr></trd>
+        <trd lng="hu">koromfekete</trd>
+        <trd lng="nl">roetkleurig</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bistr.0o">bistro</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="ja">&#x7164;  <pr>&#x3059;&#x3059;</pr></trd>
+  <trd lng="kek">ab&#x315;aq</trd>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_zh;&c_a;</trd>,
+    <trd>&c_k;&c_u;&c_r;&c_o;&c_d;&c_y;&c_m;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_s;&c_a;&c_zh;&c_d;&c_i;</trd>
+  <trdgrp lng="cs">
+    <trd>kopt</trd>,
+    <trd>saze</trd>,
+    <trd>&#x10D;er&#x148;</trd>
+  </trdgrp>
+  <trd lng="de">Ru&szlig;</trd>
+  <trd lng="en">soot</trd>
+  <trd lng="fr">suie</trd>
+  <trd lng="hu">korom</trd>
+  <trd lng="nl">roet</trd>
+  <trdgrp lng="pl">
+    <trd>sadza</trd>,
+    <trd>kope&cacute;<klr> (przest.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>fuligem</trd>,
+    <trd>picum&atilde;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_a;&c_zh;&c_a;</trd>
+  <trd lng="sk">sadza</trd>
+  <trd lng="uk">&#x441;&#x430;&#x436;&#x430;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x70B2; <pr>tai</pr></trd>,
+    <trd>&#x78B3;&#x9ED1; <pr>t&#xE0;nh&#x113;i</pr></trd>,
+    <trd>&#x6CB9;&#x70DF; <pr>y&#xF3;uy&#x101;n</pr></trd>,
+    <trd>&#x70B1; <pr>t&#xE1;i</pr></trd>,
+    <trd>&#x70AD;&#x9ED1; <pr>t&#xE0;nh&#x113;i</pr></trd>,
+    <trd>&#x7164;&#x7070; <pr>m&#xE9;ihu&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fulg.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Nigrigi, makuli per <tld/>o:
+      <ekz>
+        <tld/>igita kameno.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_u;&c_r;&c_e;&c_c;&c_mol;</trd>
+    <trd>&c_k;&c_u;&c_r;&c_o;&c_d;&c_y;&c_m;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_u;&c_r;&c_o;&c_d;&c_y;&c_m;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">za&#x10D;adit</trd>
+  <trd lng="de">ru&szlig;en</trd>
+  <trd lng="en">blacken <klr tip="amb">(with soot)</klr></trd>
+  <trd lng="fr">noircir &agrave; la suie</trd>
+  <trd lng="hu">bekormoz</trd>
+  <trd lng="ja">&#x3059;&#x3059;&#x3051;&#x3055;&#x305B;&#x308B;</trd>
+  <trd lng="nl">zwartblakeren</trd>
+  <trdgrp lng="pl">
+    <trd>kopci&cacute;</trd>,
+    <trd>okapca&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_z;&c_a;&c_k;&c_o;&c_p;&c_t;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">za&#x10D;adi&#x165;</trd>
+  <trd lng="zh">&#x7164;&#x7070; <pr>m&#xE9;ihu&#x12B;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/14 19:15:46
+revo: transskribo per <pr>
+
+Revision 1.19  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/01/30 09:10:17  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2011/11/07 01:10:22  revo
+ Anchise Inzaghi: traduko q'eqchi'
+
+Revision 1.16  2010/04/16 16:30:43  revo
+Russ Williams: +trd en
+
+Revision 1.15  2009/05/04 16:31:27  revo
+Jozefo Horvath: mod. trd hu
+
+Revision 1.14  2009/03/12 17:32:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2007/06/13 16:32:47  revo
+-->
+</vortaro>

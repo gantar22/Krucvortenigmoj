@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: petiol.xml,v 1.13 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <rad>petiol</rad>/o
+</kap>
+<drv mrk="petiol.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="tig.0o">Tigo</ref> de <ref cel="foli.0o.BOT">folio</ref>:
+      <ekz>
+        la folioj <klr>[de pepono]</klr> estas grandaj, ties nervuroj kaj <tld/>oj estas
+        dornecaj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=18905">Kukurbacoj</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fuksio: <klr>[&#x2026;]</klr> kontra&ubreve;sidantaj <tld/>aj, ofte ovo- a&ubreve; lancetformaj folioj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=20164">Fuksio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Blattstiel</trd>
+  <trd lng="en">petiole</trd>
+  <trd lng="fr">p&eacute;tiole</trd>
+  <trd lng="hu">lev&eacute;lny&eacute;l</trd>
+  <trd lng="ja">&#x8449;&#x67C4;  <pr>&#x3088;&#x3046;&#x3078;&#x3044;</pr></trd>
+  <trd lng="nl">bladsteel</trd>
+  <trd lng="pl">ogonek  <ind>li&sacute;ciowy</ind></trd>
+  <trd lng="ro">pe&#x21B;iol  <klr>(botanic&abreve;)</klr></trd>
+  <trd lng="ru">&c_ch;&c_je;&c_r;&c_je;&c_sh;&c_o;&c_k;</trd>
+  <trd lng="uk">&#x447;&#x435;&#x440;&#x435;&#x448;&#x43E;&#x43A;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.13 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.10 2022/02/13 19:22:31
+Vito Redsky: + trd pl + trd ro 
+
+Revision 1.8  2014/05/14 18:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.7  2002/05/11 10:27:18  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2001/12/19 11:59:45  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/07/27 19:34:39 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4 2000/02/22 16:27:00 revo
+Karlo Freeman: Angla trd
+-->
+</vortaro>

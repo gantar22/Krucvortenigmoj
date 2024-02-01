@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: argume.xml,v 1.57 2023/10/28 08:33:08 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>argument</rad>/o <fnt><bib>MT</bib></fnt>
+</kap>
+
+<drv mrk="argume.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="argume.0i.LOG">
+    <dif>
+      Prezenti <tld/>ojn en <ref tip="malprt" cel="diskut.0i">diskuto</ref>:
+      <ekz>
+        batanto povas <tld/>i, batato devas silenti
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro honoro, mi ne scias <tld/>adi
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        edukistoj <tld/>as, ke la antikva <klr>[metodo]</klr> ne plu ta&ubreve;gas por instrui
+        matematikon en komputila epoko
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/1993/A931103.php">Nova gaela numerala sistemo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/11, p. 21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni <tld/>is ke <klr>[oni]</klr> per la unuecaj prezoj la furoraj libroj
+        subvencias la deficitajn, sed altkvalitajn librojn, kies eldonkvanto estas
+        malgranda
+        <fnt>
+       <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2000/006902.php">Liberaj prezoj por libroj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 7</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="pruv.0i">pruvi</ref>
+    <refgrp tip="vid">
+       <ref cel="konklu.0i">konkludi</ref>,
+       <ref cel="konvin.0i">konvinki</ref>,
+       <ref cel="kred.0igi">kredigi</ref>,
+       <ref cel="rezon.0i">rezoni</ref>
+    </refgrp>
+    <trdgrp lng="zh">
+    <trd>&#x597D;&#x4E89;&#x8BBA; <pr>h&#x1CE;ozh&#x113;ngl&#xF9;n</pr></trd>,
+    <trd>&#x597D;&#x722D;&#x8AD6; <pr>h&#x1CE;ozh&#x113;ngl&#xF9;n</pr></trd>,
+    <trd>&#x611B;&#x722D;&#x8FAF; <pr>&#xE0;izh&#x113;ngbi&#xE0;n</pr></trd>,
+    <trd>&#x7231;&#x4E89;&#x8FA9; <pr>&#xE0;izh&#x113;ngbi&#xE0;n</pr></trd>,
+    <trd>&#x63D0;&#x51FA;&#x8AD6;&#x8B49; <pr>t&#xED;ch&#x16B;l&#xF9;nzh&#xE8;ng</pr></trd>,
+    <trd>&#x63D0;&#x51FA;&#x8BBA;&#x8BC1; <pr>t&#xED;ch&#x16B;l&#xF9;nzh&#xE8;ng</pr></trd>,
+    <trd>&#x58F0;&#x8FA9; <pr>sh&#x113;ngbi&#xE0;n</pr></trd>,
+    <trd>&#x8072;&#x8FAF; <pr>sh&#x113;ngbi&#xE0;n</pr></trd>,
+    <trd>&#x54AF; <pr>lu&#xF2;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_a;&c_r;&c_g;&c_u;&c_m;&c_e;&c_n;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">arguzenni&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>argumentovat</trd>,
+    <trd>dokazovat</trd>,
+    <trd>od&uring;vod&ncaron;ovat</trd>
+  </trdgrp>
+  <trd lng="de">argumentieren</trd>
+  <trd lng="en">argue</trd>
+  <trd lng="es">argumentar</trd>
+  <trd lng="fr">argumenter</trd>
+  <trd lng="he">&lamed;&tet;&ayin;&vav;&fnun;</trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;rvel</trd>,
+    <trd>argumentumt&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8AD6;&#x8A3C;&#x3059;&#x308B;  <pr>&#x308D;&#x3093;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x8AD6;&#x62E0;&#x3068;&#x3059;&#x308B;  <pr>&#x308D;&#x3093;&#x304D;&#x3087;&#x3068;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">argumenteren</trd>
+  <trd lng="no">argumentere</trd>
+  <trdgrp lng="pl">
+    <trd>argumentowa&cacute;</trd>,
+    <trd>uzasadnia&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>argumenteaz&abreve;</trd>,
+    <trd>justifica</trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_r;&c_g;&c_u;&c_m;&c_je;&c_n;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>argumentova&tcaron;</trd>,
+    <trd>d&ocirc;vodi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_r;&c_gu;&c_u;&c_m;&c_je;&c_n;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_n;&c_a;&c_v;&c_o;&c_d;&c_i;&c_t;&c_i; &c_d;&c_o;&c_v;&c_o;&c_d;&c_i;</trd>,
+    <trd>&c_d;&c_o;&c_k;&c_a;&c_z;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="argume.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="argume.0o.LOG">
+    <dif>
+      <ref cel="rezon.0o">Rezona</ref> <ref cel="pruv.0o.KOMUNE">pruvo</ref> 
+      en <ref cel="diskut.0i">diskuto</ref>:
+      <ekz>
+        mi scias viajn pensojn, kaj la <tld/>ojn, kiujn vi malice kolektas kontra&ubreve; mi
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 21:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel <tld/>oj por sia mal&gcirc;entila teorio la trezoristo citis la ekzemplon de la
+        &ccirc;efpastro <nom>Sem</nom>, kiu vivis kiel pentofaranto
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve;veni eblajn <ind>kontra&ubreve;<tld/>o</ind>jn
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;APITRO VII</lok>
+        </fnt>;
+        <trd lng="de">Gegenargument</trd>
+      </ekz>
+      <ekz>
+        se niaj <tld/>oj estas &gcirc;ustaj, akceptu ilin
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iujn siajn <tld/>ojn ili penadis konformigadi al tiu anta&ubreve;e farita decido, ne
+        rimarkante la tutan senfundamentecon de tiuj &ccirc;i <tld/>oj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi kutimis rilati kun estimo nur al tiaj <tld/>oj, kiuj estas plenigitaj per
+        multo da citatoj, traplektitaj per multo da la&ubreve;taj a&ubreve;toritataj nomoj kaj
+        brilas per amasego da alteflugaj kvaza&ubreve;-sciencaj frazoj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="prt">
+       <ref cel="premis.0o">premiso</ref>,
+       <ref cel="konklu.0o">konkludo</ref>
+    </refgrp>
+    <trd lng="br">arguzenn</trd>
+    <trdgrp lng="de">
+      <trd>Argument</trd>
+    </trdgrp>     
+    <trd lng="fr">argument</trd>
+    <trdgrp lng="hu">
+      <trd>&eacute;rv</trd>,
+      <trd>argumentum</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="argume.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="argume.0o.donitajxo">
+      <fnt><bib>PIV1</bib></fnt>
+      <dif>
+        <klr>(de <ref cel="funkci.0o.MAT">funkcio</ref>,
+        <ref cel="operac.0o.MAT">operacio</ref> a&ubreve;
+        <ref cel="rilat.0o.MAT">rilato</ref>)</klr>:
+        <ekz>
+          en la esprimo <frm am="f(x,y+z)">f(x,y+z)</frm>
+          la funkcio <frm am="f">f</frm> havas du <tld/>ojn, nome
+          <frm am="x">x</frm> kaj <frm am="y+z">y+z</frm>;
+        </ekz>
+        <ekz>
+          <frm am="f">f</frm> estas du<tld/>a funkcio;
+        </ekz>
+        <ekz>
+          unu<tld/>a funkcio estas du<tld/>a rilato;
+        </ekz>
+        <ekz>
+          la <tld/>oj de adicio (resp. multipliko) oni nomas anka&ubreve;
+          <ref cel="term.0o.sumo">termoj</ref>
+          (resp. <ref cel="faktor.0o.multip">faktoroj</ref>).
+        </ekz>
+      </dif>
+      <ref tip="vid" cel="parame.0o.MAT">parametro.</ref>
+      <rim>
+        La nocio estas sufi&ccirc;e elasta. Kiel <tld/>on
+        de bildigo oni povas konsideri &ccirc;iun elementon de &gcirc;ia
+        fonto-aro, foje nomata <tld/>aro, sed se tiaj elementoj estas
+        opoj,
+        anka&ubreve; iliaj termoj estas konsidereblaj kiel <tld/>oj. La
+        kunteksto devas klarigi, pri kio oni parolas.
+      </rim>
+      <trdgrp lng="de">
+        <trd>Argument<klr tip="ind"> (unabh&auml;ngige
+        Variable)</klr></trd>,
+        <trd>Operand</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>argument<klr tip="ind"> (independant variable)</klr></trd>,
+        <trd>operand</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>argument<klr tip="ind"> (variable ind&eacute;pendante)
+        </klr></trd>,
+        <trd>op&eacute;rande</trd>
+      </trdgrp>
+      <trd lng="hu">f&uuml;ggetlen <ind>v&aacute;ltoz&oacute;</ind><klr tip="ind">
+      (f&uuml;ggv&eacute;nyben)</klr></trd>
+      <trd lng="pl">argument <klr tip="ind"> (zmienna niezale&zdot;na)</klr></trd>
+      <trd lng="ro">argument <klr tip="ind"> (variabil&abreve; independent&abreve;)</klr></trd>
+      <trdgrp lng="ru">
+        <trd>&c_a;&c_r;&c_g;&c_u;&c_m;&c_je;&c_n;&c_t;<klr tip="ind"> (&c_n;&c_je;&c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_a;&c_ja;
+        &c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;)</klr></trd>,
+        <trd>&c_o;&c_p;&c_je;&c_r;&c_a;&c_n;&c_d;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="argume.0o.komplekso">
+      <fnt><bib>MatTerm</bib><lok>p. 15</lok></fnt>
+      <dif>
+        <klr>(de <ref cel="komple.0o.MAT">komplekso</ref>
+        <frm am="z">z</frm>)</klr>
+        Tia reelo <frm am="theta">&theta;</frm>, ke
+        <frm am="z = |z|*(cos theta+i*sin theta)">z = |z|&middot;(cos&theta; + i&middot;sin&theta;)</frm>,
+        kie <frm am="|z|">|z|</frm> prezentas la
+        <ref cel="modul.0o.komplekso">modulon</ref> de
+        <frm am="z">z</frm>:
+        <ekz>
+          la <tld/>on oni kutime prenas en la
+          intervalo <frm am="(-pi,+pi]">]-&pi;,+&pi;]</frm> kaj foje signas
+          per
+          <frm am="Arg(z)">Arg z</frm>;
+        </ekz>
+        <ekz>
+          la <tld/>o de nenula reelo egalas al <frm>0</frm>
+          <klr> (se pozitiva)</klr> a&ubreve; <frm am="pi">&pi;</frm>
+          <klr> (se negativa)</klr>.
+        </ekz>
+      </dif>
+      <trd lng="de">Argument</trd>
+      <trdgrp lng="en">
+        <trd>argument<klr tip="ind"> (of a complex number)</klr></trd>,
+        <trd>amplitude<klr tip="ind"> (of a complex number)</klr></trd>
+      </trdgrp>
+      <trd lng="fr">argument<klr tip="ind"> (d'un nombre
+      complexe)</klr></trd>
+      <trdgrp lng="hu">
+        <trd>argumentum<klr tip="ind"> (komplex sz&aacute;m&eacute;)</klr></trd>,
+        <trd>amplit&uacute;d&oacute;<klr tip="ind"> (komplex sz&aacute;m&eacute;)</klr></trd>
+      </trdgrp>
+      <trd lng="pl">argument <klr tip="ind"> (liczby zespolonej)</klr></trd>
+      <trd lng="ro">argument <klr tip="ind"> (num&abreve;r complex)</klr></trd>
+      <trd lng="ru">&c_a;&c_r;&c_g;&c_u;&c_m;&c_je;&c_n;&c_t;<klr tip="ind"> (&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;&c_n;&c_o;&c_g;&c_o; &c_ch;&c_i;&c_s;&c_l;&c_a;)</klr></trd>
+    </subsnc>
+    <subsnc mrk="argume.0o.polinomo">
+      <ref tip="vid" cel="polino.0o.formala">polinomo.</ref>
+      <rim>
+        &Ccirc;i-kuntekste <nom>Bricard</nom>
+        <fnt><bib>MatTerm</bib><lok>p. 12</lok></fnt> uzas
+        <ctl>varianto</ctl>,
+        kiel &ccirc;e funkcio, kaj <nom>Werner</nom> <fnt><bib>MatVort</bib></fnt> konas
+        <ctl>nedeterminita grando</ctl>, kiu ver&scirc;ajne respondas al la
+        sama intenco, sed &gcirc;enas pro la konkreta senco de
+        <ctl>grando</ctl>, dum temas pri nocio tre formala.
+      </rim>
+      <trd lng="de">Unbestimmte</trd>
+      <trd lng="en">indeterminate</trd>
+      <trd lng="fr">ind&eacute;termin&eacute;e</trd>
+      <trd lng="hu">hat&aacute;rozatlan v&aacute;ltoz&oacute;</trd>      
+      <trd lng="pl">niezmienna<klr tip="ind"> (wielomianu)</klr></trd>
+      <trd lng="ro">invariant <klr tip="ind"> (polinom)</klr></trd>
+      <trdgrp lng="ru">
+        <trd>&c_n;&c_je;&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_jo;&c_n;&c_n;&c_a;&c_ja;</trd>,
+        <trd>&c_n;&c_je;&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_n;&c_a;&c_ja;</trd>
+      </trdgrp>
+    </subsnc>
+    <trd lng="zh">&#x5E45;&#x89D2; <pr>f&#xFA;ji&#x1CE;o</pr></trd>
+</snc>
+  <trd lng="be">&c_a;&c_r;&c_g;&c_u;&c_m;&c_e;&c_n;&c_t;</trd>
+  <trd lng="bg">&c_a;&c_r;&c_g;&c_u;&c_m;&c_je;&c_n;&c_t;</trd>
+  <trd lng="bo">&t_ra;&t_tsata;&t_naro;&t_da;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="br">argumant</trd>
+  <trdgrp lng="cs">
+    <trd>argument funkce</trd>,
+    <trd>nez&aacute;visle prom&ecaron;nn&aacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Argument</trd>
+  </trdgrp>
+  <trd lng="en">argument</trd>
+  <trd lng="es">argumento</trd>
+  <trdgrp lng="he">
+    <trd>&tet;&#x5B7;&ayin;&#x5B2;&nun;&#x5B8;&he;</trd>,
+    <trd>&nun;&yod;&mem;&vav;&qof;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8AD6;&#x8A3C;  <pr>&#x308D;&#x3093;&#x3057;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x8AD6;&#x62E0;  <pr>&#x308D;&#x3093;&#x304D;&#x3087;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">argument</trd>
+  <trd lng="no">argument</trd>
+  <trd lng="pl">argument</trd>
+  <trd lng="ro">argument</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_r;&c_g;&c_u;&c_m;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_d;&c_o;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>argument</trd>,
+    <trd>d&ocirc;kaz</trd>,
+    <trd>d&ocirc;vod</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_r;&c_gu;&c_u;&c_m;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_d;&c_o;&c_v;&c_ib;&c_d;</trd>,
+    <trd>&c_d;&c_o;&c_k;&c_a;&c_z;</trd>,
+    <trd>&c_a;&c_r;&c_gu;&c_u;&c_m;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_n;&c_je;&c_z;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_a; &c_z;&c_m;&c_ib;&c_n;&c_n;&c_a; &c_v;&c_je;&c_l;&c_i;&c_ch;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="argume.for0i">
+  <kap>for<tld/>i</kap>
+  <snc>
+    <dif>
+      <tld lit="A"/>ante senpravigi kaj senvalorigi:
+      <ekz>
+        &leftquot;paradoksa interveno&rightquot; temas pri tio ke oni ne volas malbonigi a&ubreve; for<tld/>i
+        certan pensadon kaj/a&ubreve; konduton, sed tute male, troigi &gcirc;in &gcirc;is absurdeco por
+        rompi &gcirc;in
+        <fnt>
+          <vrk><url ref="https://www.lingq.com/en/learn-esperanto-online/courses/282910/esperanto-bezonas-teknikon-1071370/">Esperanta Retradio 2014, Esperanto bezonas teknikon</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_mol;&c_n;&c_ja;&c_p;&c_r;&c_a;&c_w;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_a;&c_r;&c_g;&c_u;&c_m;&c_e;&c_n;&c_t;&c_a;&c_v;&c_a;&c_n;&c_a;)</klr></trd>
+  <trdgrp lng="de">
+    <trd><klr tip="ind">(jmd. etwas)</klr> ausreden</trd>,
+    <trd>wegdiskutieren</trd>
+  </trdgrp>
+  <trd lng="en">rationalize <klr>(something)</klr> away</trd>
+  <trd lng="es">replicar</trd>
+  <trd lng="fr">r&eacute;pliquer</trd>
+  <trd lng="nl">uit het hoofd <ind>praten</ind></trd>
+  <trdgrp lng="pl">
+    <trd>replikowa&cacute;</trd>,
+    <trd>ripostowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>replic&abreve;</trd>,
+    <trd>ripost&abreve;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="argume.kontraux0i">
+  <kap>
+    kontra&ubreve;<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="A"/>i kontra&ubreve; iu propono, anta&ubreve;a argumento ks:
+      <ekz>
+        estas necese tuj <tld/>i kaj kontra&ubreve;<tld/>i pri unuopa fakto, rezervante al si
+        la finan <tld/>adon kaj refutadon pri la tuto
+        <fnt>
+          <bib>Ret</bib>
+          <lok>DUA PARTO</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne intencas denove diskuti kaj kontra&ubreve;<tld/>i, &ccirc;ar por tio necesus nova
+        artikolo
+        <fnt>
+	<aut>Uwe Joachim Moritz/Aldo de' Giorgi</aut>
+	<vrk><url ref="&Monato;/2000/007043.php">Du opinioj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/07, p. 4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni eksponas &ccirc;iujn faktojn kaj poste sekvas la <tld/>ado kaj kontra&ubreve;<tld/>ado en
+        formo de persvado kaj refuto
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni fu&gcirc;igas la homojn per tia kontra&ubreve;<tld/>ado anstata&ubreve; altiri ilin
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#x2116; 10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="objxet.0i">ob&jcirc;eti</ref>,
+      <ref cel="opon.0i">oponi</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="refut.0i">refuti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_ja;&c_r;&c_e;&c_ch;&c_y;&c_c;&c_mol; <klr>(&c_a;&c_r;&c_g;&c_u;&c_m;&c_e;&c_n;&c_t;&c_a;&c_v;&c_a;&c_n;&c_a;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>bestreiten</trd>,
+    <trd>bestreiten</trd>,
+    <trd>widersprechen</trd>,
+    <trd><klr>(etwas)</klr> dagegenhalten</trd>,
+    <trd>einwenden</trd>
+  </trdgrp>
+  <trd lng="en">counterargue</trd>
+  <trd lng="fr">contre-argumenter</trd>
+</drv>
+
+
+
+
+
+
+
+
+</art>
+<!--
+$Log$
+versio 1.56 2023/10/13 16:46:48
+revo: transskribo per <pr>
+
+versio 1.54 2023/04/26 06:32:05
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.53 2023/04/25 16:31:34
+Christian Siefkes: +trd en
+
+versio 1.52 2023/04/23 14:26:52
+
+versio 1.51 2023/04/12 10:30:27
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.50 2023/04/10 06:31:32
+Dmitri Gabinski: + trd be
+
+versio 1.49 2023/02/17 18:32:13
+Wolfram Diestel: +kontra&ubreve;~i
+
+versio 1.48 2023/02/03 17:28:42
+Vito Redsky: +trd pl + trd ro
+-->
+</vortaro>

@@ -1,0 +1,621 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: river.xml,v 1.121 2023/12/02 18:29:26 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>river</rad>/o
+</kap>
+<drv mrk="river.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="river.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Natura fluanta, iom abunda, akvomaso, enver&scirc;i&gcirc;anta, se ne seki&gcirc;ante, en
+      maron, lagon a&ubreve; alian riveron:
+      <ekz>
+        la suno rebrilas en la klara akvo de la <tld/>o
+        <fnt><bib>F</bib>, <lok>&FE; 42</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o eliras el <nom>Eden</nom>, por akvoprovizi la &gcirc;ardenon, kaj de tie &gcirc;i dividi&gcirc;as kaj
+        fari&gcirc;as kvar &ccirc;efpartoj
+        <klr>(vd <ref cel="euxfrat.E0o">E&ubreve;frato</ref>, <ref cel="tigris.T0o">Tigriso</ref>)</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 2:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu &ccirc;i <tld/>o havas ducent na&ubreve;dek kvar kilometrojn da longo
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o mu&gcirc;is, &scirc;veligita de la printempaj pluvoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        saliko staras super la <tld/>o
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        atendi sur tero, &gcirc;is seki&gcirc;os la <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el malgrandaj akveroj fari&gcirc;as grandaj <tld/>oj
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la man&gcirc;ota fi&scirc;o estas ankora&ubreve; en la <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li trafis el sub pluvo en <tld/>on
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ctl>Kiel akvo de l' <tld/>o</ctl>
+        <klr>(romano de <nom>Raymond Schwartz</nom>)</klr>
+        <fnt><aut>Schwartz Raymond</aut>, <vrk>Kiel akvo de l' rivero. -
+        La Laguna: J. R&eacute;gulo, 1963</vrk></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="prt">
+       <ref cel="font.0o.loko">fonto<sncref/></ref>,
+       <ref cel="flu.0ejo">fluejo</ref>,
+       <ref cel="meandr.0o.GEOG">meandro<sncref/></ref>,
+       <ref cel="katarakt.0o">katarakto</ref>,
+       <ref cel="fal.akvo0o">akvofalo</ref>,
+       <ref cel="flu.kun0ejo">kunfluejo</ref>,
+       <ref cel="flu.en0ejo">enfluejo</ref>
+    </refgrp>
+    <trd lng="nl">rivier</trd>
+  </snc>
+  <snc mrk="river.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Granda kvanto da io fluanta a&ubreve; radianta a&ubreve; simila
+      al anta&ubreve;eniranta flua&jcirc;o:
+      <ekz>
+        ver&scirc;ante <tld/>on da larmoj
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pluvo faladis per <tld/>oj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi na&gcirc;is tra ia interna <tld/>o de la oceano
+        <klr>(kp <ref cel="flu.0o">fluo</ref>)</klr>
+        <fnt>
+          <bib>FdO</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de la lunaj radioj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        etendinte la brakojn mi ver&scirc;us <tld/>ojn da radioj
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> trinkis <tld/>ojn da biero
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kanal.0o">kanalo</ref>,
+      <ref cel="torent.0o">torento</ref>
+    </refgrp>
+    <trd lng="nl">stroom</trd>
+  </snc>
+  <trd lng="af">rivier</trd>
+  <trd lng="am">&#x12C8;&#4757;&#x12DD;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_n;&a_h;&a_r;</trd>
+  <trd lng="az">&#xE7;ay</trd>
+  <trd lng="be">&c_r;&c_a;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_r;&c_je;&c_k;&c_a;</trd>
+  <trd lng="bn">&#x9A8;&#x9A6;&#x9C0;</trd>
+  <trd lng="bo">&#xF42;&#xF59;&#xF44;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
+  <trd lng="ca">riu</trd>
+  <trd lng="co">fiume</trd>
+  <trdgrp lng="cs">
+    <trd>&rcaron;eka</trd>,
+    <trd>p&rcaron;en. p&rcaron;&iacute;val</trd>,
+    <trd>&rcaron;eka</trd>
+  </trdgrp>
+  <trd lng="cy">afon</trd>
+  <trd lng="da">flod</trd>
+  <trd lng="de">Fluss</trd>
+  <trd lng="en">river</trd>
+  <trd lng="es">r&iacute;o</trd>
+  <trd lng="et">j&#xF5;gi</trd>
+  <trd lng="eu">ibaiaren</trd>
+  <trdgrp lng="fa">
+    <trd>&a_r;&a_w;&a_d;</trd>,
+    <trd>&a_r;&a_w;&a_d;&a_kh;&a_A;&a_n;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">rivi&egrave;re</trd>
+  <trd lng="fy">rivier</trd>
+  <trd lng="ga">abhainn</trd>
+  <trd lng="gd">aibhne</trd>
+  <trd lng="gl">r&#xED;o</trd>
+  <trd lng="gu">&#xAA8;&#xAA6;&#xAC0;</trd>
+  <trd lng="ha">kogin</trd>
+  <trd lng="hi">&#2344;&#2342;&#2368;</trd>
+  <trd lng="hmn">dej</trd>
+  <trd lng="hr">rijeka</trd>
+  <trd lng="ht">gwo larivy&#xE8; Lefrat</trd>
+  <trd lng="hu">foly&oacute;</trd>
+  <trd lng="hy">&#1379;&#1381;&#x57F;</trd>
+  <trdgrp lng="id">
+    <trd>sungai</trd>,
+    <trd>kali</trd>
+  </trdgrp>
+  <trd lng="ig">osimiri</trd>
+  <trd lng="is">&#xE1;in</trd>
+  <trd lng="ja">&#x5DDD; <pr>&#x304B;&#x308F;</pr></trd>
+  <trd lng="jv">kali</trd>
+  <trd lng="ka">&#x10DB;&#x10D3;&#x10D8;&#x10DC;&#x10D0;&#x10E0;&#x10D4;</trd>
+  <trd lng="kk">&#x4E9;&c_z;&c_je;&#x43D;</trd>
+  <trd lng="km">&#6033;&#x17B9;&#6016;&#6033;&#6035;&#x17D2;&#x179B;&#x17C1;</trd>
+  <trd lng="kn">&#xCA8;&#xCA6;&#xCBF;</trd>
+  <trd lng="ko">&#xAC15;</trd>
+  <trd lng="ku">&#xE7;em</trd>
+  <trd lng="ky">&c_d;&c_a;&c_r;&#x44B;&#x44F;</trd>
+  <trd lng="lat">fluvio</trd>
+  <trd lng="lo">&#xE99;&#xEC9;&#xECD;&#xEB2;</trd>
+  <trd lng="lt">up&#279;s</trd>
+  <trd lng="mg">ony</trd>
+  <trd lng="mi">te awa</trd>
+  <trd lng="mk">&c_r;&c_je;&#x43A;&c_a;</trd>
+  <trd lng="ml">&#xD28;&#xD26;&#xD3F;</trd>
+  <trd lng="mn">&c_g;&#x43E;&#x43B;&#x44B;&#x43D;</trd>
+  <trd lng="mr">&#2344;&#2342;&#2368;</trd>
+  <trd lng="ms">sungai</trd>
+  <trd lng="mt">xmara</trd>
+  <trd lng="my">&#4121;&#x103C;&#4101;&#x103A;</trd>
+  <trd lng="ne">&#2344;&#2342;&#2368;</trd>
+  <trd lng="ny">mtsinjewo</trd>
+  <trd lng="pa">&#xA28;&#xA26;&#xA40;</trd>
+  <trd lng="pl">rzeka</trd>
+  <trd lng="ps">&#x62F; &a_s;&#x64A;&a_n;&#x62F;</trd>
+  <trd lng="pt">rio</trd>
+  <trd lng="ru">&c_r;&c_je;&c_k;&c_a;</trd>
+  <trd lng="rw">uruzi</trd>
+  <trd lng="sd">&a_s;&a_n;&#x68C;&a_w;&a_hamza;</trd>
+  <trd lng="si">&#xD9C;&#xD9F;</trd>
+  <trd lng="sk">rieka</trd>
+  <trd lng="sm">vaitafe</trd>
+  <trd lng="sn">rwizi</trd>
+  <trd lng="so">webi</trd>
+  <trd lng="sq">lumi</trd>
+  <trd lng="st">n&#x14D;ka</trd>
+  <trd lng="su">walungan</trd>
+  <trd lng="sw">mto</trd>
+  <trd lng="ta">&#xB86;&#xBB1;&#xBCD;&#xBB1;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC28;&#xC26;&#xC3F;</trd>
+  <trd lng="tg">&c_d;&c_a;&c_r;&c_jo;</trd>
+  <trd lng="th">&#xE41;&#xE21;&#xE48;&#xE19;&#xE49;&#xE33;</trd>
+  <trd lng="tl">ilog</trd>
+  <trd lng="tt">&c_je;&#x43B;&c_g;&c_a;</trd>
+  <trd lng="uk">&c_r;&c_ib;&c_ch;&#x43A;&c_a;</trd>
+  <trd lng="ur">&#x62F;&a_r;&#x6CC;&a_A;</trd>
+  <trd lng="uz">daryo</trd>
+  <trd lng="vi">s&#xF4;ng</trd>
+  <trd lng="vo">flum</trd>
+  <trd lng="xh">umlambo</trd>
+  <trd lng="yi">&#x5D8;&#x5D9;&#x5D9;&#x5B7;&#x5DA;</trd>
+  <trd lng="yo">odo</trd>
+  <trd lng="zu">emfuleni</trd>
+</drv>
+
+<drv mrk="river.0ego">
+  <kap><tld/>ego</kap>
+  <snc mrk="river.0ego.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Granda kaj forta <tld/>o:
+      <ekz>
+        en la mezo de la <tld/>ego
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por turisto estas strange ekvidi, en la kerno de la urbo, la <tld/>eton <nom>Odet</nom>,
+        kiu dufoje dum la tago fari&gcirc;as <tld/>ego
+       <fnt>
+          <aut>Josette Ducloyer</aut>
+          <vrk><url ref="&Monato;/2000/006851.php">Quimper</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e la <tld/>ego Luaro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lucette &Eacute;chapp&eacute;</aut>
+          <vrk><url ref="&Monato;/2013/010930.php">Vizito al Nanto</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_k;&c_a;
+  <klr>(&c_v;&c_ja;&c_l;&c_ib;&c_k;&c_a;&c_ja;)</klr></trd>
+  <trd lng="bg">&c_g;&c_o;&c_l;&c_ja;&c_m;&c_a; &c_r;&c_je;&c_k;&c_a;</trd>
+  <trd lng="cs">veletok</trd>
+  <trd lng="de">Strom</trd>
+  <trd lng="fa">&a_sh;&a_T;</trd>
+  <trd lng="fr">fleuve</trd>
+  <trd lng="hu">folyam</trd>
+  <trd lng="id"><ind>sungai</ind> besar</trd>
+  <trd lng="ja">&#22823;&#x6CB3;  <pr>&#x305F;&#12356;&#x304C;</pr></trd>
+  <trd lng="nl">stroom</trd>
+  <trd lng="pl">rzeka wielka</trd>
+  <trd lng="ru"><klr>(&c_b;&c_o;&c_l;&c_mol;&c_sh;&c_a;&c_ja;)</klr>
+  &c_r;&c_je;&c_k;&c_a;</trd>
+  <trd lng="sk">ve&lcaron;tok</trd>
+  <trd lng="vo">elflum</trd>
+</drv>
+
+<drv mrk="river.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="river.0eto.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Malgranda kaj malforta <tld/>o:
+      <ekz>
+        <ind><tld/>etoj fluas al <tld/>oj</ind>
+        <klr>(per etaj &scirc;paroj oni ri&ccirc;i&gcirc;as)</klr>
+        <trd lng="fr">les <ind>petits</ind> ruisseaux font les grandes
+        rivi&egrave;res</trd>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        li havis anta&ubreve; si la tutan <tld/>eton kun la klara, fre&scirc;a akvo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kviete serpentumantaj <tld/>etoj kaj kanaloj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malbela anasido</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i iris al la <tld/>eto, kiu fluis tra la &gcirc;ardeno, kaj ordonis kapti sitelon da
+        gugonoj
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Fabelo pri iu, kiu migris por ekkoni timon</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_ch;&c_k;&c_a;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_p;&c_o;&c_t;&c_o;&c_k;</trd>,
+    <trd>&c_r;&c_u;&c_ch;&c_je;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>potok</trd>,
+    <trd>&rcaron;&iacute;&ccaron;ka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Bach</trd>,
+    <trd>Fl&uuml;sschen</trd>
+  </trdgrp>
+  <trd lng="es">riachuelo</trd>
+  <trdgrp lng="fa">
+    <trd>&a_j;&a_w;&f_y;</trd>,
+    <trd>&a_j;&a_w;&f_y;&a_b;&a_A;&a_r;</trd>,
+    <trd>&a_n;&a_h;&a_r;</trd>
+  </trdgrp>
+  <trd lng="fr">ruisseau</trd>
+  <trd lng="hu">patak</trd>
+  <trd lng="id"><ind>sungai</ind> kecil</trd>
+  <trd lng="ja">&#x5C0F;&#x5DDD;  <pr>&#x304A;&#x304C;&#x308F;</pr></trd>
+  <trd lng="nl">beek</trd>
+  <trdgrp lng="pl">
+    <trd>potok</trd>,
+    <trd>strumyk</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_ch;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>potok</trd>,
+    <trd>rie&ccaron;ka</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_r;&c_u;&#x43C;&#x43E;&#x43A;</trd>,
+    <trd>&#x43F;&#x43E;&c_t;&c_ib;&#x43A;</trd>
+  </trdgrp>
+  <trd lng="vo">bluk</trd>
+</drv>
+
+<drv mrk="river.Blua_0o">
+  <kap>
+    Blua <tld lit="R"/>o
+  </kap>
+  <snc mrk="river.Blua_0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="dif" cel="jangzi.0o">Jangzio</ref>:
+      <ekz>
+        Jangzio, anka&ubreve; nomata Blua <tld lit="R"/>o, estas la plej longa <tld/>o en Azio
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Jangzio">Jangzio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_Ja;&c_n;&c_d;&c_z;&c_y;</trd>,
+      <trd>&c_B;&c_l;&c_a;&c_k;&c_ib;&c_t;&c_n;&c_a;&c_ja;
+  &c_r;&c_a;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trd lng="ca">Iang-Ts&eacute;</trd>
+    <trdgrp lng="de">
+      <trd>Jangtsekiang</trd>,
+      <trd>Jangtse-Fluss</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>Yangtze Kiang</trd>,
+      <trd>Chang Jiang</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>Chang jiang</trd>,
+      <trd>Yang-tseu-kiang</trd>,
+      <trd>Yangzi jiang</trd>
+    </trdgrp>
+    <trd lng="nl">Jangtsekiang</trd>
+    <trd lng="pl">Jangcy <klr>(B&lstroke;&eogonek;kitna Rzeka)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_Ja;&c_n;&c_c;&c_z;&c_y;</trd>,
+      <trd>&c_G;&c_o;&c_l;&c_u;&c_b;&c_a;&c_ja; &c_r;&c_je;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+<trd lng="id"><baz>sungai</baz>Sungai Yangtze</trd>
+<trd lng="zh">&#x957F;&#x6C5F;</trd>
+</drv>
+
+<drv mrk="river.cxiela0o">
+  <kap>&Ccirc;iela <tld lit="R"/>o</kap>
+  <snc mrk="river.cxiela0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Orientazia nomo de la
+      <ref tip="dif" cel="lakt.0avojo">Lakta Vojo</ref>:
+      <ekz>
+        levante la kapon, <nom>&Scirc;jangzi</nom> rigardis supren al la
+        &Ccirc;iela <tld lit="R"/>o, tiel alta kaj malproksima
+        <fnt>
+          <aut>Lao She, trad. Wang Chongfang</aut>,
+          <vrk><url ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          Kamelo &Scirc;jangzi</url></vrk>,
+          <lok>1988</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Milchstra&szlig;e</trd>
+  </snc>
+  <trd lng="be"> &c_M;&c_a;&c_l;&c_o;&c_ch;&c_n;&c_y; &c_Sh;&c_l;&c_ja;&c_h; <klr>(&c_l;&c_ib;&c_t;. &#xAB;&c_N;&c_ja;&c_b;&c_je;&c_s;&c_n;&c_a;&c_ja; &c_r;&c_a;&c_k;&c_a;&#xBB;, &c_n;&c_a;&c_z;&c_v;&c_a; &c_v;&c_a; &c_w;&c_s;&c_h;&c_o;&c_d;&c_n;&c_ib;&c_h;
+  &c_k;&c_r;&c_a;&c_ib;&c_n;&c_a;&c_h;)</klr></trd>
+  <trd lng="fr">Rivi&egrave;re c&eacute;leste<klr> (voie lact&eacute;e)</klr></trd>
+  <trd lng="pl">Droga Mleczna  <klr>(Niebia&nacute;ska Rzeka)</klr></trd>
+</drv>
+
+<drv mrk="river.FlavaR0o">
+  <kap>Flava <tld lit="R"/>o</kap>
+  <snc mrk="river.FlavaR0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Granda <ref tip="lst" lst="voko:riveroj" cel="river.0o.GEOG">rivero</ref> (4845&#x202F;km-ojn
+      longa)
+      de la
+      <ref tip="malprt" cel="azi.OrientaA0o.GEOG">Orienta Azio</ref>,
+      en la Norda &Ccirc;inujo, fluas de Tibeto en la
+      <ref cel="mar.FlavaM0o">Flavan Maron</ref>:
+      <ekz>
+        la Flava <tld lit="R"/>o estas la dua granda <tld/>o de &Ccirc;inio
+        <fnt><bib>EncCxi</bib>
+        <lok>&ccirc;ap. &leftquot;La Flava Rivero&rightquot;, p. 65a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la ruino atestas, ke anka&ubreve; la baseno de Jangzio estas fonto de la &ccirc;ina
+        civilizacio, <klr>[&#8230;]</klr> anta&ubreve; 5000 &gcirc;is 3000 jaroj tie estis &ccirc;efurbo de la
+        regno kaj kultura centro interkomunika<klr>[n]</klr>ta kun la meza kaj
+        malsupra baseno de la Flava <tld lit="R"/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2009/009901.php">Enigmoj de Sanxingdui</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_H;&c_u;&c_a;&c_n;&c_h;&c_e;</trd>,
+    <trd>&c_Zh;&c_o;&c_w;&c_t;&c_a;&c_ja; &c_r;&c_a;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_H;&c_u;&c_a;&c_n;&c_h;&c_malmol;</trd>,
+    <trd>&c_Zh;&c_malmol;&c_l;&c_t;&c_a;&c_t;&c_a; &c_r;&c_je;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Huang He</trd>,
+    <trd>Gelber Fluss</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Huang He</trd>,
+    <trd>Yellow River</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_h;&a_w;&a_A_madda;&a_n;&f_g; &a_h;&a_w;</trd>,
+    <trd>&a_r;&a_w;&a_d; &a_z;&a_r;&a_d;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>Huang He</trd>,
+    <trd>Fleuve jaune</trd>
+  </trdgrp>
+  <trd lng="hu">S&aacute;rga-foly&oacute;</trd>
+  <trd lng="id"><baz>sungai</baz>Sungai Kuning</trd>
+  <trdgrp lng="nl">
+    <trd>Huang He</trd>,
+    <trd>Gele Rivier</trd>
+  </trdgrp>
+  <trd lng="pl">Huang He  <klr>(&Zdot;&oacute;&lstroke;ta Rzeka)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_H;&c_u;&c_a;&c_n;&c_h;&c_je;</trd>,
+    <trd>&c_Zh;&c_jo;&c_l;&c_t;&c_a;&c_ja; &c_r;&c_je;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x9EC4;&#x6CB3;</trd>
+</drv>
+
+<drv mrk="river.Perlo0o">
+  <kap>
+    Perlo<tld/>o
+  </kap>
+  <snc mrk="river.Perlo0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:riveroj" cel="river.0o.GEOG">Rivero</ref>
+      en la sudo de <ref tip="malprt" cel="cxin.CX0ujo">&Ccirc;inujo</ref>
+      pasanta <ref cel="kanton2.0o">Kantono</ref>n kaj fluanta inter
+      <ref cel="maka.0o">Makao</ref> kaj <ref cel="honkong.0o">Honkongo</ref>
+      en la <ref cel="mar.SudaCXinaM0o">Sud&ccirc;inan Maron</ref>:
+      <ekz>
+        Makao <klr>[&#8230;]</klr> situas &ccirc;e la delto de la Perlo<tld/>o, limante kun Kantonio
+        norde kaj kun la Sud&ccirc;ina Maro sude
+        <fnt>
+          <vrk><url ref="https://wikihihi.com/post/eo/Makao">Makao</url></vrk>
+          <lok>wikihihi.com</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        55 mil homoj forlasis la urbon per trajnoj <klr>[&#8230;]</klr>, &ccirc;irka&ubreve; 40&#x202F;% de ili
+        iras al la Delta Regiono de la Perlo<tld/>o
+        <fnt>
+          <vrk><url
+          ref="https://eo.wikinews.org/wiki/Uhano_malfermi%C4%9Dis_post_la_kvaranteno">Uhano
+          malfermi&gcirc;is post la kvaranteno</url></vrk>
+          <lok>Vikinova&jcirc;oj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_D;&c_zh;&c_u;&c_d;&c_z;&c_ja;&c_n;</trd>,
+    <trd>&c_Zh;&c_a;&c_m;&c_ch;&c_u;&c_zh;&c_n;&c_a;&c_ja; <ind>&c_r;&c_a;&c_k;&c_a;</ind></trd>
+  </trdgrp>
+  <trd lng="de">Perlfluss</trd>
+  <trd lng="en">Pearl River</trd>
+  <trd lng="fr">Rivi&egrave;re des Perles</trd>
+  <trd lng="id"><baz>sungai</baz>Sungai Mutiara</trd>
+  <trd lng="pl">Rzeka Per&lstroke;owa</trd>
+  <trd lng="zh">&#x73E0;&#x6C5F;</trd>
+</drv>
+
+<drv mrk="river.Rugxa_0o">
+  <kap>
+    Ru&gcirc;a <tld lit="R"/>o
+  </kap>
+  <snc mrk="river.Rugxa_0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Granda  <ref tip="lst" lst="voko:riveroj" cel="river.0o.GEOG">rivero</ref>
+      fluanta el la sudo de &Ccirc;inujo tra la nordo de <ref tip="malprt"
+      cel="vjetnam.V0ujo">Vjetnamujo</ref>,
+      i.a. tra <ref cel="hanoj.0o">Hanojo</ref>:
+      <ekz>
+        la Ru&gcirc;a <tld lit="R"/>o <klr>[&#8230;]</klr> fontas en la provinco Junano de &Ccirc;inio kaj
+        post vojo de 1149 kilometroj tra &Ccirc;inio (639 km) kaj Vjetnamio (510 km)
+        enfluas la Vjetnaman golfon de la Sud&ccirc;ina Maro
+        <fnt>
+          <vrk><url ref="&Viki;/Ru%C4%9Da_rivero_(Azio)">Ru&gcirc;a rivero (Azio) -
+          Vikipedio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la delto de la Ru&gcirc;a <tld lit="R"/>o, en Nord-Vjetnamio, estas unu el la plej
+        popoldensaj kamparaj regionoj en la mondo
+        <fnt>
+       <aut>Maryvonne kaj Bruno Robineau</aut>
+          <vrk><url ref="&Monato;/2000/006831.php">La&ubreve; ritmo de la rizejoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/02, p. 18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_H;&c_a;&c_n;&c_h;&c_a;</trd>
+  <trd lng="de">Roter Fluss</trd>
+  <trd lng="en">Hong River</trd>
+  <trd lng="fr">Fleuve Rouge</trd>
+  <trd lng="id"><baz>sungai</baz>Sungai Merah</trd>
+  <trd lng="nl">Rode Rivier</trd>
+  <trd lng="pl">Song Hong  <klr>(Czerwona Rzeka)</klr></trd>
+  <trd lng="vi">S&ocirc;ng H&#x1ED3;ng</trd>
+  <trd lng="zh">&#x7EA2;&#x6CB3;</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.121 2023/12/02 18:29:26
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.120 2023/10/21 05:38:07
+revo: transskribo per <pr>
+
+versio 1.118 2023/08/29 17:27:03
+Wolfram Diestel: ja: prononco
+
+versio 1.117 2023/08/15 07:24:04
+Dmitri Gabinski: + trd be
+
+versio 1.116 2023/07/12 21:26:00
+Vito Redsky: +trd pl
+
+versio 1.115 2023/04/20 06:33:17
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.114 2023/04/13 16:34:19
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.113 2022/05/04 19:19:16
+-->
+</vortaro>

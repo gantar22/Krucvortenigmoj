@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pretor.xml,v 1.13 2023/03/27 07:26:17 revo Exp $">
+<kap>
+  <rad>pretor</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="pretor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pretor.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Alta administranto kun precipe 
+      <ref tip="super" cel="jugx.0isto.JUR">ju&gcirc;ista</ref> 
+      funkcio en antikva Romio:
+      <ekz>
+        Adia&ubreve;. Estas tie &ccirc;i mallar&gcirc;a /
+        La strato: kaj l' amas' de senatanoj, /
+        <tld lit="P"/>oj, kaj petontoj ordinaraj
+        <fnt>
+          <aut>W. Shakespeare, trad. D. H. Lambert</aut>,
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Teatrajxoj/cezaro/">
+          Julio Cezaro</url></vrk>,
+          <lok>1906</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis tamen dube, <klr>[&#8230;]</klr> &ccirc;u la lokaj
+        a&ubreve;toritatuloj sentos sin rajtigitaj reteni ilin
+        la&ubreve; privata postulo de <nom>Vinicius</nom>, ne atestita de <tld/>o
+        <fnt><aut>H. Sienkewicz, trad. L. Zamenhof</aut>, <vrk>Quo 
+        vadis?</vrk>, <lok>1933</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Pr&auml;tor</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_e;&c_t;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_je;&c_t;&c_o;&c_r;</trd>
+  <trd lng="cs">pr&eacute;tor</trd>
+  <trd lng="en">praetor</trd>
+  <trd lng="fr">pr&eacute;teur<klr> (rome antique)</klr></trd>
+  <trd lng="la">pr&aelig;tor</trd>
+  <trd lng="nl">pretor</trd>
+  <trd lng="pl">pretor</trd>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">pr&eacute;tor</trd>
+  <trd lng="uk">&#x43F;&c_r;&c_je;&c_t;&#x43E;&c_r;</trd>
+</drv>
+
+<drv mrk="pretor.0ejo">
+  <kap><tld/>ejo <fnt><bib>PIV1</bib></fnt></kap>
+  <snc mrk="pretor.0ejo.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Loko kie <tld/>o plenumas sian oficon (interalie la tendo de
+      la militestro en armea militkampo):
+      <ekz>
+        kaj tie <klr>[&#8230;]</klr> estas la pretorejo, kien la soldatoj
+        kondukis Jesuon al Pilato, kaj tie Pilato lavis siajn manojn
+        <fnt><aut>Sergio Pokrovskij</aut>:
+          <vrk><url ref="&LOdE;63-lode.htm#60-32">Pilgrimo en la Sanktan Landon (2)</url></vrk>
+          <lok>LOdE, &#8470;63 (2000:1).</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="pretori2.0o.ejo">pretorio<sncref/></ref>
+    <ref tip="vid" cel="pretori2.0o.gvardio">pretorio<sncref/></ref>
+    <trd lng="de">Pr&auml;torium</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_e;&c_t;&c_o;&c_r;&c_y;&c_j;</trd>
+  <trd lng="la">pr&aelig;torium</trd>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_t;&c_o;&c_r;&c_i;&c_j;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_je;&c_t;&#x43E;&c_r;&c_ib;&c_j;</trd>,
+    <trd>&#x43F;&c_r;&c_je;&c_t;&#x43E;&c_r;&c_ib;&c_u;&#x43C;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.13 2023/03/27 07:26:17
+Dmitri Gabinski: + trd be
+
+versio 1.12 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.10 2020/02/12 19:10:25
+Wolfram Diestel: aaptoj de sintakso kaj ref-cel
+
+Revision 1.9  2019/11/21 08:10:15  revo
+Sergio Pokrovskij: + TEZ
+
+Revision 1.8  2019/11/21 04:10:16  revo
+Sergio Pokrovskij: + ~ejo
+
+Revision 1.7  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2013/08/30 20:10:20  revo
+-->
+</vortaro>

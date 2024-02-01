@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tokonom.xml,v 1.6 2023/10/21 14:37:42 revo Exp $">
+<kap>
+  <rad>tokonom</rad>/o <fnt><bib>EncJap</bib></fnt>
+</kap>
+<drv mrk="tokonom.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tokonom.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      En japanstila domo <ref tip="super" cel="nicx.0o.ARKI">ni&ccirc;o</ref>,
+      en kiu oni elmetas belskriba&jcirc;on, bukedon a&ubreve; alian arta&jcirc;on:
+      <ekz>
+        vazo kun velkintaj floroj en <tld/>simila angulo, nuda elektra
+        lampo pendanta de fulgkolora plafono, <klr>...</klr> &ccirc;io donis
+        impreson kutiman al tiaspeca gastejo
+        <fnt><aut>Ueyama M.</aut>, <vrk>Pardonon!</vrk>, <lok>l'
+        omnibuso, 1970</lok></fnt>;
+      </ekz>
+      <ekz>
+        la hispanstila domo estis bone harmoniigita kun japana
+        tradicia&jcirc;o, kiel ekz<klr>emple</klr> <tld/>o
+        <fnt>
+          <aut>J. Aida, K. Suzuki, M. &Scirc;idara</aut>,
+          <vrk><url ref="http://www.k4.dion.ne.jp/~uk2007/espe/vidinda/index.html">
+          Gvidlibro pri Jokohamo</url></vrk>,
+          <lok>03 Kvartaloj de Jamate..., 2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="altar.0ejo">altarejo</ref>,
+      <ref cel="oriel.0o">oriolo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Tokonoma</trd>
+  <trd lng="fr">tokonoma</trd>
+  <trd lng="ja">&#x5E8A;&#x306E;&#38291; <pr>&#12392;&#12371;&#12398;&#12414;</pr></trd>
+  <trd lng="uk">&c_t;&#x43E;&#x43A;&#x43E;&#x43D;&#x43E;&#x43C;&c_a;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.5 2023/08/29 16:34:39
+Wolfram Diestel: ja: prononco
+
+versio 1.3 2021/01/28 17:11:01
+Wolfram Diestel: +ref altarejo
+
+versio 1.2 2021/01/28 06:43:56
+Wolfram Diestel: +trd de, ja, ref orielo
+-->
+</vortaro>

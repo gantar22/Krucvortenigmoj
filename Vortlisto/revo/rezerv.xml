@@ -1,0 +1,737 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rezerv.xml,v 1.36 2023/10/20 19:20:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>rezerv</rad>/i
+</kap>
+<drv mrk="rezerv.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rezerv.0i.poruze">
+    <dif>
+      Apartigi kaj <ref cel="konser.0i.pluhavi">konservi</ref> por iu aparta destino:
+      <ekz>
+        &ccirc;iu homo prezentas unue la bonan vinon, <klr>[&#8230;]</klr> sed vi <tld/>is la bonan
+        vinon &gcirc;is nun
+        <fnt>
+          <bib>NT</bib>
+          <lok>Johano 2:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en &ccirc;ia okazo restas ankora&ubreve; 200 dolaroj jare, <klr>[el kiuj ni]</klr> <tld/>is
+        kapitaleton en la &scirc;para banko
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ne divenis tion, kion al &scirc;i <tld/>as la estonteco
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dekkvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al Dio servu, diablon <tld/>u
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="depon.0i.EKON">deponi<sncref/></ref>,
+      <ref cel="destin.0i">destini</ref>,
+      <ref cel="gard.0i.reteni">gardi<sncref/></ref>,
+      <ref cel="ten.re0i.kontrauxlegxe">reteni<sncref/></ref>,
+      <ref cel="sxpar.0i.kolekti">&scirc;pari<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>aufheben</trd>,
+      <trd>reservieren</trd>,
+      <trd>zur&uuml;cklegen</trd>
+    </trdgrp>
+    <trdgrp lng="fa">
+      <trd>&f_k;&a_n;&a_A;&a_r; &f_g;&a_dh;&a_A;&a_sh;&a_t;&a_n;</trd>,
+      <trd>&a_n;&f_g;&a_h;&zwnj;&a_d;&a_A;&a_sh;&a_t;&a_n;</trd>,
+      <trd>&a_r;&a_z;&a_r;&a_w; &f_k;&a_r;&a_d;&a_n;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tartal&eacute;kol</trd>,
+      <trd>tartogat</trd>
+    </trdgrp>
+    <trd lng="nl">reserveren</trd>
+    <trdgrp lng="pl">
+      <trd>rezerwowa&cacute;</trd>,
+      <trd>zastrzega&cacute;</trd>
+    </trdgrp>
+    <trd lng="pt">reservar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol; &c_p;&c_r;&c_o; &c_z;&c_a;&c_p;&c_a;&c_s;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rezerv.0i.pordiskute">
+    <dif>
+      Apartigi kaj <ref cel="escept.0i">escepti</ref> por posta pridiskuto:
+      <ekz>
+        jes! &scirc;i respondis, <klr>[&#8230;]</klr> sed mi <tld/>as al mi, ke la edzi&gcirc;o okazos ne
+        pli frue, ol post unu jaro, &ccirc;ar &scirc;i esperis, ke dum tiu tempo &scirc;i a&ubreve;dos ion pri
+        sia amata &ccirc;asisto
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Du fratoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la homaranoj <tld/>as al si la rajton per komuna reciproka interkonsento &scirc;an&gcirc;i
+        kaj perfektigi siajn dogmojn
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Homaranismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ion tion mi <tld/>as por interparolo kun vi, kiam en unua libera momento mi
+        alvenos Romon
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XXXVIII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="blok.0i.blokadi">bloki<sncref/></ref>,
+      <ref cel="prokra.0i">prokrasti</ref>
+    </refgrp>
+    <trd lng="de">sich <ind>vorbehalten</ind></trd>
+    <trd lng="fa">&a_q;&f_y;&a_d; &a_w; &a_sh;&a_r;&a_T; &f_g;&a_dh;&a_A;&a_sh;&a_t;&a_n;</trd>
+    <trd lng="hu">fenntart</trd>
+    <trd lng="pl">zastrzega&cacute;</trd>
+  </snc>
+  <snc mrk="rezerv.0i.poriu">
+    <dif>
+      Apartigi por ekskluzive <ref cel="dispon.0igi">disponigi</ref> al iu:
+      <ekz>
+        <klr>[li]</klr> ne <tld/>is por mi e&ccirc; ian rajton de a&ubreve;toreco
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la kajuto estis lokoj por kvar kaj &ccirc;iuj portis la nomojn de tiuj, kiuj
+        <tld/>is ilin
+        <fnt>
+          <bib>KKl</bib>
+          <lok>&Ccirc;apitro 4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> telefonis por <tld/>i apartan tablon por ili
+        <fnt>
+          <bib>KKl</bib>
+          <lok>&Ccirc;apitro 6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li tamen <tld/>is al la registara interkonsento povon enkonduki en tiun lingvon
+        &ccirc;iujn necesajn reformojn kaj &scirc;an&gcirc;ojn
+        <fnt>
+          <bib>Zam</bib>
+          <lok>Eventuala rolo de sciencaj kaj &scirc;tataj a&ubreve;toritatoj en
+          akcepto de Lingvo Internacia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>&ccirc;iuj rajtoj estas <tld/>itaj</ind>.
+        <trd lng="de">alle Rechte vorbehalten</trd>
+        <trd lng="fa">&a_t;&a_m;&a_A;&a_m; &a_H;&a_q;&a_w;&a_q; <ind>&a_m;&a_H;&a_f;&a_w;&a_Z;</ind>
+        &a_A;&a_s;&a_t;</trd>
+        <trd lng="hu">minden jog <ind>fenntartva</ind></trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akir.0i">akiri</ref>,
+      <ref cel="mend.0i">mendi</ref>,
+      <ref cel="okup.0i">okupi</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>sichern</trd>,
+      <trd>Rechte reservieren</trd>,
+      <trd>sch&uuml;tzen lassen</trd>
+    </trdgrp>
+    <trdgrp lng="fa">
+      <trd>&a_H;&a_f;&a_Z; &f_k;&a_r;&a_d;&a_n;</trd>,
+      <trd>&a_m;&a_H;&a_f;&a_w;&a_Z; &a_d;&a_A;&a_sh;&a_t;&a_n;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>fenntart</trd>,
+      <trd>biztos&iacute;t</trd>
+    </trdgrp>
+    <trd lng="nl">voorbehouden</trd>
+    <trdgrp lng="pl">
+      <trd>rezerwowa&cacute;</trd>,
+      <trd>zastrzega&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol; <klr tip="amb">(&c_z;&c_a;
+      &c_k;&c_je;&c_m;-&c_l;.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_z;&c_e;&c_r;&c_v;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_r;&c_e;&c_z;&c_e;&c_r;&c_v;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_s;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_ib;&c_d;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_sa;&t_ngata;&t_naro;&t_na;&t_tsheg;&t_na;&t_sa;&t_tsheg;&t_ga;&t_ta;&t_na;&t_tsheg;&t_kha;&t_drengbu;&t_la;&t_tsheg;&t_ba;&t_yata;&t_drengbu;&t_da;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>rezervovat</trd>,
+    <trd>vyhradit</trd>,
+    <trd>vyhrazovat</trd>,
+    <trd>zamlouvat</trd>,
+    <trd>zamluvit</trd>
+  </trdgrp>
+  <trd lng="en">to reserve</trd>
+  <trd lng="es">reservar</trd>
+  <trd lng="fr">r&eacute;server</trd>
+  <trdgrp lng="ja">
+    <trd>&#21462;&#12387;&#12390;&#12362;&#12367;  <pr>&#12392;&#12387;&#12390;&#12362;&#12367;</pr></trd>,
+    <trd>&#27531;&#12375;&#12390;&#12362;&#12367;  <pr>&#12398;&#12371;&#12375;&#12390;&#12362;&#12367;</pr></trd>,
+    <trd>&#33988;&#12360;&#12427;  <pr>&#12383;&#12367;&#12431;&#12360;&#12427;</pr></trd>,
+    <trd>&#20104;&#32004;&#12377;&#12427;  <pr>&#12424;&#12420;&#12367;&#12377;&#12427;</pr></trd>,
+    <trd>&#20104;&#32004;&#25351;&#23450;&#12377;&#12427;  <pr>&#12424;&#12420;&#12367;&#12375;&#12390;&#12356;&#12377;&#12427;</pr></trd>,
+    <trd>&#20445;&#30041;&#12377;&#12427;  <pr>&#12411;&#12426;&#12421;&#12358;&#12377;&#12427;</pr></trd>,
+    <trd>&#24046;&#12375;&#25511;&#12360;&#12427;  <pr>&#12373;&#12375;&#12402;&#12363;&#12360;&#12427;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odlo&zcaron;i&tcaron;</trd>,
+    <trd>ponecha&tcaron; si v z&aacute;lohe</trd>,
+    <trd>rezervova&tcaron;</trd>,
+    <trd>vyhradi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_l;&c_i;&c_sh;&c_a;&c_t;&c_i; &c_z;&c_a; &c_s;&c_o;&c_b;&c_o;&c_ju;</trd>,
+    <trd>&c_z;&c_a;&c_l;&c_i;&c_sh;&c_a;&c_t;&c_i;/&c_v;&c_ib;&c_d;&c_k;&c_l;&c_a;&c_d;&c_a;&c_t;&c_i; &c_p;&c_r;&c_o;/&c_n;&c_a;/&c_u; &c_z;&c_a;&c_p;&c_a;&c_s;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_b;&c_je;&c_r;&c_ib;&c_g;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rezerv.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Konservata por posta uzo, diskuto, dispono:
+      <ekz>
+        ili preparu <tld/>ajn regimentojn
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen komenci&gcirc;as &scirc;tonaj konstrua&jcirc;oj, <tld/>aj relvojoj, fabriktuboj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dank&#8217; al Dio mi &scirc;paris <tld/>an gro&scirc;on por pluvaj tagoj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu rezerva kapitalo <klr>[&#8230;]</klr> da&ubreve;re kreskis
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj ma&scirc;inpartoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mihail Korotkov</aut>
+          <vrk><url ref="&Monato;/2011/010294.php">Rusa vila&gcirc;o</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">reserve</trd>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_z;&c_e;&c_r;&c_v;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>n&aacute;hradn&iacute;</trd>,
+    <trd>z&aacute;lo&zcaron;n&iacute;</trd>
+  </trdgrp>
+    <trdgrp lng="de">
+      <trd>zur&uuml;ckgelegt</trd>,
+      <trd>reserviert</trd>,
+      <trd>Ersatz-</trd>
+    </trdgrp>
+  <trd lng="fa">&a_dh;&a_kh;&f_y;&a_r;&a_h;&zwnj;&a_A;&f_y;</trd>
+  <trdgrp lng="fr">
+    <trd>de <ind>rechange</ind></trd>,
+    <trd>de <ind>r&eacute;serve</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tartal&eacute;k-</trd>,
+    <trd>p&oacute;t-</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#20445;&#30041;&#12398;  <pr>&#12411;&#12426;&#12421;&#12358;&#12398;</pr></trd>,
+    <trd>&#20104;&#20633;&#12398;  <pr>&#12424;&#12403;&#12398;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zarezerwowany</trd>,
+    <trd>zastrze&zdot;ony</trd>
+    <trd>rezerwowy</trd>,
+    <trd>zast&eogonek;pczy</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_s;&c_n;&c_o;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">rezervn&yacute;</trd>
+  <trd lng="uk">&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="rezerv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rezerv.0o.ago">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        vendo per memvola a&ubreve;kcio <klr>[&#8230;]</klr> kun <tld/>o de anta&ubreve;a privata konsenti&gcirc;o
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la a&ubreve;toro tuj protektas sin per <tld/>o, ke la enmeto de Esperanto &leftquot;devas ne
+        esti interpretita kiel signifanta pledon a&ubreve; aprobon fare de la a&ubreve;toro de &gcirc;iaj
+        principoj a&ubreve; de &gcirc;ia konstrumetodo&rightquot;
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        prenante en konsideron la suprajn <tld/>ojn pri la precizeco de la vortoj, oni
+        povas senerare aserti, ke la lingvo, tia kia &gcirc;i estas, ebligas la pensadon
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vero, e&ccirc; kun tiu <tld/>o de relativeco, &ccirc;iam estas sintezo de du inter si
+        kontra&ubreve;aj flankoj: de la tezo kaj de la antitezo
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_e;&c_z;&c_e;&c_r;&c_v;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trdgrp lng="de">
+      <trd>Zur&uuml;cklegung</trd>,
+      <trd>Reservierung</trd>,
+      <trd>Vorbehalt</trd>
+    </trdgrp>
+    <trd lng="pl">rezerwacja</trd>
+  </snc>
+  <snc>
+    <dif>
+      Io <tld/>ata; io uzebla kiam &ccirc;efa provizo el&ccirc;erpi&gcirc;is:
+      <ekz>
+        <tld/>o plifortigis la centran kolonon, kiun minacis la plej forta atako
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la dekstra mano estas en la &leftquot;unua linio&rightquot; de la oratora lukto, dum la maldekstra
+        formas la &leftquot;rezervon&rightquot;
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvankam mia voja&gcirc;o la&ubreve;kalkule ne bezonis pli da tempo ol du semajnoj, tamen
+        <klr>[&#8230;]</klr> zorgu anka&ubreve; pri <tld/>o
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekna&ubreve;a &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la trovo rezultigis la malkovron de gravaj <tld/>oj de
+        nafto
+        <fnt><aut>Fatmir Shehu</aut>: <vrk>La albana nafto kaj
+        &gcirc;iaj perspektivoj</vrk>, <bib>Monato</bib>, <lok>jaro 1997a, numero
+        5a, p. 18a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="stok.0o">stoko</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Zur&uuml;ckgelegtes</trd>,
+      <trd>Reserve</trd>,
+      <trd>Ersatz</trd>
+    </trdgrp>
+    <trd lng="en">reserve</trd>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_e;&c_z;&c_e;&c_r;&c_v;</trd>,
+      <trd>&c_z;&c_a;&c_p;&c_a;&c_s;</trd>
+    </trdgrp>
+    <trd lng="es">reserva</trd>
+    <trdgrp lng="fa">
+      <trd>&a_dh;&a_kh;&f_y;&a_r;&a_h;</trd>,
+      <trd>&a_A;&a_n;&a_d;&a_w;&a_kh;&a_t;&a_h;</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>r&eacute;serve</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tartal&eacute;kol&aacute;s</trd>
+      <trd>fenntart&aacute;s</trd>,
+      <trd>biztos&iacute;t&aacute;s</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>rezerwa</trd>,
+      <trd>zapas</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;</trd>,
+      <trd>&c_z;&c_a;&c_p;&c_a;&c_s;</trd>
+    </trdgrp>
+    <trdgrp lng="sk">
+      <trd>n&aacute;mietka</trd>,
+      <trd>v&yacute;hrada</trd>,
+      <trd>v&yacute;nimka</trd>
+    </trdgrp>
+    <trdgrp lng="cs">
+      <trd>n&aacute;mitka</trd>,
+      <trd>v&yacute;hrada</trd>,
+      <trd>v&yacute;minka</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#20445;&#30041;  <pr>&#12411;&#12426;&#12421;&#12358;</pr></trd>,
+    <trd>&#30041;&#20445;  <pr>&#12426;&#12421;&#12358;&#12411;</pr></trd>,
+    <trd>&#21046;&#38480;  <pr>&#12379;&#12356;&#12370;&#12435;</pr></trd>,
+    <trd>&#33988;&#12360;  <pr>&#12383;&#12367;&#12431;&#12360;</pr></trd>,
+    <trd>&#20104;&#20633;  <pr>&#12424;&#12403;</pr></trd>,
+    <trd>&#20633;&#33988;  <pr>&#12403;&#12385;&#12367;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;</trd>
+</drv>
+
+<drv mrk="rezerv.0isto">
+  <kap><tld/>isto
+  <fnt><bib>PIV</bib></fnt></kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      Militdeva civitano, kiu en la koncerna tempo ne militservas, sed
+      povas esti vokita en okazo de bezono:
+      <ekz>
+        la italaj ta&ccirc;mentoj suferis pro hontiga malvenko de kelkoble malpli fortaj
+        francaj <tld/>istoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=909">Dua Mondmilito</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    La PIV-oj me&hcirc;anike pa&ubreve;sas la vortoformon nacilingvan, kvankam &gcirc;i
+    malkoheras kun la esperantaj signifoj de
+    <ref cel="ist.0">-ist</ref>. Pli sistema formo estus
+    <em>rezervano</em> (kp armeano, milicano, gvardiano).
+    <aut>Sergio Pokrovskij</aut>
+  </rim>
+  <trd lng="be">&c_r;&c_e;&c_z;&c_e;&c_r;&c_v;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="de">Reservist</trd>
+  <trd lng="en">reservist</trd>
+  <trd lng="ja">&#20104;&#20633;&#24441;&#20853;  <pr>&#12424;&#12403;&#12420;&#12367;&#12408;&#12356;</pr></trd>
+  <trd lng="pl">rezerwista</trd>
+  <trd lng="ru">&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_i;&c_s;&c_t;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_ib;&c_s;&c_t;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_s;&c_n;&c_i;&c_j; &c_g;&c_r;&c_a;&c_v;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rezerv.0ujo">
+  <kap>
+    <tld/>ujo
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="uj.0o">Ujo</ref> en kiu oni <tld/>as ion:
+      <ekz>
+        elektra pumpilo <klr>[&#8230;]</klr> tiris akvon el puto al <tld/>ujo lokita supre
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Stefano plenigis la benzinan <tld/>ujon
+        <fnt>
+          <bib>ChB</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref cel="cister.0o">cisterno</ref>: <tld/>ujo por akvo a&ubreve; oleo
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plasta <tld/>ujo de trinkakvo staris anta&ubreve; la monumento
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Thierry Salomon</aut>
+          <vrk><url ref="&Monato;/2010/010202.php">Ru&gcirc;&scirc;lima vulkano</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej signifoplena <tld/>ujo de gripaj virusoj estas birdoj, precipe sova&gcirc;aj
+        anasoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2003/008099.html">Birda gripo, &ccirc;u dan&gcirc;era por la
+          homo?</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la memoro, krome, prezentas por la oratoro grandan <tld/>ujon de plej diversaj
+        faktoj kaj scioj, kiujn havigis al li lia klereco
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konser.0ujo">konservujo</ref>,
+      <ref cel="kolekt.0ujo">kolektujo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_z;&c_e;&c_r;&c_v;&c_u;&c_a;&c_r;</trd>
+  <trdgrp lng="de">
+    <trd>Reservoir</trd>,
+    <trd>Reservebeh&auml;lter</trd>,
+    <trd>Reservekanister</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12479;&#12531;&#12463;  <pr>&#12383;&#12435;&#12367;</pr></trd>,
+    <trd>&#36015;&#34101;&#24235;  <pr>&#12385;&#12423;&#12382;&#12358;&#12371;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rezerwuar</trd>,
+    <trd>basen</trd>
+  </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_u;&c_a;&c_r;</trd>
+</drv>
+
+<drv mrk="rezerv.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="rezerv.0ulo.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      En teamaj sportoludoj, registrita, sed komence ne ludanta
+      teamano, kiu la&ubreve;bezone povas anstata&ubreve;i iun jam ludantan
+      teamanon:
+      <ekz>
+         la membronombro de la teamoj estas 3 konkursantoj plus unu
+         <tld/>ulo
+          <fnt>
+            <aut>Tibor Ujlaky-Nagy</aut>:
+            <vrk>La sporta lingvo en Esperanto</vrk>.
+            <lok><url ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf">Hungara
+            Esperanto-Asocio, 1972</url></lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        estas Morha&ubreve;so, unua <tld/>ulo, sed lin oni trejnis kiel halfon, kaj li &ccirc;iam
+        moveti&gcirc;is rekte en la luderon anstata&ubreve; resti en la tu&scirc;linio
+        <fnt>
+          <vrk><url ref="https://read-book-online.com/detektivy/346161-la-aventuro-de-la-malaperinta-trikvarono.html?page=1">La
+          aventuro de la malaperinta trikvarono</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_z;&c_a;&c_p;&c_a;&c_s;&c_n;&c_y; <ind>&c_g;&c_u;&c_l;&c_je;&c_c;</ind></trd>
+    <trd lng="de">Reservespieler</trd>
+    <trdgrp lng="en">
+       <trd>substitute player</trd>,
+       <trd>reserve player</trd>
+    </trdgrp>
+    <trd lng="pl">rezerwista</trd>
+    <trd lng="ru">&c_z;&c_a;&c_p;&c_a;&c_s;&c_n;&c_o;&c_j; &c_i;&c_g;&c_r;&c_o;&c_k;</trd>
+  </snc>
+  <snc mrk="rezerv.0ulo.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <ref tip="dif" cel="rezerv.0isto"><tld/>isto</ref>
+    <trd lng="be">&c_r;&c_e;&c_z;&c_e;&c_r;&c_v;&c_ib;&c_s;&c_t;</trd>
+  </snc>
+</drv>
+
+<drv mrk="rezerv.sen0a">
+  <kap>
+    sen<tld/>a
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="sin" cel="plen.0a.kompleta">Plena</ref>, sen ia <tld/>o:
+      <ekz>
+        sen<tld/>a aprobo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sen Rodin (Filippo Franceschi)</aut>
+          <vrk><url ref="&Monato;/2007/009131.php"
+              >Tri diskoj kun ses paroladoj de Ivo Lapenna</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        liaj amikoj alte taksis lian sen<tld/>an donemon
+        <fnt>
+          <bib>ChV</bib>
+          <lok>11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili energie postulos tujan, sen<tld/>an retiron de tia malindega aludo
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kondic1.sen0a">senkondi&ccirc;a</ref>,
+      <ref cel="skrupu.sen0a">senskrupula</ref>,
+      <ref cel="don.sin0a">sindonema</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>vorbehaltlos</trd>,
+    <trd>r&uuml;ckhaltlos</trd>,
+    <trd>bedingungslos</trd>,
+    <trd>unbeschr&auml;nkt</trd>
+  </trdgrp>
+  <trd lng="en">unreserved</trd>
+</drv>
+
+<drv mrk="rezerv.natur0ejo">
+  <kap>natur<tld/>ejo</kap>
+  <uzo tip="fak">EKOL</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="terito.0o">Teritorio</ref> por konservo de
+      naturaj medioj, kie le&gcirc;o modere a&ubreve; tute ne permesas kultivadon,
+      industrion, homan agadon:
+      <ekz>
+        &ccirc;io ku&scirc;as je mallonga distanco for <klr>[&#8230;]</klr> de natur<tld/>ejo kaj rifu&gcirc;ejo
+        por multaj animalaj specioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marc Gassion</aut>
+          <vrk><url ref="&Monato;/2003/007934.html">Aude</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la superaj instancoj montris nenian intereson por
+        natur<tld/>ejoj
+        <fnt>
+          <aut>Wim M. A. De Smet</aut>,
+          <vrk>Kiu murdis Dian Fossey?</vrk>,
+          <bib>Monato</bib>, <lok>jaro 1995a, numero 12a, p.
+        23a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="park.natur0o">naturparko</ref>,
+      <ref cel="park.0o.rezervejo">parko <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_z;&c_e;&c_r;&c_v;&c_a;&c_t;</trd>
+  <trdgrp lng="de">
+    <trd>Naturschutzgebiet</trd>,
+    <trd>Reservat</trd>
+    </trdgrp>
+  <trdgrp lng="en">
+     <trd>nature reserve</trd>,
+     <trd>nature preserve</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chr&aacute;n&ecaron;n&aacute; lesn&iacute; oblast</trd>,
+    <trd>p&rcaron;&iacute;rodn&iacute; rezervace</trd>
+  </trdgrp>
+  <trd lng="fa">&f_p;&a_A;&a_r;&f_k; &a_T;&a_b;&f_y;&a_ayn;&f_y;</trd>
+  <trdgrp lng="fr">
+    <trd>parc naturel</trd>,
+    <trd>r&eacute;serve naturelle</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>term&eacute;szetv&eacute;delmi ter&uuml;let</trd>,
+    <trd>nat&uacute;rrezerv&aacute;tum</trd>
+  </trdgrp>
+  <trd lng="ja">&#33258;&#28982;&#20445;&#35703;&#21306;  <pr>&#12375;&#12380;&#12435;&#12411;&#12372;&#12367;</pr></trd>
+  <trd lng="pl">rezerwat</trd>
+  <trd lng="ru">&c_z;&c_a;&c_p;&c_o;&c_v;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">pr&iacute;rodn&aacute; rezerv&aacute;cia</trd>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_r;&c_o;&c_d;&c_n;&c_i;&c_j; &c_z;&c_a;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_n;&c_i;&c_k;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.36 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.35 2023/09/04 21:19:30
+Wolfram Diestel: +sen~a
+
+versio 1.33 2023/06/18 21:24:08
+Vito Redsky: +trd pl
+
+versio 1.32 2022/12/09 08:32:55
+Dmitri Gabinski: + trd be
+
+versio 1.31 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.30 2022/05/02 13:05:02
+Ulrich Fellmann: rezerv-i, -a, -o: +11 aldonaj DE trdj, unu translokigo
+
+versio 1.27 2022/02/22 13:29:51
+Wolfram Diestel: ~a..natur~ejo: ekz-oj, ref, trd de
+
+versio 1.26 2022/02/22 09:27:45
+-->
+</vortaro>

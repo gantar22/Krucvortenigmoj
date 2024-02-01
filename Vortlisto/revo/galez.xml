@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: galez.xml,v 1.12 2021/04/27 08:58:57 revo Exp $">
+<kap>
+<rad>Galez</rad>/o
+</kap>
+<drv mrk="galez.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PERS</uzo>
+  <snc>
+    <dif>
+      Franclingve: <nom>&Eacute;variste</nom> <trd lng="fr">Galois</trd>, 1811-1832; 
+      franca <ref tip="lst" lst="voko:historiaj_personoj" cel="matema.0isto">matematikisto</ref>:
+      <ekz>
+        <tld/>o, kiu eble ne havis la terminon &leftquot;korpo&rightquot; en menso, estas honorita por esti
+        la unua matematikisto liginta grupan teorion kaj korpan teorion, <tld
+        lit="g"/>a teorio estas nomata honore al li
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=105629"
+              >Korpa teorio (matematiko)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    Povas esti duboj, kiel esperantigi tiun familian
+    nomon, prononcata &leftquot;<nac>gal&ubreve;a'</nac>&rightquot; en la franca. Jam ekzistas
+    pluraj okazoj de transskribo de &leftquot;<nac>&ubreve;a</nac>&rightquot; per &leftquot;<nac>ua</nac>&rightquot;,
+    sed tio malmulte ta&ubreve;gas vortfine. Cetere la franca fina&jcirc;o
+    &leftquot;<nac>-ois</nac>&rightquot; estas varia&jcirc;o de &leftquot;<nac>-ais</nac>&rightquot; kaj ekzistas en
+    <fnt><bib>PIV1</bib></fnt>
+    multaj ekzemploj de transskribo per reveno al la etimologia formo:
+    &leftquot;Artezo&rightquot; (<nom>Artois</nom>), &leftquot;Blezo&rightquot; (<nom>Blois</nom>), 
+    &leftquot;Kalezo&rightquot; (<nom>Calais</nom>), &leftquot;Rabelezo&rightquot; (<nom>Rabelais</nom>), 
+    &leftquot;Valezo&rightquot; (<nom>Valais</nom>) kaj, iom malsame, &leftquot;Valezio&rightquot;
+    (<nom>Valois</nom>).
+    Ni do rekomendas tiun &ccirc;i formon, prefere al tiu de 
+    <fnt><bib>PIV2</bib></fnt>, kiu uzas <ctl>Galojo</ctl> surbaze de
+    angla prononco.
+  </rim>
+  <trd lng="be">&c_G;&c_a;&c_l;&c_ju;&c_a;</trd>
+  <trd lng="ca">Galois</trd>
+  <trd lng="de">Galois</trd>
+  <trd lng="en">Galois</trd>
+  <trd lng="hu">Galois</trd>
+  <trd lng="pl">Galois</trd>
+  <trd lng="pt">Galois</trd>
+  <trd lng="ru">&c_G;&c_a;&c_l;&c_u;&c_a;</trd>
+  <trd lng="sk">Galois &Eacute;variste</trd>
+  <trd lng="cs">Galois &Eacute;variste</trd>
+</drv>
+
+<drv mrk="galez.g0a">
+  <kap><tld lit="g"/>a</kap>
+  <snc>
+     <dif>
+      Karakterizanta matematikan koncepton nomita la&ubreve; <tld/>o:
+      <ekz>
+        forki&gcirc;ado de primaj idealoj en <tld lit="g"/>aj superkorpoj priskribas la
+        strukturon de primaj idealoj en la ga&ubreve;saj entjeroj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=105491"
+              >Ga&ubreve;sa entjero</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="grup.galeza0o"><tld lit="g"/>a grupo</ref>,
+      <ref cel="korp.galeza0o"><tld lit="g"/>a korpo</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_l;&c_je;&c_z;&c_a;&c_w;</trd>,
+    <trd>&c_G;&c_a;&c_l;&c_ju;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">de <ind>Galois</ind></trd>
+  <trd lng="de">Galoissche</trd>
+  <trd lng="en">Galois['s]</trd>
+  <trdgrp lng="fr">
+    <trd>galoisien</trd>,
+    <trd>de <ind>Galois</ind></trd></trdgrp>
+  <trd lng="hu">Galois-</trd>
+  <trd lng="pl">Galois</trd>
+  <trd lng="ru">&c_G;&c_a;&c_l;&c_u;&c_a;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.12 2021/04/27 08:58:57
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2012/08/18 18:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2007/04/28 16:30:38  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2003/10/28 17:30:45  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2003/05/18 18:01:38  revo
+Marc Bavant: kor rim
+
+Revision 1.4  2003/01/02 17:46:02  revo
+-->
+</vortaro>

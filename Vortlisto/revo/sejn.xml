@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sejn.xml,v 1.12 2023/08/03 21:23:30 revo Exp $">
+<kap>
+  <rad>sejn</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="sejn.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sejn.0o.fisxreto">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      <ref tip="super" cel="ret.fisx0o.CXAS">Fi&scirc;reto</ref> pendanta de
+      flosiloj en akvo:
+      <ekz>
+        ne pasas tago, ke la fi&scirc;istoj ne eltiras el la maro per sia
+        <tld/>o kune kun la valora kapta&jcirc;o, anka&ubreve; maresta&jcirc;ojn, kiuj
+        ne estas por vendado
+        <fnt>
+          <aut>P. Giunio</aut>,
+          <vrk>Sekretoj de la maresta&jcirc;oj</vrk>,
+          <lok>Kroatia Esperanto-Servo, 1960</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="hom" cel="sejn1.0o">Sejno (rivero)</ref>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_v;&c_a;&c_d;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nevod</trd>,
+    <trd>vle&ccaron;n&aacute; ryb&aacute;&rcaron;sk&aacute; s&iacute;&tcaron;</trd>
+  </trdgrp>
+  <trd lng="de">Ringwadennetz</trd>
+  <trdgrp lng="fr">
+    <trd>seine<klr> (filet)</klr></trd>,
+    <trd>senne<klr> (filet)</klr></trd>
+   </trdgrp>
+   <trd lng="pl">w&lstroke;ok</trd>
+  <trd lng="sk">vle&ccaron;n&aacute; ryb&aacute;rska sie&tcaron;</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_v;&c_ib;&c_d;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.12 2023/08/03 21:23:30
+Vito Redsky: +trd pl 
+
+versio 1.11 2022/04/18 07:29:55
+Dmitri Gabinski: + trd be
+
+versio 1.9 2021/06/28 15:55:28
+Wolfram Diestel: +ref-hom
+
+versio 1.8 2021/05/09 17:25:31
+Wolfram Diestel: movis SEjno (rivero) al propra artikolo
+
+Revision 1.6  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2014/01/10 13:10:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.4  2013/12/22 11:10:14  revo
+Damien Brucker: +ref
+
+Revision 1.3  2013/10/07 09:10:10  revo
+-->
+</vortaro>

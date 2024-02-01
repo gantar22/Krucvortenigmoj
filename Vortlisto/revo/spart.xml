@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: spart.xml,v 1.7 2023/10/05 18:31:49 afido Exp $">
+    <kap>
+      <rad>Spart</rad>/o <fnt><bib>PIV1</bib></fnt>
+    </kap>
+
+<drv mrk="spart.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="spart.0o.urbo">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:urboj" cel="urb.0o.ARKI">Urbo</ref>
+      en  <ref tip="super" cel="grek.G0ujo">Grekujo</ref>, &ccirc;. 150&#x202F;km sudokcidente de Ateno,
+      kaj potenca urbo&scirc;tato en la <ref tip="malprt" cel="antikv.0o">antikvo</ref>:
+      <ekz>
+        <klr>[est]</klr>i&gcirc;os respubliko, kontra&ubreve; kiu Romo kaj <tld/>o estos mona&hcirc;inejoj!
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>
+      </ekz>
+      <ekz>
+        al <tld/>o! Al Mikeno! Al Delfoj! kie trovi&gcirc;as centoj da lokoj, &ccirc;e kies nomo la
+        koro ekbatas per voja&gcirc;deziro
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum la antikva epoko <tld/>o estis memstara urbo&scirc;tato, &ccirc;efurbo de Lakonio, kaj
+        unu el la plej gravaj grekaj urbo&scirc;tatoj kune kun Ateno kaj Tebo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=30448">Sparto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+    <trd lng="be">&c_S;&c_p;&c_a;&c_r;&c_t;&c_a;</trd>
+    <trd lng="de">Sparta</trd>
+    <trd lng="el">&Sigma;&pi;&alfa_ton;&rho;&tau;&eta;</trd>
+    <trd lng="en">Sparta</trd>
+    <trd lng="fr">Sparte</trd>
+    <trd lng="ja">&#x30B9;&#x30D1;&#x30EB;&#x30BF;</trd>
+    <trd lng="nl">Sparta</trd>
+    <trd lng="pl">Sparta</trd>
+    <trd lng="ru">&c_S;&c_p;&c_a;&c_r;&c_t;&c_a;</trd>
+    <trd lng="uk">&c_S;&#x43F;&c_a;&c_r;&c_t;&c_a;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2023/10/05 18:31:49
+Vito Redsky: +trd pl 
+
+versio 1.5 2023/06/24 18:34:16
+Paul Peeraerts: + trd nl
+
+versio 1.3 2021/12/10 08:36:23
+Dmitri Gabinski: + trd be
+
+versio 1.2 2020/12/27 10:46:32
+Jeromo Vasxe: + fnt piv1
+
+versio 1.1 2020/12/26 14:42:17
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

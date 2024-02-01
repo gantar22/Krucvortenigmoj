@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: partizan.xml,v 1.14 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <rad>partizan</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="partizan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="partizan.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Civilulo batalanta kontra&ubreve; fremda okupacio:
+      <ekz>
+        legendo flustras pri la <tld/>oj /
+        de l' jugoslava liberig-milito
+        <fnt>
+          <aut>K. Kalocsay</aut>,
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Poezio/kalocsay/partizanoj.html">
+          Partizanoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kaj se mi mortos kiel <tld/>o /
+        vi devos entombigi min
+        <fnt>
+          <aut>-, trad. R. Corsetti</aut>,
+          <vrk>Ho belulin'</vrk>,
+          <lok>en: <url ref="http://www.cinquantini.it/esperant/kantaro.html">
+          Kantaro</url>, 2006-10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="insurekci.0ano.POL">insurekciano</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_t;&c_y;&c_z;&c_a;&c_n;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_r;&c_t;&c_i;&c_z;&c_a;&c_n;&c_i;&c_n;</trd>
+  <trd lng="cs">partyz&aacute;n</trd>
+  <trd lng="de">Partisan</trd>
+  <trd lng="en">partisan</trd>
+  <trd lng="fr">r&eacute;sistant<klr> (subst.)</klr></trd>
+  <trd lng="it">partigiano<klr> (sost.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D1;&#x30EB;&#x30C1;&#x30B6;&#x30F3;</trd>,
+    <trd>&#x4FE1;&#x5949;&#x8005;  <pr>&#x3057;&#x3093;&#x307D;&#x3046;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>partizaan</trd>,
+    <trd>guerrillastrijder</trd>
+  </trdgrp>
+  <trd lng="pl">partyzant</trd>
+  <trdgrp lng="pt">
+    <trd>"<ind>partisan</ind>"</trd>,
+    <trd>guerrilheiro</trd>
+  </trdgrp>
+  <trd lng="ro">partizan  <klr>(armat&abreve;)</klr></trd>
+  <trd lng="sk">partiz&aacute;n</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x440;&#x438;&#x445;&#x438;&#x43B;&#x44C;&#x43D;&#x438;&#x43A;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x443;&#x43C;&#x43E;&#x432;&#x43D;&#x438;&#x439; &#x43F;&#x440;&#x438;&#x445;&#x438;&#x43B;&#x44C;&#x43D;&#x438;&#x43A;</trd>,
+    <trd>&#x43F;&#x43E;&#x441;&#x43B;&#x456;&#x434;&#x43E;&#x432;&#x43D;&#x438;&#x43A;</trd>,
+    <trd>&#x43F;&#x430;&#x440;&#x442;&#x438;&#x437;&#x430;&#x43D;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="partizan.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="partizan.0a.MIL">
+    <dif>
+      Rilata al <tld/>oj, al ilia agado:
+      <ekz>
+        tiun tagon mi trafis <tld/>anan grupon
+        <fnt>
+          <aut>A. Montagner</aut>,
+          <vrk><url ref="http://www.andreamontagner.it/">
+          Lingvo por &ccirc;iuj</url></vrk>,
+          <lok>2005-08-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_t;&c_y;&c_z;&c_a;&c_n;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="en">partisan</trd>
+  <trd lng="fr">r&eacute;sistant<klr> (adj., arm&eacute;)</klr></trd>
+  <trd lng="it">partigiano<klr> (agg.)</klr></trd>
+  <trd lng="nl">partizanen-</trd>
+  <trd lng="pl">partyzancki</trd>
+  <trd lng="ro">partizan&abreve;</trd>
+  <trd lng="uk">&#x43F;&#x430;&#x440;&#x442;&#x438;&#x437;&#x430;&#x43D;&#x441;&#x44C;&#x43A;&#x438;&#x439;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.14 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.11 2021/11/29 15:43:19
+Dmitri Gabinski: + trd be
+
+versio 1.10 2021/11/23 23:30:18
+Vito Redsky: +trd pl +trd ro
+
+versio 1.9 2021/04/12 07:07:55
+Dmitri Gabinski: +trd uz
+
+Revision 1.7  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2010/06/21 16:30:23  revo
+Antonio Codazzi: +trd it
+
+Revision 1.5  2009/10/18 16:30:39  revo
+Paul Peeraerts: +nl
+
+Revision 1.4  2009/08/11 16:30:37  revo
+-->
+</vortaro>

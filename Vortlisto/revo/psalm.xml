@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: psalm.xml,v 1.24 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>psalm</rad>/o
+</kap>
+
+<drv mrk="psalm.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">REL</uzo>
+  <snc>
+    <dif>
+      Hebrea religia kantiko:
+      <ekz>
+        kantado de Pre&gcirc;o de Abrahamo kaj de kelkaj
+        <tld/>oj<fnt><aut>Zofia
+        Banet-Fornalowa</aut>: <vrk>Kadi&scirc; por Jedwabne</vrk>,
+        <bib>Monato</bib><lok>jaro 2002a, numero 1a, p. 18a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_s;&c_a;&c_l;&c_o;&c_m;</trd>,
+    <trd>&c_p;&c_s;&c_a;&c_l;&c_mol;&c_m;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_s;&c_a;&c_l;&c_t;&c_i;&c_r;</trd>
+  <trd lng="cs">&zcaron;alm</trd>
+  <trd lng="de">Psalm</trd>
+  <trd lng="en">psalm</trd>
+  <trdgrp lng="fr">
+    <trd>psaume</trd>
+  </trdgrp>
+  <trd lng="hu">zsolt&aacute;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#32854;&#x6B4C;  <pr>&#x305B;&#12356;&#x304B;</pr></trd>,
+    <trd>&#x8A69;&#x7BC7;&#x6B4C;  <pr>&#12375;&#12408;&#12435;&#12358;&#x305F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">psalm</trd>
+  <trd lng="pl">psalm</trd>
+  <trd lng="pt">salmo</trd>
+  <trd lng="ro">psalm</trd>
+  <trd lng="ru">&c_p;&c_s;&c_a;&c_l;&c_o;&c_m;</trd>
+  <trd lng="sk">&zcaron;alm</trd>
+  <trd lng="sv">psalm</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_s;&c_a;&#x43B;&#x43E;&#x43C;</trd>,
+    <trd>&#x43F;&c_s;&c_a;&#x43B;&#x44C;&#x43C;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="psalm.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Kanti <tld/>on.
+    </dif>
+      <trd lng="be">&c_s;&c_mol;&c_p;&c_ja;&c_v;&c_a;&c_c;&c_mol; <ind>&c_p;&c_s;&c_a;&c_l;&c_mol;&c_m;&c_y;</ind></trd>
+    <trd lng="hu">zsolt&aacute;rt &eacute;nekel</trd>
+    <trd lng="ru">&c_p;&c_je;&c_t;&c_mol; <ind>&c_p;&c_s;&c_a;&c_l;&c_o;&c_m;</ind></trd>
+  </snc>
+  <snc>
+    <dif>
+      Unutone kanti, kvaza&ubreve; <tld/>ante.
+    </dif>
+    <trd lng="be">&c_s;&c_mol;&c_p;&c_ja;&c_v;&c_a;&c_c;&c_mol; &c_m;&c_a;&c_n;&c_a;&c_t;&c_o;&c_n;&c_n;&c_a; <klr>(&c_n;&c_ib;&c_b;&c_y; &c_p;&c_s;&c_a;&c_l;&c_mol;&c_m;&c_y;)</klr></trd>
+    <trdgrp lng="en">
+      <trd>to chant</trd>,
+      <trd>to sing a canticle</trd>
+    </trdgrp>
+    <trd lng="hu">k&aacute;nt&aacute;l</trd>
+    <trd lng="ru">&c_p;&c_je;&c_t;&c_mol; &c_m;&c_o;&c_n;&c_o;&c_t;&c_o;&c_n;&c_n;&c_o;<klr> (&c_k;&c_a;&c_k;
+    &c_p;&c_s;&c_a;&c_l;&c_m;&c_y;)</klr></trd>
+  </snc>
+  <trd lng="cs">zp&iacute;vat &zcaron;almy</trd>
+  <trd lng="de">psalmieren</trd>
+  <trdgrp lng="fr">
+    <trd>psalmodier</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A60;&#21809;&#12377;&#x308B; <pr>&#12360;&#12356;&#12375;&#12423;&#12358;&#12377;&#12427;</pr></trd>,
+    <trd>&#21336;&#x8ABF;&#x306B;&#x6B4C;&#12358;  <pr>&#x305F;&#12435;&#12385;&#12423;&#12358;&#x306B;&#12358;&#x305F;&#12358;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">psalmzingen</trd>
+  <trd lng="pl">&sacute;piewa&cacute;  <ind>psalm</ind></trd>
+  <trd lng="ro">c&acirc;nta un  <ind>psalm</ind></trd>
+  <trd lng="sk">spieva&tcaron; &zcaron;almy</trd>
+  <trd lng="uk">&c_s;&#x43F;&c_ib;&c_v;&c_a;&c_t;&c_i; &#x43F;&c_s;&c_a;&#x43B;&#x43C;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.23 2023/09/10 12:37:53
+Wolfram Diestel: ja transskribo
+
+versio 1.21 2022/06/15 21:28:05
+Vito Redsky: + trd pl + trd ro
+
+versio 1.19 2021/12/03 09:31:44
+Dmitri Gabinski: + trd be
+
+Revision 1.17  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2009/06/09 16:30:48  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2009/06/06 16:30:50  revo
+-->
+</vortaro>

@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: akadem.xml,v 1.40 2023/10/28 08:33:03 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>akademi</rad>/o <fnt><bib>PV</bib></fnt> 
+</kap>
+
+<drv mrk="akadem.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="akadem.0o.societo">
+    <dif>
+      <ref tip="super" cel="societ.0o.institucio">Societo</ref>,
+      konstanta kaj oficiala, de sciencistoj, literaturistoj      a&ubreve;
+      artistoj:
+      <ekz>
+        la franca <tld lit="A"/>o estis fondita en 1634;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">ESP</uzo>
+        fari oficialan decidon pri tiu a&ubreve; alia duba lingva demando havas
+        la rajton nur nia <tld lit="A"/>o
+        <fnt><bib>LR</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">acad&egrave;mia</trd>
+    <trdgrp lng="de">
+      <trd>Akademie</trd>,
+      <trd>wissenschaftliche Gesellschaft</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>acad&eacute;mie</trd>,
+      <trd>soci&eacute;t&eacute; savante</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>akad&eacute;mia</trd>,
+      <trd>tud&oacute;s t&aacute;rsas&aacute;g</trd>
+    </trdgrp>
+    <trd lng="nl">academie</trd>
+    <trd lng="pl">akademia</trd>
+    <trd lng="pt">academia</trd>
+    <trd lng="sk">akad&eacute;mia</trd>
+  </snc>
+  <snc mrk="akadem.0o.lernejo">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      Supera lernejo:
+      <ekz>
+        mi vizitados la <tld/>on, mi lernos desegni, mi estos nomata
+        ar&hcirc;itekturisto, -- tio estas io, tio estas multe!
+        <fnt><bib>Fab3</bib>, <lok>Io</lok></fnt>.
+      </ekz>
+    </dif>
+    <adm>
+      &Ccirc;ar la termino estas "evitinda" &ccirc;i-sence, indus ne
+      aldoni tro da tradukoj kaj provi precizigi &gcirc;ian kampon.
+      &Scirc;ajnas al mi, ke tiu senco estas pa&ubreve;sa&jcirc;o de la
+      franca "acad&eacute;mie", kiam aplikata al supera lernejo pri
+      certaj artoj, kiel videblas el la ekzemplo. &Gcirc;i ver&scirc;ajne
+      ne celas la anglalingvan "academy", kiam aplikata al la
+      universitata
+      mondo &gcirc;enerale (kontraste kun la industria). Do la&ubreve; mi la
+      tradukoj per "universitato" ne ta&ubreve;gas.
+      <aut>MB</aut>
+    </adm>
+    <trdgrp lng="de">
+      <trd>Universit&auml;t</trd>,
+      <trd>Hochschule</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>acad&eacute;mie<klr tip="ind"> (&eacute;cole
+      artistique)</klr></trd>,
+      <trd>&eacute;cole artistique</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_k;&c_a;&c_d;&c_e;&c_m;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_a;&c_k;&c_a;&c_d;&c_je;&c_m;&c_i;&c_ja;</trd>
+  <trd lng="bo">&#xF66;&#xFB3;&#xF7C;&#xF56;&#xF0B;&#xF42;&#xFB2;&#xFAD;&#xF0B;&#xF46;&#xF7A;&#xF53;&#xF0B;&#xF58;&#xF7C;&#xF0B;</trd>
+  <trd lng="ca">acad&egrave;mia</trd>
+  <trdgrp lng="cs">
+    <trd>akademie</trd>,
+    <trd>vysok&aacute; &scaron;kola</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Akademie</trd>
+  </trdgrp>
+  <trd lng="en">academy</trd>
+  <trd lng="es">academia</trd>
+  <trd lng="he">&alef;&#x5B2;&qof;&#x5B8;&dalet;&#x5B6;&mem;&#x5B4;&yod;&#x5B8;&he;</trd>
+  <trd lng="ia">academia</trd>
+  <trd lng="ie">academie</trd>
+  <trd lng="it">accademia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5B66;&#x58EB;&#x9662;  <pr>&#x304C;&#x304F;&#x3057;&#x3044;&#x3093;</pr></trd>,
+    <trd>&#x30A2;&#x30AB;&#x30C7;&#x30DF;&#x30FC;  <pr>&#x3042;&#x304B;&#x3067;&#x307F;&#x30FC;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">akademia</trd>
+  <trd lng="pt">universidade</trd>
+  <trd lng="ru">&c_a;&c_k;&c_a;&c_d;&c_je;&c_m;&c_i;&c_ja;</trd>
+  <trd lng="sv">akademi</trd>
+  <trd lng="uk">&c_a;&c_k;&c_a;&c_d;&c_je;&c_m;&c_ib;&c_ja;</trd>
+  <trd lng="vo">kadem</trd>
+  <trd lng="ms">akedemi</trd>
+</drv>
+
+<drv mrk="akadem.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="akadem.0ano.KOMUNE">
+    <dif>
+      Membro de <tld/>o <sncref ref="akadem.0o.societo"/>:
+      <ekz>
+        e&ccirc; en tiu antikva kaj pli pura epoko, nur <tld/>anoj povis sen 
+        peno kaj sen penso elbu&scirc;igi la nomon Kna&hcirc;o&hcirc;&scirc;ve&ubreve;psceg
+        <fnt>
+          <aut>D. K. Jordan</aut>,
+          <vrk>Kna&hcirc;o&hcirc;&scirc;ve&ubreve;psceg</vrk>,
+          <lok><url ref="http://esperanto.ca/kea/j-enkonduko.html">La
+          Fabeloj de Jordan</url>, [vidita en 2006]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_k;&c_a;&c_d;&c_e;&c_m;&c_ib;&c_k;</trd>
+    <trd lng="bg">&c_a;&c_k;&c_a;&c_d;&c_je;&c_m;&c_i;&c_k;</trd>
+    <trdgrp lng="de">
+      <trd>Akademiemitglied</trd>,
+      <trd>Mitglied der Akademie</trd>
+    </trdgrp>
+    <trd lng="es">acad&eacute;mico</trd>
+    <trd lng="hu">akad&eacute;mikus</trd>
+    <trd lng="nl">lid van de <ind>academie</ind></trd>
+    <trd lng="it">accademico</trd>
+    <trd lng="fr">acad&eacute;micien</trd>
+    <trd lng="pl">student (akademii)</trd>
+    <trd lng="pt">acad&ecirc;mico</trd>
+    <trd lng="ru">&c_a;&c_k;&c_a;&c_d;&c_je;&c_m;&c_i;&c_k;</trd>
+    <trd lng="sk">akademik</trd>
+    <trdgrp lng="zh">
+    <trd>&#x5B66;&#x4F1A;&#x4F1A;&#x5458; <pr>xu&#xE9;hu&#xEC;hu&#xEC;yu&#xE1;n</pr></trd>,
+    <trd>&#x5B78;&#x6703;&#x6703;&#x54E1; <pr>xu&#xE9;hu&#xEC;hu&#xEC;yu&#xE1;n</pr></trd>,
+    <trd>&#x53D7;&#x8FC7;&#x9AD8;&#x7B49;&#x6559;&#x80B2;&#x8005; <pr>sh&#xF2;ugu&#xF2;g&#x101;od&#x11B;ngji&#xE0;oy&#xF9;zh&#x11B;</pr></trd>,
+    <trd>&#x53D7;&#x904E;&#x9AD8;&#x7B49;&#x6559;&#x80B2;&#x8005; <pr>sh&#xF2;ugu&#xF2;g&#x101;od&#x11B;ngji&#xE0;oy&#xF9;zh&#x11B;</pr></trd>,
+    <trd>&#x5927;&#x5B66;&#x5B66;&#x751F; <pr>d&#xE0;xu&#xE9;xu&#xE9;sheng</pr></trd>,
+    <trd>&#x5927;&#x5B78;&#x5B78;&#x751F; <pr>d&#xE0;xu&#xE9;xu&#xE9;sheng</pr></trd>,
+    <trd>&#x5927;&#x5B66;&#x8001;&#x5E08; <pr>d&#xE0;xu&#xE9;l&#x1CE;osh&#x12B;</pr></trd>,
+    <trd>&#x5927;&#x5B78;&#x8001;&#x5E2B; <pr>d&#xE0;xu&#xE9;l&#x1CE;osh&#x12B;</pr></trd>,
+    <trd>&#x5B66;&#x8005; <pr>xu&#xE9;zh&#x11B;</pr></trd>,
+    <trd>&#x5B78;&#x8005; <pr>xu&#xE9;zh&#x11B;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      Tiu, kiu studis a&ubreve; studas en <tld/>o <sncref ref="akadem.0o.lernejo"/>.
+    </dif>
+    <adm>
+      &Ccirc;ar la termino estas "evitinda" &ccirc;i-sence, indus ne
+      aldoni tro da tradukoj kaj proponi preferindan ekvivalenton.
+      La&ubreve; mi la tradukoj per "universitatano" ne ta&ubreve;gas.
+      <aut>MB</aut>
+    </adm>
+    <trd lng="bg">&c_v;&c_i;&c_s;&c_sh;&c_i;&c_s;&c_t;</trd>
+    <trd lng="de">Akademiker</trd>
+    <trd lng="pt">universit&aacute;rio</trd>
+    <trd lng="sv">akademiker</trd>
+  </snc>
+  <trd lng="cs">&ccaron;len Akademio de Esperanto</trd>
+  <trd lng="en">academian</trd>
+  <trd lng="he">&alef;&qof;&dalet;&mem;&alef;&yod;</trd>
+  <trd lng="ja">&#x30A2;&#x30AB;&#x30C7;&#x30DF;&#x30FC;&#x4F1A;&#x54E1;  <pr>&#x3042;&#x304B;&#x3067;&#x307F;&#x30FC;&#x304B;&#x3044;&#x3044;&#x3093;</pr></trd>
+  <trd lng="sk">&ccaron;len Akademio de Esperanto</trd>
+</drv>
+
+<drv mrk="akadem.0odeesperanto">
+  <kap><tld lit="A"/>o de Esperanto</kap>
+  <mlg>AdE</mlg>
+  <snc mrk="akadem.0odeesperanto.ESP">
+    <uzo tip="fak">ESP</uzo>
+    <dif>
+      Sendependa societo konservanta kaj kontrolanta
+      ekde 1948 la principojn de la Lingvo Esperanto, 
+      da&ubreve;riganto de la
+      <ref tip="vid" cel="komita.lingva0o.ESP">Lingva Komitato</ref>:
+      <ekz>
+        en 1948 la Lingva Komitato kaj &gcirc;ia <tld lit="A"/>o kunfandi&gcirc;is 
+        en unu solan korpon nomatan <ctl><tld lit="A"/>o de 
+        Esperanto</ctl>
+        <fnt>
+          <aut>Akademio de Esperanto</aut>,
+          <vrk><url ref="&AdE;/">
+          [Oficiala retpa&gcirc;o]</url></vrk>,
+          <lok>[vidita en 2017]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_A;&c_k;&c_a;&c_d;&c_e;&c_m;&c_ib;&c_ja; &c_e;&c_s;&c_p;&c_e;&c_r;&c_a;&c_n;&c_t;&c_a;</trd>
+  <trd lng="de">Akademie des Esperanto</trd>
+  <trd lng="fr">Acad&eacute;mie de l'Esp&eacute;ranto</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.39 2023/10/12 16:57:43
+revo: transskribo per <pr>
+
+versio 1.37 2023/05/20 14:32:36
+Wolfram Diestel: +trd de
+
+versio 1.36 2022/05/24 09:33:05
+Dmitri Gabinski: + trd be
+
+versio 1.35 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.30  2017/01/26 09:10:19  revo
+Adam Eng: trd ms
+
+Revision 1.29  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/05/11 19:10:12  revo
+-->
+</vortaro>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: trist.xml,v 1.17 2023/04/15 10:28:36 revo Exp $">
+<kap>
+<rad>trist</rad>/a
+</kap>
+<drv mrk="trist.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">POE</uzo>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="gaj.mal0a">Malgaja</ref>:
+      <ekz>
+        tiuj ciferoj prezentas tre <tld/>an bildon
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2000/007100.php">Kiu sukcesis, kiu postrestis?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 10</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        vila&gcirc;a pastro, <klr>[&#8230;]</klr> veninte al sankta meso por mortintoj, 
+        kunportis anka&ubreve; hejman segilon kaj por &ccirc;ies surprizo ludis kelkajn <tld/>ajn melodiojn per
+        &gcirc;i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2003/008095.html">La segilo sonas!</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum <tld/>aj, pluvaj tagoj mi havis tempon ene ludi
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jorma Ahom&auml;ki</aut>
+          <vrk><url ref="&Monato;/2004/008348.html">Nova vortarego en Estonio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>a sperto de soleco vundas la koron iam plenan de feli&ccirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Geraldo Mattos</aut>
+          <vrk><url ref="&Monato;/2008/009422.php">Rezulto de preseraro</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="morn.0a">morna</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_zh;&c_u;&c_r;&c_b;&c_o;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_zh;&c_a;&c_l;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_t;&c_malmol;&c_zh;&c_je;&c_n;</trd>
+  <trdgrp lng="ca">
+    <trd>trist</trd>,
+    <trd>marrit</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>smutn&yacute;</trd>,
+    <trd>smutn&yacute;</trd>,
+    <trd>trudn&yacute;</trd>,
+    <trd>zarmoucen&yacute;</trd>,
+    <trd>zasmu&scaron;il&yacute;</trd>,
+    <trd>&zcaron;alostn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>trist</trd>,
+    <trd>traurig</trd>,
+    <trd>betr&uuml;bt</trd>
+  </trdgrp>
+  <trd lng="en">sad</trd>
+  <trd lng="fr">triste</trd>
+  <trdgrp lng="hu">
+    <trd>b&aacute;natos</trd>,
+    <trd>b&uacute;s</trd>
+  </trdgrp>
+  <trd lng="it">triste</trd>
+  <trd lng="nl">triest</trd>
+  <trd lng="no">trist</trd>
+  <trd lng="pt">triste</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_o;&c_s;&c_k;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>,
+    <trd>&c_g;&c_r;&c_u;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">smutn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_u;&#x43C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_s;&#x43C;&c_u;&c_t;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.17 2023/04/15 10:28:36
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.16 2023/03/09 07:27:46
+Dmitri Gabinski: + trd be
+
+versio 1.15 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.12  2019/06/30 07:43:30  revo
+adaptis URL de Monato
+
+Revision 1.11  2018/11/09 15:10:16  revo
+Wolfram Diestel: +ekz-oj, germ trd-oj, ref malgaja
+
+Revision 1.10  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2015/02/08 14:10:16  revo
+-->
+</vortaro>

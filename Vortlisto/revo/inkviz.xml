@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: inkviz.xml,v 1.25 2023/11/19 10:22:13 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>inkvizici</rad>/o
+</kap>
+<drv mrk="inkviz.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KAT</uzo>
+  <uzo tip="fak">HIS</uzo>
+  <snc>
+    <dif>
+      Eklezia institucio kaj <ref cel="tribun1.0o.jugxistaro">tribunalo</ref>,
+      starigita por ser&ccirc;i kaj ju&gcirc;i herezulojn kaj sor&ccirc;istojn, kiujn &gcirc;i punis 
+      helpe de la civila povo per brulado:
+      <ekz>
+        eraroj sub preteksto de servado al la vero, pro maltolero, perforto kontra&ubreve;
+        disidentoj: religiaj militoj, ekscesoj en krucmilitoj, perfortaj metodoj dum
+        la <tld/>o
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+            <vrk><url ref="&Monato;/2000/007019.php">Mil pardonpetoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/07, p. 5</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        Hispanio, la hejmo de la iama <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Leif Heilberg</aut>
+          <vrk><url ref="&Monato;/2005/008615.php">Menso sana en korpo nuda</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mezepokaj judoj konstante kondamnataj de la oficiala rabenaro, kiu sin turnis al
+        la <tld lit="I"/>o por publikaj denunco kaj puno
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Armando Zecchin</aut>
+          <vrk><url ref="&Monato;/2007/009198.php">&Ccirc;u vere okazis sang-oferaj paskoj?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kie la <tld lit="I"/>o havis pli da publika influo, kiel en suda E&ubreve;ropo, tie pli
+        rapide malkreskis, kvante kaj pune, la nombro de la viktimoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Armando Zecchin</aut>
+          <vrk><url ref="&Monato;/2008/009295.php">La sor&ccirc;istin-persekutoj: rerigardo kaj
+          reinterpretoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Majuskligo de la historia senco? Se jes, doni rekomendon pri evito
+    de artikol-uzo (kvankam la Z-a ekz en PIV2 ja havas gxin).
+    Aldoni nefakan sencon (maldiskreta demandado, proceduro lasanta al
+    la akuzito neniun eblon pravigi sin).
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_ib;&c_n;&c_k;&c_v;&c_ib;&c_z;&c_ib;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="de">Inquisition</trd>
+  <trd lng="en">inquisition</trd>
+  <trd lng="es">inquisici&oacute;n</trd>
+  <trd lng="fr">inquisition</trd>
+  <trd lng="hu">inkviz&iacute;ci&oacute;</trd>
+  <trd lng="it">inquisizione</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7570;&#x7AEF;&#x5BE9;&#x554F;  <pr>&#x3044;&#x305F;&#x3093;&#x3057;&#x3093;&#x3082;&#x3093;</pr></trd>,
+    <trd>&#x5B97;&#x6559;&#x88C1;&#x5224;  <pr>&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x3046;&#x3055;&#x3044;&#x3070;&#x3093;</pr></trd>,
+    <trd>&#x7570;&#x7AEF;&#x5BE9;&#x554F;&#x6240;  <pr>&#x3044;&#x305F;&#x3093;&#x3057;&#x3093;&#x3082;&#x3093;&#x3057;&#x3087;</pr></trd>,
+    <trd>&#x5B97;&#x6559;&#x88C1;&#x5224;&#x6240;  <pr>&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x3046;&#x3055;&#x3044;&#x3070;&#x3093;&#x3057;&#x3087;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">inquisitie</trd>
+  <trd lng="pl"><klr>&sacute;wi&eogonek;ta </klr>inkwizycja</trd>
+  <trd lng="pt">inquisi&ccedil;&atilde;o</trd>
+  <trd lng="ru">&c_i;&c_n;&c_k;&c_v;&c_i;&c_z;&c_i;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">inkviz&iacute;cia</trd>
+  <trd lng="cs">inkvizice</trd>
+  <trd lng="uk">&c_ib;&#x43D;&#x43A;&c_v;&c_ib;&c_z;&c_i;&c_c;&c_ib;&#x44F;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5211;&#x8A0A; <pr>x&#xED;ngx&#xF9;n</pr></trd>,
+    <trd>&#x5F02;&#x7AEF;&#x88C1;&#x5224;&#x6240; <pr>y&#xEC;du&#x101;nc&#xE1;ip&#xE0;nsu&#x1D2;</pr></trd>,
+    <trd>&#x5BA1;&#x7406; <pr>sh&#x11B;nl&#x1D0;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.22 2023/04/30 12:42:42
+Paul Peeraerts: Steloj -> monato
+
+versio 1.21 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.18  2018/12/16 23:10:19  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2010/10/28 16:30:33  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2009/06/02 18:47:40  revo
+-->
+</vortaro>

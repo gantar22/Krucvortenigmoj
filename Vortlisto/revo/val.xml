@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: val.xml,v 1.112 2023/10/21 16:50:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>val</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="val.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">GEOG</uzo>
+  <snc mrk="val.0o.GEOG">
+    <dif>
+      Intermonta malalta vasta&jcirc;o, ordinare anka&ubreve; <ref tip="vid" cel="basen.0o.GEOG">baseno</ref> de
+      rivero:
+      <ekz>
+        se ne&gcirc;as sur la monto, estas malvarme en la <tld/>o
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">vallei</trd>
+  <trd lng="am">&#x1238;&#x1208;&#x1246;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_w;&a_A;&#x62F;&#x64A;</trd>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_l;&c_ib;&c_n;&c_a;</trd>,
+    <trd>&c_l;&c_o;&c_g;</trd>,
+    <trd>&c_l;&c_a;&c_g;&c_ch;&c_y;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_d;&c_o;&c_l;&c_i;&c_n;&c_a;&#x300; </trd>
+  <trd lng="bn">&#x989;&#x9AA;&#x9A4;&#x9CD;&#x9AF;&#x995;&#x9BE;</trd>
+  <trd lng="bo">&#xF62;&#xF7C;&#xF44;&#xF0B;</trd>
+  <trd lng="br">trao&ntilde;ienn</trd>
+  <trd lng="bs">dolina</trd>
+  <trd lng="ca">vall</trd>
+  <trd lng="co">piaghja</trd>
+  <trdgrp lng="cs">
+    <trd>&uacute;dol&iacute;</trd>,
+    <trd>dolina</trd>,
+    <trd>d&uring;l</trd>,
+    <trd>&uacute;val</trd>
+  </trdgrp>
+  <trd lng="cy">dyffryn</trd>
+  <trd lng="da">dal</trd>
+  <trdgrp lng="de">
+    <trd>Tal</trd>
+  </trdgrp>
+  <trd lng="el">&kappa;&omikron;&jota;&lambda;&alfa_ton;&delta;&alfa;</trd>
+  <trd lng="en">valley</trd>
+  <trdgrp lng="es">
+    <trd>cuenca</trd>,
+    <trd>valle</trd>
+  </trdgrp>
+  <trd lng="et">org</trd>
+  <trd lng="eu">haran</trd>
+  <trdgrp lng="fr">
+    <trd>val</trd>,
+    <trd>vall&eacute;e</trd>
+  </trdgrp>
+  <trd lng="fy">delte</trd>
+  <trd lng="ga">gleann</trd>
+  <trd lng="gd">gleann</trd>
+  <trd lng="gl">vale</trd>
+  <trd lng="gu">&#xA96;&#xAC0;&#xAA3;</trd>
+  <trd lng="ha">kwarin</trd>
+  <trd lng="hi">&#x918;&#x93E;&#x91F;&#x940;</trd>
+  <trd lng="hmn">hav</trd>
+  <trd lng="hr">dolina</trd>
+  <trd lng="ht">fon</trd>
+  <trdgrp lng="hu">
+    <trd>foly&oacute;v&ouml;lgy</trd>,
+    <trd>v&ouml;lgy</trd>
+  </trdgrp>
+  <trd lng="hy">&#x570;&#x578;&#x57E;&#x56B;&#x57F;</trd>
+  <trd lng="ig">na ndagwurugwu</trd>
+  <trd lng="is">dalurinn</trd>
+  <trd lng="ja">&#x8C37; <pr>&#x305F;&#x306B;</pr></trd>
+  <trd lng="jv">lembah</trd>
+  <trd lng="ka">&#x10EE;&#x10D4;&#x10DD;&#x10D1;&#x10D0;&#x10E8;&#x10D8;</trd>
+  <trd lng="kk">&c_a;&#x4A3;&#x493;&c_a;&c_r;</trd>
+  <trd lng="km">&#x1787;&#x17D2;&#x179A;&#x179B;&#x1784;&#x1797;&#x17D2;&#x1793;&#x17C6;</trd>
+  <trd lng="kn">&#xC95;&#xCA3;&#xCBF;&#xCB5;&#xCC6;&#xCAF;</trd>
+  <trd lng="ko">&#xACC4;&#xACE1;</trd>
+  <trd lng="ku">newal</trd>
+  <trd lng="ky">&#x4E9;&c_r;&#x4E9;&#x4E9;&#x43D;</trd>
+  <trd lng="lat">vallis</trd>
+  <trd lng="lo">&#xEAE;&#xEC8;&#xEAD;&#xEA1;&#xE9E;&#xEB9;</trd>
+  <trd lng="lt">sl&#x117;nis</trd>
+  <trd lng="lv">ieleja</trd>
+  <trd lng="mg">dohasaha</trd>
+  <trd lng="mi">raorao</trd>
+  <trd lng="mk">&c_d;&#x43E;&#x43B;&c_i;&#x43D;&c_a;</trd>
+  <trd lng="ml">&#xD24;&#xD3E;&#xD34;&#xD4D;&#xD35;&#xD30;</trd>
+  <trd lng="mn">&c_h;&#x4E9;&#x43D;&c_d;&c_i;&c_j;</trd>
+  <trd lng="mr">&#x926;&#x930;&#x940;</trd>
+  <trd lng="ms">lembah</trd>
+  <trd lng="mt">wied</trd>
+  <trd lng="my">&#x1010;&#x1031;&#x102C;&#x1004;&#x103A;&#x1000;&#x103C;&#x102C;&#x1038;</trd>
+  <trd lng="ne">&#x909;&#x92A;&#x924;&#x94D;&#x92F;&#x915;&#x93E;&#x92E;&#x93E;</trd>
+  <trdgrp lng="nl">
+    <trd>vallei</trd>,
+    <trd>dal</trd>
+  </trdgrp>
+  <trd lng="ny">chigwa</trd>
+  <trd lng="pa">&#xA18;&#xA3E;&#xA1F;&#xA40;</trd>
+  <trd lng="ps">&#x62F;&a_r;&a_h;</trd>
+  <trd lng="pt">vale</trd>
+  <trd lng="ru">&c_d;&c_o;&c_l;&c_i;&c_n;&c_a;</trd>
+  <trd lng="rw">ikibaya</trd>
+  <trd lng="sd">&a_w;&a_A;&#x62F;&#x64A;&a_hamza;</trd>
+  <trd lng="si">&#xDB1;&#xDD2;&#xDB8;&#xDCA;&#xDB1;&#xDBA;</trd>
+  <trdgrp lng="sk">
+    <trd>dolina</trd>,
+    <trd>rie&ccaron;ne &uacute;dolie</trd>,
+    <trd>&uacute;dolie</trd>,
+    <trd>&uacute;val</trd>
+  </trdgrp>
+  <trd lng="sl">dolina</trd>
+  <trd lng="sm">vanu</trd>
+  <trd lng="sn">nhika</trd>
+  <trd lng="so">dooxada</trd>
+  <trd lng="sq">lugin&#xEB;</trd>
+  <trd lng="st">phuleng</trd>
+  <trd lng="su">gawir</trd>
+  <trd lng="sv">dal</trd>
+  <trd lng="sw">bonde</trd>
+  <trd lng="ta">&#xBAA;&#xBB3;&#xBCD;&#xBB3;&#xBA4;&#xBCD;&#xBA4;&#xBBE;&#xB95;&#xBCD;&#xB95;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC32;&#xC4B;&#xC2F;&#xC32;&#xC4B;</trd>
+  <trd lng="tg">&c_v;&#x43E;&c_d;&c_i;&c_i;</trd>
+  <trd lng="th">&#xE2B;&#xE38;&#xE1A;&#xE40;&#xE02;&#xE32;</trd>
+  <trd lng="tl">lambak</trd>
+  <trd lng="tt">&#x4AF;&c_z;&#x4D9;&#x43D;</trd>
+  <trd lng="uk">&c_D;&#x43E;&#x43B;&c_i;&#x43D;&c_a;</trd>
+  <trd lng="ur">&a_w;&a_A;&#x62F;&#x6CC;</trd>
+  <trd lng="uz">vodiy</trd>
+  <trd lng="vi">thung l&#x169;ng</trd>
+  <trd lng="xh">intlambo</trd>
+  <trd lng="yi">&#x5D8;&#x5D0;&#x5B8;&#x5DC;</trd>
+  <trd lng="yo">afonifoji</trd>
+  <trd lng="zu">isigodi</trd>
+</drv>
+
+<drv mrk="val.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="val.0eto.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Malgranda <tld/>o, ne tre lar&gcirc;a a&ubreve; ne tre profunda:
+      <ekz>
+        dudeko da viroj kaj virinoj <klr>...</klr> komencis fari
+        aran&gcirc;ojn
+        por dumnokta lo&gcirc;o en oportuna <tld/>eto
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 9a, aventura
+        voja&gcirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="ravin.0o">ravino</ref>
+  </snc>
+  <ref tip="hom" cel="lavalet.0o">Valeto (&ccirc;efurbo de Malto)</ref>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_l;&c_ib;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_l;&c_a;&c_g;&c_ch;&c_y;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>clotada</trd>,
+    <trd>fondalada</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dolinka</trd>,
+    <trd>&uacute;dol&iacute;&ccaron;ko</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>dell</trd>,
+    <trd>glen</trd>
+  </trdgrp>
+  <trd lng="fr">vallon</trd>
+  <trd lng="hu">v&ouml;lgyecske</trd>
+  <trd lng="ja">&#x5C0F;&#x3055;&#x306A;&#x8C37;  <pr>&#x3061;&#x3044;&#x3055;&#x306A;&#x305F;&#x306B;</pr></trd>
+  <trd lng="sk">komorn&iacute;k</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43B;&c_u;&c_g;&c_a;</trd>,
+    <trd>&#x43A;&c_a;&#x43C;&c_je;&c_r;&c_d;&c_i;&#x43D;&c_je;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="val.silicia0o">
+  <kap>Silicia <tld lit="V"/>o</kap>
+  <snc mrk="val.silicia0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Valo en Usono, apud Sanfrancisko, tiel nomata ekde la 1970aj jaroj
+      komence pro multaj blato-fabrikoj, kiujn poste sekvis
+      komputaj firmaoj:
+      <ekz>
+        la nombro de liaj kunlernantoj laborantaj en la Silicia <tld lit="V"/>o de Usono estas pli
+        multa ol tiu en Pekino
+        <fnt><aut>&Ccirc;ina Radio Internacia</aut>, <vrk><url ref="http://es.chinabroadcast.cn/1/2004/12/21/1@18729.htm">Heroo
+        de la &ccirc;ina komputera industrio</url></vrk>,
+        <lok>2004-12-21</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_K;&c_r;&c_a;&c_m;&c_ja;&c_n;&c_jo;&c_v;&c_a;&c_ja; <ind>&c_d;&c_a;&c_l;&c_ib;&c_n;&c_a;</ind></trd>
+  <trd lng="bg">&c_s;&c_i;&c_l;&c_i;&c_c;&c_i;&c_je;&c_v;&c_a; &c_d;&c_o;&c_l;&c_i;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>Vall del Silici</trd>,
+    <trd>Silicon Valley</trd>
+  </trdgrp>
+  <trd lng="en">Silicon Valley</trd>
+  <trdgrp lng="fr">
+    <trd>Silicon valley</trd>,
+    <trd>Vall&eacute;e du silicium</trd>
+  </trdgrp>
+  <trd lng="hu">Szil&iacute;cium-v&ouml;lgy</trd>
+  <trdgrp lng="pt">
+   <trd>Vale do Sil&iacute;cio</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="val.0odelaregxoj">
+  <kap><tld lit="V"/>o de la Re&gcirc;oj</kap>
+  <snc mrk="val.0odelaregxoj.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Kruta valo en Egiptujo, &ccirc;e la okcidenta bordo de la rivero Nilo
+      apud
+      Luksoro, en kies flankoj re&gcirc;oj de la Nova Imperio instaligis
+      siajn
+      tombejojn:
+      <ekz>
+        tiu tombeto en la <tld lit="V"/>o de la Re&gcirc;oj estus perdebla en
+        la
+        koridoroj tra kiuj ili jam trapasis
+        <fnt><aut>Arthur C. Clarke, trad. Dave Coffin</aut>,
+        <vrk>Rendevuo
+        kun Rama</vrk>, <lok><url ref="http://www.cybercom.net/~dcoffin/esperanto/rama08.html">&ccirc;apitro
+        8a, &leftquot;tra la nabo&rightquot;</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_D;&c_a;&c_l;&c_ib;&c_n;&c_a; &c_C;&c_a;&c_r;&c_o;&c_w;</trd>
+  <trd lng="ca"><ind>Vall</ind> dels Reis</trd>
+  <trd lng="de">Tal der K&ouml;nige</trd>
+  <trd lng="en">Valley of the Kings</trd>
+  <trd lng="fr">la <ind>Vall&eacute;e des rois</ind></trd>
+  <trd lng="es">Valle de los Reyes</trd>
+  <trd lng="hu">Kir&aacute;lyok <ind>v&ouml;lgye</ind></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.112 2023/10/21 16:50:35
+revo: transskribo per <pr>
+
+versio 1.110 2023/08/29 17:27:29
+Wolfram Diestel: ja: prononco
+
+versio 1.109 2022/06/27 06:41:47
+Dmitri Gabinski: + trd be
+
+versio 1.108 2022/05/06 12:17:21
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.72 2021/06/18 15:36:10
+Wolfram Diestel: +ref
+
+Revision 1.29  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/04/22 18:11:11  revo
+-->
+</vortaro>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kavale.xml,v 1.24 2023/12/03 08:00:25 revo Exp $">
+<kap>
+  <rad>kavaleri</rad>/o
+</kap>
+<drv mrk="kavale.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      Parto de <ref tip="malprt" cel="arme.0o.sxtata">armeo</ref>
+      konsistanta el <ref cel="soldat.rajdo0o">rajdosoldatoj</ref>:
+      <ekz>
+        la nombro de la armeoj de la <tld/>o estis ducent milionoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Apokalipso 9:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Tutmozis</nom> ordonis jungi &ccirc;evalojn al dudek kvin &ccirc;aroj de la peza <tld/>o
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;o, vidante, ke unu homo forportas la ri&ccirc;a&jcirc;ojn de la tuta lando, ekkoleris
+        kaj sendis sian <tld/>on kun ordono kapti la fortegulon
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Sesope oni trairas la tutan mondon</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_v;&c_a;&c_l;&c_je;&c_r;&c_y;&c_ja;</trd>,
+    <trd>&c_k;&c_o;&c_n;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_k;&c_a;&c_v;&c_a;&c_l;&c_je;&c_r;&c_i;&c_ja;</trd>,
+    <trd>&c_k;&c_o;&c_n;&c_n;&c_i;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jezdectvo</trd>,
+    <trd>j&iacute;zda</trd>,
+    <trd>kavalerie</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Kavallerie</trd>,
+     <trd>Reiterei</trd>,
+     <trd>berittene <ind>Truppe</ind></trd>
+  </trdgrp>
+  <trd lng="en">cavalry</trd>
+  <trd lng="fr">cavalerie</trd>
+  <trd lng="hu">lovass&aacute;g</trd>
+  <trd lng="it">cavalleria</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9A0E;&#x5175;&#x968A;  <pr>&#x304D;&#x3078;&#x3044;&#x305F;&#x3044;</pr></trd>,
+    <trd>&#x878D;&#x901A;&#x624B;&#x5F62;  <pr>&#x3086;&#x3046;&#x305A;&#x3046;&#x3066;&#x304C;&#x305F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">cavalerie</trd>
+  <trdgrp lng="pl">
+    <trd>kawaleria</trd>,
+    <trd>konnica</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_v;&c_a;&c_l;&c_je;&c_r;&c_i;&c_ja;</trd>,
+    <trd>&c_k;&c_o;&c_n;&c_n;&c_i;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">jazdectvo</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_ib;&#x43D;&#x43D;&#x43E;&c_t;&c_a;</trd>,
+    <trd>&#x43A;&c_a;&c_v;&c_a;&#x43B;&c_je;&c_r;&c_ib;&#x44F;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x9A0E;&#x5175; <pr>q&#xED;b&#x12B;ng</pr></trd>
+</drv>
+
+<drv mrk="kavale.0ano">
+  <kap><tld/>ano</kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <ref tip="dif" cel="soldat.rajdo0o">rajdosoldato</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_v;&c_a;&c_l;&c_je;&c_r;&c_y;&c_s;&c_t;</trd>,
+    <trd>&c_k;&c_o;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_k;&c_a;&c_v;&c_a;&c_l;&c_je;&c_r;&c_i;&c_s;&c_t;</trd>
+  <trd lng="cs">kavalerista</trd>
+  <trdgrp lng="de">
+    <trd>Kavallerist</trd>,
+    <trd>Reiter</trd>,
+    <trd>berittener <ind>Soldat</ind></trd>
+  </trdgrp>
+  <trd lng="en">cavalryman</trd>
+  <trd lng="fr">cavalier<klr tip="ind"> (soldat de cavalerie)</klr>
+  </trd>
+  <trdgrp lng="it">
+    <trd>cavaliere<klr> (soldato di cavalleria)</klr></trd>,
+    <trd>cavalleggero</trd>
+  </trdgrp>
+  <trd lng="ja">&#x9A0E;&#x5175;  <pr>&#x304D;&#x3078;&#x3044;</pr></trd>
+  <trd lng="nl">cavalerist</trd>
+  <trd lng="pl">kawalerzysta</trd>
+  <trd lng="ru">&c_k;&c_a;&c_v;&c_a;&c_l;&c_je;&c_r;&c_i;&c_s;&c_t;
+  </trd>
+  <trd lng="sk">kavalerista</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_ib;&#x43D;&#x43D;&#x43E;&c_t;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&#x43A;&c_a;&c_v;&c_a;&#x43B;&c_je;&c_r;&c_i;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x9A0E;&#x5175; <pr>q&#xED;b&#x12B;ng</pr></trd>,
+    <trd>&#x9A0E;&#x99AC;&#x8005; <pr>q&#xED;m&#x1CE;zh&#x11B;</pr></trd>,
+    <trd>&#x5973;&#x9A0E;&#x99AC;&#x8005; <pr>n&#x1DA;q&#xED;m&#x1CE;zh&#x11B;</pr></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/18 14:48:10
+revo: transskribo per <pr>
+
+versio 1.21 2022/11/17 12:58:53
+Dmitri Gabinski: + trd be
+
+Revision 1.18  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/09/20 14:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2010/06/17 16:30:46  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2009/08/26 16:31:02  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.13  2008/04/22 17:50:24  revo
+-->
+</vortaro>

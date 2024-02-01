@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: norveg.xml,v 1.25 2023/10/20 05:22:00 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>norveg</rad>/o <fnt><bib>Hamlet</bib></fnt>
+</kap>
+
+<drv mrk="norveg.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="norveg.0o.sxtatano">
+    <dif>
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
+      <ref tip="malprt" cel="norveg.N0ujo.GEOG"><tld lit="N"/>ujo</ref>:
+      <ekz>
+        mi lernis ami la <tld lit="N"/>ojn, &scirc;i respondis, kaj mi
+        edzini&gcirc;os nur en tia okazo, se mi povos veni <tld lit="N"/>ujon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="norveg.0o.naciano">
+    <dif>
+      Homo kun <tld/>a nacieco:
+      <ekz>
+        la batalo kontra&ubreve; la <tld lit="N"/>oj
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la maljuna estro de l&#x2019; <tld/>oj
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_r;&c_v;&c_e;&c_zh;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">Nor</trd>
+  <trd lng="de">Norweger</trd>
+  <trd lng="en">Norwegian<klr> (subst.)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>Norv&eacute;gien</trd>
+    <trd>Norv&eacute;gienne<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x30CE;&#x30EB;&#x30A6;&#x30A7;&#x30FC;&#x4EBA;  <pr>&#x30CE;&#x30EB;&#x30A6;&#x30A7;&#x30FC;&#x3058;&#x3093;</pr></trd>
+  <trd lng="nl">Noor</trd>
+  <trd lng="no">nordmann</trd>
+  <trd lng="pl">Norweg</trd>
+  <trd lng="ro">norvegian</trd>
+  <trd lng="sk">N&oacute;r</trd>
+  <trd lng="tok">jan pi ma Nosiki</trd>
+  <trd lng="uk">&#x43D;&#x43E;&#x440;&#x432;&#x435;&#x436;&#x435;&#x446;&#x44C;</trd>
+  <trd lng="vo">Norg&auml;nan</trd>
+</drv>
+
+<drv mrk="norveg.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato:
+      <ekz>
+        la <tld lit="N"/>a re&gcirc;o <nom>Fortinbras</nom>
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi eka&ubreve;dis fra&ubreve;linan vo&ccirc;on post mi, dirantan en pura <tld/>a
+        lingvo: Dio, kion mi faros
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">Norwegian<klr> (adj.)</klr></trd>
+    <trdgrp lng="fr">
+      <trd>norv&eacute;gien</trd>
+      <trd>norv&eacute;gienne<klr> (adj.)</klr></trd>
+    </trdgrp>
+    <trd lng="tok">pi ma Nosiki</trd>
+    <trd lng="vo">Norg&auml;nik</trd>
+  </snc>
+  <snc>
+    <dif>
+      <klr>(la)</klr> <tld lit="N"/>a <ref tip="super" cel="lingv.0o">lingvo</ref>:
+      <ekz>
+        li kantis, kaj igis nin kunkanti, plurajn belajn kantojn, kiujn
+        li persone tradukis el la <tld/>a
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2010/010123.php">Neniam
+          plu</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">Norwegian<klr> (language)</klr></trd>
+    <trd lng="fr">norv&eacute;gien<klr> (langue)</klr></trd>
+    <trd lng="tok">toki Nosiki</trd>
+    <trd lng="vo">Norg&auml;nap&uuml;k</trd>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_r;&c_v;&c_e;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="cs">norsk&yacute;</trd>
+  <trd lng="de">norwegisch</trd>
+  <trd lng="ja">&#x30CE;&#x30EB;&#x30A6;&#x30A7;&#x30FC;&#x306E;  <pr>&#x306E;&#x308B;&#x3046;&#x3047;&#x30FC;&#x306E;</pr></trd>
+  <trd lng="nl">Noors</trd>
+  <trd lng="no">norsk</trd>
+  <trd lng="pl">norweski</trd>
+  <trd lng="ro">norvegian</trd>
+  <trd lng="sk">n&oacute;rsky</trd>
+  <trd lng="uk">&#x43D;&#x43E;&#x440;&#x432;&#x435;&#x437;&#x44C;&#x43A;&#x438;&#x439;</trd>
+</drv>
+
+<drv mrk="norveg.N0ujo">
+  <kap>
+    <tld lit="N"/>ujo
+  </kap>
+  <mlg kod="ISO-3166">NO</mlg>
+  <snc mrk="norveg.N0ujo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="super" cel="sxtat.0o.POL">&Scirc;tato</ref> en la norda E&ubreve;ropo
+      sur la Skandinava duoninsulo kun &ccirc;efurbo Oslo; teritorio de Regno
+      <tld lit="N"/>ujo; &gcirc;i limas kun
+      <ref tip="vid" cel="finn.F0lando">Finnlando</ref>,
+      <ref tip="vid" cel="rus.R0ujo">Rusujo</ref>,
+      <ref tip="vid" cel="sved.S0ujo">Svedujo</ref>
+      kaj <ref tip="vid" cel="atlant.A0o.GEOG">Atlantiko</ref>:
+      <ekz>
+        maljuna gnomo el <tld lit="N"/>ujo, kiu lo&gcirc;as en la malnova roko
+        de Dovro kaj posedas multe da rokaj kasteloj kaj orminejon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en Aprilo devis iri &scirc;ipo al <tld lit="N"/>ujo, kaj Georgo estis
+        kunveturonta
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="norvegi.N0o">Norvegio</ref>
+    <trd lng="de">Norwegen</trd>
+  </snc>
+  <trd lng="be">&c_N;&c_a;&c_r;&c_v;&c_e;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="en">Norway</trd>
+  <trd lng="es">Noruega</trd>
+  <trd lng="fa">&a_n;&a_r;&a_w;&f_zh;</trd>
+  <trd lng="fr">Norv&egrave;ge</trd>
+  <trd lng="fy">Noarwegen</trd>
+  <trd lng="id">Norwegia</trd>
+  <trd lng="nl">Noorwegen</trd>
+  <trd lng="no">Norge</trd>
+  <trdgrp lng="pl">
+    <trd>Norwegia</trd>,
+    <trd>Kr&oacute;lestwo <ind>Norwegii</ind></trd>
+  </trdgrp>
+  <trd lng="ro">Norvegia</trd>
+  <trd lng="tok">ma Nosiki</trd>
+  <trd lng="vo">Norg&auml;n</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/20 05:22:00
+revo: transskribo per <pr>
+
+versio 1.23 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2021/12/02 07:29:40
+Dmitri Gabinski: + trd be
+
+versio 1.20 2021/10/02 20:29:18
+Vito Redsky: +trd pl +trd ro
+
+versio 1.19 2020/02/28 22:11:10
+Robin van der Vliet: +trd, koherigo kun aliaj landoartikoloj
+
+Revision 1.18  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
+Revision 1.17  2018/08/24 15:10:13  revo
+Wolfram Diestel: +ekz-oj, germ trd-oj
+
+Revision 1.16  2018/08/06 19:10:52  revo
+-->
+</vortaro>

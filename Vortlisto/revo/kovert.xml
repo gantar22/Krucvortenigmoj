@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kovert.xml,v 1.26 2023/12/03 09:59:00 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kovert</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kovert.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kovert.0o.POSX">
+    <uzo tip="fak">POSX</uzo>
+    <dif>
+      Plata papera saketo, en kiun oni metas leteron kaj sur kiu oni
+      skribas la adreson:
+      <ekz>
+        Jo&ccirc;jo konfuzi&gcirc;eme mallevis la okulojn kaj elprenis el la 
+        tirkesto de la tablo malgrandan <tld/>on
+        <fnt>
+          <aut>I. G. &Scirc;irjaev</aut>,
+          <vrk>Sen titolo</vrk>, 
+          <lok>&ccirc;apitro 39a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_n;&c_v;&c_e;&c_r;&c_t;</trd>,
+    <trd>&c_k;&c_a;&c_p;&c_e;&c_r;&c_t;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF61;&#xF72;&#xF42;&#xF0B;&#xF66;&#xF90;&#xF7C;&#xF42;&#xF0B;</trd>
+  <trdgrp lng="cs">
+    <trd>dopisn&iacute; ob&aacute;lka</trd>,
+    <trd>ob&aacute;lka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Umschlag</trd>,
+    <trd>Kuvert</trd>
+  </trdgrp>
+  <trd lng="en">envelope</trd>
+  <trd lng="es">sobre</trd>
+  <trd lng="fr">enveloppe<klr> (de lettre)</klr></trd>
+  <trd lng="hu">bor&iacute;t&eacute;k</trd>
+  <trd lng="id">amplop</trd>
+  <trd lng="ja">&#x5C01;&#x7B52;  <pr>&#x3075;&#x3046;&#x3068;&#x3046;</pr></trd>
+  <trd lng="nl">enveloppe</trd>
+  <trd lng="pl">koperta</trd>
+  <trd lng="pt">envelope</trd>
+  <trd lng="ro">plic</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_v;&c_je;&c_r;&c_t;</trd>
+  <trd lng="sk">ob&aacute;lka</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5916;&#x58F3; <pr>w&#xE0;ik&#xE9;</pr></trd>,
+    <trd>&#x4FE1;&#x5C01; <pr>x&#xEC;nf&#x113;ng</pr></trd>,
+    <trd>&#x51FD; <pr>h&#xE1;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kovert.en0igi">
+  <kap>en<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kovert.en0igi.POSX">
+    <uzo tip="fak">POSX</uzo>
+    <dif>
+      Meti en <tld/>on:
+      <ekz>
+        mi en<tld/>igas la leteron kaj iras al la po&scirc;tkesto
+        <fnt>
+          <aut>U. Matthias</aut>,
+          <vrk><url ref="http://www.u-matthias.de/verko/fajron.htm">
+          Fajron sentas mi interne</url></vrk>,
+          <lok>Pro Esperanto, 1990</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>mettre sous enveloppe</trd>,
+    <trd>mettre sous pli</trd>
+  </trdgrp>
+  <trd lng="pl">kopertowa&cacute;</trd>     
+  <trd lng="ro">introducere &icirc;n plicuri</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/06/03 15:10:24  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.18  2012/05/29 13:10:13  revo
+Tulio Flores: korekto de traduko pt
+
+Revision 1.17  2007/03/12 17:30:19  revo
+Jeromo Vasxe: + en~igi
+
+Revision 1.16  2006/11/02 17:32:07  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2006/06/30 16:31:42  revo
+-->
+</vortaro>

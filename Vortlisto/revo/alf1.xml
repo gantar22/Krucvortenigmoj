@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: alf1.xml,v 1.9 2023/08/30 18:23:32 revo Exp $">
+    <kap>
+      <rad>alf</rad>/o
+    </kap>
+
+<drv mrk="alf1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="alf1.0o.LIN">
+  <uzo tip="fak">LIN</uzo>
+    <dif>
+      La unua litero de la greka alfabeto <klr>(A, &alfa;)</klr>:
+      <ekz>
+        jen Vi estas, envere, <tld lit="A"/>o kaj Omego
+        <fnt><aut>Czes&lstroke;aw Mi&lstroke;osz, trad. Janusz Sul&zdot;ycki</aut>:
+          <vrk>Ju pli</vrk>.
+          <lok>Espero Katolika, <url ref="http://www.esperokatolika.org/ek19811985/ek1981_1011.htm">&#x2116;
+10-11/1981</url></lok></fnt>;
+      </ekz><ekz>     
+        la du literoj <tld/>o kaj omego, unua kaj lasta de la greka
+        alfabeto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=494786">Labaro</url></lok>
+        </fnt>;
+      </ekz><ekz>
+        <tld lit="A"/>o Serpenta estas triopa stelo en la konstelacio
+        Serpento <fnt><bib>Viki</bib></fnt>;
+      </ekz><ekz>
+        anka&ubreve; eblas ilin <klr>[la Grekajn literojn]</klr> plene
+        Esperantigi kun O-fina&jcirc;oj, ekz.: <tld/>o, beto, gamo,
+        <klr>[&#x2026;]</klr>
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk><url ref="&PMEG;gramatiko/neoficialaj_vortetoj.html#i-n8l">Grekaj literoj en PMEG
+          &para;19</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim num="1">
+      Trovi&gcirc;as en la PIV-oj la neasimilita formo <ctl>alfa</ctl>,
+      do aliradika.
+    </rim>
+    <rim num="2">
+      La plene esperantigitaj nomoj de la grekaj literoj prezentitaj en
+      PMEG
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk><url ref="&PMEG;gramatiko/neoficialaj_vortetoj.html#i-n8l">Grekaj
+          literoj en PMEG &para;19</url></vrk>
+        </fnt>
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk><url ref="&PMEG;aldonoj/ne-pivaj_elementoj.html#i-tgp">Grekaj
+          literoj en PMEG &para;43</url></vrk>
+        </fnt>
+      ne estas harmoniaj. En la okazo de la literoj fini&gcirc;antaj per a, la
+      Esperanta O-fina&jcirc;o <em>anstata&ubreve;as</em> la liternoman finon
+      (alfa &#x2B62; alfo), dum en la aliaj okazoj la
+      Esperanta O-fina&jcirc;o <em>aldoni&gcirc;as</em> al la liternoma fino
+      (epsilon &#x2B62; epsilono;
+      mu &#x2B62; muo;
+      ksi &#x2B62; ksio).
+      Due, pluraj tiel kreitaj radikoj konfliktas kun aliaj esperantaj
+      radikoj jam ekzistantaj en
+      PIV (<ref cel="alf.0o">alfo</ref>, <ref cel="bet.0o">beto</ref>,
+      <ref cel="gam.0o">gamo</ref>,
+      <ref cel="kap.0o">kapo</ref>, <ref cel="rot.0o">roto</ref>) a&ubreve;
+      konfliktas en vorfarado &ccirc;ar,
+      la&ubreve; PMEG, oni ne uzu a-ligfina&jcirc;on en kombinoj
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk><url ref="&PMEG;vortfarado/principoj/antauelementoj.html#i-pce">Interligaj
+          fina&jcirc;oj en PMEG &para;37.3</url></vrk>
+        </fnt>, tial ekzemple la PIV-a termino &leftquot;<esc>gamaradioj</esc>&rightquot;
+        devus esti &leftquot;gamradioj&rightquot;, kiel &leftquot;iksradioj&rightquot;. Por
+        pli da reguleco kaj eviti konfliktojn, alia eblo estas uzi la
+        simplan esperantigitan formon <em>alfao</em>. <aut>Alano
+        Gerardo</aut>
+    </rim>
+  </snc>
+  <rim>
+    Kp <ref tip="hom" cel="alf.0o">alfo</ref> (herbo).
+  </rim>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_f;&c_a; <klr>(&c_g;&c_r;&c_e;&c_c;&c_k;&c_a;&c_ja; &c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;)</klr></trd>
+  <trd lng="de">Alpha</trd>
+  <trd lng="el">&alfa_psili_acute;&lambda;&phi;&alfa;</trd>
+  <trd lng="en">alpha</trd>
+  <trd lng="fr">alpha</trd>
+  <trd lng="ja">&#x30A2;&#x30D5;&#x30EA;&#x30AB;&#x30CF;&#x30CD;&#x30AC;&#x30E4;</trd>
+  <trd lng="pl">alfa <klr>(litera)</klr></trd>
+  <trd lng="ro">alfa <klr>(liter&abreve;)</klr></trd>
+  <trd lng="ru">&c_a;&c_l;&c_mol;&c_f;&c_a;</trd>
+  <trd lng="uk">&c_a;&#x43B;&#x44C;&c_f;&c_a;</trd>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.8 2023/01/18 23:28:30
+Vito Redsky: +trd pl + trd ro
+
+versio 1.7 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.5 2021/12/13 09:32:14
+Dmitri Gabinski: + trd be
+
+versio 1.4 2020/12/27 12:55:52
+Wolfram Diestel: rim antau trd
+
+versio 1.3 2020/12/20 07:10:35
+Sergio Pokrovskij: +trd=ru, +ekz
+
+Revision 1.1  2019/10/09 20:10:17  revo
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

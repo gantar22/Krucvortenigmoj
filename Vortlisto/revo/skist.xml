@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: skist.xml,v 1.22 2023/10/21 07:46:47 revo Exp $">
+<kap>
+  <rad>skist</rad>/o
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="skist.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MIN</uzo>
+  <snc mrk="skist.0o.tavola">
+    <dif>
+      &Gcirc;enerala nomo de foliformaj roka&jcirc;oj, facile disfendeblaj
+    </dif>
+    <refgrp tip="sub">
+       <ref cel="ardez.0o">ardezo</ref>,
+       <ref cel="glim.0o">glimo</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_l;&c_a;&c_n;&c_je;&c_c;</trd>,
+      <trd>&c_l;&c_u;&c_p;&c_n;&c_ja;&c_k;</trd>
+    </trdgrp>
+    <trd lng="ca">esquist</trd>
+    <trd lng="cs">krystalick&aacute; b&rcaron;idlice</trd>
+    <trd lng="de">Glimmerschiefer</trd>
+    <trd lng="en">schist</trd>
+    <trd lng="es">esquisto</trd>
+    <trd lng="fr">schiste</trd>
+    <trd lng="hu">pala</trd>
+    <trd lng="nl">schilfersteen</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_l;&c_a;&c_n;&c_je;&c_c;</trd>,
+      <trd>&c_sh;&c_i;&c_f;&c_je;&c_r;</trd>
+    </trdgrp>
+    <trdgrp lng="sk">
+      <trd>vrstevnat&aacute;</trd>,
+      <trd>&scaron;tiepna hornina</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="skist.0o.karbona">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+       Malhele griza &gcirc;is nigra, argila <ref tip="super" cel="sedime.0o.MIN">sedimento</ref>
+       ri&ccirc;a je karbona&jcirc;oj, ekz. kerogeno, el kiu oni povas produkti nafton a&ubreve; tergaso:
+      <ekz>
+        la produktopa&scirc;oj &ccirc;efe konsistis el dispecigo de la <tld/>o, kribrado, seka
+        distilado, eltiro de gudro, distilado de kruda oleo kaj distilado de kruda
+        vakso
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Wu Guojiang</aut>
+          <vrk><url ref="&Monato;/2008/009548.php">Rafinejo jubileas</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la registaro jubilis pri la ekzisto de aglomera&jcirc;oj de <tld/>ogaso en Litovio kaj
+        tiel konfirmis sian optimismon pri energia sendependeco
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2011/010416.php">Revoj pri skistogaso</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por ekspluati <tld/>ogason la&ubreve; la nuna teknologio, necesas koktelo de pli ol 500
+        kemia&jcirc;oj kaj miloj da litroj da akvo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ren&eacute;e Triolle</aut>
+          <vrk><url ref="&Monato;/2011/010487.php">Skistogasa ko&scirc;maro!</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_m;&c_u;&c_r;&c_o;&c_d;&c_n;&c_y; <ind>&c_l;&c_u;&c_p;&c_n;&c_ja;&c_k;</ind></trd>
+    <trd lng="de">&Ouml;lschiefer</trd>
+    <trd lng="en">oil shale</trd>
+    <trd lng="fr">schiste bitumineux</trd>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Tonstein</trd>,
+    <trd>Mergel</trd>,
+    <trd>Siltstein</trd>,
+    <trd>Schiefer <klr>(veraltet)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#29255;&#x5CA9;  <pr>&#12408;&#12435;&#x304C;&#12435;</pr></trd>,
+    <trd>&#x7D50;&#26230;&#29255;&#x5CA9;  <pr>&#12369;&#12387;&#12375;&#12423;&#12358;&#12408;&#12435;&#x304C;&#12435;</pr></trd>,
+    <trd>&#38913;&#x5CA9;  <pr>&#12369;&#12388;&#x304C;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">&lstroke;upek</trd>
+  <trd lng="uk">&c_s;&#x43B;&c_a;&#x43D;&c_je;&c_c;&#x44C;</trd>
+</drv>
+
+<drv mrk="skist.0a0oforma">
+  <kap><tld/>a, <var><kap><tld/>oforma</kap></var></kap>
+  <snc>
+    <dif>
+      Roko de <tld/>a strukturo:
+      <ekz>
+        <tld/>aj materialoj, inter kiuj oni povus mencii argilo&scirc;tonon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Werner Fuss</aut>
+          <vrk><url ref="&Monato;/2014/011348.php">Novtipa gasminado: &ccirc;u vere dan&gcirc;era?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_l;&c_a;&c_n;&c_c;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_l;&c_u;&c_p;&c_n;&c_ja;&c_k;&c_o;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="ca">esquist&oacute;s</trd>
+  <trdgrp lng="de">
+    <trd>schiefrig</trd>,
+    <trd>schichtig</trd>
+  </trdgrp>
+  <trd lng="en">schistose</trd>
+  <trd lng="es">esquistoso</trd>
+  <trdgrp lng="fr">
+    <trd>schisteux</trd>,
+    <trd>schisteuse</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>pala-</trd>,
+    <trd>palaszer&udblac;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#29255;&#x5CA9;&#x72B6;&#x306E;  <pr>&#x304B;&#x305F;&#12356;&#x308F;&#12376;&#12423;&#12358;&#x306E;</pr></trd>,
+    <trd>&#29255;&#x72B6;&#x306E;  <pr>&#x304B;&#x305F;&#12376;&#12423;&#12358;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">&lstroke;upkowaty</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_l;&c_a;&c_n;&c_c;&c_je;&c_v;&c_y;&c_j;</trd>,
+    <trd>&c_sh;&c_i;&c_f;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_l;&c_o;&c_i;&c_s;&c_t;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43B;&c_a;&#x43D;&c_c;&c_je;&c_v;&c_i;&c_j;</trd>,
+    <trd>(&c_t;&#x43E;&#x43D;&#x43A;&#x43E;)&c_sh;&c_a;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.21 2023/09/08 22:26:42
+Vito Redsky: +trd pl 
+
+versio 1.19 2022/04/12 08:44:42
+Dmitri Gabinski: + trd be
+
+Revision 1.16  2018/12/21 09:10:14  revo
+Wolfram Diestel: +snc karbona, +ekz-oj, trd-oj
+
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/10/23 00:13:44  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.12  2012/08/04 09:10:25  revo
+-->
+</vortaro>

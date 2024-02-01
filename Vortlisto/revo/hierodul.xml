@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hierodul.xml,v 1.7 2023/11/16 09:24:30 revo Exp $">
+<kap>
+  <rad>hierodul</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="hierodul.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="hierodul.0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Sankta <ref tip="super" cel="serv.0isto">servisto</ref> a&ubreve;
+      <ref tip="super" cel="cxast.mal0isto">mal&ccirc;astisto</ref>
+      oficanta apud templo, kiaj estis en iuj antikvaj religioj de
+      Okcidenta Azio.
+    </dif>
+  </snc>
+  <trd lng="cs">v &Rcaron;ecku chr&aacute;mov&yacute; otrok</trd>
+  <trd lng="de">Hierodule</trd>
+  <trd lng="fr">hi&eacute;rodule<klr tip="amb"> (masculin)</klr></trd>
+  <trd lng="grc">&jota_densa;&epsilon;&rho;&omikron_ton;&delta;&omikron;&ypsilon;&lambda;&omikron;&jota;</trd>
+  <trd lng="it">ierodulo<klr tip="amb"> (maschio)</klr></trd>
+  <trd lng="pt">hierodulo</trd>
+  <trd lng="sk">chr&aacute;mov&yacute; otrok v Gr&eacute;cku</trd>
+  <trd lng="uk">&c_n;&c_je;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_k;/&c_n;&c_je;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_ja; &c_p;&c_r;&c_i; &c_h;&c_r;&c_a;&c_m;&c_ib;</trd>
+</drv>
+
+<drv mrk="hierodul.0ino">
+  <kap><tld/>ino</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="hierodul.0ino.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Sankta <ref tip="super" cel="cxast.mal0istino">mal&ccirc;astistino</ref>
+      oficanta apud templo, kiaj estis en iuj antikvaj religioj de
+      Okcidenta Azio:
+      <ekz>
+        la karavano konsistis el tri aroj, nome, kelke da pastroj kaj
+        <tld/>inoj
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 9a, Aventura
+        voja&gcirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hetajr.0o">hetajro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Hierodule <klr>(weibl.)</klr></trd>
+  <trd lng="fr">hi&eacute;rodule<klr tip="amb"> (f&eacute;minin)</klr></trd>
+  <trd lng="it">ierodulo<klr tip="amb"> (femmina)</klr></trd>
+  <trd lng="pt">hierodula</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2023/11/16 09:24:30
+Wolfram Diestel: +trd de, grc
+
+Revision 1.4  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2009/09/10 16:32:25  revo
+Antonio Codazzi: +trd it
+
+Revision 1.2  2005/10/15 16:32:32  revo
+Luiz Portella: +trd pt
+
+Revision 1.1  2004/08/24 16:31:40  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

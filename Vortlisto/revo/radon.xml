@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: radon.xml,v 1.23 2023/09/03 07:53:08 revo Exp $">
+<kap>
+  <rad>radon</rad>/o
+</kap>
+<drv mrk="radon.0o">
+  <kap><tld/>o</kap>
+  <mlg kod="IUPAC">Rn</mlg>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM" lst="voko:&hcirc;emiaj_elementoj" val="86">elemento</ref> kun
+      atomnumero 86, atompezo 222,0176;
+      <ref tip="super" cel="gas.nobla0o">nobla gaso</ref>,
+      kies &ccirc;iuj <ref tip="super" cel="izotop.0o">izotopoj</ref> 
+      estas radioaktivaj:
+      <ekz>
+        surbaze de empiriaj esploroj, bazitaj sur la kvantoj de <tld/>o subtere, li
+        estis certa pri la tujeco de terura tertremo, sed li ne povis savi ies vivon,
+        &ccirc;ar neniu donis al li la eblecon disvastigi vastaskale siajn teoriojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/010777.php">&Gcirc;is la tero tremas</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Malnova nomo estas nitono kun la simbolo Nt.
+    </rim>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_d;&c_o;&c_n;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_d;&c_o;&c_n;</trd>
+  <trd lng="br">radon</trd>
+  <trdgrp lng="cs">
+    <trd>Rn</trd>,
+    <trd>radon</trd>
+  </trdgrp>
+  <trd lng="de">Radon</trd>
+  <trd lng="en">radon</trd>
+  <trd lng="es">rad&oacute;n</trd>
+  <trd lng="fr">radon</trd>
+  <trd lng="hu">radon</trd>
+  <trd lng="id">radon</trd>
+  <trd lng="it">radon</trd>
+  <trd lng="ja">&#x30E9;&#x30C9;&#x30F3;</trd>
+  <trd lng="la">Radon</trd>
+  <trd lng="nl">radon</trd>
+  <trd lng="pl">radon</trd>
+  <trd lng="pt">rad&ocirc;nio</trd>
+  <trd lng="ru">&c_r;&c_a;&c_d;&c_o;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>Rn</trd>,
+    <trd>rad&oacute;n</trd>
+  </trdgrp>
+  <trd lng="sv">radon</trd>
+  <trd lng="uk">&#x440;&#x430;&#x434;&#x43E;&#x43D;</trd>
+</drv>
+</art>
+<!--
+$Log$
+Revision 1.20  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.19  2018/11/20 17:10:21  revo
+Wolfram Diestel: +ekz
+
+Revision 1.18  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/06/06 04:10:58  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.15  2014/01/30 17:10:21  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2013/09/15 19:10:27  revo
+-->
+</vortaro>

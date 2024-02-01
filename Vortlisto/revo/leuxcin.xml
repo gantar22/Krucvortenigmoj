@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: leuxcin.xml,v 1.7 2024/01/15 16:14:09 revo Exp $">
+    <kap>
+      <rad>le&ubreve;cin</rad>/o
+    </kap>
+
+<drv mrk="leuxcin.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BIO</uzo><uzo tip="fak">KEM</uzo>
+  <mlg>Leu</mlg>
+  <mlg>L</mlg>
+  <snc>
+    <dif>
+      <frm>CH<sub>3</sub>-CH2-CH(CH<sub>3</sub>)-CH(NH<sub>2</sub>)-COOH</frm>,
+      en sia L-formo esenca <ref tip="super" cel="acid.amin0o">aminacido</ref>,
+      kristali&gcirc;anta en blankaj (nomdona) folietoj:
+      <ekz>
+        uracilo-uracilo-adenino en RNA-mesa&gcirc;ista &ccirc;eno igas la ribosomon
+        aldoni <tld/>on
+        al la konstruata proteina molekulo
+        <fnt>
+          <aut>Ste&ccirc;jo Norvell</aut>
+          <vrk><url ref="&Monato;/2000/007157.html">Riboj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 16-17</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        alanino, <tld/>o, prolino kaj lizerga acido estas uzataj en &ccirc;elo
+        por produkti
+        ergozinon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=410663">Ergozino</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_l;&c_je;&c_j;&c_c;&c_y;&c_n;</trd>
+    <trd lng="de">Leucin</trd>
+    <trd lng="nl">leucine</trd>
+    <trd lng="pl">leucyna</trd>     
+    <trd lng="ro">leucin&abreve;</trd>
+  </snc>
+  <trd lng="uk">&#x43B;&c_je;&c_j;&c_c;&c_i;&#x43D;</trd>
+  <trd lng="zh">&#x4EAE;&#x6C28;&#x9178; <pr>li&#xE0;ng&#x101;nsu&#x101;n</pr></trd>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.6 2023/04/17 12:46:47
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.5 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.3 2021/11/26 07:29:04
+Dmitri Gabinski: + trd be
+
+Revision 1.1  2019/08/31 12:10:15  revo
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

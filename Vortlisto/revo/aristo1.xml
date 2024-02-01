@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: aristo1.xml,v 1.30 2023/10/28 08:33:08 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>aristokrati</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="aristo1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="aristo1.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Unu el la ses formoj de <ref tip="super" cel="konsti1.0o">konstitucio</ref>
+      la&ubreve; <ref cel="aristotel.0o.PERS">Aristotelo</ref>, en kiu regas grupo de 
+      elstaruloj por la utilo de &ccirc;iuj:
+      <ekz>
+        politika-religia <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2009/009771.php">Helpu Afganion!</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="monarh1.0o.POL">monar&hcirc;io<sncref/></ref>,
+       <ref cel="oligar.0o">oligar&hcirc;io</ref>,
+       <ref cel="demokr1.0o">demokratio</ref>
+    </refgrp>
+    <rim>
+      En tiu senco meritokratio estas formo de <tld/>o.
+    </rim>
+    <trdgrp lng="zh">
+    <trd>&#x4E0A;&#x5C42; <pr>sh&#xE0;ngc&#xE9;ng</pr></trd>,
+    <trd>&#x4E0A;&#x5C64; <pr>sh&#xE0;ngc&#xE9;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="aristo1.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Politika <ref tip="super" cel="regxim.0o.POL">re&gcirc;imo</ref>,
+      en kiu regas la <ref tip="prt" cel="nobel.0aro">nobelaro</ref>:
+      <ekz>
+        floradis la bienega sklaveco kaj la <tld/>o kiu poste forflugis kun la vento
+        <fnt>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2000/006909.php">Novjara kla&ccirc;o super konjako</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 25</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="aristo1.0o.nobelaro">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      La <ref tip="dif" cel="nobel.0aro">nobelaro</ref> kiel reganta klaso
+      de <ref cel="aristo1.0o.HIS">aristokratio<sncref/></ref>:
+      <ekz>
+        nia <tld/>o <klr>[&#x2026;]</klr> pensas, ke la milito pagos la feniciajn &scirc;uldojn, kaj al ili
+        alportos ri&ccirc;a&jcirc;ojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li komprenis, ke nur la <tld/>o estas klaso, kun kiu lin ligas la komuneco de l' sentoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="prt" cel="aristo.0o">aristokrato</ref>
+  <trd lng="be">&c_a;&c_r;&c_y;&c_s;&c_t;&c_a;&c_k;&c_r;&c_a;&c_t;&c_y;&c_ja;</trd>
+  <trd lng="ca">aristocr&agrave;cia</trd>
+  <trd lng="cs">vl&aacute;da aristokracie</trd>
+  <trd lng="de">Aristokratie</trd>
+  <trd lng="en">aristocracy</trd>
+  <trd lng="es">aristocracia</trd>
+  <trd lng="fr">aristocratie</trd>
+  <trd lng="he">&#x5D0;&#x5B2;&#x5E6;&#x5D5;&#x5BC;&#x5DC;&#x5B8;&#x5D4;</trd>
+  <trd lng="hu">arisztokr&aacute;cia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CB4;&#x65CF;&#x653F;&#x6CBB;  <pr>&#x304D;&#x305E;&#x304F;&#x305B;&#x3044;&#x3058;</pr></trd>,
+    <trd>&#x8CB4;&#x65CF;&#x968E;&#x7D1A;  <pr>&#x304D;&#x305E;&#x304F;&#x304B;&#x3044;&#x304D;&#x3085;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_r;&c_i;&c_s;&c_t;&c_o;&c_k;&c_r;&c_a;&c_t;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>aristokracia</trd>,
+    <trd>vl&aacute;da aristokracie</trd>
+  </trdgrp>
+  <trd lng="uk">&c_a;&c_r;&c_i;&c_s;&c_t;&#x43E;&#x43A;&c_r;&c_a;&c_t;&c_ib;&#x44F;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2023/10/13 16:46:48
+revo: transskribo per <pr>
+
+versio 1.27 2023/04/17 06:32:31
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.26 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.22 2020/11/30 18:37:46
+Wolfram Diestel: apartigo de snc POL de snc HIS
+
+Revision 1.20  2018/08/29 09:10:17  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.19  2018/08/06 12:10:17  revo
+Michel Cantigneaux: aperas unue en PV (1934), oficiala en 8OA (1974)
+
+Revision 1.18  2015/07/04 08:37:30  revo
+-->
+</vortaro>

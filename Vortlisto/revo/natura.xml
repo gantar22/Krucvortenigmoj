@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: natura.xml,v 1.23 2023/10/19 20:12:29 revo Exp $">
+    <kap>
+      <ofc>3</ofc>
+      <rad>naturalism</rad>/o
+    </kap>
+    <drv mrk="natura.0o">
+      <kap><tld/>o</kap>
+      <snc mrk="natura.0o.FIL">
+        <uzo tip="fak">FIL</uzo>
+        <dif>
+          Doktrino neanta &ccirc;ion ajn supernaturan.
+        </dif>
+      </snc>
+      <snc mrk="natura.0o.BELE">
+        <uzo tip="fak">BELE</uzo>
+        <dif>
+          Doktrino la&ubreve; kiu literaturo kaj belartoj celu nur
+          ekzaktan prezentadon de reala&jcirc;oj kaj senfantazian
+          imitadon de naturo, sen provi plibeligi kaj nobligi
+          ilin:
+          <ekz>
+            <tld/>o originas en forta reago kontra&ubreve; la tro fantaziri&ccirc;a romantiko
+            <fnt>
+            <aut>L. C. Deij</aut>
+            <vrk><url ref="http://www.tekstoj.nl/mr/MR473.pdf">Enkonduko al Beletro</url></vrk>
+            <lok>Malgranda Revuo, 1947:3</lok>
+          </fnt>.
+      </ekz>
+        </dif>
+        <ref tip="vid" cel="real.0ismo">realismo</ref>
+      </snc>
+      <snc mrk="natura.0o.ESP">
+        <uzo tip="fak">ESP</uzo>
+        <dif>
+          Tendenco evoluigi lingvon (precipe planlingvon) konforme al
+          la <ctl>naturaj</ctl> lingvoj okcidente&ubreve;ropaj:
+          <ekz>
+            mi volas koncize montri, ke estas inde agnoski pozitivan
+            rolon de racia natureco en faka terminaro, ne sinkante al
+            pura <tld/>o
+            <fnt>
+              <aut>J. Werner</aut>
+              <vrk>Matematika vortaro esperanta-&ccirc;e&hcirc;a-germana</vrk>
+              <lok>1990 (Anta&ubreve;parolo)</lok></fnt>;
+          </ekz><ekz>
+            lingvoj <tld/>aj postulas plej eblan alproksimi&gcirc;on al
+            etnolingvoj, sekve ili ne celas esti regulaj kaj
+            senesceptaj
+            <fnt>
+              <aut>V. Barandovsk&aacute;-Frank</aut>
+              <vrk>Enkonduka lernolibro de interlingvistiko</vrk>
+              <lok><url ref="http://www.uni-paderborn.de/extern/fb/2/Kyb.Paed/INT/04-int.htm">Paderborn</url></lok>
+            </fnt>.
+            </ekz>
+        </dif>
+        <ref tip="ant" cel="skem.0ismo.ESP">skemismo</ref>
+        <rim>
+          Fakte, e&ccirc; la vorto <tld/>o mem estas ekzemplo pri sia propra
+          senco: la nomo aludas <ctl>naturecon</ctl>, sed ne estas
+          derivita el <ctl>naturo</ctl>, sed formita ekster Esperanto,
+          fremdmaniere, kaj aperas kiel pruntvorto.
+        </rim>
+      </snc>
+  <trd lng="be">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="bg">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trd lng="br">naturelouriezh</trd>
+  <trdgrp lng="cs">
+    <trd>naturalizmus</trd>,
+    <trd>nudizmus</trd>
+  </trdgrp>
+  <trd lng="de">Naturalismus</trd>
+  <trd lng="el">&ny;&alfa;&tau;&omikron;&ypsilon;&rho;&alfa;&lambda;&jota;&sigma;&my;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">naturalism</trd>
+  <trd lng="es">naturalismo</trd>
+  <trd lng="fr">naturalisme</trd>
+  <trd lng="hu">naturalizmus</trd>
+  <trd lng="it">naturalismo</trd>
+  <trd lng="ja">&#x81EA;&#x7136;&#x4E3B;&#x7FA9;  <pr>&#x3057;&#x305C;&#x3093;&#x3057;&#x3085;&#x304E;</pr></trd>
+  <trd lng="nl">naturalisme</trd>
+  <trd lng="pl">naturalizm</trd>
+  <trd lng="pt">naturalismo</trd>
+  <trd lng="ru">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>naturalizmus</trd>,
+    <trd>nudizmus</trd>
+  </trdgrp>
+  <trd lng="sv">naturalism</trd>
+  <trd lng="uk">&#x43D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x456;&#x437;&#x43C;</trd>
+</drv>
+  </art>
+<!--
+$Log$
+versio 1.23 2023/10/19 20:12:29
+revo: transskribo per <pr>
+
+versio 1.20 2022/02/23 21:27:43
+Jeromo Vasxe: ~o snc bele: + ekz
+
+Revision 1.18  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/08/12 08:10:23  revo
+Joop Eggen: +trd bg
+
+Revision 1.16  2013/04/09 09:10:14  revo
+Sebastian Cyprych: +trd
+
+Revision 1.15  2009/12/15 17:30:33  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2009/02/26 17:30:39  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.13  2005/06/11 16:31:48  revo
+-->
+</vortaro>

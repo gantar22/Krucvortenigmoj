@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: jxig1.xml,v 1.11 2023/12/03 07:09:19 revo Exp $">
+<kap>
+<rad>&jcirc;ig</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="jxig1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="jxig1.0o.puzlo">
+    <dif>
+      <ref tip="dif" cel="puzl.0o.LUD">Puzlo</ref>:
+      <ekz>
+        dum tridek minutoj <klr>[&#x2026;]</klr> ni ne scipovis konstrui 
+        <tld lit="&Jcirc;"/>o-kubon, tamen finfine <nom>Vojtek</nom> sukcesis
+        <fnt>
+          <aut>Marzena</aut>,
+          <vrk><url ref="http://www.naszawyprawa.com/relacje_es.asp">
+          Voja&gcirc;raporto</url></vrk>,
+          <lok>Mongolio, 2003-12-22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_a;&c_l;&c_a;&c_v;&c_a;&c_l;&c_o;&c_m;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_a;&c_z;&c_l;</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>u&lstroke;adanka</trd>,
+      <trd>puzzle</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>quebra-cabe&ccedil;a</trd>,
+      <trd>puzzle</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd><ind>gioco</ind> di pazienza</trd>,
+      <trd>puzzle</trd>
+    </trdgrp>
+  </snc>
+  <rim mrk="jxig1.0o.RIM_HOM">
+    <ref tip="hom" cel="jxig.0o">&Jcirc;igo</ref>
+    estas anka&ubreve; la nomo de dancospeco.
+  </rim>
+<trd lng="de">Puzzle</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B8;&#x30B0;</trd>,
+    <trd>&#x30B8;&#x30FC;&#x30B0;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_i;&c_gu;&c_a;</trd>,
+    <trd>&c_d;&c_zh;&c_i;&c_gu;&c_a; (&c_t;&c_a;&#x43D;&c_je;&c_c;&#x44C;)</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_r;&c_ib;&c_z;&#x43D;&c_a; &#x43A;&c_a;&c_r;&c_t;&c_i;&#x43D;&#x43A;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x62FC;&#x56FE; <pr>p&#x12B;nt&#xFA;</pr></trd>,
+    <trd>&#x62FC;&#x56FE;&#x73A9;&#x5177; <pr>p&#x12B;nt&#xFA;w&#xE1;nj&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.9 2022/12/13 08:33:28
+Dmitri Gabinski: + trd be
+
+Revision 1.6  2009/03/13 17:30:45  revo
+Antonio Codazzi: +trd it
+
+Revision 1.5  2008/07/18 13:15:04  revo
+Sebastian Cyprych: sen-utf8-igita
+
+Revision 1.4  2006/07/05 18:37:14  revo
+Raul Salinas Monteagudo: sen-utf8-igita
+
+Revision 1.3  2006/04/25 16:32:45  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2006/04/11 16:31:56  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2006/04/09 17:52:42  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

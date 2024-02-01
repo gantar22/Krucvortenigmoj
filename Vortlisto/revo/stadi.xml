@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: stadi.xml,v 1.28 2023/10/21 07:46:48 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>stadi</rad>/o
+</kap>
+<drv mrk="stadi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stadi.0o.fazo">
+    <dif>
+      Difinita grado en ia evoluado,
+      <ref tip="vid" cel="etap.0o.stadio">etapo</ref>,
+      <ref tip="vid" cel="faz.0o.KOMUNE">fazo</ref>:
+      <ekz>
+        la luno estas nun en la <tld/>o de malkreskado<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tiu ideo disvolvi&gcirc;adis kaj trairadis diversajn
+        <tld/>ojn<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tiuj provoj ne transpa&scirc;is la komencan <tld/>on;
+      </ekz>
+      <ekz>
+        la demokrata epoko alvenas al sia lasta <tld/>o.
+      </ekz>
+    </dif>
+    <subsnc mrk="stadi.0o.MED">
+      <uzo tip="fak">MED</uzo>
+      <dif>
+        Karakteriza stato de malsano dum &gcirc;ia evoluo:
+        <ekz>
+          la malsano transiris en la kronikan <tld/>on.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="stadi.0o.BIO">
+      <uzo tip="fak">BIO</uzo>
+      <dif>
+        Portempa stato de viva&jcirc;o, kiu prezentas plurajn sinsekvajn formojn:
+        <ekz>
+          la porka&jcirc;a tenio <klr>[&#x2026;]</klr> trovi&gcirc;as, de tempo al tempo,
+          en la sama homo en amba&ubreve; evolustadioj: kaj kiel larvo kaj kiel adolto
+          <fnt>
+            <aut>R. Sachs</aut>
+            <vrk><url ref="&STEB;medicino/medicina-parazitologio/medicina-parazitologio.htm">Medicina Parazitologio</url></vrk>
+            <lok>Scienca Revuo, 2001, printempo</lok>
+        </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="period.0o">periodo</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Stadium</trd>,
+      <trd>Etappe</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>stage</trd>,
+      <trd>period</trd>,
+      <trd>phase</trd>
+    </trdgrp>
+    <trd lng="fr">stade<klr tip="ind"> (phase)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>st&aacute;dium</trd>,
+      <trd>szakasz</trd>
+    </trdgrp>
+    <trd lng="id">stadium</trd>
+    <trd lng="it">stadio<klr> (fase)</klr></trd>
+    <trdgrp lng="hr">
+      <trd>stadij</trd>,
+      <trd>faza</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>estadio</trd>,
+      <trd>fase</trd>
+      <trd>etapa</trd>
+    </trdgrp>
+    <trd lng="nl">stadium</trd>
+    <trd lng="pl">stadium</trd>
+    <trd lng="ro">stadiu</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_t;&c_a;&c_d;&c_i;&c_ja;</trd>,
+      <trd>&c_e;&c_t;&c_a;&c_p;</trd>,
+      <trd>&c_f;&c_a;&c_z;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="stadi.0o.unuo">
+    <dif>
+      Antikva greka <ref tip="lst" cel="unu.mezur0o" lst="voko:longoj">mezurunuo</ref> de
+      vojlongo,
+      egala al 600 <ref tip="prt" cel="fut.0o">futoj</ref> kaj
+      valoranta proksimume 180 <ref cel="metr.0o.unuo">metrojn</ref>:
+      <ekz>
+        la perimetro de la lando estis ducent kvardek <tld/>oj
+        <fnt>
+          <aut>Lukiano, trad. G. Berveling</aut>
+          <vrk><url ref="http://www.esperanto.gr/lit/els/rakontoj.pdf">
+          Veraj rakontoj</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Stadion</trd>
+    <trd lng="en">stadium <klr tip="ind"> (Greek measure)</klr></trd>
+    <trd lng="fr">stade<klr tip="ind"> (mesure)</klr></trd>
+    <trd lng="hu">stadion<klr tip="ind">
+    (hosszm&eacute;rt&eacute;k)</klr></trd>
+    <trd lng="hr">stadij</trd>
+    <trd lng="it">stadio<klr> (misura)</klr></trd>
+    <trd lng="nl">stadie</trd>
+    <trd lng="pl">stadion <klr>(jednostka
+    d&lstroke;ugo&sacute;ci)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_t;&c_a;&c_d;&c_i;&c_j;</trd>,
+      <trd>&c_s;&c_t;&c_a;&c_d;&c_i;&c_ja; <klr tip="amb">(&c_je;&c_d;&c_i;&c_n;&c_i;&c_c;&c_a;
+      &c_d;&c_l;&c_i;&c_n;&c_y;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="stadi.0o.stadiono">
+    <uzo tip="stl">ARK</uzo>
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="dif" cel="stadio.0o">Stadiono</ref>.
+    </dif>
+    <trd lng="de">Stadion</trd>
+    <trd lng="hu">stadion</trd>
+    <trd lng="id">stadion</trd>
+    <trd lng="it">stadio<klr> (spo.)</klr></trd>
+    <trd lng="hr">stadion</trd>
+    <trd lng="nl">stadion</trd>
+  </snc>
+  <snc mrk="stadi.0o.haltejo">
+    <uzo tip="stl">ARK</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Loko, kie militista trupo a&ubreve; voja&gcirc;antoj haltas por pasigi
+      nokton.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="etap.0o">etapo</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Rastplatz</trd>,
+      <trd>Etappenort</trd>,
+      <trd>Etappenziel</trd>,
+      <trd>Etappe</trd>
+    </trdgrp>
+    <trd lng="hu">pihen&odblac;&aacute;llom&aacute;s</trd>
+    <trd lng="it">tappa<klr> (riposo)</klr></trd>
+    <trd lng="nl">overnachtingsplaats</trd>
+    <trd lng="ru">&c_e;&c_t;&c_a;&c_p; <klr tip="amb">(&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_a;)</klr></trd>
+  </snc>
+  <snc mrk="stadi.0o.interhalteja_distanco">
+    <uzo tip="stl">ARK</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Mar&scirc;ota distanco inter du tiaj lokoj.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="etap.0o">etapo</ref>.
+    </refgrp>
+    <trd lng="de">Tagesmarsch</trd>
+    <trd lng="hu">menetszakasz</trd>
+    <trd lng="it">tappa<klr> (distanza)</klr></trd>
+    <trd lng="nl">stadium</trd>
+    <trd lng="ru">&c_d;&c_n;&c_je;&c_v;&c_n;&c_o;&c_j; &c_p;&c_je;&c_r;&c_je;&c_h;&c_o;&c_d;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>f&aacute;ze nemoci</trd>,
+    <trd>stadium</trd>,
+    <trd>stav</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6BB5;&#x968E;  <pr>&#x304D;&#x3056;&#x306F;&#x3057;</pr></trd>,
+    <trd>&#x7A0B;&#x5EA6;  <pr>&#x3066;&#x3044;&#x3069;</pr></trd>,
+    <trd>&#x6642;&#x671F;  <pr>&#x3058;&#x304D;</pr></trd>,
+    <trd>&#x30B9;&#x30BF;&#x30B8;&#x30AA;&#x30F3;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>etapa</trd>,
+    <trd>f&aacute;za</trd>,
+    <trd>&scaron;t&aacute;dium</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x442;&#x430;&#x434;&#x456;&#x44F;</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x456;&#x43E;&#x434;</trd>,
+    <trd>&#x435;&#x442;&#x430;&#x43F;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.26 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.24 2021/04/21 08:58:03
+Bart Demeyere: faz.0o -> faz0o.stadio
+
+versio 1.23 2021/01/07 23:01:44
+Jeromo Vasxe: rerangx snc k ref
+
+Revision 1.21  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/07/29 08:10:25  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.19  2010/06/12 16:30:39  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2008/10/30 19:25:42  revo
+-->
+</vortaro>

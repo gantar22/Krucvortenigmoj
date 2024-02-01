@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: frikat.xml,v 1.27 2023/10/14 19:15:46 revo Exp $">
+  <kap>
+    <rad>frikativ</rad>/o <fnt><bib>PV</bib></fnt>
+  </kap>
+
+<drv mrk="frikat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="frikat.0o.FON">
+  <uzo tip="fak">FON</uzo>
+    <dif>
+      <ref tip="dif" cel="frot.0sono.FON">Frotsono<sncref/></ref>:
+      <ekz>
+        unu el la plej konataj vortoj de Inuktituto, 
+        &leftquot;<nac>iglu</nac>&rightquot;, estas en <nom>Kalaallisut</nom>
+        &leftquot;<nac>illu</nac>&rightquot; (&ccirc;e tio &leftquot;ll&rightquot; staras por la laterala <tld/>o &leftquot;&#x26C;&rightquot;)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=9293">Gronlanda lingvo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_r;&c_y;&c_k;&c_a;&c_t;&c_y;&c_w;&c_n;&c_y; &c_g;&c_u;&c_k;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_o;&c_h;&c_o;&c_d;&c_n;&c_a; &c_s;&c_malmol;&c_g;&c_l;&c_a;&c_s;&c_n;&c_a;</trd>
+  <trd lng="ca">consonant <ind>fricativa</ind></trd>
+  <trd lng="cs">frikativa</trd>
+  <trdgrp lng="de">
+    <trd>Frikativ</trd>,
+    <trd>Engelaut</trd>,
+    <trd>Reibelaut</trd>
+  </trdgrp>
+  <trd lng="en">fricative</trd>
+  <trd lng="es">fricativa</trd>
+  <trd lng="fa">&a_h;&a_m;&a_kh;&a_w;&a_A;&a_n;
+      <ind>&a_s;&a_A;&f_y;&a_sh;&f_y;</ind></trd>
+  <trdgrp lng="fr">
+    <trd>fricative<klr> (subst.)</klr></trd>,
+    <trd>spirante<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x6469;&#x64E6;&#x97F3;  <pr>&#x307E;&#x3055;&#x3064;&#x304A;&#x3093;</pr></trd>
+  <trd lng="nl">fricatief</trd>
+  <trdgrp lng="pl">
+    <trd>g&lstroke;oska szczelinowa</trd>,
+    <trd>frykatywa</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>consoante <ind>constritiva fricativa</ind></trd>,
+    <trd>fricativa</trd>,
+    <trd>consoante <ind>constritiva</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_r;&c_i;&c_k;&c_a;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j; &c_z;&c_v;&c_u;&c_k;</trd>,
+    <trd>&c_s;&c_p;&c_i;&c_r;&c_a;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">tren&aacute; hl&aacute;ska</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_r;&c_i;&#x43A;&c_a;&c_t;&c_i;&c_v;&#x43D;&c_i;&c_j; &c_z;&c_v;&c_u;&#x43A;</trd>,
+    <trd>&c_s;&#x43F;&c_ib;&c_r;&c_a;&#x43D;&c_t;</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.27 2023/10/14 19:15:46
+revo: transskribo per <pr>
+
+versio 1.25 2023/05/03 21:24:00
+Vito Redsky: +trd pl 
+
+  Revision 1.22  2015/07/04 08:37:34  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.21  2015/06/29 16:39:29  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.20  2015/06/29 10:10:16  revo
+  Joop Eggen: +trd bg
+
+  Revision 1.19  2015/01/05 13:10:10  revo
+  Damien Brucker: +mrk cxe snc
+
+  Revision 1.18  2015/01/05 04:10:52  revo
+  Sergio Pokrovskij: -tajperaro
+
+  Revision 1.17  2015/01/04 19:10:18  revo
+-->
+</vortaro>

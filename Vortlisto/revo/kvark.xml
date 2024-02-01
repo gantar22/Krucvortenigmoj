@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kvark.xml,v 1.21 2023/12/03 09:59:05 revo Exp $">
+<kap>
+  <rad>kvark</rad>/o
+      <fnt>
+        <aut>Erich Dieter Krause</aut>:
+        <vrk>Gro&szlig;es W&ouml;rterbuch Esperanto-Deutsch</vrk>.
+        <lok>Leipzig, 1983</lok>
+      </fnt>
+      <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="kvark.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kvark.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Iu el la fundamentaj
+      <ref tip="super" cel="partik2.0o">partikloj</ref>
+      formantaj &ccirc;iujn hadronojn (barjonoj konsistas el tri <tld/>oj,
+      mezonoj el <tld/>o kaj kontra&ubreve;<tld/>o):
+      <ekz>
+        la plejmulto de tiuj apartenas al la
+        <ref tip="malprt" cel="hadron.0o">hadronoj</ref> kaj
+        oni trovis, ke tiuj konsistas el e&ccirc; pli malgrandaj partikloj
+        kiujn oni nomis kaprice &leftquot;<tld/>oj&rightquot;
+	<fnt><aut>John Adcock, tr. Donald Rogers</aut>:
+	  <vrk><url ref="http://www.esperanto.org.nz/kiekiel.html">De kie? Kien? Kaj kiel?</url></vrk></fnt>;
+      </ekz><ekz>
+        La forta nuklea forto a&ubreve; forta interago estas tiu fundamenta
+        forto, kiu kuntenas
+        la nukleojn de atomo <klr>[&#x2026;]</klr> la teorio de la <tld/>oj
+        diras, ke tiu
+        interago kuntenas anka&ubreve; la kvarkojn interne de nukleono
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=27377">Forta nuklea forto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="malprt">
+      <ref cel="barjon.0o">barjono</ref>,
+      <ref cel="hadron.0o">hadrono</ref>,
+      <ref cel="mezon.0o">mezono</ref>,
+      <ref cel="neuxtr2.0o">ne&ubreve;trono</ref>,
+      <ref cel="nukleon.0o">nukleono</ref>,
+      <ref cel="proton.0o">protono</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_v;&c_a;&c_r;&c_k;</trd>
+  <trd lng="ca">quark</trd>
+  <trd lng="de">Quark</trd>
+  <trd lng="en">quark</trd>
+  <trd lng="es">quark</trd>
+  <trd lng="fa">&f_k;&a_w;&a_A;&a_r;&f_k;</trd>
+  <trd lng="fr">quark</trd>
+  <trd lng="hu">kvark</trd>
+  <trd lng="ja">&#x30AF;&#x30A9;&#x30FC;&#x30AF;</trd>
+  <trd lng="nl">quark</trd>
+  <trd lng="pl">kwark</trd>
+  <trd lng="pt">quark</trd>
+  <trd lng="ru">&c_k;&c_v;&c_a;&c_r;&c_k;</trd>
+  <trd lng="sk">kvark</trd>
+  <trdgrp lng="cs">
+    <trd>hypotetick&aacute; element&aacute;rn&iacute; &ccaron;&aacute;stice</trd>,
+    <trd>kvark</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43A;&#x432;&#x430;&#x440;&#x43A;</trd>
+  <trd lng="zh">&#x5938;&#x514B; <pr>ku&#x101;k&#xE8;</pr></trd>
+</drv>
+</art>
+<!--
+$Log: kvark.xml,v $
+versio 1.18 2020/02/17 18:10:19
+Sergio Pokrovskij: kor fnt
+
+Revision 1.17  2020/02/09 04:11:00  revo
+Sergio Pokrovskij: +ekz +fnt
+
+Revision 1.16  2018/12/06 19:10:19  revo
+Wolfram Diestel: +ekz
+
+Revision 1.15  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/01/01 23:10:37  revo
+Marc Rausell: +trd ca
+
+Revision 1.12  2011/08/27 15:10:11  revo
+Jeromo Vasxe: - hipoteza en dif. post grupa atentigo
+
+Revision 1.11  2009/06/29 18:05:09  revo
+-->
+</vortaro>

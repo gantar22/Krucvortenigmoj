@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kapita1.xml,v 1.109 2023/12/03 08:00:22 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kapitan</rad>/o
+</kap>
+<drv mrk="kapita1.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kapita1.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      En terarmeo kaj aerarmeo,
+      <ref tip="super" cel="oficir.0o.MIL">oficiro</ref>, kiu rangas
+      inter <ref cel="leuxte.0o">le&ubreve;tenanto</ref> kaj
+      <ref cel="major.0o">majoro</ref>:
+      <ekz>
+        Jesuo diris al la &ccirc;efpastroj kaj kapitanoj de la templo kaj
+        plia&gcirc;uloj, kiuj venis kontra&ubreve; lin: &ccirc;u vi elvenis kun glavoj
+        kaj bastonoj, kvaza&ubreve; kontra&ubreve; rabiston?
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 22:52</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum ili penis lin mortigi, famo venis al la &ccirc;ef<tld/>o de la
+        kohorto, ke la tuta <nom>Jerusalem</nom> tumultas
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 21:31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la de&jcirc;oranta <tld/>o
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Dekdu per la po&scirc;to</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;telisto forkuris per grandaj pa&scirc;oj al sia <tld/>o kaj diris:
+        en la domo sidas abomena sor&ccirc;istino, &scirc;i spiris sur min kaj
+        gratis
+        mian viza&gcirc;on per siaj longaj fingroj <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La bremenaj muzikistoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kronprinco akompanata de la ministro kaj de la <tld/>oj
+        forrajdis al la armeo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la infanteria <tld/>o forte min forkis: mirinde lerte li,
+        kanajlo, manovras la kartojn
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto dua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Hauptmann</trd>
+    <trd lng="en">captain</trd>
+    <trd lng="fr">capitaine<klr tip="ind"> (grade militaire)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;zados</trd>,
+      <trd>kapit&aacute;ny</trd>
+    </trdgrp>
+    <trd lng="it">capitano</trd>
+    <trd lng="pl">kapitan</trd>
+    <trd lng="ru">
+&c_k;&c_a;&c_p;&c_i;&c_t;&c_a;&c_n;-&c_l;&c_je;&c_j;&c_t;&c_je;&c_n;&c_a;&c_n;&c_t;
+<klr tip="amb"> (&c_v;&c_o;
+    &c_f;&c_l;&c_o;&c_t;&c_je;)</klr></trd>
+  </snc>
+  <snc mrk="kapita1.0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      <ref tip="dif" cel="sxip.0estro">&Scirc;ipestro</ref>:
+      <ekz>
+        la&ubreve; la <tld/>oj, la plej dan&gcirc;era etapo estos la rondnavigado de
+        la Horna Kabo
+        en Suda Ameriko, kiu dividas Atlantikon kaj Pacifikon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2008/009643.php">Jarmila
+          odiseado</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la piloto, <tld/>o <nom>Robinson</nom>, persvadis la <tld/>on de
+        &leftquot;<nom>Pfalz</nom>&#x201D;,
+        ke la &scirc;ipo revenu en la havenon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Henry Broadbent</aut>
+          <vrk><url ref="&Monato;/2014/011364.php">La unua
+          pafo okazis en A&ubreve;stralio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la brita <tld/>o <nom>James Cook</nom> nomis &gcirc;in Nov-Kaledonio
+        pro &gcirc;ia simileco al lia patrolando Skotlando
+        <fnt>
+          <bib>Monato</bib>
+          <aut>G&eacute;rard Mansel</aut>
+          <vrk><url ref="&Monato;/2014/011366.php">&Ccirc;arma
+          insulo en Pacifiko</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Kapit&auml;n</trd>
+    <trd lng="en">captain</trd>
+    <trd lng="fr">capitaine<klr tip="ind"> (de navire)</klr></trd>
+    <trd lng="hu">haj&oacute;skapit&aacute;ny</trd>
+    <trd lng="it">comandante<klr> (di nave)</klr></trd>
+    <trd lng="pl">kapitan</trd>
+    <trdgrp lng="zh">
+    <trd>&#x673A;&#x957F; <pr>j&#x12B;zh&#x1CE;ng</pr></trd>,
+    <trd>&#x9818;&#x968A; <pr>l&#x1D0;ngdu&#xEC;</pr></trd>,
+    <trd>&#x8239;&#x9577; <pr>chu&#xE1;nzh&#x1CE;ng</pr></trd>,
+    <trd>&#x4E0A;&#x5C09; <pr>sh&#xE0;ngw&#xE8;i</pr></trd>,
+    <trd>&#x5927;&#x5C09; <pr>d&#xE0;w&#xE8;i</pr></trd>,
+    <trd>&#x8230;&#x957F; <pr>ji&#xE0;nzh&#x1CE;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="kapita1.0o.teamestro">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="malprt" cel="team.0o">Team</ref>estro:
+      <ekz>
+         <tld/>o de la bazopilka klubo de Universitato
+         <nom>Harvard</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vus-Tit Zik</aut>
+          <vrk><url ref="&Monato;/2009/009769.php">Iom da
+          historio kaj iom da fiziko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de la serba teamo, traboris nun multe pli bone la
+        italan blokadon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2011/010513.php">Alloga
+          finalo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Mannschaftskapit&auml;n</trd>
+  </snc>
+  <trd lng="af">kaptein</trd>
+  <trd lng="am">&#x12AB;&#x1352;&#x1274;&#x1295;</trd>
+  <trd lng="ar">&a_n;&a_q;&#x64A;&a_b;</trd>
+  <trd lng="az">kapitan</trd>
+  <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_t;&c_a;&c_n;</trd>
+  <trd lng="bn">&#x985;&#x9A7;&#x9BF;&#x9A8;&#x9BE;&#x9AF;&#x9BC;&#x995;</trd>
+  <trd lng="br">kabiten</trd>
+  <trd lng="bs">kapetan</trd>
+  <trd lng="co">cummandante</trd>
+  <trdgrp lng="cs">
+    <trd>kapit&aacute;n</trd>,
+    <trd>setn&iacute;k</trd>
+  </trdgrp>
+  <trd lng="cy">capten</trd>
+  <trd lng="da">kaptajn</trd>
+  <trd lng="es">capit&aacute;n</trd>
+  <trd lng="et">kapten</trd>
+  <trd lng="eu">kapitainak</trd>
+  <trd lng="fy">kaptein</trd>
+  <trd lng="ga">captaen</trd>
+  <trd lng="gd">sgiobair</trd>
+  <trd lng="gl">capit&#xE1;n</trd>
+  <trd lng="gu">&#xA95;&#xAC7;&#xAAA;&#xACD;&#xA9F;&#xAA8;</trd>
+  <trd lng="ha">kyaftin</trd>
+  <trd lng="hi">&#x915;&#x92A;&#x94D;&#x924;&#x93E;&#x928;</trd>
+  <trd lng="hmn">nom</trd>
+  <trd lng="hr">kapetan</trd>
+  <trd lng="ht">k&#xF2;mandan</trd>
+  <trd lng="hy">&#x56F;&#x561;&#x57A;&#x56B;&#x57F;&#x561;&#x576;</trd>
+  <trd lng="id">kapten</trd>
+  <trd lng="ig">onyeisi</trd>
+  <trd lng="is">skipstj&#xF3;rinn</trd>
+  <trd lng="ja">&#x30AD;&#x30E3;&#x30D7;&#x30C6;&#x30F3;</trd>
+  <trd lng="jv">kapten</trd>
+  <trd lng="ka">&#x10D9;&#x10D0;&#x10DE;&#x10D8;&#x10E2;&#x10D0;&#x10DC;&#x10D8;</trd>
+  <trd lng="kk">&#x43A;&c_a;&#x43F;&c_i;&c_t;&c_a;&#x43D;</trd>
+  <trd lng="km">&#x1794;&#x17D2;&#x179A;&#x1792;&#x17B6;&#x1793;&#x1780;&#x17D2;&#x179A;&#x17BB;&#x1798;</trd>
+  <trd lng="kn">&#xCA8;&#xCBE;&#xCAF;&#xC95;</trd>
+  <trd lng="ko">&#xC8FC;&#xC7A5;</trd>
+  <trd lng="ku">kaptan</trd>
+  <trd lng="ky">&#x43A;&c_a;&#x43F;&c_i;&c_t;&c_a;&#x43D;</trd>
+  <trd lng="lat">dux</trd>
+  <trd lng="lo">&#xE99;&#xEB2;&#xE8D;&#xEC0;&#xEAE;&#xEB7;&#xEAD;</trd>
+  <trd lng="lt">kapitonas</trd>
+  <trd lng="lv">kapteinis</trd>
+  <trd lng="mg">komandin&#x2019;ny</trd>
+  <trd lng="mi">rangatira</trd>
+  <trd lng="mk">&#x43A;&c_a;&#x43F;&c_je;&c_t;&c_a;&#x43D;</trd>
+  <trd lng="ml">&#xD28;&#xD3E;&#xD2F;&#xD15;&#xD7B;</trd>
+  <trd lng="mn">&c_a;&c_h;&#x43C;&c_a;&c_d;</trd>
+  <trd lng="mr">&#x915;&#x930;&#x94D;&#x923;&#x927;&#x93E;&#x930;</trd>
+  <trd lng="ms">kapten</trd>
+  <trd lng="mt">kaptan</trd>
+  <trd lng="my">&#x1000;&#x1015;&#x1039;&#x1015;&#x1010;&#x102D;&#x1014;&#x103A;</trd>
+  <trd lng="ne">&#x915;&#x92A;&#x94D;&#x924;&#x93E;&#x928;</trd>
+  <trd lng="nl">kapitein</trd>
+  <trd lng="ny">woyendetsa</trd>
+  <trd lng="pa">&#xA15;&#xA2A;&#xA24;&#xA3E;&#xA28;</trd>
+  <trd lng="pl">kapitan</trd>
+  <trd lng="ps">&#x6A9;&#x67E;&#x62A;&a_A;&a_n;</trd>
+  <trd lng="ro">c&abreve;pitan</trd>
+  <trd lng="ru">&c_k;&c_a;&c_p;&c_i;&c_t;&c_a;&c_n;</trd>
+  <trd lng="rw">kapiteni</trd>
+  <trd lng="sd">&#x6AA;&a_y_hamza;&#x67E;&#x67D;&a_n;</trd>
+  <trd lng="si">&#xDB1;&#xDCF;&#xDBA;&#xD9A;</trd>
+  <trdgrp lng="sk">
+    <trd>kapit&aacute;n</trd>,
+    <trd>stotn&iacute;k</trd>
+  </trdgrp>
+  <trd lng="sl">kapetan</trd>
+  <trd lng="sm">kapeteni</trd>
+  <trd lng="sn">mukuru</trd>
+  <trd lng="so">kabtanka</trd>
+  <trd lng="sq">kapiten</trd>
+  <trd lng="st">motsamaisi</trd>
+  <trd lng="su">kapten</trd>
+  <trd lng="sv">kapten</trd>
+  <trd lng="sw">nahodha</trd>
+  <trd lng="ta">&#xB95;&#xBC7;&#xBAA;&#xBCD;&#xB9F;&#xBA9;&#xBCD;</trd>
+  <trd lng="te">&#xC15;&#xC46;&#xC2A;&#xC4D;&#xC1F;&#xC46;&#xC28;&#xC4D;</trd>
+  <trd lng="tg">&#x43A;&c_a;&#x43F;&c_i;&c_t;&c_a;&#x43D;</trd>
+  <trd lng="th">&#xE01;&#xE31;&#xE1B;&#xE15;&#xE31;&#xE19;</trd>
+  <trd lng="tl">kapitan</trd>
+  <trd lng="tt">&#x43A;&c_a;&#x43F;&c_i;&c_t;&c_a;&#x43D;</trd>
+  <trd lng="uk">&#x43A;&c_a;&#x43F;&c_ib;&c_t;&c_a;&#x43D;</trd>
+  <trd lng="ur">&#x6A9;&#x6CC;&#x67E;&#x679;&a_n;</trd>
+  <trd lng="uz">kapitan</trd>
+  <trd lng="vi">&#x111;&#x1ED9;i tr&#x1B0;&#x1EDF;ng</trd>
+  <trd lng="xh">ikhapteni</trd>
+  <trd lng="yi">&#x5E7;&#x5D0;&#x5B7;&#x5E4;&#x5BC;&#x5D9;&#x5D8;&#x5D0;&#x5B7;&#x5DF;</trd>
+  <trd lng="yo">olori</trd>
+  <trd lng="zu">ukaputeni</trd>
+</drv>
+
+<drv mrk="kapita1.korvet0o">
+  <kap>korvet<tld/>o
+  <fnt><bib>PIV1</bib></fnt>
+  </kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      En mararmeo,
+      <ref tip="super" cel="oficir.0o.MIL">oficiro</ref> kun
+      rango ekvivalenta al tiu de <ref cel="major.0o">majoro</ref>:
+      <ekz>
+        la&ubreve; ordono de regna defendoministro <nom>Gustav Noske</nom>
+        de la 3-a de februaro 1919 korvet<tld/>o <nom>Wilfried von
+        Loewenfeld</nom>
+        formis en Kiel el soldatoj de la mararmeo la 3-an mararmean
+        brigadon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=443045">Mararmea
+          brigado von Loewenfeld</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="korvet.0o">korveto</ref>
+  </snc>
+  <trd lng="cs">korvetn&iacute; kapit&aacute;n</trd>
+  <trd lng="de">Korvettenkapit&auml;n</trd>
+  <trd lng="en">lieutenant commander</trd>
+  <trd lng="fr">capitaine de corvette</trd>
+  <trd lng="it">capitano di corvetta</trd>
+  <trd lng="ja">&#x6D77;&#x8ECD;&#x5C11;&#x4F50;  <pr>&#x304B;&#x3044;&#x3050;&#x3093;&#x3057;&#x3087;&#x3046;&#x3055;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>luitenant-ter-zee eerste klas</trd>,
+    <trd>korvetkapitein</trd>
+  </trdgrp>
+  <trd lng="pl">kapitan korwety</trd>
+  <trd lng="ro">c&abreve;pitan corvet&abreve;</trd>
+  <trd lng="ru">&c_k;&c_a;&c_p;&c_i;&c_t;&c_a;&c_n;
+&c_t;&c_r;&c_je;&c_t;&c_mol;&c_je;&c_g;&c_o; &c_r;&c_a;&c_n;&c_g;&c_a;</trd>
+  <trd lng="sk">korvetn&yacute; kapit&aacute;n</trd>
+</drv>
+
+<drv mrk="kapita1.fregat0o">
+  <kap>fregat<tld/>o
+  <fnt><bib>PIV1</bib></fnt>
+  </kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      En mararmeo,
+      <ref tip="super" cel="oficir.0o.MIL">oficiro</ref> kun
+      rango ekvivalenta al tiu de <ref cel="kolone.sub0o">subkolonelo</ref>:
+      <ekz>
+        en 1844, <nom>Charlotte French</nom> naski&gcirc;is en
+        <nom>Ripple</nom>,
+        en <nom>Kent</nom>, Britio, filino de irlanda mararmea
+        fregat<tld/>o
+        <nom>William French</nom>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=334360">Charlotte
+          Despard</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="fregat.0o.MIL">fregato</ref>
+  </snc>
+  <trd lng="cs">fregatn&iacute; kapit&aacute;n</trd>
+  <trd lng="de">Fregattenkapit&auml;n</trd>
+  <trd lng="en">commander</trd>
+  <trd lng="fr">capitaine de fr&eacute;gate</trd>
+  <trd lng="it">capitano di fregata</trd>
+  <trd lng="ja">&#x6D77;&#x8ECD;&#x4E2D;&#x4F50;  <pr>&#x304B;&#x3044;&#x3050;&#x3093;&#x3061;&#x3085;&#x3046;&#x3055;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>kapitein-luitenant-ter-zee</trd>,
+    <trd>fregatkapitein</trd>
+  </trdgrp>
+  <trd lng="pl">kapitan fregaty</trd>
+  <trd lng="ro">c&abreve;pitan de fregata</trd>
+  <trd lng="ru">&c_k;&c_a;&c_p;&c_i;&c_t;&c_a;&c_n;
+&c_v;&c_t;&c_o;&c_r;&c_o;&c_g;&c_o; &c_r;&c_a;&c_n;&c_g;&c_a;</trd>
+  <trd lng="sk">fregatn&yacute; kapit&aacute;n</trd>
+  <trd lng="uk">&#x43A;&c_a;&#x43F;&c_ib;&c_t;&c_a;&#x43D; 2-&c_g;&#x43E; &c_r;&c_a;&#x43D;&c_gu;&c_u;</trd>
+</drv>
+
+<drv mrk="kapita1.vesel0o">
+  <kap>vesel<tld/>o
+  <fnt><bib>PIV1</bib></fnt>
+  </kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      En mararmeo,
+      <ref tip="super" cel="oficir.0o.MIL">oficiro</ref> kun
+      rango ekvivalenta al tiu de <ref cel="kolone.0o">kolonelo</ref>:
+      <ekz>
+        <nom>L&eacute;onard Victor Charner</nom> <klr>[&#x2026;]</klr> vesel<tld/>o en
+        1841,
+        kaj balda&ubreve; oficiro de la Honora Legio, li estis komisiita, en la
+        lastaj
+        jaroj de la regno de Ludoviko-Filipo la 1-a pri diversaj maraj
+        komandadoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=474145">L&eacute;onard
+          Victor Charner</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="vesel.0o">veselo</ref>
+    <adm>
+      Tiu nocio estas iom neklara: la&ubreve; iuj fontoj &leftquot;veselo&rightquot; estas simple
+      malnova nomo por
+      (milita vel)&scirc;ipo...
+      La veslkapitano en la supra ekzemplo la&ubreve; aliaj fontoj estis
+      admiralo.
+    </adm>
+  </snc>
+  <trd lng="cs">kor&aacute;bn&iacute; kapit&aacute;n</trd>
+  <trdgrp lng="de">
+    <trd>Kapit&auml;n zur See</trd>,
+    <trd>Marineoberst</trd>
+  </trdgrp>
+  <trd lng="en">captain</trd>
+  <trd lng="fr">capitaine de vaisseau</trd>
+  <trd lng="it">capitano di vascello</trd>
+  <trd lng="ja">&#x6D77;&#x8ECD;&#x5927;&#x4F50;  <pr>&#x304B;&#x3044;&#x3050;&#x3093;&#x305F;&#x3044;&#x3055;</pr></trd>
+  <trd lng="nl">kapitein-ter-zee</trd>
+  <trd lng="pl">komandor</trd>
+  <trd lng="ro">comandor</trd>
+  <trd lng="ru">&c_k;&c_a;&c_p;&c_i;&c_t;&c_a;&c_n;
+&c_p;&c_je;&c_r;&c_v;&c_o;&c_g;&c_o; &c_r;&c_a;&c_n;&c_g;&c_a;</trd>
+  <trd lng="sk">kapit&aacute;n kor&aacute;bu</trd>
+  <trd lng="uk">&#x43A;&c_a;&#x43F;&c_ib;&c_t;&c_a;&#x43D; 1-&c_g;&#x43E; &c_r;&c_a;&#x43D;&c_gu;&c_u;</trd>
+  <trd lng="zh">&#x5927;&#x4F50; <pr>d&#xE0;izu&#x1D2;</pr></trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.108 2023/10/28 09:24:59
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.107 2023/10/18 14:48:09
+revo: transskribo per <pr>
+
+versio 1.105 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.26  2019/03/08 23:10:16  revo
+Vito Redsky: +trd ro +trd pl
+
+Revision 1.25  2018/12/16 17:10:14  revo
+Wolfram Diestel: +ekz-oj, germ trd-oj
+
+Revision 1.24  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2009/08/23 16:33:46  revo
+-->
+</vortaro>

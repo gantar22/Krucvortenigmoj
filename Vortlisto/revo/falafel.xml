@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: falafel.xml,v 1.7 2023/11/09 19:13:15 revo Exp $">
+<kap>
+  <rad>falafel</rad>/o, <var><kap><rad var="fl">falafl</rad>/o</kap></var>
+</kap>
+<drv mrk="falafel.0o">
+  <kap><tld/>o, <var><kap><tld var="fl"/>o</kap></var></kap>
+  <uzo tip="fak">KUI</uzo>
+  <snc mrk="falafel.0o.bulo">
+    <dif>
+      <ref tip="prt" cel="kiker.0o.KUI">Kikero</ref>bulo a&ubreve; fabobulo, 
+      fritita, kiun oni ofte servas en panpo&scirc;o kun legomoj, populara 
+      man&gcirc;a&jcirc;o &ccirc;irka&ubreve; orienta Mediteraneo:
+      <ekz>
+        <klr>[&scirc;i]</klr> preparas <tld var="fl"/>o-bulojn por Israela Vespero
+        <fnt>
+          <vrk><url ref="&LOdE;Eli/dosieroj/saban.pdf">Esti a&ubreve; ne Esti | Raporto de Michal pri la entombiga ceremonio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/2/2c/Bowl_of_falafel.jpg/360px-Bowl_of_falafel.jpg" prm="CC BY-SA 4.0">bovlo kun <tld/>oj
+        <fnt>
+          <aut>EvanProdromou, propra verko</aut>
+          <lok><url ref="&WCW;/File:Bowl_of_falafel.jpg">&WCW;/File:Bowl_of_falafel.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <snc mrk="falafel.0o.plado">
+    <dif>
+      <tld lit="F"/>a&jcirc;o:
+      <ekz>
+        la esperantistaro sidis en cirklo, &gcirc;uis la bongustan <tld/>on 
+        kaj a&ubreve;skultis beduenan rakonton kiun <nom>Mo&scirc;e Ben-Portat'</nom> 
+        <klr>[&#x2026;]</klr> rakontis
+        <fnt>
+          <aut>M. Merla</aut>,
+          <vrk><url ref="http://www.gazetotekolanti.com/kajeroj/k47uktel.htm">
+          UK Tel-Avivo 2000</url></vrk>,
+          <lok>Kajeroj el la Sudo, 2000-10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li kuiris <klr>[&#x2026;]</klr> en la familia <tld/>budo
+        <fnt>
+          <aut>Eliseo</aut>,
+          <vrk><url ref="http://verdaangulo.blogspot.com">Verda 
+          Angulo</url></vrk>,
+          <lok>2008-08-06</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;eno de <tld var="fl"/>orestoracio
+        <fnt>
+          <vrk><url ref="&Viki;/Maoz">Maoz - Vikipedio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_l;&c_ja;&c_f;&c_e;&c_l;&c_mol;</trd>
+  <trd lng="ca">fal&agrave;fel</trd>
+  <trd lng="de">Falafel</trd>
+  <trd lng="en">falafel</trd>
+  <trd lng="fr">falafel</trd>
+  <trdgrp lng="zh">
+    <trd>&#x70B8;&#x8C46;&#x4E38;&#x5B50; <pr>zh&#xE1;d&#xF2;uw&#xE1;nz&#x1D0;</pr></trd>,
+    <trd>&#x70B8;&#x8C46;&#x4E38;&#x5B50; <pr>zh&#xE1;d&#xF2;uw&#xE1;nz&#x1D0;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2022/07/14 07:31:27
+Dmitri Gabinski: + trd be
+
+versio 1.5 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.4 2020/11/09 16:52:29
+Wolfram Diestel: +var, distingu bulo k plado, ekz-oj, bld, germ trd
+
+Revision 1.2  2012/08/10 14:11:06  revo
+Marc Rausell: + trd ca
+
+Revision 1.1  2008/09/04 19:08:07  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

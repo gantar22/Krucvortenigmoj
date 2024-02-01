@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: marsup.xml,v 1.29 2022/04/21 16:51:34 revo Exp $">
+<kap>
+  <rad>marsupi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="marsup.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="marsup.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="dif" cel="posx.ventro0o.ZOO">Ventropo&scirc;o</ref>:
+      <ekz>
+        malgra&ubreve; la nomo de la grupo, ne &ccirc;iuj <tld/>uloj havas <tld/>on; specioj, kiuj
+        grimpas, saltas, fosas a&ubreve; na&gcirc;as ofte havas tre disvolvitajn <tld/>ojn, sed
+        malgrandaj specioj, kiuj vivas sur la grundo povas havi malgrandan, a&ubreve; entute
+        neniun po&scirc;on
+        <fnt>
+          <aut>F. van Hertrooij</aut>
+          <vrk><url ref="https://scivolemo.wordpress.com/2019/10/09/en-la-marsupio-de-panjo/">En la
+          marsupio de panjo</url></vrk>
+          <lok>Scivolemo, 2019-10-09</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_o;&c_r;&c_b;&c_a; <klr>(&c_u; &c_zh;&c_y;&c_v;&c_jo;&c_l;&c_y;)</klr></trd>
+<trd lng="fr">marsupium</trd>
+  <trd lng="uk"><klr>(&c_v;&c_i;&c_v;&#x43E;&c_d;&#x43A;&#x43E;&c_v;&c_a;)</klr> &c_s;&c_u;&#x43C;&#x43A;&c_a; (&c_t;&c_v;&c_a;&c_r;&c_i;&#x43D;&c_i;)</trd>
+</drv>
+
+<drv mrk="marsup.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="marsup.0ulo.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Iu el <ref tip="malprt" cel="marsup.0uloj"><tld/>uloj</ref>.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_o;&c_r;&c_b;&c_a;&c_ch;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_s;&c_u;&c_m;&c_ch;&c_a;&c_t;&c_a;&c_ja; &c_zh;&c_y;&c_v;&c_jo;&c_l;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">va&ccaron;natec</trd>
+  <trd lng="fr">marsupial<klr> (subst.)</klr></trd>
+  <trd lng="pl">torbacz</trd>     
+  <trd lng="ro">marsupial</trd>
+  <trd lng="sk">va&ccaron;kovec</trd>
+</drv>
+
+<drv mrk="marsup.0uloj">
+  <kap>
+    <tld/>uloj
+  </kap>
+  <snc mrk="marsup.0uloj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Ventropo&scirc;uloj,
+      sub<ref tip="lst" cel="klas.0o.BIO" lst="voko:zoologiaj_grupoj">klaso</ref> de <ref
+      tip="malprt" cel="mam.0uloj">mamuloj</ref>,
+      kies inoj surhavas ventran
+      po&scirc;on, subtenatan de ostoj, por gardi tie novnaski&gcirc;intajn idojn
+      (<trd lng="la">Marsupialia</trd>):
+      <ekz>
+        nenio, kio similas niajn terajn fi&scirc;ojn, trovi&gcirc;as sur Ikaro, kaj
+        mankas birdoj, <klr>[&#8230;]</klr> rampuloj kaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj'</aut>
+          <vrk><url ref="&Monato;/2015/011355.php">Komunika&jcirc;o de Ikaro</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_o;&c_r;&c_b;&c_a;&c_ch;&c_n;&c_ib;&c_k;&c_ib;</trd>
+  <trd lng="ca">marsupials</trd>
+  <trd lng="de">Beuteltiere</trd>
+  <trd lng="en">marsupials</trd>
+  <trd lng="fa">&f_k;&f_y;&a_s;&a_h;&#8204;&a_d;&a_A;&a_r;&a_A;&a_n;</trd>
+  <trd lng="fr">marsupiaux<klr> (subst.)</klr></trd>
+  <trd lng="hu">ersz&eacute;nyes eml&odblac;s&ouml;k</trd>
+  <trd lng="nl">buideldieren</trd>
+  <trd lng="pl">torbacze</trd>
+  <trd lng="pt">marsupiais</trd>
+  <trd lng="ro">marsupiale</trd>
+  <trd lng="ru">&c_s;&c_u;&c_m;&c_ch;&c_a;&c_t;&c_y;&c_je; <klr tip="amb">(&c_p;&c_o;&c_d;&c_k;&c_l;&c_a;&c_s;&c_s;
+  &c_m;&c_l;&c_je;&c_k;&c_o;&c_p;&c_i;&c_t;&c_a;&c_ju;&c_shch;&c_i;&c_h;)</klr></trd>
+  <trd lng="uk">&c_s;&c_u;&#x43C;&c_ch;&c_a;&c_s;&c_t;&c_ib;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2022/04/21 16:51:34
+Wolfram Diestel: trd uk: +klr
+
+versio 1.27 2021/12/01 08:36:27
+Dmitri Gabinski: + trd be
+
+versio 1.26 2020/11/08 20:32:13
+Jeromo Vasxe: ~o + ekz
+
+versio 1.25 2020/11/08 18:32:31
+Jeromo Vasxe: + marsupio
+
+versio 1.24 2020/06/30 22:10:36
+Vito Redsky: +trd pl +trd ro  
+
+Revision 1.22  2018/12/02 16:10:14  revo
+Wolfram Diestel: +ekz
+
+Revision 1.21  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:19  revo
+-->
+</vortaro>

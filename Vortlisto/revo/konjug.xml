@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konjug.xml,v 1.42 2023/12/03 09:58:55 revo Exp $">
+<kap>
+  <rad>konjug</rad>/i
+  <fnt><bib>LR</bib></fnt>
+</kap>
+<drv mrk="konjug.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="konjug.0i.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <ref tip="dif" cel="konjug1.0i">Konjugacii</ref>:
+      <ekz>
+        malregula <tld/>ado
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Fonetiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la italaj verboj estas <tld/>ataj kun apartaj fina&jcirc;oj la&ubreve; la
+        persono, kiu estas
+        la subjekto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj'</aut>
+          <vrk><url ref="&Monato;/2014/011154.php">Kerno de la itala lingvo</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>beugen</trd>,
+      <trd>konjugieren</trd>
+    </trdgrp>
+    <trd lng="zh">&#x540C;&#x6839; <pr>t&#xF3;ngg&#x113;n</pr></trd>
+</snc>
+  <trd lng="be">&c_s;&c_p;&c_r;&c_a;&c_g;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>konjugovat</trd>,
+    <trd>sdru&zcaron;ovat</trd>,
+    <trd>spojit</trd>,
+    <trd>spojovat</trd>
+  </trdgrp>
+  <trd lng="hu">(ig&eacute;t) <ind>ragoz</ind></trd>
+  <trd lng="ja">&#x5171;&#x5F79;&#x3059;&#x308B;  <pr>&#x3068;&#x3082;&#x3084;&#x304F;&#x3059;&#x308B;</pr></trd>
+  <trd lng="nl">vervoegen</trd>
+  <trd lng="pl">koniugowa&cacute;</trd> 
+  <trd lng="pt">conjugar</trd>
+  <trd lng="ro">conjuga</trd>
+  <trdgrp lng="sk">
+    <trd>spoji&tcaron;</trd>,
+    <trd>sp&aacute;ja&tcaron;</trd>,
+    <trd>zdru&zcaron;ova&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konjug.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konjug.0o.konjugacio">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <ref tip="dif" cel="konjug1.0o.sistemo">Konjugacio</ref>:
+      <ekz>
+        ri&ccirc;a lingvo do bezonas tute ne deklinaron, <tld/>aron, a&ubreve;
+        sintakson malfacilajn
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_p;&c_r;&c_a;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </snc>
+  <snc mrk="konjug.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      <ref tip="super" cel="bild.0igo.MAT">Bildigo</ref>, kiu &jcirc;etas
+      objekton al &gcirc;ia <ref cel="konjug.0ito.MAT"><tld/>ito</ref>:
+      <ekz>
+        la <tld/>o de kompleksoj estas
+        <ref tip="super" cel="involu1.0o">involucio</ref>.
+      </ekz>
+    </dif>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>konjugace</trd>,
+    <trd>&ccaron;asov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Konjugation</trd>
+  <trd lng="en">conjugation</trd>
+  <trd lng="fr">conjugaison<klr tip="ind"> (math.)</klr></trd>
+  <trd lng="hu">konjug&aacute;l&aacute;s</trd>
+  <trdgrp lng="pl">
+    <trd>odmiana</trd>,
+    <trd>sprz&eogonek;&zdot;enie</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>schimbare</trd>,
+    <trd>asociere</trd>,
+    <trd>cuplare</trd>
+  </trdgrp> 
+  <trd lng="ru">&c_s;&c_o;&c_p;&c_r;&c_ja;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>oh&yacute;banie slovies</trd>,
+    <trd>&ccaron;asovanie</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5171;&#x8EDB;&#x4F5C;&#x7528; <pr>g&#xF2;ng&#xE8;zu&#xF2;y&#xF2;ng</pr></trd>,
+    <trd>&#x52A8;&#x8BCD;&#x53D8;&#x4F4D; <pr>d&#xF2;ngc&#xED;bi&#xE0;nw&#xE8;i</pr></trd>,
+    <trd>&#x5B57;&#x5F62;&#x53D8;&#x5316; <pr>z&#xEC;x&#xED;ngbi&#xE0;nhu&#xE0;</pr></trd>,
+    <trd>&#x6D3B;&#x7528; <pr>hu&#xF3;y&#xF2;ng</pr></trd>,
+    <trd>&#x53D8;&#x4F4D; <pr>bi&#xE0;nw&#xE8;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konjug.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc mrk="konjug.0ajxo.MAT">
+    <ref tip="dif" cel="konjug.0ito.MAT"><tld/>ito.</ref>
+  </snc>
+</drv>
+
+<drv mrk="konjug.0ita">
+  <kap><tld/>ita</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="konjug.0ita.MAT">
+    <subsnc mrk="konjug.0ita.komplekso">
+      <fnt><bib>MatVort</bib><lok>2326</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="komple.0o.MAT">komplekso</ref>, rilate al
+        alia)</klr>
+        Havanta saman <ref cel="part.reela0o">reelan parton</ref>, sed
+        <ref cel="sign.kontraux0a">kontra&ubreve;signan</ref>
+        <ref cel="part.imaginara0o">imaginaran parton</ref>:
+        <ekz>
+          <frm am="1+2*i">1+2&middot;<k>i</k></frm> estas <tld/>ita 
+          rilate al <frm am="1-2*i">1-2&middot;<k>i</k></frm>;
+        </ekz>
+        <ekz>
+          <tld/>ita funkcio <klr>(kies valoroj estas <tld/>itaj rilate
+          al tiuj
+          de la originalo)</klr>;
+        </ekz>
+        <ekz>
+          <tld/>ita matrico <klr>(matrico, kies elementoj estas
+          <tld/>itaj
+          rilate al tiuj de la originalo)</klr>;
+        </ekz>
+        <ekz>
+          la sumo de du <tld/>itaj kompleksoj estas reela;
+        </ekz>
+        <ekz>
+          la produto de du <tld/>itaj kompleksoj egalas al kvadrato de
+          ilia
+          komuna <ref cel="modul.0o.komplekso">modulo</ref>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="konjug.0ita.subgrupo">
+      <dif>
+        <klr>(p.p. <ref cel="grup.sub0o.MAT">subgrupo</ref>
+        <frm am="bb S"><g>S</g></frm>, rilate al subgrupo
+        <frm am="bb T"><g>T</g></frm>)</klr>
+        Tia, ke ekzistas <ref cel="auxtom2.interna0o">interna
+        a&ubreve;tomorfio</ref> de <frm am="bb S"><g>S</g></frm>
+        al <frm am="bb T"><g>T</g></frm>.
+      </dif>
+    </subsnc>
+    <rim>
+      Ekzistas pluraj aliaj matematikaj sencoj por &ccirc;i tiu adjektivo.
+    </rim>
+    <trd lng="be">&c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_n;&c_y;</trd>
+    <trd lng="en">conjugate</trd>
+    <trd lng="de">konjugiert</trd>
+    <trd lng="fr">conjugu&eacute;</trd>
+    <trd lng="hu">konjug&aacute;lt</trd>
+    <trd lng="pl">sprz&eogonek;&zdot;ony</trd>
+    <trd lng="ro">cuplate</trd>
+    <trd lng="ru">&c_s;&c_o;&c_p;&c_r;&c_ja;&c_zh;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>konjugovan&yacute;</trd>,
+    <trd>&ccaron;asovan&yacute;</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5171;&#x5F79;&#x306E;  <pr>&#x3068;&#x3082;&#x3084;&#x304F;&#x306E;</pr></trd>
+  <trd lng="sk">&ccaron;asovan&yacute;</trd>
+</drv>
+
+<drv mrk="konjug.0ito">
+  <kap><tld/>ito</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="konjug.0ito.MAT">
+    <dif>
+      <tld lit="K"/>ita objekto.
+    </dif>
+    <subsnc mrk="konjug.0ito.komplekso">
+      <fnt><bib>PIV1</bib></fnt>
+      <dif>
+        <klr>(de <ref cel="komple.0o.MAT">komplekso</ref>)</klr>
+        &Gcirc;ia <ref cel="konjug.0ita.komplekso"><tld/>ita
+        <sncref ref="konjug.0ita.komplekso"/></ref> nombro:
+        <ekz>
+          la <tld/>iton de <frm am="z"><k>z</k></frm> oni kutime signas
+          per 
+          <frm am="z"><k>z</k></frm> kun supra horizontala
+          streko, nome <frm am="bar z"><k>z&#x305;</k></frm> 
+          <klr> (legu: <nom>zo</nom> trabo)</klr>;
+        </ekz>
+        <ekz>
+          &ccirc;iu komplekso egalas al la <tld/>ito de sia <tld/>ito;
+        </ekz>
+        <ekz>
+          <tld/>ito de matrico,
+        </ekz>
+        <ekz>
+          de funkcio.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_n;&c_y; &c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;&c_n;&c_y;
+      <ind>&c_l;&c_ib;&c_k;</ind></trd>
+      <trd lng="en">conjugate complex <ind>number</ind></trd>
+      <trd lng="de">konjugierte komplexe <ind>Zahl</ind></trd>
+      <trd lng="fr">nombre complexe conjugu&eacute;</trd>
+      <trd lng="hu">konjug&aacute;lt komplex <ind>sz&aacute;m</ind></trd>
+      <trd lng="pl">liczba zespolona sprz&eogonek;&zdot;ona</trd>
+      <trd lng="ro">num&abreve;r complex conjugat</trd>
+      <trd lng="ru">&c_s;&c_o;&c_p;&c_r;&c_ja;&c_zh;&c_jo;&c_n;&c_n;&c_o;&c_je; &c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;&c_n;&c_o;&c_je;
+      <ind>&c_ch;&c_i;&c_s;&c_l;&c_o;</ind></trd>
+    </subsnc>
+    <subsnc mrk="konjug.0ito.subgrupo">
+      <dif>
+        <klr>(de <ref cel="grup.sub0o.MAT">subgrupo</ref>)</klr>
+        Subgrupo, <ref cel="konjug.0ita.subgrupo"><tld/>ita
+        <sncref ref="konjug.0ita.komplekso"/></ref> rilate al &gcirc;i.
+      </dif>
+      <trd lng="be">&c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_n;&c_a;&c_ja;
+      <ind>&c_p;&c_a;&c_d;&c_g;&c_r;&c_u;&c_p;&c_a;</ind></trd>
+      <trd lng="de">konjugierte <ind>Untergruppe</ind></trd>
+      <trd lng="en">conjugate <ind>subgroup</ind></trd>
+      <trd lng="fr">sous-groupe conjugu&eacute;</trd>
+      <trd lng="hu">konjug&aacute;lt <ind>r&eacute;szcsoport</ind></trd>
+      <trd lng="pl">podgrupa sprz&eogonek;&zdot;ona</trd>     
+      <trd lng="ro">subgrup conjugat</trd>      
+      <trd lng="ru">&c_s;&c_o;&c_p;&c_r;&c_ja;&c_zh;&c_jo;&c_n;&c_n;&c_a;&c_ja;
+      <ind>&c_p;&c_o;&c_d;&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;</ind></trd>
+    </subsnc>
+    <rim>
+      Apud <ctl><tld/>ito</ctl> kaj <ctl><tld/>a&jcirc;o</ctl>, kiu
+      anstata&ubreve;as la unuan en <fnt><bib>PIV2</bib></fnt>, iuj provis
+      enkonduki <ctl><tld/>o</ctl> por la sama senco, surbaze de
+      rezonado
+      simila al tiu en <fnt><bib>MatStokTerm</bib><lok>p.
+      97</lok></fnt>. Prave,
+      ke la verbo <ctl><tld/>i</ctl> ne havas fakan sencon, sed tiu,
+      kiun oni
+      povas etimologie rekonstrui estas de la tipo <ctl>meti en rilaton
+      du iel
+      simetriajn objektojn</ctl>. Eblas do diri, ke <frm am="z"><k>z</k></frm>
+      kaj <frm am="bar z"><k>z&#x305;</k></frm> estas <tld/>itaj nombroj, do
+      <tld/>itoj 
+      (certe ne: <tld/>a&jcirc;oj). Tion konsiderante, la malnova formo 
+      <ctl><tld/>ito</ctl> estas logika kaj restas la&ubreve; ni preferinda.
+    </rim>
+  </snc>
+  <trd lng="cs">konjugovan&yacute; prvek</trd>
+  <trd lng="ja">&#x5171;&#x5F79;&#x8907;&#x7D20;&#x6570;  <pr>&#x3068;&#x3082;&#x3084;&#x304F;&#x8907;&#x7D20;&#x6570;</pr></trd>
+  <trd lng="sk">konjugovan&yacute; prvok</trd>
+</drv>
+
+<drv mrk="konjug.mem0ita">
+  <kap>mem<tld/>ita</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="konjug.mem0ita.subgrupo">
+    <dif>
+      <klr>(p.p. <ref cel="grup.sub0o.MAT">subgrupo</ref>)</klr>
+      <ref cel="konjug.0ita.subgrupo"><tld lit="K"/>ita</ref> kun si
+      mem.
+    </dif>
+    <ref tip="sin" cel="invari.0a.subgrupo">invarianta <sncref/></ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_n;&c_v;&c_a;&c_r;&c_y;&c_ja;&c_n;&c_t;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_p;&c_a;&c_d;&c_g;&c_r;&c_u;&c_p;&c_a;)</klr></trd>,
+    <trd>&c_n;&c_a;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_p;&c_a;&c_d;&c_g;&c_r;&c_u;&c_p;&c_a;)</klr></trd>,
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_p;&c_a;&c_d;&c_g;&c_r;&c_u;&c_p;&c_a;)</klr></trd>,
+    <trd>&c_n;&c_a;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y; <klr tip="amb">(&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_k;)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">invariantn&iacute;</trd>
+  <trdgrp lng="de">
+    <trd>invariant<klr tip="ind"> (-e Untergruppe)</klr></trd>,
+    <trd>Normal-<klr tip="amb">(teiler)</klr></trd>,
+    <trd>selbst-konjugiert<klr tip="ind"> (-e Untergruppe)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>invariant<klr tip="ind"> (subgroup)</klr></trd>,
+    <trd>normal<klr tip="ind"> (subgroup)</klr></trd>,
+    <trd>distinguished<klr tip="ind"> (subgroup)</klr></trd>,
+    <trd>self-conjugate<klr tip="ind"> (subgroup)</klr></trd>,
+    <trd>normal<klr tip="ind"> (divisor)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd><klr tip="ind">(sous-groupe) </klr>invariant</trd>,
+    <trd><klr tip="ind">(sous-groupe) </klr>normal</trd>,
+    <trd><klr tip="ind">(sous-groupe) </klr>distingu&eacute;</trd>
+  </trdgrp>
+  <trd lng="hu">invari&aacute;ns <klr tip="ind">(r&eacute;szcsoport)</klr></trd>
+  <trdgrp lng="pl">
+    <trd><klr tip="amb">(podgrupa) </klr>niezmiennicza</trd>,
+    <trd><klr tip="amb">(podgrupa) </klr>normalna</trd>,
+    <trd><klr tip="amb">(dzielnik) </klr>normalny</trd>
+  </trdgrp>
+  <trd lng="ro">subgrup normal</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_n;&c_v;&c_a;&c_r;&c_i;&c_a;&c_n;&c_t;&c_n;&c_a;&c_ja; <klr tip="amb">
+    (&c_p;&c_o;&c_d;&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;)</klr></trd>,
+    <trd>&c_n;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <klr tip="amb">
+    (&c_p;&c_o;&c_d;&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;)</klr></trd>,
+    <trd>&c_s;&c_a;&c_m;&c_o;&c_s;&c_o;&c_p;&c_r;&c_ja;&c_zh;&c_jo;&c_n;&c_n;&c_a;&c_ja; <klr tip="amb">
+    (&c_p;&c_o;&c_d;&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;)</klr></trd>,
+    <trd>&c_n;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;<klr tip="amb"> (&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;)</klr>
+    </trd>
+  </trdgrp>
+  <trd lng="sk">invariantn&yacute;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.41 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.39 2023/04/03 08:31:25
+Dmitri Gabinski: + trd be
+
+versio 1.38 2022/06/07 21:28:16
+Ulrich Fellmann: konjugi: +2 DE trdj
+
+versio 1.37 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.36 2020/04/17 09:10:16
+Damien Brucker: -sncref
+
+versio 1.35 2020/04/17 08:10:18
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.34 2020/04/14 20:10:46
+Wolfram Diestel: +~o GRA, ekz-oj por snc-oj GRA
+
+Revision 1.33  2020/02/15 10:10:16  revo
+-->
+</vortaro>

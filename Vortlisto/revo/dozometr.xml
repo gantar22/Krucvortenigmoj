@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dozometr.xml,v 1.7 2023/10/14 14:40:07 revo Exp $">
+<kap>
+  <rad>dozometr</rad>/o
+</kap>
+<drv mrk="dozometr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dozometr.0o.MEZ">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">MAS</uzo>
+    <dif>
+      Mezurilo de sorbita dozo de joniga radiado:
+      <ekz>
+        la <tld/>oj lan&ccirc;itaj per la kosmo&scirc;ipo estas aplikataj por 
+        mezuri la radidozon ricevitan dum la kosmoveturado
+        <fnt>
+          <aut>T. Papp</aut>,
+          <vrk>Hungara en la kosmo</vrk>,
+          <lok>Debrecena Bulteno, 1980-06 (002)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia edzo a&ccirc;etis <tld/>on, kaj kontrolis radion en kaj &ccirc;irka&ubreve;
+        domo
+        <fnt>
+          <aut>Koharu</aut>,
+          <vrk><url ref="http://koharu-verda.jugem.jp/?day=20110622">
+          [blogo]</url></vrk>,
+          <lok>2011-06-22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_z;&c_ib;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
+  <trd lng="cs">dozimetr</trd>
+  <trd lng="en">dosimeter</trd>
+  <trd lng="fr">dosim&egrave;tre</trd>
+  <trd lng="ja">&#x7DDA;&#x91CF;&#x8A08;  <pr>&#x305B;&#x3093;&#x308A;&#x3087;&#x3046;&#x3051;&#x3044;</pr></trd>
+  <trd lng="sk">dozimeter</trd>
+  <trd lng="uk">&#x434;&#x43E;&#x437;&#x438;&#x43C;&#x435;&#x442;&#x440;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2023/10/14 14:40:07
+revo: transskribo per <pr>
+
+versio 1.4 2021/04/13 11:51:49
+Dmitri Gabinski: +trd be
+
+Revision 1.2  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2013/03/16 02:10:11  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

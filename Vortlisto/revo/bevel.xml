@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bevel.xml,v 1.23 2023/10/29 19:11:01 revo Exp $">
+<kap>
+  <rad>bevel</rad>/o <fnt><aut>P. Christaller</aut>,
+  <vrk>Deutsch-Esperanto W&ouml;rterbuch</vrk>, <lok>1910</lok></fnt>
+</kap>
+
+<drv mrk="bevel.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bevel.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Klintran&ccirc;ita rando:
+      <ekz>
+        <tld/>e tran&ccirc;ita spegulo.
+      </ekz>
+    </dif>
+    <trdgrp lng="zh">
+    <trd>&#x5BF9;&#x5207; <pr>du&#xEC;qi&#x113;</pr></trd>,
+    <trd>&#x5207;&#x89D2; <pr>qi&#xE8;ji&#x1CE;o</pr></trd>,
+    <trd>&#x53BB;&#x89D2; <pr>q&#xF9;ju&#xE9;</pr></trd>,
+    <trd>&#x6709;&#x623F;&#x9593; <pr>y&#x1D2;uf&#xE1;ngji&#x101;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="ca">bisell, biaixat</trd>
+  <trdgrp lng="cs">
+    <trd>kos&aacute; hrana</trd>,
+    <trd>&uacute;kos</trd>
+  </trdgrp>
+  <trd lng="de">schr&auml;ge Kante</trd>
+  <trd lng="en">beveled edge</trd>
+  <trd lng="fr">biseau</trd>
+  <trd lng="he">&#x5D4;&#x5E7;&#x5E6;&#x5E2;&#x5D4; &#x5D1;&#x5E9;&#x5D9;&#x5E4;&#x5D5;&#x5E2;</trd>
+  <trdgrp lng="hu">
+    <trd>ferde <ind>sz&eacute;l</ind></trd>,
+    <trd>fazetta</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30D9;&#x30D9;&#x30EB;</trd>,
+    <trd>&#x659C;&#x9762;  <pr>&#x3057;&#x3083;&#x3081;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">skos</trd>
+  <trd lng="ru">&c_s;&c_k;&c_o;&c_sh;&c_je;&c_n;&c_n;&c_y;&c_j;
+  &c_k;&c_r;&c_a;&c_j;</trd>
+  <trd lng="sk">&scaron;ikmo rezan&yacute; okraj <klr>(zrkadla ap.)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x43A;&#x456;&#x441;</trd>,
+    <trd>&#x441;&#x43A;&#x43E;&#x448;&#x435;&#x43D;&#x438;&#x439; &#x43A;&#x440;&#x430;&#x439;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bevel.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="bevel.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Klintran&ccirc;i.
+    </dif>
+    <trd lng="zh">&#x5207;&#x659C;&#x9762; <pr>qi&#x113;xi&#xE9;mi&#xE0;n</pr></trd>
+</snc>
+  <trd lng="ca">bisellar</trd>
+  <trd lng="cs">zkosit hrany</trd>
+  <trd lng="de">abschr&auml;gen</trd>
+  <trd lng="en">bevel</trd>
+  <trd lng="fr">biseauter</trd>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5E7;&#x5E6;&#x5D9;&#x5E2;
+  &#x5D1;&#x5E9;&#x5D9;&#x5E4;&#x5D5;&#x5E2;</trd>
+  <trdgrp lng="hu">
+    <trd>ferd&eacute;b <ind>v&aacute;g</ind></trd>,
+    <trd>fazett&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x659C;&#x3081;&#x306B;&#x5207;&#x308B;  <pr>&#x306A;&#x306A;&#x3081;&#x306B;&#x304D;&#x308B;</pr></trd>,
+    <trd>&#x9762;&#x53D6;&#x308A;&#x3059;&#x308B;  <pr>&#x304A;&#x3082;&#x3066;&#x3068;&#x308A;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">schuin <ind>afsnijden</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_k;&c_a;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_mol;
+    &c_k;&c_r;&c_a;&c_j;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">&scaron;ikmo reza&tcaron;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.19 2022/02/04 09:26:51
+Noam Mohr: +trd en korektis tajperaron
+
+Revision 1.16  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2011/12/03 15:10:23  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.13  2011/07/14 05:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/06/13 16:32:24  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2005/08/18 16:31:16  revo
+-->
+</vortaro>

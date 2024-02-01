@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: prospe.xml,v 1.22 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>prospekt</rad>/o
+  <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="prospe.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="prospe.0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref cel="reklam.0i.EKON">Reklama</ref> <ref tip="super" cel="pres.0ajxo">presa&jcirc;o</ref>, 
+      ordinare <ref tip="vid" cel="foli.flug0o.TIP">flugfolio</ref>
+      anoncanta la planon de eldonota verko, la malfermon de establejo ktp,
+      kaj disdonata por altiri klientojn:
+      <ekz>
+        li tenis en sia mano <tld/>on de koresponda instituto kaj eksidis sur sia benko
+        por studi la enhavon
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        komuna lingvo, vaste uzata, signifus grandan faciligon por la internacia
+        komerco, precipe por eldonado de <tld/>oj kaj reklamoj
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        diversaj firmoj komencis eldonadi <tld/>ojn, prezarojn kaj katalogojn en
+        Esperanto
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Svedio publikigis atente prizorgitan kolor<tld/>on en Esperanto
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la spektantoj foriris lasinte la <tld/>ojn
+        sur la malplenaj se&gcirc;oj
+        <fnt>
+          <aut>B. Ragnarsson</aut>,
+          <vrk>la&ubreve; neplanitaj padoj</vrk>,
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="katalo.0o">katalogo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_p;&c_e;&c_k;&c_t; <klr>(&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_n;&c_y;)</klr></trd>
+  <trd lng="bg">&c_p;&c_r;&c_o;&c_s;&c_p;&c_je;&c_k;&c_t;</trd>
+  <trdgrp lng="ca">
+    <trd>prospecte</trd>,
+    <trd>reclam</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>prospekt</trd>,
+    <trd>reklamn&iacute; let&aacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Prospekt</trd>,
+    <trd>Werbeschrift</trd>
+  </trdgrp>
+  <trd lng="en">prospectus</trd>
+  <trd lng="fr">prospectus</trd>
+  <trd lng="hu">prospektus</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D1;&#x30F3;&#x30D5;&#x30EC;&#x30C3;&#x30C8;  <pr>&#x3071;&#x3093;&#x3075;&#x308C;&#x3063;&#x3068;</pr></trd>,
+    <trd>&#x6848;&#x5185;&#x66F8;  <pr>&#x3042;&#x3093;&#x306A;&#x3044;&#x3057;&#x3087;</pr></trd>,
+    <trd>&#x5185;&#x5BB9;&#x898B;&#x672C;  <pr>&#x306A;&#x3044;&#x3088;&#x3046;&#x307F;&#x307B;&#x3093;</pr></trd>,
+    <trd>&#x8DA3;&#x610F;&#x66F8;  <pr>&#x3057;&#x3085;&#x3044;&#x3057;&#x3087;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">prospectus</trd>
+  <trdgrp lng="pl">
+    <trd>prospekt <klr>(reklamowy)</klr></trd>,
+    <trd>plakat</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>prospecto</trd>,
+    <trd>avulso</trd>,
+    <trd>folha <klr tip="ind">volante</klr></trd>,
+    <trd>folheto</trd>,
+    <trd>volante</trd>,
+    <trd>filipeta</trd>    
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_k;&c_l;&c_a;&c_m;&c_n;&c_y;&c_j; <ind>&c_p;&c_r;&c_o;&c_s;&c_p;&c_je;&c_k;&c_t;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>propaga&ccaron;n&eacute; tla&ccaron;en&eacute; ozn&aacute;menie</trd>,
+    <trd>prospekt</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&#x440;&#x43E;&#x441;&#x43F;&#x435;&#x43A;&#x442; (&#x43E;&#x43F;&#x438;&#x441;)</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.19 2022/01/29 09:27:07
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.17  2016/09/27 10:10:19  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/05/24 20:10:09  revo
+Jeromo Vasxe: + fak + ekz + ref + trd fr
+
+Revision 1.13  2012/01/02 10:10:32  revo
+Marc Rausell: +trd ca
+
+Revision 1.12  2010/04/10 16:30:19  revo
+-->
+</vortaro>

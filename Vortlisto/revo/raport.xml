@@ -1,0 +1,560 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: raport.xml,v 1.38 2023/10/20 19:20:10 revo Exp $">
+<kap>
+  <ofc>*</ofc> <rad>raport</rad>/i
+</kap>
+
+<drv mrk="raport.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="raport.0i.KOMUNE">
+    <dif>
+      Veni al iu kaj transdoni akiritan informon:
+      <ekz>
+        <tld/>i ion al iu, al iu pri io;
+      </ekz>
+      <ekz>
+        <ind>kion koro portas, viza&gcirc;o <tld/>as</ind>
+        <klr>(malka&scirc;as)</klr>
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+        <trd lng="hu">kinek mi sz&iacute;v&eacute;ben,
+            <ind>kitetszik</ind> sz&iacute;n&eacute;ben</trd>
+      </ekz>
+      <ekz>
+        sendito nur portas, kion oni ordonis li <tld/>as
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+    </dif>
+    <subsnc mrk="raport.0i.vocxe">
+      <dif>
+        Vo&ccirc;e sciigi al iu persono tion, kion oni a&ubreve;dis,
+        vidis, spertis:
+        <ekz>
+          la sklavoj de <nom>Isaak</nom> <klr>[&#x2026;]</klr> <tld/>is al li pri la puto, kiun ili elfosis
+          <fnt>
+            <bib>MT</bib>
+            <lok>&Gen; 26:32</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          oni raportis al <nom>Rebeka</nom> la vortojn de &scirc;ia pli maljuna filo
+          <fnt>
+            <bib>MT</bib>
+            <lok>&Gen; 27:42</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          li iris al la &ccirc;efkapitano kaj <tld/>is
+          <fnt>
+            <bib>NT</bib>
+            <lok>&Ago; 22:26</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          mi povas <tld/>i al vi nova&jcirc;ojn
+          <fnt>
+            <bib>Hamlet</bib>
+          </fnt>;
+        </ekz><ekz>
+          la tutan veron al vi mi <tld/>os
+          <fnt>
+            <bib>Hamlet</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la servantino <klr>[&#x2026;]</klr> <tld/>is al mi, ke ia homo deziras paroli kun mi
+          <fnt>
+            <bib>FK</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          li ne donas al vi <ind>kalkulraporto</ind>n pri &ccirc;i<klr>[o]</klr>
+          <fnt>
+            <bib>MT</bib>
+            <lok>&Ijo; 33:13</lok>
+          </fnt>?
+          <trd lng="de">Rechenschaft</trd>
+        </ekz>
+      </dif>
+      <trdgrp lng="pl">
+        <trd>raportowa&cacute;</trd>,
+        <trd>relacjonowa&cacute;</trd>,
+        <trd>zdawa&cacute; <ind>sprawozdanie</ind></trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>
+        &c_r;&c_a;&c_p;&c_o;&c_r;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;
+        </trd>,
+        <trd>&c_d;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol;</trd>,
+        <trd>
+        &c_d;&c_o;&c_k;&c_l;&c_a;&c_d;&c_y;&c_v;&c_a;&c_t;&c_mol;
+        </trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="raport.0i.dokumente">
+      <dif>
+        Oficiale, plej ofte skribe, komuniki al a&ubreve;toritata
+        persono la dokumentitan rezulton de esploro farita pri iu
+        difinita demando, donante klarigojn kaj konkludojn:
+        <ekz>
+          li kompreneble ne povas <tld/>i pri tiaj aferoj al la re&gcirc;aj mo&scirc;toj
+          <fnt>
+            <bib>FK</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          en sia <tld/>o al la kongreso de Rasoj, <nom>Zamenhof</nom> priskribis <klr>[&#x2026;]</klr>
+          praktikan rimedon por pacigi la vivadon &gcirc;eneralan
+          <fnt>
+            <bib>VivZam</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la esplora ju&gcirc;isto tuj prezentis <tld/>on al la plej alta ju&gcirc;isto, kiu revizis
+          la aferon
+          <fnt>
+            <bib>Far1</bib>
+            <lok>&ccirc;apitro 12a</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>referieren</trd>,
+        <trd>vortragen</trd>
+      </trdgrp>
+      <trd lng="en">scholarly report</trd>
+      <trdgrp lng="pl">
+        <trd>raportowa&cacute;</trd>,
+        <trd>meldowa&cacute;</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_d;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol;</trd>,
+        <trd>
+        &c_d;&c_o;&c_k;&c_l;&c_a;&c_d;&c_y;&c_v;&c_a;&c_t;&c_mol;
+        </trd>,
+        <trd>
+        &c_p;&c_r;&c_je;&c_d;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;
+          &c_r;&c_a;&c_p;&c_o;&c_r;&c_t;</trd>,
+        <trd>
+        &c_o;&c_t;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;
+        </trd>,
+        <trd>
+    &c_o;&c_t;&c_ch;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;
+        </trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="atest.0i">atesti</ref>,
+    <ref cel="inform.0i">informi</ref>,
+    <ref cel="refer.0i">referi</ref>
+  </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_s;&c_p;&c_r;&c_a;&c_v;&c_a;&c_z;&c_d;&c_a;&c_ch;&c_u;</ind></trd>,
+    <trd>&c_r;&c_a;&c_p;&c_a;&c_r;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_je;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_r;&c_e;&c_p;&c_a;&c_r;&c_t;&c_a;&c_zh;</ind></trd>
+   </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_d;&c_o;&c_k;&c_l;&c_a;&c_d;&c_v;&c_a;&c_m;</trd>,
+    <trd>&c_s;&c_malmol;&c_o;&c_b;&c_shch;&c_a;&c_v;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trd lng="de">berichten</trd>
+  <trd lng="en">report</trd>
+  <trdgrp lng="es">
+    <trd>contar</trd>,
+    <trd>informar</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&f_g;&a_z;&a_A;&a_r;&a_sh; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&f_g;&a_z;&a_A;&a_r;&a_sh; &a_d;&a_A;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>pr&eacute;senter un <ind>rapport</ind></trd>,
+    <trd>rapporter<klr> (t&eacute;moigner de)</klr></trd>,
+    <trd>t&eacute;moigner de</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>jelent</trd>,
+    <trd>besz&aacute;mol</trd>,
+    <trd>tud&oacute;s&iacute;t</trd>,
+    <trd>elmes&eacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5831;&#x544A;&#x3059;&#x308B;  <pr>&#x307B;&#x3046;&#x3053;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x4F1D;&#x3048;&#x308B;  <pr>&#x3064;&#x305F;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x5831;&#x9053;&#x3059;&#x308B;  <pr>&#x307B;&#x3046;&#x3069;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7B54;&#x7533;&#x3059;&#x308B;  <pr>&#x3068;&#x3046;&#x3057;&#x3093;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>verslag uitbrengen</trd>,
+    <trd>raporteren</trd>
+  </trdgrp>
+  <trd lng="pt">reportar</trd>
+  <trdgrp lng="sk">
+    <trd>hl&aacute;si&tcaron;</trd>,
+    <trd>pod&aacute;va&tcaron; spr&aacute;vu</trd>,
+    <trd>referova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hl&aacute;sit</trd>,
+    <trd>meldovat <klr>(zast.)</klr></trd>,
+    <trd>pod&aacute;vat hl&aacute;&scaron;en&iacute;</trd>,
+    <trd>pod&aacute;vat report&aacute;&zcaron;</trd>,
+    <trd>pod&aacute;vat zpr&aacute;vu</trd>,
+    <trd>referovat</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_a;&c_p;&c_o;&c_r;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_v;&c_ib;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_ib;&c_d;&c_o;&c_m;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_je;&c_s;&c_t;&c_i; &c_r;&c_je;&c_p;&c_o;&c_r;&c_t;&c_a;&c_zh;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="raport.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="raport.0o.KOMUNE">
+    <dif>
+      Transdono de akirita informo.
+    </dif>
+    <subsnc mrk="raport.0o.vocxa">
+      <dif>
+        <ref tip="super" cel="klar.0igo">Klarigo</ref> pri <ref cel="spert.0o">sperto</ref> al iu, 
+        kiu ne mem spertis:
+        <ekz>
+          mi alportis al li <tld/>on la&ubreve; mia konscienco
+          <fnt>
+            <bib>MT</bib>
+            <lok>&Jos; 14:7</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          postulu de ili kalkulan <tld/>on pri la mono, transdonita en iliajn manojn
+          <fnt>
+            <bib>MT</bib>
+            <lok>&Re2; 22:7</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la <tld/>o pri tio estis a&ubreve;dita de la eklezio
+          <fnt>
+            <bib>NT</bib>
+            <lok>&Ago; 11:22</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <ind>ne &ccirc;iu <tld/>o estas vera vorto</ind>
+          <fnt><bib>PrV</bib></fnt>;
+          <trd lng="hu">nem minden h&iacute;rnek igaz a szava</trd>
+        </ekz><ekz>
+          fari al iu fidelan <tld/>on.
+        </ekz>
+      </dif>
+      <trd lng="hu">besz&aacute;mol&oacute;</trd>
+      <trdgrp lng="pl">
+        <trd>raport</trd>,
+        <trd>relacja</trd>,
+        <trd>sprawozdanie</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="raport.0o.dokumenta">
+      <dif>
+        <ref tip="super" cel="dokume.0o">Dokumento</ref> prezentanta rezulton de tema esploro:
+        <ekz>
+          li estis leginta neniun <tld/>on
+          <fnt>
+            <bib>Metrop</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <nom>Vitalij</nom> estis leganta la <tld/>on pri sia voja&gcirc;o
+          <fnt>
+            <bib>Metrop</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la komandanto trovi&gcirc;is <klr>[&#x2026;]</klr> laborante la redakton de <tld/>o, kiam iu
+          frapis sur lian pordon
+          <fnt>
+            <bib>KPr</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          gazet<tld/>o
+          <fnt>
+            <bib>LSB</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la nekropsia <tld/>o kaj la <tld/>o de la kuracisto <klr>[&#x2026;]</klr> sciigis
+          nenion neatenditan
+          <fnt>
+            <bib>ChB</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la ar&hcirc;ivaj <tld/>oj rivelis neniun interesan fakton
+          <fnt>
+            <bib>ChB</bib>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="disert.0ajxo">diserta&jcirc;o</ref>,
+        <ref cel="refer.0ajxo">refera&jcirc;o</ref>,
+        <ref cel="refera.0o">referato</ref>,
+        <ref cel="protok.0o.raporto">protokolo<sncref/></ref>
+      </refgrp>
+      <trdgrp lng="bg">
+        <trd>&c_d;&c_o;&c_k;&c_l;&c_a;&c_d;</trd>,
+        <trd>&c_r;&c_a;&c_p;&c_o;&c_r;&c_t;</trd>
+      </trdgrp>
+      <trdgrp lng="de">
+        <trd>Bericht</trd>,
+        <trd>Referat</trd>,
+        <trd>Vortrag</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>jelent&eacute;s</trd>,
+        <trd>tud&oacute;s&iacute;t&aacute;s</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>raport</trd>,
+        <trd>meldunek</trd>
+      </trdgrp>
+      <trd lng="pt">relato</trd>
+    </subsnc>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_r;&c_a;&c_v;&c_a;&c_z;&c_d;&c_a;&c_ch;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_p;&c_a;&c_r;&c_t;</trd>,
+    <trd>&c_r;&c_e;&c_p;&c_a;&c_r;&c_t;&c_a;&c_zh;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_r;&c_je;&c_p;&c_o;&c_r;&c_t;&c_a;&c_zh;</trd>,
+    <trd>&c_o;&c_t;&c_ch;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_sa;&t_nyata;&t_na;&t_tsheg;&t_zha;&t_shabchu;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>meldunk <klr>(zast.)</klr></trd>,
+    <trd>meldu&ncaron;k (zast.)</trd>,
+    <trd>raport</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Bericht</trd>
+  </trdgrp>
+  <trd lng="en">report</trd>
+  <trdgrp lng="es">
+    <trd>cuento</trd>,
+    <trd>relato</trd>
+  </trdgrp>
+  <trd lng="fa">&f_g;&a_z;&a_A;&a_r;&a_sh;</trd>
+  <trdgrp lng="fr">
+    <trd>compte rendu</trd>,
+    <trd>rapport<klr tip="amb"> (compte rendu)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5831;&#x544A;  <pr>&#x307B;&#x3046;&#x3053;&#x304F;</pr></trd>,
+    <trd>&#x5831;&#x9053;  <pr>&#x307B;&#x3046;&#x3069;&#x3046;</pr></trd>,
+    <trd>&#x5831;&#x544A;&#x66F8;  <pr>&#x307B;&#x3046;&#x3053;&#x304F;&#x3057;&#x3087;</pr></trd>,
+    <trd>&#x7B54;&#x7533;&#x66F8;  <pr>&#x3068;&#x3046;&#x3057;&#x3093;&#x3057;&#x3087;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>verslag</trd>,
+    <trd>rapport</trd>
+  </trdgrp>
+  <trd lng="pt">relato</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_k;&c_l;&c_a;&c_d;</trd>,
+    <trd>&c_o;&c_t;&c_ch;&c_jo;&c_t;</trd>,
+    <trd>&c_r;&c_a;&c_p;&c_o;&c_r;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hl&aacute;senie</trd>,
+    <trd>refer&aacute;t</trd>,
+    <trd>report&aacute;&zcaron;</trd>,
+    <trd>spr&aacute;va</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_mol;</trd>,
+    <trd>&c_z;&c_v;&c_ib;&c_t;</trd>,
+    <trd>&c_r;&c_a;&c_p;&c_o;&c_r;&c_t;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="raport.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="raport.0isto.INF">
+    <dif>
+      <ref tip="super" cel="jxurna.0isto.INF">&Jcirc;urnalisto</ref>,
+      kiu <tld/>as pri okaza&jcirc;oj, aktuala&jcirc;oj:
+      <ekz>
+        <ind>eksterlandaj <tld/>istoj</ind>
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+        <trd lng="de">Auslandsberichterstatter</trd>
+      </ekz>
+      <ekz>
+        <ind>loka <tld/>isto</ind>
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+        <trd lng="de">Lokalberichterstatter</trd>
+      </ekz>
+      <ekz>
+        <tld/>istoj de Esperanto-gazetoj
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iama <ind>fotoraportisto</ind> de la <nom>Stern</nom> <klr>[&#x2026;]</klr> kunigis ne nur
+        kolekta&jcirc;on de
+        fotoj, sed unikan tuta&jcirc;on de magazinoj kaj &jcirc;urnaloj
+        <fnt>
+          <bib>MD02</bib>
+        </fnt>;
+        <trd lng="de">Fotoreporter</trd>
+      </ekz>
+      <ekz>
+        <ind>radio-televidaj <tld/>istoj</ind>
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+        <trd lng="de">Rundfunkreporter</trd>
+      </ekz>
+      <ekz>
+        inter la mortintoj trovi&gcirc;is konataj <ind>televidaj <tld/>istoj</ind>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Keyhan Sayadpour</aut>
+          <vrk><url ref="&Monato;/2006/008856.php">Embargo kontribuis al katastrofo</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+        <trd lng="de">Fernsehreporter</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_p;&c_a;&c_r;&c_t;&c_e;&c_r;</trd>,
+    <trd>&c_d;&c_a;&c_k;&c_l;&c_a;&c_d;&c_ch;&c_y;&c_k;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_v;&c_ja;&c_sh;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_r;&c_je;&c_p;&c_o;&c_r;&c_t;&c_je;&c_r;</trd>,
+    <trd>&c_d;&c_o;&c_k;&c_l;&c_a;&c_d;&c_ch;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>report&eacute;r</trd>,
+    <trd>zpravodaj</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Berichterstatter</trd>,
+    <trd>Reporter</trd>
+  </trdgrp>
+  <trd lng="en">reporter</trd>
+  <trdgrp lng="es">
+    <trd>reportero</trd>
+  </trdgrp>
+  <trd lng="fa">&f_g;&a_z;&a_A;&a_r;&a_sh;&f_g;&a_r;</trd>
+  <trdgrp lng="fr">
+    <trd>reporter</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tud&oacute;s&iacute;t&oacute;</trd>,
+    <trd>riporter</trd>,
+    <trd>jelent&eacute;stev&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5831;&#x9053;&#x8A18;&#x8005;  <pr>&#x307B;&#x3046;&#x3069;&#x3046;&#x304D;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x5831;&#x9053;&#x54E1;  <pr>&#x307B;&#x3046;&#x3069;&#x3046;&#x3044;&#x3093;</pr></trd>,
+    <trd>&#x901A;&#x4FE1;&#x54E1;  <pr>&#x3064;&#x3046;&#x3057;&#x3093;&#x3044;&#x3093;</pr></trd>,
+    <trd>&#x30EC;&#x30DD;&#x30FC;&#x30BF;&#x30FC;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>verslaggever</trd>,
+    <trd>journalist</trd>,
+    <trd>reporter</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>reporter</trd>,
+    <trd>sprawozdawca</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>rep&oacute;rter</trd>,
+    <trd>relator</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_p;&c_o;&c_r;&c_t;&c_jo;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>report&eacute;r <klr>(novin.)</klr></trd>,
+    <trd>spravodajca</trd>
+  </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&c_p;&c_o;&c_r;&c_t;&c_je;&c_r;</trd>
+</drv>
+
+<drv mrk="raport.mis0o">
+  <kap>
+    mis<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      Mal&gcirc;usta, malvera <tld/>o:
+      <ekz>
+        eblas anka&ubreve; eraroj a&ubreve; mis<tld/>oj, kiuj povas ka&ubreve;zi enlistigon de serviloj, kiuj
+        ne sendas rubpo&scirc;ton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2003/008177.html">Kia solvo por rubpo&scirc;to?</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_a;&c_l;&c_mol;&c_sh;&c_y;&c_v;&c_a;&c_je; <ind>&c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_m;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</ind></trd>,
+    <trd>&c_f;&c_a;&c_l;&c_mol;&c_sh;&c_y;&c_v;&c_a;&c_ja; <ind>&c_s;&c_p;&c_r;&c_a;&c_v;&c_a;&c_z;&c_d;&c_a;&c_ch;&c_a;</ind></trd>
+    <trd>&c_d;&c_e;&c_z;&c_y;&c_n;&c_f;&c_a;&c_r;&c_m;&c_a;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="de">Falschmeldung</trd>
+  <trd lng="en">false report</trd>
+  <trd lng="ja">&#x8AA4;&#x5831;  <pr>&#x3054;&#x307B;&#x3046;</pr></trd>
+  <trd lng="pl">dezinformacja</trd>
+  <trd lng="ro">dezinformare</trd>
+</drv>
+</art>
+  <!--
+  $Log$
+versio 1.38 2023/10/20 19:20:10
+revo: transskribo per <pr>
+
+versio 1.36 2023/03/28 12:49:50
+Dmitri Gabinski: + trd be
+
+versio 1.35 2023/02/25 20:26:52
+Jeromo Vasxe: ~isto: ref super
+
+versio 1.34 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.32 2022/01/24 19:22:41
+Wolfram Diestel: mis~o: +trdj el mis-
+
+versio 1.31 2022/01/24 17:36:58
+Wolfram Diestel: ekz-oj; +mis~o
+
+  Revision 1.28  2015/06/29 16:33:22  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.27  2014/09/19 09:10:11  revo
+-->
+</vortaro>

@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: girlan.xml,v 1.25 2023/11/11 11:36:35 revo Exp $">
+<kap><ofc>1</ofc>
+  <rad>girland</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="girlan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="girlan.0o.KOMUNE">
+    <dif>
+      Ornama &ccirc;ena <ref tip="super" cel="plekt.0ajxo">plekta&jcirc;o</ref> el floroj kaj folioj,
+      kiun oni povas volvi, pendigi...:
+      <ekz>
+        <tld/>oj da artaj rozoj
+        <fnt>
+          <bib>FK</bib>
+          <vrk>La porcio da glacia&jcirc;o</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li portis]</klr> <tld/>ojn al la pordegoj, kaj volis oferi kun la homamasoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 14:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en longaj <tld/>oj tie pendis plej mirindaj grimpokreska&jcirc;oj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        brulantaj lampoj pendis en <tld/>oj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kolo de botelo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj el olivaj kaj la&ubreve;raj folioj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post la ludado li ekhavas <tld/>on el belaj floroj kaj denove li devas ludi
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la brusto estis pendigita <tld/>o el konkoj
+        <fnt>
+          <bib>SatirRak</bib>
+          <lok>La guarbo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="feston.0o">festono</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_ib;&c_r;&c_l;&c_ja;&c_n;&c_d;&c_a;</trd>
+  <trd lng="ca">garlanda</trd>
+  <trdgrp lng="cs">
+    <trd>girlanda</trd>,
+    <trd>v&ecaron;ncov&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Girlande</trd>,
+    <trd>Blumengewinde</trd>,
+    <trd>Laubgewinde</trd>
+  </trdgrp>
+  <trd lng="en">garland</trd>
+  <trd lng="es">guirnalda</trd>
+  <trdgrp lng="fa">
+    <trd>&f_g;&a_l;&a_b;&a_n;&a_d;</trd>,
+    <trd>&a_t;&a_A;&a_j; &f_g;&a_l;</trd>
+  </trdgrp>
+  <trd lng="fr">guirlande</trd>
+  <trdgrp lng="ja">
+    <trd>&#x82B1;&#x98FE;&#x308A;  <pr>&#x306F;&#x306A;&#x304B;&#x3056;&#x308A;</pr></trd>,
+    <trd>&#x82B1;&#x8F2A;&#x6A21;&#x69D8;  <pr>&#x306F;&#x306A;&#x308F;&#x3082;&#x3088;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>guirlande</trd>,
+    <trd>slinger</trd>
+  </trdgrp>
+  <trd lng="pl">girlanda</trd>
+  <trdgrp lng="pt">
+   <trd>coroa<klr tip="amb"> (de folhas e flores)</klr></trd>,
+   <trd>grinalda</trd>
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_i;&c_r;&c_l;&c_ja;&c_n;&c_d;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>girlanda</trd>,
+    <trd>veniec</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+    <trd>&ccedil;i&ccedil;ekten/yapraktan &ccedil;elenk</trd>,
+    <trd>bezek kordonu</trd>
+  </trdgrp>
+  <trd lng="uk">&c_gu;&c_ib;&c_r;&c_l;&c_ja;&c_n;&c_d;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x82B1;&#x73AF; <pr>hu&#x101;hu&#xE1;n</pr></trd>,
+    <trd>&#x82B1;&#x5F69; <pr>hu&#x101;c&#x1CE;i</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/15 18:38:19
+revo: transskribo per <pr>
+
+versio 1.22 2023/02/08 21:24:30
+Wolfram Diestel: ekz-oj, ref
+
+Revision 1.19  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/08/18 20:10:33  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2011/07/13 19:11:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2011/06/28 10:10:09  revo
+Jeromo Vasxe: retusx. dif kontraste al feston
+
+Revision 1.15  2009/09/10 16:31:19  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2009/08/24 16:32:04  revo
+-->
+</vortaro>

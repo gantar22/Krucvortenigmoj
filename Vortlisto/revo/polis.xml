@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: polis.xml,v 1.21 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>polis</rad>/o
+</kap>
+<drv mrk="polis.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+  <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="super" cel="kontra3.0o">Kontrakto</ref>
+      pri <ref tip="malprt" cel="asekur.0o">asekuro</ref>:
+      <ekz>
+        ofte post subskribo de asekura kontrakto, la asekuro konfirmas la asekuron per dokumento nomata <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=76013">Asekuro</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;&c_v;&c_y; <ind>&c_p;&c_o;&c_l;&c_ib;&c_s;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>pojistka</trd>,
+    <trd>pojistn&aacute; smlouva</trd>
+  </trdgrp>
+  <trd lng="de">Police</trd>
+  <trd lng="en">insurance policy</trd>
+  <trd lng="fr">police<klr> (d'assurance)</klr></trd>
+  <trd lng="hu">biztos&iacute;t&aacute;si k&ouml;tv&eacute;ny</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4FDD;&#x967A;&#x8A3C;&#x5238;  <pr>&#x307B;&#x3051;&#x3093;&#x3057;&#x3087;&#x3046;&#x3051;&#x3093;</pr></trd>,
+    <trd>&#x4FDD;&#x967A;&#x8A3C;&#x66F8;  <pr>&#x307B;&#x3051;&#x3093;&#x3057;&#x3087;&#x3046;&#x3057;&#x3087;</pr></trd>,
+    <trd>&#x4FDD;&#x967A;&#x5951;&#x7D04;  <pr>&#x307B;&#x3051;&#x3093;&#x3051;&#x3044;&#x3084;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">polis</trd>
+  <trd lng="pl">polisa</trd>
+  <trd lng="pt">ap&oacute;lice <klr>(de seguro)</klr></trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_o;&c_j; <ind>&c_p;&c_o;&c_l;&c_i;&c_s;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>poistka <klr>(dokument)</klr></trd>,
+    <trd>poistn&aacute; zmluva</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&#x43E;&#x43B;&#x456;&#x441;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/12/10 16:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.14  2013/05/08 12:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2009/02/15 14:18:02  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/03/08 17:34:36  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/07/17 16:38:22  revo
+-->
+</vortaro>

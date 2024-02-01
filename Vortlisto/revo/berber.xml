@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: berber.xml,v 1.20 2023/08/31 08:48:50 revo Exp $">
+<kap>
+<rad>berberis</rad>/o
+<fnt>Z</fnt>
+</kap>
+<drv mrk="berber.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" lst="voko:botanikaj_genroj" cel="genr.0o.BIO">Genro</ref>
+      el familio <tld/>acoj (<trd lng="la">Berberis</trd>),
+      arbusto kun ru&gcirc;aj, agrable acidetaj beretoj:
+      <ekz>
+        se oni tu&scirc;as bazon de stameno de <tld/>ofloro, la stamenoj abrupte svingi&gcirc;as al
+        la stigmo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=29123">Planta movi&gcirc;o</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/a/a0/Illustration_Berberis_vulgaris0.jpg/462px-Illustration_Berberis_vulgaris0.jpg" prm="PD">botanika ilustra&jcirc;o pri ordinara <tld/>o (Berberis vulgaris)
+        <fnt>
+          <aut>el Prof. Dr. Otto Wilhelm Thom&eacute;: Flora von Deutschland, &Ouml;sterreich und der Schweiz 1885, Gera, Germanujo</aut>
+          <lok><url ref="&WCW;/File:Illustration_Berberis_vulgaris0.jpg">&WCW;/File:Illustration_Berberis_vulgaris0.jpg</url></lok>
+        </fnt>
+    </bld>
+    <adm>
+      Aldonu artikolon "~acoj".
+    </adm>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_r;&c_b;&c_a;&c_r;&c_y;&c_s;</trd>
+  <trd lng="bg">&c_k;&c_i;&c_s;&c_je;&c_l; &c_t;&c_r;&c_malmol;&c_n;</trd>
+  <trd lng="cs">d&rcaron;i&scaron;&tcaron;&aacute;l obecn&yacute; <klr>(dr&aacute;&ccaron;)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Sauerdorn</trd>,
+    <trd>Berberitze</trd>
+  </trdgrp>
+  <trd lng="en">berberis</trd>
+  <trd lng="fa">&a_z;&a_r;&a_sh;&f_k;</trd>
+  <trd lng="fr">&eacute;pine-vinette</trd>
+  <trd lng="hu">borbolya</trd>
+  <trd lng="ja">&#x30E1;&#x30AE;</trd>
+  <trd lng="pl">berberys</trd>
+  <trd lng="ru">&c_b;&c_a;&c_r;&c_b;&c_a;&c_r;&c_i;&c_s;</trd>
+  <trd lng="sk">dr&aacute;&ccaron; <klr>(ker)</klr></trd>
+  <trd lng="sv">berberis</trd>
+  <trd lng="uk">&#x431;&#x430;&#x440;&#x431;&#x430;&#x440;&#x438;&#x441;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.19 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.16  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2009/06/20 18:01:06  revo
+Behnam Tabatabai: korr arabaj/persaj koderoj
+
+Revision 1.13  2009/05/17 16:30:59  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2009/03/10 17:31:29  revo
+Wieland Pusch: +trd bg
+
+Revision 1.11  2009/03/09 17:31:37  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2003/11/28 17:31:04  revo
+-->
+</vortaro>

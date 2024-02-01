@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mikrohistori.xml,v 1.3 2022/11/08 08:41:31 revo Exp $">
+<kap>
+  <rad>mikrohistori</rad>/o <fnt><bib>Viki</bib></fnt>
+</kap>
+
+<drv mrk="mikrohistori.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mikrohistori.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      <ref tip="vid" cel="histor.0o.SCI">Historio<sncref/></ref>
+      prezentanta okaza&jcirc;ojn je la malvasta skalo de unuopaj
+      a&ubreve; familiaj vivoj ene de pli vasta mondo, kontraste al
+      <ref tip="vid" cel="makrohistori.0o.HIS">makrohistorio</ref>:
+      <ekz>
+        la verko de Borsboom funkcias kiel bona ekzemplo de tio,
+        kion historiistoj nomas <tld/>o
+        <fnt>
+          <aut>F. Pita</aut>
+          <vrk>La miozota pejza&gcirc;o en la retrospegulo</vrk>
+          <bib>Monato</bib>
+          <lok>2018:04, p. 24a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_ib;&c_k;&c_r;&c_a;&c_g;&c_ib;&c_s;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="fr">microhistoire</trd>
+  <trd lng="pl">mikrohistoria</trd>     
+  <trd lng="ro">microistorie</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.3 2022/11/08 08:41:31
+Dmitri Gabinski: + trd be
+
+versio 1.2 2020/08/29 21:10:33
+Vito Redsky: +trd pl +trd ro
+-->
+</vortaro>

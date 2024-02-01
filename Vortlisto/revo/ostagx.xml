@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ostagx.xml,v 1.21 2023/10/23 09:25:58 revo Exp $">
+<kap>
+  <rad>osta&gcirc;</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="ostagx.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ostagx.0o.POL">
+    <dif>
+      Homo tenata mallibera, eventuale vivminacata, kontra&ubreve; kio la
+      kaptanto postulas propran sekurecon a&ubreve; ela&ccirc;etan monon kc:
+      <ekz>
+        grupo de molukanoj prenis <tld/>e plenan trajnon da pasa&gcirc;eroj, kio kostis la
+        vivon al deko da <tld/>oj kaj molukanoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="&Monato;/2005/008503.php">Timo kaj necerteco?</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en tempoj de konflikto kaj reciprokaj invadoj <klr>[&#8230;]</klr> oni ne hezitis
+        kapti infanojn kaj virinojn kiel <tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Husejn Al-Amily</aut>
+          <vrk><url ref="&Monato;/2007/009296.php">La vualo, romantika kaj erotika</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por &ccirc;iu <tld/>o liberigita Serbio ricevas dekmilojn da
+        germanaj markoj rekompence
+        <fnt>
+          <aut>Bardhyl Selimi</aut>,
+          <vrk><url ref="&Monato;/2001/007205.html">Voja&gcirc;impresoj, somero
+          2000</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2001/01</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="garant.0ulo">garantiulo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_z;&c_a;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
+  <trd lng="de">Geisel</trd>
+  <trd lng="en">hostage</trd>
+  <trd lng="es">reh&eacute;n</trd>
+  <trd lng="fr">otage</trd>
+  <trd lng="hu">t&uacute;sz</trd>
+  <trd lng="id">sandera</trd>
+  <trd lng="it">ostaggio</trd>
+  <trd lng="ja">&#x4EBA;&#x8CEA;  <pr>&#12402;&#12392;&#12376;&#12385;</pr></trd>
+  <trd lng="nl">gijzelaar</trd>
+  <trd lng="pl">zak&lstroke;adnik</trd>
+  <trd lng="pt">ref&eacute;m</trd>
+  <trd lng="ro">ostatic</trd>
+  <trd lng="ru">&c_z;&c_a;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
+  <trd lng="uk">&c_z;&c_a;&c_r;&c_u;&c_ch;&#x43D;&c_i;&#x43A;</trd>
+</drv>
+
+<drv mrk="ostagx.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ostagx.0igi.POL">
+    <dif>
+      Preni, teni kiel <tld/>on:
+      <ekz>
+        la teroristoj <tld/>igis instruistinon kaj dek du lernejanojn
+        <fnt>
+        <aut>-</aut>,
+        <vrk>E&ubreve;ropo: Osta&gcirc;igi infanojn oni komencis ankora&ubreve; en
+        sovetiaj tempoj</vrk>,
+        <lok>&Gcirc;angalo, 2004-09-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_r;&c_a;&c_c;&c_mol; &c_u; <ind>&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;&c_n;&c_ib;&c_k;&c_ib;</ind></trd>
+  <trd lng="de">in <ind>Geiselhaft</ind> nehmen</trd>
+  <trd lng="en">to take hostage</trd>
+  <trdgrp lng="es">
+    <trd>retener como reh&eacute;n</trd>,
+    <trd>secuestrar</trd>
+  </trdgrp>
+  <trd lng="fr">prendre en <ind>otage</ind></trd>
+  <trd lng="id"><baz>sandera</baz>menyandera</trd>
+  <trd lng="ja">&#x4EBA;&#x8CEA;&#x306B;&#12392;&#x308B;  <pr>&#12402;&#12392;&#12376;&#12385;&#x306B;&#12392;&#x308B;</pr></trd>
+  <trd lng="nl">gijzelen</trd>
+  <trdgrp lng="pl">
+    <trd>by&cacute; pojmanym jako  <ind>zak&lstroke;adnik</ind></trd>,
+    <trd>zosta&cacute;  <ind>zak&lstroke;adnikiem</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>fi luat  <ind>ostatic</ind></trd>,
+    <trd>devenit  <ind/>ostatic</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/23 09:25:58
+Dmitri Gabinski: + trd be
+
+versio 1.20 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.19 2023/10/11 04:28:58
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.17 2023/04/10 08:30:34
+Paul Peeraerts: korekto de erara Monato-ref
+
+versio 1.16 2022/05/01 17:17:01
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.14 2022/01/27 18:32:53
+Wolfram Diestel: +ekz, ref, trd de
+
+versio 1.13 2021/09/06 21:26:59
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.11  2013/09/03 09:10:10  revo
+-->
+</vortaro>

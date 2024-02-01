@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dorlot.xml,v 1.41 2024/01/18 15:26:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>dorlot</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="dorlot.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dorlot.0i.iun">
+    <uzo>(iun)</uzo>
+    <dif>
+      Ameme kaj karese <ref tip="super" cel="trakt.0i.sinteni">trakti</ref>,
+      tro indulgante dezirojn a&ubreve; kapricojn:
+      <ekz>
+        patrinoj <klr>[per kisoj]</klr> <tld/>as siajn infanojn
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        virino <klr>[&#8230;]</klr> <tld/>ita, kiu neniam starigis sian piedon sur la tero pro
+        <tld/>iteco kaj delikateco
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 28:56</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li regalas sin per dol&ccirc;aj bonegaj vinoj kaj <tld/>as siajn kadukajn membrojn en
+        kusenoj el lanugo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la junan <nom>Liszt</nom>, jam elstaran pianiston kaj komencantan komponiston, <tld/>is la
+        damoj de la parizaj salonoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2012/010588.php">Geniulo mondcivitana</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne estis <tld/>ita de l' vivo
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>kiu volas panon, ne <tld/>u la manon</ind>
+        <klr>(ne &scirc;paru penon)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="hu">ha kenyeret akarsz, ne
+        <ind>k&iacute;m&eacute;ld</ind> a kezed</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hard.mal0i">malhardi</ref>,
+      <ref cel="kajxol.0i">ka&jcirc;oli</ref>,
+      <ref cel="kares.0i.felicxigi">karesi<sncref/></ref>,
+      <ref cel="regal.0i.trakti">regali<sncref/></ref>,
+      <ref cel="sibari.0o">sibarito</ref>
+    </refgrp>
+    <adm>
+      Necesus ekz-oj &ccirc;e "malhardi" por pravigi la referencon
+      al &gcirc;i. <aut>MB</aut>
+    </adm>
+    <trdgrp lng="ca">
+      <trd>amoixar</trd>,
+      <trd>acaronar</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>cajoler</trd>,
+      <trd>caresser</trd>,
+      <trd>dorloter</trd>
+    </trdgrp>
+    <trd lng="de">verw&ouml;hnen</trd>
+    <trd lng="es">mimar</trd>
+    <trd lng="nl">verwennen</trd>
+    <trdgrp lng="pl">
+      <trd>rozpieszcza&cacute;</trd>,
+      <trd>rozpuszcza&cacute;<klr> (kogo&sacute;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="dorlot.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <uzo>(ion)</uzo>
+    <dif>
+      Tro favori, tro <ref tip="vid" cel="komple4.0i">komplezi</ref>:
+    </dif>
+    <subsnc mrk="dorlot.0i.indulgi">
+      <uzo tip="stl">FIG</uzo>
+      <dif>
+        Tro indulge permesadi malbona&jcirc;on &ccirc;e iu:
+        <ekz>
+          <tld/>i la fierecon, la maniojn de iu;
+        </ekz>
+        <ekz>
+          <tld/>i serpenton sur sia brusto
+          <fnt>
+            <bib>PrV</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la aliaj registaroj en EU simile senhoneste agadas, da&ubreve;re <tld/>ante
+          malbonkondutan membron
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Franz-Georg R&ouml;ssler</aut>
+            <vrk><url ref="&Monato;/2015/011534.php">Simpla kalkulo</url></vrk>
+            <lok>2015</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="ca">
+        <trd>consentir</trd>,
+        <trd>aviciar</trd>
+      </trdgrp>
+      <trdgrp lng="de">
+        <trd>verw&ouml;hnen</trd>,
+        <trd>sch&uuml;ren</trd>,
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>consentir</trd>,
+        <trd>malcriar</trd>,
+        <trd>viciar</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>encourager<klr tip="ind"> (une faiblesse)</klr></trd>,
+        <trd>flatter<klr tip="ind"> (une faiblesse)</klr></trd>
+      </trdgrp>
+      <trd lng="pl">pob&lstroke;a&zdot;a&cacute;</trd>
+    </subsnc>
+    <subsnc mrk="dorlot.0i.teni">
+      <uzo tip="stl">FIG</uzo>
+      <dif>
+        Da&ubreve;rigi en si ion revatan trovante el &gcirc;i plezuron:
+        <ekz>
+          mi <tld/>as la kvietan esperon, ke <klr>[&#8230;]</klr> mi ne devas repondeci
+          <fnt>
+            <bib>Mortul&Scirc;ip</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          nur fantaziuloj povas <tld/>i tiun &hcirc;imeron;
+        </ekz>
+        <ekz>
+          unu el miaj plej dorlotataj tezoj estas prava: &leftquot;&ccirc;io povas i&gcirc;i nur ankora&ubreve; pli
+          bona&rightquot;
+          <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007121.php">Malbona venko</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 30</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+         <ref cel="gard.0i.konservi">gardi<sncref/></ref>
+      </refgrp>
+      <trdgrp lng="ca">
+        <trd>sustentar</trd>,
+        <trd>alimentar</trd>
+      </trdgrp>
+      <trd lng="de">hegen</trd>
+      <trd lng="es">alimentar</trd>
+      <trdgrp lng="fr">
+        <trd>caresser<klr tip="ind"> (un r&ecirc;ve, un
+        projet)</klr></trd>,
+        <trd>nourrir<klr tip="ind"> (un r&ecirc;ve, un
+        espoir)</klr></trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="dorlot.0i.favori">
+      <uzo tip="stl">FIG</uzo>
+      <dif>
+        Super&scirc;uti per favoroj:
+        <ekz>
+          kiom tiuj kamparanaj fabrikistoj lasas perdi&gcirc;i surkampe en nia frukte <tld/>ata
+          regiono
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Franz-Georg R&ouml;ssler</aut>
+            <vrk><url ref="&Monato;/2015/011613.php">Terpomoj gravedaj</url></vrk>
+            <lok>2015</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          oni <tld/>as la bonsajon per &ccirc;iutaga &scirc;prucado, ta&ubreve;ga sterko, kontrolo de la
+          temperaturo
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Saliko</aut>
+            <vrk><url ref="&Monato;/2007/009228.php">Kultivi bonsajon</url></vrk>
+            <lok>2007</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          ekstera &scirc;tuparo ja devas esti fortika sen aparta <tld/>ado
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Franz-Georg R&ouml;ssler</aut>
+            <vrk><url ref="&Monato;/2010/010074.php">&Scirc;tupoj al malplenaj po&scirc;oj</url></vrk>
+            <lok>2010</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+         <ref cel="fleg.0i">flegi</ref>,
+         <ref cel="zorg.pri0i">prizorgi</ref>
+      </refgrp>
+      <trd lng="ca">afavorir</trd>
+      <trdgrp lng="de">
+        <trd>beschenken</trd>,
+        <trd>vorziehen</trd>
+      </trdgrp>
+      <trd lng="es">favorecer</trd>
+      <trd lng="fr">b&eacute;nir<klr tip="ind"> (r&eacute;pandre ses
+      bienfaits)</klr></trd>
+      <trdgrp lng="pl">
+        <trd>rozpieszcza&cacute;</trd>,
+        <trd>faworyzowa&cacute;</trd>
+      </trdgrp>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="nutr.0i.senton">nutri<sncref/></ref>.
+    </refgrp>
+
+    <trd lng="de">n&auml;hren</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_l;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_l;&c_a;&c_sh;&c_ch;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_g;&c_l;&c_je;&c_z;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>chovat</trd>,
+    <trd>h&yacute;&ccaron;kat</trd>,
+    <trd>laskat</trd>,
+    <trd>mazlit</trd>,
+    <trd>rozmazlovat</trd>
+  </trdgrp>
+  <trd lng="de">h&auml;tscheln</trd>
+  <trd lng="en">pamper</trd>
+  <trdgrp lng="hu">
+    <trd>k&eacute;nyeztet</trd>,
+    <trd>d&eacute;delget</trd>,
+    <trd>melenget</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#29976;&#12420;&#x304B;&#12377;  <pr>&#12354;&#x307E;&#12420;&#x304B;&#12377;</pr></trd>,
+    <trd>&#22823;&#x4E8B;&#x306B;&#12377;&#x308B;  <pr>&#12384;&#12356;&#12376;&#x306B;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>acariciar</trd>,
+    <trd>amimar</trd>,
+    <trd>afagar</trd>,
+    <trd>mimosear</trd>,
+    <trd>favorecer</trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_a;&c_l;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>h&yacute;&ccaron;ka&tcaron;</trd>,
+    <trd>mazna&tcaron;<klr>(sa)</klr></trd>,
+    <trd>rozmazn&aacute;va&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_a;&#x43B;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43F;&c_je;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43D;&c_ib;&c_zh;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_je;&c_s;&c_t;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trd lng="zh">&#25394; <pr>su&#x14D;</pr></trd>
+</drv>
+
+<drv mrk="dorlot.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Tia, ke &gcirc;i <tld/>as:
+      <ekz>
+        <klr>[post tio]</klr> &scirc;i &ccirc;iam estis en bona humoro, al Ejnar &scirc;i estis e&ccirc; <tld/>a
+        <fnt>
+          <bib>ViV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per <tld/>aj vortoj kaj karesoj <klr>[mi]</klr> atingis, ke unu hundo sin
+        ku&scirc;igis sur min kaj la aliaj sin lokis &ccirc;irka&ubreve; mi
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e ili ne ekzistas ofenda a&ubreve; <tld/>a intenco
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vo&ccirc;o de la oratoro devas esti jen sonore plena, jen hakile tran&ccirc;a, jen velure
+        mola, jen infanece <tld/>a
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_ja;&c_sh;&c_ch;&c_o;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_l;&c_a;&c_s;&c_k;&c_a;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">verw&ouml;hnend</trd>
+</drv>
+
+<drv mrk="dorlot.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dorlot.0o.KOMUNE">
+    <dif>
+      Kareso, amema prizorgo:
+      <ekz>
+        sur la brusto an&gcirc;ela lia kapo malbela / en <tld/>o de nun ripozados
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiam mi komprenis, kial mi trovis &ccirc;armaj &scirc;iajn
+        <tld/>ojn, kial &scirc;iaj kisoj estis dol&ccirc;aj
+        <fnt>
+          <aut>M. de Sa Cot</aut>,
+          <vrk>Elrevi&gcirc;o</vrk>,
+          <lok><url ref="http://literaturamondo.org/ke1/KE064-65%281916-0102%29.pdf">
+          Kataluna Esperantisto, 1916-01 &gcirc;is 02</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="best.dorlot0o">dorlotbesto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_l;&c_a;&c_s;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_g;&c_l;&c_je;&c_z;&c_je;&c_n;&c_je;</trd>
+  <trd lng="cs">h&yacute;&ccaron;k&aacute;n&iacute;</trd>
+  <trd lng="de">Verw&ouml;hnung</trd>
+  <trdgrp lng="fr">
+    <trd>cajolerie</trd>,
+    <trd>c&acirc;linerie</trd>
+  </trdgrp>
+  <trd lng="sk">rozmazn&aacute;vanie</trd>
+  <trd lng="zh">&#x9A55;&#x7E31; <pr>ji&amacron;oz&#xF2;ng</pr></trd>
+</drv>
+
+<drv mrk="dorlot.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="dorlot.0igxi.KOMUNE">
+    <dif>
+      Ricevi <tld/>ojn, intimajn plezurojn:
+      <ekz>
+        li ekde infaneco kutimi&gcirc;is al <tld/>i&gcirc;ado;
+      </ekz>
+      <ekz>
+        vi &ccirc;ion permesas al li, kaj do li <tld/>i&gcirc;is
+        <fnt>
+          <aut>E. Uspenskij, trad. A. Gofen</aut>,
+          <vrk><url ref="http://miresperanto.com/por_infanoj/teodoro/05.htm">
+          Onklo Teodoro, la kato kaj la hundo</url></vrk>,
+          <lok>[vidita en 2015]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_je;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_l;&c_a;&c_sh;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_g;&c_l;&c_je;&c_z;&c_ja; &c_s;&c_je;</trd>
+  <trd lng="de"><ind>verw&ouml;hnt</ind> werden</trd>
+  <trd lng="fr">se faire <ind>dorloter</ind></trd>
+  <trd lng="he">&lamed;&he;&tav;&pe;&nun;&qof;</trd>
+  <trd lng="ja">&#x697D;&#12434;&#12377;&#x308B;  <pr>&#x304C;&#x304F;&#12434;&#12377;&#x308B;</pr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_u;&c_s;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_a;&#x43B;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dorlot.el0i">
+  <kap><ofc>*</ofc>el<tld/>i, <var><kap>tro<tld/>i</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Ekscese <tld/>i:
+      <ekz>
+        oni devis plenumi &scirc;ian volon, &ccirc;ar &scirc;i estis tre el<tld/>ita kaj tre obstina
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi estas tro<tld/>ita knabino, ne viro kaj estro
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la knabino, el<tld/>ita per baloj kaj belaj vestoj, ne havis grandan deziron
+        labori
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_mol;&c_p;&c_je;&c_sh;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_g;&c_l;&c_je;&c_z;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="ca">
+    <trd>exal&ccedil;ar</trd>,
+    <trd>amanyagar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>rozmazlit</trd>,
+    <trd>zh&yacute;&ccaron;kat</trd>
+  </trdgrp>
+  <trd lng="de">verziehen <klr>(verw&ouml;hnen)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>g&acirc;ter</trd>,
+    <trd>choyer</trd>
+  </trdgrp>
+  <trd lng="he">&lamed;&he;&shin;&het;&yod;&tav;
+  &bet;&pe;&yod;&nun;&vav;&qof;&yod;&fmem;</trd>
+  <trd lng="ja">&#x904E;&#x4FDD;&#x8B77;&#x306B;&#x80B2;&#12390;&#x308B; 
+  <pr>&#x304B;&#x307B;&#12372;&#x306B;&#x305D;&#12384;&#12390;&#x308B;</pr></trd>
+  <trd lng="sk">rozmazna&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&#x43F;&c_je;&c_s;&c_t;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43F;&c_u;&c_s;&c_t;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.41 2024/01/18 15:26:44
+Dmitri Gabinski: + trd be
+
+versio 1.39 2023/10/14 14:40:07
+revo: transskribo per <pr>
+
+versio 1.37 2023/08/07 08:31:34
+Dmitri Gabinski: + trd be
+
+versio 1.36 2023/04/30 06:30:41
+Paul Peeraerts: Steloj -> monato
+
+versio 1.35 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.32 2021/09/01 18:34:12
+Wolfram Diestel: +~a
+
+versio 1.31 2021/09/01 15:30:41
+Wolfram Diestel: ~i: +ekz-oj, ref-oj, trd de
+
+versio 1.30 2021/08/31 12:47:54
+-->
+</vortaro>

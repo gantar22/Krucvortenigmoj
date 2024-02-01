@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: denar.xml,v 1.25 2023/11/04 13:16:27 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>denar</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="denar.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="denar.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Antikva romia <ref tip="lst" cel="unu.mon0o" lst="voko:monunuoj">monunuo</ref>:
+      <ekz>
+        kial oni ne vendis &ccirc;i tiun &scirc;mira&jcirc;on por tricent
+        <tld/>oj kaj donis al malri&ccirc;uloj?
+        <fnt><bib>NT</bib>, <lok>&Joh; 12:5</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="he">
+    <trd>&#x5DB;&#x5BC;&#x5B6;&#x5E1;&#x5B6;&#x5E3;</trd>,
+    <trd>&#x5DE;&#x5D8;&#x5D1;&#x5E2; &#x5D9;&#x5E9;&#x5DF;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30C7;&#x30CA;&#x30EA;&#x30A6;&#x30B9;&#x9280;&#x8CA8;  <pr>&#x30C7;&#x30CA;&#x30EA;&#x30A6;&#x30B9;&#x304E;&#x3093;&#x304B;</pr></trd>,
+    <trd>&#x30C7;&#x30CB;&#x30FC;&#x30EB;</trd>
+  </trdgrp>
+  <trd lng="lat">denarius</trd>
+  <trd lng="be">&c_d;&c_y;&c_n;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_n;&c_a;&c_r;&c_i;&c_j;</trd>
+  <trd lng="ca">denari</trd>
+  <trd lng="cs">den&#xE1;r</trd>
+  <trd lng="de">Dinar</trd>
+  <trd lng="en">denarius</trd>
+  <trd lng="es">denario</trd>
+  <trd lng="fr">denier</trd>
+  <trd lng="hu">d&eacute;n&aacute;r</trd>
+  <trd lng="id">dinar</trd>
+  <trd lng="pl">denar</trd>
+  <trd lng="pt">den&aacute;rio</trd>
+  <trd lng="ru">&c_d;&c_i;&c_n;&c_a;&c_r;&c_i;&c_j;</trd>
+  <trd lng="sk">den&#xE1;r</trd>
+  <trd lng="uk">&#x434;&#x435;&#x43D;&#x430;&#x440;&#x456;&#x439;</trd>
+  <trd lng="zh">&#x7B2C;&#x7D0D;&#x723E; <pr>d&#xEC;n&#xE0;&#x11B;r</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/14 11:26:53
+revo: transskribo per <pr>
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/10/26 15:10:39  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.17  2013/09/14 17:10:28  revo
+Wolfram Diestel: ref al lst monunuoj, kor. germ trd
+
+Revision 1.16  2013/08/12 11:10:09  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2010/10/30 16:30:46  revo
+Russ Williams: +trd en
+
+Revision 1.14  2008/05/06 16:37:28  revo
+Jeromo Vasxe: kor 1 fnt
+
+Revision 1.13  2007/07/19 16:32:02  revo
+-->
+</vortaro>

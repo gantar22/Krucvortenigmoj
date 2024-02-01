@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: teleks.xml,v 1.6 2024/01/16 01:35:13 revo Exp $">
+<kap>
+  <rad>teleks</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="teleks.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="teleks.0o.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Publika telegrafia sistemo, kiu
+      sendas tekstojn inter <tld/>iloj,
+      disvasti&gcirc;inta en la 1930aj jaroj:
+      <ekz>
+        <tld/>ma&scirc;ino mem estis ege multekosta kaj tial nur sufi&ccirc;e
+        grandaj entreprenoj povis pagi &gcirc;in
+        <fnt>
+          <aut>A. Oberndorfer</aut>,
+          <vrk><url ref="http://esperantomovado.blogspot.fr/2012/03/de-telekso-al-telefakso.html">
+          De telekso al telefakso</url></vrk>,
+          <lok>2012-03-03</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_k;&c_s; <klr>(&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a; &c_s;&c_u;&c_v;&c_ja;&c_z;&c_ib;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>d&#xE1;lnopis</trd>,
+    <trd>telex</trd>
+  </trdgrp>
+  <trd lng="fr">t&eacute;lex<klr> (syst&egrave;me)</klr></trd>
+  <trd lng="pl">teleks</trd>
+  <trdgrp lng="sk">
+    <trd>dia&#x13E;nopis</trd>,
+    <trd>telex</trd>
+  </trdgrp>
+  <trd lng="uk">&c_t;&c_je;&#x43B;&c_je;&#x43A;&c_s;</trd>
+</drv>
+
+<drv mrk="teleks.0ilo">
+  <kap><tld/>ilo,
+  <var><kap><tld/>aparato</kap></var>,
+  <var><kap><tld/>ma&scirc;ino</kap></var></kap>
+  <snc mrk="teleks.0ilo.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      <tld lit="T"/>a terminalo provizita per klavaro
+      a&ubreve; trubenda legilo por sendado de teksto,
+      kaj per presilo por ricevado:
+      <ekz>
+        ekranaj terminaloj ankora&ubreve; ne ekzistis;
+        oni dialogis kun la komputilo per <tld/>ilo
+        <fnt>
+          <aut>R. F&ouml;ssmeier</aut>,
+          <vrk><url ref="http://www.ais-sanmarino.org/kursoj/s1/linukso1/l02.html">
+          Enkonduko al Linukso</url></vrk>,
+          <lok>[2008]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_k;&c_s; <klr>(&c_a;&c_p;&c_a;&c_r;&c_a;&c_t;)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>t&eacute;l&eacute;scripteur</trd>,
+    <trd>t&eacute;lex<klr> (appareil)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">teleks  <klr>(aparat)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2024/01/16 01:35:13
+Vito Redsky: +trd pl 
+
+versio 1.5 2022/05/16 06:43:49
+Dmitri Gabinski: + trd be
+
+Revision 1.2  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2012/04/16 08:10:08  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

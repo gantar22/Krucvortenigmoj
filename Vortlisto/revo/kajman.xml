@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kajman.xml,v 1.15 2023/12/02 21:20:04 revo Exp $">
+<kap>
+  <rad>kajman</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="kajman.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kajman.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="reptil.0o" lst="voko:krokodiluloj">Reptilio</ref> 
+      granda sudamerika,
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">genro</ref> el familio <ref tip="malprt" cel="aligat1.0oj.ZOO">aligatoredoj</ref>
+      (<trd lng="la">Caiman</trd>): 
+      <ekz>
+        inter grandaj kamelioj el Amazonaj teroj, trovi&gcirc;is koloraj 
+        ardeoj, <tld/>oj dikaj kiel porkoj, dek du klakil-serpentoj kaj 
+        or-&scirc;ela testudo
+        <fnt><aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>, <vrk>Cent 
+        Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/4/4c/Brillenkaiman_Caiman_yacare.jpg/640px-Brillenkaiman_Caiman_yacare.jpg" prm="CC BY-SA 4.0">Okulvitra <tld/>o (Caiman yacare)
+        <fnt>
+          <aut>Andreas Trepte, propra verko</aut>
+          <lok><url ref="&WCW;/File:Brillenkaiman_Caiman_yacare.jpg">&WCW;/File:Brillenkaiman_Caiman_yacare.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_j;&c_m;&c_a;&c_n;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_j;&c_m;&c_a;&c_n;</trd>
+  <trd lng="cs">kajman</trd>
+  <trd lng="da">kaiman</trd>
+  <trd lng="de">Kaiman</trd>
+  <trd lng="en">caiman</trd>
+  <trd lng="es">caiman</trd>
+  <trd lng="fr">ca&iuml;man</trd>
+  <trd lng="ja">&#x30AB;&#x30A4;&#x30DE;&#x30F3;</trd>
+  <trd lng="nl">kaaiman</trd>
+  <trd lng="pl">kajman</trd>
+  <trd lng="ro">caiman</trd>
+  <trd lng="ru">&c_k;&c_a;&c_j;&c_m;&c_a;&c_n;</trd>
+  <trd lng="sk">kajman</trd>
+  <trd lng="uk">&#x43A;&c_a;&c_j;&#x43C;&c_a;&#x43D;</trd>
+  <trd lng="zh">&#x51EF;&#x95E8; <pr>k&#x1CE;im&#xE9;n</pr></trd>
+</drv>
+
+<drv mrk="kajman.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <snc>
+    <uzo tip="fak">ESP</uzo>
+    <dif>
+      Paroli en lingvo, konata de neniu &ccirc;eestanto:
+      <ekz>
+        <tld/>i estas <klr>[&#x2026;]</klr> en Esperanta medio paroli lingvon alian ol
+        Esperanton, kiu estas gepatra lingvo de neniu &ccirc;eestanto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=32901">Reptiliumi</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol; &c_n;&c_a; &c_m;&c_o;&c_v;&c_je;, &c_ja;&c_k;&c_u;&c_ju; &c_n;&c_ja; &c_v;&c_je;&c_d;&c_a;&c_ju;&c_c;&c_mol; &c_ib;&c_n;&c_sh;&c_y;&c_ja; &c_s;&c_u;&c_r;&c_a;&c_z;&c_m;&c_o;&c_w;&c_c;&c_y;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.13 2022/06/05 18:34:11
+Dmitri Gabinski: + trd be
+
+versio 1.12 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.9  2018/01/16 20:10:14  revo
+Vito Redsky: +trd ro +trd pl
+
+Revision 1.8  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2013/10/26 09:10:20  revo
+Wolfram Diestel: ref al lst krokodiluloj
+
+Revision 1.5  2013/10/25 16:10:12  revo
+Wolfram Diestel: ref al lst reptilioj
+
+Revision 1.4  2013/09/20 15:10:12  revo
+-->
+</vortaro>

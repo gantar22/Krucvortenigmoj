@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: istm.xml,v 1.24 2023/11/19 10:22:14 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>istm</rad>/o
+</kap>
+<drv mrk="istm.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">GEOG</uzo>
+  <snc mrk="istm.0o.terkolo">
+    <dif>
+      <ref tip="dif" cel="kol.ter0o">Terkolo</ref>:
+      <ekz>
+        homfarita kanalo tra la panama <tld/>o, por la internacia trafiko de &scirc;ipoj inter
+        oceanoj Atlantiko kaj Pacifiko
+        <fnt>
+          <vrk><url ref="https://www.youtube.com/watch?v=vZ1pwetKZ9s">Esperanto - Panama kanalo</url></vrk>
+          <lok>Jutubo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Centra Ameriko estas longa <tld/>o, kiu kuras ekde Jukatano en suda Meksiko &gcirc;is
+        la Panama kanalo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=2865">Centra Ameriko</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_sh;&c_y;&c_je;&c_k;</trd>
+  <trd lng="ca">istme</trd>
+  <trdgrp lng="de">
+    <trd>Isthmus</trd>,
+    <trd>Landenge</trd>
+  </trdgrp>
+  <trd lng="en">isthmus</trd>
+  <trd lng="es">istmo</trd>
+  <trd lng="fr">isthme</trd>
+  <trdgrp lng="hu">
+    <trd>f&ouml;ldszoros</trd>,
+    <trd>isztmosz</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5730;&#x5CE1;  <pr>&#x3061;&#x304D;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x5CE1;&#x90E8;  <pr>&#x304D;&#x3087;&#x3046;&#x3076;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>isthmus</trd>,
+    <trd>landengte</trd>
+  </trdgrp>
+  <trd lng="pt">istmo<klr tip="amb"> (geografia)</klr></trd>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_sh;&c_je;&c_je;&c_k;</trd>
+  <trd lng="sk">zemsk&aacute; &uacute;&zcaron;ina</trd>
+  <trdgrp lng="cs">
+    <trd>istmus</trd>,
+    <trd>pevninsk&aacute; &scaron;&iacute;je</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&#x435;&#x440;&#x435;&#x448;&#x438;&#x439;&#x43E;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5730;&#x8170; <pr>d&#xEC;y&#x101;o</pr></trd>,
+    <trd>&#x5CE1;&#x90E8; <pr>xi&#xE1;b&#xF9;</pr></trd>,
+    <trd>&#x82CF;&#x4F0A;&#x58EB;&#x5730;&#x5CE1; <pr>s&#x16B;y&#x12B;sh&#xEC;d&#xEC;xi&#xE1;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+Revision 1.19  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2009/04/07 16:30:30  revo
+Sergio Pokrovskij: ref-dif=terkolo
+
+Revision 1.16  2008/08/23 16:31:19  revo
+Russ Williams: trd +en
+
+Revision 1.15  2005/12/07 17:32:10  revo
+Luiz Portella: +trd pt
+
+Revision 1.14  2005/04/28 16:35:47  revo
+Raul Salinas Monteagudo: +trd ca; korekto trd es
+
+Revision 1.13  2004/12/26 17:32:27  revo
+-->
+</vortaro>

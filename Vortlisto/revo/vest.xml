@@ -1,0 +1,1202 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vest.xml,v 1.132 2023/12/12 20:10:29 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vest</rad>/i
+  <fnt><bib>UV</bib></fnt>
+</kap>
+
+<drv mrk="vest.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vest.0i.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="super" cel="kovr.0i.surmeti">Kovri</ref> per &scirc;tofoj a&ubreve; peltoj pli malpli
+      al&gcirc;ustigitaj al la korpo
+      por &scirc;irmi kontra&ubreve; malvarmo, suno a&ubreve; ka&scirc;i nudecon:
+      <ekz>
+        simple, sed pure <tld/>ita;
+      </ekz>
+      <ekz>
+        belaj sklavinoj <tld/>itaj en silko kaj oro
+        <fnt><bib>Fab1</bib>, <lok>la virineto de maro</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi estis <klr>[&#8230;]</klr> nuda, kaj vi <tld/>is min
+        <fnt><bib>NT</bib>, <lok>&Mat; 25:35-36</lok></fnt>.
+      </ekz>
+      <ekz>
+        la homo estis tre ri&ccirc;e <tld/>ita, li estis videble grava persono
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        funebre <tld/>ita virino
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        virinoj, <tld/>itaj per atlaso kaj zibelo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>os vin kiel por edzi&gcirc;o
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en silk' brodita en<tld/>itaj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_p;&c_r;&c_a;&c_n;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_a;&c_d;&c_z;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>einkleiden</trd>,
+      <trd>ausstaffieren</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd><baz>baju</baz>membajui</trd>,
+      <trd><baz>kena</baz>mengenakan (pakaian)</trd>,
+      <trd><baz>pakai</baz>memakai (pakaian)</trd>,
+      <trd><baz>pakai</baz>berpakaian</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_d;&c_je;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_d;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="vest.0i.kovri">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Kovri:
+      <ekz>
+        la printempo verde <tld/>is la teron<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        arbaro <tld/>as la monton;
+      </ekz>
+      <ekz>
+        la kampoj <tld/>i&gcirc;as per greno
+        <fnt><bib>MT</bib>, <lok>&Psa; 65:13</lok></fnt>;
+      </ekz>
+      <ekz>
+        sennombraj insuletoj <tld/>itaj de bela verda&jcirc;o;
+      </ekz>
+      <ekz>
+        ladoj el bronzo <tld/>as la murojn;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i&gcirc;u per honto kaj malhonoro tiuj, kiuj fanfaronas
+        kontra&ubreve;
+        mi
+        <fnt><bib>MT</bib>, <lok>&Psa; 35:26</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        plej pura stilo <tld/>anta viglan kaj profundan penson.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mask.0i">maski</ref>,
+      <ref cel="sxirm.0i">&scirc;irmi</ref>,
+      <ref cel="teg.0i">tegi</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_a;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="id"><baz>tutup</baz>menutupi</trd>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_a;&c_k;&c_r;&c_y;&c_t;&c_mol;</trd>,
+      <trd>&c_n;&c_a;&c_k;&c_r;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_o;&c_k;&c_r;&c_y;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_o;&c_k;&c_r;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_b;&c_l;&c_je;&c_ch;&c_mol;</trd>,
+      <trd>&c_o;&c_b;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="af">beklee</trd>
+  <trd lng="am">&#x120D;&#4709;&#4661; &#4632;&#x120D;&#4704;&#4661;</trd>
+  <trd lng="ar">&a_k;&a_s;&a_A;</trd>
+  <trd lng="az">geyindirin</trd>
+  <trd lng="bn">&#2438;&#x9AC;&#x9C3;&#x9A4; &#2453;&#x9B0;&#x9BE;</trd>
+  <trd lng="bs">odijevanje</trd>
+  <trdgrp lng="cs">
+    <trd>obl&eacute;ci</trd>,
+    <trd>obl&eacute;kat</trd>,
+    <trd>od&iacute;t</trd>,
+    <trd>od&iacute;vat <klr>(n&ecaron;koho, n&ecaron;co)</klr></trd>,
+    <trd>strojit</trd>,
+    <trd>ustrojit</trd>
+  </trdgrp>
+  <trd lng="cy">dilladu</trd>
+  <trd lng="da">ikl&aelig;de</trd>
+  <trd lng="de">kleiden</trd>
+  <trd lng="el">&ny;&tau;&ypsilon_ton;&ny;&omega;</trd>
+  <trd lng="en">clothe</trd>
+  <trd lng="es">vestir</trd>
+  <trd lng="et">riietama</trd>
+  <trdgrp lng="fr">
+    <trd>habiller</trd>,
+    <trd>v&ecirc;tir</trd>
+  </trdgrp>
+  <trd lng="fy">bekleden</trd>
+  <trd lng="gd">aodach</trd>
+  <trd lng="gl">levar</trd>
+  <trd lng="gu">&#xAB5;&#xAB8;&#xACD;&#xAA4;&#xACD;&#xAB0;&#xAA8;&#xAC0;</trd>
+  <trd lng="ha">sa</trd>
+  <trd lng="hi">&#2325;&#x92A;&#2337;&#x93C;&#2375;</trd>
+  <trd lng="hmn">hnav khaub ncaws</trd>
+  <trd lng="hr">odijevate</trd>
+  <trd lng="ht">abiye</trd>
+  <trdgrp lng="hu">
+    <trd>(fel)<ind>&ouml;lt&ouml;ztet</ind></trd>,
+    <trd>felad <klr tip="ind">(ruh&aacute;t)</klr></trd>,
+    <trd>felvesz <klr tip="ind">(ruh&aacute;t)</klr></trd>
+  </trdgrp>
+  <trd lng="hy">&#1392;&#1377;&#1379;&#1409;&#1398;&#1381;&#x56C;</trd>
+  <trd lng="ig">uwe</trd>
+  <trd lng="is">kl&aelig;&#xF0;a</trd>
+  <trd lng="ja">&#34915;&#x670D;&#12434;&#30528;&#x305B;&#x308B; <pr>&#12356;&#12405;&#x304F;&#12434;&#x304D;&#x305B;&#x308B;</pr></trd>
+  <trd lng="jv">nglambeni</trd>
+  <trd lng="ka">&#x10E8;&#x10D4;&#x10D9;&#x10D4;&#x10E0;&#x10D8;&#x10DA;</trd>
+  <trd lng="kk">&c_k;&c_i;&c_ib;&c_n;&c_d;&c_ib;&c_r;&c_u;</trd>
+  <trd lng="km">&#6033;&#x17C6;&#6035;&#x17BB;&#6016;&#6036;&#x17C6;&#x179A;&#x17BB;&#6020;</trd>
+  <trd lng="kn">&#xCAC;&#xC9F;&#xCCD;&#xC9F;&#xCC6;&#xC97;&#xCC6;</trd>
+  <trd lng="ko">&#xC758;&#xBCF5;&#xC744; &#xAC78;&#xCE58;&#xB2E4;</trd>
+  <trd lng="ku">lebasl&ecirc;kirin</trd>
+  <trd lng="ky">&c_k;&c_i;&c_j;&c_i;&c_n;&#x4AF;&#x4AF;</trd>
+  <trd lng="lat">induere</trd>
+  <trd
+  lng="lo">&#xEC0;&#xE84;&#xEB7;&#xEC8;&#xEAD;&#xE87;&#xE99;&#xEB8;&#xEC8;&#xE87;&#xEAB;&#xEBB;&#xEC8;&#xEA1;</trd>
+  <trd lng="lt">aprengti</trd>
+  <trd lng="lv">iet&#275;rpt</trd>
+  <trd lng="mg">mitafy</trd>
+  <trd lng="mi">e kakahu ana io</trd>
+  <trd lng="mk">&c_o;&c_b;&c_l;&c_je;&c_ch;&c_je;&c_sh;</trd>
+  <trd
+  lng="ml">&#xD27;&#xD30;&#xD3F;&#xD2A;&#xD4D;&#xD2A;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD02;</trd>
+  <trd lng="mn">&c_h;&c_u;&c_v;&c_c;&c_a;&c_s;&c_l;&c_a;&c_n;</trd>
+  <trd lng="mr">&#2325;&#x92A;&#2337;&#2375; &#x91A;&#2338;&#2357;&#2339;&#2375;</trd>
+  <trd lng="ms">pakaian</trd>
+  <trd lng="mt">b&#8217;saqaf</trd>
+  <trd
+  lng="my">&#4129;&#x101D;&#4112;&#x103A;&#4116;&#x103E;&#4100;&#4151;&#x103A;&#4118;&#x102F;&#4150;&#4152;&#x101C;&#x103D;&#x103E;&#4121;&#x103A;&#4152;</trd>
+  <trd lng="nl">aankleden</trd>
+  <trd lng="ny">kuveka</trd>
+  <trd lng="pa">&#xA38;&#xA1C;&#xA3E;&#xA35;&#xA47;&#xA17;&#xA3E;</trd>
+  <trd lng="ps">&a_j;&a_A;&a_m;&a_h;</trd>
+  <trd lng="pt">vestir</trd>
+  <trd lng="rw">umwambaro</trd>
+  <trd lng="sd">&a_m;&a_l;&a_A;&a_y_hamza;&a_y;&a_n;&a_d;&a_A;</trd>
+  <trd lng="si">&#xD87;&#xDAF;&#xDD4;&#xDB8;&#xDCA;</trd>
+  <trdgrp lng="sk">
+    <trd>obliec&tcaron;</trd>,
+    <trd>&scaron;ati&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sl">oblekli</trd>
+  <trd lng="sm">fa&#x2BB;al&#x15D1;valava</trd>
+  <trd lng="sn">pfeka</trd>
+  <trd lng="so">huwin</trd>
+  <trd lng="sq">vesh</trd>
+  <trd lng="st">apesa</trd>
+  <trd lng="sw">nguo</trd>
+  <trd lng="ta">&#xB89;&#xB9F;&#xBC8;</trd>
+  <trd lng="te">&#xC26;&#xC41;&#xC38;&#xC4D;&#xC24;&#xC41;&#xC32;&#xC41;
+  &#xC27;&#xC30;&#xC3F;&#xC02;&#xC2A;&#xC1C;&#xC47;&#xC2F;&#xC41;</trd>
+  <trd lng="tg">&c_l;&c_i;&c_b;&c_o;&c_s;&c_a;&c_sh;&c_o;&c_n;</trd>
+  <trd lng="th">&#xE15;&#xE01;&#xE41;&#xE15;&#xE48;&#xE07;</trd>
+  <trd lng="tl">damitan</trd>
+  <trdgrp lng="tr">
+    <trd>giymek</trd>,
+    <trd>giyinmek</trd>
+  </trdgrp>
+  <trd lng="tt">&c_k;&c_i;&c_je;&c_n;</trd>
+  <trd lng="uk">&c_o;&c_d;&c_ja;&c_g;&c_n;&c_u;&c_t;&c_i;</trd>
+  <trd lng="ur">&f_k;&f_p;&#1681;&#x6D2;</trd>
+  <trd lng="uz">kiyintirmoq</trd>
+  <trd lng="vi">m&#x1EB7;c</trd>
+  <trd lng="xh">zokumambesa</trd>
+  <trd lng="yi">&alef;&#x5B8;&nun;&tet;&alef;&#x5B8;&fnun;</trd>
+  <trd lng="yo">w&#x1ECD;</trd>
+  <trd lng="zu">wembathise</trd>
+</drv>
+
+<drv mrk="vest.0o">
+  <kap><ofc>*</ofc><tld/>o <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5249">vest'o</url></lok></fnt></kap>
+  <snc mrk="vest.0o.TEKS">
+    <tezrad fak="TEKS"/>
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      &Ccirc;io, per kio oni kovras la korpon:
+      <ekz>
+        surmeti, demeti <tld/>on;
+      </ekz>
+      <ekz>
+        malnova, eluzita <tld/>o
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li faris al li mikskoloran <tld/>on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 37:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li dis&scirc;iris siajn <tld/>ojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 37:29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i kaptis lin je lia vesto, dirante: ku&scirc;i&gcirc;u kun mi, sed li lasis sian <tld/>on
+        en &scirc;iaj manoj kaj forkuris
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 39:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kia drapo, tia <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiun <tld/>o ornamas, tiun homoj ekamas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        valoras ne la <tld/>o <klr>(ekstera &scirc;ajno)</klr> valoras la
+        enesto
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>o homon prezentas</ind>
+        (<ref tip="vid" cel="monahx.0o">mona&hcirc;o</ref>)
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="hu">ruha teszi az embert</trd>
+      </ekz>
+      <ekz>
+        kontra&ubreve; <tld/>o malbona konspiras &ccirc;iu &scirc;tono
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia nigra <tld/>o estis el la plej kara &scirc;tofo
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        civilaj <tld/>oj
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        funebraj <tld/>oj
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lanaj kaj katunaj tali<tld/>oj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tuta <tld/>aro
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la arbaro montris sian multkoloran <tld/>on
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <klr>[<nom>Zamenhof</nom>]</klr> rigardis la diversajn homajn religiojn kvaza&ubreve; malsamajn
+        <tld/>ojn de unu sama vero
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="kostum.0o">kostumo</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_a;&c_p;&c_r;&c_a;&c_n;&c_a;&c_h;&c_a;</trd>,
+    <trd>&c_u;&c_b;&c_o;&c_r;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_o;&c_ib;</trd>,
+    <trd>&c_v;&c_o;&c_p;&c_r;&c_a;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_a;&c_d;&c_z;&c_jo;&c_zh;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_o;&c_b;&c_l;&c_je;&c_k;&c_l;&c_o;</trd>,
+    <trd>&c_d;&c_r;&c_je;&c_h;&c_i;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_da;&t_shabchu;&t_ga;&t_tsheg;&t_sa;&t_lata;&t_naro;&t_ga;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>&scaron;aty</trd>,
+    <trd>oblek</trd>,
+    <trd>&ccaron;&aacute;st od&ecaron;vu <klr>(kalhoty, svetr, ko&scaron;ile apod.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kleidung</trd>
+  </trdgrp>
+  <trd lng="el">&rho;&omikron;&ypsilon_ton;&chi;&alfa;</trd>
+  <trdgrp lng="en">
+    <trd>clothing</trd>,
+    <trd>apparel</trd>,
+    <trd>clothes</trd>
+  </trdgrp>
+  <trd lng="es">vestido</trd>
+  <trdgrp lng="fr">
+    <trd>habit</trd>,
+    <trd>v&ecirc;tement</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>ruha</trd>,
+    <trd>&ouml;lt&ouml;zet</trd>,
+    <trd>&ouml;lt&ouml;z&eacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><baz>pakai</baz>pakaian</trd>,
+    <trd>busana</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x670D;  <pr>&#12406;&#x304F;</pr></trd>,
+    <trd>&#30528;&#29289;  <pr>&#x304D;&#x308B;&#12418;&#x306E;</pr></trd>,
+    <trd>&#34915;&#x670D;  <pr>&#12356;&#12405;&#x304F;</pr></trd>,
+    <trd>&#34915;&#x985E;  <pr>&#12356;&#x308B;&#12356;</pr></trd>,
+    <trd>&#34915;  <pr>&#x304D;&#x306C;</pr></trd>
+  </trdgrp>
+  <trd lng="ne">&#2354;&#2369;&#2327;&#x93E; &#2354;&#2327;&#x93E;&#2313;&#2344;&#2369;</trd>
+  <trdgrp lng="nl">
+    <trd>kleding</trd>,
+    <trd>kleren</trd>,
+    <trd>kledij</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>roupa</trd>,
+    <trd>vestimenta</trd>,
+    <trd>vestido</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_d;&c_je;&c_zh;&c_d;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>&ccaron;as&tcaron; odevu</trd>,
+    <trd>&scaron;aty</trd>
+  </trdgrp>
+  <trd lng="tok">len</trd>
+  <trdgrp lng="tr">
+    <trd>elbise</trd>,
+    <trd>giysi</trd>
+  </trdgrp>
+  <trd lng="uk">&c_o;&c_d;&c_ja;&c_g;</trd>
+</drv>
+
+<drv mrk="vest.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="vest.0ajxo.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      &Ccirc;iu el la pecoj de plurpeca <ref tip="malprt" cel="vest.0o.TEKS"><tld/>o</ref>:
+      <ekz>
+        en blanka vesta&jcirc;o el lino, silente sursidas palega fra&ubreve;lino
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sinjoro en <klr>[&#8230;]</klr> <tld/>a&jcirc;o de rajdo
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i metis siajn <tld/>a&jcirc;ojn tiel orde, dum la aliaj
+        &jcirc;etis la siajn pelmele
+        <fnt>
+          <bib>Kiso</bib>,
+          <lok>la bovinoj de la paro&hcirc;estro</lok></fnt>.
+      </ekz>
+    </dif>
+    <lstref lst="voko:vestajxoj"><tld/>a&jcirc;oj</lstref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;)</klr></trd>,
+    <trd>&c_r;&c_e;&c_ch; <klr tip="amb">(&c_a;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>
+  </trdgrp>
+  <trd lng="bg">&c_d;&c_r;&c_je;&c_h;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd>Kleidungsst&uuml;ck</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>article of clothing</trd>,
+    <trd>piece of clothing</trd>
+  </trdgrp>
+  <trd lng="es">prenda<klr> de vestir</klr></trd>
+  <trd lng="fr">pi&egrave;ce de v&ecirc;tement</trd>
+  <trd lng="hu">ruhadarab</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x70B9;  <pr>&#12356;&#12387;&#12390;&#12435;</pr></trd>,
+    <trd>&#x30D4;&#x30FC;&#x30B9;</trd>
+  </trdgrp>
+  <trd lng="nl">kledingstuk</trd>
+  <trd lng="ru">&c_o;&c_d;&c_je;&c_zh;&c_d;&c_a;<klr> (&c_ch;&c_a;&c_s;&c_t;&c_mol;)</klr></trd>
+  <trd lng="tok">len</trd>
+  <trd lng="uk">&c_o;&c_d;&c_ja;&c_g;</trd>
+</drv>
+
+<drv mrk="vest.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="vest.0ejo.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Loko, kie oni konservas a&ubreve; lasas la <tld/>ojn:
+      <ekz>
+        <tld/>ejo de teatro;
+      </ekz>
+      <ekz>
+        li diris al la estro de la <tld/>ejo: elportu <tld/>ojn por
+        &ccirc;iuj servantoj de <nom>Baal</nom>
+        <fnt><bib>MT</bib>, <lok>&Re2; 10:22</lok></fnt>.
+      </ekz>
+      <ekz>
+        &scirc;i iras el la kabineto en la <tld/>ejon
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;o estas en la <tld/>ejo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_r;&c_d;&c_e;&c_r;&c_o;&c_b;</trd>
+  <trdgrp lng="cs">
+    <trd>garderoba</trd>,
+    <trd>&scaron;atna</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Garderobe</trd>,
+    <trd>Kleiderkammer</trd>,
+    <trd>Ankleidezimmer</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>changing room</trd>,
+    <trd>fitting room</trd>,
+    <trd>dressing room</trd>,
+    <trd>cloak room</trd>,
+    <trd>locker room</trd>,
+    <trd>wardrobe</trd>
+  </trdgrp>
+  <trd lng="es">vestidor</trd>
+  <trd lng="fr">vestiaire</trd>
+  <trd lng="hu">ruhat&aacute;r</trd>
+  <trdgrp lng="id">
+    <trd><ind>kamar</ind> ganti</trd>,
+    <trd><ind>kamar</ind> pas</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#34915;&#x88C5;&#x90E8;&#x5C4B;  <pr>&#12356;&#12375;&#12423;&#12358;&#12409;&#12420;</pr></trd>,
+    <trd>&#x30AF;&#x30ED;&#x30FC;&#x30AF;&#x30EB;&#x30FC;&#x30E0;</trd>,
+    <trd>&#x66F4;&#34915;&#x5BA4;  <pr>&#12371;&#12358;&#12356;&#12375;&#12388;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">vestiaire</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_a;&c_r;&c_d;&c_je;&c_r;&c_o;&c_b;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_d;&c_je;&c_v;&c_a;&c_l;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>garder&oacute;ba</trd>,
+    <trd>&scaron;at&ncaron;a</trd>
+  </trdgrp>
+  <trd lng="tr">vestiyer</trd>
+  <trdgrp lng="uk">
+    <trd>&c_gu;&c_a;&c_r;&c_d;&c_je;&c_r;&c_o;&c_b;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_d;&c_ja;&c_g;&c_a;&c_l;&c_mol;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vest.ali0i">
+  <kap>ali<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vest.ali0i.TEKS">
+    <dif>
+      <tld lit="V"/>i iun per <tld/>o diferenca je
+      tiu de ties sekso a&ubreve; pozicio:
+      <ekz>
+        mi ali<tld/>os min kaj iros en la batalon
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. re&gcirc;oj 22:30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;ino ali<tld/>is sin kiel kamparanino
+        <fnt><bib>ElektFab</bib>, <lok>Ne&gcirc;ulino</lok></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> apena&ubreve; havis tempon sin lavi kaj ali<tld/>i post la voja&gcirc;o
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pastrino, ali<tld/>ita kiel la diino Izido
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">umziehen <klr>(Kleidung)</klr></trd>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_a;&c_p;&c_r;&c_a;&c_n;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">transvestir</trd>
+  <trd lng="es">travestir</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;guiser</trd>,
+    <trd>travestir</trd>
+  </trdgrp>
+  <trd lng="hu">(vminek) <ind>&ouml;lt&ouml;ztet</ind></trd>
+  <trd lng="id"><baz>pakai</baz>berpakaian silang</trd>
+  <trdgrp lng="ja">
+    <trd>&#22793;&#x88C5;&#12373;&#x305B;&#x308B;  <pr>&#12408;&#12435;&#x305D;&#12358;&#12373;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x4EEE;&#x88C5;&#12373;&#x305B;&#x308B;  <pr>&#x304B;&#x305D;&#12358;&#12373;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">verkleden</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_o;&c_d;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_o;&c_d;&c_je;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="tr">k&inodot;l&inodot;k de&gbreve;i&scedil;tirmek</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_o;&c_d;&c_ja;&c_g;&c_a;&c_t;&c_i; &c_v; &#8230; (&c_o;&c_d;&c_ja;&c_g; &c_ib;&c_n;&c_sh;&c_o;&c_ji;
+    &c_s;&c_t;&c_a;&c_t;&c_ib;,
+    &c_p;&c_r;&c_o;&c_f;&c_je;&c_s;&c_ib;&c_ji; &c_ib; &c_t;.&c_p;.)</trd>
+  </trdgrp>
+  <trd lng="zh">&#25644; <pr>b&#257;n</pr></trd>
+</drv>
+
+<drv mrk="vest.mal0i">
+  <kap>mal<tld/>i</kap>
+  <snc mrk="vest.mal0i.KOMUNE">
+    <dif>
+      <ref tip="dif" cel="vest.sen0igi.KOMUNE">Sen<tld/>igi</ref>:
+      <ekz>
+        ni ne havis ion, per kio sin <tld/>i a&ubreve; mal<tld/>i
+        <fnt><bib>Mortul&Scirc;ip</bib>, <lok>dua libro, &ccirc;apitro
+        24a</lok></fnt>;
+      </ekz>
+      <ekz>
+        li ne plu havis ion por mal<tld/>i sin, nur la propran ha&ubreve;ton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2010/010189.php">Du mil dek</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        junulino mal<tld/>is sin ekster la prezidantejo kaj staris nuda anta&ubreve; la pordego
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2008/009474.php">&Scirc;oforo-angoro</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_a;&c_n;&c_u;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>obna&zcaron;it</trd>,
+    <trd>svl&eacute;ci</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ausziehen</trd>,
+    <trd>entkleiden</trd>
+  </trdgrp>
+  <trd lng="el">&gamma;&delta;&ypsilon_ton;&ny;&omega;</trd>
+  <trdgrp lng="en">
+    <trd>undress</trd>,
+    <trd>disrobe</trd>
+  </trdgrp>
+  <trd lng="es">desvestir</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;shabiller</trd>,
+    <trd>d&eacute;v&ecirc;tir</trd>
+  </trdgrp>
+  <trd lng="hu">levet<klr tip="ind"> (ruh&aacute;t)</klr></trd>
+  <trdgrp lng="id">
+    <trd><baz>tanggal</baz>menanggalkan (pakaian)</trd>,
+    <trd><baz>lepas</baz>melepas (pakaian)</trd>,
+    <trd><baz>copot</baz>mencopot (pakaian)</trd>
+  </trdgrp>
+  <trd lng="ja">&#33073;&#x304C;&#x305B;&#x308B;  <pr>&#x306C;&#x304C;&#x305B;&#x308B;</pr></trd>
+  <trd lng="nl">uitkleden</trd>
+  <trd lng="pt">despir</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_d;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_d;&c_je;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">vyzliec&tcaron; sa</trd>
+  <trd lng="tr">soymak</trd>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_d;&c_ja;&c_g;&c_a;&c_t;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd>&#33073; <pr>tu&#333;</pr></trd>,
+    <trd>&#33067; <pr>tu&#333;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vest.kap0o">
+  <kap>kap<tld/>o</kap>
+  <snc mrk="vest.kap0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="super" cel="vest.0o.TEKS"><tld lit="V"/>o</ref> per kiu
+      oni
+      kovras la kapon, precipe kiam ne temas pri la kutimaj &ccirc;apelo
+      a&ubreve; &ccirc;apo:
+      <ekz>
+        la basketoj de lia blanka kap<tld/>o ankora&ubreve; ka&scirc;is
+        la supran parton de lia viza&gcirc;o
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 5a</lok></fnt>;
+      </ekz>
+      <ekz>
+        kap<tld/>ita per sia nemalhavebla konusa &ccirc;apelo
+        <fnt>
+       <aut>Maryvonne kaj Bruno Robineau</aut>
+          <vrk><url ref="&Monato;/2000/006831.php">La&ubreve; ritmo de la rizejoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/02, p. 18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_l;&c_a;&c_w;&c_n;&c_y; &c_w;&c_b;&c_o;&c_r;</trd>
+  <trdgrp lng="de">
+    <trd>Kopfbedeckung</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>headgear</trd>,
+    <trd>headwear</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>coiffure<klr tip="amb"> (v&ecirc;tement)</klr></trd>,
+    <trd>couvre-chef</trd>
+  </trdgrp>
+  <trd lng="hu">fejfed&odblac;</trd>
+  <trd lng="id"><baz>tutup</baz>penutup kepala</trd>
+  <trd lng="ja">&#x304B;&#12406;&#x308A;&#29289;  <pr>&#x304B;&#12406;&#x308A;&#12418;&#x306E;</pr></trd>
+  <trd lng="nl">hoofddeksel</trd>
+  <trd lng="ru">&c_g;&c_o;&c_l;&c_o;&c_v;&c_n;&c_o;&c_j; &c_u;&c_b;&c_o;&c_r;</trd>
+  <trd lng="uk">&c_g;&c_o;&c_l;&c_o;&c_v;&c_n;&c_i;&c_j; &c_u;&c_b;&c_ib;&c_r;</trd>
+</drv>
+
+<drv mrk="vest.labor0o">
+  <kap>labor<tld/>o</kap>
+  <snc mrk="vest.labor0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="super" cel="vest.0o.TEKS"><tld lit="V"/>o</ref>
+      surportata dum laboro kiel &scirc;irmilo a&ubreve; kiel signo de funkcio...:
+      <ekz>
+        la humila klientaro de l' hebrea kvartalo, en siaj labor<tld/>oj
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i surhavas normalan hejman labor<tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julia Sigmond kaj Sen Rodin</aut>
+          <vrk><url ref="&Monato;/2010/009988.php">La mal&jcirc;aluzo de
+          Klorinda</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i klake trotas en la kuirejon por lavi lian labor<tld/>on
+        <fnt>
+          <aut>Zhu Yuqi</aut>,
+          <vrk><url ref="&CRI;1/2005/09/30/1@29700.htm">
+          Matena Melodio</url></vrk>,
+          <lok>2005-09</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Arbeitskleidung</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_a;&c_je;
+    &c_a;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_a;&c_ja;
+    &c_v;&c_o;&c_p;&c_r;&c_a;&c_t;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>mont&eacute;rky</trd>,
+    <trd>pracovn&iacute; oblek</trd>,
+    <trd>pracovn&iacute; od&ecaron;v</trd>
+  </trdgrp>
+  <trd lng="en">workwear</trd>
+  <trd lng="fr">v&ecirc;tement de travail</trd>
+  <trdgrp lng="id">
+    <trd><ind>baju</ind> kerja</trd>,
+    <trd><ind>seragam</ind> kerja</trd>,
+    <trd><ind>pakai</ind>an kerja</trd>
+  </trdgrp>
+  <trd lng="ja">&#x4F5C;&#x696D;&#x670D;  <pr>&#12373;&#x304E;&#12423;&#12358;&#12405;&#x304F;</pr></trd>
+  <trd lng="sk">pracovn&eacute; &scaron;aty</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_b;&c_o;&c_ch;&c_i;&c_j; &c_o;&c_d;&c_ja;&c_g;</trd>,
+    <trd>&c_s;&c_p;&c_je;&c_c;&c_ib;&c_v;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vest.maten0o">
+  <kap>
+    maten<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      Vesto por porti matene endome, ordinare varma kaj mola:
+      <ekz>
+        mi por la honorario tuj a&ccirc;etos al mi plu&scirc;an maten<tld/>on kun pelta &ccirc;irka&ubreve;kudro
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_n;&c_ib;&c_sh;&c_n;&c_ja;&c_je; &c_a;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="de">
+    <trd>Morgenkleid</trd>,
+    <trd>Morgenmantel</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>morning clothes</trd>,
+    <trd>morning wear</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vest.nokto0o">
+  <kap>nokto<tld/>o</kap>
+  <snc mrk="vest.nokto0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="super" cel="vest.0o.TEKS"><tld lit="V"/>o</ref>, kiun oni surmetas por nokta tempo
+      a&ubreve; por dormo:
+      <ekz>
+        &scirc;i trovis &scirc;in jam en nokto<tld/>o, kaj evidente preta por enliti&gcirc;i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2010/010023.php">Varmbotelo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i <klr>[&#8230;]</klr> subite staris apud li en sia maldikega
+        nokto<tld/>o
+        <fnt>
+          <aut>J. H. Rosbach</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5703/felicxo.html">
+          La feli&ccirc;o</url></vrk>,
+          <lok>Norda Prismo, 1957:3, p. 163a-170a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_ib;&c_zh;&c_a;&c_m;&c_a;</trd>,
+      <trd>&c_n;&c_a;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_k;&c_a;&c_sh;&c_u;&c_l;&c_ja;</ind></trd>,
+      <trd>&c_n;&c_a;&c_ch;&c_n;&c_u;&c_sh;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Nachthemd</trd>,
+      <trd>Schlafzeug</trd>,
+      <trd>Schlafanzug</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="en">
+    <trd>night clothes</trd>,
+    <trd>nightclothes</trd>
+  </trdgrp>
+  <trd lng="fr">v&ecirc;tement de nuit</trd>
+  <trd lng="id"><ind>pakai</ind>an tidur</trd>
+  <trd lng="ja">&#x5BDD;&#38291;&#30528;  <pr>&#x306D;&#x307E;&#x304D;</pr></trd>
+</drv>
+
+<drv mrk="vest.pied0o">
+  <kap>pied<tld/>o</kap>
+  <snc mrk="vest.pied0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="super" cel="vest.0o.TEKS"><tld lit="V"/>o</ref> per kiu
+      oni kovras la piedojn:
+      <ekz>
+        lia pied<tld/>o ne estis pli bona &ndash; unu fliko sur alia
+        <fnt><bib>FK</bib>, <lok>4, la forgesita pipo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_u;&c_t;&c_a;&c_k;</trd>
+  <trd lng="ca">cal&ccedil;at</trd>
+  <trd lng="cs">obuv</trd>
+  <trdgrp lng="de">
+    <trd>Schuhe</trd>,
+    <trd>Fu&szlig;bekleidung</trd>
+  </trdgrp>
+  <trd lng="en">footwear</trd>
+  <trd lng="fr">chaussure</trd>
+  <trd lng="hu">l&aacute;bbeli</trd>
+  <trd lng="id"><ind>alas</ind> kaki</trd>
+  <trd lng="ja">&#x5C65;&#x304D;&#29289;  <pr>&#x306F;&#x304D;&#12418;&#x306E;</pr></trd>
+  <trd lng="nl">schoeisel</trd>
+  <trd lng="oc">cau&ccedil;adura</trd>
+  <trd lng="ru">&c_o;&c_b;&c_u;&c_v;&c_mol;</trd>
+  <trd lng="sk">top&aacute;nky</trd>
+</drv>
+
+<drv mrk="vest.sen0igi">
+  <kap>sen<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vest.sen0igi.KOMUNE">
+    <dif>
+      Demeti ies <tld/>ojn:
+      <ekz>
+        kaj ili sen<tld/>igis lin, kaj surmetis al li skarlatan mantelon
+        <fnt><bib>NT</bib>, <lok>&Mat; 27:28</lok></fnt>;
+      </ekz>
+      <ekz>
+        ferminte la pordon, li komencis sin sen<tld/>igi
+        <fnt>
+          <bib>DL</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="vest.mal0i">mal<tld/>i</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_a;&c_n;&c_u;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_g;&c_a;&c_l;&c_ib;&c_c;&c_mol; <klr tip="amb">(&c_p;&c_a;&c_k;&c_ib;&c_n;&c_u;&c_c;&c_mol; &c_b;&c_je;&c_z; &c_a;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>svl&eacute;knout</trd>,
+    <trd>zbavit od&ecaron;vu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ausziehen</trd>,
+    <trd>entkleiden</trd>
+  </trdgrp>
+  <trd lng="el">&gamma;&delta;&ypsilon_ton;&ny;&omega;</trd>
+  <trdgrp lng="en">
+    <trd>undress</trd>,
+    <trd>disrobe</trd>
+  </trdgrp>
+  <trd lng="es">desvestir</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;shabiller</trd>,
+    <trd>d&eacute;v&ecirc;tir</trd>
+  </trdgrp>
+  <trd lng="hu">levetk&odblac;ztet</trd>
+  <trdgrp lng="id">
+    <trd><baz>tanggal</baz>menanggalkan (pakaian)</trd>,
+    <trd><baz>lepas</baz>melepas (pakaian)</trd>,
+    <trd><baz>copot</baz>mencopot (pakaian)</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x670D;&#12434;&#33073;&#x304C;&#x305B;&#x308B;
+    <pr>&#12405;&#x304F;&#12434;&#x306C;&#x304C;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x88F8;&#x306B;&#12377;&#x308B;  <pr>&#x306F;&#12384;&#x304B;&#x306B;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">uitkleden</trd>
+  <trd lng="pt">despir</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_d;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_d;&c_je;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">vyzliec&tcaron; sa</trd>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_d;&c_ja;&c_g;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="vest.sen0igxi">
+  <kap>sen<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="vest.sen0igxi.KOMUNE">
+    <dif>
+      Seni&gcirc;i je <tld/>oj:
+      <ekz>
+        la dormeman servistinon <klr>[&#8230;]</klr> &scirc;i rapide
+        forpermesis, dirinte ke &scirc;i mem sen<tld/>i&gcirc;os
+        <fnt>
+          <aut>A. Pu&scirc;kin, trad. A. Kor&jcirc;enkov</aut>,
+          <vrk><url ref="&LOdE;Libroj/V_bibl01.pdf">
+          La pika damo</url></vrk>,
+          <lok>2003-2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i sen<tld/>i&gcirc;is kaj <klr>[&#8230;]</klr> tuj malaperis
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>sich <ind>ausziehen</ind></trd>,
+      <trd>die <ind>Kleidung</ind> ablegen</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_a;&c_n;&c_u;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_g;&c_a;&c_l;&c_ib;&c_c;&c_c;&c_a; <klr tip="amb">(&c_s;&c_k;&c_ib;&c_n;&c_u;&c_c;&c_mol; &c_a;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_je;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>undress</trd>,
+    <trd>disrobe</trd>
+  </trdgrp>
+  <trd lng="fr">se <ind>d&eacute;shabiller</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x670D;&#12434;&#33073;&#12368;  <pr>&#12405;&#x304F;&#12434;&#x306C;&#12368;</pr></trd>,
+    <trd>&#x88F8;&#x306B;&#x306A;&#x308B;
+    <pr>&#x306F;&#12384;&#x304B;&#x306B;&#x306A;&#x308B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vest.sub0o">
+  <kap>sub<tld/>o</kap>
+  <snc mrk="vest.sub0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Nemontrata <ref tip="super" cel="vest.0o.TEKS"><tld/>o</ref>,
+      kiun oni portas sub la videblaj:
+      <ekz>
+        delikataj sub<tld/>oj de virino;
+      </ekz>
+      <ekz>
+        <nom>Elsa</nom> eliris el la lito kaj komencis surmeti la sub<tld/>ojn
+        <fnt><bib>InfanTorent2</bib>, <lok>unua parto, &ccirc;apitro
+        1a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la reklamanta firmao pretendas, ke tiu mirinda sub<tld/>o efike maldikigos
+        elstaran ventron
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2006/008827.php">Pri kutimoj kaj
+          kalsonoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_o;&c_d;&c_n;&c_ja;&c_je;</trd>
+  <trd lng="cs">spodn&iacute; pr&aacute;dlo</trd>
+  <trdgrp lng="de">
+    <trd>Unterw&auml;sche</trd>,
+    <trd>Unterbekleidung</trd>
+  </trdgrp>
+  <trd lng="en">undergarment</trd>
+  <trd lng="es">ropa interior</trd>
+  <trd lng="fr">sous-v&ecirc;tement</trd>
+  <trd lng="hu">feh&eacute;rnem&udblac;</trd>
+  <trdgrp lng="id">
+    <trd><ind>pakai</ind>an dalam</trd>,
+    <trd><baz>dalam</baz>dalaman</trd>
+  </trdgrp>
+  <trd lng="ja">&#x4E0B;&#30528;  <pr>&#12375;&#x305F;&#x304E;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>ondergoed</trd>,
+    <trd>onderkleding</trd>,
+    <trd>onderkleren</trd>
+  </trdgrp>
+  <trd lng="pt">roupa de baixo</trd>
+  <trd lng="ru">&c_n;&c_i;&c_zh;&c_n;&c_je;&c_je; &c_b;&c_je;&c_l;&c_mol;&c_jo;</trd>
+  <trd lng="sk">spodn&aacute; bielize&ncaron;</trd>
+  <trd lng="tr">i&ccedil; &ccedil;ama&scedil;&inodot;r&inodot;</trd>
+  <trd lng="uk">&c_n;&c_i;&c_zh;&c_n;&c_ja; &c_b;&c_ib;&c_l;&c_i;&c_z;&c_n;&c_a;</trd>
+</drv>
+
+<drv mrk="vest.sur0o">
+  <kap>sur<tld/>o</kap>
+  <snc mrk="vest.sur0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="dif" cel="vest.super0o.TEKS">Super<tld/>o</ref>:
+      <ekz>
+        aperis nealta homo en ru&gcirc;a sur<tld/>o, brodita per bizare
+        sinuantaj oraj serpentoj
+        <fnt>
+          <aut>I. Efremov, trad. J. Finkel</aut>,
+          <vrk><url ref="http://www.esperanto.mv.ru/Efremov/horo.html">
+          Horo de Bovo</url></vrk>,
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Umhang</trd>
+  </snc>
+  <trd lng="be">&c_v;&c_o;&c_p;&c_r;&c_a;&c_t;&c_k;&c_a;</trd>
+  <trd lng="cs">od&ecaron;v</trd>
+  <trdgrp lng="en">
+    <trd>outer clothing</trd>,
+    <trd>overcoat</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>pakai</ind>an luar</trd>,
+    <trd><baz>luar</baz>luaran</trd>
+  </trdgrp>
+  <trd lng="sk">odev</trd>
+</drv>
+
+<drv mrk="vest.super0o">
+  <kap><ofc>*</ofc> super<tld/>o</kap>
+  <snc mrk="vest.super0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="super" cel="vest.0o.TEKS"><tld lit="V"/>o</ref> kiun oni
+      surmetas sur aliajn vestojn, precipe tiaj kiujn oni portas
+      eksterdome por sin protekti kontra&ubreve; malvarmo a&ubreve; pluvo:
+      <ekz>
+        li portas rozokoloran super<tld/>on kaj teleroforman
+        &ccirc;apelon
+        <fnt><bib>F</bib>, <lok>&FE; 31</lok></fnt>;
+      </ekz>
+      <ekz>
+        li detiris siajn &scirc;amajn gantojn kaj disbutonumas la
+        super<tld/>on
+        <fnt>
+        <aut>I. Lojko</aut>, <vrk>kulereto</vrk>,
+        <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li prenis sian super<tld/>on kaj forlasis la balon
+        anta&ubreve; kelkaj minutoj, diris <nom>Olsen</nom>
+        <fnt><bib>FK</bib>, <lok>4, , la porcio da
+        glacia&jcirc;o</lok></fnt>;
+      </ekz>
+      <ekz>
+        ni enrigardu iom en la anta&ubreve;&ccirc;ambron, kie
+        trovis rifu&gcirc;on la super<tld/>oj, bastonoj,
+        pluvombreloj kaj galo&scirc;oj
+        <fnt><bib>Fab1</bib>, <lok>galo&scirc;oj de
+        feli&ccirc;o</lok></fnt>;
+      </ekz>
+      <ekz>
+        oni povus diri, ke &scirc;in kaptis forta malvarmo,
+        &ccirc;ar &scirc;i iom tremis sub la pelta super<tld/>o, kaj
+        ke &scirc;i ion profunde hontis, &ccirc;ar &scirc;i ne povis
+        forlevi la okulojn de la &scirc;tonoj de la trotuaro
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        du sinjorinoj en veluraj super<tld/>oj, apogante sin
+        reciproke unu al la alia, iris rapide kaj interparolis gaje
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_o;&c_p;&c_r;&c_a;&c_t;&c_k;&c_a;</trd>
+  <trd lng="cs">svrchn&iacute;k</trd>
+  <trdgrp lng="de">
+    <trd>&Uuml;berbekleidung</trd>,
+    <trd>Oberbekleidung</trd>,
+    <trd>Umhang</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>overcoat</trd>,
+    <trd>outer clothing</trd>,
+    <trd>outer clothing</trd>,
+    <trd>overcoat</trd>
+  </trdgrp>
+  <trd lng="fr">v&ecirc;tement d'ext&eacute;rieur</trd>
+  <trdgrp lng="hu">
+    <trd>fel&ouml;lt&odblac;</trd>,
+    <trd>fels&odblac;kab&aacute;t</trd>,
+    <trd>k&ouml;peny</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>pakai</ind>an luar</trd>,
+    <trd><baz>luar</baz>luaran</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30AA;&#x30FC;&#x30D0;&#x30FC;  <pr>&#x304A;&#x30FC;&#12400;&#x30FC;</pr></trd>,
+    <trd>&#22806;&#22871;  <pr>&#x304C;&#12356;&#12392;&#12358;</pr></trd>,
+    <trd>&#x30B3;&#x30FC;&#x30C8;  <pr>&#12371;&#x30FC;&#12392;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_je;&c_r;&c_h;&c_n;&c_ja;&c_ja; &c_o;&c_d;&c_je;&c_zh;&c_d;&c_a;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_h;&c_n;&c_je;&c_je; &c_p;&c_l;&c_a;&c_t;&c_mol;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">pl&aacute;&scaron;&tcaron;</trd>
+  <trd lng="uk">&c_v;&c_je;&c_r;&c_h;&c_n;&c_ib;&c_j; &c_o;&c_d;&c_ja;&c_g;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.132 2023/12/12 20:10:29
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.131 2023/12/10 13:26:22
+Wolfram Diestel: fnt UV, duobla trd en
+
+versio 1.130 2023/10/25 01:24:33
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.129 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.128 2023/09/08 15:22:57
+Wolfram Diestel: kor. trd zh
+
+versio 1.126 2023/08/29 09:26:36
+Wolfram Diestel: ja: +prononco
+
+versio 1.125 2023/06/15 08:30:34
+Dmitri Gabinski: + trd be
+
+versio 1.124 2023/05/06 15:12:06
+-->
+</vortaro>

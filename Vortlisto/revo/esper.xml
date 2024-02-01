@@ -1,0 +1,910 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: esper.xml,v 1.123 2023/11/07 20:34:12 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>esper</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="esper.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="esper.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="kred.0i">Kredi</ref>, ke tio, kion oni deziras, reali&gcirc;os:
+      <ekz>
+        vidi vian viza&gcirc;on mi ne <tld/>is, kaj jen Dio vidigis al mi e&ccirc; vian idaron
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 48:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Saul</nom> <tld/>is faligi Davidon per la manoj de la Fili&scirc;toj
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Samuel 18:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>is lumon, sed venis mallumo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 30:26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni <tld/>is en Kristo
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Korintanoj 15:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> faris tiun komplezon <klr>[&#x2026;]</klr> ne kiel ni <tld/>is
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Korintanoj 8:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi &ccirc;iam <tld/>is, ke la knabo iam povos helpi al mi
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Anneto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;i tie, kie li <tld/>is forgesi &scirc;in, &gcirc;uste &ccirc;i tie &scirc;i staris tute vivanta anta&ubreve;
+        lia animo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Sub la saliko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniam <tld/>ita amo, kiu subite estis sentigita al &scirc;i
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Knabino, kiu pa&scirc;is sur panon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> <tld/>is nin akcepti en Kembri&gcirc;o
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne atendita, ne <tld/>ita ofte venas subite
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi panon ne <tld/>is, subite kuko aperis
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="atend.0i">atendi</ref>,
+      <ref cel="vid.antaux0i">anta&ubreve;vidi</ref>,
+      <ref cel="dezir.0i">deziri</ref>,
+      <ref cel="fid.0i">fidi</ref>,
+      <ref cel="sopir.0i">sopiri</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="af">hoop</trd>
+  <trd lng="am">&#x1270;&#x1235;&#x134B;</trd>
+  <trd lng="ar">&a_n;&a_A_hamza_sure;&a_m;&a_l;</trd>
+  <trd lng="az">&#xFC;mid</trd>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_d;&c_z;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="bn">&#x986;&#x9B6;&#x9BE;</trd>
+  <trd lng="bs">nadam se da</trd>
+  <trd lng="co">speru</trd>
+  <trdgrp lng="cs">
+    <trd>doufat</trd>,
+    <trd>m&iacute;t nad&ecaron;ji</trd>,
+    <trd>o&ccaron;ek&aacute;vat</trd>
+  </trdgrp>
+  <trd lng="cy">gobeithio</trd>
+  <trd lng="da">h&#xE5;ber</trd>
+  <trd lng="de">hoffen</trd>
+  <trd lng="en">hope</trd>
+  <trdgrp lng="es">
+    <trd>esperar</trd>,
+    <trd>tener esperanza</trd>
+  </trdgrp>
+  <trd lng="et">loodan</trd>
+  <trd lng="eu">espero</trd>
+  <trd lng="fr">esp&eacute;rer</trd>
+  <trd lng="fy">hope</trd>
+  <trd lng="ga">t&#xE1; s&#xFA;il</trd>
+  <trd lng="gd">d&#xF2;chas</trd>
+  <trd lng="gl">esperanza</trd>
+  <trd lng="gu">&#xA86;&#xAB6;&#xABE;</trd>
+  <trd lng="ha">fata</trd>
+  <trd lng="hi">&#x906;&#x936;&#x93E;</trd>
+  <trd lng="hmn">cia siab</trd>
+  <trd lng="hr">nadam</trd>
+  <trd lng="ht">espere</trd>
+  <trdgrp lng="hu">
+    <trd>rem&eacute;l</trd>,
+    <trd>bizakodik</trd>
+  </trdgrp>
+  <trd lng="hy">&#x570;&#x578;&#x582;&#x57D;&#x578;&#x57E;</trd>
+  <trdgrp lng="id">
+    <trd>ber<ind>harap</ind></trd>,
+    <trd>meng<ind>harap</ind>kan</trd>
+  </trdgrp>
+  <trd lng="ig">nwere olileanya</trd>
+  <trd lng="is">vona</trd>
+  <trd lng="ja">&#x5E0C;&#x671B; <pr>&#x304D;&#x307C;&#x3046;</pr></trd>
+  <trd lng="jv">mugi</trd>
+  <trd lng="ka">&#x10D8;&#x10DB;&#x10D4;&#x10D3;&#x10D8;
+  &#x10DB;&#x10D0;&#x10E5;&#x10D5;&#x10E1;,</trd>
+  <trd lng="kk">&#x4AF;&#x43C;&c_ib;&c_t;</trd>
+  <trd lng="km">&#x179F;&#x1784;&#x17D2;&#x1783;&#x17B9;&#x1798;</trd>
+  <trd lng="kn">&#xCAD;&#xCBE;&#xCB5;&#xCBF;&#xCB8;&#xCC1;&#xCA4;&#xCCD;&#xCA4;&#xCC7;&#xCB5;&#xCC6;</trd>
+  <trd lng="ko">&#xAE30;&#xB300;</trd>
+  <trd lng="ku">h&#xEA;v&#xEE;</trd>
+  <trd lng="ky">&#x4AF;&#x43C;&#x4AF;&c_t;</trd>
+  <trd lng="lat">spero</trd>
+  <trd lng="lo">&#xEAB;&#xEA7;&#xEB1;&#xE87;&#xEA7;&#xEC8;&#xEB2;</trd>
+  <trd lng="lt">tikiuosi</trd>
+  <trd lng="lv">cer&#x12B;ba</trd>
+  <trd lng="mg">manantena</trd>
+  <trd lng="mi">te ti&#x2019;aturi nei</trd>
+  <trd lng="mk">&c_s;&c_je; &#x43D;&c_a;&c_d;&c_je;&c_v;&c_a;&#x43C;</trd>
+  <trd lng="ml">&#xD2A;&#xD4D;&#xD30;&#xD24;&#xD4D;&#xD2F;&#xD3E;&#xD36;</trd>
+  <trd lng="mn">&c_g;&#x44D;&c_d;&#x44D;&c_g;&c_t; &#x43D;&c_a;&c_j;&c_d;&c_a;&c_zh; &c_b;&c_a;&c_j;&#x43D;&c_a;</trd>
+  <trd lng="mr">&#x906;&#x936;&#x93E; &#x906;&#x939;&#x947;</trd>
+  <trd lng="ms">berharap</trd>
+  <trd lng="mt">tama</trd>
+  <trd lng="my">&#x1019;&#x103B;&#x103E;&#x1031;&#x102C;&#x103A;&#x101C;&#x1004;&#x1037;&#x103A;&#x1001;&#x103B;&#x1000;&#x103A;</trd>
+  <trd lng="ne">&#x906;&#x936;&#x93E;</trd>
+  <trd lng="nl">hopen</trd>
+  <trd lng="ny">ndikuyembekeza</trd>
+  <trd lng="pa">&#xA06;&#xA38; &#xA39;&#xA48;</trd>
+  <trdgrp lng="pl">
+    <trd>mie&cacute; <ind>nadziej&eogonek;</ind></trd>,
+    <trd>spodziewa&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trd lng="ps">&a_h;&#x64A;&a_l;&a_h;</trd>
+  <trdgrp lng="pt">
+    <trd>esperar</trd>,
+    <trd>ter <ind>esperan&ccedil;a</ind> de</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_d;&c_je;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_u;&c_p;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="rw">ibyiringiro</trd>
+  <trd lng="sd">&a_A;&a_m;&#x64A;&#x62F;</trd>
+  <trd lng="si">&#xDB6;&#xDBD;&#xDCF;&#xDB4;&#xDDC;&#xDBB;&#xDDC;&#xDAD;&#xDCA;&#xDAD;&#xDD4;&#xDC0;</trd>
+  <trdgrp lng="sk">
+    <trd>d&uacute;fa&tcaron;</trd>,
+    <trd>o&ccaron;ak&aacute;va&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sl">upam,</trd>
+  <trd lng="sm">faamoemoe</trd>
+  <trd lng="sn">tarisiro</trd>
+  <trd lng="so">rajeyneynaa</trd>
+  <trd lng="sq">shpresoj</trd>
+  <trd lng="st">le t&scaron;epo ea</trd>
+  <trd lng="su">harepan</trd>
+  <trd lng="sw">matumaini</trd>
+  <trd lng="ta">&#xBA8;&#xBAE;&#xBCD;&#xBAA;&#xBBF;&#xB95;&#xBCD;&#xB95;&#xBC8;</trd>
+  <trd lng="te">&#xC06;&#xC36;&#xC3F;&#xC38;&#xC4D;&#xC24;&#xC41;&#xC28;&#xC4D;&#xC28;&#xC3E;&#xC2E;&#xC41;</trd>
+  <trd lng="tg">&c_u;&#x43C;&c_je;&c_d;</trd>
+  <trd lng="th">&#xE2B;&#xE27;&#xE31;&#xE07;&#xE27;&#xE48;&#xE32;</trd>
+  <trd lng="tl">umaasa</trd>
+  <trd lng="tt">&#x4E9;&#x43C;&c_je;&c_t;</trd>
+  <trd lng="uk">&c_s;&#x43F;&#x43E;&c_d;&c_ib;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+  <trd lng="ur">&a_A;&a_m;&#x6CC;&#x62F;</trd>
+  <trd lng="uz">umid</trd>
+  <trd lng="vi">hy v&#x1ECD;ng</trd>
+  <trd lng="xh">ithemba</trd>
+  <trd lng="yi">&#x5D4;&#x5D0;&#x5B8;&#x5E4;&#x5E2;&#x5E0;&#x5D5;&#x5E0;&#x5D2;</trd>
+  <trd lng="yo">lero</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5E0C;&#x671B;</trd>
+  </trdgrp>
+  <trd lng="zu">ngethemba</trd>
+</drv>
+
+<drv mrk="esper.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="esper.0o.ado">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        meti sian <tld/>on sur la Eternulo
+        <fnt><bib>MT</bib>, <lok>&Psa; 40:4</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi havas ankora&ubreve; <tld/>on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Rut 1:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi perdis la <tld/>on
+        <fnt><bib>MT</bib>, <lok>&Jes; 57:10</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o logas, <tld/>o mensogas
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        de atendo kaj <tld/>o pereis multaj sur la tero
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o panon ne donas
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="esper.0o.sento">
+    <dif>
+      Io, kion oni esperas:
+      <ekz>
+        mi ne povas doni al vi e&ccirc; la plej malgrandan <tld/>on ricevi lokon kune kun la
+        infano
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li multe parolis <klr>[&#x2026;]</klr> pri detruitaj <tld/>oj
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        montri <klr>[&#x2026;]</klr> sian plej vivan simpation <klr>[&#x2026;]</klr> al via celo kaj
+        <tld/>oj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvina Kongreso Esperantista en Barcelona en la 6a de septembro
+          1909</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni havas plenan <tld/>on, ke post nia nuna kongreso <klr>[&#x2026;]</klr> nia afero &ccirc;i
+        tie ekfloros ne malpli potence
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto
+          1908</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="esper.0o.priesperajxo">
+    <dif>
+      Persono a&ubreve; afero, pri kiu oni multe <tld/>as:
+      <ekz>
+        la sola filo, la <ref cel="gxoj.0o.kauxzo">&gcirc;ojo</ref>
+        de la gepatroj kaj ilia <tld/>o por la estonteco
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Infano en la tombo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_d;&c_z;&c_je;&c_ja;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_d;&c_z;&c_ja;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF62;&#xF7A;&#xF0B;&#xF56;&#xF0B;</trd>
+  <trdgrp lng="cs">
+    <trd>nad&ecaron;je</trd>,
+    <trd>nad&ecaron;je</trd>
+  </trdgrp>
+  <trd lng="de">Hoffnung</trd>
+  <trd lng="es">esperanza</trd>
+  <trd lng="fr">espoir</trd>
+  <trd lng="he">&#x5EA;&#x5E7;&#x5D5;&#x5D5;&#x5D4;</trd>
+  <trd lng="hu">rem&eacute;ny</trd>
+  <trd lng="id"><ind>harap</ind>an</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E0C;&#x671B;  <pr>&#x304D;&#x307C;&#x3046;</pr></trd>,
+    <trd>&#x671F;&#x5F85;  <pr>&#x304D;&#x305F;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">hoop</trd>
+  <trd lng="pl">nadzieja</trd>
+  <trd lng="ru">&c_n;&c_a;&c_d;&c_je;&c_zh;&c_d;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>n&aacute;dej</trd>,
+    <trd>o&ccaron;ak&aacute;vanie</trd>,
+    <trd>&uacute;fnos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_d;&c_ib;&#x44F;</trd>,
+    <trd>&c_s;&#x43F;&#x43E;&c_d;&c_ib;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5BC4;&#x4E88;&#x539A;&#x671B;&#x7684;&#x4EBA; <pr>j&#xEC;y&#xFA;h&#xF2;uw&#xE0;ngder&#xE9;n</pr></trd>,
+    <trd>&#x671F;&#x671B; <pr>q&#x12B;w&#xE0;ng</pr></trd>,
+    <trd>&#x9CCC;&#x5934;&#x513F; <pr>&#xE1;ot&#xF3;ur</pr></trd>,
+    <trd>&#x6307;&#x671B; <pr>zh&#x1D0;w&#xE0;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="esper.0eble">
+  <kap><tld/>eble</kap>
+  <snc mrk="esper.0eble.ARG">
+    <dif>
+      La&ubreve; tio, kion oni povas <tld/>i:
+      <ekz>
+        balda&ubreve; <tld/>eble venos iu a&ubreve; alia
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Floroj de la malgranda Ida</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Dio <tld/>eble anka&ubreve; por mia koro donos konsilon
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Ib kaj malgranda kristino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne estas <tld/>eble, ke la pordo de favorkoreco malfermi&gcirc;os por &scirc;i
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Knabino, kiu pa&scirc;is sur panon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i estas la unua kaj <tld/>eble anka&ubreve; la lasta fojo <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto
+          1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi <tld/>eble faros al mi la honoron esti gasto de mia domo
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_o;&c_zh;&c_n;&c_a; <ind>&c_s;&c_p;&c_a;&c_d;&c_z;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</ind></trd>,
+    <trd>&c_m;&c_a;&c_g;&c_ch;&c_y;&c_m;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">asi <klr>(snad)</klr></trd>
+  <trd lng="de">hoffentlich</trd>
+  <trd lng="es">esperable</trd>
+  <trd lng="fr">esp&eacute;rons que...</trd>
+  <trd lng="he">&#x5D1;&#x5EA;&#x5E7;&#x5D5;&#x5D5;&#x5D4;</trd>
+  <trd lng="hu">rem&eacute;lhet&odblac;en</trd>
+  <trdgrp lng="id">
+    <trd>mudah-mudahan</trd>,
+    <trd>semoga</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x671B;&#x3080;&#x3089;&#x304F;&#x306F;  <pr>&#x306E;&#x305E;&#x3080;&#x3089;&#x304F;&#x306F;</pr></trd>,
+    <trd>&#x305F;&#x3076;&#x3093;</trd>
+  </trdgrp>
+  <trd lng="nl">hopelijk</trd>
+  <trdgrp lng="pl">
+    <trd>przypuszczalnie</trd>,
+    <trd>prawdopodobnie</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_o;&c_zh;&c_n;&c_o; &c_n;&c_a;&c_d;&c_je;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_o;&c_z;&c_m;&c_o;&c_zh;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trd lng="sk">asi</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&c_zh;&#x43B;&c_i;&c_v;&#x43E;</trd>,
+    <trd>&#x43C;&#x43E;&c_zh;&#x43D;&c_a; &c_s;&#x43F;&#x43E;&c_d;&c_ib;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x4F46;&#x613F; <pr>d&#xE0;nyu&#xE0;n</pr></trd>
+</drv>
+
+<drv mrk="esper.0iga">
+  <kap><tld/>iga</kap>
+  <snc mrk="esper.0iga.KOMUNE">
+    <dif>
+      Donanta <tld/>ojn, promesplena, bona&ubreve;gura:
+      <ekz>
+        <klr>[&scirc;iaj]</klr> okuloj <klr>[&#x2026;]</klr> anta&ubreve; momento esprimis <tld/>igan
+        meditadon
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        komence de januaro okazis <tld/>iga evento
+        <fnt>
+       <aut>Zofia Banet-Fornalowa/pg</aut>
+          <vrk><url ref="&Monato;/2000/006882.php">Kiam orkestro fari&gcirc;as orkesto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 12</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        libera programaro estas nova kaj <tld/>iga fenomeno
+        <fnt>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2004/008269.html">Libera programaro: nova rimedo
+          komerci</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/04, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mediprotekta industrio havas <tld/>igan estonton
+        <fnt>
+          <aut>MU Binghua</aut>
+            <vrk><url ref="&Monato;/2001/007256.php">Mediprotekta industrio havas esperigan
+            estonton</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 10</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_n;&c_a;&c_d;&c_z;&c_je;&c_j;&c_l;&c_ib;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>nad&ecaron;jn&yacute;</trd>,
+    <trd>povzbudiv&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>hoffnungsvoll</trd>,
+    <trd>verhei&szlig;end</trd>,
+    <trd>vielversprechend</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bon<klr tip="ind"> (prometteur)</klr></trd>,
+    <trd>prometteur</trd></trdgrp>
+  <trd lng="he">&#x5DE;&#x5D1;&#x5D8;&#x5D9;&#x5D7;</trd>
+  <trdgrp lng="hu">
+    <trd>rem&eacute;nykelt&odblac;</trd>,
+    <trd>b&iacute;ztat&oacute;</trd>,
+    <trd>&iacute;g&eacute;retes</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E0C;&#x671B;&#x3092;&#x6301;&#x305F;&#x305B;&#x308B;  <pr>&#x304D;&#x307C;&#x3046;&#x3092;&#x3082;&#x305F;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x671F;&#x5F85;&#x3055;&#x305B;&#x308B;  <pr>&#x304D;&#x305F;&#x3044;&#x3055;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">hoopvol</trd>
+  <trdgrp lng="pl">
+    <trd>daj&aogonek;cy <ind>nadziej&eogonek;</ind></trd>,
+    <trd>budz&aogonek;cy <ind>nadziej&eogonek;</ind></trd>,
+    <trd>rokuj&aogonek;cy <ind>nadziej&eogonek;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_n;&c_a;&c_d;&c_jo;&c_zh;&c_i;&c_v;&c_a;&c_ju;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_a;&c_ju;&c_shch;&c_i;&c_j; &c_n;&c_a;&c_d;&c_je;&c_zh;&c_d;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>n&aacute;dejn&yacute;</trd>,
+    <trd>povzbudiv&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_ib;&c_d;&c_b;&c_a;&c_d;&#x44C;&#x43E;&c_r;&#x44E;&#x44E;&c_ch;&c_i;&c_j;</trd>,
+    <trd>&#x43E;&c_b;&#x43D;&c_a;&c_d;&c_ib;&c_j;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6709;&#x4E3A; <pr>y&#x1D2;uw&#xE9;i</pr></trd>,
+    <trd>&#x7965;&#x745E; <pr>xi&#xE1;ngru&#xEC;</pr></trd>,
+    <trd>&#x5145;&#x6EE1;&#x5E0C;&#x671B; <pr>ch&#x14D;ngm&#x1CE;nx&#x12B;w&#xE0;ng</pr></trd>,
+    <trd>&#x53EF;&#x4EE5;&#x9810;&#x898B; <pr>k&#x11B;y&#x1D0;y&#xF9;ji&#xE0;n</pr></trd>,
+    <trd>&#x5927;&#x6709;&#x5E0C;&#x671B; <pr>d&#xE0;y&#x1D2;ux&#x12B;w&#xE0;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="esper.mal0i">
+  <kap><ofc>*</ofc>mal<tld/>i <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-5015">mal'esper'</url></lok></fnt></kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="esper.mal0i.KOMUNE">
+    <dif>
+      Tute perdi <tld/>on:
+      <ekz>
+        en Azio <klr>[&#x2026;]</klr> ni ekstreme super la forto estis depremitaj, tiel, ke ni
+        forte mal<tld/>is, e&ccirc; pri la vivo
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Korintanoj 1:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post sep tagoj li vidis, ke la rezultato estas nula, li mal&gcirc;ojis kaj mal<tld/>is
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La ora birdo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi mal<tld/>is ne trovinte vin
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hom' mal<tld/>as, Dio aperas
+         <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pesimi">pesimismo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_je;&c_z;&c_n;&c_a;&c_d;&c_z;&c_je;&c_j;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="cs">zoufat</trd>
+  <trd lng="de">verzweifeln</trd>
+  <trdgrp lng="en">
+    <trd>lose hope</trd>,
+    <trd>despair</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;sesp&eacute;rer (de)<klr tip="ind"> (tr. ind.)</klr>
+    </trd>,
+    <trd>se <ind>d&eacute;sesp&eacute;rer</ind></trd></trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5EA;&#x5D9;&#x5D9;&#x5D0;&#x5E9;</trd>
+  <trdgrp lng="hu">
+    <trd>k&eacute;ts&eacute;gbe esik</trd>,
+    <trd>rem&eacute;ny&eacute;t veszti</trd>
+  </trdgrp>
+  <trd lng="id">putus asa</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D76;&#x671B;&#x3059;&#x308B;  <pr>&#x305C;&#x3064;&#x307C;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5931;&#x671B;&#x3059;&#x308B;  <pr>&#x3057;&#x3064;&#x307C;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">wanhopen</trd>
+  <trdgrp lng="pl">
+    <trd>rozpacza&cacute;</trd>,
+    <trd>straci&cacute; <ind>nadziej&eogonek;</ind></trd>,
+    <trd>porzuca&cacute; <klr>(wszelk&aogonek;)</klr>
+    <ind>nadziej&eogonek;</ind>
+    </trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_ch;&c_a;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_t;&c_je;&c_r;&c_ja;&c_t;&c_mol; &c_n;&c_a;&c_d;&c_je;&c_zh;&c_d;&c_u;</trd>
+  </trdgrp>
+  <trd lng="sk">z&uacute;fa&tcaron;</trd>
+  <trd lng="zh">&#x55D2; <pr>t&#xE0;</pr></trd>
+</drv>
+
+<drv mrk="esper.mal0o">
+  <kap>mal<tld/>o</kap>
+  <snc mrk="esper.mal0o.KOMUNE">
+    <dif>
+      La sento, la animstato de mal<tld/>anto:
+      <ekz>
+        mal<tld/>o min kaptas, kiam mi rigardas la
+        malgrasi&gcirc;intan viza&gcirc;on de mia infano
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i havis nenion, al kio &scirc;i povus alkro&ccirc;i&gcirc;i, kaj &scirc;i falis en senfundan abismon de
+        mal<tld/>o
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Infano en la tombo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la mal<tld/>o &scirc;i ku&scirc;i&gcirc;is, por eltrinki la lagon, kaj tio por homo estas ja ne
+        ebla
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de unu patrino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tute sola tie mi frenezi&gcirc;us de mal<tld/>o
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        krio de mal<tld/>o
+        <fnt>
+          <aut>Charles Dickens, tr. &Z;</aut>:
+          <vrk>La batalo de l' vivo</vrk>. <lok>1891</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lacaj de la sendanka laborado, ni kun mal<tld/>o kaj apatio lasus fali la manojn
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malanta&ubreve;e mizero, anta&ubreve;e mal<tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_o;&c_s;&c_p;&c_a;&c_ch;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_n;&c_a;&c_d;&c_z;&c_je;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>beznad&ecaron;j</trd>,
+    <trd>zoufalstv&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Verzweifelung</trd>
+  <trd lng="fr">d&eacute;sespoir</trd>
+  <trd lng="he">&#x5D9;&#x5D0;&#x5D5;&#x5E9;</trd>
+  <trd lng="id"><baz>putus asa</baz>keputusasaan</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D76;&#x671B;  <pr>&#x305C;&#x3064;&#x307C;&#x3046;</pr></trd>,
+    <trd>&#x5931;&#x671B;  <pr>&#x3057;&#x3064;&#x307C;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">wanhoop</trd>
+  <trd lng="pl">rozpacz</trd>
+  <trd lng="ru">&c_o;&c_t;&c_ch;&c_a;&c_ja;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">z&uacute;falstvo</trd>
+  <trdgrp lng="zh">
+    <trd>&#x617E;&#x7D55; <pr>y&#xF9;ju&#xE9;</pr></trd>,
+    <trd>&#x7D55;&#x671B; <pr>ju&#xE9;w&#xE0;ng</pr></trd>,
+    <trd>&#x70E6;&#x95F7; <pr>f&#xE1;nm&#x113;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="esper.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="esper.mal0a.KOMUNE">
+    <dif>
+      Rilata al mal<tld/>o:
+      <ekz>
+        fajro de mal<tld/>aj pensoj <klr>[&#x2026;]</klr> atakis &scirc;ian kapon
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia la&ubreve;ta, mal<tld/>a ekkrio plenigis la du &gcirc;ardenojn
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la amo ruinigas la amanton,
+        kondukas al decidoj mal<tld/>aj
+        <fnt>
+          <aut>&Scirc;ekspiro, tr. &Z;</aut>:
+          <vrk>Hamleto Re&gcirc;ido de Danujo</vrk>. <lok>2:1</lok>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nomar&hcirc;o per mal<tld/>a movo &scirc;topis al si la orelojn
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_o;&c_s;&c_p;&c_a;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_n;&c_a;&c_d;&c_z;&c_je;&c_j;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>beznad&ecaron;jn&yacute;</trd>,
+    <trd>zoufal&yacute;</trd>
+  </trdgrp>
+  <trd lng="he">&#x5E0;&#x5D5;&#x5B9;&#x5D0;&#x5B8;&#x5E9;&#x5C1;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D76;&#x671B;&#x7684;&#x306A;  <pr>&#x305C;&#x3064;&#x307C;&#x3046;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x7D76;&#x671B;&#x3057;&#x305F;  <pr>&#x305C;&#x3064;&#x307C;&#x3046;&#x3057;&#x305F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_je;&c_n;&c_a;&c_d;&c_jo;&c_zh;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_t;&c_ch;&c_a;&c_ja;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bezn&aacute;dejn&yacute;</trd>,
+    <trd>z&uacute;fal&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8981;&#x6B7B;&#x8981;&#x6D3B; <pr>y&#xE0;os&#x1D0;y&#xE0;ohu&#xF3;</pr></trd>,
+    <trd>&#x4EA1;&#x547D; <pr>w&#xE1;ngm&#xEC;ng</pr></trd>,
+    <trd>&#x62FC;&#x547D;&#x5730; <pr>p&#x12B;nm&#xEC;ngde</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="esper.mal0igi">
+  <kap>mal<tld/>igi,
+  <var><kap>sen<tld/>igi</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="esper.mal0igi.KOMUNE">
+    <dif>
+      Senigi je <tld/>o:
+      <ekz>
+        mia kunparolanto parolis nur sian gepatran lingvon, kio mal<tld/>igis min a&ubreve;
+        pelis al pantomimo
+        <fnt>
+          <aut>Zlatko Ti&scaron;ljar</aut>
+          <vrk><url ref="&Monato;/2007/009137.php">Helpi financi edukadon por e&ubreve;ropa
+          konscio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/03, p. 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        katastrofo <klr>[&#x2026;]</klr> remalri&ccirc;igas kaj sen<tld/>igas la familion
+        <fnt>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2007/009098.php">Bele prezentita romano</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/11, p. 25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la financa situacio <klr>[&#x2026;]</klr> i&gcirc;is mal<tld/>iga
+        <fnt>
+          <aut>Roland Rotsaert</aut>
+            <vrk><url ref="&Monato;/2000/007217.php">Vindozo kaj Linukso
+            interproksimi&gcirc;as</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 17</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        estas anka&ubreve; mal<tld/>ige vidi, ke da&ubreve;ris tre longe, de la unua publika atento
+        pri la klimatoproblemo en la 1980aj jaroj &gcirc;is konkretaj malgrandaj kaj
+        nesufi&ccirc;aj agoj
+        <fnt>
+          <aut>Werner Fu&szlig;</aut>
+          <vrk><url ref="&Monato;/2011/010273.php">Verdigu la dezertojn!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/07, p. 14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen situacio teorie sen<tld/>iga, tamen prezentas sin du ebloj
+        <fnt>
+          <aut>Zlatko Ti&scaron;ljar</aut>
+          <vrk><url ref="&Monato;/2013/011135.php">Stato de la &scirc;tatoj de la iama
+          Jugoslavio ... kaj la solvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/11, p. 25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_je;&c_z;&c_n;&c_a;&c_d;&c_z;&c_je;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">p&rcaron;iv&aacute;d&ecaron;t k zoufalstv&iacute;</trd>
+  <trd lng="de">verzweifeln lassen</trd>
+  <trd lng="fr">d&eacute;sesp&eacute;rer<klr tip="ind"> (tr. dir.)</klr>
+  </trd>
+  <trdgrp lng="hu">
+    <trd>k&eacute;ts&eacute;gbe ejt</trd>,
+    <trd>rem&eacute;nytelenn&eacute; tesz</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5931;&#x671B;&#x3055;&#x305B;&#x308B;  <pr>&#x3057;&#x3064;&#x307C;&#x3046;&#x3055;&#x305B;&#x308B;</pr></trd>
+  <trd lng="nl">de <ind>hoop</ind> doen varen</trd>
+  <trdgrp lng="pl">
+    <trd>popada&cacute; w <ind>rozpacz</ind></trd>,
+    <trd>doprowadza&cacute; do <ind>rozpaczy</ind></trd>,
+    <trd>pozbawia&cacute; <klr>(wszelkiej)</klr> <ind>nadziei</ind>
+    </trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i; &c_v; &c_o;&c_t;&c_ch;&c_a;&c_ja;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">vohna&tcaron; do z&uacute;falstva</trd>
+</drv>
+
+<drv mrk="esper.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="esper.sen0a.PSI">
+    <dif>
+      <klr>(iu)</klr> Kiu ne a&ubreve; ne plu <tld/>as, aflikti&gcirc;as:
+      <ekz>
+        li &gcirc;emis simile al sen<tld/>a animo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tremanta de frosto la kompatinda knabineto trenadis sin <klr>[&#x2026;]</klr> jam tute
+        sen<tld/>a
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Knabineto kun alumetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sen<tld/>aj fratinoj ser&ccirc;is lin en la tuta urbo
+        <fnt>
+          <aut>A. Niemojewski, trad. Kabe</aut>,
+          <vrk>En Kvieta Vespero</vrk>,
+          <lok>Internacia Krestomatio</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="esper.sen0a.objektive">
+    <dif>
+      <klr>(io)</klr> Sen<tld/>iga, kiu ne havas &scirc;ancojn de sukceso;
+      <ref tip="vid" cel="perspe.sen0a.FIG">senperspektiva</ref>:
+      <ekz>
+        sen<tld/>a ser&ccirc;ado
+        <fnt>
+          <aut>Zofia Banet-Fornalowa</aut>
+          <vrk><url ref="&Monato;/2003/008093.html">Li semis bonon kaj
+          belon</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/09, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen<tld/>a utopia&jcirc;o
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008394.html">La angla, &ccirc;u troja
+          &ccirc;evalo?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/10, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas afero sen<tld/>a, kion mi povas fari?
+        <fnt><aut>S. Engholm</aut>,
+        <vrk>Vivo vokas</vrk>,
+        <lok>1946</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_z;&c_n;&c_a;&c_d;&c_z;&c_je;&c_j;&c_n;&c_y;</trd>
+  <trd lng="cs">beznad&ecaron;jn&yacute;</trd>
+  <trd lng="de">hoffnungslos</trd>
+  <trd lng="fr">d&eacute;sesp&eacute;r&eacute;<klr> (adj.)</klr></trd>
+  <trd lng="id">putus asa</trd>
+  <trd lng="sk">bezn&aacute;dejn&yacute;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x65E0;&#x671B; <klr>(w&uacute; w&agrave;ng)</klr></trd>
+    <trd>&#x7EDD;&#x671B; <klr>(ju&eacute; w&agrave;ng)</klr></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.122 2023/10/14 15:49:05
+revo: transskribo per <pr>
+
+versio 1.120 2023/08/29 13:30:08
+Wolfram Diestel: ja: +prononco
+
+versio 1.119 2023/07/15 19:22:31
+Mahaer Mahmud: aldonis anglajn tradukojn
+
+versio 1.118 2023/05/12 07:23:59
+Paul Peeraerts: + lok
+
+versio 1.117 2023/04/30 07:23:40
+Paul Peeraerts: Steloj -> monato
+
+versio 1.116 2023/04/25 14:28:38
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.115 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.113 2022/02/14 08:34:43
+-->
+</vortaro>

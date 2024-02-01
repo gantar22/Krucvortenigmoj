@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: trakto1.xml,v 1.12 2020/02/22 20:10:36 revo Exp $">
+  <kap>
+    <rad>traktori</rad>/o
+  </kap>
+<drv mrk="trakto1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 35</lok></fnt>
+  <snc mrk="trakto1.0o.ebena">
+    <dif>
+      Ebena <ref tip="super" cel="kurb.0o.MAT">kurbo</ref>, 
+      <ref cel="volv.el0anto">elvolvanto</ref> de
+      <ref cel="katen.0o.linio">kateno</ref>:
+      <ekz>
+        la distanco inter ajna punkto de <tld/>o kaj la punkto
+        de &gcirc;ia asimptoto, kie pasas la tan&gcirc;anto &ccirc;e tiu 
+        punkto, estas konstanta.
+      </ekz>
+    </dif>
+  </snc>
+  <bld lok="../bld/k_traktorio.svg" tip="svg" alt="400" lrg="400">
+    <tld/>o
+  </bld>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_k;&c_t;&c_r;&c_y;&c_s;&c_a;</trd>
+  <trd lng="ca">tractriu</trd>
+  <trd lng="de">Traktrix</trd>
+  <trd lng="en">tractrix</trd>
+  <trd lng="fr">tractrice<klr tip="ind"> (math.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>h&uacute;z&oacute;g&ouml;rbe</trd>,
+    <trd>traktrix</trd>
+  </trdgrp>
+  <trd lng="pl">traktrysa</trd>
+  <trdgrp lng="pt">
+    <trd>tratriz</trd>,
+    <trd>trat&oacute;ria</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_r;&c_a;&c_k;&c_t;&c_r;&c_i;&c_s;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>traktrix</trd>,
+    <trd>vle&ccaron;n&aacute; krivka</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>traktrix</trd>,
+    <trd>vle&ccaron;n&aacute; k&rcaron;ivka</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: trakto1.xml,v $
+versio 1.12 2020/02/22 20:10:36
+Wolfram Diestel: svg anst. gif
+
+Revision 1.11  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2012/08/14 12:10:41  revo
+Marc Rausell: + trd ca
+
+Revision 1.8  2010/01/18 17:31:21  revo
+Mireille Corobu: svg->gif
+
+Revision 1.7  2006/02/16 17:33:20  revo
+Tulio Flores: +trd pt
+
+Revision 1.6  2004/12/10 17:31:25  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2003/09/29 16:31:28  revo
+-->
+</vortaro>

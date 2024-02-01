@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: stokholm.xml,v 1.6 2023/10/30 01:33:12 revo Exp $">
+    <kap>
+      <rad>Stokholm</rad>/o
+    </kap>
+
+<drv mrk="stokholm.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stokholm.0o.cxefurbo">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="lst" cel="urb.cxef0o" lst="voko:&ccirc;efurboj">&Ccirc;efurbo</ref>
+      de <ref tip="malprt" cel="sved.S0ujo">Svedujo</ref>
+      (18&deg;3&minute;&#x202F;E 59&deg;20&minute;&#x202F;N):
+      <ekz>
+        unu el la plej grandaj kaj plej bonaj &scirc;ipoj <klr>[&#8230;]</klr> devis en tiu jaro &gcirc;uste iri al
+        <tld/>o
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Alfred Nobel</nom> naski&gcirc;is en 1833 en <tld/>o kiel la tria filo de <nom>Immanuel
+        Nobel</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Edward Kusters</aut>
+          <vrk><url ref="&Monato;/2006/009100.php">Alfred Nobel: nobelo inter la sciencistoj kaj
+          lingvistoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>August Weide</nom> <klr>[&#8230;]</klr> 76-jara, ankora&ubreve; gvidis kurson la&ubreve; la Cseh-metodo dum
+        la UK en <tld/>o en 1980
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2011/010149.php">Ho, belaj spritaj tempoj!</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_S;&c_t;&c_a;&c_k;&c_g;&c_o;&c_l;&c_mol;&c_m;</trd>
+  <trd lng="de">Stockholm</trd>
+  <trd lng="fi">Tukholma</trd>
+  <trd lng="la">Holmia</trd>
+  <trd lng="ja">&#x30B9;&#x30C8;&#x30C3;&#x30AF;&#x30DB;&#x30EB;&#x30E0;</trd>
+  <trd lng="pl">Sztokholm</trd>
+  <trd lng="sv">Stockholm</trd>
+  <trd lng="uk">&c_S;&c_t;&#x43E;&#x43A;&c_g;&#x43E;&#x43B;&#x44C;&#x43C; (&c_s;&c_t;&#x43E;&#x43B;&c_i;&c_c;&#x44F;)</trd>
+</drv>
+  </art>
+
+<!--
+$Log$
+versio 1.6 2023/10/30 01:33:12
+Vito Redsky: +trd pl la fi sv
+
+versio 1.3 2021/05/07 07:03:15
+Dmitri Gabinski: + trd be
+
+Revision 1.1  2018/11/09 15:10:15  revo
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

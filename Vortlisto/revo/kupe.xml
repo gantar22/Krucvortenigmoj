@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kupe.xml,v 1.24 2023/12/03 09:59:03 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kupe</rad>/o
+</kap>
+
+<drv mrk="kupe.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kupe.0o.FER">
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      Parto de veturilo, de <ref tip="malprt" cel="vagon.0o.FER">vagono</ref>, apartigita de aliaj, kun propra
+      pordo:
+      <ekz>
+        Herbeno lasis la vagonon por paka&jcirc;oj, kaj eniris en unuaklasan <tld/>on
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni alproksimi&gcirc;is al unu <tld/>o de kvara klaso
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        granda amaso samtempe ser&ccirc;as <tld/>ojn, sed <klr>[&#x2026;]</klr> mi tuj kondukas
+        ilin al bonaj lokoj en la man&gcirc;vagono
+        <fnt>
+          <bib>KKl</bib>
+        </fnt>.
+      </ekz>      
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fak.0o">fako</ref>,
+      <ref cel="kajut.0o">kajuto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_p;&c_e;</trd>
+  <trd lng="bg">&c_k;&c_u;&c_p;&c_je;<klr tip="amb"> (&c_n;&c_a; &c_v;&c_l;&c_a;&c_k;)</klr></trd>
+  <trd lng="ca">compartiment</trd>
+  <trdgrp lng="cs">
+    <trd>box</trd>,
+    <trd>kup&eacute;</trd>,
+    <trd>odd&ecaron;l. prostor</trd>
+  </trdgrp>
+  <trd lng="de">Abteil</trd>
+  <trd lng="en">compartment</trd>
+  <trd lng="es">compartimento</trd>
+  <trd lng="fa">&f_k;&a_w;&f_p;&a_h;</trd>
+  <trdgrp lng="fr">
+    <trd>coup&eacute;<klr tip="amb"> (compartiment)</klr></trd>,
+    <trd>compartiment<klr tip="amb"> (chemin de fer...)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>f&uuml;lke</trd>,
+    <trd>kup&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8ECA;&#x5BA4;  <pr>&#x3057;&#x3083;&#x3057;&#x3064;</pr></trd>,
+    <trd>&#x30B3;&#x30F3;&#x30D1;&#x30FC;&#x30C8;&#x30E1;&#x30F3;&#x30C8;</trd>,
+    <trd>&#x5BA2;&#x5BA4;  <pr>&#x304D;&#x3083;&#x304F;&#x3057;&#x3064;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>compartiment</trd>,
+    <trd>coup&eacute;</trd>
+  </trdgrp>
+  <trd lng="pl">przedzia&lstroke;</trd>
+  <trd lng="ru">&c_k;&c_u;&c_p;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>kup&eacute;</trd>,
+    <trd>oddelenie</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43A;&#x443;&#x43F;&#x435;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x9694;&#x9593; <pr>g&#xE9;ji&#x101;n</pr></trd>,
+    <trd>&#x9694;&#x95F4; <pr>g&#xE9;ji&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+versio 1.20 2022/01/09 17:38:32
+Wolfram Diestel: ~i: ekz-oj, ref
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2009/09/20 16:30:48  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2009/06/25 16:30:56  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2007/11/22 17:30:25  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2006/05/12 16:31:09  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2006/01/09 17:33:29  revo
+-->
+</vortaro>

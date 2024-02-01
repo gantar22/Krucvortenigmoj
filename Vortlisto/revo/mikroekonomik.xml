@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mikroekonomik.xml,v 1.4 2022/05/01 12:05:12 revo Exp $">
+<kap>
+  <rad>mikroekonomik</rad>/o
+</kap>
+<drv mrk="mikroekonomik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mikroekonomik.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Bran&ccirc;o de
+      <ref tip="super" cel="ekonom2.0o.SCI">ekonomiko</ref>
+      esploranta malgrandskalan ekonomion, tio estas
+      ekonomiajn agojn de individuoj, familioj, kompanioj...:
+      <ekz>
+        la <tld/>a teorio opinias ke la salajro respegulas la 
+        produktivecon de la laboro
+        <fnt>
+          <aut>F. Grin</aut>,
+          <vrk><url ref="http://lingvo.org/raporto_grin_eo.pdf">
+          Fremdlingvo-instruado kiel publika politiko</url></vrk>,
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kompreno de elektoj de individuoj kaj grupoj estas centra en 
+        <tld/>o
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Mikroekonomiko">
+          Mikroekonomiko</url>, 2011-03-09</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_ib;&c_k;&c_r;&c_a;&c_e;&c_k;&c_a;&c_n;&c_o;&c_m;&c_ib;&c_k;&c_a;</trd>
+  <trd lng="fr">micro&eacute;conomie</trd>
+  <trd lng="pl">mikroekonomia</trd>     
+  <trd lng="ro">microeconomie</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.3 2021/04/07 07:01:19
+Dmitri Gabinski: + trd be
+
+versio 1.2 2020/08/29 20:10:31
+Vito Redsky: +trd pl +trd ro
+-->
+</vortaro>

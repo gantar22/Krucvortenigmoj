@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: oscil.xml,v 1.21 2023/10/20 13:11:48 revo Exp $">
+<kap><rad>oscil</rad>/i</kap>
+<drv mrk="oscil.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="oscil.0i.FIZ">
+  <uzo tip="fak">FIZ</uzo>
+  <uzo tip="fak">ELE</uzo>
+    <dif>
+      Regule <ref tip="super" cel="vari.0i.devii">varii</ref> &ccirc;irka&ubreve; meza valoro
+      a&ubreve; inter pluraj polusoj:
+      <ekz>
+        la <tld/>anta nadlo en kompaso.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="baskul.0i">baskuli</ref>,
+      <ref cel="muar.0i">muari</ref>,
+      <ref cel="pendol.0i">pendoli</ref>,
+      <ref cel="sving.0igxi">svingi&gcirc;i</ref>,
+      <ref cel="vibr.0i">vibri</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="oscil.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="dif" cel="balanc1.0igxi">Balanci&gcirc;i</ref>, 
+      <ref tip="dif" cel="sxance.0igxi">&scirc;anceli&gcirc;i</ref>:
+      <ekz>
+        survoje ni <tld/>as inter la setlantoj kaj la komunumo de aborigenoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan MacGill</aut>
+          <vrk><url ref="&Monato;/2012/010164.php">Panorama soro super kontinento</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la bestio, tiele mortvundita, <tld/>as, &gcirc;ia peza korpo balanci&gcirc;as, stumble
+        genui&gcirc;as
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Eduardo Novembro</aut>
+          <vrk><url ref="&Monato;/2014/011318.php">Ta&ubreve;ro??? Festo!!!</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la personeco de <nom>Liszt</nom> <tld/>as inter monduma modemulo, altira amanto, pia
+        subpastro, mecenato, impresa virtuozo, skolestro, sindonema instruanto, zorga
+        patro kaj aliaj roloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2012/010588.php">Geniulo mondcivitana</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        artikolisto traktu nociojn kiel &leftquot;demokratio&rightquot;, &leftquot;volo de la popolo&rightquot;, &leftquot;justeco&rightquot;,
+        &leftquot;&scirc;ancegaleco&rightquot; tre prudente, ilia signifo povas <tld/>i inter vakua vorto kaj
+        mortiga bastono
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2011/010252.php">Volo de la popolo?</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_j;&c_d;&c_a;&c_c;&c_c;&c_a;</trd>, 
+    <trd>&c_v;&c_ib;&c_b;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_k;&c_o;&c_l;&c_je;&c_b;&c_a;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>kmitat</trd>,
+    <trd>oscilovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>oszillieren</trd>,
+    <trd>schwingen</trd>
+  </trdgrp>
+  <trd lng="en">oscillate</trd>
+  <trd lng="fa">&a_n;&a_w;&a_s;&a_A;&a_n; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fr">osciller</trd>
+  <trdgrp lng="hu">
+    <trd>rezeg</trd>,
+    <trd>oszcill&aacute;l</trd>
+  </trdgrp>
+  <trd lng="ja">&#x632F;&#x52D5;&#x3059;&#x308B;  <pr>&#x3057;&#x3093;&#x3069;&#x3046;&#x3059;&#x308B;</pr></trd>
+  <trd lng="nl">oscilleren</trd>
+  <trdgrp lng="pl">
+    <trd>drga&cacute;</trd>,
+    <trd>oscylowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">oscilar</trd>
+  <trdgrp lng="ro">
+    <trd>oscila</trd>,
+    <trd>tremura</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_l;&c_je;&c_b;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_k;&c_a;&c_ch;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_o;&c_s;&c_c;&c_i;&c_l;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chvie&tcaron; sa</trd>,
+    <trd>kmita&tcaron;</trd>,
+    <trd>oscilova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_l;&c_i;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_h;&c_i;&c_t;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_ib;&c_b;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.19 2022/05/01 17:17:01
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2022/03/31 15:40:04
+Wolfram Diestel: +ref
+
+versio 1.17 2022/03/30 17:28:20
+Wolfram Diestel: +snc FIG, ekz-oj, ref-oj
+
+versio 1.15 2021/09/06 12:47:07
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.13  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/09/01 07:10:16  revo
+-->
+</vortaro>

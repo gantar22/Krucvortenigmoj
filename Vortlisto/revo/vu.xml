@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vu.xml,v 1.8 2023/10/21 16:50:36 revo Exp $">
+<kap>
+  <rad>vu</rad>/o <fnt><bib>KompLeks</bib></fnt>
+</kap>
+
+<drv mrk="vu.0">
+  <kap><tld/>,
+  <var><kap><tld/>o</kap></var></kap>
+  <snc mrk="vu.0.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Nomo de la novlatina neesperanta
+      <ref tip="super" cel="liter.0o.propra">litero</ref>
+      <em>Ww</em>:
+      <ekz>
+        majuskla <tld/>o estas uzata kiel simbolo de
+        <ref cel="vat1.v0o">vato</ref> kaj okcidento;
+      </ekz><ekz>
+        <uzo tip="fak">KEM</uzo>
+        en &hcirc;emio la majuskla <tld/>o simbolas
+        <ref cel="volfram.0o">volframon</ref>;
+      </ekz><ekz>
+        <uzo tip="fak">KOMP</uzo>
+        la retadreso estas:
+        <ctl><tld/>-<tld/>-<tld/> punkto reta minus vortaro punkto
+        de</ctl> <klr>(t.e. www.reta-vortaro.de)</klr>;
+      </ekz><ekz>
+        la novjorka <ref cel="longit.0o">longitudo</ref> estas sepdek
+        kvar gradoj <tld/>
+        <klr> (74&deg;W)</klr>;
+      </ekz><ekz>
+        <ref cel="neces.0ejo">necesejo</ref> ofte estas markita kiel
+        <ctl><tld/> co</ctl> <klr>(WC)</klr>;
+      </ekz><ekz>
+        A&ubreve;toj de la marko BMW nomi&gcirc;as en la rusa slango <ctl>be&hcirc;a</ctl>;
+        por ne perpleksigi legantojn, mi tradukas &gcirc;in
+        per <ctl>Bomo<tld/>o</ctl> (el <tld/>o: nomo de la neesperanta
+        litero <em>w</em> <klr>&#8230;</klr>)
+        <fnt><aut>&Gcirc;. Ramonov, tr. Slavik Ivanov</aut>:
+          <vrk>Revaz</vrk>. 
+          <lok>Beletra Almanako 7 (Feb. 2010). ISBN 9781595691521. p. 35</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="v1.duobla0o">duobla vo</ref>,
+      <ref cel="vav.0o.vuo">vavo<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dvojit&eacute; v</trd>,
+    <trd>w</trd>
+  </trdgrp>
+  <trd lng="en">double-u</trd>
+  <trd lng="fr">double v&eacute;</trd>
+  <trd lng="io">we</trd>
+  <trd lng="ko">&#45908;&#48660;&#50976;</trd>
+  <trd lng="nl">de letter <ind>W</ind><klr> [wee]</klr></trd>
+  <trd lng="ja">&#12480;&#12502;&#12522;&#12517;&#12540; <pr>&#12384;&#12406;&#12426;&#12421;&#12540;</pr></trd>
+  <trd lng="pl">wu</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_u;&c_b;&c_l;&c_mol;-&c_v;&c_e;</trd>,
+    <trd>&c_d;&c_a;&c_b;&c_l;-&c_ju;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dvojit&iacute; v</trd>,
+    <trd>w</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.7 2021/10/20 02:42:02
+Sergio Pokrovskij: +~emulo
+
+versio 1.6 2020/06/20 15:10:34
+Sam Penter: vuco -> vu co, laux PMEG-a rekomendo pri mallongigoj; +ref sin, +trd
+
+Revision 1.5  2020/01/08 06:10:14  revo
+Sergio Pokrovskij: +ekz
+
+Revision 1.4  2020/01/04 15:10:16  revo
+Sergio Pokrovskij: +ekz
+
+Revision 1.3  2019/02/10 12:10:25  revo
+Jeromo Vasxe: - krampoj + var
+
+Revision 1.2  2014/12/29 05:10:45  revo
+Sergio Pokrovskij: +ekz
+
+Revision 1.1  2014/12/28 18:10:11  revo
+-->
+</vortaro>

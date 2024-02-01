@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tring.xml,v 1.3 2023/08/08 15:27:38 afido Exp $">
+<kap>
+  <rad>tring</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="tring.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tring.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Vadbirdo kun mezlonga beko kaj longaj brilkoloraj kruroj,
+      vivanta en mezvarmaj landoj;
+      genro el familio <ref tip="malprt" cel="skolop2.0oj">skolopedoj</ref>
+      (<trd lng="la">Tringa</trd>):
+     <ekz>
+        iuj <tld/>aj paroj superflugis el la oriento
+        <fnt>
+          <aut>H. Laxness</aut>
+          <vrk>Sendependaj homoj</vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_l;&c_ib;&c_t;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="fr">chevalier<klr> (oiseau)</klr></trd>
+  <trd lng="uk">&#x43A;&#x43E;&#x43B;&#x43E;&c_v;&#x43E;&c_d;&#x43D;&c_i;&#x43A;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.3 2023/08/08 15:27:38
+Dmitri Gabinski: + trd be
+
+versio 1.1 2021/04/22 21:52:49
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

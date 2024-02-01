@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kvot.xml,v 1.35 2023/12/03 09:59:05 revo Exp $">
+<kap>
+  <rad>kvot</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kvot.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kvot.0o.KOMUNE">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Proporcia <ref tip="super" cel="part.0o.KOMUNE">parto</ref>
+      de tuto, kiun oni devas doni, pagi a&ubreve; kiun oni
+      rajtas preni, ricevi:
+      <ekz>
+        A&ubreve;strio havas la plej altan <ind>imposto-<tld/>o</ind>n en la EU
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2003/008084.html">Magra
+          majoritato</url></vrk>
+        </fnt>;
+        <trd lng="de">Steueranteil</trd>
+      </ekz>
+      <ekz>
+        la registaro en Berlino pripensas enkonduki <tld/>on por germana
+        pop-muziko kaj
+        tiamaniere malfortigi la hegemonion de anglalingva muziko en
+        radio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2004/008476.html">Germana
+          muzikkvoto por la radio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la foliumilo (TTT-legilo) <nom>Microsoft Internet Explorer</nom>
+        perdas <ind>merkat<tld/>o</ind>jn al
+        siaj konkurantoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2005/008483.php">Foliumiloj denove
+          interbatalas</url></vrk>
+        </fnt>;
+        <trd lng="de">Marktanteil</trd>
+        <trd lng="en">market share</trd>
+      </ekz>
+      <ekz>
+        ne sufi&ccirc;as la <ind>nasko<tld/>o</ind> por teni la lo&gcirc;antaron &ccirc;e
+        la sama nivelo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2005/008602.php">Ago pro
+          a&gcirc;o</url></vrk>
+        </fnt>;
+        <trd lng="de">Geburtenrate</trd>
+      </ekz>
+      <ekz>
+        <ind>memmortiga <tld/>o</ind>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2008/009579.php">Vivi malpli
+          longe</url></vrk>
+        </fnt>.
+        <trd lng="de">Selbstmordrate</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="anuitat.0o">anuitato</ref>,
+      <ref cel="porci.0o">porcio</ref>,
+      <ref cel="propor.0o.parto_tuto">proporcio<sncref/></ref>,
+      <ref cel="procen.0o">procento</ref>,
+      <ref cel="kvocie.0o">kvociento</ref>,
+      <ref cel="frakci.0o">frakcio</ref>,
+      <ref cel="minimu.0o">minimumo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_v;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_d;&c_o;&c_l;&c_ja;</trd>,
+    <trd>&c_p;&c_a;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kv&oacute;ta</trd>,
+    <trd>pod&iacute;l</trd>,
+    <trd>pom&ecaron;rn&yacute; d&iacute;l</trd>,
+    <trd>ur&ccaron;en&aacute; &ccaron;&aacute;stka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Quote</trd>,
+    <trd>Anteil</trd>,
+    <trd>Kontingent</trd>,
+    <trd>Rate</trd>,
+    <trd>Satz <klr>(Anteil)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>quota</trd>,
+    <trd>share</trd>,
+    <trd>portion</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>parte</trd>,
+    <trd>cuota</trd>,
+    <trd>porci&oacute;n</trd>
+  </trdgrp>
+   <trdgrp lng="fr">
+    <trd>part</trd>,
+    <trd>quota</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>h&aacute;nyad</trd>,
+    <trd>kv&oacute;ta</trd>,
+    <trd>r&eacute;szesed&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5272;&#x5F53;&#x3066;&#x5206;  <pr>&#x308F;&#x308A;&#x3042;&#x3066;&#x3076;&#x3093;</pr></trd>,
+    <trd>&#x5206;&#x62C5;&#x984D;  <pr>&#x3076;&#x3093;&#x305F;&#x3093;&#x304C;&#x304F;</pr></trd>,
+    <trd>&#x516C;&#x5B9A;&#x76F8;&#x5834;  <pr>&#x3053;&#x3046;&#x3066;&#x3044;&#x305D;&#x3046;&#x3070;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">quotum</trd>
+  <trd lng="pl">kwota</trd>
+  <trdgrp lng="pt">
+    <trd>cota<klr tip="ind"> (parcela)</klr></trd>,
+    <trd>quota<klr tip="ind"> (parcela)</klr></trd>
+  </trdgrp>
+  <trd lng="ro">valoare</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_v;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_d;&c_o;&c_l;&c_ja;</trd>,
+    <trd>&c_p;&c_a;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kv&oacute;ta</trd>,
+    <trd>podiel</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_v;&#x43E;&c_t;&c_a;</trd>,
+    <trd>&c_ch;&c_a;&c_s;&c_t;&#x43A;&c_a;</trd>,
+    <trd>&c_d;&#x43E;&#x43B;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x914D;&#x984D; <pr>p&#xE8;i&#xE9;</pr></trd>,
+    <trd>&#x914D;&#x989D; <pr>p&#xE8;i&#xE9;</pr></trd>,
+    <trd>&#x4EFD;&#x984D; <pr>f&#xE8;n&#xE9;</pr></trd>,
+    <trd>&#x4EFD;&#x989D; <pr>f&#xE8;n&#xE9;</pr></trd>,
+    <trd>&#x984D;&#x5EA6; <pr>&#xE9;d&#xF9;</pr></trd>,
+    <trd>&#x989D;&#x5EA6; <pr>&#xE9;d&#xF9;</pr></trd>,
+    <trd>&#x9650;&#x984D; <pr>xi&#xE0;n&#xE9;</pr></trd>,
+    <trd>&#x9650;&#x989D; <pr>xi&#xE0;n&#xE9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kvot.0igo">
+  <kap><tld/>igo</kap>
+  <snc mrk="kvot.0igo.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Proporcia alju&gcirc;o en a&ccirc;eto de akcioj, valutoj, valorpaperoj
+      ktp en la borso, kiu influas la fiksadon de la taga
+      <ref tip="vid" cel="kurz.0o.EKON">kurzo</ref>.
+    </dif>
+    <trd lng="de">Quotierung <klr>(B&ouml;rse)</klr></trd>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_y;&c_r;&c_o;&c_w;&c_k;&c_a;</trd>
+  <trd lng="cs">kvotizace</trd>
+  <trdgrp lng="en">
+    <trd>allocation</trd>,
+    <trd>allotment</trd>
+  </trdgrp>
+  <trd lng="es">cotizaci&oacute;n</trd>
+  <trd lng="fr">cotation</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5272;&#x308A;&#x5F53;&#x3066;  <pr>&#x308F;&#x308A;&#x3042;&#x3066;</pr></trd>,
+    <trd>&#x76F8;&#x5834;&#x4ED8;  <pr>&#x305D;&#x3046;&#x3070;&#x3065;&#x3051;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">toewijzing</trd>
+  <trdgrp lng="pl">
+    <trd>przydzia&lstroke;</trd>,
+    <trd>przydzielenie</trd>,
+    <trd>wyznaczenie</trd>
+  </trdgrp> 
+  <trd lng="ro">alocare</trd>
+  <trd lng="ru">&c_k;&c_o;&c_t;&c_i;&c_r;&c_o;&c_v;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>kv&oacute;tovanie</trd>,
+    <trd>ur&ccaron;enie kv&oacute;ty</trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_s;&c_t;&c_a;&#x43D;&#x43E;&c_v;&#x43B;&c_je;&#x43D;&#x43D;&#x44F; &#x43A;&c_v;&#x43E;&c_t;</trd>
+</drv>
+
+<drv mrk="kvot.profit0o">
+  <kap>profit<tld/>o</kap>
+  <snc mrk="kvot.profit0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Parto de farita <ref tip="malprt" cel="profit.0o.EKON">profito</ref>:
+      <ekz>
+        a&ubreve; la profit<tld/>o malalti&gcirc;os, a&ubreve; la varo-prezoj kreskos
+        <fnt>
+          <aut>Andr&eacute; Gorz </aut>
+          <vrk><url ref="&Mondediplo;article1595.html">Ilia ekologio kaj la nia</url></vrk>
+          <lok>Le Monde diplomatique' en Esperanto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_o;&c_l;&c_ja; <ind>&c_p;&c_r;&c_y;&c_b;&c_y;&c_t;&c_k;&c_u;</ind></trd>
+    <trd lng="de">Gewinnanteil</trd>
+    <trdgrp lng="hu">
+      <trd>haszonr&eacute;szesed&eacute;s</trd>,
+      <trd>nyeres&eacute;gr&eacute;szesed&eacute;s</trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_o;&c_l;&c_ja; &c_p;&c_r;&c_i;&c_b;&c_y;&c_l;&c_i;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x7D05;&#x5229; <pr>h&#xF3;ngl&#xEC;</pr></trd>,
+    <trd>&#x7EA2;&#x5229; <pr>h&#xF3;ngl&#xEC;</pr></trd>,
+    <trd>&#x80A1;&#x606F; <pr>g&#x1D4;x&#xED;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="cs">m&iacute;ra zisku</trd>
+  <trd lng="es">dividendo</trd>
+  <trd lng="ja">&#x5229;&#x6F64;&#x7387;  <pr>&#x308A;&#x3058;&#x3085;&#x3093;&#x308A;&#x3064;</pr></trd>
+  <trd lng="pl">kwota zysku</trd>     
+  <trd lng="ro">valoarea profitului</trd>
+  <trd lng="sk">podiel na zisku</trd>
+  <trd lng="uk">&c_ch;&c_a;&c_s;&c_t;&#x43A;&c_a; &c_d;&#x43E;&c_h;&#x43E;&c_d;&c_ib;&c_v;</trd>
+</drv>
+
+<!--
+<drv mrk="kvot.0odeplusvaloro">
+  <kap><tld/>o de plusvaloro</kap>
+  <snc mrk="kvot.0odeplusvaloro.MAH">
+    <uzo tip="fak">MAH</uzo>
+    <dif>
+      Ekspluatgrado, tio estas rilato de la plusvaloro
+      al la salajrosumo (varipova kapitalo).
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_o;&c_r;&c_m;&c_a; &c_d;&c_a;&c_d;&c_a;&c_n;&c_a;&c_j;
+  <ind>&c_v;&c_a;&c_r;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_ib;</ind></trd>
+  <trd lng="cs">m&iacute;ra nadhodnoty</trd>
+  <trd lng="hu">&eacute;rt&eacute;kt&ouml;bbletr&aacute;ta</trd>
+  <trd lng="pl">kwota warto&sacute;ci dodanej</trd>     
+  <trd lng="ro">cantitatea de valoare ad&abreve;ugat&abreve;</trd>
+  <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_a; &c_p;&c_r;&c_i;&c_b;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_o;&c_j;
+  &c_s;&c_t;&c_o;&c_i;&c_m;&c_o;&c_s;&c_t;&c_i;</trd>
+  <trd lng="sk">miera nadhodnoty</trd>
+</drv>
+-->
+
+<drv mrk="kvot.0odeinterezoj">
+  <kap><tld/>o de interezoj</kap>
+  <snc mrk="kvot.0odeinterezoj.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Jara proporcio inter la interezoj kaj la &gcirc;in donanta kapitalo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_o;&c_r;&c_m;&c_a; <ind>&c_p;&c_r;&c_y;&c_b;&c_y;&c_t;&c_k;&c_u;</ind></trd>
+  <trd lng="de">Zinssatz</trd>
+  <trdgrp lng="es">
+    <trd>tipo de inter&eacute;s</trd>,
+    <trd>tasa de inter&eacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">rente</trd>
+  <trd lng="pl">kwota odsetek</trd>     
+  <trd lng="ro">valoarea dob&acirc;nzii</trd>
+  <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_a; &c_p;&c_r;&c_i;&c_b;&c_y;&c_l;&c_i;</trd>
+  <trd lng="zh">&#x5229;&#x7387; <pr>l&#xEC;l&#xFC;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.34 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+versio 1.32 2023/05/07 18:28:42
+Guillermo Molleda Jimena: +trd es
+
+versio 1.31 2022/05/01 08:09:26
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.28 2021/03/03 18:03:08
+Wolfram Diestel: +ref, +ekz, forkomentis apenau uzatajn drv/snc
+
+versio 1.27 2020/03/08 20:10:16
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.26  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
+Revision 1.25  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
+Revision 1.24  2018/12/13 07:10:15  revo
+-->
+</vortaro>

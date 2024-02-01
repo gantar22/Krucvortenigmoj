@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: akropol.xml,v 1.15 2023/10/28 08:33:04 revo Exp $">
+<kap>
+  <rad>akropol</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="akropol.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="akropol.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Pli alta, <ref cel="fortik.0a.MIL">fortika</ref> parto de antikvaj
+      mediteraneaj kaj okcidentaziaj
+      <ref tip="malprt" cel="urb.0o.ARKI">urboj</ref>, kun sanktejoj:
+      <ekz>
+        tiu estis popolo, kiu vere kapablis krei la <tld lit="A"/>on
+        <fnt><bib>SatirRak</bib>, <lok>Logos</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        fine <klr>[tiaj deziroj]</klr> kaptas la <tld/>on de la spirito de la junulo,
+        trovinte &gcirc;in malplena de vera kompreno kaj bonaj planoj <klr>[&#x2026;]</klr>,
+        mensogaj kaj fanfaronaj pensoj kaj ideoj suprenkuras por kapti lian citadelon
+        por si
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="citade.0o">citadelo</ref>
+    <trdgrp lng="zh">
+    <trd>&#x536B;&#x57CE; <pr>w&#xE8;ich&#xE9;ng</pr></trd>,
+    <trd>&#x885B;&#x57CE; <pr>w&#xE8;ich&#xE9;ng</pr></trd>,
+    <trd>&#x96C5;&#x5178;&#x536B;&#x57CE; <pr>y&#x1CE;di&#x1CE;nw&#xE8;ich&#xE9;ng</pr></trd>,
+    <trd>&#x96C5;&#x5178;&#x885B;&#x57CE; <pr>y&#x1CE;di&#x1CE;nw&#xE8;ich&#xE9;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_a;&c_k;&c_r;&c_o;&c_p;&c_a;&c_l;&c_mol;</trd>
+  <trd lng="ca">acr&ograve;poli</trd>
+  <trdgrp lng="cs">
+    <trd>akropole</trd>,
+    <trd>akropolis</trd>,
+    <trd>posv&aacute;tn&yacute; vrch</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Akropolis</trd>,
+    <trd>Akropole</trd>
+  </trdgrp>
+  <trd lng="en">acropolis</trd>
+  <trd lng="es">acr&oacute;polis</trd>
+  <trd lng="fr">acropole</trd>
+  <trdgrp lng="he">
+    <trd>&alef;&qof;&resh;&vav;&pe;&vav;&lamed;&yod;&samekh;</trd>,
+    <trd>&mem;&tsadi;&vav;&dalet;&tav; &alef;&tav;&vav;&nun;&he;</trd>
+  </trdgrp>
+  <trd lng="hu">akropolisz</trd>
+  <trd lng="nl">acropolis</trd>
+  <trdgrp lng="pt">
+   <trd>acr&oacute;pole</trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_k;&c_r;&c_o;&c_p;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="sk">akropola</trd>
+  <trd lng="uk">&c_a;&c_k;&c_r;&c_o;&c_p;&c_o;&c_l;&c_mol;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.14 2023/09/14 17:22:57
+Christian Siefkes: +trd de, en
+
+versio 1.12 2021/06/13 18:36:54
+Wolfram Diestel: +ekz, ref-oj
+
+Revision 1.9  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2009/08/13 16:30:53  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.7  2007/02/07 17:30:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2006/10/23 16:30:26  revo
+Wieland Pusch: +trd de
+
+Revision 1.5  2006/02/08 17:31:12  revo
+Tulio Flores: +trd pt
+
+Revision 1.4  2005/04/29 16:31:58  revo
+-->
+</vortaro>

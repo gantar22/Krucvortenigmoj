@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: aft.xml,v 1.27 2023/10/28 08:32:44 revo Exp $">
+<kap>
+  <rad>aft</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="aft.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="aft.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Sendan&gcirc;era ulcereto en la bu&scirc;o.
+    </dif>
+    <trd lng="be">&c_a;&c_f;&c_t;&c_a;</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;jfek&eacute;ly</trd>,
+      <trd>afta ulcer</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>afta</trd>,
+    <trd>ple&sacute;niawka</trd>,
+    <trd>bed&lstroke;ka</trd>,
+    <trd>grzybek</trd>,
+    <trd>gnilec ustny</trd>
+  </trdgrp>
+    <trd lng="ru">&c_a;&c_f;&c_t;&c_a;</trd>
+    <trd lng="sk">vriedok <klr>(v &uacute;stach)</klr></trd>
+    <trd lng="sv">afte</trd>
+    <trdgrp lng="zh">
+    <trd>&#x53E3;&#x75AE; <pr>k&#x1D2;uchu&#x101;ng</pr></trd>,
+    <trd>&#x53E3;&#x7621; <pr>k&#x1D2;uchu&#x101;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="aft.0o.epizootia">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Febrodona &scirc;vela&jcirc;o &ccirc;e la brusto, mamo, hufoj de
+      brutaro:
+      <ekz>
+        <tld/>a epidemio <fnt>PIV</fnt>, <tld/>a malsano.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="aftoz.0o">aftozo</ref>
+    <trd lng="be">&c_ja;&c_sh;&c_ch;&c_u;&c_r; <klr tip="amb">(&c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_a;)</klr></trd>
+    <trd lng="hu">sz&aacute;j- &eacute;s
+k&ouml;r&ouml;mf&aacute;j&aacute;s</trd>
+    <trd lng="ru">&c_ja;&c_shch;&c_u;&c_r;</trd>
+  </snc>
+  <trd lng="cs">slintavka a kulhavka</trd>
+  <trd lng="de">Aphte</trd>
+  <trdgrp lng="en">
+    <trd>aphtha</trd>,
+    <trd>aphthous ulcer</trd>
+  </trdgrp>
+  <trd lng="es">afta</trd>
+  <trd lng="fr">aphte</trd>
+  <trd lng="he">&#x5E4;&#x5E6;&#x5E2; &#x5D1;&#x5E4;&#x5D4;</trd>
+  <trd lng="it">afta</trd>
+  <trd lng="ja">&#x30A2;&#x30D5;&#x30BF;  <pr>&#x3042;&#x3075;&#x305F;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>tongblaar</trd>,
+    <trd>koortsblaasje</trd>,
+    <trd>aft</trd>
+  </trdgrp>
+  <trd lng="pt">afta</trd>
+  <trd lng="sk">slinta&#x10D;ka a kr&#xED;va&#x10D;ka</trd>
+  <trd lng="uk">&#x430;&#x444;&#x442;&#x438;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/12 16:57:43
+revo: transskribo per <pr>
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2011/11/12 17:10:14  revo
+Antonio Codazzi: +trd it
+
+Revision 1.19  2009/03/03 17:30:27  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.18  2006/05/12 16:31:15  revo
+Sebastian Cyprych: korekto trd pl
+
+Revision 1.17  2004/06/01 17:23:51  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2003/05/17 16:31:53  revo
+Viliam Bur: +trd sk
+
+Revision 1.15  2002/06/20 17:31:12  revo
+-->
+</vortaro>

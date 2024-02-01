@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: metro.xml,v 1.21 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <rad>metro</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="metro.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="metro.0o.FER">
+    <uzo tip="fak">TRA</uzo>
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      Urba eksterstrata <ref tip="super" cel="voj.fer0o.FER">fervojo</ref>
+      por amasa rapida transportado de
+      pasa&gcirc;eroj; <tld/>o povas esti subtera, surtera a&ubreve; supertera:
+      <ekz>
+        Vieno, la &ccirc;efurbo de A&ubreve;strio, kun 1,6 milionoj da lo&gcirc;antoj, havas densan reton
+        de publikaj trafikiloj: fervojo, <tld/>o, tramo kaj buso
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2012/010753.php">Tramo sen enir-dramo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum en preska&ubreve; &ccirc;iu evoluinta lando ekzistas jam delonge efikaj trajnoj, <tld/>oj
+        kaj aliaj publik-transportiloj, en Israelo rimedojn tiajn oni neglektas
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Josef &Scirc;emer</aut>
+          <vrk><url ref="&Monato;/2008/009524.php">La juda &scirc;tato 60-jara</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="tram.0o.FER">tramo</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_e;&c_t;&c_r;&c_o;</trd>,
+    <trd>&c_m;&c_e;&c_t;&c_r;&c_a;&c_p;&c_a;&c_l;&c_ib;&c_t;&c_e;&c_n;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_m;&c_je;&c_t;&c_r;&c_o;</trd>
+  <trdgrp lng="ca">
+    <trd>metro</trd>,
+    <trd>metropolit&agrave;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>metro</trd>,
+    <trd>podzemn&iacute; dr&aacute;ha</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>U-Bahn</trd>,
+    <trd>Untergrundbahn</trd>,
+    <trd>Metro</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>subway</trd>,
+    <trd>underground</trd>,
+    <trd>metro</trd>,
+    <trd>rapid transit</trd>,
+    <trd>L</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_q;&a_T;&a_A;&a_r; &a_sh;&a_h;&a_r;&f_y;</trd>,
+    <trd>&a_m;&a_t;&a_r;&a_w;</trd>
+  </trdgrp>
+  <trd lng="fr">m&eacute;tro</trd>
+  <trd lng="hu">metr&oacute;</trd>
+  <trd lng="ja">&#x5730;&#x4E0B;&#x9244;  <pr>&#x3061;&#x304B;&#x3066;&#x3064;</pr></trd>
+  <trd lng="nl">metro</trd>
+  <trd lng="pl">metro</trd>
+  <trdgrp lng="pt">
+   <trd>metr&ocirc;</trd>,
+   <trd>metropolitano <klr>(subst., transporte</klr></trd>,
+   <trd>metro <klr tip="ind">(PT, metropolitano)</klr></trd>
+  </trdgrp>
+  <trd lng="ro">metrou</trd>
+  <trd lng="ru">&c_m;&c_je;&c_t;&c_r;&c_o;</trd>
+  <trd lng="sk">metro</trd>
+  <trd lng="uk">&#x43C;&#x435;&#x442;&#x440;&#x43E;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+Revision 1.17  2018/12/04 20:10:15  revo
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/08/19 20:10:32  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/07/14 16:30:42  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2009/06/29 18:07:01  revo
+Wieland Pusch: +trd bg
+
+Revision 1.11  2009/06/27 16:31:14  revo
+-->
+</vortaro>

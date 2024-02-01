@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hxitin.xml,v 1.18 2023/11/15 17:08:02 revo Exp $">
+<kap>
+  <rad>&hcirc;itin</rad>/o <fnt><bib>PIV1</bib></fnt>,
+  <var><kap><rad var="k">kitin</rad>/o <fnt><bib>PIV1</bib></fnt></kap></var>
+</kap>
+<drv mrk="hxitin.0o">
+  <kap><tld/>o, <var><kap><tld var="k"/>o</kap></var></kap>
+  <snc mrk="hxitin.0o.KEM">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <ref tip="super" cel="polimer.0o">Polimero</ref>
+      kiu estas la &ccirc;efa komponanto de la ekstera skeleto
+      de la <ref cel="insekt.0o">insektoj</ref>,
+      <ref cel="krust.0uloj">krustuloj</ref> kaj aliaj
+      <ref cel="artik.0uloj">artikuloj</ref>:
+      <ekz>
+         &ccirc;e la <ref cel="fung.0oj">fungoj</ref> <tld/>o anstata&ubreve;as
+         <ref cel="celulo1.0o">celulozon</ref>, kiun &gcirc;i similas per
+         siaj ecoj &hcirc;emiaj, fizikaj kaj per sia biologia rolo;
+      </ekz>
+      <ekz>
+        <tld/>aj skvamoj tegas la flugilojn de lepidopteroj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=23121">Skvamo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        skorpioj estis la unuaj artropodoj, kiuj sukcesis adapti&gcirc;i ekster la akvo, por
+        tiu transiro la ekstera skeleto el <tld/>o funkciis kiel &scirc;irmilo kontra&ubreve; la
+        mortiga sekeco de la korpo, kiam tiu insekto ekrampis sur la sekan terenon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=115205">Skorpio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fungoj <klr>[&#x2026;]</klr> similas animalojn &ccirc;ar iliaj &ccirc;eloj
+        konstrui&gcirc;as de <tld var="k"/>o
+        <fnt>
+          <aut>Petro Desmet'</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/petro_desmet/263729">
+          Instruo</url></vrk>,
+          <lok>2010-07-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_ib;&c_c;&c_ib;&c_n;</trd>
+  <trd lng="bg">&c_h;&c_i;&c_t;&c_i;&c_n;</trd>
+  <trd lng="ca">quitina</trd>
+  <trd lng="de">Chitin</trd>
+  <trd lng="en">chitin</trd>
+  <trd lng="es">quitina</trd>
+  <trd lng="fi">kitiini</trd>
+  <trd lng="fr">chitine</trd>
+  <trd lng="hr">hitin</trd>
+  <trd lng="hu">kitin</trd>
+  <trd lng="it">chitina</trd>
+  <trd lng="nl">chitine</trd>
+  <trd lng="pl">chityna</trd>
+  <trd lng="pt">quitina</trd>     
+  <trd lng="ro">chitin&abreve;</trd>
+  <trd lng="ru">&c_h;&c_i;&c_t;&c_i;&c_n;</trd>
+  <trd lng="sr">&c_h;&c_i;&c_t;&c_i;&c_n;</trd>
+  <trd lng="sv">kitin</trd>
+  <trd lng="uk">&#x445;&#x456;&#x442;&#x438;&#x43D;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x51E0;&#x4E01; <pr>j&#x12B;d&#x12B;ng</pr></trd>,
+    <trd>&#x51E0;&#x4E01;&#x8D28; <pr>j&#x12B;d&#x12B;ngzh&#xEC;</pr></trd>,
+    <trd>&#x58F3;&#x8D28; <pr>qi&#xE0;ozh&#xEC;</pr></trd>,
+    <trd>&#x7532;&#x58F3;&#x7D20; <pr>ji&#x1CE;qi&#xE0;os&#xF9;</pr></trd>,
+    <trd>&#x51E0;&#x4E01;&#x58F3;&#x8D28;&#x7532;&#x58F3;&#x8D28;&#x58F3;&#x6C85; <pr>j&#x12B;d&#x12B;ngk&#xE9;zh&#xEC;ji&#x1CE;k&#xE9;zh&#xEC;k&#xE9;yu&#xE1;n</pr></trd>,
+    <trd>&#x7532;&#x58F3;&#x7D20; <pr>ji&#x1CE;k&#xE9;s&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.16 2020/09/06 18:10:32
+Wolfram Diestel: +tld-var
+
+Revision 1.14  2019/02/14 17:10:20  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.13  2019/02/12 23:10:39  revo
+Vito Redsky: +trd ro
+
+Revision 1.12  2014/03/07 10:10:12  revo
+Joop Eggen: +trd bg hr nl sr sv
+
+Revision 1.11  2013/01/09 15:10:13  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.10  2009/03/13 17:30:57  revo
+Antonio Codazzi: +trd it
+
+Revision 1.9  2008/03/28 17:30:24  revo
+Felix Gagne: +trd fr
+
+Revision 1.8  2007/06/16 16:30:41  revo
+-->
+</vortaro>

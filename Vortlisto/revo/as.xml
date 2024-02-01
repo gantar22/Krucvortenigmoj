@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: as.xml,v 1.27 2023/12/07 07:24:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>as</rad>/o
+</kap>
+<drv mrk="as.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="as.0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="super" cel="kart.lud0o">Ludkarto</ref>
+      markita per litero &leftquot;A&rightquot; a&ubreve; per numero unu a&ubreve; per nura
+      <ref tip="vid" cel="emblem.0o.karta">emblemo</ref>.
+      En kelkaj kartludoj &gcirc;i havas la plej malaltan rangon, en
+      aliaj &dash; la plej altan:
+      <ekz>
+        se ni havas <tld/>on de pikoj, ni ne rajtas preni <tld/>on
+        aliembleman (ekzemple de keroj), sed ja ajnan karton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011351.php">Trufludo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam la ceteraj kartoj estis falintaj planken, oni vidis, ke li trafis la keran <tld/>on
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Ar&gcirc;enta Urbo Amarganto</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="regx.0o.karta">re&gcirc;o</ref>,
+      <ref cel="regx.0ino.karta">re&gcirc;ino</ref>,
+      <ref cel="dam.0o.karta">damo</ref>,
+      <ref cel="fant.0o.karta">fanto</ref>,
+      <ref cel="jxoker.0o.karto">&jcirc;okero</ref>
+    </refgrp>
+    <bld lok="&WCU;/thumb/4/40/Skatkarten_-_Pik_Ass.jpg/363px-Skatkarten_-_Pik_Ass.jpg" prm="CC
+    BY-SA 3.0">pika <tld/>o, el germana skatludo, 1955
+
+        <fnt>
+          <aut>Oxfordian Kissuth, propra verko</aut>
+          <lok><url
+          ref="&WCW;/File:Skatkarten_-_Pik_Ass.jpg">&WCW;/File:Skatkarten_-_Pik_Ass.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="be">&c_t;&c_u;&c_z;</trd>
+    <trdgrp lng="de">
+      <trd>Ass</trd>,
+      <trd>Daus</trd>
+    </trdgrp>
+    <trd lng="en">ace</trd>
+    <trd lng="es">as</trd>
+    <trd lng="fr">as<klr tip="ind"> (aux cartes)</klr></trd>
+    <trd lng="hu">&aacute;sz</trd>
+    <trd lng="it">asso</trd>
+    <trd lng="nl">aas</trd>
+    <trdgrp lng="pl">
+      <trd>as</trd>,
+      <trd>tuz</trd>
+    </trdgrp>
+    <trd lng="pt">&aacute;s <klr>(carta de baralho)</klr></trd>
+    <trd lng="ru">&c_t;&c_u;&c_z;</trd>
+    <trd lng="sk">eso</trd>
+    <trd lng="sv">ess</trd>
+  </snc>
+  <snc mrk="as.0o.HIS">
+    <fnt>PIV1</fnt>
+    <uzo tip="fak">HIS</uzo>
+    <ref tip="dif" cel="asar.0o">asaro.</ref>
+    <trd lng="it">asse<klr> (mon. e mis.)</klr></trd>
+    <adm>
+      &Ccirc;ar la biblia formo estas "asaro", kaj nenio
+      ebligas interpreti &gcirc;in kiel "as-ar-o" aperas la demando,
+      kial kaj la&ubreve; kiuj fontoj PIV registris "aso" kun tiu senco.
+      <aut>MB</aut>
+    </adm>
+    <trd lng="be">&c_a;&c_s; <klr tip="amb">(&c_s;&c_t;&c_a;&c_r;&c_a;&c_zh;&c_y;&c_t;&c_n;&c_a;&c_ja; &c_g;&c_r;&c_a;&c_sh;&c_o;&c_v;&c_a;&c_ja; &c_a;&c_d;&c_z;&c_ib;&c_n;&c_k;&c_a;)</klr></trd>
+  </snc>
+  <trd lng="ca">as</trd>
+  <trd lng="cs">eso <klr>(v kart&aacute;ch)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;  <pr>&#12356;&#12388;</pr></trd>,
+    <trd>&#x30A8;&#x30FC;&#x30B9;  <pr>&#12360;&#x30FC;&#12377;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/12/07 07:24:34
+Dmitri Gabinski: + trd be
+
+versio 1.26 2023/10/13 17:08:38
+revo: transskribo per <pr>
+
+versio 1.24 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.22  2019/06/30 07:47:08  revo
+adaptis URL de Monato
+
+Revision 1.21  2018/10/29 20:10:20  revo
+Wolfram Diestel: +ekz-oj, +bld
+
+Revision 1.20  2015/09/17 03:10:26  revo
+Evandro Avellar: +trd pt
+
+Revision 1.19  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2012/08/02 09:10:36  revo
+-->
+</vortaro>

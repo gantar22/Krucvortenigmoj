@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: humanitar.xml,v 1.16 2023/11/15 17:08:02 revo Exp $">
+<kap>
+  <rad>humanitar</rad>/a
+</kap>
+<drv mrk="humanitar.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">POL</uzo>
+  <snc mrk="humanitar.0a.POL">
+    <dif>
+      Celanta mildigi homan suferon, aparte en krizaj situacioj 
+      kiel malsatoj, milito, naturkatastrofoj ktp:
+      <ekz>
+        Usono proponis financi je 6,6 milionoj da dolaroj <tld/>ajn 
+        misiojn en Irako
+        <fnt>
+          <aut>M. Daoudi, trad. V. Lutermano</aut>,
+          <vrk><url ref="&Mondediplo;article624.html">
+          Venonta atako kontra&ubreve; Irako</url></vrk>,
+          <lok>le Monde diplomatique, 2008-08</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la a&ubreve;toritatoj kaj <tld/>aj organiza&jcirc;oj nun timas, ke infektaj 
+        malsanoj disvasti&gcirc;os
+        <fnt>
+          <aut>-</aut>,
+          <vrk>Inundoj : nacia katastrofo en Barato</vrk>,
+          <lok><url ref="http://www.eventeo.net/web/">eventeo</url>, 
+          2008-08-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+       <ref cel="help.hom0a.POL">homhelpa</ref>,
+       <ref cel="sav.hom0a">homsava</ref>,
+       <ref cel="human.0a">human(ec)a</ref>,
+       <ref cel="hom.0ama">homama</ref>,
+       <ref cel="filant2.0a">filantropia</ref>,
+       <ref cel="karit.0a">karit(at)a</ref>
+    </refgrp>
+    <refgrp tip="vid">
+       <ref cel="sanita.0a">sanitara</ref>,
+       <ref cel="sukur.0ado">sukurado</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="humanitar.0a.homa">
+    <dif>
+      <klr>(pri krizo ks)</klr> Ka&ubreve;zanta suferadon de multaj homoj, minacanta la vivon de multaj
+      homoj:
+      <ekz>
+        la <tld/>a krizo en Jemeno kaj la blokado trudita de Sauda Arabio <klr>[&#x2026;]</klr>
+        estis la centra temo de la pordfermaj interparoladoj de la Konsilio pri
+        sekureco
+        <fnt>
+          <vrk><url ref="https://unesperante.wordpress.com/2017/11/12/jemeno-la-unuigintaj-nacioj-postulas-remalfermadon-de-la-teraj-maraj-kaj-aeraj-aliroj/">Jemeno:
+          La Unui&gcirc;intaj Nacioj postulas remalfermadon de la ...</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="hom.0a">homa</ref>
+    <trd lng="de">menschlich</trd>   
+  </snc>
+  <rim>
+    La iom vastan sencon de la similforma angla, franca kaj alilingva
+    vorto oni povas redoni anka&ubreve; per diversaj formoj:
+    <ekz>
+      homa katastrofo;
+    </ekz>
+    <ekz>
+      homsava agado;
+    </ekz>
+    <ekz>
+      filantropia celo...
+    </ekz>
+  </rim>
+  <trd lng="be">&c_g;&c_u;&c_m;&c_a;&c_n;&c_ib;&c_t;&c_a;&c_r;&c_n;&c_y;</trd>
+  <trd lng="ca">humanitari</trd>
+  <trd lng="de">humanit&auml;r</trd>
+  <trd lng="it">umanitario</trd>
+  <trd lng="nl">humanitair</trd>
+  <trd lng="no">humanit&aelig;r</trd>
+  <trd lng="sk">humanit&aacute;rny</trd>
+  <trd lng="cs">humanit&aacute;rn&iacute;</trd>
+  <trd lng="zh">&#x4EBA;&#x9053;&#x4E3B;&#x4E49; <pr>r&#xE9;nd&#xE0;ozh&#x1D4;y&#xEC;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.15 2022/12/19 07:24:26
+Dmitri Gabinski: + trd be
+
+versio 1.14 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.13 2021/08/25 05:24:59
+Wolfram Diestel: +POL
+
+versio 1.12 2021/08/23 15:30:31
+Wolfram Diestel: +ref, trdj
+
+versio 1.11 2021/08/23 13:31:12
+Wolfram Diestel: -EVI, precizaj dif-oj
+
+versio 1.10 2021/08/23 12:44:39
+Wolfram Diestel: apartigis snc "homa", +ref, -trd-j
+
+Revision 1.8  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:15  revo
+-->
+</vortaro>

@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: boj.xml,v 1.40 2023/10/29 19:11:02 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>boj</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+
+<drv mrk="boj.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <snc mrk="boj.0i.ZOO">
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      Hunde <ref tip="super" cel="blek.0i.beste">bleki</ref>:
+      <ekz>
+        <tld/>as hundo sen puno e&ccirc; kontra&ubreve; la suno
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;enhundo en palaco sidas en sunlumo fiere sur sia budo kaj <tld/>as kontra&ubreve;
+        &ccirc;iu pasanto
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Anneto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        batata hundo <tld/>as kaj mordas
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la hundo plej la&ubreve;te <tld/>as, kiam &gcirc;i timas
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam la nokto falas, malbonfaremaj potencoj vagas
+        &ccirc;irka&ubreve; la domo; mi <tld/>as, por ke la mastro,
+        avertita, forpelu ilin
+        <fnt>
+          <aut>A. France, trad. G. Moch</aut>,
+          <vrk>Pensoj de Hen&ccirc;jo</vrk>,
+          <lok>La Revuo, vol. 2a, 1907-09 &gcirc;is 1908-08</lok>
+        </fnt>.
+      </ekz>     
+    </dif>
+    <trd lng="de">bellen</trd>
+    <trd lng="pl">szczeka&cacute;</trd>
+    <trdgrp lng="tr">
+      <trd>havlamak</trd>,
+      <trd>&uuml;r&uuml;mek</trd>
+    </trdgrp>
+    <trd lng="pt">latir</trd>
+  </snc>
+  <snc mrk="boj.0i.al">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      Al<tld/>i:
+      <ekz>
+        ne &ccirc;iu <tld/>ato estas &scirc;telisto
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hundo <tld/>as la vojon, vento portas la <tld/>on
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">verbellen</trd>
+  </snc>
+  <snc mrk="boj.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Atake, ofende parola&ccirc;i:
+      <ekz>
+        <ind>hundo <tld/>as, homo vojas</ind>
+        <klr>(oni ne devas zorgi senka&ubreve;zajn insultojn)</klr>
+        <trd lng="de">Die <ind>Hunde bellen</ind>, aber die Karawane
+        zieht weiter.</trd>
+        <trd lng="fr">les <ind>chiens</ind> aboient, la caravane
+        passe</trd>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        li neniam estas kontenta kaj <tld/>as
+        kontra&ubreve; &ccirc;iu kaj &ccirc;io.
+      </ekz>
+    </dif>
+    <trdgrp lng="pl">
+      <trd>szczeka&cacute;</trd>,
+      <trd>ujada&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_w;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_b;&c_r;&c_a;&c_h;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF60;&#xF56;&#xF0B;&#xF54;&#xF0B;</trd>
+  <trd lng="br">harzhal</trd>
+  <trdgrp lng="cs">
+    <trd>hafat</trd>,
+    <trd>&scaron;t&ecaron;kat <klr>(na n&ecaron;koho)</klr></trd>
+  </trdgrp>
+  <trd lng="en">bark</trd>
+  <trd lng="es">ladrar</trd>
+  <trd lng="fr">aboyer</trd>
+  <trd lng="he">&#x5DC;&#x5B4;&#x5E0;&#x5B0;&#x5D1;&#x5BC;&#x5D5;&#x5BC;&#x5D7;&#x5B7;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x307B;&#x3048;&#x308B;</trd>,
+    <trd>&#x308F;&#x3081;&#x304F;</trd>,
+    <trd>&#x304C;&#x307F;&#x304C;&#x307F;&#x8A00;&#x3046;  <pr>&#x304C;&#x307F;&#x304C;&#x307F;&#x3044;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">blaffen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_a;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_g;&c_a;&c_v;&c_k;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>&scaron;teka&tcaron;</trd>,
+    <trd>brecha&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">sk&auml;lla</trd>
+  <trd lng="th">&#xE40;&#xE2B;&#xE48;&#xE32;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_a;&c_v;&#x43A;&c_a;&c_t;&c_i;&#xA0;(&c_t;&c_zh; &#x43F;&c_je;&c_r;&c_je;&#x43D;.)</trd>,
+    <trd>&c_b;&c_r;&c_je;&c_h;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="boj.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="boj.0.SON">
+    <dif>
+      Ordinara <ref tip="lst" cel="blek.0o" lst="voko:blekoj">bleko</ref>
+      de <ref tip="vid" cel="hund.0o.dombesto">hundo</ref>;
+      <ref tip="sin" cel="vaux.0.SON">va&ubreve;</ref>:
+      <ekz>
+        mi havas malgrandan vilan nigran hundon nomitan Toto
+        <klr>[&#x2026;]</klr> lia sola parolo &ccirc;iam estas nur 
+        <ctl><tld/>! <tld/>!</ctl>
+        <fnt>
+          <aut>L. Frank Baum, trad. D. Broadribb</aut>,
+          <vrk><url ref="http://ttt.esperanto.org/esperante/literatur/Baum/tiktoko/cxapitro25.html">
+          Tiktoko de Oz</url></vrk>,
+          <lok>[1996]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="zh">&#x6C6A;&#x6C6A; <pr>w&#x101;ngw&#x101;ng</pr></trd>
+</snc>
+  <trd lng="de">wau</trd>
+  <trd lng="fr">ouah !<klr> (chien)</klr></trd>
+  <trd lng="es">&#xA1;guau!</trd>
+  <trd lng="th">&#xE42;&#xE2E;&#xE48;&#xE07;</trd>
+</drv>
+
+
+<drv mrk="boj.tir0i">
+  <kap>tir<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="boj.tir0i.SON">
+    <dif>
+      A&ubreve;digi longan, senpa&ubreve;zan <tld/>on;
+      <ref tip="sin" cel="hojl.0i">hojli</ref>,
+      <ref tip="sin" cel="ulul.0i.ZOO_lupo">ululi<sncref/></ref>:
+      <ekz>
+        Princo tir<tld/>as: uuuuuu
+        <fnt>
+          <vrk><url ref="http://miresperanto.com/humuro/rikardo-cash-11.htm">Shercoj de rikardo
+          CASH-11</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="zh">&#x6012;&#x543C; <pr>n&#xF9;h&#x1D2;u</pr></trd>
+</snc>
+  <trd lng="be">&c_v;&c_y;&c_c;&c_mol;</trd>
+  <trd lng="br">yudal</trd>
+  <trd lng="cs">v&yacute;t</trd>
+  <trd lng="de">heulen</trd>
+  <trdgrp lng="en">
+    <trd>bay</trd>,
+    <trd>howl</trd>
+  </trdgrp>
+  <trd lng="es">aullar</trd>
+  <trd lng="fr">hurler</trd>
+  <trd lng="ja">&#x9060;&#x5420;&#x3048;&#x3059;&#x308B;  <pr>&#x3068;&#x304A;&#x307C;&#x3048;&#x3059;&#x308B;</pr></trd>
+  <trd lng="pl">ujada&cacute;</trd>
+  <trd lng="sk">vy&tcaron;</trd>
+  <trd lng="sv">yla</trd>
+  <trd lng="th">&#xE2B;&#xE2D;&#xE19;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_i;&c_v;&c_a;&c_t;&c_i; (&#x43F;&c_r;&#x43E; &c_s;&#x43E;&c_b;&c_a;&#x43A;&c_u;)</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.39 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.37 2023/05/30 21:23:49
+Guillermo Molleda Jimena: +trd es
+
+versio 1.35 2022/03/15 16:46:24
+Wolfram Diestel: kor. trd
+
+versio 1.32 2021/01/19 09:11:13
+Aleks Andre: +trd bo
+
+versio 1.31 2021/01/03 17:29:54
+Wolfram Diestel: +ekz-oj, +snc tr
+
+Revision 1.29  2018/04/20 20:10:14  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.28  2015/10/06 02:10:31  revo
+Evandro Avellar: +trd pt
+
+Revision 1.27  2015/07/04 08:37:31  revo
+-->
+</vortaro>

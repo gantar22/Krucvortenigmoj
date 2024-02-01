@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ogiv.xml,v 1.22 2023/10/20 13:11:47 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>ogiv</rad>/o
+</kap>
+<drv mrk="ogiv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ogiv.0o.KON">
+  <uzo tip="fak">KON</uzo>
+  <uzo tip="fak">MIL</uzo>
+    <dif>
+      <ref tip="dif" cel="ark.pint0o">Pintarko</ref>:
+      <ekz>
+        la medreseo de <nom>Ulugbek</nom> frontas la placon je majesta
+        portalo kun <tld/>o
+        <fnt>
+          <bib>Monato</bib> <aut>Anatoli Ionesov</aut>
+          <vrk><url ref="&Monato;/2006/008920.php">Perlo &ccirc;e la Silka Vojo</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz><ekz>
+        Semo, hodia&ubreve; &jcirc;etita, arbi&gcirc;os, proklamos la vivon, ||
+        Super la koro kaptita formante ensor&ccirc;an <tld/>on&#8230;
+        <fnt><aut>Hohlov</aut>: <vrk>Responde</vrk>.
+          <lok>&leftquot;La tajdo&rightquot;, 1928.</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    La esperanta signifo de &ccirc;i tiu &scirc;ajne <ctl>internacia</ctl> (t.e.
+    angla-franca) vorto restas malklara. OA1 oficialigis &gcirc;in per
+    ekstere similaj tradukoj, kies signifoj estas diversaj kaj
+    malkoheraj. Ekz-e la anglaj signifoj estas:
+
+    &#xAB;<em>(1)</em>&nbsp;Subtena, nervure elstara arko, diagonale stre&ccirc;ita sub
+    gotika volbo;
+    <em>(2)</em>&nbsp;<ref cel="ark.pint0o">Pintarko</ref>;
+    <em>(3)</em>&nbsp;MAT Statistika kurbo de ofteca
+    distribuo;
+    <em>(4)</em>&nbsp;MIL Anta&ubreve;a parto de misilo,
+    entenanta la &scirc;argon.&#xBB;
+
+    La francaj vortaroj aldonas al tio ankora&ubreve; kelkajn <ctl>misajn
+    sencoetenda&jcirc;ojn</ctl> (<nac>extensions abusives</nac>).
+
+    PIV1 prezentas la du unuajn sencojn, el kiuj la duan pli klare
+    esprimas la vorto <ctl>pintarko</ctl> (al kiu &gcirc;i plusendas). La
+    germana kaj la pola tradukoj el OA1 esprimas nur &ccirc;i tiun duobla&jcirc;an
+    signifon. La rusa traduko esprimas la parencan signifon de volba&jcirc;o.
+
+    PIV2 simple for&jcirc;etas la &ccirc;efsignifon de PIV1, lasante unualoke la
+    duobla&jcirc;on de <ctl>pintarko</ctl>. Anstata&ubreve;e &gcirc;i aldonas la francecan signifon
+    <ctl>batal&scirc;argo</ctl> (de:&nbsp;<nac>Sprengkopf, Gefechtskopf</nac>; en:&nbsp;<nac>warhead</nac>;
+    ru:&nbsp;<nac>&c_b;&c_o;&c_je;&c_g;&c_o;&c_l;&c_o;&c_v;&c_k;&c_a;</nac>; pl:&nbsp;<nac>g&lstroke;owica bojowa</nac>).
+
+    Resume, oni prefere evitu &ccirc;i tiun malklaran, malnecesan kaj
+    malmulte internacian vorton.
+    <aut>Sergio Pokrovskij</aut>
+  </rim>
+  <trdgrp lng="cs">
+    <trd>gotick&eacute; klenebn&iacute; &zcaron;ebro</trd>,
+    <trd>lomen&yacute; gotick&yacute; oblouk</trd>,
+    <trd>ogival</trd>
+  </trdgrp>
+  <trd lng="de">Spitzbogen</trd>
+  <trd lng="el">&alfa;&psi;&jota_ton;&delta;&alfa;</trd>
+  <trd lng="fr">ogive</trd>
+  <trd lng="hu">cs&uacute;cs&iacute;v</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AA;&#x30B8;&#x30FC;&#x30D6;</trd>,
+    <trd>&#x4E38;&#12356;&#x5F3E;&#x982D;  <pr>&#x307E;&#x308B;&#12356;&#12384;&#12435;&#12392;&#12358;</pr></trd>,
+    <trd>&#x86CB;&#x5F62;&#x90E8;  <pr>&#12383;&#12435;&#12369;&#12356;&#12406;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">spitsboog</trd>
+  <trd lng="pl">ostro&lstroke;uk</trd>
+  <trd lng="pt">ogiva</trd>
+  <trd lng="ro">ogiv&abreve;</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_k;&c_a; &c_s;&c_v;&c_o;&c_d;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>lomen&yacute; obl&uacute;k</trd>,
+    <trd>ogival</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_r;&c_ib;&#x43B;&#x43A;&c_a; (&c_s;&#x43A;&#x43B;&c_je;&#x43F;&c_ib;&#x43D;&#x43D;&#x44F;)</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_ib;&#x43B;&c_ch;&c_a;&c_s;&c_t;&c_a; &c_a;&c_r;&#x43A;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ogiv.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Karakterizata per <tld/>o:
+      <ekz>
+        <tld/>a arkitekturo, fenestro.
+      </ekz><ekz>
+        la interno, je <tld/>a volbo, estas tute nigrigita de la fumo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2015/011299.php">La Loreta Vojo: La&ubreve; la spuroj de antikvaj
+          pilgrimantoj</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="romp">rompita</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">obloukov&yacute; s lomem ve vrcholu</trd>
+  <trd lng="de">spitzbogig</trd>
+  <trd lng="fr">ogival</trd>
+  <trd lng="hu">cs&uacute;cs&iacute;ves</trd>
+  <trd lng="ja">&#x30AA;&#x30B8;&#x30FC;&#x30D6;&#x5F0F;&#x306E; 
+  <pr>&#x30AA;&#x30B8;&#x30FC;&#x30D6;&#12375;&#x304D;&#x306E;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>in een <ind>spitsboog</ind></trd>,
+    <trd>met een <ind>spitsboog</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ostro&lstroke;ukowy</trd>,
+    <trd>ogiwalny</trd>
+  </trdgrp>
+  <trd lng="ro">ogival</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_ch;&c_a;&c_t;&c_y;&c_j;</trd>,
+    <trd>&c_g;&c_o;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">obl&uacute;kov&yacute; s lomom vo vrchole</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_r;&c_ib;&#x43B;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&#x43E;&c_zh;&c_i;&c_v;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_g;&#x43E;&c_t;&c_i;&c_ch;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/20 13:11:47
+revo: transskribo per <pr>
+
+versio 1.21 2023/09/12 19:20:22
+Wolfram Diestel: pr. ja
+
+versio 1.19 2022/05/01 17:17:00
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.17 2022/01/07 19:23:34
+Wolfram Diestel: kor. tajperarojn, sintakso en rim
+
+versio 1.16 2021/12/18 07:28:45
+Sergio Pokrovskij: +ekz, +rim
+
+versio 1.15 2021/06/29 13:34:16
+Vito Redsky: +trd pl +trd ro
+
+versio 1.14 2021/04/05 17:34:15
+Wolfram Diestel: dif per sin; 2 ekz
+
+Revision 1.12  2015/06/29 16:33:21  revo
+-->
+</vortaro>

@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: karakt.xml,v 1.107 2023/12/03 08:00:23 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>karakter</rad>/o
+</kap>
+<drv mrk="karakt.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="karakt.0o.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Aro da ecoj mensaj, kiuj konsistigas personecon de homo, kaj
+      kiuj manifesti&gcirc;as en lia konduto:
+      <ekz>
+        nobla, maldelikata, afabla <tld/>o;
+      </ekz>
+      <ekz>
+        forteco de <tld/>o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>oj de la &Scirc;ekspiraj herooj estas profunde
+        studitaj.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>backbone</trd>,
+      <trd>moral <ind>strength</ind></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>jellem</trd>,
+      <trd>karakter</trd>
+    </trdgrp>
+    <trdgrp lng="th">
+      <trd>&#xE1A;&#xE38;&#xE04;&#xE25;&#xE34;&#xE01;</trd>,
+      <trd>&#xE25;&#xE31;&#xE01;&#xE29;&#xE13;&#xE30;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="karakt.0o.ecaro">
+    <dif>
+      Aro de la distingigaj, individuigaj trajtoj; ecaro:
+      <ekz>
+        la <tld/>o de la vera virto estas la modesteco;
+      </ekz>
+      <ekz>
+        <tld/>on al kanto donas la tono
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        miaj opinioj kaj verkoj havas <tld/>on absolute
+        privatan<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tiu stilo havas specialan <tld/>on<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kelkaj ne komprenas la <tld/>on de nia afero<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        glumarko trafe esprimanta la <tld/>on de la kongresurbo;
+      </ekz>
+      <ekz>
+        sen<tld/>a kapo, pejza&gcirc;o, skulpta&jcirc;o.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>habitual <ind>conduct</ind><klr> (disposition)</klr></trd>,
+      <trd>individuality</trd>,
+      <trd>personality</trd>,
+      <trd>reputation</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>jelleg</trd>,
+      <trd>karakter</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="af">karakter</trd>
+  <trd lng="am">&#x1263;&#x1205;&#x122A;</trd>
+  <trd lng="ar">&#x62D;&a_r;&a_f;</trd>
+  <trd lng="az">xarakter</trd>
+  <trd lng="be">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_a;&c_r;</trd>
+  <trd lng="bn">&#x99A;&#x9B0;&#x9BF;&#x9A4;&#x9CD;&#x9B0;</trd>
+  <trd lng="bs">karakter</trd>
+  <trd lng="ca">car&agrave;cter</trd>
+  <trd lng="co">parsunaghju</trd>
+  <trdgrp lng="cs">
+    <trd>charakter</trd>,
+    <trd>letora</trd>,
+    <trd>povaha</trd>,
+    <trd>znak</trd>
+  </trdgrp>
+  <trd lng="cy">cymeriad</trd>
+  <trd lng="da">karakter</trd>
+  <trdgrp lng="de">
+    <trd>Charakter</trd>,
+    <trd>Anlage <klr>(Charakter)</klr></trd>,
+    <trd>Veranlagung</trd>
+  </trdgrp>
+  <trd lng="en">character</trd>
+  <trd lng="es">car&aacute;cter</trd>
+  <trd lng="et">m&#xE4;rgi</trd>
+  <trd lng="eu">pertsonaia</trd>
+  <trdgrp lng="fr">
+    <trd>caract&egrave;re</trd>,
+    <trd>caract&eacute;ristique<klr tip="ind"> (ce qui
+    caract&eacute;rise)</klr></trd>,
+    <trd>marque<klr tip="ind"> (aspect, caract&egrave;re)</klr></trd>,
+    <trd>personnalit&eacute;</trd>,
+    <trd>temp&eacute;rament</trd>,
+    <trd>trait<klr tip="ind"> (aspect, caract&egrave;re)</klr></trd>
+  </trdgrp>
+  <trd lng="fy">personaazje</trd>
+  <trd lng="ga">charachtar</trd>
+  <trd lng="gd">caractar</trd>
+  <trd lng="gl">car&#xE1;cter</trd>
+  <trd lng="gu">&#xAAA;&#xABE;&#xAA4;&#xACD;&#xAB0;</trd>
+  <trd lng="hi">&#x91A;&#x930;&#x93F;&#x924;&#x94D;&#x930;</trd>
+  <trd lng="hmn">cim</trd>
+  <trd lng="hr">karakter</trd>
+  <trd lng="ht">karakt&#xE8;</trd>
+  <trd lng="hy">&#x562;&#x576;&#x561;&#x57E;&#x578;&#x580;&#x578;&#x582;&#x569;&#x575;&#x578;&#x582;&#x576;&#x568;</trd>
+  <trd lng="ig">agwa</trd>
+  <trd lng="is">e&#xF0;li</trd>
+  <trd lng="ja">&#x30AD;&#x30E3;&#x30E9;&#x30AF;&#x30BF;&#x30FC;</trd>
+  <trd lng="jv">karakter</trd>
+  <trd lng="ka">&#x10EE;&#x10D0;&#x10E1;&#x10D8;&#x10D0;&#x10D7;&#x10D8;</trd>
+  <trd lng="kk">&#x43A;&c_je;&c_j;&c_ib;&#x43F;&#x43A;&c_je;&c_r;</trd>
+  <trd lng="km">&#x178F;&#x17BD;&#x17A2;&#x1780;&#x17D2;&#x179F;&#x179A;</trd>
+  <trd lng="kn">&#xCB0;</trd>
+  <trd lng="ko">&#xBB38;&#xC790;</trd>
+  <trd lng="ku">&#x15F;exs&#xEE;yet</trd>
+  <trd lng="ky">&c_b;&c_je;&#x43B;&c_g;&c_i;</trd>
+  <trd lng="lo">&#xEA5;&#xEB1;&#xE81;&#xEAA;&#xEB0;&#xE99;&#xEB0;</trd>
+  <trd lng="lt">charakteris</trd>
+  <trd lng="lv">raksturs</trd>
+  <trd lng="mg">toetra</trd>
+  <trd lng="mi">p&#x16B;&#x15D1;hua</trd>
+  <trd lng="mk">&#x43A;&c_a;&c_r;&c_a;&#x43A;&c_t;&c_je;&c_r;</trd>
+  <trd lng="ml">&#xD2A;&#xD4D;&#xD30;&#xD24;&#xD40;&#xD15;&#xD02;</trd>
+  <trd lng="mn">&c_t;&#x44D;&#x43C;&c_d;&#x44D;&c_g;&c_t;</trd>
+  <trd lng="mr">&#x935;&#x930;&#x94D;&#x923;</trd>
+  <trd lng="ms">watak</trd>
+  <trd lng="mt">karattru</trd>
+  <trd lng="my">&#x1007;&#x102C;&#x1010;&#x103A;&#x1000;&#x1031;&#x102C;&#x1004;&#x103A;&#x1005;&#x101B;&#x102D;&#x102F;&#x1000;&#x103A;</trd>
+  <trd lng="nl">karakter</trd>
+  <trd lng="ny">khalidwe</trd>
+  <trd lng="pa">&#xA05;&#xA71;&#xA16;&#xA30; &#xA28;&#xA42;&#xA70;</trd>
+  <trd lng="pl">charakter</trd>
+  <trd lng="ps">&a_l;&a_w;&#x69A;&a_h;</trd>
+  <trdgrp lng="ro">
+    <trd>caracter</trd>,
+    <trd>fire</trd>
+  </trdgrp>
+  <trd lng="ru">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_je;&c_r;</trd>
+  <trd lng="rw">imiterere</trd>
+  <trd lng="sd">&#x6AA;&a_r;&#x62F;&a_A;&a_r;</trd>
+  <trd lng="si">&#xDA0;&#xDBB;&#xDD2;&#xDAD;</trd>
+  <trdgrp lng="sk">
+    <trd>charakter</trd>,
+    <trd>letora</trd>,
+    <trd>povaha</trd>,
+    <trd>r&aacute;z</trd>,
+    <trd>znak</trd>
+  </trdgrp>
+  <trd lng="sl">zna&#x10D;aj</trd>
+  <trd lng="sm">uiga</trd>
+  <trd lng="sn">mutambi</trd>
+  <trd lng="so">qof</trd>
+  <trd lng="sq">karakter</trd>
+  <trd lng="st">botho ba</trd>
+  <trd lng="su">perbawa</trd>
+  <trd lng="sw">tabia ya</trd>
+  <trd lng="ta">&#xBAA;&#xBBE;&#xBA4;&#xBCD;&#xBA4;&#xBBF;&#xBB0;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC2A;&#xC3E;&#xC24;&#xC4D;&#xC30;</trd>
+  <trd lng="tg">&c_h;&c_a;&c_r;&c_a;&#x43A;&c_t;&c_je;&c_r;</trd>
+  <trd lng="tl">katangian</trd>
+  <trd lng="tt">&c_h;&c_a;&c_r;&c_a;&#x43A;&c_t;&c_je;&c_r;</trd>
+  <trd lng="uk">&c_h;&c_a;&c_r;&c_a;&#x43A;&c_t;&c_je;&c_r;</trd>
+  <trd lng="ur">&#x6A9;&a_r;&#x62F;&a_A;&a_r;</trd>
+  <trd lng="uz">fe&#x2019;l</trd>
+  <trd lng="vi">nh&#xE2;n v&#x1EAD;t</trd>
+  <trd lng="xh">umlinganiswa</trd>
+  <trd lng="yi">&#x5E4;&#x5BC;&#x5D0;&#x5B7;&#x5E8;&#x5E9;&#x5D5;&#x5D9;&#x5DF;</trd>
+  <trd lng="yo">ohun kik&#x1ECD;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6027;&#x683C; <pr>x&#xEC;ngg&#xE9;</pr></trd>,
+    <trd>&#x8CEA; <pr>zh&#xEC;</pr></trd>,
+    <trd>&#x4EBA;&#x6C14; <pr>r&#xE9;nq&#xEC;</pr></trd>,
+    <trd>&#x6027; <pr>x&#xEC;ng</pr></trd>,
+    <trd>&#x54C1;&#x8CEA; <pr>p&#x1D0;nzh&#xEC;</pr></trd>,
+    <trd>&#x6027;&#x60C5; <pr>x&#xEC;ngq&#xED;ng</pr></trd>,
+    <trd>&#x98A8;&#x8ABF; <pr>f&#x113;ngdi&#xE0;o</pr></trd>,
+    <trd>&#x6027;&#x72B6; <pr>x&#xEC;ngzhu&#xE0;ng</pr></trd>,
+    <trd>&#x4E2A;&#x6027; <pr>g&#xE8;x&#xEC;ng</pr></trd>,
+    <trd>&#x7279;&#x5FB5; <pr>t&#xE8;zh&#x113;ng</pr></trd>
+  </trdgrp>
+  <trd lng="zu">uhlamvu</trd>
+</drv>
+
+<drv mrk="karakt.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="karakt.0a.propra">
+    <dif>
+      Propra, apartenanta al ies <tld/>o<sncref ref="karakt.0o.ecaro"/>:
+      <ekz>
+        kunmetado de vortoj estas <tld/>a eco de la lingvo germana
+        <fnt><bib>LR</bib>,
+        <lok>La Esperantisto, 1891, p. 23</lok></fnt>;
+      </ekz>
+      <ekz>
+        tia konduto estas por li <tld/>a.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="karakt.0a.specifa">
+    <dif>
+      Specifa, prezentanta tre rimarkeblan, originalajn kaj
+      frapajn trajtojn:
+      <ekz>
+        <tld/>a vesto;
+      </ekz>
+      <ekz>
+        <tld/>a viza&gcirc;o;
+      </ekz>
+      <ekz>
+        efektive la subjektivaj simptomoj pleje estas tiel
+        <tld/>aj, ke el ili oni facile povas meti la diagnozon
+        de kronika kataro de la konjunktivo
+        <fnt>
+        <aut>E. Fuchs, tr. &Z;</aut>:
+        <vrk>Kronika katara konjunktivito</vrk>.
+        <lok>Fundamenta Krestomatio</lok>.
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="karakt.0a.homtipa">
+    <dif>
+      Propra al iu homgrupo, etno, socia medio, epoko; esprimanta
+      iun mensan tipon:
+      <ekz>
+        <tld/>a danco;
+      </ekz>
+      <ekz>
+        <ind><tld/>a rolo</ind>
+        <klr>(en teatro, rolo prezentanta homtipon)</klr>.
+        <trd lng="fr">r&ocirc;le de caract&egrave;re</trd>
+        <trd lng="ru">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_je;&c_r;&c_n;&c_a;&c_ja;
+        &c_r;&c_o;&c_l;&c_mol;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_e;&c_r;&c_n;&c_y;</trd>
+  <trd lng="ca">caracter&iacute;stic</trd>
+  <trd lng="en">characteristic</trd>
+  <trd lng="es">caracter&iacute;stica<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>caract&eacute;ristique<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>de <ind>caract&egrave;re</ind></trd>,
+    <trd>distinctif</trd>,
+    <trd>typique</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6027;&#x683C;&#x306E;  <pr>&#x305B;&#x3044;&#x304B;&#x304F;&#x306E;</pr></trd>,
+    <trd>&#x500B;&#x6027;&#x7684;&#x306A;  <pr>&#x3053;&#x305B;&#x3044;&#x3066;&#x304D;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>karakter-</trd>,
+    <trd>karakteristiek</trd>
+  </trdgrp>
+  <trd lng="pl">charakterowy</trd>
+  <trd lng="ro">caracteristic&abreve;</trd>
+  <trd lng="ru">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>
+  <trd lng="zh">&#x7279;&#x6709; <pr>t&#xE8;y&#x1D2;u</pr></trd>
+</drv>
+
+<drv mrk="karakt.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="karakt.0a.senvola">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Senvola, cedema, facile subi&gcirc;anta al la opinioj kaj influoj
+      de la aliaj, al kiu mankas propra
+      <tld/>o<sncref ref="karakt.0o.PSI"/>:
+      <ekz>
+        mia patro estis tre ri&ccirc;a homo, natura aristokrato,
+        bonege edukita, sed beda&ubreve;rinde sen<tld/>a
+        <fnt>
+        <aut>V. Devjatnin</aut>: <vrk>Arturo</vrk>.
+        <lok>Fundamenta Krestomatio</lok>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        certe vi, kiu legas tiujn &ccirc;i liniojn, ne apartenas al tiaj
+        senpripensaj, facilanimaj kaj sen<tld/>aj homoj, kiuj
+        turni&gcirc;as la&ubreve; la vento
+        <fnt>
+        <aut>H. Seppik</aut>: <vrk>La tuta Esperanto</vrk>.
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">characterless</trd>
+    <trdgrp lng="fr">
+      <trd>sans <ind>caract&egrave;re</ind><klr tip="ind"> (qui manque
+de volont&eacute;)</klr></trd>,
+      <trd>faible<klr tip="ind"> (qui manque de
+      volont&eacute;)</klr></trd>,
+      <trd>falot<klr tip="ind"> (adj.)</klr></trd>,
+      <trd>mou<klr tip="ind"> (qui manque de volont&eacute;)</klr></trd>
+    </trdgrp>
+    <trd lng="de">charakterlos</trd>
+  </snc>
+  <snc mrk="karakt.0a.senkolora">
+    <dif>
+      Al kiu mankas propraj trajtoj
+      <tld/>aj<sncref ref="karakt.0a.specifa"/>,
+      <refgrp tip="sin">
+        <ref cel="banal.0a">banala</ref>,
+        <ref cel="plat.0a">plata</ref>
+      </refgrp>.
+    </dif>
+    <trdgrp lng="fr">
+      <trd>sans <ind>caract&egrave;re</ind><klr tip="ind"> (qui manque
+d'originalit&eacute;)</klr></trd>,
+      <trd>incolore<klr tip="ind"> (qui manque
+d'originalit&eacute;)</klr></trd>,
+      <trd>insipide<klr tip="ind"> (qui manque
+d'originalit&eacute;)</klr></trd>,
+      <trd>p&acirc;le<klr tip="ind"> (qui manque
+d'originalit&eacute;)</klr></trd>,
+      <trd>plat<klr tip="ind"> (adj., qui manque
+d'originalit&eacute;)</klr></trd>,
+      <trd>terne<klr tip="ind"> (qui manque
+      d'originalit&eacute;)</klr></trd>
+    </trdgrp>
+    <trd lng="de">charakterlos</trd>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_s;&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_a;&c_r;&c_n;&c_y;</trd>
+  <trdgrp lng="ca">
+    <trd>insuls</trd>,
+    <trd>dessaborit</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>insulso</trd>,
+    <trd>falto de car&aacute;cter</trd>,
+    <trd>desaborido</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7279;&#x6027;&#x306E;&#x7121;&#x3044;  <pr>&#x3068;&#x304F;&#x305B;&#x3044;&#x306E;&#x306A;&#x3044;</pr></trd>,
+    <trd>&#x5E73;&#x51E1;&#x306A;  <pr>&#x3078;&#x3044;&#x307C;&#x3093;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">karakterloos</trd>
+  <trdgrp lng="pl">
+    <trd>s&lstroke;aby</trd>,
+    <trd>bez wyrazu</trd>
+  </trdgrp>
+<trdgrp lng="ro">
+    <trd>slab</trd>,
+    <trd>neexpresiv</trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_je;&c_s;&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">bezcharaktern&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_z;&c_h;&c_a;&c_r;&c_a;&#x43A;&c_t;&c_je;&c_r;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je; &c_h;&c_a;&c_r;&c_a;&#x43A;&c_t;&c_je;&c_r;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je; &#x43E;&c_r;&c_i;&c_gu;&c_ib;&#x43D;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.106 2023/10/18 14:48:10
+revo: transskribo per <pr>
+
+versio 1.104 2023/08/14 20:27:00
+Wolfram Diestel: +trd de
+
+versio 1.103 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.101 2021/08/23 12:47:08
+Dmitri Gabinski: + trd be
+
+versio 1.29 2020/02/27 17:10:27
+Neil Roberts: Ripari ref
+
+Revision 1.28  2019/03/20 00:10:15  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.27  2016/12/10 08:10:14  revo
+Warut Bunprasert: +trd th
+
+Revision 1.26  2015/09/11 17:10:14  revo
+-->
+</vortaro>

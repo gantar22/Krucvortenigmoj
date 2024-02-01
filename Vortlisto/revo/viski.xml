@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: viski.xml,v 1.26 2023/09/05 09:43:56 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>viski</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="viski.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="viski.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Britdevena <ref tip="super" cel="brand.0o">brando</ref> el greno:
+      <ekz>
+        ver&scirc;u iom da <tld/>o al vi
+        <fnt><aut>J. Modest</aut>, <vrk>En la ombro de la
+        silento</vrk>, <bib>Monato</bib>, <lok>jaro 1997a, numero 3a, p.
+        14a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_ib;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="bo">&#xF68;&#xF0B;&#xF62;&#xF42;&#xF0B;</trd>
+  <trd lng="ca">whisky</trd>
+  <trd lng="cs">whisky</trd>
+  <trd lng="de">Whisky</trd>
+  <trdgrp lng="en">
+    <trd>whiskey</trd>,
+    <trd>whisky</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>whisky</trd>,
+    <trd>g&uuml;isqui</trd>
+  </trdgrp>
+  <trd lng="fa">&a_w;&f_y;&a_s;&f_k;&f_y;</trd>
+  <trd lng="fr">whisky</trd>
+  <trd lng="hu">whisky</trd>
+  <trd lng="id">wiski</trd>
+  <trd lng="ja">&#x30A6;&#x30A4;&#x30B9;&#x30AD;&#x30FC;</trd>
+  <trd lng="nl">whisky</trd>
+  <trd lng="pt">u&iacute;sque</trd>
+  <trd lng="ru">&c_v;&c_i;&c_s;&c_k;&c_i;</trd>
+  <trd lng="sk">whisky</trd>
+  <trd lng="sv">whisky</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_s;&#x43A;&c_ib;</trd>
+</drv>
+
+<drv mrk="viski.maiz0o">
+  <kap>maiz<tld/>o</kap>
+  <snc mrk="viski.maiz0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="super" cel="brand.0o">Brando</ref> ordinare usondevena,
+      <tld/>o el maizgrajnoj:
+      <ekz>
+        maiza <tld/>o a&ubreve; maiz<tld/>o
+        <fnt>
+        <bib>Viki</bib>,
+        <lok>burbono, 2005-06-15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_u;&c_r;&c_b;&c_o;&c_n; <klr tip="amb">(&c_v;&c_ib;&c_s;&c_k;&c_ib;)</klr></trd>
+  <trd lng="ca">bourbon</trd>
+  <trd lng="fr">bourbon<klr tip="amb"> (boisson)</klr></trd>
+  <trd lng="id">bourbon</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2022/11/30 18:35:18
+Dmitri Gabinski: + trd be
+
+Revision 1.20  2012/01/03 09:10:11  revo
+Marc Rausell: +trd ca
+
+Revision 1.19  2010/10/21 16:30:19  revo
+Jeromo Vasxe: aux -> u hoko
+
+Revision 1.18  2009/10/06 16:44:57  revo
+Russ Williams: +trd en
+
+Revision 1.17  2009/09/14 16:31:37  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2005/11/24 17:31:19  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.15  2005/08/26 16:31:35  revo
+Jeromo Vasxe: + maiz~o
+
+Revision 1.14 2005/02/03 17:33:45 revo
+-->
+</vortaro>

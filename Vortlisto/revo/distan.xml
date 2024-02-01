@@ -1,0 +1,770 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: distan.xml,v 1.56 2023/11/29 06:30:27 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>distanc</rad>/o <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="distan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="distan.0o.SPA">
+    <dif>
+      Longo de interspaco:
+      <ekz>
+        li konstruis en la <tld/>o de dudek ulnoj de la rando de la domo cedrotabulan
+        muron
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Re&gcirc;oj 6:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> kuris post li <tld/>on de sep tagoj kaj kuratingis lin sur la
+        monto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 31:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>o de &ccirc;irka&ubreve; dek kvin stadioj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Johano 11:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        proksime de Jerusalem, en la <tld/>o de sabata voja&gcirc;o
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 1:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili iris ankora&ubreve; kelkan <tld/>on
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        apena&ubreve; ili estis ekster <ind>a&ubreve;d<tld/>o</ind>, kiam Atrejo diris: estas nun malfacile
+        paroli kun vi sola
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Vidanta Mano</lok>
+        </fnt>;
+        <trd lng="de">H&ouml;rweite</trd>
+        <trd lng="en">earshot</trd>
+      </ekz>
+      <ekz>
+        li prenis kapgrandan &scirc;tonon, kiu ku&scirc;is en lia <ind>atingo<tld/>o</ind>, kaj &jcirc;etis &gcirc;in
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Igramul', la Multulo</lok>
+        </fnt>;
+        <trd lng="de">Reichweite</trd>
+      </ekz>
+      <ekz>
+        mezurante la <tld/>on per la okuloj
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        je kelkaj pa&scirc;oj da <tld/>o ni lin ekvidis
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        je centkelkaj metroj da <tld/>o
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la semado de tuberoj povas okazi a&ubreve;tune <klr>[&#8230;]</klr>, la <ind>vico<tld/>o</ind> devas
+        esti 40-70 cm
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2012/010553.php">Topinamburo &ccirc;u herba&ccirc;o?</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+        <trd lng="de">Reihenabstand</trd>
+        <trd lng="en">row spacing</trd>
+      </ekz>
+      <ekz>
+        rapideco duoble kaj flug<tld/>o kvaroble pli ol helikopteroj: jen la novtipa
+        transportaviadilo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Kawai Yuka</aut>
+          <vrk><url ref="&Monato;/2012/010848.php">Sekureco-pakton minacas fi&scirc;aglo</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+        <trd lng="de">Reichweite <klr>(Flugzeug)</klr></trd>
+        <trd lng="en">flight range</trd>
+      </ekz>
+      <ekz>
+        banloko, situanta en duhora <tld/>o de la &ccirc;efurbo
+        <fnt>
+          <bib>LGA</bib>
+          <lok>I.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni kalkulas la <tld/>ojn la&ubreve; tempo necesa por ilin traveturi
+        <fnt>
+          <bib>FSp</bib>
+          <lok>Dua Parto: Svisa Sperto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">distance</trd>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_y;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>,
+      <trd>&c_a;&c_d;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="cs">vzd&aacute;lenost</trd>
+    <trdgrp lng="de">
+      <trd>Abstand</trd>,
+      <trd>Entfernung</trd>,
+      <trd>Distanz</trd>
+    </trdgrp>
+    <trd lng="fr">distance</trd>
+    <trd lng="nl">afstand</trd>
+    <trdgrp lng="pl">
+      <trd>dystans</trd>,
+      <trd>odleg&lstroke;o&sacute;&cacute;</trd>
+    </trdgrp>
+    <trd lng="pt">dist&acirc;ncia</trd>
+    <trd lng="ro">distan&tcomma;&abreve;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_s;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_d;&c_i;&c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
+    </trdgrp>
+    <trd lng="sv">avst&aring;nd</trd>
+    <trdgrp lng="zh">
+    <trd>&#21487;&#21040;&#36798;&#30340;&#33539;&#22260; <pr>k&ecaron;d&agrave;od&aacute;def&agrave;nw&eacute;i</pr></trd>,
+    <trd>&#20316;&#29992;&#21322;&#24452; <pr>zu&ograve;y&ograve;ngb&agrave;nj&igrave;ng</pr></trd>,
+    <trd>&#26377;&#25928;&#36317;&#31163; <pr>y&#466;uxi&agrave;oj&ugrave;l&iacute;</pr></trd>,
+    <trd>&#34055; <pr>j&igrave;</pr></trd>,
+    <trd>&#36317;&#31163; <pr>j&ugrave;l&iacute;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="distan.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref cel="difere.0o.KLA">Diferenco</ref>, <ref cel="kontra8.0o">kontrasto</ref> la&ubreve; tempo,
+      interrilato, mondkoncepto ks:
+      <ekz>
+        mi ne volas <klr>[&#8230;]</klr> argumenti pri la <tld/>o, kiu ekzistas inter la
+        <nom>Hegel</nom>&#8217;a filozofio kaj la teozofio
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun <nom>Halim</nom> mi ofte sentas ke estas <tld/>o inter ni, eble kultura a&ubreve; religia
+        <fnt>
+          <bib>ChB</bib>
+          <lok>6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kompetenta historiisto havos <klr>[&#8230;]</klr> la bezonatan tempan <tld/>on por
+        kritike analizi la eventojn
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la granda <tld/>o inter prahistoriaj desegna&jcirc;oj kaj <nom>Picasso</nom>
+        <fnt>
+          <bib>KFl</bib>
+          <lok>III. Atomoj de evoluo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lar&gcirc;igante la <tld/>on inter la sociaj klasoj
+        <fnt>
+          <bib>BonaLingvo</bib>
+          <lok>6. Ies Malfido, Fido Mia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi kalkulas eksterordinare nekredeblan <tld/>on inter la justulo kaj la
+        maljustulo
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Na&ubreve;</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Unterschied</trd>,
+      <trd>Distanz</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#24046;&#24322; <pr>ch&#257;y&igrave;</pr></trd>,
+    <trd>&#24046;&#20998; <pr>ch&#257;f&#275;n</pr></trd>,
+    <trd>&#24046;&#36317; <pr>ch&#257;j&ugrave;</pr></trd>,
+    <trd>&#21306;&#21035; <pr>q&#363;bi&eacute;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="distan.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      Valoro de <ref cel="metrik.0o.MAT">metriko</ref>
+      <frm><k>d</k></frm>,
+      kaj pli precize:
+    </dif>
+    <subsnc mrk="distan.0o.inter_punktoj">
+      <fnt><bib>MatStokTerm</bib><lok>p. 12</lok></fnt>
+      <dif>
+        <klr>(inter punktoj <frm><k>a</k></frm> kaj
+        <frm><k>b</k></frm>)</klr>
+        La valoro <frm><k>d</k>(<k>a</k>,<k>b</k>)</frm>.
+      </dif>
+    </subsnc>
+    <subsnc mrk="distan.0o.de_punkto_al_aro">
+      <fnt><bib>MatStokTerm</bib><lok>p. 12</lok></fnt>
+      <dif>
+        <klr>(de punkto <frm><k>a</k></frm> al aro
+        <frm><g>A</g></frm>)</klr>
+        La <ref cel="infim.0o">infimo</ref> de la <tld/>oj
+        <sncref ref="distan.0o.inter_punktoj"/>
+        de <frm><k>a</k></frm> al &ccirc;iu punkto de
+        <frm><g>A</g></frm>.
+      </dif>
+    </subsnc>
+    <subsnc mrk="distan.0o.inter_aroj">
+      <fnt><bib>EKV</bib><lok>&para;87</lok></fnt>
+      <dif>
+        <klr>(inter aroj <frm><g>A</g></frm> kaj
+        <frm><g>B</g></frm>)</klr>
+        La <ref cel="infim.0o">infimo</ref> de la <tld/>oj
+        <sncref ref="distan.0o.inter_punktoj"/>
+        de &ccirc;iu punkto de <frm><g>A</g></frm>
+        al &ccirc;iu punkto de <frm><g>B</g></frm>.
+      </dif>
+    </subsnc>
+    <trd lng="be">&c_a;&c_d;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    <trd lng="de">Abstand</trd>
+    <trd lng="en">distance</trd>
+    <trd lng="fr">distance<klr tip="ind"> (math.)</klr></trd>
+    <trd lng="pl">odleg&lstroke;o&sacute;&cacute;</trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_je;</trd>
+    <trd lng="zh">&#38291;&#36317; <pr>ji&#257;nj&ugrave;</pr></trd>
+</snc>
+  <trdgrp lng="cs">
+    <trd>odstup</trd>,
+    <trd>rozestup</trd>,
+    <trd>rozp&ecaron;t&iacute;</trd>
+  </trdgrp>
+  <trd lng="es">distancia</trd>
+  <trd lng="hu">t&aacute;vols&aacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#36317;&#38626;  <pr>&#12365;&#12423;&#12426;</pr></trd>,
+    <trd>&#38291;&#38548;  <pr>&#12363;&#12435;&#12363;&#12367;</pr></trd>
+  </trdgrp>
+  <trd lng="lat">auferatur</trd>
+  <trd lng="sk">vzdialenos&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_i;&c_s;&c_t;&c_a;&c_n;&c_c;&c_ib;&c_ja;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_s;&c_t;&c_a;&c_n;&c_mol;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_d;&c_a;&c_l;&c_mol;</trd>,
+    <trd>&c_d;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="distan.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="sin" cel="proksi.mal0a">Malproksima</ref>; estanta, aganta je <tld/>o:
+      <ekz>
+        li sendis al &scirc;i <tld/>an, mokan kison
+        <fnt>
+          <bib>ChB</bib>
+          <lok>14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        a&ubreve;tobuso sekvata de kelkaj taksioj, &ccirc;iu iom <tld/>a de la aliaj
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Spiona rondo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ses sekvantoj elektu pli malpli <tld/>ajn sidlokojn
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Spiona rondo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi sentis min iom <tld/>a de tio, kio okazas &ccirc;e la alia flanko
+        <fnt>
+          <bib>StU</bib>
+          <lok>Britujo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plibonigita komunikado havigas multajn avanta&gcirc;ojn por <tld/>a lernado
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2001, &#8470;8-9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la &scirc;atantoj de tia sublingvo probable nekonscie deziras krei en esperantujo ian
+        nobelan klason, <tld/>an de la amaso
+        <fnt>
+          <bib>BonaLingvo</bib>
+          <lok>6. Ies Malfido, Fido Mia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        poeto &ccirc;iam akravida, sed kun iom <tld/>a rigardopunkto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="https://www.monato.be/2007/009010.php">Resume de l' mio</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>entfernter</trd>,
+    <trd>mit <ind>Abstand</ind></trd>
+  </trdgrp>
+  <trd lng="en">distant</trd>
+  <trdgrp lng="ja">
+    <trd>&#38626;&#12428;&#12383;  <pr>&#12399;&#12394;&#12428;&#12383;</pr></trd>,
+    <trd>&#38548;&#12383;&#12387;&#12383;  <pr>&#12408;&#12384;&#12383;&#12387;&#12383;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#20510; <pr>li&agrave;ng</pr></trd>,
+    <trd>&#31227;&#24320; <pr>y&iacute;k&#257;i</pr></trd>,
+    <trd>&#32236; <pr>mi&#462;n</pr></trd>,
+    <trd>&#36797; <pr>li&aacute;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="distan.0e">
+  <kap>
+    <tld/>e
+  </kap>
+  <snc>
+    <dif>
+      Iom <ref cel="for.0.malproksimeco">for</ref>; <ref cel="proksi.mal0ede">malproksime</ref>:
+      <ekz>
+        Zozo lin atendis &ccirc;e la elirejo de la kontrol&ccirc;ambro kaj lin <tld/>e sekvis
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Spiona rondo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tricent pa&scirc;ojn <tld/>e de la kajo
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni staris tre <tld/>e, dum li elprenis &gcirc;in
+        <fnt>
+          <bib>KrM</bib>
+          <lok>25. Multe Da Spirito Sed Neniom Da Profito.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi laboras <tld/>e, el mia hejmo en Italujo
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Esti salajrata oficisto de TEJO</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">entfernt</trd>
+  <trd lng="en">distant</trd>
+  <trd lng="ja">&#38626;&#12428;&#12390;  <pr>&#12399;&#12394;&#12428;&#12390;</pr></trd>
+</drv>
+
+<drv mrk="distan.angula0o">
+  <kap>angula <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc mrk="distan.angula0o.MAT">
+    <dif>
+      <klr>(inter du punktoj de <ref cel="cirkl.0o.linio">cirklo</ref>)</klr>
+      La mezuro de la <ref cel="angul.centra0o">centra angulo</ref>,
+      kies
+      lateroj trairas la punktojn:
+      <ekz>
+        la angula <tld/>o inter du punktoj de la sama tera meridiano
+        egalas
+        al la diferenco de iliaj respektivaj latitudoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">&uacute;hlov&aacute; vzd&aacute;lenost</trd>
+  <trdgrp lng="de">
+    <trd>Winkelabstand</trd>,
+    <trd>Winkelentfernung</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>angular <ind>distance</ind></trd>,
+    <trd>angular <ind>separation</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>distance angulaire</trd>,
+    <trd>&eacute;cart angulaire</trd>
+  </trdgrp>
+  <trd lng="he">&mem;&resh;&het;&qof; &zayin;&vav;&vav;&yod;&tav;&yod;</trd>
+  <trd lng="hu">sz&ouml;gt&aacute;vols&aacute;g</trd>
+  <trd lng="pl">odleg&lstroke;o&sacute;&cacute; k&aogonek;towa</trd>
+  <trd lng="ru">&c_u;&c_g;&c_l;&c_o;&c_v;&c_o;&c_je;
+  <ind>&c_r;&c_a;&c_s;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">uhlov&aacute; vzdialenos&tcaron;</trd>
+</drv>
+
+<drv mrk="distan.fokus0o">
+  <kap>fokus<tld/>o</kap>
+  <snc mrk="distan.fokus0o.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      <tld lit="D"/>o inter <ref cel="objekt2.0o">objektivo</ref> kaj <ref cel="fokus.0o.FOT">fokuso</ref>:
+      <ekz>
+        por kalkuli la grandig-povon de teleskopo, oni dividas la
+        fokus<tld/>on de la objektivo per la fokus<tld/>o de la okulario
+        <fnt>
+          <aut>David Galad&iacute;-Enr&iacute;quez &amp; Amri
+          Wandel</aut>,
+          <vrk>La kosmo kaj ni</vrk>,
+          <lok>p. 131</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ni povis]</klr> supreniri en la kupolon de la instituto por vidi
+        <klr>[&#8230;]</klr> ties 90-centimetran teleskopon, kun fokus<tld/>o de 10 metroj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2001, &#8470;6</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>focale</trd>,
+      <trd>distance focale</trd>
+    </trdgrp>
+    <trd lng="pl"><klr>odleg&lstroke;o&sacute;&cacute;</klr> ogniskowa</trd>
+  </snc>
+  <trd lng="ja">&#28966;&#28857;&#36317;&#38626;  <pr>&#12375;&#12423;&#12358;&#12390;&#12435;&#12365;&#12423;&#12426;</pr></trd>
+  <trd lng="zh">&#28966;&#36317; <pr>ji&#257;oj&ugrave;</pr></trd>
+</drv>
+
+<drv mrk="distan.paf0o">
+  <kap>paf<tld/>o, <var><kap>traf<tld/>o</kap></var></kap>
+  <snc mrk="distan.paf0o.ARM">
+    <dif>
+      <tld lit="D"/>o &gcirc;is kiu oni povas trafi per pafo.
+    </dif>
+    <ref tip="sin" cel="traf.0povo">trafpovo</ref>
+  </snc>
+  <trdgrp lng="en"><trd>range</trd>, <trd>striking
+  distance</trd></trdgrp>
+  <trd lng="cs">dost&rcaron;el</trd>
+  <trdgrp lng="de">
+    <trd>Schussweite</trd>,
+    <trd>Reichweite <klr>(Geschoss)</klr></trd>,
+  </trdgrp>
+  <trd lng="es">alcance de tiro</trd>
+  <trd lng="fr">port&eacute;e</trd>
+  <trd lng="he">&mem;&resh;&het;&qof; &yod;&resh;&yod;</trd>
+  <trd lng="hu">l&odblac;t&aacute;vols&aacute;g</trd>
+  <trd lng="ja">&#21629;&#20013;&#36317;&#38626;  <pr>&#12417;&#12356;&#12385;&#12421;&#12358;&#12365;&#12423;&#12426;</pr></trd>
+  <trd lng="nl">draagwijdte</trd>
+  <trdgrp lng="pl">
+    <trd>dono&sacute;no&sacute;&cacute;</trd>,
+    <trd>zasi&eogonek;g</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+  &c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_b;&c_y;</trd>
+  <trd lng="sk">dostrel</trd>
+  <trd lng="uk">&c_d;&c_a;&c_l;&c_je;&c_k;&c_o;&c_b;&c_ib;&c_j;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="distan.polusa0o">
+  <kap>polusa <tld/>o,
+  <var><kap>polus<tld/>o<fnt><bib>MatVort</bib></fnt></kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de punkto en <ref cel="spac.afina0o">afina
+      spaco</ref>) </klr>
+      <ref cel="distan.0o.MAT"><tld lit="D"/>o</ref> de la punkto al
+      la origino de koordinatoj:
+      <ekz>
+        polusa <tld/>o estas la unua koordinato en la polusa kaj sfera
+        <ref cel="koordi.0sistemo">koordinatsistemoj</ref>;
+      </ekz>
+      <ekz>
+        la polusa <tld/>o de punkto en ebeno egalas al la
+        <ref cel="modul.0o.komplekso">modulo</ref> de &gcirc;ia bildo en
+        la
+        <ref cel="komple.0a.MAT">kompleksa</ref> ebeno.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="vektor.radius0o">radiusvektoro</ref>
+    <rim>
+      Pro te&hcirc;nikaj kialoj oni foje toleras negativajn valorojn de
+      la polusa <tld/>o, ekz-e en polusaj ekvacioj de kurboj.
+    </rim>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Polarradius</trd>,
+    <trd>Radiusvektor</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>polar <ind>radius</ind></trd>,
+    <trd>radius vector</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>rayon vecteur</trd>
+  </trdgrp>
+  <trd lng="hu">k&ouml;z&eacute;pponti
+  <ind>t&aacute;vols&aacute;g</ind></trd>
+  <trdgrp lng="pl">
+    <trd>promie&nacute; wodz&aogonek;cy</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j;
+    <ind>&c_r;&c_a;&c_d;&c_i;&c_u;&c_s;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="distan.sin0igi">
+  <kap><tld/>igi sin, <var><kap><tld/>i&gcirc;i</kap></var></kap>
+  <snc mrk="distan.sin0igi.FIG">
+    <uzo tip="stl">RAR</uzo>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Elmontri, ke oni ne partoprenas,
+      ne <ref tip="ant" cel="ten.sub0i.FIG">subtenas</ref>, ne respondecas:
+      <ekz>
+        la iamaj amikoj <tld/>i&gcirc;is
+        <fnt>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2001/007334.php">Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/02, p. 8</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        en sia instruado Jesuo sin <tld/>igas de la normoj de la
+        pasinteco
+         <fnt>
+          <aut>A. Maggi, trad. -</aut>,
+          <vrk><url ref="http://www.studibiblici.it/ESPERANTO/lagisnunnekonatadio.pdf">
+          La &gcirc;is nun Nekonata Dio</url></vrk>,
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        necesis, do, klare kaj eksplicite <tld/>i&gcirc;i por &leftquot;savi la aferon&rightquot;
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        okaze de disfalo de la sistemo la registaro &ndash; tre ruze &ndash; povas sin <tld/>igi
+        <fnt>
+	<aut>Paul Gubbins</aut>
+	<vrk><url ref="&Monato;/2001/007260.php">Politiko elreligita</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/02, p. 6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kvin membroj de la apelacia &ccirc;ambro <tld/>igis sin de la liberiga verdikto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Josip Pleadin</aut>
+          <vrk><url ref="&Monato;/2013/010919.php">Post prizono manpremo</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="admon.de0i">deadmoni</ref>,
+      <ref cel="turn.de0igxi">deturni&gcirc;i</ref>,
+      <ref cel="kritik.0i.KOMUNE">kritiki<sncref/></ref>,
+      <ref cel="aprob.mal0i.KOMUNE">malaprobi</ref>,
+      <ref cel="konfes.mal0i.deklari_sia">malkonfesi</ref>,
+      <ref cel="neg.0i">negi</ref>
+    </refgrp>
+    <trd lng="be">&c_d;&c_y;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+    <trd lng="en">distance oneself</trd>
+    <trdgrp lng="fr">
+      <trd>se <ind>d&eacute;marquer</ind></trd>,
+      <trd>se <ind>distancier</ind></trd>
+    </trdgrp>
+    <trd lng="pl"><ind>dystansowa&cacute;</ind> si&eogonek;</trd>
+    <trdgrp lng="zh">
+    <trd>&#32972;&#31163; <pr>b&egrave;il&iacute;</pr></trd>,
+    <trd>&#36828;&#21435; <pr>yu&#462;nq&ugrave;</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="de">
+    <trd>sich <ind>distanzieren</ind></trd>,
+    <trd>auf <ind>Abstand</ind> gehen</trd>,
+    <trd>sich <ind>abwenden</ind></trd>
+  </trdgrp>
+  <trd lng="es">distanciarse</trd>
+</drv>
+
+<drv mrk="distan.temp0o">
+  <kap>
+    temp<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <ref cel="temp.inter0o">Intertempo</ref>, temp<ref cel="interv.0o">intervalo</ref>:
+      <ekz>
+        <klr>[&ccirc;]</klr>iam koleras &scirc;in la hundoj, se &scirc;i en trikvartaga temp<tld/>o kura&gcirc;e
+        ekiras al la urbo
+        <fnt>
+          <bib>LGA</bib>
+          <lok>V.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">zeitlicher <ind>Abstand</ind></trd>
+  <trd lng="zh">&#26102;&#24046; <pr>sh&iacute;ch&#257;</pr></trd>
+</drv>
+
+<drv mrk="distan.vetur0o">
+  <kap>
+    vetur<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      La <tld/>o kiun oni veturas sub difinitaj kondi&ccirc;oj, en difinita tempo:
+      <ekz>
+        duhora vetur<tld/>o disigas ilin
+        <fnt>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+            <vrk><url ref="&Monato;/2000/007061.php">Ceramika&jcirc;oj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 24</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        kvar a&ubreve; kvin flosistoj stiris, vetur<tld/>o estis inter 10 kaj 90 km
+        <fnt>
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2001/007186.html">Vakeroj de Alpoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 10</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la povumo de la elektraj motoroj estis nur dek kilovatoj, la maksimuma
+        <klr>[&#8230;]</klr> vetur<tld/>o per unu plena baterio 45 km
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2014/011240.php">Elektro elektita</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Entfernung <klr>(mit dem Fahrzeug)</klr></trd>
+  <trd lng="en">driving distance</trd>
+  <trd lng="ja">&#36208;&#34892;&#36317;&#38626;  <pr>&#12381;&#12358;&#12371;&#12358;&#12365;&#12423;&#12426;</pr></trd>
+</drv>
+
+<drv mrk="distan.vid0o">
+  <kap>
+    vid<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      La <tld/>o en kiu oni povas ankora&ubreve; distingi objektojn, depende de tereno,
+      nebulo ktp:
+      <ekz>
+        mi konis &scirc;ipon, kiu <klr>[&#8230;]</klr> ankora&ubreve; preska&ubreve; en vid<tld/>o de bordo, glate
+        alfundi&gcirc;is
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en lia vid<tld/>o li ne povis percepti ion alian malanta&ubreve; la pordego krom
+        senfina malplena ebena&jcirc;o, nek konstrua&jcirc;on nek templon
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Geermitoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="horizo.0o.limo">horizonto<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Sichtweite</trd>
+  <trd lng="en">sight range</trd>
+  <trd lng="zh">&#21487;&#35211;&#24230; <pr>k&ecaron;ji&agrave;nd&ugrave;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.56 2023/11/29 06:30:27
+Wolfram Diestel: fnt JED
+
+versio 1.54 2023/10/14 11:26:54
+revo: transskribo per <pr>
+
+versio 1.52 2023/06/01 15:24:09
+Wolfram Diestel: +~a
+
+versio 1.51 2023/05/27 18:27:01
+Wolfram Diestel: +~e
+
+versio 1.50 2023/04/30 06:30:33
+Paul Peeraerts: Steloj -> monato
+
+versio 1.49 2023/04/23 16:33:17
+
+versio 1.48 2023/04/15 12:43:07
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.47 2023/04/11 05:36:21
+aktualigo Monato-URL
+-->
+</vortaro>

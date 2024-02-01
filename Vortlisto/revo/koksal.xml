@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: koksal.xml,v 1.19 2023/12/03 09:58:52 revo Exp $">
+<kap>
+  <rad>koksalgi</rad>/o
+</kap>
+<drv mrk="koksal.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <uzo tip="stl">EVI</uzo>
+  <snc mrk="koksal.0o.tuberkuloza">
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      <ref tip="sin" cel="tuberk.koks0o">Kokstuberkulozo</ref>:
+      <ekz>
+        malbona higieno ka&ubreve;zas la <tld/>on;
+      </ekz>
+      <ekz>
+        terura malsano, nomata <tld/>o, kies sidejo estas en la kokso, estis aperiginta
+        <fnt>
+          <aut>Hector Malot</aut>
+          <vrk><url ref="http://www.ipernity.com/blog/58225/268523">Sen Familio</url></vrk>
+          <lok>12a &ccirc;apitro &dash; Mia unua amiko </lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">coxartrosi</trd>
+    <trd lng="fr">coxalgie</trd>
+    <trd lng="nl">coxalgie</trd>
+  </snc>
+  <snc mrk="koksal.0o.doloro">
+    <fnt><bib>PIV1</bib></fnt>
+    <ref tip="dif" cel="dolor.koks0o">koksdoloro</ref>
+    <trd lng="ca">cox&agrave;lgia</trd>
+    <trd lng="es">coxalgia</trd>
+    <trd lng="fr">douleur de hanche</trd>
+    <trd lng="nl">heuppijn</trd>
+  </snc>  
+  <rim>
+    Pro &gcirc;iaj du sencoj (malsano / simptomo), &leftquot;koksalgio&rightquot; estas
+    konfuza kaj evitinda vorto. Prefere uzu la pli klarajn terminojn
+    &leftquot;kokstuberkulozo&rightquot; kaj &leftquot;koksdoloro&rightquot;.
+  </rim>
+  <trd lng="cs">bolest v ky&ccaron;l&iacute;ch</trd>
+  <trdgrp lng="de">
+    <trd>H&uuml;ftschmerz</trd>,
+    <trd>H&uuml;ftgelenkschmerz</trd>,
+    <trd>Koxalgie</trd>
+  </trdgrp>
+  <trd lng="ja">&#x80A1;&#x95A2;&#x7BC0;&#x75DB;  <pr>&#x307E;&#x305F;&#x304B;&#x3093;&#x305B;&#x3064;&#x3064;&#x3046;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>koksalgia</trd>,
+    <trd>gru&zacute;lica bioder</trd>
+  </trdgrp>   
+  <trd lng="ro">&#x219;olduri   tuberculoz&abreve;</trd>
+  <trd lng="sk">boles&tcaron; v bedr&aacute;ch</trd>
+  <trd lng="uk">&#x43A;&#x43E;&#x43A;&#x441;&#x430;&#x43B;&#x433;&#x456;&#x44F;</trd>
+  <trd lng="zh">&#x8170;&#x75BC; <pr>y&#x101;ot&#xE9;ng</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.18 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.15 2020/03/21 10:10:24
+Wolfram Diestel: +ekz, dif per ref-dif, rim: plibonigis vortumon
+
+Revision 1.14  2019/03/01 23:10:24  revo
+Vito Redsky: +trd ro +trd pl
+
+Revision 1.13  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/12/20 07:10:13  revo
+Alain Gerard: + evi
+
+Revision 1.10  2014/12/19 21:10:16  revo
+Alain Gerard: + rim
+
+Revision 1.9  2013/10/09 19:11:18  revo
+-->
+</vortaro>

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: migren.xml,v 1.19 2023/10/19 16:45:37 revo Exp $">
+<kap>
+  <rad>migren</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="migren.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="migren.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+       Severa <ref tip="lst" lst="voko:malsanoj" cel="dolor.kap0o">kapdoloro</ref> unuflanka, ofte
+       akompanata de aliaj simptomoj kiel vomemo kaj trafanta pli da virinoj ol viroj; <ref tip="sin" cel="hemikr.0o.MED">hemikranio</ref>:
+      <ekz>
+        do, vi havis familian kuraciston, <klr>[kiu]</klr> deklaris &gcirc;in <tld/>o
+        <fnt>
+          <aut>T. Mann, [trad. M. Haase?]</aut>,
+          <vrk>Konfesoj de sin&scirc;ajniganto Feliks Krull</vrk>,
+          <lok>chapitro 5a</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <nom>Pope</nom> plendis al mi pri neeltenebla <tld/>o kaj, probable,
+        foriris por ku&scirc;i
+        <fnt>
+          <aut>A. Grin, trad. J. Finkel</aut>,
+          <vrk>
+            <url ref="http://www.esperanto.mv.ru/Grin/ora.html">
+            La ora &ccirc;eno</url>
+          </vrk>,
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iuj diras anka&ubreve;, ke la glaciakva banado helpas kontra&ubreve; <tld/>o kaj re&ubreve;matismo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Saliko</aut>
+          <vrk><url ref="&Monato;/2009/009629.php">Vintra banado</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tigroj &ccirc;e la ver&scirc;tablo per sia blekado min preska&ubreve; <tld/>igis
+        <fnt><bib>MkM</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ib;&c_g;&c_r;&c_e;&c_n;&c_mol;</trd>,
+    <trd>&c_g;&c_je;&c_m;&c_ib;&c_k;&c_r;&c_a;&c_n;&c_ib;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_m;&c_i;&c_g;&c_r;&c_je;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>migranya</trd>,
+    <trd>hemicr&agrave;nia</trd>
+  </trdgrp>
+  <trd lng="cs">migr&eacute;na</trd>
+  <trd lng="de">Migr&auml;ne</trd>
+  <trd lng="en">migraine</trd>
+  <trdgrp lng="es">
+    <trd>jaqueca</trd>,
+    <trd>migra&ntilde;a</trd>
+  </trdgrp>
+  <trd lng="fr">migraine</trd>
+  <trdgrp lng="hu">
+    <trd>f&eacute;loldali <ind>fejf&aacute;j&aacute;s</ind></trd>,
+    <trd>hemicrania</trd>,
+    <trd>migr&eacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>migrain</trd>,
+    <trd><ind>sakit</ind> kepala sebelah</trd>
+  </trdgrp>
+  <trd lng="it">emicrania</trd>
+  <trd lng="ja">&#x504F;&#x982D;&#x75DB;  <pr>&#x3078;&#x3093;&#x305A;&#x3064;&#x3046;</pr></trd>
+  <trd lng="nl">migraine</trd>
+  <trd lng="pl">migrena</trd>
+  <trdgrp lng="pt">
+   <trd>hemicrania</trd>, 
+   <trd>enxaqueca</trd> 
+  </trdgrp>
+  <trd lng="ro">migren&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_i;&c_g;&c_r;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_g;&c_je;&c_m;&c_i;&c_k;&c_r;&c_a;&c_n;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">migr&eacute;na</trd>
+  <trd lng="uk">&#x43C;&#x456;&#x491;&#x440;&#x435;&#x43D;&#x44C;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.19 2023/10/19 16:45:37
+revo: transskribo per <pr>
+
+versio 1.17 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.15 2021/01/29 22:10:35
+Robin van der Vliet: akuzativa eraro korektita
+
+versio 1.14 2020/12/16 00:10:36
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.12  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2014/11/19 07:10:17  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.9  2013/10/09 19:10:56  revo
+-->
+</vortaro>

@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: at.xml,v 1.13 2023/02/13 22:31:34 revo Exp $">
+<kap>
+  <ofc>*</ofc> -<rad>at</rad>/
+</kap>
+<drv mrk="at.0">
+  <kap>-<tld/></kap>
+  <snc mrk="at.0.SNC">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <ref tip="super" cel="sufiks.0o">Sufikso</ref> de pasiva <ref
+      tip="malprt" cel="partic.0o">participo</ref>, kiu prezentas agon
+      a&ubreve; staton de &gcirc;ia objekto dum la ago, t.e. la ago ankora&ubreve; ne
+      fini&gcirc;is en la priparolata momento, tio aparte inkluzivas sen&ccirc;esajn
+      kaj ripeti&gcirc;antajn aferojn:
+      <ekz>
+        oni povu facile trovi la proverbojn, traktantajn pri &ccirc;ia
+        dezir<tld/>a temo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        batanto povas argumenti, b<tld/>ato devas silenti
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bono posed<tld/>a ne estas &scirc;<tld/>ata
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        e&ccirc; vulpo plej ruza fine estas kapt<tld/>a
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en &ccirc;iuj okazoj (tre maloftaj), kiam la simpla uzado de &leftquot;a&jcirc;&rightquot;
+        povas doni ian malkompreni&gcirc;on, ni povas ja tre bone helpi
+        al ni per la uzado de participo aktiva a&ubreve; pasiva (ekzemple
+        &leftquot;&scirc;miranta&jcirc;o&rightquot; kaj &leftquot;&scirc;mir<tld/>a&jcirc;o&rightquot; <klr>[sed ni ne]</klr>
+        devas senbezone <klr>[&#8230;]</klr> uzi ekzemple la longajn
+        formojn &leftquot;estanta&jcirc;o&rightquot;, &leftquot;kreskanta&jcirc;o&rightquot;, a&ubreve; &leftquot;send<tld/>a&jcirc;o&rightquot;,
+        &leftquot;kra&ccirc;<tld/>a&jcirc;o&rightquot;
+        <fnt>
+          <bib>LR</bib>
+          <lok>1. Vortfarado</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="io">-at</trd>
+  <trd lng="pl">przyrostek imies&lstroke;owu biernego</trd>
+  <trd lng="ro">sufix de participiu pasiv</trd>
+</drv>
+
+<drv mrk="at.0ismo">
+  <kap><tld/>ismo</kap>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc mrk="at.0ismo.ESP">
+    <uzo tip="fak">ESP</uzo>
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <ref tip="dif" cel="temp.0ismo.ESP">Tempismo</ref>:
+      <ekz>
+        en 1989 la Akademio denove rezoluciis por
+        la itismo kaj kontra&ubreve; la <tld/>ismo
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk><url
+          ref="http://lingvakritiko.com/2008/02/13/chu-dua-vivo-por-tempismo/">
+          &Ccirc;u dua vivo por tempismo?</url></vrk>,
+          <lok>Lingva Kritiko, 2008-02-13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam la <tld/>ismo ekirigis la fantomon de la reformemo, &gcirc;i
+        apena&ubreve; suspektis
+        kiajn konsekvencojn tiu misa&jcirc;o provokos
+        <fnt>
+          <vrk><url
+          ref="&Viki;/Perfekteco_de_la_Esperantaj_Verboj"
+              >Perfekteco de la Esperantaj Verboj -
+              Vikipedio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
+<rim>
+  Por distingi du kontra&ubreve;ajn sencojn de la sama prepozicio 
+  &leftquot;<ref cel="de.0.aganto">de</ref>&rightquot;, nome la aganton disde la objekton,
+  <nom>Marcel Leereveld</nom> proponas la uzon de &leftquot;ate de&rightquot;
+  en la senco <ref cel="far.0ede">fare de</ref>:
+  <ekz>
+    la murdo <tld/>e de la policano <klr>(=&#8239;la policano murdas
+    iun)</klr>
+    <fnt>
+      <aut>Marcel Leereveld</aut>,
+      <vrk><url
+      ref="http://aea.esperanto.org.au/ftp-uploads/AE-251.pdf">Nova&jcirc;letero
+      de &ccirc;iuj A&ubreve;straliaj Esperantistoj</url></vrk>,
+      <lok>A&ubreve;straliaj Esperantistoj, 2016-01-06</lok>
+    </fnt>.
+  </ekz>
+  Vd anka&ubreve; <ref tip="ant" cel="ant.0">-ant-</ref>.
+</rim>
+
+</art>
+
+<!--
+$Log$
+versio 1.13 2023/02/13 22:31:34
+Vito Redsky: +trd pl + trd ro
+
+versio 1.12 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.11 2020/05/16 15:11:03
+Wolfram Diestel: ref-cel
+
+versio 1.10 2020/05/15 11:34:11
+Wolfram Diestel: neuzatan, nur proponatan "ate" en rim anst. drv
+
+Revision 1.9  2020/03/08 08:14:04  revo
+Robin van der Vliet: +trd, +uzo
+
+Revision 1.8  2020/02/05 16:10:33  revo
+Damien Brucker: +fnt ~e
+
+Revision 1.7  2020/02/01 11:10:22  revo
+Wolfram Diestel: +ekz, - ate
+
+Revision 1.6  2020/01/28 18:10:19  revo
+-->
+</vortaro>

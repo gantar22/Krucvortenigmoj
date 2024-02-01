@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: le.xml,v 1.6 2024/01/15 16:14:09 afido Exp $">
+    <kap>
+      <rad>Le</rad>/o
+    </kap>
+
+<drv mrk="le.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="le.0o.nomo">
+    <uzo tip="fak">NOM</uzo>
+    <dif>
+      Grekdevena <ref tip="lst" lst="voko:personaj_nomoj" cel="nom.persona0o.GEN">nomo</ref>
+      greke <trd lng="grc">&Lambda;&epsilon_ton;&omega;&ny;</trd> kun la signifo &leftquot;<ref cel="leon.0o">leono</ref>&rightquot;,
+      i.a. nomo de pluraj papoj kaj anka&ubreve;
+      ofte anka&ubreve; uzata kiel mallonga formo de <ref tip="sin" cel="leonard.0o">Leonardo</ref>,
+      <ref tip="sin" cel="leopold.0o">Leopoldo</ref> kc:
+      <ekz>
+        kontra&ubreve; tio la papo <tld/>o X energie protestis
+        <fnt>
+          <bib>SatirRak</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        meksika pentristino <klr>[&#x2026;]</klr> kaj amatino de <tld/>o Trocko
+        <fnt>
+          <vrk><url ref="&Tekstaro;?nomo=mondediplo-2005">Integri&gcirc;o per du
+          Rapidecoj</url></vrk>
+          <lok>Le Monde diplomatique en Esperanto 2005-2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_L;&c_je;&c_w; <klr>(&c_ib;&c_m;&c_ja;)</klr></trd>,
+      <trd>&c_L;&c_je;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Leo</trd>,
+      <trd>Lev</trd>
+    </trdgrp>
+    <trd lng="en">Leo</trd>
+    <trd lng="nl">Leo</trd>
+    <trdgrp lng="zh">
+    <trd>&#x5229;&#x5965; <pr>l&#xEC;&#xE0;o</pr></trd>,
+    <trd>&#x5229;&#x5967; <pr>l&#xEC;&#xE0;o</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="uk">&#x41B;&c_je;&c_v;</trd>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.5 2023/07/03 15:30:10
+Paul Peeraerts:  + trd nl
+
+versio 1.4 2023/05/05 17:57:58
+revo: aktualigo URL-unuoj
+
+versio 1.3 2022/07/05 11:38:25
+Dmitri Gabinski: + trd be
+
+versio 1.1 2021/02/02 20:40:11
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: marasm.xml,v 1.19 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>marasm</rad>/o
+</kap>
+<drv mrk="marasm.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="marasm.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Malsaneca ekstrema malgraseco kaj senvigleco:
+      <ekz>
+        infano suferanta kombinon el kva&scirc;iorkoro kaj <tld/>o dum
+        malsatego &ccirc;e rifu&gcirc;ejo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3047">Ni&gcirc;erio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        protein-energia subnutrado havas du severajn formojn: <tld/>o
+        (manko de proteino kaj kalorioj) kaj kva&scirc;iorkoro (manko de &gcirc;usta
+        proteino)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=472253">Malsufi&ccirc;a
+          nutrado</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="atreps.0o">atrepsio</ref>,
+      <ref cel="apati.0o">apatio</ref>,
+      <ref cel="inert.0eco">inerteco</ref>,
+      <ref cel="parali.0o">paralizo</ref>,
+      <ref cel="kaduk.0eco">kadukeco</ref>.
+    </refgrp>
+    <trd lng="ca">consumpci&oacute;</trd>
+    <trdgrp lng="de">
+      <trd>Marasmus</trd>,
+      <trd>Kr&auml;fteverfall</trd>,
+      <trd>Entkr&auml;ftung</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>marasmus</trd>,
+      <trd>emaciation</trd>
+    </trdgrp>
+    <trd lng="hu">sorvad&aacute;s</trd>
+    <trd lng="nl">marasme</trd>
+    <trd lng="pl">marazm</trd>
+    <trd lng="pt">marasmo</trd>
+    <trd lng="ro">marasm</trd>
+  </snc>
+  <snc mrk="marasm.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Plena senaktiveco:
+      <ekz>
+        la komerco estas en <tld/>o
+      </ekz>
+      <ekz>
+        la konstruado de la lumturo de <nom>Eckm&uuml;hl</nom> okazis kiam,
+        post du jarcentoj da <tld/>o, la ekonomio de
+        <nom>Penmarc'h</nom> 
+        relevi&gcirc;as aparte dank'&#x202F;al la lan&ccirc;o de la ladprezervoj de
+        sardinoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=420968">Lumturo
+          de Eckm&uuml;hl</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="stagn.0i">stagni</ref>.
+    </refgrp>
+    <trd lng="ca">estancament</trd>
+    <trdgrp lng="de">
+       <trd>Darniederliegen</trd>,
+       <trd>Stillstand</trd>,
+       <trd>Flaute</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+       <trd>f&aacute;sults&aacute;g</trd>,
+       <trd>tesped&eacute;s</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>malaise</trd>,
+      <trd>verval</trd>
+    </trdgrp>
+    <trd lng="pl">marazm</trd>
+    <trdgrp lng="pt">
+      <trd>marasmo</trd>,
+      <trd>estagna&ccedil;&atilde;o</trd>,
+      <trd>paralisa&ccedil;&atilde;o</trd>    
+    </trdgrp>
+    <trd lng="ro">marasm</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_r;&c_a;&c_z;&c_m;</trd>
+  <trd lng="ca">marasme</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8870;&#x5F31;  <pr>&#x3059;&#x3044;&#x3058;&#x3083;&#x304F;</pr></trd>,
+    <trd>&#x6D88;&#x8017;  <pr>&#x3057;&#x3087;&#x3046;&#x3082;&#x3046;</pr></trd>,
+    <trd>&#x4E0D;&#x632F;  <pr>&#x3075;&#x3057;&#x3093;</pr></trd>,
+    <trd>&#x505C;&#x6EDE;  <pr>&#x3066;&#x3044;&#x305F;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_a;&c_r;&c_a;&c_z;&c_m;</trd>
+  <trd lng="uk">&#x43C;&#x430;&#x440;&#x430;&#x437;&#x43C;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.19 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.16 2020/06/24 21:10:50
+Vito Redsky: +trd pl +trd ro
+
+versio 1.15 2020/05/16 15:34:19
+Wolfram Diestel: +snc-mrk, MED, ref atrepsio
+
+Revision 1.13  2012/08/19 12:10:21  revo
+Marc Rausell: + trd ca
+
+Revision 1.12  2010/02/20 18:02:01  revo
+Russ Williams: +trd en
+
+Revision 1.11  2009/10/09 16:31:14  revo
+Paul Peeraerts: +nl
+
+Revision 1.10  2006/07/29 16:33:51  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2003/05/16 16:30:38  revo
+-->
+</vortaro>

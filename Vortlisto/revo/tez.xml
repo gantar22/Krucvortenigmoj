@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tez.xml,v 1.30 2023/10/21 13:02:26 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tez</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="tez.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tez.0o.aserto">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      <ref tip="super" cel="asert.0o">Aserto</ref> elmetata kaj defendata de iu persono:
+      <ekz>
+        tiu &ccirc;i konstato estas tre valora por mia <tld/>o;
+      </ekz>
+      <ekz>
+        la &ccirc;efa <tld/>o de lia filozofio estis rigardi la tutan mondon kiel grandega
+        farso, kiel io tro sensenca, por ke prudenta homo povu serioze pensi pri &gcirc;i
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; la <tld/>o de la francaj koloniistoj, la unuaj viktimoj de la Al&gcirc;eria milito
+        estis francoj, mortigitaj la 1an de novembro 1954
+        <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio: 
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        temis pri <tld/>o, ke la katastrofaj naturfenomenoj
+        <klr>[&#x2026;]</klr> priskribitaj en la Biblio <klr>[&#x2026;]</klr>
+        ne estas nur fantazia&jcirc;oj
+        <fnt>
+          <aut>M. Halvelik</aut>,
+          <vrk>(Andr&eacute; Cherpillod,
+            Kaj la suno haltis...)</vrk>,
+          <bib>Monato</bib>,
+          <lok>1993:11, p. 23a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi pensas, ke inter <tld/>o kaj <ref tip="ant" cel="antite.0o">antitezo</ref>
+        povas ekzisti <ref cel="sintez.0o">sintezo</ref>
+        <fnt>
+	<aut>Uwe Joachim Moritz/Aldo de' Giorgi</aut>
+	<vrk><url ref="&Monato;/2000/007043.php">Du opinioj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/07, p. 4</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="hipote2.0o">hipotezo</ref>
+    <trd lng="be">&c_t;&c_e;&c_z;&c_ib;&c_s;</trd>
+    <trd lng="de">These</trd>
+    <trdgrp lng="hu">
+      <trd>t&eacute;tel</trd>,
+      <trd>t&eacute;zis</trd>
+    </trdgrp>
+    <trd lng="nl">stelling</trd>
+    <trd lng="pl">teza</trd>
+    <trdgrp lng="pt">
+      <trd>tese</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_t;&c_je;&c_z;&c_i;&c_s;</trd>,
+      <trd>&c_p;&c_o;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;
+        <klr tip="amb">(&c_n;&c_a;&c_u;&c_ch;&c_n;.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="tez.0o.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      <ref tip="dif" cel="disert.0ajxo.doktoriga">Diserta&jcirc;o</ref>:
+      <ekz>
+        en la supera nivelo la studentoj verkas <tld/>on pri
+        <klr>[&#x2026;]</klr> historia temo
+        <fnt>
+          <aut>J. Haazen</aut>,
+          <vrk>Unika muziklernejo en Belgio</vrk>,
+          <bib>Monato</bib>,
+          <lok>1997:4, p. 16a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_y;&c_s;&c_e;&c_r;&c_t;&c_a;&c_c;&c_y;&c_ja;
+    </trd>
+    <trdgrp lng="de">
+      <trd>Doktorarbeit</trd>,
+      <trd>Dissertation</trd>
+    </trdgrp>
+    <trd lng="fr">dissertation<klr> (univ.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>disszert&aacute;ci&oacute;</trd>,
+      <trd>doktori <ind>&eacute;rtekez&eacute;s</ind></trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>proefschrift</trd>,
+      <trd>dissertatie</trd>,
+      <trd>thesis</trd>
+    </trdgrp>
+    <trd lng="pl">dysertacja</trd>
+    <trd lng="ru">&c_d;&c_i;&c_s;&c_s;&c_je;&c_r;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <trd lng="ca">tesi</trd>
+  <trdgrp lng="cs">
+    <trd>pou&ccaron;ka</trd>,
+    <trd>teze</trd>,
+    <trd>tvrzen&iacute;</trd>,
+    <trd>v&ecaron;ta</trd>,
+    <trd>z&aacute;sada</trd>
+  </trdgrp>
+  <trd lng="en">thesis</trd>
+  <trd lng="fr">th&egrave;se</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E3B;&#x5F35;  <pr>&#x3057;&#x3085;&#x3061;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x8AAC;  <pr>&#x305B;&#x3064;</pr></trd>,
+    <trd>&#x547D;&#x984C;  <pr>&#x3081;&#x3044;&#x3060;&#x3044;</pr></trd>,
+    <trd>&#x5B9A;&#x7ACB;  <pr>&#x3066;&#x3044;&#x308A;&#x3064;</pr></trd>,
+    <trd>&#x63D0;&#x984C;  <pr>&#x3066;&#x3044;&#x3060;&#x3044;</pr></trd>,
+    <trd>&#x30C6;&#x30FC;&#x30BC;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>tvrdenie</trd>,
+    <trd>t&eacute;za</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_je;&c_z;&c_a;</trd>,
+    <trd>&#x43F;&#x43E;&#x43B;&#x43E;&c_zh;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_d;&c_i;&c_s;&c_je;&c_r;&c_t;&c_a;&c_c;&c_ib;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tez.kontraux0o">
+  <kap>kontra&ubreve;<tld/>o</kap>
+  <snc mrk="tez.kontraux0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      <ref tip="super" cel="asert.0o">Aserto</ref> kontra&ubreve;a al
+      <ref tip="vid" cel="tez.0o.aserto">tezo</ref>,
+      al &gcirc;i komparata en
+      <ref tip="vid" cel="dialek1.0o">dialektika</ref>
+      rezono;
+      <ref tip="sin" cel="antite.0o.FIL">antitezo</ref>:
+      <ekz>
+        oni <klr>[&#x2026;]</klr> rajtas rebati kaj prezenti firman 
+        kontra&ubreve;<tld/>on
+        <fnt>
+          <aut>C. Sarandrea</aut>,
+          <vrk><url ref="https://groups.google.com/group/soc.culture.esperanto/msg/63a7f34a549392f4?hl=eo">
+          La morto ka&ubreve;zita...</url></vrk>,
+          <lok>soc.culture.esperanto, 2011-03-30</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_y;&c_t;&c_e;&c_z;&c_a;</trd>
+  <trd lng="ca">ant&iacute;tesi</trd>
+  <trd lng="de">Antithese</trd>
+  <trd lng="en">antithesis</trd>
+  <trd lng="es">ant&iacute;tesis</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_r;&a_A;&a_b;&a_r;&a_n;&a_h;&a_A;&a_d;</trd>,
+    <trd>&a_A_madda;&a_n;&a_t;&f_y;&#x200C;&a_t;&a_z;</trd>
+  </trdgrp>
+  <trd lng="fr">antith&egrave;se</trd>
+  <trd lng="pl">antyteza</trd>
+  <trdgrp lng="sk">
+    <trd>protiklad</trd>,
+    <trd>antit&eacute;za</trd>
+  </trdgrp>
+  <trd lng="uk">&c_a;&#x43D;&c_t;&c_i;&c_t;&c_je;&c_z;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.28 2023/04/23 14:26:59
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.27 2023/04/07 16:34:28
+Paul Peeraerts: &Monato;/
+
+versio 1.26 2023/03/13 07:26:35
+Dmitri Gabinski: + trd be
+
+versio 1.25 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.22  2015/11/27 06:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:19  revo
+-->
+</vortaro>

@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: samo.xml,v 1.17 2023/10/21 06:31:28 revo Exp $">
+<kap>
+  <rad>Samo</rad>/o
+</kap>
+
+<drv mrk="samo.S0o">
+  <kap>
+    <tld lit="S"/>o
+    <fnt><bib>RLN</bib></fnt>
+  </kap>
+  <snc mrk="samo.S0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Insularo en la <ref tip="vid" cel="pacifik.P0o">Pacifiko</ref>.
+      Teritorio de &scirc;tato <tld/>o.
+    </dif>
+    <trd lng="fr">Samoa</trd>
+    <trdgrp lng="pl">
+      <trd>Wyspy Samoa</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="samo.S0o.sxtato">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <mlg kod="ISO-3166">WS</mlg>
+    <dif>
+      <ref tip="lst" lst="voko:&scirc;tatoj" cel="sxtat.0o.POL">&scirc;tato</ref>
+      en la samnoma insularo kun &ccirc;efurbo Apio:
+      <ekz>
+        pozitivaj evoluoj okazis la&ubreve; AI en Butano, Grekio, <tld/>o, Senegalo kaj
+        Turkio, kiuj abolis la mortpunon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2005/008644.php">Ekzekutado ekzekuciata</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld lit="s"/>a lingvo estas la indi&gcirc;ena lingvo de <tld/>o kaj Usona <tld/>o kaj estas
+        oficiala lingvo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=172745">Samoa lingvo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">Etat ind&eacute;pendant des Samoa</trd>
+    <trdgrp lng="pl">
+      <trd>Niezale&zdot;ne Pa&nacute;stwo <ind>Samoa</ind></trd>,
+      <trd>Samoa Zachodnie<klr> (przest.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_S;&c_a;&c_m;&c_o;&c_a;</trd>
+  <trd lng="bg">&c_S;&c_a;&c_m;&c_o;&c_a;</trd>
+  <trd lng="de">Samoa</trd>
+  <trd lng="en">Samoa</trd>
+  <trd lng="fa">&a_s;&a_A;&a_m;&a_w;&a_A_madda;</trd>
+  <trd lng="id">Samoa</trd>
+  <trd lng="it">Samoa</trd>
+  <trd lng="ja">&#x30B5;&#x30E2;&#x30A2;</trd>
+  <trd lng="nl">Samoa</trd>
+  <trd lng="pt">Samoa</trd>
+  <trd lng="uk">&c_S;&c_a;&#x43C;&#x43E;&c_a;</trd>
+</drv>
+
+<drv mrk="samo.OkcidentaS0o">
+  <kap>
+    Okcidenta <tld/>o
+    <fnt>
+      <vrk>
+        <url ref="&Monato;/landoj.php">La landoj
+        de l' tero</url>
+      </vrk>
+   </fnt>
+  </kap>
+  <snc mrk="samo.OkcidentaS0o.sxtato">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      Iama nomo de <ref tip="dif" cel="samo.S0o.sxtato">Samoo</ref>:
+      <ekz>
+        regis malamo inter usonaj soldatoj kaj <tld lit="s"/>anoj esperantaj je reunui&gcirc;o kun
+        Okcidenta <tld/>o la&ubreve; modelo de la Reunui&gcirc;o de Germanio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4333">Usona Samoo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Westsamoa</trd>
+    <trd lng="fa">&a_s;&a_A;&a_m;&a_w;&a_A_madda;&f_y; &a_gh;&a_r;&a_b;&f_y;</trd>
+    <trd lng="fr"><ind>Samoa</ind> occidentales</trd>
+    <trd lng="nl">West-Samoa<klr tip="ind"> (arch.)</klr></trd>
+    <trd lng="id"><ind>Samoa</ind> Barat</trd>
+    <trd lng="it"><ind>Samoa</ind> Occidentali</trd>
+    <trdgrp lng="pl">
+      <trd>Samoa Zachodnie<klr> (przest.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ja">&#x897F;&#x30B5;&#x30E2;&#x30A2;  <pr>&#x306B;&#x3057;&#x30B5;&#x30E2;&#x30A2;</pr></trd>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.17 2023/10/21 06:31:28
+revo: transskribo per <pr>
+
+versio 1.15 2023/05/03 08:30:29
+Paul Peeraerts: esperanto.be -> &Monato;
+
+versio 1.13 2021/12/29 09:32:01
+Dmitri Gabinski: + trd be
+
+Revision 1.11  2019/02/09 12:10:26  revo
+Wolfram Diestel: +ekz-oj, maj. rad
+
+Revision 1.10  2014/06/24 10:10:18  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.9  2014/06/18 20:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.8  2013/02/12 03:10:26  revo
+Evandro Avellar: Tr+ pt
+
+Revision 1.7  2011/02/14 14:10:49  revo
+-->
+</vortaro>

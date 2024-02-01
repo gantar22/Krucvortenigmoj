@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rimoid.xml,v 1.14 2023/10/21 05:38:06 revo Exp $">
+<kap>
+  <rad>rimoid</rad>/o
+</kap>
+<drv mrk="rimoid.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">POE</uzo>
+  <fnt><bib>LSF</bib>, <lok/></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="rim.nepura0o">Nepura rimo</ref>, en kiu
+      la tuj postakcentaj konsonantoj iom malsimilas:
+      <ekz>
+        &leftquot;ruzo-ruso&rightquot;, &leftquot;altrangaj-blankaj&rightquot; <klr>(kun parencaj
+        konsonantoj)</klr>,
+        &leftquot;neniam-sub li jam&rightquot; <klr>(kun aldona konsonanto)</klr>
+        konsistigas <tld/>ojn.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="asonan.0o.rimo">asonanco <sncref/></ref>
+  </snc>
+  <trd lng="ca">asson&agrave;ncia<klr> (rima)</klr></trd>
+  <trd lng="cs">neprav&#xFD; r&#xFD;m</trd>
+  <trdgrp lng="en">
+    <trd>assonant rhyme</trd>,
+    <trd>approximate rhyme</trd>,
+    <trd>imperfect rhyme</trd>,
+    <trd>near rhyme</trd>,
+    <trd>oblique rhyme</trd>,
+    <trd>off rhyme</trd>,
+    <trd>slant rhyme</trd>
+  </trdgrp>
+  <trd lng="hu">mag&aacute;nhangz&oacute;s <ind>asszon&aacute;nc</ind></trd>
+  <trd lng="ja">&#x4E0D;&#x5B8C;&#x5168;&#x97FB;  <pr>&#x3075;&#x304B;&#x3093;&#x305C;&#x3093;&#x3044;&#x3093;</pr></trd>
+  <trd lng="nl">halfrijm</trd>
+  <trd lng="pt">rima toante</trd>
+  <trd lng="sk">neprav&#xFD; r&#xFD;m</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x438;&#x43C;&#x43E;&#x457;&#x434;</trd>,
+    <trd>&#x43D;&#x435;&#x43F;&#x43E;&#x432;&#x43D;&#x430; &#x440;&#x438;&#x43C;&#x430;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.14 2023/10/21 05:38:06
+revo: transskribo per <pr>
+
+Revision 1.10  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2012/08/04 08:10:29  revo
+Marc Rausell: + trd ca
+
+Revision 1.8  2009/02/11 19:42:18  revo
+Russ Williams: +trd en
+
+Revision 1.7  2006/02/21 17:32:45  revo
+Tulio Flores: +trd pt
+
+Revision 1.6  2005/10/17 16:31:19  revo
+Marc Bavant: kor ref al asonanco
+
+Revision 1.5  2004/09/16 16:32:53  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.4  2002/10/23 20:40:21  revo
+-->
+</vortaro>

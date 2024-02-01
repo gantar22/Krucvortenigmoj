@@ -1,0 +1,2330 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: nom.xml,v 1.189 2023/12/07 12:45:58 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>nom</rad>/o <fnt><bib>VdE</bib></fnt>
+</kap>
+
+<drv mrk="nom.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="nom.0o.de_io">
+    <ref tip="dif" cel="nom.komuna0o.GRA">komuna <tld/>o<sncref/></ref>
+    <ekz>
+      Adamo donis <tld/>ojn al &ccirc;iuj bestoj <fnt><bib>VdE</bib></fnt>;
+    </ekz><ekz>
+      fiziko estas la <tld/>o de la scienco mem
+      <fnt><bib>F</bib>, <lok>&FE;32.</lok></fnt>;
+    </ekz><ekz>
+      <tld/>oj de la literoj
+      <fnt><bib>F</bib>, <lok>&FE; 1</lok></fnt>;
+    </ekz><ekz>
+      la baza duelementa metodo, kiun la fama sveda natursciencisto
+      <nom>Carl Linn&aelig;us</nom> iniciatis en la 18a jarcento, estas
+      konservata: substantiva genro<tld/>o (kun majusklo) plus
+      adjektiva karakterizo (sen majusklo)
+      <fnt>
+        <aut>Manuel Halvelik</aut>
+        <vrk><url ref="&Monato;/2007/008949.php">Atentinda solvo por
+        kompleksega problemo</url></vrk>
+        <bib>Monato</bib> <lok>2007/05, p. 16</lok>
+      </fnt>.
+    </ekz>
+    <refgrp tip="vid">
+      <ref cel="esprim.0o">esprimo</ref>,
+      <ref cel="termin.0o">termino</ref>,
+       <ref cel="katego.0o">kategorio</ref>
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>appellation</trd>,
+      <trd><ofc>*</ofc>&c_i;&c_m;&c_ja;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_a;&c_z;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
+      <trd><ofc>*</ofc>&c_i;&c_m;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="nom.0o.propra">
+    <uzo tip="fak">GEN</uzo>
+    <ref tip="dif" cel="nom.propra0o">propra <tld/>o</ref>
+    <ekz>
+      Diru al mi vian <tld/>on
+      <fnt><bib>F</bib>, <lok>&FE;18.</lok></fnt>;
+    </ekz><ekz>
+      la <tld/>oj de landoj kaj &scirc;tatoj
+      <fnt><aut>Klaus Schl&uuml;ter</aut>: <vrk>Kulturtago de EMAS</vrk>.
+        <bib>LOdE</bib> <lok>&#8470;110 (2003:12)</lok></fnt>;
+    </ekz><ekz>
+      La <tld/>oj de diversaj organiza&jcirc;oj kaj institucioj estas donitaj
+      a&ubreve; komplete, ofte kun la mallongigo en parentezoj, a&ubreve;, se ili
+      estas tre konataj, nur per la respektivaj mallongigoj:
+      Universala Esperanto-Asocio (UEA) a&ubreve; nur UEA; Unui&gcirc;intaj
+      Nacioj (UN) a&ubreve; nur UN, ktp.
+      <fnt><vrk>Esperanto en perspektivo</vrk>. <lok>1974, p.&nbsp;xxix</lok></fnt>;
+    </ekz><ekz>
+      pli a&ubreve; malpli frue en la lingvo internacia &ccirc;iuj <tld/>oj estu
+      skribataj la&ubreve; la fonetiko internacia de tiu &ccirc;i
+      lingvo, por ke &ccirc;iuj nacioj povu legi &gcirc;uste tiujn <tld/>ojn
+      <fnt><bib>LR</bib>, <lok>Lingvo Internacia, 1904, p. 216</lok></fnt>.
+    </ekz>
+    <trd lng="ar">&a_A_hamza_sube;&a_kasra;&a_s;&a_sukun;&a_m;&a_dammatan; &a_j;
+      &a_A_hamza_sure;&a_fatha;&a_s;&a_sukun;&a_m;&a_fatha_A;&a_hamza;&a_dammatan;</trd>
+    <trd lng="de">Name</trd>
+    <trd lng="en"><ofc>*</ofc>name</trd>
+    <trd lng="es">nombre</trd>
+    <trd lng="hu">n&eacute;v</trd>
+    <trd lng="it">nome<klr> (appellativo)</klr></trd>
+    <trd lng="nl">naam</trd>
+    <trdgrp lng="pl">
+      <trd>nazwa</trd>,
+      <trd>nazwisko</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>denumire</trd>,
+      <trd>nume</trd>
+    </trdgrp>
+    <trd lng="sv">namn</trd>
+    <trdgrp lng="ru">
+      <trd><ofc>*</ofc>&c_i;&c_m;&c_ja;</trd>,
+      <trd>&c_n;&c_a;&c_z;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="nom.0o.antaux">
+    <dif>
+      Vorto tradicie uzata estkiel individua <tld/>o:
+      <ekz>
+        Oni donis al &scirc;i la <tld/>on Helga
+        <fnt><bib>Fab4</bib>, <lok>Filino de la mar&ccirc;a re&gcirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      La sufikso <ref cel="in.0">-in/</ref> servas anka&ubreve; por
+      inigi virajn anta&ubreve;<tld/>ojn:
+      <ekz>Johano &#8594; Johanino; Stefano &#8594; Stefanino; Francisko &#8594;
+      Franciskino; Pa&ubreve;lo &#8594; Pa&ubreve;lino</ekz>.
+    </rim>
+    <trd lng="en"><ofc>*</ofc>name</trd>
+  </snc>
+  <snc mrk="nom.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      En la skolastika tradicio, supernocio por
+      <refgrp tip="sub">
+        <ref cel="substa1.0o">substantivo</ref>,
+        <ref cel="adjekt.0o">adjektivo</ref>,
+        <ref cel="numera.0o">numeralo</ref>
+      </refgrp>;
+      la gramatikaj klasoj, kiuj en la klasikaj
+      lingvoj posedas <ref cel="kaz.0o.GRA">kazojn</ref>, kontraste
+      al la verboj kaj adverboj:
+      <ekz>
+        komunaj substantivoj: <tld/>oj de kategorioj de uloj, lokoj,
+        a&jcirc;oj, ideoj, ktp.; virino, valo, varo, virto, ktp.
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=21756">Substantivo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <adm>
+      PV havis &ccirc;i tie "= substantivo"; tia uzo fakte ne ekzistas,
+      kaj PIV &gcirc;in ne registras.
+      "Nomo" kiel supernocio por substantivo, pronomo
+      kaj adjektivo ja ekzistas lingvistike, sed la &ccirc;i-subaj
+      tradukoj estas korektendaj (kaj kun la ref=dif ili estus
+      simple forigendaj). Mi tamen korektis de, es.
+      <aut>Sergio</aut>
+    </adm>
+    <trd lng="de">Nomen</trd>
+    <trd lng="en">noun</trd>
+    <trd lng="es">nombre</trd>
+    <trd lng="it">nome<klr> (nella Scolastica)</klr></trd>
+    <trd lng="nl">naamwoord</trd> <!-- traduko en ordo -->
+    <trd lng="pl">rzeczownik</trd>
+    <trd lng="ro">nume</trd>
+  </snc>
+  <trd lng="af">naam</trd>
+  <trd lng="am">&#4661;&#x121D;</trd>
+  <trd lng="az">ad&inodot;</trd>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_m;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_z;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9A8;&#x9BE;&#x9AE;</trd>
+  <trd lng="bo">&t_ma;&t_gigu;&t_nga;&t_tsheg;</trd>
+  <trd lng="br">anv</trd>
+  <trd lng="bs">ime</trd>
+  <trd lng="co">cognome</trd>
+  <trdgrp lng="cs">
+    <trd>identifika&ccaron;n&iacute; znak nebo soubor znak&uring;</trd>,
+    <trd>identifik&aacute;tor</trd>,
+    <trd>jm&eacute;no</trd>
+  </trdgrp>
+  <trd lng="cy">enw</trd>
+  <trd lng="da">navn</trd>
+  <trd lng="et">nimi</trd>
+  <trd lng="eu">izena</trd>
+  <trd lng="fr">nom</trd>
+  <trd lng="fy">namme</trd>
+  <trd lng="ga">ainm</trd>
+  <trd lng="gd">ainm</trd>
+  <trd lng="gl">nome</trd>
+  <trd lng="gu">&#xAA8;&#xABE;&#xAAE;</trd>
+  <trd lng="ha">sunan</trd>
+  <trd lng="hi">&#2344;&#x93E;&#x92E;</trd>
+  <trd lng="hmn">lub npe</trd>
+  <trd lng="hr">naziv</trd>
+  <trd lng="ht">non</trd>
+  <trd lng="hy">&#1377;&#1398;&#1400;&#1410;&#1398;&#1384;</trd>
+  <trd lng="id">nama</trd>
+  <trd lng="ig">aha</trd>
+  <trd lng="is">nafn</trd>
+  <trd lng="ja">&#x540D;&#x524D; <pr>&#x306A;&#x307E;&#12360;</pr></trd>
+  <trd lng="jv">jeneng</trd>
+  <trd lng="ka">&#x10E1;&#x10D0;&#x10EE;&#x10D4;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&c_a;&c_t;</trd>
+  <trd lng="km">&#6024;&#x17D2;&#6040;&#x17C4;&#x17C7;</trd>
+  <trd lng="kn">&#xCB9;&#xCC6;&#xCB8;&#xCB0;&#xCC1;</trd>
+  <trd lng="ko">&#xC774;&#xB984;</trd>
+  <trd lng="ku">nav</trd>
+  <trd lng="ky">&c_y;&c_s;&c_y;&c_m;</trd>
+  <trd lng="lat">nomen</trd>
+  <trd lng="lo">&#xE8A;&#xEB7;&#xEC8;</trd>
+  <trd lng="lt">pavadinimas</trd>
+  <trd lng="lv">nosaukums</trd>
+  <trd lng="mg">anarana</trd>
+  <trd lng="mi">ingoa</trd>
+  <trd lng="mk">&c_i;&c_m;&c_je;</trd>
+  <trd lng="ml">&#xD2A;&#xD47;&#xD30;&#xD4D;</trd>
+  <trd lng="mn">&c_n;&c_e;&c_r;</trd>
+  <trd lng="mr">&#2344;&#x93E;&#2357;</trd>
+  <trd lng="ms">nama</trd>
+  <trd lng="mt">isem</trd>
+  <trd lng="my">&#4116;&#x102C;&#4121;&#4096;&#x102D;&#x102F;</trd>
+  <trd lng="ne">&#2344;&#x93E;&#x92E;</trd>
+  <trd lng="ny">dzina</trd>
+  <trd lng="pa">&#xA28;&#xA3E;&#xA2E;</trd>
+  <trd lng="ps">&a_n;&a_w;&a_m;</trd>
+  <trd lng="pt">nome</trd>
+  <trd lng="ru"><ofc>*</ofc>&c_i;&c_m;&c_ja;</trd>
+  <trd lng="rw">izina</trd>
+  <trd lng="sd">&a_n;&a_A;&a_l;&a_w;</trd>
+  <trd lng="si">&#xDB1;&#xDB8;</trd>
+  <trdgrp lng="sk">
+    <trd>identifika&ccaron;n&yacute; znak</trd>,
+    <trd>identifik&aacute;tor</trd>
+  </trdgrp>
+  <trd lng="sl">ime</trd>
+  <trd lng="sm">igoa</trd>
+  <trd lng="sn">zita</trd>
+  <trd lng="so">magaca</trd>
+  <trd lng="sq">emri</trd>
+  <trd lng="st">lebitso la mokgatlo</trd>
+  <trd lng="su">nami</trd>
+  <trd lng="sw">jina</trd>
+  <trd lng="ta">&#xBAA;&#xBC6;&#xBAF;&#xBB0;&#xBCD;</trd>
+  <trd lng="te">&#xC2A;&#xC47;&#xC30;&#xC41;</trd>
+  <trd lng="tg">&c_n;&c_o;&c_m;</trd>
+  <trd lng="th">&#xE0A;&#xE37;&#xE48;&#xE2D;</trd>
+  <trd lng="tl">pangalan</trd>
+  <trd lng="tt">&c_i;&c_s;&c_je;&c_m;</trd>
+  <trd lng="uk">&c_ib;&c_m;&#8217;&c_ja;</trd>
+  <trd lng="ur">&a_n;&a_A;&a_m;</trd>
+  <trd lng="uz">ism</trd>
+  <trd lng="vi">t&ecirc;n</trd>
+  <trd lng="xh">igama</trd>
+  <trd lng="yi">&nun;&alef;&#x5B8;&mem;&ayin;&fnun;</trd>
+  <trd lng="yo">oruk&#x1ECD;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x540D;<klr> [m&iacute;ng]</klr></trd>,
+    <trd>&#x540D;&#x5B57;<klr> [m&iacute;ngzi]</klr></trd>
+  </trdgrp>
+  <trd lng="zu">igama</trd>
+</drv>
+
+<drv mrk="nom.0i">
+  <kap><ofc>*</ofc><tld/>i <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5124">nom'i</url></lok></fnt></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="nom.0i.bapti">
+    <dif>
+      <klr>(unusolan)</klr> Enkonduki apartan distingigan <tld/>on por
+      iu a&ubreve; io:
+      <ekz>
+        li <tld/>is sian filon Petro;
+      </ekz><ekz>
+        filo naski&gcirc;is al <nom>Naomi</nom> kaj ili <tld/>is lin <nom>Obed</nom>
+        <fnt><bib>MT</bib> <lok>Rut 4:17</lok></fnt>;
+      </ekz><ekz>
+        Dio <tld/>is la lumon Tago, kaj la mallumon Li <tld/>is Nokto
+        <fnt><bib>MT</bib> <lok>&Gen; 1:5</lok></fnt>;
+      </ekz><ekz>
+        kiel la homo <tld/>is &ccirc;iun vivan esta&jcirc;on, tiel restis &gcirc;ia
+        <tld/>o
+        <fnt><bib>MT</bib> <lok>&Gen; 2:19</lok></fnt>;
+      </ekz><ekz>
+        la Eternulon, kiu parolis al &scirc;i, &scirc;i <tld/>is: Dio-kiu-min-vidis
+        <fnt><bib>MT</bib> <lok>&Gen; 16:13</lok></fnt>;
+      </ekz><ekz>
+        oni nomis tiun puton puto de la Vivanto-Vidanto
+        <fnt><bib>MT</bib> <lok>&Gen; 16:14</lok></fnt>;
+      </ekz><ekz>
+        Moseo prenis la tabernaklon, kaj <klr>[&#8230;]</klr> nomis &gcirc;in
+        Tabernaklo de Kunveno
+        <fnt><bib>MT</bib> <lok>&Eli; 33:7</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bapt.0i">bapti</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>nennen</trd>,
+      <trd>benennen</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>llamar</trd>,
+      <trd>nombrar</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>elnevez</trd>,
+      <trd>megnevez</trd>
+    </trdgrp>
+    <trd lng="it">chiamare<klr> (dare nome)</klr></trd>
+    <trd lng="oc">apelar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_a;&c_z;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_n;&c_a;&c_r;&c_je;&c_ch;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="sv">d&ouml;pa <klr tip="ind">(till namn)</klr></trd>
+  </snc>
+  <snc mrk="nom.0i.uzi">
+    <dif>
+      <klr>(kategorion)</klr> Indiki a&ubreve; karakterizi iun a&ubreve; ion per
+      <tld/>o:
+      <ekz>
+        kiel oni <tld/>as tiun ilon?
+      </ekz><ekz>
+        la arbo sur kiu kreskas pomoj estas <tld/>ata
+        pomujo a&ubreve; pomarbo
+        <fnt>
+          <bib>LR</bib>
+          <lok>1. Vortfarado</lok>
+        </fnt>;
+      </ekz><ekz>
+        kion oni nun <tld/>as profeto, tion oni anta&ubreve;e <tld/>is
+        anta&ubreve;vidisto
+        <fnt><bib>MT</bib> <lok>&Sa1; 9:9</lok></fnt>;
+      </ekz><ekz>
+        estis la unua fojo, ke &scirc;i <tld/>is &scirc;in sia filino
+        <fnt><bib>F</bib>, <lok>&FE; 17</lok></fnt>;
+      </ekz><ekz>
+        ne sufi&ccirc;as <tld/>i lingvon internacia por ke &gcirc;i estu tia
+        <fnt>
+          <vrk><url ref="http://www.lernolibro.info/lernolibro/zamenhof_kun_vortaro.pdf">Unua
+          Libro</url></vrk>
+        </fnt>;
+      </ekz><ekz>
+        <tld/>i tion &ccirc;i kontra&ubreve;gramatika ni ne povas
+        <fnt>
+          <bib>LR</bib>
+          <lok>8. Personaj pronomoj</lok>
+        </fnt>;
+      </ekz><ekz>
+        citi &ccirc;iujn estas nun afero neebla, mi <tld/>os nur
+        kelkajn el ili
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne
+          sur Mer en la 5a de a&ubreve;gusto 1905</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cit.0i">citi</ref>
+    </refgrp>
+    <trdgrp lng="es">
+      <trd>poner un nombre</trd>,
+      <trd>nominar</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>nevez</trd>,
+      <trd>h&iacute;v<klr tip="ind">(nevez)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>nominare</trd>,
+      <trd>chiamare<klr> (nominare)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_a;&c_z;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_n;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="sv">kalla</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_z;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ma;&t_gigu;&t_nga;&t_tsheg;&t_-a;&t_da;&t_naro;&t_ga;&t_sa;&t_tsheg;</trd>
+  <trd lng="br">envel</trd>
+  <trdgrp lng="cs">
+    <trd>jmenovat do funkce</trd>,
+    <trd>nominovat</trd>,
+    <trd>ur&ccaron;it do funkce</trd>,
+    <trd>ustanovit do funkce</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>nennen</trd>,
+  </trdgrp>
+  <trd lng="fr">nommer</trd>
+  <trd lng="id">me<ind>nama</ind>i</trd>
+  <trdgrp lng="ja">
+    <trd>&#x547D;&#x540D;&#12377;&#x308B;  <pr>&#12417;&#12356;&#12417;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x540D;&#x4ED8;&#12369;&#x308B;  <pr>&#x306A;&#12389;&#12369;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">noemen</trd>
+  <trdgrp lng="pl">
+    <trd>nazywa&cacute;</trd>,
+    <trd>mianowa&cacute;</trd>,
+    <trd>wylicza&cacute;</trd>,
+    <trd>zwa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>chamar</trd>,
+    <trd>chamar-se</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>numi&#x21B;i</trd>,
+    <trd>numi</trd>,
+    <trd>calculeaz&abreve;</trd>,
+    <trd>chema</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>menova&tcaron;</trd>,
+    <trd>nominova&tcaron;</trd>,
+    <trd>ustanovi&tcaron; do funkcie</trd>
+  </trdgrp>
+<trd lng="th">&#xE15;&#xE31;&#xE49;&#xE07;&#xE0A;&#xE37;&#xE48;&#xE2D;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_z;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_ib;&c_m;&c_je;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_k;&c_a;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i; &c_p;&c_o; &c_ib;&c_m;&c_je;&c_n;&c_ib;</trd>,
+    <trd><klr>(&c_sh;&c_a;&c_n;&c_o;&c_b;&c_l;&c_i;&c_v;&c_o; &c_shch;&c_je;)</klr> &c_v;&c_je;&c_l;&c_i;&c_ch;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.0e">
+  <kap><ofc>*</ofc><tld/>e <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5125">nom'e</url></lok></fnt></kap>
+  <snc mrk="nom.0e.lauxnome">
+    <dif>
+      La&ubreve; la <tld/>o:
+      <ekz>
+        nun nia lingvo estas konata de la plejmulto de la
+        publiko almena&ubreve; <tld/>e<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="efekti">neefektiva</ref>,
+      <ref cel="nomina.0a">nominala</ref>,
+      <ref cel="sxajn.0a">&scirc;ajna</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a; <ind>&c_ib;&c_m;&c_je;&c_n;&c_ib;</ind></trd>,
+      <trd>&c_p;&c_a;&c_j;&c_m;&c_je;&c_n;&c_n;&c_a;</trd>
+    </trdgrp>
+    <trd lng="de">dem <ind>Namen nach</ind></trd>
+    <trd lng="es">nominalmente</trd>
+    <trdgrp lng="hu">
+      <trd>n&eacute;vleg</trd>,
+      <trd>n&eacute;vr&odblac;l</trd>
+    </trdgrp>
+    <trd lng="it">nominalmente</trd>
+    <trd lng="pt">de <ind>nome</ind></trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o; &c_i;&c_m;&c_je;&c_n;&c_i;</trd>,
+      <trd>&c_p;&c_o;&c_i;&c_m;&c_jo;&c_n;&c_n;&c_o;</trd>,
+      <trd>&c_p;&c_o;&c_n;&c_a;&c_s;&c_l;&c_y;&c_sh;&c_k;&c_je;</trd>
+    </trdgrp>
+    <trd lng="sv">till <ind>namnet</ind></trd>
+  </snc>
+  <snc mrk="nom.0e.t_e">
+    <dif>
+      Pli precize difinante tion, kio estas anta&ubreve;e
+      dirita sub &gcirc;enerala formo:
+      <ekz>
+        al la lernado ni povas dedi&ccirc;i nur parton de nia mallonga
+        vivo, <tld/>e niajn infanajn kaj junulajn jarojn
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz><ekz>
+        ni devas anta&ubreve;e analizi alian demandon, <tld/>e:
+        &ccirc;u oni povas anta&ubreve;vidi, kia lingvo estos internacia?
+        <fnt><bib>EE</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="est.tio0as">tio estas</ref>,
+      <ref cel="signif">tio signifas</ref>
+    </refgrp>
+    <trd lng="be">&c_m;&c_je;&c_n;&c_a;&c_v;&c_ib;&c_t;&c_a;</trd>
+    <trd lng="de">n&auml;mlich</trd>
+    <trd lng="es">espec&iacute;ficamente</trd>
+    <trd lng="hu">nevezetesen</trd>
+    <trd lng="it">cio&egrave;</trd>
+    <trd lng="pt">isto &eacute;</trd>
+    <trd lng="ru">&c_i;&c_m;&c_je;&c_n;&c_n;&c_o;</trd>
+    <trd lng="sv">n&auml;mligen</trd>
+  </snc>
+  <snc mrk="nom.0e.fakte">
+    <dif>
+      Adverbo servanta por anonci, ke tio, kio sekvas, estas pruvo,
+      klarigo a&ubreve; motivigo de tio, kio estas &jcirc;us dirita;
+      <ref tip="sin" cel="fakt.0e">fakte</ref>:
+      <ekz>
+        mi beda&ubreve;rinde ne revidos vin, <tld/>e mi devas forveturi
+        morga&ubreve;;
+      </ekz><ekz>
+        ni neniel povis kompreni, en kio <tld/>e <klr>(efektive)</klr>
+        konsistus la malfeli&ccirc;o por la homaro, se <klr>[&#8230;]</klr>
+        montri&gcirc;us, ke ne ekzistas jam plu nacioj
+        <fnt><bib>EE</bib></fnt>;
+      </ekz><ekz>
+        oni povas anta&ubreve;e anta&ubreve;vidi kun plena certeco, kia <tld/>e
+        lingvo estos iam internacia
+        <fnt><bib>EE</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cxar.0">&ccirc;ar</ref>,
+      <ref cel="efekti.0e">efektive</ref>,
+      <ref cel="konfir.0e">konfirme</ref>,
+      <ref cel="pruv.0e">pruve</ref>
+    </refgrp>
+    <trd lng="be">&c_m;&c_je;&c_n;&c_a;&c_v;&c_ib;&c_t;&c_a;</trd>
+    <trd lng="de">und <ind>zwar</ind></trd>
+    <trdgrp lng="es">
+      <trd>a saber</trd>,
+      <trd>efectivamente</trd>
+    </trdgrp>
+    <trd lng="hu">ugyanis</trd>
+    <trdgrp lng="pt">
+      <trd>a saber</trd>,
+      <trd>isto &eacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_i;&c_m;&c_je;&c_n;&c_n;&c_o;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>a to</trd>,
+    <trd>jmenovit&ecaron;</trd>,
+    <trd>jmenovit&ecaron;</trd>,
+    <trd>toti&zcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&agrave; <ind>savoir</ind></trd>,
+    <trd>en <ind>effet</ind></trd>,
+    <trd>nomm&eacute;ment</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12377;&#x306A;&#x308F;&#12385;</trd>,
+    <trd>&#12388;&#x307E;&#x308A;</trd>,
+    <trd>&#x540D;&#x524D;&#12391;  <pr>&#x306A;&#x307E;&#12360;&#12391;</pr></trd>,
+    <trd>&#x540D;&#x76EE;&#x4E0A;  <pr>&#12417;&#12356;&#12418;&#x304F;&#12376;&#12423;&#12358;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">namelijk</trd>
+  <trdgrp lng="pl">
+    <trd>mianowicie</trd>,
+    <trd>bowiem</trd>,
+    <trd>imiennie</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>adic&abreve;</trd>,
+    <trd>deoarece</trd>
+    <trd>numele</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>a s&iacute;ce</trd>,
+    <trd>a to</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o; &c_ib;&c_m;&c_je;&c_n;&c_ib;</trd>,
+    <trd><klr>(&c_a;)</klr> &c_s;&c_a;&c_m;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="nom.0igxi.KOMUNE">
+    <dif>
+      Havi kiel <tld/>on, esti <tld/>ata:
+      <ekz>
+        kiel &scirc;i <tld/>i&gcirc;as? &Scirc;i <tld/>i&gcirc;as Johanino<klr> (t.e. &scirc;i estas
+        <tld/>ata Johanino)</klr>.
+      </ekz><ekz>
+        granda urbo, kiu <tld/>i&gcirc;as la&ubreve;spirite <nom>Sodom</nom>
+        <fnt>
+          <bib>NT</bib>
+          <lok>Apokalipso 11:8</lok>
+        </fnt>;
+      </ekz><ekz>
+        en Antio&hcirc;ia la dis&ccirc;iploj unue <tld/>i&gcirc;is Kristanoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 11:26</lok>
+        </fnt>;
+      </ekz><ekz>
+        la&ubreve; uzado &gcirc;enerala, la &leftquot;lingvo de Esperanto&rightquot; balda&ubreve; <tld/>i&gcirc;is
+        &leftquot;Esperanto&rightquot; tute simple
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz><ekz>
+        la Monto <tld/>i&gcirc;as tre &gcirc;uste La Blanka
+        (miaj versoj anka&ubreve; <tld/>i&gcirc;as blankaj, sed pro aliaj ka&ubreve;zoj)
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga
+          Butiko</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Vidu &ccirc;e <ref cel="predik2.0o">predikativo</ref>.
+    </rim>
+    <trd lng="th">&#xE0A;&#xE37;&#xE48;&#xE2D;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_z;&c_y;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="br">beza&ntilde; graet anezha&ntilde;</trd>
+  <trd lng="ca">dir-se</trd>
+  <trd lng="de">hei&szlig;en</trd>
+  <trd lng="en">be called</trd>
+  <trd lng="es">llamarse</trd>
+  <trdgrp lng="fr">
+    <trd>s'<ind>appeler</ind></trd>,
+    <trd>se <ind>nommer</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>h&iacute;vj&aacute;k</trd>,
+    <trd>nevezik</trd>
+  </trdgrp>
+  <trd lng="id">ber<ind>nama</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;<ind>&#12392;&#x540D;&#x4ED8;&#12369;&#12425;&#x308C;&#x308B;
+    </ind><pr>&#12392;&#x306A;&#12389;&#12369;&#12425;&#x308C;&#x308B;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#12392;&#x547C;&#12400;&#x308C;&#x308B;  </ind><pr>&#12392;&#12424;&#12400;&#x308C;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">heten</trd>
+  <trd lng="oc">s'<ind>apelar</ind></trd>
+  <trd lng="pl">nazywa&cacute; si&eogonek;</trd>
+  <trd lng="pt">chamar-se</trd>
+  <trd lng="ro">se numi</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_z;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>heta</trd>,
+    <trd>kallas</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_z;&c_i;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_n;&c_o;&c_s;&c_i;&c_t;&c_i; &c_ib;&c_m;&#8217;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="nom.0ado.KOMUNE">
+    <dif>
+      Ago a&ubreve; maniero <tld/>i:
+      <ekz>
+        la <tld/>ado de lando per la nomo de ia gento &ccirc;iam kondukas
+        al tio ke la dirita gento rigardas sin kiel mastrojn de la lando
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Pri la homaranismo</vrk>
+          <lok>Ruslanda Esperantisto, 1906:5</lok>
+        </fnt>;
+      </ekz><ekz>
+        en 2009 Litovio celebros mil jarojn de post sia <tld/>ado
+        <fnt>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2008/009643.php">Jarmila
+          odiseado</url></vrk>
+          <bib>Monato</bib>
+          <lok>2008/12, p. 13</lok>
+        </fnt>;
+      </ekz><ekz>
+        oni kreas la superhomon &ndash; per simpla ali<tld/>ado
+        <fnt>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2012/010693.php">Pena
+          pedagogio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/08, p. 33</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>Ne konfuzu kun samnoma ano de migranta popolo: <ref tip="hom"
+    cel="nomad.0o">nomado</ref>.</rim>
+  </snc>
+  <trd lng="bo">&t_-a;&t_ba;&t_rata;&t_naro;&t_ga;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="br">anvadur</trd>
+  <trd lng="cs">jmenov&aacute;n&iacute; <klr>(podle jm&eacute;na)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Nennung</trd>,
+    <trd>Benennung</trd>,
+    <trd>Benennen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>nomenclature</trd>,
+    <trd>denomination</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>nomenclatura</trd>,
+    <trd>denominaci&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>appellation</trd>,
+    <trd>d&eacute;nomination</trd>,
+    <trd>nommage</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megnevez&eacute;s</trd>,
+    <trd>elnevez&eacute;s</trd>
+  </trdgrp>
+  <trd lng="id">pe<ind>nama</ind>an</trd>
+  <trd lng="ja">&#x547D;&#x540D;  <pr>&#12417;&#12356;&#12417;&#12356;</pr></trd>
+  <trd lng="nl">benaming</trd>
+  <trd lng="pl">nazewnictwo</trd>
+  <trd lng="pt">denomina&ccedil;&atilde;o</trd>
+  <trdgrp lng="ro">
+    <trd>nomenclatur&abreve;</trd>,
+    <trd>denumirea</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_m;&c_je;&c_n;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">menovanie <klr>(pod&lcaron;a mena)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_ch;&c_ib;&c_v;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_n;&c_o;&c_m;&c_a;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="nom.0aro.KOMUNE">
+    <dif>
+      Tabelo, listo da <tld/>oj:
+      <ekz>
+        komencante de A&ubreve;gusto 1888 mi eldonados &ccirc;iumonate <tld/>arojn de
+        &ccirc;iuj verkoj pri la lingvo internacia
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz><ekz>
+        la redakta komitato konsistas el 15 personoj plus la redaktoro,
+        la plej altpresti&gcirc;a <tld/>aro en la esperantlingva mondo: pli ol
+        dek membras en la Akademio de Esperanto, la aliaj estas
+        &ccirc;iuokaze re<tld/>aj siaflanke
+        <fnt>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2006/008820.php">Esperantologio
+          reaperas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/04, p. 24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="th">&#xE23;&#xE32;&#xE22;&#xE0A;&#xE37;&#xE48;&#xE2D;</trd>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_m;&c_e;&c_n;&c_k;&c_l;&c_ja;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="br">anvadurezh</trd>
+  <trd lng="cs">jmenn&yacute; seznam</trd>
+  <trdgrp lng="de">
+    <trd>Namensliste</trd>,
+    <trd>Namensregister</trd>,
+    <trd>Namenstabelle</trd>,
+    <trd>Nomenklatura</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>lista de nombres</trd>,
+    <trd>directorio</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>liste de <ind>nom</ind>s</trd>,
+    <trd>nomenclature</trd>
+  </trdgrp>
+  <trd lng="hu">n&eacute;vjegyz&eacute;k</trd>
+  <trdgrp lng="id">
+    <trd><ind>daftar</ind> nama</trd>,
+    <trd>direktori</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x540D;&#x7C3F;  <pr>&#x307F;&#12423;&#12358;&#12406;</pr></trd>,
+    <trd>&#x540D;&#34920;  <pr>&#x306A;&#x304A;&#12418;&#12390;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">naamlijst</trd>
+  <trd lng="pl">spis</trd>
+  <trdgrp lng="pt">
+    <trd>lista de nomes</trd>,
+    <trd>diret&oacute;rio</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>list&abreve;</trd>,
+    <trd>index</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_m;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_n;&c_o;&c_m;&c_je;&c_n;&c_k;&c_l;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>menn&yacute; zoznam</trd>,
+    <trd>menoslov</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_l;&c_ib;&c_k; &c_ib;&c_m;&c_je;&c_n;</trd>,
+    <trd>&c_n;&c_a;&c_z;&c_v;</trd>,
+    <trd>&c_p;&c_r;&c_ib;&c_z;&c_v;&c_i;&c_shch;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="nom.0umi.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Difini iun por iu posteno, ofico, rango:
+      <ekz>
+        la ministro <tld/>umis lin ju&gcirc;isto;
+      </ekz><ekz>
+        800 personoj, el kiuj estos <tld/>umitaj &jcirc;urianoj
+        <fnt><aut>IRL</aut>,
+        <vrk><url ref="&Monato;/2000/006914.php">Lando de malsanktuloj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/04, p. 10</lok>
+        </fnt>;
+      </ekz><ekz>
+        la ju&gcirc;isto <tld/>umis tri kuratorojn kiuj, &gcirc;is
+        la definitiva decido <klr>[&#8230;]</klr> zorgu ke <klr>[&#8230;]</klr>
+       <fnt>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2001/007334.php">Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/02, p. 8</lok>
+          </fnt>;
+      </ekz><ekz>
+        la arkeologia loko <nom>Kernav&#279;</nom>, &ccirc;. 30 km nord-okcidente de la
+        litova &ccirc;efurbo <nom>Vilnius</nom>, estas <tld/>umita monda hereda&jcirc;o
+        <fnt>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2004/008390.html">Trezoroj
+            de la pasinteco</url></vrk>
+            <bib>Monato</bib>
+            <lok>2004/10, p. 14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="elekt.0i">elekti</ref>,
+      <ref cel="ofic.en0igi">enoficigi</ref>,
+      <ref cel="far.0i">fari</ref>
+    </refgrp>
+    <trd lng="th">&#xE40;&#xE2A;&#xE19;&#xE2D;&#xE0A;&#xE37;&#xE48;&#xE2D;</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>
+  <trd lng="br">envel da</trd>
+  <trdgrp lng="cs">
+    <trd>jmenovat do funkce</trd>,
+    <trd>nominovat</trd>,
+    <trd>ur&ccaron;it do funkce</trd>,
+    <trd>ustanovit do funkce</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ernennen</trd>,
+    <trd>nominieren</trd>
+  </trdgrp>
+  <trd lng="en">nominate</trd>
+  <trdgrp lng="es">
+    <trd>nombrar <klr>(designar a alguien para un puesto)</klr></trd>,
+    <trd>nominar <klr>(designar a alguien para un puesto)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">nommer<klr> (&agrave; une fonction)</klr></trd>
+  <trd lng="hu">kinevez</trd>
+  <trd lng="id">me<ind>nama</ind>i</trd>
+  <trdgrp lng="ja">
+    <trd>&#25351;&#x540D;&#12377;&#x308B;  <pr>&#12375;&#12417;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x4EFB;&#x547D;&#12377;&#x308B;  <pr>&#x306B;&#12435;&#12417;&#12356;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">benoemen</trd>
+  <trdgrp lng="pl">
+    <trd>mianowa&cacute;</trd>,
+    <trd>przydziela&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">nomear</trd>
+  <trdgrp lng="ro">
+    <trd>numi&#x21B;i</trd>,
+    <trd>aloc&abreve;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>menova&tcaron;</trd>,
+    <trd>nominova&tcaron;</trd>,
+    <trd>ustanovi&tcaron; do funkcie</trd>
+  </trdgrp>
+  <trd lng="sv">utn&auml;mna</trd>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_t;&c_i; <klr>(&c_n;&c_a; &c_p;&c_o;&c_s;&c_a;&c_d;&c_u;)</klr></trd>
+</drv>
+
+<drv mrk="nom.al0o">
+  <kap>al<tld/>o, <var><kap>krom<tld/>o</kap></var></kap>
+  <snc mrk="nom.al0o.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      <ref tip="super" cel="nom.0o.de_io"><tld lit="N"/>o</ref>
+      aldonita
+      al la <tld/>o de iu por pli bone diferencigi lin:
+      <ekz>
+        venigu Simonon, kies al<tld/>o estas Petro
+        <fnt><bib>NT</bib>, <lok>&Ago; 11:13</lok></fnt>;
+      </ekz><ekz>
+        kvankam li mem ricevis la al<tld/>on la bona, li tamen volis
+        lasi
+        mortigi la konstruiston, kiu konstruis por li lian kastelon
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz><ekz>
+        la oficiala doktrino de la nove formi&gcirc;inta &scirc;tato
+        &Ccirc;e&hcirc;oslovakio en 1918 estis bazita sur la ideoj de <nom>Hus</nom>,
+        la tiam fondita &ccirc;e&hcirc;oslovaka eklezio poste akceptis la
+        krom<tld/>on &leftquot;la husana&rightquot;
+        <fnt>
+          <aut>Ji&rcaron;&iacute; Patera</aut>
+            <vrk><url ref="&Monato;/2000/007031.php">Johano Hus &ndash; &ccirc;u ne plu herezulo?</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 19</lok>
+          </fnt>;
+      </ekz><ekz>
+        &leftquot;Malemuloj&#x201D; estas la krom<tld/>o de familio, lo&gcirc;anta en tre
+        malgranda itala vila&gcirc;o, en Sicilio
+        <fnt>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2007/009098.php">Bele prezentita
+          romano</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/11, p. 25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+
+  </snc>
+  <trd lng="be">&c_m;&c_ja;&c_n;&c_u;&c_sh;&c_k;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>lesanv</trd>,
+    <trd>moranv</trd>
+  </trdgrp><trdgrp lng="br">
+    <trd>lesanv</trd>,
+    <trd>moranv</trd>
+  </trdgrp>
+  <trd lng="cs">p&rcaron;&iacute;zvisko</trd>
+  <trdgrp lng="de">
+    <trd>Beiname</trd>,
+    <trd>Zuname</trd>,
+    <trd>Nebenbezeichnung</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>nickname</trd>,
+    <trd>alias</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>apodo</trd>,
+    <trd>alias</trd>
+  </trdgrp>
+  <trd lng="fr">surnom</trd>
+  <trd lng="hu">ragadv&aacute;nyn&eacute;v</trd>
+  <trdgrp lng="id">
+    <trd>alias</trd>,
+    <trd><ind>nama</ind> lain</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#30064;&#x540D;  <pr>&#12356;&#x307F;&#12423;&#12358;</pr></trd>,
+    <trd>&#x6DFB;&#12360;&#x540D;  <pr>&#x305D;&#12360;&#12417;&#12356;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bijnaam</trd>
+  <trdgrp lng="pl">
+    <trd>przydomek</trd>,
+    <trd>referencja</trd>,
+    <trd>symbol zast&eogonek;pczy</trd>,
+    <trd>odwo&lstroke;anie do</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>alcunha</trd>,
+    <trd>cognome</trd>,
+    <trd>apelido</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>ad&abreve;ugarea</trd>,
+    <trd>referin&#x21B;&abreve;</trd>,
+    <trd>simbol de &icirc;nlocuire</trd>,
+    <trd>anularea la</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_z;&c_v;&c_i;&c_shch;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_z;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">pr&iacute;meno</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_ib;&c_z;&c_v;&c_i;&c_s;&c_mol;&c_k;&c_o;</trd>,
+    <trd>&c_k;&c_l;&c_i;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.ali0o">
+  <kap>ali<tld/>o</kap>
+  <snc mrk="nom.ali0o.KOMUNE">
+    <dif>
+      Alia <tld/>o ol jam konata, kiu celas la saman homon a&ubreve;
+      aferon:
+      <ekz>
+        <nom>Zalmuna</nom>, sub ali<tld/>o <nom>Zir-Nana</nom>, okupas tre altan kaj
+        honoratan lokon en la pastrinaro
+        <fnt>
+          <bib>I&scirc;tar</bib>,
+          <lok>&ccirc;apitro 6a</lok>
+        </fnt>;
+      </ekz><ekz>
+        mi a&ubreve;guras, ke longe oni a&ubreve;dos (sen)intencan (mis)uzadon
+        de tiuj ali<tld/>oj inter esperantistoj (des pli, &ccirc;ar oni
+        emas pli facile memori ilin ol la verajn nomojn)
+        <fnt>
+          <aut>S. Johansson</aut>,
+          <vrk>Spegulo ridiga a&ubreve; &gcirc;ustiga</vrk>.
+          <bib>LOdE</bib>, <lok>2003:8-9</lok>
+        </fnt>;
+      </ekz><ekz>
+        rara ali<tld/>o de Alfa Centa&ubreve;ro estas <nom>Toliman</nom> el la araba vorto
+        por &leftquot;strutoj&rightquot;
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=37227">Alfa
+          Centa&ubreve;ro</url></lok>
+        </fnt>;
+      </ekz><ekz>
+        <uzo tip="fak">KOMP</uzo>
+        se vi ofte bezonas jen vian nacian, jen <nom>Latin-3</nom>an kodon,
+        estas rekomendinde difini ali<tld/>on en <frm>.bashrc</frm>:
+        &leftquot;<frm>alias eterm='xterm -fn fixed-l3'</frm>&rightquot;
+        <fnt>
+          <aut>Wolfram Diestel</aut>
+          <vrk><url ref="http://wiki.tldp.org/Esperanto-HOWTO">Linux-Esperanto-HOWTO</url></vrk>
+          <lok>8. Xterm</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Alias</trd>
+
+  </snc>
+  <trd lng="es">alias</trd>
+  <trd lng="fr">alias<klr> (subst.)</klr></trd>
+  <trd lng="ja">&#21029;&#x540D;  <pr>&#12409;&#12388;&#12417;&#12356;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>bijnaam</trd>,
+    <trd>alias<klr tip="ind"> (zn.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>alias</trd>,
+    <trd><ind>nama</ind> lain</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>alias</trd>,
+    <trd>kryptonim</trd>
+  </trdgrp>
+  <trd lng="ro">alias</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_r;&c_u;&c_g;&c_o;&c_je; <ind>&c_i;&c_m;&c_ja;</ind></trd>,
+    <trd>&c_p;&c_r;&c_o;&c_z;&c_v;&c_i;&c_shch;&c_je;</trd>,
+    <trd>&c_k;&c_l;&c_i;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.antaux0o">
+  <kap>anta&ubreve;<tld/>o</kap>
+  <snc mrk="nom.antaux0o.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      <ref tip="super" cel="nom.persona0o">Persona <tld/>o</ref>, la&ubreve;konvencie
+      en multaj landoj metita anta&ubreve; la familia <tld/>o por distingi &ccirc;iun familianon:
+      <ekz>
+        la anta&ubreve;<tld/>o de <nom>Zamenhof</nom> estis Lazaro
+        <fnt>
+          <aut>Angelos Tsirimokos</aut>
+          <vrk><url ref="&Monato;/2011/010297.php">Senmita biografio de
+          Zamenhof</url></vrk>
+          <bib>Monato</bib> <lok>2011/04, p. 23</lok>
+        </fnt>;
+      </ekz><ekz>
+        mi uzis la vortumon <ctl>individua nomo</ctl> anstata&ubreve; <ctl>anta&ubreve;nomo</ctl>
+        <fnt>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2005/008691.php">Familia nomo</url></vrk>
+          <bib>Monato</bib> <lok>2005/09, p. 22</lok>
+        </fnt>;
+      </ekz><ekz>
+        viroj junaj el eksterlanda deveno ne trovas laboron, ne trovas
+        lo&gcirc;ejon, ne povas eniri dancejon ... pro la anta&ubreve;<tld/>o (<nom>Mohamed</nom> a&ubreve;
+        <nom>Narcisse</nom>)
+        <fnt>
+          <aut>Christian Pinard</aut>
+          <vrk><url ref="&Monato;/2006/008840.php">Signalo &ndash; ankora&ubreve; ne
+          revolucio</url></vrk>
+          <bib>Monato</bib> <lok>2006/01, p. 9</lok>
+        </fnt>;
+      </ekz><ekz>
+        li aldonis la inicialojn de la anta&ubreve;<tld/>oj (J kaj J)
+        <fnt>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2010/010142.php">JJB-breco</url></vrk>
+          <bib>Monato</bib> <lok>2010/11, p. 21</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_m;&c_ja; <klr tip="amb">(&c_a;&c_s;&c_a;&c_b;&c_ib;&c_s;&c_t;&c_a;&c_je;)</klr></trd>
+  <trdgrp lng="br">
+    <trd>anv bihan</trd>,
+    <trd>kentanv</trd>
+  </trdgrp>
+  <trd lng="de">Vorname</trd>
+  <trd lng="en">first name</trd>
+  <trd lng="es">nombre</trd>
+  <trd lng="fr">pr&eacute;nom</trd>
+  <trdgrp lng="hu">
+    <trd>ut&oacute;n&eacute;v</trd>,
+    <trd>keresztn&eacute;v</trd>
+  </trdgrp>
+  <trd lng="id"><ind>nama</ind> depan</trd>
+  <trd lng="nl">voornaam</trd>
+   <trd lng="pl">imi&eogonek;</trd>
+  <trdgrp lng="pt">
+    <trd>nome</trd>,
+    <trd>prenome</trd>,
+    <trd><ind>nome</ind> de batismo</trd>
+  </trdgrp>
+  <trd lng="ro">nume</trd>
+  <trd lng="ru">&c_i;&c_m;&c_ja; <klr tip="amb">(&c_l;&c_i;&c_ch;&c_n;&c_o;&c_je;)</klr></trd>
+  <trd lng="sv">f&ouml;rnamn</trd>
+<trd lng="th">&#xE0A;&#xE37;&#xE48;&#xE2D;&#xE01;&#xE25;&#xE32;&#xE07;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&c_m;&#8217;&c_ja;</trd>,
+    <trd>&c_h;&c_r;&c_je;&c_s;&c_n;&c_je; &c_ib;&c_m;&#8217;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.bapto0o">
+  <kap>bapto<tld/>o</kap>
+  <snc mrk="nom.bapto0o.KRI">
+    <uzo tip="fak">GEN</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Persona <ref tip="super" cel="nom.0o.de_io"><tld/>o</ref>
+      donita &ccirc;e <ref tip="vid" cel="bapt.0o">bapto</ref>:
+      <ekz>
+        por ili estas komunaj la individuaj <tld/>oj, plejparte
+        kristanaj (la nombro de bapto<tld/>oj estas limigita)
+        <fnt>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2005/008691.php">Familia
+          nomo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/09, p. 22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">baptismal <ind>name</ind></trd>
+    <trd lng="es"><ind>nombre</ind> de pila</trd>
+    <trd lng="hu">keresztn&eacute;v</trd>
+    <trd lng="nl">doopnaam</trd>
+    <trd lng="ru">&c_k;&c_r;&c_jo;&c_s;&c_t;&c_n;&c_o;&c_je; <ind>&c_i;&c_m;&c_ja;</ind></trd>
+  </snc>
+  <snc mrk="nom.bapto0o.antauxnomo">
+    <ref tip="dif" cel="nom.antaux0o">anta&ubreve;nomo</ref>
+    <trd lng="en">first <ind>name</ind></trd>
+    <trd lng="es">nombre</trd>
+    <trd lng="hu">ut&oacute;n&eacute;v</trd>
+    <trd lng="nl">voornaam<klr tip="ind"> (doopnaam)</klr></trd>
+  </snc>
+  <rim>
+    E&ccirc; inter kristanoj ne &ccirc;iam kaj ne &ccirc;ie baptonomo
+    koincidas kun anta&ubreve;nomo. Ekzemple la Kieva &ccirc;efprinco Vladimiro
+    Monoma&hcirc;o havis la laikan <ctl>princan anta&ubreve;nomon</ctl>
+    Vladimiro kaj la baptonomon Bazilo. Kutime oni &scirc;an&gcirc;as la
+    anta&ubreve;nomon &ccirc;e mona&hcirc;i&gcirc;o a&ubreve; papi&gcirc;o ktp.
+  </rim>
+  <trd lng="br">anv-badez</trd>
+  <trd lng="de">Taufname</trd>
+  <trd lng="es">nombre</trd>
+  <trdgrp lng="fr">
+    <trd>pr&eacute;nom</trd>,
+    <trd>nom de bapt&ecirc;me</trd>
+  </trdgrp>
+  <trd lng="id"><ind>nama</ind> baptis</trd>
+  <trd lng="ja">&#x6D17;&#x793C;&#x540D;  <pr>&#x305B;&#12435;&#x308C;&#12356;&#12417;&#12356;</pr></trd>
+  <trd lng="pl">imi&eogonek; chrzestne</trd>
+  <trdgrp lng="ro">
+    <trd>prenume</trd>,
+    <trd>nume de botez</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_i;&c_ch;&c_n;&c_o;&c_je; <ind>&c_i;&c_m;&c_ja;</ind></trd>
+  <trd lng="sk">krstn&eacute; meno</trd>
+  <trd lng="sv">f&ouml;rnamn</trd>
+  <trdgrp lng="cs">
+    <trd>k&rcaron;estn&iacute; jm&eacute;no</trd>,
+    <trd>rodn&eacute; jm&eacute;no</trd>
+  </trdgrp>
+  <trd lng="uk">&c_h;&c_r;&c_je;&c_s;&c_n;&c_je; &c_ib;&c_m;&#8217;&c_ja;</trd>
+</drv>
+
+<drv mrk="nom.famili0o">
+  <kap>famili<tld/>o,
+    <var><kap>familia <tld/>o</kap></var>
+  </kap>
+  <snc mrk="nom.famili0o.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Kuna <ref tip="super" cel="nom.0o.de_io"><tld/>o</ref> de
+      samfamilianoj:
+      <ekz>
+        sur la koverto &scirc;i skribis unu el la grafaj famili<tld/>oj
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz><ekz>
+        <tld/>o familia
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>El la mondo homarana (hilelista).</vrk>
+        </fnt>;
+      </ekz><ekz>
+        antikva hereda tradicio permesas, ke, se iu familio havas nur
+        filinojn, &gcirc;i rajtas &leftquot;establi&rightquot; bofilon, kiu perdas sian
+        familinomon favore al tiu de la edzino
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007156.php">Sutroj kaj sa&ubreve;dadoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 25</lok>
+          </fnt>;
+      </ekz><ekz>
+        la rusa ministro <nom>Mi&hcirc;ail &Scirc;vidkoj</nom> ne estas etna ukraino, sed nur
+        havas ukrainecan famili<tld/>on
+        <fnt>
+          <aut>Grigorij Arosev</aut>
+          <vrk><url ref="&Monato;/2003/008007.html">Filmo
+          ukraina</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/02, p. 7</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="th">&#xE19;&#xE32;&#xE21;&#xE2A;&#xE01;&#xE38;&#xE25;</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_o;&c_z;&c_mol;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>anv familh</trd>,
+    <trd>anv-tiegezh</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;&iacute;jmen&iacute;</trd>,
+    <trd>rodov&eacute; jm&eacute;no</trd>
+  </trdgrp>
+  <trd lng="de">Familienname</trd>
+  <trd lng="es">apellidos</trd>
+  <trd lng="fr">nom de famille</trd>
+  <trd lng="id"><ind>nama</ind> keluarga</trd>
+  <trd lng="ja">&#x59D3;  <pr>&#x304B;&#12400;&#x306D;</pr></trd>
+  <trd lng="nl">familienaam</trd>
+  <trd lng="pl">nazwisko</trd>
+  <trdgrp lng="ro">
+    <trd>nume de familie</trd>,
+    <trd>patronim</trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_a;&c_m;&c_i;&c_l;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>priezvisko</trd>,
+    <trd>rodov&eacute; meno</trd>
+  </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_ib;&c_z;&c_v;&c_i;&c_shch;&c_je;</trd>
+</drv>
+
+<drv mrk="nom.for0i">
+  <kap>for<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="nom.for0i.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="konfes.mal0i.agnoski">Malkonfesi</ref>;
+      rifuzi iun <tld/>on al iu:
+      <ekz>
+        se vi tion faros, mi for<tld/>os vin mia amiko.
+      </ekz>
+    </dif>
+    <adm>
+      Mi ne trovis iun ekzemplan uzon de tiu vorto. &Ccirc;u &gcirc;i vere uzi&gcirc;as?
+      <aut>WD</aut>
+    </adm>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je; <ind>&c_n;&c_a;&c_z;&c_y;&c_v;&c_a;&c_c;&c_mol;</ind>
+      &c_b;&c_o;&c_l;&c_je;&c_j; <klr>(&c_k;&c_ib;&c_m;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>,
+    <trd>&c_n;&c_je; <ind>&c_w;&c_v;&c_a;&c_zh;&c_a;&c_c;&c_mol;</ind>
+      &c_b;&c_o;&c_l;&c_je;&c_j; <klr>(&c_z;&c_a;
+        &c_k;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>,
+    <trd>&c_n;&c_je; <ind>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</ind> &c_b;&c_o;&c_l;&c_je;&c_j;
+      <klr>(&c_k;&c_ib;&c_m;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  </trdgrp>
+  <trd lng="br">dizanzav</trd>
+  <trd lng="cs">odm&iacute;tat jmenovat</trd>
+  <trd lng="de">verleugnen</trd>
+  <trd lng="en">disown</trd>
+  <trd lng="es">renegar</trd>
+  <trd lng="fr">d&eacute;savouer</trd>
+  <trd lng="hu">megtagad</trd>
+  <trdgrp lng="id">
+    <trd>meng<ind>ingkar</ind>i</trd>,
+    <trd>me<ind>mungkir</ind>i</trd>,
+    <trd><baz>sangkal</baz>menyangkal</trd>
+  </trdgrp>
+  <trd lng="ja">&#xFF5E;<ind>&#12434;&#xFF5E;&#12391;&#12354;&#x308B;&#12392;&#x8A8D;&#12417;&#x306A;&#12356;
+    </ind><pr>&#12434;&#xFF5E;&#12391;&#12354;&#x308B;&#12392;&#x307F;&#12392;&#12417;&#x306A;&#12356;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>przestawa&cacute;  <ind>nazywa&cacute;</ind></trd>,
+    <trd>odmawia&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">n&atilde;o <ind>chamar</ind> de</trd>
+  <trdgrp lng="ro">
+    <trd>&icirc;nceteaz&abreve; s&abreve; numeasc&abreve;</trd>,
+    <trd>nega</trd>,
+    <trd>refuza</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_je; <ind>&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</ind>
+      &c_b;&c_o;&c_l;&c_mol;&c_sh;&c_je;<klr> (&c_k;&c_o;&c_g;&c_o;-&c_l;. &c_k;&c_je;&c_m;-&c_l;.)</klr></trd>,
+    <trd>&c_n;&c_je; <ind>&c_n;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</ind>
+      &c_b;&c_o;&c_l;&c_mol;&c_sh;&c_je;<klr> (&c_k;&c_o;&c_g;&c_o;-&c_l;. &c_k;&c_a;&c_k;-&c_l;.)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">odmieta&tcaron; menova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_r;&c_ib;&c_k;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_m;&c_o;&c_v;&c_l;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.mis0i">
+  <kap>
+    mis<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="N"/>i mal&gcirc;uste a&ubreve; erarige:
+      <ekz>
+        eble ni mis<tld/>is la &#x201A;amikon&#8216; kaj la &#x201A;malamikon&#8216;
+        <fnt><bib>Rsp</bib></fnt>;
+      </ekz><ekz>
+        dum lastaj jarcentoj la &ccirc;iutaga lingvo de la lo&gcirc;antoj i&gcirc;is la
+        mis<tld/>ita skotangla, nun pli ofte nomata <nac>Scots</nac>, &leftquot;skota&rightquot;
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2005/008548.php">Lingva atavismo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/03, p. 17</lok>
+        </fnt>;
+      </ekz><ekz>
+        en 1918 kaj 1919 disvasti&gcirc;is tia terura gripvirusa pandemio
+        (mis<tld/>ita &leftquot;hispana gripo&rightquot;)
+        <fnt>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2009/009882.php">Kelkaj meditoj rilate al la porka
+          gripo</url></vrk> <bib>Monato</bib>
+          <lok>2009/10, p. 21</lok>
+        </fnt>;
+      </ekz><ekz>
+        la titolo de la libreto estas mis<tld/>o, implicanta, ke ja pravigeblas
+        filologia kungrupigo de la keltaj lingvoj kune kun la semidaj lingvoj
+        <fnt>
+          <aut>Ed Robertson</aut>
+          <vrk><url ref="&Monato;/2009/009586.php">Lingvofamilio, kiu ne
+          ekzistas</url></vrk>
+          <bib>Monato</bib> <lok>2009/06, p. 26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">unzutreffend <ind>benennen</ind></trd>
+  <trd lng="en">misname</trd>
+  <trd lng="pl">&zacute;le nazwa&cacute;</trd>
+  <trd lng="ro">numi&#x21B;i-l gre&#537;it</trd>
+</drv>
+
+<drv mrk="nom.laux0a">
+  <kap>
+    la&ubreve;<tld/>a
+  </kap>
+  <snc mrk="nom.laux0a.nomuza">
+    <dif>
+      Per &gcirc;ia <tld/>o; uzanta &gcirc;ian <tld/>on:
+      <ekz>
+        la &ccirc;efoj de patrodomoj <klr>[&#8230;]</klr> la&ubreve; ilia la&ubreve;<tld/>a kaj la&ubreve;kapa nombro
+        <fnt><bib>MT</bib> <lok>&Kr1; 23:24</lok></fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve;<tld/>a vo&ccirc;donado
+        <fnt><bib>EeP</bib> <lok>Kvina Parto</lok></fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve;<tld/>a alfabeta katalogo
+        <fnt><bib>EeP</bib> <lok>Unua Parto</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">namentlich</trd>
+    <trd lng="en">by <ind>name</ind></trd>
+    <trd lng="ru">&c_p;&c_o;&c_i;&c_m;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="nom.laux0a.nominala">
+    <dif>
+      Kiel deklarita; <ref tip="dif" cel="nomina.0a">nominala</ref>:
+      <ekz>
+        en 1962 TEJO faris grandan pa&scirc;on al tutmondeco, &gcirc;is tiam nur la&ubreve;<tld/>a
+        <fnt><bib>EeP</bib> <lok>Kvara Parto</lok></fnt>;
+      </ekz>
+      <ekz>
+        demokratio, en kiu regantoj kaj regatoj ne plu fidas unu la alian, estas nur
+        la&ubreve;<tld/>a, apena&ubreve; la&ubreve;<ref cel="fakt.0a">fakta</ref> demokratio
+        <fnt>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2006/009061.php">Faktoj kaj famoj</url></vrk>
+              <bib>Monato</bib>
+          <lok>2006/10, p. 10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="formal.0a.eksplicita">formala<sncref/></ref>,
+      <ref cel="oficia.0a">oficiala</ref>,
+      <ref cel="regul.0a.konforma">regula<sncref/></ref>
+    </refgrp>
+    <trd lng="de">nominell</trd>
+    <trd lng="en">nominal</trd>
+    <trd lng="ru">&c_n;&c_o;&c_m;&c_i;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </snc>
+</drv>
+
+<drv mrk="nom.laux0e">
+  <kap>
+    la&ubreve;<tld/>e
+  </kap>
+  <snc mrk="nom.laux0e.nomuze">
+    <dif>
+      Per &gcirc;ia <tld/>o; uzante &gcirc;ian <tld/>on:
+      <ekz>
+        la&ubreve;<tld/>e prikalkulu &ccirc;iujn objektojn, kiujn ili ofice devas porti
+        <fnt><bib>MT</bib> <lok>&Nom; 4:32</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i jam ne plu iris al la re&gcirc;o, krom en la okazo, se <klr>[&#8230;]</klr> &scirc;i estis
+        vokita la&ubreve;<tld/>e <klr>(<ref cel="person.0e">persone</ref>)</klr>
+        <fnt><bib>MT</bib> <lok>&Est; 2:14</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i saltis en iliajn brakojn, vokis ilin la&ubreve;<tld/>e, kaj ili estis senfine feli&ccirc;aj
+        <fnt><bib>Fab1</bib> <lok>Sova&gcirc;aj cignoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        la apotekistinon la&ubreve;<tld/>e &scirc;i ne konis
+        <fnt><bib>ChC</bib> <lok>19</lok></fnt>;
+      </ekz>
+      <ekz>
+        li povas citi la Sanktajn Librojn la&ubreve;<tld/>e kaj la&ubreve;verse
+        <fnt>
+          <bib>StU</bib>
+          <lok>La Nazaretanoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mem.0">mem</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>namentlich</trd>,
+      <trd>beim <ind>Name</ind>n</trd>
+    </trdgrp>
+    <trd lng="en">by <ind>name</ind></trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_i;&c_m;&c_jo;&c_n;&c_n;&c_y;&c_o;</trd>,
+      <trd>&c_p;&c_o; &c_i;&c_m;&c_je;&c_n;&c_i;</trd>,
+      <trd>&c_p;&c_o; &c_i;&c_m;&c_je;&c_n;&c_a;&c_m;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="nom.laux0e.nominale">
+    <dif>
+      Kiel deklarite; <ref cel="nomina.0a">nominale</ref>
+      (kontraste al <ref cel="efekti.0e.KOMUNE">efektive</ref>):
+      <ekz>
+        la revuo meritas tiel lar&gcirc;an mencion, &ccirc;ar &gcirc;i ne nur la&ubreve;<tld/>e sed anka&ubreve;
+        la&ubreve;fakte estis kaj restis ligilo
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de 1939 &gcirc;is 1959 TEKA ekzistis preska&ubreve; nur la&ubreve;<tld/>e
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tia konceptado de universaleco <klr>[&#8230;]</klr> ebligis transformi&gcirc;on de UEA en
+        multe pli universalan organiza&jcirc;on ne nur la&ubreve;<tld/>e, sed anka&ubreve; la&ubreve; la
+        teritoria etendi&gcirc;o kaj konsisto
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="oficia.0e">oficiale</ref>
+    <trd lng="de">nominell</trd>
+    <trd lng="en">nominally</trd>
+    <trd lng="ru">&c_n;&c_o;&c_m;&c_i;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;</trd>
+  </snc>
+</drv>
+
+<drv mrk="nom.kares0o">
+  <kap>kares<tld/>o</kap>
+  <snc mrk="nom.kares0o.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      <ref tip="super" cel="nom.0o.de_io"><tld lit="N"/>o</ref>
+      intima, karesa, uzata por iu &scirc;atata:
+      <ekz>
+        per rusaj sufiksoj mi povas krei multajn kares<tld/>ojn de
+        &ccirc;iu virina <tld/>o <klr>[...]</klr> ekzemple <nom>Rita</nom>,
+        <nom>Rito&ccirc;ka</nom>, <nom>Ritusja</nom>, <nom>Ritusjka</nom>, <nom>Ritu&scirc;a</nom>
+        <fnt>
+          <aut>Terur&ccirc;jo</aut>,
+          <vrk><url ref="http://eo.lernu.net/komunikado/forumo/temo.php?t=1735">
+              Romantika&jcirc;oj</url></vrk>,
+          <lok>lernu.net, 2008-01-16</lok>
+        </fnt>;
+      </ekz><ekz>
+        hodia&ubreve; oni publike plejofte uzas anglajn <tld/>ojn: la keltaj
+        restas kares<tld/>oj
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/008157.html">Nomo
+          egala, sed esenco mala</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/12, p. 15</lok>
+        </fnt>;
+      </ekz><ekz>
+        germanoj, cetere, jam havas kares<tld/>on por &scirc;i: Angie
+        <fnt>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2006/008850.php">Kancelierino</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/01, p. 5</lok>
+        </fnt>;
+      </ekz><ekz>
+        li senteme <tld/>is <klr>[&scirc;in]</klr> per la bela pola
+        kares<tld/>o <nom>Adu&scirc;ka</nom>
+        <fnt>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2008/009307.php">La neforgesebla
+          Ada</url></vrk>
+          <bib>Monato</bib>
+          <lok>2008/02, p. 23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cxj.0">&ccirc;j</ref>,
+      <ref cel="nj.0">nj</ref>
+    </refgrp>
+    <trd lng="de">Kosename</trd>
+    <trd lng="th">&#xE0A;&#xE37;&#xE48;&#xE2D;&#xE40;&#xE25;&#xE48;&#xE19;</trd>
+  </snc>
+  <trd lng="bo">&t_ma;&t_gigu;&t_nga;&t_tsheg;&t_-a;&t_da;&t_naro;&t_ga;&t_sa;&t_tsheg;</trd>
+  <trd lng="cs">zdrobn&ecaron;lina</trd>
+  <trdgrp lng="es">
+    <trd>apelativo cari&ntilde;oso</trd>,
+    <trd>hipocor&iacute;stico</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>diminutif<klr> (petit nom)</klr></trd>,
+    <trd>petit nom</trd>
+  </trdgrp>
+  <trd lng="id"><ind>juluk</ind>an</trd>
+  <trdgrp lng="ja">
+    <trd>&#x611B;&#x79F0;  <pr>&#12354;&#12356;&#12375;&#12423;&#12358;</pr></trd>,
+    <trd>&#x30CB;&#x30C3;&#x30AF;&#x30CD;&#x30FC;&#x30E0;</trd>
+  </trdgrp>
+  <trd lng="nl">koosnaam</trd>
+  <trd lng="pl">zdrobnienie  <ind>imienia</ind></trd>
+  <trdgrp lng="ro">
+    <trd>diminutiv al numelui</trd>,
+    <trd>reducerea numelui</trd>
+  </trdgrp>
+  <trd lng="sk">zdrobnenina <klr>(mena)</klr></trd>
+</drv>
+
+<drv mrk="nom.kasx0o">
+  <kap>ka&scirc;<tld/>o</kap>
+  <snc mrk="nom.kasx0o.KOMUNE">
+    <dif>
+      Memelektita <ref tip="super" cel="nom.0o.de_io"><tld/>o</ref>
+      de iu, malsama disde la kutima, oficiala nomo:
+      <ekz>
+        <nom>Joh&aacute;n</nom> Valano, ka&scirc;<tld/>o de <nom>Claude Piron</nom>
+        <fnt>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2008/009447.php">Eminenta
+          amiko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2008/04, p. 5</lok>
+        </fnt>;
+      </ekz><ekz>
+        ili prezentis sin en la elektronika medio per ka&scirc;<tld/>oj kaj
+        tiumaniere virtuale renkonti&gcirc;is
+        <fnt>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2009/009649.php">&Ccirc;iamas iama
+          amo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/05, p. 15</lok>
+        </fnt>;
+      </ekz><ekz>
+        ili <tld/>is la bestegon per ducento da ka&scirc;<tld/>oj flataj,
+        admiraj: bulo bela, bulbelulo, mielmano, arbara greno, orkukolo,
+        <klr>[&#8230;]</klr>
+        <fnt>
+          <aut>Saliko</aut>
+          <vrk><url ref="&Monato;/2009/009756.php">Praa religia
+          temo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/12, p. 23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="pseuxd1.0o">pse&ubreve;donimo</ref>,
+      <ref cel="pseuxd1.0o">pse&ubreve;donomo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_s;&c_e;&c_w;&c_d;&c_a;&c_n;&c_ib;&c_m;</trd>
+  <trd lng="br">anv-pluenn</trd>
+  <trdgrp lng="de">
+    <trd>Pseudonym</trd>,
+    <trd>Deckname</trd>
+  </trdgrp>
+  <trd lng="en">pseudonym</trd>
+  <trd lng="es">seud&oacute;nimo</trd>
+  <trd lng="fr">pseudonyme</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;ln&eacute;v</trd>,
+    <trd>fed&odblac;n&eacute;v</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>nama</ind> samaran</trd>,
+    <trd>pseudonim</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#22793;&#x540D;  <pr>&#12408;&#12435;&#12417;&#12356;</pr></trd>,
+    <trd>&#x507D;&#x540D;  <pr>&#x304E;&#12417;&#12356;</pr></trd>,
+    <trd>&#x4EEE;&#x540D;  <pr>&#x304B;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>schuilnaam</trd>,
+    <trd>pseudoniem</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pseudonim</trd>,
+    <trd>przybrane  <ind>nazwisko</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>pseud&ocirc;nimo</trd>,
+    <trd>pseud&oacute;nimo</trd>
+  </trdgrp>
+  <trd lng="ro">pseudonim</trd>
+  <trd lng="ru">&c_p;&c_s;&c_je;&c_v;&c_d;&c_o;&c_n;&c_i;&c_m;</trd>
+  <trd lng="uk">&c_p;&c_s;&c_je;&c_v;&c_d;&c_o;&c_n;&c_ib;&c_m;</trd>
+</drv>
+
+<drv mrk="nom.lok0o">
+  <kap>lok<tld/>o</kap>
+  <snc mrk="nom.lok0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <tld lit="N"/>o de geografia loko;
+      <ref tip="sin" cel="toponim.0o.GEOG">toponimo</ref>:
+      <ekz>
+        la fra&ubreve;linoj kiuj <klr>[la informbultenojn]</klr>
+        vo&ccirc;legas, malklare prononcas lok<tld/>ojn
+        <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 22a</lok></fnt>;
+      </ekz><ekz>
+        plimulto de la malnovaj lok<tld/>oj estas gaelaj, sed kelkaj
+        estas anglaj a&ubreve; skotaj
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008289.html">Mistera insulo Ailsa Craig</url></vrk>
+            <bib>Monato</bib> <lok>2004/07, p. 22</lok>
+        </fnt>;
+      </ekz><ekz>
+        la lok<tld/>o <nom>Luostarinm&auml;ki</nom> signifas &leftquot;mona&hcirc;eja alta&jcirc;eto&#x201D;
+        <fnt>
+          <aut>Saliko</aut>
+          <vrk><url ref="&Monato;/2008/009494.php">Lerto admirenda</url></vrk>
+          <bib>Monato</bib> <lok>2008/08, p. 24</lok>
+        </fnt>;
+      </ekz><ekz>
+        la lok<tld/>o de Minamata, samkiel <nom>Hiro&scirc;ima</nom>, <nom>Nagasaki</nom> kaj
+        <nom>Fuku&scirc;ima</nom>, rememorigas al la homaro tragedion, kruelecon, misuzon de
+        teknologio kaj homan arogantecon
+        <fnt>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2013/011021.php">Minamata, alia tragedio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/06, p. 14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_je;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_a;&c_ja; &c_n;&c_a;&c_z;&c_v;&c_a;</trd>,
+    <trd>&c_n;&c_a;&c_z;&c_v;&c_a; &c_m;&c_ja;&c_s;&c_mol;&c_c;&c_ib;&c_n;&c_y;</trd>,
+    <trd>&c_t;&c_a;&c_p;&c_o;&c_n;&c_ib;&c_m;</trd>
+  </trdgrp>
+  <trd lng="cs">m&iacute;stn&iacute; jm&eacute;no</trd>
+  <trdgrp lng="de">
+    <trd>Ortsname</trd>,
+    <trd>Toponym</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>place name</trd>,
+    <trd>toponym</trd>
+  </trdgrp>
+  <trd lng="es">top&oacute;nimo</trd>
+  <trdgrp lng="fr">
+    <trd>nom de lieu</trd>,
+    <trd>toponyme</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>nama</ind> tempat</trd>,
+    <trd>toponimi</trd>
+  </trdgrp>
+  <trd lng="ja">&#22320;&#x540D;  <pr>&#12385;&#12417;&#12356;</pr></trd>
+  <trd lng="pl">nazwa miejsca</trd>
+  <trd lng="ro">numele locului</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_je;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; <ind>&c_n;&c_a;&c_z;&c_v;&c_a;&c_n;&c_i;&c_je;</ind></trd>,
+    <trd>&c_t;&c_o;&c_p;&c_o;&c_n;&c_i;&c_m;</trd>
+  </trdgrp>
+  <trd lng="sk">miestne meno</trd>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_z;&c_v;&c_a; &c_m;&c_ib;&c_s;&c_c;&c_je;&c_v;&c_o;&c_s;&c_t;&c_ib;</trd>,
+    <trd>&c_t;&c_o;&c_p;&c_o;&c_n;&c_ib;&c_m;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.mok0o">
+  <kap>mok<tld/>o</kap>
+  <snc mrk="nom.mok0o.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Al<ref tip="super" cel="nom.0o.de_io"><tld/>o</ref> donita al
+      iu kun moka intenco:
+      <ekz>
+        &leftquot;Kataluna <nac>light</nac>&#x201D; estis mok<tld/>o uzata de la
+        kontra&ubreve;uloj de la skriba uzado de varianto de la kataluna pli
+        proksima al la parola uzo de la lingvo
+        <fnt>
+          <aut>Reinhard F&ouml;ssmeier</aut>
+          <vrk><url ref="&Monato;/2003/008037.html">Neklara
+          uzo de angla vorto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/02, p. 8</lok>
+        </fnt>;
+      </ekz><ekz>
+        etimologie, Ibliso signifas &leftquot;la ur&gcirc;ulon&rightquot; (de la kompato de Dio)
+        en la araba, tiel, la <tld/>o &leftquot;Ibliso&rightquot; povas esti vidita kiel
+        mok<tld/>o donita al Satano
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4001">Satano</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_ja;&c_n;&c_u;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="cs">posm&ecaron;&scaron;n&aacute; p&rcaron;ezd&iacute;vka</trd>
+  <trdgrp lng="de">
+    <trd>Spottname</trd>,
+    <trd>Neckname</trd>
+  </trdgrp>
+  <trd lng="es">apodo</trd>
+  <trd lng="fr">sobriquet</trd>
+  <trd lng="hu">g&uacute;nyn&eacute;v</trd>
+  <trd lng="id"><ind>nama</ind> ejekan</trd>
+  <trd lng="ja">&#12354;&#12384;&#x540D;  <pr>&#12354;&#12384;&#x306A;</pr></trd>
+  <trd lng="nl">spotnaam</trd>
+  <trd lng="pl">przezwisko</trd>
+  <trd lng="pt">apelido</trd>
+  <trd lng="ro">porecl&abreve;</trd>
+  <trd lng="ru">&c_k;&c_l;&c_i;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="sk">prez&yacute;vka <klr>(v&yacute;sme&scaron;n&aacute;)</klr></trd>
+  <trdgrp lng="uk">
+    <trd><klr>(&c_g;&c_l;&c_u;&c_z;&c_l;&c_i;&c_v;&c_je;)</klr> &c_p;&c_r;&c_ib;&c_z;&c_v;&c_i;&c_s;&c_mol;&c_k;&c_o;</trd>,
+    <trd>&c_k;&c_l;&c_i;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.plum0o">
+  <kap>plum<tld/>o</kap>
+  <snc mrk="nom.plum0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      <ref tip="super" cel="nom.kasx0o.KOMUNE">Ka&scirc;<tld/>o</ref>
+      de verkisto a&ubreve; artisto, kiu deziras ne konigi sian
+      oficialan nomon:
+      <ekz>
+        <klr>[&#8230;]</klr> konatan per la plum<tld/>o <nom>La&ubreve;lum</nom>.
+        <fnt>
+          <aut>D. Keefe</aut>,
+          <vrk>-</vrk>,
+          <lok><url ref="&UEA;revuo/index.html">
+          Esperanto</url>, 2010-04, p. 80a</lok>
+        </fnt>;
+      </ekz><ekz>
+        <nom>Toraziro&ocirc;</nom> estas lia civila <tld/>o, <nom>Sy&ocirc;in</nom>, plum<tld/>o kiel
+        literatoro
+        <fnt>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2000/006909.php">Novjara kla&ccirc;o super konjako</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 25</lok>
+          </fnt>;
+      </ekz><ekz>
+        sub la plum<tld/>o <nom>Henri Beaupierre</nom> aperis en 1968 Specimene,
+        humura kolekto de parodioj kaj pasti&ccirc;oj
+        <fnt>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2013/010593.php">&Ccirc;e l' koro de E&ubreve;ropo
+          ...</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/06, p. 25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">K&uuml;nstlername</trd>
+    <trd lng="th">&#xE19;&#xE32;&#xE21;&#xE1B;&#xE32;&#xE01;&#xE01;&#xE32;</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_s;&c_e;&c_w;&c_d;&c_a;&c_n;&c_ib;&c_m; <klr>(&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_n;&c_y;)</klr></trd>
+  <trd lng="cs">pseudonym</trd>
+  <trd lng="es">seud&oacute;nimo</trd>
+  <trd lng="fr">nom de plume</trd>
+  <trd lng="id"><ind>nama</ind> pena</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7B46;&#x540D;  <pr>&#12402;&#12388;&#12417;&#12356;</pr></trd>,
+    <trd>&#x30DA;&#x30F3;&#x30CD;&#x30FC;&#x30E0;</trd>
+  </trdgrp>
+  <trd lng="pl">pseudonim pisarski</trd>
+  <trd lng="ro">porecl&abreve;</trd>
+  <trd lng="sk">pseudonym</trd>
+  <trd lng="uk">&c_l;&c_ib;&c_t;&c_je;&c_r;&c_a;&c_t;&c_u;&c_r;&c_n;&c_i;&c_j; &c_p;&c_s;&c_je;&c_v;&c_d;&c_o;&c_n;&c_ib;&c_m;</trd>
+</drv>
+
+<drv mrk="nom.sam0ulo">
+  <kap>sam<tld/>ulo</kap>
+  <snc mrk="nom.sam0ulo.KOMUNE">
+    <dif>
+      Havanto de samforma nomo:
+      <ekz>
+        sam<tld/>ulo kun sia patro estis baptata la knabeto
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep
+        fratoj</vrk>, <lok>1947</lok></fnt>;
+      </ekz><ekz>
+        en la oficejo de la heroo aperis lia sam<tld/>ulo
+        <fnt>
+          <aut>Anna kaj Mati Pentus</aut>
+          <vrk><url ref="&Monato;/2004/008219.html">Penetrante en la
+          profundon de la homanimo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/06, p. 25</lok>
+        </fnt>;
+      </ekz><ekz>
+        oni rajtas registri nur sian propran nomon, kaj inter
+        sam<tld/>uloj la unua rajtas registri por si la nomon
+        <fnt>
+          <aut>Jukka Pietil&auml;inen</aut>
+          <vrk><url ref="&Monato;/2006/009040.php">Interrete anka&ubreve; per
+          naciaj literoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/12, p. 16</lok>
+        </fnt>;
+      </ekz><ekz>
+        legendo asertas, ke unu el ili estis <nom>Josip Broz</nom>, la posta
+        mar&scirc;alo Tito el Jugoslavio, tamen iuj opinias, ke temas pri
+        sam<tld/>ulo
+        <fnt>
+          <aut>Marta Sol&iacute;s</aut>
+          <vrk><url ref="&Monato;/2005/008399.php">Unika fervojo en
+          Andoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/04, p. 20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Geichnamiger</trd>
+  </snc>
+  <trd lng="be">&c_c;&c_jo;&c_z;&c_k;&c_a;</trd>
+  <trd lng="cs">jmenovec</trd>
+  <trd lng="es">tocayo</trd>
+  <trd lng="fr">homonyme<klr> (porteur du m&ecirc;me nom)</klr></trd>
+  <trd lng="pl">imiennik</trd>
+  <trdgrp lng="ro">
+    <trd>numitorul</trd>,
+    <trd>tiz&abreve;</trd>
+  </trdgrp>
+  <trd lng="sk">menovec</trd>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_d;&c_n;&c_o;&c_f;&c_a;&c_m;&c_ib;&c_l;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_o;&c_d;&c_n;&c_o;&c_f;&c_a;&c_m;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_t;&c_je;&c_z;&c_k;&c_o;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.uzant0o">
+  <kap>uzant<tld/>o</kap>
+  <snc mrk="nom.uzant0o.KOMP">
+    <dif>
+      <ref tip="dif" cel="salut.0nomo.KOMP">Salutnomo</ref>:
+      <ekz>
+        kio estas via uzant<tld/>o?
+        <fnt><vrk>"Kio estas via uzantnomo?"</vrk><lok>
+        <url ref="https://forum.duolingo.com/comment/9336252">Duolingo</url></lok></fnt>;
+      </ekz><ekz>
+        la uzant<tld/>o estos via retpo&scirc;tadreso
+        <fnt>
+          <vrk><url ref="https://retoso2021.tejo.org/platformo/">Platformo - RETOSO 2021</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_ib;&c_m;&c_ja; <klr>(&c_k;&c_a;&c_r;&c_y;&c_s;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;&c_a; &c_k;&c_a;&c_m;&c_p;&c_u;&c_t;&c_a;&c_r;&c_n;&c_a;&c_j; &c_s;&c_ib;&c_s;&c_t;&c_e;&c_m;&c_y;, &c_s;&c_je;&c_t;&c_k;&c_ib;)</klr></trd>
+    <trd lng="cs">jm&eacute;no u&zcaron;ivatele</trd>
+    <trd lng="de">Benutzername</trd>
+    <trdgrp lng="en">
+      <trd>username</trd>,
+      <trd>user name</trd>,
+      <trd>login name</trd>
+    </trdgrp>
+    <trd lng="es">nombre de usuario</trd>
+    <trdgrp lng="fr">
+      <trd>login</trd>,
+      <trd>identifiant d'utilisateur<klr> (login)</klr></trd>,
+      <trd>nom d'utilisateur<klr> (login)</klr></trd>
+    </trdgrp>
+    <trd lng="fy">br&ucirc;kersnamme</trd>
+    <trd lng="hu">bejelentkez&eacute;si n&eacute;v</trd>
+    <trd lng="id"><ind>nama</ind> pengguna</trd>
+    <trd lng="it">login<klr> (nome utente)</klr></trd>
+    <trd lng="nl">gebruikersnaam</trd>
+    <trdgrp lng="pl">
+      <trd>nazwa u&zdot;ytkownika</trd>,
+      <trd>login</trd>,
+      <trd>nazwa logowania</trd>
+    </trdgrp>
+    <trd lng="ro">nume de utilizator</trd>
+    <trd lng="ru">&c_i;&c_m;&c_ja; &c_v;&c_h;&c_o;&c_d;&c_a; &c_v; &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_u;</trd>
+    <trd lng="sk">meno pou&zcaron;&iacute;vate&lcaron;a</trd>
+    <trdgrp lng="sv">
+      <trd>inloggningsnamn</trd>,
+      <trd>anv&auml;ndarnamn</trd>
+    </trdgrp>
+    <trd lng="th">&#xE0A;&#xE37;&#xE48;&#xE2D;&#xE1C;&#xE39;&#xE49;&#xE43;&#xE0A;&#xE49;</trd>
+  </snc>
+</drv>
+
+<drv mrk="nom.0ede">
+  <kap><tld/>e de,
+  <var><kap>en la <tld/>o de</kap></var>,
+  <var><kap>je la <tld/>o de</kap></var>
+  </kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="nom.0ede.KOMUNE">
+    <dif>
+      Agante la&ubreve; komisio de, kiel reprezentanto de:
+      <ekz>
+        salutu lin en mia <tld/>o;
+      </ekz><ekz>
+        paroli je la <tld/>o de iu;
+      </ekz><ekz>
+        en la <tld/>o de la nuda logiko
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz><ekz>
+        li cedis la tutan sian monon kaj bienojn je la <tld/>o de <nom>Thubui</nom>
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz><ekz>
+        la ambasadoro salutis la kongreson <tld/>e de sia
+        registaro;
+      </ekz><ekz>
+        <tld/>e de tiuj &ccirc;i regulaj a&ubreve; malregulaj tabeloj la donita vorto
+        &scirc;an&gcirc;i&gcirc;as
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz><ekz>
+        la indonezia armeo <klr>[&#8230;]</klr> efektivigis unu el la plej
+        grandaj genocidaj masakroj <klr>[&#8230;]</klr> <tld/>e de
+        religiaj veroj kaj naciismo
+        <fnt>
+        <aut>Stefan Maul</aut>
+        <vrk><url ref="&Monato;/2000/006861.php">Milito kaj paco</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/02, p. 15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="th">&#xE43;&#xE19;&#xE19;&#xE32;&#xE21;&#xE02;&#xE2D;&#xE07;</trd>
+  </snc>
+  <ref tip="vid" cel="komisi.0ede">komisie de</ref>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d; <ind>&c_ib;&c_m;&c_ja;</ind></trd>,
+    <trd>&c_ib;&c_m;&c_je;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>en <ind>anv</ind></trd>,
+    <trd>a-berzh</trd>
+  </trdgrp>
+  <trd lng="de">im <ind>Namen von</ind></trd>
+  <trd lng="es">en nombre de</trd>
+  <trdgrp lng="fr">
+    <trd>au <ind>nom</ind> de</trd>,
+    <trd>de la <ind>part</ind> de</trd>
+  </trdgrp>
+  <trd lng="id">atas <ind>nama</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;<ind>&#x306E;&#x540D;&#x306B;&#x304A;&#12356;&#12390;
+    </ind><pr>&#x306E;&#x306A;&#x306B;&#x304A;&#12356;&#12390;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#x306E;&#x4EE3;&#29702;&#12391;  </ind><pr>&#x306E;&#12384;&#12356;&#x308A;&#12391;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">namens</trd>
+  <trd lng="pl">w  <ind>imieniu</ind></trd>
+  <trd lng="ro">&icirc;n  <ind>numele</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t; <ind>&c_i;&c_m;&c_je;&c_n;&c_i;</ind></trd>,
+    <trd>&c_v;&c_o; <ind>&c_i;&c_m;&c_ja;</ind></trd>,
+    <trd>&c_i;&c_m;&c_je;&c_n;&c_je;&c_m;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.karakteriza0o">
+  <kap>karakteriza <tld/>o</kap>
+  <snc>
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <klr>(pp en verko fikcia a&ubreve; religia)</klr>
+      Propra <tld/>o kies leksika signifo aludas karakteran trajton de
+      la nomato:
+      <ekz>
+        unu el la roluloj de
+        <ctl>La Morto de la Delegito de U.E.A.</ctl> portas la
+        karakterizan <tld/>on <ref cel="bemol.0o">Bemol&#8217;</ref>:
+        <ctl>Ferdinando Bemol, muzikisto de la loka opero, Subdelegito
+        de U.E.A.</ctl>
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    Similsence la programistoj parolas pri <em>memklarigaj</em>
+    <tld/>oj de variabloj, konstantoj kaj aliaj objektoj en programo.
+  </rim>
+  <trd lng="de">sprechender Name</trd>
+  <trd lng="en">charactonym</trd>
+  <trd lng="pl">nazwisko znacz&aogonek;ce</trd>
+  <trd lng="ru">&c_g;&c_o;&c_v;&c_o;&c_r;&c_ja;&c_shch;&c_je;&c_je; &c_i;&c_m;&c_ja;</trd>
+</drv>
+
+<drv mrk="nom.persona0o">
+  <kap>persona <tld/>o</kap>
+  <snc mrk="nom.persona0o.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      <ref tip="super" cel="nom.0o.de_io"><tld lit="N"/>o</ref> de
+      unuopa homo, aldonita al la familia <tld/>o por distingi &ccirc;iun
+      familianon:
+      <ekz>
+        kia estas via <tld/>o persona?
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>El la mondo homarana (hilelista).</vrk>
+        </fnt>;
+      </ekz><ekz>
+        la persona <tld/>o <nom>Bj&ouml;rn</nom> (urso) estas ofta &ccirc;e svedlingvanoj
+        <fnt>
+          <aut>Saliko</aut>
+          <vrk><url ref="&Monato;/2009/009756.php">Praa religia
+          temo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/12, p. 23</lok>
+        </fnt>;
+      </ekz><ekz>
+        la&ubreve; la angla palaca tradicio, &leftquot;<nac>Sir</nac>&#x201D; kun kavalireca
+        signifo estas uzata nur kun la persona <tld/>o, ne kun la
+        persona kaj familia <tld/>oj
+        <fnt>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2009/009860.php">Voja&gcirc;romano
+          klasika</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/12, p. 25</lok>
+        </fnt>;
+      </ekz><ekz>
+        ver&scirc;ajne la sola inversa konstruo estas la <klr>[&#8230;]</klr>
+        orda numeralo post persona <tld/>o, ekzemple
+        Re&gcirc;o Luizo la Dekkvara
+        <fnt>
+          <aut>J. Wells</aut>,
+          <vrk>Lingvistikaj aspektoj de Esperanto</vrk>,
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <lstref lst="voko:personaj_nomoj">personaj <tld/>oj</lstref>
+    <trd lng="th">&#xE0A;&#xE37;&#xE48;&#xE2D;&#xE08;&#xE23;&#xE34;&#xE07;</trd>
+  </snc>
+  <ref tip="sub" cel="nom.antaux0o.GEN">anta&ubreve;nomo</ref>
+  <trd lng="be">&c_ib;&c_m;&c_ja; <klr tip="amb">(&c_a;&c_s;&c_a;&c_b;&c_ib;&c_s;&c_t;&c_a;&c_je;)</klr></trd>
+  <trdgrp lng="br">
+    <trd>anv bihan</trd>,
+    <trd>kentanv</trd>
+  </trdgrp>
+  <trd lng="de">Vorname</trd>
+  <trd lng="en">first name</trd>
+  <trd lng="es">nombre</trd>
+  <trd lng="fr">pr&eacute;nom</trd>
+  <trdgrp lng="hu">
+    <trd>ut&oacute;n&eacute;v</trd>,
+    <trd>keresztn&eacute;v</trd>
+  </trdgrp>
+  <trd lng="id"><ind>nama</ind> depan</trd>
+  <trdgrp lng="ja">
+    <trd>&#x540D;  <pr>&#12417;&#12356;</pr></trd>,
+    <trd>&#x500B;&#x4EBA;&#x540D;  <pr>&#12371;&#12376;&#12435;&#12417;&#12356;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">voornaam</trd>
+  <trdgrp lng="pt">
+    <trd>nome</trd>,
+    <trd>prenome</trd>,
+    <trd><ind>nome</ind> de batismo</trd>
+  </trdgrp>
+  <trd lng="pl">imi&eogonek;</trd>
+  <trdgrp lng="ro">
+    <trd>prenume</trd>,
+    <trd>nume de na&#537;tere</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_m;&c_ja; <klr tip="amb">(&c_l;&c_i;&c_ch;&c_n;&c_o;&c_je;)</klr></trd>
+  <trd lng="sv">f&ouml;rnamn</trd>
+  <trd lng="sk">krstn&eacute; meno</trd>
+  <trdgrp lng="cs">
+    <trd>k&rcaron;estn&iacute; jm&eacute;no</trd>,
+    <trd>rodn&eacute; jm&eacute;no</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nom.bona0o">
+  <kap>bona <tld/>o</kap>
+  <snc mrk="nom.bona0o.KOMUNE">
+    <dif>
+      Konvena, ta&ubreve;ga maniero <tld/>i ion:
+      <ekz>
+        &Scirc;ajnas al mi, ke por &leftquot;<nom>Wales</nom>&rightquot; la plej bona <tld/>o
+        estos <ctl>Kimrujo</ctl>
+        <fnt><bib>LR</bib>, <lok>18&Ccirc; (1904, PVZ VI, 167)</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_p;&c_o;&c_d;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_je;&c_je; &c_i;&c_m;&c_ja;</trd>
+  </snc>
+  <snc mrk="nom.bona0o.reputacio">
+    <uzo tip="stl">FRAZ</uzo>
+    <dif>
+      Bona <ref tip="super" cel="reputa.0o">reputacio</ref>:
+      <ekz>
+        Pli bona estas bona <tld/>o, ol bona oleo
+        <fnt><bib>MT</bib>, <lok>&Pre; 7:1</lok></fnt>;
+      </ekz><ekz>
+        Tiel mi rezignis pri mia bona <tld/>o kaj for&jcirc;uris ekde nun
+        miajn familiajn ligojn <fnt><bib>Mortul&Scirc;ip</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">fair name</trd>
+    <trd lng="id"><ind>nama</ind> baik</trd>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_o;&c_b;&c_r;&c_o;&c_je; &c_i;&c_m;&c_ja;</trd>,
+      <trd>&c_ch;&c_je;&c_s;&c_t;&c_n;&c_o;&c_je; &c_i;&c_m;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_d;&c_o;&c_b;&c_r;&c_a;&c_je; <ind>&c_ib;&c_m;&c_ja;</ind></trd>
+  <trd lng="en">good name</trd>
+  <trd lng="ru">&c_d;&c_o;&c_b;&c_r;&c_o;&c_je; <ind>&c_i;&c_m;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="nom.honesta0o">
+  <kap>honesta <tld/>o</kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="nom.bona0o.reputacio">Bona <tld/>o<sncref/></ref>:
+      <ekz>
+        unu fojon &scirc;telis pomon kaj perdis por &ccirc;iam honestan <tld/>on
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_o;&c_b;&c_r;&c_a;&c_je; <ind>&c_ib;&c_m;&c_ja;</ind></trd>
+    <trd lng="id"><ind>nama</ind> baik</trd>
+  </snc>
+</drv>
+
+<drv mrk="nom.komuna0o">
+  <kap>komuna <tld/>o</kap>
+  <snc mrk="nom.komuna0o.kunhavata">
+    <dif>
+      Resuma, kuna <tld/>o, per kiu oni indikas reprezentantojn de pluraj
+      diversaj klasoj a&ubreve; specoj:
+      <ekz>
+        Britoj estas komuna <tld/>o de Angloj, Kimroj
+        kaj Skotoj, la tri &ccirc;efaj gentoj de Britujo
+        <fnt><bib>PMEG</bib></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="nom.propra0o.GRA">propra <tld/>o</ref>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_je; &c_ib;&c_m;&c_ja;</trd>,
+      <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_n;&c_a;&c_z;&c_v;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_b;&c_shch;&c_je;&c_je; &c_i;&c_m;&c_ja;</trd>,
+      <trd>&c_o;&c_b;&c_shch;&c_je;&c_je; &c_n;&c_a;&c_z;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_o;&c_b;&c_shch;&c_je;&c_je; &c_n;&c_a;&c_i;&c_m;&c_je;&c_n;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="nom.komuna0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Vorto a&ubreve; vortgrupo indikanta ajnan anon de klaso, de speco da
+      uloj a&ubreve; a&jcirc;oj, ekz-e <em>tablo, kato, urbo, virino</em>:
+      <ekz>
+        nun ne eblas rekomendi unu solan &ccirc;iam uzindan manieron trakti
+        diversajn proprajn <tld/>ojn en Esperanto<fnt>AdE</fnt>;
+      </ekz><ekz>
+        La popolnomoj (franco, anglo, germano, svedo ktp.)
+        estas ne propraj, sed komunaj <tld/>oj
+        <fnt><aut>H. Seppik</aut>: <vrk>La tuta Esperanto</vrk>.
+          <lok>&para;11.</lok></fnt>;
+      </ekz><ekz>
+        Oni uzas la artikolon kiam en nia penso komuna <tld/>o estas
+        difinita
+        <fnt><aut>Pieter Jan DOUMEN</aut>:
+          <vrk>&leftquot;La&rightquot;, artikolo nur difina</vrk>. <bib>Monato</bib></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Per si mem, ekster kunteksto, komuna <tld/>o<sncref ref="nom.komuna0o.GRA"/>
+      prezentas nocion, alivorte ajnan objekton posedantan la tipajn
+      ecojn de sia klaso.
+    </rim>
+    <trd lng="be">&c_ib;&c_m;&c_ja; &c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_je; <klr>(&c_g;&c_r;&c_a;&c_m;.)</klr></trd>
+    <trd lng="la">appellativum</trd>
+    <trd lng="ru">&c_i;&c_m;&c_ja; &c_n;&c_a;&c_r;&c_i;&c_c;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;</trd>
+    <trd lng="pl">nazwa pospolita</trd>
+  </snc>
+  <trd lng="en">common noun</trd>
+  <trd lng="fr">nom commun</trd>
+</drv>
+
+<drv mrk="nom.propra0o">
+  <kap>propra <tld/>o</kap>
+  <snc mrk="nom.propra0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Vorto a&ubreve; vortgrupo per kiu en koncerna lingvo oni indikas ion a&ubreve; iun
+      specifan &mdash; ekzempleron de iu klaso (i.a. personon, organiza&jcirc;on a&ubreve;
+      landon), manifesti&gcirc;on de fenomeno; titolo de verko a&ubreve; gazeto:
+      <ekz>
+        &leftquot;Varsovio&rightquot;, &leftquot;Pitagoro&rightquot;, &leftquot;Laktovojo&rightquot;, &leftquot;UEA&rightquot;, &leftquot;Heroldo de Esperanto&rightquot;,
+        &leftquot;la Dua Mondmilito&rightquot; estas propraj <tld/>oj;
+      </ekz><ekz>
+        Oni skribas &ccirc;iujn proprajn <tld/>ojn kun komenca majusklo: Elizabeto,
+        Parizo, &Ccirc;inujo, Nov-Zelando, Esperanto
+        <fnt><bib>PMEG</bib> <lok>&para;35.5</lok></fnt>;
+      </ekz><ekz>
+        Artikolo devas stari anta&ubreve; la <tld/>aj nomoj, se ili havas
+        adjektivan epiteton: La bona Dio; la perfida Efialtes; la
+        kura&gcirc;a Petro; Johano la Brava; Rikardo la Leonkora; Natan la
+        Sa&gcirc;a; la du fratoj van Buck; la brila Parizo; la potenca
+        Britujo
+        <fnt><bib>LSF</bib></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="titol.0o.TIP">titolo<sncref/></ref>
+    <ref tip="vid" cel="espera.0igo">esperantigo</ref>
+    <rim>
+      Kontraste al <ref cel="nom.komuna0o.GRA">komuna <tld/>o<sncref/></ref>,
+      <tld/>o propra indikas ne tiom nocion, kiom individuecon de la <tld/>ato.
+    </rim>
+  </snc>
+  <ref tip="ant" cel="nom.komuna0o.GRA">komuna <tld/>o<sncref/></ref>
+  <trdgrp lng="en">
+    <trd>proper name</trd>, <trd>proper noun</trd>
+  </trdgrp>
+  <trd lng="fr">nom propre</trd>
+  <trd lng="ru">&c_i;&c_m;&c_ja; &c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.189 2023/12/07 12:45:58
+Sergio Pokrovskij: + ~o: disigo de snc-oj
+
+versio 1.188 2023/12/07 06:32:11
+Sergio Pokrovskij: + propra ~o
+
+versio 1.187 2023/11/30 15:27:01
+Sergio Pokrovskij: kor dif
+
+versio 1.186 2023/11/28 09:26:54
+Dmitri Gabinski: + trd be
+
+versio 1.185 2023/11/05 09:24:52
+Sergio Pokrovskij: +komuna ~o
+
+versio 1.184 2023/10/20 05:22:00
+revo: transskribo per <pr>
+
+versio 1.183 2023/09/28 06:32:12
+Dmitri Gabinski: + trd be
+
+versio 1.182 2023/09/08 14:26:50
+-->
+</vortaro>

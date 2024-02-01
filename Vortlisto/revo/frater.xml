@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: frater.xml,v 1.22 2023/08/31 13:11:31 revo Exp $">
+<kap>
+  <rad>fraterkul</rad>/o
+</kap>
+<drv mrk="frater.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="frater.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="auxked.0oj">a&ubreve;kedoj</ref>
+      (<trd lng="la">Fratercula</trd>), norda 
+      na&gcirc;<ref tip="lst" lst="voko:birdoj" cel="bird.0o.ZOO">birdo</ref>
+      kun plumaro kaj beko multkoloraj, iom similaj al tiuj de papago:
+      <ekz>
+        marbirdoj ankora&ubreve; abundas, sed malplii&gcirc;is la nombro de birdoj de kelkaj specioj,
+        precipe de <tld/>oj
+        <fnt>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2009/009797.php">Pli pri la mistera insulo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/09, p. 31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        moruoj kaj <tld/>oj estis sendataj el la insulo al la mona&hcirc;ejo, kie ili estis
+        &scirc;atata man&gcirc;a&jcirc;o
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008289.html">Mistera insulo Ailsa Craig</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/07, p. 22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/a/aa/Papageitaucher_Fratercula_arctica.jpg/640px-Papageitaucher_Fratercula_arctica.jpg" prm="CC BY-SA 3.0"><tld/>o (Fratercula arctica) &ccirc;e L&aacute;trabjarg, Islando
+        <fnt>
+          <aut>Richard Bartz, propra verko</aut>
+          <lok><url ref="&WCW;/File:Papageitaucher_Fratercula_arctica.jpg">&WCW;/File:Papageitaucher_Fratercula_arctica.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="cs">papuchalk</trd>
+  <trd lng="de">Papageitaucher</trd>
+  <trd lng="en">puffin</trd>
+  <trd lng="fr">macareux</trd>
+  <trd lng="fy">seepappegaai</trd>
+  <trdgrp lng="hu">
+    <trd>lunda</trd>,
+    <trd>papag&aacute;lycs&odblac;r&udblac; <ind>alka</ind></trd>
+  </trdgrp>
+  <trd lng="ja">&#x30C4;&#x30CE;&#x30E1;&#x30C9;&#x30EA;</trd>
+  <trd lng="lfn">papagaio de mar</trd>
+  <trd lng="nl">papegaaiduiker</trd>
+  <trd lng="pl">maskonur</trd>
+  <trd lng="pt">papagaio-do-mar</trd>
+  <trd lng="ru">&c_t;&c_u;&c_p;&c_i;&c_k; <klr>(&c_p;&c_t;&c_i;&c_c;&c_a;)</klr></trd>
+  <trd lng="sk">mn&iacute;&scaron;ik</trd>
+  <trd lng="uk">&c_t;&c_u;&#x43F;&c_i;&#x43A;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/05/12 06:30:50
+Paul Peeraerts: + lok
+
+versio 1.20 2023/04/30 19:21:20
+Robin van der Vliet: trd fy, lfn, nl
+
+versio 1.19 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.16  2019/06/30 07:41:50  revo
+adaptis URL de Monato
+
+Revision 1.15  2019/01/03 19:10:14  revo
+Wolfram Diestel: +ekz-oj, +bld
+
+Revision 1.14  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2013/09/01 13:10:51  revo
+-->
+</vortaro>

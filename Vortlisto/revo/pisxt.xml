@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pisxt.xml,v 1.23 2023/09/03 12:45:08 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>pi&scirc;t</rad>/o
+</kap>
+<drv mrk="pisxt.0o">
+   <kap><ofc>*</ofc><tld/>o</kap>
+   <uzo tip="fak">TEK</uzo>
+   <snc>
+     <dif>
+       Peco de <ref tip="malprt" cel="mehxan1.0o.pecoj">me&hcirc;anismo</ref>,
+       formanta kune kun &ccirc;irka&ubreve;a ujo fermitan kavon, kies volumeno &scirc;an&gcirc;i&gcirc;as dum
+       &gcirc;i movi&gcirc;as (a&ubreve; inverse); ekzemple tia metala cilindro pelanta motoron per dilati&gcirc;o de
+       enfermita fluido:
+       <ekz>
+         <tld/>o de <ref tip="malprt" cel="pump.0ilo">pumpilo</ref>,
+         de <ref tip="malprt" cel="masxin.vapor0o">vaporma&scirc;ino</ref>;
+       </ekz>
+      <ekz>
+        spite al mia malampleksa scio pri lokomotivoj, mi demandis pri la tipo,
+        konstrujaro kaj <ind><tld/>ovasteco</ind> por doni al la viro la impreson, ke li
+        intertraktas kun spertulo
+        <fnt>
+          <bib>LOdE</bib>
+          <vrk><url ref="&Tekstaro;?nomo=ondo-de-esperanto">Iom granda a&ccirc;eto</url></vrk>
+        </fnt>;
+        <trd lng="de">Hubraum</trd>
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> <ref tip="malprt" cel="injekt.0ilo.MED">injektilo</ref> <klr>[&#x2026;]</klr>
+        havas <tld/>on, kiu eligas kaj pu&scirc;as la
+        injektotan likvon
+        <fnt>
+          <bib>Kon11</bib>
+          <aut>Adrian Ale&hcirc;andro</aut>
+          <vrk>Mondo &dash; Argentinaj inventa&jcirc;oj</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/3/3d/Reihenmotor_F&uuml;nf_Zylinder.gif/640px-Reihenmotor_F&uuml;nf_Zylinder.gif" prm="CC BY-SA 4.0">skemo de 5-<tld/>a motoro
+        <fnt>
+          <aut>MichaelFrey, propra verko</aut>
+          <lok><url ref="&WCW;/File:Reihenmotor_F%C3%BCnf_Zylinder.gif">&WCW;/File:Reihenmotor_F&uuml;nf_Zylinder.gif</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+   <trdgrp lng="be">
+     <trd>&c_p;&c_o;&c_r;&c_sh;&c_a;&c_n;&c_mol;</trd>,
+     <trd>&c_sh;&c_p;&c_u;&c_n;&c_t;</trd>
+   </trdgrp>
+   <trd lng="bg">&c_b;&c_u;&c_t;&c_a;&c_l;&c_o;</trd>
+   <trd lng="ca">pist&oacute;</trd>
+   <trd lng="en">piston</trd>
+   <trd lng="es">pist&oacute;n</trd>
+   <trd lng="fr">piston</trd>
+   <trd lng="de">Kolben</trd>
+   <trd lng="hu">dugatty&uacute;</trd>
+   <trd lng="ja">&#x30D4;&#x30B9;&#x30C8;&#x30F3;</trd>
+  <trd lng="nl">zuiger</trd>
+   <trd lng="pl">t&lstroke;ok  <klr>(w silniku)</klr></trd>
+   <trdgrp lng="pt">
+     <trd>&ecirc;mbolo</trd>,
+     <trd>pistom</trd>,
+     <trd>pist&atilde;o</trd>
+   </trdgrp>
+   <trd lng="ro">piston</trd>
+   <trd lng="ru">&c_p;&c_o;&c_r;&c_sh;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="uk">&c_p;&c_o;&c_r;&c_sh;&c_je;&c_n;&c_mol;</trd>
+</drv>
+
+<drv mrk="pisxt.0ujo">
+  <kap>
+    <tld/>ujo
+  </kap>
+  <snc>
+    <dif>
+      La ujo en kiu movi&gcirc;as pi&scirc;to; <ref cel="cilind.0o.TEK">cilindro<sncref/></ref>:
+      <ekz>
+        la motoro fari&gcirc;is pli forta kun 350 kubaj centimetroj da <tld/>ujo
+        <fnt>
+          <vrk><url ref="http://esperantaretradio.blogspot.com/2021/05/velorex-motorizita-triciklo-el-cehio.html">Velorex - motorizita triciklo el &Ccirc;e&hcirc;io</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_c;&c_y;&c_l;&c_ib;&c_n;&c_d;&c_a;&c_r; <klr>(&c_r;&c_u;&c_h;&c_a;&c_v;&c_ib;&c_k;&c_a;)</klr></trd>
+  <trd lng="de">Zylinder <klr>(Motor)</klr></trd>
+  <trd lng="en">cylinder <klr>(engine)</klr></trd>
+  <trd lng="fr">cylindre <klr>(moteur)</klr></trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.22 2023/07/04 07:27:27
+Dmitri Gabinski: + trd be
+
+versio 1.21 2023/06/07 11:20:10
+Wolfram Diestel: +~ujo
+
+versio 1.20 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
+
+versio 1.19 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.17 2022/03/24 23:30:50
+Vito Redsky: + trd pl + trd ro
+
+versio 1.16 2021/10/07 18:31:38
+Wolfram Diestel: pli ghenerala dif, +bld
+
+versio 1.15 2021/10/07 06:33:13
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.13  2006/03/05 17:31:18  revo
+-->
+</vortaro>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kara.xml,v 1.15 2023/03/07 08:35:01 revo Exp $">
+<kap>
+<rad>Kara</rad>/o
+</kap>
+<drv mrk="kara.K0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:riveroj" cel="river.0o.GEOG">Rivereto</ref>
+      en <ref tip="malprt" cel="rus.R0ujo">Rusujo</ref>,
+      en la Nord-Orienta angulo de
+      <ref tip="malprt" cel="euxrop1.E0o">E&ubreve;ropo</ref>,
+      225&#8239;km longa, fluanta de Uralo en la Arktan Oceanon, en la
+      maron al kiu &gcirc;i donis sian nomon:
+      <ekz>
+        la <tld/>a maro etendi&gcirc;as inter proksimume la 70-a kaj la 80-a norda latituda
+        grado kaj la 55-a &gcirc;is 105-a orienta longituda grado
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=344735">Karaa maro</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la voja&gcirc;o fari&gcirc;is la&ubreve; nordorienta direkto &ccirc;e la <tld/>a Maro, Amundsen planis
+        <klr>[&#8230;]</klr> en la polusa glacitavolo drivi al Norda Poluso
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=27948">Roald Amundsen</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_K;&c_a;&c_r;&c_a; <klr tip="amb">(&c_r;&c_e;&c_ch;&c_k;&c_a; &c_w; &c_R;&c_a;&c_s;&c_ib;&c_ib;)</klr></trd>
+  <trd lng="ca">Kara</trd>
+  <trd lng="de">Kara <klr>(Fluss)</klr></trd>
+  <trd lng="fr">Kara</trd>
+  <trd lng="hu">Kara</trd>
+  <trd lng="nl">Kara</trd>
+  <trd lng="pl">Kara</trd>
+  <trd lng="ru">&c_r;. <ind>&c_K;&c_a;&c_r;&c_a;</ind></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.15 2023/03/07 08:35:01
+Dmitri Gabinski: + trd be
+
+Revision 1.13  2019/01/04 21:10:19  revo
+Vito Redsky: +trd pl
+
+Revision 1.12  2014/04/15 12:10:17  revo
+Damien Brucker: +trd fr
+
+Revision 1.11  2012/09/01 18:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.10  2011/02/15 17:10:11  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.9  2008/12/01 16:47:16  revo
+Marc Bavant: ~a Maro: sxovis gxustaloken
+
+Revision 1.8  2008/11/14 17:30:56  revo
+Marc Bavant: mod ref cel al Arkta Oceano
+Revision 1.7  2002/10/18 16:38:43  revo
+Jozefo Horvath: +trd hu
+-->
+</vortaro>

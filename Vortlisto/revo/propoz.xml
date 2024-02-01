@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: propoz.xml,v 1.26 2023/10/31 09:27:19 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>propozici</rad>/o
+</kap>
+<drv mrk="propoz.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="propoz.0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Parto de frazo esprimanta per si mem kompletan sencon kaj
+      enhavanta verbon kun fina&jcirc;oj <nom>-as</nom>, <nom>-is</nom>,
+      <nom>-os</nom>, <nom>-us</nom> a&ubreve; <nom>-u</nom>, akompanatan
+      a&ubreve; ne de subjekto kaj predikato a&ubreve; komplemento:
+      <ekz>
+        en Esperanto la adverba participo &ccirc;iam rilatas la subjekton de la &ccirc;efa <tld/>o
+        <fnt>
+          <bib>LR</bib>
+          <lok>11. Verboj</lok>
+        </fnt>;
+      </ekz><ekz>
+        se ni iam post <tld/>o uzas la akuzativon, la akuzativo tie dependas ne de la
+        prepozicio, sed de aliaj ka&ubreve;zoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz><ekz>
+        &leftquot;ke&rightquot; estas konjunkcio kaj ligas du <tld/>ojn
+        <fnt>
+	<aut>Christian Declerck</aut>
+	<vrk><url ref="&Monato;/2000/006843.php">Kiun vojon?</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 4</lok>
+        </fnt>;
+      </ekz><ekz>
+        simplaj frazoj sen subordigitaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008323.html">Le&gcirc;oj landon
+          prosperigas</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim num="1">
+      Kiam la infinitivo kaj participo havas esprimitan subjekton, oni
+      konsentas, ke ili formas apartan <tld/>on:
+      <ekz>
+        mi a&ubreve;dis lin eliri;
+      </ekz><ekz>
+        li ekvidis la an&gcirc;elon starantan sur la vojo.
+      </ekz>
+      Tio estas grava por la uzado de <em>si, sia</em>.
+    </rim>
+    <rim num="2">
+      Ekzistas kelkfoje <tld/>oj, en kiuj la ideo de la verbo estas
+      esprimata per alispeca vorto:
+      <ekz>
+        for <klr>(fori&gcirc;u)</klr> de tie &ccirc;i, fripono!
+      </ekz>
+    </rim>
+    <adm>
+      Reverkinda :-( <aut>MB</aut>
+    </adm>
+    <trd lng="be">&c_s;&c_k;&c_a;&c_z;</trd>
+    <trd lng="de">Teilsatz</trd>
+    <trd lng="es">proposici&oacute;n</trd>
+    <trdgrp lng="hu">
+      <trd>mell&eacute;kmondat</trd>,
+      <trd>tagmondat</trd>
+    </trdgrp>
+    <trd lng="nl">zin</trd>
+    <trd lng="pl">zdanie</trd>
+    <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je; <klr tip="amb">(&c_g;&c_r;&c_a;&c_m;.)</klr></trd>
+  </snc>
+  <snc mrk="propoz.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="propoz.0o.aserto">
+      <fnt><bib>MatVort</bib></fnt>
+      <dif>
+        Aserto pri matematikaj objektoj, kiu povas esti vera, falsa, a&ubreve;
+        kies vereco estas nepruvebla kadre de la koncerna teorio.
+      </dif>
+      <adm>
+        MatVort konas ankaux "algebro de ~oj", "~a funktoro"
+        [konektilo (KompLeks), operatoro (KompLeks, PIV2),
+        operacio (PIV2)...]. Sama hxaoso pri kvantoro (KompLeks),
+        kvantifilo (MatVort), kvantizanto (PIV2). <aut>MB</aut>
+      </adm>
+      <trdgrp lng="de">
+        <trd>Proposition</trd>,
+        <trd>Hilfssatz</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>proposition</trd>,
+        <trd>statement</trd>
+      </trdgrp>
+      <trd lng="hu">&aacute;ll&iacute;t&aacute;s</trd>
+      <trd lng="pl">zdanie</trd>
+      <trdgrp lng="ru">
+        <trd>&c_v;&c_y;&c_s;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
+        <trd>&c_p;&c_r;&c_o;&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_ja;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="propoz.0o.teoremo">
+      <fnt><bib>PIV1</bib></fnt>
+      <uzo tip="stl">EVI</uzo>
+      <dif>
+        <tld lit="P"/>o <sncref ref="propoz.0o.aserto"/>, kiun oni
+        proponas
+        al si demonstri.
+      </dif>
+      <rim>
+        Tiu iom fakul&jcirc;argona uzo ne plu aperas en
+        <fnt><bib>PIV2</bib></fnt>.
+      </rim>
+    </subsnc>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_k;&c_a;&c_z;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_m;&c_a;&c_t;.)</klr></trd>,
+      <trd>&c_s;&c_mol;&c_c;&c_v;&c_ja;&c_r;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_m;&c_a;&c_t;.)</klr></trd>
+    </trdgrp>
+    <trd lng="fr">proposition<klr tip="ind"> (math.)</klr></trd>
+    <trd lng="hu">t&eacute;tel</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>tvrzen&iacute;</trd>,
+    <trd>v&yacute;rok</trd>,
+    <trd>v&yacute;znamov&aacute; str&aacute;nka v&ecaron;ty</trd>,
+    <trd>v&ecaron;ta</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7BC0;  <pr>&#x305B;&#12385;</pr></trd>,
+    <trd>&#x547D;&#x984C;  <pr>&#12417;&#12356;&#12384;&#12356;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>tvrdenie</trd>,
+    <trd>veta</trd>,
+    <trd>v&yacute;rok</trd>
+  </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+</drv>
+
+<drv mrk="propoz.demanda0o">
+  <kap>demanda <tld/>o <fnt><bib>PAG</bib></fnt></kap>
+  <snc>
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <ref cel="propoz.0o.GRA"><tld lit="P"/>o<sncref/></ref>
+      esprimanta demandon:
+      <ekz>
+        Post la demandaj <tld/>oj sekvas demandosigno
+        <fnt><bib>PAG</bib>, <lok>&para;217</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_y;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_s;&c_k;&c_a;&c_z;</ind></trd>
+  <trd lng="en">interrogative sentence</trd>
+  <trd lng="ru">&c_v;&c_o;&c_p;&c_r;&c_o;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+</drv>
+
+<drv mrk="propoz.ekkria0o">
+  <kap>ekkria <tld/>o <fnt><bib>PAG</bib></fnt></kap>
+  <snc>
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <ref cel="propoz.0o.GRA"><tld lit="P"/>o<sncref/></ref>
+      esprimanta emocion a&ubreve; surprizon:
+      <ekz>
+        Post ekkria <tld/>o oni metas krisignon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_l;&c_ib;&c_ch;&c_n;&c_y; <ind>&c_s;&c_k;&c_a;&c_z;</ind></trd>
+  <trd lng="en">exclamative sentence</trd>
+  <trd lng="ru">&c_v;&c_o;&c_s;&c_k;&c_l;&c_i;&c_c;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+</drv>
+
+<drv mrk="propoz.indika0o">
+  <kap>indika <tld/>o <fnt><bib>PAG</bib></fnt></kap>
+  <snc>
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <ref cel="propoz.0o.GRA"><tld lit="P"/>o<sncref/></ref>
+      per kiu oni rakontas, informas, asertas:
+      <ekz>
+        la predikato de indika <tld/>o plej ofte staras en
+        <ref cel="indika.0o">indikativo</ref>;
+      </ekz><ekz>
+        la predikato de tiu indika <tld/>o estas
+        <ref cel="kondic.0o">kondicionala</ref>, &ccirc;ar &gcirc;i
+        esprimas supozon;
+      </ekz><ekz>
+        Post la indika <tld/>o oni metas punkton
+        <fnt><bib>PAG</bib>, <lok>&para;214</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_s;&c_k;&c_a;&c_z;</ind></trd>
+  <trd lng="en">declarative sentence</trd>
+  <trd lng="ru">&c_p;&c_o;&c_v;&c_je;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/31 09:27:19
+Dmitri Gabinski: + trd be
+
+versio 1.25 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.23 2023/04/23 08:29:30
+Paul Peeraerts: &Steloj -> monato.be
+
+versio 1.22 2023/04/03 03:27:36
+Sergio Pokrovskij: +precizigo de dif
+
+versio 1.21 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2022/01/24 07:28:56
+Dmitri Gabinski: + trd be
+
+versio 1.18 2021/01/11 06:10:49
+Sergio Pokrovskij: +demanda, ekkria, indika ~o
+
+Revision 1.16  2015/07/04 08:37:42  revo
+-->
+</vortaro>

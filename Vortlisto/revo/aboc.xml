@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: aboc.xml,v 1.42 2023/10/12 16:57:42 revo Exp $">
+<kap>
+  <rad>aboc</rad>/o
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="aboc.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="aboc.0o.alfabeto">
+    <dif>
+      <ref tip="dif" cel="a1.0BC">ABC</ref>, <ref tip="hom" cel="a1.0BC">a&middot;bo&middot;co</ref>:
+      <ekz>
+        sur la monumento estas <tld/>e enskribitaj 50 familiaj nomoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2012/010407.php">Filantropa pomo</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_l;&c_mol;&c_f;&c_a;&c_b;&c_e;&c_t;</trd>,
+      <trd>&c_a;&c_z;&c_b;&c_u;&c_k;&c_a;</trd>,
+      <trd>&c_a;&c_b;&c_e;&c_c;&c_e;&c_d;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>abec&eacute;</trd>,
+      <trd>abecedari</trd>
+    </trdgrp>
+    <trd lng="da">abc</trd>
+    <trdgrp lng="de">
+      <trd>Abc</trd>,
+      <trd>Alfabet</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>ABC's</trd>,
+      <trd>alphabet</trd>
+    </trdgrp>
+    <trd lng="es">abecedario</trd>
+    <trd lng="fa">&a_A;&a_l;&a_f;&a_b;&a_A;</trd>
+    <trd lng="fr">alphabet</trd>
+    <trd lng="hr">abeceda</trd>
+    <trd lng="hu">&aacute;b&eacute;c&eacute;</trd>
+    <trd lng="nl">alfabet</trd>
+    <trdgrp lng="oc">
+      <trd>abec&eacute;</trd>,
+      <trd>abecedari</trd>,
+      <trd>be&ccedil;ar&ograve;las</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+     <trd>abecad&lstroke;o</trd>,
+     <trd>alfabet</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>alfabeto</trd>,
+      <trd>abeced&aacute;rio</trd>
+    </trdgrp>
+    <trd lng="ro">alfabet</trd>
+    <trd lng="ru">&c_a;&c_l;&c_f;&c_a;&c_v;&c_i;&c_t;</trd>
+    <trd lng="sk">abeceda</trd>
+    <trd lng="sl">abeceda</trd>
+    <trd lng="sv">alfabet</trd>
+    <trdgrp lng="th">
+      <trd>&#xE15;&#xE31;&#xE27;&#xE2D;&#xE31;&#xE01;&#xE29;&#xE23;
+      (&#xE2B;&#xE25;&#xE32;&#xE22;&#xE15;&#xE31;&#xE27;)</trd>,
+      <trd>&#xE0A;&#xE38;&#xE14;&#xE15;&#xE31;&#xE27;&#xE2D;&#xE31;&#xE01;&#xE29;&#xE23;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30EB;&#x30D5;&#x30A1;&#x30D9;&#x30C3;&#x30C8; </trd>,
+    <trd>&#x521D;&#x6B69;  <pr>&#12375;&#12423;&#x307B;</pr></trd>,
+    <trd>&#x57FA;&#x672C;  <pr>&#x304D;&#x307B;&#12435;</pr></trd>,
+    <trd>&#x30A4;&#x30ED;&#x30CF;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.42 2023/10/12 16:57:42
+revo: transskribo per <pr>
+
+versio 1.41 2023/08/27 17:27:17
+Wolfram Diestel: ja: -prononco
+
+versio 1.39 2023/04/10 18:22:01
+aktualigo Monato-URL
+
+versio 1.38 2023/02/10 13:35:02
+Wolfram Diestel: ref-hom
+
+versio 1.37 2023/02/07 18:33:28
+Wolfram Diestel: kor. ref-cel
+
+versio 1.36 2023/02/05 18:30:59
+Wolfram Diestel: movis snc 2,3 al ABC/a-bo-co
+
+versio 1.35 2023/02/05 17:24:25
+Wolfram Diestel: dif-ref ABC
+
+versio 1.34 2023/01/30 06:34:01
+-->
+</vortaro>

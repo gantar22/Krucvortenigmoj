@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: situ.xml,v 1.25 2023/11/23 15:27:45 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>situ</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="situ.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="situ.0o.KOMUNE">
+    <dif>
+      Maniero la&ubreve; kiu io estas lokita rilate al la &ccirc;irka&ubreve;aj objektoj;
+      <ref tip="sin" cel="situac.0o.situo">situacio<sncref/></ref>:
+      <ekz>
+        la&ubreve; sia geografia <tld/>o <klr>[la provinco]</klr> estas konsiderata tropika
+        regiono
+        <fnt>
+          <aut>Hose Marques</aut>
+            <vrk><url ref="&Monato;/2000/007055.php">Voja&gcirc;o al la provinco Tukumano</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 22</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        pro specifaj <tld/>o kaj klimato tie formi&gcirc;is mirindaj vidinda&jcirc;oj, konsistantaj
+        el komplika geomorfologia strukturo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2007/009268.php">Favore al turismo</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni &jcirc;etas rapidan rigardon al la <tld/>o kaj historio de Roterdamo por poste
+        sekvi la pa&scirc;ojn de litova belulino
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Reinaldo Marcelo Ferreira</aut>
+          <vrk><url ref="&Monato;/2007/009077.php">La movada koro sur
+          viddisko</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aplika&jcirc;o <klr>[&#8230;]</klr> por montri sur la mapo la <tld/>on de &ccirc;iu luota hejmo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2007/009123.php">Reto 2.0</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <refgrp tip="vid">
+    <ref cel="lok.0o">loko</ref>,
+    <ref cel="pozici.0o">pozicio</ref>
+  </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>lokalizace</trd>,
+    <trd>m&iacute;sto</trd>,
+    <trd>poloha</trd>,
+    <trd>um&iacute;st&ecaron;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Lage</trd>
+  <trd lng="en">site</trd>
+  <trdgrp lng="es">
+    <trd>localizaci&oacute;n<klr> (lugar)</klr></trd>,
+    <trd>situaci&oacute;n<klr> (lugar)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>localisation<klr> (lieu)</klr></trd>,
+    <trd>situation<klr> (lieu)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>helyzet</trd>,
+    <trd>fekv&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F4D;&#x7F6E;  <pr>&#12356;&#12385;</pr></trd>,
+    <trd>&#22580;&#25152;  <pr>&#12400;&#12375;&#12423;</pr></trd>,
+    <trd>&#x7ACB;&#22320;  <pr>&#x308A;&#12387;&#12385;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">ligging</trd>
+  <trd lng="pl">po&lstroke;o&zdot;enie geograficzne</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>lokaliz&aacute;cia</trd>,
+    <trd>poloha</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43B;&#x43E;&c_zh;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_t;&c_a;&c_sh;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43C;&c_ib;&c_shch;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="situ.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="situ.0i.KOMUNE">
+    <dif>
+      Esti en difinita geografia loko:
+      <ekz>
+        la dometo <tld/>as du kilometrojn de la stacio
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la dometo <tld/>is en senbrua, kampara regiono
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ru&gcirc;aj papavoj diskutis kun la vento sur la alte <tld/>anta kampo
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        du nelumigitaj benkoj, <tld/>antaj unu kontra&ubreve; la alia
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="etend.0igxi">etendi&gcirc;i</ref>,
+      <ref cel="kusx.0i.okupi_lokon">ku&scirc;i<sncref/></ref>,
+      <ref cel="sid.0i.senmova">sidi<sncref/></ref>,
+      <ref cel="star.0i.kusxi">stari<sncref/></ref>,
+      <ref cel="trov.0igxi.ie">trovi&gcirc;i<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <klr>(&c_u; &c_p;&c_e;&c_w;&c_n;&c_y;&c_m; &c_m;&c_je;&c_s;&c_c;&c_y;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>liegen<klr> (geographisch)</klr></trd>,
+    <trd>befinden (sich)<klr> (&ouml;rtlich)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">&ecirc;tre situ&eacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4F4D;&#x7F6E;&#12377;&#x308B;  <pr>&#12356;&#12385;&#12377;&#x308B;</pr></trd>,
+    <trd>&#22580;&#25152;&#x306B;&#12354;&#x308B;  <pr>&#12400;&#12375;&#12423;&#x306B;&#12354;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>po&lstroke;o&zdot;onym by&cacute;</trd>,
+    <trd>znajdowa&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_r;&#x43E;&c_z;&c_t;&c_a;&c_sh;&#x43E;&c_v;&c_a;&#x43D;&c_i;&#x43C;</trd>,
+    <trd>&#x43C;&c_ib;&c_s;&c_t;&c_i;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/11/23 15:27:45
+Dmitri Gabinski: + trd be
+
+versio 1.24 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.22 2023/09/02 21:21:30
+Vito Redsky: +trd pl
+
+versio 1.21 2023/05/01 14:27:32
+Paul Peeraerts: Steloj -> monato
+
+versio 1.20 2022/05/05 05:09:57
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2022/04/22 14:35:11
+Ulrich Fellmann: situi: +1 DE trd
+
+versio 1.17 2021/09/14 06:33:09
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.15  2015/07/04 08:37:43  revo
+-->
+</vortaro>

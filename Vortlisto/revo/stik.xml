@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: stik.xml,v 1.11 2023/10/24 21:22:57 revo Exp $">
+<kap>
+  <rad>stik</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="stik.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="stik.0i.HOR">
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      <ref tip="super" cel="klon.0i.BIO">Kloni</ref>
+      vegeta&jcirc;on, radikigante el&scirc;iritan parton de &gcirc;i:
+      <ekz>
+        por savi aliajn <klr>[rozarbustojn]</klr> mi provas
+        <tld/>i - planti tran&ccirc;etojn en la grundon en majo
+        a&ubreve; frua vintro
+        <fnt>
+          <aut>M. Furness</aut>,
+          <vrk>Mia Nova &Scirc;atokupo: Savado de Malnovaj Rozoj</vrk>,
+          <lok><url ref="http://www.gazetejo.org/system/files/gazetoj/In0802.pdf">
+          Inter ni, 2008-02 (262)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="markot.0i.HOR">markoti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_ch;&c_a;&c_r;&c_a;&c_n;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">plantar esqueixos</trd>
+  <trd lng="cs">&rcaron;&iacute;zkovat</trd>
+  <trd lng="de">Steckling pflanzen</trd>
+  <trdgrp lng="en">
+    <trd>to take a cutting</trd>,
+    <trd>strike</trd>
+  </trdgrp>
+  <trd lng="fr">bouturer</trd>
+  <trd lng="ja">&#x633F;&#12375;&#26408;&#12377;&#x308B;  <pr>&#12373;&#12375;&#x304D;&#12377;&#x308B;</pr></trd>
+  <trd lng="pl">sadzonkowa&cacute;</trd>
+  <trd lng="sk">pch&aacute;&ccaron;kova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_i;&c_v;&c_c;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43C;&#x43D;&#x43E;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i; &c_ch;&c_je;&c_r;&c_je;&c_sh;&#x43A;&c_a;&#x43C;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stik.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="stik.0ajxo.HOR">
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      Plantido ricevita per <tld/>ado:
+      <ekz>
+        la vivo de planto komenci&gcirc;as per semo en la grundo
+        &mdash; se oni preteratentas la vegetativan reprodukti&gcirc;on,
+        ekzemple per <tld/>a&jcirc;o
+        <fnt>
+          <aut>W. F. Rolt</aut>,
+          <vrk>El la Polvo de la Tero</vrk>,
+          <lok>1967</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ch;&c_a;&c_r;&c_a;&c_n;&c_o;&c_k;</trd>
+  <trd lng="ca">esqueix</trd>
+  <trd lng="de">Steckling</trd>
+  <trd lng="en">cutting</trd>
+  <trd lng="fr">bouture</trd>
+  <trd lng="ja">&#x633F;&#12375;&#26408;  <pr>&#12373;&#12375;&#x304D;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>sadzonka</trd>,
+    <trd>flanca</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_je;&c_r;&c_je;&c_sh;&#x43E;&#x43A;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_s;&c_a;&c_d;&#x43E;&#x43A;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_g;&c_ib;&#x43B;&#x43E;&#x43A;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.11 2023/10/24 21:22:57
+Vito Redsky: +trd pl 
+
+versio 1.10 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.8 2023/01/06 08:33:30
+Dmitri Gabinski: + trd be
+
+Revision 1.5  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2012/01/01 23:10:18  revo
+Marc Rausell: +trd ca
+
+Revision 1.2  2011/11/14 11:10:08  revo
+Wieland Pusch: +trd de
+
+Revision 1.1  2011/11/13 21:10:10  revo
+-->
+</vortaro>

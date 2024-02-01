@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: manipu.xml,v 1.22 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>manipul</rad>/i
+</kap>
+<drv mrk="manipu.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="manipu.0i.KOMUNE">
+    <dif>
+      Mane preni, <ref tip="super" cel="uz.0i">uzi</ref>, funkciigi ilon, aparaton:
+      <ekz>
+        <nom>Marta</nom> plue kun granda atento rigardis la <tld/>adon de vendado kaj a&ccirc;etado, kiu
+        havis lokon &ccirc;e amba&ubreve; flankoj de la longa tablo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        homoj <tld/>is kun nekonata celo ar&gcirc;entkolorajn ma&scirc;inojn
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        miaj fingroj hezite <tld/>is per la tran&ccirc;ilo
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la subhejtisto <klr>[&#x2026;]</klr> montris al mi kiel <tld/>i la
+        vin&ccirc;on
+        <fnt><bib>Mortul&Scirc;ip</bib>, <lok>dua libro, &ccirc;apitro
+        28a</lok></fnt>;
+      </ekz>
+      <ekz>
+        per facila <tld/>ado li kungluis preska&ubreve; &jcirc;ongle pecojn de porcelano kaj fajenco
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        artefarita lingvo estas ia teknikilo, kies <tld/>ado kaj aplikado postulas tute
+        apartajn zorgojn
+        <fnt>
+          <bib>Lanti</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>bedienen</trd>,
+      <trd>handhaben</trd>,
+      <trd>mit den Fingern <ind>spielen</ind></trd>
+    </trdgrp>
+    <trd lng="en">manipulate</trd>
+    <trd lng="es">manipular</trd>
+    <trd lng="hu">kezel</trd>
+    <trdgrp lng="nl">
+      <trd>hanteren</trd>,
+      <trd>manipuleren</trd>
+    </trdgrp>
+    <trd lng="pt">manipular</trd>
+  </snc>
+  <snc mrk="manipu.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ka&scirc;e modifi, influi konforme al sia propra celo:
+      <ekz>
+        malproksime de la re&gcirc;urbo <klr>[&#x2026;]</klr> oni ofte ankora&ubreve; <tld/>adis kun la le&gcirc;o arbitre
+        <fnt><bib>Fab4</bib>, <lok>historio el la dunoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        kelkafoje li rigardis la banklibron kaj trovis, ke la elprenoj estas iom altaj,
+        <klr>[sed]</klr> pri la <tld/>etoj de <nom>Selma</nom> li tute ne havis imagon
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi eksciis, ke oni kontrolas viajn financajn <tld/>adojn
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ne scias, kiel ili estis <tld/>itaj, ke &scirc;i ne vidis la okulfrapan difekton
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        unu kun nestabila psiko <klr>[&#x2026;]</klr> li per lerta psika <tld/>ado iom post iom
+        kondukos al krima fajrigo
+        <fnt>
+          <bib>ChC</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia popolo ne &scirc;atas esti <tld/>ata
+        <klr>(per <ref cel="propag.0o">propagando</ref>)</klr>
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="manovr.0i">manovri</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="influ.0i">influi</ref>,
+      <ref cel="korupt.0i">korupti</ref>,
+      <ref cel="kompro1.0i">kompromiti</ref>,
+      <ref cel="lobi.0i">lobii</ref>,
+      <ref cel="acxet.sub0i">suba&ccirc;eti</ref>
+    </refgrp>
+    <trd lng="de">manipulieren <klr>(beeinflussen)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>kezel</trd>,
+      <trd>manipul&aacute;l</trd>
+    </trdgrp>
+    <trd lng="nl">omgaan met</trd>
+    <trd lng="pt">manipular</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_ib;&c_p;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">embreger</trd>
+  <trd lng="ca">manipular</trd>
+  <trdgrp lng="cs">
+    <trd>manipulovat</trd>,
+    <trd>ovl&aacute;dat n&ecaron;co</trd>,
+    <trd>signalizovat telegrafn&iacute;m kl&iacute;&ccaron;em</trd>,
+    <trd>&ccaron;achrovat</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>handle</trd>,
+    <trd>manage</trd>,
+    <trd>use</trd>
+  </trdgrp>
+  <trd lng="fr">manipuler</trd>
+  <trdgrp lng="ja">
+    <trd>&#x64CD;&#x4F5C;&#x3059;&#x308B;  <pr>&#x305D;&#x3046;&#x3055;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x64CD;&#x7E26;&#x3059;&#x308B;  <pr>&#x305D;&#x3046;&#x3058;&#x3085;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6271;&#x3046;  <pr>&#x3042;&#x3064;&#x304B;&#x3046;</pr></trd>,
+    <trd>&#x3042;&#x3084;&#x3064;&#x308B;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>manipulowa&cacute;</trd>,
+    <trd>obchodzi&cacute; si&eogonek;</trd>,
+    <trd>w&lstroke;ada&cacute;</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>manipula</trd>,
+    <trd>trata</trd>,
+    <trd>guverna</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_a;&c_n;&c_i;&c_p;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>manipulova&tcaron;</trd>,
+    <trd>nar&aacute;ba&tcaron;</trd>,
+    <trd>zaobch&aacute;dza&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x430;&#x43D;&#x456;&#x43F;&#x443;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x432;&#x438;&#x441;&#x442;&#x443;&#x43A;&#x443;&#x432;&#x430;&#x442;&#x438; &#x442;&#x435;&#x43B;&#x435;&#x433;&#x440;&#x430;&#x444;&#x43D;&#x438;&#x43C; &#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43C;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.19 2021/08/31 17:32:43
+Wolfram Diestel: ekz-oj, dif-vortigo, ref-oj, trd de
+
+versio 1.18 2020/06/23 21:10:54
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.16  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/03/09 02:10:19  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.14  2012/08/19 12:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2010/04/16 16:30:59  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/07/29 16:32:56  revo
+-->
+</vortaro>

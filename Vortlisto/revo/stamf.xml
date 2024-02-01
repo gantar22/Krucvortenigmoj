@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: stamf.xml,v 1.15 2023/10/21 07:46:48 revo Exp $">
+<kap>
+   <rad>stamf</rad>/i <fnt><bib>PIV1</bib></fnt>,
+   <var><kap><rad var="p">stampf</rad>/i <fnt><bib>PV</bib></fnt></kap></var>
+</kap>
+<drv mrk="stamf.0i">
+   <kap><tld/>i,
+   <var><kap><tld var="p"/>i</kap></var>
+   </kap>
+   <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Senpacience piedfrapadi, danceti:
+      <ekz>
+         la nigraj kavaliroj de <nom>Voland</nom>, rajdantaj du ardajn,
+         <tld/>antajn
+         &ccirc;evalojn<fnt><bib>MkM</bib>, <lok>&ccirc;apitro 22a, p.
+         222a</lok></fnt>;
+      </ekz>
+      <ekz>
+        li vipis la &ccirc;evalon, ke &gcirc;i levis sin kaj <tld var="p"/>is
+        <fnt>
+          <aut>Selma Lagerl&ouml;f, trad. Stellan Engholm</aut>
+          <vrk><url ref="https://epdf.tips/la-mono-de-sinjoro-arne.html">La Mono de Sinjoro Arne</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fremdulo komencis <tld var="p"/>i tien-reen
+        <fnt>
+          <aut>John Collier, trad. Reto Rossetti</aut>
+          <vrk><url ref="&DonH;Revuoj/np/np5703/mono.html">Sor&ccirc;ita mono</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="tang.0i">tangi</ref>,
+      <ref cel="tret.0i">treti</ref>
+    </refgrp>
+  </snc>
+   <trd lng="be">&c_b;&c_ib;&c_c;&c_mol;
+   <ind>&c_k;&c_a;&c_p;&c_y;&c_t;&c_a;&c_m;&c_ib;</ind></trd>
+   <trd lng="de">stampfen</trd>
+   <trdgrp lng="en">
+     <trd>to stomp</trd>,
+     <trd>stamp</trd>, <trd>pound feet</trd>
+   </trdgrp>
+   <trdgrp lng="fr">
+     <trd>piaffer</trd>,
+     <trd>taper du pied</trd>,
+     <trd>tr&eacute;pigner</trd>
+   </trdgrp>
+  <trdgrp lng="hu">
+    <trd>r&uacute;gkap&aacute;l</trd>,
+    <trd>toporz&eacute;kol</trd>
+  </trdgrp>
+   <trdgrp lng="ja">
+    <trd>&#x5730;&#x56E3;&#x99C4;&#x3092;&#x8E0F;&#x3080;  <pr>&#x3058;&#x3060;&#x3093;&#x3060;&#x3092;&#x3075;&#x3080;</pr></trd>,
+    <trd>&#x8DB3;&#x3092;&#x8E0F;&#x307F;&#x9CF4;&#x3089;&#x3059;  <pr>&#x3042;&#x3057;&#x3092;&#x3075;&#x307F;&#x306A;&#x3089;&#x3059;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+     <trd>stampvoeten</trd>,
+     <trd>trappelen</trd>
+   </trdgrp>
+   <trdgrp lng="pl">
+     <trd>przest&eogonek;powa&cacute; z nogi na nog&eogonek;</trd>,
+     <trd>tupa&cacute;</trd>,
+     <trd>przytupywa&cacute;</trd>,
+     <trd>grzeba&cacute; kopytem<klr tip="ind"> (np. o koniu)</klr></trd>
+   </trdgrp>
+   <trd lng="ru">&c_b;&c_i;&c_t;&c_mol; &c_k;&c_o;&c_p;&c_y;&c_t;&c_a;&c_m;&c_i;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x440;&#x438;&#x43A;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x431;&#x438;&#x442;&#x438; &#x43A;&#x43E;&#x43F;&#x438;&#x442;&#x430;&#x43C;&#x438;</trd>,
+    <trd>&#x442;&#x443;&#x43F;&#x430;&#x442;&#x438; &#x43D;&#x43E;&#x433;&#x43E;&#x44E;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stamf.0ado">
+   <kap><tld/>ado</kap>
+   <snc>
+     <dif>
+       Senpacienca surloka piedfrapado:
+       <ekz>
+         liaj piedoj preska&ubreve; rompi&gcirc;is pro <tld/>ado
+         <fnt><bib>RugxDom</bib> <lok>&ccirc;apitro 69a, p. 468a</lok></fnt>.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="cs">dupot <klr>(zvl. kon&ecaron;)</klr></trd>
+  <trd lng="de">Stampfen</trd>
+  <trd lng="en">stomping</trd>
+  <trdgrp lng="fr">
+     <trd>battement de pieds</trd>,
+     <trd>tr&eacute;pignement</trd>
+   </trdgrp>
+  <trdgrp lng="hu">
+     <trd>r&uacute;gkap&aacute;l&aacute;s</trd>,
+     <trd>toporz&eacute;kol&aacute;s</trd>
+   </trdgrp>
+  <trdgrp lng="pl">
+     <trd>przytupywanie</trd>,
+     <trd>grzebanie kopytem<klr tip="ind"> (np. o koniu)</klr></trd>
+   </trdgrp>
+  <trd lng="sk">dupot</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.15 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.13 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.11 2021/04/22 13:09:57
+Wolfram Diestel: +ref
+
+versio 1.10 2020/09/07 06:10:48
+Wolfram Diestel: +tld-var
+
+Revision 1.8  2015/12/07 14:10:14  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.7  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2014/09/24 08:10:23  revo
+-->
+</vortaro>

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: skadr.xml,v 1.21 2023/10/21 07:46:47 revo Exp $">
+<kap>
+  <ofc>*</ofc> <rad>skadr</rad>/o <fnt><bib>PV</bib></fnt>,
+  <var><kap><rad var="on">skadron</rad>/o <fnt><bib>Far3</bib></fnt></kap></var>,
+  <var><kap><rad var="e">eskadron</rad>/o <fnt><bib>Revizoro</bib></fnt></kap></var>
+</kap>
+<drv mrk="skadr.0o">
+  <kap><ofc>*</ofc><tld/>o,
+  <var><kap><tld var="on"/>o</kap></var>,
+  <var><kap><tld var="e"/>o</kap></var>
+  </kap>
+  <snc mrk="skadr.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Parto de kavaleria <ref tip="malprt" cel="regime.0o">regimento</ref>
+      komandata de oficiro havanta rangon
+      inter kapitano kaj subkolonelo:
+      <ekz>
+        pretergalopis <tld/>o de rajdistoj, armitaj per lancoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mem la re&gcirc;o volis, kun obstina spito, /
+        rajdi kun la <tld/>o, lukti en milito
+        <fnt>
+          <aut>S. Pet&odblac;fi, trad. K. Kalocsay</aut>,
+          <vrk>Johano la brava</vrk>,
+          <lok>1984</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;irka&ubreve; la palaco staris garde Azianoj, kaj apud la &ccirc;ambroj de lia sankteco la
+        <tld var="on"/>o, kiu kun <nom>Ramzes</nom> persekutis <nom>Tehennan</nom> en la dezerto
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kial ni tie &ccirc;i estas kvaza&ubreve; tuta <tld var="e"/>o
+        <fnt><bib>Revizoro</bib>, <lok>akto 4a, sceno 1a</lok></fnt>?
+      </ekz>
+    </dif>
+    <rim num="1">
+      Oni uzu la fundamentan formon &leftquot;<tld/>o&rightquot; kaj evitu la aliajn varia&jcirc;ojn.
+    </rim>
+    <rim num="2">
+      Ne konfuzu kun <ref cel="eskadr.0o">eskadro</ref>, kiu konsistas el &scirc;ipoj a&ubreve; aviadiloj.
+    </rim>
+  </snc>
+  <trd lng="be">&c_e;&c_s;&c_k;&c_a;&c_d;&c_r;&c_o;&c_n;</trd>
+  <trd lng="bg">&c_je;&c_s;&c_k;&c_a;&c_d;&c_r;&c_i;&c_l;&c_a;</trd>
+  <trd lng="ca">esquadr&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>eskadra</trd>,
+    <trd>eskadrona</trd>,
+    <trd>j&iacute;zdn&iacute; rota</trd>,
+    <trd>skadrona</trd>
+  </trdgrp>
+  <trd lng="de">Schwadron</trd>
+  <trd lng="en">squadron</trd>
+  <trd lng="es">escuadr&oacute;n</trd>
+  <trd lng="fr">escadron</trd>
+  <trdgrp lng="hu">
+    <trd>lovassz&aacute;zad</trd>,
+    <trd>svadron</trd>
+  </trdgrp>
+  <trd lng="it">squadrone<klr> (caval.)</klr></trd>
+  <trd lng="ja">&#x9A0E;&#x5175;&#x4E2D;&#x968A;  <pr>&#x304D;&#x3078;&#x3044;&#x3061;&#x3085;&#x3046;&#x305F;&#x3044;</pr></trd>
+  <trd lng="kk">&c_e;&c_s;&c_k;&c_a;&c_d;&c_r;&c_o;&c_n;</trd>
+  <trd lng="nl">eskadron</trd>
+  <trdgrp lng="pl">
+    <trd>eskadra</trd>,
+    <trd>szwadron</trd>
+  </trdgrp>
+  <trd lng="pt">esquadr&atilde;o</trd>
+  <trd lng="ru">&c_e;&c_s;&c_k;&c_a;&c_d;&c_r;&c_o;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>eskadra</trd>,
+    <trd>eskadr&oacute;na</trd>,
+    <trd>jazdn&aacute; rota</trd>
+  </trdgrp>
+  <trd lng="uk">&#x435;&#x441;&#x43A;&#x430;&#x434;&#x440;&#x43E;&#x43D;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.18 2021/11/07 17:34:54
+Dmitri Gabinski: + trd kk
+
+versio 1.17 2020/09/07 07:10:36
+Wolfram Diestel: +tld-var
+
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2014/10/16 20:10:27  revo
+Jeromo Vasxe: dif cxe fundam. formo, ref sin, ekz
+
+Revision 1.12  2014/01/24 16:10:17  revo
+Joop Eggen: +trd bg
+
+Revision 1.11  2009/08/12 16:30:40  revo
+-->
+</vortaro>

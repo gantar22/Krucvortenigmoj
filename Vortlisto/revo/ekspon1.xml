@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ekspon1.xml,v 1.30 2023/11/07 19:22:36 revo Exp $">
+<kap>
+<rad>eksponencial</rad>/o
+</kap>
+<drv mrk="ekspon1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(kun <ref cel="baz.0o.logaritmo">bazo</ref> 
+      <frm am="a"><k>a</k></frm>)</klr>
+      Tia <ref cel="kontin3.0a.cxie">kontinua</ref> reela 
+      <ref tip="super" cel="funkci.0o.MAT">funkcio</ref>
+      <frm am="f"><k>f</k></frm>, ke
+      <frm am="f(x+y)=f(x)*f(y)"><k>f</k>(<k>x</k>+<k>y</k>) = 
+      <k>f</k>(<k>x</k>)&middot;<k>f</k>(<k>y</k>)</frm>
+      kaj <frm am="f(1)=a"><k>f</k>(1) = <k>a</k></frm>:
+      <ekz>
+        <tld/>on de <frm am="x"><k>x</k></frm> kun bazo <frm am="a"><k>a</k></frm> oni kutime signas per
+        <frm am="exp_a(x)">exp<sub><k>a</k></sub>(<k>x</k>)</frm>,
+        <frm am="&quot;eksp&quot;_a(x)">eksp<sub><k>a</k></sub>(<k>x</k>)</frm> 
+        a&ubreve; <frm am="a^x"><k>a</k><sup><k>x</k></sup></frm>; 
+      </ekz>
+      <ekz>
+        la&ubreve;difine, <tld/>o de sumo egalas al produto de <tld/>oj de la 
+        apartaj termoj, kaj <tld/>o de <frm>1</frm> egalas al la bazo;
+      </ekz>
+      <ekz>
+        <tld/>o egalas al sia <ref cel="deriv.0ajxo.MAT">deriva&jcirc;o</ref>,
+        dividita per la bazo;
+      </ekz>
+      <ekz>
+         <tld/>o de logaritmo de <frm am="x"><k>x</k></frm> egalas al 
+         <frm am="x"><k>x</k></frm>;
+      </ekz>
+      <ekz>
+        la <tld/>o de aritmetika <ref cel="progre1.0o">progresio</ref>
+        estas geometria progresio;
+      </ekz>
+      <ekz>
+        <ind><tld/>a</ind> kresko.
+        <trd lng="be">&c_e;&c_k;&c_s;&c_p;&c_a;&c_n;&c_e;&c_n;&c_t;&c_a;&c_v;&c_y;</trd>
+        <trd lng="ca">exponencial</trd>
+        <trd lng="de">exponentiell</trd>
+	<trd lng="es">crecimiento exponencial</trd>
+        <trd lng="fr">exponentiel<klr tip="ind"> (adj.)</klr></trd>
+        <trd lng="hu">exponenci&aacute;lis</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekspon2.0o.algebra">eksponento</ref>,
+      <ref cel="logari.0o">logaritmo</ref>...
+    </refgrp>
+    <rim>
+      Bricard <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt> uzas la
+      pli malpezan radikon <ctl>esponencialo</ctl>.
+      Eblas vastigi tiun funkcion al kompleksoj, uzante la identa&jcirc;on
+      <frm am="e^(x+i*y)=e^x(cos y+i*sin y)"><k>e</k><sup><k>x</k>+<k>i</k>&middot;<k>y</k></sup> =
+      <k>e</k><sup><k>x</k></sup>(cos<k>y</k> +
+      <k>i</k>&middot;sin<k>y</k>)</frm>, 
+      en kiu <frm am="e"><k>e</k></frm> estas la bazo de naturaj
+      logaritmoj.
+    </rim>
+  </snc>
+    <bld lok="../bld/f_eksponencialoj.svg" tip="svg"><tld/>oj
+      </bld>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_k;&c_s;&c_p;&c_a;&c_n;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_a;&c_z;&c_mol;&c_n;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_ja; <ind>&c_f;&c_u;&c_n;&c_k;&c_c;&c_y;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="ca">funci&oacute; <ind>exponencial</ind></trd>
+  <trd lng="de">Exponentialfunktion</trd>
+  <trdgrp lng="en">
+    <trd>exponential<klr tip="ind"> (to the base a)</klr></trd>,
+    <trd>exponential <ind>function</ind><klr tip="ind"> (to the base
+    a)</klr></trd>
+  </trdgrp>
+  <trd lng="es">exponencial</trd>
+  <trd lng="fr">exponentielle<klr tip="ind"> (subst., de base
+  a)</klr></trd>
+  <trd lng="hu">exponenci&aacute;lis<klr tip="ind"> (f&uuml;ggv&eacute;ny)</klr>&gt;</trd>
+  <trd lng="ja">&#x6307;&#x6570;&#x95A2;&#x6570;  <pr>&#x3057;&#x3059;&#x3046;&#x304B;&#x3093;&#x3059;&#x3046;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>funkcja wyk&lstroke;adnicza</trd>,
+    <trd>funkcja eksponencjalna</trd>
+</trdgrp>
+  <trd lng="pt">exponencial</trd>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_k;&c_s;&c_p;&c_o;&c_n;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;<klr tip="ind"> (&c_s;
+    &c_o;&c_s;&c_n;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;&c_m; a)</klr></trd>,
+    <trd>&c_p;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">exponenci&aacute;l</trd>
+  <trdgrp lng="cs">
+    <trd>exponenci&aacute;l</trd>,
+    <trd>exponenci&aacute;ln&iacute; funkce</trd>,
+    <trd>exponenci&aacute;ln&iacute; rovnice</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43A;&#x430;&#x437;&#x43E;&#x432;&#x430;</trd>,
+    <trd>&#x435;&#x43A;&#x441;&#x43F;&#x43E;&#x43D;&#x435;&#x43D;&#x446;&#x456;&#x430;&#x43B;&#x44C;&#x43D;&#x430; &#x444;&#x443;&#x43D;&#x43A;&#x446;&#x456;&#x44F;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x6307;&#x6570;&#x51FD;&#x6570; <pr>zh&#x1D0;sh&#xF9;h&#xE1;nsh&#xF9;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2023/10/14 15:34:42
+revo: transskribo per <pr>
+
+versio 1.26 2020/02/22 18:10:28
+Wolfram Diestel: svg anst. gif
+
+Revision 1.25  2020/02/14 14:10:17  revo
+Wolfram Diestel: formuloj per am
+
+Revision 1.24  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2012/09/05 09:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.21  2010/01/19 17:30:28  revo
+Mireille Corobu: + bld de Marc Bavant
+
+Revision 1.20  2007/06/23 16:31:02  revo
+-->
+</vortaro>

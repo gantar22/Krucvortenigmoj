@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: spekta.xml,v 1.29 2023/10/21 07:46:48 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>spektakl</rad>/o <fnt><bib>FK</bib></fnt>
+</kap>
+<drv mrk="spekta.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="spekta.0o.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      <ref tip="dif" cel="spekt.0ajxo">Spekta&jcirc;o</ref>:
+      <ekz>
+        artistoj ludas koncertojn, oni donas <tld/>ojn, oni entreprenas procesiojn
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni devis plifruigi la halton, dismeti la tendojn kaj aran&gcirc;i <tld/>on kaj poste
+        festenon
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por ni, sekve, la milito estas nur kinofilmoj, <tld/>oj, libroj
+        <fnt><aut>Nina Langlet</aut>: <vrk>Kaoso en
+        Budape&scirc;to</vrk>, <bib>Monato</bib><lok>jaro 2001a, numero 12a, p.
+        26a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Auff&uuml;hrung</trd>,
+      <trd>Vorf&uuml;hrung</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>el&odblac;ad&aacute;s</trd>,
+      <trd>bemutat&oacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="spekta.0o.evento">
+    <dif>
+      &Ccirc;ia <ref tip="super" cel="vid.0ajxo">vida&jcirc;o</ref>, kiu altiras atenton kaj intereson:
+      <ekz>
+        Jesuo diris: Patro, en Viajn manojn mi transdonas mian spiriton kaj tion
+        dirinte, li ellasis for la spiriton, kaj &ccirc;iuj homamasoj, kiuj kunvenis al &ccirc;i
+        tiu <tld/>o, kiam ili vidis la okazinta&jcirc;ojn, reiris, frapante al si la bruston
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 23:48</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tuta urbo eliris, por vidi la <tld/>on, <klr>[okazis]</klr> la preti&gcirc;ado por
+        la estonta ekzekuto
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel longe ankora&ubreve; tiu malnova doma&ccirc;o staros &ccirc;i tie &ccirc;e la strato kiel <tld/>o
+        por &ccirc;iuj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova domo</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Spektakel</trd>,
+      <trd>&ouml;ffentliches Ereignis</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>l&aacute;tv&aacute;nyoss&aacute;g</trd>,
+      <trd>show</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_e;&c_k;&c_t;&c_a;&c_k;&c_a;&c_l;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>,
+    <trd>&c_sh;&c_o;&c_w;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pod&iacute;van&aacute;</trd>,
+    <trd>p&rcaron;edstaven&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>spectacle</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x4E16;&#29289;  <pr>&#x307F;&#x305B;&#12418;&#x306E;</pr></trd>,
+    <trd>&#33288;&#x884C;  <pr>&#12371;&#12358;&#x304E;&#12423;&#12358;</pr></trd>,
+    <trd>&#x30B7;&#x30E7;&#x30FC;  <pr>&#12375;&#12423;&#x30FC;</pr></trd>,
+    <trd>&#x898B;&#12418;&#x306E;  <pr>&#x307F;&#12418;&#x306E;</pr></trd>,
+    <trd>&#x30B9;&#x30DA;&#x30AF;&#x30BF;&#x30AF;&#x30EB;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>schouwspel</trd>,
+    <trd>spektakel</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>przedstawienie</trd>,
+    <trd>spektakl</trd>,
+    <trd>wyst&eogonek;p</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_p;&c_je;&c_k;&c_t;&c_a;&c_k;&c_l;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_s;&c_t;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_z;&c_r;&c_je;&c_l;&c_i;&c_shch;&c_je;</trd>,
+    <trd>&c_sh;&c_o;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>predstavenie <klr>(v cirkuse, kine, divadle ap.)</klr></trd>,
+    <trd>predstavenie <klr>(v cirkuse| kine| divadle ap.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43F;&c_je;&#x43A;&c_t;&c_a;&#x43A;&#x43B;&#x44C;</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_t;&c_a;&c_v;&c_a;</trd>,
+    <trd>&c_v;&c_i;&c_d;&#x43E;&c_v;&c_i;&c_shch;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="spekta.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="spekta.0a.TEA">
+    <dif>
+      Rilata al spekta&jcirc;o:
+      <ekz>
+        en 1844, 19-jara <nom>Johann Strauss</nom>-filo faris sian <tld/>an debuton
+        kiel muzikisto
+        <fnt><aut>Evgeni Georgiev</aut>: <vrk>Jubileo de
+        valsre&gcirc;o</vrk>, <bib>Monato</bib><lok>jaro 1999a, numero 9a, p.
+        22a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la ekspozicio prezentis fotojn kaj afi&scirc;ojn de <tld/>aj aktiva&jcirc;oj de la bone
+        konata geedza paro, kiu internacie fami&gcirc;is pro vualado de gigantaj objektoj
+        per artefaritaj teksa&jcirc;oj
+        <fnt>
+       <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2000/007013.php">Ekspozicio de famaj artistoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/07, p. 15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_c;&c_e;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>
+    <trdgrp lng="hu">
+      <trd>el&odblac;ad&oacute;</trd>,
+      <trd>bemutat&oacute;</trd>
+    </trdgrp>
+    <trd lng="pl">zwi&aogonek;zany z  <ind>przedstawieniem</ind></trd>
+    <trd lng="ru">&c_s;&c_c;&c_je;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  </snc>
+  <snc mrk="spekta.0a.eventa">
+    <dif>
+      Spektinda, <ref tip="sin" cel="impres.0a">impresa</ref>:
+      <ekz>
+        la plej <tld/>a konservativa kolapso de la jarcento anka&ubreve; rekorde
+        enparlamentigis virinojn &dash; pli ol 100
+        <fnt><aut>Paul Gubbins</aut>:
+        <vrk>Velura revolucio</vrk>, <bib>Monato</bib><lok>jaro 1997a,
+        numero 6a, p. 7a</lok></fnt>;
+      </ekz>
+      <ekz>
+        aplikante la saman principon al profesia telepatiisto kiel estis <nom>Eric Clapp</nom>, la
+        rezulto estis <tld/>a
+        <fnt><aut>Alberto Garc&iacute;a Fumero</aut>,
+        <vrk><url ref="&Monato;/2000/006950.php">Alfa ondo</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/08, p. 23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vulkankratero inklinas al &scirc;topi&gcirc;o, esti&gcirc;as premo, kiu fine ka&ubreve;zas pli a&ubreve;
+        malpli <tld/>an eksplodon
+        <fnt><aut>Evgeni Georgiev</aut>:
+          <vrk><url ref="&Monato;/2001/007234.html">Vulkanoj</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/02, p. 22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_ib;&c_d;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_n;&c_y;</trd>,
+      <trd>&c_u;&c_r;&c_a;&c_zh;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+      <trd>&c_e;&c_f;&c_e;&c_k;&c_t;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trd lng="de">spektakul&auml;r</trd>
+    <trdgrp lng="fr">
+      <trd>d&eacute;monstratif<klr> (spectaculaire)</klr></trd>,
+      <trd>spectaculaire</trd>
+    </trdgrp>
+    <trd lng="hu">l&aacute;tv&aacute;nyos</trd>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_r;&c_je;&c_l;&c_i;&c_shch;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_v;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_l;&c_ja;&c_ju;&c_shch;&c_i;&c_j;</trd>,
+      <trd>&c_e;&c_f;&c_f;&c_je;&c_k;&c_t;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.28 2023/10/05 19:20:41
+Vito Redsky: +trd pl 
+
+versio 1.26 2023/06/27 07:27:46
+Dmitri Gabinski: + trd be
+
+versio 1.25 2023/04/27 10:31:24
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.24 2023/04/22 19:21:11
+Paul Peeraerts: &steloj -> monato.be
+
+versio 1.23 2023/04/19 11:24:16
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.22 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.19  2015/07/04 08:37:43  revo
+-->
+</vortaro>

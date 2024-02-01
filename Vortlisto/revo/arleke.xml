@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: arleke.xml,v 1.29 2023/10/28 08:33:08 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>arleken</rad>/o <fnt><bib>Rabistoj</bib></fnt>
+</kap>
+<drv mrk="arleke.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="arleke.0o.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      Gaja <ref tip="super" cel="burles.0ulo">burleskulo</ref>
+      kun multkolora vesto, origine prezentita de la 
+      itala komedio:
+      <ekz>
+        tia estas la homo kaj la vivo: <tld/>a ludo
+        <fnt>
+          <aut>P. Haanp&auml;&auml;, trad. B. Lehtinen</aut>,
+          <vrk>Baraka artisto</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2002:12 (98)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="histri1.0o.amuzisto">histriono</ref>
+    </refgrp>
+    <trd lng="be">&c_a;&c_r;&c_l;&c_je;&c_k;&c_ib;&c_n;</trd>
+    <trdgrp lng="de">
+      <trd>Harlekin</trd>,
+      <trd>Kasper</trd>
+    </trdgrp>
+    <trd lng="en">harlequin</trd>
+    <trd lng="es">arlequ&iacute;n</trd>
+    <trd lng="fr">arlequin</trd>
+    <trdgrp lng="hu">
+      <trd>arlecchino</trd>,
+      <trd>arlequin</trd>,
+      <trd>boh&oacute;c</trd>
+    </trdgrp>
+    <trd lng="pt">arlequim</trd>
+    <trd lng="ru">&c_a;&c_r;&c_l;&c_je;&c_k;&c_i;&c_n;</trd>
+    <trd lng="sk">harlek&yacute;n</trd>
+    <trd lng="it">Arlecchino</trd>
+  </snc>
+  <snc mrk="arleke.0o.bufono">
+    <dif>
+      <ref tip="dif" cel="amuz.0isto.KOMUNE">Amuzisto</ref>:
+      <ekz>
+        la <tld/>o de la unua re&gcirc;ino venis al li
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 5a</lok></fnt>;
+      </ekz>
+      <ekz>
+        li <esc>plivolus</esc> ian <tld/>a&jcirc;on, alie li balda&ubreve; ekdormos
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la morto estas io pli ol salto de <tld/>o
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        malaperis en Sensignifolandon miaj du plej dorlotitaj politikaj h<tld/>oj,
+        a&ubreve;stra Jorgo Hajdero kaj itala Silvio Berluskono
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2006/009105.php">Du mil ses</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="klauxn.0o">kla&ubreve;no</ref>,
+      <ref cel="bufon.0o">bufono</ref>,
+      <ref cel="pajac.0o">pajaco</ref>
+    </refgrp>
+    <trd lng="be">&c_b;&c_l;&c_a;&c_z;&c_a;&c_n;</trd>
+    <trdgrp lng="de">
+      <trd>Spa&szlig;macher</trd>,
+      <trd>Hofnarr</trd>
+    </trdgrp>
+    <trd lng="zh">&#x50BB;&#x5B50; <pr>sh&#x1CE;zi</pr></trd>
+</snc>
+  <trdgrp lng="cs">
+    <trd>harlek&yacute;n</trd>,
+    <trd>ka&scaron;par</trd>,
+    <trd>klaun</trd>,
+    <trd>komediant</trd>,
+    <trd>&scaron;a&scaron;ek</trd>
+  </trdgrp>
+  <trd lng="he">&#x5DC;&#x5B5;&#x5D9;&#x5E6;&#x5B8;&#x5DF;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30EB;&#x30EB;&#x30AB;&#x30F3;</trd>,
+    <trd>&#x30A2;&#x30EB;&#x30EC;&#x30C3;&#x30AD;&#x30FC;&#x30CE;</trd>,
+    <trd>&#x9053;&#x5316;&#x8005;  <pr>&#x3069;&#x3046;&#x3051;&#x3082;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>&scaron;a&scaron;o</trd>,
+    <trd>&scaron;a&scaron;o, harlek&yacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_r;&#x43B;&c_je;&#x43A;&c_ib;&#x43D;</trd>,
+    <trd>&c_b;&#x43B;&c_a;&c_z;&c_je;&#x43D;&#x44C;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/13 16:46:48
+revo: transskribo per <pr>
+
+versio 1.26 2022/12/15 08:34:08
+Dmitri Gabinski: + trd be
+
+versio 1.25 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.21  2015/09/17 04:10:13  revo
+Evandro Avellar: +trd pt
+
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2009/02/26 17:31:24  revo
+-->
+</vortaro>

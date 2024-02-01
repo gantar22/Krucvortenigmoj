@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tabak.xml,v 1.36 2024/01/19 01:35:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tabak</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="tabak.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tabak.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <ref tip="dif" cel="nikoti.0o">nikotiano</ref>
+    <trd lng="pl">tyto&nacute;</trd>
+  </snc>
+  <snc mrk="tabak.0o.fumado">
+    <dif>
+      Sekigitaj, diversmaniere preparitaj folioj de <tld/>planto,
+      uzataj por fumado, ma&ccirc;ado a&ubreve; ennazigo:
+      <ekz>
+        ne bone estas, ke &ccirc;e vi la malsanuloj fumas tian fortan
+        <tld/>on, ke oni &ccirc;iam ekternas, kiam oni eniras
+        <fnt><bib>Revizoro</bib>, <lok>akto 1a, sceno 1a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="pl">
+      <trd>tyto&nacute;</trd>,
+      <trd>tabaka</trd>,
+      <trd>machorka</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_y;&c_t;&c_u;&c_n;&c_mol;</trd>
+  <trd lng="bg">&c_t;&c_ju;&c_t;&c_ju;&c_n;</trd>
+  <trd lng="bo">&#xF50;&#xF0B;&#xF58;&#xF42;&#xF0B;</trd>
+  <trd lng="br">butun</trd>
+  <trd lng="ca">tabac</trd>
+  <trd lng="cs">tab&aacute;k</trd>
+  <trd lng="de">Tabak</trd>
+  <trd lng="en">tobacco</trd>
+  <trd lng="es">tabaco</trd>
+  <trd lng="fr">tabac</trd>
+  <trd lng="hu">doh&aacute;ny</trd>
+  <trd lng="it">tabacco</trd>
+  <trdgrp lng="ja">
+    <trd>&#x305F;&#12400;&#12371;</trd>,
+    <trd>&#x30BF;&#x30D0;&#x30B3;</trd>
+  </trdgrp>
+  <trd lng="nl">tabak</trd>
+  <trdgrp lng="pt">
+    <trd>tabaco</trd>,
+    <trd>fumo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_a;&c_b;&c_a;&c_k;</trd>
+  <trd lng="sk">tabak</trd>
+  <trd lng="sv">tobak</trd>
+  <trd lng="tr">t&uuml;t&uuml;n</trd>
+  <trd lng="uk">&c_t;&#x44E;&c_t;&#x44E;&#x43D;</trd>
+</drv>
+
+<drv mrk="tabak.0ujo">
+  <kap><tld/>ujo</kap>
+  <snc mrk="tabak.0ujo.KOMUNE">
+    <dif>
+      Ajna ujo, saketo, skatolo, en kiu oni konservas a&ubreve; portas
+      <tld/>on:
+      <ekz>
+        li prenis el la ar&gcirc;enta <tld/>ujo pin&ccirc;kvanton da
+        flar<tld/>o
+        <fnt><aut>Ivan G. &Scirc;irjaev</aut>, <vrk>Sen titolo</vrk>,
+        <lok>&ccirc;apitro 38a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_b;&c_a;&c_k;&c_je;&c_r;&c_k;&c_a;</trd>
+  <trd lng="ca">tabaquera</trd>
+  <trd lng="cs">tabat&ecaron;rka</trd>
+  <trd lng="es">tabaquera</trd>
+  <trd lng="fr">tabati&egrave;re</trd>
+  <trd lng="it">tabacchiera</trd>
+  <trdgrp lng="ja">
+    <trd>&#x305F;&#12400;&#12371;&#20837;&#x308C;  <pr>&#x30BF;&#x30D0;&#x30B3;&#12356;&#x308C;</pr></trd>,
+    <trd>&#x305F;&#12400;&#12371;&#x30B1;&#x30FC;&#x30B9;  <pr>&#x305F;&#12400;&#12371;&#12369;&#x30FC;&#12377;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">tabakierka</trd>
+  <trd lng="pt">tabaqueira</trd>
+  <trd lng="sk">tabatierka <klr>(na tabak)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_a;&c_b;&c_a;&#x43A;&c_je;&c_r;&#x43A;&c_a;</trd>,
+    <trd>&c_t;&#x44E;&c_t;&#x44E;&#x43D;&#x43E;&c_v;&c_i;&c_j; &#x43A;&c_i;&c_s;&c_je;&c_t;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tabak.flar0o">
+  <kap>flar<tld/>o, <var><kap>naz<tld/>o</kap></var></kap>
+  <snc mrk="tabak.flar0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="tabak.0o.fumado"><tld lit="T"/>o</ref>,
+      kiun oni ennazigas por terne purigi la nazon:
+      <ekz>
+        tiam iu laboristo, kiu sidis sur tiu &ccirc;i benko, okulumis al
+        mi kaj proponis al mi flar<tld/>on, kiam li mem prenis
+        <fnt><bib>InfanTorent2</bib>, <lok>unua parto, &ccirc;apitro
+        2a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_ju;&c_h;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_t;&c_y;&c_t;&c_u;&c_n;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd><ind>tabac</ind> en pols</trd>,
+    <trd><ind>tabac</ind> d'ensumar</trd>,
+    <trd>rap&eacute;</trd>
+  </trdgrp>
+  <trd lng="cs">&scaron;&ncaron;upav&yacute; tab&aacute;k</trd>
+  <trd lng="de">Schnupftabak</trd>
+  <trdgrp lng="es">
+    <trd>rap&eacute;<klr> (tabaco preparado molido)</klr></trd>,
+    <trd>tabaco de aspirar</trd>,
+    <trd>tabaco rallado</trd>
+  </trdgrp>
+  <trd lng="fr">tabac &agrave; priser</trd>
+  <trdgrp lng="hu">
+    <trd>burn&oacute;t</trd>,
+    <trd>tub&aacute;k</trd>
+  </trdgrp>
+  <trd lng="it">tabacco da naso</trd>
+  <trd lng="ja">&#x55C5;&#x304E;&#x305F;&#12400;&#12371;  <pr>&#x304B;&#x304E;&#x305F;&#12400;&#12371;</pr></trd>
+  <trd lng="nl">snuiftabak</trd>
+  <trd lng="pl">tabaka</trd>
+  <trd lng="pt">rap&eacute;</trd>
+  <trd lng="ru">&c_n;&c_ju;&c_h;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_t;&c_a;&c_b;&c_a;&c_k;</trd>
+  <trd lng="sk">&scaron;nupav&yacute; tabak</trd>
+</drv>
+
+<drv mrk="tabak.fum0o">
+  <kap>fum<tld/>o</kap>
+  <snc mrk="tabak.fum0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="tabak.0o.fumado"><tld lit="T"/>o</ref>, kiu
+      oni <ref tip="vid" cel="fum.0i.tabakon">fumas</ref> per
+      cigaredo, cigaro, nargileo, pipo...
+    </dif>
+  </snc>
+  <trd lng="be"><klr>(&c_k;&c_u;&c_r;&c_y;&c_l;&c_mol;&c_n;&c_y;)</klr> &c_t;&c_y;&c_t;&c_u;&c_n;&c_mol;</trd>
+  <trd lng="ca"><ind>tabac</ind> de fumar</trd>
+  <trd lng="cs">ku&rcaron;&aacute;ck&yacute; tab&aacute;k</trd>
+  <trd lng="es"><ind>tabaco</ind> de fumar</trd>
+  <trd lng="fr">tabac &agrave; fumer</trd>
+  <trd lng="hu">f&uuml;stdoh&aacute;ny</trd>
+  <trd lng="it">trinciato <klr>(tabacco)</klr></trd>
+  <trd lng="ja">&#x55AB;&#29017;&#x305F;&#12400;&#12371;  <pr>&#x304D;&#12388;&#12360;&#12435;&#x305F;&#12400;&#12371;</pr></trd>
+  <trd lng="pl">tyto&nacute;</trd>
+  <trd lng="sk">faj&ccaron;iarsky tabak</trd>
+</drv>
+
+<drv mrk="tabak.macx0o">
+  <kap>ma&ccirc;<tld/>o</kap>
+  <snc mrk="tabak.macx0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="tabak.0o.fumado"><tld lit="T"/>o</ref>, kiun
+      oni longe tenas en la bu&scirc;o kiel bulo, kaj ma&ccirc;as.
+    </dif>
+  </snc>
+  <trd lng="be">&c_zh;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_t;&c_y;&c_t;&c_u;&c_n;&c_mol;</ind></trd>
+  <trd lng="ca"><ind>tabac</ind> de mastegar</trd>
+  <trd lng="de">Kautabak</trd>
+  <trd lng="es"><ind>tabaco</ind> de mascar</trd>
+  <trd lng="fr">chique</trd>
+  <trd lng="hu">bag&oacute;</trd>
+  <trd lng="it">tabacco da masticare</trd>
+  <trd lng="ja">&#x565B;&#x307F;&#x305F;&#12400;&#12371;  <pr>&#x304B;&#x307F;&#x305F;&#12400;&#12371;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>tyto&nacute; do &zdot;ucia</trd>,
+    <trd>prymka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.36 2024/01/19 01:35:42
+Vito Redsky: +trd pl 
+
+versio 1.35 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.33 2022/05/10 08:47:37
+Dmitri Gabinski: + trd be
+
+versio 1.30 2020/03/21 00:11:07
+James Rezende Piton: +trd pt flar~, ~ujo; riparo de fumno
+
+Revision 1.29  2017/11/14 15:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.28  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2013/03/21 20:10:48  revo
+-->
+</vortaro>

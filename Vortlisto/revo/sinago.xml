@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sinago.xml,v 1.27 2023/10/21 07:46:47 revo Exp $">
+  <kap>
+    <ofc>2</ofc>
+    <rad>sinagog</rad>/o
+  </kap>
+
+<drv mrk="sinago.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">REL</uzo>
+  <snc mrk="sinago.0o.pregxejo">
+    <dif>
+      Juda pre&gcirc;ejo:
+      <ekz>
+        Jesuo trairis tra la tuta Galileo, instruante en iliaj <tld/>oj, kaj predikante la
+        evangelion
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 4:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam vi pre&gcirc;as, ne estu kiel la hipokrituloj, &ccirc;ar ili amas
+        pre&gcirc;i, starante en la <tld/>oj kaj &ccirc;e la anguloj de la stratoj, por montri sin al homoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 6:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li diskutadis en la <tld/>o &ccirc;iusabate, kaj penis konvinki Judojn kaj Grekojn
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 18:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej frua registro pri <tld/>o en Irlando dati&gcirc;as de 1660, kiam 
+        estis establita pre&gcirc;eja &ccirc;ambro en vojeto <nac>Crane</nac> kontra&ubreve; la dublina kastelo
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/008105.html">Renkonti&gcirc;o kun &scirc;rumpanta komunumo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/11, p. 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_y;&c_n;&c_a;&c_g;&c_o;&c_g;&c_a;</trd>
+    <trd lng="bg">&c_s;&c_i;&c_n;&c_a;&c_g;&c_o;&c_g;&c_a;</trd>
+    <trd lng="de">Synagoge</trd>
+    <trd lng="en">synagogue</trd>
+    <trd lng="es">sinagoga</trd>
+    <trd lng="fr">synagogue</trd>
+    <trd lng="he">&#xFB31;&yod;&tav; &#xFB3B;&nun;&samekh;&tav;</trd>
+    <trdgrp lng="hu">
+      <trd>zsid&oacute; <ind>templom</ind></trd>,
+      <trd>zsinag&oacute;ga</trd>
+    </trdgrp>
+    <trd lng="it">sinagoga</trd>
+    <trd lng="nl">synagoge</trd>
+    <trd lng="pl">synagoga</trd>
+    <trd lng="ru">&c_s;&c_i;&c_n;&c_a;&c_g;&c_o;&c_g;&c_a;</trd>
+  </snc>
+
+  <snc mrk="sinago.0o.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Tuto de la juda religio.
+    </dif>
+    <rim>
+      &Scirc;ajnas ke tiu uzo de la vorto imitas la terminon de iuj
+      kristanaj konfesioj, kiuj prezentas <tld/>on kiel embrion de
+      la kristana eklezio; mi dubas, ke tia vortuzo estas
+      rekomendinda. PIV2 &gcirc;in ne indikas (sed anstata&ubreve;e
+      prezentas la sencon, analogian al paro&hcirc;o).
+      <aut>Sergio Pokrovskij</aut>
+   </rim>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>synagoga</trd>,
+    <trd>&zcaron;idovsk&aacute; modlitebna</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30B7;&#x30CA;&#x30B4;&#x30FC;&#x30B0;</trd>,
+    <trd>&#x30E6;&#x30C0;&#x30E4;&#x6559;&#x4F1A;&#x5802;  <pr>&#x30E6;&#x30C0;&#x30E4;&#x304D;&#x3087;&#x3046;&#x304B;&#x3044;&#x3069;&#x3046;</pr></trd>,
+    <trd>&#x30E6;&#x30C0;&#x30E4;&#x4F1A;&#x8846;  <pr>&#x3086;&#x3060;&#x3084;&#x304B;&#x3044;&#x3057;&#x3085;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>synag&oacute;ga</trd>,
+    <trd>&zcaron;idovsk&aacute; modliteb&ncaron;a</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_i;&#x43D;&c_a;&c_g;&#x43E;&c_g;&c_a;</trd>
+</drv>
+</art>
+  <!--
+  $Log$
+versio 1.27 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.25 2023/05/06 20:24:34
+Paul Peeraerts: + lok
+
+versio 1.24 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+  Revision 1.21  2018/09/02 12:10:18  revo
+  Wolfram Diestel: +ekz-oj
+
+  Revision 1.20  2018/05/17 09:10:13  revo
+  Joop Eggen: +trd bg
+
+  Revision 1.19  2018/05/14 22:10:17  revo
+  Benoit Soubeyran: +he
+
+  Revision 1.18  2015/07/04 08:37:43  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:33:23  revo
+-->
+</vortaro>

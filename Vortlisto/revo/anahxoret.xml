@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: anahxoret.xml,v 1.7 2022/03/12 10:18:06 revo Exp $">
+<kap>
+  <rad>ana&hcirc;oret</rad>/o,
+  <var><kap><rad>anakoret</rad>/o <fnt><bib>PIV1</bib></fnt></kap></var>
+</kap>
+<drv mrk="anahxoret.0o">
+  <kap><tld/>o, <var><kap>anakoreto</kap></var></kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="anahxoret.0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      <ref tip="dif" cel="ermit.0o.REL">Ermito</ref>:
+      <ekz>
+        en 357 <klr>[Sankta Bazilo]</klr> vizitis la <tld/>ojn en Egiptio, sed, anstata&ubreve;
+        la ermita vivostilo, li preferis la komunan vivon en frateco
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=137472">Sankta Bazilo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        miloj levi&gcirc;as de kanapoj molaj por popolumi per <tld/>oj
+        sova&gcirc;aj la dezertan <nom>Thebais</nom>
+        <fnt>
+          <aut>I. Mad&aacute;ch, trad. K. Kalocsay</aut>, 
+          <vrk>La Tragedio de l' Homo</vrk>, 
+          <lok>1965</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Antono estas egipta anakoreto, kiu vivis en la 3-a kaj 4-a jarcentoj
+        <fnt>
+          <aut>C. Millour, trad. C. Bros</aut>,
+          <vrk><url ref="http://www.bertin.biz/index.php?titre=sanktuloj_Bros.htm">
+          Bestkuracaj sanktuloj en Bretonio</url></vrk>,
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_n;&c_a;&c_h;&c_a;&c_r;&c_e;&c_t;</trd>,
+    <trd>&c_p;&c_u;&c_s;&c_t;&c_e;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Anachoret</trd>,
+    <trd>Aussteiger</trd>
+  </trdgrp>
+  <trd lng="fr">anachor&egrave;te</trd>
+  <trd lng="he">&#x5E0;&#x5D6;&#x5D9;&#x5E8; &#x5DE;&#x5EA;&#x5D1;&#x5D5;&#x5D3;&#x5D3;</trd>
+  <trdgrp lng="pl">
+    <trd>anachoreta</trd>,
+    <trd>pustelnik</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x43D;&#x430;&#x445;&#x43E;&#x440;&#x435;&#x442;</trd>,
+    <trd>&#x441;&#x430;&#x43C;&#x456;&#x442;&#x43D;&#x438;&#x43A;</trd>,
+    <trd>&#x432;&#x456;&#x434;&#x43B;&#x44E;&#x434;&#x43D;&#x438;&#x43A;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2021/09/16 12:47:49
+Dmitri Gabinski: +trd be
+
+Revision 1.3  2019/09/29 14:10:27  revo
+Wolfram Diestel: +ekz, germ trd
+
+Revision 1.2  2017/05/29 18:10:18  revo
+Vito Redsky: trd pl
+
+Revision 1.1  2014/03/09 02:10:20  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

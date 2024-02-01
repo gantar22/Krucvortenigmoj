@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: megafo.xml,v 1.18 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <rad>megafon</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="megafo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="megafo.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Forta <ref tip="super" cel="lauxt.0ilo.MUZ">la&ubreve;tparolilo</ref>
+      por disa&ubreve;digo en granda ejo a&ubreve; sub libera &ccirc;ielo:
+      <ekz>
+        mi eka&ubreve;das <tld/>an vo&ccirc;on
+        <fnt><aut>B. Vaha</aut>, <vrk>Adolesko</vrk>, 
+        <lok>1987</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mikrof1.0o">mikrofono</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_e;&c_g;&c_a;&c_f;&c_o;&c_n;</trd>,
+    <trd>&c_r;&c_u;&c_p;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trd lng="ca">meg&agrave;fon</trd>
+  <trd lng="de">Megaphon</trd>
+  <trd lng="en">megaphone</trd>
+  <trd lng="es">meg&aacute;fono</trd>
+  <trd lng="fr">m&eacute;gaphone</trd>
+  <trdgrp lng="hu">
+    <trd>megafon</trd>,
+    <trd>hangosbesz&eacute;l&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30E1;&#x30AC;&#x30DB;&#x30F3;  <pr>&#x3081;&#x304C;&#x307B;&#x3093;</pr></trd>,
+    <trd>&#x62E1;&#x58F0;&#x5668;  <pr>&#x304B;&#x304F;&#x305B;&#x3044;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">megafoon</trd>
+  <trdgrp lng="pl">
+    <trd>megafon</trd>,
+    <trd>szczekaczka<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>megafone</trd>,
+    <trd>alto-falante</trd>,
+    <trd>porta-voz <klr tip="amb">(megafone)</klr></trd>    
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_je;&c_g;&c_a;&c_f;&c_o;&c_n;</trd>,
+    <trd>&c_r;&c_u;&c_p;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">megaf&oacute;n</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x435;&#x433;&#x430;&#x444;&#x43E;&#x43D;</trd>,
+    <trd>&#x440;&#x443;&#x43F;&#x43E;&#x440;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.18 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+Revision 1.14  2010/04/25 16:30:19  revo
+Jeromo Vasxe: + ekz + trd fr
+
+Revision 1.13  2009/01/27 17:30:21  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2006/07/31 16:32:07  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/12/06 17:33:04  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.10  2003/05/19 19:37:33  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/01/04 17:33:01  revo
+Viliam Bur: +trd sk
+
+Revision 1.8  2002/08/26 17:34:23  revo
+-->
+</vortaro>

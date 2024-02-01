@@ -1,0 +1,764 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: efekti.xml,v 1.43 2023/11/07 19:22:22 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>efektiv</rad>/a <fnt><bib>FK</bib></fnt>
+</kap>
+<drv mrk="efekti.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="efekti.0a.KOMUNE">
+    <dif>
+      Reale <ref cel="ekzist.0i">ekzist</ref>anta, 
+      estanta ne nur <ref tip="ant" cel="sxajn.0a">&scirc;ajna</ref>:
+      <ekz>
+        en okazo de <tld/>a neceso;
+      </ekz>
+      <ekz>
+        vi faris al mi <tld/>an surprizon;
+      </ekz>
+      <ekz>
+        li estas <tld/>a <klr>(funkcianta)</klr> generalo;
+      </ekz>
+      <ekz>
+        helpu la <tld/>ajn vidvinojn
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Timoteo 5:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        provizante por si bonan fundamenton <klr>[&#x2026;]</klr>, por ke ili ektenu la
+        <tld/>an vivon
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Timoteo 6:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la venonta nokto unu el la maljunaj sinjorinoj <klr>[&#x2026;]</klr> maldormos &ccirc;e la
+        re&gcirc;idino, por vidi, &ccirc;u tio estis <tld/>a son&gcirc;o 
+        <klr>(reala, kaj ne nur son&gcirc;o)</klr>
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Fajrilo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj muroj estis ornamitaj per grandaj pentra&jcirc;oj, ke estis <tld/>a plezuro &ccirc;ion
+        tion &ccirc;i vidi
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> sentis teruran varmegon, sed li ne povis distingi, &ccirc;u tio estas
+        sekvo de la <tld/>a fajro, &ccirc;u de lia tro granda ardo de amo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Persista stana soldato</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>a uzado de &ccirc;i tiuj lingvoj estas malkreska
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2003/008051.html">Bruselo-Babelo: lingvo-kulturo en
+          E&ubreve;ropa Unio</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kontrolado de la <tld/>aj elpagoj estas submetita nun al laborgrupo
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+            <vrk><url ref="&Monato;/2000/007016.php">Balkana konferenco certigis 2,4 miliardojn da
+            e&ubreve;roj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 19</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="fakt.0a">fakta</ref>,
+      <ref cel="real.0a">reala</ref>,
+      <ref cel="ver.0a">vera</ref>
+    </refgrp>
+    <refgrp tip="vid">
+       <ref cel="efik.0a">efika</ref>,
+       <ref cel="rendiment.0a">rendimenta</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_ib;&c_s;&c_n;&c_u;&c_ju;&c_ch;&c_y;</trd>,
+    <trd>&c_r;&c_e;&c_ch;&c_a;&c_ib;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>efectiu</trd>,
+    <trd>tangible</trd>,    
+    <trd>veritable</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>efektivn&iacute;</trd>,
+    <trd>re&aacute;ln&yacute;</trd>,
+    <trd>skute&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>wirklich</trd>,
+    <trd>tats&auml;chlich</trd>,
+    <trd>real</trd>,
+    <trd>faktisch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>real</trd>,
+    <trd>actual</trd>,
+    <trd>true</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+     <trd>efectivo</trd>,
+     <trd>eficaz</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>effectif<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>r&eacute;el</trd>,
+    <trd>v&eacute;ritable</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>t&eacute;nyleges</trd>,
+    <trd>val&oacute;s&aacute;gos</trd>,
+    <trd>effekt&iacute;v</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5B9F;&#x969B;&#x306E;  <pr>&#x3058;&#x3063;&#x3055;&#x3044;&#x306E;</pr></trd>,
+    <trd>&#x73FE;&#x5B9F;&#x306E;  <pr>&#x3052;&#x3093;&#x3058;&#x3064;&#x306E;</pr></trd>,
+    <trd/>,
+    <trd>&#x4E8B;&#x5B9F;&#x4E0A;&#x306E;  <pr>&#x3058;&#x3058;&#x3064;&#x3058;&#x3087;&#x3046;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">werkelijk</trd>
+  <trdgrp lng="pl">
+    <trd>prawdziwy</trd>,
+    <trd>faktyczny</trd>,
+    <trd>rzeczywisty</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>efetivo</trd>,
+    <trd>real</trd>,
+    <trd>verdadeiro</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_o;&c_ja;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>efekt&iacute;vny</trd>,
+    <trd>skuto&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="sv">verklig</trd>
+  <trdgrp lng="uk">
+    <trd>&c_je;&c_f;&c_je;&#x43A;&c_t;&c_i;&c_v;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_ib;&#x44E;&c_ch;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_ib;&c_j;&c_s;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5B9E; <pr>sh&#xED;</pr></trd>,
+    <trd>&#x5B9E;&#x9645; <pr>sh&#xED;j&#xEC;</pr></trd>,
+    <trd>&#x786E; <pr>qu&#xE8;</pr></trd>,
+    <trd>&#x5B9E;&#x5C5E; <pr>sh&#xED;sh&#x1D4;</pr></trd>,
+    <trd>&#x7684;&#x786E; <pr>d&#xED;qu&#xE8;</pr></trd>,
+    <trd>&#x679C;&#x771F; <pr>gu&#x1D2;zh&#x113;n</pr></trd>,
+    <trd>&#x786E;&#x4E4E; <pr>qu&#xE8;h&#x16B;</pr></trd>,
+    <trd>&#x5F53;&#x771F; <pr>d&#xE0;ngzh&#x113;n</pr></trd>,
+    <trd>&#x771F;&#x4E2A; <pr>zh&#x113;ng&#xE8;</pr></trd>,
+    <trd>&#x5B9E;&#x5219; <pr>sh&#xED;z&#xE9;</pr></trd>,
+    <trd>&#x679C; <pr>gu&#x1D2;</pr></trd>,
+    <trd>&#x662F; <pr>sh&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="efekti.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="efekti.0e.KOMUNE">
+    <dif>
+      Ver<ref tip="sin" cel="fakt.0e">fakte</ref>, reale:
+      <ekz>
+        mi dubas, &ccirc;u li estas <tld/>e rajtigita;
+      </ekz>
+      <ekz>
+        &ccirc;u vi estos <tld/>e sincera, fra&ubreve;lino
+        <fnt>
+          <bib>FK</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
+        <tld/>e &scirc;i estas mia fratino, filino de mia patro, nur ne filino de mia patrino
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 20:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi <tld/>e plenumas viajn promesojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 44:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio <tld/>e estas dekretita, kiel neforigebla le&gcirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 6:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj opiniis, ke Johano <tld/>e estis profeto
+        <fnt>
+          <bib>NT</bib>
+          <lok>Marko 11:32</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u <tld/>e Dio lo&gcirc;us kun homoj sur la tero
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Kroniko 6:18</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        punkto, &scirc;ajne fantazia, sed <tld/>e tre grava
+        <fnt>
+          <bib>DL</bib>
+        </fnt>.
+      </ekz>
+    </dif>    
+    <trd lng="ca">en efecte</trd>
+    <trdgrp lng="pl">
+      <trd>prawdziwie</trd>,
+      <trd>faktycznie</trd>,
+      <trd>rzeczywi&sacute;cie</trd>,
+      <trd>w&lstroke;a&sacute;ciwie</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="efekti.0e.ARG">
+    <dif>
+      Kiel montras la fakto ke...,
+      kion pruvas tio ke...:
+      <!--
+      anta&ubreve;a difino:
+      Adverbo anoncanta, ke la sekvanta frazo konfirmas
+      a&ubreve; motivas la anta&ubreve;an &jcirc;usan aserton
+      -->
+      <ekz>
+        <nom>Volap&uuml;k</nom> ne povis sukcesi,
+        <tld/>e &gcirc;i postulis tro grandan penadon por la memoro
+        <fnt><bib>PV</bib></fnt>
+      </ekz>
+      <ekz>
+        la okuloj de l' instruitulo tute senvidi&gcirc;is <klr>[kio]</klr> ne estas miro, &ccirc;ar
+        li ilin <tld/>e tro forte malfermis
+        <fnt>
+          <bib>DL</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cxar.0">&ccirc;ar</ref>,
+      <ref cel="pruv.0e">pruve</ref>,
+      <ref cel="dir.ver0e">verdire</ref>
+    </refgrp>
+    <trd lng="ca">de fet</trd>
+    <trdgrp lng="pl">
+      <trd><klr>na </klr>serio</trd>,
+      <trd>w rzeczywisto&sacute;ci</trd>,
+      <trd>na <ind>dobre</ind></trd>,
+      <trd>zaiste</trd>
+    </trdgrp>
+  </snc>
+  <ref tip="sin" cel="ja.0">ja</ref>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_y;</trd>,
+    <trd>&c_n;&c_a; &c_s;&c_a;&c_m;&c_o;&c_j;
+    &c_s;&c_p;&c_r;&c_a;&c_v;&c_je;</trd>
+  </trdgrp>
+  <trd lng="ca">efectivament</trd>
+  <trdgrp lng="cs">
+    <trd>doopravdy</trd>,
+    <trd>efektivn&ecaron;</trd>,
+    <trd>opravdu</trd>,
+    <trd>skute&ccaron;n&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>wirklich</trd>,
+    <trd>tats&auml;chlich</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>actually</trd>,
+    <trd>in fact</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>effectivement</trd>,
+    <trd>en <ind>effet</ind></trd>,
+    <trd>r&eacute;ellement</trd>,
+    <trd>vraiment</trd></trdgrp>
+  <trd lng="he">&#x5DC;&#x5DE;&#x5E2;&#x5E9;&#x5D4;</trd>
+  <trdgrp lng="hu">
+    <trd>t&eacute;nylegesen</trd>,
+    <trd>val&oacute;j&aacute;ban</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5B9F;&#x969B;&#x306B;  <pr>&#x3058;&#x3063;&#x3055;&#x3044;&#x306B;</pr></trd>,
+    <trd>&#x73FE;&#x5B9F;&#x306B;  <pr>&#x3052;&#x3093;&#x3058;&#x3064;&#x306B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">inderdaad</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;</trd>,
+    <trd>&c_v; &c_s;&c_a;&c_m;&c_o;&c_m; &c_d;&c_je;&c_l;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>efekt&iacute;vne</trd>,
+    <trd>skuto&ccaron;ne</trd>
+  </trdgrp>
+  <trd lng="sv">verkligen</trd>
+  <trd lng="sw">kwa kusema kweli</trd>
+  <trdgrp lng="uk">
+    <trd>&c_je;&c_f;&c_je;&#x43A;&c_t;&c_i;&c_v;&#x43D;&#x43E;</trd>,
+    <trd>&c_d;&c_ib;&c_j;&c_s;&#x43D;&#x43E;</trd>,
+    <trd>&c_s;&#x43F;&c_r;&c_a;&c_v;&c_d;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5012;&#x662F; <pr>d&#xE0;osh&#xEC;</pr></trd>
+</drv>
+
+<drv mrk="efekti.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="efekti.0ajxo.KOMUNE">
+    <dif>
+      Ia <ref tip="sin" cel="real.0ajxo">reala&jcirc;o</ref>:
+      <ekz>
+        anstata&ubreve; miaj belaj son&gcirc;oj mi ekvidis teruran <tld/>a&jcirc;on: en la stratoj de mia
+        malfeli&ccirc;a urbo de naski&gcirc;o sova&gcirc;aj homoj kun hakiloj kaj feraj stangoj sin
+        &jcirc;etis kiel plej kruelaj bestoj kontra&ubreve; trankvilaj lo&gcirc;antoj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ne sciis, &ccirc;u &scirc;i nur son&gcirc;is a&ubreve; &ccirc;u tio estis <tld/>a&jcirc;o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        decidoj antikvaj fari&gcirc;is <tld/>a&jcirc;oj kaj vera&jcirc;oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 25:1</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="fakt.0o">fakto</ref>
+    <ref tip="ant" cel="imag.0ajxo.nereala">imaga&jcirc;o<sncref/></ref>
+    <refgrp tip="vid">
+      <ref cel="real.0a">reala</ref>,
+      <ref cel="ver.0a">vera</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_ch;&c_a;&c_ib;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>fet</trd>,
+    <trd>realitat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Tatsache</trd>,
+    <trd>Wirklichkeit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>reality</trd>,
+    <trd>fact</trd>
+  </trdgrp>
+  <trd lng="fr">r&eacute;alit&eacute;</trd>
+  <trd lng="hu">val&oacute;s&aacute;g</trd>
+  <trd lng="ja">&#x73FE;&#x5B9F;  <pr>&#x3052;&#x3093;&#x3058;&#x3064;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>fakt</trd>,
+    <trd>rzeczywisto&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5B9E;&#x60C5; <pr>sh&#xED;q&#xED;ng</pr></trd>,
+    <trd>&#x5B9E;&#x9645;&#x60C5;&#x51B5; <pr>sh&#xED;j&#xEC;q&#xED;ngku&#xE0;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="efekti.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="efekti.0eco.KOMUNE">
+    <dif>
+      Eco de tio, kio estas reala, fakte ekzistas:
+      <ekz>
+        en <tld/>eco ilia vojo estas ne &gcirc;usta
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 33:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en <tld/>eco paroli ili ne povas <klr>[&#x2026;]</klr>, sed ili interkompreni&gcirc;as per
+        signoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Floroj de la malgranda Ida</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Dio scias, kion en <tld/>eco pensis en si la granda buldogo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Ne uzu en la senco de <ref cel="efik.0eco">efikeco</ref>:
+      <ekz>
+        alta <tld/>eco de <klr>[&#x2026;]</klr> vakcino
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2011/010269.php">Poliomjelito: &ccirc;u la dua tutmonde
+          likvidota infektmalsano?</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </rim>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>facticitat</trd>,
+    <trd>realitat</trd>,
+    <trd>autenticitat</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>skute&ccaron;nost</trd>,
+    <trd>&uacute;&ccaron;innost</trd>
+  </trdgrp>
+  <trd lng="de">Wirklichkeit</trd>
+  <trdgrp lng="en">
+    <trd>reality</trd>,
+    <trd>actuality</trd>,
+    <trd>truth</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>mat&eacute;rialit&eacute;<klr tip="ind">
+    (r&eacute;alit&eacute;)</klr></trd>,
+    <trd>r&eacute;alit&eacute;<klr tip="ind">
+    (mat&eacute;rialit&eacute;)</klr></trd></trdgrp>
+  <trd lng="he">&#x5D9;&#x5B0;&#x5E2;&#x5B4;&#x5D9;&#x5DC;&#x5D5;&#x5BC;&#x5EA;</trd>
+  <trd lng="hu">realit&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x73FE;&#x5B9F;  <pr>&#x3052;&#x3093;&#x3058;&#x3064;</pr></trd>,
+    <trd>&#x5B9F;&#x969B;  <pr>&#x3058;&#x3063;&#x3055;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">realiteit</trd>
+  <trdgrp lng="pl">
+    <trd>rzeczywisto&sacute;&cacute;</trd>,
+    <trd>materialno&sacute;&cacute;</trd>,
+    <trd>namacalno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>efekt&iacute;vnos&tcaron;</trd>,
+    <trd>&uacute;&ccaron;innos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_je;&c_f;&c_je;&#x43A;&c_t;&c_i;&c_v;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_d;&c_ib;&c_j;&c_s;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x771F;&#x4E8B; <pr>zh&#x113;nsh&#xEC;</pr></trd>,
+    <trd>&#x73B0;&#x5B9E; <pr>xi&#xE0;nsh&#xED;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="efekti.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="efekti.0igi.KOMUNE">
+    <dif>
+      <ref tip="dif" cel="real.0igi">Realigi</ref>, <ref cel="plen.0umi">plenumi</ref>:
+      <ekz>
+        <tld/>igi intencon, ideon, planon la pacon;
+      </ekz>
+      <ekz>
+        la le&gcirc;o, kiu venis kvarcent tridek jarojn poste, ne <klr>[&#x2026;]</klr> mal<tld/>igus
+        la promeson
+        <fnt>
+          <bib>NT</bib>
+          <lok>Galatoj 3:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vivo tro frue komencis kaj rapide <tld/>igis sur &scirc;i la teruran procedon de
+        detruado
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i estus originala faro, se oni povus tion &ccirc;i <tld/>igi
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la donita afero estas tre utila kaj samtempe <tld/>igebla
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni batalados pro nia ideo tiel longe, &gcirc;is &gcirc;i pli a&ubreve; malpli frue estos plene
+        <tld/>igita
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio estas]</klr> <ind>ne<tld/>igebla</ind> utopio
+        <fnt>
+          <bib>FK</bib>
+          <vrk><url ref="https://eo.m.wikisource.org/wiki/Fundamenta_Krestomatio/El_la_unua_libro_de_la_lingvo_Esperanto">El
+          la unua libro de la lingvo ...</url></vrk>
+        </fnt>.
+        <trd lng="ca">irrealitzable</trd>
+        <trdgrp lng="de">
+          <trd>nicht <ind>machbar</ind></trd>,
+          <trd>unmachbar</trd>,
+          <trd>nicht <ind>realisierbar</ind></trd>,
+          <trd>unrealisierbar</trd>
+        </trdgrp>
+        <trd lng="fr">irr&eacute;alisable</trd>
+        <trd lng="hu">megval&oacute;s&iacute;thatatlan</trd>
+        <trdgrp lng="pl">
+          <trd>nieziszczalny</trd>,
+          <trd>nieosi&aogonek;galny</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ating.0i">atingi</ref>,
+      <ref cel="akir.0i">akiri</ref>,
+      <ref cel="far.el0i">elfari</ref>,
+      <ref cel="valid.0a">valida</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_zh;&c_y;&c_c;&c_mol;&c_c;&c_ja;&c_v;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_mol;&c_d;&c_z;&c_je;&c_j;&c_s;&c_mol;&c_n;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_a;&c_w;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_k;&c_a;&c_n;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>dur a terme</trd>,
+    <trd>acomplir</trd>,
+    <trd>realitzar</trd>,
+    <trd>efectuar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>podniknout</trd>,
+    <trd>prov&eacute;st</trd>,
+    <trd>splnit</trd>,
+    <trd>uskute&ccaron;nit</trd>,
+    <trd>vykonat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verwirklichen</trd>,
+    <trd>realisieren</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>realize</trd>,
+    <trd>accomplish</trd>,
+    <trd>bring about</trd>,
+    <trd>commit</trd>
+  </trdgrp>
+  <trd lng="es">tener efectividad</trd>
+  <trdgrp lng="fr">
+    <trd>effectuer</trd>,
+    <trd>mat&eacute;rialiser</trd>,
+    <trd>ex&eacute;cuter</trd>,
+    <trd>r&eacute;aliser<klr tip="ind"> (effectuer)</klr></trd></trdgrp>
+  <trd lng="he">&#x5DC;&#x5D1;&#x5E6;&#x5E2;</trd>
+  <trdgrp lng="hu">
+    <trd>megval&oacute;s&iacute;t</trd>,
+    <trd>realiz&aacute;l</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5B9F;&#x73FE;&#x3055;&#x305B;&#x308B;  <pr>&#x3058;&#x3064;&#x3052;&#x3093;&#x3055;&#x305B;&#x308B;</pr></trd>
+  <trd lng="nl">realiseren</trd>
+  <trdgrp lng="pl">
+    <trd>dokonywa&cacute;</trd>,
+    <trd>realizowa&cacute;</trd>,
+    <trd>zrealizowa&cacute;</trd>,
+    <trd>osi&aogonek;ga&cacute;</trd>,
+    <trd>sprawia&cacute;</trd>,
+    <trd>urzeczywistnia&cacute;</trd>,
+    <trd>uskutecznia&cacute;</trd>,
+    <trd>zdzia&lstroke;a&cacute;</trd>,
+    <trd>ziszcza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_s;&c_u;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_je;&c_a;&c_l;&c_i;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_i;&c_s;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>splni&tcaron;</trd>,
+    <trd>uskuto&ccaron;ni&tcaron;</trd>,
+    <trd>vykona&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">f&ouml;rverkliga</trd>
+  <trd lng="uk">&c_z;&c_d;&c_ib;&c_j;&c_s;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x884C;&#x4F7F; <pr>x&#xED;ngsh&#x1D0;</pr></trd>,
+    <trd>&#x5B9E;&#x73B0; <pr>sh&#xED;xi&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="efekti.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="efekti.0igxi.KOMUNE">
+    <dif>
+      Reali&gcirc;i, <ref tip="vid" cel="plen.0umigxi">plenumi&gcirc;i</ref>:
+      <ekz>
+        la kongreso fine <tld/>i&gcirc;os tiun &ccirc;i jaron;
+      </ekz>
+      <ekz>
+        testamento <tld/>i&gcirc;as rilate mortinton, &ccirc;ar &gcirc;i neniam efikas, dum vivas la
+        testamentinto
+        <fnt>
+          <bib>NT</bib>
+          <lok>Hebreoj 9:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel hirundo forflugas, tiel senka&ubreve;za malbeno ne
+        <tld/>i&gcirc;as
+        <fnt><bib>MT</bib>, <lok>&Sen; 26:2</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiel Mi decidis, tiel <tld/>i&gcirc;os
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 14:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el tiu &ccirc;i tuta grandega nombro nur du, sole nur du atingis <tld/>i&gcirc;on
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;is la bela son&gcirc;o de l' homaro por eterna ben' <tld/>i&gcirc;os
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Kion Zamenhof ne povis diri en &Gcirc;enevo.</vrk>
+        </fnt>!
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_zh;&c_y;&c_c;&c_mol;&c_c;&c_ja;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_mol;&c_d;&c_z;&c_je;&c_j;&c_s;&c_mol;&c_n;&c_ib;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>esdevindre's</trd>,
+    <trd>realitzar-se</trd>,
+    <trd>oc&oacute;rrer, tenir lloc</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd><klr tip="amb">sich </klr>verwirklichen</trd>,
+    <trd>wahr <ind>werden</ind></trd>,
+    <trd>sich <ind>erf&uuml;llen</ind></trd>,
+    <trd>wirksam <ind>werden</ind></trd>,
+    <trd>zum Einsatz <ind>kommen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>come to pass</trd>,
+    <trd>come true</trd>
+  </trdgrp>
+  <trd lng="es">ser efectivo</trd>
+  <trdgrp lng="fr">
+    <trd>avoir <ind>lieu</ind></trd>,
+    <trd>se <ind>r&eacute;aliser</ind></trd></trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5EA;&#x5E7;&#x5E9;&#x5DD;</trd>
+  <trdgrp lng="hu">
+    <trd>megval&oacute;sul</trd>,
+    <trd>realiz&aacute;l&oacute;dik</trd></trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5B9F;&#x73FE;&#x3059;&#x308B;  <pr>&#x3058;&#x3064;&#x3052;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x73FE;&#x5B9F;&#x306B;&#x306A;&#x308B;  <pr>&#x3052;&#x3093;&#x3058;&#x3064;&#x306B;&#x306A;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>werkelijkheid worden</trd>,
+    <trd>in <ind>vervulling</ind> gaan</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dokonywa&cacute; si&eogonek;</trd>,
+    <trd>realizowa&cacute; si&eogonek;</trd>,
+    <trd>zrealizowa&cacute; si&eogonek;</trd>,
+    <trd>urzeczywistnia&cacute; si&eogonek;</trd>,
+    <trd>uskutecznia&cacute; si&eogonek;</trd>,
+    <trd>ziszcza&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_s;&c_u;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_r;&c_je;&c_a;&c_l;&c_i;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_i;&c_s;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sv">f&ouml;rverkligas</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_d;&c_ib;&c_j;&c_s;&#x43D;&c_i;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.42 2023/10/14 15:34:33
+revo: transskribo per <pr>
+
+versio 1.40 2023/04/30 06:30:47
+Paul Peeraerts: Steloj -> monato
+
+versio 1.38 2022/04/27 14:38:53
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.36 2021/07/08 05:26:59
+Wolfram Diestel: +trd en
+
+versio 1.34 2020/12/12 18:40:36
+Wolfram Diestel: +ref sin "ja"
+
+versio 1.33 2020/12/12 12:46:20
+Wolfram Diestel: +ekz-oj, +ref-oj
+
+Revision 1.31  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:29:37  revo
+-->
+</vortaro>

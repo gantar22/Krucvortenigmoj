@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: keri.xml,v 1.6 2023/11/25 09:22:02 revo Exp $">
+<kap>
+  <rad>keri</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="keri.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="keri.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Falfolia arbeto el Orientazio kultivata pro flavaj floroj
+      aperantaj en printempo,
+      unuspecia <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="rozac.0oj.BOT">rozacoj</ref>
+      (<trd lng="la">Kerria japonica</trd>):
+      <ekz>
+        sub la sunradioj iom forti&gcirc;inta<klr>j</klr>, ni vidas flavajn
+        <tld/>ojn
+        <fnt>
+          <aut>shiro kurage</aut>,
+          <vrk><url ref="http://d.hatena.ne.jp/shiro-kurage/">
+          Hatena de Esperanto</url></vrk>,
+          <lok>2009-07-04</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld
+      lok="&WCU;/thumb/6/68/Kerria_japonica_001_JPN.jpg/640px-Kerria_japonica_001_JPN.jpg"
+      prm="CC BY-SA 3.0"
+      >floranta bran&ccirc;o de <tld/>o, Tenry&#363;ji
+        <fnt>
+          <aut>ignis, propra verko</aut>
+          <lok><url ref="&WCW;/File:Kerria_japonica_001_JPN.jpg"
+              >https://commons.wikimedia.org/wiki/File:Kerria_japonica_001_JPN.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="ca">k&egrave;rria</trd>
+  <trdgrp lng="de">
+    <trd>Japanische <ind>Kerrie</ind></trd>,
+    <trd>Ranunkelstrauch</trd>,
+    <trd>Japanisches <ind>Goldr&ouml;schen</ind></trd>
+  </trdgrp>
+  <trd lng="fr">cor&egrave;te</trd>
+  <trd lng="ja">&#23665;&#21561;</trd>
+  <trd lng="pl">z&lstroke;otlin japo&nacute;ski</trd>
+  <trd lng="ro">tei&scomma;or</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2023/11/25 09:22:02
+Wolfram Diestel: +trd de, bld
+
+Revision 1.4  2019/02/02 23:10:25  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.3  2013/08/29 07:10:35  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.2  2011/12/07 18:10:19  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.1  2009/07/11 16:31:27  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

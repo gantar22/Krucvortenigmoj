@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: absorb.xml,v 1.36 2023/10/12 16:57:42 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>absorb</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="absorb.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="absorb.0i.PSI">
+    <dif>
+      <ref tip="super" cel="okup.0i.laborigi">Okupi</ref> ekskluzive 
+      la spiriton a&ubreve; la atenton:
+      <ekz>
+        tiuj fabeloj <klr>[&#x2026;]</klr> tiel forte <tld/>as la menson kaj ravas la imagon
+        de infanoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la miraklo tute <tld/>is ilian intereson, kaj ili restis senmovaj
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia penso estis okupita per <nom>Ligia</nom> kaj ser&ccirc;ado de &scirc;i meze de la amaso <tld/>is
+        lian atento
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la legado de la artikoloj pri mi mem min tiom <tld/>is, ke mi ne rimarkis &scirc;in
+        aperi anta&ubreve; mi
+        <fnt>
+          <bib>MkM</bib>
+          <lok>13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la esprimo de lia viza&gcirc;o estis <ind><tld/>ita</ind> kaj malgaja
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>IV</lok>
+        </fnt>;
+        <trdgrp lng="ca">
+          <trd>absorbit</trd>,
+          <trd>embegut</trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>absorb&eacute;<klr tip="ind"> (pensif)</klr></trd>,
+          <trd>affair&eacute;<klr tip="ind"> (&agrave; r&eacute;fl&eacute;chir)</klr></trd>,
+          <trd>concentr&eacute;<klr tip="ind"> (dans sa
+          r&eacute;flexion)</klr></trd>,
+          <trd>pensif</trd>,
+          <trd>pris<klr tip="ind"> (dans ses pens&eacute;es)</klr></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="posed.ek0i.okupi">ekposedi<sncref/></ref>
+    <refgrp tip="vid">
+      <ref cel="fokus.0i.koncentri">fokusi<sncref/></ref>,
+      <ref cel="koncen1.0igi">koncentrigi</ref>,
+      <ref cel="obsed.0i">obsedi</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="absorb.0i.ensorbi">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="sorb.en0i">Ensorbi</ref>:
+      <ekz>
+        tiuj libroj <klr>[&#x2026;]</klr> certe <tld/>is en sin <klr>[&#x2026;]</klr> torentojn da
+        larmoj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        tiu etulo <tld/>as por sia profito &ccirc;iujn momentojn kaj &ccirc;iujn pensojn
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekunua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Plum</nom> <tld/>is gluton da viskio
+        <fnt>
+          <bib>CKv</bib>
+          <lok>27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu kapablo de la naturo, redukti la kreskon de karbondioksido, iom post iom
+        regresas, <klr>[&#x2026;]</klr> inter 1960 kaj 1990 maro kaj biosfero <tld/>is
+        avera&gcirc;e 57 elcentojn, de post 2000 nur 54 elcentojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2008/009637.php">Katastrofaj ciferoj</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_g;&c_l;&c_y;&c_n;&c_u;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_a;&c_l;&c_o;&c_d;&c_a;&c_c;&c_mol; <ind>&c_u;&c_v;&c_a;&c_g;&c_a;&c_j;</ind></trd>,
+    <trd>&c_a;&c_b;&c_s;&c_a;&c_r;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>absorbir</trd>,
+    <trd>ocupar</trd>,
+    <trd>acaparar</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>absorbieren</trd>,
+    <trd><klr>in </klr>Bann <ind>schlagen</ind></trd>,
+    <trd>auf sich <ind>ziehen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>absorb</trd>,
+    <trd>occupy</trd>,
+    <trd>engross</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>absorber<klr tip="ind"> (l'esprit)</klr></trd>,
+    <trd>accaparer<klr tip="ind"> (l'attention)</klr></trd>,
+    <trd>occuper<klr tip="ind"> (l'attention)</klr></trd>,
+    <trd>prendre<klr tip="ind"> (absorber l'attention)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>absorber</trd>,
+    <trd>ocupar</trd>
+  </trdgrp>
+  <trd lng="he">&lamed;&#x5B4;&samekh;&#x5B0;&pe;&#x5BC;&vav;&#x5B9;&gimel;</trd>
+  <trdgrp lng="hu">
+    <trd>lefoglal</trd>,
+    <trd>lek&ouml;t</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>assorbire<klr> (fig.)</klr></trd>,
+    <trd>occupare<klr> (assorbire)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5922;&#x4E2D;&#x306B;&#x3055;&#x305B;&#x308B;  <pr>&#x3080;&#x3061;&#x3085;&#x3046;&#x306B;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x5FC3;&#x3092;&#x596A;&#x3046;  <pr>&#x3053;&#x3053;&#x308D;&#x3092;&#x3046;&#x3070;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">opslorpen</trd>
+  <trdgrp lng="pl">
+    <trd>absorbowa&cacute;</trd>,
+    <trd>przykuwa&cacute; uwag&eogonek;</trd>,
+    <trd>zajmowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>absorver</trd>,
+    <trd>preocupar</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>f&auml;ngsla</trd>,
+    <trd>upptaga (sinnet)</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_g;&c_l;&c_o;&c_t;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_l;&c_a;&c_d;&c_je;&c_t;&c_mol; &c_v;&c_n;&c_i;&c_m;&c_a;&c_n;&c_i;&c_je;&c_m;</trd>
+  </trdgrp>
+  <trd lng="sk">zauja&tcaron;</trd>
+  <trdgrp lng="tr">
+    <trd>me&scedil;gul etmek <klr>(d&uuml;&scedil;uncelerini)</klr></trd>,
+    <trd>emmek <klr>(emici madde taraf&inodot;ndan. &ouml;rek:
+    s&uuml;nger)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">absorbova&tcaron;</trd>
+  <trdgrp lng="cs">
+    <trd>absorbovat</trd>,
+    <trd>pohltit</trd>,
+    <trd>vst&rcaron;ebat</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_b;&c_s;&c_o;&c_r;&c_b;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_g;&c_l;&c_i;&c_n;&c_a;&c_t;&c_i;/&c_v;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i; &c_p;&c_o;&c_v;&c_je;&c_r;&c_h;&c_n;&c_je;&c_ju;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="absorb.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="absorb.0igxi.PSI">
+    <dif>
+      Turni sian atenton tute al iuj pensoj:
+      <ekz>
+        mi provis legi kaj tremante mi balda&ubreve; <tld/>i&gcirc;is en io, kion
+        mi trovis en tiu malbenita &leftquot;<nom>Necronomicon</nom>&rightquot;
+        <fnt>
+          <aut>H. P. Lovecraft, trad. C. Kisa</aut>,
+          <vrk>La Soleno</vrk>,
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi pli kaj pli <tld/>i&gcirc;is en la vivo de trikapa familio
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Tiel la mondo...</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la oficejo oni <tld/>i&gcirc;as tiel, ke e&ccirc; hejme malfacilas halti: la &ccirc;iutagaj
+        hejmaj laboroj bolas
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2007/008977.php">Mia estrino estas vampiro</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="profun.en0igxi.FIG">enprofundi&gcirc;i<sncref/></ref>
+    <refgrp tip="vid">
+      <ref cel="en.0igxi">eni&gcirc;i</ref>,
+      <ref cel="fokus.0igxi">fokusi&gcirc;i</ref>,
+      <ref cel="koncen1.0igxi">koncentri&gcirc;i</ref>,
+      <ref cel="okup.0igxi">okupi&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_g;&c_l;&c_y;&c_n;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_b;&c_s;&c_a;&c_r;&c_b;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>absorbir-se</trd>,
+    <trd>embeure's</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>sich hinein <ind>vertiefen</ind></trd>,
+    <trd>in <ind>Bann</ind> gezogen werden</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>be absorbed</trd>,
+    <trd>be engrossed</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s'<ind>absorber</ind><klr> (dans ses pens&eacute;es)</klr></trd>,
+    <trd>se concentrer sur</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>essere <ind>assorbito</ind><klr> (fig.)</klr></trd>,
+    <trd>essere <ind>occupato</ind><klr> (assorbire)</klr></trd>,
+    <trd>sprofondare<klr> (fig.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5922;&#x4E2D;&#x306B;&#x306A;&#x308B;  <pr>&#x3080;&#x3061;&#x3085;&#x3046;&#x306B;&#x306A;&#x308B;</pr></trd>,
+    <trd>&#x6CA1;&#x982D;&#x3059;&#x308B;  <pr>&#x307C;&#x3063;&#x3068;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6C17;&#x3092;&#x596A;&#x308F;&#x308C;&#x308B;  <pr>&#x304D;&#x3092;&#x3046;&#x3070;&#x308F;&#x308C;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>absorbowa&cacute; si&eogonek;</trd>,
+    <trd>zajmowa&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trd lng="tr">derin d&uuml;&scedil;&uuml;nceye dalmak</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.36 2023/10/12 16:57:42
+revo: transskribo per <pr>
+
+versio 1.34 2023/04/10 18:22:01
+aktualigo Monato-URL
+
+versio 1.33 2022/05/24 20:32:40
+Wolfram Diestel: ekz-oj, +snc EVI ensorbi; ref-oj, trd de
+
+versio 1.31 2021/09/16 12:47:48
+Dmitri Gabinski: +trd be
+
+Revision 1.28  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2013/04/03 12:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.26  2012/08/22 10:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.25  2011/09/29 12:10:12  revo
+-->
+</vortaro>

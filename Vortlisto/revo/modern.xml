@@ -1,0 +1,593 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: modern.xml,v 1.106 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>modern</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="modern.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="modern.0a.KOMUNE">
+    <dif>
+      Apartenanta al la epoko nuna, al la tempo nuna
+      a&ubreve; &jcirc;us pasinta,
+      <ref tip="vid" cel="hodiau.0a.nuntempa">hodia&ubreve;a</ref>;
+      plej nova, plej fre&scirc;data:
+      <ekz>
+        apud la unua metiejo rapide fari&gcirc;is <tld/>a fabriko
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Disaj vojoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estis homo de la malnovaj moroj, ne aprobanta la
+        <tld/>ajn ideojn
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la mumo de <nom>Ramzes XII</nom> &gcirc;is la hodia&ubreve;a tago ripozas en sia mistera lo&gcirc;ejo,
+        rifu&gcirc;inte tie <klr>[&#8230;]</klr> de la <tld/>a scivolemo
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li havis tre nebulan imagon pri <tld/>a milito
+        <fnt>
+          <bib>HsT</bib>
+          <lok>La nepo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eksonis <tld/>a dancmuziko, kaj iu mia&ubreve;anta vo&ccirc;o kantis ion
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Unua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pl">nowoczesny</trd>
+    <trd lng="ru">&c_s;&c_o;&c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="modern.0a.HIS">
+    <dif>
+      Apartenanta al la pli nova epoko, kontraste kun la antikva:
+      <ekz>
+        la <tld/>a greka lingvo ne havas infinitivon
+        <fnt>
+          <aut>J. Wells</aut>,
+          <vrk>Lingvistikaj aspektoj de Esperanto</vrk>
+          <lok>1978</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[en]</klr> la fama Re&gcirc;a Biblioteko <klr>[&#8230;]</klr> sin trovas &ccirc;iuj libroj,
+        antikvaj kaj <tld/>aj
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Neu- <klr>(nicht antik)</klr></trd>
+    <trd lng="pl">nowo&zdot;ytny</trd>
+    <trdgrp lng="ru">
+      <trd>&c_N;&c_o;&c_v;&c_o;&c_g;&c_o; &c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_i;</trd>,
+      <trd>&c_o;&c_t;&c_n;&c_o;&c_s;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja; &c_k; <ind>&c_N;&c_o;&c_v;&c_o;&c_m;&c_u; &c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_i;</ind></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="af">moderne</trd>
+  <trd lng="am">&#4824;&#4632;&#4755;&#4810;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_H;&a_d;&a_y;&a_th;</trd>
+  <trd lng="az">m&uuml;asir</trd>
+  <trd lng="be">&c_s;&c_u;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>
+  <trd lng="bn">&#2438;&#2471;&#2497;&#2472;&#2495;&#2453;</trd>
+  <trd lng="bo">&t_da;&t_drengbu;&t_nga;&t_tsheg;&t_da;&t_shabchu;&t_sa;&t_tsheg;</trd>
+  <trd lng="bs">moderne</trd>
+  <trd lng="ca">modern</trd>
+  <trd lng="co">mudernu</trd>
+  <trdgrp lng="cs">
+    <trd>modern&iacute;</trd>,
+    <trd>novodob&yacute;</trd>
+  </trdgrp>
+  <trd lng="da">moderne</trd>
+  <trd lng="de">modern</trd>
+  <trd lng="en">modern</trd>
+  <trd lng="es">moderno</trd>
+  <trd lng="et">kaasaegne</trd>
+  <trd lng="eu">modernoa</trd>
+  <trdgrp lng="fa">
+    <trd>&a_m;&a_d;&a_r;&a_n;</trd>,
+    <trd>&a_n;&a_w;&f_y;&a_n;</trd>,
+    <trd>&a_A;&a_m;&a_r;&a_w;&a_z;&f_y;</trd>
+  </trdgrp>
+  <trd lng="fr">moderne</trd>
+  <trd lng="ga">nua-aimseartha</trd>
+  <trd lng="gd">latha an-diugh</trd>
+  <trd lng="gl">moderno</trd>
+  <trd lng="gu">&#2694;&#2727;&#2753;&#2728;&#2751;&#2709;</trd>
+  <trd lng="ha">na zamani</trd>
+  <trd lng="hi">&#2310;&#2343;&#2369;&#2344;&#2367;&#2325;</trd>
+  <trd lng="hmn">niaj hnub</trd>
+  <trd lng="hr">moderni</trd>
+  <trd lng="ht">mod&egrave;n</trd>
+  <trdgrp lng="hu">
+    <trd>korszer&udblac;</trd>,
+    <trd>modern</trd></trdgrp>
+  <trd lng="hy">&#1386;&#1377;&#1396;&#1377;&#1398;&#1377;&#1391;&#1377;&#1391;&#1387;&#1409;</trd>
+  <trd lng="id">modern</trd>
+  <trd lng="ig">n&#8217;oge a</trd>
+  <trd lng="is">n&uacute;t&iacute;ma</trd>
+  <trd lng="ja">&#12514;&#12480;&#12531;</trd>
+  <trd
+  lng="ka">&#4311;&#4304;&#4316;&#4304;&#4315;&#4308;&#4307;&#4320;&#4317;&#4309;&#4308;</trd>
+  <trd lng="kk">&#1179;&c_a;&c_z;&c_ib;&c_r;&c_g;&c_ib; &c_z;&c_a;&c_m;&c_a;&c_n;&#1171;&c_y;</trd>
+  <trd lng="km">&#6047;&#6040;&#6096;&#6041;&#6033;&#6086;&#6035;&#6078;&#6036;</trd>
+  <trd lng="kn">&#3206;&#3239;&#3265;&#3240;&#3263;&#3221;</trd>
+  <trd lng="ko">&#54788;&#45824;</trd>
+  <trd lng="ku">rojane</trd>
+  <trd lng="ky">&c_a;&c_z;&c_y;&c_r;&c_k;&c_y;</trd>
+  <trd lng="lo">&#3735;&#3765;&#3784;&#3735;&#3761;&#3737;&#3754;&#3760;&#3780;&#3755;&#3745;</trd>
+  <trd lng="lt">modernus</trd>
+  <trd lng="lv">m&#363;sdienu</trd>
+  <trd lng="mg">ankehitriny</trd>
+  <trd lng="mi">hou</trd>
+  <trd lng="mk">&c_m;&c_o;&c_d;&c_je;&c_r;&c_je;&c_n;</trd>
+  <trd lng="ml">&#3334;&#3367;&#3393;&#3368;&#3391;&#3349;&#3374;&#3390;&#3375;</trd>
+  <trd lng="mn">&c_o;&c_r;&c_ch;&c_i;&c_n; &#1199;&c_je;&c_i;&c_j;&c_n;</trd>
+  <trd lng="mr">&#2310;&#2343;&#2369;&#2344;&#2367;&#2325;</trd>
+  <trd lng="ms">moden</trd>
+  <trd lng="my">&#4097;&#4145;&#4112;&#4154;&#4126;&#4101;&#4154;</trd>
+  <trd lng="ne">&#2310;&#2343;&#2369;&#2344;&#2367;&#2325;</trd>
+  <trd lng="nl">modern</trd>
+  <trd lng="ny">amakono</trd>
+  <trd lng="pa">&#2566;&#2599;&#2625;&#2600;&#2623;&#2581;</trd>
+  <trd lng="ps">&a_ayn;&a_S;&a_r;&a_y;</trd>
+  <trd lng="pt">moderno</trd>
+  <trd lng="rw">bigezweho</trd>
+  <trd lng="sd">&a_j;&a_d;&a_y;&a_d;</trd>
+  <trd lng="si">&#3505;&#3520;&#3539;&#3505;</trd>
+  <trd lng="sk">modern&yacute;</trd>
+  <trd lng="sl">sodobna</trd>
+  <trd lng="sm">po nei</trd>
+  <trd lng="sn">ano</trd>
+  <trd lng="so">casri ah</trd>
+  <trd lng="sq">moderne</trd>
+  <trd lng="st">mehleng ea kajeno</trd>
+  <trd lng="su">moderen</trd>
+  <trd lng="sv">modern</trd>
+  <trd lng="sw">kisasa</trd>
+  <trd lng="ta">&#2984;&#2997;&#3008;&#2985;</trd>
+  <trd lng="te">&#3078;&#3111;&#3137;&#3112;&#3135;&#3093;</trd>
+  <trd lng="tg">&c_m;&c_u;&c_o;&c_s;&c_i;&c_r;</trd>
+  <trd lng="th">&#3607;&#3637;&#3656;&#3607;&#3633;&#3609;&#3626;&#3617;&#3633;&#3618;</trd>
+  <trd lng="tl">modernong</trd>
+  <trd lng="tt">&c_z;&c_a;&c_m;&c_a;&c_n;&c_ch;&c_a;</trd>
+  <trd lng="uk">&c_s;&c_u;&c_ch;&c_a;&c_s;&c_n;&c_i;&c_j;</trd>
+  <trd lng="ur">&a_j;&a_d;&f_y;&a_d;</trd>
+  <trd lng="uz">zamonaviy</trd>
+  <trd lng="vi">hi&#7879;n &#273;&#7841;i</trd>
+  <trd lng="xh">yanamhlanje</trd>
+  <trd lng="yi">&mem;&alef;&#1464;&dalet;&ayin;&resh;&fnun;</trd>
+  <trd lng="yo">igbalode</trd>
+  <trd lng="zu">yesimanje</trd>
+</drv>
+
+<drv mrk="modern.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="modern.0igi.KOMUNE">
+    <dif>
+      Igi <tld/>a,
+      <ref tip="vid" cel="nov.re0igi.KOMUNE">renovigi</ref>,
+      <ref tip="vid" cel="dat.gxis0datigi.KOMUNE">&gcirc;isdatigi</ref>:
+      <ekz>
+        la sloganoj de Aleksandro estas: futuro, progreso, <tld/>igi
+        <fnt>
+          <bib>ChB</bib>
+          <lok>3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igi la oficejon per novaj ma&scirc;inoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        radikale <tld/>igi la landon
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> nova &gcirc;enerala sekretario <tld/>igis la organizan sistemon de <nom>NEL</nom>
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        konstante <tld/>igi la&ubreve; la lastdataj komercaj postuloj
+        <fnt>
+          <bib>KrM</bib>
+          <lok>28. Tute Libera Kiel Birdo Aera.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Irlando <klr>[&#8230;]</klr> en la 1990aj jaroj <tld/>igis sian ekonomion
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2011/010391.php"
+              >La plej granda tragedio</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Moskvo do konsekvence <tld/>igis sian strategian potencialon: &gcirc;i evoluigis novan
+        interkontinentan raketon <nom>Topol-M</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2007/009199.php"
+              >&Ccirc;u nova vetarmado?</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_d;&c_e;&c_r;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_s;&c_u;&c_ch;&c_a;&c_s;&c_n;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_b;&c_n;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>modernizovat</trd>,
+    <trd>zmodernizovat</trd>
+  </trdgrp>
+  <trd lng="de">modernisieren</trd>
+  <trd lng="es">modernizar</trd>
+  <trd lng="fr">moderniser</trd>
+  <trd lng="id">me<ind>modern</ind>kan</trd>
+  <trdgrp lng="ja">
+    <trd>&#29694;&#20195;&#21270;&#12377;&#12427;  <pr>&#12370;&#12435;&#12384;&#12356;&#12363;&#12377;&#12427;</pr></trd>,
+    <trd>&#29694;&#20195;&#39080;&#12395;&#12377;&#12427;
+    <pr>&#12370;&#12435;&#12384;&#12356;&#12363;&#12380;&#12395;&#12377;&#12427;</pr></trd>,
+    <trd>&#36817;&#20195;&#21270;&#12377;&#12427;  <pr>&#12365;&#12435;&#12384;&#12356;&#12363;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">modernizowa&cacute;</trd>
+  <trd lng="sk">modernizova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_o;&c_d;&c_je;&c_r;&c_n;&c_ib;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_s;&c_u;&c_ch;&c_a;&c_s;&c_n;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="modern.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="modern.0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i <tld/>a, pli nova, nuntempeca:
+      <ekz>
+        <klr>[en]</klr> la kastelo <klr>[&#8230;]</klr> &ccirc;iujare kreskis kaj <tld/>i&gcirc;is la
+        komforto
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lastatempe EU mem i&gcirc;is pli favora al nuklea energio: malnovaj centraloj
+        <tld/>i&gcirc;as a&ubreve; estos konstruataj novaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2006/008809.php"
+              >Litovio volas resti nukle-energia &scirc;tato</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i&gcirc;as nia retejo, en kiu apud la sonaj materialoj
+        aperas anka&ubreve; la filmaj
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://www.podkasto.net/hejmo/">
+          Nova&jcirc;oj</url></vrk>,
+          <lok>Varsovia Vento Elsendoj, 2015-01-24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post la ali&gcirc;o de Irlando al la E&ubreve;ropa Komunumo, la lando <tld/>i&gcirc;is kaj komencis
+        vere progresi
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2010/010133.php"
+              >&Scirc;an&gcirc;i&gcirc;anta mondo</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lingvo disvolvi&gcirc;is kaj <tld/>i&gcirc;is dum tiu periodo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2014/011300.php"
+              >Antikva lingvo por moderna lando</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aktual.0igi.gxisdatigi">aktualigi<sncref/></ref>,
+      <ref cel="dat.gxis0datigi">&gcirc;isdatigi</ref>,
+      <ref cel="nov.re0igi">renovigi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_d;&c_e;&c_r;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_s;&c_u;&c_ch;&c_a;&c_s;&c_n;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_b;&c_n;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de"><ind>modernisiert</ind> werden</trd>
+  <trd lng="es"><ind>modernizar</ind>se</trd>
+  <trd lng="fr">se <ind>moderniser</ind></trd>
+</drv>
+
+<drv mrk="modern.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="modern.0ismo.KOMUNE">
+    <dif>
+      Movado rigardata kiel <tld/>a pro iuj ecoj.
+    </dif>
+    <subsnc mrk="modern.0ismo.BELA">
+      <uzo tip="fak">BELA</uzo>
+      <dif>
+        Tuto de belartaj movadoj, kiuj ekde la
+        fino de la 19a jarcento disi&gcirc;is de
+        tradiciaj artoformoj, de realismo, de
+        klasika harmonio, kaj kiuj emfazis <ref cel="nov.0ismo.BELA">novismo</ref>n:
+        <ekz>
+          <nom>Jarl</nom> Martelmonto <klr>[&#8230;]</klr> konsideras sin
+          ero de la <tld/>ismo
+          <fnt>
+            <aut>I. One&#539;</aut>,
+            <vrk><url ref="http://esperanto.net/literaturo/uea/ceterceterrec.html">
+            &Gcirc;uinda avangarda&jcirc;o</url></vrk>,
+            <lok>[2005?]</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="de">Moderne</trd>
+      <trd lng="es">modernismo</trd>
+      <trd lng="pl">modernizm</trd>
+    </subsnc>
+    <subsnc mrk="modern.0ismo.FIL">
+      <uzo tip="fak">FIL</uzo>
+      <dif>
+        Filozofia sinteno komenci&gcirc;anta en klasika E&ubreve;ropo,
+        favora al <ref cel="raci.0ismo">raciismo</ref>, <ref cel="indivi.0ismo">individuismo</ref>,
+        <ref cel="progre.0ismo">progresismo</ref>,
+        kontra&ubreve;a al tradicioj:
+        <ekz>
+          por varti <tld/>isman movadon oni devas montri progreson,
+          &ccirc;u iluzian, &ccirc;u realan
+          <fnt>
+            <aut>M. Fettes</aut>,
+            <vrk><url ref="http://www.helsinki.fi/~jslindst/raumo-mf.html">
+            Ra&ubreve;mi transmoderne</url></vrk>,
+            <lok>2000</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="es">modernidad</trd>
+      <trd lng="fr">modernit&eacute;</trd>
+      <trd lng="pl">modernizm</trd>
+    </subsnc>
+    <subsnc mrk="modern.0ismo.KAT">
+      <uzo tip="fak">KAT</uzo>
+      <dif>
+        Biblio-kritika kaj teologia movado el la komenco
+        de la 20a jarcento, kiu enkalkulis la progresojn
+        de historio kaj komence ricevis kondamnojn:
+        <ekz>
+          tiu estis la epoko kiam la diskutoj pri
+          <tld/>ismo kaj kontra&ubreve;<tld/>ismo eniris
+          plej akran fazon
+          <fnt>
+            <aut>-</aut>,
+            <vrk><url ref="http://www.ikue.org/papoj/benediktoxv/biografio.htm">
+            Papo Benedikto la 15a</url></vrk>,
+            <lok>[2006?]</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+  <trd lng="de">Modernismus</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_d;&c_e;&c_r;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="cs">modernizmus</trd>
+  <trd lng="es">modernismo</trd>
+  <trd lng="fa">&a_n;&a_w;&f_g;&a_r;&a_A;&f_y;&f_y;</trd>
+  <trd lng="fr">modernisme</trd>
+  <trd lng="id">modernisme</trd>
+  <trdgrp lng="ja">
+    <trd>&#12514;&#12480;&#12491;&#12474;&#12512;</trd>,
+    <trd>&#36817;&#20195;&#20027;&#32681;  <pr>&#12365;&#12435;&#12384;&#12356;&#12375;&#12421;&#12366;</pr></trd>,
+    <trd>&#29694;&#20195;&#20027;&#32681;  <pr>&#12370;&#12435;&#12384;&#12356;&#12375;&#12421;&#12366;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">modernizmus</trd>
+  <trd lng="uk">&c_m;&c_o;&c_d;&c_je;&c_r;&c_n;&c_ib;&c_z;&c_m;</trd>
+</drv>
+
+<drv mrk="modern.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="modern.0isto.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="modern.0ismo.KOMUNE"><tld lit="M"/>ism</ref>ano:
+      <ekz>
+        <nom>Conrad</nom> estis inter la &ccirc;efaj <tld/>istoj kun <nom>Eliot</nom>,
+        <nom>Joyce</nom>, <nom>Woolf</nom> kaj <nom>Yeats</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>W. H. Simcock</aut>
+          <vrk><url ref="&Monato;/2003/008033.html"
+              >Esti homa kaj literaturema</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por la <tld/>istoj superfluaj vortoj estas la herba&ccirc;o de poemo
+        <fnt>
+          <aut>R. P. Nogueira</aut>,
+          <vrk><url ref="http://autodidactproject.org/other/nogueira_poetiko.html">
+          Pri Moderna Poezio kaj Esperanto</url></vrk>,
+          <lok>en: Vojo kaj Vorto, 1972</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li finis malla&ubreve;te sian agadon kiel <klr>[&#8230;]</klr> tradiciisto, e&ccirc;
+        kontra&ubreve;<tld/>isto, kiu fine kondamnis a&ubreve; &leftquot;&gcirc;ustigis&#8221; siajn fruajn
+        eksperimentojn kaj preferis eksmodi&gcirc;intajn muzikformojn, kiel fugo,
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2014/011202.php"
+              >Pura muziko por eonoj</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la verkisto vivece bildigas <klr>[&#8230;]</klr> la pse&ubreve;do-<tld/>iston trovanta
+        rifu&gcirc;on en surfaca ksenofilio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Simone Zoppellaro</aut>
+          <vrk><url ref="&Monato;/2014/011224.php"
+              >Lingvo kiel sukero: notoj pri la nuntempa persa</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_d;&c_e;&c_r;&c_n;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="de">Modernist</trd>
+  <trd lng="es">modernista</trd>
+  <trd lng="fr">moderniste</trd>
+  <trd lng="uk">&c_m;&c_o;&c_d;&c_je;&c_r;&c_n;&c_ib;&c_s;&c_t;</trd>
+</drv>
+
+<drv mrk="modern.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="modern.mal0a.KOMUNE">
+    <dif>
+      Ne plu valida, aktuala a&ubreve; uzata, malkonforma al la
+      nunaj moroj a&ubreve; situacioj;
+      <ref tip="vid" cel="arhxaik.0a">ar&hcirc;aika</ref>,
+      <ref tip="vid" cel="mod.eks0a.MOR">eksmoda</ref>,
+      <ref tip="vid" cel="aktual.mal0a">malaktuala</ref>:
+      <ekz>
+        tio estas tro malvasta kaj mal<tld/>a difino
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk><url ref="http://bertilow.com/piv/">
+          Kritikaj notoj pri la Nova PIV</url></vrk>,
+          <lok>2002-2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la domo ne nur estas malnova, &gcirc;i estas mal<tld/>a
+        <fnt>
+          <aut>D. Broadribb</aut>,
+          <vrk>Ne al &ccirc;iuj pla&ccirc;os &ccirc;i literatura gemeto</vrk>,
+          <bib>Monato</bib>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        du vicoj da domoj, &ccirc;e kiuj &ccirc;ie pendis mal<tld/>aj
+        kadukaj balkonoj
+        <fnt><bib>Fab3</bib>, <lok>Sub la saliko</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_s;&c_u;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_m;&c_o;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_a;&c_s;&c_t;&c_a;&c_r;&c_e;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trd lng="cs">starom&oacute;dn&iacute;</trd>
+  <trdgrp lng="de">
+    <trd>unmodern</trd>,
+    <trd>altmodisch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>out-of-date</trd>,
+    <trd>antiquated</trd>,
+    <trd>obsolete</trd>,
+    <trd>old-fashioned</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>arcaico</trd>,
+    <trd>anticuado</trd>,
+    <trd>desfasado</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>archa&iuml;que</trd>,
+    <trd>d&eacute;suet</trd>,
+    <trd>surann&eacute;</trd>
+  </trdgrp>
+  <trd lng="id">kuno</trd>
+  <trdgrp lng="ja">
+    <trd>&#26178;&#20195;&#36933;&#12428;&#12398;  <pr>&#12376;&#12384;&#12356;&#12362;&#12367;&#12428;&#12398;</pr></trd>,
+    <trd>&#21476;&#12417;&#12363;&#12375;&#12356;  <pr>&#12405;&#12427;&#12417;&#12363;&#12375;&#12356;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>przestarza&lstroke;y</trd>,
+    <trd>nienowoczesny</trd>,
+    <trd>niedzisiejszy</trd>,
+    <trd>staro&sacute;wiecki</trd>,
+    <trd>staromodny</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_s;&c_t;&c_a;&c_r;&c_je;&c_l;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_o;&c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">starom&oacute;dny</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.106 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.105 2023/09/06 12:40:09
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+versio 1.104 2023/09/05 12:43:05
+Wolfram Diestel: kor. ro t-comma
+
+versio 1.102 2022/06/09 08:40:51
+Dmitri Gabinski: + trd be
+
+versio 1.29 2020/05/12 11:10:58
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.28 2020/05/04 10:10:39
+Eko Nur Syah Hidayat: korekteto
+
+Revision 1.26  2016/08/30 18:56:06  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.25  2015/07/31 22:10:15  revo
+-->
+</vortaro>

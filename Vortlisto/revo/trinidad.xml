@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: trinidad.xml,v 1.15 2023/10/21 14:37:42 revo Exp $">
+<kap>
+  <rad>Trinidad</rad>/o
+</kap>
+
+<drv mrk="trinidad.T0o">
+  <kap>
+    <tld/>o
+    <fnt><bib>RLN</bib></fnt>
+  </kap>
+  <snc mrk="trinidad.T0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="lst" cel="insul.0o" lst="voko:insuloj">Insulo</ref> 
+      en <ref tip="vid" cel="atlant.A0o">Atlantiko</ref>
+      &ccirc;e nordorienta bordo de <ref tip="vid" cel="amerik.Sud0o">Sudameriko</ref>,
+      apartentanta al la teritorio de <ref tip="malprt" cel="trinidad.T0otobago.sxtato">Trinidado kaj Tobago</ref>:
+      <ekz>
+        ne malproksime de la Venezuela marbordo trovi&gcirc;as anka&ubreve; la Nederlandaj Antiloj:
+        Kuracao, Bonero kaj Arubo (Nederlando) kaj <tld/>o kaj Tobago
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4453">Venezuelo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="tobag.T0o.GEOG">Tobago</ref>
+    </snc>
+    <trd lng="be">&c_T;&c_r;&c_y;&c_n;&c_ib;&c_d;&c_a;&c_d;</trd>
+    <trd lng="bg">&c_T;&c_r;&c_i;&c_n;&c_i;&c_d;&c_a;&c_d;</trd>
+    <trd lng="ca">Trinitat</trd>
+    <trd lng="de">Trinidad<klr tip="amb"> (Insel)</klr></trd>
+    <trd lng="en">Trinidad</trd>
+    <trd lng="id">Trinidad</trd>
+    <trd lng="ja">&#x30C8;&#x30EA;&#x30CB;&#x30C0;&#x30FC;&#x30C9;&#x5CF6;  <pr>&#x30C8;&#x30EA;&#x30CB;&#x30C0;&#x30FC;&#x30C9;&#x3057;&#x307E;</pr></trd>
+  <trdgrp lng="pl">
+      <trd>Trynidad</trd>
+    </trdgrp>
+    <trd lng="fr">Trinit&eacute;</trd>
+    <trd lng="pt">Trinidad e Tobago</trd>
+</drv>
+
+<drv mrk="trinidad.T0otobago">
+  <kap>
+    <tld/>o kaj Tobago
+    <fnt><bib>RLN</bib></fnt>
+  </kap>
+  <mlg>TT</mlg>
+  <snc mrk="trinidad.T0otobago.sxtato">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="lst" cel="sxtat.0o" lst="voko:&scirc;tatoj">&Scirc;tato</ref>
+      en la insuloj <ref tip="prt" cel="trinidad.T0o.GEOG">Trinidado</ref>,
+      <ref tip="prt" cel="tobag.T0o.GEOG">Tobago</ref> kaj kelkaj aliaj
+      kun &ccirc;efurbo Portospeno.
+    </dif>
+  </snc>
+  <trd lng="be">&c_T;&c_r;&c_y;&c_n;&c_ib;&c_d;&c_a;&c_d; &c_ib; &c_T;&c_a;&c_b;&c_a;&c_g;&c_a;</trd>
+  <trd lng="bg">&c_T;&c_r;&c_i;&c_n;&c_i;&c_d;&c_a;&c_d; &c_i; &c_T;&c_o;&c_b;&c_a;&c_g;&c_o;</trd>
+  <trdgrp lng="ca">
+    <trd>Trinitat i Tobago</trd>,
+    <trd>Rep&uacute;blica de Trinitat i Tobago</trd>
+  </trdgrp>
+  <trd lng="de">Trinidad und Tobago</trd>
+  <trdgrp lng="en">
+    <trd>Trinidad and Tobago</trd>,
+    <trd>Republic of <ind>Trinidad and Tobago</ind></trd>
+  </trdgrp>
+  <trd lng="fr">Trinit&eacute; et Tobago</trd>
+  <trd lng="id">Trinidad dan Tobago</trd>
+  <trd lng="ja">&#x30C8;&#x30EA;&#x30CB;&#x30C0;&#x30FC;&#x30C9;&#x30FB;&#x30C8;&#x30D0;&#x30B4;  <pr>&#x3068;&#x308A;&#x306B;&#x3060;&#x30FC;&#x3069;&#x30FB;&#x3068;&#x3070;&#x3054;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>Trynidad i Tobago</trd>
+  </trdgrp>
+  <trd lng="uk">&#x422;&#x440;&#x438;&#x43D;&#x456;&#x434;&#x430;&#x434; &#x456; &#x422;&#x43E;&#x431;&#x430;&#x491;&#x43E;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.15 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.12 2021/04/14 11:50:26
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2015/01/17 09:10:16  revo
+Damien Brucker: +maj en kap
+
+Revision 1.9  2014/06/10 04:10:41  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.8  2014/01/06 14:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.7  2013/09/14 13:10:17  revo
+Wolfram Diestel: ref al lst insuloj,sxtatoj
+
+Revision 1.6  2013/02/10 14:10:32  revo
+Evandro Avellar: Traduko al Pt
+
+Revision 1.5  2012/08/14 13:10:22  revo
+-->
+</vortaro>

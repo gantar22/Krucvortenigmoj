@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hadis.xml,v 1.16 2023/11/15 16:45:17 revo Exp $">
+<kap>
+  <rad>hadis</rad>/o,
+  <var><kap><rad var="t">hadit</rad>/o <fnt><bib>NePiv</bib></fnt></kap></var>
+</kap>
+
+<drv mrk="hadis.0o">
+  <kap><tld/>o, <var><kap><tld var="t"/>o</kap></var></kap>
+  <snc mrk="hadis.0o.ISL">
+    <uzo tip="fak">ISL</uzo>
+    <dif>
+      Raporto pri diroj kaj faroj de la profeto Mohamedo,
+      parto de la <ref tip="malprt" cel="suna.0o.ISL">sunao</ref>:
+      <ekz>
+        sur la randoj de la tombo&scirc;tono videblas <klr>[&#x2026;]</klr>
+        instruaj sentencoj pri la agoj kaj eldiroj de profeto Mohameto
+        (<tld/>oj)
+        <fnt>
+          <aut>A. Ionesov</aut>,
+          <vrk>Perlo &ccirc;e la Silka Vojo</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2006a, numero 8-9a, p. 20a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;Je la flanko de la profeto&rightquot;, verko en Esperanto, kiu parte traktas pri <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="&Monato;/2011/010194.php">Islama universitato rekonita</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Al-Azhar</nom> instruas <klr>[&#x2026;]</klr> la islaman 
+        scion, kies koro estas la Korano, same kiel &ccirc;ion, kio al &gcirc;i 
+        rilatas koncerne interpreto-metodojn, jurisprudencon, 
+        <tld var="t"/>ojn, lingvon kaj gramatikon 
+        <fnt>
+          <aut>E. W. Said, trad. J. Hasbun</aut>,
+          <vrk><url ref="&Mondediplo;article923.html">La
+          araba
+              lingvo...</url></vrk>,
+          <lok>le Monde diplomatique, 2004-08</lok>
+        </fnt>;
+      </ekz><ekz>
+        <tld var="t"/>oj estis transdonitaj dum generacioj
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;sunao&rightquot;, 
+            2005-01-31</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      La esperantigo <ctl>hadiso</ctl> estas preferinda, &ccirc;ar &gcirc;uste
+      tiel (<nac>hadis</nac>) asimilas la vorton la gravaj nacioj islamaj, en
+      kies lingvoj samkiel en Esperanto mankas la sono [&theta;] (turka,
+      uzbeka, tatara, bosna, la indoneziaj ...) kaj la lingvoj kiuj
+      multe kontaktis kun la islamanaj (la bulgara, rusa, pola ...).
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+  </snc>
+  <trd lng="be">&c_h;&c_a;&c_d;&c_y;&c_s;</trd>
+  <trd lng="bg">&c_h;&c_a;&c_d;&c_i;&c_s;</trd>
+  <trd lng="ca">hadit</trd>
+  <trd lng="cs">had&iacute;th</trd>
+  <trd lng="de">Hadith</trd>
+  <trd lng="en">hadith</trd>
+  <trd lng="fa">&a_H;&a_d;&f_y;&a_th;</trd>
+  <trd lng="fr">hadith</trd>
+  <trd lng="hu">hadisz</trd>
+  <trdgrp lng="id">
+    <trd>hadis</trd>,
+    <trd>hadits</trd>
+  </trdgrp>
+  <trd lng="it">hadith</trd>
+  <trd lng="pl">hadis</trd>
+  <trd lng="pt">hadith</trd>
+  <trd lng="sk">had&iacute;th</trd>
+  <trd lng="ru">&c_h;&c_a;&c_d;&c_i;&c_s;</trd>
+  <trd lng="tr">hadis</trd>
+  <trd lng="uk">&#x433;&#x430;&#x434;&#x438;&#x442;</trd>
+  <trd lng="zh">&#x5723;&#x8BAD; <pr>sh&#xE8;ngx&#xF9;n</pr></trd>
+</drv>
+</art>
+
+  <!--
+  $Log$
+versio 1.15 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.13 2022/01/03 08:37:56
+Dmitri Gabinski: + trd be
+
+versio 1.12 2020/09/09 15:10:34
+Wolfram Diestel: +tld-var
+
+  Revision 1.10  2013/03/26 10:10:14  revo
+  Eko Nur Syah Hidayat: +trd id
+
+  Revision 1.9  2011/12/04 13:10:17  revo
+  Marc Rausell: kataluna traduko
+
+  Revision 1.8  2009/09/20 16:30:55  revo
+  Wieland Pusch: +trd bg
+
+  Revision 1.7  2009/08/28 16:32:28  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.6  2009/06/19 05:09:15  revo
+-->
+</vortaro>

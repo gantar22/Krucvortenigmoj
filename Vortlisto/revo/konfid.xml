@@ -1,0 +1,885 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konfid.xml,v 1.33 2023/12/03 09:58:55 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>konfid</rad>/i
+  <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="konfid.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <snc mrk="konfid.0i.havi_0on">
+    <gra><vspec>x</vspec></gra>
+    <dif>
+      Plene certi pri ies honesteco kaj bonaj intencoj:
+      <ekz>
+        senlime <tld/>i al iu
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz><ekz>
+        <ind>kiu ne <tld/>as, tiu ne beda&ubreve;ras</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="hu">aki nem <ind>b&iacute;zik</ind>, csal&oacute;d&aacute;s nem &eacute;ri</trd>
+      </ekz><ekz>
+        <ind><tld/>u, sed vidu</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">soyez confiant, mais d'un <ind>&oelig;il</ind>
+        seulement</trd>
+        <trd lng="hu">ne <ind>b&iacute;zz</ind> vakon</trd>
+        <trd lng="ru">&c_d;&c_o;&c_v;&c_je;&c_r;&c_ja;&c_j;, &c_n;&c_o; &c_p;&c_r;&c_o;&c_v;&c_je;&c_r;&c_ja;&c_j;</trd>
+      </ekz><ekz>
+        oni ne postulu de ili kalkulan raporton pri la mono, transdonita
+        en iliajn manojn, &ccirc;ar ili devas labori <tld/>ate
+        <fnt><bib>MT</bib><lok>&Re2; 22:7</lok></fnt>;
+      </ekz><ekz>
+        mi <tld/>as al via kavalireco
+        <fnt><bib>FK</bib><lok>La porcio da glacia&jcirc;o</lok></fnt>;
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="konfid.havi_0on">havi <tld/>on</ref>.
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="konfid.0ato"><tld/>ato</ref>,
+      <ref cel="fid.0i">fidi</ref>.
+    </refgrp>
+    <rim>
+      <ctl><tld lit="K"/>i</ctl> esprimas kredon, certecon pri ies
+      <em>morala valoro</em>, dum <ctl>fidi</ctl> entenas la ideon pri
+      <em>kompetento kaj kapablo</em>. Tio evidentas en la deriva&jcirc;oj
+      <ctl>memfida</ctl>, <ctl>fidinda aparato</ctl> ktp, kie ne temas
+      pri moralo sed jes ja pri kapablo (reala a&ubreve; supozata).
+      En la sekvaj ekzemploj <ctl><tld/>i</ctl> estas misuzita
+      anstata&ubreve; <ctl>fidi</ctl> a&ubreve; <ctl>kredi</ctl>:
+      <ekz>
+        <uzo tip="stl">EVI</uzo>
+        ne <tld/>ante al tio  <klr>[t.e. ne kredante tion]</klr>,
+        kion la praktiko montras
+        <fnt><bib>LR</bib> <lok>4. Fonetiko</lok></fnt>;
+      </ekz><ekz>
+        <uzo tip="stl">EVI</uzo>
+        kiam ili komencos prezenti raportojn, ne tro <tld/>u al la
+        papiruso <klr>[t.e. ne tro fidu la papiruson]</klr>, sed mem
+        kontrolu tion a&ubreve; alion
+        <fnt><bib>Far1</bib><lok>&ccirc;ap. 18</lok></fnt>;
+      </ekz><ekz>
+        <uzo tip="stl">EVI</uzo>
+        ne pensu, ke mi ne <tld/>as <klr>[t.e. fidas]</klr> al via
+        sa&gcirc;o <fnt><bib>Far1</bib><lok>&ccirc;ap. 23</lok></fnt>;
+      </ekz><ekz>
+        <uzo tip="stl">EVI</uzo>
+        ili tro <tld/>as al sia potenco
+        <klr>[t.e. ili tro fidas sian potencon]</klr>
+        <fnt><bib>Far2</bib><lok>&ccirc;ap. 12</lok></fnt>.
+      </ekz>
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trd lng="de">vertrauen</trd>
+    <trdgrp lng="fr">
+      <trd>avoir <ind>confiance</ind> (en, dans)</trd>,
+      <trd>faire <ind>confiance</ind> (&agrave;)</trd>,
+      <trd><ind>compter</ind> (sur)</trd>,
+      <trd>se <ind>confier</ind> (en)<klr tip="ind"> (faire confiance
+      &agrave;)</klr></trd>,
+      <trd>se <ind>fier</ind> (&agrave;)</trd>,
+      <trd>s'en <ind>rapporter</ind> (&agrave;)</trd>,
+      <trd>s'en <ind>remettre</ind> (&agrave;)</trd>,
+      <trd>se <ind>reposer</ind> (sur)</trd>
+    </trdgrp>
+    <trd lng="hu">(meg)<ind>b&iacute;zik</ind><klr tip="ind">
+    (vmiben)</klr></trd>
+    <trd lng="nl">vertrouwen</trd>
+    <trd lng="pl">ufa&cacute;</trd>
+    <trd lng="ru">&c_d;&c_o;&c_v;&c_je;&c_r;&c_ja;&c_t;&c_mol;
+    <klr>(&c_k;&c_o;&c_m;&c_u;-&c_l;.)</klr></trd>
+  </snc>
+  <snc mrk="konfid.0i.fidante_transdoni">
+    <gra><vspec>tr</vspec></gra>
+    <uzo tip="klr">(iun a&ubreve; ion, al iu)</uzo>
+    <dif>
+      <ref tip="vid" cel="fid.al0i.KOMUNE">Alfidi</ref>,
+      doni al iu por ke li gardu, prizorgu.
+    </dif>
+    <subsnc mrk="konfid.0i.pro_honesteco">
+      <dif>
+        Transdoni al ties prizorgo kun plena fido, ke
+        li plenumos la taskon honeste, kompetente:
+        <ekz>
+          la juna sinjorino <klr>[&#x2026;]</klr> <tld/>is al la edzo la administradon
+          de la havo, kiun &scirc;i ricevis kaj ricevos de la patro
+          <fnt><bib>Far3</bib> <lok>&Ccirc;apitro XII</lok></fnt>;
+        </ekz><ekz>
+          vi la gajnon de la veto <tld/>is ne al tute &gcirc;usta mano
+        <fnt><bib>Hamlet</bib></fnt>;
+        </ekz><ekz>
+          <tld/>i komision al iu;
+        </ekz>
+       <ekz>
+          Mi ne estis <klr>[malbona]</klr> administranto de la havo
+          <tld/>ita al mi <fnt><bib>BdV</bib></fnt>;
+        </ekz><ekz>
+          ili &scirc;ipiris al Antio&hcirc;ia, de kie ili estis <tld/>itaj
+          al la graco de Dio por la laboro, kiun ili plenumis
+          <fnt><bib>NT</bib><lok>&Ago; 14:26</lok></fnt>;
+        </ekz><ekz>
+          &ccirc;u oni intencas <tld/>i al li pli altan postenon?
+          <fnt><bib>Far1</bib><lok>&ccirc;ap. 2</lok></fnt>;
+        </ekz><ekz>
+          mi lo&gcirc;as &ccirc;e vi, al vi mi <tld/>is mian propra&jcirc;on,
+          kaj vi estas responda pri &gcirc;i
+          <fnt><bib>Far1</bib><lok>&ccirc;ap. 19</lok></fnt>;
+        </ekz><ekz>
+          <tld/>i al iu regadon de provinco;
+        </ekz><ekz>
+          <uzo tip="stl">FIG</uzo>
+          <tld/>i semojn al la tero.
+        </ekz>
+      </dif>
+      <trd lng="de">anvertrauen</trd>
+      <trdgrp lng="fr">
+        <trd>confier<klr tip="ind"> (qc ou qn &agrave; qn)</klr></trd>,
+        <trd>remettre<klr tip="ind"> (qc &agrave; qn en confiance)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">r&aacute;b&iacute;z</trd>
+      <trd lng="nl">toevertrouwen</trd>
+      <trd lng="ru">&c_d;&c_o;&c_v;&c_je;&c_r;&c_i;&c_t;&c_mol;
+      <klr>(&c_ch;&c_t;&c_o;-&c_l;. &c_k;&c_o;&c_m;&c_u;-&c_l;.)</klr></trd>
+    </subsnc>
+    <subsnc mrk="konfid.0i.pro_diskreteco">
+      <dif>
+        Sciigi kun plena fido pri ties diskreteco:
+        <ekz>
+          <tld/>i al iu sian mal&gcirc;ojon, siajn timojn, esperojn, projektojn;
+        </ekz><ekz>
+          &scirc;i al neniu povis <tld/>i sian mal&gcirc;ojon
+          <fnt><bib>Fab2</bib><lok>Elfo de la rozo</lok></fnt>;
+        </ekz><ekz>
+          mi estas nur la kronprinco kaj ne &ccirc;iujn sekretojn
+          oni povas <tld/>i al mi
+          <fnt><bib>Far2</bib><lok>&ccirc;ap. 7</lok></fnt>;
+        </ekz><ekz>
+          <tld/>u al mi, ke &ccirc;i tiu traktato estas tre profita
+          <fnt><bib>Far1</bib><lok>&ccirc;ap. 20</lok></fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="konfid1.0i">konfidenci</ref>,
+        <ref cel="konfid.sin0i">sin <tld/>i</ref>
+      </refgrp>
+      <trdgrp lng="fr">
+        <trd>confier<klr tip="ind"> (un secret)</klr></trd>,
+        <trd>avouer<klr tip="ind"> (confidentiellement)</klr></trd>,
+        <trd>dire<klr tip="ind"> (confidentiellement)</klr></trd>,
+        <trd>d&eacute;voiler<klr tip="ind"> (confidentiellement)</klr></trd>,
+        <trd>r&eacute;v&eacute;ler<klr tip="ind"> (confidentiellement)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">megoszt<klr tip="ind"> (pl. titkot)</klr></trd>
+      <trd lng="nl">toevertrouwen</trd>
+      <trd lng="ru">&c_d;&c_o;&c_v;&c_je;&c_r;&c_i;&c_t;&c_mol;
+      <klr>(&c_ch;&c_t;&c_o;-&c_l;. &c_k;&c_o;&c_m;&c_u;-&c_l;.)</klr></trd>
+    </subsnc>
+    <trdgrp lng="pl">
+    <trd>powierza&cacute;</trd>,
+    <trd>zawierza&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_v;&c_ja;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_je;&c_r;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>d&uring;v&ecaron;&rcaron;ovat</trd>,
+    <trd>sv&ecaron;&rcaron;it <klr>(n&ecaron;komu n&ecaron;co)</klr></trd>
+  </trdgrp>
+  <trd lng="en">entrust</trd>
+  <trd lng="es">confiar</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4FE1;&#x983C;&#x3059;&#x308B;  <pr>&#x3057;&#x3093;&#x3089;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x4FE1;&#x7528;&#x3059;&#x308B;  <pr>&#x3057;&#x3093;&#x3088;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x59D4;&#x8A17;&#x3059;&#x308B;  <pr>&#x3044;&#x305F;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x9810;&#x3051;&#x308B;  <pr>&#x3042;&#x305A;&#x3051;&#x308B;</pr></trd>,
+    <trd>&#x6253;&#x3061;&#x660E;&#x3051;&#x308B;  <pr>&#x3076;&#x3061;&#x3042;&#x3051;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>confiar</trd>,
+    <trd>ter <ind>confian&ccedil;a</ind> em</trd>,
+    <trd>crer</trd>,
+    <trd>fiar-se de</trd>,
+    <trd>contar com</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>d&ocirc;verova&tcaron;</trd>,
+    <trd>zveri&tcaron; <klr>(niekomu)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x59D4;&#x6258; <pr>w&#x11B;itu&#x14D;</pr></trd>,
+    <trd>&#x4EA4;&#x6258; <pr>ji&#x101;otu&#x14D;</pr></trd>,
+    <trd>&#x4FE1;&#x6258; <pr>x&#xEC;ntu&#x14D;</pr></trd>,
+    <trd>&#x6258;&#x4ED8; <pr>tu&#x14D;f&#xF9;</pr></trd>,
+    <trd>&#x4ED8;&#x6258; <pr>f&#xF9;tu&#x14D;</pr></trd>,
+    <trd>&#x4F82; <pr>tu&#x14D;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.sin0i">
+  <kap>sin <tld/>i</kap>
+  <snc>
+    <dif>
+      <ref cel="konfid.0i.pro_diskreteco"><tld lit="K"/>i
+      <sncref/></ref>
+      siajn intimajn pensojn, zorgojn k.s.:
+      <ekz>
+        ho, se estus permesite al &scirc;i sin <tld/>i al
+        <klr>[la bela re&gcirc;o]</klr>, konfesi al li sian suferadon!
+        <fnt><bib>Fab1</bib><lok>Sova&gcirc;aj cignoj</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      La novtestamenta ekzemplo
+      <ekz>
+        Jesuo ne <tld/>is sin al ili
+        <fnt><bib>NT</bib><lok>&Joh; 2:24</lok></fnt>
+      </ekz>
+      supozeble havas alian sencon. &Gcirc;i povas esti interpretata per la
+      senco <sncref ref="konfid.0i.pro_honesteco"/> (<ctl>transdoni sin
+      fidante</ctl>), sed pluraj nacilingvaj versioj tradukas per simpla
+      <ctl>Jesuo ne <tld/>is al ili</ctl>.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_z;&c_n;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_d;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">sich <ind>anvertrauen</ind></trd>
+  <trdgrp lng="fr">
+    <trd>se <ind>confier</ind><klr tip="ind"> (faire des
+    confidences)</klr></trd>,
+    <trd>s'<ind>abandonner</ind></trd>,
+    <trd>se <ind>livrer</ind></trd>,
+    <trd>s'<ind>ouvrir</ind><klr tip="ind"> (se confier)</klr></trd>
+  </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kit&aacute;rulkozik<klr tip="ind"> (vki el&odblac;tt)</klr></trd>,
+      <trd>megny&iacute;lik<klr tip="ind"> (vki el&odblac;tt)</klr></trd>
+    </trdgrp>
+  <trd lng="pl">zwierza&cacute; si&eogonek;</trd>
+</drv>
+
+<drv mrk="konfid.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Sento de tiu, kiu
+      <ref cel="konfid.0i.havi_0on"><tld/>as<sncref/></ref>:
+      <ekz>
+        akiri, &gcirc;ui, perdi ies <tld/>on;
+      </ekz><ekz>
+        la mondo perdus la tutan <tld/>on al la internacilingva ideo
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en
+          Washington en la 15a de a&ubreve;gusto 1910</vrk>
+        </fnt>;
+      </ekz><ekz>
+        ne pripensu malbonon kontra&ubreve; via proksimulo, kiam li
+        kun <tld/>o lo&gcirc;as &ccirc;e vi
+        <fnt><bib>MT</bib><lok>&Sen; 3:29</lok></fnt>;
+      </ekz><ekz>
+        <ind><tld/>o naskas <tld/>on</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">la <ind>confiance</ind> appelle la confiance</trd>
+        <trd lng="fr">a <ind>bizalom</ind> bizalmat sz&uuml;l</trd>
+      </ekz><ekz>
+        tro da <tld/>o kondukas al perfido
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
+        <ind>kun <tld/>o neniam rapidu</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="hu">aki hamar <ind>hiszen</ind>, hamar
+        csalatkozik</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_v;&c_je;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>d&uring;v&ecaron;ra</trd>,
+    <trd>sv&ecaron;&rcaron;en&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Vertrauen</trd>
+  <trd lng="es">confianza</trd>
+  <trdgrp lng="fr">
+    <trd>confiance</trd>,
+    <trd>foi<klr tip="ind"> (confiance)</klr></trd>,
+    <trd>esp&eacute;rance<klr tip="ind"> (confiance)</klr></trd>,
+    <trd>abandon<klr tip="ind"> (fait de se confier)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">bizalom</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4FE1;&#x983C;  <pr>&#x3057;&#x3093;&#x3089;&#x3044;</pr></trd>,
+    <trd>&#x4FE1;&#x7528;  <pr>&#x3057;&#x3093;&#x3088;&#x3046;</pr></trd>,
+    <trd>&#x4FE1;&#x4EFB;  <pr>&#x3057;&#x3093;&#x306B;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">trouw</trd>
+  <trd lng="pl">zaufanie</trd>
+  <trd lng="ru">&c_d;&c_o;&c_v;&c_je;&c_r;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>d&ocirc;vera</trd>,
+    <trd>zverenie</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4FE1;&#x4EFB; <pr>x&#xEC;nr&#xE8;n</pr></trd>,
+    <trd>&#x4FE1;&#x5FC3; <pr>x&#xEC;nx&#x12B;n</pr></trd>,
+    <trd>&#x8AA0;&#x4FE1; <pr>ch&#xE9;ngx&#xEC;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Montranta <tld/>on:
+      <ekz>
+        sinjorino <nom>Breine</nom> <klr>[vidis]</klr> sian edzon kaj <nom>Stella</nom>&#x2019;n
+        en viva kaj <tld/>a interparolado
+        <fnt><bib>FK</bib> <lok>La porcio da glacia&jcirc;o</lok></fnt>;
+      </ekz><ekz>
+        al <klr>[tiu viro]</klr> mi komisiis <tld/>an mision
+        <fnt><aut>H. Vallienne</aut> <vrk>&Ccirc;u li?</vrk> <lok>&ccirc;ap.
+        10</lok></fnt>;
+      </ekz><ekz>
+        la bestoj ne atakis ilin, kontra&ubreve;e ili proksimi&gcirc;is
+        <ind><tld/>e</ind>
+        <fnt>
+          <aut>Fratoj Grimm, trad. K. Bein</aut>
+          <vrk>Elektitaj fabeloj</vrk>
+          <lok>Ne&gcirc;ulino kaj Rozulino</lok>
+        </fnt>.
+        <trdgrp lng="fr">
+          <trd>en <ind>confiance</ind></trd>,
+          <trd>de <ind>confiance</ind></trd>,
+          <trd>les <ind>yeux</ind> ferm&eacute;s</trd>
+        </trdgrp>
+        <trd lng="hu">bizalommal</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_v;&c_je;&c_r;&c_n;&c_y;</trd>
+  <trd lng="cs">d&uring;v&ecaron;rn&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>zutraulich</trd>,
+    <trd>vertraut</trd>,
+    <trd>vertraulich</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>qui d&eacute;note de la <ind>confiance</ind></trd>,
+    <trd>de <ind>confiance</ind></trd>
+  </trdgrp>
+  <trd lng="hu">bizalmas</trd>
+  <trd lng="ja">&#x4FE1;&#x983C;&#x306E;  <pr>&#x3057;&#x3093;&#x3089;&#x3044;&#x306E;</pr></trd>
+  <trd lng="pl">ufny</trd>
+  <trd lng="sk">d&ocirc;vern&yacute;</trd>
+  <trd lng="zh">&#x79C1;&#x4E0B;&#x8AC7;&#x8A71; <pr>s&#x12B;xi&#xE0;t&#xE1;nhu&#xE0;</pr></trd>
+</drv>
+
+<drv mrk="konfid.0ato">
+  <kap><tld/>ato, <var><kap><tld/>atino</kap></var></kap>
+  <snc>
+    <dif>
+      Persono, al kiu oni
+      <ref cel="konfid.0i.havi_0on"><tld/>as<sncref/></ref>:
+      <ekz>
+        e&ccirc; mia <tld/>ato, kiun mi fidis, kiu man&gcirc;is mian panon,
+        levis kontra&ubreve; min la piedon
+        <fnt><bib>MT</bib>, <lok>&Psa; 41:9</lok></fnt>;
+      </ekz><ekz>
+        al la ankora&ubreve; anta&ubreve;nelonga <tld/>atino de viaj junecaj
+        revoj vi devas diri, kiamaniere vi venkis tiun fatalismon
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz><ekz>
+        la ministro en Peterburgo trovis necesa sendi <tld/>aton
+        kun la komisio esplori &ccirc;ion en la urbo mem
+        <fnt><bib>PatrojFiloj</bib>, <lok>&ccirc;ap. 12</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Vertrauter</trd>
+  <trdgrp lng="fr">
+    <trd>confident(e)</trd>,
+    <trd>personne de <ind>confiance</ind></trd>
+  </trdgrp>
+  <trd lng="hu">megb&iacute;zott</trd>
+  <trdgrp lng="pl"><trd>zaufany</trd>, <trd>powiernik</trd></trdgrp>
+  <trdgrp lng="ru">
+     <trd>&c_n;&c_a;&c_p;&c_je;&c_r;&c_s;&c_n;&c_i;&c_k;<klr> (&c_v; &c_k;&c_l;&c_a;&c_s;&c_s;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_j; &c_t;&c_r;&c_a;&c_g;&c_je;&c_d;&c_i;&c_i;)</klr></trd>,
+     <trd>&c_k;&c_o;&c_n;&c_f;&c_i;&c_d;&c_je;&c_n;&c_t;</trd>,
+     <trd>&c_d;&c_o;&c_v;&c_je;&c_r;&c_je;&c_n;&c_n;&c_o;&c_je; &c_l;&c_i;&c_c;&c_o;</trd>
+   </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5BC6;&#x53CB; <pr>m&#xEC;y&#x1D2;u</pr></trd>,
+    <trd>&#x77E5;&#x5DF1; <pr>zh&#x12B;j&#x1D0;</pr></trd>,
+    <trd>&#x5FC3;&#x8179; <pr>x&#x12B;nf&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.0ebla">
+  <kap><tld/>ebla</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc>
+    <dif>
+      Al kiu eblas
+      <ref cel="konfid.0i.havi_0on"><tld/>i<sncref/></ref>:
+      <ekz>
+        <nom>E&ubreve;risthetos</nom> ekstermis la piratojn <klr>[&#x2026;]</klr> kaj
+        al iliaj insuloj lokigis aliajn, <tld/>eblajn, produktemajn
+        gentojn, kiuj ne malpliigis, sed pliigis la jaran imposton
+        <fnt><bib>SatirRak</bib><lok>Pythagoras</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ja;&c_k;&c_o;&c_m;&c_u; &c_m;&c_o;&c_zh;&c_n;&c_a; <ind>&c_d;&c_a;&c_v;&c_ja;&c_r;&c_a;&c_c;&c_mol;</ind></trd>
+  <trdgrp lng="de">
+    <trd>vertrauensw&uuml;rdig</trd>,
+    <trd>loyal</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>fiable<klr tip="ind"> (&agrave; qui on peut se fier)</klr></trd>,
+    <trd>honn&ecirc;te<klr tip="ind"> (&agrave; qui on peut se fier)</klr></trd>,
+    <trd>loyal<klr tip="ind"> (&agrave; qui on peut se fier)</klr></trd>,
+    <trd>recommandable<klr tip="ind"> (&agrave; qui on peut se
+    fier)</klr></trd>,
+    <trd>s&eacute;rieux<klr tip="ind"> (&agrave; qui on peut se fier)</klr></trd>,
+    <trd>s&ucirc;r<klr tip="ind"> (&agrave; qui on peut se fier)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">megb&iacute;zhat&oacute;</trd>
+  <trd lng="pl">godny <ind>zaufania</ind></trd>
+  <trdgrp lng="zh">
+    <trd>&#x7A33;&#x59A5; <pr>w&#x11B;ntu&#x1D2;</pr></trd>,
+    <trd>&#x4FE1;&#x5F97;&#x8FC7; <pr>x&#xEC;ndegu&#xF2;</pr></trd>,
+    <trd>&#x6B63;&#x76F4; <pr>zh&#xE8;ngzh&#xED;</pr></trd>,
+    <trd>&#x53EF;&#x4FE1; <pr>k&#x11B;x&#xEC;n</pr></trd>,
+    <trd>&#x4E49;&#x6C14; <pr>y&#xEC;q&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.0ema">
+  <kap><tld/>ema</kap>
+  <snc>
+    <dif>
+      Kiu volonte
+      <ref cel="konfid.0i.havi_0on"><tld/>as<sncref/></ref>:
+        <ekz>
+        la birdoj estis tiel <tld/>emaj, ke ili preska&ubreve;
+        sidi&gcirc;adis sur la &scirc;ultroj de Elizo
+        <fnt><bib>Fab1</bib><lok>Sova&gcirc;aj cignoj</lok></fnt>;
+      </ekz><ekz>
+        la maniero, kiel ili sidis unu apud la alia, esprimis <tld/>eman
+        proksimi&gcirc;on
+        <fnt><bib>PatrojFiloj</bib><lok>&ccirc;ap. 25</lok></fnt>;
+      </ekz><ekz>
+        <nom>Katja</nom> <klr>[...]</klr> rifuzis nek al li, nek al si la senpekan
+        plezuron de duonhontema, duon<tld/>ema amikeco
+        <fnt><bib>PatrojFiloj</bib><lok>&ccirc;ap. 17</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_v;&c_je;&c_r;&c_l;&c_ib;&c_v;&c_y;</trd>
+  <trd lng="cs">d&uring;v&ecaron;&rcaron;iv&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>zutraulich</trd>,
+    <trd>vertraut</trd>
+  </trdgrp>
+  <trd lng="es">confiado</trd>
+  <trdgrp lng="fr">
+    <trd>confiant</trd>
+  </trdgrp>
+  <trd lng="hu">j&oacute;hiszem&udblac;</trd>
+  <trd lng="ja">&#x4EBA;&#x3092;&#x4FE1;&#x3058;&#x3084;&#x3059;&#x3044;  <pr>&#x3058;&#x3093;&#x3092;&#x3057;&#x3093;&#x3058;&#x3084;&#x3059;&#x3044;</pr></trd>
+  <trd lng="pl">ufny</trd>
+  <trd lng="ru">&c_d;&c_o;&c_v;&c_je;&c_r;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>
+  <trd lng="sk">d&ocirc;ver&ccaron;iv&yacute;</trd>
+</drv>
+
+<drv mrk="konfid.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Igi <ref cel="konfid.0i.havi_0on"><tld/>i<sncref/></ref>,
+      veki <tld/>on:
+      <ekz>
+        <klr>[lia viza&gcirc;o]</klr> estis severa, sed tamen
+        <ind><tld/>iga</ind>
+        <fnt><bib>Fab4</bib><lok>Infano en la tombo</lok></fnt>;
+        <trdgrp lng="fr">
+          <trd>qui inspire <ind>confiance</ind></trd>,
+          <trd>engageant<klr tip="ind"> (qui inspire
+          confiance)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>bizalomgerjeszt&odblac;</trd>,
+          <trd>bizalom&eacute;p&iacute;t&odblac;</trd>
+        </trdgrp>
+      </ekz><ekz>
+        mi e&ccirc; devis timi en miaj revadoj, ke mia imago, kiun
+        miaj malfeli&ccirc;oj <ind>mal<tld/>igi</ind>s, fine turnos
+        tiuflanken sian aktivecon
+        <fnt><bib>Revadoj</bib><lok>Sepa promenado</lok></fnt>.
+        <trdgrp lng="fr">
+          <trd>effaroucher<klr tip="ind"> (inspirer
+          m&eacute;fiance)</klr></trd>,
+          <trd>rendre <ind>d&eacute;fiant</ind></trd>,
+          <trd>inspirer <ind>m&eacute;fiance</ind></trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>bizalmatlann&aacute; tesz</trd>,
+          <trd>gyanakv&oacute;v&aacute; tesz</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_k;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_mol; <ind>&c_d;&c_a;&c_v;&c_je;&c_r;</ind></trd>
+  <trd lng="de"><ind>Vertrauen</ind> erweckend</trd>
+  <trd lng="fr">inspirer <ind>confiance</ind></trd>
+  <trdgrp lng="hu">
+    <trd>bizalmat kelt</trd>,
+    <trd>bizakod&oacute;v&aacute; tesz</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.0inda">
+  <kap><tld/>inda</kap>
+  <snc>
+    <dif>
+      Inda je <tld/>o:
+      <ekz>
+        <nom>Asarhadon</nom> sendis en la straton de l' Tomboj <tld/>indan homon,
+        ordonante al li atente observi
+        <fnt><bib>Far1</bib><lok>&ccirc;ap. 20</lok></fnt>;
+      </ekz><ekz>
+        mi liveris pruvon, ke al atestantoj por ni agrablaj ni kredas
+        ne kontrolante ilian <tld/>indecon
+        <fnt>
+        <aut>trad. K. Bein</aut>
+        <vrk>Internacia Krestomatio</vrk>
+        <lok>Rakonto pri spiritoj</lok></fnt>;
+      </ekz><ekz>
+        dum 25 jaroj ili suriradis &ccirc;iujn brakojn de la Neva kune kun
+        la kanaloj de Peterburgo <klr>[...]</klr> sen pli ol unu
+        malfeli&ccirc;a&jcirc;o: bona pruvo de l&#x2019; ta&ubreve;geco kaj
+        <tld/>indeco de l&#x2019; finna gento
+        <fnt><bib>Voja&gcirc;Imp</bib><lok>En Peterburgo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_o;&c_d;&c_n;&c_y; <ind>&c_d;&c_a;&c_v;&c_je;&c_r;&c_u;</ind></trd>
+  <trd lng="cs">d&uring;v&ecaron;ryhodn&yacute;</trd>
+  <trd lng="de">vertrauensw&uuml;rdig</trd>
+  <trdgrp lng="fr">
+    <trd>digne de <ind>confiance</ind></trd>,
+    <trd>fiable<klr tip="ind"> (&agrave; qui on peut se fier)</klr></trd>,
+    <trd>honn&ecirc;te<klr tip="ind"> (&agrave; qui on peut se fier)</klr></trd>,
+    <trd>loyal<klr tip="ind"> (&agrave; qui on peut se fier)</klr></trd>,
+    <trd>recommandable<klr tip="ind"> (&agrave; qui on peut se
+    fier)</klr></trd>,
+    <trd>s&eacute;rieux<klr tip="ind"> (&agrave; qui on peut se fier)</klr></trd>,
+    <trd>s&ucirc;r<klr tip="ind"> (&agrave; qui on peut se fier)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>bizalomra m&eacute;lt&oacute;</trd>,
+    <trd>bizalomra &eacute;rdemes</trd>
+  </trdgrp>
+  <trd lng="pl">godny <ind>zaufania</ind></trd>
+  <trd lng="sk">d&ocirc;veryhodn&yacute;</trd>
+  <trd lng="zh">&#x4FE1;&#x5F97;&#x8FC7; <pr>x&#xEC;ndegu&#xF2;</pr></trd>
+</drv>
+
+<drv mrk="konfid.0itajxo">
+  <kap><tld/>ita&jcirc;o</kap>
+  <snc>
+    <dif>
+      A&jcirc;o, kiun oni al iu <tld/>is <sncref ref="konfid.0i.pro_honesteco"/>:
+      <ekz>
+        mi konas tiun, al kiu mi kredis, kaj mi konvinki&gcirc;is, ke li havas
+        la povon gardi mian <tld/>ita&jcirc;on &gcirc;is tiu tago
+        <fnt><bib>NT</bib><lok>&Ti2; 1:12</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Vertrautes</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;p&ocirc;t<klr tip="ind"> (chose laiss&eacute;e en d&eacute;p&ocirc;t)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>r&aacute;b&iacute;zott holmi</trd>,
+    <trd>let&eacute;t</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.0ulo">
+  <kap><tld/>ulo, <var><kap><tld/>ulino</kap></var></kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="konfid.0ato"><tld lit="K"/>ato, <tld/>atino</ref>;
+      al kiu oni povas <tld/>i:
+      <ekz>
+        <nom>Walter de Stetten</nom>, oficiro husara, estis la fian&ccirc;o de <nom>Mathilde</nom>,
+        kaj pro tio li estis anka&ubreve; la <tld/>ulo de la du amikinoj
+        <fnt><bib>FK</bib> <lok>Nur unu vorton!</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Vertrauter</trd>
+  <trdgrp lng="fr">
+    <trd>confident(e)</trd>,
+    <trd>personne de <ind>confiance</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vki <ind>bizalmasa</ind></trd>,
+    <trd>bizalmi ember</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5BC6;&#x53CB; <pr>m&#xEC;y&#x1D2;u</pr></trd>,
+    <trd>&#x77E5;&#x5DF1; <pr>zh&#x12B;j&#x1D0;</pr></trd>,
+    <trd>&#x5FC3;&#x8179; <pr>x&#x12B;nf&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Certi pri malhonesteco, malkapablo, malvaloro de iu:
+      <ekz>
+        en malnova turo <klr>[...]</klr> lo&gcirc;is gardisto kaj strigo:
+        mi mal<tld/>is al ili amba&ubreve;, precipe al la strigo
+        <fnt><bib>Fab3</bib><lok>Supo el kolbasaj bastonetoj</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="konfid.0i.havi_0on"><tld/>i <sncref/></ref>
+  </snc>
+  <trd lng="be">&c_n;&c_je; <ind>&c_d;&c_a;&c_v;&c_ja;&c_r;&c_a;&c_c;&c_mol;</ind></trd>
+  <trd lng="cs">ned&uring;v&ecaron;&rcaron;ovat</trd>
+  <trd lng="de">misstrauen</trd>
+  <trdgrp lng="fr">
+    <trd>avoir de la <ind>d&eacute;fiance</ind> (pour)</trd>,
+    <trd>douter (de)<klr tip="ind"> (se m&eacute;fier)</klr></trd>
+    <trd>se <ind>d&eacute;fier</ind> (de)</trd>,
+    <trd>se <ind>garder</ind> (de)<klr tip="ind"> (ne pas avoir
+    confiance)</klr></trd>,
+    <trd>se <ind>m&eacute;fier</ind> (de)</trd>
+  </trdgrp>
+  <trd lng="hu">bizalmatlan<klr tip="ind"> (vkivel szemben)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x7528;&#x5FC3;&#x3059;&#x308B;  <pr>&#x3088;&#x3046;&#x3058;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7591;&#x3046;  <pr>&#x3046;&#x305F;&#x304C;&#x3046;</pr></trd>,
+    <trd>&#x602A;&#x3057;&#x3080;  <pr>&#x3042;&#x3084;&#x3057;&#x3080;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+  <trd>okazywa&cacute; <ind>nieufno&sacute;&cacute;</ind></trd>,
+  <trd>okazywa&cacute; brak <ind>zaufania</ind></trd>
+</trdgrp>
+  <trd lng="sk">ned&ocirc;verova&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6000;&#x7591; <pr>hu&#xE1;iy&#xED;</pr></trd>,
+    <trd>&#x4FE1;&#x4E0D;&#x8FC7; <pr>x&#xEC;nb&#xF9;gu&#xF2;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.mal0o">
+  <kap>mal<tld/>o</kap>
+  <snc mrk="konfid.mal0o.KOMUNE">
+    <dif>
+      Sento de tiu, kiu mal<tld/>as:
+      <ekz>
+        la samtempuloj renkontas <klr>[novajn ideojn]</klr> ne sole
+        kun rimarkinde obstina mal<tld/>o, sed e&ccirc; kun ia
+        neklarigebla malamikeco
+        <fnt><bib>EE</bib></fnt>;
+      </ekz><ekz>
+        <uzo tip="fak">POL</uzo>
+        parlamenta komitato decidis <klr>[&#x2026;]</klr> prepari
+        vo&ccirc;donon pri mal<tld/>o al la registaro
+        <fnt>
+          <aut>A. Ibraimova, trad. J. Bauer</aut>,
+          <vrk><url ref="https://eo.globalvoices.org/2014/11/1945">
+          Kirgizio: La amaskomunikiloj suferas meze de kreskanta
+          politika malakordo</url></vrk>,
+          <lok>GlobalVoices, 2016-04-07</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_je;&c_d;&c_a;&c_v;&c_je;&c_r;</trd>
+  <trd lng="cs">ned&uring;v&ecaron;ra</trd>
+  <trd lng="de">Misstrauen</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;fiance</trd>,
+    <trd>m&eacute;fiance</trd>,
+    <trd>r&eacute;serve<klr tip="ind"> (m&eacute;fiance)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">bizalmatlans&aacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7591;&#x5FF5;  <pr>&#x304E;&#x306D;&#x3093;</pr></trd>,
+    <trd>&#x4E0D;&#x4FE1;  <pr>&#x3075;&#x3057;&#x3093;</pr></trd>,
+    <trd>&#x8B66;&#x6212;&#x5FC3;  <pr>&#x3051;&#x3044;&#x304B;&#x3044;&#x3057;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">brak <ind>zaufania</ind></trd>
+  <trd lng="sk">ned&ocirc;vera</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x4FE1;&#x4EFB; <pr>b&#xF9;x&#xEC;nr&#xE8;n</pr></trd>,
+    <trd>&#x4E0D;&#x4FE1; <pr>b&#xF9;x&#xEC;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.mal0ema">
+  <kap>mal<tld/>ema</kap>
+  <snc>
+    <dif>
+      Kiu emas mal<tld/>i:
+      <ekz>
+        Tiberio <klr>[&#x2026;]</klr> da&ubreve;re restis vivanta kiel privata civitano, timema kaj mal<tld/>ema,
+        evitante ricevi vizitojn en la insulo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=17193">Tiberio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_d;&c_a;&c_v;&c_je;&c_r;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_a;&c_z;&c_r;&c_o;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">misstrauisch</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;fiant</trd>,
+    <trd>m&eacute;fiant</trd>,
+    <trd>soup&ccedil;onneux</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>bizalmatlan</trd>,
+    <trd>gyanakv&oacute;</trd>
+  </trdgrp>
+  <trd lng="pl">niefuny</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x4FE1;&#x4EFB; <pr>b&#xF9;x&#xEC;nr&#xE8;n</pr></trd>,
+    <trd>&#x591A;&#x5FC3; <pr>du&#x14D;x&#x12B;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.mem0o">
+  <kap>mem<tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="fid.mem0o">Memfido</ref>:
+      <ekz>
+        tia mem<tld/>o estis legebla sur ilia viza&gcirc;o, kvaza&ubreve;
+        &ccirc;iu el ili posedus je sia dispono nevenkeblajn regimentojn
+        de spiritoj
+        <fnt><bib>Far3</bib><lok>&ccirc;ap. 7</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_w;&c_p;&c_e;&c_w;&c_n;&c_je;&c_n;&c_a;&c_s;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_a; &c_w; &c_s;&c_v;&c_a;&c_je; &c_s;&c_ib;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>sebed&uring;v&ecaron;ra</trd>,
+    <trd>sebejistota</trd>
+  </trdgrp>
+  <trd lng="de">Selbstvertrauen</trd>
+  <trdgrp lng="fr">
+    <trd>assurance<klr tip="ind"> (confiance en soi)</klr></trd>,
+    <trd><ind>confiance</ind> en soi</trd>
+  </trdgrp>
+  <trd lng="hu">&ouml;nbizalom</trd>
+  <trd lng="pl">pewno&sacute;&cacute; siebie</trd>
+  <trd lng="sk">sebaistota</trd>
+  <trdgrp lng="zh">
+    <trd>&#x81EA;&#x4FE1;&#x5FC3; <pr>z&#xEC;x&#xEC;nx&#x12B;n</pr></trd>,
+    <trd>&#x81EA;&#x4FE1; <pr>z&#xEC;x&#xEC;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfid.havi_0on">
+  <kap>havi <tld/>on</kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="konfid.0i.havi_0on"><tld lit="K"/>i <sncref/></ref>:
+      <ekz>
+        Johano <klr>[...]</klr> havis plenan <tld/>on, ke la bona Dio
+        al li helpos
+        <fnt><bib>Fab1</bib><lok>Vojkamarado</lok></fnt>;
+      </ekz><ekz>
+        ni parolis <klr>[...]</klr> pri viroj, al kiuj oni povus havi
+        <tld/>on
+        <fnt><bib>Fab1</bib><lok>Ligo de amikeco</lok></fnt>;
+      </ekz><ekz>
+        li havis <tld/>on al neniu, fine li e&ccirc; al si mem ne <tld/>is,
+        kaj tio estas granda malfeli&ccirc;o
+        <fnt><bib>Fab3</bib><lok>&Scirc;tono de la sa&gcirc;uloj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_je;&c_c;&c_mol; <ind>&c_d;&c_a;&c_v;&c_je;&c_r;</ind></trd>
+  <trd lng="de"><ind>Vertrauen</ind> haben</trd>
+  <trdgrp lng="fr">
+    <trd>avoir <ind>confiance</ind> (en, dans)</trd>,
+    <trd>faire <ind>confiance</ind> (&agrave;)</trd>,
+    <trd><ind>compter</ind> (sur)</trd>,
+    <trd>se <ind>confier</ind> (en)<klr tip="ind"> (faire confiance
+    &agrave;)</klr></trd>,
+    <trd>se <ind>fier</ind> (&agrave;)</trd>,
+    <trd>s'en <ind>rapporter</ind> (&agrave;)</trd>,
+    <trd>s'en <ind>remettre</ind> (&agrave;)</trd>,
+    <trd>se <ind>reposer</ind> (sur)</trd>
+  </trdgrp>
+  <trd lng="hu">bizalommal van</trd>
+  <trdgrp lng="pl">
+  <trd>mie&cacute; <ind>ufno&sacute;&cacute;</ind></trd>,
+  <trd>mie&cacute; <ind>zaufanie</ind></trd>,
+  <trd>ufa&cacute;</trd>
+</trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4FE1;&#x4EFB; <pr>x&#xEC;nr&#xE8;n</pr></trd>,
+    <trd>&#x4FE1;&#x8CF4; <pr>x&#xEC;nl&#xE0;i</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.32 2023/11/06 06:32:46
+Wolfram Diestel: +UV
+
+versio 1.31 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.29 2022/05/11 07:31:39
+Dmitri Gabinski: + trd be
+
+versio 1.28 2022/04/07 17:30:20
+Wolfram Diestel: sintakso, +trd de
+
+versio 1.27 2020/12/07 20:35:58
+Jeromo Vasxe: ~i snc 2: + dif
+
+versio 1.26 2020/08/23 14:11:08
+Sergio Pokrovskij: la ordo de snc; +trd=ru
+
+versio 1.25 2020/08/23 06:11:21
+Sergio Pokrovskij: kor dif, rim
+
+Revision 1.23  2016/12/29 23:10:14  revo
+-->
+</vortaro>

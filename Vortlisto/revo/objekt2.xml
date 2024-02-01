@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: objekt2.xml,v 1.24 2023/10/20 05:22:17 revo Exp $">
+<kap>
+  <rad>objektiv</rad>/o <fnt><bib>PVEF</bib></fnt>
+</kap>
+<drv mrk="objekt2.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="objekt2.0o.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Parto de <ref tip="malprt" cel="fotogr.0ilo">fotografilo</ref>,
+      konsistanta el unu a&ubreve; pluraj muntitaj
+      lensoj, kiujn devas trapasi la lumaj radioj anta&ubreve; ol penetri en
+      la malluman kameron:
+      <ekz>
+        de 500-mm-a spegul<tld/>o plus fokusdistanca duobligilo &gcirc;is
+        fi&scirc;okula <tld/>o
+        <fnt>
+          <aut>Pejno S.</aut>,
+          <vrk>La lernemulo</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 1999a, numero 6a, p. 23a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        trueto funkcias kiel primitiva <tld/>o, ju pli eta estas &gcirc;ia diametro, des pli
+        fokusita estas la bildo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2012/010750.php"
+              >Rivelita: la movado de la suno</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="objekt2.0o.lenso">
+    <dif>
+      Lenso a&ubreve; lensa munta&jcirc;o, kiu estas la plej proksima al la
+      ekzamenata objekto.
+    </dif>
+    <ref tip="ant" cel="okular.0o">okulario</ref>
+  </snc>
+  <ref tip="hom" cel="objekt1.0a">objektiva</ref>
+  <trd lng="be">&c_a;&c_b;'&c_ja;&c_k;&c_t;&c_y;&c_w;
+  <klr>(&c_f;&c_o;&c_t;&c_a;&c_a;&c_p;&c_a;&c_r;&c_a;&c_t;&c_a;)</klr></trd>
+  <trd lng="ca">objectiu <klr>(&ograve;pt.)</klr></trd>
+  <trd lng="en">objective<klr> (lens)</klr></trd>
+  <trd lng="fr">objectif<klr> (optique)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>objekt&iacute;v</trd>,
+    <trd>t&aacute;rgylencse</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#23550;&#29289;&#12524;&#12531;&#12474;  <pr>&#12383;&#12356;&#12406;&#12388;&#12524;&#12531;&#12474;</pr></trd>,
+    <trd>&#23550;&#29289;&#37857;  <pr>&#12383;&#12356;&#12406;&#12388;&#12363;&#12364;&#12415;</pr></trd>,
+    <trd>&#12524;&#12531;&#12474;  <pr>&#12428;&#12435;&#12378;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">objectief</trd>
+  <trd lng="pl">obiektyw</trd>
+  <trd lng="pt">obje(c)tiva</trd>
+  <trd lng="ro">obiectiv  <klr>(foto)</klr></trd>
+  <trd lng="ru">&c_o;&c_b;&c_malmol;&c_je;&c_k;&c_t;&c_i;&c_v;</trd>
+  <trd lng="sk">objekt&iacute;v</trd>
+  <trd lng="cs">objektiv</trd>
+  <trd lng="de">Objektiv</trd>
+  <trd lng="uk">&c_o;&c_b;&#8217;&c_jeu;&c_k;&c_t;&c_i;&c_v; (&c_ch;&c_a;&c_s;&c_t;&c_i;&c_n;&c_a; &c_o;&c_p;&c_t;&c_i;&c_ch;&c_n;&c_o;&c_g;&c_o; &c_p;&c_r;&c_i;&c_l;&c_a;&c_d;&c_u;)</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/20 05:22:17
+revo: transskribo per <pr>
+
+versio 1.23 2023/10/04 06:28:25
+Wolfram Diestel: fnt PFEV, +ekz, ref
+
+versio 1.20 2021/05/04 21:52:37
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.18  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2011/12/10 21:10:24  revo
+Marc Rausell: +trd ca
+
+Revision 1.15  2010/04/24 17:06:37  revo
+Jeromo Vasxe: ref vid -> ref hom
+
+Revision 1.14  2010/04/19 16:30:33  revo
+-->
+</vortaro>

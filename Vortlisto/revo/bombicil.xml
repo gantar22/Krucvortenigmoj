@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bombicil.xml,v 1.15 2022/04/26 15:00:33 revo Exp $">
+
+<kap>
+  <rad>bombicil</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="bombicil.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bombicil.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="bird.0o" lst="voko:birdoj">Birdo</ref> 
+      karakterizata de plumtufo
+      sur la kapo; 
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">genro</ref>
+      (<trd lng="la">Bombycilla</trd>)
+      kun tri specioj 
+      el la ordo de <ref tip="malprt" cel="paser.0oformaj">paseroformaj</ref>
+      birdoj:
+      <ekz>
+        sorpoj, estas grava man&gcirc;o <klr>[&#8230;]</klr> por multaj birdoj, notinde la Ru&gcirc;aksela
+        turdo, la Griza turdo, la Merlo, la Viskoturdo kaj la <tld lit="B"/>o, kiuj siavice
+        disigas la semojn per siaj feka&jcirc;oj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=310328">Birdokaptista sorbuso</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/c/c3/Bombycilla_cedrorum_CT2.jpg/640px-Bombycilla_cedrorum_CT2.jpg"
+    prm="CC BY-SA 3.0">Cedra <tld/>o (Bombycilla cedrorum), Kebeko, Kanado
+        <fnt>
+          <aut>Cephas, propra verko</aut>
+          <lok><url
+          ref="&WCW;/File:Bombycilla_cedrorum_CT2.jpg">&WCW;/File:Bombycilla_cedrorum_CT2.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_a;&c_m;&c_ja;&c_l;&c_u;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="ca">g&egrave;nere Bombycilla</trd>
+  <trd lng="cs">brkoslav</trd>
+  <trd lng="de">Seidenschwanz<klr tip="amb"> (Vogel)</klr></trd>
+  <trd lng="en">Bohemian Waxwing</trd>
+  <trd lng="fr">jaseur bor&eacute;al</trd>
+  <trd lng="hu">selyemfark&uacute; mad&aacute;r</trd>
+  <trd lng="pl">jemio&lstroke;uszka</trd>
+  <trd lng="sk">chochol&aacute;&ccaron;</trd>
+  <trd lng="uk">&#x43E;&#x43C;&c_je;&#x43B;&#x44E;&c_h;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.15 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.14 2022/04/06 08:35:17
+Dmitri Gabinski: + trd be
+
+Revision 1.11  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2015/04/22 20:10:20  revo
+Wolfram Diestel: ref al ordo anst. familio
+
+Revision 1.8  2015/03/21 19:10:15  revo
+Wolfram Diestel: ref/lst
+
+Revision 1.7  2012/08/21 12:10:12  revo
+Jeromo Vasxe: - ntr
+
+Revision 1.6  2012/01/04 13:10:25  revo
+-->
+</vortaro>

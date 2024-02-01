@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sled.xml,v 1.27 2023/09/29 20:26:33 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>sled</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="sled.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sled.0o.glitveturilo">
+    <dif>
+      <ref tip="dif" cel="vetur.glit0ilo">Glitveturilo</ref>:
+      <ekz>
+        plej interesa estas <klr>[&#8230;]</klr> eksidi sur la <tld/>o <klr>[&#8230;]</klr> irigi la
+        &ccirc;evalon la&ubreve;vole
+        <fnt>
+          <bib>HsT</bib>
+          <lok>La nepo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Perov</nom> en pentra&jcirc;o &leftquot;triopo&rightquot; vidigas movadon de <tld/>o per kuranta hundeto
+        <fnt>
+          <bib>KFl</bib>
+          <lok>VI. Trigonometrio de arto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per <tld/>oj tirataj de &ccirc;evaloj, esperantistoj faris ekskurson tra montaro
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 3 (65)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi tuj sidi&gcirc;is rajde sur la <tld/>eto kaj lasis &gcirc;in gliti
+        malsupren
+        <fnt><bib>Kiso</bib> <lok>la punkto de Arkimedo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_n;&c_ib;</trd>,
+    <trd>&c_s;&c_a;&c_n;&c_k;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_sh;&c_je;&c_j;&c_n;&c_a;</trd>
+  <trd lng="ca">trineu</trd>
+  <trdgrp lng="cs">
+    <trd>san&ecaron;</trd>,
+    <trd>s&aacute;&ncaron;ky</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schlitten</trd>,
+    <trd>Rodel</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>sled</trd>,
+    <trd>bobsled</trd>,
+    <trd>bobsleigh</trd>,
+    <trd>toboggan</trd>
+  </trdgrp>
+  <trd lng="fr">luge</trd>
+  <trdgrp lng="hu">
+    <trd>sz&aacute;n</trd>,
+    <trd>sz&aacute;nk&oacute;</trd>
+  </trdgrp>
+  <trd lng="it">slitta</trd>
+  <trd lng="ja">&#x305D;&#x308A;</trd>
+  <trdgrp lng="nl">
+    <trd>slee</trd>,
+    <trd>slede</trd>
+  </trdgrp>
+  <trd lng="pl">sanie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_a;&c_n;&c_i;</trd>,
+    <trd>&c_s;&c_a;&c_n;&c_k;&c_i;</trd>,
+    <trd>&c_s;&c_a;&c_l;&c_a;&c_z;&c_k;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sane</trd>,
+    <trd>s&aacute;nky</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_a;&c_n;&c_i;</trd>,
+    <trd>&c_s;&c_a;&c_n;&c_k;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sled.motor0o">
+  <kap>
+    motor<tld/>o
+  </kap>
+  <snc mrk="sled.motor0o.TRA">
+    <dif>
+      <ref tip="super" cel="vetur.glit0ilo.TRA">Glitveturilo</ref>
+      por unu a&ubreve; du homoj, portata de skioj, pelata de motoro:
+      <ekz>
+        <nom>Sven</nom>, pli lerta pri mekaniko, helpis lin plifortigi
+        la motoron de lia motor<tld/>o
+        <fnt>
+          <aut>L. Patas d&#8217;Illiers</aut>
+          <vrk><url ref="&Sezonoj;2021/01/patas-2/">Memorflokoj</url></vrk>
+          <lok>La Ondo de Esperanto, 2020:4 (306)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili povas anka&ubreve; da&ubreve;rigi la aventuron, veturante per hunda a&ubreve; motora <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Saliko</aut>
+          <vrk><url ref="&Monato;/2007/009120.php">Krozi en glacio</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_o;&c_t;&c_a;&c_s;&c_a;&c_n;&c_ib;</trd>
+  <trd lng="de">Motorschlitten</trd>
+  <trd lng="fr">motoneige</trd>
+  <trd lng="it">motoslitta</trd>
+  <trdgrp lng="pl">
+    <trd>skuter &sacute;nie&zdot;ny</trd>,
+    <trd>sanie motorowe</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/09/29 20:26:33
+Vito Redsky: +trd pl 
+
+versio 1.25 2023/04/11 18:56:02
+aktualigo Monato-URL
+
+versio 1.24 2022/12/27 08:32:50
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/05/09 19:24:14
+Wolfram Diestel: dif per sin glitveturilo, ekz-oj, trd de
+
+versio 1.22 2022/05/05 05:09:57
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2021/01/18 02:14:38
+Jeromo Vasxe: + motor~o
+
+Revision 1.18  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2011/12/03 16:10:16  revo
+-->
+</vortaro>

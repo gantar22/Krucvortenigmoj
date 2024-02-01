@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: peonia.xml,v 1.12 2022/04/26 06:37:27 revo Exp $">
+<kap>
+  <rad>peoniac</rad>/oj
+</kap>
+<drv mrk="peonia.0oj">
+  <kap><tld/>oj</kap>
+  <snc>
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
+      plantoj (<trd lng="la">Paeoniaceae</trd>):
+      <ekz>
+        la <tld/>oj <klr>[&#8230;]</klr> nur konsistas el unu sola genro, tiu
+        genro havas 32
+        speciojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=511041"
+              >Peoniacoj</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="prt" cel="peoni.0o">peonio</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_ib;&c_v;&c_o;&c_n;&c_je;&c_v;&c_y;&c_ja; <klr>(&c_s;&c_ja;&c_m;&#8217;&c_ja;)</klr></trd>
+  <trd lng="cs">pivo&ncaron;kovit&eacute; <klr>(&ccaron;ele&dcaron;)</klr></trd>
+  <trd lng="de">Pfingstrosengew&auml;chse</trd>
+  <trdgrp lng="fr">
+    <trd>Pa&eacute;oniac&eacute;es</trd>,
+    <trd>P&eacute;oniac&eacute;es</trd>
+  </trdgrp>
+  <trd lng="hu">bazsar&oacute;zsaf&eacute;l&eacute;k</trd>
+  <trd lng="nl">pioenroosfamilie</trd>
+  <trd lng="pl">piwoniowate</trd>
+  <trd lng="pt">peoni&aacute;ceas</trd>
+  <trd lng="ro">Paeoniaceae</trd>
+  <trd lng="ru">&c_p;&c_i;&c_o;&c_n;&c_o;&c_v;&c_y;&c_je; <klr
+tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  <trd lng="sk">piv&oacute;niovit&eacute;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.12 2022/04/26 06:37:27
+Dmitri Gabinski: + trd be
+
+versio 1.11 2022/01/31 23:29:32
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.10 2020/05/14 12:12:06
+Damien Brucker: +trd fr
+
+Revision 1.8  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2013/08/25 16:11:02  revo
+Wolfram Diestel: referenco al listo bot familio
+
+Revision 1.5  2006/02/27 17:34:02  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2002/05/11 10:27:12  revo
+-->
+</vortaro>

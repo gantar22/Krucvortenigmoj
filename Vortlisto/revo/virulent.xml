@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: virulent.xml,v 1.8 2023/10/21 16:50:36 revo Exp $">
+<kap>
+  <rad>virulent</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="virulent.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="virulent.0a.MED">
+    <uzo tip="fak">MED</uzo>
+    <uzo tip="klr">(pri malsano, mikrobo)</uzo>
+    <dif>
+      <ref tip="dif" cel="akut.0a.malsano">Akuta<sncref/></ref>:
+      <ekz>
+        anta&ubreve;-inokulado de malforte <tld/>aj &gcirc;ermoj
+        <fnt>
+         <aut>M. Hesse, C. Werner, M. S&uuml;sse</aut>,
+         <vrk><url ref="&STEB;kemio/substancoj/substancoj.htm">
+         Kelkaj aspektoj de la kemio de naturaj substancoj</url></vrk>,
+         <lok>Scienca Revuo, 1992:1 (43), p. 32a-37a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+   <trd lng="fr">aigu<klr> (maladie)</klr></trd> 
+  </snc>
+  <snc mrk="virulent.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Vigla kaj malutila:
+      <ekz>
+        Usono enfalis en la embuskon de la <tld/>a franca
+        kolonidefenda histerio
+        <fnt>
+          <aut>rh</aut>,
+          <vrk><url ref="https://scienca-revuo.info/article/viewFile/1087/1066">
+          Dan Diner: la jarcenton kompreni</url></vrk>,
+          <lok>Scienca Revuo, 1999:2 (50)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+   <trd lng="fr">virulent</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_ib;&c_r;&c_u;&c_l;&c_je;&c_n;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_a;&c_t;&c_v;&c_o;&c_r;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x75C5;&#x539F;&#x6027;&#x306E;  <pr>&#x3073;&#x3087;&#x3046;&#x3052;&#x3093;&#x305B;&#x3044;&#x306E;</pr></trd>,
+    <trd>&#x6BD2;&#x6027;&#x306E;  <pr>&#x3069;&#x304F;&#x305B;&#x3044;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_v;&#x43E;&c_r;&#x43E;&c_b;&#x43E;&c_t;&c_v;&#x43E;&c_r;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_ib;&c_r;&c_u;&#x43B;&c_je;&#x43D;&c_t;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.6 2023/03/13 10:33:32
+Dmitri Gabinski: + trd be
+
+versio 1.5 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.2  2016/10/05 10:10:23  revo
+Wolfram Diestel: dif chirkau ref-dif
+
+Revision 1.1  2016/04/05 22:10:15  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

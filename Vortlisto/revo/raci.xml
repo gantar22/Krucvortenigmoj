@@ -1,0 +1,541 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: raci.xml,v 1.33 2023/10/20 19:20:10 revo Exp $">
+<kap>
+  <ofc>1</ofc> <rad>raci</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="raci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="raci.0o.PSI">
+    <dif>
+      Kapablo decidi per logika rezonado 
+      (kontraste al <ref tip="ant" cel="emoci.0o.PSI">emocio</ref>):
+      <ekz>
+        ekzistas ia senfine pli granda forto ol lia volo: la &scirc;tata <tld/>o, kiun
+        respektas e&ccirc; la &ccirc;iopova faraono
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Beatrico &gcirc;uas sian plenan <tld/>on, &gcirc;uste tial ke &scirc;i estas perfekte logikema, &scirc;i
+        ne povas intervenigi en siajn ju&gcirc;ojn elementojn, kiuj por &scirc;i neniam ekzistis
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekkvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la scienco kaj tekniko faris grandegajn progresojn, 
+        la <tld/>o tamen ne multe penetris en la cerbojn
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lingvo fari&gcirc;as io sankta, io fea, io fabela, io mita
+        &dash; io, kio situas ekster la kampo de <tld/>o
+        <fnt>
+          <aut>C. Piron</aut>,
+          <vrk>Psikologiaj aspektoj de la monda lingvoproblemo
+          kaj de Esperanto</vrk>,
+          <lok>1998-03-21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la racio kontra&ubreve;as tiujn &hcirc;aosajn sentotrompi&gcirc;ojn &ndash; nenio estas pli trompa, &ndash;
+        rediris <nom>Ilu-ittia</nom>, &ndash; ol ampleksa dira&jcirc;o, pretendanta la <tld/>on
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la sfero de la pura <tld/>o la ekzisto de Dio estas
+        nepruvebla
+        <fnt><bib>MkM</bib>, <lok>p. 10a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="intele.0o">intelekto</ref>,
+      <ref cel="pruden.0o">prudento</ref>,
+      <ref cel="sagx.0o.prudento">sa&gcirc;o</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_o;&c_z;&c_u;&c_m;</trd>
+  <trd lng="cs">rozum</trd>
+  <trdgrp lng="de">
+    <trd>Vernunft</trd>,
+    <trd>Verstand</trd>,
+    <trd>Ratio</trd>,
+    <trd>R&auml;son</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>reason</trd>,
+    <trd>sense</trd>,
+    <trd>logical faculty</trd>,
+    <trd>rationality</trd>,
+    <trd>judgment</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>raz&oacute;n<klr> (capacidad de razonar)</klr></trd>,
+    <trd>facultad de razocinio</trd>,
+    <trd>racionalidad</trd>,
+    <trd>juicio</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>raison<klr> (capacit&eacute; de raisonner)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&eacute;sz</trd>,
+    <trd>r&aacute;ci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7406;&#x6027;  <pr>&#x308A;&#x305B;&#x3044;</pr></trd>,
+    <trd>&#x5206;&#x5225;  <pr>&#x3076;&#x3093;&#x3079;&#x3064;</pr></trd>,
+    <trd>&#x9053;&#x7406;  <pr>&#x3069;&#x3046;&#x308A;</pr></trd>,
+    <trd>&#x6761;&#x7406;  <pr>&#x3058;&#x3087;&#x3046;&#x308A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>rede</trd>,
+    <trd>ratio</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rozum</trd>,
+    <trd>racja</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>raz&atilde;o</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_u;&c_d;&c_o;&c_k;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_u;&c_m;</trd>
+  </trdgrp>
+  <trd lng="sk">rozum</trd>
+  <trd lng="sv">f&ouml;rnuft</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_u;&c_m;</trd>,
+    <trd>&c_z;&c_d;&c_o;&c_r;&c_o;&c_v;&c_i;&c_j; &c_g;&c_l;&c_u;&c_z;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="raci.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="raci.0a.iu">
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Posedanta la <tld/>on:
+      <ekz>
+        homo estas <tld/>a esta&jcirc;o, do li devas konsideri la aferojn ne nur la&ubreve; ties
+        rigida realeco, sed li devas strebi pli alten
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Deka &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ver&scirc;ajne en mia situacio &ccirc;iu <tld/>a angla &scirc;tatano trovi&gcirc;us en la sama necerteco
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekunua &Ccirc;apitro</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mens.klar0a">klarmensa</ref>,
+      <ref cel="pruden.0a">prudenta</ref>,
+      <ref cel="parti.sen0a.iu">senpartia</ref>,
+      <ref cel="sobr.0a.FIG">sobra<sncref/></ref>
+    </refgrp>
+    <trd lng="be">&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_y;</trd>
+    <trdgrp lng="de">
+      <trd>vernunftbegabt</trd>,
+      <trd>vern&uuml;nftig</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&eacute;sz-</trd>,
+      <trd>racion&aacute;lis</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_y;&c_j;</trd>;
+      <trd>&c_r;&c_a;&c_s;&c_s;&c_u;&c_d;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+    <trdgrp lng="sv">
+      <trd>f&ouml;rnuftig</trd>,
+      <trd>rationell</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="raci.0a.io">
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Bazita sur la <tld/>o, konforma al la <tld/>o:
+      <ekz>
+        tro <tld/>aj kaj tro sciencoplenaj klarigoj
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekkvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        liaj ludoj ricevis nun tute alian karakteron, ili fari&gcirc;is pli <tld/>aj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kreo kaj enkonduko en uzadon de <tld/>a lingvo internacia
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la principoj de <tld/>a gramatiko kaj de internacia vortaro
+        <fnt>
+          <bib>Zam</bib>
+          <lok>La principoj de racia gramatiko kaj de internacia vortaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pensi, detale esplori, t.e. uzi la solajn <tld/>ajn rimedojn, oni ne volas
+        <fnt>
+          <bib>IKr</bib>
+          <lok>Rakonto Pri Spiritoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tamen ekzistas <tld/>a solvo, kaj ni fine trovos &gcirc;in
+        <fnt>
+          <bib>ChB</bib>
+          <lok>7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se, en <tld/>aj limoj, dubo restas, la &jcirc;urio ne rajtas deklari min kulpa
+        <fnt>
+          <bib>ChB</bib>
+          <lok>30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ver&scirc;ajne estas ia <tld/>a klarigo
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Stefano enketas pri &Gcirc;oja Karal</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="logik.0a">logika</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_y;</trd>,
+      <trd>&c_r;&c_a;&c_z;&c_u;&c_m;&c_o;&c_v;&c_y;</trd>,
+      <trd>&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>vern&uuml;nftig</trd>,
+      <trd><ind>logisch</ind> begr&uuml;ndet</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&eacute;szszer&udblac;</trd>,
+      <trd>racion&aacute;lis</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+    <trdgrp lng="sv">
+      <trd>f&ouml;rnuftsenlig</trd>,
+      <trd>rationell</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>racion&aacute;ln&iacute;</trd>,
+    <trd>rozumn&yacute;</trd>,
+    <trd>rozumov&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>rational</trd>,
+    <trd>reasonable</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>racional</trd>,
+    <trd>sensato</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>raisonnable</trd>,
+    <trd>rationnel</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7406;&#x6027;&#x306E;  <pr>&#x308A;&#x305B;&#x3044;&#x306E;</pr></trd>,
+    <trd>&#x7406;&#x6027;&#x7684;&#x306A;  <pr>&#x308A;&#x305B;&#x3044;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x5408;&#x7406;&#x7684;&#x306A;  <pr>&#x3054;&#x3046;&#x308A;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x9053;&#x7406;&#x306B;&#x304B;&#x306A;&#x3063;&#x305F;  <pr>&#x3069;&#x3046;&#x308A;&#x306B;&#x304B;&#x306A;&#x3063;&#x305F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">redelijk</trd>
+  <trdgrp lng="pl">
+    <trd>rozumny</trd>,
+    <trd>racjonalny</trd>,
+    <trd>s&lstroke;uszny</trd>
+  </trdgrp>
+  <trd lng="pt">racional</trd>
+  <trdgrp lng="sk">
+    <trd>racion&aacute;lny</trd>,
+    <trd>&uacute;&ccaron;eln&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_a;&c_c;&c_ib;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_u;&c_m;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="raci.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="raci.0eco.PSI">
+    <dif>
+      Konformeco al <tld/>o:
+      <ekz>
+        <klr>[ili]</klr> ne toleras inter si la <tld/>econ kaj, <klr>[&#x2026;]</klr> ili volis
+        trudi la frenezon anka&ubreve; al mi
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekunua &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        penso kaj legendo tro abomena por la <tld/>eco a&ubreve; la konscio
+        <fnt>
+          <bib>Sol</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        simpleco kaj <tld/>eco &ccirc;ie, kaj aplikebla al &ccirc;iu
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Manuel Halvelik</aut>
+          <vrk><url ref="&Monato;/2007/008949.php">Atentinda solvo por kompleksega
+          problemo</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">racion&aacute;lnost</trd>
+  <trdgrp lng="de">
+    <trd>Vernunftgem&auml;&szlig;heit</trd>,
+    <trd>Rationalit&auml;t</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>rationality</trd>,
+    <trd>reasonableness</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>racionalidad</trd>,
+    <trd>razonabilidad</trd>
+  </trdgrp>
+  <trd lng="fr">rationalit&eacute;</trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;szszer&udblac;s&eacute;g</trd>,
+    <trd>racionalizmus</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5408;&#x7406;&#x6027;  <pr>&#x3054;&#x3046;&#x308A;&#x305B;&#x3044;</pr></trd>
+  <trd lng="nl">redelijkheid</trd>
+  <trdgrp lng="pl">
+     <trd>zgodno&sacute;&cacute; z <ind>rozumem</ind></trd>,
+     <trd>racjonalno&sacute;&cacute;</trd>,
+     <trd>s&lstroke;uszno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">racion&aacute;lnos&tcaron;</trd>
+  <trd lng="sv">f&ouml;rnuftighet</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_a;&c_c;&c_ib;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_u;&c_m;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="raci.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="raci.0igi.KOMUNE">
+    <dif>
+      Igi konforma al la <tld/>o:
+      <ekz>
+        <nom>Bernard Shaw</nom> siatempe proponis grandan premion al tiu, kiu <tld/>igos terure
+        nelogikan anglan lingvon
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#x2116;1</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de"><ind>vern&uuml;nftig</ind> gestalten</trd>
+    <trd lng="es">razonar</trd>
+  </snc>
+  <snc mrk="raci.0igi.TEK">
+    <dif>
+      Metode plibonigi kaj pliefikigi:
+      <ekz>
+        <tld/>igi la laboron, la produktadon;
+      </ekz>
+      <ekz>
+        helpe de la Internacia Lingvo eblus konsiderinde <tld/>igi la internacian
+        trafikon
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kulpas la &ccirc;efa in&gcirc;eniero, <tld/>igon li aran&gcirc;as, &ccirc;u multe malalti&gcirc;os la salajro?
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        prepare al planata transloki&gcirc;o, mi decidis <tld/>igi mian ar&hcirc;ivon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2012/010663.php">De papero al komputilo: bitigo de presitaj
+          dokumentoj</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">rationalisieren</trd>
+    <trd lng="es">racionalizar</trd>
+    <trd lng="nl">rationaliseren</trd>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>racionalizovat</trd>,
+    <trd>zracionalizovat</trd>
+  </trdgrp>
+  <trd lng="en">rationalize</trd>
+  <trd lng="fr">rationaliser</trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;szszer&udblac;s&iacute;t</trd>,
+    <trd>racionaliz&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5408;&#x7406;&#x5316;&#x3059;&#x308B;  <pr>&#x3054;&#x3046;&#x308A;&#x304B;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7406;&#x6027;&#x7684;&#x306B;&#x3059;&#x308B;  <pr>&#x308A;&#x305B;&#x3044;&#x3066;&#x304D;&#x306B;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">usprawnia&cacute;</trd>
+  <trd lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">zracionalizova&tcaron;</trd>
+  <trd lng="uk">&c_r;&c_a;&c_c;&c_ib;&c_o;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="raci.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="raci.0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      <ref tip="dif" cel="racion2.0o">Racionalismo</ref>:
+      <ekz>
+        en 1959 aperis lia <klr>(<nom>Hundertwasser</nom>)</klr> &leftquot;Mal&scirc;imiga
+        Manifesto&rightquot; kontra&ubreve; la <tld/>ismo en la arkitekturo
+        <fnt><aut>Walter Klag</aut>,
+        <vrk><url ref="&Monato;/2000/006938.php">Friedensreich Hundertwasser 1928 -
+        2000</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/07, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la zamenhofaj paroloj &scirc;ajnis al la francoj de la 19a jarcento,
+        enradiki&gcirc;intaj en la tradicio de senkompromisa <tld/>ismo,
+        dan&gcirc;ere emociaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Reinaldo Marcelo Ferreira</aut>
+          <vrk><url ref="&Monato;/2007/009078.php">Interlingvistiko
+          por &ccirc;iuj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="ca">racionalisme</trd>
+  <trd lng="cs">racionalismus</trd>
+  <trd lng="de">Rationalismus</trd>
+  <trd lng="en">rationalism</trd>
+  <trd lng="es">racionalismo</trd>
+  <trd lng="fr">rationalisme</trd>
+  <trd lng="hu">racionalizmus</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5408;&#x7406;&#x4E3B;&#x7FA9;  <pr>&#x3054;&#x3046;&#x308A;&#x3057;&#x3085;&#x304E;</pr></trd>,
+    <trd>&#x7406;&#x6027;&#x8AD6;  <pr>&#x308A;&#x305B;&#x3044;&#x308D;&#x3093;</pr></trd>,
+    <trd>&#x5408;&#x7406;&#x8AD6;  <pr>&#x3054;&#x3046;&#x308A;&#x308D;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">rationalisme</trd>
+  <trd lng="pl">racjonalizm</trd>
+  <trd lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">racionalizmus</trd>
+  <trd lng="sv">rationalism</trd>
+  <trd lng="uk">&c_r;&c_a;&c_c;&c_ib;&c_o;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+</drv>
+
+<drv mrk="raci.kontraux0ismo">
+  <kap>kontra&ubreve;<tld/>ismo</kap>
+  <snc mrk="raci.kontraux0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      &Ccirc;ia doktrino kontra&ubreve;a al <tld/>ismo, ne akceptanta
+      <tld/>on kiel &ccirc;iam plej altan a&ubreve;toritaton:
+      <ekz>
+        la <tld/>ismo kaj la moderna kontra&ubreve;<tld/>ismo
+        la <tld/>on &ccirc;u senkritike supertaksas, &ccirc;u same
+        senkritike malakceptas
+        <fnt><aut>V. O&scaron;lak</aut>, <vrk>Foje e&ccirc; pensi estas &gcirc;uo</vrk>, 
+        <lok>2003</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_y;&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="de">Antirationalismus</trd>
+  <trd lng="en">antirationalism</trd>
+  <trd lng="es">antiracionalismo</trd>
+  <trd lng="fr">antirationalisme</trd>
+  <trd lng="pl">antyracjonalizm</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.33 2023/10/20 19:20:10
+revo: transskribo per <pr>
+
+versio 1.31 2023/06/22 23:31:02
+Vito Redsky: +trd pl 
+
+versio 1.30 2023/06/20 08:30:36
+Dmitri Gabinski: + trd be
+
+versio 1.29 2023/06/18 12:40:31
+Christian Siefkes: +trd de, en
+
+versio 1.28 2023/04/27 06:34:06
+
+versio 1.27 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2022/03/07 20:29:43
+Wolfram Diestel: +ekz-oj, ref-oj
+
+versio 1.24 2020/01/12 01:10:54
+Evandro Avellar: trd+ pt
+-->
+</vortaro>

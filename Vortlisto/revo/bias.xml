@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bias.xml,v 1.7 2023/10/29 19:11:01 revo Exp $">
+<kap>
+  <rad>bias</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="bias.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bias.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Sistema eraro pro mal&gcirc;usta mezurado, taksado
+      a&ubreve; alia cirkonstanco, kiu miskonkludigas,
+      se oni ne forkalkulas &gcirc;in.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="inklin.0o.KOMUNE">inklino<sncref/></ref>,
+      <ref cel="oblikv.0eco.malrekteco">oblikveco<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Verzerrung</trd>,
+      <trd>Bias</trd>,
+      <trd>systematischer <ind>Fehler</ind></trd>
+    </trdgrp>
+    <trd lng="fr">biais<klr> (sci., exp&eacute;rimentation)</klr></trd>
+    <trd lng="en">bias</trd>
+  </snc>
+  <trd lng="cs">p&rcaron;edpojatost</trd>
+  <trd lng="sk">predpojatos&tcaron;</trd>
+</drv>
+
+<drv mrk="bias.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="bias.0a.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Havanta <tld/>on, erara pro <tld/>o:
+      <ekz>
+        vi analizas la&ubreve; viaj hipotezoj, kiuj fakte
+        estas <tld/>aj 
+        <fnt>
+          <aut>A. Saliba</aut>,
+          <vrk><url ref="http://groups.yahoo.com/group/esperanto-l/message/43046">
+          Projekto NESTO</url></vrk>,
+          <lok>soc.culture.esperanto, 2004-01-14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">verzerrt</trd>
+    <trd lng="fr">biais&eacute;</trd>
+    <trd lng="en">biased</trd>
+    <trdgrp lng="zh">
+    <trd>&#x4F7F;&#x5931;&#x771F; <pr>sh&#x1D0;sh&#x12B;zh&#x113;n</pr></trd>,
+    <trd>&#x6B6A;&#x66F2; <pr>w&#x101;iq&#x16B;</pr></trd>,
+    <trd>&#x5F04;&#x6B6A; <pr>n&#xF2;ngw&#x101;i</pr></trd>
+  </trdgrp>
+</snc>
+</drv>
+
+<drv mrk="bias.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="bias.sen0a.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Ne havanta <tld/>on, supozeble &gcirc;usta, objektiva:
+      <ekz>
+        &leftquot;Wolfram Alpha liveras tujan, sen<tld/>an
+        kaj personigitan informon&rightquot;
+        <fnt>
+          <aut>K. Miner</aut>,
+          <vrk><url ref="http://www.airbits.com/~miner/TAGLIBRO_package/Novembro_2009.html">
+          taglibro</url></vrk>,
+          <lok>2009-11-12</lok>*
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">non biais&eacute;</trd>
+    <trd lng="en">unbiased</trd>
+    <trd lng="zh">&#x4E0D;&#x51FA;&#x6240;&#x6599; <pr>b&#xF9;ch&#x16B;su&#x1D2;li&#xE0;o</pr></trd>
+</snc>
+  <trd lng="cs">nep&rcaron;edpojat&yacute;</trd>
+  <trd lng="de">erwartungstreu</trd>
+  <trdgrp lng="sk">
+    <trd>nepredpojat&yacute;</trd>,
+    <trd>nestrann&yacute;</trd>,
+    <trd>nezaujat&yacute;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2022/07/04 16:46:13
+Wolfram Diestel: +trd de
+
+Revision 1.4  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2011/06/15 07:10:09  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.2  2011/04/16 11:10:22  revo
+Nicolas Bros: +trd en
+
+Revision 1.1  2011/04/12 19:10:08  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

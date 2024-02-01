@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mart.xml,v 1.50 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>Mart</rad>/o,
+  <var><kap><rad var="m">mart</rad>/o</kap></var>
+</kap>
+<drv mrk="mart.0o">
+  <kap><ofc>*</ofc><tld/>o, <var><kap><tld var="m"/>o</kap></var></kap>
+  <snc mrk="mart.0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      Tria <ref tip="lst" cel="monat.0o.KAL" lst="voko:monatoj" val="3">monato</ref> de la <ref
+      tip="malprt" cel="jar.0o.KAL">jaro</ref> la&ubreve; la Gregoria kalendaro, inter
+      <ref cel="februa.0o">Februaro</ref> kaj <ref cel="april.0o">Aprilo</ref>:
+      <ekz>
+        hodia&ubreve; estas la dudek sepa (tago) de <tld/>o
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la dek du monatoj de l' kristana jaro estas: Januaro, Februaro, <tld/>o, Aprilo,
+        <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la taga lumo da&ubreve;ros sen interrompo de la 21 de <tld/>o &gcirc;is la 22 de Septembro
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en unu el la pluvaj tagoj de <tld/>o per grandaj pa&scirc;oj iris sur la kota strato de la vila&gcirc;o
+        Vindirkovo unu vila&gcirc;ano
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en <tld var="m"/>o la blua strio mallar&gcirc;i&gcirc;us, kaj <klr>[&#8230;]</klr> ricevus oran koloron pro la
+        maturi&gcirc;o de la grenoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e la romianoj la jaro iam komenci&gcirc;is la unuan de
+        <tld var="m"/>o, sed en la jaro 153 anta&ubreve; Kristo la jarkomenco estis
+        transigita al la unua de januaro
+        <fnt>
+          <aut>E. Georgiev</aut>,
+          <vrk>&Ccirc;u kalendar-reformo estos bezonata?</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 1998a, numero 2a, p. 11a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="vid" cel="januar.0o.RIM">Januaro, Rim.</ref>
+  <trd lng="af">Maart</trd>
+  <trd lng="am">&#x121B;&#x122D;&#x127D;</trd>
+  <trd lng="an">marzo</trd>
+  <trd lng="ar">&a_m;&a_A;&a_r;&a_s;</trd>
+  <trd lng="as">marzu</trd>
+  <trd lng="az">mart</trd>
+  <trd lng="ba">&c_M;&c_a;&c_r;&c_t;</trd>
+  <trd lng="be">&c_s;&c_a;&c_k;&c_a;&c_v;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_r;&c_t;</trd>
+  <trd lng="bn">&#x9AE;&#x9BE;&#x9B0;&#x9CD;&#x99A;</trd>
+  <trd
+  lng="bo">&#xF5F;&#xFB3;&#xF0B;&#xF56;&#xF0B;&#xF42;&#xF66;&#xF74;&#xF58;&#xF0B;&#xF54;&#xF0B;</trd>
+  <trd lng="br">Meurzh<klr tip="ind"> (miz)</klr></trd>
+  <trd lng="bs">mart</trd>
+  <trd lng="ca">mar&ccedil;</trd>
+  <trd lng="co">marzu</trd>
+  <trd lng="cs">b&rcaron;ezen</trd>
+  <trd lng="cy">Mawrth</trd>
+  <trd lng="da">marts</trd>
+  <trdgrp lng="de">
+    <trd>M&auml;rz</trd>,
+    <trd>Lenz</trd>
+  </trdgrp>
+  <trd lng="dsb">p&oacute;zymski</trd>
+  <trd lng="el">&My;&alfa_ton;&rho;&tau;&jota;&omikron;&sigma_fina;</trd>
+  <trd lng="en">March</trd>
+  <trd lng="es">marzo</trd>
+  <trd lng="et">m&auml;rts</trd>
+  <trd lng="eu">martxo</trd>
+  <trd lng="fa">&a_m;&a_A;&a_r;&a_s;</trd>
+  <trd lng="fi">maaliskuu</trd>
+  <trd lng="fo">mars</trd>
+  <trd lng="fr">mars</trd>
+  <trd lng="fur">mar&ccedil;</trd>
+  <trd lng="fy">maart</trd>
+  <trd lng="ga">M&aacute;rta</trd>
+  <trd lng="gd">M&agrave;rt</trd>
+  <trd lng="gl">Marzo</trd>
+  <trd lng="gu">&#xAAE;&#xABE;&#xAB0;&#xACD;&#xA9A;</trd>
+  <trd lng="gv">Mart</trd>
+  <trd lng="ha">Malaki</trd>
+  <trdgrp lng="he">
+    <trd><klr tip="ind">&het;&vav;&dalet;&shin;
+    </klr>&mem;&resh;&ftsadi;</trd>,
+    <trd>&mem;&alef;&resh;&samekh;</trd>
+  </trdgrp>
+  <trd lng="hi">&#x92E;&#x93E;&#2352;&#x94D;&#x91A;</trd>
+  <trd lng="hr">o&zcaron;ujak</trd>
+  <trd lng="hsb">m&ecaron;rc</trd>
+  <trd lng="ht">mas</trd>
+  <trd lng="hu">m&aacute;rcius</trd>
+  <trd lng="hy">&#1396;&#1377;&#1408;&#x57F;</trd>
+  <trd lng="ia">martio</trd>
+  <trd lng="id">Maret</trd>
+  <trd lng="ie">marte</trd>
+  <trd lng="io">marto</trd>
+  <trd lng="is">mars</trd>
+  <trd lng="it">marzo</trd>
+  <trd lng="iu">&#x14C7;&#5222;&#x14EF;&#x140A;&#x14D5;&#5125;&#5222;</trd>
+  <trd lng="ja">&#x4E09;&#26376; <pr>&#12373;&#12435;&#x304C;&#12388;</pr></trd>
+  <trdgrp lng="jbo">
+    <trd>cibma'i</trd>,
+    <trd>fipma'i</trd>
+  </trdgrp>
+  <trd lng="jv">maret</trd>
+  <trd lng="ka">&#x10DB;&#x10D0;&#x10E0;&#x10E2;&#x10D8;</trd>
+  <trd lng="kk">&c_n;&c_a;&c_u;&c_r;&c_y;&c_z;</trd>
+  <trd lng="kl">Martsi</trd>
+  <trd lng="km">&#6040;&#x17B8;&#6035;&#x17B6;</trd>
+  <trd lng="kn">&#xCAE;&#xCBE;&#xCB0;&#xCCD;&#xC9A;&#xCCD;</trd>
+  <trd lng="ko">&#xC0BC;&#xC6D4;</trd>
+  <trd lng="ks">M&auml;&auml;z</trd>
+  <trd lng="ku">Adar</trd>
+  <trd lng="ky">&c_M;&c_a;&c_r;&c_t;</trd>
+  <trd lng="lb">M&auml;erz</trd>
+  <trd lng="li">miert</trd>
+  <trd lng="lo">&#xEA1;&#xEB5;&#xE99;&#xEB2;</trd>
+  <trd lng="lt">kovas</trd>
+  <trd lng="lv">marts</trd>
+  <trd lng="mg">Martsa</trd>
+  <trd lng="mi">m&auml;ehe</trd>
+  <trd lng="mk">&c_m;&c_a;&c_r;&c_t;</trd>
+  <trd lng="ml">&#xD2E;&#xD3E;&#xD30;&#xD4D;&#x200D;&#xD1A;&#xD4D;&#xD1A;&#xD4D;</trd>
+  <trd lng="mr">&#x92E;&#x93E;&#2352;&#x94D;&#x91A;</trd>
+  <trd lng="ms">mac</trd>
+  <trd lng="mt">Marzu</trd>
+  <trd lng="my">&#4121;&#4112;&#x103A;</trd>
+  <trd lng="na">Tlay&#5603;ti</trd>
+  <trd lng="nl">maart</trd>
+  <trd lng="no">mars</trd>
+  <trd lng="nv">W&oacute;&oacute;zhch&#x2BC;&#x12F;&#769;&#x12F;&#769;d</trd>
+  <trd lng="oc">mar&ccedil;</trd>
+  <trd lng="os">&c_m;&c_a;&c_r;&c_t;&c_malmol;&c_i;</trd>
+  <trd lng="pa">&#xA2E;&#xA3E;&#xA30;&#xA1A;</trd>
+  <trd lng="pl">marzec</trd>
+  <trd lng="pt">mar&ccedil;o</trd>
+  <trd lng="rm">mars</trd>
+  <trd lng="ro">martie</trd>
+  <trd lng="ru">&c_m;&c_a;&c_r;&c_t;</trd>
+  <trd lng="sc">martzu</trd>
+  <trd lng="scn">marzu</trd>
+  <trd lng="se">njuk&ccaron;am&aacute;nnu</trd>
+  <trd lng="sk">marec</trd>
+  <trd lng="sl">m&aacute;rec</trd>
+  <trd lng="sm">njuh&ccaron;&acirc;m&aacute;&aacute;nu</trd>
+  <trd lng="so">Maarso</trd>
+  <trd lng="sq">mars</trd>
+  <trd lng="sr">&c_m;&c_a;&c_r;&c_t;</trd>
+  <trd lng="st">Hlakubele</trd>
+  <trd lng="su">Maret</trd>
+  <trd lng="sv">mars</trd>
+  <trd lng="sw">Machi</trd>
+  <trd lng="ta">&#xBAE;&#xBBE;&#xBB0;&#xBCD;&#xB9A;&#xBCD;</trd>
+  <trd lng="te">&#xC2E;&#xC3E;&#xC30;&#xC4D;&#xC1A;&#xC3F;</trd>
+  <trd lng="tg">&c_M;&c_a;&c_r;&c_t;</trd>
+  <trd lng="th">&#xE21;&#xE35;&#xE19;&#xE32;&#xE04;&#xE21;</trd>
+  <trd lng="ti">&#4632;&#x130B;&#4706;&#4725;</trd>
+  <trd lng="tk">Mart</trd>
+  <trd lng="tl">Marso</trd>
+  <trd lng="tok">tenpo mun nanpa tu wan</trd>
+  <trd lng="tr">mart</trd>
+  <trd lng="tt">Mart</trd>
+  <trd lng="ug">&a_m;&a_A;&a_r;&a_t;</trd>
+  <trd lng="uk">&c_b;&c_je;&c_r;&c_je;&c_z;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="ur">&a_m;&a_A;&a_r;&f_ch;</trd>
+  <trd lng="uz">Mart</trd>
+  <trd lng="ve">marso</trd>
+  <trd lng="vi">th&aacute;ng ba</trd>
+  <trd lng="vo">m&auml;zul</trd>
+  <trd lng="vro">urb&otilde;kuu</trd>
+  <trd lng="war">Marso</trd>
+  <trd lng="wo">Maars</trd>
+  <trd lng="xh">uMatshi</trd>
+  <trd lng="yi">&mem;&ayin;&resh;&ftsadi;</trd>
+  <trd lng="yo">March</trd>
+  <trd lng="zh">&#x4E09;&#26376;</trd>
+  <trd lng="zu">uMashi</trd>
+</drv>
+
+<drv mrk="mart.0a">
+  <kap><tld lit="m"/>a</kap>
+  <snc>
+    <dif>
+      Okazanta en <tld/>o, rilata al <tld/>o:
+      <ekz>
+        eble vi legis mian artikolon pri la skandalo <klr>[&#8230;]</klr> en la <tld lit="m"/>a numero
+        <fnt>
+          <bib>Monato</bib>
+          <aut>S. Maul</aut>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sola a&ubreve;toritata dokumento estas la <tld lit="m"/>a decido de la registaro
+        <fnt>
+	<aut>Ji&rcaron;i Patera</aut>
+	<vrk><url ref="&Monato;/2001/007207.php">La mezepokaj judaj mortintoj fine
+          trankvilaj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/01, p. 14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum fru<tld lit="m"/>a vespero
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2013/011006.php">Kafo-kla&ccirc;o</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_k;&c_a;&c_v;&c_ib;&c_c;&c_k;&c_ib;</trd>
+  <trd lng="ca">marcenc</trd>
+  <trd lng="de">M&auml;rz-</trd>
+  <trd lng="fr">de <ind>mars</ind></trd>
+  <trd lng="hu">m&aacute;rciusi</trd>
+  <trd lng="io">martala</trd>
+  <trd lng="ja">&#x4E09;&#26376;&#x306E; <pr>&#12373;&#12435;&#x304C;&#12388;&#x306E;</pr></trd>
+  <trd lng="pl">marcowy</trd>
+  <trd lng="ru">&c_m;&c_a;&c_r;&c_t;&c_o;&c_v;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">marcov&yacute;</trd>
+  <trd lng="uk">&#x41C;&c_a;&c_r;&c_t;&c_a;</trd>
+  <trd lng="vo">m&auml;zulik</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.50 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.49 2023/08/29 15:28:04
+Wolfram Diestel: ja: -superflua trd
+
+versio 1.48 2023/04/23 06:30:56
+Paul Peeraerts: &Steloj -> monato.be
+
+versio 1.47 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.45 2021/11/09 17:36:35
+Wolfram Diestel: +trdj
+
+versio 1.43 2021/04/29 07:50:14
+Dmitri Gabinski: +trd be
+
+versio 1.42 2021/03/24 11:58:13
+Wolfram Diestel: var
+
+versio 1.41 2021/03/23 15:52:29
+-->
+</vortaro>

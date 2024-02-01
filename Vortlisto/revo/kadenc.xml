@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kadenc.xml,v 1.32 2023/12/02 21:20:03 revo Exp $">
+<kap>
+   <ofc>1</ofc>
+   <rad>kadenc</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kadenc.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kadenc.0o.ofteco">
+    <dif>
+      <ref tip="super" cel="oft.0eco">Ofteco</ref>, la&ubreve; kiu iu fenomeno ripeti&gcirc;as;
+      rapideco, la&ubreve; kiu homo a&ubreve; ma&scirc;ino devas labori:
+      <ekz>
+        la vojo iris supren, kaj la &ccirc;evaloj malakcelis la <tld/>on
+        <fnt>
+          <bib>ChV</bib>
+          <lok>18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amba&ubreve; iris sampa&scirc;e, kaj tiu komuna <tld/>o estis por li pace feli&ccirc;iga simbolo
+        <fnt>
+          <bib>ChV</bib>
+          <lok>32</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la paro parolis tre malla&ubreve;te kaj, pro la bruo en la &ccirc;irka&ubreve;a&jcirc;o, mi kaptis ne
+        iliajn vortojn, sed nur la muzikecan <tld/>on de iliaj vo&ccirc;oj
+        <fnt>
+          <aut>Garvan Makaj (Garbhan MacAoidh)</aut>
+          <vrk><url ref="&Monato;/2013/010673.php">Malgravaj lingvoj gravas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/01, p. 26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="frekve.0o.ofto">frekvenco<sncref/></ref>,
+      <ref cel="ritm.0o">ritmo</ref>,
+      <ref cel="takt.0o">takto</ref>
+    </refgrp>
+    <trd lng="de">Takt<klr>(frequenz)</klr></trd>
+    <trdgrp lng="fi">
+       <trd>tempo</trd>,
+       <trd>tahti <klr tip="amb"> (vauhti)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kadenc.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Sinsekvo de akordoj, kiuj kutime signas la <ref tip="super" cel="fin.0o.lasta_parto">fino</ref>n de frazo:
+      <ekz>
+         la speciala esenco de la muziko de <nom>Gluck</nom> ne tiom sin montras
+         en iu sublima ario, kiom en iu <tld/>o de liaj recitativoj
+        <fnt>
+          <aut>M. Proust, trad. P. Combot</aut>,
+          <vrk>Pri la legado</vrk>,
+          <lok>1993</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kamparanoj respondis angle per la kutima kimra alti&gcirc;a <tld/>o &ccirc;e la fino de
+        frazo
+        <fnt>
+          <bib>KrM</bib>
+          <lok>7. Belaj Rakontoj El Trans La Montoj.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="improv.0ajxo">improviza&jcirc;o</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Kadenz</trd>,
+      <trd>Schlussfall</trd>
+    </trdgrp>
+    <trdgrp lng="fi">
+       <trd>kadenssi</trd>,
+       <trd>lopuke</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_d;&c_e;&c_n;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="ca">cad&egrave;ncia</trd>
+  <trdgrp lng="cs">
+    <trd>intona&ccaron;n&iacute; sp&aacute;d</trd>,
+    <trd>kadence</trd>,
+    <trd>klauzule</trd>,
+    <trd>rytmus</trd>,
+    <trd>z&aacute;v&ecaron;r skladby</trd>
+  </trdgrp>
+  
+  <trd lng="en">cadence</trd>
+  <trd lng="es">cadencia</trd>
+  <trd lng="fr">cadence</trd>
+  <trdgrp lng="hu">
+     <trd>kadencia</trd>,
+     <trd>z&aacute;rlat</trd>,
+     <trd>z&aacute;rad&eacute;k</trd>
+   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8ABF;&#x5B50;  <pr>&#x3061;&#x3087;&#x3046;&#x3057;</pr></trd>,
+    <trd>&#x62CD;&#x5B50;  <pr>&#x3072;&#x3087;&#x3046;&#x3057;</pr></trd>,
+    <trd>&#x30EA;&#x30BA;&#x30E0;  <pr>&#x308A;&#x305A;&#x3080;</pr></trd>,
+    <trd>&#x7D42;&#x6B62;  <pr>&#x3057;&#x3085;&#x3046;&#x3057;</pr></trd>,
+    <trd>&#x30AB;&#x30C7;&#x30F3;&#x30C4;&#x30A1;</trd>
+  </trdgrp>
+  <trd lng="nl">cadans</trd>
+  <trd lng="pl">kadencja</trd>
+  <trd lng="pt">cad&ecirc;ncia</trd>
+  <trd lng="ro">caden&#x21B;&abreve;</trd>
+  <trd lng="ru">&c_k;&c_a;&c_d;&c_je;&c_n;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>intona&ccaron;n&yacute; sp&aacute;d <klr>(hud)</klr></trd>,
+    <trd>kadencia</trd>,
+    <trd>z&aacute;ver</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+     <trd>&ouml;l&ccedil;&uuml;</trd>,
+     <trd>ahenk</trd>
+   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&c_d;&c_u;&#x43B;&#x44F;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&#x43F;&#x43E;&#x43D;&c_i;&c_zh;&c_je;&#x43D;&#x43D;&#x44F; &c_g;&#x43E;&#x43B;&#x43E;&c_s;&c_u;</trd>,
+    <trd>&#x43A;&c_a;&c_d;&c_a;&#x43D;&c_s;</trd>,
+    <trd>&#x43A;&c_a;&c_d;&c_je;&#x43D;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&c_t;&c_a;&#x43A;&c_t;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43C;&c_ib;&c_r;</trd>,
+    <trd>&c_r;&c_i;&c_t;&#x43C;</trd>,
+    <trd>&c_t;&c_je;&#x43C;&#x43F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6D41;&#x97F5; <pr>li&#xFA;y&#xF9;n</pr></trd>,
+    <trd>&#x8ABF;&#x5B50; <pr>di&#xE0;ozi</pr></trd>,
+    <trd>&#x9813;&#x632B;&#x6291;&#x63DA; <pr>d&#xF9;ncu&#xF2;y&#xEC;y&#xE1;ng</pr></trd>,
+    <trd>&#x6291;&#x626C; <pr>y&#xEC;y&#xE1;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/18 14:48:09
+revo: transskribo per <pr>
+
+versio 1.29 2023/05/11 05:27:15
+Paul Peeraerts: lok
+
+versio 1.28 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.26 2022/02/16 07:25:49
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+Revision 1.24  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/05/15 17:10:14  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.22  2012/08/30 09:10:27  revo
+Marc Rausell: + trd ca
+
+Revision 1.21  2009/08/25 16:32:01  revo
+-->
+</vortaro>

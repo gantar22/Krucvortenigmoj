@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: helian.xml,v 1.28 2023/11/15 16:45:18 revo Exp $">
+<kap>
+  <rad>heliant</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="helian.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="helian.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="dif" cel="flor.sun0o.BOT">Sunfloro</ref>:
+      <ekz>
+        <tld lit="H"/>o estas genro de 67 specioj en la familio de la asteracoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=212951">Helianto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_l;&c_a;&c_n;&c_je;&c_ch;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_s;&c_l;&c_malmol;&c_n;&c_ch;&c_o;&c_g;&c_l;&c_je;&c_d;</trd>
+  <trdgrp lng="cs">
+    <trd>heliant</trd>,
+    <trd>slune&ccaron;nice</trd>
+  </trdgrp>
+  <trd lng="de">Sonnenblume</trd>
+  <trd lng="el">&eta;&lambda;&jota;&omikron;&tau;&rho;&omikron_ton;&pi;&jota;&omikron;</trd>
+  <trd lng="en">sunflower</trd>
+  <trd lng="es">girasol</trd>
+  <trdgrp lng="fr">
+    <trd>h&eacute;lianthe</trd>,
+    <trd>tournesol</trd>
+  </trdgrp>
+  <trd lng="hu">napraforg&oacute;</trd>
+  <trd lng="it">girasole<klr> (gen. helianthus)</klr></trd>
+  <trd lng="ja">&#x30D2;&#x30DE;&#x30EF;&#x30EA;</trd>
+  <trd lng="nl">zonnebloem</trd>
+  <trd lng="pt">girassol</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_s;&c_o;&c_l;&c_n;&c_u;&c_h;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_s;&c_o;&c_l;&c_n;&c_je;&c_ch;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">slne&ccaron;nica</trd>
+  <trd lng="tr">ay&ccedil;i&ccedil;e&gbreve;i</trd>
+  <trd lng="uk">&#x441;&#x43E;&#x43D;&#x44F;&#x448;&#x43D;&#x438;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x8475; <pr>ku&#xED;</pr></trd>,
+    <trd>&#x8475;&#x82B1; <pr>ku&#xED;hu&#x101;</pr></trd>,
+    <trd>&#x5411;&#x65E5;&#x8475; <pr>xi&#xE0;ngr&#xEC;ku&#xED;</pr></trd>,
+    <trd>&#x5411;&#x9633;&#x82B1; <pr>xi&#xE0;ngy&#xE1;nghu&#x101;</pr></trd>,
+    <trd>&#x671D;&#x9633;&#x82B1; <pr>ch&#xE1;oy&#xE1;nghu&#x101;</pr></trd>,
+    <trd>&#x8F49;&#x65E5;&#x84EE; <pr>zhu&#x1CE;nr&#xEC;li&#xE1;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="helian.tubera0o">
+  <kap>tubera <tld/>o</kap>
+  <snc mrk="helian.tubera0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="dif" cel="pir.ter0o.BOT">Terpiro</ref>:
+      <ekz>
+        topinamburo (anka&ubreve; terpiro, tubera <tld/>o) estas plurjara, moltiga planto,
+        havanta tigotuberojn utiligeblajn kiel legomo, precipe por diabetuloj
+        <klr>[&#x2026;]</klr> simile al <tld/>o &gcirc;i havas grandajn foliojn kaj hele flavajn
+        florojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2012/010553.php">Topinamburo &ccirc;u herba&ccirc;o?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <bld lok="../bld/tuberaheliant.jpg">
+    la man&gcirc;ebla radiko de tubera <tld/>o
+  </bld>
+  <trd lng="be">&c_t;&c_a;&c_p;&c_ib;&c_n;&c_a;&c_m;&c_b;&c_u;&c_r;</trd>
+  <trd lng="bg">&c_Je;&c_r;&c_u;&c_s;&c_a;&c_l;&c_i;&c_m; &c_a;&c_r;&c_t;&c_i;&c_sh;&c_o;&c_k;</trd>
+  <trdgrp lng="de">
+    <trd>Topinambur</trd>,
+    <trd>Erdbirne</trd>
+  </trdgrp>
+  <trd lng="be">&c_t;&c_a;&c_p;&c_ib;&c_n;&c_a;&c_m;&c_b;&c_u;&c_r;</trd>
+  <trd lng="br">perenn-douar</trd>
+  <trdgrp lng="de">
+    <trd>Topinambur</trd>,
+    <trd>Erdbirne</trd>
+  </trdgrp>
+  <trd lng="en">Jerusalem artichoke</trd>
+  <trd lng="fr">topinambour</trd>
+  <trd lng="hu">csics&oacute;ka</trd>
+  <trd lng="it">topinambur</trd>
+  <trd lng="ja">&#x30AD;&#x30AF;&#x30A4;&#x30E2;</trd>
+  <trd lng="nl">aardpeer</trd>
+  <trd lng="ru">&c_t;&c_o;&c_p;&c_i;&c_n;&c_a;&c_m;&c_b;&c_u;&c_r;</trd>
+  <trd lng="sk">topinambura</trd>
+  <trd lng="cs">topinambur</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6D0B;&#x59DC; <pr>y&#xE1;ngji&#x101;ng</pr></trd>,
+    <trd>&#x83CA;&#x828B; <pr>j&#xFA;y&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+Revision 1.24  2018/12/26 14:10:16  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.23  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/02/02 20:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.20  2009/09/04 16:30:49  revo
+Antonio Codazzi: +trd it
+
+Revision 1.19  2008/12/21 17:30:27  revo
+Jeromo Vasxe: ref dif
+
+Revision 1.18 2004/01/10 17:33:24 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.17 2002/07/11 17:33:34 revo
+-->
+</vortaro>

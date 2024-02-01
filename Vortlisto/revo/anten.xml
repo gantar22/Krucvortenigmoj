@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: anten.xml,v 1.30 2023/10/12 18:05:09 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>anten</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="anten.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="anten.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Palpa fadenforma <ref tip="super" cel="organ.0o.BIO">organo</ref> trovi&gcirc;anta, 
+      ordinare pare, sur la kapo de multaj insektoj kaj krustuloj:
+      <ekz>
+        insekto brile nigra-blanka kun longaj striitaj
+        <tld/>oj<fnt><aut>Stefan Maul</aut>: 
+        <vrk>Surprizo el ligna kesto</vrk>, 
+        <bib>Monato</bib>
+        <lok>2002/01, p. 21</lok></fnt>;
+      </ekz>
+      <ekz>
+        la heliko el&scirc;ovis siajn <tld/>ojn kaj kapon
+        <fnt><aut>Jouko Lindstedt</aut>,
+        <vrk><url ref="&Monato;/2000/006918.php">La helikoj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/07, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la Eritrea <nom>Herakles</nom>-templo estas gardataj la <tld/>oj de la orportantaj
+        formikoj
+        <fnt>
+          <bib>SatirRak</bib>
+          <lok>Supersti&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i aspektas iom senvive, sed &gcirc;i nur somnolas vidu, kiel moveti&gcirc;as la <tld/>oj
+        <fnt>
+          <bib>MMa</bib>
+          <lok>&Ccirc;apitro 9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_n;&c_t;&c_e;&c_n;&c_a;</trd>,
+      <trd>&c_v;&c_u;&c_s;&c_ib;&c_k;</trd>
+    </trdgrp>
+    <trd lng="de">F&uuml;hler</trd>
+    <trdgrp lng="en">
+      <trd>antenna</trd>,
+      <trd>feeler</trd>
+    </trdgrp>
+    <trd lng="es">antena</trd>
+    <trd lng="he">&mem;&het;&vav;&shin;</trd>
+    <trdgrp lng="hu">
+      <trd>cs&aacute;p</trd>,
+      <trd>tapogat&oacute;</trd>
+    </trdgrp>
+    <trd lng="it">antenna</trd>
+    <trd lng="pl">czu&lstroke;ek</trd>
+    <trdgrp lng="ru">
+      <trd>&c_a;&c_n;&c_t;&c_je;&c_n;&c_n;&c_a;</trd>,
+      <trd>&c_s;&c_ja;&c_zh;&c_o;&c_k;</trd>,
+      <trd>&c_u;&c_s;&c_i;&c_k;</trd>
+    </trdgrp>
+    <trd lng="sk">tykadlo</trd>
+    <trd lng="sv">antenn</trd>
+  </snc>
+  <snc mrk="anten.0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Longa kaj fleksebla <ref tip="super" cel="stang.vel0o">stango</ref>, kiun oni fiksas al mezo
+      a&ubreve;
+      supro de masto por teni triangulan velon:
+      <ekz>
+        li ordonis lan&ccirc;i la boaton por alporti lin, kaj malsuprenigi la antenon por tuj
+        pendigi la araban &scirc;ipestron
+        <fnt>
+          <bib>DKM</bib>
+          <lok>&Ccirc;apitro LXIII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="buspri.0o">busprito</ref>,
+      <ref cel="jard.0o">jardo</ref>
+    </refgrp>
+    <trd lng="de">Rahe</trd>
+    <trdgrp lng="hu">
+      <trd>vitorlar&uacute;d</trd>,
+      <trd>&aacute;rbocr&uacute;d</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_je;&c_j;</trd>,
+      <trd>&c_r;&c_je;&c_ja;</trd>
+    </trdgrp>
+    <trd lng="sk">rahno</trd>
+  </snc>
+  <snc mrk="anten.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <uzo tip="fak">RAD</uzo>
+    <dif>
+      <ref tip="super" cel="konduk.0ilo.ELE">Kondukilo</ref>, plej ofte el drato, por disradiadi la
+      ondojn de
+      radioelektra sendstacio a&ubreve; por kaptadi la ondojn de aliaj
+      radiostacioj:
+      <ekz>
+        oni nuntempe povas ricevi anka&ubreve; per <tld/>o la turkan
+        stacion
+        rekte de satelito<fnt><aut>Gvd</aut>: <vrk>Elkabligite</vrk>,
+        <bib>Monato</bib>
+        <lok>1999/09, p. 7</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi ricevis analogajn staciojn per satelit<tld/>o kun du ricevkapoj
+        <fnt>
+          <aut>Jean Pierre Vanden Daele</aut>
+          <vrk><url ref="&Monato;/2010/009970.php">Ricevi persatelite</url></vrk>
+              <bib>Monato</bib>
+          <lok>2010/04, p. 15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la necesa diametro de la pelva <tld/>o estas decidenda
+        <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/1995/004358.html">Poloj per pelvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/04, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tuboj vibrigas sin mem, kaj tiuj vibroj, sen la necesa &scirc;irmado, influas anka&ubreve;
+        la <tld/>on, kiu tiamaniere kaptas groteskajn ondojn: la aparato fajfas,
+        knaras, bruas
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Oka &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la unuo enhavas &ccirc;ion: la programaron, la <tld/>on, akumulilon kaj malgrandan
+        ekranon
+        <fnt>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/2004/008419.html">Birada sistemo helpas pli kaj pli da &scirc;oforoj</url></vrk>
+              <bib>Monato</bib>
+          <lok>2004/10, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la cerbo funkcias kiel <tld/>o
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Oka &Ccirc;apitro</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_n;&c_t;&c_e;&c_n;&c_a;</trd>
+    <trd lng="de">Antenne</trd>
+    <trdgrp lng="en">
+      <trd>antenna</trd>,
+      <trd>aerial</trd>
+    </trdgrp>
+    <trd lng="es">antena</trd>
+    <trdgrp lng="he">
+      <trd>&mem;&shin;&vav;&shin;&he;</trd>,
+      <trd>&alef;&nun;&tet;&nun;&he;</trd>
+    </trdgrp>
+    <trd lng="hu">antenna</trd>
+    <trd lng="it">antenna</trd>
+    <trd lng="pl">antena</trd>
+    <trd lng="ru">&c_a;&c_n;&c_t;&c_je;&c_n;&c_n;&c_a;</trd>
+    <trd lng="sk">ant&eacute;na</trd>
+    <trd lng="sv">antenn</trd>
+  </snc>
+  <trd lng="cs">tykadlo hmyzu</trd>
+  <trd lng="fr">antenne</trd>
+  <trdgrp lng="ja">
+    <trd>&#x89E6;&#x89D2;  <pr>&#x3057;&#x3087;&#x3063;&#x304B;&#x304F;</pr></trd>,
+    <trd>&#x30A2;&#x30F3;&#x30C6;&#x30CA;  <pr>&#x3042;&#x3093;&#x3066;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">antenne</trd>
+  <trd lng="sk">tykadlo hmyzu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_n;&c_t;&c_je;&c_n;&c_a;</trd>,
+    <trd>&c_v;&c_u;&c_s;&c_i;&c_k;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.28 2023/06/24 17:30:54
+Paul Peeraerts: + lok + trd nl
+
+versio 1.27 2023/04/26 13:30:24
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.26 2023/04/11 11:23:46
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.25 2023/04/10 18:22:01
+aktualigo Monato-URL
+
+versio 1.24 2022/06/18 09:26:26
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2012/01/26 01:10:07  revo
+-->
+</vortaro>

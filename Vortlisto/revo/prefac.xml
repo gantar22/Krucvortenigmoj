@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: prefac.xml,v 1.14 2022/05/04 18:30:33 revo Exp $">
+<kap><rad>prefac</rad>/o <fnt><bib>PIV1</bib></fnt></kap>
+<drv mrk="prefac.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BELE</uzo>
+  <snc mrk="prefac.0o.antauxparolo">
+    <dif>
+      <ref tip="dif" cel="parol.antaux0o">Anta&ubreve;parolo</ref>:
+      <ekz>
+        <ctl>originala poemaro senprefaca</ctl>
+        <fnt><aut>Gon&ccedil;alo Neves</aut>: <vrk>Simptomoj (originala poemaro
+        senprefaca). &dash; Antverpeno: Flandra Esperanto-Ligo, 1999.</vrk></fnt>
+      </ekz>
+      <ekz>
+        mi jam deklaris en la <tld/>o al la decembra numero, ke ni ne emas konkurenci
+        kun la literatura kajero en &leftquot;Scienco kaj Kulturo&rightquot;
+        <fnt>
+          <vrk><url ref="&DonH;Revuoj/ckk/ckk9902.htm">Cerbe kaj Kore </url></vrk>
+          <lok>literaturo.org, n-ro 2/99 (53)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="prolog.0o">prologo</ref>,
+       <ref cel="preambl.0o">preamblo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_m;&c_o;&c_v;&c_a;</trd>
+  <trd lng="cs">&uacute;vod</trd>
+  <trdgrp lng="de">
+    <trd>Vorwort</trd>,
+    <trd>Vorrede</trd>,
+    <trd>Prolog</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>prefacio</trd>,
+    <trd>pr&oacute;logo</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>avant-propos</trd>,
+    <trd>pr&eacute;face</trd>
+  </trdgrp>
+  <trd lng="hu">el&odblac;sz&oacute;</trd>
+  <trd lng="it">prefazione</trd>
+  <trdgrp lng="nl">
+    <trd>voorwoord</trd>,
+    <trd>voorrede</trd>,
+    <trd>proloog</trd>,
+    <trd>inleiding</trd>
+  </trdgrp>
+  <trd lng="pt">pref&aacute;cio</trd>
+  <trd lng="sk">&uacute;vod</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x435;&#x440;&#x435;&#x434;&#x43C;&#x43E;&#x432;&#x430;</trd>,
+    <trd>&#x432;&#x441;&#x442;&#x443;&#x43F;&#x43D;&#x430; &#x447;&#x430;&#x441;&#x442;&#x438;&#x43D;&#x430;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.14 2022/05/04 18:30:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.11  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2006/03/18 17:31:44  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2003/07/17 16:39:05  revo
+Dmitri Gabinski: +trd be, -superflua trd de
+
+Revision 1.7  2003/04/06 16:31:56  revo
+Paul Peeraerts: ald trd nl + belarangho
+
+Revision 1.6 2003/02/15 17:35:56 revo
+Ulrich Fellmann: + 2 pliaj trd = de
+
+Revision 1.5 2003/01/29 17:32:40 revo
+-->
+</vortaro>

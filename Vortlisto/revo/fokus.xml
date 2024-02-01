@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fokus.xml,v 1.42 2023/11/09 20:48:33 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>fokus</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="fokus.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="fokus.0o.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Punkto, kie kuni&gcirc;as la <ref cel="radi.0o.energielsendo">radioj</ref> 
+      senditaj de unu lumfonto,
+      post ilia trairo tra optika sistemo:
+      <ekz>
+        mal<tld/>igu viajn okulojn kvaza&ubreve; vi rigardus trapapere
+        malapudan objekton
+        <fnt>
+          <aut>Gianfranco Cazzaro</aut>
+          <vrk><url ref="&Monato;/1995/A950101.php">La modo de fiksokuloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/01, p. 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Brennpunkt</trd>
+    <trd lng="it">fuoco</trd>
+    <trd lng="pl">fokus</trd>
+    <trd lng="pt">foco</trd>
+    <trd lng="ru">&c_f;&c_o;&c_k;&c_u;&c_s;</trd>
+  </snc>
+  <snc mrk="fokus.0o.koniko">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 33</lok></fnt>
+    <dif>
+      <klr>(de <ref cel="konik.0o">koniko</ref>)</klr>
+      Tia punkto <frm am="F">F</frm>, ke la rilato inter la distanco de
+      &ccirc;iu punkto <frm am="M">M</frm> de la koniko al <frm am="F">F</frm>
+      kaj
+      la distanco de <frm am="M">M</frm> al la direktanto egalas al la
+      discentreco.
+    </dif>
+    <rim>
+      Parabolojda spegulo konver&gcirc;igas lumradiojn paralelajn al
+      &gcirc;ia akso en la komunan <tld/>on<sncref ref="fokus.0o.koniko"/>
+      de la sekcaj paraboloj; alivorte, por parabolo la
+      <tld/>o<sncref ref="fokus.0o.koniko"/> matematika koincidas
+      kun <tld/>o<sncref ref="fokus.0o.FOT"/> optika.
+    </rim>
+    <trd lng="en">focus</trd>
+    <trd lng="pl">ognisko<klr tip="ind"> (sto&zdot;kowej)</klr></trd>
+    <trd lng="pt">foco</trd>
+    <trd lng="ru">&c_f;&c_o;&c_k;&c_u;&c_s;</trd>
+  </snc>
+  <snc mrk="fokus.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Interkruci&gcirc;o, punkto de konver&gcirc;o a&ubreve;
+      koncentri&gcirc;o:
+      <ekz>
+        en la <tld/>o de intereso
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2009/009932.php">Aliaj
+          tempoj, samaj temoj</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Germanio, en <tld/>o de rememoroj pri la militfino anta&ubreve; 50
+        jaroj
+        <fnt>
+        <aut>Stefan Maul</aut>
+          
+          <vrk><url ref="&Monato;/1995/A950301.php">Malbonaj konsciencoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/03, p. 5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kursoj por plutrejni&gcirc;o kun specialaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2004/008309.html">Plurlingvismo
+          valoras siajn kostojn</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Irlando i&gcirc;as <tld/>o de enmigrado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2006/009062.php">Enmigrado anta kaj
+          inta</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kern.0o">kerno</ref>
+    </refgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_r;&c_je;&c_d;&c_o;&c_t;&c_o;&c_ch;&c_i;&c_je;</trd>,
+      <trd>&c_f;&c_o;&c_k;&c_u;&c_s;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="fokus.0o.fonto">
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <refgrp tip="dif">
+        <ref cel="font.0o.origino">Fonto<sncref/></ref>,
+        <ref cel="kern.0o">kerno</ref>,
+        <ref cel="kov.0ejo.FIG">kovejo<sncref/></ref>
+      </refgrp>:
+      <ekz>
+        <tld/>o de la epidemio
+        <fnt><bib>PV</bib></fnt>;
+      </ekz>
+      <ekz>
+        pro detruo de la imuneco la anta&ubreve;e neaktivaj <tld/>oj de
+        tuberkulozo en la
+        organismo de aidoso-malsanulo ekaktivi&gcirc;as
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2011/010389.php">Dan&gcirc;era
+          malamiko revenas</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      En la latina terminaro &leftquot;<nac>focus</nac>&rightquot; povas havi du
+      kontra&ubreve;ajn signifojn: <ctl>la punkto de konver&gcirc;o</ctl> (la
+      optika <tld/>o), kaj <ctl>fonto de disvastigo</ctl> (en
+      iuj terminoj medicinaj).  Pli sistememaj terminaroj disigis
+      tiujn du signifojn, esprimante la fontan signifon per
+      tradukita metaforo, kaj la konver&gcirc;an per sona transskribo
+      (kia la esperanta <tld/>o).  Tiel estas en la Fundamento
+      (ekz-e en la traduko rusa estas
+      &leftquot;<nac>&c_f;&c_o;&c_k;&c_u;&c_s;&c_malmol;</nac>&rightquot;, sed ne  &leftquot;<nac>&c_o;&c_ch;&c_a;&c_g;&c_malmol;</nac>&rightquot;);
+      kaj tiel estas en modernaj tekstoj:
+      <ekz>
+        se la sova&gcirc;aj birdoj estus la &ccirc;efa <em>fonto de la
+        epizootio</em>,
+        oni estus observinta ilian amasmorton kie ili svarmas
+        <fnt>
+          <aut>T. Tailhades</aut>,
+          <vrk>Gurdado de onidiroj</vrk>,
+          <bib>Monato</bib>,
+          <lok>2006:08-09, p. 6a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        homo malsani&gcirc;inta pro variolacio samtempe fari&gcirc;is
+        <em>fonto de infekto</em> al aliaj
+        <fnt>
+          <aut>V. Lemelev</aut>,
+          <vrk>Homo, kiu savis milionojn</vrk>,
+          <bib>Monato</bib>,
+          <lok>1998:03, p. 12a</lok>
+        </fnt>.
+      </ekz>
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trdgrp lng="de">
+      <trd>Herd <klr>(Infektion)</klr></trd>,
+      <trd>Quelle <klr>(Krankheit)</klr></trd>
+    </trdgrp>
+    <trd lng="it">focolaio</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_ch;&c_a;&c_g;</trd>,
+      <trd>&c_i;&c_s;&c_t;&c_o;&c_ch;&c_n;&c_i;&c_k;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_f;&c_o;&c_k;&c_u;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>lo&zcaron;isko</trd>,
+    <trd>ohnisko</trd>
+  </trdgrp>
+  <trd lng="de">Fokus</trd>
+  <trd lng="es">foco</trd>
+  <trd lng="fa">&f_k;&a_A;&a_n;&a_w;&a_n;</trd>
+  <trd lng="fr">foyer<klr tip="ind"> (de conique, lentille,
+      &eacute;pid&eacute;mie...)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>f&oacute;kusz</trd>,
+    <trd>gy&uacute;jt&oacute;pont</trd>
+  </trdgrp>
+  <trd lng="ja">&#x7126;&#x70B9;  <pr>&#x3057;&#x3087;&#x3046;&#x3066;&#x3093;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>focus</trd>,
+    <trd>brandpunt</trd>
+  </trdgrp>
+  <trd lng="pl">fokus</trd>
+  <trd lng="pt">foco</trd>
+  <trd lng="sk">ohnisko</trd>
+  <trd lng="uk">&c_f;&#x43E;&#x43A;&c_u;&c_s;</trd>
+  <trd lng="zh">&#x7126;&#x70B9; <pr>ji&#x101;odi&#x1CE;n</pr></trd>
+</drv>
+
+<drv mrk="fokus.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="fokus.0i.KOMUNE">
+    <dif>
+      Alceli al centra punkto:
+      <ekz>
+        oni <tld/>as la sunradiojn per parabolaj kanaloj, hejtante oleon
+        en tubo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Werner Fu&szlig;</aut>
+          <vrk><url ref="&Monato;/2011/010273.php">Verdigu
+          la dezertojn!</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="fokus.0i.koncentri">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="dif" cel="koncen.0i.kunigi">Koncentri</ref>:
+      <ekz>
+        se mi ne estas estro de mia volo,
+        mi ne povas la&ubreve;vole <tld/>i &gcirc;in tien a&ubreve; tien &ccirc;i 
+        <fnt>
+          <aut>H. Hesse, trad. D. Karthaus</aut>,
+          <vrk>Demian</vrk>,
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ante la atenton je iuj problemoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2007/009211.php">Opinioj
+          plej kompetentaj</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pli forta <tld/>ado pri metodoj kaj decidoj necesaj por
+        stabiligi la klimaton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Claude Rouget</aut>
+          <vrk><url ref="&Monato;/2008/009374.php">&Ccirc;u Al
+          Gore meritas pacpremion?</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_a;&c_k;&c_u;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_ja;&c_r;&c_o;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="de">fokussieren</trd>
+  <trdgrp lng="fr">
+    <trd>concentrer</trd>,
+    <trd>focaliser</trd>
+  </trdgrp>
+  <trd lng="pl">ogniskowa&cacute;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5BF9;&#x7126;&#x70B9; <pr>du&#xEC;ji&#x101;odi&#x1CE;n</pr></trd>,
+    <trd>&#x8ABF;&#x7126; <pr>ti&#xE1;oji&#x101;o</pr></trd>,
+    <trd>&#x805A;&#x7126; <pr>j&#xF9;ji&#x101;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fokus.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="fokus.0igxi.KOMUNE">
+    <dif>
+      Kunradii al unu centro:
+      <ekz>
+        &ccirc;iuj okuloj <tld/>i&gcirc;is al li
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <klr>[en]</klr> amaskomunikiloj <klr>[&#x2026;]</klr> subite <tld/>i&gcirc;as
+        temo, pri kiu
+        dum longa tempo oni silentis
+        <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007041.php">Estimataj gelegantoj,</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/04, p. 3</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i&gcirc;o sur venko kaj perdo, anstata&ubreve; kreskado, konkurenco
+        anstata&ubreve; kreado
+        <fnt>
+          <aut>Reza Kheir-Khah</aut>
+            <vrk><url ref="&Monato;/2000/007087.php">Mirinda dimensio de nia vivo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 16</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_a;&c_k;&c_u;&c_s;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_ja;&c_r;&c_o;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">sich <ind>fokussieren</ind></trd>
+  <trd lng="es">enfocarse</trd>
+  <trd lng="fr">se <ind>focaliser</ind></trd>
+  <trd lng="nl">zich <ind>focussen</ind></trd>
+  <trd lng="pl">skupia&cacute; si&eogonek;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E13;&#x6CE8; <pr>zhu&#x101;nzh&#xF9;</pr></trd>,
+    <trd>&#x53EA;&#x7BA1; <pr>zh&#x1D0;gu&#x1CE;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fokus.en0igi">
+  <kap>en<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="fokus.en0igi.KOMUNE">
+    <dif>
+      Kundirekti al io, kiel al centra punkto:
+      <ekz>
+        li palpebrumis rapide kaj penis en<tld/>igi la okulojn je mi
+        <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;apitro
+        22a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        oni en<tld/>igas la atenton anka&ubreve; sur la turisma bran&ccirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Xu Jinming</aut>
+          <vrk><url ref="&Monato;/2012/010325.php">Alloga&jcirc;oj por
+          &ccirc;inaj voja&gcirc;antoj</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tuta registara administrado estis en<tld/>igita en la &ccirc;efurbo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj'</aut>
+          <vrk><url ref="&Monato;/2012/010649.php">De kelta
+          tigro al orienta tigro</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_a;&c_k;&c_u;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_ja;&c_r;&c_o;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_k;&c_ib;&c_r;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_u;&c_v;&c_a;&c_g;&c_u; &c_n;&c_a; &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>,
+    <trd>&c_z;&c_a;&c_v;&c_a;&c_s;&c_t;&c_r;&c_a;&c_c;&c_mol; &c_u;&c_v;&c_a;&c_g;&c_u;</trd>
+  </trdgrp>
+  <trd lng="cs">zaost&rcaron;it</trd>
+  <trd lng="de">zusammenf&uuml;hren</trd>
+  <trd lng="es">enfocar</trd>
+  <trdgrp lng="fr">
+    <trd>concentrer<klr tip="amb"> (focaliser)</klr></trd>,
+    <trd>focaliser</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7126;&#x70B9;&#x30FB;&#x30D4;&#x30F3;&#x30C8;&#x3092;&#x5408;&#x308F;&#x305B;&#x308B;  <pr>&#x3057;&#x3087;&#x3046;&#x3066;&#x3093;&#x30FB;&#x3074;&#x3093;&#x3068;&#x3092;&#x3042;&#x308F;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x96C6;&#x3081;&#x308B;  <pr>&#x3042;&#x3064;&#x3081;&#x308B;</pr></trd>,
+    <trd>&#x96C6;&#x4E2D;&#x3059;&#x308B;  <pr>&#x3057;&#x3085;&#x3046;&#x3061;&#x3085;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>skupia&cacute;</trd>,
+    <trd>zogniskowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_o;&c_k;&c_u;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">zaostri&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&#x43E;&#x43A;&c_u;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43D;&c_a;&c_v;&#x43E;&c_d;&c_i;&c_t;&c_i; &#x43D;&c_a; &c_r;&c_ib;&c_z;&#x43A;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i; &c_u; &c_f;&#x43E;&#x43A;&c_u;&c_s;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_t;&c_a;&c_sh;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i; &c_u; &c_f;&#x43E;&#x43A;&c_u;&c_s;&c_ib;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.41 2023/10/14 19:15:45
+revo: transskribo per <pr>
+
+versio 1.39 2023/05/03 20:26:35
+Vito Redsky: +trd pl 
+
+versio 1.38 2023/04/30 08:29:10
+Paul Peeraerts: Steloj -> monato
+
+versio 1.37 2023/04/12 09:25:57
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.36 2023/04/11 16:34:09
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.35 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.32 2021/12/01 07:28:22
+Dmitri Gabinski: + trd be
+
+versio 1.31 2021/04/29 07:11:17
+-->
+</vortaro>

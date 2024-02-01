@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: melope.xml,v 1.15 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <rad>melope</rad>/o
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="melope.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      Ritmita <ref tip="super" cel="kant.0o">kanto</ref> akompananta la deklamadon:
+      <ekz>
+        ritmoj facile skandeblaj, rimoj, kiuj trovas sin perfekte, sen devo ion trudi a&ubreve;
+        tordi: facile parkerigeblaj, kvaza&ubreve; <tld/>oj a&ubreve; infanaj rima&jcirc;oj:
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2003/008021.html">Suno kaj ombroj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+      La malnovgreka vorto <nac>&my;&epsilon;&lambda;&omikron;&pi;&omikron;&jota;&jota_ton;&alfa;</nac> signifas proksimume melodifarado kaj nomas arton,
+      instruon. La
+      vortoj angle: <nac>melopoeia</nac>, germane <nac>Melop&ouml;ie</nac> referencas al tiu antikva
+      signifo.
+      En Esperanton tiu origina signifo &gcirc;is nun ne eniris.
+      <aut>Wolfram Diestel</aut>
+  </rim>
+  <trdgrp lng="de">
+    <trd>Melos</trd>,
+    <trd>Rezitativ</trd>
+  </trdgrp>
+  <trd lng="en">melos</trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;nekbesz&eacute;d</trd>,
+    <trd>melopea</trd>
+  </trdgrp>
+  <trd lng="ja">&#x6717;&#x541F;&#x6B4C;  <pr>&#x3042;&#x304D;&#x3089;&#x541F;&#x6B4C;</pr></trd>
+  <trd lng="nl">melopee</trd>
+  <trdgrp lng="pl">
+    <trd>melopeja</trd>,
+    <trd>melopea</trd>
+  </trdgrp>
+  <trd lng="pt">melop&eacute;ia</trd>
+  <trd lng="ro">melopee</trd>
+  <trd lng="ru">&c_m;&c_je;&c_l;&c_o;&c_p;&c_je;&c_ja;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&#x43D;&#x43E;&c_t;&#x43E;&#x43D;&#x43D;&c_i;&c_j; &#x43F;&c_r;&#x43E;&c_t;&#x44F;&c_zh;&#x43D;&c_i;&c_j;
+    &c_s;&#x43F;&c_ib;&c_v;</trd>,
+    <trd>&c_r;&c_je;&c_ch;&c_je;&c_t;&c_a;&c_t;&c_i;&c_v;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.15 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.13 2023/08/25 13:28:45
+Wolfram Diestel: +rim, -adm, +trd en
+
+versio 1.11 2020/08/19 20:10:32
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.9  2019/02/05 17:10:19  revo
+Wolfram Diestel: +ekz, +adm
+
+Revision 1.8  2006/07/31 16:32:01  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2004/06/09 16:31:53  revo
+Jozefo Horvath: +trd hu
+
+Revision 1..6  2002/01/09 17:32:58  revo
+Dennis Wibrow: +trd germ
+
+Revision 1.5  2001/11/26 17:33:42  revo
+-->
+</vortaro>

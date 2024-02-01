@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: nard.xml,v 1.7 2023/10/19 20:12:29 afido Exp $">
+    <kap>
+      <rad>nard</rad>/o <fnt><bib>MT</bib></fnt>
+    </kap>
+
+<drv mrk="nard.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Plurjara <ref tip="super" cel="herb.0o.BOT">herbo</ref> kun mallar&gcirc;aj unuflankaj spiketoj,
+      kreskanta precipe inter 1000 kaj 2000&#x202F;m de e&ubreve;raziaj montaroj
+      kaj el kies rizomo en antikvo oni produktis bonodora&jcirc;on;
+      solpecia <ref tip="lst" lst="voko:botanikaj_genroj" cel="genr.0o.BIO">genro</ref>
+      el familio <ref tip="malprt" cel="poac.0oj">poacoj</ref> 
+      (<trd lng="la">Nardus</trd>)
+      <ekz>
+        paradizo <klr>[&#x2026;]</klr> plena de koferoj kaj <tld/>oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Alta kanto 4:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        originaj sek- duonsek- <tld/>o- kaj alpinaj herbejoj estas tre maloftaj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=541735">Herbejtereno</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/e/e3/Illustration_Nardus_stricta0.jpg/238px-Illustration_Nardus_stricta0.jpg" prm="PD">ilustra&jcirc;o de <tld/>o (Nardus stricta)
+        <fnt>
+          <lok><url ref="&WCW;/File:Illustration_Nardus_stricta0.jpg">&WCW;/File:Illustration_Nardus_stricta0.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="de">Borstgras</trd>
+    <trd lng="fr">Nardus</trd>
+    <trd lng="pl">bli&zacute;niczka <klr>(ro&sacute;lina)</klr></trd>
+    <trd lng="ro">&#x21B;&abreve;po&#x219;ic&abreve;</trd>
+  </snc>
+  <trd lng="be">&c_s;&c_ib;&c_v;&c_je;&c_c; <klr tip="amb">(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30CA;&#x30EB;&#x30C9;&#x306E;&#x9999;&#x6CB9;  <pr>&#x30CA;&#x30EB;&#x30C9;&#x306E;&#x304B;&#x304A;&#x308A;&#x3042;&#x3076;&#x3089;</pr></trd>,
+    <trd>&#x30AB;&#x30F3;&#x30B7;&#x30E7;&#x30A6;&#x30B3;&#x30A6;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_ib;&#x43B;&#x43E;&c_v;&c_u;&c_s;</trd>,
+    <trd>&#x43C;&c_i;&c_ch;&#x43A;&c_a;</trd>,
+    <trd>&#x43D;&c_a;&c_r;&c_d; (&c_a;&c_r;&#x43E;&#x43C;&c_a;&c_t;&c_i;&c_ch;&#x43D;&c_a; &c_r;&#x43E;&c_s;&#x43B;&c_i;&#x43D;&c_a;)</trd>
+  </trdgrp>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.7 2023/10/19 20:12:29
+revo: transskribo per <pr>
+
+versio 1.5 2023/01/24 09:27:42
+Dmitri Gabinski: + trd be
+
+versio 1.4 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.2 2021/02/21 14:11:18
+Vito Redsky: +trd pl +trd ro
+
+versio 1.1 2020/12/23 20:44:45
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

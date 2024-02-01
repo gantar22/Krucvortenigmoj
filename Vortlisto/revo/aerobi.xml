@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: aerobi.xml,v 1.33 2023/10/12 16:57:42 revo Exp $">
+<kap>
+  <rad>aerobi</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="aerobi.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="aerobi.0a.KOMUNE">
+    <dif>
+      Uzanta <ref cel="oksige.0o">oksigeno</ref>n.
+    </dif>
+    <subsnc mrk="aerobi.0a.FIZL">
+      <uzo tip="fak">FIZL</uzo>
+      <dif>
+        Bezonanta, konsumanta oksigenon:
+        <ekz>
+          <tld/>aj bakterioj estas plej aktivaj en  grundo kiu estas 
+          humida
+          <fnt>
+            <aut>-</aut>,
+            <vrk><url ref="http://epo.wikitrans.net/Edafon?eng=Soil+life">
+            edafo</url></vrk>,
+            <lok>2010-03-04</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="aerobi.0a.KEM">
+      <uzo tip="fak">KEM</uzo>
+      <dif>
+        Okazanta kun konsumo de oksigeno:
+        <ekz>
+          la biodigestado generas multe malpli da biologiaj &scirc;limoj ol 
+          la <tld/>aj traktadoj
+          <fnt>
+          <aut>-</aut>,
+          <vrk>Reser&ccirc;o kaj Disvolvo</vrk>,
+          <lok><url ref="http://www.bio-tec.net">biotec</url>,
+          [vidita en 2010]</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_a;&c_e;&c_r;&c_o;&c_b;&c_n;&c_y;</trd>
+  <trd lng="ca">aer&ograve;bic</trd>
+  <trd lng="cs">aerobn&iacute; <klr>(za p&rcaron;&iacute;stupu vzduchu)</klr></trd>
+  <trd lng="de">aerob</trd>
+  <trd lng="en">aerobic</trd>
+  <trdgrp lng="es">
+    <trd>aerobio</trd>,
+    <trd>aer&oacute;bico</trd>
+  </trdgrp>
+  <trd lng="fr">a&eacute;robie</trd>
+  <trd lng="he">&alef;&resh;&vav;&bet;&yod;</trd>
+  <trd lng="hu">aerob</trd>
+  <trd lng="it">aerobico</trd>
+  <trd lng="ja">&#x597D;&#x6C17;&#x6027;&#x306E;  <pr>&#x3053;&#x3046;&#x304D;&#x3057;&#x3087;&#x3046;&#x306E;</pr></trd>
+  <trd lng="nl">a&euml;roob</trd>
+  <trd lng="pl">aerobiczny</trd>
+  <trdgrp lng="pt">
+    <trd>aer&oacute;bio</trd>,
+    <trd>aer&oacute;bico</trd>
+  </trdgrp>
+  <trd lng="ro">aerobic</trd>
+  <trd lng="ru">&c_a;&c_e;&c_r;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>aer&oacute;bny</trd>,
+    <trd>aerobn&yacute;</trd>
+  </trdgrp>
+  <trd lng="sv">aerob</trd>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_je;&c_r;&c_o;&c_b;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_ja;&c_k;&c_i;&c_j; &c_r;&c_o;&c_z;&c_v;&c_i;&c_v;&c_a;&c_jeu;&c_t;&c_mol;&c_s;&c_ja; &c_p;&c_r;&c_i; &c_n;&c_a;&c_ja;&c_v;&c_n;&c_o;&c_s;&c_t;&c_ib; &c_k;&c_i;&c_s;&c_n;&c_ju;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="aerobi.mal0a">
+  <kap>
+    mal<tld/>a
+  </kap>
+  <snc>
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Ne toleranta oksigenon:
+      <ekz>
+        mal<tld/>aj bakterioj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=21434">Nitrogena fiksado</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_r;&c_o;&c_g;&c_a; <ind>&c_a;&c_n;&c_a;&c_e;&c_r;&c_o;&c_b;&c_n;&c_y;</ind></trd>,
+    <trd>&c_a;&c_b;&c_l;&c_ib;&c_g;&c_a;&c_t;&c_n;&c_a; <ind>&c_a;&c_n;&c_a;&c_e;&c_r;&c_o;&c_b;&c_n;&c_y;</ind></trd>
+  </trdgrp>
+  <trd lng="de">obligat <ind>anaerob</ind></trd>
+  <trd lng="en">obligate <ind>anaerob</ind></trd>
+  <trd lng="ja">&#x5ACC;&#x6C17;&#x6027;&#x306E;  <pr>&#x3044;&#x3084;&#x304D;&#x305B;&#x3044;&#x306E;</pr></trd>
+</drv>
+
+
+<drv mrk="aerobi.ne0a">
+  <kap>ne<tld/>a</kap>
+  <snc mrk="aerobi.ne0a.KOMUNE">
+    <dif>
+      Ne uzanta oksigenon.
+    </dif>
+    <subsnc mrk="aerobi.ne0a.FIZL">
+      <uzo tip="fak">FIZL</uzo>
+      <dif>
+        Ne konsumanta oksigenon:
+        <ekz>
+          mal<tld/>aj bakterioj
+          <fnt>
+            <bib>Viki</bib>,
+            <lok><url ref="&Viki;/Ekskrementa_cisterno">
+            ekskrementa cisterno</url>, 2010-07-16</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="aerobi.ne0a.KEM">
+      <uzo tip="fak">KEM</uzo>
+      <dif>
+        Okazanta sen uzo de oksigeno:
+        <ekz>
+          la ne<tld/>a &scirc;an&gcirc;i&gcirc;o de piruva acido en laktan acidon estas 
+          normala procezo en multaj organismoj
+          <fnt>
+            <bib>Viki</bib>,
+            <lok><url ref="&Viki;/Glikolizo">
+            glikolizo</url>, 2010-08-31</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_a;&c_e;&c_r;&c_o;&c_b;&c_n;&c_y;</trd>
+  <trd lng="ca">anaer&ograve;bic</trd>
+  <trdgrp lng="cs">
+    <trd>anaerobn&iacute;</trd>,
+    <trd>bezkysl&iacute;kat&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">aerotolerant <ind>anaerob</ind></trd>
+  <trd lng="en">aerotolerant <ind>anaerobic</ind></trd>
+  <trdgrp lng="es">
+    <trd>anerobio</trd>,
+    <trd>aner&oacute;bico</trd>
+  </trdgrp>
+  <trd lng="fr">ana&eacute;robie<klr> (adj.)</klr></trd>
+  <trd lng="it">anaerobico</trd>
+  <trd lng="pl">anaerobiczny</trd>
+  <trd lng="pt">anaer&oacute;bico</trd>
+  <trd lng="ro">anaerobic</trd>
+  <trd lng="sk">bezkysl&iacute;kat&yacute;</trd>
+  <trd lng="sv">anaerob</trd>
+  <trd lng="uk">&c_o;&c_b;&c_l;&c_ib;&c_g;&c_a;&c_t;&c_n;&c_o;/&c_b;&c_je;&c_z;&c_u;&c_m;&c_o;&c_v;&c_n;&c_o; &c_a;&c_n;&c_a;&c_je;&c_r;&c_o;&c_b;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+
+</art>
+<!--
+$Log$
+versio 1.33 2023/10/12 16:57:42
+revo: transskribo per <pr>
+
+versio 1.31 2022/09/07 14:38:29
+Dmitri Gabinski: + trd be
+
+versio 1.30 2022/07/13 10:38:36
+Wolfram Diestel: +kor. mistajpon
+
+versio 1.29 2022/07/08 16:50:02
+Wolfram Diestel: apartigo mal~a de ne~a
+
+versio 1.28 2022/04/24 14:30:23
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.27 2022/04/24 06:40:26
+Noam Mohr: +trd en neaerobia
+
+versio 1.24 2020/03/20 13:45:19
+James Rezende Piton: +trd pt neaerobia
+
+Revision 1.23  2020/01/05 10:10:18  revo
+-->
+</vortaro>

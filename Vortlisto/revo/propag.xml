@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: propag.xml,v 1.21 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>propagand</rad>/o
+</kap>
+<drv mrk="propag.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="propag.0o.KOMUNE">
+    <dif>
+      Klopodado por disvastigi ideon:
+      <ekz>
+        <tld/>o por Esperanto;
+      </ekz>
+      <ekz>
+        libreto difinita speciale por la <tld/>o de nia
+        afero<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a verko, parolado.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akcel">akcelo</ref>,
+      <ref cel="reklam.0o">reklamo</ref>,
+      <ref cel="pusx">pu&scirc;ado</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_a;&c_g;&c_a;&c_n;&c_d;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>propagace</trd>,
+    <trd>propaganda</trd>,
+    <trd>&scaron;&iacute;&rcaron;en&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Werbung</trd>,
+    <trd>Propaganda</trd>
+  </trdgrp>
+  <trd lng="es">propaganda</trd>
+  <trd lng="fr">propagande</trd>
+  <trdgrp lng="hu">
+    <trd>propaganda</trd>,
+    <trd>n&eacute;pszer&udblac;s&iacute;t&eacute;s</trd>,
+    <trd>h&iacute;rver&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5BA3;&#x4F1D;  <pr>&#x305B;&#x3093;&#x3067;&#x3093;</pr></trd>,
+    <trd>&#x666E;&#x53CA;  <pr>&#x3075;&#x304D;&#x3085;&#x3046;</pr></trd>,
+    <trd>&#x30D7;&#x30ED;&#x30D1;&#x30AC;&#x30F3;&#x30C0;</trd>,
+    <trd>&#x4F1D;&#x9053;  <pr>&#x3067;&#x3093;&#x3069;&#x3046;</pr></trd>,
+    <trd>&#x5E03;&#x6559;  <pr>&#x3075;&#x304D;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">propaganda</trd>
+  <trdgrp lng="pl">
+    <trd>propaganda</trd>,
+    <trd>rozpowszechnianie</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>propaganda</trd>,
+    <trd>divulga&ccedil;&atilde;o</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_a;&c_g;&c_a;&c_n;&c_d;&c_a;</trd>
+  <trd lng="sk">propaganda</trd>
+  <trd lng="sv">propaganda</trd>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&#x43F;&c_a;&c_gu;&c_a;&#x43D;&c_d;&c_a;</trd>
+</drv>
+
+<drv mrk="propag.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="propag.0i.KOMUNE">
+    <dif>
+      Fari <tld/>on por:
+      <ekz>
+        <tld/>i Esperanton.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="adept.0igi">adeptigi</ref>,
+      <ref cel="fam.dis0igi">disfamigi</ref>,
+      <ref cel="anonc">disanonci</ref>,
+      <ref cel="rekrut">rekrutigi</ref>,
+      <ref cel="sem.0i.FIG">semi <sncref/></ref>,
+      <ref cel="varb.0i">varbi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_a;&c_g;&c_a;&c_n;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>propagovat</trd>,
+    <trd>&scaron;&iacute;&rcaron;it</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>werben</trd>,
+    <trd>propagieren</trd>
+  </trdgrp>
+  <trd lng="es">hacer propaganda</trd>
+  <trd lng="fr">faire de la <ind>propagande</ind></trd>
+  <trdgrp lng="hu">
+    <trd>propag&aacute;l</trd>,
+    <trd>n&eacute;pszer&udblac;s&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5BA3;&#x4F1D;&#x3059;&#x308B;  <pr>&#x305B;&#x3093;&#x3067;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x666E;&#x53CA;&#x3055;&#x305B;&#x308B;  <pr>&#x3075;&#x304D;&#x3085;&#x3046;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x5E03;&#x6559;&#x3059;&#x308B;  <pr>&#x3075;&#x304D;&#x3087;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">propaganda maken</trd>
+  <trdgrp lng="pl">
+    <trd>propagowa&cacute;</trd>,
+    <trd>og&lstroke;asza&cacute;</trd>,
+    <trd>rozpowszechnia&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_a;&c_g;&c_a;&c_n;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">propagova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&#x43F;&c_a;&c_gu;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_j;&#x43C;&c_a;&c_t;&c_i;&c_s;&#x44F; &#x43F;&c_r;&#x43E;&#x43F;&c_a;&c_gu;&c_a;&#x43D;&c_d;&#x43E;&#x44E;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="propag.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="propag.0ilo.KOMUNE">
+    <dif>
+      &Ccirc;ia dokumento, objekto... helpanta en <tld/>o:
+      <ekz>
+        tie &ccirc;i estas a&ccirc;eteblaj lernolibroj kaj <tld/>iloj de la lingvo
+        internacia
+        <fnt><aut>Ivan G. &Scirc;irjaev</aut>, <vrk>Sen titolo</vrk>,
+        <lok>&ccirc;apitro 40a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_r;&c_o;&c_d;&c_a;&c_k; &c_p;&c_r;&c_a;&c_p;&c_a;&c_g;&c_a;&c_n;&c_d;&c_y;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_p;&c_a;&c_g;&c_a;&c_n;&c_d;&c_y;&c_s;&c_c;&c_k;&c_ib; &c_m;&c_a;&c_t;&c_e;&c_r;&c_y;&c_ja;&c_l;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_p;&c_a;&c_g;&c_a;&c_n;&c_d;&c_y;&c_s;&c_c;&c_k;&c_ib; &c_d;&c_a;&c_k;&c_u;&c_m;&c_e;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>let&aacute;k</trd>,
+    <trd>prost&rcaron;edek propagace</trd>
+  </trdgrp>
+  <trd lng="es">material de propaganda (folletos, carteles&#x2026;)</trd>
+  <trdgrp lng="fr">
+    <trd>objet promotionnel</trd>,
+    <trd>mat&eacute;riel de <ind>propagande</ind></trd>
+  </trdgrp>
+  <trd lng="ja">&#x5BA3;&#x4F1D;&#x6587;&#x66F8;  <pr>&#x305B;&#x3093;&#x3067;&#x3093;&#x3076;&#x3093;&#x3057;&#x3087;</pr></trd>
+  <trd lng="pl">narz&eogonek;dzie  <ind>propagandy</ind></trd>
+  <trd lng="sk">let&aacute;k</trd>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&#x43F;&c_a;&c_gu;&c_a;&#x43D;&c_d;&#x43D;&c_i;&c_j; &#x43C;&c_a;&c_t;&c_je;&c_r;&c_ib;&c_a;&#x43B;</trd>
+</drv>
+
+<drv mrk="propag.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="propag.0isto.KOMUNE">
+    <dif>
+      Homo, kiu da&ubreve;re <tld/>as.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_a;&c_g;&c_a;&c_n;&c_d;&c_y;&c_s;&c_t;</trd>
+  <trd lng="cs">propag&aacute;tor</trd>
+  <trd lng="de">Propagandist</trd>
+  <trd lng="es">propagandista</trd>
+  <trd lng="fr">propagandiste</trd>
+  <trd lng="hu">propagandista</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5BA3;&#x4F1D;&#x5BB6;  <pr>&#x305B;&#x3093;&#x3067;&#x3093;&#x304B;</pr></trd>,
+    <trd>&#x4F1D;&#x9053;&#x8005;  <pr>&#x3067;&#x3093;&#x3069;&#x3046;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x5E03;&#x6559;&#x5E2B;  <pr>&#x3075;&#x304D;&#x3087;&#x3046;&#x3057;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">propagandist</trd>
+  <trd lng="pl">propagandysta</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_a;&c_g;&c_a;&c_n;&c_d;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">propag&aacute;tor</trd>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&#x43F;&c_a;&c_gu;&c_a;&#x43D;&c_d;&c_i;&c_s;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.19 2023/03/27 01:45:36
+Vito Redsky: +trd pl 
+
+versio 1.17 2021/04/30 07:03:17
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2015/04/24 09:10:15  revo
+Carlos Garcia: +trd es -o -i -ilo -isto
+
+Revision 1.13  2006/06/30 16:31:03  revo
+Jeromo Vasxe: + ~ilo, - sin + vid
+
+Revision 1.12 2006/04/02 17:02:36 revo
+Tulio Flores: +tr pt
+
+Revision 1.11 2004/02/04 20:09:18 revo
+-->
+</vortaro>

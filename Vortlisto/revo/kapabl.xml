@@ -1,0 +1,728 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kapabl.xml,v 1.114 2023/12/12 19:24:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kapabl</rad>/a
+</kap>
+<drv mrk="kapabl.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="kapabl.0a.pova">
+    <dif>
+      Povanta fari ion; havanta la ecojn a&ubreve; plenumanta la kondi&ccirc;ojn
+      necesajn por fari ion:
+      <ekz>
+        <tld/>a al &ccirc;io
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a je krimo;
+      </ekz>
+      <ekz>
+        por amo <tld/>a
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi bezonis personon, kiu estus <tld/>a precipe por altran&ccirc;ado
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        li estas <tld/>a fari tion &ndash; murmuretis la &ccirc;efa ju&gcirc;isto
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 12a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a direktoro.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="spik.0o">spiko</ref>
+    </refgrp>
+  </snc>
+  <trd lng="af">staat</trd>
+  <trd lng="am">&#4632;&#x127B;&#x120D;</trd>
+  <trd lng="ar">&a_q;&a_A;&#x62F;&a_r;&a_t_marbuta;</trd>
+  <trd lng="az">ed&#601;</trd>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_z;&c_d;&c_a;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9B8;&#2453;&#x9CD;&#x9B7;&#x9AE;</trd>
+  <trd lng="bo">&#xF58;&#xF41;&#xF66;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
+  <trd lng="bs">u stanju</trd>
+  <trd lng="ca">capa&ccedil;</trd>
+  <trd lng="co">in gradu</trd>
+  <trdgrp lng="cs">
+    <trd>nadan&yacute;</trd>,
+    <trd>schopn&yacute;</trd>,
+    <trd>talentovan&yacute;</trd>,
+    <trd>zdatn&yacute;</trd>,
+    <trd>zp&uring;sobil&yacute;</trd>
+  </trdgrp>
+  <trd lng="cy">gallu</trd>
+  <trd lng="da">stand</trd>
+  <trdgrp lng="de">
+    <trd>f&auml;hig</trd>,
+    <trd>geschickt</trd>,
+    <trd>bereit</trd>,
+    <trd>t&uuml;chtig</trd>
+  </trdgrp>
+  <trd lng="en">capable</trd>
+  <trd lng="es">capaz</trd>
+  <trd lng="et">v&#xF5;imalik</trd>
+  <trd lng="eu">gai</trd>
+  <trdgrp lng="fr">
+    <trd>capable<klr tip="ind"> (apte)</klr></trd>,
+    <trd>apte</trd>,
+    <trd>bon<klr tip="ind"> (pour)</klr></trd>
+  </trdgrp>
+  <trd lng="fy">steat</trd>
+  <trd lng="ga">ann</trd>
+  <trd lng="gd">urrainn</trd>
+  <trd lng="gl">capaz</trd>
+  <trd lng="gu">&#xAB8;&#xA95;&#xACD;&#xAB7;&#xAAE;</trd>
+  <trd lng="ha">iya</trd>
+  <trd lng="hi">&#2360;&#2325;&#x94D;&#2359;&#x92E;</trd>
+  <trd lng="hmn">muaj cuab kav</trd>
+  <trd lng="hr">u mogu&cacute;nosti</trd>
+  <trd lng="ht">kapab</trd>
+  <trd lng="hu">k&eacute;pes</trd>
+  <trd lng="hy">&#x56F;&#1377;&#1408;&#1400;&#1394;</trd>
+  <trd lng="ig">ike</trd>
+  <trd lng="is">f&#xE6;r</trd>
+  <trd lng="ja">&#12391;&#x304D;&#x308B;</trd>
+  <trd lng="jv">bisa</trd>
+  <trd lng="ka">&#x10E8;&#x10D4;&#x10E3;&#x10EB;&#x10DA;&#x10D8;&#x10D0;</trd>
+  <trd lng="kk">&#x49B;&c_a;&c_b;&c_ib;&#x43B;&c_je;&c_t;&c_t;&c_ib;</trd>
+  <trd lng="km">&#x17A2;&#x17B6;&#6021;</trd>
+  <trd
+  lng="kn">&#xCB8;&#xCBE;&#xCA7;&#xCCD;&#xCAF;&#xCB5;&#xCBE;&#xC97;&#xCC1;&#xCA4;&#xCCD;&#xCA4;&#xCA6;&#xCC6;</trd>
+  <trd lng="ko">&#xC218;</trd>
+  <trd lng="ku">k&#xEA;rhat</trd>
+  <trd lng="ky">&c_a;&#x43B;&c_a;&c_t;</trd>
+  <trd lng="lat">potest</trd>
+  <trd lng="lo">&#xEAA;&#xEB2;&#xEA1;&#xEB2;&#xE94;</trd>
+  <trd lng="lt">sugeb&#279;ti</trd>
+  <trd lng="lv">sp&#275;j&#x12B;gs</trd>
+  <trd lng="mg">afaka</trd>
+  <trd lng="mi">taea</trd>
+  <trd lng="mk">&c_s;&#x43E;&c_s;&c_t;&#x43E;&#1112;&c_b;&c_a;</trd>
+  <trd lng="ml">&#xD15;&#xD34;&#xD3F;&#xD35;&#xD41;&#xD33;&#xD4D;&#xD33;</trd>
+  <trd lng="mn">&c_b;&#x43E;&#x43B;&#x43E;&#x43C;&c_zh;&c_t;&#x43E;&c_j;</trd>
+  <trd lng="mr">&#2360;&#2325;&#x94D;&#2359;&#x92E;</trd>
+  <trd lng="ms">dapat</trd>
+  <trd lng="mt">kapa&#x10B;i</trd>
+  <trd lng="my">&#4116;&#x102D;&#x102F;&#4100;&#x103A;</trd>
+  <trd lng="ne">&#2360;&#2325;&#x94D;&#2359;&#x92E;</trd>
+  <trd lng="nl">bekwaam</trd>
+  <trd lng="ny">wokhoza</trd>
+  <trd lng="oc">capable</trd>
+  <trd lng="pa">&#xA2F;&#xA4B;&#xA17;</trd>
+  <trdgrp lng="pl">
+    <trd>poj&eogonek;tny</trd>,
+    <trd>potrafi&aogonek;cy</trd>,
+    <trd>uzdolniony</trd>,
+    <trd>zdatny</trd>,
+    <trd>zdolny</trd>
+  </trdgrp>
+  <trd lng="ps">&#x6A9;&a_w;&a_l;&a_A;&#x6CC;</trd>
+  <trdgrp lng="ro">
+    <trd>capabil</trd>,
+    <trd>capabil&abreve;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
+  <trd lng="rw">bashoboye</trd>
+  <trd lng="sd">&a_w;&a_s;</trd>
+  <trd lng="si">&#xDC4;&#xDD0;&#xD9A;&#xDD2;</trd>
+  <trd lng="sk">schopn&yacute;</trd>
+  <trd lng="sl">lahko</trd>
+  <trd lng="sm">mafai</trd>
+  <trd lng="sn">vanokwanisa</trd>
+  <trd lng="so">awood</trd>
+  <trd lng="sq">gjendje</trd>
+  <trd lng="st">khona</trd>
+  <trd lng="su">bisa</trd>
+  <trd lng="sw">uwezo</trd>
+  <trd lng="ta">&#xBAE;&#xBC1;&#xB9F;&#xBBF;&#xBA8;&#xBCD;&#xBA4;&#xBA4;&#xBC1;</trd>
+  <trd lng="te">&#xC38;&#xC3E;&#xC2E;&#xC30;&#xC4D;&#xC25;&#xC4D;&#xC2F;&#xC02;</trd>
+  <trd lng="tg">&c_t;&c_a;&c_v;&#x43E;&#x43D;&c_i;&c_s;&c_t;</trd>
+  <trd lng="th">&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;</trd>
+  <trd lng="tl">magagawa</trd>
+  <trd lng="tt">&c_s;&#x4D9;&#x43B;&#x4D9;&c_t;&#x43B;&c_je;</trd>
+  <trd lng="uk">&c_s;&c_t;&c_a;&#x43D;&c_ib;</trd>
+  <trd lng="ur">&a_q;&a_A;&a_b;&a_l;</trd>
+  <trd lng="uz">qodir</trd>
+  <trd lng="vi">th&#x1EC3;</trd>
+  <trd lng="xh">nako</trd>
+  <trd lng="yi">&#x5E7;&#x5E2;&#x5E0;&#x5E2;&#x5DF;</trd>
+  <trd lng="yo">anfani</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5E72; <pr>g&#xE0;n</pr></trd>,
+    <trd>&#x80FD;&#x5E72; <pr>n&#xE9;ngg&#xE0;n</pr></trd>,
+    <trd>&#26377;&#x624D;&#x5E72; <pr>y&#x1D2;uc&#xE1;ig&#xE0;n</pr></trd>,
+    <trd>&#x5F97;&#x529B; <pr>d&#xE9;l&#xEC;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">ekwazi</trd>
+</drv>
+
+<drv mrk="kapabl.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Ecoj, kondi&ccirc;oj necesaj por fari ion:
+      <ekz>
+        &ccirc;u ne estus al vi agrable havi tian saman <tld/>on?
+        <fnt><bib>F</bib>, <lok>&FE; 17</lok></fnt>
+      </ekz>
+      <ekz>
+        mi memoros vin, &gcirc;is mia kapo perdos la <tld/>on de
+        &ccirc;ia memorado
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fabeloj <klr>[&#8230;]</klr> alkonformigitaj <klr>[&#8230;]</klr> al la
+        kompren<tld/>o de la <klr>[&#8230;]</klr>idoj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li tute perdas parol<tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>G. O. &Ograve;sh&oacute;-Davies</aut>
+          <vrk><url ref="&Monato;/2012/010385.php">La
+          perfekta edzino</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kajo povas servi al &scirc;ipo kun la <ind>kargo<tld/>o</ind> de
+        400 mil toneloj.
+        <trd lng="de">Tragkraft</trd>
+        <trd lng="nl">laadvermogen</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_d;&c_a;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>capacitat</trd>,
+    <trd>aptitud</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>schopnost</trd>,
+    <trd>zdatnost</trd>,
+    <trd>zp&uring;sobilost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>F&auml;higkeit</trd>,
+    <trd>Fertigkeit</trd>,
+    <trd>Kompetenz</trd>,
+    <trd>T&uuml;chtigkeit</trd>
+  </trdgrp>
+  <trd lng="es">capacidad</trd>
+  <trdgrp lng="fr">
+    <trd>aptitude</trd>,
+    <trd>capacit&eacute;<klr tip="ind"> (aptitude)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&eacute;pess&eacute;g</trd>,
+    <trd>tud&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x80FD;&#x529B;  <pr>&#x306E;&#12358;&#x308A;&#x304D;</pr></trd>,
+    <trd>&#x529B;&#x91CF;  <pr>&#x308A;&#x304D;&#x308A;&#12423;&#12358;</pr></trd>,
+    <trd>&#x624D;&#x80FD;  <pr>&#12373;&#12356;&#x306E;&#12358;</pr></trd>,
+    <trd>&#x624B;&#33109;  <pr>&#12375;&#12421;&#x308F;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="ne">&#2360;&#2368;&#x92A;</trd>
+  <trdgrp lng="nl">
+    <trd>bekwaamheid</trd>,
+    <trd>capaciteit<klr tip="ind"> (bekwaamheid)</klr></trd>,
+    <trd>vermogen<klr tip="ind"> (bekwaamheid)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dar <klr> (zdolno&sacute;&cacute;)</klr> </trd>
+    <trd>umiej&eogonek;tno&sacute;&cacute;</trd>,
+    <trd>zdolno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>&icirc;ndem&acirc;nare</trd>,
+    <trd>capabilitate</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">schopnos&tcaron;</trd>
+  <trd lng="tok">ken</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_d;&c_a;&c_t;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_s;&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_zh;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_z;&c_d;&c_ib;&c_b;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_z;&c_d;&c_ib;&c_b;&#x43D;&#x43E;&c_s;&c_t;&c_ib;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x624D;&#x80FD; <pr>c&#xE1;in&#xE9;ng</pr></trd>,
+    <trd>&#x624D;&#x5E72; <pr>c&#xE1;ig&#xE0;n</pr></trd>,
+    <trd>&#x672C;&#38936; <pr>b&#x11B;nl&#x1D0;ng</pr></trd>,
+    <trd>&#x80FD;&#32784; <pr>n&#xE9;ngn&#xE0;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kapabl.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Esti <tld/>a je io:
+      <ekz>
+        &scirc;i ne <tld/>is labori
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniu <tld/>is malsova&gcirc;igi lin
+        <fnt>
+          <bib>NT</bib>
+          <lok>Marko 5:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiom da viaj samtempuloj <tld/>as vivi senle&gcirc;e
+        <fnt><bib>Lanti</bib>, <lok>publika letero al Romen
+        Rolan</lok></fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_z;&c_d;&c_a;&c_t;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_m;&c_a;&c_g;&c_ch;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>poder</trd>,
+    <trd><ind>ser</ind> capa&ccedil; <ind>de</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>b&yacute;t s to</trd>,
+    <trd>b&yacute;t schopen</trd>,
+    <trd>dok&aacute;zat</trd>,
+    <trd>dov&eacute;st</trd>,
+    <trd>um&ecaron;t</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>k&ouml;nnen</trd>,
+    <trd>f&auml;hig sein (zu)</trd>,
+    <trd>bereit sein</trd>
+  </trdgrp>
+  <trd lng="es">ser capaz</trd>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre <ind>capable</ind> de</trd>,
+    <trd>&ecirc;tre <ind>apte</ind> &agrave;</trd>
+  </trdgrp>
+  <trd lng="hu">k&eacute;pes <klr tip="ind">(vmire)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;<ind>&#12377;&#x308B;&#x80FD;&#x529B;&#x304C;&#12354;&#x308B;
+    </ind><pr>&#12377;&#x308B;&#x306E;&#12358;&#x308A;&#12423;&#x304F;&#x304C;&#12354;&#x308B;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#12377;&#x308B;&#12371;&#12392;&#x304C;&#12391;&#x304D;&#x308B;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>kunnen</trd>,
+    <trd>in <ind>staat</ind> zijn</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>m&oacute;c</trd>,
+    <trd>potrafi&cacute;</trd>,
+    <trd>umie&cacute;</trd>,
+    <trd>zdo&lstroke;a&cacute;</trd>,
+    <trd>by&cacute; w stanie</trd>,
+    <trd>by&cacute; zdolnym do</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>putea</trd>,
+    <trd>fi capabil sau apt</trd>,
+    <trd>s&abreve; fie &icirc;n m&abreve;sur&abreve;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_y;&c_t;&c_mol; &c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_y;&c_m; <klr>(&c_n;&c_a; &c_ch;&c_t;&c_o;-&c_l;., &c_k;
+  &c_ch;&c_je;&c_m;&c_u;-&c_l;.)</klr></trd>
+  <trd lng="sk">by&tcaron; schopn&yacute;</trd>
+  <trd lng="tok">ken</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_t;&c_i;
+    &c_z;&c_d;&c_a;&c_t;&#x43D;&c_i;&#x43C;/&c_s;&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_zh;&#x43D;&c_i;&#x43C;/&c_g;&#x43E;&c_d;&#x43D;&c_i;&#x43C;
+    (&c_d;&#x43E; &c_ch;&#x43E;&c_g;&#x43E;-&#x43D;.</trd>,
+    <trd>&#x43D;&c_a; &c_shch;&#x43E;-&#x43D;.)</trd>,
+    <trd>&c_v;&c_i;&#x44F;&c_v;&#x43B;&#x44F;&c_t;&c_i; &c_z;&c_d;&c_ib;&c_b;&#x43D;&#x43E;&c_s;&c_t;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="vo">kan&ouml;n</trd>
+  <trd lng="zh">&#x80FD;&#x591F; <pr>n&#xE9;ngg&#xF2;u</pr></trd>
+</drv>
+
+<drv mrk="kapabl.0eco">
+  <kap><tld/>eco</kap>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="kapabl.0o"><tld lit="K"/>o</ref>:
+      <ekz>
+        <tld/>eco por desegnado
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        la okuloj atestis pri lia sa&gcirc;eco kaj lia <tld/>eco
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj
+          filinoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al &ccirc;iu la&ubreve; lia <tld/>eco
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 25:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        batal<tld/>eco
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Kroniko 26:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen<tld/>eco fordoni sin en la manojn de virino
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mal<tld/>eco
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_d;&c_a;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>capacitat</trd>,
+    <trd>aptitud</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>schopnost</trd>,
+    <trd>zdatnost</trd>,
+    <trd>zp&uring;sobilost</trd>
+  </trdgrp>
+  <trd lng="de">F&auml;higkeit</trd>
+  <trd lng="es">capacidad</trd>
+  <trdgrp lng="fr">
+    <trd>aptitude</trd>,
+    <trd>capacit&eacute;<klr tip="ind"> (aptitude)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&eacute;pess&eacute;g</trd>,
+    <trd>tud&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bekwaamheid</trd>,
+    <trd>capaciteit<klr tip="ind"> (bekwaamheid)</klr></trd>,
+    <trd>vermogen<klr tip="ind"> (bekwaamheid)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>umiej&eogonek;tno&sacute;&cacute;</trd>,
+    <trd>zdatno&sacute;&cacute;</trd>,
+    <trd>zdolno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trd lng="ro">abilitate</trd>
+  <trd lng="ru">&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">schopnos&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_d;&c_a;&c_t;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_s;&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_zh;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_z;&c_d;&c_ib;&c_b;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_z;&c_d;&c_ib;&c_b;&#x43D;&#x43E;&c_s;&c_t;&c_ib;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x624D;&#x80FD; <pr>c&#xE1;in&#xE9;ng</pr></trd>,
+    <trd>&#x624D;&#x5E72; <pr>c&#xE1;ig&#xE0;n</pr></trd>,
+    <trd>&#x8CC7;&#x8CEA; <pr>z&#x12B;zh&#xEC;</pr></trd>,
+    <trd>&#x672C;&#38936; <pr>b&#x11B;nl&#x1D0;ng</pr></trd>,
+    <trd>&#x80FD;&#32784; <pr>n&#xE9;ngn&#xE0;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kapabl.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Doni la necesajn rimedojn, ecojn, povon por fari ion:
+      <ekz>
+        mi dankas <klr>[...]</klr> nian Sinjoron, kiu min <tld/>igas
+        <fnt><bib>NT</bib>, <lok>&Ti1; 1:12</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igitaj de progreso en informado kaj komputila teknologio,
+        teleavioj fari&gcirc;is nerezisteble allogaj al militaj kaj policaj
+        fortoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2014/011172.php">Minacas
+          nova armado-konkuro</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>capacitar</trd>,
+    <trd>permetre</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>bef&auml;higen</trd>,
+    <trd>erm&ouml;glichen</trd>
+  </trdgrp>
+  <trd lng="es">capacitar</trd>
+  <trd lng="fr">rendre <ind>capable</ind></trd>
+  <trd lng="ja">&#x80FD;&#x529B;&#12434;&#x8EAB;&#x306B;&#12388;&#12369;&#12373;&#x305B;&#x308B;
+  <pr>&#x306E;&#12358;&#x308A;&#12423;&#x304F;&#12434;&#x307F;&#x306B;&#12388;&#12369;&#12373;&#x305B;&#x308B;</pr></trd>
+  <trd lng="nl">in <ind>staat</ind> stellen</trd>
+  <trd lng="pl">umo&zdot;liwia&cacute;</trd>
+  <trd lng="ro">permite</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_d;&c_a;&c_r;&c_i;&c_t;&c_mol; <ind>&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;&c_ju;</ind></trd>,
+    <trd>&c_d;&c_a;&c_t;&c_mol; <ind>&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kapabl.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc>
+    <dif>
+      Ulo, kiu povas fari ion, havante &ccirc;ion necesan por &gcirc;i:
+      <ekz>
+        li estas fortulo kaj milit<tld/>ulo
+        <fnt><bib>MT</bib>, <lok>&Sa1; 16:18</lok></fnt>;
+      </ekz>
+      <ekz>
+        okdek sep mil batal<tld/>uloj
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. kroniko 7:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu <tld/>ulo jam anta&ubreve;e povis aliri la abiturientan ekzamenon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2012/010693.php">Pena
+          pedagogio</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en lia vila&gcirc;o la labor<tld/>uloj forlasis siajn familiojn kaj
+        iris al aliaj lokoj por labori
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Xu Jinming</aut>
+          <vrk><url ref="&Monato;/2011/010357.php">Vila&gcirc;oj
+          sen gepatroj</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
+  <trdgrp lng="ca">
+    <trd><ind>individu</ind> competent</trd>,
+    <trd><ind>persona</ind> destra</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Talent</trd>,
+    <trd>K&ouml;nner</trd>
+  </trdgrp>
+  <trd lng="fr">homme de la situation</trd>
+  <trdgrp lng="ja">
+    <trd>&#26377;&#x80FD;&#x306A;&#x4EBA;  <pr>&#12422;&#12358;&#x306E;&#12358;&#x306A;&#12376;&#12435;</pr></trd>,
+    <trd>&#x624D;&#x5B50;  <pr>&#12373;&#12356;&#12375;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bekwaam persoon</trd>
+  <trdgrp lng="pl">
+    <trd>go&sacute;ciu</trd>,
+    <trd>persona</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>tip</trd>,
+    <trd>persoan&abreve;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x624D;&#x80FD; <pr>c&#xE1;in&#xE9;ng</pr></trd>,
+    <trd>&#x4EBA;&#x624D; <pr>r&#xE9;nc&#xE1;i</pr></trd>,
+    <trd>&#x80FD;&#x4EBA; <pr>n&#xE9;ngr&#xE9;n</pr></trd>,
+    <trd>&#22825;&#x624D; <pr>ti&amacron;nc&#xE1;i</pr></trd>,
+    <trd>&#x8FBE;&#x4EBA; <pr>d&#xE1;r&#xE9;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kapabl.antaux0o">
+  <kap>anta&ubreve;<tld/>o</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="kapabl.0o"><tld lit="K"/>o</ref> disponebla
+      sen aparta trejnado por venonta
+      tasko:
+      <ekz>
+        iliaj vo&ccirc;aj organoj tute ne montris ian grandan
+        anta&ubreve;<tld/>on por la kantarto
+        <fnt><bib>Fab2</bib>, <lok>la najtingalo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">predisposici&oacute;</trd>
+  <trdgrp lng="de">
+    <trd>Voraussetzung</trd>,
+    <trd>Eignung</trd>
+  </trdgrp>
+  <trd lng="fr">pr&eacute;disposition</trd>
+  <trdgrp lng="nl">
+    <trd>aanleg</trd>,
+    <trd>voorbeschiktheid</trd>,
+    <trd>predispositie</trd>
+  </trdgrp>
+  <trd lng="pl">zdolno&sacute;&cacute; wst&eogonek;pna</trd>
+  <trd lng="ro">capacitatea ini&#x21B;ial&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_d;&c_a;&c_t;&c_o;&c_k;<klr tip="amb">
+    (&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_i;)</klr></trd>,
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_r;&c_a;&c_s;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#21512;&#36866; <pr>h&#xE9;sh&#xEC;</pr></trd>,
+    <trd>&#36866;&#x5B9C;&#24615; <pr>sh&#xEC;y&#xED;x&#xEC;ng</pr></trd>,
+    <trd>&#36866;&#29992;&#24615; <pr>sh&#xEC;y&#xF2;ngx&#xEC;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kapabl.ne0a">
+  <kap>ne<tld/>a</kap>
+  <snc>
+    <dif>
+      Ne povanta fari ion, ne havanta la rimedojn, kondi&ccirc;ojn
+      a&ubreve; ta&ubreve;gajn ecojn:
+      <ekz>
+        &ccirc;u ni estus ne<tld/>aj fari tion, kion faras la Azianoj
+        <fnt><bib>FK</bib>, <lok>6, artikoloj pri Esperanto, al la
+        historio de la provoj de lingvoj tutmondaj de Leibnitz &gcirc;is la
+        nuna tempo</lok></fnt>?
+      </ekz>
+      <ekz>
+        per oreloj ne<tld/>aj distingi ian sonon &scirc;i a&ubreve;skultis la bruadon
+        de la granda urbo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la le&gcirc;o trovi&gcirc;is ne<tld/>a pro tio, ke &gcirc;i estis malforta
+        <fnt>
+          <bib>NT</bib>
+          <lok>Romanoj 8:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>ne<tld/>ulo</ind>.
+        <trdgrp lng="fr">
+          <trd>incapable<klr tip="ind"> (subst.)</klr></trd>,
+          <trd>nul<klr tip="ind"> (subst., incapable)</klr></trd>,
+          <trd>nullit&eacute;<klr tip="ind"> (personne nulle)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="nl">
+          <trd>grote <ind>nul</ind></trd>,
+          <trd>stuk <ind>onbenul</ind></trd>
+        </trdgrp>
+        <trd lng="ru">&c_b;&c_je;&c_z;&c_d;&c_a;&c_r;&c_n;&c_o;&c_s;&c_t;&c_mol;<klr tip="amb">
+        (&c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;)</klr></trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_z;&c_d;&c_a;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>incapa&ccedil;</trd>,
+    <trd>incapacitat</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nemohouc&iacute;</trd>,
+    <trd>neschopn&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">unf&auml;hig</trd>
+  <trd lng="es">incapaz</trd>
+  <trd lng="fr">incapable<klr tip="amb"> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;<ind>&#12391;&#x304D;&#x306A;&#12356;</ind></trd>,
+    <trd>&#x80FD;&#x529B;&#12434;&#x6B20;&#12356;&#x305F;
+    <pr>&#x306E;&#12358;&#x308A;&#12423;&#x304F;&#12434;&#x304B;&#12356;&#x305F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">ongeschikt</trd>
+  <trd lng="pl">nieudolny</trd>
+  <trd lng="ro">ne&icirc;ndem&acirc;natic</trd>
+  <trd lng="ru">&c_n;&c_je;&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">neschopn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_z;&c_d;&c_a;&c_t;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_s;&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_zh;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_d;&c_a;&c_r;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x80FD;&#x52DD;&#x4EFB; <pr>b&#xF9;n&#xE9;ngsh&emacron;ngr&#xE8;n</pr></trd>,
+    <trd>&#x4F4E;&#25928; <pr>d&#x12B;xi&#xE0;o</pr></trd>,
+    <trd>&#x65E0;&#x80FD; <pr>w&#xFA;n&#xE9;ng</pr></trd>,
+    <trd>&#x761D; <pr>gu&amacron;n</pr></trd>,
+    <trd>&#x6C92;&#26377;&#x80FD;&#x529B; <pr>m&#xE9;iy&#x1D2;un&#xE9;ngl&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.114 2023/12/12 19:24:44
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.113 2023/12/09 08:29:08
+Wolfram Diestel: +trd de
+
+versio 1.111 2023/10/18 14:48:09
+revo: transskribo per <pr>
+
+versio 1.110 2023/09/08 14:26:58
+Wolfram Diestel: kor. ja ind.
+
+versio 1.109 2023/09/05 06:31:11
+Wolfram Diestel: kor. ja ind.
+
+versio 1.107 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.105 2021/08/20 13:33:50
+Dmitri Gabinski: + trd be
+
+Revision 1.26  2018/07/21 19:10:13  revo
+-->
+</vortaro>

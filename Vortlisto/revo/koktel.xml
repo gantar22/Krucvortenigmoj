@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: koktel.xml,v 1.18 2023/12/03 09:58:52 revo Exp $">
+<kap>
+  <rad>koktel</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="koktel.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="koktel.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Miks<ref tip="super" cel="trink.0ajxo.KUI">trinka&jcirc;o</ref>, el
+      fruktosukoj, alkohola&jcirc;oj a&ubreve; aliaj:
+      <ekz>
+        Tomaso <nom>Archer</nom>, kiu sola aliris, foriris sola, plene malebria
+        pro akra kolero malgra&ubreve; siaj kvar <tld/>oj
+        <fnt>
+          <aut>S. Zaft</aut>
+          <vrk><url ref="">Frostsezonaj Pekoj</url></vrk>
+          <lok>Esperanto sub la Suda Kruco, 1997-05 &gcirc;is 06, numero 27a,
+          p. 6-11a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> konsumis malpli da <tld/>oj, pro malsano de
+        l&#x2019; hepato
+        <fnt>
+          <aut>&Gcirc;. Vans, trad. &Gcirc;. &Ubreve;. Starling</aut>
+          <vrk><url ref="http://esperanto.us/DomoDeSe.html">
+          Domo de l&#x2019; Se</url></vrk>
+          <lok>2002</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_k;&c_t;&c_e;&c_j;&c_l;&c_mol;</trd>
+  <trd lng="cs">koktejl</trd>
+  <trd lng="de">Cocktail</trd>
+  <trd lng="en">cocktail</trd>
+  <trd lng="es">coctel</trd>
+  <trd lng="fr">cocktail</trd>
+  <trd lng="it">coktail</trd>
+  <trd lng="ja">&#x30AB;&#x30AF;&#x30C6;&#x30EB;</trd>
+  <trd lng="nl">cocktail</trd>
+  <trd lng="pl">koktail</trd>
+  <trdgrp lng="pt">
+    <trd>coquetel (BR)</trd>,
+    <trd>cocktail</trd>
+  </trdgrp>
+  <trd lng="ro">cockteil</trd>
+  <trd lng="sk">koktail</trd>
+  <trd lng="uk">&c_k;&c_o;&c_k;&c_t;&c_je;&c_j;&c_l;&c_mol;</trd>
+  <trd lng="zh">&#x96DE;&#x5C3E;&#x9152; <pr>j&#x12B;w&#x11B;iji&#x1D4;</pr></trd>
+</drv>
+
+<drv mrk="koktel.molotov0o">
+  <kap>molotov<tld/>o</kap>
+  <snc mrk="koktel.molotov0o.ARM">
+    <dif>
+      <ref tip="dif" cel="botel.brul0o.ARM">Brulbotelo</ref>:
+      <ekz>
+        mi &jcirc;etas &scirc;tonojn kaj molotov<tld/>on
+        <fnt>
+          <aut>S. Lang, trad. G. Berveling</aut>,
+          <vrk>La Talpo&ccirc;asisto</vrk>,
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili mortis en la flame brulantaj tankoj,
+        kiujn trafis la molotov<tld/>oj
+        <fnt>
+          <aut>I. Szabo</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/32699/284324">
+          1956 &mdash; Liberbatalo</url></vrk>,
+          <lok>2010-10-22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_k;&c_t;&c_e;&c_j;&c_l;&c_mol; &c_M;&c_o;&c_l;&c_a;&c_t;&c_a;&c_v;&c_a;</trd>
+  <trd lng="en">Molotov cocktail</trd>
+  <trd lng="fr">cocktail Molotov</trd>
+  <trd lng="pl">koktail Mo&lstroke;otowa</trd>
+  <trd lng="zh">&#x71C3;&#x70E7;&#x74F6; <pr>r&#xE1;nsh&#x101;op&#xED;ng</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.16 2022/08/21 19:23:33
+Jeromo Vasxe: molotov~o ref dif brulbotelo
+
+Revision 1.13  2017/02/15 14:10:19  revo
+Jeromo Vasxe: sxofpeco -> mecxo
+
+Revision 1.12  2016/09/13 18:10:21  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2016/08/26 19:10:18  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.10  2015/10/13 09:10:26  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2015/09/21 13:10:25  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.8  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:17  revo
+-->
+</vortaro>

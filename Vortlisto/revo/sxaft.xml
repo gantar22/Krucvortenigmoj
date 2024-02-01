@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sxaft.xml,v 1.28 2023/12/17 21:21:11 revo Exp $">
+<kap>
+  <rad>&scirc;aft</rad>/o
+  <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="sxaft.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Longforma peco de <ref tip="malprt" cel="mehxan1.0o.pecoj">me&hcirc;anismo</ref>,
+      ofte cilindra, servanta por transmeti sian rotacion al aliaj pecoj
+      (eventuale kun &scirc;an&gcirc;o de la movoformo):
+      <ekz>
+        <ind>fleksebla <tld/>o</ind>;
+        <trd lng="ru">&c_g;&c_i;&c_b;&c_k;&c_i;&c_j; <ind>&c_v;&c_a;&c_l;</ind></trd>
+      </ekz>
+      <ekz>
+        kvar elektraj motoroj trovi&gcirc;as sub la &scirc;ipo: rezulte, neniu stirilo kaj neniu
+        helico<tld/>o povas vibrigi kaj bruigi la &scirc;ipon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Christian Bertin</aut>
+          <vrk><url ref="&Monato;/2004/008255.html">Re&gcirc;ino de la maroj</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi povis distingi nek krankon disde valvo nek bielon de <tld/>o
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rul.0o.fundamenta">rulo<sncref/></ref>,
+      <ref  cel="spinde.0o.TEK">spindelo<sncref/></ref>,
+      <ref cel="transmisi.0o.TEK">transmisio<sncref/></ref>
+    </refgrp>
+    <rim>
+      Diversaj skoloj naciaj malsame traktas la rilaton inter la
+      <tld/>o kaj <ref cel="aks.0o.TEK">akso</ref>; tamen
+      &gcirc;enerale, en la okazoj kiam la koncerna peco servas por komuniki
+      rotacian movon oni preferu la terminon <tld/>o.
+    </rim>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_l; <klr>(&c_m;&c_e;&c_h;&c_a;&c_n;&c_ib;&c_z;&c_m;&c_a;)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>eix</trd>,
+    <trd>arbre</trd>
+  </trdgrp>
+  <trd lng="de">Welle</trd>
+  <trd lng="en">shaft<klr> (mech.)</klr></trd>
+  <trdgrp lng="es">
+    <trd>eje transmisor</trd>,
+    <trd>&aacute;rbol</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_m;&f_y;&a_l; &a_m;&a_H;&a_w;&a_r;</trd>,
+    <trd>&a_sh;&a_A;&a_f;&a_t;</trd>
+  </trdgrp>
+  <trd lng="fr">arbre<klr tip="ind"> (de transmission)</klr></trd>
+  <trd lng="hu">tengely</trd>
+  <trd lng="it">albero<klr tip="ind"> (di trasmissione)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#36600;  <pr>&#12376;&#12367;</pr></trd>,
+    <trd>&#12471;&#12515;&#12501;&#12488;</trd>,
+    <trd>&#24515;&#26834;  <pr>&#12375;&#12435;&#12412;&#12358;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">drijfas</trd>
+  <trd lng="pl">wa&lstroke;</trd>
+  <trdgrp lng="pt">
+    <trd>eixo transmissor</trd>,
+    <trd>&aacute;rvore</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_a;&c_l;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_a;&c_l;</trd>,
+    <trd>&c_v;&c_ib;&c_s;&c_mol;</trd>,
+    <trd>&c_sh;&c_p;&c_i;&c_n;&c_d;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxaft.kranko0o">
+  <kap>
+    kranko<tld/>o
+  </kap>
+  <uzo tip="fak">TEK</uzo><uzo tip="fak">AUT</uzo>
+  <snc>
+    <dif>
+      &Scirc;afto en formo de kunigitaj krankoj, transformante alternan movon de pi&scirc;toj transigitan per
+      <ref cel="biel.0o">bielo</ref> al turni&gcirc;o:
+      <ekz>
+        pi&scirc;toj movi&gcirc;as periode tien-reen en cilindroj, kiuj estas kuplitaj tra bielo al
+        turnmovigo de kranko<tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=36492">Pi&scirc;ta motoro</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Wolfgang von Kempelen</nom> konstruis du vaporma&scirc;inojn <klr>[&ccirc;e kiuj]</klr> li uzis
+        <klr>[&#8230;]</klr> jam kranko<tld/>on, tiel anta&ubreve;is <nom>James Watt</nom>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=211604">Wolfgang von Kempelen</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/b/b8/Crankshaftrendering.png/320px-Crankshaftrendering.png"
+    prm="CC-BY-SA-3.0">modelo de kranko<tld/>o
+        <fnt>
+          <aut>Boroski, propra verko</aut>
+          <lok><url
+          ref="&WCW;/File:Crankshaftrendering.png">&WCW;/File:Crankshaftrendering.png</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_je;&c_n;&c_ch;&c_a;&c_s;&c_t;&c_y; &c_v;&c_a;&c_l;</trd>
+  <trd lng="de">Kurbelwelle</trd>
+  <trd lng="en">crankshaft</trd>
+  <trd lng="fr">vilebrequin</trd>
+  <trd lng="hu">forgatty&uacute;s <ind>tengely</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#12463;&#12521;&#12531;&#12463;&#36600;
+    <pr>&#12463;&#12521;&#12531;&#12463;&#12376;&#12367;</pr></trd>,
+    <trd>&#12463;&#12521;&#12531;&#12463;&#12471;&#12515;&#12501;&#12488;</trd>
+  </trdgrp>
+  <trd lng="pl">wa&lstroke; korbowy</trd>
+  <trd lng="ru">&c_k;&c_o;&c_l;&c_je;&c_n;&c_ch;&c_a;&c_t;&c_y;&c_j; &c_v;&c_a;&c_l;</trd>
+  <trd lng="uk">&c_k;&c_o;&c_l;&c_ib;&c_n;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_j; &c_v;&c_a;&c_l;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/12/17 21:21:11
+Wolfram Diestel: -ekz, +ref
+
+versio 1.27 2023/12/17 14:28:09
+Wolfram Diestel: fnt JED, +rim
+
+versio 1.26 2023/11/29 12:45:53
+Vito Redsky: +trd pl
+
+versio 1.25 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.23 2022/05/05 14:43:49
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2021/11/01 12:47:46
+Dmitri Gabinski: + trd be
+
+versio 1.19 2021/10/07 19:21:08
+Wolfram Diestel: apartigo de kranko~o aldonante dif; ekz-oj, ref-oj, trd de, +bld
+
+Revision 1.17  2010/02/20 18:02:14  revo
+-->
+</vortaro>

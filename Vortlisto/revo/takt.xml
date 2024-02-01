@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: takt.xml,v 1.31 2023/10/21 13:02:26 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>takt</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="takt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="takt.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Tempa <ref tip="super" cel="skem.0o">skemo</ref> de muzika <ref tip="vid" cel="ritm.0o.MUZ">ritmo</ref>,
+      de la alterno de la <ref tip="prt" cel="puls.0o.MUZ">pulso</ref>j:
+      <ekz>
+        flava floro similas al la fra&ubreve;lino <klr>[&#x2026;]</klr> kaj balancadis la kapon la&ubreve; la
+        <tld/>o de la bela muziko
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Floroj de la malgranda Ida</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i tamen komencis danci, sed &scirc;i tute ne povis alkonformi&gcirc;i al la <tld/>o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova domo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la muziko fari&gcirc;is pli energia kaj la dancoj iris en pli
+        viva <tld/>o
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bati takton
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malnovaj melodioj eksonis, apartaj <tld/>oj <klr>[&#x2026;]</klr> disruli&gcirc;is
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la doktoro <klr>[&#x2026;]</klr> a&ubreve;skultis la kanton, batis la <tld/>on al &gcirc;i sur sia
+        genuo per la letero
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi ne havas <klr>[&#x2026;]</klr> ideon pri <tld/>o, ke vi kantas kiel sova&gcirc;uloj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
+        operetaj melodioj eksonis sopireme kaj en <tld/>oj de la &leftquot;<nac>charlstown</nac>&rightquot;
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li fajfis iun sova&gcirc;an mar&scirc;on, la&ubreve; kies <tld/>o estis facile iri
+        <fnt>
+          <bib>Tor</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mezur.0o.MUZ">mezuro<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>rhythm</trd>,
+      <trd>time</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&uuml;tem</trd>,
+      <trd>taktus</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>maat</trd>,
+      <trd>ritme</trd>
+    </trdgrp>
+    <trd lng="pl">takt</trd>
+    <trdgrp lng="pt">
+     <trd>compasso</trd>,
+     <trd>andamento</trd>,
+     <trd>cad&ecirc;ncia</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="takt.0o.mezuro">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="mezur.0o.MUZ">Mezuro<sncref/></ref>:
+      <ekz>
+        &scirc;i eraradis en la pasa&jcirc;oj, premadis senbezone la pedalon, forlasadis tutajn
+        <tld/>ojn
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bonvolu memori, ke vi devas silenti dum tri <tld/>oj post la kvina linio
+        <fnt>
+          <bib>KKl</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="takt.0o.bruo">
+    <dif>
+      Regula intermita <ref tip="super" cel="bru.0o.sonaro">bruo</ref>:
+      <ekz>
+        promenadi la&ubreve; la <tld/>o de tamburo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ju pli la&ubreve;te li kriis, des pli forte la bastono batis la <tld/>on sur lia dorso
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Tablo, la orazeno kaj bastono el sako</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia pulso en <tld/>o batas, tute kiel via
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>beat</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&uuml;tem</trd>,
+      <trd>taktus</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>maat</trd>,
+      <trd>ritme</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="takt.0o.gxentileco">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Kapablo sagace ju&gcirc;i kaj konvene paroli a&ubreve; agi
+      konforme al la cirkonstancoj, montrante &ccirc;iam
+      <ref tip="sin" cel="gxenti.0eco">&gcirc;entilecon</ref>
+      kaj delikatecon:
+      <ekz>
+        la patro Alekso, homo de bona staturo, <klr>[&#x2026;]</klr> kondutis kun granda <tld/>o
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nur virino kun speciala inteligenteco, <tld/>o kaj ju&gcirc;okapablo povis elteni
+        <klr>[tion]</klr> kiel &scirc;i faris
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[dum]</klr> en &ccirc;iuj internaciaj kongresoj <klr>[&#x2026;]</klr> la ne&ubreve;traleco
+        estas simpla afero de <tld/>o, &ccirc;e ni &gcirc;i estas la
+        &ccirc;efa principo
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Taktgef&uuml;hl</trd>
+    <trd lng="hu">tapintat</trd>
+    <trd lng="nl">tact</trd>
+    <trdgrp lng="es">
+      <trd>tino</trd>,
+      <trd>tacto</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_k;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>spole&ccaron;ensk&yacute; takt</trd>,
+    <trd>taktnost</trd>
+  </trdgrp>
+  <trd lng="de">Takt</trd>
+  <trd lng="en">tact</trd>
+  <trdgrp lng="es">
+    <trd>ritmo</trd>,
+    <trd>comp&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>mesure<klr tip="amb"> (musique)</klr></trd>,
+    <trd>tact</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x62CD;&#x5B50;  <pr>&#x3072;&#x3087;&#x3046;&#x3057;</pr></trd>,
+    <trd>&#x8ABF;&#x5B50;  <pr>&#x3061;&#x3087;&#x3046;&#x3057;</pr></trd>,
+    <trd>&#x898F;&#x5247;&#x7684;&#x306B;&#x7E70;&#x308A;&#x8FD4;&#x3059;&#x97F3;  <pr>&#x304D;&#x305D;&#x304F;&#x3066;&#x304D;&#x306B;&#x304F;&#x308A;&#x304B;&#x3048;&#x3059;&#x304A;&#x3068;</pr></trd>,
+    <trd>&#x30AF;&#x30ED;&#x30C3;&#x30AF;&#x4FE1;&#x53F7;  <pr>&#x30AF;&#x30ED;&#x30C3;&#x30AF;&#x3057;&#x3093;&#x3054;&#x3046;</pr></trd>,
+    <trd>&#x6A5F;&#x8EE2;  <pr>&#x304D;&#x3066;&#x3093;</pr></trd>,
+    <trd>&#x5982;&#x624D;&#x306A;&#x3055;  <pr>&#x3058;&#x3087;&#x3055;&#x3044;&#x306A;&#x3055;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">takt</trd>
+  <trdgrp lng="pt">
+   <trd>tino</trd>,
+   <trd>ta(c)to</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_a;&c_k;&c_t;</trd>
+  <trd lng="sk">spolo&ccaron;ensk&yacute; takt</trd>
+  <trd lng="sv">takt</trd>
+  <trdgrp lng="uk">
+    <trd>&#x442;&#x430;&#x43A;&#x442;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43C;&#x456;&#x440;</trd>,
+    <trd>&#x440;&#x438;&#x442;&#x43C;</trd>,
+    <trd>&#x442;&#x435;&#x43C;&#x43F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="takt.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="takt.0a.MUZ">
+    <dif>
+      Rilata al <tld/>o, sekvanta la <tld/>on:
+      <ekz>
+        akustika gitaro kies <tld/>aj akordoj <klr>(kp <ref cel="arpegx.0o">arpe&gcirc;o</ref>)</klr>, 
+        danke al fajna sento de ritmo
+        <klr>[&#x2026;]</klr> restigas impreson de <klr>[&#x2026;]</klr> finforma muzika verko
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#x2116; 7 (105)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="takt.0a.MOR">
+    <dif>
+      Kiu agas kun <ref tip="vid" cel="takt.0o.gxentileco">takto<sncref/></ref>,
+      <ref tip="super" cel="gxenti.0a">&gcirc;entile</ref>, 
+      <ref tip="super" cel="ten.sinde0ema">sindetena</ref>:
+      <ekz>
+        persono bonorda, akurata, lerta en kalkulado, <tld/>a kaj konanta la homojn
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;io estu <tld/>a kaj konvena, vin vestu bone, sed ne kiel dando
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &Scirc;i &gcirc;uste kaj digne ofendi&gcirc;as kaj la edzo devas trovi <tld/>ajn rimedojn por
+        havigi al si &scirc;ian pardonon
+        <fnt>
+          <bib>Plumamikoj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        usonanoj estas tre <tld/>aj kaj respektemaj en 
+        reala vivo
+        <fnt>
+          <aut>A. Shlafer</aut>,
+          <vrk><url ref="https://groups.yahoo.com/neo/groups/revuloj/conversations/messages/12303">
+          Kio dan&gcirc;eras?</url></vrk>,
+          <lok>Revuloj, 2007-12-31</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">taktvoll</trd>
+    <trd lng="en">tactful</trd>
+    <trdgrp lng="fr">
+      <trd>discret</trd>,
+      <trd>plein de <ind>tact</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>rovnom&ecaron;rn&yacute;</trd>,
+    <trd>stejnom&ecaron;rn&yacute;</trd>,
+    <trd>taktovac&iacute;</trd>,
+    <trd>taktov&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>oh&lcaron;adupln&yacute;</trd>,
+    <trd>pozorn&yacute;</trd>,
+    <trd>&scaron;etrn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x442;&#x430;&#x43A;&#x442;&#x43E;&#x432;&#x438;&#x439;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43C;&#x456;&#x440;&#x435;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43C;&#x456;&#x440;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x440;&#x438;&#x442;&#x43C;&#x456;&#x447;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="takt.laux0a">
+  <kap>la&ubreve;<tld/>a</kap>
+  <snc mrk="takt.laux0a.KOMUNE">
+    <dif>
+      <ref tip="super" cel="konfor.0a">Konforma</ref> al difinita <tld/>o:
+      <ekz>
+        la la&ubreve;<tld/>a bato de la remiloj;
+      </ekz>
+      <ekz>
+        Janjo <klr>[&#x2026;]</klr> saltadis sur la genuoj de la vartistino la&ubreve;<tld/>e de la
+        muziko
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tradiciajn ritojn &ccirc;iuj tiuj aktoroj solene plenumas <klr>[&#x2026;]</klr> &gcirc;is eliro
+        la&ubreve;<tld/>a kun la orkestro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Eduardo Novembro</aut>
+          <vrk><url ref="&Monato;/2014/011318.php">Ta&ubreve;ro??? Festo!!!</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">im <ind>Takt</ind></trd>
+    <trdgrp lng="en">
+      <trd>in <ind>time</ind> <klr>(with the music)</klr></trd>,
+      <trd>in <ind>tact</ind></trd>
+    </trdgrp>  
+  </snc>
+  <trd lng="fr">rythm&eacute;</trd>
+  <adm>
+    &ccirc;u "la&ubreve;takta" uzi&gcirc;as anka&ubreve; sinonime de &gcirc;entila, konforma al konvencia konduto...
+  </adm>
+</drv>
+
+<drv mrk="takt.sam0a">
+  <kap>sam<tld/>a</kap>
+  <snc mrk="takt.sam0a.KOMUNE">
+    <dif>
+      La&ubreve; komuna <tld/>o; la&ubreve; senvaria <tld/>o:
+      <ekz>
+        sam<tld/>e batos niaj koroj
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la remiloj <klr>[&#x2026;]</klr> batis la ondaron sam<tld/>e kun la muziko
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;ojo <klr>[&#x2026;]</klr> vibrigante la korojn sam<tld/>e
+        <fnt>
+          <bib>BonaLingvo</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sam<tld/>e kun la melodioj, kiujn la lipoj formis, sen ke li mem rimarkis tion,
+        <klr>[&#x2026;]</klr> dol&ccirc;aj subsentoj kantis pli intensan kanton interne de li
+        <fnt>
+          <bib>Tor</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="de">im <ind>Gleichtakt</ind></trd>
+  <trd lng="en">to the same <ind>beat</ind></trd>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>de <ind>rythme &eacute;gal</ind></trd>,
+    <trd>synchrone</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="takt.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="takt.sen0a.MOR">
+    <dif>
+      Kiu agas sen <ref cel="takt.0o.gxentileco">takto<sncref/></ref>,
+      <ref cel="lert.mal0a">mallerte</ref> a&ubreve; <ref tip="super" cel="ofend.0a">ofende</ref>:
+      <ekz>
+        eble mi estis sen<tld/>a traktante delegiton kiel membron de la sekretariejo
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili pozas leoninojn, penas pla&ccirc;i, parolas kaj agas 
+        sen<tld/>e
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">taktlos</trd>
+    <trd lng="en">tactless</trd>
+    <trdgrp lng="fr">
+      <trd>d&eacute;plac&eacute;<klr> (manquant de tact)</klr></trd>,
+      <trd>indiscret<klr> (manquant de tact)</klr></trd>,
+      <trd>mals&eacute;ant</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">mimo takt</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6A5F;&#x8EE2;&#x306E;&#x5229;&#x304B;&#x306A;&#x3044;  <pr>&#x304D;&#x3066;&#x3093;&#x306E;&#x304D;&#x304B;&#x306A;&#x3044;</pr></trd>,
+    <trd>&#x7121;&#x795E;&#x7D4C;&#x306A;  <pr>&#x3080;&#x3057;&#x3093;&#x3051;&#x3044;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">mimo takt</trd>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x435;&#x437;&#x442;&#x430;&#x43A;&#x442;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x43E;&#x437;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x439; &#x440;&#x438;&#x442;&#x43C;&#x443;</trd>,
+    <trd>&#x442;&#x430;&#x43A;&#x442;&#x443;</trd>,
+    <trd>&#x43D;&#x435;&#x442;&#x430;&#x43A;&#x442;&#x43E;&#x432;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x442;&#x430;&#x43A;&#x442;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x442;&#x430;&#x43A;&#x442;&#x43E;&#x432;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.29 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.27 2021/12/29 18:34:44
+Wolfram Diestel: +~o "mezuro", ~a MUZ; ekz-oj, ref-oj, trd de
+
+versio 1.26 2021/12/29 16:48:34
+Wolfram Diestel: plibonigoj en NR: fnt-oj, trd en, adm
+
+Revision 1.24  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/02/04 01:10:12  revo
+Jeromo Vasxe: + ~a sen~a
+
+Revision 1.22  2013/08/31 09:10:11  revo
+Jeromo Vasxe: + laux/sam~a
+
+Revision 1.21  2011/12/29 18:10:08  revo
+-->
+</vortaro>

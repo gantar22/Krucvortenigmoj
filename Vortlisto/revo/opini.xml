@@ -1,0 +1,734 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: opini.xml,v 1.51 2024/01/18 15:26:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>opini</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="opini.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="opini.0i.KOMUNE">
+    <dif>
+      Havi <tld/>on, iel
+      <refgrp tip="sub">
+        <ref cel="jugx.0i.taksi">ju&gcirc;i</ref>,
+        <ref cel="pens.0i.opinii">pensi</ref>
+      </refgrp>
+      pri iu a&ubreve; io, iel
+      <refgrp tip="sub">
+        <ref cel="taks.0i.KOMUNE">taksi</ref>,
+        <ref cel="rigard.0i.atribui">rigardi</ref>
+      </refgrp>
+      iun a&ubreve; ion:
+      <ekz>
+        mi ne volas, fratoj, ke vi ne sciu &ccirc;i tiun misteron, por ke vi ne <tld/>u vin
+        sa&gcirc;aj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Romanoj 11:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>as, ke vi havas tre &scirc;atindan ideon, sinjoro
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la jura konsilisto <tld/>is, ke la plej bela kaj plej
+        feli&ccirc;a estis la tempo de la dana re&gcirc;o Johano
+        <fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la publiko kutimas <tld/>adi &ccirc;iun atakanton bravulo
+        kaj &ccirc;iun atakaton kulpulo
+        <fnt><bib>EE</bib>, <lok>&ccirc;apitro 1a</lok></fnt>;
+      </ekz>
+      <ekz>
+        kio, kiel ili <tld/>is, tre bone alaspektis al ili
+        <fnt><bib>Fab4</bib>, <lok>Filino de la mar&ccirc;a
+        re&gcirc;o</lok></fnt>;
+      </ekz>
+      <ekz>
+        sen&ccirc;ese preterflugetadis figuroj, el kiuj kelkajn,
+        kiel &scirc;i <tld/>is, &scirc;i rekonis
+        <fnt><bib>Fab4</bib>, <lok>Infano en la tombo</lok></fnt>;
+      </ekz>
+      <ekz>
+        ili estis <tld/>ataj fidindaj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ne&hcirc;emja 13:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i prezentas sin simile al tio, kiel la
+        landoj de la 17a jarcento prezentis sin al la angla
+        filozofo <nom>Thomas Hobbes</nom>, kiu <tld/>is ilin esti senbridaj,
+        &hcirc;aosaj, senle&gcirc;aj kaj tro perfortemaj
+        <fnt>
+          <aut>K. Enderby</aut>,
+          <vrk>Unu grandan rondon familian</vrk>,
+          <bib>Monato</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konklu.0i">konkludi</ref>,
+      <ref cel="konvin.0igxi">konvinki&gcirc;i</ref>,
+      <ref cel="kred.0i">kredi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_u;&c_m;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">m&iacute;nit</trd>
+  <trdgrp lng="de">
+    <trd>meinen</trd>,
+    <trd>denken<klr> [ev]</klr></trd>,
+    <trd>daf&uuml;rhalten</trd>
+  </trdgrp>
+  <trd lng="en">think</trd>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre d'<ind>avis</ind> que</trd>,
+    <trd>penser<klr> (avoir une opinion)</klr></trd>
+  </trdgrp>
+  <trd lng="es">opinar</trd>
+  <trdgrp lng="he">
+    <trd>&lamed;&samekh;&bet;&vav;&resh; (&shin;-)
+    \<ind>&samekh;&bet;&resh;</ind>\</trd>,
+    <trd>&lamed;&het;&shin;&vav;&bet; \<ind>&het;&shin;&bet;</ind>\
+    </trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>v&eacute;l</trd>,
+    <trd>gondol</trd>,
+    <trd>tart <klr tip="ind">(v&eacute;l)</klr></trd>,
+    <trd>hisz <klr tip="ind">(v&eacute;l)</klr></trd>,
+    <trd>tekint <klr tip="ind">(v&eacute;l)</klr></trd>
+  </trdgrp>
+  <trd lng="id">berpen<ind>dapat</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;<ind>&#12392;&#12356;&#12358;&#x610F;&#x898B;&#12391;&#12354;&#x308B;  </ind><pr>&#12392;&#12356;&#12358;&#12356;&#12369;&#12435;&#12391;&#12354;&#x308B;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#12392;&#x601D;&#12358;  </ind><pr>&#12392;&#x304A;&#12418;&#12358;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#12392;&#32771;&#12360;&#x308B;  </ind><pr>&#12392;&#x304B;&#12435;&#x304C;&#12360;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">menen</trd>
+  <trdgrp lng="pl">
+    <trd>uwa&zdot;a&cacute;</trd>,
+    <trd>mie&cacute; zdanie</trd>,
+    <trd>mie&cacute; opini&eogonek;</trd>,
+    <trd>opiniowa&cacute;</trd>,
+    <trd>s&aogonek;dzi&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">achar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_n;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_a;&c_g;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>
+    &c_i;&c_m;&c_je;&c_t;&c_mol; <ind>&c_m;&c_n;&c_je;&c_n;&c_i;&c_je;
+    </ind></trd>
+  </trdgrp>
+  <trd lng="sv">tycka</trd>
+  <trdgrp lng="sk">
+    <trd>ma&tcaron; n&aacute;zor</trd>,
+    <trd>mieni&tcaron;</trd>,
+    <trd>nazera&tcaron;</trd>,
+    <trd>poklada&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>domn&iacute;vat se</trd>,
+    <trd>m&iacute;t za to</trd>,
+    <trd>sm&yacute;&scaron;let</trd>,
+    <trd>soudit</trd>,
+    <trd>usoudit</trd>,
+    <trd>usuzovat</trd>,
+    <trd>zast&aacute;vat n&aacute;zor</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>meinen</trd>,
+    <trd>denken<klr> [ev]</klr></trd>,
+    <trd>daf&uuml;rhalten</trd>,
+    <trd>ansehen <klr>(meinen)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="th">
+    <trd>&#xE04;&#xE34;&#xE14;&#xE27;&#xE48;&#xE32;</trd>,
+    <trd>&#xE40;&#xE2B;&#xE47;&#xE19;&#xE27;&#xE48;&#xE32;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_m;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_g;&c_a;&c_d;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_v;&c_a;&c_zh;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_m;&c_a;&c_t;&c_i; &c_d;&c_u;&c_m;&c_k;&c_u;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="opini.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="opini.0o.KOMUNE">
+    <dif>
+      Tio, kion oni supozas a&ubreve; kredas vera pri iu a&ubreve; io:
+      <ekz>
+        mia <tld/>o estas: prenu mem akvon, se vi volas trinki
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li estis]</klr> invitita doni sian <tld/>on
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Vi diras: Mia <tld/>o estas &gcirc;usta
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 11:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi trovos favoron kaj bonan <tld/>on &ccirc;e Dio kaj homoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 3:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nun nenio helpos, oni devas nur kura&gcirc;e resti &ccirc;e sia <tld/>o
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        li ne kura&gcirc;is eldiri sian <tld/>on pri la propono
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniu havis la rajton esprimi sian <tld/>on, anta&ubreve; ol la tri estos parolintaj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi neniam a&ubreve;dis, ke virino &scirc;an&gcirc;is sian <tld/>on
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        en &ccirc;iu kranio regas aparta <tld/>o
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        kiom da kapoj, tiom da <tld/>oj
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        propra <tld/>o ne estas le&gcirc;o por alia
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="jugx.0o.opinio">ju&gcirc;o<sncref/></ref>,
+      <ref cel="punkt.vid0o">vidpunkto</ref>,
+      <ref cel="konklu.0o">konkludo</ref>,
+      <ref cel="konvin.0o">konvinko</ref>,
+      <ref cel="kred.0o">kredo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;
+    </trd>,
+    <trd>&c_p;&c_o;&c_g;&c_l;&c_ja;&c_d;</trd>,
+    <trd>&c_d;&c_u;&c_m;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ba;&t_sa;&t_ma;&t_tsheg;&t_tsha;&t_shabchu;&t_la;&t_tsheg;</trd>
+  <trdgrp lng="de">
+    <trd>Meinung</trd>,
+    <trd>Ansicht</trd>,
+    <trd>Standpunkt</trd>,
+    <trd>Einstellung</trd>,
+    <trd>Sichtweise</trd>
+  </trdgrp>
+  <trd lng="en">opinion</trd>
+  <trd lng="es">opini&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>avis</trd>,
+    <trd>opinion</trd>
+  </trdgrp>
+  <trd lng="he">&dalet;&ayin;&he;</trd>
+  <trd lng="hu">v&eacute;lem&eacute;ny</trd>
+  <trdgrp lng="id">
+    <trd>pen<ind>dapat</ind></trd>,
+    <trd>opini</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x610F;&#x898B;  <pr>&#12356;&#12369;&#12435;</pr></trd>,
+    <trd>&#x898B;&#x89E3;  <pr>&#12369;&#12435;&#x304B;&#12356;</pr></trd>,
+    <trd>&#32771;&#12360;  <pr>&#x304B;&#12435;&#x304C;&#12360;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>mening</trd>,
+    <trd>opinie</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zdanie</trd>,
+    <trd>opinia</trd>,
+    <trd>os&aogonek;d</trd>,
+    <trd>pogl&aogonek;d</trd>
+  </trdgrp>
+  <trd lng="pt">opini&atilde;o</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_v;&c_z;&c_g;&c_l;&c_ja;&c_d;</trd>
+  </trdgrp>
+  <trd lng="sv">&aring;sikt</trd>
+  <trd lng="kek">aatin</trd>
+  <trdgrp lng="th">
+    <trd>&#xE04;&#xE27;&#xE32;&#xE21;&#xE04;&#xE34;&#xE14;</trd>,
+    <trd>&#xE04;&#xE27;&#xE32;&#xE21;&#xE40;&#xE2B;&#xE47;&#xE19;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_m;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_g;&c_l;&c_ja;&c_d;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="opini.0ema">
+  <kap><tld/>ema,
+  <var><kap><tld/>ama</kap></var></kap>
+  <snc mrk="opini.0ema.KOMUNE">
+    <dif>
+      Ema al <tld/>ado, al asertado de siaj <tld/>oj,
+      al disputo:
+      <ekz>
+        <klr>[en SAT]</klr> &gcirc;enerale la homoj estas <tld/>emaj
+        <fnt>
+          <aut>G. Mickle</aut>,
+          <vrk>en: <url ref="http://www.ipernity.com/blog/porkido/375191">
+          Sennacieca sen sennaciistoj</url></vrk>,
+          <lok>2012-02</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="parti.0eca">partieca</ref>,
+      <ref cel="subjek1.0a">subjektiva</ref>,
+      <ref cel="tenden1.0a">tendenca</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_p;&c_a;&c_r;&c_t;&c_y;</trd>,
+    <trd>&c_s;&c_h;&c_ib;&c_l;&c_mol;&c_n;&c_y; &c_d;&c_a; <ind>&c_s;&c_p;&c_r;&c_e;&c_ch;&c_a;&c_k;</ind></trd>
+  </trdgrp>
+  <trd lng="de">tendenzi&ouml;s</trd>
+  <trdgrp lng="fr">
+    <trd>argumenteur<klr> (adj.)</klr></trd>,
+    <trd>raisonneur<klr> (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#38929;&#x56FA;&#x306A;  <pr>&#x304C;&#12435;&#12371;&#x306A;</pr></trd>,
+    <trd>&#x4E00;&#x5FB9;&#x306A;  <pr>&#12356;&#12387;&#12390;&#12388;&#x306A;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="opini.dis0i">
+  <kap>dis<tld/>i,
+  <var><kap>malsam<tld/>i</kap></var></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="opini.dis0i.KOMUNE">
+    <dif>
+      Havi malsamajn, diversajn <tld/>ojn:
+      <ekz>
+        mi traktos pri punktoj, pri kiuj homoj dis<tld/>as
+        <fnt>
+          <bib>BonaLingvo</bib>
+          <lok>1. Enkonduke</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plenkreskuloj diskutas kaj malsam<tld/>as
+        <fnt>
+          <aut>J. Schram</aut>,
+          <vrk>Eble la fama Esperanto-amikeco...</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2003:8-9 (106-107)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tamen &ccirc;iu partio dis<tld/>as pri kio estas la patrujo
+        <fnt>
+          <aut>J. Salgero</aut>,
+          <vrk><url ref="http://www.nodo50.org/esperanto/artik34.htm">Militista parado</url></vrk>.
+          <lok>Sennaciulo, 2004-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="difere.0i">diferenci</ref>,
+      <ref cel="disput.0i">disputi</ref>,
+      <ref cel="akord.mal0i">malakordi</ref>,
+      <ref cel="konsen.mal0i">malkonsenti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_y;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_c;&c_a; &c_w; <ind>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_h;</ind></trd>,
+    <trd>&c_m;&c_je;&c_c;&c_mol; <ind>&c_r;&c_o;&c_z;&c_n;&c_a;&c_g;&c_a;&c_l;&c_o;&c_s;&c_mol;&c_s;&c_ib;</ind></trd>
+  </trdgrp>
+  <trd lng="cs">m&iacute;t odli&scaron;n&yacute; n&aacute;zor</trd>
+  <trdgrp lng="de">
+    <trd>unterschiedlicher <ind>Meinung</ind> sein</trd>,
+    <trd><ind>uneinig</ind> sein</trd>
+  </trdgrp>
+  <trd lng="fr">&ecirc;tre d'un autre <ind>avis</ind></trd>
+  <trdgrp lng="nl">
+    <trd>van <ind>mening</ind> verschillen</trd>,
+    <trd>een tegengestelde <ind>mening</ind> hebben</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd><ind>uwa&zdot;a&cacute;</ind> inaczej</trd>,
+    <trd>mie&cacute; inne <ind>zdanie</ind></trd>,
+    <trd>mie&cacute; odmienne <ind>zdanie</ind></trd>,
+    <trd>opiniowa&cacute; inaczej</trd>,
+    <trd>s&aogonek;dzi&cacute; inaczej</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_m;&c_je;&c_t;&c_mol;
+  <ind>&c_r;&c_a;&c_z;&c_n;&c_o;&c_g;&c_l;&c_a;&c_s;&c_i;&c_ja;</ind></trd>
+  <trd lng="sk">ma&tcaron; in&yacute; n&aacute;zor</trd>
+  <trdgrp lng="th">
+    <trd>&#xE04;&#xE34;&#xE14;&#xE15;&#xE48;&#xE32;&#xE07;</trd>,
+    <trd>&#xE40;&#xE2B;&#xE47;&#xE19;&#xE15;&#xE48;&#xE32;&#xE07;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="opini.mia0e">
+  <kap>mia<tld/>e, <var><kap>la&ubreve; mia <tld/>o</kap></var></kap>
+  <snc mrk="opini.mia0e.ARG">
+    <dif>
+      La&ubreve; la vidpunkto de la parolanto:
+      <ekz>
+        la&ubreve; mia <tld/>o &scirc;i estas pli feli&ccirc;a, se &scirc;i restas samstate
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Korintanoj 7:40</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili estas, la&ubreve; mia <tld/>o, homoj de malforta inteligento
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni nun disponas lingvon, anta&ubreve; kiu, mia<tld/>e, la
+        plej konvena sinteno estas respekti &gcirc;in
+        <fnt><bib>BonaLingvo</bib></fnt>;
+      </ekz>
+      <ekz>
+        la intelekta mondo siatempe varme bonvenigis la filozofion de <klr>[&#8230;]</klr>
+        profesoro <nom>Hegel</nom>, kiu estas, mia<tld/>e, la plej malfacila, preska&ubreve;, el &ccirc;iuj
+        pensosistemoj
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni deziras nur krei ligantan ponton inter la gentoj, tia, la&ubreve; mia <tld/>o, estas
+        la devizo de la verda standardo
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a; &c_m;&c_a;&c_ju; <ind>&c_d;&c_u;&c_m;&c_k;&c_u;</ind></trd>,
+    <trd>&c_z; &c_m;&c_a;&c_j;&c_g;&c_o; <ind>&c_g;&c_l;&c_je;&c_d;&c_z;&c_ib;&c_sh;&c_ch;&c_a;</ind></trd>,
+    <trd>&c_p;&c_a;-&c_m;&c_o;&c_j;&c_m;&c_u;</trd>
+  </trdgrp>
+  <trd lng="de">meiner <ind>Meinung</ind> nach</trd>
+  <trd lng="fr">&agrave; mon avis</trd>
+  <trd lng="id">menurut saya</trd>
+  <trd lng="ja">&#x79C1;&#x306E;&#x610F;&#x898B;&#12391;&#x306F;
+  <pr>&#x308F;&#x305F;&#12375;&#x306E;&#12356;&#12369;&#12435;&#12391;&#x306F;</pr></trd>
+  <trd
+  lng="th">&#xE15;&#xE32;&#xE21;&#xE04;&#xE27;&#xE32;&#xE21;&#xE04;&#xE34;&#xE14;&#xE02;&#xE2D;&#xE07;&#xE02;&#xE49;&#xE32;&#xE1E;&#xE40;&#xE08;&#xE49;&#xE32;&#xE41;&#xE25;&#xE49;&#xE27;</trd>
+</drv>
+
+<drv mrk="opini.sam0i">
+  <kap>sam<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="opini.sam0i.KOMUNE">
+    <dif>
+      Havi saman <tld/>on:
+      <ekz>
+        <klr>[mia amiko]</klr> tute sam<tld/>is kun mi
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj sam<tld/>is, ke la ekzekutado estu terura
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Tria Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u via patrino sam<tld/>as kun mi
+        <fnt><aut>L. Beaucaire</aut>, <vrk>Kruko kaj Baniko el
+        Bervalo</vrk>, <lok>1974</lok></fnt>?
+      </ekz>
+      <ekz>
+        aliaj a&ubreve;toroj sam<tld/>as kaj akcentas la simila&jcirc;ojn inter la hejdelberga
+        makzelo kaj tiu de la antropoidaj simioj
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akord.0i.samopinii">akordi<sncref/></ref>,
+      <ref cel="harmon1.0i">harmonii</ref>,
+      <ref cel="konsen.0i.samsenti">konsenti<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_g;&c_a;&c_d;&c_zh;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="cs">m&iacute;t stejn&yacute; n&aacute;zor <klr>(s n&ecaron;k&yacute;m)</klr></trd>
+  <trd lng="de">&uuml;bereinstimmen <klr>(Meinung)</klr></trd>
+  <trd lng="fr">&ecirc;tre <ind>d'accord</ind></trd>
+  <trdgrp lng="hu">
+    <trd>azonosan v&eacute;lekedik</trd>,
+    <trd>egy a v&eacute;lem&eacute;nye</trd>
+    <trd>ugyanaz a v&eacute;lem&eacute;nye</trd>
+  </trdgrp>
+  <trd lng="id">sepakat</trd>
+  <trd lng="ja">&#x540C;&#12376;&#x610F;&#x898B;&#12391;&#12354;&#x308B;
+  <pr>&#x304A;&#x306A;&#12376;&#12356;&#12369;&#12435;&#12391;&#12354;&#x308B;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>dezelfde <ind>mening</ind> hebben</trd>,
+    <trd>het <ind>eens</ind> zijn</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd><ind>uwa&zdot;a&cacute;</ind> tak samo</trd>,
+    <trd>mie&cacute; takie samo <ind>zdanie</ind></trd>,
+    <trd>opiniowa&cacute; tak samo</trd>,
+    <trd>s&aogonek;dzi&cacute; tak samo</trd>,
+    <trd>podziela&cacute;<klr> czyje&sacute; </klr><ind>zdanie</ind>
+    </trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_sh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_i;&c_m;&c_je;&c_t;&c_mol; &c_t;&c_o; &c_zh;&c_je; &c_m;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ma&tcaron; t&uacute; ist&uacute; mienku</trd>,
+    <trd>zhodn&uacute;&tcaron; sa</trd>
+  </trdgrp>
+  <trdgrp lng="th">
+    <trd>&#xE04;&#xE34;&#xE14;&#xE40;&#xE2B;&#xE21;&#xE37;&#xE2D;&#xE19;&#xE01;&#xE31;&#xE19;</trd>,
+    <trd>&#xE40;&#xE2B;&#xE47;&#xE19;&#xE14;&#xE49;&#xE27;&#xE22;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_t;&c_r;&c_i;&c_m;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja; &c_o;&c_d;&c_n;&c_a;&c_k;&c_o;&c_v;&c_o;&c_ji;
+    &c_d;&c_u;&c_m;&c_k;&c_i;</trd>,
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_t;&c_ib;&c_jeu;&c_ji; &c_zh; &c_d;&c_u;&c_m;&c_k;&c_i;</trd>,
+    <trd>&c_v;&c_v;&c_a;&c_zh;&c_a;&c_t;&c_i; &c_t;&c_a;&c_k; &c_s;&c_a;&c_m;&c_o;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="opini.sam0eco">
+  <kap>sam<tld/>eco</kap>
+  <snc mrk="opini.sam0eco.KOMUNE">
+    <dif>
+      Stato de personoj same <tld/>antaj:
+      <ekz>
+        la ideologia debato inter komunismo kaj kapitalismo okazis
+        surbaze de plena sam<tld/>eco pri la moderna estonteco de
+        l' homaro
+        <fnt>
+          <aut>M. Fettes</aut>
+          <vrk>Moderno kaj postmoderno en nia kulturo</vrk>
+          <lok><url ref="http://donh.best.vwh.net/Esperanto/Kampanjo2000/nov1997.html">
+          Esperanto 1997-11</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas do fakte sufi&ccirc;e da malsam<tld/>eco inter tiuj diversaj difinoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Petro De Smet'</aut>
+          <vrk><url ref="&Monato;/2008/009292.php">Sidante en pudingo, mi alvokas miajn
+          savantojn!</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akord.0o.samopinieco">akordo</ref>,
+      <ref cel="konsen.0o.akordo">konsento<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_n;&c_a;&c_d;&c_u;&c_m;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_n;&c_a;&c_d;&c_u;&c_m;&c_s;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_a;&c_d;&c_n;&c_a;&c_m;&c_y;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_g;&c_o;&c_d;&c_a; <klr>(&c_u; &c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_h;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>&Uuml;bereinstimmung</trd>,
+    <trd>Konsens</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+   <trd>accord<klr tip="ind"> (fait d'&ecirc;tre en accord)</klr></trd>,
+    <trd>identit&eacute; de <ind>vue</ind>s</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>ke<ind>bulat</ind>an suara</trd>,
+    <trd>mufakat</trd>
+  </trdgrp>
+  <trd lng="nl">akkoord</trd>
+  <trd lng="pl">jednomy&sacute;lno&sacute;&cacute;</trd>
+  <trd lng="ru">&c_je;&c_d;&c_i;&c_n;&c_o;&c_m;&c_y;&c_s;&c_l;&c_i;&c_je;</trd>
+</drv>
+
+<drv mrk="opini.aparta0o">
+  <kap>aparta <tld/>o</kap>
+  <snc mrk="opini.aparta0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Oficiala <ref tip="super" cel="deklar.0o.KOMUNE">deklaro</ref> de ano de kolegio pri
+      malkonsento
+      kun la decido de la plimulto:
+      <ekz>
+        unu el la ju&gcirc;oj prezentis apartan <tld/>on.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekscep.0o">ekscepcio</ref>,
+      <ref cel="dir.kontraux0o.ago">kontra&ubreve;diro<sncref/></ref>,
+      <ref cel="protes.0o">protesto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_a;&c_b;&c_l;&c_ib;&c_v;&c_a;&c_je; <ind>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+  <trd lng="de">Einspruch</trd>
+  <trd lng="pl">niejednomy&sacute;lno&sacute;&cacute;</trd>
+  <trd lng="ru">&c_o;&c_s;&c_o;&c_b;&c_o;&c_je;
+  &c_m;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+</drv>
+
+<drv mrk="opini.publika0o">
+  <kap>publika <tld/>o,
+  <var><kap>&gcirc;enerala <tld/>o</kap></var></kap>
+  <snc mrk="opini.publika0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Plimulta <tld/>o de la socianoj,
+      rigardata kiel atentinda politika premo:
+      <ekz>
+        oni ne povas kontra&ubreve;batali la supermezuran premadon de la publika <tld/>o
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Oka</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        honoro estas tiel &scirc;an&gcirc;i&gcirc;ema, kiel publika opinio, per kiu &gcirc;i sin nutras
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la potenco de registaroj jam delonge tenas sin
+        nur per tio, kio estas nomata &gcirc;enerala <tld/>o
+        <fnt>
+         <aut>L. N. Tolstoj, trad. I. Ma&ccirc;ernis</aut>,
+         <vrk><url ref="http://cindymckee.com/librejo/TOLSTOJ_Kristanismo_kaj_patriotismo.pdf">
+         Kristanismo kaj Patriotismo</url></vrk>,
+         <lok>1931</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili iom post iom ali&gcirc;is al la &gcirc;enerala <tld/>o
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Heredanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la publika <tld/>o ankora&ubreve; ne sufi&ccirc;e komprenas kaj
+        subtenas la ideon
+        <fnt><bib>Aventuroj</bib>, <lok>&ccirc;apitro 54a, p. 122a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_z;&c_k;&c_a;&c_ja; &c_d;&c_u;&c_m;&c_k;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd>&ouml;ffentliche <ind>Meinung</ind></trd>,
+    <trd>allgemeine <ind>Meinung</ind></trd>
+  </trdgrp>
+  <trd lng="fr">opinion publique</trd>
+  <trd lng="hu">k&ouml;zv&eacute;lem&eacute;ny</trd>
+  <trdgrp lng="id">
+    <trd>pen<ind>dapat</ind> publik</trd>,
+    <trd>pen<ind>dapat</ind> umum</trd>,
+    <trd><ind>opini</ind> publik</trd>,
+    <trd><ind>opini</ind> umum</trd>
+  </trdgrp>
+  <trd lng="ja">&#x901A;&#x8AAC;  <pr>&#12388;&#12358;&#x305B;&#12388;</pr></trd>
+  <trd lng="nl">publieke <ind>opinie</ind></trd>
+  <trd lng="pl">opnia publiczna</trd>
+  <trd lng="ru">&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
+  &c_m;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="th">&#xE21;&#xE15;&#xE34;&#xE21;&#xE2B;&#xE32;&#xE0A;&#xE19;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.51 2024/01/18 15:26:45
+Dmitri Gabinski: + trd be
+
+versio 1.50 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.49 2023/09/08 14:26:53
+Wolfram Diestel: kor. ja ind.
+
+versio 1.47 2023/04/11 17:15:21
+aktualigo Monato-URL
+
+versio 1.46 2023/02/09 08:34:40
+Dmitri Gabinski: + trd be
+
+versio 1.45 2022/10/24 07:14:19
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+versio 1.44 2022/10/13 19:36:01
+Wolfram Diestel: sam~i: +trd el sam/
+
+versio 1.41 2020/08/29 06:10:41
+-->
+</vortaro>

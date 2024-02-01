@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: beletr.xml,v 1.33 2023/10/29 19:11:01 revo Exp $">
+<kap>
+  <ofc>9</ofc>
+  <rad>beletr</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="beletr.0o">
+  <kap><ofc>9</ofc><tld/>o <fnt><bib>PV</bib></fnt></kap>
+  <snc mrk="beletr.0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Arta literaturo plezurocela a&ubreve; distrocela, precipe tia,
+      kiu rakontas pri okaza&jcirc;oj kaj personoj imagitaj.
+      <!-- Literaturo la&ubreve; la artisma vidpunkto.-->
+      <ekz>
+        &ccirc;iu numero enhavas 20 pa&gcirc;ojn de <tld/>o de Mikaelo
+        <nom>Gi&scirc;pling</nom>, 
+        Mikaelo <nom>Bron&scirc;tejn</nom>, <klr>[&#x2026;]</klr> kaj aliaj maturaj
+        a&ubreve;toroj
+        <fnt>
+          <aut>Boris Kolker</aut>
+            <vrk><url ref="&Monato;/2000/006807.php">Fascina gazeto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/03, p. 31</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        Esperanto-<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Reinaldo Marcelo Ferreira</aut>
+          <vrk><url ref="&Monato;/2005/008629.php">Ne nur
+          intimaj temoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Biblio, pro historiaj ka&ubreve;zoj, en la e&ubreve;ropa kulturo estas
+        konstanta fonto de temoj por la arto, inkluzive <tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2003/007814.html">Malnova
+          biblia epizodo en modernaj vestoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li studis filozofion kaj <tld/>on kaj da&ubreve;rigis sian poezian
+        verkadon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008467.html">Kampoj de
+          Soria Antonio Machado, universala poeto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per la rimedoj de <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2004/008392.html">Reveno de
+          heroo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="litera.bela0o">bela literaturo</ref>
+    <ref tip="vid" cel="beletr1.0o.BELE">beletristiko <sncref/></ref>
+    <trd lng="zh">&#x865A;&#x6784;&#x5C0F;&#x8BF4; <pr>x&#x16B;g&#xF2;uxi&#x1CE;oshu&#x14D;</pr></trd>
+</snc>
+  <trd lng="be">&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_a;&c_ja;
+  &c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="de">Belletristik</trd>
+  <trdgrp lng="en">
+    <trd>literature</trd>,
+    <trd>letters</trd>,
+    <trd>belles lettres</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>caligraf&iacute;a</trd>,
+    <trd>literatura</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>art de l'&eacute;crivain</trd>,
+    <trd>litt&eacute;rature<klr tip="ind"> (art de
+    l'&eacute;crivain)</klr></trd>,
+    <trd>lettres<klr tip="ind"> (art de l'&eacute;crivain)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&#x5E1;&#x5B4;&#x5E4;&#x5B0;&#x5E8;&#x5D5;&#x5BC;&#x5EA;</trd>
+  <trdgrp lng="it">
+    <trd>lettere</trd>,
+    <trd>belle lettere</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6587;&#x82B8;  <pr>&#x3076;&#x3093;&#x3052;&#x3044;</pr></trd>,
+    <trd>&#x7D14;&#x6587;&#x5B66;  <pr>&#x3058;&#x3085;&#x3093;&#x3076;&#x3093;&#x304C;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bellettrie</trd>
+  <trd lng="pl">beletrystyka</trd>
+  <trd lng="hu">sz&eacute;pirodalom</trd>
+  <trd lng="ru">&c_h;&c_u;&c_d;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_a;&c_ja;
+  &c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="sk">beletria</trd>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_u;&c_d;&#x43E;&c_zh;&#x43D;&#x44F; &#x43B;&c_ib;&c_t;&c_je;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>,
+    <trd>&#x43A;&c_r;&c_a;&c_s;&#x43D;&c_je; &#x43F;&c_i;&c_s;&#x44C;&#x43C;&c_je;&#x43D;&c_s;&c_t;&c_v;&#x43E;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="beletr.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+       Rilata al <tld/>o:
+      <ekz>
+        la interbalkana <tld/>a komisiono
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2004/008232.html">Albano
+          balkane premiita</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vera romano &ndash; ampleksa <tld/>a verko kun pluraj
+        interplekti&gcirc;antaj enhavfadenoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2004/008392.html">Reveno de
+          heroo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a panoramo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Antonio Val&eacute;n</aut>
+          <vrk><url ref="&Monato;/2005/008499.php">&Ccirc;u Ertl
+          provizore stilekzercas?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld lit="B"/>a Almanako
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2009/009745.php">Bizara
+          romano ... blaisecendrarseska</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_ib; <klr>(&c_d;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y; &c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_a;&c_j; &c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_y;)</klr></trd>
+  <trd lng="de">belletristisch</trd>
+  <trd lng="es">literario</trd>
+  <trd lng="ja">&#x6587;&#x82B8;&#x7684;&#x306A;  <pr>&#x3076;&#x3093;&#x3052;&#x3044;&#x3066;&#x304D;&#x306A;</pr></trd>
+</drv>
+
+<drv mrk="beletr.0ajxo">
+  <kap><ofc>9</ofc><tld/>a&jcirc;o <fnt><bib>PIV1</bib></fnt></kap>
+  <snc>
+    <dif>
+      Verko <tld/>a:
+      <ekz>
+        <tld/>a&jcirc;oj tradukitaj el la rusa
+        <fnt>
+          <aut>Boris Kolker</aut>
+            <vrk><url ref="&Monato;/2000/006807.php">Fascina gazeto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/03, p. 31</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        balkanpopola <tld/>a&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2004/008232.html">Albano
+          balkane premiita</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        miaj &scirc;atokupoj estas legado de <tld/>a&jcirc;oj, kinoarto, muziko,
+        <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="&Monato;/2003/008035.html">Evgeni
+          Georgiev</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_n;&c_y; <ind>&c_t;&c_v;&c_o;&c_r;</ind></trd>
+  <trd lng="en">literary work</trd>
+  <trdgrp lng="es">
+    <trd>pieza literaria</trd>,
+    <trd>obra literaria</trd>
+  </trdgrp>
+  <trd lng="it">opera letteraria</trd>
+  <trd lng="ja">&#x6587;&#x82B8;&#x4F5C;&#x54C1;  <pr>&#x3076;&#x3093;&#x3052;&#x3044;&#x3055;&#x304F;&#x3072;&#x3093;</pr></trd>
+  <trd lng="pl">dzie&lstroke;o <ind>literackie</ind></trd>
+</drv>
+
+<drv mrk="beletr.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="beletr.0ismo.BELE">
+    <dif>
+      Vigla interesi&gcirc;o a&ubreve; profesia agado
+      pri <tld/>o:
+      <ekz>
+        vi vidas, ke <tld/>ismo ne malutilas e&ccirc; en diplomatiaj
+        cirkonstancoj
+        <fnt>
+          <aut>M. Proust, trad. &Jcirc; Va&scirc;e</aut>
+          <vrk><url ref="http://jxvasxe.free.fr/tradukoj/en-ombro-de-florantaj-junulinoj-eo.htm">
+          En Ombro de Florantaj Junulinoj</url></vrk>
+          <lok>2017-</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="es">
+    <trd>caligrafismo</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="beletr.0isto">
+  <kap><ofc>9</ofc><tld/>isto
+    <fnt><bib>LR</bib></fnt>
+  </kap>
+  <snc mrk="beletr.0isto.BELE">
+    <dif>
+      <tld lit="B"/>a verkisto a&ubreve; specialisto.
+      <!-- Literaturisto, kiu verkas artisme: -->
+      <ekz>
+        la plej a&ubreve;toritata <tld/>isto a&ubreve; filologo kreus &gcirc;in sensence
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Vortaroj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>klarigo de la &scirc;an&gcirc;o
+        nenio en la ri&ccirc;a kultura hereda&jcirc;o de la homaro devas esti
+        perdita,
+        kaj tio certe ne povas ne inkludi la kontribuon de esperantaj
+        <tld/>istoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2012/010751.php">El&ccirc;erpita
+          trezoro</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;Praga Altliteratura Skolo&#x201D; <klr>[&#x2026;]</klr> alprenis
+        <klr>[&#x2026;]</klr> iom fieran sintenon, neglektan al la alitendencaj
+        <tld/>istoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2004/008398.html">Ankora&ubreve;foje:
+          retrorigardo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="zh">
+    <trd>&#x4F5C;&#x5BB6; <pr>zu&#xF2;ji&#x101;</pr></trd>,
+    <trd>&#x4F5C;&#x624B; <pr>zu&#xF2;sh&#x1D2;u</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_je;&c_l;&c_je;&c_t;&c_r;&c_y;&c_s;&c_t;</trd>,
+    <trd>&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Belletrist</trd>,
+    <trd>Schriftsteller <klr>(Belletristik)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>author</trd>,
+    <trd>writer</trd>,
+    <trd>man of letters</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>literato</trd>,
+    <trd>escritor</trd>,
+    <trd>autor</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;crivain</trd>
+  <trd lng="he">&#x5DE;&#x5B0;&#x5E9;&#x5C1;&#x5D5;&#x5B9;&#x5E8;&#x5B5;&#x5E8;</trd>
+  <trd lng="it">letterato</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6587;&#x58EB;  <pr>&#x3076;&#x3093;&#x3057;</pr></trd>,
+    <trd>&#x6587;&#x5B66;&#x8005;  <pr>&#x3076;&#x3093;&#x304C;&#x304F;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>literat</trd>,
+    <trd>pisarz</trd>,
+    <trd>autor</trd>,
+    <trd>beletrysta<klr> (rzadkie)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.32 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.30 2023/04/27 17:28:29
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.29 2023/04/27 12:44:24
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.28 2022/05/14 06:53:30
+Dmitri Gabinski: + trd be
+
+versio 1.27 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2021/08/31 12:48:02
+Dmitri Gabinski: + trd be
+
+Revision 1.22  2019/06/30 07:47:08  revo
+adaptis URL de Monato
+
+Revision 1.21  2019/06/29 12:22:51  revo
+-->
+</vortaro>

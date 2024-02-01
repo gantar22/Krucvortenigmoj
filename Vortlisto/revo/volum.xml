@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: volum.xml,v 1.27 2023/10/21 16:50:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>volum</rad>/o
+</kap>
+
+<drv mrk="volum.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="volum.0o.ghen">
+    <dif>
+      Aro da kelkaj manskribitaj a&ubreve; presitaj kajeroj, kune binditaj a&ubreve;
+      bro&scirc;uritaj:
+      <ekz>
+        libro en du <tld/>oj;
+      </ekz>
+      <ekz>
+        mi legis la unuan <tld/>on kaj mendis la duan;
+      </ekz>
+      <ekz>
+        folianta, kvarta, oktava, duonoktava <tld/>o;
+      </ekz>
+      <ekz>
+        plur<tld/>a vortaro.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_t;&c_o;&c_m;</trd>
+  </snc>
+  <snc mrk="volum.0o.seri">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Elemento de <ref tip="super" cel="seri.0o.aroTIP">serio</ref>:
+      <ekz>
+        Originala novelaro &leftquot;Vivo kaj morto de Wiederboren&rightquot; estas la unua
+        <tld/>o en la serio Legu kaj Lernu.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_t;&c_o;&c_m;</trd>,
+      <trd>&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;</trd>,
+      <trd>&c_n;&c_u;&c_m;&c_a;&c_r;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;</trd>
+  </snc>
+  <rim>
+    Ne konfuzu kun <ref tip="hom" cel="volume.0o">volumeno</ref>.
+  </rim>
+  <trd lng="ca">volum <klr>(tom)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>d&iacute;l</trd>,
+    <trd>ro&ccaron;n&iacute;k</trd>,
+    <trd>svazek knihy</trd>,
+    <trd>volumen</trd>
+  </trdgrp>
+  <trd lng="de">Band</trd>
+  <trd lng="el">&tau;&omikron_ton;&my;&omikron;&sigma_fina;</trd>
+  <trd lng="en">volume</trd>
+  <trd lng="es">volumen</trd>
+  <trdgrp lng="fr">
+    <trd>volume<klr> (livre)</klr></trd>,
+    <trd>tome</trd>
+  </trdgrp>
+  <trd lng="hu">k&ouml;tet</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5DFB;  <pr>&#x304B;&#x3093;</pr></trd>,
+    <trd>&#x518A;  <pr>&#x3055;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>volume<klr tip="ind"> (boek)</klr></trd>,
+    <trd>deel<klr tip="ind"> (v.boek)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">volume</trd>
+  <trd lng="ru">&c_t;&c_o;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>diel</trd>,
+    <trd>zv&auml;zok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x442;&#x43E;&#x43C;</trd>,
+    <trd>&#x432;&#x438;&#x43F;&#x443;&#x441;&#x43A;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="volum.jar0o">
+  <kap>jar<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Tuto de la dum unu jaro aperintaj numeroj de perioda&jcirc;o, kune
+      binditaj:
+      <ekz>
+        la nomon de la perioda&jcirc;o kutime sekvas la numero de la
+        jar-<tld/>o
+        <fnt><bib>Dan&gcirc;Lng</bib>, <lok>Atentigo de la 2a
+        eldono</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="almana.0o">almana&hcirc;o</ref>,
+      <ref cel="kolekt.jar0o">jarkolekto</ref>,
+      <ref cel="libr.jar0o">jarlibro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_d;&c_a;&c_v;&c_a;&c_ja;
+    <ind>&c_p;&c_a;&c_d;&c_sh;&c_y;&c_w;&c_k;&c_a;</ind></trd>
+  <trd lng="ca">edici&oacute; anual</trd>
+  <trd lng="cs">ro&ccaron;n&iacute;k <klr>(&ccaron;asopisu| z&aacute;kon&uring;)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Jahrgang</trd>,
+    <trd>Jahresausgabe</trd>
+  </trdgrp>
+  <trd lng="hu">&eacute;vfolyam</trd>
+  <trd lng="nl">jaargang</trd>
+  <trd lng="pt">cole&ccedil;&atilde;o anual <klr tip="amb">(de uma revista
+etc.)</klr></trd>
+  <trd lng="ru">&c_g;&c_o;&c_d;&c_o;&c_v;&c_a;&c_ja; &c_p;&c_o;&c_d;&c_sh;&c_i;&c_v;&c_k;&c_a;</trd>
+  <trd lng="sk">ro&ccaron;n&iacute;k <klr>(&ccaron;asopisu)</klr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.24 2021/05/10 19:06:41
+Wolfram Diestel: +ref-oj, missxovita trd, kor. drv@mrk
+
+Revision 1.22  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/02/20 16:10:15  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.20  2011/12/04 16:10:11  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.19  2007/11/07 17:30:14  revo
+Tulio Flores: +tr pt
+
+Revision 1.18  2007/01/04 17:30:23  revo
+Wieland Pusch: +trd de
+
+Revision 1.17  2003/01/08 17:32:28  revo
+-->
+</vortaro>

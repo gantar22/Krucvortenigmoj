@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: izis.xml,v 1.11 2023/11/19 10:22:14 revo Exp $">
+<kap>
+  <rad>Izis</rad>/o <fnt><bib>PIV2</bib></fnt>,
+  <var>
+    <kap><rad var="d">Izid</rad>/o <fnt><bib>Far1</bib></fnt>
+    </kap>
+  </var>
+</kap>
+<drv mrk="izis.0o">
+   <kap><tld/>o,
+   <var><kap><tld var="d"/>o</kap></var>
+  </kap>
+  <snc mrk="izis.0o.MIT">
+    <uzo tip="fak">MIT</uzo>
+    <dif>
+      Antikva egipta, plej grava
+      <ref tip="super" cel="di.0o.politeisma">diino</ref>,
+      edzino de <ref tip="vid" cel="oziris.0o.MIT">Oziriso</ref>
+      kaj patrino de <ref tip="vid" cel="horus.0o.MIT">Horuso</ref>:
+      <ekz>
+        ho <tld var="d"/>o, kiu naskas la serpentojn, krokodilojn kaj strutojn,
+        trifoje estu
+        glorata via nomo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        redonu lin al mi... vi ja povas tion... Egiptaj dioj, Oziriso...
+        Horuso... <tld var="d"/>o... <tld var="d"/>o, vi ja mem estis patrino!...
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;irka&ubreve; la funebra lito kolekti&gcirc;is pastroj, alivestitaj kiel
+        dioj: <tld var="d"/>o, nuda,
+        kun la krono de l' faraonoj, la junulo <nom>Horus</nom>, 
+        <nom>Anubis</nom> kun &scirc;akala kapo, <nom>Tot</nom>,
+        kun birda kapo kaj kun tabuletoj en la mano
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Plinio la Maljuna konsideris, ke en la malnova Egiptujo oni
+        ligis la migrantan
+        stelon <klr>[Venuso]</klr> al la diino <tld/>a
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4416">Venuso (planedo)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Isis</trd>
+    <trd lng="hu">&Iacute;zisz</trd>
+    <trd lng="pl">Izis</trd>
+    <trd lng="ru">&c_I;&c_z;&c_i;&c_d;&c_a;</trd>
+    <trd lng="zh">&#x827E;&#x897F;&#x65AF; <pr>&#xE0;ix&#x12B;s&#x12B;</pr></trd>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_Ib;&c_z;&c_y;&c_d;&c_a;</trd>,
+    <trd>&c_Ib;&c_s;&c_y;&c_d;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">Isis</trd>
+  <trdgrp lng="cs">
+    <trd>Isis</trd>,
+    <trd>&Iacute;sis</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>Isis</trd>,
+    <trd>Izis</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x406;&#x441;&#x456;&#x434;&#x430;</trd>,
+    <trd>&#x406;&#x437;&#x456;&#x434;&#x430;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.9 2022/01/31 08:34:46
+Dmitri Gabinski: + trd be
+
+versio 1.8 2020/12/25 14:11:13
+Wolfram Diestel: mankis <rad>, metis tld-var kie mankis
+
+versio 1.7 2020/05/30 14:10:33
+Valentin Melnikov: aldonita rusa traduko
+
+Revision 1.5  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2012/01/01 21:10:21  revo
+Marc Rausell: +trd ca
+
+Revision 1.2  2009/09/26 16:32:17  revo
+Jozefo Horvath: + trd hu
+
+Revision 1.1  2008/10/18 16:30:26  revo
+-->
+</vortaro>

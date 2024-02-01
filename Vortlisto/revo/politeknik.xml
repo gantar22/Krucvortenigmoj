@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: politeknik.xml,v 1.14 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <rad>politeknik</rad>/o
+</kap>
+<drv mrk="politeknik.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PED</uzo>
+  <snc mrk="politeknik.0o.fako">
+    <fnt><bib>Fab4</bib></fnt>
+    <dif>
+      Komuna nomo de instruaj <ref tip="super" cel="fak.0o">fako</ref>j 
+      en teknika lernejo edukantaj pri bazaj in&gcirc;enieraj scioj:
+      <ekz>
+        lernanto de la <tld/>a lernejo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Pupludisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>isto komencis sian prelegon kaj siajn eksperimentojn
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Pupludisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiun superan lernejon vi estas fininta?
+        &ndash; la petrogradan <tld lit="P"/>an Instituton
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>  
+    <trdgrp lng="de">
+      <trd>Polytechnik</trd>,
+      <trd>Arbeitslehre</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="politeknik.0o.lernejo">
+    <fnt><bib>SPV</bib></fnt>
+    <dif>
+      Teknika <ref tip="super" cel="lern.0ejo">lernejo</ref>:
+      <ekz>
+        pluraj kursoj devige jam haveblaj nur en la angla lingvo, anka&ubreve; en iuj el la
+        plej gravaj <tld/>oj (Milano, Torino)
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011257.php">En rubujon, kulturo kaj lingvo de Italio</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_o;&c_l;&c_ib;&c_t;&c_e;&c_h;&c_n;&c_ib;&c_ch;&c_n;&c_y; &c_ib;&c_n;&c_s;&c_t;&c_y;&c_t;&c_u;&c_t;</trd>
+    <trd lng="cs">polytechnika</trd>
+    <trd lng="de">Polytechnische Oberschule</trd>
+    <trd lng="fa">&f_p;&a_l;&f_y;&zwnj;&a_t;&f_k;&a_n;&f_y;&f_k;</trd>
+    <trd lng="fr">polytechnique<klr> (subst.)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>polytechnicum</trd>,
+      <trd>polytechnische school</trd>
+    </trdgrp>
+    <trd lng="pl">politechnika</trd>
+    <trd lng="pt">polit&eacute;cnica</trd>
+    <trd lng="ru">&c_p;&c_o;&c_l;&c_i;&c_t;&c_je;&c_h;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; &c_i;&c_n;&c_s;&c_t;&c_i;&c_t;&c_u;&c_t;</trd>
+    <trd lng="sk">polytechnika</trd>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x30DD;&#x30EA;&#x30C6;&#x30AF;&#x30CB;&#x30FC;&#x30AF;</trd>,
+    <trd>&#x7406;&#x5DE5;&#x79D1;&#x5927;&#x5B66;  <pr>&#x308A;&#x3053;&#x3046;&#x304B;&#x3060;&#x3044;&#x304C;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43B;&#x456;&#x442;&#x435;&#x445;&#x43D;&#x456;&#x43A;&#x430;</trd>,
+    <trd>&#x43F;&#x43E;&#x43B;&#x456;&#x442;&#x435;&#x445;&#x43D;&#x456;&#x447;&#x43D;&#x438;&#x439; &#x456;&#x43D;&#x441;&#x442;&#x438;&#x442;&#x443;&#x442;/&#x443;&#x433;&#x456;&#x432;&#x435;&#x440;&#x441;&#x438;&#x442;&#x435;&#x442;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.14 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.12 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.10 2021/06/14 21:27:10
+Wolfram Diestel: +snc fako(j) kun ekz-oj
+
+Revision 1.8  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.7  2012/08/21 12:10:10  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.6  2009/11/08 17:30:51  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.5  2009/10/25 17:31:44  revo
+Paul Peeraerts: +nl
+
+Revision 1.4  2006/03/08 17:34:44  revo
+-->
+</vortaro>

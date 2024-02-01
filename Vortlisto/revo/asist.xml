@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: asist.xml,v 1.34 2023/10/28 08:33:09 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>asist</rad>/i <fnt>Z</fnt> <fnt> <bib>PV</bib></fnt>
+</kap>
+<drv mrk="asist.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="asist.0i.KOMUNE">
+    <dif>
+      Pro ofica devo &ccirc;eesti por
+      <ref tip="super" cel="help.0i">helpi</ref>
+      al iu: profesoro, pastro, kuracisto, ju&gcirc;isto...:
+      <ekz>
+        li mem kondukis la princon en la banejon, <tld/>is &ccirc;e la bano
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por mi la plej bona okupi&gcirc;o estos <klr>[&#x2026;]</klr> <tld/>i &ccirc;e la operacioj, kio
+        <klr>[&#x2026;]</klr> konformas al mia kapablo
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sesa &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili e&ccirc; kulpigis la organiza&jcirc;on, kiu konsilas kaj
+        <tld/>as azilpetantojn
+        <fnt>
+          <aut>G. Van Damme</aut>, 
+          <vrk>Sep en unu bato</vrk>, 
+          <bib>Monato</bib>, 
+          <lok>1999:3, p. 6a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>iPhone 3G</nom> estas tiel nomata persona <ind>cifereca <tld/>ilo</ind>, <klr>[&#x2026;]</klr>
+        kiu povas
+        igi vian vivon pli facila kaj agrabla
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/2008/009612.php">Inteligenta po&scirc;amiko</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+        <trd lng="de">Digitaler <ind>Assistent</ind></trd>
+        <trd lng="en">digital <ind>assistant</ind></trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ten.sub0i.FIG">subteni<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="zh">
+    <trd>&#x4F50; <pr>zu&#x1D2;</pr></trd>,
+    <trd>&#x512D; <pr>ch&#xE8;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_p;&c_a;&c_m;&c_a;&c_g;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_s;&c_y;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">p&rcaron;isluhovat</trd>
+  <trd lng="de">assistieren</trd>
+  <trd lng="en">assist</trd>
+  <trd lng="es">asistir <klr>(ayudar, servir)</klr></trd>
+  <trd lng="fr">assister<klr> (pr&eacute;ter assistance)</klr></trd>
+  <trd lng="he">&lamed;&samekh;&yod;&yod;&ayin;</trd>
+  <trdgrp lng="hu">
+    <trd>seg&eacute;dkezik</trd>,
+    <trd>assziszt&aacute;l</trd>
+  </trdgrp>
+  <trd lng="it">assistere</trd>
+  <trd lng="ja">&#x88DC;&#x4F50;&#x3059;&#x308B;  <pr>&#x307B;&#x3055;&#x3059;&#x308B;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>bijstaan<klr tip="ind"> (assisteren)</klr></trd>,
+    <trd>assisteren</trd>,
+    <trd>seconderen</trd>,
+    <trd>ruggensteunen</trd>
+  </trdgrp><trd lng="nl">assisteren</trd>
+  <trdgrp lng="pl">
+    <trd>asystowa&cacute;</trd>,
+    <trd>towarzyszy&cacute;</trd>,
+    <trd>pe&lstroke;ni&cacute; funkcj&eogonek; asystenta</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_s;&c_s;&c_i;&c_s;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_m;&c_o;&c_g;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>asistova&tcaron;</trd>,
+    <trd>pom&aacute;ha&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_p;&c_r;&c_i;&c_s;&c_u;&c_t;&c_n;&c_ib;&c_m;</trd>,
+    <trd>&c_d;&c_o;&c_p;&c_o;&c_m;&c_a;&c_g;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_n;&c_a;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_d;&c_o;&c_p;&c_o;&c_m;&c_o;&c_g;&c_u;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_i;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_a;&c_s;&c_i;&c_s;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="asist.0o">
+  <kap><tld/>o,
+    <var><kap><tld/>ado</kap></var>
+  </kap>
+  <snc mrk="asist.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        <klr>[amba&ubreve;]</klr> konsistigis la komisionon, kiu decidis pri la alju&gcirc;o, kun
+        <tld/>o de la libroservisto
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 2 (52)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fenomenoj postulantaj homajn defendon kaj <tld/>adon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2014/011272.php">Klimata &scirc;an&gcirc;i&gcirc;o kaj konfliktoj: kia interrilato?</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la mesa&gcirc;o ofertas la <tld/>on de la bahaa komunumo entrepreni pa&scirc;ojn al religia
+        unueco
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#x2116; 8-9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pluvivo de Brusela Komunikadcentro en 2004 estas necesa por la <tld/>ado al
+        kaj vigligado de la Landaj Asocioj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#x2116; 10 (108)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_p;&c_a;&c_m;&c_o;&c_g;&c_a;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_y;&c_ja;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>asistence</trd>,
+    <trd>p&rcaron;&iacute;tomnost</trd>
+  </trdgrp>
+  <trd lng="de">Assistenz</trd>
+  <trd lng="es">asistencia</trd>
+  <trd lng="fr">assistance</trd>
+  <trd lng="he">&samekh;&yod;&vav;&ayin;</trd>
+  <trd lng="it">assistenza</trd>
+  <trdgrp lng="nl">
+    <trd>bijstand</trd>,
+    <trd>hulp<klr tip="ind"> (assistentie)</klr></trd>,
+    <trd>assistentie</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>asysta</trd>,
+    <trd>asystowanie</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>asistencia</trd>,
+    <trd>pr&iacute;tomnos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_p;&c_o;&c_m;&c_o;&c_g;&c_a;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_i;&c_ja;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+<drv mrk="asist.0anto">
+  <kap><tld/>anto</kap>
+  <snc mrk="asist.0anto.KOMUNE">
+    <dif>
+      Profesia
+      <ref tip="super" cel="help.0anto.KOMUNE">helpanto</ref>
+      al superulo:
+      <ekz>
+        <tld/>antoj de la urbestro de Teherano
+        <fnt><aut>Mori</aut>, <vrk>Torturo... &ccirc;u vere</vrk>,
+        <bib>Monato</bib>, <lok>1998:5, p. 9a</lok></fnt>;
+      </ekz>
+      <ekz>
+        ja estas socialaj <tld/>antinoj, sed tiuj ne sufi&ccirc;as, ili jam estas plene
+        okupitaj
+        <fnt>
+          <bib>ChB</bib>
+          <lok>10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kuracisto blasfemas <klr>[&#x2026;]</klr>, &ccirc;ar nenio konvenas al li, nek la lumo de
+        la <klr>[&#x2026;]</klr>, nek la <tld/>antoj kaj &ccirc;efe ne la operaciotoj
+        <fnt>
+          <bib>KKr</bib>
+          <lok>I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        atestanto <klr>[&#x2026;]</klr> priskribis kaj la misteran magiiston kun lia duonmasko,
+        kaj la du kanajlojn liajn <tld/>antojn
+        <fnt>
+          <bib>MkM</bib>
+          <lok>27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la racio devas regi &ccirc;ar &gcirc;i estas sa&gcirc;a kaj planas por la tuta psiko, kaj fervoro
+        devas esti &gcirc;iaj servanto kaj <tld/>anto
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Kvar</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>scienca <tld/>anto</ind>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Reinhard F&ouml;ssmeier</aut>
+          <vrk><url ref="&Monato;/2011/010330.php">Fino de ministreco: kroniko</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+        <trd lng="de">wissenschaftlicher Mitarbeiter</trd>
+      </ekz>
+      <ekz>
+        <tld/>antoj de la E&ubreve;ropa Parlamento
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#x2116; 10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="serv.0anto">servanto</ref>,
+      <ref cel="ten.sub0anto.KOMUNE">subtenanto</ref>
+    </refgrp>
+    <trdgrp lng="zh">
+    <trd>&#x4F74; <pr>&#xE8;r</pr></trd>,
+    <trd>&#x52A9;&#x6559; <pr>zh&#xF9;ji&#xE0;o</pr></trd>,
+    <trd>&#x52A9;&#x7406; <pr>zh&#xF9;l&#x1D0;</pr></trd>,
+    <trd>&#x52A9;&#x7406;&#x7814;&#x7A76;&#x5458; <pr>zh&#xF9;l&#x1D0;y&#xE1;nji&#x16B;yu&#xE1;n</pr></trd>,
+    <trd>&#x52A9;&#x7406;&#x7814;&#x7A76;&#x54E1; <pr>zh&#xF9;l&#x1D0;y&#xE1;nji&#x16B;yu&#xE1;n</pr></trd>,
+    <trd>&#x52A9;&#x7406;&#x533B;&#x751F; <pr>zh&#xF9;l&#x1D0;y&#x12B;sh&#x113;ng</pr></trd>,
+    <trd>&#x52A9;&#x7406;&#x91AB;&#x751F; <pr>zh&#xF9;l&#x1D0;y&#x12B;sh&#x113;ng</pr></trd>,
+    <trd>&#x5411;&#x5BFC; <pr>xi&#xE0;ngd&#x1CE;o</pr></trd>,
+    <trd>&#x56AE;&#x5C0E; <pr>xi&#xE0;ngd&#x1CE;o</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_m;&c_o;&c_ch;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_a;&c_s;&c_y;&c_s;&c_t;&c_e;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>asistent</trd>,
+    <trd>pobo&ccaron;n&iacute;k</trd>,
+    <trd>p&rcaron;isluhova&ccaron;</trd>
+  </trdgrp>
+  <trd lng="de">Assistent</trd>
+  <trd lng="en">assistant</trd>
+  <trd lng="es">asistente <klr>(profesional)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>assistant</trd>
+  </trdgrp>
+  <trd lng="he">&ayin;&vav;&#x5B9;&zayin;&#x5B5;&resh;</trd>
+  <trdgrp lng="hu">
+    <trd>asszisztens</trd>,
+    <trd>seg&eacute;der&odblac;</trd>,
+    <trd>seg&eacute;d</trd>
+  </trdgrp>
+  <trd lng="it">assistente</trd>
+  <trdgrp lng="ja">
+    <trd>&#x52A9;&#x624B;  <pr>&#x3058;&#x3087;&#x3057;&#x3085;</pr></trd>,
+    <trd>&#x88DC;&#x4F50;  <pr>&#x307B;&#x3055;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">assistent</trd>
+  <trd lng="pl">asystent</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_m;&c_o;&c_shch;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_a;&c_s;&c_s;&c_i;&c_s;&c_t;&c_je;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">asistent</trd>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_s;&c_i;&c_s;&c_t;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_p;&c_o;&c_m;&c_ib;&c_ch;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+
+</art>
+<!--
+$Log$
+versio 1.33 2023/10/13 17:08:38
+revo: transskribo per <pr>
+
+versio 1.31 2023/06/09 13:29:43
+Dmitri Gabinski: + trd be; kor de uk
+
+versio 1.30 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.29 2022/04/13 12:48:34
+Wolfram Diestel: +trd de,en
+
+versio 1.28 2022/04/12 18:33:52
+Wolfram Diestel: +ekz, ref; ~o
+
+versio 1.27 2022/04/12 17:34:03
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.23  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/28 12:03:36  revo
+-->
+</vortaro>

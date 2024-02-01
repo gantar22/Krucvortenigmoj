@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bezoar.xml,v 1.10 2022/04/10 17:28:37 revo Exp $">
+<kap>
+  <rad>bezoar</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="bezoar.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bezoar.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      <ref tip="super" cel="konkrement.0o.FIZL">Konkremento</ref>,
+      kunglua&jcirc;o el haroj a&ubreve; vegeta&jcirc;oj, kiu formi&gcirc;as en la digestaj organoj precipe de 
+      rema&ccirc;uloj, iam uzita kiel kontra&ubreve;veneno:
+      <ekz>
+        &ccirc;u vi revenas kun kargo da perloj, cinamo kaj <tld/>oj
+        <fnt>
+          <bib>Salamandroj</bib>,
+          <lok>libro 1a, &ccirc;apitro 3</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        ni ankora&ubreve; ne parolis pri la &scirc;tono, kiu trovi&gcirc;as en la stomako de la
+        <tld/>-kapreolo, kiu defendas nin kontra&ubreve; la venenoj
+        <fnt>
+          <bib>SatirRak</bib>
+          <lok>Supersti&ccirc;o</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">betzoar</trd>
+  <trd lng="de">Bezoar</trd>
+  <trd lng="en">bezoar</trd>
+  <trdgrp lng="es">
+    <trd>bezoar</trd>,
+    <trd>bezoard</trd>
+  </trdgrp>
+  <trd lng="fr">bezoard</trd>
+  <trd lng="hu">bezo&aacute;r</trd>
+  <trd lng="it">bezoario</trd>
+  <trdgrp lng="pl">
+    <trd>bezoar</trd>,
+    <trd>kamie&nacute; jelitowy</trd>,
+    <trd>strutka</trd>
+  </trdgrp>
+  <trd lng="pt">bezoar</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_o;&c_a;&c_r;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.10 2022/04/10 17:28:37
+Wolfram Diestel: +ekz
+
+Revision 1.8  2011/06/14 16:10:09  revo
+Jeromo Vasxe: + ref sup
+
+Revision 1.7  2011/02/28 17:10:08  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2010/11/05 17:30:24  revo
+Antonio Codazzi: +trd it
+
+Revision 1.5  2006/06/02 16:31:01  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.4  2006/05/20 16:31:13  revo
+Yury Finkel: +trd ru
+
+Revision 1.3  2006/05/17 16:31:32  revo
+Jeromo Vasxe: kor. fak fiz -> fizl
+
+Revision 1.2  2006/05/14 16:55:14  revo
+-->
+</vortaro>

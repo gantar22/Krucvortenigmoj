@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sintak.xml,v 1.31 2023/10/21 07:46:47 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>sintaks</rad>/o
+</kap>
+
+<drv mrk="sintak.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">GRA</uzo>
+  <snc mrk="sintak.0o.GRA">
+    <dif>
+      Parto de la <ref tip="malprt" cel="gramat.0o.SCI">gramatiko</ref>
+      rilatanta al la konstruo de la <ref cel="fraz.0o.GRA">frazo</ref>j,
+      tio estas al la ordo, klasoj, rilataj funkcioj de vortoj kaj
+      vortgrupoj en frazoj:
+      <ekz>
+        oni instruas lingvistikon kutime <klr>[&#8230;]</klr> la&ubreve; specifaj fakoj (fonetiko,
+        morfologio, <tld/>o)
+        <fnt>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2005/008471.php">Utila po&scirc;vortaro pri lingvistiko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/01, p. 25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la portugala lingvo la <tld/>o de la informaj kaj la
+        demandaj frazoj estas egalaj
+        <fnt><aut>May Bijleveld</aut>:
+          <vrk><url ref="&Monato;/2001/pdf/monato200112.pdf#page=13">Je defendo de
+          liplegado</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/12, p. 13</lok></fnt>;
+      </ekz>
+      <ekz>
+        feli&ccirc;e Esperanton influis &ccirc;e &gcirc;ia ekesto kaj evoluo la rusa kaj la germana, tiel
+        kontra&ubreve;pezante la romanidajn vortaron kaj <tld/>on
+        <fnt>
+	<aut>Christian Declerck</aut>
+	<vrk><url ref="&Monato;/2000/006843.php">Kiun vojon?</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 4</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="semant.0o">semantiko</ref>
+    <trd lng="be">&c_s;&c_y;&c_n;&c_t;&c_a;&c_k;&c_s;&c_y;&c_s;</trd>
+    <trd lng="pl">sk&lstroke;adnia</trd>
+    <trd lng="pt">sintaxe</trd>
+  </snc>
+  <snc mrk="sintak.0o.libro">
+    <dif>
+      Lernolibro instruanta tiun parton de la gramatiko.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_y;&c_n;&c_t;&c_a;&c_k;&c_s;&c_y;&c_s;</trd>,
+      <trd>&c_s;&c_y;&c_n;&c_t;&c_a;&c_k;&c_s;&c_y;&c_ch;&c_n;&c_y; &c_d;&c_a;&c_p;&c_a;&c_m;&c_o;&c_zh;&c_n;&c_ib;&c_k;</trd>
+    </trdgrp>
+    <trd lng="pt">livro de <ind>sintaxe</ind></trd>
+  </snc>
+  <trd lng="ca">sintaxi</trd>
+  <trdgrp lng="cs">
+    <trd>skladba</trd>,
+    <trd>syntax</trd>
+  </trdgrp>
+  <trd lng="de">Syntax</trd>
+  <trd lng="en">syntax</trd>
+  <trd lng="es">sintaxis</trd>
+  <trd lng="fa">&a_n;&a_H;&a_w;</trd>
+  <trdgrp lng="fr">
+    <trd>syntaxe</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>mondattan</trd>,
+    <trd>szintaxis</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x69CB;&#25991;&#x8AD6;  <pr>&#12371;&#12358;&#12406;&#12435;&#x308D;&#12435;</pr></trd>,
+    <trd>&#x7D71;&#x8A9E;&#x8AD6;  <pr>&#12392;&#12358;&#12372;&#x308D;&#12435;</pr></trd>,
+    <trd>&#x7D71;&#x8F9E;&#x8AD6;  <pr>&#12392;&#12358;&#12376;&#x308D;&#12435;</pr></trd>,
+    <trd>&#x69CB;&#25991;  <pr>&#12371;&#12358;&#12406;&#12435;</pr></trd>,
+    <trd>&#x30B7;&#x30F3;&#x30BF;&#x30C3;&#x30AF;&#x30B9;</trd>
+  </trdgrp>
+  <trd lng="nl">syntaxis</trd>
+  <trd lng="ru">&c_s;&c_i;&c_n;&c_t;&c_a;&c_k;&c_s;&c_i;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>syntax</trd>,
+    <trd>vetn&aacute; skladba</trd>,
+    <trd>vetoslovie</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_i;&#x43D;&c_t;&c_a;&#x43A;&c_s;&c_i;&c_s;</trd>
+</drv>
+
+<drv mrk="sintak.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="sintak.0a.rilata">
+    <dif>
+      Rilata al vortaran&gcirc;aj fenomenoj kaj reguloj:
+      <ekz>
+        &leftquot;la ajmara estas rigora kaj simpla &ndash; kio
+        signifas, ke &gcirc;iaj
+        <tld/>aj reguloj &ccirc;iam validas&rightquot;
+        <fnt>
+        <aut>Garbhan MacAoidh</aut>:
+        <vrk><url ref="&Monato;/2002/pdf/monato200202.pdf#page=26">La ajmara</url></vrk>,
+        <bib>Monato</bib>
+        <lok>2002/02, p. 26-28</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj malsimilecoj inter <klr>[&#8230;]</klr> du lingvoj
+        <fnt>
+          <aut>H&egrave;ctor Al&ograve;s i Font</aut>
+          <vrk><url ref="&Monato;/2013/011015.php">La turka: pli granda, pli diversa
+          familio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/06, p. 22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_n;&c_t;&c_a;&c_k;&c_s;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="ca">sint&agrave;ctic</trd>
+  <trdgrp lng="cs">
+    <trd>skladebn&iacute;</trd>,
+    <trd>syntaktick&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">syntaktisch</trd>
+  <trd lng="en">syntactic</trd>
+  <trd lng="es">sint&aacute;ctico</trd>
+  <trd lng="fa">&a_n;&a_H;&a_w;&f_y;</trd>
+  <trdgrp lng="fr">
+    <trd>syntactique</trd>,
+    <trd>syntaxique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>mondattani</trd>,
+    <trd>szintaktikai</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7D71;&#x8A9E;&#x8AD6;&#x306E;  <pr>&#12392;&#12358;&#12372;&#12429;&#12435;&#12398;</pr></trd>,
+    <trd>&#x69CB;&#25991;&#x4E0A;&#x306E;  <pr>&#12371;&#12358;&#12406;&#12435;&#12376;&#12423;&#12358;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">syntactisch</trd>
+  <trd lng="pl">sk&lstroke;adniowy</trd>
+  <trd lng="pt">sint&aacute;tico</trd>
+  <trd lng="ru">
+&c_s;&c_i;&c_n;&c_t;&c_a;&c_k;&c_s;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
+  </trd>
+  <trd lng="sk">syntaktick&yacute;</trd>
+  <trd lng="uk">&c_s;&c_i;&#x43D;&c_t;&c_a;&#x43A;&c_s;&c_i;&c_ch;&#x43D;&c_i;&c_j;</trd>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.31 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.30 2023/09/13 06:30:07
+Wolfram Diestel: pr. ja
+
+versio 1.28 2023/05/26 14:27:21
+Paul Peeraerts: + lok + url
+
+versio 1.27 2023/04/23 08:29:31
+Paul Peeraerts: &Steloj -> monato.be
+
+versio 1.26 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.24 2021/10/15 06:35:35
+Dmitri Gabinski: +trd be
+
+versio 1.23 2020/12/06 18:38:36
+Wolfram Diestel: ekz-oj, ref semantiko
+
+  Revision 1.21  2015/06/29 16:33:23  revo
+-->
+</vortaro>

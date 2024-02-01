@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: posesi.xml,v 1.19 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <rad>posesiv</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="posesi.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">GRA</uzo>
+  <snc>
+    <dif>
+      Poseda <ref tip="super" cel="pronom.0o.noma">pronomo</ref>
+      a&ubreve; <ref tip="super" cel="adjekt.0o">adjektivo</ref>:
+      <ekz>
+        &leftquot;ilia&rightquot; &gcirc;enerale estas adjektivo, la <tld/>o de pronomo &leftquot;ili&rightquot;
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=66142">Ilia</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[en la]</klr> tagaloga lingvo <klr>[&#x2026;]</klr> la malfokusaj pronomoj anka&ubreve;
+        povas esprimi la <tld/>on
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=172738">Tagaloga lingvo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_n;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_y; &c_z;&c_a;&c_j;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_i;&c_t;&c_je;&c_zh;&c_a;&c_t;&c_je;&c_l;&c_je;&c_n; &c_m;&c_je;&c_s;&c_t;&c_o;&c_i;&c_m;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>posesivum</trd>,
+    <trd>p&rcaron;ivlast&ncaron;ovac&iacute; p&rcaron;&iacute;davn&eacute; jm&eacute;no</trd>,
+    <trd>p&rcaron;ivlast&ncaron;ovac&iacute; z&aacute;jmeno</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Possessivpronomen</trd>,
+    <trd>besitzanzeigendes F&uuml;rwort</trd>
+  </trdgrp>
+  <trd lng="en">possessive pronoun</trd>
+  <trd lng="es">posesivo</trd>
+  <trd lng="fr">pronom possessif</trd>
+  <trd lng="hu">birtokos n&eacute;vm&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6240;&#x6709;&#x683C;  <pr>&#x3057;&#x3087;&#x3086;&#x3046;&#x304B;&#x304F;</pr></trd>,
+    <trd>&#x6240;&#x6709;&#x8A5E;  <pr>&#x3057;&#x3087;&#x3086;&#x3046;&#x3057;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bezittelijk <ind>voornaamwoord</ind></trd>
+  <trd lng="pl">zaimek dzier&zdot;awczy</trd>
+  <trd lng="pt">possessivo <klr>(pronome etc.)</klr></trd>
+  <trd lng="ro">pronume posesiv</trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_t;&c_ja;&c_zh;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_m;&c_je;&c_s;&c_t;&c_o;&c_i;&c_m;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">privlast&ncaron;ovacie z&aacute;meno</trd>
+  <trd lng="uk">&#x43F;&c_r;&c_i;&c_s;&c_v;&c_ib;&c_j;&#x43D;&c_i;&c_j; &c_z;&c_a;&c_j;&#x43C;&c_je;&#x43D;&#x43D;&c_i;&#x43A;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.19 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.17 2022/05/12 21:28:23
+Vito Redsky: + trd pl + trd ro 
+
+Revision 1.14  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2013/08/05 16:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.11  2006/03/15 17:32:03  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2002/12/18 18:50:34  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2002/11/16 17:32:00  revo
+-->
+</vortaro>

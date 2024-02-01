@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sedativ.xml,v 1.16 2023/10/21 06:31:44 revo Exp $">
+<kap>
+  <rad>sedativ</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="sedativ.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sedativ.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Kvietiga <ref tip="super" cel="medika1.0o">medikamento</ref>:
+      <ekz>
+        kuracisto <klr>[&#x2026;]</klr> preskribis al li <tld/>on sufi&ccirc;e fortan, sed
+        <klr>[&#x2026;]</klr> tiuj kuraciloj ka&ubreve;zas dependon kaj tute ne garantias bonan
+        kvaliton de dormo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2012/010764.php">Dormu bone, vivu bone (per
+          melatonino)</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Ora</nom> sekrete ordonis, ke <nom>Penetra</nom> donu al li <tld/>on
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 100a, volumo 3a, p.
+        301a</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i sendormis tutajn noktojn, sen&ccirc;ese &gcirc;emante kaj turni&gcirc;ante pro doloro, <tld/>a
+        injekto jam ne efikis sur &scirc;in
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lin Sheng</aut>
+          <vrk><url ref="&Monato;/2006/008670.php">Forpasis mia karulino</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aneste.0ilo">anestezilo</ref>,
+<ref cel="dorm.0igilo">dormigilo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_c;&c_ib;&c_sh;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_s;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>,
+    <trd>&c_s;&c_e;&c_d;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y; &c_s;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_s;&c_je;&c_d;&c_a;&c_t;&c_i;&c_v;</trd>
+  <trd lng="ca">sedant</trd>
+  <trdgrp lng="cs">
+    <trd>sedativum</trd>,
+    <trd>uti&scaron;uj&iacute;c&iacute; droga</trd>
+  </trdgrp>
+  <trd lng="de">Sedativ</trd>
+  <trd lng="en">sedative</trd>
+  <trd lng="es">sedante</trd>
+  <trd lng="fr">s&eacute;datif<klr> (subst.)</klr></trd>
+  <trd lng="hu">nyugtat&oacute;<klr tip="ind"> (orvoss&aacute;g)</klr></trd>
+  <trd lng="it">sedativo<klr> (sost.)</klr></trd>
+  <trd lng="ja">&#x93AE;&#x9759;&#x5264;  <pr>&#x3061;&#x3093;&#x305B;&#x3044;&#x3056;&#x3044;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>sedativum</trd>,
+    <trd>kalmerend middel</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&sacute;rodek uspokajaj&aogonek;cy</trd>,
+    <trd>sedativum</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_s;&c_p;&c_o;&c_k;&c_o;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_s;&c_je;&c_d;&c_a;&c_t;&c_i;&c_v;&c_n;&c_o;&c_je; &c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sedat&iacute;vum</trd>,
+    <trd>uti&scaron;uj&uacute;ca droga</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&#x43E;&#x43B;&c_je;&c_z;&c_a;&c_s;&#x43F;&#x43E;&#x43A;&c_ib;&c_j;&#x43B;&c_i;&c_v;&c_i;&c_j; &c_z;&c_a;&c_s;&c_ib;&c_b;</trd>,
+    <trd>&c_b;&#x43E;&#x43B;&c_je;&c_z;&c_a;&c_s;&#x43F;&#x43E;&#x43A;&c_ib;&c_j;&#x43B;&c_i;&c_v;&c_ib; &#x43B;&c_ib;&#x43A;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.16 2023/10/21 06:31:44
+revo: transskribo per <pr>
+
+versio 1.14 2023/08/03 21:23:30
+Vito Redsky: +trd pl 
+
+versio 1.13 2022/05/12 08:49:17
+Dmitri Gabinski: + trd be
+
+versio 1.12 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.10 2022/03/26 07:27:44
+Wolfram Diestel: +ekz
+
+versio 1.9 2022/03/25 06:35:28
+Wolfram Diestel: +ekz, ref, trd de
+
+Revision 1.7  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2013/09/23 11:10:11  revo
+-->
+</vortaro>

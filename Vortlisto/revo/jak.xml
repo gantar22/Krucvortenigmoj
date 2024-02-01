@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: jak.xml,v 1.35 2023/12/03 07:09:06 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>jak</rad>/o
+</kap>
+<drv mrk="jak.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="jak.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Ekstera <ref tip="lst" lst="voko:vesta&jcirc;oj" cel="vest.0o">vesto</ref>,
+      malfermi&gcirc;anta &ccirc;e ia anta&ubreve;a parto,
+      manikhava, kovranta la korpon ekde la &scirc;ultroj &gcirc;is
+      proksimume la koksoj:
+      <ekz>
+	la <tld/>o estas la ordinara senceremonia vesto de la
+	okcidentaj e&ubreve;ropanoj;
+      </ekz>
+      <ekz>
+        el la felo faru <tld/>on
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        indi&gcirc;enoj <klr>[&#x2026;]</klr> en siaj vilaj peltaj <tld/>oj prezentis strangan vida&jcirc;on
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Ccirc;e la plej ekstrema maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nun ni povas havi &scirc;afan lakton, &scirc;afan froma&gcirc;on kaj lanajn &scirc;trumpojn, e&ccirc; lanajn
+        noktajn <tld/>ojn
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Kion la patro faras, estas &ccirc;iam &gcirc;usta</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post la trumpetistoj rajdis dekkelko da asiriaj kavaliroj, en pintaj &ccirc;apoj,
+        <tld/>oj kaj malvastaj pantalonoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld lit="J"/>o, ve&scirc;to, e&ccirc; kalsono // &Gcirc;enus viajn movojn, dum &dash; // Sendepende de l' sezono
+        &dash; // Ta&ubreve;gas nur l' Adam-kostum'
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>&Ccirc;astemulino</lok>
+        </fnt>!
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kamizo.0o">kamizolo</ref>,
+      <ref cel="vesxt.0o">ve&scirc;to</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_ib;&c_n;&c_zh;&c_a;&c_k;</trd>,
+    <trd>&c_k;&c_u;&c_r;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_t;&c_u;&c_zh;&c_u;&c_r;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_sa;&t_tata;&t_naro;&t_da;&t_tsheg;&t_tha;&t_shabchu;&t_nga;&t_tsheg;</trd>
+  <trd lng="ca">jaqu&eacute;</trd>
+  <trdgrp lng="cs">
+    <trd>kab&aacute;t</trd>,
+    <trd>kr&aacute;tk&yacute; kab&aacute;t</trd>,
+    <trd>sako</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Jacke</trd>,
+    <trd>Jackett</trd>,
+    <trd>Sakko</trd>
+  </trdgrp>
+  <trd lng="en">jacket</trd>
+  <trd lng="es">chaqueta</trd>
+  <trdgrp lng="fr">
+    <trd>veste<klr tip="ind"> (d'homme)</klr></trd>,
+    <trd>veston</trd>
+  </trdgrp>
+  <trd lng="hu">zak&oacute;</trd>
+  <trd lng="id">jaket</trd>
+  <trdgrp lng="it">
+      <trd>giacca</trd>,
+      <trd>giubba</trd>,
+      <trd>giubbotto</trd>
+    </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x80CC;&#x5E83;  <pr>&#x305B;&#x3073;&#x308D;</pr></trd>,
+    <trd>&#x30B8;&#x30E3;&#x30B1;&#x30C3;&#x30C8;  <pr>&#x3058;&#x3083;&#x3051;&#x3063;&#x3068;</pr></trd>,
+    <trd>&#x4E0A;&#x7740;  <pr>&#x3046;&#x308F;&#x304E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">jas</trd>
+  <trdgrp lng="pt">
+    <trd>palet&oacute;<klr tip="amb"> (de homem)</klr></trd>,
+    <trd>casaco<klr tip="amb"> (de homem)</klr></trd>,
+    <trd>jaquet&atilde;o</trd>,
+    <trd>japona</trd>,
+    <trd>v&eacute;stia</trd>,
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_i;&c_d;&c_zh;&c_a;&c_k;</trd>,
+    <trd>&c_k;&c_u;&c_r;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_t;&c_u;&c_zh;&c_u;&c_r;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kab&aacute;t</trd>,
+    <trd>sako</trd>
+  </trdgrp>
+  <trd lng="sv">jacka</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_u;&c_r;&c_t;&#x43A;&c_a;</trd>,
+    <trd>&c_t;&c_u;&c_zh;&c_u;&c_r;&#x43A;&c_a;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&c_zh;&c_a;&#x43A;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E0A;&#x8863; <pr>sh&#xE0;ngy&#x12B;</pr></trd>,
+    <trd>&#x5939;&#x514B; <pr>ji&#x101;k&#xE8;</pr></trd>,
+    <trd>&#x8884; <pr>&#x1CE;o</pr></trd>,
+    <trd>&#x5916;&#x8863; <pr>w&#xE0;iy&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="jak.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="jak.0eto.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Mallonga <tld/>o:
+      <ekz>
+	&scirc;i sin returnis kaj ekvidis belan junan fra&ubreve;lineton, kiu,
+	bone kovrante sin per varma <tld/>eto, kuris al &scirc;i
+	<fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+	<klr>[kamarado]</klr> en blanka &ccirc;emizo sub mallonga
+	griza <tld/>eto, kareseme rigardis &scirc;in
+	<fnt><bib>Metrop</bib><lok>&ccirc;ap. 3</lok></fnt>;
+      </ekz>
+      <ekz>
+	<tld/>eto de kelnero.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="jxaket.0o">&jcirc;aketo</ref>
+    <trd lng="be">&c_zh;&c_a;&c_k;&c_je;&c_t;</trd>
+    <trd lng="hu">koszt&uuml;mkab&aacute;t</trd>
+    <trdgrp lng="fr">
+      <trd>veste<klr tip="ind"> (courte)</klr></trd>,
+      <trd>blouson</trd>,
+      <trd>pourpoint</trd>
+    </trdgrp>
+    <trd lng="ru">&c_zh;&c_a;&c_k;&c_je;&c_t;</trd>
+    <trdgrp lng="it">
+      <trd>giacchetta</trd>,
+      <trd>giubbetto</trd>,
+      <trd>giubba</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="jak.0eto.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Deprenebla, ne algluita papera kovrilo de bindita a&ubreve;
+      bro&scirc;urita libro, ofte kun kolora ilustra&jcirc;o.
+    </dif>
+    <trd lng="be">
+&c_s;&c_u;&c_p;&c_e;&c_r;&c_v;&c_o;&c_k;&c_l;&c_a;&c_d;&c_k;&c_a;
+</trd>
+    <trdgrp lng="fr">
+      <trd>jaquette<klr tip="ind"> (de livre)</klr></trd>,
+      <trd>couverture<klr tip="ind"> (jaquette)</klr></trd>
+    </trdgrp>
+    <trd lng="ru">
+&c_s;&c_u;&c_p;&c_je;&c_r;&c_o;&c_b;&c_l;&c_o;&c_zh;&c_k;&c_a;</trd>
+    <trdgrp lng="it">
+      <trd>copertina</trd>,
+      <trd>sovracoperta</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">jaqueta</trd>
+  <trdgrp lng="cs">
+    <trd>kab&aacute;tek</trd>,
+    <trd>kazajka</trd>,
+    <trd>s&aacute;&ccaron;ko</trd>,
+    <trd>&zcaron;aket</trd>
+  </trdgrp>
+  <trd lng="en">jacket</trd>
+  <trd lng="hu">k&ouml;nyvbor&iacute;t&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B8;&#x30E3;&#x30B1;&#x30C3;&#x30C8;  <pr>&#x3058;&#x3083;&#x3051;&#x3063;&#x3068;</pr></trd>,
+    <trd>&#x30AB;&#x30D0;&#x30FC;  <pr>&#x304B;&#x3070;&#x30FC;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">jasje</trd>
+  <trd lng="pt">sobrecapa</trd>
+  <trdgrp lng="sk">
+    <trd>kab&aacute;tik</trd>,
+    <trd>&zcaron;aket</trd>
+  </trdgrp>
+  <trd lng="uk">&c_zh;&c_a;&#x43A;&c_je;&c_t;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5916;&#x5957; <pr>w&#xE0;it&#xE0;o</pr></trd>,
+    <trd>&#x8884; <pr>&#x1CE;o</pr></trd>,
+    <trd>&#x8884;&#x5B50; <pr>&#x1CE;ozi</pr></trd>,
+    <trd>&#x8966; <pr>r&#xFA;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="jak.trikita_0o">
+  <kap>
+    trikita <tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="J"/>o trikita el lano, kotono ks, portata super &ccirc;emizo a&ubreve; bluzo:
+      <ekz>
+        &scirc;i ofte estis &jcirc;etanta sur liajn &scirc;ultrojn sian lanugan kaptukon, a&ubreve; la malnovan
+        trikitan jakon
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i tute ne bezonis eliri tage tiel al la arbaro <klr>[&#x2026;]</klr> vestita en longa
+        trikita <tld/>eto kaj &scirc;alo kaj malnovaj, duon&ccirc;ifonaj ne&gcirc;&scirc;uoj
+        <fnt>
+          <bib>VRA</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="pulover.0o">pulovero</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_o;&c_f;&c_t;&c_a;</trd>,
+    <trd>&c_v;&c_ja;&c_z;&c_a;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">Strickjacke</trd>
+  <trd lng="en">cardigan</trd>
+  <trd lng="fr">cardigan</trd>
+  <trd lng="ru">&c_k;&c_o;&c_f;&c_t;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5F00;&#x895F;&#x886B; <pr>k&#x101;ij&#x12B;nsh&#x101;n</pr></trd>,
+    <trd>&#x6BDB;&#x8863; <pr>m&#xE1;oy&#x12B;</pr></trd>,
+    <trd>&#x5F00;&#x895F;&#x7F8A;&#x6BDB;&#x886B; <pr>k&#x101;ij&#x12B;ny&#xE1;ngm&#xE1;osh&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.34 2023/10/18 05:25:55
+revo: transskribo per <pr>
+
+versio 1.32 2023/07/24 12:46:59
+Dmitri Gabinski: + trd be
+
+versio 1.31 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.29 2021/10/26 06:34:18
+Wolfram Diestel: +ekz-oj; +trikita ~o
+
+versio 1.27 2020/07/19 11:10:37
+Wolfram Diestel: lst vestajxoj, -vira
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/01/29 04:10:51  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.23  2010/04/12 16:30:25  revo
+-->
+</vortaro>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: karas.xml,v 1.27 2023/12/03 08:00:23 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>karas</rad>/o
+</kap>
+<drv mrk="karas.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="karas.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Man&gcirc;ebla <ref tip="lst" cel="fisx.0o" lst="voko:fi&scirc;oj">fi&scirc;o</ref>
+      vivanta en malprofundaj lagoj kaj lagetoj,
+      parenca al praformo de orfi&scirc;o;
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">genro</ref> el familio <ref tip="malprt" cel="ciprin1.0oj">ciprinedoj</ref>
+      (<trd lng="la">Carassius</trd>):
+      <ekz>
+        <tld/>o mordanta la hokon
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej impona trova&jcirc;o en unu na&gcirc;baseno estis vivantaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2008/009540.php">Puraj plezuroj</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen la baseno, kiu en &scirc;ia juna&gcirc;o estis plena je <tld/>oj, kiujn
+        neniu kura&gcirc;is fi&scirc;i
+        <fnt>
+        <vrk><url ref="http://www.kcc.zaq.ne.jp/pacon-cuda/Ka.htm">&#x4ECA;&#x65E5;&#x306E;&#x5358;&#x8A9E;
+        (Ka)</url></vrk>,
+        <lok>2003-04-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/2/2a/Carassius_carassius_Prague_Vltava_2.jpg/640px-Carassius_carassius_Prague_Vltava_2.jpg" prm="PD"><tld/>o, Prago 2011
+        <fnt>
+          <aut>Karelj, propra verko</aut>
+          <lok><url ref="&WCW;/File:Carassius_carassius_Prague_Vltava_2.jpg">&WCW;/File:Carassius_carassius_Prague_Vltava_2.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_r;&c_a;&c_s;&c_mol;</trd>
+  <trd lng="cs">karas</trd>
+  <trd lng="de">Karausche</trd>
+  <trd lng="en">crucian <ind>carp</ind></trd>
+  <trd lng="fr">carassin</trd>
+  <trd lng="hu">k&aacute;r&aacute;sz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D5;&#x30CA;</trd>,
+    <trd>&#x30E8;&#x30FC;&#x30ED;&#x30C3;&#x30D1;&#x30D6;&#x30CA;</trd>
+  </trdgrp>
+  <trd lng="nl">steenkarper</trd>
+  <trd lng="pl">kara&sacute;</trd>
+  <trd lng="ru">&c_k;&c_a;&c_r;&c_a;&c_s;&c_mol;</trd>
+  <trd lng="sk">karas</trd>
+  <trd lng="uk">&#x43A;&#x430;&#x440;&#x430;&#x441;&#x44C;</trd>
+  <trd lng="zh">&#x9BFD;&#x9B5A; <pr>j&#xEC;y&#xFA;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2021/12/15 18:34:05
+Wolfram Diestel: +ekz-oj, bld
+
+Revision 1.21  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/10/08 19:10:19  revo
+Wolfram Diestel: fishoj, prilaboris dif
+
+Revision 1.18  2013/09/01 13:11:19  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.17  2006/03/03 17:31:02  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.16 2004/11/28 19:43:08 revo
+-->
+</vortaro>

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sufrag.xml,v 1.19 2023/10/21 07:46:48 revo Exp $">
+<kap>
+   <rad>sufragan</rad>/o
+   <fnt>Z</fnt>
+</kap>
+<drv mrk="sufrag.0o">
+   <kap><tld/>o</kap>
+   <uzo tip="fak">KAT</uzo>
+   <snc>
+     <dif>
+       <ref tip="super" cel="episko.0o">Episkopo</ref>
+       dependanta de &ccirc;efepiskopo:
+       <ekz>
+        en la romkatolika eklezio, la &ccirc;efepiskopo anka&ubreve; nomi&gcirc;as metropolito, la aliaj
+        episkopujoj estas <tld/>aj (submetitaj, subordigitaj) al la &ccirc;efepiskopujo,
+        kaj la &ccirc;efepiskopujo kun &ccirc;iuj siaj <tld/>aj episkopujoj formas eklezian
+        provincon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=30502">Episkopujo</url></lok>
+        </fnt>.
+      </ekz>
+     </dif>
+   </snc>
+  <trd lng="be">&c_v;&c_ib;&c_k;&c_a;&c_r;&c_n;&c_y;
+   <ind>&c_b;&c_ib;&c_s;&c_k;&c_u;&c_p;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>pomocn&yacute; biskup</trd>,
+    <trd>sufrag&aacute;n</trd>,
+    <trd>sv&ecaron;t&iacute;c&iacute; biskup</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Suffragan</trd>,
+     <trd>Suffraganbischof</trd>
+   </trdgrp>
+  <trd lng="es">sufrag&aacute;neo <klr>(obispo)</klr></trd>
+  <trd lng="fr">suffragant</trd>
+  <trd lng="hu">megy&eacute;sp&uuml;sp&ouml;k</trd>
+  <trd lng="it">suffragano</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C5E;&#x53F8;&#x6559;  <pr>&#x305E;&#x304F;&#x3057;&#x304D;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x5C5E;&#x4E3B;&#x6559;  <pr>&#x305E;&#x304F;&#x3042;&#x308B;&#x3058;&#x304D;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x526F;&#x76E3;&#x7763;  <pr>&#x3075;&#x304F;&#x304B;&#x3093;&#x3068;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">suffragaan</trd>
+  <trd lng="pl">sufragan</trd>
+  <trd lng="ru">&c_v;&c_i;&c_k;&c_a;&c_r;&c_n;&c_y;&c_j; 
+&c_je;&c_p;&c_i;&c_s;&c_k;&c_o;&c_p;</trd>
+  <trd lng="sk">pomocn&yacute; biskup</trd>
+  <trdgrp lng="uk">
+    <trd>&#x454;&#x43F;&#x438;&#x441;&#x43A;&#x43E;&#x43F; (&#x431;&#x435;&#x437; &#x454;&#x43F;&#x430;&#x440;&#x445;&#x456;&#x457;)</trd>,
+    <trd>&#x432;&#x456;&#x43A;&#x430;&#x440;&#x456;&#x439;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.19 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+Revision 1.15  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2015/04/18 10:10:16  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.12  2010/11/04 17:31:14  revo
+Antonio Codazzi: +trd it
+
+Revision 1.11  2008/05/20 16:30:35  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2004/12/06 17:33:03  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2004/10/17 16:32:21  revo
+-->
+</vortaro>

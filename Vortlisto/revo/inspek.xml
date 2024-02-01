@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: inspek.xml,v 1.28 2023/11/19 10:22:13 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>inspekt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="inspek.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="inspek.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="kontro.0i.administracie">Kontroli</ref> la&ubreve; ricevita komisio 
+      la funkciadon de io a&ubreve; la agadon de iu:
+      <ekz>
+        <tld/>i lernejon, &scirc;ipon, armeon, fabrikon;
+      </ekz>
+      <ekz>
+        ili diligente <klr>[&#x2026;]</klr> <tld/>is detale &ccirc;iujn kestojn, valizojn kaj &scirc;rankojn
+        <fnt>
+          <bib>&Ccirc;uk&ccirc;oj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kion vi faras tie &ccirc;i? &ndash; ni <tld/>as la uzinon, diris Alda 
+        kun &scirc;ajnigita seriozo
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Arne</nom> momente <tld/>is &scirc;in kaj diris sektone: <klr>[&#x2026;]</klr> aspektas afekteme,
+        rigardu, se mi metus &ccirc;apon <klr>[&#x2026;]</klr> tiamaniere
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> starigis la Levidojn, havantajn la a&gcirc;on
+        de dudek jaroj kaj pli, por <tld/>i la laborojn en la domo de la
+        Eternulo
+        <fnt><bib>MT</bib>, <lok>&Ezr; 3:8</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekzame.0i">ekzameni</ref>,
+      <ref cel="revizi.0i">revizii</ref>,
+      <ref cel="rigard.super0i.FIG">superrigardi<sncref/></ref>
+    </refgrp>
+  </snc>
+  <adm>
+    Indus kontroli en la hebrea originalo, &ccirc;u la unua ekzemplo vere
+    montras la modernan sencon de "kontroli", a&ubreve; prefere "direkti",
+    "prizorgi". Cetere la tradukoj, kiujn mi trovas por "inspektisto"
+    en franca versio de Biblio, perpleksigas: plejofte temas pri
+    "skribisto". La ekz. el Fabeloj uzas "inspektadon" kun senco
+    proksima al "superrigardado".
+    <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_n;&c_s;&c_p;&c_e;&c_k;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>inspizieren</trd>,
+    <trd>nachpr&uuml;fen</trd>,
+    <trd>&uuml;berwachen</trd>,
+    <trd>beschauen</trd>,
+    <trd>kontrollieren</trd>
+  </trdgrp>
+  <trd lng="en">inspect</trd>
+  <trd lng="es">inspeccionar</trd>
+  <trd lng="fa">&a_b;&a_A;&a_z;&a_r;&a_s;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trdgrp lng="fr">
+    <trd>inspecter</trd>,
+    <trd>examiner<klr tip="ind"> (inspecter)</klr></trd>,
+    <trd>scruter</trd>,
+    <trd>sonder</trd>,
+    <trd>superviser</trd>,
+    <trd>v&eacute;rifier</trd>,
+    <trd>visiter<klr tip="ind"> (inspecter)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">fel&uuml;gyel</trd>
+  <trdgrp lng="ja">
+    <trd>&#x67FB;&#x5BDF;&#x3059;&#x308B;  <pr>&#x3055;&#x3055;&#x3064;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x691C;&#x67FB;&#x3059;&#x308B;  <pr>&#x3051;&#x3093;&#x3055;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x76E3;&#x67FB;&#x3059;&#x308B;  <pr>&#x304B;&#x3093;&#x3055;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">inspecteren</trd>
+  <trd lng="pt">inspecionar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_n;&c_s;&c_p;&c_je;&c_k;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_d;&c_z;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dozera&tcaron;</trd>,
+    <trd>kona&tcaron; dozor</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dohl&iacute;&zcaron;et</trd>,
+    <trd>doz&iacute;rat</trd>,
+    <trd>konat dozor</trd>,
+    <trd>konat inspekci</trd>,
+    <trd>prov&aacute;d&ecaron;t dohled</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_g;&#x43B;&#x44F;&c_d;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_je;&c_zh;&c_i;&c_t;&c_i; (&c_z;&c_a; &c_ch;&c_i;&#x43C;-&#x43D;.</trd>,
+    <trd>&#x43A;&c_i;&#x43C;-&#x43D;.)</trd>,
+    <trd>&c_ib;&#x43D;&c_s;&#x43F;&c_je;&#x43A;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x67E5;&#x770B; <pr>ch&#xE1;k&#xE0;n</pr></trd>,
+    <trd>&#x6838;&#x67E5; <pr>h&#xE9;ch&#xE1;</pr></trd>,
+    <trd>&#x7A3D;&#x67E5; <pr>j&#x12B;ch&#xE1;</pr></trd>,
+    <trd>&#x7A3D; <pr>j&#x12B;</pr></trd>,
+    <trd>&#x68C0;&#x67E5; <pr>ji&#x1CE;nch&#xE1;</pr></trd>,
+    <trd>&#x8996;&#x5BDF; <pr>sh&#xEC;ch&#xE1;</pr></trd>,
+    <trd>&#x67E5;&#x9A57; <pr>ch&#xE1;y&#xE0;n</pr></trd>,
+    <trd>&#x5BA1;&#x6838; <pr>sh&#x11B;nh&#xE9;</pr></trd>,
+    <trd>&#x5BDF; <pr>ch&#xE1;</pr></trd>,
+    <trd>&#x68C0;&#x9A8C; <pr>ji&#x1CE;ny&#xE0;n</pr></trd>,
+    <trd>&#x6537; <pr>k&#x1CE;o</pr></trd>,
+    <trd>&#x67E5; <pr>ch&#xE1;</pr></trd>,
+    <trd>&#x68C0; <pr>ji&#x1CE;n</pr></trd>,
+    <trd>&#x7A3D;&#x6838; <pr>j&#x12B;h&#xE9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inspek.0o">
+  <kap><tld/>o, <var><kap><tld/>ado</kap></var></kap>
+  <snc mrk="inspek.0i.kontrolo">
+    <dif>
+      Ago <tld/>i, detala kontrolo:
+      <ekz>
+        ili ne frotis siajn mantelbutonojn dece brilaj 
+        kaj ili ne tenis la pafilon
+        sufi&ccirc;e stre&ccirc;e &ccirc;e la parada <tld/>ado
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        montri&gcirc;is post <tld/>ado per speciala roboto, ke la 
+        reaktoroj <klr>[&#x2026;]</klr>
+        havas multajn mikroskopajn vezikojn en la metalo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Eddy Van den Bosch</aut>
+          <vrk><url ref="&Monato;/2014/011380.php">&Ccirc;u sabotado &ccirc;e nuklea centralo?</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_ib;&c_n;&c_s;&c_p;&c_e;&c_k;&c_c;&c_y;&c_ja;</trd>,
+      <trd>&c_k;&c_a;&c_n;&c_t;&c_r;&c_o;&c_l;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">Inspektion</trd>
+  </snc>
+  <snc mrk="inspek.0o.KOMUNE">
+    <dif>
+      Garda prizorgado kaj kontrolado:
+      <ekz>
+        anka&ubreve; <nom>Ester</nom> estis prenita en la re&gcirc;an domon sub la
+        <tld/>on de <nom>Hegaj</nom>, la gardisto de la virinoj
+        <fnt><bib>MT</bib>, <lok>&Est; 2:8</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind>esti prenita sub ies <tld/>on</ind>
+        <klr>(esti <ref cel="konfid.0i.pro_honesteco">konfidita</ref> al
+        tiu)</klr>;
+        <trd lng="fr">&ecirc;tre <ind>confi&eacute;</ind> &agrave; qn</trd>
+        <trd lng="hu">fel&uuml;gyelet al&aacute; vesz</trd>
+      </ekz>
+      <ekz>
+        maljuna tombistino, al kiu estis komisiita la
+        <tld/>ado super la granda florvarmejo de la Morto
+        <fnt><bib>Fab3</bib>, <lok>Historio de unu patrino</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="zorg.0o.peno">zorgo<sncref/></ref>,
+      <ref cel="rigard.super0o.kontrolo">superrigardo<sncref/></ref>
+    </refgrp>
+    <trd lng="be">&c_n;&c_a;&c_g;&c_l;&c_ja;&c_d;</trd>
+    <trdgrp lng="de">
+      <trd>Aufsicht</trd>,
+      <trd>Obhut</trd>
+    </trdgrp>
+    <trd lng="fa">&a_b;&a_A;&a_z;&a_r;&a_s;&f_y;</trd>
+    <trdgrp lng="fr">
+      <trd>inspection</trd>,
+      <trd>surveillance</trd>
+    </trdgrp>
+    <trd lng="hu">fel&uuml;gyelet</trd>
+    <trdgrp lng="zh">
+    <trd>&#x7BA1;&#x5236; <pr>gu&#x1CE;nzh&#xEC;</pr></trd>,
+    <trd>&#x68C0;&#x67E5; <pr>ji&#x1CE;nch&#xE1;</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="ja">
+    <trd>&#x67FB;&#x5BDF;  <pr>&#x3055;&#x3055;&#x3064;</pr></trd>,
+    <trd>&#x691C;&#x67FB;  <pr>&#x3051;&#x3093;&#x3055;</pr></trd>,
+    <trd>&#x76E3;&#x67FB;  <pr>&#x304B;&#x3093;&#x3055;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_g;&#x43B;&#x44F;&c_d;</trd>,
+    <trd>&c_ib;&#x43D;&c_s;&#x43F;&c_je;&#x43A;&c_c;&c_ib;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inspek.0anto">
+  <kap><tld/>anto, <var><kap><tld/>isto</kap></var></kap>
+  <snc mrk="inspek.0anto.KOMUNE">
+    <dif>
+      Oficisto komisiita por <tld/>i;
+      <ref tip="sin" cel="inspek1.0o">inspektoro</ref>:
+      <ekz>
+        la Izraelidoj havis <klr>[...]</klr> siajn <tld/>istojn,
+        kiuj servis al la re&gcirc;o pri &ccirc;iuj aferoj de la aparta&jcirc;oj
+        <fnt><bib>MT</bib>, <lok>&Kr1; 27:1</lok></fnt>.
+      </ekz>
+      <ekz>
+        mi mem administras la bienon kaj imagu, mia <tld/>isto 
+        <nom>Erofej</nom> estas rimarkinda
+        tipo
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili havas anka&ubreve; tuj la plej belan fulmotondron 
+        <klr>(&ccirc;agrenon)</klr> kun la <tld/>istoj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Postnikov</nom> estis <tld/>isto de la fervojoj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 7 (69)</lok>
+        </fnt>.
+      </ekz>
+    </dif>    
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_n;&c_s;&c_p;&c_e;&c_k;&c_t;&c_a;&c_r;</trd>,
+    <trd>&c_n;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>inspektor</trd>,
+    <trd>&uacute;&rcaron;edn&iacute; dozorce</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Inspektor</trd>,
+    <trd>Pr&uuml;fer</trd>,
+    <trd>&Uuml;berwacher</trd>,
+    <trd>Beschauer</trd>,
+    <trd>Kontrolleur</trd>
+  </trdgrp>
+  <trd lng="es">inspector</trd>
+  <trd lng="fa">&a_b;&a_A;&a_z;&a_r;&a_s;</trd>
+  <trdgrp lng="fr">
+    <trd>inspecteur</trd>,
+    <trd>contr&ocirc;leur</trd>,
+    <trd>superviseur</trd>
+  </trdgrp>
+  <trd lng="hu">fel&uuml;gyel&odblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x67FB;&#x5BDF;&#x5B98;  <pr>&#x3055;&#x3055;&#x3064;&#x304B;&#x3093;</pr></trd>,
+    <trd>&#x691C;&#x67FB;&#x5B98;  <pr>&#x3051;&#x3093;&#x3055;&#x304B;&#x3093;</pr></trd>,
+    <trd>&#x76E3;&#x67FB;&#x5F79;  <pr>&#x304B;&#x3093;&#x3055;&#x3084;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">inspecteur</trd>
+  <trd lng="pt">inspetor</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_n;&c_s;&c_p;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_n;&c_a;&c_d;&c_z;&c_i;&c_r;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dohliada&ccaron;</trd>,
+    <trd>dozorca</trd>,
+    <trd>in&scaron;pektor</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43D;&c_s;&#x43F;&c_je;&#x43A;&c_t;&#x43E;&c_r;</trd>,
+    <trd>&#x43D;&c_a;&c_g;&#x43B;&#x44F;&c_d;&c_a;&c_ch;</trd>,
+    <trd>&c_ib;&#x43D;&c_s;&#x43F;&c_ib;&c_c;&c_ib;&c_jeu;&#x43D;&c_t; (&c_z;&c_v;&c_a;&#x43D;&#x43D;&#x44F; &c_s;&c_je;&c_r;&c_je;&c_d;&#x43D;&#x44C;&#x43E;&c_g;&#x43E;
+    &c_ch;&c_i;&#x43D;&#x43E;&c_v;&#x43D;&c_i;&#x43A;&c_a;)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x76D1;&#x7763;&#x5458; <pr>ji&#x101;nd&#x16B;yu&#xE1;n</pr></trd>,
+    <trd>&#x76D1;&#x5BDF;&#x5458; <pr>ji&#x101;nch&#xE1;yu&#xE1;n</pr></trd>,
+    <trd>&#x68C0;&#x5BDF;&#x5458; <pr>ji&#x1CE;nch&#xE1;yu&#xE1;n</pr></trd>,
+    <trd>&#x8996;&#x5BDF;&#x54E1; <pr>sh&#xEC;ch&#xE1;yu&#xE1;n</pr></trd>,
+    <trd>&#x9AD8;&#x7D1A;&#x5B98;&#x54E1; <pr>g&#x101;oj&#xED;gu&#x101;nyu&#xE1;n</pr></trd>,
+    <trd>&#x68C0;&#x9A8C;&#x5458; <pr>ji&#x1CE;ny&#xE0;nyu&#xE1;n</pr></trd>,
+    <trd>&#x76D1;&#x5224;&#x5458; <pr>ji&#x101;np&#xE0;nyu&#xE1;n</pr></trd>,
+    <trd>&#x76E3;&#x5BA1;&#x54E1; <pr>ji&#x101;nsh&#x11B;nyu&#xE1;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.25 2023/02/10 08:34:16
+Dmitri Gabinski: + trd be
+
+versio 1.24 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2021/12/16 20:29:31
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+versio 1.21 2021/06/21 15:35:53
+Dmitri Gabinski: + trd be
+
+Revision 1.19  2015/11/09 21:10:15  revo
+Jeromo Va&scirc;e: + ~o
+
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+-->
+</vortaro>

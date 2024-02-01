@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: banglade.xml,v 1.13 2024/01/10 01:37:51 revo Exp $">
+<kap>
+  <rad>banglade&scirc;</rad>/o
+  <fnt><bib>RLN</bib></fnt>
+</kap>
+
+<drv mrk="banglade.B0o">
+  <kap>
+    <tld lit="B"/>o
+  </kap>
+  <mlg kod="ISO-3166">BD</mlg>
+  <snc mrk="banglade.B0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:&scirc;tatoj" cel="sxtat.0o.POL">&Scirc;tato</ref>
+      en la suda <ref tip="malprt" cel="azi.A0o">Azio</ref>
+      kun <ref tip="lst" lst="voko:&ccirc;efurboj" cel="urb.cxef0o.POL">&ccirc;efurbo</ref>
+      <ref tip="malprt" cel="dak.0o">Dako</ref>; teritorio de Popola Respubliko
+      <tld lit="B"/>o, limanta kun
+      <ref tip="vid" cel="hind.H0ujo">Hindujo</ref>,
+      <ref tip="vid" cel="birm.B0o.GEOG">Birmo</ref>
+      kaj <ref tip="vid" cel="ocean.Hinda0o">Hinda Oceano</ref>
+      (Bengala Golfo):
+      <ekz>
+        <tld lit="B"/>o restas unu el la plej malri&ccirc;aj landoj de la mondo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2009/009887.php"
+              >Mikrokreditoj: &ccirc;u helpo a&ubreve; trompo?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;o de la forgesita &jcirc;umaa popolo en <tld lit="B"/>o, vizitis Francion kaj
+        instancojn de E&ubreve;ropa Unio por atentigi pri la minacoj, multi&gcirc;antaj en lia
+        lando <klr>[&#8230;]</klr>, <tld/>anoj ricevis la rajton mortigi la lokajn lo&gcirc;antojn, bruligi
+        iliajn
+        domojn kaj akapari la terojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ren&eacute;e Triolle</aut>
+          <vrk><url ref="&Monato;/2013/010908.php"
+              >Bruligita tero, bruligitaj hejmoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_B;&c_a;&c_n;&c_g;&c_l;&c_ja;&c_d;&c_e;&c_sh;</trd>
+  <trdgrp lng="ca">
+    <trd>Bangla Desh</trd>,
+    <trd>Rep&uacute;blica Popular de Bangla Desh</trd>
+  </trdgrp>
+  <trd lng="fr">Bangladesh</trd>
+  <trd lng="id">Bangladesh</trd>
+  <trd lng="nl">Bangladesh</trd>
+  <trdgrp lng="pl">
+    <trd>Bangladesz</trd>,
+    <trd>Ludowa Republika <ind>Bangladeszu</ind></trd>
+  </trdgrp>
+  <trd lng="pt">Bangladesh</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.13 2024/01/10 01:37:51
+Vito Redsky: +ref tip
+
+versio 1.12 2022/04/26 15:00:32
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.11 2021/03/26 14:53:48
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.9  2019/02/13 18:10:24  revo
+Wolfram Diestel: +ekz-oj, lst sxtatoj
+
+Revision 1.8  2014/06/03 10:10:42  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.7  2013/12/10 13:10:22  revo
+Damien Brucker: +trd fr
+
+Revision 1.6  2013/02/11 04:10:14  revo
+Evandro Avellar: Tr+ pt
+
+Revision 1.5  2013/02/04 12:10:23  revo
+-->
+</vortaro>

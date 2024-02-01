@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: eksper1.xml,v 1.21 2023/11/07 19:22:36 revo Exp $">
+<kap>
+  <rad>ekspert</rad>/o 
+  <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="eksper1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="eksper1.0o.fakulo">
+    <dif>
+      <ref tip="super" cel="fak.0ulo">Fakulo</ref> kun elstara scio pri sia fako a&ubreve; subfako;
+      <ref tip="dif" cel="specia.0isto">specialisto</ref>:
+      <ekz>
+        <tld/>oj atendas plialti&gcirc;on de la ekonomia rezulto per 3,5 %
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2003/008045.html">Balkanio likvidas ekonomian malfrui&gcirc;on</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Jac Maris</nom> pro siaj ceramika&jcirc;oj estis fama glazur<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Kees Ruig</aut>
+          <vrk><url ref="&Monato;/2011/010303.php">Alise Medina ekspozicios en Nederlando</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        laborgrupo de <tld/>oj pri homoj de afrika deveno &ccirc;e Unui&gcirc;intaj Nacioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="&Monato;/2013/011169.php">&Ccirc;u rasisma? Neniel!</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        1,2 milionoj da homoj mortas pro tabako-rilataj malsanoj &ccirc;iujare <klr>[&#x2026;]</klr>
+        diras sanitaraj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2012/010706.php">Premio alfrontas premon</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiaj kolektoj stimulis la pristudadon kaj ofte la posedanto
+        petis
+        la konsilon de <tld/>oj<fnt><aut>Johan Van Eenoo</aut>: <vrk>La
+        bru&gcirc;a Centuriae plantarum rariorum retrovita en
+        Krakovo</vrk>,
+        <bib>Monato</bib><lok>jaro 1998a, numero 1a, p. 16a</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi estas <tld/>o pri nigra magio<fnt><bib>MkM</bib>,
+        <lok>&ccirc;ap. 1a,
+        p. 14a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    Pro sia speciala scio, <tld/>o povas esti taskita kiel <ref cel="eksper2.0isto">ekspertizisto</ref>:
+      <ekz>
+        en sia 48-pa&gcirc;a raporto la germana <tld/>o prof. <nom>Emil Josse</nom>, al kiu la
+        ju&gcirc;esploristo komisiis esplori la teknikan flankon de la evoluo de la
+        incendio, konkludis, ke la konstrua&jcirc;o <klr>[&#x2026;]</klr> ne povas esti bruligita
+        de nur unu homo per tor&ccirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Dimitar Ha&gcirc;iev</aut>
+          <vrk><url ref="&Monato;/2007/009286.php">La tri turoj de MKC (6)</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+  </rim>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_k;&c_s;&c_p;&c_e;&c_r;&c_t;</trd>,
+    <trd>&c_a;&c_d;&c_m;&c_y;&c_s;&c_l;&c_o;&c_v;&c_je;&c_c;</trd>,
+    <trd>&c_s;&c_p;&c_e;&c_c;&c_y;&c_ja;&c_l;&c_ib;&c_s;&c_t;</trd>,
+    <trd>&c_z;&c_n;&c_a;&c_w;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_je;&c_k;&c_s;&c_p;&c_je;&c_r;&c_t;</trd>,
+    <trd>&c_s;&c_p;&c_je;&c_c;&c_i;&c_a;&c_l;&c_i;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>expert</trd>,
+    <trd>t&egrave;cnic</trd>,
+    <trd>especialista</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odborn&iacute;k</trd>,
+    <trd>specialista</trd>,
+    <trd>znalec</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Fachmann</trd>,
+    <trd>Experte</trd>,
+    <trd>Kenner der Materie</trd>,
+    <trd>Spezialist</trd>
+  </trdgrp>
+  <trd lng="es">experto</trd>
+  <trdgrp lng="fr">
+    <trd>connaisseur</trd>,
+    <trd>expert</trd>,
+    <trd>sp&eacute;cialiste</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ekspert</trd>,
+    <trd>specjalista</trd>,
+    <trd>bieg&lstroke;y</trd>,
+    <trd>znawca</trd>,
+    <trd>rzeczoznawca</trd>,
+    <trd>fachowiec</trd>
+  </trdgrp>
+  <trd lng="pt">expert</trd>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_k;&c_s;&c_p;&c_je;&c_r;&c_t;</trd>,
+    <trd>&c_z;&c_n;&c_a;&c_t;&c_o;&c_k;</trd>,
+    <trd>&c_s;&c_p;&c_je;&c_c;&c_i;&c_a;&c_l;&c_i;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odborn&iacute;k</trd>,
+    <trd>znalec</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x435;&#x43A;&#x441;&#x43F;&#x435;&#x440;&#x442;</trd>,
+    <trd>&#x437;&#x43D;&#x430;&#x432;&#x435;&#x446;&#x44C;</trd>,
+    <trd>&#x444;&#x430;&#x445;&#x456;&#x432;&#x435;&#x446;&#x44C;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E13;&#x4EBA; <pr>zhu&#x101;nr&#xE9;n</pr></trd>,
+    <trd>&#x4E13;&#x5BB6; <pr>zhu&#x101;nji&#x101;</pr></trd>,
+    <trd>&#x4E13;&#x4E1A;&#x804C;&#x5458; <pr>zhu&#x101;ny&#xE8;zh&#xED;yu&#xE1;n</pr></trd>,
+    <trd>&#x4E13;&#x95E8;&#x5BB6; <pr>zhu&#x101;nm&#xE9;nji&#x101;</pr></trd>,
+    <trd>&#x9AD8;&#x624B; <pr>g&#x101;osh&#x1D2;u</pr></trd>,
+    <trd>&#x624B; <pr>sh&#x1D2;u</pr></trd>,
+    <trd>&#x884C;&#x5BB6; <pr>h&#xE1;ngjia</pr></trd>,
+    <trd>&#x4E13;&#x624D; <pr>zhu&#x101;nc&#xE1;i</pr></trd>,
+    <trd>&#x80FD;&#x624B; <pr>n&#xE9;ngsh&#x1D2;u</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2022/04/27 14:38:53
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2021/12/18 09:28:59
+Wolfram Diestel: kor. vortigon
+
+versio 1.17 2020/11/21 08:32:47
+Wolfram Diestel: ghustigis dif, ref-oj, ekz-oj, rim
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/09/05 08:10:37  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2010/01/13 17:30:47  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2008/02/09 17:30:35  revo
+Wieland Pusch: +trd bg
+
+Revision 1.11  2007/06/23 16:30:59  revo
+-->
+</vortaro>

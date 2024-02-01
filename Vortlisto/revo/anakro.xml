@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: anakro.xml,v 1.24 2023/10/12 18:05:09 revo Exp $">
+<kap>
+  <ofc>2</ofc> <rad>anakronism</rad>/o,
+  <var><kap><rad var="&hcirc;">ana&hcirc;ronism</rad>/o</kap></var>
+</kap>
+<drv mrk="anakro.0o">
+  <kap><tld/>o, <var><kap><tld var="&hcirc;"/>o</kap></var></kap>
+  <snc mrk="anakro.0o.eraro">
+    <dif>
+      Eraro pri dato de historia&jcirc;o:
+      <ekz>
+        en la teksto mem estas eraretoj kaj <tld/>oj, aperintaj, kiam la a&ubreve;toro por
+        plibeligi &gcirc;in, uzis nekontrolitajn historiajn faktojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2004/008392.html">Reveno de heroo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Datierungsfehler</trd>
+  </snc>
+  <snc mrk="anakro.0o.netempajxo">
+    <dif>
+      Afero ne konforma kun kutimoj de difinita epoko:
+      <ekz>
+        <nom>Shakespeare</nom>
+        <tld/>e paroligas grekojn pri horlo&gcirc;oj;
+      </ekz>
+      <ekz>
+        brita fideleco al la krono kaj al la virino, kiu nun portas &gcirc;in dum la tiel
+        nomataj &scirc;tat-okazoj (efektive re&gcirc;aj spektakloj), estas <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>W. H. Simcock</aut>
+          <vrk><url ref="&Monato;/2005/008702.php">Monarkia mistiko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li asertis, ke la malnova Le&gcirc;o de la judoj i&gcirc;is <tld var="&hcirc;"/>o post la
+        morto kaj relevi&gcirc;o de <nom>Je&scirc;u</nom>
+        <fnt>
+          <aut>Trevor Steele</aut>,
+          <vrk>&Scirc;imeon, frato de Je&scirc;u</vrk>,
+          <lok>Beletra Almanako, 2013-10 (18)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Anachronismus</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_a;&c_h;&c_r;&c_a;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="cs">anachronizmus</trd>
+  <trd lng="en">anachronism</trd>
+  <trd lng="es">anacronismo</trd>
+  <trd lng="fr">anachronisme</trd>
+  <trdgrp lng="he">
+    <trd>&#x5D0;&#x5E0;&#x5DB;&#x5E8;&#x5D5;&#x5E0;&#x5D9;&#x5D6;&#x5DD;</trd>,
+    <trd>&#x5DE;&#x5D9;&#x5D5;&#x5E9;&#x5E0;&#x5D5;&#x5EA;</trd>
+  </trdgrp>
+  <trd lng="hu">anakronizmus</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6642;&#x4EE3;&#x932F;&#x8AA4;  <pr>&#x3058;&#x3060;&#x3044;&#x3055;&#x304F;&#x3054;</pr></trd>,
+    <trd>&#x6642;&#x4EE3;&#x9045;&#x308C;  <pr>&#x3058;&#x3060;&#x3044;&#x304A;&#x304F;&#x308C;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">anachronisme</trd>
+  <trd lng="pl">anachronizm</trd>
+  <trd lng="ru">&c_a;&c_n;&c_a;&c_h;&c_r;&c_o;&c_n;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">anachronizmus</trd>
+  <trd lng="uk">&#x430;&#x43D;&#x430;&#x445;&#x440;&#x43E;&#x43D;&#x456;&#x437;&#x43C;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.22 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.19 2020/09/09 19:10:33
+Wolfram Diestel: +tld-var
+
+Revision 1.17  2015/10/14 13:10:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2003/11/05 17:30:33  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/02/16 17:33:08  revo
+Ulrich Fellmann: kor de 1 trd=de
+
+Revision 1.13  2003/02/15 17:33:32  revo
+-->
+</vortaro>

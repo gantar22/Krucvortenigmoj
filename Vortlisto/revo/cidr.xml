@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: cidr.xml,v 1.28 2023/10/31 13:37:03 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>cidr</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="cidr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="cidr.0o.KUI">
+  <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="dif" cel="vin.pom0o.KUI">Pomvino</ref>:
+      <ekz>
+        dum en la nordo de Hispanujo kaj en Germanujo oni plej multe
+        trinkas sengasan pomvinon, en la cetero de la mondo oni kutimas trinki
+        &scirc;a&ubreve;man <tld/>on
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=378506">Cidro</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_ib;&c_d;&c_a;&c_r;</trd>
+    <trd lng="br">sistr</trd>
+    <trdgrp lng="de">
+      <trd>Apfelwein</trd>
+      <trd>Saurer Most <klr>(regione)</klr></trd>
+      <trd>Viez <klr>(luksemburge, sarlande, moselregione)</klr></trd>
+      <trd>Ebbelwoi <klr>(frankfurtmajne)</klr></trd>
+      <trd>sure Moscht <klr>(svisgermane)</klr></trd>
+      <trd>Zider <klr>(rare)</klr></trd>
+    </trdgrp>
+    <trd lng="el">&my;&eta;&lambda;&omikron_ton;&chi;&ypsilon;&my;&omikron;&sigma_fina;</trd>
+    <trd lng="fr">cidre</trd>
+    <trd lng="es">sidra</trd>
+    <trd lng="hu">almabor</trd>
+    <trd lng="it">sidro</trd>
+    <trd lng="nl">cider</trd>
+    <trdgrp lng="pl">
+      <trd>cydr<klr> (rzadk.)</klr></trd>,
+      <trd>jab&lstroke;ecznik</trd>
+    </trdgrp>
+    <trd lng="pt">cidra</trd>
+    <trd lng="ru">&c_s;&c_i;&c_d;&c_r;</trd>
+    <trd lng="tr">elma &scedil;arab&inodot;</trd>
+    <trd lng="zh">&#x82F9;&#x679C;&#x9152; <pr>p&#xED;nggu&#x1D2;ji&#x1D4;</pr></trd>
+</snc>
+  <trdgrp lng="cs">
+    <trd>cidre</trd>,
+    <trd>hru&scaron;kov&eacute; v&iacute;no</trd>,
+    <trd>jable&ccaron;n&eacute; v&iacute;no</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&samekh;&yod;&yod;&dalet;&resh;</trd>,
+    <trd>&mem;&yod;&ftsadi; &tav;&pe;&vav;&het;&yod; &ayin;&ftsadi;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30EA;&#x30F3;&#x30B4;&#x9152;  <pr>&#x308A;&#x3093;&#x3054;&#x3057;&#x3085;</pr></trd>,
+    <trd>&#x30B7;&#x30FC;&#x30C9;&#x30EB;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cider</trd>,
+    <trd>jabl&ccaron;n&eacute; v&iacute;no</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_i;&c_d;&c_r;</trd>
+</drv>
+</art>
+
+<!--
+
+$Log$
+versio 1.27 2023/10/14 11:10:02
+revo: transskribo per <pr>
+
+versio 1.25 2022/08/22 22:30:29
+Jeromo Vasxe: ref dif
+
+versio 1.24 2022/05/03 14:00:03
+Ulrich Fellmann: cidro: +4 pliaj DE trdj +rim. pri uzareoj
+
+Revision 1.20  2016/11/23 20:10:17  revo
+Wolfram Diestel: ref-oj, ekz-o
+
+Revision 1.19  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2009/08/27 16:31:28  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.16  2009/08/08 16:32:42  revo
+-->
+
+</vortaro>

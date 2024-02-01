@@ -1,0 +1,827 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: glor.xml,v 1.42 2023/11/11 11:36:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>glor</rad>/i
+</kap>
+<drv mrk="glor.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Honori iun donante al li grandan famecon, konigante &ccirc;ien
+      lian indecon, publikigante sian admiron; la&ubreve;degi:
+      <ekz>
+        mi <tld/>is la Eternulon, la Dion de mia sinjoro <nom>Abraham</nom>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 24:48</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>u la forton de Dio
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 68:34</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        atletoj fakte estas <klr>[&#x2026;]</klr> <tld/>itaj ikonoj de individuismo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Husejn Al-Amily</aut>
+          <vrk><url ref="&Monato;/2004/008404.html">Elmontri belecon de
+          sporto</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi &gcirc;ojus, se min <tld/>us la popolo
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>u la noblan hegemonon
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>!
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="honor.0i">honori</ref>,
+      <ref cel="lauxd.0i">la&ubreve;di</ref>,
+      <ref cel="ovaci.0i">ovacii</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_l;&c_a;&c_v;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_s;&c_l;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_s;&c_l;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>r&uuml;hmen</trd>,
+    <trd>ehren</trd>,
+    <trd>preisen</trd>
+  </trdgrp>
+  <trd lng="en">glorify</trd>
+  <trd lng="es">glorificar</trd>
+  <trdgrp lng="fr">
+    <trd>glorifier</trd>,
+    <trd>rendre <ind>gloire</ind> (&agrave;)</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>dics&odblac;&iacute;t</trd>,
+    <trd>magasztal</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x307B;&#x3081;&#x305F;&#x305F;&#x3048;&#x308B;</trd>,
+    <trd>&#x79F0;&#x8CDB;&#x3059;&#x308B;  <pr>&#x3057;&#x3087;&#x3046;&#x3055;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x9855;&#x5F70;&#x3059;&#x308B;  <pr>&#x3051;&#x3093;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6804;&#x5149;&#x3092;&#x305F;&#x305F;&#x3048;&#x308B;  <pr>&#x3048;&#x3044;&#x3053;&#x3046;&#x3092;&#x305F;&#x305F;&#x3048;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>eren</trd>,
+    <trd>roemen</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>glorificar</trd>, 
+   <trd>celebrar</trd> 
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_l;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_l;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+    <trd>ululamak</trd>,
+    <trd>y&uuml;celtmek</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>oslavova&tcaron;</trd>,
+    <trd>velebi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>slavit</trd>,
+    <trd>velebit</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43B;&c_a;&c_v;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_s;&#x43B;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_sh;&c_a;&#x43D;&c_u;/&c_ch;&c_je;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_h;&c_v;&c_a;&#x43B;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_je;&#x43B;&c_i;&c_ch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_v;&c_je;&#x43B;&c_i;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x980C; <pr>s&#xF2;ng</pr></trd>,
+    <trd>&#x5609;&#x8A31; <pr>ji&#x101;x&#x1D4;</pr></trd>,
+    <trd>&#x8B9A;&#x8B7D; <pr>z&#xE0;ny&#xF9;</pr></trd>,
+    <trd>&#x95C1; <pr>b&#x101;o</pr></trd>,
+    <trd>&#x8912; <pr>b&#x101;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glor.sin0i">
+  <kap>sin <tld/>i</kap>
+  <snc>
+    <dif>
+      Malmodeste la&ubreve;di sin mem:
+      <ekz>
+        kiu nenion valoras, plej multe sin <tld/>as
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
+      <ekz>
+        <ind>kiu mem sin <tld/>as, malbone odoras</ind>
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+        <trd lng="de">Eigenlob stinkt</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fanfar1.0i">fanfaroni</ref>,
+      <ref cel="fier.0i">fieri</ref>,
+      <ref cel="vant.0a">vanta</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_h;&c_v;&c_a;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
+  <trd lng="de">sich <ind>r&uuml;hmen</ind></trd>
+  <trdgrp lng="fr">
+    <trd>se <ind>glorifier</ind></trd>,
+    <trd>s'<ind>enorgueillir</ind></trd>,
+    <trd>se <ind>targuer</ind></trd>
+  </trdgrp>
+  <trd lng="hu">dicsekszik</trd>
+  <trd lng="nl">pochen</trd>
+  <trd lng="pt">ufanar-se</trd>
+  <trdgrp lng="ru">
+    <trd>&c_h;&c_v;&c_a;&c_l;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_h;&c_v;&c_a;&c_l;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_k;&c_i;&c_ch;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glor.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Famobrilo; admiro de la plejmulto por ies merito, talento, genio:
+      <ekz>
+        ni konstruu al ni urbon, kaj turon, kies supro atingos la &ccirc;ielon, kaj ni akiru
+        al ni <tld/>on, anta&ubreve; ol ni disi&gcirc;os
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 11:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili turni&gcirc;is al la dezerto, kaj jen la <tld/>o de la Eternulo aperis en nubo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 16:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro la <tld/>o de <nom>Allah</nom>, kies nomo estas benita
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vin tiklas <tld/>o kaj <ref cel="honor.0o">honoro</ref>
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Tria</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        la societo <klr>[&#x2026;]</klr> invitas parolantojn kun nacia a&ubreve; internacia <tld/>o
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la komenco de la jaro 1887 <klr>[&#x2026;]</klr> <nom>Volap&uuml;k</nom>
+        havis en la tuta mondo grandegan <tld/>on kaj rapidege progresadis
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni ne pagas per <tld/>o al sia tajloro
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
+      <ekz>
+        bona <tld/>o pli valoras ol oro
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc>
+    <dif>
+      <tld lit="G"/>iga persono a&ubreve; afero; fierinda&jcirc;o:
+      <ekz>
+        longe, ho, restu vi <tld/>o de la naci', sur re&gcirc;a se&gcirc;'
+        <fnt>
+          <bib>FK</bib>
+        </fnt>!
+      </ekz>
+      <ekz>
+        Li estas via <tld/>o, kaj Li estas via Dio, kiu faris por vi tiujn grandajn kaj
+        timindajn aferojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 10:21</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="esper.0o.priesperajxo">espero<sncref/></ref>,
+      <ref cel="gxoj.0o.kauxzo">&gcirc;ojo<sncref/></ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_l;&c_a;&c_v;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>chlouba</trd>,
+    <trd>sl&aacute;va</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Ruhm</trd>,
+    <trd>Ehre</trd>,
+    <trd>Preis <klr>(Ehre)</klr></trd>
+  </trdgrp>
+  <trd lng="en">glory</trd>
+  <trd lng="es">gloria</trd>
+  <trdgrp lng="fr">
+    <trd>gloire</trd>,
+    <trd>c&eacute;l&eacute;brit&eacute;</trd>,
+    <trd>fleuron</trd>
+  </trdgrp>
+  <trd lng="hu">dics&odblac;s&eacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6804;&#x8A89;  <pr>&#x3048;&#x3044;&#x3088;</pr></trd>,
+    <trd>&#x79F0;&#x8CDB;  <pr>&#x3057;&#x3087;&#x3046;&#x3055;&#x3093;</pr></trd>,
+    <trd>&#x6804;&#x5149;  <pr>&#x3048;&#x3044;&#x3053;&#x3046;</pr></trd>,
+    <trd>&#x6804;&#x8A89;&#x3092;&#x3082;&#x305F;&#x3089;&#x3059;&#x3082;&#x306E;&#x30FB;&#x4EBA;  <pr>&#x3048;&#x3044;&#x3088;&#x3092;&#x3082;&#x305F;&#x3089;&#x3059;&#x3082;&#x306E;&#x30FB;&#x3058;&#x3093;</pr></trd>,
+    <trd>&#x8A87;&#x308A;  <pr>&#x307B;&#x3053;&#x308A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>eer</trd>,
+    <trd>roem</trd>
+  </trdgrp>
+  <trd lng="pt">gl&oacute;ria</trd>
+  <trd lng="ru">&c_s;&c_l;&c_a;&c_v;&c_a;</trd>
+  <trd lng="sk">sl&aacute;va</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43B;&c_a;&c_v;&c_a;</trd>,
+    <trd>&c_ch;&c_je;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_sh;&c_a;&#x43D;&c_a;</trd>,
+    <trd>&c_h;&c_v;&c_a;&#x43B;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x540D;&#x8A89; <pr>m&#xED;ngy&#xF9;</pr></trd>,
+    <trd>&#x5149; <pr>gu&#x101;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glor.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Posedanta <tld/>on:
+      <ekz>
+        <nom>David</nom> agis pli prudente ol &ccirc;iuj servantoj de <nom>Saul</nom>, kaj lia nomo
+        fari&gcirc;is tre
+        <tld/>a
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Samuel 18:30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la religio inspiris grandan parton de la kultura trezoro de la homaro: <tld/>ajn
+        majstroverkojn de arto, muziko kaj literaturo
+        <fnt>
+       <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2000/006847.php">Sobraj pensoj de sobrulo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;milito&rightquot; &dash; vorto mita kaj magia, <tld/>a por la patriotoj
+        <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio: 
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kelkaj el la plej <tld/>aj kaj famaj brazilaj poetoj, kiuj meritas esti konataj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2008/009404.php">Inspira antologio</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fam.0a">fama</ref>,
+      <ref cel="presti1.0a">presti&gcirc;a</ref>.
+    </refgrp>
+  </snc>
+  <snc>
+    <dif>
+      Donanta <tld/>on, <tld/>iga:
+      <ekz>
+        kun la soldatoj li celebris mesojn kaj pre&gcirc;is por ilia <tld/>a venko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jomo Ipfelkofer</aut>
+          <vrk><url ref="&Monato;/2009/009823.php">Postaj tempoj eble pli bone
+          komprenos min</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malgra&ubreve; kompleta malvenko <klr>[ili]</klr> konsideras la tagon sankta kaj <tld/>a
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2008/009576.php">Memorante miton</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvin <tld/>aj jaroj
+        <fnt>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2001/007334.php">Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/02, p. 8</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        fini&gcirc;is la plej <tld/>a epizodo en la historio de nia Serenega Respubliko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2006/008875.php">Mallonga historio de la evonima
+          milito</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_l;&c_a;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_u;&c_s;&c_l;&c_a;&c_w;&c_l;&c_je;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="cs">slavn&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>r&uuml;hmlich</trd>,
+    <trd>glorreich</trd>
+  </trdgrp>
+  <trd lng="en">glorious</trd>
+  <trdgrp lng="fr">
+    <trd>glorieux</trd>,
+    <trd>illustre</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>dics&odblac;</trd>,
+    <trd>dics&odblac;s&eacute;ges</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6804;&#x5149;&#x3042;&#x308B;  <pr>&#x3048;&#x3044;&#x3053;&#x3046;&#x3042;&#x308B;</pr></trd>,
+    <trd>&#x8F1D;&#x304B;&#x3057;&#x3044;  <pr>&#x304B;&#x304C;&#x3084;&#x304B;&#x3057;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>eervol</trd>,
+    <trd>roemrijk</trd>
+  </trdgrp>
+  <trd lng="pt">glorioso</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_l;&c_a;&c_v;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_l;&c_a;&c_v;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">sl&aacute;vny</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43B;&c_a;&c_v;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_s;&#x43B;&c_a;&c_v;&#x43B;&c_je;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_s;&#x43F;&#x43E;&c_v;&#x43D;&c_je;&#x43D;&c_i;&c_j; &c_s;&#x43B;&c_a;&c_v;&c_i;</trd>,
+    <trd>&c_z;&#x43D;&c_a;&#x43C;&c_je;&#x43D;&c_i;&c_t;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x54BA; <pr>xu&#x1CE;n</pr></trd>,
+    <trd>&#x66DC; <pr>y&#xE0;o</pr></trd>,
+    <trd>&#x8000; <pr>y&#xE0;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glor.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      La&ubreve; <tld/>a maniero:
+      <ekz>
+        li <tld/>e venkis
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne <tld/>e estas ser&ccirc;i sian <tld/>on
+        <fnt><bib>MT</bib>, <lok>&Sen; 25:27</lok></fnt>;
+      </ekz>
+      <ekz>
+        la urbo &Gcirc;enevo <klr>[&#x2026;]</klr> multajn fojojn <tld/>e enskribis sian nomon en la
+        historion de <klr>[&#x2026;]</klr> internaciaj aferoj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_l;&c_a;&c_w;&c_n;&c_a;</trd>
+  <trd lng="cs">slavn&ecaron;</trd>
+  <trdgrp lng="de">
+    <trd>r&uuml;hmlich</trd>,
+    <trd>glorreich</trd>
+  </trdgrp>
+  <trd lng="fr">glorieusement</trd>
+  <trdgrp lng="hu">
+    <trd>dics&odblac;s&eacute;gesen</trd>,
+    <trd>dics&odblac; m&oacute;don</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6804;&#x5149;&#x306B;&#x6E80;&#x3061;&#x3066;  <pr>&#x3048;&#x3044;&#x3053;&#x3046;&#x306B;&#x307F;&#x3061;&#x3066;</pr></trd>,
+    <trd>&#x8F1D;&#x304B;&#x3057;&#x304F;  <pr>&#x304B;&#x304C;&#x3084;&#x304B;&#x3057;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>eervol</trd>,
+    <trd>roemrijk</trd>
+  </trdgrp>
+  <trd lng="pt">gloriosamente</trd>
+  <trd lng="ru">&c_s;&c_l;&c_a;&c_v;&c_n;&c_o;</trd>
+  <trd lng="sk">sl&aacute;vne</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_ib; &c_s;&#x43B;&c_a;&c_v;&#x43E;&#x44E;</trd>,
+    <trd>&c_u; &c_s;&#x43B;&c_a;&c_v;&c_ib;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glor.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      <klr>(io)</klr> Esti la ka&ubreve;zo de la granda fameco, &ccirc;iekonateco de iu
+      a&ubreve; io:
+      <ekz>
+        vi plenumos verkon, kiu <tld/>igados vian nomon, &gcirc;is estingi&gcirc;os la suno
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="glor.0igi.instigi">
+    <dif>
+      <klr>(iu)</klr> Instigi <tld/>adon al:
+      <ekz>
+        ili same volis <tld/>igi entuziasmulojn, kiuj aperas en &ccirc;iuj tempoj kaj sub &ccirc;iuj
+        re&gcirc;imoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nina Kor&jcirc;enevskaja-Gouriou</aut>
+          <vrk><url ref="&Monato;/2006/008819.php">Kial lundo ekas sabate?</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        registaroj tute senhonte <tld/>igas sin
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Karles Berga kaj Molina</aut>
+          <vrk><url ref="&Monato;/2008/009483.php">&Ccirc;u bojkoto? (2)</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_s;&c_l;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_s;&c_l;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">proslavit</trd>
+  <trd lng="de">r&uuml;hmen</trd>
+  <trdgrp lng="fr">
+    <trd>concourir &agrave; la gloire (de)</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>dics&odblac;s&eacute;get szerez</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6804;&#x8A89;&#x3092;&#x4E0E;&#x3048;&#x308B;  <pr>&#x3048;&#x3044;&#x3088;&#x3092;&#x3042;&#x305F;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x6804;&#x5149;&#x3092;&#x3082;&#x305F;&#x3089;&#x3059;  <pr>&#x3048;&#x3044;&#x3053;&#x3046;&#x3092;&#x3082;&#x305F;&#x3089;&#x3059;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>roemen</trd>,
+    <trd>eren</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_l;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol;
+    <ind>&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_n;&c_y;&c_m;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">presl&aacute;vi&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_s;&#x43B;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_v;&c_je;&#x43B;&c_i;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x980C; <pr>s&#xF2;ng</pr></trd>,
+    <trd>&#x6807;&#x699C; <pr>bi&#x101;ob&#x1CE;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glor.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <ref cel="fam.mis0igi">Misfamigi</ref>; diskonigi la malbonan
+      famon de iu a&ubreve; de io:
+      <ekz>
+        mal<tld/>i friponon.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_n;&c_mol;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_g;&c_a;&c_n;&c_mol;&c_b;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_g;&c_a;&c_n;&c_mol;&c_b;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_g;&c_a;&c_n;&c_mol;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_ja;&c_s;&c_l;&c_a;&c_v;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_b;&c_n;&c_ja;&c_s;&c_l;&c_a;&c_v;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>potupit</trd>,
+    <trd>zahanbit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>schm&auml;hen</trd>,
+    <trd>verfemen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;crier</trd>,
+    <trd>d&eacute;noncer<klr tip="ind"> (vilipender)</klr></trd>,
+    <trd>vilipender</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&oacute;cs&aacute;rol</trd>,
+    <trd>szid</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3051;&#x306A;&#x3059;</trd>,
+    <trd>&#x4E2D;&#x50B7;&#x3059;&#x308B;  <pr>&#x3061;&#x3085;&#x3046;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x540D;&#x8A89;&#x3092;&#x50B7;&#x3064;&#x3051;&#x308B;  <pr>&#x3081;&#x3044;&#x3088;&#x3092;&#x304D;&#x305A;&#x3064;&#x3051;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">onteren</trd>
+  <trdgrp lng="pt">
+   <trd>desonrar</trd>, 
+   <trd>infamar</trd> 
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_p;&c_o;&c_z;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_je;&c_s;&c_ch;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_je;&c_s;&c_s;&c_l;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>potupi&tcaron;</trd>,
+    <trd>zahanbi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_a;&#x43D;&#x44C;&c_b;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_ch;&c_je;&c_s;&c_t;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8B3E;&#x7F75; <pr>m&#xE1;nm&#xE0;</pr></trd>,
+    <trd>&#x5470; <pr>z&#x1D0;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glor.mal0o">
+  <kap>mal<tld/>o</kap>
+  <snc>
+    <dif>
+      Malbonfamo, mal&scirc;ato de la plejmulto por ies morala a&ubreve;
+      intelekta valoro:
+      <ekz>
+        akiri, meriti mal<tld/>on;
+      </ekz>
+      <ekz>
+        en &ccirc;io ni aprobigu nin, kiel servantoj de Dio <klr>[&#x2026;]</klr> per <tld/>o kaj
+        mal<tld/>o, per malbonfamo kaj bonfamo <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Korintanoj 6:8</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_n;&c_mol;&c_b;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>hanba</trd>,
+    <trd>potupa</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schmach</trd>,
+    <trd>Schande</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>honte</trd>,
+    <trd>infamie</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>gyal&aacute;zat</trd>,
+    <trd>cs&uacute;fs&aacute;g</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x540D;&#x8A89;  <pr>&#x3075;&#x3081;&#x3044;&#x3088;</pr></trd>,
+    <trd>&#x6065;&#x8FB1;  <pr>&#x3061;&#x3058;&#x3087;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>oneer</trd>,
+    <trd>infamie</trd>
+  </trdgrp>
+  <trd lng="pt">desonra</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_z;&c_o;&c_r;</trd>,
+    <trd>&c_b;&c_je;&c_s;&c_ch;&c_je;&c_s;&c_t;&c_i;&c_je;</trd>,
+    <trd>&c_b;&c_je;&c_s;&c_s;&c_l;&c_a;&c_v;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hana</trd>,
+    <trd>potupa</trd>,
+    <trd>zneuctenie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_a;&#x43D;&#x44C;&c_b;&c_a;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_ch;&c_je;&c_s;&c_t;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x73B7; <pr>di&#xE0;n</pr></trd>,
+    <trd>&#x6065;&#x8FB1; <pr>ch&#x1D0;r&#x1D4;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glor.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc>
+    <dif>
+      Havanta mal<tld/>on:
+      <ekz>
+        la dramo de <nom>Nobel</nom> prezentas imponan dramigon de la tordado de doktrinoj en tiu
+        mal<tld/>a periodo de la &leftquot;kristana&rightquot; E&ubreve;ropo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2004/008131.html">Bone prezentita dramo
+          malkvietiga</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_n;&c_je;&c_b;&c_n;&c_y;</trd>
+  <trd lng="cs">potupn&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>unr&uuml;hmlich</trd>,
+    <trd>schm&auml;hlich</trd>
+  </trdgrp>
+  <trd lng="hu">dicstelen</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x540D;&#x8A89;&#x306A;  <pr>&#x3075;&#x3081;&#x3044;&#x3088;&#x306A;</pr></trd>,
+    <trd>&#x6C5A;&#x8FB1;&#x306B;&#x6E80;&#x3061;&#x305F;  <pr>&#x3051;&#x304C;&#x8FB1;&#x306B;&#x307F;&#x3061;&#x305F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">eerloos</trd>
+  <trd lng="pt">ingl&oacute;rio</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_z;&c_o;&c_r;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_s;&c_s;&c_l;&c_a;&c_v;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">potupn&yacute;</trd>
+  <trd lng="uk">&c_g;&c_a;&#x43D;&c_je;&c_b;&#x43D;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x51FA;&#x540D; <pr>b&#xF9;ch&#x16B;m&#xED;ng</pr></trd>,
+    <trd>&#x53EF;&#x6065; <pr>k&#x11B;ch&#x1D0;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glor.mal0igisen0igi">
+  <kap>mal<tld/>igi, <var><kap>sen<tld/>igi</kap></var></kap>
+  <snc>
+    <dif>
+      Esti ka&ubreve;zo de malbonfamo por iu:
+      <ekz>
+        kriante post la sangover&scirc;ado &leftquot;<nac>Allahu Akbar</nac>&rightquot; (pli malpli &leftquot;<tld lit="G"/>as dio&rightquot;),
+        ili pleje mal<tld/>igis sian dion
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2015/011443.php">Ni estas Charlie</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_n;&c_mol;&c_b;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_g;&c_a;&c_n;&c_mol;&c_b;&c_ib;&c_c;&c_mol;</trd>,
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>potupit</trd>,
+    <trd>zahanbit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>mit <ind>Schmach</ind> &uuml;berh&auml;ufen</trd>,
+    <trd>mit <ind>Schende</ind> &uuml;berh&auml;ufen</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;shonorer</trd>
+  <trd lng="hu">gyal&aacute;zatot hoz r&aacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x540D;&#x8A89;&#x3092;&#x6C5A;&#x3059;  <pr>&#x3081;&#x3044;&#x3088;&#x3092;&#x3051;&#x304C;&#x3059;</pr></trd>,
+    <trd>&#x540D;&#x3092;&#x843D;&#x3068;&#x3059;  <pr>&#x306A;&#x3092;&#x304A;&#x3068;&#x3059;</pr></trd>,
+    <trd>&#x4E0D;&#x540D;&#x8A89;&#x3092;&#x3082;&#x305F;&#x3089;&#x3059;  <pr>&#x3075;&#x3081;&#x3044;&#x3088;&#x3092;&#x3082;&#x305F;&#x3089;&#x3059;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">onteren</trd>
+  <trd lng="ru">&c_o;&c_p;&c_o;&c_z;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>potupi&tcaron;</trd>,
+    <trd>zahanbi&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glor.mal0iga">
+  <kap>mal<tld/>iga</kap>
+  <snc>
+    <dif>
+      Donanta mal<tld/>on.
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_n;&c_je;&c_b;&c_n;&c_y;</trd>
+  <trd lng="cs">potupn&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>schm&auml;hlich</trd>,
+    <trd>sch&auml;ndlich</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;shonorant</trd>
+  <trd lng="hu">gyal&aacute;zatot hoz&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x540D;&#x3092;&#x6C5A;&#x3059;  <pr>&#x306A;&#x3092;&#x3051;&#x304C;&#x3059;</pr></trd>,
+    <trd>&#x5C48;&#x8FB1;&#x7684;&#x306A;  <pr>&#x304F;&#x3064;&#x3058;&#x3087;&#x304F;&#x3066;&#x304D;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">onterend</trd>
+  <trd lng="ru">&c_p;&c_o;&c_z;&c_o;&c_r;&c_ja;&c_shch;&c_i;&c_j;</trd>
+  <trd lng="sk">potupn&yacute;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x5149;&#x5F69; <pr>b&#xF9;gu&#x101;ngc&#x1CE;i</pr></trd>,
+    <trd>&#x65E0;&#x803B; <pr>w&#xFA;ch&#x1D0;</pr></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.41 2023/10/15 18:38:19
+revo: transskribo per <pr>
+
+versio 1.39 2023/04/22 12:42:25
+Paul Peeraerts: &steloj -> monato.be
+
+versio 1.38 2023/04/15 12:43:12
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.37 2023/04/07 15:26:57
+Paul Peeraerts: &Monato;
+
+versio 1.36 2022/05/13 14:08:19
+Wolfram Diestel: +trd de
+
+versio 1.35 2022/04/30 08:42:40
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.33 2021/02/23 21:54:58
+Wolfram Diestel: movis ~krono al "kron"
+
+versio 1.32 2021/02/22 20:37:55
+-->
+</vortaro>

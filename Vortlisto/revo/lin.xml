@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lin.xml,v 1.34 2024/01/15 19:02:15 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lin</rad>/o
+</kap>
+
+<drv mrk="lin.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="linac.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Linum</trd>);
+      <ref tip="lst" cel="veget.0ajxo" lst="voko:malpigioparencoj">vegeta&jcirc;o</ref> 
+      kun sentigaj, glatrandaj folioj,
+      neda&ubreve;raj kvinnombraj floroj kaj kun 
+      <ref tip="prt" cel="kapsul.0o.BOT">kapsuloj</ref>
+      havantan dek fakojn, kiuj enhavas po unu nigran a&ubreve; brunan semon;
+      unu specio estas kulturata
+      pro la <tld/>oleo kaj pro la fibroj uzataj por fari tolon:
+      <ekz>
+        verdis la <tld/>o, tritiko, trifolio
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>on oni &scirc;iris kaj rompis, sekigis kaj preparis
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Lino</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="lin.0o.tolo">
+    <dif>
+      Fibra&jcirc;o de ~o (a&ubreve; similuzaj urtiko, kanabo):
+      <ekz>
+        &scirc;i ser&ccirc;as <ref cel="lan.0o">lano</ref>n kaj <tld/>on, kaj volonte laboras per siaj manoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 31:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la prilaboristoj de <tld/>o kombita kaj la teksistoj de blanka tolo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 19:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la vintraj vesperoj sidadis la mastrino kun siaj servistinoj kaj &scirc;pinadis
+        lanon kaj <tld/>on
+        <fnt>
+          <bib>Fab3</bib>
+          <vrk>&Ccirc;io sur sian &gcirc;ustan lokon!</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la planko ku&scirc;is la fasko da <tld/>o, kiun &scirc;i estis &scirc;pininta el la urtikoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el <tld/>o &scirc;i trikis reton
+        <fnt>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+            <vrk><url ref="&Monato;/2000/007061.php">Ceramika&jcirc;oj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 24</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        knabo sepjara, kun kapo, blanka kiel <tld/>o
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>koloraj <klr>(pale blondaj)</klr> haroj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="tol.0o">tolo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_l;&c_jo;&c_n;</trd>
+  <trd lng="bg">&c_l;&c_je;&c_n;</trd>
+  <trdgrp lng="ca">
+    <trd>lli</trd>,
+    <trd>g&egrave;nere Linum</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Flachs</trd>,
+    <trd>Lein</trd>
+  </trdgrp>
+  <trd lng="el">&lambda;&jota;&ny;&alfa_ton;&rho;&jota;</trd>
+  <trd lng="en">flax</trd>
+  <trd lng="es">lino</trd>
+  <trd lng="fr">lin</trd>
+  <trd lng="hu">len</trd>
+  <trd lng="ja">&#x30A2;&#x30DE;  <pr>&#x3042;&#x307E;</pr></trd>
+  <trd lng="nl">vlas</trd>
+  <trd lng="pl">len</trd>
+  <trd lng="pt">linho</trd>
+  <trd lng="ru">&c_l;&c_jo;&c_n;</trd>
+  <trd lng="uk">&#x43B;&#x44C;&#x43E;&#x43D;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E9A;&#x9EBB; <pr>y&#xE0;m&#xE1;</pr></trd>,
+    <trd>&#x4E9E;&#x9EBB; <pr>y&#xE0;m&#xE1;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lin.0oleo">
+  <kap>
+    <tld/>oleo
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="ole.0o">Oleo</ref> ekstraktata el semoj de <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_l;&c_mol;&c_n;&c_ja;&c_n;&c_y;
+<ind>&c_a;&c_l;&c_je;&c_j;</ind></trd>
+  <trd lng="ca">oli de llinosa</trd>
+  <trd lng="de">Leinsamen&ouml;l</trd>
+  <trd lng="en">linseed oil</trd>
+  <trd lng="es">aceite de lino</trd>
+  <trd lng="fr">huile de lin</trd>
+  <trd lng="hu">lenolaj</trd>
+  <trd lng="ja">&#x30A2;&#x30DE;&#x30CB;&#x6CB9;  <pr>&#x30A2;&#x30DE;&#x30CB;&#x3042;&#x3076;&#x3089;</pr></trd>
+  <trd lng="nl">lijnolie</trd>
+  <trd lng="pl">olej <ind>lniany</ind></trd>
+  <trd lng="ru">&c_l;&c_mol;&c_n;&c_ja;&c_n;&c_o;&c_je; &c_m;&c_a;&c_s;&c_l;&c_o;</trd>
+  <trd lng="uk">&#x43B;&#x43B;&#x44F;&#x43D;&c_a; &#x43E;&#x43B;&c_ib;&#x44F;</trd>
+</drv>
+
+<drv mrk="lin.0oleatolo0oleumo">
+  <kap>
+    <tld/>olea tolo, <var><kap><tld/>oleumo
+  </kap></var></kap>
+  <uzo tip="fak">TEKS</uzo>
+  <snc>
+    <dif>
+      <ref cel="teks.0ajxo.TEKS">Teksa&jcirc;o</ref> nepenetrebla de akvo, dense &scirc;mirita per diversaj
+      materioj kaj oleo, iam uzita por kovri plankon ktp:
+      <ekz>
+        fabrikado de <tld/>oleumo
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2019/012262.php">Adam Smith,
+          filozofo kaj ekonomikisto</url></vrk>
+          <lok>2019/05, p. 22</lok>
+          <bib>Monato</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_n;&c_o;&c_l;&c_je;&c_u;&c_m;</trd>
+  <trd lng="bg">&c_l;&c_i;&c_n;&c_o;&c_l;&c_je;&c_u;&c_m;</trd>
+  <trd lng="ca">lin&ograve;leum</trd>
+  <trd lng="de">Linoleum</trd>
+  <trd lng="en">linoleum</trd>
+  <trd lng="fr">linoleum</trd>
+  <trd lng="hu">lin&oacute;leum</trd>
+  <trd lng="ja">&#x30EA;&#x30CE;&#x30EA;&#x30A6;&#x30E0;</trd>
+  <trd lng="nl">linoleum</trd>
+  <trd lng="pl">linoleum</trd>
+  <trd lng="pt">lin&oacute;leo</trd>
+  <trd lng="ru">&c_l;&c_i;&c_n;&c_o;&c_l;&c_je;&c_u;&c_m;</trd>
+  <trd lng="uk">&#x43B;&c_ib;&#x43D;&#x43E;&#x43B;&c_je;&c_u;&#x43C;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6F06;&#x5E03; <pr>q&#x12B;b&#xF9;</pr></trd>,
+    <trd>&#x6CB9;&#x6BE1; <pr>y&#xF3;uzh&#x101;n</pr></trd>,
+    <trd>&#x6CB9;&#x6C08; <pr>y&#xF3;uzh&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.33 2023/10/19 14:32:17
+revo: transskribo per <pr>
+
+versio 1.31 2023/05/15 12:47:36
+Paul Peeraerts: + <lok> + <aut>
+
+versio 1.30 2023/05/05 17:57:58
+revo: aktualigo URL-unuoj
+
+versio 1.29 2023/04/30 17:26:21
+Paul Peeraerts: Steloj -> monato
+
+versio 1.28 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.26 2021/10/16 16:43:56
+Wolfram Diestel: +snc fibroj, ekz-oj
+
+Revision 1.24  2013/08/27 10:10:40  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.23  2012/10/23 00:12:50  revo
+-->
+</vortaro>

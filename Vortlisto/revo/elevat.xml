@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: elevat.xml,v 1.21 2023/11/07 20:34:10 revo Exp $">
+<kap>
+  <rad>elevator</rad>/o
+  <fnt><bib>ZR</bib></fnt>
+</kap>
+<drv mrk="elevat.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">TEK</uzo>  
+  <snc>
+    <dif>
+      <ref tip="super" cel="aparat.0o.TEK">Aparato</ref> por suprenlevi &scirc;ar&gcirc;ojn, varojn, e&ccirc;
+      &scirc;ipojn:
+      <ekz>
+        oni ofte renkontas minejojn kun la grandaj cisternoformaj <tld/>oj
+        <fnt>
+          <bib>MD02</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o <klr>[servas]</klr> por suprenlevi pezajn &scirc;ar&gcirc;ojn
+        <fnt>
+          <vrk><url ref="&Viki;/Lifto">Lifto - Vikipedio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="argan.0o">argano</ref>,
+      <ref cel="kapsta.0o">kapstano</ref>,
+      <ref cel="lift.sxip0o">&scirc;iplifto</ref>,
+      <ref cel="vincx.0o">vin&ccirc;o</ref>
+    </refgrp>
+    <bld lok="&WCU;/thumb/2/22/Elevator5_k19.JPG/448px-Elevator5_k19.JPG" prm="CC BY-SA 3.0"><tld/>o por mal&scirc;argado de &scirc;ipoj
+        <fnt>
+          <aut>Ursula Horn, propra verko</aut>
+          <lok><url ref="&WCW;/File:Elevator5_k19.JPG">&WCW;/File:Elevator5_k19.JPG</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_v;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>elev&aacute;tor</trd>,
+    <trd>v&yacute;tah na obil&iacute;</trd>,
+    <trd>zdvi&zcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Hebewerk</trd>,
+    <trd>Elevator</trd>
+  </trdgrp>
+  <trd lng="en">elevator</trd>
+  <trd lng="es">elevador</trd>
+  <trd lng="fr">&eacute;l&eacute;vateur</trd>
+  <trd lng="hu">elev&aacute;tor
+      <klr>(emel&odblac;szerkezet)</klr></trd>
+  <trd lng="ja">&#x8CA8;&#x7269;&#x7528;&#x30EA;&#x30D5;&#x30C8;  <pr>&#x304B;&#x3082;&#x3064;&#x3088;&#x3046;&#x308A;&#x3075;&#x3068;</pr></trd>
+  <trd lng="pl">elewator</trd>
+  <trd lng="pt">elevador <klr tip="amb">(para cargas)</klr></trd>
+  <trd lng="ru">&c_e;&c_l;&c_je;&c_v;&c_a;&c_t;&c_o;&c_r;
+      <klr>(&c_p;&c_o;&c_d;&c_malmol;&c_jo;&c_m;&c_n;&c_o;&c_je;
+      &c_u;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>zdv&iacute;hac&iacute; stroj</trd>,
+    <trd>zdv&iacute;ha&ccaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x435;&#x43B;&#x435;&#x432;&#x430;&#x442;&#x43E;&#x440;</trd>,
+    <trd>&#x43F;&#x456;&#x434;&#x439;&#x43E;&#x43C;&#x43D;&#x438;&#x439; &#x430;&#x43F;&#x430;&#x440;&#x430;&#x442;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5347;&#x8FD0;&#x5668; <pr>sh&#x113;ngy&#xF9;nq&#xEC;</pr></trd>
+</drv>
+  </art>
+<!--
+$Log$
+versio 1.20 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+versio 1.18 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.16 2021/03/18 18:00:05
+Wolfram Diestel: +ekz, bld
+
+Revision 1.14  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2010/01/27 17:30:22  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/06/27 16:31:44  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/12/17 17:30:30  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2003/01/15 17:32:57  revo
+-->
+</vortaro>

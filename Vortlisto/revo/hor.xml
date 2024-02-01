@@ -1,0 +1,805 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hor.xml,v 1.139 2023/11/15 17:08:02 revo Exp $">
+<kap>
+ <ofc>*</ofc>
+ <rad>hor</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="hor.0o">
+ <kap><ofc>*</ofc><tld/>o</kap>
+ <snc mrk="hor.0o.tempopunkto">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      &Ccirc;iu el la 24 egaldistancaj numeritaj tempopunktoj en
+      <ref tip="malprt" cel="diurn.0o">diurno</ref>, indikataj per
+      vicmontraj numeraloj, inter kiuj la noktomezo estas la la
+      24a, kaj la tagmezo, la 12a:
+      <ekz>
+        je l' kioma <tld/>o vi tagman&gcirc;as
+        <fnt>
+          <bib>DL</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
+        kioma <tld/>o estas
+        <fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de feli&ccirc;o</lok></fnt>?
+      </ekz>
+      <ekz>
+        nun estas kvin minutoj post la tria <tld/>o
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+         la <tld/>montra ombro
+          <fnt>
+            <bib>MT</bib>
+            <lok>II. Re&gcirc;oj 20:11</lok>
+          </fnt>
+         <klr>(de la sunhorlo&gcirc;o)</klr>;
+      </ekz>
+      <ekz>
+        elirinte &ccirc;irka&ubreve; la tria <tld/>o, li vidis aliajn starantajn senokupe sur la placo
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 20:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         kiam la horlo&gcirc;o batis la na&ubreve;an <tld/>on, la ambasadoro,
+         laca de maldormo <klr>[&#x2026;]</klr> venis en la
+         &ccirc;ambron de sia edzino
+         <fnt>
+           <vrk>La karaj braceletoj</vrk>.
+           <lok>Fundamenta Krestomatio</lok>.
+         </fnt>;
+      </ekz>
+      <ekz>
+        je la 12a <tld/>o kaj duono la instruado fini&gcirc;as
+        <fnt>
+          <bib>FSI</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi venos <klr>[&#x2026;]</klr> en la posttagmezo je la 15a <tld/>o kaj 33 minutoj per
+        rekta ekspresa vagonaro
+        <fnt>
+          <bib>MMa</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="montr.hor0ilo">hormontrilo</ref>
+    </refgrp>
+    <rim>
+     La tempindiko en Esperanto estas bazita sur tiuj
+     tempopunktoj kaj konsistas el la nomo de la plej &jcirc;usa horo,
+     kaj eventuala indiko de poste pasintaj minutoj. Alivorte,
+     la <tld/>intervaloj estas numerataj per sia komenca punkto,
+     ne per la fina (do, malkiel &ccirc;e <ctl>la unua tago</ctl>,
+     <ctl>la dua jaro</ctl> ktp).
+    </rim>
+    <trd lng="de">Uhr <klr>(Stunde)</klr></trd>
+  </snc>
+  <snc mrk="hor.0o.mezurunuo">
+    <mlg>h</mlg>
+    <dif>
+      Komunuza <ref tip="super" cel="unu.mezur0o">mezurunuo</ref> de
+      <ref cel="temp.0o.FIZ">tempo</ref>, egala al 3600
+      <ref tip="prt" cel="sekund.0o">sekundoj</ref>:
+      <ekz>
+        sesdek minutoj faras unu <tld/>on, kaj dudek kvar <tld/>oj faras unu plentagon
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi revenos post kvarono da <tld/>o
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Daniel</nom> <klr>[&#x2026;]</klr> en la da&ubreve;ro de unu <tld/>o staris konsternite, kaj liaj
+        pensoj lin mal&gcirc;ojigis
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 4:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e tiu &ccirc;i malsano unu <tld/>o povas decidi inter vivo kaj morto
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        laborante sen ripozo 15 <tld/>ojn &ccirc;iutage
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne pasis e&ccirc; kvarono da <tld/>o
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li min forpu&scirc;is kaj forgesis pro <nom>Fanny</nom>, kaj &ccirc;io tio post konateco de nur duono
+        da <tld/>o
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tuj de sinjoroj estas multe da <tld/>oj
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+   </dif>
+   <ref tip="lst" cel="dauxr.0o" lst="voko:da&ubreve;roj">da&ubreve;ro</ref>
+   <trd lng="sv">timma</trd>
+ </snc>
+ <snc mrk="hor.0o.tagmomento">
+   <dif>
+     Difinita <ref cel="moment.0o">momento</ref> de la tago:
+      <ekz>
+        en la <tld/>o de la man&gcirc;ado <nom>Boaz</nom> diris al &scirc;i: alproksimi&gcirc;u kaj man&gcirc;u kune
+        <fnt>
+          <bib>MT</bib>
+          <lok>Rut 2:14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en tiu sama <tld/>o la virino resani&gcirc;is
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 9:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en bona <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>o matena estas horo bena</ind>
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+        <trd lng="de">Morgenstund' hat Gold im Mund</trd>
+      </ekz>
+      <ekz>
+        atakis lin <tld/>o malsa&gcirc;a
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en malfacila <tld/>o e&ccirc; gro&scirc;' estas valoro
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+   </dif>
+ </snc>
+  <trd lng="af">uur</trd>
+  <trd lng="am">&#x1230;&#x12A0;&#x1275;</trd>
+  <trd lng="ar">&a_s;&a_A;&a_ayn;&a_t_marbuta;</trd>
+  <trd lng="az">saat</trd>
+  <trd lng="be">&c_g;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="bg">&c_ch;&c_a;&c_s;</trd>
+  <trd lng="bn">&#x998;&#x9A8;&#x9CD;&#x99F;&#x9BE;</trd>
+  <trd lng="bo">&t_cha;&t_shabchu;&t_tsheg;&t_tsha;&t_naro;&t_da;&t_tsheg;</trd>
+  <trd lng="br">eur</trd>
+  <trd lng="bs">sata</trd>
+  <trd lng="co">ora</trd>
+  <trdgrp lng="cs">
+    <trd>hod.</trd>,
+    <trd>hodina</trd>
+  </trdgrp>
+  <trd lng="cy">awr</trd>
+  <trd lng="da">time</trd>
+  <trdgrp lng="de">
+    <trd>Stunde</trd>,
+  </trdgrp>
+  <trd lng="el">&omega_ton;&rho;&alfa;</trd>
+  <trd lng="en">hour</trd>
+  <trd lng="es">hora</trd>
+  <trd lng="et">tund</trd>
+  <trd lng="eu">ordu</trd>
+  <trd lng="fr">heure</trd>
+  <trd lng="fy">oere</trd>
+  <trd lng="ga">uair an chloig</trd>
+  <trd lng="gd">uair</trd>
+  <trd lng="gl">horas</trd>
+  <trd lng="gu">&#xA95;&#xAB2;&#xABE;&#xA95;</trd>
+  <trd lng="hi">&#x918;&#x902;&#x91F;&#x947;</trd>
+  <trd lng="hmn">teev</trd>
+  <trd lng="hr">sat</trd>
+  <trd lng="ht">&egrave;dtan</trd>
+  <trd lng="hu">&oacute;ra<klr tip="ind"> (id&odblac;)</klr></trd>
+  <trd lng="hy">&#x56A;&#x561;&#x574;</trd>
+  <trd lng="id">jam</trd>
+  <trd lng="ig">awa</trd>
+  <trd lng="is">klukkustund</trd>
+  <trd lng="it">ora<klr tip="amb"> (sost.)</klr></trd>
+  <trd lng="ja">&#x6642;&#x9593; <pr>&#x3058;&#x304B;&#x3093;</pr></trd>
+  <trd lng="jv">jam</trd>
+  <trd lng="ka">&#x10E1;&#x10D0;&#x10D0;&#x10D7;&#x10D8;</trd>
+  <trd lng="kk">&c_s;&c_a;&#x493;&c_a;&c_t;</trd>
+  <trd lng="km">&#x1798;&#x17C9;&#x17C4;&#x1784;</trd>
+  <trd lng="kn">&#xC97;&#xC82;&#xC9F;&#xCC6;</trd>
+  <trd lng="ko">&#xC2DC;&#xAC04;</trd>
+  <trd lng="ku">seet</trd>
+  <trd lng="ky">&c_s;&c_a;&c_a;&c_t;</trd>
+  <trd lng="lat">hora</trd>
+  <trd lng="lo">&#xE8A;&#xEBB;&#xEC8;&#xEA7;&#xEC2;&#xEA1;&#xE87;</trd>
+  <trd lng="lt">valandos</trd>
+  <trd lng="lv">stunda</trd>
+  <trd lng="mg">ora</trd>
+  <trd lng="mi">haora</trd>
+  <trd lng="mk">&c_ch;&c_a;&c_s;</trd>
+  <trd lng="ml">&#xD2E;&#xD23;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD42;&#xD30;&#xD4D;</trd>
+  <trd lng="mn">&c_c;&c_a;&c_g;</trd>
+  <trd lng="mr">&#x924;&#x93E;&#x938;</trd>
+  <trd lng="ms">jam</trd>
+  <trd lng="mt">sieg&#x127;a</trd>
+  <trd lng="my">&#x1014;&#x102C;&#x101B;&#x102E;</trd>
+  <trd lng="ne">&#x918;&#x923;&#x94D;&#x91F;&#x93E;</trd>
+  <trd lng="nl">uur</trd>
+  <trd lng="no">time</trd>
+  <trd lng="ny">ora</trd>
+  <trd lng="os">&c_s;&c_a;&c_h;&c_a;&c_t;</trd>
+  <trd lng="pa">&#xA18;&#xA70;&#xA1F;&#xA47;</trd>
+  <trd lng="pl">godzina</trd>
+  <trd lng="ps">&a_s;&a_A;&a_ayn;&a_t;</trd>
+  <trd lng="pt">hora</trd>
+  <trd lng="ro">or&abreve;</trd>
+  <trd lng="ru">&c_ch;&c_a;&c_s;</trd>
+  <trd lng="rw">isaha</trd>
+  <trd lng="sd">&#x6AA;&a_l;&a_A;&#x6AA;</trd>
+  <trd lng="si">&#xDB4;&#xDD0;&#xDBA;</trd>
+  <trdgrp lng="sk">
+    <trd>hod.</trd>,
+    <trd>hodina</trd>
+  </trdgrp>
+  <trd lng="sl">ura</trd>
+  <trd lng="sm">itula</trd>
+  <trd lng="sn">awa</trd>
+  <trd lng="so">saacad</trd>
+  <trd lng="sq">or&euml;</trd>
+  <trd lng="st">hora</trd>
+  <trd lng="su">jam</trd>
+  <trd lng="sw">saa</trd>
+  <trd lng="ta">&#xBAE;&#xBA3;&#xBBF;</trd>
+  <trd lng="te">&#xC17;&#xC02;&#xC1F;</trd>
+  <trd lng="tg">&c_s;&c_o;&c_a;&c_t;</trd>
+  <trd lng="th">&#xE0A;&#xE31;&#xE48;&#xE27;&#xE42;&#xE21;&#xE07;</trd>
+  <trd lng="tl">oras</trd>
+  <trd lng="tt">&c_s;&#x4D9;&c_g;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="uk">&c_g;&c_o;&c_d;&c_i;&c_n;&c_u;</trd>
+  <trd lng="ur">&f_g;&#x6BE;&a_n;&#x679;&#x6D2;</trd>
+  <trd lng="uz">soat</trd>
+  <trd lng="vi">gi&#x1EDD;</trd>
+  <trd lng="vo">hol</trd>
+  <trd lng="xh">yure</trd>
+  <trd lng="yi">&shin;&ayin;&he;</trd>
+  <trd lng="yo">wakati</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5C0F;&#x65F6; <pr>xi&#x1CE;osh&#xED;</pr></trd>,
+    <trd>&#x9418;&#x982D; <pr>zh&#x14D;ngt&#xF3;u</pr></trd>,
+    <trd>&#x9418;&#x9EDE; <pr>zh&#x14D;ngdi&#x1CE;n</pr></trd>
+  </trdgrp>
+  <trd lng="zu">ngehora</trd>
+</drv>
+
+<drv mrk="hor.0e">
+ <kap><tld/>e</kap>
+ <snc mrk="hor.0e.KOMUNE">
+   <dif>
+     En, por, post unu <tld/>o:
+     <ekz>
+       oni pagos minimume 8 e&ubreve;rojn <tld/>e
+       <fnt>
+       <aut>LAST</aut>, <vrk><url ref="&Monato;/2003/007990.html">Sklaveco en fungejo</url></vrk>.
+       <bib>Monato</bib>
+       <lok>2003/05, p. 14</lok>
+       </fnt>;
+     </ekz>
+      <ekz>
+        <tld/>e, li revenis kun kru&ccirc;o enmane
+        <fnt>
+          <bib>Rob</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        24-<tld/>e malfrua forflugo
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvarfoje <tld/>e oni devis iom pli eltiri la &scirc;tofostrion
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nemultaj klientoj venis &ccirc;i-<tld/>e
+        <fnt>
+          <bib>ChB</bib>
+        </fnt>;
+      </ekz>
+     <ekz>
+       veturdistanco estis inter 10 kaj 90 km, meza rapideco po
+       10 km <tld/>e
+       <fnt>
+       <aut>Walter Klag</aut>
+       <vrk>Vakeroj de Alpoj</vrk>. <bib>Monato</bib>
+       <lok>2001/01, p. 10</lok>
+       </fnt>;
+     </ekz>
+     <ekz>
+       luado de boatoj: 5 rub/<tld/>e
+       <fnt>
+       <vrk>La 32a Orienta Somera Esperantista Junulara Tendaro</vrk>.
+       <bib>LOdE</bib>, <lok>2000. numero 5 (67)</lok>
+       </fnt>.
+     </ekz>
+    </dif>
+    <rim>
+      Malofte oni trovas la formon, kun &leftquot;po&rightquot; en gramatike mal&gcirc;usta loko:
+      <ekz>
+        ni povas funkciigi nur sesdek vagonojn <mis>po<tld/>e</mis>
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        labortarifa malneta salajro en pfenigoj <mis>po<tld/>e</mis> por laboristoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=5115">31-a de marto</url></lok>
+        </fnt>.
+     </ekz>
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+   <trd>&c_p;&c_a;&c_g;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_n;&c_a;</trd>,
+   <trd>&c_k;&c_o;&c_zh;&c_n;&c_u;&c_ju;
+   &c_g;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_u;</trd>
+  </trdgrp>
+  <trd lng="br">dre <ind>eur</ind></trd>
+  <trdgrp lng="de">
+   <trd>pro <ind>Stunde</ind></trd>,
+   <trd>st&uuml;ndlich</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+   <trd>hourly</trd>,
+   <trd>per hour</trd>
+  </trdgrp>
+  <trd lng="es">por <ind>hora</ind></trd>
+  <trd lng="fr">par <ind>heure</ind></trd>
+  <trd lng="hu">&oacute;r&aacute;nk&eacute;nt</trd>
+  <trd lng="id">per <ind>jam</ind></trd>
+  <trdgrp lng="it">
+   <trd>all'<ind>ora</ind></trd>,
+   <trd>per <ind>ora</ind></trd>
+  </trdgrp>
+  <trd lng="nl">per <ind>uur</ind></trd>
+  <trd lng="no">per <ind>time</ind></trd>
+  <trd lng="pl">na/za <ind>godzin&eogonek;</ind></trd>
+  <trd lng="pt">por <ind>hora</ind><klr tip="ind"> (adv.)</klr></trd>
+  <trd lng="ru">&c_v; &c_ch;&c_a;&c_s;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6BCF;&#x5C0F;&#x6642;&#x4E00;&#x6B21;&#x7684; <pr>m&#x11B;ixi&#x1CE;osh&#xED;y&#x12B;c&#xEC;de</pr></trd>,
+    <trd>&#x6BCF;&#x5C0F;&#x65F6;&#x4E00;&#x6B21; <pr>m&#x11B;ixi&#x1CE;osh&#xED;y&#x12B;c&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hor.0aro">
+  <kap><tld/>aro, <var><kap><tld/>libro</kap></var></kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="plan.0o.realigota">Plano</ref> <ref tip="super" cel="tabel.0o.TIP">tabel</ref>forma
+      kun la la&ubreve;hore aran&gcirc;itaj tempoj de servo, natura fenomeno ks;
+      <ref tip="sin" cel="tabel.hor0o">hortabelo</ref>:
+      <ekz>
+        fervoja, tajda <tld/>aro;
+      </ekz>
+      <ekz>
+        <ind>lerneja <tld/>aro</ind>
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+        <trd lng="de">Stundenplan</trd>
+      </ekz>
+      <ekz>
+        kelkaj fervojaj kompanioj enmetis esperantlingvajn tekstojn en la porpasa&gcirc;erajn
+        klarigojn de siaj <tld/>aroj
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> profundi&gcirc;is en la misterojn de la <ind>bus-<tld/>aro</ind>j, afi&scirc;itaj en
+        la
+        halo
+        <fnt>
+          <bib>ChR</bib>
+        </fnt>;
+        <trd lng="de">Busfahrplan</trd>
+      </ekz>
+      <ekz>
+        la <ind>televida <tld/>aro</ind> principe ne &scirc;an&gcirc;i&gcirc;os, &rightquot;Propra ludo&#x201D; plu aperados
+        diman&ccirc;e
+        posttagmeze
+        <fnt>
+          <bib>LOdE</bib>
+          <vrk><url ref="&Tekstaro;?nomo=ondo-de-esperanto">En &leftquot;Propra ludo&rightquot; dum la tuta
+          jaro</url></vrk>
+        </fnt>.
+        <trd lng="de">Fernsehprogramm</trd>
+      </ekz>
+   </dif>
+    <refgrp tip="vid">
+       <ref cel="progra.0o.KOMUNE">programo<sncref/></ref>
+    </refgrp>
+ </snc>
+ <trd lng="be">&c_r;&c_a;&c_s;&c_k;&c_l;&c_a;&c_d;</trd>
+ <trd lng="br">euriadur</trd>
+ <trd lng="ca">horari</trd>
+ <trdgrp lng="de">
+   <trd>Zeitplan</trd>,
+   <trd>Fahrplan</trd>
+ </trdgrp>
+ <trdgrp lng="en">
+   <trd>schedule</trd>,
+   <trd>timetable</trd>
+ </trdgrp>
+ <trd lng="es">horario</trd>
+ <trd lng="fr">horaire</trd>
+ <trd lng="hu">menetrend</trd>
+ <trdgrp lng="id">
+   <trd>jadwal</trd>,
+   <trd>skedul</trd>
+ </trdgrp>
+ <trd lng="it">orario<klr> (libretto)</klr></trd>
+ <trd lng="ja">&#x6642;&#x523B;&#x8868;  <pr>&#x3058;&#x3053;&#x304F;&#x3072;&#x3087;&#x3046;</pr></trd>
+  <trdgrp lng="nl">
+   <trd>dienstregeling</trd>,
+   <trd>spoorboekje</trd>
+ </trdgrp>
+ <trdgrp lng="no">
+   <trd>rutetabell</trd>,
+   <trd>tidsskjema</trd>
+ </trdgrp>
+ <trd lng="id">jadwal</trd>
+ <trdgrp lng="pl">
+   <trd>plan zaj&eogonek;&cacute;</trd>,
+   <trd>rozk&lstroke;ad jazdy</trd>
+ </trdgrp>
+ <trd lng="pt">hor&aacute;rio<klr tip="ind"> (subst.)</klr></trd>
+ <trd lng="ro">mersul trenurilor</trd>
+ <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je;</trd>
+ <trd lng="sv">tidtabell</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_r;&c_a;&c_f;&c_ib;&c_k;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_k;&c_l;&c_a;&c_d;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x65F6;&#x523B;&#x8868; <pr>sh&#xED;k&#xE8;bi&#x1CE;o</pr></trd>,
+    <trd>&#x65F6;&#x7A0B; <pr>sh&#xED;ch&#xE9;ng</pr></trd>,
+    <trd>&#x65F6;&#x95F4;&#x8868; <pr>sh&#xED;ji&#x101;nbi&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hor.cxiu0e">
+  <kap>&ccirc;iu<tld/>e</kap>
+  <snc mrk="hor.cxiu0e.KOMUNE">
+    <dif>
+      Je &ccirc;iu <tld/>o:
+      <ekz>
+       vi devas trinki &ccirc;iu<tld/>e po du kulerojn de
+       &ccirc;i tiu medikamento;
+      </ekz>
+      <ekz>
+        &ccirc;iu<tld/>e iu bieno sur monteto fari&gcirc;is simila al insulo, en la komenco,
+        apartigita de la aliaj nur per mallar&gcirc;a kanalo, kiu iom post iom plilar&gcirc;i&gcirc;is
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi scias, ke &ccirc;iu<tld/>e ili povas ekribeli terure kontra&ubreve; via tiraneco
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tion]</klr> &scirc;i de nun devos jam akiradi &ccirc;iutage, &ccirc;iu<tld/>e
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plenplenaj elektraj vagonaroj portas homojn &ccirc;iu<tld/>e dum la semajnfino
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu<tld/>e kreskas la nombro de niaj partianoj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista
+          en Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        preska&ubreve; &ccirc;iu<tld/>e mortas surstrate du homoj kaj vundi&gcirc;as ses
+        <fnt>
+
+          <aut>Hamizeh SHAFIEE</aut>
+          <vrk><url ref="&Monato;/2001/007028.php">Traf(ik)a
+           statistiko</url></vrk>
+           <bib>Monato</bib>
+           <lok>2001/01, p. 10</lok>
+        </fnt>.
+      </ekz>
+   </dif>
+   <refgrp tip="vid">
+     <ref cel="moment.cxiu0e">&ccirc;iumomente</ref>,
+     <ref cel="dauxr.0e.malmomente">da&ubreve;re<sncref/></ref>
+   </refgrp>
+ </snc>
+ <trd lng="be">&c_sh;&c_t;&c_o;&c_g;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_n;&c_a;</trd>
+ <trd lng="br">bep <ind>eurvezh</ind></trd>
+ <trd lng="de">st&uuml;ndlich</trd>
+ <trdgrp lng="en">
+   <trd>every hour</trd>,
+   <trd>hourly</trd>
+ </trdgrp>
+ <trd lng="fr">par <ind>heure</ind></trd>
+ <trdgrp lng="hu">
+   <trd>minden <ind>&oacute;r&aacute;ban</ind></trd>,
+   <trd>&oacute;r&aacute;nk&eacute;nt<klr tip="ind"> (minden &oacute;r&aacute;ban)</klr></trd>
+ </trdgrp>
+ <trd lng="id">per <ind>jam</ind></trd>
+ <trd lng="it">ogni <ind>ora</ind></trd>
+ <trdgrp lng="ja">
+    <trd>&#x6BCE;&#x6642;  <pr>&#x307E;&#x3044;&#x3058;</pr></trd>,
+    <trd>&#x4E00;&#x6642;&#x9593;&#x3054;&#x3068;&#x306B;  <pr>&#x3072;&#x3068;&#x3058;&#x304B;&#x3093;&#x3054;&#x3068;&#x306B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+   <trd>ieder <ind>uur</ind></trd>,
+   <trd>om 't <ind>uur</ind></trd>
+ </trdgrp>
+ <trd lng="no">hver <ind>time</ind></trd>
+ <trd lng="os">&c_a;&c_l;&c_y; &c_s;&c_a;&c_h;&c_a;&c_t; &c_d;&aelig;&c_r;</trd>
+ <trd lng="pl">co <ind>godzin&eogonek;</ind></trd>
+ <trd lng="pt">a toda <ind>hora</ind><klr tip="ind"> (adv.)</klr></trd>
+ <trd lng="ru">&c_je;&c_zh;&c_je;&c_ch;&c_a;&c_s;&c_n;&c_o;</trd>
+ <trd lng="sk">ka&zcaron;d&uacute; <ind>hodinu</ind></trd>
+ <trd lng="sv">varje <ind>timma</ind></trd>
+  <trd lng="uk">&c_shch;&c_o;&c_g;&c_o;&c_d;&c_i;&c_n;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6BCF;&#x5C0F;&#x6642;&#x4E00;&#x6B21;&#x7684; <pr>m&#x11B;ixi&#x1CE;osh&#xED;y&#x12B;c&#xEC;de</pr></trd>,
+    <trd>&#x6BCF;&#x5C0F;&#x65F6;&#x4E00;&#x6B21; <pr>m&#x11B;ixi&#x1CE;osh&#xED;y&#x12B;c&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hor.duon0o">
+  <kap>
+    duon<tld/>o, <var><kap><tld/>duono</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      Duono da <tld/>o:
+      <ekz>
+        dum malmulte da someraj tagoj la radioj de la suno penetradis por duon<tld/>o en
+        la koridoron de la kelo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>An&gcirc;elo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        apena&ubreve; pasis duon<tld/>o, ili jam finis la laboron kaj elflugis
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Cindrulino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> 16 mallongajn reguletojn <klr>[&#x2026;]</klr> &ccirc;iu povas bonege ellerni
+        en la da&ubreve;ro de duon<tld/>o
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eliru sur la korton por <tld/>duono
+        <fnt>
+          <bib>KrB</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen li vidis sian kontraktulon, kiu la&ubreve;konsente atendos lin post <tld/>duono en
+        apuda parko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2004/008358.html">Kuracbaneje</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_w;&c_g;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="br">hantereur</trd>
+  <trd lng="de">halbe Stunde</trd>
+  <trd lng="en">half an hour</trd>
+  <trd lng="es">media <ind>hora</ind></trd>
+  <trd lng="fr">demi-heure</trd>
+  <trd lng="hu">f&eacute;l&oacute;ra</trd>
+  <trd lng="id">se<ind>tengah</ind> jam</trd>
+  <trd lng="it">mezz'<ind>ora</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF13;&#xFF10;&#x5206;  <pr>&#x3055;&#x3093;&#x3058;&#x3085;&#x3063;&#x3077;&#x3093;</pr></trd>,
+    <trd>&#x534A;&#x6642;&#x9593;  <pr>&#x306F;&#x3093;&#x3058;&#x304B;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">p&oacute;&lstroke; <ind>godziny</ind></trd>
+  <trd lng="uk">&c_p;&c_ib;&c_v;&c_g;&c_o;&c_d;&c_i;&c_n;&c_i;</trd>
+  <trd lng="zh">&#x534A;&#x5C0F;&#x65F6; <pr>b&#xE0;nxi&#x1CE;osh&#xED;</pr></trd>
+</drv>
+
+<drv mrk="hor.kvaron0o">
+  <kap>
+    kvaron<tld/>o, <var><kap><tld/>kvarono</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      Kvarono da <tld/>o:
+      <ekz>
+        pasis certe <tld/>kvarono, anta&ubreve; ol la floreto povis denove rekonscii&gcirc;i
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Lekanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post kvaron<tld/>o ili revenis timigitaj, murmuretante
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>kvarono anta&ubreve; la kvara
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2004/008359.html">Posta po&scirc;to</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ch;&c_v;&c_e;&c_r;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_ch;&c_v;&c_e;&c_r;&c_c;&c_mol; <klr>(&c_g;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_y;)</klr></trd>
+  </trdgrp>
+  <trd lng="br">kardeur</trd>
+  <trd lng="de">Viertelstunde</trd>
+  <trd lng="en">quarter<klr> (of an hour)</klr></trd>
+  <trd lng="es">cuarto de <ind>hora</ind></trd>
+  <trd lng="fr">quart d'heure</trd>
+  <trd lng="hu">negyed&oacute;ra</trd>
+  <trd lng="id">seper<ind>empat</ind> jam</trd>
+  <trd lng="it">quarto d'<ind>ora</ind></trd>
+  <trd lng="ja">&#xFF11;&#xFF15;&#x5206;  <pr>&#x3058;&#x3085;&#x3046;&#x3054;&#x3075;&#x3093;</pr></trd>
+  <trd lng="nl">kwartier</trd>
+  <trd lng="no">kvarter</trd>
+  <trd lng="pl">kwadrans</trd>
+  <trd lng="ro">un sfert</trd>
+  <trd lng="uk">&c_ch;&c_v;&c_je;&c_r;&c_t;&c_mol; &c_g;&c_o;&c_d;&c_i;&c_n;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x523B; <pr>k&#xE8;</pr></trd>,
+    <trd>&#x4E00;&#x523B;&#x9418; <pr>y&#x12B;k&#xE8;zh&#x14D;ng</pr></trd>,
+    <trd>&#x4E00;&#x523B; <pr>y&#xED;k&#xE8;</pr></trd>,
+    <trd>&#x5341;&#x4E94;&#x5206;&#x9418; <pr>sh&#xED;w&#x1D4;f&#xE8;nzh&#x14D;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hor.prem0o">
+  <kap>prem<tld/>o</kap>
+  <snc mrk="hor.prem0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      <tld lit="H"/>o de intensa aktivado de homoj, ekzemple kiam multaj
+      samtempe veturas al laborejoj, samtempe vizitas man&gcirc;ejojn
+      a&ubreve; simile...:
+      <ekz>
+        dum matenaj kaj vesperaj prem<tld/>oj trajnoj venas &ccirc;iun 3an&#x202F;-&#x202F;5an minuton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo/pg</aut>
+          <vrk><url ref="&Monato;/2005/008674.php">Profitoj, punoj kaj privatigo</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum prem<tld/>oj veturi per biciklo a&ubreve; publika transportilo multe pli rapidas
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ivo Durwael</aut>
+          <vrk><url ref="&Monato;/2012/010599.php">Nova malnova trafikilo</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en elektrouzadaj prem<tld/>oj de somero de la kuranta jaro,
+        mankis preska&ubreve; 2 milionoj da <esc>kilovattoj</esc> de elektro en Tokio
+        <fnt>
+          <aut>&Ccirc;ina Radio Internacia</aut>,
+          <vrk><url ref="&CRI;1/2004/07/23/1@12666.htm">
+          Elektro&scirc;para stato de Japanio</url></vrk>,
+          <lok>2004-07-23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Hauptverkehrszeit</trd>,
+      <trd>Sto&szlig;zeit</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ch;&c_a;&c_s; &c_p;&c_ib;&c_k;</trd>,
+    <trd>&c_g;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_a; &c_p;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="en">rush hour</trd>
+  <trd lng="fr">heure de pointe</trd>
+  <trd lng="id"><ind>jam</ind> sibuk</trd>
+  <trd lng="it"><ind>ora</ind> di punta</trd>
+  <trd lng="nl">piekuur</trd>
+  <trdgrp lng="zh">
+    <trd>&#x9AD8;&#x5CF0;&#x671F; <pr>g&#x101;of&#x113;ngq&#x12B;</pr></trd>,
+    <trd>&#x4E0A;&#x4E0B;&#x73ED;&#x65F6;&#x95F4; <pr>sh&#xE0;ngxi&#xE0;b&#x101;nsh&#xED;ji&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.138 2023/10/16 05:55:56
+revo: transskribo per <pr>
+
+versio 1.137 2023/10/10 09:24:58
+Eko Nur Syah Hidayat: +trd id 2
+
+versio 1.136 2023/09/13 18:30:45
+Wolfram Diestel: pr. ja
+
+versio 1.134 2023/08/29 16:33:55
+Wolfram Diestel: ja: prononco
+
+versio 1.133 2023/08/18 20:23:00
+Wolfram Diestel: misetoj
+
+versio 1.132 2023/05/04 16:16:18
+revo: aktualigo URL-unuoj
+
+versio 1.131 2023/04/06 13:31:09
+Paul Peeraerts: &Monato;
+
+versio 1.130 2022/06/14 08:36:59
+-->
+</vortaro>

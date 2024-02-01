@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kviz.xml,v 1.15 2023/12/03 09:59:05 revo Exp $">
+<kap>
+  <rad>kviz</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="kviz.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kviz.0o.KOMUNE">
+    <uzo tip="fak">PSI</uzo>
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="super" cel="demand.0aro.KOMUNE">Demandaro</ref>
+      elprovanta
+      la sciaron de respondantoj:
+      <ekz>
+        jen malgranda <tld/>o, mi priskribos realan situacion, kaj vi
+        devas diveni pri kio temas
+        <fnt>
+        <aut>W. Slootmans</aut>,
+        <vrk>kvizeto</vrk>,
+        <lok>soc.culture.esperanto, 1992-06-17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_ib;&c_k;&c_t;&c_a;&c_r;&c_y;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>kviz</trd>,
+    <trd>kv&iacute;z</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Quiz</trd>
+  </trdgrp>
+  <trd lng="es">cuestionario</trd>
+  <trdgrp lng="fr">
+    <trd>questionnaire<klr> (quiz)</klr></trd>,
+    <trd>quiz</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vet&eacute;lked&odblac;</trd>,
+    <trd>tud&aacute;spr&oacute;ba</trd>,
+    <trd>kv&iacute;z</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30AF;&#x30A4;&#x30BA;  <pr>&#x304F;&#x3044;&#x305A;</pr></trd>
+  <trd lng="nl">quiz</trd>
+  <trdgrp lng="pl">
+    <trd>quiz</trd>,
+    <trd>kwiz</trd>
+  </trdgrp>   
+  <trd lng="pt">question&aacute;rio</trd>
+  <trd lng="ro">chestionare</trd>
+  <trd lng="ru">&c_v;&c_i;&c_k;&c_t;&c_o;&c_r;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">kv&iacute;z</trd>
+  <trd lng="uk">&c_v;&c_ib;&#x43A;&c_t;&#x43E;&c_r;&c_i;&#x43D;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7ADE;&#x731C; <pr>j&#xEC;ngc&#x101;i</pr></trd>,
+    <trd>&#x7AF6;&#x731C; <pr>j&#xEC;ngc&#x101;i</pr></trd>,
+    <trd>&#x5C0F;&#x8003; <pr>xi&#x1CE;ok&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.14 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+versio 1.12 2022/04/07 07:29:25
+Dmitri Gabinski: + trd be
+
+Revision 1.9  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.7  2014/11/12 11:10:13  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.6  2009/09/22 17:17:42  revo
+Paul Peeraerts: +nl
+
+Revision 1.5  2006/09/22 12:27:15  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2005/08/31 16:31:25  revo
+-->
+</vortaro>

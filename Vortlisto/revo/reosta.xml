@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: reosta.xml,v 1.17 2023/10/20 19:20:37 revo Exp $">
+<kap>
+  <rad>reostat</rad>/o
+</kap>
+<drv mrk="reosta.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">ELE</uzo>
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="aparat.0o.TEK">Aparato</ref>
+      de la&ubreve;dezire variebla elektra rezistanco, kiu, lokita en
+      cirkviton, ebligas variigi la intenson de kurento:
+      <ekz>
+        la interna Teslo-volva&jcirc;o konsistas el du elektraj volva&jcirc;oj, kondensilo, kaj
+        <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=30823">Viola vergo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Charles Wheatstone <klr>[&#x2026;]</klr> en 1840 <klr>[&#x2026;]</klr> inventis kontinue
+        variigeblan rezistilon (<tld/>o), kaj en 1833, la stereoskopon, per kiu li
+        determinis la spektrajn liniojn de fajreroj de elektraj mal&scirc;argoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=582527">Charles Wheatstone</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_a;&c_s;&c_t;&c_a;&c_t;</trd>
+  <trd lng="cs">reostat</trd>
+  <trd lng="de">Rheostat</trd>
+  <trd lng="fr">rh&eacute;ostat</trd>
+  <trdgrp lng="hu">
+    <trd>reoszt&aacute;t</trd>,
+    <trd>ellen&aacute;ll&aacute;sszekr&eacute;ny</trd></trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x53EF;&#x5909;&#x62B5;&#x6297;&#x5668;  <pr>&#x304B;&#x3078;&#x3093;&#x3066;&#x3044;&#x3053;&#x3046;&#x304D;</pr></trd>,
+    <trd>&#x52A0;&#x6E1B;&#x62B5;&#x6297;&#x5668;  <pr>&#x304B;&#x3052;&#x3093;&#x3066;&#x3044;&#x3053;&#x3046;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">reostaat</trd>
+  <trdgrp lng="pl">
+    <trd>opornik</trd>,
+    <trd>reostat</trd>
+  </trdgrp>
+  <trd lng="pt">reostato</trd>
+  <trdgrp lng="ro">
+    <trd>rezistor</trd>,
+    <trd>reostat</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_o;&c_s;&c_t;&c_a;&c_t;</trd>
+  <trd lng="sk">reostat</trd>
+  <trd lng="uk">&c_r;&c_je;&#x43E;&c_s;&c_t;&c_a;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.17 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.15 2022/09/14 22:34:40
+Vito Redsky:  +trd pl  + trd ro  
+
+Revision 1.12  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2014/03/29 12:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.9  2006/02/20 17:33:21  revo
+Tulio Flores: +trd pt
+
+Revision 1.8  2003/08/17 17:27:49  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2002/09/12 16:34:57  revo
+-->
+</vortaro>

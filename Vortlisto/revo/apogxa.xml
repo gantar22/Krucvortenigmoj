@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: apogxa.xml,v 1.15 2023/10/13 16:46:48 revo Exp $">
+<kap>
+  <rad>apo&gcirc;atur</rad>/o
+</kap>
+
+<drv mrk="apogxa.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="ornam.melodi0o">Melodiornamo</ref>
+      uzata en klasika e&ubreve;ropa muziko, kiu anta&ubreve;metas anta&ubreve; la tono
+      unu a&ubreve; du komencajn tonojn, konsumante parton de &gcirc;ia da&ubreve;ro:
+      <ekz>
+        preska&ubreve; neniu <tld/>o eblas, kiun li ne aplikis, &ccirc;iun arton kaj &ccirc;iujn falsajn harmoniajn
+        afekta&jcirc;ojn li mil fojojn aplikis serioze kaj &scirc;erce
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19633">Johann Sebastian Bach</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="acxakatur.0o">a&ccirc;akaturo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_a;&c_d;&c_zh;&c_y;&c_ja;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="ca">appoggiatura</trd>
+  <trdgrp lng="de">
+    <trd>langer <ind>Vorschlag</ind> <klr>(Musik)</klr></trd>,
+    <trd>Appoggiatura</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>appoggiatura</trd>,
+    <trd>long <ind>grace note</ind></trd>,
+  </trdgrp>
+  <trd lng="es">apoyatura</trd>
+  <trd lng="fr">appoggiature</trd>
+  <trdgrp lng="ja">
+    <trd>&#x524D;&#x6253;&#x97F3;  <pr>&#x305C;&#x3093;&#x3060;&#x304A;&#x3093;</pr></trd>,
+    <trd>&#x30A2;&#x30C3;&#x30DD;&#x30B8;&#x30E3;&#x30C8;&#x30A5;&#x30FC;&#x30E9;</trd>
+  </trdgrp>
+  <trd lng="sk">predr&aacute;&zcaron;ka</trd>
+  <trd lng="uk">&c_a;&#x43F;&#x43E;&c_d;&c_zh;&c_ib;&c_a;&c_t;&c_u;&c_r;&c_a;&#xA0;(&#x43C;&c_u;&c_z;&c_i;&c_ch;&#x43D;&c_a; &#x43F;&c_r;&c_i;&#x43A;&c_r;&c_a;&c_s;&c_a;)</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.15 2023/10/13 16:46:48
+revo: transskribo per <pr>
+
+versio 1.13 2022/10/12 19:35:51
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2007/06/10 16:32:22  revo
+Wieland Pusch: +trd de
+
+Revision 1.9  2005/04/05 16:36:28  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.8  2004/07/15 19:02:41  revo
+Viliam Bur: +trd sk
+
+Revision 1.7  2003/05/03 18:41:27  revo
+Karlo Freeman: +trd=en
+
+Revision 1.6  2002/10/22 16:32:13  revo
+Christopher Zervic: + ang
+
+Revision 1.5  2002/05/23 20:32:57  revo
+-->
+</vortaro>

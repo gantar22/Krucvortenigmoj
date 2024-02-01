@@ -1,0 +1,641 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: korn.xml,v 1.46 2023/12/03 09:58:58 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>korn</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="korn.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="korn.0o.besta">
+    <dif>
+      Malmola elstara&jcirc;o, kiu kreskas sur frunto a&ubreve; alia kapo-parto de
+      bestoj, precipe de viraj rema&ccirc;uloj:
+      <ekz>
+        <tld/>o de vir&scirc;afo, rinocero;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>preni la bovon per la <tld/>oj</ind>
+        <trd lng="fr">prendre le taureau par les <ind>cornes</ind></trd>
+        <trd lng="nl">de koe bij de <ind>horens</ind> vatten</trd>
+        <klr>(iri rekte kaj decide al la plej malfacila afero)</klr>
+        <fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>obati, <tld/>ofrapi;
+      </ekz>
+      <ekz>
+        <tld/>havaj bestoj.
+      </ekz>
+    </dif>
+    <subsnc mrk="korn.0o.ajxo">
+      <dif>
+        Bova <tld/>o a&ubreve; similforma&jcirc;o uzata kiel ujo:
+        <ekz>
+          <nom>Cadok</nom> prenis la <tld/>on kun oleo <klr>[&#x2026;]</klr> kaj
+          sanktoleis Salomonon
+          <fnt><bib>MT</bib> <lok>&Re1; 1:39</lok></fnt>;
+        </ekz>
+        <ekz>
+          trinki el <tld/>o.
+        </ekz>
+      </dif>
+      <trd lng="de">Horn</trd>
+      <trd lng="en">horn</trd>
+      <trdgrp lng="hu">
+        <trd>iv&oacute;k&uuml;rt</trd>,
+        <trd>kupa</trd>,
+        <trd>szarupoh&aacute;r</trd>
+      </trdgrp>
+      <trd lng="pl">r&oacute;g</trd>
+      <trd lng="ru">&c_r;&c_o;&c_g;</trd>
+    </subsnc>
+    <subsnc mrk="korn.0o.MUZ">
+      <uzo tip="fak">MUZ</uzo>
+      <dif>
+        Besta korno truita &ccirc;e la pinto a&ubreve; &ccirc;e flanko,
+        uzata kiel <ref tip="lst" cel="instru2.blov0o" lst="voko:blovinstrumentoj">blovinstrumento</ref>:
+        <ekz>
+          de la supro eksonis <tld/>o, al kiu tuj respondis la princa
+          ta&ccirc;mento
+          <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 19a</lok></fnt>.
+        </ekz>
+      </dif>
+      <ref tip="vid" cel="korn.cxas0o.MUZ">&ccirc;askorno</ref>
+      <trdgrp lng="be">
+        <trd>&c_r;&c_o;&c_g;</trd>,
+        <trd>&c_r;&c_a;&c_zh;&c_o;&c_k; <klr tip="amb">(&c_m;&c_u;&c_z;&c_y;&c_ch;&c_n;&c_y; &c_ib;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_e;&c_n;&c_t;)</klr></trd>
+      </trdgrp>
+      <trd lng="de">Horn</trd>
+      <trdgrp lng="fr">
+        <trd>cor<klr> (musique)</klr></trd>,
+        <trd>trompe<klr> (musique)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">k&uuml;rt</trd>
+      <trd lng="pl">r&oacute;g</trd>
+      <trdgrp lng="ru">
+        <trd>&c_r;&c_o;&c_g;</trd>,
+        <trd>&c_r;&c_o;&c_zh;&c_o;&c_k;<klr>
+        (&c_m;&c_u;&c_z;&c_y;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;
+        &c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
+      </trdgrp>
+    </subsnc>
+    <trd lng="de">Horn</trd>
+    <trd lng="en">horn</trd>
+    <trdgrp lng="hu">
+      <trd>szarv</trd>,
+      <trd>t&uuml;l&ouml;k</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>chifre</trd>,
+      <trd>corno <klr tip="amb">(chifre)</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_o;&c_g;</trd>
+  </snc>
+  <snc mrk="korn.0o.substanco">
+    <dif>
+      <tld lit="K"/>a substanco.
+    </dif>
+    <trd lng="de">Horn</trd>
+    <trd lng="en">horny</trd>
+    <trd lng="hu">szaru</trd>
+    <trd lng="pl">r&oacute;g</trd>
+  </snc>
+  <snc mrk="korn.0o.FIG">
+    <uzo tip="fak">BIB</uzo>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Simbolo de potenco kaj fiero:
+      <ekz>
+        la nacioj <klr>[&#x2026;]</klr> levis sian <tld/>on kontra&ubreve; la
+        lo&gcirc;antojn
+        de Judujo
+        <fnt><bib>MT</bib>, <lok>&Zeh; 1:21</lok></fnt>;
+      </ekz>
+      <ekz>
+        li rompis &ccirc;iujn <tld/>ojn de <nom>Izrael</nom>
+        <fnt><bib>MT</bib> <lok>&Plo; 2:3</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">szarv <klr tip="ind">(&aacute;tv.)</klr></trd>
+  </snc>
+  <trd lng="be">&c_r;&c_o;&c_g;</trd>
+  <trdgrp lng="cs">
+    <trd>roh <klr>(zv&iacute;&rcaron;ec&iacute;)</klr></trd>,
+    <trd>rohovina</trd>
+  </trdgrp>
+  <trd lng="es">cuerno</trd>
+  <trdgrp lng="fr">
+    <trd>corne</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x89D2;  <pr>&#x3059;&#x307F;</pr></trd>,
+    <trd>&#x89D2;&#x72B6;&#x306E;&#x3082;&#x306E;  <pr>&#x304B;&#x3069;&#x3058;&#x3087;&#x3046;&#x306E;&#x3082;&#x306E;</pr></trd>,
+    <trd>&#x30DB;&#x30EB;&#x30F3;</trd>,
+    <trd>&#x89D2;&#x7B1B;  <pr>&#x3064;&#x306E;&#x3076;&#x3048;</pr></trd>,
+    <trd>&#x8B66;&#x7B1B;  <pr>&#x3051;&#x3044;&#x3066;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">hoorn</trd>
+  <trd lng="pl">r&oacute;g</trd>
+  <trdgrp lng="ro">
+    <trd>col&#x21B;</trd>,
+    <trd>corn</trd>,
+    <trd>unghi</trd>
+  </trdgrp>
+  <trd lng="sk">h&uacute;ka&ccaron;ka auta</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7284;&#x89D2; <pr>j&#x12B;ji&#x1CE;o</pr></trd>,
+    <trd>&#x89D2; <pr>ji&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="korn.0eca">
+  <kap><tld/>eca</kap>
+  <snc mrk="korn.0eca.KOMUNE">
+    <dif>
+      Farita el substanco simila al <tld/>o:
+      <ekz>
+        <tld/>eca kombilo, tabakujo;
+      </ekz>
+      <ekz><ctl>plumo</ctl> tie perdis sian origina sencon: <tld/>eca
+      tubeto garnita per lanugo
+        <fnt>
+          <aut>Paul Neergaard</aut>
+          <vrk>Fremdvortoj en Esperanto</vrk>
+          <lok>Komentaro kaj terminoj klarigataj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>malmola tritiko havas konsiston <tld/>ecan
+        <fnt>
+          <aut>Marco Picasso</aut>
+          <vrk>Pasta&jcirc;o</vrk>
+          <lok>&ccirc;apitro 2a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_g;&c_a;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>rohovkov&yacute;</trd>,
+    <trd>zrohovat&ecaron;l&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">horny</trd>
+  <trdgrp lng="fr">
+    <trd>corn&eacute;</trd>
+  </trdgrp>
+  <trd lng="hu">szaru-</trd>
+  <trdgrp lng="ja">
+    <trd>&#x89D2;&#x8CEA;&#x306E;  <pr>&#x304B;&#x3069;&#x3057;&#x3061;&#x306E;</pr></trd>,
+    <trd>&#x89D2;&#x306E;&#x3088;&#x3046;&#x306B;&#x786C;&#x3044; 
+    <pr>&#x304B;&#x3069;&#x306E;&#x3088;&#x3046;&#x306B;&#x304B;&#x305F;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">hoornachtig</trd>
+  <trd lng="pl">rogowy</trd>
+  <trd lng="ro">coarne</trd>
+  <trd lng="ru">&c_r;&c_o;&c_g;&c_o;&c_v;&c_o;&c_j;</trd>
+  <trd lng="sk">zrohovaten&yacute;</trd>
+</drv>
+
+<drv mrk="korn.0aro">
+  <kap><tld/>aro, <var><kap><tld/>obran&ccirc;aro</kap></var></kap>
+  <snc mrk="korn.0aro.ZOO">
+    <dif>
+      Bran&ccirc;formaj <tld/>oj de <ref tip="vid" cel="cerved.0oj">cervedoj</ref>:
+      <ekz>
+        bela cervo kun majesta <tld/>aro
+        <fnt><bib>Fab1</bib>, <lok>&gcirc;ardeno de la paradizo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_o;&c_g;&c_ib; <klr tip="amb">(&c_r;&c_a;&c_z;&c_g;&c_a;&c_l;&c_ib;&c_s;&c_t;&c_y;&c_ja; - &c_ja;&c_k; &c_u; &c_a;&c_l;&c_je;&c_n;&c_ja;,
+  &c_l;&c_a;&c_s;&c_ja;)</klr></trd>
+
+  <trd lng="en">antlers</trd>
+  <trdgrp lng="fr">
+    <trd>andouiller</trd>,
+    <trd>bois<klr> (de cervid&eacute;)</klr></trd>,
+    <trd>cors<klr> (de cervid&eacute;)</klr></trd>,
+    <trd>massacre<klr> (de cervid&eacute;)</klr></trd>,
+    <trd>ramure<klr> (de cervid&eacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">agancs</trd>
+  <trd lng="ja">&#x89D2;  <pr>&#x3059;&#x307F;</pr></trd>
+  <trd lng="pl">poro&zdot;e</trd>
+  <trd lng="ro">coarne</trd>
+  <trd lng="ru">&c_r;&c_o;&c_g;&c_a;<klr>
+  (&c_v;&c_je;&c_t;&c_v;&c_i;&c_s;&c_t;&c_y;&c_je;)</klr></trd>
+  <trdgrp lng="zh">
+    <trd>&#x89E1; <pr>g&#xE9;</pr></trd>,
+    <trd>&#x9E7F;&#x89D2; <pr>l&#xF9;ji&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="korn.abundo0o">
+  <kap>abundo<tld/>o</kap>
+  <snc mrk="korn.abundo0o.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Tradicia motivo de okcidenta arto &mdash;
+      granda <tld/>o elbu&scirc;iganta florojn, fruktojn
+      kaj aliajn simbolojn de abundo kaj prospero:
+      <ekz>
+        abundo<tld/>o mia al vi ver&scirc;us /
+        precize &ccirc;ion far vi sopiratan
+        <fnt>
+          <aut>E. de Kock</aut>
+          <vrk>Testamente</vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_o;&c_g; &c_d;&c_a;&c_s;&c_t;&c_a;&c_t;&c_k;&c_u;</trd>
+  <trd lng="de">F&uuml;llhorn</trd>
+  <trd lng="en">cornucopia</trd>
+  <trd lng="fr">corne d'abondance</trd>
+  <trd lng="it">cornucopia</trd>
+  <trd lng="ja">&#x8C4A;&#x9952;&#x306E;&#x89D2;  <pr>&#x307B;&#x3046;&#x3058;&#x3087;&#x3046;&#x306E;&#x3064;&#x306E;</pr></trd>
+  <trd lng="nl">hoorn des overvloeds</trd>
+  <trd lng="pl">r&oacute;g obfito&sacute;ci</trd>
+  <trd lng="ro">corn al abunden&#x21B;ei</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5728;&#x795E;&#x8A71;&#x4E2D; <pr>z&#xE0;ish&#xE9;nhu&#xE0;zh&#x14D;ng</pr></trd>,
+    <trd>&#x4E30;&#x9976;&#x4E4B;&#x89D2; <pr>f&#x113;ngr&#xE1;ozh&#x12B;ji&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="korn.auxto0o">
+  <kap>a&ubreve;to<tld/>o</kap>
+  <snc mrk="korn.auxto0o.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      <ref tip="super" cel="hup.0o.SON">Hupo</ref> de a&ubreve;to,
+      origine farita el <ref tip="vid" cel="korn.0o.MUZ">korno</ref>
+      kaj plue tiel nomata:
+      <ekz>
+        eta &leftquot;PEE&rightquot; de a&ubreve;to<tld/>o altiris lian atenton
+        <fnt>
+          <aut>S. Rodin</aut>
+          <vrk>Bildoj pri Norda Lando</vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_l;&c_ja;&c_k;&c_s;&c_a;&c_n;</trd>
+  <trdgrp lng="fr">
+    <trd>avertisseur</trd>,
+    <trd>klaxon</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>tromba<klr> (di automobile)</klr></trd>,
+    <trd>clacson</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>claxon</trd>,
+    <trd>toeter</trd>
+  </trdgrp>
+  <trd lng="pl">klakson</trd>
+  <trd lng="pt">buzina<klr> de autom&oacute;vel</klr></trd>
+  <trd lng="ro">claxon</trd>
+  <trd lng="uk">&c_s;&c_i;&c_gu;&#x43D;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j; &c_r;&c_ib;&c_zh;&#x43E;&#x43A;</trd>
+</drv>
+
+<drv mrk="korn.cxas0o">
+  <kap>&ccirc;as<tld/>o</kap>
+  <snc mrk="korn.cxas0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      E&ubreve;ropa metala <ref tip="lst" cel="instru2.blov0o" lst="voko:blovinstrumentoj">blovinstrumento</ref>
+      kun longa, cirkle volvita tubo kaj vasta klo&scirc;o:
+      <ekz>
+        jen inter la montoj eka&ubreve;di&gcirc;is la sonoj de &ccirc;as<tld/>o
+        <fnt><bib>Fab1</bib>, <lok>sova&gcirc;aj cignoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_zh;&c_o;&c_k;</trd>,
+    <trd>&c_r;&c_o;&c_g; <klr tip="amb">(&c_m;&c_u;&c_z;&c_y;&c_ch;&c_n;&c_y;, &c_p;&c_a;&c_l;&c_ja;&c_w;&c_n;&c_ib;&c_ch;&c_y;)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Horn</trd>
+  <trd lng="en">hunting horn</trd>
+  <trdgrp lng="fr">
+    <trd>cor<klr> (d'orchestre)</klr></trd>,
+    <trd>cor de chasse</trd>
+  </trdgrp>
+  <trd lng="hu">vad&aacute;szk&uuml;rt</trd>
+  <trdgrp lng="ja">
+    <trd>&#x72E9;&#x731F;&#x7528;&#x30E9;&#x30C3;&#x30D1; 
+    <pr>&#x3057;&#x3085;&#x308A;&#x3087;&#x3046;&#x3088;&#x3046;&#x30E9;&#x30C3;&#x30D1;</pr></trd>,
+    <trd>&#x72E9;&#x731F;&#x30DB;&#x30EB;&#x30F3; 
+    <pr>&#x3057;&#x3085;&#x308A;&#x3087;&#x3046;&#x30DB;&#x30EB;&#x30F3;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">jachthoorn</trd>
+  <trd lng="pl">r&oacute;g <klr>(my&sacute;liwski)</klr></trd>
+  <trd lng="ro">corn  <klr>(v&acirc;n&abreve;toare)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_h;&c_o;&c_t;&c_n;&c_i;&c_ch;&c_i;&c_j;
+    &c_r;&c_o;&c_zh;&c_o;&c_k;</trd>,
+    <trd>&c_r;&c_o;&c_g;<klr>
+    (&c_m;&c_u;&c_z;&c_y;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;
+    &c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
+  </trdgrp>
+  <trd lng="uk">&#x43C;&c_i;&c_s;&#x43B;&c_i;&c_v;&c_s;&#x44C;&#x43A;&c_i;&c_j; &c_r;&c_ib;&c_g;</trd>
+</drv>
+
+<drv mrk="korn.dekstra_0o">
+  <kap>
+    dekstra <tld/>o
+  </kap>
+  <snc mrk="korn.dekstra_0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="sign.super0o.TIP">Supersigno</ref>,
+      oblikva streketo de maldekstre dekstren alsupra:
+      <ekz>
+        la akuto, nomata anka&ubreve; la dekstra <tld/>o, <klr>[estas]</klr> uzata en la
+        hispana lingvo ekzemple por indiki akcenton
+        <fnt>
+          <aut>J. Wells</aut>
+          <vrk><url ref="https://tubaro.aperu.net/v/ytb_sQbwOdJCv-s/">Kiam la latina skribo ne
+          sufi&ccirc;as</url></vrk>
+          <lok>Londona Klubo, 2021-05-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_k;&c_u;&c_t;</trd>,
+    <trd>&c_o;&c_k;&c_s;&c_y;&c_ja; <klr>(&c_u; &c_g;&c_r;&c_e;&c_c;&c_k;&c_a;&c_j;)</klr></trd>,
+    <trd>&c_v;&c_o;&c_s;&c_t;&c_r;&c_y; <ind>&c_n;&c_a;&c_c;&c_ib;&c_s;&c_k;</ind> <klr>(&c_d;&c_y;&c_ja;&c_k;&c_r;&c_y;&c_t;&c_y;&c_ch;&c_n;&c_y; &c_z;&c_n;&c_a;&c_k;)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">accent aigu</trd>
+  <trd lng="nl">accent aigu</trd>
+  <trd lng="pl">akcent ostry </trd>
+  <trd lng="ro">accent ascu&#x21B;it</trd>
+</drv>
+
+<drv mrk="korn.du0o">
+  <kap>
+    du<tld/>o
+  </kap>
+  <snc mrk="korn.du0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="sign.super0o.TIP">Supersigno</ref>
+      v-forma, &scirc;ajnanta kiel renversita
+      <ref tip="vid" cel="cxapel.0o.supersigno">&ccirc;apelo<sncref/></ref>:
+      <ekz>
+        du<tld/>o <klr>[&#x2026;]</klr> estas uzata en diversaj lingvoj por indiki konsonantan kvaliton:
+        en la &ccirc;e&hcirc;a, slovaka, kroata, slovena, latva kaj litova ni havas &ccaron; &scaron; &zcaron;
+        <fnt>
+          <aut>J. Wells</aut>
+          <vrk><url ref="https://tubaro.aperu.net/v/ytb_sQbwOdJCv-s/">Kiam la latina skribo ne
+          sufi&ccirc;as</url></vrk>
+          <lok>Londona Klubo, 2021-05-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_ch;&c_a;&c_k;</trd>,
+    <trd>&c_a;&c_d;&c_v;&c_a;&c_r;&c_o;&c_t;&c_n;&c_y; <ind>&c_c;&c_y;&c_r;&c_k;&c_u;&c_m;&c_f;&c_l;&c_je;&c_k;&c_s;</ind></trd>
+  </trdgrp>
+  <trd lng="fr">caron</trd>
+  <trdgrp lng="pl">
+    <trd>karon</trd>,
+    <trd>haczek</trd>,
+    <trd>odwr&oacute;cony  <ind>daszek</ind></trd>,
+    <trd>odwr&oacute;cony  <ind>cyrkumfleks</ind></trd>
+  </trdgrp>
+  <trd lng="ro">caron  <klr>(diacritic)</klr></trd>
+</drv>
+
+<drv mrk="korn.du0ulo">
+  <kap>du<tld/>ulo</kap>
+  <snc mrk="korn.du0ulo.ZOO">
+    <dif>
+      Besto kun du <tld/>oj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_v;&c_u;&c_r;&c_o;&c_g;</trd>
+  <trd lng="hu">k&eacute;tszarv&uacute;</trd>
+  <trd lng="ja">&#x4E8C;&#x89D2;&#x7363;  <pr>&#x3075;&#x305F;&#x304B;&#x3069;&#x3051;&#x3060;&#x3082;&#x306E;</pr></trd>
+  <trd lng="nl">tweehoorn</trd>
+  <trd lng="pl">dwuro&zdot;ec</trd>
+  <trd lng="ro">bicorn</trd>
+</drv>
+
+<drv mrk="korn.maldekstra_0o">
+  <kap>
+    maldekstra <tld/>o
+  </kap>
+  <snc mrk="korn.maldekstra_0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="sign.super0o.TIP">Supersigno</ref>,
+      oblikva streketo de maldekstre dekstren almalsupra:
+      <ekz>
+        la maldekstra <tld/>o <klr>[&#x2026;]</klr> montras la &leftquot;subeniran tonon&rightquot;
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="&Viki;/Greka_alfabeto">Greka alfabeto</url></vrk>
+          <lok>Vikipedio, 2020-07-07</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+    <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_a;&c_v;&c_ib;&c_s;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_y;&c_ja; <klr>(&c_u; &c_g;&c_r;&c_e;&c_c;&c_k;&c_a;&c_j;)</klr></trd>,
+    <trd>&c_c;&c_ja;&c_zh;&c_k;&c_ib; <ind>&c_n;&c_a;&c_c;&c_ib;&c_s;&c_k;</ind></trd>,
+    <trd>&c_a;&c_d;&c_v;&c_a;&c_r;&c_o;&c_t;&c_n;&c_y; <ind>&c_n;&c_a;&c_c;&c_ib;&c_s;&c_k;</ind> <klr>(&c_d;&c_y;&c_ja;&c_k;&c_r;&c_y;&c_t;&c_y;&c_ch;&c_n;&c_y; &c_z;&c_n;&c_a;&c_k;)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">accent grave</trd>
+  <trd lng="nl">accent grave</trd>
+  <trdgrp lng="pl">
+    <trd>grawis</trd>,
+    <trd>akcent ci&eogonek;&zdot;ki</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>gravis</trd>,
+    <trd>accent grav</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="korn.paper0eto">
+  <kap>paper<tld/>eto</kap>
+  <snc mrk="korn.paper0eto.KOMUNE">
+    <dif>
+      Papersaketo pinte rulita:
+      <ekz>
+        fari paper<tld/>etojn <klr>[&#x2026;]</klr> oni ne &ccirc;iutage bezonas, sed
+        tiam oni entreprenas ion alian
+        <fnt><bib>Fab3</bib> <lok>nokta &ccirc;apo de fra&ubreve;lo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_zh;&c_o;&c_k; <klr tip="amb">(&c_z; &c_p;&c_a;&c_p;&c_je;&c_r;&c_y;)</klr></trd>,
+    <trd>&c_s;&c_k;&c_r;&c_u;&c_t;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kornout</trd>,
+    <trd>kornoutek</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>cornet de papier</trd>
+  </trdgrp>
+  <trd lng="hu">pap&iacute;rt&ouml;lcs&eacute;r</trd>
+  <trd lng="ja">&#x5186;&#x9310;&#x5F62;&#x306E;&#x7D19;&#x888B; 
+  <pr>&#x3048;&#x3093;&#x3059;&#x3044;&#x304B;&#x305F;&#x306E;&#x304B;&#x307F;&#x3076;&#x304F;&#x308D;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>tutka</trd>,
+    <trd>tytka</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>tutca</trd>,
+    <trd>tub</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_o;&c_zh;&c_o;&c_k;<klr>
+    (&c_b;&c_u;&c_m;&c_a;&c_zh;&c_n;&c_y;&c_j;)</klr></trd>,
+    <trd>&c_k;&c_u;&c_l;&c_jo;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">korn&uacute;tik</trd>
+</drv>
+
+<drv mrk="korn.sxu0o">
+  <kap>&scirc;u<tld/>o</kap>
+  <snc mrk="korn.sxu0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      La&ubreve;longa duono de <tld/>o a&ubreve; simila duonfunela ilo
+      por faciligi engliton de kalkano en &scirc;uon.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_zh;&c_o;&c_k; <klr>(&c_d;&c_l;&c_ja; &c_a;&c_b;&c_u;&c_t;&c_k;&c_u;)</klr></trd>,
+    <trd>&c_l;&c_y;&c_zh;&c_k;&c_a; <klr>(&c_d;&c_l;&c_ja; &c_a;&c_b;&c_u;&c_t;&c_k;&c_u;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>shoe horn</trd>,
+    <trd>shoe spoon</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>corne &agrave; chaussure</trd>
+  </trdgrp>
+  <trd lng="hu">cip&odblac;kan&aacute;l</trd>
+  <trd lng="ja">&#x9774;&#x3079;&#x3089;  <pr>&#x304F;&#x3064;&#x3079;&#x3089;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>schoenlepel</trd>,
+    <trd>schoentrekker</trd>
+  </trdgrp>
+  <trd lng="pl">&lstroke;y&zdot;ka <klr>do but&oacute;w</klr></trd>
+  <trd lng="ro">&icirc;nc&abreve;l&#x21B;&abreve;tor de  <ind>pantofi</ind></trd>
+  <trd lng="ru">&c_r;&c_o;&c_zh;&c_o;&c_k;<klr> (&c_d;&c_l;&c_ja;
+  &c_o;&c_b;&c_u;&c_v;&c_i;)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_ib;&c_zh;&#x43E;&#x43A; &c_d;&#x43B;&#x44F; &c_v;&c_z;&c_u;&c_t;&c_t;&#x44F;</trd>,
+    <trd>&#x43B;&#x43E;&c_zh;&#x43A;&c_a; &c_d;&#x43B;&#x44F; &c_v;&c_z;&c_u;&c_t;&c_t;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="korn.unu0ulo">
+  <kap>unu<tld/>ulo</kap>
+  <snc mrk="korn.unu0ulo.ZOO">
+    <dif>
+      Besto kun unu <tld/>o:
+      <ekz>
+        la unu<tld/>ulo tuj aperis kaj kuris rekte kontra&ubreve; la tajloro,
+        kvaza&ubreve; por trapiki lin
+        <fnt><bib>ElektFab</bib>, <lok>La kura&gcirc;a tajloreto</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_n;&c_a;&c_r;&c_o;&c_g;</trd>
+  <trd lng="cs">jednoro&zcaron;ec</trd>
+  <trd lng="de">Einhorn</trd>
+  <trd lng="en">unicorn</trd>
+  <trdgrp lng="fr">
+    <trd>licorne</trd>,
+    <trd>unicorne</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>egyszarv&uacute;</trd>,
+    <trd>unicornis</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x89D2;&#x7363;  <pr>&#x3044;&#x3063;&#x304B;&#x304F;&#x3058;&#x3085;&#x3046;</pr></trd>,
+    <trd>&#x30E6;&#x30CB;&#x30B3;&#x30FC;&#x30F3;</trd>
+  </trdgrp>
+  <trd lng="nl">eenhoorn</trd>
+  <trd lng="pl">jednoro&zdot;ec</trd>
+  <trdgrp lng="pt">
+   <trd>unic&oacute;rnio</trd>
+  </trdgrp>
+  <trd lng="ro">unicorn</trd>
+  <trd lng="ru">&c_je;&c_d;&c_i;&c_n;&c_o;&c_r;&c_o;&c_g;</trd>
+  <trd lng="sk">jednoro&zcaron;ec</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5ECC; <pr>zh&#xEC;</pr></trd>,
+    <trd>&#x9E92; <pr>q&#xED;</pr></trd>,
+    <trd>&#x72EC;&#x89D2;&#x517D; <pr>d&#xFA;ji&#x1CE;osh&#xF2;u</pr></trd>,
+    <trd>&#x9E92;&#x9E9F; <pr>q&#xED;l&#xED;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="korn.Unu0ulo">
+  <kap>Unu<tld/>ulo
+    <fnt>
+      <aut>Galad&iacute;-Enr&iacute;quez, David; Wandel, Amri</aut>:
+      <vrk>La kosmo kaj ni. Galaksioj, planedoj kaj vivo en la
+      universo</vrk>.
+      <lok>FEL, Antverpeno, 2005</lok>
+    </fnt>
+  </kap>
+  <mlg>Mon</mlg>
+  <snc mrk="korn.Unu0ulo.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Ekvatora <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref>
+      (<trd lng="la">Monoceros</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_A;&c_d;&c_n;&c_a;&c_r;&c_o;&c_g; <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#x2019;&c_je;)</klr></trd>
+  <trd lng="en">Monoceros</trd>
+  <trd lng="fr">Licorne<klr tip="ind"> (constellation)</klr></trd>
+  <trd lng="ja">&#x3044;&#x3063;&#x304B;&#x304F;&#x3058;&#x3085;&#x3046;&#x5EA7;  <pr>&#x3044;&#x3063;&#x304B;&#x304F;&#x3058;&#x3085;&#x3046;&#x3056;</pr></trd>
+  <trd lng="pl">Jednoro&zdot;ec  <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">Licornul  <klr>(constela&#x21B;ie)</klr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.45 2023/10/23 09:25:59
+Dmitri Gabinski: + trd be
+
+versio 1.44 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+versio 1.42 2023/06/29 15:29:17
+Paul Peeraerts:  + trd nl
+
+versio 1.41 2023/06/29 12:52:02
+Paul Peeraerts:  + trd nl
+
+versio 1.40 2023/01/14 11:23:35
+Wolfram Diestel: +ref
+
+versio 1.39 2022/10/02 21:32:56
+Vito Redsky: +trd pl + trd ro
+
+versio 1.38 2022/05/23 07:33:20
+Dmitri Gabinski: + trd be
+
+versio 1.37 2022/05/01 08:09:25
+-->
+</vortaro>

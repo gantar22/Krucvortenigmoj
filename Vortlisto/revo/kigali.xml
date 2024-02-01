@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: kigali.xml,v 1.5 2023/12/03 09:58:49 afido Exp $">
+    <kap>
+      <rad>Kigali</rad>/o
+    </kap>
+
+<drv mrk="kigali.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">GEOG</uzo><uzo tip="fak">POL</uzo>
+  <snc>
+    <dif>
+      La <ref tip="lst" lst="voko:&ccirc;efurboj" cel="urb.cxef0o.POL">&ccirc;efurbo</ref>
+      de <ref tip="malprt" cel="ruand.R0o">Ruando</ref>:
+      <ekz>
+        la Pintkunsido de Afrika Unio en Kigalio (Ruando) <klr>[en]</klr> marto 2018
+        <fnt>
+          <vrk><url ref="https://revuoesperanto.org/afriko_uruena">Ambicia projekto en
+          Afriko</url></vrk>
+          <lok>Revuo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        germana kolonialisto <nom>Richard Kandt</nom> fondis <tld/>on en 1907
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=237245">Kigalio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Kigali</trd>
+    <trd lng="en">Kigali</trd>
+    <trd lng="fr">Kigali</trd>
+  </snc>
+  <trd lng="be">&c_K;&c_ib;&c_g;&c_a;&c_l;&c_ib;</trd>
+  <trd lng="ja">&#x30AD;&#x30AC;&#x30EA;</trd>
+  <trd lng="uk">&#x41A;&c_ib;&c_gu;&c_a;&#x43B;&c_ib;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x57FA;&#x52A0;&#x5229; <pr>J&#x12B;ji&#x101;l&#xEC;</pr></trd>,
+    <trd>&#x5409;&#x4F73;&#x5229; <pr>J&#xED;ji&#x101;l&#xEC;</pr></trd>,
+    <trd>&#x5409;&#x4F73;&#x5229; <pr>j&#xED;ji&#x101;l&#xEC;</pr></trd>,
+    <trd>&#x57FA;&#x52A0;&#x5229; <pr>j&#x12B;ji&#x101;l&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.3 2022/04/06 07:29:30
+Dmitri Gabinski: + trd be
+
+versio 1.1 2020/07/06 20:32:58
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: optik.xml,v 1.28 2023/10/20 13:11:48 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>optik</rad>/o
+</kap>
+<drv mrk="optik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="optik.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Parto de la <ref tip="malprt" cel="fizik.0o">fiziko</ref>
+      koncernanta la lumajn fenomenojn:
+      <ekz>
+        la arabo-islama civilizacio <klr>[&#x2026;]</klr> ekde la 8-a jarcento konsiderinde
+        disvolvis multajn sciencajn fakojn: matematiko, <tld/>o, astronomio,
+        geografio, medicino
+        <fnt>
+          <bib>MD05</bib>
+          <vrk>&Ccirc;iuj kulturoj konstruas sian konceptan ilaron</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_o;&c_p;&c_t;&c_y;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_o;&c_p;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>nauka o sv&ecaron;tle</trd>,
+    <trd>optika</trd>
+  </trdgrp>
+  <trd lng="de">Optik</trd>
+  <trd lng="el">&omikron;&pi;&tau;&jota;&kappa;&eta_ton;</trd>
+  <trd lng="en">optics</trd>
+  <trd lng="es">&oacute;ptica</trd>
+  <trd lng="fr">optique<klr> (subst.)</klr></trd>
+  <trd lng="hu">optika</trd>
+  <trd lng="ja">&#x5149;&#x5B66;  <pr>&#x3053;&#x3046;&#x304C;&#x304F;</pr></trd>
+  <trd lng="nl">optica</trd>
+  <trd lng="pl">optyka</trd>
+  <trdgrp lng="pt">
+    <trd>&oacute;ptica</trd>,
+    <trd>&oacute;tica</trd>
+  </trdgrp>
+  <trd lng="ro">optic&abreve;</trd>
+  <trd lng="ru">&c_o;&c_p;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>n&aacute;uka o svetle</trd>,
+    <trd>optika</trd>
+  </trdgrp>
+  <trd lng="sv">optik</trd>
+  <trd lng="uk">&#x43E;&#x43F;&c_t;&c_i;&#x43A;&c_a;</trd>
+</drv>
+
+<drv mrk="optik.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <klr>[ili]</klr> estas erarigitaj de <tld/>a iluzio
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> foto <klr>[&#x2026;]</klr> estis farita ver&scirc;ajne kun la helpo de
+        <klr>[&#x2026;]</klr> ia <tld/>a truko
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        radiado kiun varmaj objektoj eligas <klr>[&#x2026;]</klr> en la <tld/>a spektro
+        <klr>[&#x2026;]</klr> trovi&gcirc;as anta&ubreve; la ru&gcirc;a koloro
+        <fnt>
+          <aut>J&aacute;nos S&aacute;rk&ouml;zi</aut>
+          <vrk><url ref="&Monato;/2001/pdf/monato200104.pdf#page=4">Prefere anta&ubreve;ru&gcirc;a</url></vrk>
+           <bib>Monato</bib>
+          <lok>2001/04, p. 4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu proceduro nomi&gcirc;as <tld/>a signorekono: la komputilo analizas &ccirc;iun bildon de
+        litero aparte kaj decidas, kiu litero estas
+        <fnt>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2012/010663.php">De papero al komputilo: bitigo de presitaj
+          dokumentoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/03, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        komuniku &gcirc;in al la radiologia a&ubreve; <tld/>a instituto
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="vid">vida</ref>,
+      <ref cel="lum.0a.0oa">luma<sncref/></ref>,
+      <ref cel="okul.0a">okula</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>optick&yacute;</trd>,
+    <trd>zrakov&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">optisch</trd>
+  <trd lng="el">&omikron;&pi;&tau;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">optical</trd>
+  <trd lng="es">&oacute;ptico</trd>
+  <trd lng="fr">optique<klr> (adj.)</klr></trd>
+  <trd lng="hu">optikai</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5149;&#x5B66;&#x306E;  <pr>&#x3053;&#x3046;&#x304C;&#x304F;&#x306E;</pr></trd>,
+    <trd>&#x8996;&#x899A;&#x306E;  <pr>&#x3057;&#x304B;&#x304F;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">optisch</trd>
+  <trd lng="pl">optyczny</trd>
+  <trd lng="pt">&oacute;ptico</trd>
+  <trdgrp lng="ro">
+    <trd>optic</trd>,
+    <trd>vizual</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_p;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>optick&yacute;</trd>,
+    <trd>sveteln&yacute;</trd>,
+    <trd>zrakov&yacute;</trd>
+  </trdgrp>
+  <trd lng="sv">optisk</trd>
+  <trd lng="uk">&#x43E;&#x43F;&c_t;&c_i;&c_ch;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="optik.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Tiu, kiu fabrikas a&ubreve; vendas <tld/>ajn instrumentojn:
+      <ekz>
+        la plej gravaj laborterenoj jenas: misioj kun okulistoj kaj <tld/>istoj,
+        instruado al infanoj vidhandikapitaj, rekapabligo kaj lo&gcirc;ado
+        <fnt>
+          <aut>Jacques Tuinder</aut>
+          <vrk><url ref="&Monato;/2011/010356.php">Fonda&jcirc;o E-vid-E-nt-E jam 45 jarojn
+          aktivadas</url></vrk>
+           <bib>Monato</bib>
+          <lok>2011/06, p. 19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="okul.0isto">okulisto</ref>,
+      <ref cel="oftalmolog.0o">oftalmologo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_o;&c_p;&c_t;&c_y;&c_k;</trd>
+  <trd lng="bg">&c_o;&c_ch;&c_je;&c_n; &c_l;&c_je;&c_k;&c_a;&c_r;</trd>
+  <trd lng="cs">optik</trd>
+  <trd lng="de">Optiker</trd>
+  <trd lng="en">optician</trd>
+  <trd lng="fr">opticien</trd>
+  <trd lng="hu">optikus</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5149;&#x5B66;&#x8005;  <pr>&#x3053;&#x3046;&#x304C;&#x304F;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x773C;&#x93E1;&#x5C4B;  <pr>&#x3081;&#x304C;&#x306D;&#x3084;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">opticien</trd>
+  <trd lng="pl">optyk</trd>
+  <trd lng="ro">optician</trd>
+  <trd lng="ru">&c_o;&c_p;&c_t;&c_i;&c_k;</trd>
+  <trd lng="sk">optik</trd>
+  <trd lng="uk">&#x43E;&#x43F;&c_t;&c_i;&#x43A;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.26 2023/05/14 18:28:54
+Paul Peeraerts: + lok + url + aut
+
+versio 1.25 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
+
+versio 1.24 2022/05/01 17:17:01
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2022/01/04 22:31:58
+Vito Redsky: + trd pl + trd ro
+
+versio 1.21 2021/06/12 12:41:33
+Wolfram Diestel: ekz-oj
+
+Revision 1.19  2018/06/13 03:10:14  revo
+Dusan Juretic: +trd es
+
+Revision 1.18  2015/07/04 08:37:40  revo
+-->
+</vortaro>

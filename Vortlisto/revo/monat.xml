@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: monat.xml,v 1.129 2023/12/12 20:10:24 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>monat</rad>/o
+</kap>
+
+<drv mrk="monat.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="monat.0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      <ref tip="lst" cel="dauxr.0o" lst="voko:da&ubreve;roj">Da&ubreve;ro</ref>
+      de unu luna ciklo, proksimume 30 tagoj:
+      <ekz>
+        post tri <tld/>oj estos la edzi&gcirc;o
+        <fnt><bib>F</bib>, <lok>&FE; 39</lok></fnt>;
+      </ekz>
+      <ekz>
+        voja&gcirc;o de du <tld/>oj;
+      </ekz>
+      <ekz>
+        post la paso de tri <tld/>oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 38:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la arkeo haltis en la sepa <tld/>o, en la dek-sepa tago de la
+        <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 8:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nov<tld/>o
+        <fnt>
+          <bib>NT</bib>
+          <lok>Koloseanoj 2:16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="monat.0o.KAL">
+    <dif>
+      &Ccirc;iu el la proksimume 30-tagaj partoj la&ubreve; kiuj oni
+      dividas la kalendaran <ref tip="malprt" cel="jar.0o.KAL">jaron</ref>:
+      <ekz>
+        Januaro estas la unua <tld/>o de la jaro
+        <fnt><bib>F</bib>, <lok>&FE; 12</lok></fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>o Majo la vento blovis ankora&ubreve; malvarme
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Ekzistas diferenco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>o <nom>Me&hcirc;ir</nom>, en decembro
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        komencante de A&ubreve;gusto 1888 mi eldonados &ccirc;iu<tld/>e nomarojn de
+        &ccirc;iuj verkoj
+        <fnt>
+          <bib>DL</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ekz" cel="ramadan.0o">ramadano</ref>
+    <lstref lst="voko:monatoj">monatoj</lstref>
+  </snc>
+  <trd lng="af">maand</trd>
+  <trd lng="am">&#x12C8;&#x122D;</trd>
+  <trd lng="ar">&a_sh;&a_h;&a_r;</trd>
+  <trd lng="az">ay</trd>
+  <trd lng="be">&c_m;&c_je;&c_s;&c_ja;&c_c;</trd>
+  <trd lng="bg">&c_m;&c_je;&c_s;&c_je;&c_c;</trd>
+  <trd lng="bn">&#x9AE;&#x9BE;&#x9B8;</trd>
+  <trd lng="bo">&#xF56;&#xF7C;&#xF51;&#xF0B;&#xF5F;&#xFB3;&#xF0B;</trd>
+  <trd lng="br">miz</trd>
+  <trd lng="bs">mjesec</trd>
+  <trd lng="ca">mes</trd>
+  <trd lng="co">mese</trd>
+  <trdgrp lng="cs">
+    <trd>m&ecaron;s&iacute;c</trd>,
+    <trd>m&ecaron;s&iacute;c <klr>(v kalend&aacute;&rcaron;i)</klr></trd>
+  </trdgrp>
+  <trd lng="cy">mis</trd>
+  <trd lng="da">m&#xE5;ned</trd>
+  <trd lng="de">Monat</trd>
+  <trd lng="en">month</trd>
+  <trd lng="es">mes</trd>
+  <trd lng="et">kuu</trd>
+  <trd lng="eu">hileko</trd>
+  <trd lng="fa">&a_m;&a_A;&a_h;</trd>
+  <trd lng="fr">mois</trd>
+  <trd lng="fy">moanne</trd>
+  <trd lng="ga">m&#xED;</trd>
+  <trd lng="gd">m&#xEC;os</trd>
+  <trd lng="gl">mes</trd>
+  <trd lng="gu">&#xAAE;&#xAB9;&#xABF;&#xAA8;&#xACB;</trd>
+  <trd lng="ha">watan</trd>
+  <trdgrp lng="he">
+    <trd>&het;&vav;&dalet;&shin;</trd>,
+    <trd>&yod;&resh;&het;<klr tip="ind">
+    (&het;&vav;&dalet;&shin;)</klr></trd>
+  </trdgrp>
+  <trd lng="hi">&#x92E;&#x93E;&#x939;</trd>
+  <trd lng="hmn">lub hlis</trd>
+  <trd lng="hr">mjesec</trd>
+  <trd lng="ht">mwa</trd>
+  <trd lng="hu">h&oacute;nap</trd>
+  <trd lng="hy">&#x561;&#x574;&#x56B;&#x57D;</trd>
+  <trd lng="id">bulan</trd>
+  <trd lng="ig">&#x1ECD;nwa</trd>
+  <trd lng="is">m&#xE1;nu&#xF0;i</trd>
+  <trd lng="ja">&#x6708; <pr>&#x3052;&#x3064;</pr></trd>
+  <trd lng="jv">sasi</trd>
+  <trd lng="ka">&#x10D7;&#x10D5;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&c_a;&c_j;</trd>
+  <trd lng="km">&#x1781;&#x17C2;</trd>
+  <trd lng="kn">&#xCA4;&#xCBF;&#xC82;&#xC97;&#xCB3;&#xCC1;</trd>
+  <trd lng="ko">&#xAC1C;&#xC6D4;</trd>
+  <trd lng="ku">meh</trd>
+  <trd lng="ky">&c_a;&c_j;</trd>
+  <trd lng="lat">mense</trd>
+  <trd lng="lo">&#xEC0;&#xE94;&#xEB7;&#xEAD;&#xE99;</trd>
+  <trd lng="lt">m&#x117;nes&#x12F;</trd>
+  <trd lng="lv">m&#275;nesis</trd>
+  <trd lng="mg">volana</trd>
+  <trd lng="mi">marama</trd>
+  <trd lng="mk">&#x43C;&c_je;&c_s;&c_je;&c_c;</trd>
+  <trd lng="ml">&#xD2E;&#xD3E;&#xD38;&#xD02;</trd>
+  <trd lng="mn">&c_s;&c_a;&c_r;&#x44B;&#x43D;</trd>
+  <trd lng="mr">&#x92E;&#x939;&#x93F;&#x928;&#x93E;</trd>
+  <trd lng="ms">bulan</trd>
+  <trd lng="mt">xahar</trd>
+  <trd lng="my">&#x101C;</trd>
+  <trd lng="ne">&#x92E;&#x939;&#x93F;&#x928;&#x93E;</trd>
+  <trd lng="nl">maand</trd>
+  <trd lng="ny">mwezi</trd>
+  <trd lng="pa">&#xA2E;&#xA39;&#xA40;&#xA28;&#xA47; &#xA26;&#xA47;</trd>
+  <trd lng="pl">miesi&aogonek;c</trd>
+  <trd lng="ps">&a_m;&#x6CC;&a_A;&a_sh;&#x62A;</trd>
+  <trd lng="pt">m&ecirc;s</trd>
+  <trd lng="ro">lun&abreve; <klr>(calendaristic&abreve;)</klr></trd>
+  <trd lng="ru">&c_m;&c_je;&c_s;&c_ja;&c_c;</trd>
+  <trd lng="rw">ukwezi</trd>
+  <trd lng="sd">&a_m;&a_h;&#x64A;&a_n;&a_w;</trd>
+  <trd lng="si">&#xDB8;&#xDCF;&#xDC3;&#xDBA;</trd>
+  <trdgrp lng="sk">
+    <trd>mesiac <klr>(v kalend&aacute;ri)</klr></trd>,
+    <trd>mesiac <klr>(&ccaron;asov&aacute; jednotka)</klr></trd>
+  </trdgrp>
+  <trd lng="sl">mesec</trd>
+  <trd lng="sm">masina</trd>
+  <trd lng="sn">mwedzi</trd>
+  <trd lng="so">bil</trd>
+  <trd lng="sq">muaj</trd>
+  <trd lng="st">moodle moodle</trd>
+  <trd lng="su">sasih</trd>
+  <trd lng="sv">m&aring;nad</trd>
+  <trd lng="sw">mwezi</trd>
+  <trd lng="ta">&#xBAE;&#xBBE;&#xBA4;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC28;&#xC46;&#xC32;</trd>
+  <trd lng="tg">&#x43C;&#x43E;&#x4B3;</trd>
+  <trd lng="th">&#xE40;&#xE14;&#xE37;&#xE2D;&#xE19;</trd>
+  <trd lng="tl">buwan</trd>
+  <trd lng="tr">ay<klr>(ocak, &scedil;ubat, mart, nisan ...)</klr></trd>
+  <trd lng="tt">&c_a;&c_j;</trd>
+  <trd lng="uk">&#x43C;&c_ib;&c_s;&#x44F;&c_c;&#x44C;</trd>
+  <trd lng="ur">&a_m;&a_A;&#x6C1;</trd>
+  <trd lng="uz">oy</trd>
+  <trd lng="vi">th&#xE1;ng</trd>
+  <trd lng="xh">inyanga</trd>
+  <trd lng="yi">&#x5D7;&#x5D5;&#x5D3;&#x5E9;</trd>
+  <trd lng="yo">os&#xF9;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6708;<klr> [yu&egrave;]</klr></trd>,
+    <trd>&#x6708;&#x4EFD;<klr> [yu&egrave;f&egrave;n]</klr></trd>,
+    <trd>&#x6708;&#x5EA6;<klr> [yu&egrave;d&ugrave;]</klr></trd>
+  </trdgrp>
+  <trd lng="zu">ngenyanga</trd>
+</drv>
+
+<drv mrk="monat.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="monat.0a.KAL">
+    <dif>
+      Rilata al <tld/>o, precipe okazanta unufoje en <tld/>o:
+      <ekz>
+        <tld/>a fakrevuo
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/1993/A931103.php">Nova gaela numerala sistemo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/11, p. 21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        du<tld/>a revuo
+        <fnt>
+          <aut>Boris Kolker</aut>
+            <vrk><url ref="&Monato;/2000/006807.php">Fascina gazeto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/03, p. 31</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la societo eldonas <tld/>an gazeton
+        <fnt><bib>FK</bib>, <lok>5, el la vivo kaj sciencoj,
+        bagateloj</lok></fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>a nutrokvanto estis limigita je nur 13&#x202F;kg
+        <fnt>
+       <aut>Maryvonne kaj Bruno Robineau</aut>
+          <vrk><url ref="&Monato;/2000/006831.php">La&ubreve; ritmo de la rizejoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/02, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por e&ccirc; mezbone vivi necesas <tld/>a enspezo de 188 dolaroj
+        <fnt>
+          <aut>LAST</aut>
+            <vrk><url ref="&Monato;/2000/006804.php">Mizera statistiko</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 14</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_s;&c_ja;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_sh;&c_t;&c_o;&c_m;&c_je;&c_s;&c_ja;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="br">miziek</trd>
+  <trd lng="ca">mensual</trd>
+  <trd lng="de">monatlich</trd>
+  <trd lng="fr">mensuel</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x30F6;&#x6708;&#x306E;  <pr>&#x3072;&#x3068;&#x304B;&#x3052;&#x3064;&#x306E;</pr></trd>,
+    <trd>&#x6BCE;&#x6708;&#x306E;  <pr>&#x307E;&#x3044;&#x3064;&#x304D;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">maandelijks</trd>
+  <trd lng="pl">miesi&eogonek;czny</trd>
+  <trd lng="ro">lunare</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_je;&c_s;&c_ja;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_je;&c_zh;&c_je;&c_m;&c_je;&c_s;&c_ja;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sv">m&aring;natlig</trd>
+  <trd lng="tr">ayl&inodot;k</trd>
+  <trd lng="uk">&#x43C;&c_ib;&c_s;&#x44F;&c_ch;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="monat.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc mrk="monat.0ajxo.menstruo">
+    <dif>
+      <ref tip="dif" cel="menstr.0o">Menstruo</ref>:
+      <ekz>
+        se iu estas virta kaj agas la&ubreve;le&gcirc;e kaj juste
+        <klr>[&#x2026;]</klr> ne alproksimi&gcirc;as al virino en la tempo de &scirc;ia
+        <tld/>a&jcirc;o
+        <fnt><bib>MT</bib>, <lok>&Jeh; 18:6</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a&jcirc;a suferado
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 12:2</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_s;&c_ja;&c_ch;&c_n;&c_y;&c_ja;</trd>,
+    <trd>&c_m;&c_e;&c_n;&c_s;&c_t;&c_r;&c_u;&c_a;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>amzerio&ugrave;<klr tip="ind"> (mizio&ugrave;)</klr></trd>,
+    <trd>mizio&ugrave;<klr tip="ind"> (amzerio&ugrave;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>regla</trd>,
+    <trd>menstruaci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Monatsblutung</trd>,
+    <trd>Regel</trd>,
+    <trd>Menstruation</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>r&egrave;gles<klr tip="amb"> (menstrues)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>havi v&eacute;rz&eacute;s</trd>,
+    <trd>menstru&aacute;ci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>haid</trd>,
+    <trd>menstruasi</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6708;&#x7D4C;  <pr>&#x3052;&#x3063;&#x3051;&#x3044;</pr></trd>,
+    <trd>&#x751F;&#x7406;  <pr>&#x305B;&#x3044;&#x308A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>maandstonden</trd>,
+    <trd>regel</trd>,
+    <trd>menstruatie</trd>
+  </trdgrp>
+  <trd lng="pl">miesi&aogonek;czka</trd>
+  <trdgrp lng="ro">
+    <trd>ciclu</trd>,
+    <trd>menstre</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_je;&c_s;&c_ja;&c_ch;&c_n;&c_y;&c_je;</trd>,
+    <trd>&c_m;&c_je;&c_n;&c_s;&c_t;&c_r;&c_u;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sv">menstruation</trd>
+  <trdgrp lng="tr">
+    <trd>adet<klr>(kad&inodot;nlar ayda bir adet olur)</klr></trd>,
+    <trd>ayba&scedil;&inodot;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="monat.tri0o">
+  <kap>tri<tld/>o</kap>
+  <snc mrk="monat.tri0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      <ref tip="dif" cel="kvar.jar0ono.KAL">Jarkvarono</ref>,
+      <ref tip="sin" cel="trimestr.0o">trimestro</ref>:
+      <ekz>
+        oficistoj proponis cedon de po unu salajra horo &ccirc;iun tri<tld/>on
+        <fnt>
+          <aut>C. Gacond</aut>,
+          <vrk><url ref="http://www.esperanto-gacond.ch/Claude_Gacond_Radioprelego-0019.pdf">19a
+          radioprelego</url></vrk>,
+          <lok>1963-04-10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plinombrigi la bestkvanton de 600 &gcirc;is 1&#x202F;000 kokidoj dum la unua
+        tri<tld/>o 2005
+        <fnt>
+          <aut>P. Lovesse, trad. D. Durand</aut>,
+          <vrk>Bohicon evoluas !</vrk>,
+          <lok><url ref="http://www.globidar.org/solidareco/mseo84.htm">monda
+          solidareco, informilo 2005-03</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_v;&c_a;&c_r;&c_t;&c_a;&c_l;</trd>,
+    <trd>&c_t;&c_r;&c_y;&c_m;&c_e;&c_s;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trd lng="ca">trimestre</trd>
+  <trdgrp lng="de">
+    <trd>Trimester</trd>,
+    <trd>Quartal</trd>
+  </trdgrp>
+  <trd lng="fr">trimestre</trd>
+  <trdgrp lng="id">
+    <trd>kuartal</trd>,
+    <trd>trimester</trd>,
+    <trd>triwulan</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>trimester</trd>,
+    <trd>kwartaal</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kwarta&lstroke;</trd>,
+    <trd>trymestr</trd>
+  </trdgrp>
+  <trd lng="ro">trimestru</trd>
+</drv>
+
+<drv mrk="monat.miel0o">
+  <kap>miel<tld/>o</kap>
+  <snc mrk="monat.miel0o.EDZ">
+    <dif>
+      La monato a&ubreve; la semajnoj post la edzi&gcirc;o:
+      <ekz>
+        balda&ubreve; la najtingalo kantos la miel<tld/>on de la
+        novgeedzi&gcirc;intoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marcel Lemeltier</aut>
+          <vrk><url ref="&Monato;/2012/010235.php">&Ccirc;u forgesita trezoro?</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_ja;&c_d;&c_o;&c_v;&c_y; &c_m;&c_je;&c_s;&c_ja;&c_c;</trd>
+  <trd lng="bg">&c_m;&c_je;&c_d;&c_je;&c_n; &c_m;&c_je;&c_s;&c_je;&c_c;</trd>
+  <trd lng="ca">lluna de <ind>mel</ind></trd>
+  <trd lng="cs">l&iacute;b&aacute;nky</trd>
+  <trdgrp lng="de">
+    <trd>Flitterwochen</trd>
+  </trdgrp>
+  <trd lng="en">honeymoon</trd>
+  <trd lng="fr">lune de miel</trd>
+  <trd lng="id"><ind>bulan</ind> madu</trd>
+  <trdgrp lng="ja">
+    <trd>&#x871C;&#x6708;  <pr>&#x307F;&#x3064;&#x3052;&#x3064;</pr></trd>,
+    <trd>&#x30CF;&#x30CD;&#x30E0;&#x30FC;&#x30F3;</trd>
+  </trdgrp>
+  <trd lng="nl">wittebroodsweken</trd>
+  <trd lng="pl">miesi&aogonek;c miodowy</trd>
+  <trd lng="ro">lun&abreve; de miere</trd>
+  <trd lng="sk">medov&eacute; t&yacute;&zcaron;dne</trd>
+  <trd lng="sv">smekm&aring;nad</trd>
+  <trd lng="tr">bal ay&inodot;</trd>
+  <trd lng="uk">&#x43C;&c_je;&c_d;&#x43E;&c_v;&c_i;&c_j; &#x43C;&c_ib;&c_s;&#x44F;&c_c;&#x44C;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.129 2023/12/12 20:10:24
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.128 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.126 2023/08/29 13:30:41
+Wolfram Diestel: ja: prononco
+
+versio 1.125 2023/04/27 12:44:22
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.124 2023/04/20 06:33:10
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.123 2023/04/12 12:45:52
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.122 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.119 2021/08/31 12:47:56
+-->
+</vortaro>

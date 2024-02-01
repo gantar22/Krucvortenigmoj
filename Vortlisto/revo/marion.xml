@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: marion.xml,v 1.30 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>marionet</rad>/o
+</kap>
+<drv mrk="marion.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="marion.0o.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      <ref tip="super" cel="pup.0o.ludilo">Pupo</ref>
+      kun mane, fadene a&ubreve; risorte movataj membroj
+      uzata en <ref tip="malprt" cel="teatr.pup0o">pupteatro</ref>:
+      <ekz>
+        maljuna ligna&jcirc;isto &Gcirc;epeto skulptas el lignopeco <tld/>on, al kiu
+        li donas nomon
+        Pinokjo
+        <fnt>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2003/008067.html">Marioneto &ccirc;iam aktuala</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/06, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur &ccirc;iun nove konstruitan domon oni pendigas <tld/>on, ajlaron
+        a&ubreve; huffera&jcirc;on
+        <fnt>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2006/008313.php">Tago de la somero</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/06, p. 9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">marionette</trd>
+    <trd lng="fa">&a_ayn;&a_r;&a_w;&a_s;&f_k; &a_kh;&f_y;&a_m;&a_h;&#x200C;&a_sh;&a_b;&#x200C;&a_b;&a_A;&a_z;&f_y;</trd>
+    <trdgrp lng="it">
+      <trd>marionetta</trd>, 
+      <trd>burattino</trd>,
+    </trdgrp>
+    <trd lng="pl">marionetka</trd>     
+    <trd lng="ro">p&abreve;pu&#x219;&abreve;</trd>
+  </snc>
+  <snc mrk="marion.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="super" cel="hom.0o">Homo</ref>
+      sen karaktero, sen propra volo:
+      <ekz>
+        mi volonte estus klarigisto inter vi kaj via amato, se mi nur
+        vidus, ke la
+        <tld/>oj dancas
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>!
+      </ekz>
+      <ekz>
+        la lasta imperiestro de la man&ccirc;ura dinastio ludi<klr>[s]</klr>
+        rolon de <tld/>o
+        enmane de la japanaj imperiistoj
+        <fnt>
+          <aut>Sabeo Fu/Yamasaki Seik&ocirc;</aut>
+            <vrk><url ref="&Monato;/2001/007025.php">Formortanta lingvo de malplimulto en
+            &Ccirc;inio</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 22</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        estas nedubeble, ke la tiel nomata prezidanto estas nura moskva
+        <tld/>o, uzata
+        por &ccirc;anta&gcirc;i Moldavion
+        <fnt>
+          <aut>Pan Gavrilan</aut>
+          <vrk><url ref="&Monato;/2010/010201.php">En la lando de la flavaj bicikloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/12, p. 13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fa">
+      <trd>&a_b;&a_A;&a_z;&f_y;&f_ch;&a_h;</trd>,
+      <trd>&a_A_madda;&a_l;&a_t; &a_d;&a_s;&a_t;</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>fantoche</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>fantoccio</trd>
+      <trd>burattino</trd>
+      <trd>marionetta</trd>
+    </trdgrp>
+    <trd lng="pl">marionetka</trd>     
+    <trd lng="ro">p&abreve;pu&#x219;&abreve;</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_r;&c_y;&c_ja;&c_n;&c_e;&c_t;&c_k;&c_a;</trd>
+  <trd lng="br">margodenn</trd>
+  <trd lng="ca">marioneta</trd>
+  <trdgrp lng="cs">
+    <trd>marioneta  ,, &ccaron;lov&ecaron;k bez vlastn&iacute;ho rozhodov&aacute;n&iacute;</trd>,
+    <trd>z&aacute;v&ecaron;sn&aacute; loutka</trd>
+  </trdgrp>
+  <trd lng="de">Marionette</trd>
+  <trdgrp lng="fr">
+    <trd>marionnette</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>b&aacute;b</trd>,
+    <trd>b&aacute;bu</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30DE;&#x30EA;&#x30AA;&#x30CD;&#x30C3;&#x30C8;</trd>,
+    <trd>&#x64CD;&#x308A;&#x4EBA;&#x5F62;  <pr>&#x3042;&#x3084;&#x3064;&#x308A;&#x306B;&#x3093;&#x304E;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x5080;&#x5121;  <pr>&#x304B;&#x3044;&#x3089;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">marionet</trd>
+  <trdgrp lng="pt">
+    <trd>marionete</trd>,
+    <trd>marioneta</trd>,    
+    <trd>boneco <klr tip="amb">(marionete)</klr></trd>,
+    <trd>bonifrate</trd>,
+    <trd>fantoche</trd>,
+    <trd>mamulengo</trd>,
+    <trd>presepe <klr tip="amb">(marionete)</klr></trd>,
+    <trd>t&iacute;tere</trd>,
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_a;&c_r;&c_i;&c_o;&c_n;&c_je;&c_t;&c_k;&c_a;</trd>
+  <trd lng="sk">divadeln&aacute; b&aacute;bka</trd>
+  <trd lng="uk">&#x43C;&c_a;&c_r;&c_ib;&#x43E;&#x43D;&c_je;&c_t;&#x43A;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.28 2023/05/09 06:32:13
+Paul Peeraerts: + lok
+
+versio 1.27 2023/04/30 18:29:17
+Paul Peeraerts: Steloj -> monato
+
+versio 1.26 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.24 2020/06/24 22:10:52
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.22  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
+Revision 1.21  2018/12/02 16:10:18  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.20  2015/07/04 08:37:39  revo
+-->
+</vortaro>

@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: galile.xml,v 1.10 2023/11/11 10:00:38 revo Exp $">
+    <kap>
+      <rad>Galile</rad>/o
+    </kap>
+
+<drv mrk="galile.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="galile.0o.BIB">
+    <uzo tip="fak">BIB</uzo><uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:regionoj" cel="region.0o.land">Regiono</ref> norde de Palestino:
+      <ekz>
+        ili konsekris la urbon <nom>Kede&scirc;</nom> en <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Josuo 20:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Jesuo trairis tra la tuta <tld/>o, instruante en iliaj
+        sinagogoj, kaj predikante
+        la evangelion
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 4:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Maria, kaj &scirc;ia edzo, Jakobo, lo&gcirc;is en Nazareto, mizera vila&gcirc;o en
+        <tld/>o, kie
+        Jakobo estis &ccirc;arpentisto
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="&Monato;/2003/008041.html">La aristarka raporto de Albisturo
+          Kvinke</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_G;&c_a;&c_l;&c_ib;&c_l;&c_je;&c_ja;</trd>
+    <trd lng="de">Galil&auml;a</trd>
+    <trd lng="fr">Galil&eacute;e</trd>
+    <trd lng="nl">Galilea</trd>
+    <trd lng="zh">&#x52A0;&#x5229;&#x5229; <pr>ji&#x101;l&#xEC;l&#xEC;</pr></trd>
+</snc>
+  <rim>
+    Ne konfuzu kun la sciencisto <ref tip="hom" cel="galilej.0o">Galilejo</ref>:
+    <ekz>
+      pardonpeti al Galileo
+      <fnt>
+	<aut>Gerrit Berveling</aut>
+	<vrk><url ref="&Monato;/2000/006823.html">Tro senkosta pentemo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/08, p. 22</lok>
+        </fnt>.
+    </ekz>
+  </rim>
+  <trd lng="ja">&#x30AC;&#x30EA;&#x30E9;&#x30E4;&#x5730;&#x65B9;  <pr>&#x30AC;&#x30EA;&#x30E9;&#x30E4;&#x3061;&#x307B;&#x3046;</pr></trd>
+  <trd lng="uk">&c_Gu;&c_a;&#x43B;&c_ib;&#x43B;&c_je;&#x44F;</trd>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.9 2023/10/15 06:07:00
+revo: transskribo per <pr>
+
+versio 1.7 2023/04/24 12:46:14
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.6 2023/04/11 14:37:22
+aktualigo Monato-URL
+
+versio 1.5 2022/04/30 08:42:40
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.3 2021/04/14 07:00:35
+Dmitri Gabinski: +trd be
+
+versio 1.2 2020/05/15 13:11:07
+Damien Brucker: +trd fr
+-->
+</vortaro>

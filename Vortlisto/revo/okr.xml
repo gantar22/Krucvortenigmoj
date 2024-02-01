@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: okr.xml,v 1.24 2023/10/20 13:11:47 revo Exp $">
+<kap>
+  <rad>okr</rad>/o
+  <fnt><bib>ZR</bib></fnt>
+</kap>
+<drv mrk="okr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="okr.0o.MIN">
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      Argileca <ref tip="super" cel="minera.0o">mineralo</ref>, 
+      konsistanta grandparte el ferika oksido a&ubreve; ferika
+      hidroksido kaj uzata kiel <ref tip="super" cel="farb.0o.KOL">farbo</ref>:
+      <ekz>
+        la komenci&gcirc;anta produktado de artefaritaj feroksidoj kaj kemiaj kolorigiloj
+        negative efikis la industrion pri natura <tld/>o en Roussillon
+        <fnt><aut>Robert Roze</aut>,
+        <vrk><url ref="&Monato;/2000/006945.php">Flagrantaj koloroj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/06, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        produktado de kupro kaj kolkotaro (ru&gcirc;a okro)
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Yasuo</aut>
+          <vrk><url ref="&Monato;/2007/009114.php">Vizito al Takaha&scirc;i</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hemati.0o">hematito</ref>,
+      <ref cel="limonit.0o">limonito</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_o;&c_h;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_o;&c_h;&c_r;&c_a;</trd>
+  <trd lng="cs">okr</trd>
+  <trd lng="de">Ocker</trd>
+  <trd lng="el">&omega_ton;&chi;&rho;&alfa;</trd>
+  <trd lng="en">ochre</trd>
+  <trd lng="fr">ocre<klr tip="amb"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>okker</trd>,
+    <trd>s&aacute;rgaf&ouml;ld</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9EC4;&#x571F;  <pr>&#x304A;&#x3046;&#x3069;</pr></trd>,
+    <trd>&#x30AA;&#x30FC;&#x30AB;&#x30FC;</trd>
+  </trdgrp>
+  <trd lng="nl">oker</trd>
+  <trd lng="pl">ochra</trd>
+  <trd lng="pt">ocre</trd>
+  <trd lng="ru">&c_o;&c_h;&c_r;&c_a;</trd>
+  <trd lng="sk">oker</trd>
+  <trd lng="uk">&#x43E;&c_h;&c_r;&c_a; (&c_f;&c_a;&c_r;&c_b;&c_a;)</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/20 13:11:47
+revo: transskribo per <pr>
+
+versio 1.22 2023/04/27 10:31:14
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.21 2022/05/01 17:17:00
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.18  2018/10/10 16:10:17  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.17  2017/11/20 14:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2009/10/15 16:32:35  revo
+-->
+</vortaro>

@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kvocie.xml,v 1.84 2023/12/03 09:59:05 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>kvocient</rad>/o
+</kap>
+<drv mrk="kvocie.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="kvocie.0o.ekzakta">
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      Rezulto de <ref cel="divid.0o.MAT">divido</ref>:
+      <ekz>
+        la <tld/>o de <frm>10</frm> per <frm>5</frm> estas <frm>2</frm>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="rilat.0o.kvociento">rilato.</ref>
+    <rim>
+      Tiun &ccirc;i <tld/>on oni foje kvalifikas <ctl>ekzakta</ctl>
+      por distingi &gcirc;in de <tld/>o <sncref ref="kvocie.0o.euxklida"/>.
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_z;&c_je;&c_l;&c_mol;</trd>,
+      <trd>&c_s;&c_t;&c_a;&c_s;&c_u;&c_n;&c_a;&c_k;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Quotient</trd>,
+      <trd>Verh&auml;ltnis</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>quotient</trd>,
+      <trd>ratio</trd>
+    </trdgrp>
+    <trd lng="fa">&a_kh;&a_A;&a_r;&a_j;&#x200C;&a_q;&a_s;&a_m;&a_t;</trd>
+    <trdgrp lng="fr">
+      <trd>quotient<klr tip="ind"> (exact)</klr></trd>,
+      <trd>rapport<klr tip="ind"> (entre deux nombres)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>quoti&euml;nt</trd>,
+      <trd>verhouding</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>iloraz</trd>,
+      <trd>stosunek</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_ch;&c_a;&c_s;&c_t;&c_n;&c_o;&c_je;<klr tip="ind">
+(&c_r;&c_je;&c_z;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_t;
+&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_ja;)</klr></trd>,
+      <trd>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x6BD4; <pr>b&#x1D0;</pr></trd>,
+    <trd>&#x5BF9;&#x6BD4; <pr>du&#xEC;b&#x1D0;</pr></trd>,
+    <trd>&#x5C0D;&#x6BD4; <pr>du&#xEC;b&#x1D0;</pr></trd>,
+    <trd>&#x5546;&#x6570; <pr>sh&#x101;ngsh&#xF9;</pr></trd>,
+    <trd>&#x5546;&#x6578; <pr>sh&#x101;ngsh&#xF9;</pr></trd>,
+    <trd>&#x5546; <pr>sh&#x101;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="kvocie.0o.euxklida">
+    <dif>
+      <klr>(&ccirc;e <ref cel="divid.euxklida0o">e&ubreve;klida divido</ref>
+      de <frm am="a"><k>a</k></frm> per <frm am="b"><k>b</k></frm> en
+      <ref cel="ring.euxklida0o">e&ubreve;klida ringo</ref>)</klr>
+      &Ccirc;iu el la eblaj elementoj <frm am="q"><k>q</k></frm>, por kiuj
+      <frm am="a=b xx q+r"><k>a</k> = <k>b</k>&#xD7;<k>q</k>+<k>r</k></frm>
+      kaj
+      <frm am="phi(r) le phi(b)">&phi;(<k>r</k>) &#x2264; &phi;(<k>b</k>)</frm>:
+      <ekz>
+        &ccirc;e e&ubreve;klida divido de
+        <frm am="bb X^2+bb 1"><g>X</g><sup>2</sup>+<g>1</g></frm>
+        per <frm am="bb X"><g>X</g></frm> la <tld/>o estas
+        <frm am="bb X"><g>X</g></frm>.
+      </ekz>
+    </dif>
+    <rim>
+      Tiun &ccirc;i <tld/>on oni foje kvalifikas <ctl>e&ubreve;klida</ctl>
+      por distingi &gcirc;in de <tld/>o <sncref ref="kvocie.0o.ekzakta"/>.
+    </rim>
+    <trd lng="be">&c_n;&c_ja;&c_p;&c_o;&c_w;&c_n;&c_y;
+<ind>&c_d;&c_z;&c_je;&c_l;&c_mol;</ind></trd>
+    <trd lng="de">Quotient<klr tip="ind"> (beim euklidischen
+Algorithmus)</klr></trd>
+    <trd lng="en">quotient<klr tip="ind"> (in a division
+algorithm)</klr></trd>
+    <trd lng="fa">&a_kh;&a_A;&a_r;&a_j;&#x200C;&a_q;&a_s;&a_m;&a_t;</trd>
+    <trd lng="fr">quotient<klr tip="ind"> (euclidien)</klr></trd>
+    <trd lng="pl">iloraz<klr tip="ind"> (przez dzielenie z
+reszt&aogonek;)</klr></trd>
+    <trd lng="ru">&c_n;&c_je;&c_p;&c_o;&c_l;&c_n;&c_o;&c_je;
+<ind>&c_ch;&c_a;&c_s;&c_t;&c_n;&c_o;&c_je;</ind><klr tip="ind">
+(&c_p;&c_r;&c_i; &c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_i; &c_s;
+&c_o;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_m;)</klr></trd>
+  </snc>
+  <snc mrk="kvocie.0o.progresio">
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      <klr>(de <ref cel="progre1.geometria0o">geometria
+progresio</ref>)</klr>
+      La konstanta <tld/>o <sncref ref="kvocie.0o.ekzakta"/> de
+      &ccirc;iu termo de &gcirc;i per la anta&ubreve;a.
+    </dif>
+    <trd lng="be">&c_n;&c_a;&c_z;&c_o;&c_w;&c_n;&c_ib;&c_k; <klr tip="ind">(&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_j;
+&c_p;&c_r;&c_a;&c_g;&c_r;&c_e;&c_s;&c_ib;&c_ib;)</klr></trd>
+    <trd lng="de">Quotient<klr tip="ind"> (einer geometrischen
+Progression)</klr></trd>
+    <trd lng="en">quotient<klr tip="ind"> (of a geometric
+progression)</klr></trd>
+    <trd lng="fa">&a_q;&a_d;&a_r; &a_n;&a_s;&a_b;&a_t;<klr tip="ind">
+    (&a_t;&a_S;&a_A;&a_ayn;&a_d;)</klr></trd>
+    <trd lng="fr">raison<klr tip="ind"> (d'une progression
+g&eacute;om&eacute;trique)</klr></trd>
+    <trd lng="pl">iloraz<klr tip="ind"> (ci&aogonek;gu
+geometrycznego)</klr></trd>
+    <trd lng="ru">&c_z;&c_n;&c_a;&c_m;&c_je;&c_n;&c_a;&c_t;&c_je;&c_l;&c_mol; <klr tip="ind">
+(&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_j;
+&c_p;&c_r;&c_o;&c_g;&c_r;&c_je;&c_s;&c_s;&c_i;&c_i;)</klr></trd>
+  </snc>
+  <trd lng="af">kwosi&#xEB;nt</trd>
+  <trd lng="am">&#x12F5;&#x122D;&#x12F5;&#x122D;</trd>
+  <trd lng="ar">&#x62D;&a_A;&a_S;&a_l;</trd>
+  <trd lng="az">quotient</trd>
+  <trd lng="bn">&#x9AD;&#x9BE;&#x997;&#x9AB;&#x9B2;</trd>
+  <trd lng="bs">kvocijent</trd>
+  <trd lng="co">quotient</trd>
+  <trdgrp lng="cs">
+    <trd>kvocient</trd>,
+    <trd>pod&iacute;l</trd>
+  </trdgrp>
+  <trd lng="cy">cyniferydd</trd>
+  <trd lng="da">kvotient</trd>
+  <trd lng="et">jagatis</trd>
+  <trd lng="eu">zatidura</trd>
+  <trd lng="ga">chomhrann</trd>
+  <trd lng="gl">cociente</trd>
+  <trd lng="gu">&#xA86;&#xA82;&#xA95;</trd>
+  <trd lng="hi">&#x92D;&#x93E;&#x917;&#x92B;&#x932;</trd>
+  <trd lng="hr">kvocijent</trd>
+  <trd lng="ht">kosyan</trd>
+  <trdgrp lng="hu">
+    <trd>h&aacute;nyados</trd>,
+    <trd>kv&oacute;ciens</trd>
+  </trdgrp>
+  <trd lng="hy">&#x584;&#x561;&#x576;&#x578;&#x580;&#x564;</trd>
+  <trd lng="is">stu&#xF0;ullinn</trd>
+  <trd lng="ja">&#x5546; <pr>&#x3057;&#x3087;&#x3046;</pr></trd>
+  <trd lng="ka">&#x10DB;&#x10D0;&#x10E9;&#x10D5;&#x10D4;&#x10DC;&#x10D4;&#x10D1;&#x10D4;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&c_f;&c_a;&#x43A;&c_t;&#x43E;&c_r;</trd>
+  <trd lng="km">&#x1795;&#x179B;&#x1785;&#x17C2;&#x1780;</trd>
+  <trd lng="kn">&#xCAD;&#xCBE;&#xC97;&#xCB2;&#xCAC;&#xCCD;&#xCA7;</trd>
+  <trd lng="ko">&#xC9C0;&#xC218;</trd>
+  <trd lng="ky">&c_b;&#x43E;&#x43B;&c_u;&#x43F; &c_s;&c_a;&#x43D;&c_a;&#x43B;&c_a;&c_t;</trd>
+  <trd lng="lat">quotus</trd>
+  <trd lng="lo">&#xE9B;&#xEB1;&#xE94;&#xEC4;&#xE88;</trd>
+  <trd lng="lt">dalmuo</trd>
+  <trd lng="lv">koeficients</trd>
+  <trd lng="mi">huawehe</trd>
+  <trd lng="mk">&#x43A;&#x43E;&#x43B;&c_i;&c_ch;&#x43D;&c_i;&#x43A;</trd>
+  <trd lng="ml">&#xD18;&#xD1F;&#xD15;&#xD17;&#xD4D;&#xD30;&#xD42;&#xD2A;&#xD4D;&#xD2A;&#xD41;&#xD15;&#xD7E;</trd>
+  <trd lng="mn">&#x43A;&#x43E;&#x44D;&c_f;&c_f;&c_i;&c_c;&c_je;&#x43D;&c_t;&c_i;&c_j;&c_g;</trd>
+  <trd lng="mr">&#x92D;&#x93E;&#x917;&#x93E;&#x915;&#x93E;&#x930;</trd>
+  <trd lng="ms">hasil bahagi</trd>
+  <trd lng="mt">kwozjent</trd>
+  <trd lng="my">&#x101C;&#x1012;&#x103A;</trd>
+  <trd lng="ne">&#x92D;&#x93E;&#x917;&#x92B;&#x932;</trd>
+  <trd lng="pa">&#xA38;&#xA2E;&#xA30;&#xA71;&#xA25;&#xA3E;</trd>
+  <trd lng="ps">&a_q;&a_s;&a_m;&#x62A; &#x62F;</trd>
+  <trdgrp lng="pt">
+    <trd>quociente</trd>,
+    <trd>cociente</trd>
+  </trdgrp>
+  <trd lng="rw">igipimo</trd>
+  <trd lng="sd">&a_A;&a_n;&a_s;</trd>
+  <trd lng="si">&#xDBD;&#xDB6;&#xDCA;&#xDB0;&#xDD2;&#xDBA;</trd>
+  <trdgrp lng="sk">
+    <trd>podiel</trd>,
+    <trd>v&yacute;sledok delenia</trd>
+  </trdgrp>
+  <trd lng="sl">kvocient</trd>
+  <trd lng="so">qeybtu</trd>
+  <trd lng="sq">her&#xEB;s</trd>
+  <trd lng="sw">quotient ya</trd>
+  <trd lng="ta">&#xB88;&#xBB5;&#xBC1;</trd>
+  <trd lng="te">&#xC15;&#xC4B;&#xC36;&#xC02;&#xC1F;&#xC4D;</trd>
+  <trd lng="th">&#xE40;&#xE0A;&#xE32;&#xE27;&#xE19;&#xE4C;</trd>
+  <trd lng="tl">quotient</trd>
+  <trd lng="tt">&#x43A;&c_v;&#x43E;&c_t;&c_i;&c_je;&#x43D;&c_t;</trd>
+  <trd lng="uk">&c_f;&c_a;&#x43A;&c_t;&#x43E;&c_r;</trd>
+  <trd lng="ur">&a_q;&a_s;&#x6CC;&a_m;</trd>
+  <trd lng="uz">bo&#x2019;linma</trd>
+  <trd lng="vi">th&#x1B0;&#x1A1;ng</trd>
+  <trd lng="yi">&#x5D5;&#x5D5;&#x5D9;&#x5E4;&#x5DC;&#x5D8;&#x5E2;&#x5E8;</trd>
+  <trd lng="yo">dara</trd>
+  <trd lng="zu">sekwa</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.83 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+versio 1.82 2023/08/29 16:34:34
+Wolfram Diestel: ja: prononco
+
+versio 1.21 2020/02/15 17:10:28
+Wolfram Diestel: formuloj per am
+
+Revision 1.20  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2009/07/01 17:21:22  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2006/09/22 12:27:22  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2004/03/28 16:54:23  revo
+-->
+</vortaro>

@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: obstru.xml,v 1.24 2023/10/20 05:22:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>obstrukc</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="obstru.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="obstru.0i.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="embara.0i.MOV">Embarasi</ref>,
+      &gcirc;eni la normalan fluon, cirkulon, iron;
+      parte 
+      <ref tip="vid" cel="sxtop.0i.bari">&scirc;topi</ref>:
+      <ekz>
+        la du &scirc;rankojn oni formetis, &ccirc;ar ili <tld/>is la &ccirc;ambrojn
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekunua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;tonoj <klr>[&#x2026;]</klr> <tld/>as la ku&scirc;ujon de l&#x2019; torento
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sesa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[amba&ubreve;]</klr> <tld/>is la krucvojon meze de la superbazaro, kie multaj
+        homoj <klr>[&#x2026;]</klr> pu&scirc;adis sian &ccirc;areton de sekcio al sekcio
+        <fnt>
+          <bib>ChV</bib>
+          <lok>13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bar.0i">bari</ref>,
+      <ref cel="barika.0i">barikadi</ref>,
+      <ref cel="blok.0i">bloki</ref>,
+      <ref cel="blokad.0i">blokadi</ref>,
+      <ref cel="dig.en0igi">digi</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol; <ind>&c_p;&c_je;&c_r;&c_a;&c_sh;&c_k;&c_o;&c_d;&c_u;</ind></trd>,
+      <trd>&c_b;&c_l;&c_ja;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_g;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_g;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_t;&c_y;&c_k;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>verstopfen</trd>,
+      <trd>blockieren</trd>,
+      <trd>stauen</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>engorger</trd>,
+      <trd>obstruer</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>elt&ouml;m&iacute;t</trd>,
+      <trd>eldugaszol</trd>
+    </trdgrp>
+    <trd lng="nl">belemmeren</trd>
+    <trdgrp lng="pl">
+      <trd>zatka&cacute;</trd>,
+      <trd>zapcha&cacute;</trd>,
+      <trd>zatwardzi&cacute; &zdot;o&lstroke;&aogonek;dek</trd>,
+      <trd>robi&cacute; utrudnienia</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+       <trd>priza</trd>,
+       <trd>&icirc;nfunda</trd>,
+       <trd>&icirc;nt&abreve;ri stomacul</trd>,
+       <trd>face dificultati</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_a;&c_k;&c_u;&c_p;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_g;&c_r;&c_o;&c_m;&c_o;&c_z;&c_d;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_u;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol; &c_z;&c_a;&c_t;&c_o;&c_r;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="obstru.0i.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Malhelpi parlamentan laboron per diversaj la&ubreve;le&gcirc;aj rimedoj:
+      <ekz>
+        la opoziciantaro provis <tld/>i la balotadon de la le&gcirc;o.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_u;&c_ch;&c_y;&c_n;&c_ja;&c_c;&c_mol; <ind>&c_a;&c_b;&c_s;&c_t;&c_r;&c_u;&c_k;&c_c;&c_y;&c_ju;</ind></trd>
+    <trd lng="de">behindern <klr>(Filibuster)</klr></trd>
+    <trd lng="en">filibuster</trd>
+    <trd lng="fr">faire obstruction</trd>
+    <trd lng="hu">obstru&aacute;l</trd>
+    <trd lng="nl">obstructie voeren</trd>
+    <trd lng="ru">&c_u;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol; &c_o;&c_b;&c_s;&c_t;&c_r;&c_u;&c_k;&c_c;&c_i;&c_ju;</trd>
+  </snc>
+  <trd lng="bo">&t_ga;&t_naro;&t_ga; &t_ba;&t_ka;&t_ga; &t_da;&t_ga;&t_ga;
+  &t_kha;&t_naro;&t_ga;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>ma&rcaron;it jedn&aacute;n&iacute;</trd>,
+    <trd>obstruovat</trd>,
+    <trd>prov&aacute;d&ecaron;t obstrukci</trd>,
+    <trd>p&rcaron;ek&aacute;&zcaron;et</trd>
+  </trdgrp>
+  <trd lng="en">obstruct</trd>
+  <trd lng="es">obstruir</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3075;&#x3055;&#x3050;</trd>,
+    <trd>&#x8A70;&#x307E;&#x3089;&#x305B;&#x308B;  <pr>&#x3064;&#x307E;&#x3089;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x59A8;&#x5BB3;&#x3059;&#x308B;  <pr>&#x307C;&#x3046;&#x304C;&#x3044;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">obstruir</trd>
+  <trdgrp lng="sk">
+    <trd>mari&tcaron; jednanie</trd>,
+    <trd>ob&scaron;truova&tcaron;</trd>,
+    <trd>prek&aacute;&zcaron;a&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_l;&c_a;&c_sh;&c_t;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i; &c_o;&c_b;&c_s;&c_t;&c_r;&c_u;&c_k;&c_c;&c_ib;&c_ju;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_u;&c_p;&c_o;&c_r;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_h;&c_a;&c_r;&c_a;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_sh;&c_k;&c_o;&c_d;&c_zh;&c_a;&c_t;&c_i; &c_r;&c_u;&c_h;&c_u;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="obstru.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="obstru.0o.KOMUNE">
+    <dif>
+      Embaraso, parta a&ubreve; provizora
+      <ref tip="vid" cel="sxtop">&scirc;topado</ref>
+      ka&ubreve;zita de amaso da objektoj, kiuj malhelpas cirkuladon,
+      trairadon tra vojo, kanalo ktp:
+      <ekz>
+        <tld/>o de strato, tubo, de la intesto;
+      </ekz>
+      <ekz>
+        vi estos ju&gcirc;ata pro <tld/>o al justico
+        <fnt>
+          <bib>CKv</bib>
+          <lok>9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iu tamen gajnas el la trafik&scirc;topi&gcirc;oj <klr>[&#x2026;]</klr> &ccirc;iutage pro la <tld/>oj
+        disipi&gcirc;as &ccirc;irka&ubreve; 600&#x202F;000 litroj da brula&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Dimitar Ha&gcirc;iev</aut>
+          <vrk><url ref="&Monato;/2009/009875.php">Obstrukco de la surstrata cirkulado</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_sh;&c_k;&c_o;&c_d;&c_a;</trd>,
+      <trd>&c_z;&c_a;&c_t;&c_o;&c_r;</trd>,
+      <trd>&c_b;&c_a;&c_r;&#x2019;&c_je;&c_r;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Verstopfung</trd>,
+      <trd>Hindernis</trd>,
+      <trd>Stau</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>stoppage</trd>,
+      <trd>congestion</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>engorgement</trd>,
+      <trd>obstruction</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>eldugul&aacute;s</trd>,
+      <trd>t&ouml;m&iacute;t&odblac;d&eacute;s</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>obstructie</trd>,
+      <trd>verstopping</trd>,
+      <trd>belemmering</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_a;&c_k;&c_u;&c_p;&c_o;&c_r;&c_k;&c_a;</trd>,
+      <trd>&c_z;&c_a;&c_t;&c_o;&c_r;</trd>,
+      <trd>&c_p;&c_r;&c_o;&c_b;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="obstru.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Intenca malhelpado al parlamenta laboro, farita per &ccirc;iuj le&gcirc;aj
+      rimedoj:
+      <ekz>
+        ili kapablis rekomenci novan plurhoran paroladon, tiaj longaj paroladoj estas
+        forta armilo de <tld/>o
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_b;&c_s;&c_t;&c_r;&c_u;&c_k;&c_c;&c_y;&c_ja;</trd>
+    <trdgrp lng="de">
+      <trd>Obstruktion</trd>,
+      <trd>Filibuster</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>filibuster</trd>
+    </trdgrp>
+    <trd lng="fr">obstruction</trd>
+    <trd lng="hu">obstrukci&oacute;</trd>
+    <trd lng="nl">obstructie</trd>
+    <trd lng="ru">&c_o;&c_b;&c_s;&c_t;&c_r;&c_u;&c_k;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>obstrukce</trd>,
+    <trd>ucp&aacute;n&iacute;</trd>,
+    <trd>z&aacute;cpa</trd>
+  </trdgrp>
+  <trd lng="en">obstruction</trd>
+  <trd lng="es">obstrucci&oacute;n</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9589;&#x585E;  <pr>&#x3078;&#x3044;&#x305D;&#x304F;</pr></trd>,
+    <trd>&#x8A70;&#x307E;&#x308B;&#x3053;&#x3068;  <pr>&#x3064;&#x307E;&#x308B;&#x3053;&#x3068;</pr></trd>,
+    <trd>&#x8B70;&#x4E8B;&#x59A8;&#x5BB3;  <pr>&#x304E;&#x3058;&#x307C;&#x3046;&#x304C;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>obstrukcja</trd>,
+    <trd>zator</trd>,
+    <trd>zatwardzenie</trd>
+  </trdgrp>
+  <trd lng="pt">obstru&ccedil;&atilde;o</trd>
+  <trdgrp lng="ro">
+    <trd>constipa&#x21B;ie</trd>,
+    <trd>blocaj</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ob&scaron;trukcia</trd>,
+    <trd>zapchanie</trd>,
+    <trd>z&aacute;pcha</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_b;&c_s;&c_t;&c_r;&c_u;&c_k;&c_c;&c_ib;&c_ja;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_u;&c_p;&c_o;&c_r;&c_k;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_sh;&c_k;&c_o;&c_d;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_a;&c_l;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/20 05:22:17
+revo: transskribo per <pr>
+
+versio 1.22 2022/11/10 09:33:45
+Dmitri Gabinski: + trd be
+
+versio 1.21 2022/05/01 17:17:00
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2022/04/10 11:24:43
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+versio 1.18 2021/06/07 02:04:08
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.15  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2010/08/30 16:30:14  revo
+-->
+</vortaro>

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hindu.xml,v 1.18 2023/11/15 17:08:00 revo Exp $">
+<kap>
+  <rad>hindu</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="hindu.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="hindu.0o.REL">
+    <uzo tip="fak">HIN</uzo>
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Ano de <tld/>ismo:
+      <ekz>
+        <tld/>oj volas konstrui templon al la dio Ramo
+        <fnt>
+        <aut>A. Giridhar Rao</aut>,
+        <vrk>La koloro de Holi</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2002a, numero 6a, p. 11a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_d;&c_u;&c_ib;&c_s;&c_t;</trd>
+  <trdgrp lng="ca">
+    <trd>hind&uacute;</trd>,
+    <trd>hinduista</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hind</trd>,
+    <trd>hinduista <klr>(n&#xE1;b.)</klr></trd>
+  </trdgrp>
+  <trd lng="en">hindu</trd>
+  <trdgrp lng="fr">
+    <trd>hindou<klr> (hindouiste)</klr></trd>,
+    <trd>hindouiste</trd>
+  </trdgrp>
+  <trd lng="hu">hindu</trd>
+  <trdgrp lng="it">
+    <trd>ind&ugrave;</trd>,
+    <trd>induista</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30D2;&#x30F3;&#x30C9;&#x30A5;&#x30FC;&#x6559;&#x5F92;  <pr>&#x30D2;&#x30F3;&#x30C9;&#x30A5;&#x30FC;&#x304D;&#x3087;&#x3046;&#x3068;</pr></trd>,
+    <trd>&#x30D2;&#x30F3;&#x30BA;&#x30FC;&#x6559;&#x5F92;  <pr>&#x30D2;&#x30F3;&#x30BA;&#x30FC;&#x304D;&#x3087;&#x3046;&#x3068;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">hindoe</trd>
+  <trd lng="pl">hinduista</trd>
+  <trdgrp lng="pt">
+    <trd>hindu</trd>,
+    <trd>hinu&iacute;sta</trd>
+  </trdgrp>
+  <trd lng="sk">hind</trd>
+  <trd lng="uk">&#x456;&#x43D;&#x434;&#x443;&#x441;</trd>
+  <trd lng="zh">&#x5370;&#x5EA6;&#x6559;&#x5F92; <pr>Y&#xEC;nd&#xF9;ji&#xE0;ot&#xFA;</pr></trd>
+</drv>
+
+<drv mrk="hindu.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="hindu.0ismo.REL">
+    <uzo tip="fak">HIN</uzo>
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Hinddevena religio, kutime agnoskanta la vedojn kaj
+      upani&scirc;adojn kiel sanktan skribon, kun multaj skoloj devotaj
+      al &ccirc;efdioj Vi&scirc;nuo, &Scirc;ivao kaj aliaj, prospera en
+      Hindujo kaj sudorienta Azio.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_d;&c_u;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="ca">hinduisme</trd>
+  <trd lng="cs">hinduismus</trd>
+  <trd lng="en">hinduism</trd>
+  <trd lng="fr">hindouisme</trd>
+  <trd lng="hu">hinduizmus</trd>
+  <trd lng="it">induismo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D2;&#x30F3;&#x30C9;&#x30A5;&#x30FC;&#x6559;  <pr>&#x30D2;&#x30F3;&#x30C9;&#x30A5;&#x30FC;&#x304D;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x30D2;&#x30F3;&#x30BA;&#x30FC;&#x6559;  <pr>&#x30D2;&#x30F3;&#x30C9;&#x30A5;&#x30FC;&#x304D;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">hindoe&iuml;sme</trd>
+  <trd lng="pl">hinduizm</trd>
+  <trd lng="pt">hindu&iacute;smo</trd>
+  <trd lng="sk">hinduizmus</trd>
+  <trd lng="uk">&#x456;&#x43D;&#x434;&#x443;&#x457;&#x437;&#x43C;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5370;&#x5EA6;&#x6559; <pr>Y&#xEC;nd&#xF9;ji&#xE0;o</pr></trd>,
+    <trd>&#x5A46;&#x7F57;&#x95E8;&#x6559; <pr>p&#xF3;lu&#xF3;m&#xE9;nji&#xE0;o</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.17 2023/10/16 05:55:37
+revo: transskribo per <pr>
+
+Revision 1.13  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2012/01/02 13:10:22  revo
+Marc Rausell: +trd ca
+
+Revision 1.11  2010/08/03 16:31:09  revo
+Russ Williams: +trd en
+
+Revision 1.10  2009/09/12 16:30:39  revo
+Antonio Codazzi: +trd it
+
+Revision 1.9  2008/09/16 16:30:46  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2007/04/27 16:30:57  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2007/01/08 17:30:18  revo
+-->
+</vortaro>

@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: longit.xml,v 1.23 2024/01/15 19:32:00 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>longitud</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="longit.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="longit.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Arko de la ekvatoro, entenata inter la meridiano de iu ajn loko
+      kaj alia meridiano elektita kiel deira meridiano:
+      <ekz>
+        la eldonejo de Monato trovi&gcirc;as je <frm>51&deg;12'48"</frm> norda <ref cel="latitu.0o.GEOG_AST">latitudo</ref>
+        kaj <frm>4&deg;24'34"</frm> orienta <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2010/010061.php">Europeana: de Rejno al Danubo</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>L&auml;nge <klr>(Geog.)</klr></trd>,
+      <trd>geographische L&auml;nge</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x7D93;&#x5EA6; <pr>j&#x12B;ngd&#xF9;</pr></trd>,
+    <trd>&#x7ECF;&#x5EA6; <pr>j&#x12B;ngd&#xF9;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="longit.0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Angulo inter la meridiano de astro kaj la meridiano, kiu trapasas
+      la printempan ekvinoksan punkton:
+      <ekz>
+        li decidis eltrovi al kiu tago de la suna jaro korespondas iu dato
+        <klr>[&#x2026;]</klr>, li kalkulis la <tld/>on de la suno kun precizeco &gcirc;is du
+        minutoj de la firmamento
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vitalij kaj Anatolij Ionesov</aut>
+          <vrk><url ref="&Monato;/2010/009996.php">Mirzo Ulugbek: granda re&gcirc;o de astronomio</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>L&auml;nge <klr>(Astr.)</klr></trd>,
+      <trd>astronomische L&auml;nge</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x7D93;&#x7DDA; <pr>j&#x12B;ngxi&#xE0;n</pr></trd>,
+    <trd>&#x7ECF;&#x7EBF; <pr>j&#x12B;ngxi&#xE0;n</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="longit.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(de punkto <frm am="M">M</frm> en tridimensia reela e&ubreve;klida
+      <ref cel="spac.afina0o">afina spaco</ref> provizita per orta
+      ununorma koordinatsistemo 
+      <frm am="(O,bb i,bb j,bb k)">(O, <g>i</g>, <g>j</g>,
+      <g>k</g>)</frm>)</klr>
+      <ref cel="angul.polusa0o">Polusa angulo</ref> de
+      la orta projekcia&jcirc;o de <frm am="M">M</frm> sur la ebeno difinita
+      de
+      <frm am="(O,bb i,bb j)">(O, <g>i</g>, <g>j</g>)</frm>:
+      <ekz>
+        <tld/>o estas la dua koordinato en la sfera
+        <ref cel="koordi.0sistemo">koordinatsistemo</ref>.
+      </ekz>
+    </dif>
+    <adm>
+      Kontroli, &ccirc;u la tradukoj de nivelo drv ta&ubreve;gas anka&ubreve;
+      &ccirc;i-sence.
+      <aut>MB</aut>
+    </adm>
+    <trd lng="de">L&auml;nge<klr tip="ind"> (Kugelkoordinate)</klr></trd>
+    <trd lng="en">longitude</trd>
+    <trdgrp lng="fr">
+      <trd>longitude<klr tip="ind"> (coordon&eacute;e sph&eacute;rique)</klr></trd>,
+      <trd>azimuth</trd></trdgrp>
+    <trd lng="pl">d&lstroke;ugo&sacute;&cacute;<klr tip="ind"> (wsp&oacute;&lstroke;rz&eogonek;dna)</klr></trd>
+    <trd lng="ru">&c_d;&c_o;&c_l;&c_g;&c_o;&c_t;&c_a;<klr tip="ind"> (&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;)</klr></trd>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_w;&c_g;&c_a;&c_t;&c_a;</trd>
+  <trd lng="ca">longitud</trd>
+  <trd lng="es">longitud</trd>
+  <trd lng="hu">hossz&uacute;s&aacute;gi fok</trd>
+  <trd lng="ja">&#x7D4C;&#x5EA6;  <pr>&#x3051;&#x3044;&#x3069;</pr></trd>
+  <trd lng="nl">lengte</trd>
+  <trd lng="pt">longitude</trd>
+  <trd lng="ru">&c_d;&c_o;&c_l;&c_g;&c_o;&c_t;&c_a;</trd>
+  <trd lng="uk">&#x434;&#x43E;&#x432;&#x433;&#x43E;&#x442;&#x430;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/19 14:32:17
+revo: transskribo per <pr>
+
+versio 1.20 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2020/06/19 06:10:37
+Wolfram Diestel: +2 ekz.
+
+Revision 1.17  2020/02/15 17:10:25  revo
+Wolfram Diestel: formuloj per am
+
+Revision 1.16  2018/08/06 22:10:44  revo
+Michel Cantigneaux: aperas unue en PV (1934), oficiala en 8OA (1974)
+
+Revision 1.15  2012/07/16 10:10:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2003/05/13 16:33:25  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/01/13 17:34:11  revo
+-->
+</vortaro>

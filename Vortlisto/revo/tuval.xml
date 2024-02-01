@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: tuval.xml,v 1.16 2023/09/04 19:01:55 revo Exp $">
+<kap>
+  <rad>Tuval</rad>/o <fnt><bib>SPIV</bib></fnt>
+</kap>
+
+<drv mrk="tuval.T0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="tuval.T0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Sud<ref tip="vid" cel="pacifik.P0o">pacifika</ref> insularo,
+      teritorio de &scirc;tato <tld/>o.
+    </dif>
+    <trd lng="fr">Tuvalu</trd>
+    <trdgrp lng="pl">
+      <trd>Wyspy <ind>Lagunowe</ind></trd>,
+      <trd>Wyspy <ind>Ellice</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="tuval.T0o.sxtato">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <fnt><bib>RLN</bib></fnt>
+    <mlg kod="ISO-3166">TV</mlg>
+    <dif>
+      <ref tip="lst" lst="voko:&scirc;tatoj" cel="sxtat.0o.POL">&Scirc;tato</ref>
+      en la samnoma insularo kun &ccirc;efurbo Funafutio:
+      <ekz>
+        <tld/>o ver&scirc;ajne i&gcirc;os ege populara, ne nur &ccirc;ar la gnoma &scirc;tato &jcirc;us
+        fari&gcirc;is 189a membro de Unui&gcirc;intaj Nacioj, sed precipe pro &gcirc;ia nacia simbolo
+        en Interreto, mallongigo &leftquot;tv&rightquot;
+        <fnt><aut>Stefan Maul</aut>: 
+          <vrk><url ref="&Monato;/2000/007180.html">Ri&ccirc;a per .tv</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/12, p. 6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malgrandaj estas, ekzemple, Vanuatuo, <tld/>o, Li&hcirc;ten&scirc;tejno kaj
+        San-Marino
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2006/008875.php">Mallonga historio de la evonima
+          milito</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;eestas neniu vatikana sendito, nome en Afganio, Sa&ubreve;da Arabio, Nord-Koreio,
+        Butano, Popola &Ccirc;inio, Maldivoj, Omano, <tld/>o kaj Vjetnamio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Armando Zecchin</aut>
+          <vrk><url ref="&Monato;/2009/009739.php">Vatikano diplomatie rilatas kun 177
+          landoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">&Eacute;tat des Tuvalu</trd>
+    <trdgrp lng="pl">
+      <trd>Tuvalu</trd>,
+      <trd>Wyspy <ind>Ellice</ind><klr> (przest.)</klr></trd>,
+      <trd>Terytorium <ind>Tuvalu</ind><klr> (przest.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_T;&c_u;&c_v;&c_a;&c_l;&c_u;</trd>
+  <trd lng="bg">&c_T;&c_u;&c_v;&c_a;&c_l;&c_u;</trd>
+  <trd lng="ca">Tuvalu</trd>
+  <trd lng="de">Tuvalu</trd>
+  <trd lng="en">Tuvalu</trd>
+  <trd lng="id">Tuvalu</trd>
+  <trd lng="ja">&#x30C4;&#x30D0;&#x30EB;</trd>
+  <trd lng="pt">Tuvalu</trd>
+  <trd lng="uk">&c_T;&c_u;&c_v;&c_a;&#x43B;&c_u;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.15 2023/04/18 15:30:50
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.14 2023/03/02 08:36:25
+Dmitri Gabinski: + trd be
+
+versio 1.13 2022/05/05 17:08:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.11 2021/05/13 14:51:46
+Wolfram Diestel: kor. snc@mrk
+
+versio 1.10 2020/01/08 00:10:30
+Jeromo Vasxe: + fnt, Funufatio -> Funafutio
+
+Revision 1.9  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.8  2019/02/07 16:10:19  revo
+Wolfram Diestel: maj. rad, ekz-oj
+
+Revision 1.7  2014/06/24 10:10:30  revo
+-->
+</vortaro>

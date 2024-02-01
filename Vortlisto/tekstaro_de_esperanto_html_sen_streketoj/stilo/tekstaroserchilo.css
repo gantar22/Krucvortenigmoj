@@ -1,0 +1,2588 @@
+@charset "UTF-8";
+html, body, div, span,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, address, cite, code,
+em, img, kbd, strong, sub, sup, var,
+b, u, i, ol, ul, li,
+form, label, table, caption, tbody, tfoot, thead, tr, th, td,
+article, footer, header, nav, section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, footer, header, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote {
+  quotes: none;
+}
+
+q {
+  quotes: "" "";
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+#folioj ol.numera li, div.raportujo ol.numera li, body.tutateksto ol.numera li {
+  list-style-type: decimal;
+}
+#folioj button, #folioj span.butono, #folioj a.butono, div.raportujo button, div.raportujo span.butono, div.raportujo a.butono, body.tutateksto button, body.tutateksto span.butono, body.tutateksto a.butono {
+  -webkit-appearance: none;
+  color: #1e1b1d;
+  width: auto;
+  padding: 0.5em;
+  text-transform: none;
+  background-color: #f4f0ec;
+  background-image: linear-gradient(to bottom, #f6f2fd, #d4d0cc);
+  border: 1px solid #e5e5e5;
+  border-radius: 0.5em;
+  font-size: 90%;
+  cursor: pointer;
+}
+#folioj button:hover, #folioj button:active, #folioj button:focus, #folioj span.butono:hover, #folioj span.butono:active, #folioj span.butono:focus, #folioj a.butono:hover, #folioj a.butono:active, #folioj a.butono:focus, div.raportujo button:hover, div.raportujo button:active, div.raportujo button:focus, div.raportujo span.butono:hover, div.raportujo span.butono:active, div.raportujo span.butono:focus, div.raportujo a.butono:hover, div.raportujo a.butono:active, div.raportujo a.butono:focus, body.tutateksto button:hover, body.tutateksto button:active, body.tutateksto button:focus, body.tutateksto span.butono:hover, body.tutateksto span.butono:active, body.tutateksto span.butono:focus, body.tutateksto a.butono:hover, body.tutateksto a.butono:active, body.tutateksto a.butono:focus {
+  outline: none;
+  border: 1px solid #e5e5e5;
+}
+#folioj button::-moz-focus-inner, #folioj span.butono::-moz-focus-inner, #folioj a.butono::-moz-focus-inner, div.raportujo button::-moz-focus-inner, div.raportujo span.butono::-moz-focus-inner, div.raportujo a.butono::-moz-focus-inner, body.tutateksto button::-moz-focus-inner, body.tutateksto span.butono::-moz-focus-inner, body.tutateksto a.butono::-moz-focus-inner {
+  border: 0;
+}
+#folioj #shalti.kashita, div.raportujo #shalti.kashita, body.tutateksto #shalti.kashita {
+  visibility: hidden;
+}
+#folioj a.butono, div.raportujo a.butono, body.tutateksto a.butono {
+  text-decoration: none;
+}
+#folioj select, div.raportujo select, body.tutateksto select {
+  height: auto;
+  font-size: 80%;
+  padding: 0.5em;
+  display: inline-block;
+  border-radius: 0.5em;
+  background-color: #f4f0ec;
+  background-image: linear-gradient(to bottom, #f6f2fd, #d4d0cc);
+  width: auto;
+  -webkit-appearance: menulist-button;
+  border: 1px solid #e5e5e5;
+}
+#folioj select option, div.raportujo select option, body.tutateksto select option {
+  color: green;
+  text-align: center;
+}
+#folioj select:-moz-focusring, div.raportujo select:-moz-focusring, body.tutateksto select:-moz-focusring {
+  color: transparent !important;
+  text-shadow: 0 0 0 #000 !important;
+}
+#folioj button:hover, #folioj span.butono:hover, #folioj a.butono:hover, div.raportujo button:hover, div.raportujo span.butono:hover, div.raportujo a.butono:hover, body.tutateksto button:hover, body.tutateksto span.butono:hover, body.tutateksto a.butono:hover {
+  background-color: #f4f0ec;
+  background-image: linear-gradient(to bottom, #f6f2fd, #f4f0ec);
+  color: green;
+  border-color: #999;
+}
+#folioj button:focus, #folioj span.butono:focus, #folioj a.butono:focus, #folioj button:active, #folioj span.butono:active, #folioj a.butono:active, div.raportujo button:focus, div.raportujo span.butono:focus, div.raportujo a.butono:focus, div.raportujo button:active, div.raportujo span.butono:active, div.raportujo a.butono:active, body.tutateksto button:focus, body.tutateksto span.butono:focus, body.tutateksto a.butono:focus, body.tutateksto button:active, body.tutateksto span.butono:active, body.tutateksto a.butono:active {
+  background-color: #f4f0ec;
+  background-image: linear-gradient(to bottom, #f6f2fd, #f4f0ec);
+  border-color: #999;
+}
+#folioj select:hover, #folioj select:focus, #folioj select:active, div.raportujo select:hover, div.raportujo select:focus, div.raportujo select:active, body.tutateksto select:hover, body.tutateksto select:focus, body.tutateksto select:active {
+  background-color: #f4f0ec;
+  background-image: linear-gradient(to bottom, #f6f2fd, #f4f0ec);
+  color: green;
+  border-color: #999;
+  outline: none;
+}
+#folioj select:hover option, #folioj select:focus option, #folioj select:active option, div.raportujo select:hover option, div.raportujo select:focus option, div.raportujo select:active option, body.tutateksto select:hover option, body.tutateksto select:focus option, body.tutateksto select:active option {
+  background-color: #f4f0ec;
+  color: #000;
+  outline: none;
+}
+#folioj label, div.raportujo label, body.tutateksto label {
+  padding: 0.1em 0.2em;
+  border-radius: 0.3em;
+}
+#folioj label.checked, div.raportujo label.checked, body.tutateksto label.checked {
+  color: white;
+  background-color: #cb8423;
+}
+#folioj input[type=checkbox]:checked, div.raportujo input[type=checkbox]:checked, body.tutateksto input[type=checkbox]:checked {
+  border-radius: 0.2em;
+  background-color: #cb842e;
+}
+#folioj input, div.raportujo input, body.tutateksto input {
+  color: #1e1b1d;
+  width: auto;
+}
+#folioj input[type=text], div.raportujo input[type=text], body.tutateksto input[type=text] {
+  height: auto;
+  border: 1px solid #e5e5e5;
+  -webkit-appearance: none;
+}
+
+html, body {
+  background-color: #cb842e;
+  font-size: 1em;
+  color: #1e1b1d;
+  font-family: "Noto Sans", "Lucida Sans Unicode", Tahoma, Geneva, Arial, sans-serif;
+}
+html span.netahoma, body span.netahoma {
+  font-family: "Noto Sans", "Lucida Sans Unicode", Geneva, Arial, sans-serif;
+}
+
+body.fulmoklavoj kbd.fulmo {
+  text-decoration: underline;
+  padding-left: 0;
+}
+
+body.dialogo {
+  overflow: hidden;
+}
+body.dialogo span.tenilo {
+  z-index: 0;
+}
+body.dialogo div.serchoprezento {
+  overflow: hidden;
+}
+body.dialogo span.informlinio {
+  font-size: 70%;
+  display: table-row;
+}
+body.dialogo span.informlinio strong, body.dialogo span.informlinio em {
+  display: table-cell;
+  padding: 0.2em;
+}
+body.dialogo span.informlinio em {
+  text-align: left;
+}
+body.dialogo span.informlinio strong {
+  min-width: 6em;
+  text-align: right;
+}
+
+body.jaroj div.teksto input[type=checkbox] {
+  opacity: 0.1;
+}
+body.jaroj div.teksto.elektita input[type=checkbox] {
+  opacity: 1;
+}
+
+em {
+  color: inherit;
+}
+
+strong {
+  font-weight: bold;
+}
+strong.eksperimento {
+  display: inline-block;
+  padding: 0.1em;
+  margin-left: 0.1em;
+  background-color: yellow;
+  color: red;
+  border: 1px solid #d49768;
+  border-radius: 2px;
+  cursor: pointer;
+}
+strong.eksperimento a {
+  text-decoration: none;
+}
+
+em, cite {
+  font-style: italic;
+}
+
+em em {
+  font-style: normal;
+}
+
+sub {
+  font-size: smaller;
+  vertical-align: sub;
+}
+
+sup {
+  vertical-align: super;
+  font-size: 70%;
+}
+
+#priserchi {
+  font-weight: bold;
+}
+
+#folioj {
+  display: none;
+  background-color: #cb842e;
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+  border-color: #cb842e;
+}
+#folioj #foliojene {
+  z-index: 5;
+  background-color: #cb842e;
+  padding: 0 0.2em 0.2em 0.2em;
+  border-left: 1px solid #d49768;
+  border-bottom: 2px solid #cb842e;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+#folioj li #serchilolangeto {
+  color: #cb842e;
+}
+#folioj ul li a {
+  font-size: 90%;
+}
+#folioj ul li a:focus {
+  outline: 0;
+}
+#folioj #langetoj_ekstero {
+  position: relative;
+  margin-right: 2.2em;
+  border-width: 0 !important;
+  border-color: #cb842e;
+}
+#folioj #langetoj {
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 1;
+  z-index: 10;
+  width: 100%;
+  margin-right: 3em;
+  margin-top: 0.3em;
+  margin-left: 0.2em;
+}
+#folioj #langetoj li {
+  font-size: 90%;
+  flex: none;
+  cursor: pointer;
+  position: relative;
+  top: 2px;
+  background-color: transparent;
+  background-color: #f4f0ec;
+  font-weight: bold;
+  margin-left: 1px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  border-top: 1px solid #e0cfc2;
+  border-right: 1px solid #e0cfc2;
+  border-left: 1px solid #e0cfc2;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  padding: 0.2em;
+}
+#folioj #langetoj li.aktiva {
+  background-color: white;
+  top: 3.5px;
+}
+#folioj #langetoj li a {
+  padding: 0.2em 0.7em 0.2em 0.5em;
+  border-width: 0;
+  text-transform: none;
+  font-size: 90%;
+}
+#folioj #langetoj li a code {
+  background-color: transparent;
+  font-size: 90%;
+}
+#folioj #langetoj #serchilolangetoli {
+  padding: 0.2em;
+}
+#folioj #langetoj li.teksto {
+  color: white;
+}
+#folioj #langetoj li.fermota a code {
+  color: red;
+}
+#folioj #langetoj li.forigita {
+  display: none;
+}
+#folioj #langetoj li.teksto a {
+  font-style: normal;
+}
+#folioj #langetoj li a code {
+  font-family: monospace;
+  position: relative;
+  top: 0.2em;
+}
+#folioj #langetoj li.teksto a code {
+  font-style: italic;
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 0.9em;
+}
+#folioj #langetoj li.serchas2 a code {
+  color: red;
+}
+#folioj #langetoj li.finisserchon code {
+  color: green;
+}
+#folioj #langetoj span.fermilo {
+  position: absolute;
+  top: 0;
+  right: 0.1em;
+  color: #cb842e;
+  font-weight: normal;
+}
+#folioj #langetoj span.fermilo:hover {
+  background-color: #fff;
+  color: red;
+  outline: 1px dotted #fff;
+  cursor: pointer;
+}
+#folioj #langetoj code.serchesprimolangeto {
+  max-width: 15em;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-width: 0;
+}
+#folioj #langetoj code.tekstolangeto {
+  max-width: 15em;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#folioj #fermichiujn {
+  position: absolute;
+  right: -0.7em;
+  top: 0.2em;
+  color: #fff;
+}
+#folioj #fermichiujn:hover {
+  color: red;
+  cursor: pointer;
+}
+#folioj #haltigichiujn {
+  position: absolute;
+  right: -1.7em;
+  top: 0.2em;
+  color: #fff;
+  font-weight: bold;
+  padding: 0 0.2em 0 0.2em;
+}
+#folioj #haltigichiujn:hover {
+  color: red;
+  cursor: pointer;
+}
+#folioj h1 {
+  font-size: 1.2em;
+}
+#folioj h2 {
+  font-size: 1.2em;
+}
+#folioj h3 {
+  font-size: 1.1em;
+}
+#folioj h1, #folioj h2, #folioj h3, #folioj h4, #folioj h5, #folioj h6 {
+  font-weight: bold;
+  background-color: inherit;
+  margin: 0.5em 0 0.4em 0;
+  color: #cb842e;
+  text-align: left;
+}
+#folioj h1.editorial, #folioj h2.editorial, #folioj h3.editorial, #folioj h4.editorial, #folioj h5.editorial, #folioj h6.editorial {
+  background-color: #feb;
+  color: #000;
+  padding: 0.2em;
+}
+#folioj h1.editorial.nuralitero, #folioj h1.editorial.nuranumero, #folioj h2.editorial.nuralitero, #folioj h2.editorial.nuranumero, #folioj h3.editorial.nuralitero, #folioj h3.editorial.nuranumero, #folioj h4.editorial.nuralitero, #folioj h4.editorial.nuranumero, #folioj h5.editorial.nuralitero, #folioj h5.editorial.nuranumero, #folioj h6.editorial.nuralitero, #folioj h6.editorial.nuranumero {
+  background-color: transparent;
+}
+#folioj h1 + *, #folioj h2 + *, #folioj h3 + *, #folioj h4 + *, #folioj h5 + *, #folioj h6 + * {
+  margin-top: 0.2em;
+}
+#folioj h1 {
+  margin-top: 0;
+  padding-top: 0;
+}
+#folioj #serchilokapo {
+  padding-top: 1em;
+  text-align: left;
+}
+#folioj #serchilokapo h1 {
+  font-size: 1em;
+  display: inline;
+  padding: 0;
+  margin: 0 1.5em 0 0;
+}
+#folioj #serchilo h1 span {
+  font-size: 1.3em;
+}
+#folioj #iloj {
+  padding: 0 0;
+  font-size: 1em;
+}
+#folioj #iloj div.iloj {
+  margin-top: 0.5em;
+}
+#folioj #iloj #ignorifremdajhojn-button {
+  margin-bottom: 0.5em;
+}
+#folioj #iloj #serchesprimoj select.serchesprimo.sola {
+  font-size: 110%;
+}
+#folioj #iloj input[type=text] {
+  font-size: 1.2em;
+  font-family: monospace;
+}
+#folioj #iloj span.serchesprimospan {
+  display: inline-block;
+  height: 2em;
+  width: 20em;
+  font-size: 1.2em;
+  position: relative;
+  font-family: monospace;
+  margin-right: 1em;
+}
+#folioj #iloj span.serchesprimospan span.tenilo {
+  font-size: 1.2em;
+  height: 100%;
+  font-family: monospace;
+  padding: 0 0 0 0;
+  border-left: 0.4em #aaa solid;
+  position: absolute;
+  top: 0;
+  right: -0.4em;
+  z-index: 2;
+  cursor: ew-resize;
+}
+#folioj #iloj span.serchesprimospan.plia {
+  margin-top: 0.3em;
+  padding-left: 0;
+  padding-right: 0.3em;
+}
+#folioj #iloj input.serchesprimo {
+  font-size: 1.2em;
+  width: 100%;
+}
+#folioj #iloj input.nombro {
+  text-align: right;
+}
+#folioj #iloj #forigiserchesprimon {
+  display: none;
+}
+#folioj #iloj #forigiserchesprimon.aktiva {
+  display: inline;
+}
+#folioj #iloj .serchesprimo {
+  padding: 0.3em 0.3em 0.3em 0;
+  margin: 0 0 0.2em 0;
+  color: #080;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+}
+#folioj #iloj .serchesprimo.fermota {
+  outline: 2px dashed red;
+}
+#folioj #iloj .serchesprimfermilo {
+  position: absolute;
+  right: -0.1em;
+  top: 0;
+  color: #666;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  vertical-align: top;
+  width: 1em;
+  height: 1em;
+}
+#folioj #iloj input[type=text]:focus {
+  background-color: yellow;
+}
+#folioj #iloj #helpiloj select, #folioj #iloj #helpiloj span {
+  padding-left: 1em;
+}
+#folioj #iloj #helpiloj select, #folioj #iloj #helpiloj span.pitonolabel label {
+  font-style: italic;
+}
+#folioj #iloj #helpiloj #ignorifremdajhojn-button {
+  padding-left: 0.1em;
+  padding-right: 0.1em;
+  width: auto;
+}
+#folioj #iloj #helpiloj span.ilojlabel {
+  display: inline-block;
+  padding: 0 0 0.5em 0em;
+  margin: 0 0.5em 0.5em 0.5em;
+  font-size: 110%;
+}
+#folioj #iloj #helpiloj span.ilojlabel :hover {
+  cursor: pointer;
+}
+#folioj #iloj #helpiloj span.ilojlabel.neebla {
+  opacity: 0.5;
+}
+#folioj #iloj #helpiloj span.ilojlabel.check {
+  padding: 0 0 0.5em 0;
+  margin: 0 0.5em;
+}
+#folioj #iloj #serchesprimoj {
+  padding-bottom: 0.1em;
+}
+#folioj #helpo {
+  margin-left: 1.5em;
+  white-space: pre;
+}
+#folioj #butonoj {
+  clear: both;
+  padding-top: 0;
+  line-height: 2;
+}
+#folioj #butonoj button {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+#folioj #butonoj.jaroj #chiuj, #folioj #butonoj.jaroj #neniuj, #folioj #butonoj.jaroj #zamenhofaj, #folioj #butonoj.jaroj #inversigi, #folioj #butonoj.jaroj #pivautoroj {
+  opacity: 0.3;
+}
+#folioj div.folio {
+  background-color: #fff;
+  border-top: 1px solid #e0cfc2;
+  border-left: 1px solid #e0cfc2;
+  border-right: 1px solid #e0cfc2;
+  border-bottom: 1px solid #e0cfc2;
+  border-top-left-radius: 0;
+  border-top-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  padding: 0 0.5em 0.3em 0.5em;
+  display: none;
+}
+#folioj div.folio.teksto {
+  padding: 0 0.5em 0.3em 0.5em;
+}
+#folioj div.folio .serchorezulto {
+  overflow: scroll;
+  height: 100%;
+  position: relative;
+  z-index: 0;
+}
+#folioj div.folio .progresoj.kashita {
+  display: none;
+}
+#folioj div.folio span.trafo {
+  background-color: yellow;
+  font-weight: bolder;
+  padding: 0 0.05em;
+  outline: 1px solid #ccc;
+}
+#folioj div.folio span.trafo span.trafospaceto {
+  white-space: pre;
+  display: inline-block;
+  width: 0.5em;
+}
+#folioj div.folio div.mdiv {
+  color: #000;
+  margin: 0;
+  padding: 0.4em 0 0 0;
+  text-align: left;
+  position: relative;
+  min-height: 2em;
+}
+#folioj div.folio div.mdiv span.butono {
+  font-size: 80%;
+  margin: 0 0.5em 0 0;
+  display: none;
+}
+#folioj div.folio div.mdiv span.kashaverto {
+  color: red;
+  font-style: italic;
+  display: none;
+}
+#folioj div.folio div.mdiv.markitaj span.butono.kashimarkitajn {
+  display: inline-block;
+}
+#folioj div.folio div.mdiv.markitaj span.butono.kashinemarkitajn {
+  display: inline-block;
+}
+#folioj div.folio div.butonodiv {
+  color: #000;
+  margin: 0 0 0 0.5em;
+  padding: 0.2em 0 0.3em 0;
+  max-width: 42.5em;
+  text-align: right;
+  border-bottom: 1px dashed #aaa;
+  position: relative;
+}
+#folioj div.folio div.butonodiv span.ttbutono, #folioj div.folio div.butonodiv span.kashi_streketojn, #folioj div.folio div.butonodiv span.sagoj {
+  display: inline-block;
+  white-space: pre;
+  margin: 0.2em 0 0.2em 0.5em;
+  border: 1px dotted #aaa;
+}
+#folioj div.folio div.butonodiv span.ttbutono span.sago, #folioj div.folio div.butonodiv span.kashi_streketojn span.sago, #folioj div.folio div.butonodiv span.sagoj span.sago {
+  margin: 0 0.3em;
+  border: 1px solid transparent;
+}
+#folioj div.folio div.butonodiv span.ttbutono span.sago:hover, #folioj div.folio div.butonodiv span.ttbutono span.sago:focus, #folioj div.folio div.butonodiv span.kashi_streketojn span.sago:hover, #folioj div.folio div.butonodiv span.kashi_streketojn span.sago:focus, #folioj div.folio div.butonodiv span.sagoj span.sago:hover, #folioj div.folio div.butonodiv span.sagoj span.sago:focus {
+  background-color: yellow;
+  border: 1px dotted #aaa;
+  outline: none;
+}
+#folioj div.folio div.butonodiv span.ttbutono span.sago::-moz-focus-inner, #folioj div.folio div.butonodiv span.kashi_streketojn span.sago::-moz-focus-inner, #folioj div.folio div.butonodiv span.sagoj span.sago::-moz-focus-inner {
+  border: 0;
+}
+#folioj div.folio div.ab {
+  margin: 2em;
+  padding-left: 0.5em;
+  border-left: 1px dashed #ddd;
+}
+#folioj div.folio p.seg {
+  margin: 0.2em 0 0 1em;
+}
+#folioj div.folio span.m {
+  color: #888;
+  background-color: #fff;
+  font-family: monospace;
+}
+#folioj div.folio span.m.m:before {
+  content: " <";
+}
+#folioj div.folio span.m.m:after {
+  content: ">";
+}
+#folioj div.folio span.m.dekstre {
+  position: absolute;
+  right: 0em;
+}
+#folioj div.folio span.m.dekstre.m:before {
+  content: "";
+}
+#folioj div.folio span.m.dekstre.m:after {
+  content: "";
+}
+#folioj div.folio.kashi_streketojn div.trafolinio span.streketo {
+  color: #aaa;
+}
+#folioj div.folio.kashi_streketojn div.alineo span.streketo {
+  display: none;
+}
+#folioj div.folio.kashi_streketojn div.tekstarteksto span.streketo {
+  display: none;
+}
+#folioj div.folio.aktivafolio {
+  display: block;
+}
+#folioj div.folio.kashimarkitajn div.serchoprezento div.trovaro div.trafolinio.markita, #folioj div.folio.kashimarkitajn div.serchoprezento div.trovaro div.trafodiv.markita {
+  display: none;
+}
+#folioj div.folio.kashimarkitajn div.mdiv span.kashaverto {
+  display: inline-block;
+}
+#folioj div.folio.kashimarkitajn div.mdiv span.malkashikashitajn {
+  display: inline-block;
+}
+#folioj div.folio.kashimarkitajn div.mdiv.markitaj span.kashimarkitajn {
+  display: none;
+}
+#folioj div.folio.kashinemarkitajn div.serchoprezento div.trovaro div.trafolinio, #folioj div.folio.kashinemarkitajn div.serchoprezento div.trovaro div.trafodiv {
+  display: none;
+}
+#folioj div.folio.kashinemarkitajn div.serchoprezento div.trovaro div.trafolinio.markita, #folioj div.folio.kashinemarkitajn div.serchoprezento div.trovaro div.trafodiv.markita {
+  display: block;
+}
+#folioj div.folio.kashinemarkitajn div.mdiv span.kashaverto {
+  display: inline-block;
+}
+#folioj div.folio.kashinemarkitajn div.mdiv span.malkashikashitajn {
+  display: inline-block;
+}
+#folioj div.folio.kashinemarkitajn div.mdiv.markitaj span.kashinemarkitajn {
+  display: none;
+}
+#folioj div.folio.havasmarkojn span.butono.forigimarkojn {
+  display: inline-block;
+}
+#folioj div.folio.ERARO div.raportujo div.trafosumo span.ligilo {
+  display: none;
+}
+#folioj div.raportujo {
+  position: relative;
+}
+#folioj div.raportujo p.serchoparametroj {
+  margin-right: 1em;
+  margin-top: 1em;
+}
+#folioj div.raportujo code.serchesprimo {
+  background-color: yellow;
+  padding: 0.2em;
+  font-family: monospace;
+}
+#folioj div.raportujo span.parametroj {
+  display: inline-block;
+  margin: 0.6em 0em 0 0.5em;
+  background-color: #eee;
+  padding: 0.2em 0.5em;
+}
+#folioj div.raportujo div.trafosumo {
+  max-height: 999999px;
+  margin: 1em 0;
+}
+#folioj div.raportujo div.trafosumo span.trafosumo {
+  display: inline-block;
+  font-family: monospace;
+  font-size: 115%;
+  font-weight: bold;
+  color: #cb8423;
+  text-align: right;
+  background-color: #eee;
+  padding: 0.4em 0.3em;
+}
+#folioj div.raportujo div.trafosumo button.krei_ligilon, #folioj div.raportujo div.trafosumo button.kashi_streketojn {
+  margin-left: 1em;
+  display: inline-block;
+}
+#folioj div.raportujo div.trafosumo button.krei_ligilon:hover, #folioj div.raportujo div.trafosumo button.krei_ligilon:focus, #folioj div.raportujo div.trafosumo button.krei_ligilon:active, #folioj div.raportujo div.trafosumo button.kashi_streketojn:hover, #folioj div.raportujo div.trafosumo button.kashi_streketojn:focus, #folioj div.raportujo div.trafosumo button.kashi_streketojn:active {
+  outline: none !important;
+}
+#folioj div.raportujo div.trafosumo button.krei_ligilon.kashita, #folioj div.raportujo div.trafosumo button.kashi_streketojn.kashita {
+  display: none;
+}
+#folioj div.raportujo div.trafosumo span.ligilo {
+  display: inline-block;
+  margin-left: 1em;
+}
+#folioj div.raportujo div.trafosumo span.ligilo span.url {
+  font-family: monospace;
+  font-weight: bold;
+  background-color: #eee;
+  padding: 0.2em;
+}
+#folioj div.raportujo div.trafosumo span.ligilo button.kopiiligilon {
+  font-size: auto;
+  margin-left: 0.6em;
+}
+#folioj div.raportujo div.trafosumo span.ligilo span.ena, #folioj div.raportujo div.trafosumo span.ligilo button.kopiiligilon {
+  display: none;
+}
+#folioj div.raportujo div.trafosumo span.ligilo button.krei_ligilon {
+  display: inline-block;
+}
+#folioj div.raportujo div.trafosumo span.ligilo.kopii span.ena, #folioj div.raportujo div.trafosumo span.ligilo.kopii button.kopiiligilon {
+  display: inline-block;
+}
+#folioj div.raportujo div.trafosumo span.ligilo.kopii button.krei_ligilon {
+  display: none;
+}
+#folioj div.raportujo h1 {
+  margin-left: 4em;
+  padding-top: 0.3em;
+}
+#folioj div.raportujo h1.ERARO {
+  color: red;
+}
+#folioj div.raportujo button.shanghiserchon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 90%;
+}
+#folioj button.finiserchon {
+  vertical-align: top;
+}
+#folioj div.progresujo {
+  display: table-row;
+}
+#folioj div.progresujo div.chelo {
+  display: table-cell;
+  vertical-align: top;
+}
+#folioj div.progresujo div.finidiv {
+  width: 5em;
+}
+#folioj div.progresujo div.finidiv button {
+  margin-right: 0.3em;
+}
+#folioj div.progresujo div.progresodiv {
+  width: 100%;
+  position: relative;
+}
+#folioj div.progresujo div.progresodiv progress {
+  -moz-appearance: none;
+  display: inline-block;
+  width: 100%;
+  max-width: 60em;
+  height: 1.7em;
+  margin-top: 0.1em;
+  margin-bottom: 0;
+  border: 1px solid #ddd;
+  border-radius: 0.2em;
+}
+#folioj div.progresujo div.progresodiv progress::-moz-progress-bar {
+  background: #cb842e;
+  border: 1px solid #ddd;
+  border-radius: 0.2em;
+}
+#folioj div.progresujo div.progresodiv progress::-webkit-progress-bar {
+  padding: 0;
+  border: 1px solid #ddd;
+  border-radius: 0.4em;
+  background: transparent;
+}
+#folioj div.progresujo div.progresodiv progress::-webkit-progress-value {
+  background: #cb842e;
+}
+#folioj div.progresujo div.progresodiv span.procentilo {
+  position: absolute;
+  left: 50%;
+  top: 0.5em;
+}
+#folioj div.progresujo div.progresodiv span.progreso {
+  display: inline-block;
+  margin-top: 0.5em;
+  font-style: italic;
+}
+#folioj em.eraro {
+  display: inline-block;
+  margin-bottom: 0.5em;
+  background-color: red;
+  color: yellow;
+  padding: 0.2em;
+}
+#folioj div.progresoraporto {
+  margin: 0.4em 0 1em 4em;
+}
+#folioj div.serchoprezento h2 {
+  color: #888;
+  font-weight: normal;
+}
+#folioj div.serchoprezento h2 span.trafoj, #folioj div.serchoprezento h2 cite {
+  color: #cb842e;
+  font-weight: bold;
+}
+#folioj div.serchoprezento.kashita {
+  display: none;
+}
+#folioj div.serchoprezento div.trovaro {
+  display: inline-block;
+  padding: 0 0.2em;
+  background-color: white;
+}
+#folioj div.serchoprezento div.trovaro div.trafolinio {
+  display: block;
+  background-color: white;
+  padding: 0;
+  margin: 0.5em;
+  white-space: pre;
+  font-family: monospace;
+}
+#folioj div.serchoprezento div.trovaro div.trafolinio strong {
+  color: #cb8423;
+  text-decoration: underline;
+  cursor: pointer;
+}
+#folioj div.serchoprezento div.trovaro div.trafolinio strong:hover {
+  background-color: yellow;
+}
+#folioj div.serchoprezento div.trovaro div.trafolinio:hover {
+  outline: 2px dashed #444;
+}
+#folioj div.serchoprezento div.trovaro div.trafolinio.markita {
+  background-color: #ddd;
+}
+#folioj div.serchoprezento div.trovaro div.trafolinio span.antauspacetoj {
+  color: #888;
+}
+#folioj div.serchoprezento span.trafoj {
+  display: inline-block;
+  font-family: monospace;
+  min-width: 3em;
+  text-align: right;
+  background-color: #eee;
+  padding: 0.4em 0.3em;
+}
+#folioj div.serchoprezento div.trafodiv {
+  position: relative;
+  border: 1px dotted #aaa;
+  border-top-width: 1px;
+  padding: 0.3em;
+  margin-top: 0.2em;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  background-color: #eef;
+  color: #000;
+  max-width: 48em;
+}
+#folioj div.serchoprezento div.trafodiv.kashita {
+  display: none;
+}
+#folioj div.serchoprezento div.trafodiv div.mesagho {
+  text-align: center;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+#folioj div.serchoprezento div.trafodiv div.alineo {
+  text-align: left;
+  margin-left: 0em;
+  margin-right: 1em;
+  line-height: 1.5;
+}
+#folioj div.serchoprezento div.trafodiv div.alineo p.trafo {
+  margin: 0 1em;
+  font-size: 1em;
+}
+#folioj div.serchoprezento div.trafodiv div.alineo p.trafo span.trafo {
+  background-color: yellow;
+  font-weight: bolder;
+  padding: 0;
+}
+#folioj div.serchoprezento div.trafodiv p, #folioj div.serchoprezento div.trafodiv h2, #folioj div.serchoprezento div.trafodiv div {
+  margin: 0;
+}
+#folioj div.serchoprezento div.trafodiv div.ab {
+  margin: 2em;
+  padding-left: 0.5em;
+  border-left: 1px dashed #ddd;
+}
+#folioj div.serchoprezento div.trafodiv p.seg {
+  margin: 0.2em 0 0 1em;
+}
+#folioj div.serchoprezento div.trafodiv em {
+  font-style: italic;
+}
+#folioj div.serchoprezento div.trafodiv em.interspace {
+  font-style: inherit;
+  letter-spacing: 0.1em;
+}
+#folioj div.serchoprezento div.trafodiv span.m {
+  color: #888;
+  background-color: inherit;
+}
+#folioj div.serchoprezento div.trafodiv div.poemo {
+  border-left: 1px solid #ddd;
+  margin-left: 1em;
+  padding-left: 0.5em;
+  font-style: italic;
+}
+#folioj div.serchoprezento div.trafodiv div.poemo em {
+  font-style: normal;
+}
+#folioj div.serchoprezento div.trafodiv cite {
+  font-style: normal;
+  border-bottom: 1px dotted #aaa;
+}
+#folioj div.serchoprezento div.trafodiv p.bibliografio cite {
+  font-style: italic;
+}
+#folioj div.serchoprezento div.trafodiv div.repliko + div.repliko {
+  padding-top: 0.5em;
+}
+#folioj div.serchoprezento div.trafodiv div.repliko + * {
+  clear: both;
+}
+#folioj div.serchoprezento div.trafodiv div.repliko > * {
+  margin-left: 11.5em;
+}
+#folioj div.serchoprezento div.trafodiv div.parolanto {
+  font-style: italic;
+  font-weight: bold;
+  float: left;
+  max-width: 11em;
+  margin-left: 0;
+}
+#folioj div.serchoprezento div.trafodiv div.parolanto + p {
+  margin-top: 0;
+}
+#folioj div.serchoprezento div.trafodiv ul.rololisto li {
+  position: relative;
+  clear: both;
+  list-style-type: none;
+  max-width: 40em;
+  margin-bottom: 0.6em;
+}
+#folioj div.serchoprezento div.trafodiv span.rolo {
+  font-variant: small-caps;
+}
+#folioj div.serchoprezento div.trafodiv span.rolo + span.rolo {
+  display: block;
+}
+#folioj div.serchoprezento div.trafodiv span.rolo + span.rolo + span.rolpriskribo {
+  display: block;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 18em;
+  padding: 0 0 0 0.5em;
+  border-left: 2px outset #444;
+}
+#folioj div.serchoprezento div.trafodiv p.bibliografio {
+  padding: 0.5em;
+}
+#folioj div.serchoprezento div.trafodiv span.sceninstrukcio {
+  font-style: italic;
+}
+#folioj div.serchoprezento div.trafodiv blockquote {
+  margin-left: 1.5em;
+}
+#folioj div.serchoprezento div.trafodiv p.fonto {
+  margin-left: 1.5em;
+}
+#folioj div.serchoprezento div.trafodiv span.fremda, #folioj div.serchoprezento div.trafodiv em.fremda {
+  border-bottom: 1px dashed #caa;
+  color: red;
+}
+#folioj div.serchoprezento div.trafodiv span.nomo {
+  border-bottom: 1px dotted #caa;
+  color: green;
+}
+#folioj div.serchoprezento div.trafodiv div.noto {
+  border: 1px dotted #ddd;
+  background-color: #eee;
+  padding: 0.5em;
+  margin-left: 50%;
+  font-size: 80%;
+  text-align: left;
+}
+#folioj div.serchoprezento div.trafodiv div.origina-noto {
+  font-size: 80%;
+}
+#folioj div.serchoprezento div.trafodiv span.num {
+  border: 1px solid #ddd;
+  letter-spacing: 0.2em;
+  padding-left: 0.2em;
+}
+#folioj div.serchoprezento div.trafodiv p.gap {
+  color: #446;
+  padding: 0.5em;
+  text-align: center;
+}
+#folioj div.serchoprezento div.trafodiv p.flosa {
+  float: left;
+}
+#folioj div.serchoprezento div.trafodiv li.sen {
+  list-style-type: none;
+}
+#folioj div.serchoprezento div.trafodiv table {
+  margin: 1em 0;
+}
+#folioj div.serchoprezento div.trafodiv p.numero {
+  width: 4em;
+  float: left;
+}
+#folioj div.serchoprezento div.trafodiv ul.numera, #folioj div.serchoprezento div.trafodiv ol.numera {
+  margin-left: 1em;
+}
+#folioj div.serchoprezento div.trafodiv blockquote.numera {
+  margin-left: 2em;
+}
+#folioj div.serchoprezento div.trafodiv #streketoj {
+  position: fixed;
+  right: 5px;
+  top: 5px;
+}
+#folioj div.serchoprezento div.trafodiv #streketoj button {
+  background-color: #fff;
+  color: red;
+  border: 2px outset yellow;
+  font-weight: bold;
+  width: 8em;
+  display: none;
+  cursor: pointer;
+}
+#folioj div.serchoprezento div.trafodiv #streketoj button:hover {
+  background-color: green;
+  color: #fff;
+}
+#folioj div.serchoprezento div.trafodiv #fantomobutono {
+  display: none;
+  margin-top: 0.5em;
+}
+#folioj div.serchoprezento span.trafofermilo {
+  color: #666;
+  cursor: pointer;
+  padding: 0 0.3em;
+  margin: 1px;
+  position: absolute;
+  top: 0em;
+  right: 0em;
+}
+#folioj div.serchoprezento button.trafopliilo {
+  margin: 0.2em auto;
+  display: block;
+  font-size: 1.1em;
+}
+#folioj div.serchoprezento div.kunalineo span.trafopliilo {
+  display: block;
+}
+#folioj div.serchoprezento span.trafopliilo:hover {
+  color: #d44;
+}
+#folioj #tekstoj {
+  font-size: 80%;
+  margin-top: 1em;
+  width: 132em;
+  column-width: auto;
+  column-count: 6;
+  -moz-columns: auto 6;
+  column-gap: 0em;
+  -webkit-column-gap: 0em;
+  -moz-column-gap: 0em;
+}
+#folioj #tekstoj div.teksto {
+  overflow: hidden;
+  display: inline-block;
+  min-height: 2.7em;
+  border: 2px solid #ddd;
+  cursor: pointer;
+  width: 21.6em;
+}
+#folioj #tekstoj div.teksto:hover {
+  background-color: yellow;
+}
+#folioj #tekstoj div.teksto.elektita {
+  color: white;
+  background-color: #cb8423;
+  border-top-color: #cb8423;
+  border-bottom-color: #cb8423;
+  border-left-color: #dddddd;
+  border-right-color: #dddddd;
+}
+#folioj #tekstoj div.teksto.elektita div.montri {
+  color: white;
+}
+#folioj #tekstoj div.teksto.malshaltita div.nomo, #folioj #tekstoj div.teksto.malshaltita div.check {
+  opacity: 0.2;
+}
+#folioj #tekstoj div.teksto.traktata {
+  border: 2px dotted #cb8423;
+}
+#folioj #tekstoj div.teksto.elektita.traktata {
+  border: 2px dotted white;
+}
+#folioj #tekstoj div.teksto div.montri, #folioj #tekstoj div.teksto div.check, #folioj #tekstoj div.teksto div.nomo {
+  display: inline-block;
+  vertical-align: top;
+  padding: 0.2em 0.2em;
+}
+#folioj #tekstoj div.teksto div.montri {
+  width: 1em;
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+}
+#folioj #tekstoj div.teksto div.montri:hover {
+  cursor: pointer;
+}
+#folioj #tekstoj div.teksto div.montri.protektita {
+  color: red;
+}
+#folioj #tekstoj div.teksto div.montri.protektita:hover {
+  cursor: default;
+}
+#folioj #tekstoj div.teksto div.check input:hover {
+  cursor: pointer;
+}
+#folioj #tekstoj div.teksto.elektita div.protektita {
+  color: white;
+}
+#folioj #tekstoj div.teksto div.check {
+  width: 1.2em;
+  padding-top: 0;
+  position: relative;
+}
+#folioj #tekstoj div.teksto div.check input {
+  margin: 0 0.2em 0 0.1em;
+  position: absolute;
+  top: 0.15em;
+}
+#folioj #tekstoj div.teksto div.nomo {
+  width: auto;
+  line-height: 1.2;
+  padding-top: 0.1em;
+  position: relative;
+}
+#folioj #tekstoj div.teksto div.nomo cite {
+  font-style: normal;
+}
+#folioj #tekstoj div.teksto div.nomo span.Z {
+  font-size: 80%;
+  padding: 0.1em;
+  color: #cb8423;
+  position: relative;
+  top: -0.4em;
+}
+#folioj #tekstoj div.teksto div.nomo span.Z:hover {
+  cursor: help;
+}
+#folioj #tekstoj div.teksto div.nomo span.label {
+  cursor: pointer;
+}
+#folioj #tekstoj div.teksto.elektita div.nomo span.Z {
+  color: yellow;
+}
+#folioj #tekstoj div.teksto div.nomo:hover, #folioj #tekstoj div.teksto div.check:hover {
+  cursor: pointer;
+}
+#folioj #tekstoj div.teksto div.nomo span.informoj {
+  display: none;
+  background-color: #ffd;
+  color: black;
+}
+#folioj #tekstoj div.teksto div.nomo span.informoj strong {
+  font-weight: bold;
+}
+#folioj #tekstoj div.teksto div.nomo span.informoj em {
+  font-style: italic;
+}
+#folioj #tekstoj cite {
+  font-weight: bold;
+}
+#folioj #tekstoj span.label {
+  display: inline-block;
+  width: 18em;
+}
+#folioj #tekstoj.montriinformojn div.teksto div.nomo span.informoj, #folioj #tekstoj div.teksto.montriinformojn div.nomo span.informoj {
+  display: inline-block;
+  padding: 0.1em;
+}
+@media screen and (max-width: 107em) {
+  #folioj #tekstoj {
+    width: 110.2em;
+    column-width: auto;
+    column-count: 5;
+    -moz-columns: auto 5;
+  }
+}
+@media screen and (max-width: 91em) {
+  #folioj #tekstoj {
+    width: 88em;
+    column-width: auto;
+    column-count: 4;
+    -moz-columns: auto 4;
+  }
+}
+@media screen and (max-width: 73em) {
+  #folioj #tekstoj {
+    width: 66em;
+    column-width: auto;
+    column-count: 3;
+    -moz-columns: auto 3;
+  }
+}
+@media screen and (max-width: 57em) {
+  #folioj #tekstoj {
+    width: 44.5em;
+    column-width: auto;
+    column-count: 2;
+    -moz-columns: auto 2;
+  }
+  #folioj div.ESF1 span {
+    position: static;
+    display: block;
+    line-height: 1.5;
+    background-color: #eef;
+  }
+}
+@media screen and (max-width: 44em) {
+  #folioj #tekstoj {
+    width: auto;
+    column-width: auto;
+    column-count: 1;
+    -moz-columns: auto 1;
+  }
+  #folioj div.folio div.tutateksto {
+    margin-left: 0.2em;
+  }
+  #folioj div.folio div.tutateksto div.tekstarkapo, #folioj div.folio div.tutateksto div.tekstarteksto {
+    margin: 0 0 0.5em 0;
+  }
+  #folioj div.ESF1 span {
+    position: static;
+    display: block;
+    line-height: 1.5;
+    background-color: #eef;
+  }
+}
+#folioj a:link, #folioj a:visited, #folioj a:active, #folioj a:hover {
+  color: #cb842e;
+  background-color: transparent;
+  font-weight: bold;
+}
+#folioj div.shargastekston {
+  padding-left: 3em;
+}
+
+body.tutateksto {
+  color: #000;
+  background-color: #fff;
+  margin: 1em 1em;
+  padding: 1em;
+  max-width: 44em;
+  font-size: 100%;
+  text-align: justify;
+  border: 4px solid #ccc;
+  line-height: 1.8;
+  height: auto;
+}
+body.tutateksto.kashita {
+  display: none;
+}
+body.tutateksto div#alaktualasekcio {
+  margin: 0.5em 0;
+}
+body.tutateksto div#alaktualasekcio button {
+  width: 100%;
+  font-size: 110%;
+}
+body.tutateksto div#alaktualasekcio button span {
+  display: block;
+  margin: 0.2em 0;
+}
+body.tutateksto div#alaktualasekcio button span.titolo {
+  font-style: italic;
+}
+body.tutateksto span.nelingva {
+  word-break: break-all;
+  font-family: monospace;
+  color: green;
+}
+body.tutateksto p.partolisto {
+  text-align: left;
+}
+body.tutateksto ol.partolisto {
+  display: block;
+  list-style-type: decimal;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+body.tutateksto ol.partolisto li {
+  list-style-type: decimal;
+}
+body.tutateksto ol.partolisto li a:link, body.tutateksto ol.partolisto li a:visited, body.tutateksto ol.partolisto li a:active, body.tutateksto ol.partolisto li a:hover {
+  color: #cb842e;
+  background-color: inherit;
+  font-weight: bold;
+}
+body.tutateksto ol.partolisto #aktuala_sekcio {
+  color: green;
+}
+body.tutateksto div.tekstokapo {
+  padding: 0.5em;
+  margin: 0.5em 0;
+  text-align: left;
+  background-color: #eee;
+}
+body.tutateksto div.tekstokapo em {
+  font-style: italic;
+}
+body.tutateksto div.tekstokapo div.poemo {
+  border-left: 1px solid #ddd;
+  margin-left: 1em;
+  padding-left: 0.5em;
+  font-style: italic;
+}
+body.tutateksto div.tekstokapo div.poemo em {
+  font-style: normal;
+}
+body.tutateksto div.tekstokapo cite {
+  font-style: normal;
+  border-bottom: 1px dotted #aaa;
+}
+body.tutateksto div.tekstokapo p.bibliografio cite {
+  font-style: italic;
+}
+body.tutateksto div.tekstokapo div.repliko + div.repliko {
+  padding-top: 0.5em;
+}
+body.tutateksto div.tekstokapo div.repliko + * {
+  clear: both;
+}
+body.tutateksto div.tekstokapo div.repliko > * {
+  margin-left: 11.5em;
+}
+body.tutateksto div.tekstokapo div.parolanto {
+  font-style: italic;
+  font-weight: bold;
+  float: left;
+  max-width: 11em;
+  margin-left: 0;
+}
+body.tutateksto div.tekstokapo div.parolanto + p {
+  margin-top: 0;
+}
+body.tutateksto div.tekstokapo ul.rololisto li {
+  position: relative;
+  clear: both;
+  list-style-type: none;
+  max-width: 40em;
+  margin-bottom: 0.6em;
+}
+body.tutateksto div.tekstokapo span.rolo {
+  font-variant: small-caps;
+}
+body.tutateksto div.tekstokapo span.rolo + span.rolo {
+  display: block;
+}
+body.tutateksto div.tekstokapo span.rolo + span.rolo + span.rolpriskribo {
+  display: block;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 18em;
+  padding: 0;
+  border-left: 2px outset #444;
+}
+body.tutateksto div.tekstokapo span.rolo + span.rolo + span.rolpriskribo span {
+  display: block;
+  position: absolute;
+  top: 30%;
+  left: 0.5em;
+}
+body.tutateksto div.tekstokapo p.bibliografio {
+  padding: 0.5em;
+}
+body.tutateksto div.tekstokapo span.sceninstrukcio {
+  font-style: italic;
+}
+body.tutateksto div.tekstokapo blockquote {
+  margin-left: 1.5em;
+}
+body.tutateksto div.tekstokapo p.fonto {
+  margin-left: 1.5em;
+}
+body.tutateksto div.tekstokapo span.fremda, body.tutateksto div.tekstokapo em.fremda {
+  border-bottom: 1px dashed #caa;
+  color: red;
+}
+body.tutateksto div.tekstokapo span.nomo {
+  border-bottom: 1px dotted #caa;
+  color: green;
+}
+body.tutateksto div.tekstokapo span.nomo span.fremda {
+  color: green;
+}
+body.tutateksto div.tekstokapo div.noto {
+  border: 1px dotted #ddd;
+  background-color: #eee;
+  padding: 0.5em;
+  margin-left: 50%;
+  margin-bottom: 0.4em;
+  font-size: 80%;
+  text-align: left;
+}
+body.tutateksto div.tekstokapo div.origina-noto {
+  font-size: 80%;
+}
+body.tutateksto div.tekstokapo span.num {
+  border: 1px solid #ddd;
+  letter-spacing: 0.2em;
+  padding-left: 0.2em;
+}
+body.tutateksto div.tekstokapo p.gap {
+  color: #446;
+  padding: 0.5em;
+  text-align: center;
+}
+body.tutateksto div.tekstokapo p.flosa {
+  float: left;
+}
+body.tutateksto div.tekstokapo li.sen {
+  list-style-type: none;
+}
+body.tutateksto div.tekstokapo table {
+  margin: 1em 0;
+}
+body.tutateksto div.tekstokapo p.numero {
+  width: 4em;
+  float: left;
+}
+body.tutateksto div.tekstokapo ul {
+  list-style: disc;
+}
+body.tutateksto div.tekstokapo ul.numera, body.tutateksto div.tekstokapo ol.numera {
+  margin-left: 1em;
+}
+@media screen and (max-width: 40em) {
+  body.tutateksto {
+    margin: 0.2em;
+    max-width: auto;
+    padding: 0.2em;
+  }
+  body.tutateksto h1, body.tutateksto h2, body.tutateksto h3, body.tutateksto h4, body.tutateksto h5, body.tutateksto h6 {
+    text-align: left;
+  }
+}
+
+body.revuo-esperanto-2002-2007, div.revuo-esperanto-2002-2007, body.revuo-esperanto-2008-2012, div.revuo-esperanto-2008-2012 {
+  text-align: left;
+}
+body.revuo-esperanto-2002-2007 div.tekstarteksto, div.revuo-esperanto-2002-2007 div.tekstarteksto, body.revuo-esperanto-2008-2012 div.tekstarteksto, div.revuo-esperanto-2008-2012 div.tekstarteksto {
+  text-align: left;
+}
+body.revuo-esperanto-2002-2007 div.signed, div.revuo-esperanto-2002-2007 div.signed, body.revuo-esperanto-2008-2012 div.signed, div.revuo-esperanto-2008-2012 div.signed {
+  width: fit-content;
+  padding: 0.2em 0.5em;
+  border-left: 2px double #aaf;
+  border-right: 2px double #aaf;
+}
+
+*.tutateksto {
+  margin: 0;
+  padding: 0 0 0 0;
+  max-width: 44em;
+  height: 100%;
+  overflow: auto;
+  position: relative;
+  line-height: 1.8;
+}
+*.tutateksto #sagujo {
+  position: sticky;
+  top: 2em;
+  text-align: right;
+  height: 0;
+}
+*.tutateksto #sagujo #sagoj {
+  display: inline-block;
+  width: auto;
+  text-align: center;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+  position: relative;
+  right: -0.3em;
+  font-size: 150%;
+}
+*.tutateksto #sagujo #sagoj span {
+  display: block;
+  margin: 0;
+  cursor: pointer;
+}
+*.tutateksto #sagujo #sagoj span:hover, *.tutateksto #sagujo #sagoj span:focus, *.tutateksto #sagujo #sagoj span:active {
+  color: green;
+  outline: none;
+}
+*.tutateksto #sagujo #sagoj span::-moz-focus-inner {
+  border: 0;
+}
+*.tutateksto #sagujo #sagoj span.streketoj {
+  font-size: 100%;
+}
+*.tutateksto h1 {
+  font-size: 1.8em;
+}
+*.tutateksto h2 {
+  font-size: 1.2em;
+}
+*.tutateksto h3 {
+  font-size: 1.1em;
+}
+*.tutateksto h4, *.tutateksto h5, *.tutateksto h6 {
+  font-size: 1em;
+}
+*.tutateksto h1, *.tutateksto h2, *.tutateksto h3, *.tutateksto h4, *.tutateksto h5, *.tutateksto h6 {
+  font-weight: bold;
+  color: #cb842e;
+  background-color: inherit;
+  margin: 1.5em 0 0.4em 0;
+}
+*.tutateksto h1 + *, *.tutateksto h2 + *, *.tutateksto h3 + *, *.tutateksto h4 + *, *.tutateksto h5 + *, *.tutateksto h6 + * {
+  margin-top: 0.2em;
+}
+*.tutateksto h1.editorial, *.tutateksto h2.editorial, *.tutateksto h3.editorial, *.tutateksto h4.editorial, *.tutateksto h5.editorial, *.tutateksto h6.editorial {
+  background-color: #feb;
+  color: #000;
+  padding: 0.2em;
+}
+*.tutateksto h1.editorial.nuralitero, *.tutateksto h1.editorial.nuranumero, *.tutateksto h2.editorial.nuralitero, *.tutateksto h2.editorial.nuranumero, *.tutateksto h3.editorial.nuralitero, *.tutateksto h3.editorial.nuranumero, *.tutateksto h4.editorial.nuralitero, *.tutateksto h4.editorial.nuranumero, *.tutateksto h5.editorial.nuralitero, *.tutateksto h5.editorial.nuranumero, *.tutateksto h6.editorial.nuralitero, *.tutateksto h6.editorial.nuranumero {
+  background-color: transparent;
+}
+*.tutateksto p {
+  margin: 1em 0;
+}
+*.tutateksto div.leterokursiva {
+  font-style: italic;
+}
+*.tutateksto div.tekstarkapo, *.tutateksto div.tekstarteksto {
+  color: #000;
+  background-color: #fff;
+  margin: 0 2em 0.5em 0.5em;
+  padding: 0 0.3em 0 0;
+  max-width: 42em;
+  font-size: 100%;
+  text-align: justify;
+}
+*.tutateksto div.tekstarkapo ul, *.tutateksto div.tekstarteksto ul {
+  list-style: disc;
+}
+*.tutateksto div.tekstarkapo ul.senbuletoj, *.tutateksto div.tekstarteksto ul.senbuletoj {
+  list-style: none;
+}
+*.tutateksto div.tekstarkapo ol.htmlindekso, *.tutateksto div.tekstarteksto ol.htmlindekso {
+  list-style: decimal;
+}
+*.tutateksto div.tekstarteksto div.tekstokapo ol li {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+*.tutateksto div.tekstarteksto.kashi_streketojn span.streketo {
+  display: none;
+}
+*.tutateksto div.tekstarkapo {
+  border-bottom: 1px solid #aaa;
+  text-align: left;
+}
+*.tutateksto div.tekstokapo {
+  padding: 0.5em;
+  margin: 0.5em 0;
+  text-align: left;
+  background-color: #eef;
+}
+*.tutateksto div.tekstokapo em {
+  font-style: italic;
+}
+*.tutateksto div.tekstokapo div.poemo {
+  border-left: 1px solid #ddd;
+  margin-left: 1em;
+  padding-left: 0.5em;
+  font-style: italic;
+}
+*.tutateksto div.tekstokapo div.poemo em {
+  font-style: normal;
+}
+*.tutateksto div.tekstokapo cite {
+  font-style: normal;
+  border-bottom: 1px dotted #aaa;
+}
+*.tutateksto div.tekstokapo p.bibliografio cite {
+  font-style: italic;
+}
+*.tutateksto div.tekstokapo div.repliko + div.repliko {
+  padding-top: 0.5em;
+}
+*.tutateksto div.tekstokapo div.repliko + * {
+  clear: both;
+}
+*.tutateksto div.tekstokapo div.repliko > * {
+  margin-left: 11.5em;
+}
+*.tutateksto div.tekstokapo div.parolanto {
+  font-style: italic;
+  font-weight: bold;
+  float: left;
+  max-width: 11em;
+  margin-left: 0;
+}
+*.tutateksto div.tekstokapo div.parolanto + p {
+  margin-top: 0;
+}
+*.tutateksto div.tekstokapo ul.rololisto li {
+  position: relative;
+  clear: both;
+  list-style-type: none;
+  max-width: 40em;
+  margin-bottom: 0.6em;
+}
+*.tutateksto div.tekstokapo span.rolo {
+  font-variant: small-caps;
+}
+*.tutateksto div.tekstokapo span.rolo + span.rolo {
+  display: block;
+}
+*.tutateksto div.tekstokapo span.rolo + span.rolo + span.rolpriskribo {
+  display: block;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 18em;
+  padding: 0;
+  border-left: 2px outset #444;
+}
+*.tutateksto div.tekstokapo span.rolo + span.rolo + span.rolpriskribo span {
+  display: block;
+  position: absolute;
+  top: 30%;
+  left: 0.5em;
+}
+*.tutateksto div.tekstokapo p.bibliografio {
+  padding: 0.5em;
+}
+*.tutateksto div.tekstokapo span.sceninstrukcio {
+  font-style: italic;
+}
+*.tutateksto div.tekstokapo blockquote {
+  margin-left: 1.5em;
+}
+*.tutateksto div.tekstokapo p.fonto {
+  margin-left: 1.5em;
+}
+*.tutateksto div.tekstokapo span.fremda, *.tutateksto div.tekstokapo em.fremda {
+  border-bottom: 1px dashed #caa;
+  color: red;
+}
+*.tutateksto div.tekstokapo span.nomo {
+  border-bottom: 1px dotted #caa;
+  color: green;
+}
+*.tutateksto div.tekstokapo span.nomo span.fremda {
+  color: green;
+}
+*.tutateksto div.tekstokapo div.noto {
+  border: 1px dotted #ddd;
+  background-color: #eee;
+  padding: 0.5em;
+  margin-left: 50%;
+  font-size: 80%;
+  text-align: left;
+}
+*.tutateksto div.tekstokapo div.origina-noto {
+  font-size: 80%;
+}
+*.tutateksto div.tekstokapo span.num {
+  border: 1px solid #ddd;
+  letter-spacing: 0.2em;
+  padding-left: 0.2em;
+}
+*.tutateksto div.tekstokapo p.gap {
+  color: #446;
+  padding: 0.5em;
+  text-align: center;
+}
+*.tutateksto div.tekstokapo p.flosa {
+  float: left;
+}
+*.tutateksto div.tekstokapo li.sen {
+  list-style-type: none;
+}
+*.tutateksto div.tekstokapo table {
+  margin: 1em 0;
+}
+*.tutateksto div.tekstokapo p.numero {
+  width: 4em;
+  float: left;
+}
+*.tutateksto div.tekstokapo ul {
+  list-style: disc;
+}
+*.tutateksto div.tekstokapo ul.numera, *.tutateksto div.tekstokapo ol.numera {
+  margin-left: 1em;
+}
+*.tutateksto ul, *.tutateksto ol {
+  padding-left: 1.5em;
+}
+*.tutateksto li {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+*.tutateksto div.ab {
+  margin: 2em;
+  padding-left: 0.5em;
+  border-left: 1px dashed #ddd;
+}
+*.tutateksto p.seg {
+  margin: 0.2em 0 0 1em;
+}
+*.tutateksto em {
+  font-style: italic;
+}
+*.tutateksto em.silabe, *.tutateksto em.erare {
+  font-style: inherit;
+}
+*.tutateksto em[lang] {
+  color: red;
+}
+*.tutateksto em em {
+  font-style: normal;
+}
+*.tutateksto em.interspace {
+  font-style: inherit;
+  letter-spacing: 0.1em;
+}
+*.tutateksto em.majusklete {
+  font-style: inherit;
+  font-variant: small-caps;
+}
+*.tutateksto span.m {
+  color: #888;
+  background-color: inherit;
+}
+*.tutateksto span.m.m:before {
+  content: " <";
+}
+*.tutateksto span.m.m:after {
+  content: ">";
+}
+*.tutateksto span.m.dekstre {
+  position: absolute;
+  right: 0em;
+}
+*.tutateksto span.m.dekstre.m:before {
+  content: "";
+}
+*.tutateksto span.m.dekstre.m:after {
+  content: "";
+}
+*.tutateksto div.poemo {
+  border-left: 1px solid #ddd;
+  margin-left: 1em;
+  padding-left: 0.5em;
+  font-style: italic;
+}
+*.tutateksto div.poemo em {
+  font-style: normal;
+}
+*.tutateksto cite {
+  font-style: normal;
+  border-bottom: 1px dotted #aaa;
+}
+*.tutateksto p.bibliografio cite {
+  font-style: italic;
+}
+*.tutateksto div.repliko + div.repliko {
+  padding-top: 0.5em;
+}
+*.tutateksto div.repliko + * {
+  clear: both;
+}
+*.tutateksto div.repliko > * {
+  margin-left: 11.5em;
+}
+*.tutateksto div.parolanto {
+  font-style: italic;
+  font-weight: bold;
+  float: left;
+  max-width: 11em;
+  margin-left: 0;
+}
+*.tutateksto div.parolanto + p {
+  margin-top: 0;
+}
+*.tutateksto ul.rololisto li {
+  position: relative;
+  clear: both;
+  list-style-type: none;
+  max-width: 40em;
+  margin-bottom: 0.6em;
+}
+*.tutateksto span.rolo {
+  font-variant: small-caps;
+}
+*.tutateksto span.rolo + span.rolo {
+  display: block;
+}
+*.tutateksto span.rolo + span.rolo + span.rolpriskribo {
+  display: block;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 18em;
+  padding: 0 0 0 0.5em;
+  border-left: 2px outset #444;
+}
+*.tutateksto p.bibliografio {
+  padding: 0.5em;
+}
+*.tutateksto span.sceninstrukcio {
+  font-style: italic;
+}
+*.tutateksto blockquote {
+  margin-left: 1.5em;
+}
+*.tutateksto p.fonto {
+  margin-left: 1.5em;
+}
+*.tutateksto span.fremda, *.tutateksto em.fremda {
+  border-bottom: 1px dashed #caa;
+  color: red;
+}
+*.tutateksto span.nomo {
+  border-bottom: 1px dotted #caa;
+  color: green;
+}
+*.tutateksto span.nomo span.fremda {
+  color: green;
+}
+*.tutateksto div.noto {
+  border: 1px dotted #ddd;
+  background-color: #eee;
+  padding: 0.5em;
+  margin-left: 50%;
+  margin-bottom: 0.4em;
+  font-size: 80%;
+  text-align: left;
+}
+*.tutateksto span.editorial {
+  background-color: #feb;
+  color: #000;
+}
+*.tutateksto p.editorial {
+  padding: 0.5em;
+  margin-left: 50%;
+  font-size: 80%;
+  text-align: right;
+}
+*.tutateksto div.noto.editorial, *.tutateksto p.editorial {
+  background-color: #feb;
+  color: #000;
+  font-family: monospace;
+}
+*.tutateksto div.origina-noto {
+  font-size: 80%;
+}
+*.tutateksto span.num {
+  border: 1px solid #ddd;
+  letter-spacing: 0.2em;
+  padding-left: 0.2em;
+}
+*.tutateksto p.gap {
+  color: #446;
+  padding: 0.5em;
+  text-align: center;
+}
+*.tutateksto p.flosa {
+  float: left;
+}
+*.tutateksto li.sen {
+  list-style-type: none;
+}
+*.tutateksto table {
+  margin: 1em 0;
+}
+*.tutateksto p.numero {
+  width: 4em;
+  float: left;
+}
+*.tutateksto ul.numera, *.tutateksto ol.numera {
+  margin-left: 1em;
+}
+*.tutateksto blockquote.numera {
+  margin-left: 2em;
+}
+*.tutateksto .trafop {
+  padding: 0.4em;
+  background-color: #eef;
+}
+*.tutateksto span.trafop {
+  padding: 0;
+}
+*.tutateksto span.trafo, *.tutateksto .trafodiv span.trafo {
+  background-color: yellow;
+  font-weight: bolder;
+  padding: 0;
+}
+*.tutateksto span.trafo span.trafo, *.tutateksto .trafodiv span.trafo span.trafo {
+  background-color: orange;
+}
+*.tutateksto span.trafo span.trafo span.trafo, *.tutateksto .trafodiv span.trafo span.trafo span.trafo {
+  background-color: red;
+}
+*.tutateksto span.trafo span.trafo span.trafo span.trafo, *.tutateksto .trafodiv span.trafo span.trafo span.trafo span.trafo {
+  background-color: blue;
+}
+*.tutateksto #streketoj {
+  position: fixed;
+  right: 5px;
+  top: 5px;
+}
+*.tutateksto #streketoj button {
+  background-color: #fff;
+  color: red;
+  border: 2px outset yellow;
+  font-weight: bold;
+  width: 8em;
+  display: none;
+  cursor: pointer;
+}
+*.tutateksto #streketoj button:hover {
+  background-color: green;
+  color: #fff;
+}
+*.tutateksto #fantomobutono {
+  display: none;
+  margin-top: 0.5em;
+}
+*.tutateksto div.closer.chefa {
+  text-align: center;
+  font-weight: bold;
+}
+*.tutateksto div.epigrafo {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-style: italic;
+}
+*.tutateksto div.epigrafo.chefa {
+  text-align: center;
+  font-weight: bold;
+}
+*.tutateksto div.epigrafo p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+*.tutateksto div.epigrafo.malchefa {
+  text-align: left;
+  margin-left: 35%;
+}
+*.tutateksto.georgo-dandin p.scenajho {
+  font-style: italic;
+}
+*.tutateksto.georgo-dandin p.scenajho span.nomo, *.tutateksto.georgo-dandin div.parolanto span.nomo {
+  font-style: normal;
+  font-variant: small-caps;
+}
+*.tutateksto.georgo-dandin div.personoj p.scenajho {
+  font-style: normal;
+}
+*.tutateksto.georgo-dandin div.personoj p.scenajho span.nomo {
+  font-variant: normal;
+}
+*.tutateksto.georgo-dandin div.repliko div.parolanto {
+  font-weight: normal;
+  font-style: normal;
+}
+*.tutateksto.georgo-dandin div.repliko div.parolanto, *.tutateksto.georgo-dandin div.repliko p {
+  display: inline;
+  max-width: none;
+  float: none;
+  margin-left: 0;
+}
+*.tutateksto.georgo-dandin span.rolo span.nomo abbr.title {
+  font-variant: normal;
+}
+*.tutateksto.georgo-dandin p.scenajho span.nomo abbr.title, *.tutateksto.georgo-dandin div.parolanto span.nomo abbr.title {
+  font-style: normal;
+  font-variant: normal;
+}
+*.tutateksto.ifigenio-en-taurido div.repliko div.parolanto, *.tutateksto.ifigenio-en-taurido div.repliko p {
+  max-width: none;
+  float: none;
+  margin-left: 0;
+}
+*.tutateksto.ifigenio-en-taurido div.repliko p {
+  margin-top: 0.5em;
+}
+*.tutateksto.georgo-dandin div.repliko p.trafop {
+  padding: 0.1em;
+  background-color: #eef;
+}
+*.tutateksto.georgo-dandin div.akto, *.tutateksto.georgo-dandin div.sceno {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+*.tutateksto.hamleto span.rolo span.nomo {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+}
+*.tutateksto.hamleto div.parolanto {
+  display: inline;
+  float: none;
+  margin-left: 0;
+  font-style: normal;
+  font-weight: normal;
+}
+*.tutateksto.hamleto div.parolanto span.nomo {
+  font-weight: bold;
+}
+*.tutateksto.hamleto div.repliko {
+  margin-left: 2em;
+  text-indent: -2em;
+}
+*.tutateksto.hamleto div.repliko p {
+  display: inline;
+  max-width: none;
+  float: none;
+  margin-left: 0;
+}
+*.tutateksto.hamleto p.scenajho span.nomo {
+  font-weight: bold;
+}
+*.tutateksto.hamleto div.repliko + p.sceninstrukcio {
+  text-align: center;
+}
+*.tutateksto.hamleto div.repliko > p.sceninstrukcio {
+  display: block;
+}
+*.tutateksto.lingvaj-respondoj div.chapitro {
+  margin-bottom: 5em;
+}
+*.tutateksto.lingvaj-respondoj div.respondo {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 2px dotted #ccc;
+}
+*.tutateksto.lingvaj-respondoj div.parto {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+*.tutateksto.lingvaj-respondoj div.respondo {
+  padding-left: 4.5em;
+}
+*.tutateksto.lingvaj-respondoj div.subrespondo {
+  padding-left: 2em;
+}
+*.tutateksto.lingvaj-respondoj h3.editorial, *.tutateksto.lingvaj-respondoj h4.editorial, *.tutateksto.lingvaj-respondoj h5.editorial, *.tutateksto.lingvaj-respondoj h6.editorial {
+  font-size: 150%;
+  font-variant: small-caps;
+  min-height: 1em;
+}
+*.tutateksto.lingvaj-respondoj div.respondo h3.editorial, *.tutateksto.lingvaj-respondoj div.respondo h4.editorial, *.tutateksto.lingvaj-respondoj div.respondo h5.editorial, *.tutateksto.lingvaj-respondoj div.respondo h6.editorial {
+  position: relative;
+}
+*.tutateksto.lingvaj-respondoj div.respondo h3.editorial span.respondonumero, *.tutateksto.lingvaj-respondoj div.respondo h4.editorial span.respondonumero, *.tutateksto.lingvaj-respondoj div.respondo h5.editorial span.respondonumero, *.tutateksto.lingvaj-respondoj div.respondo h6.editorial span.respondonumero {
+  display: inline-block;
+  position: absolute;
+  left: -3em;
+}
+*.tutateksto.lingvaj-respondoj div.respondo h3.editorial span.respondolitero, *.tutateksto.lingvaj-respondoj div.respondo h4.editorial span.respondolitero, *.tutateksto.lingvaj-respondoj div.respondo h5.editorial span.respondolitero, *.tutateksto.lingvaj-respondoj div.respondo h6.editorial span.respondolitero {
+  display: inline-block;
+  position: absolute;
+  left: -2em;
+}
+*.tutateksto.lingvaj-respondoj h5.respondolitero, *.tutateksto.lingvaj-respondoj h6.respondolitero {
+  font-size: 150%;
+  margin: 0;
+  background-color: #fff;
+}
+*.tutateksto.reformoj-esperanto *[lang=eo-x-reformitaEsperanto] {
+  color: blue;
+}
+*.tutateksto #la-kiso-Notoj div.noto {
+  margin-left: 2em;
+}
+*.tutateksto.reformoj-esperanto div.closer {
+  font-variant: small-caps;
+}
+*.tutateksto.idoj-de-orfeo div.signed, *.tutateksto.idoj-de-orfeo div.dateline {
+  text-align: right;
+}
+*.tutateksto.idoj-de-orfeo div.tekstoenteksto {
+  margin-left: 1.5em;
+}
+*.tutateksto.idoj-de-orfeo div.argument {
+  text-align: center;
+}
+*.tutateksto.idoj-de-orfeo p.mezatitolo {
+  font-weight: bold;
+}
+*.tutateksto.idoj-de-orfeo p.dividolonga {
+  width: 80%;
+  margin: 1em auto;
+  border-bottom: 2px solid #aaa;
+}
+*.tutateksto.idoj-de-orfeo p.dividomallonga {
+  width: 40%;
+  margin: 1em auto;
+  border-bottom: 2px solid #aaa;
+}
+*.tutateksto table {
+  border: 2px solid #000;
+}
+*.tutateksto table.senbordero {
+  border: 0 solid #000;
+}
+*.tutateksto table.senbordero td, *.tutateksto table.senbordero th {
+  border: 0 solid #000;
+}
+*.tutateksto th {
+  font-weight: bold;
+}
+*.tutateksto th.vertikalateksto {
+  vertical-align: baseline;
+}
+*.tutateksto th.vertikalateksto div {
+  writing-mode: vertical-lr;
+}
+*.tutateksto td, *.tutateksto th {
+  border: 2px solid #000;
+  padding: 0.2em;
+}
+*.tutateksto td.dekstre, *.tutateksto th.dekstre {
+  text-align: right;
+}
+*.tutateksto td.min-width-5em, *.tutateksto th.min-width-5em {
+  min-width: 5em;
+}
+*.tutateksto th.centre, *.tutateksto td.centre {
+  text-align: center;
+}
+*.tutateksto td.meze, *.tutateksto th.meze {
+  vertical-align: middle;
+}
+*.tutateksto td.mezegrandege, *.tutateksto th.mezegrandege {
+  vertical-align: middle;
+  font-size: 300%;
+}
+*.tutateksto td.mezevertikale p, *.tutateksto th.mezevertikale {
+  vertical-align: middle;
+  width: 0.5em;
+  word-wrap: break-word;
+  text-align: center;
+}
+*.tutateksto tr.strekovertikalaintercheloj td:first-child {
+  border-right: 1px solid #000;
+}
+*.tutateksto tr.strekohorizontalaintercheloj td:first-child {
+  border-bottom: 1px solid #000;
+}
+*.tutateksto tr.strekojhorizontalavertikalaintercheloj td {
+  border-bottom: 1px solid #000;
+}
+*.tutateksto tr.strekojhorizontalavertikalaintercheloj td:first-child {
+  border-right: 1px solid #000;
+}
+*.tutateksto a.noto {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0.1em 0.2em;
+  background-color: #eee;
+}
+*.tutateksto p.trafop a.noto {
+  background-color: #feb;
+}
+*.tutateksto div.tekstokapo a.noto {
+  background-color: transparent;
+}
+*.tutateksto p.salute {
+  font-style: italic;
+}
+*.tutateksto div.argument p {
+  font-style: italic;
+}
+*.tutateksto div.argument.meze {
+  text-align: center;
+}
+*.tutateksto div.argument span.arglistitem {
+  font-style: normal;
+  font-weight: bold;
+}
+*.tutateksto div.argument span.arglistitem:after {
+  content: " — ";
+}
+*.tutateksto div.argument span.arglistitem:last-child:after {
+  content: "";
+}
+*.tutateksto div.figure {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  clear: both;
+}
+*.tutateksto div.figure img.plenalargho {
+  vertical-align: bottom;
+}
+*.tutateksto div.figure p {
+  margin-top: 0.05em;
+  margin-bottom: 0.05em;
+  padding-left: 0.5em;
+  font-size: 95%;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+*.tutateksto div.pmaldekstre p {
+  width: 25%;
+}
+*.tutateksto div.pmaldekstre img {
+  float: right;
+  width: 68%;
+}
+*.tutateksto div.pdekstre p {
+  float: right;
+  width: 25%;
+}
+*.tutateksto div.pdekstre img {
+  width: 68%;
+}
+*.tutateksto img.plenalargho {
+  width: 100%;
+}
+*.tutateksto p.streko {
+  border-bottom: 1px solid #000;
+}
+*.tutateksto .celita {
+  background-color: #eef;
+  padding: 0.4em;
+}
+
+*.revuo-esperanto-2002-2007 div.artikolo,
+#folioj *.revuo-esperanto-2002-2007 div.artikolo,
+*.revuo-esperanto-2008-2012 div.artikolo,
+#folioj *.revuo-esperanto-2008-2012 div.artikolo {
+  border-top: 1px solid #444;
+  margin-top: 1.5em;
+}
+*.revuo-esperanto-2002-2007 h4,
+#folioj *.revuo-esperanto-2002-2007 h4,
+*.revuo-esperanto-2008-2012 h4,
+#folioj *.revuo-esperanto-2008-2012 h4 {
+  font-size: 1.2em;
+  padding-left: 0;
+  margin-top: 0.5em;
+}
+
+body.shargita #folioj {
+  display: block;
+  border-bottom-width: 0;
+}
+
+body #bv_atendi {
+  margin: 1em;
+  color: #fff;
+  text-align: left;
+}
+body #bv_atendi h2 {
+  font-size: 200%;
+  color: #fff;
+}
+body #bv_atendi p {
+  margin-top: 1em;
+  font-size: 150%;
+}
+
+body.shargita #bv_atendi {
+  display: none;
+}
+
+br.rompo {
+  clear: both;
+}
+
+div.ESF1 {
+  padding: 0.5em;
+  clear: both;
+  background-color: #fff;
+  margin: 0.5em 0 0 0;
+  position: relative;
+  background-color: #eef;
+}
+div.ESF1 img {
+  margin-top: 0;
+}
+div.ESF1 span {
+  position: absolute;
+  top: 12px;
+  left: 400px;
+  line-height: 1.5;
+  background-color: #eef;
+}
+
+div.dialogotitolo {
+  text-align: center;
+}
+
+#restarigi_foliojn {
+  display: inline-block;
+  margin-left: 1em;
+}
+#restarigi_foliojn.kashita {
+  display: none;
+}
+#restarigi_foliojn #restarigi_foliojn_select {
+  max-width: 15em;
+}
+
+#jaroj {
+  display: inline-block;
+  margin: 0.2em;
+  border-radius: 0.3em;
+}
+#jaroj.aktiva {
+  color: white;
+  background-color: #cb8423;
+}
+#jaroj input.jaro {
+  width: 4.2em;
+  font-family: monospace;
+  text-align: center;
+  opacity: 0.5;
+}
+#jaroj label span {
+  opacity: 0.3;
+  font-weight: bold;
+}
+#jaroj.aktiva label span {
+  opacity: 1;
+}
+#jaroj.aktiva input.jaro {
+  opacity: 1;
+}
+#jaroj input[type=text]:focus {
+  background-color: yellow;
+}
+
+#eep-enhavtabelo li li h2 {
+  margin-left: 1em;
+}
+
+#eep-enhavtabelo li li h3 {
+  margin-left: 1em;
+}
+
+div.shvebinformoj {
+  position: absolute;
+  background-color: #eee;
+  color: #000;
+  padding: 0.2em;
+  font-size: 80%;
+  border: 1px solid #999;
+  border-radius: 0.4em;
+  max-width: 30em;
+}
+div.shvebinformoj span.informlinio {
+  display: table-row;
+}
+div.shvebinformoj span.informlinio strong, div.shvebinformoj span.informlinio em {
+  display: table-cell;
+  padding: 0.2em;
+}
+div.shvebinformoj span.informlinio em {
+  text-align: left;
+}
+div.shvebinformoj span.informlinio strong {
+  min-width: 7em;
+  text-align: right;
+}
+div.shvebinformoj.kashita {
+  display: none;
+}
+
+div.dialogo {
+  position: relative;
+  z-index: 1000;
+  display: block;
+}
+div.dialogo div.ekstera {
+  position: fixed;
+  z-index: 1001;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+div.dialogo div.ekstera div.ena {
+  position: absolute;
+  top: 3em;
+  z-index: 1003;
+  background-color: #f4f0ec;
+  width: 20em;
+  max-width: 90%;
+  border-radius: 0.5em;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+div.dialogo div.ekstera div.ena header {
+  padding: 0.2em;
+}
+div.dialogo div.ekstera div.ena header h2 {
+  position: relative;
+  font-weight: normal;
+  font-size: 120%;
+  padding: 0.4em 0.9em;
+  background-color: #cb842e;
+  color: white;
+  border-radius: 0.5em;
+  margin: 0;
+}
+div.dialogo div.ekstera div.ena header h2 button.fermilo {
+  font-size: 120%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: transparent;
+  color: #ddd;
+  border-width: 0;
+  -webkit-appearance: none;
+}
+div.dialogo div.ekstera div.ena header h2 button.fermilo:hover, div.dialogo div.ekstera div.ena header h2 button.fermilo:focus {
+  color: white;
+  cursor: pointer;
+}
+div.dialogo div.ekstera div.ena header h2 button.fermilo:focus {
+  border-width: 0;
+  outline-width: 0;
+}
+div.dialogo div.ekstera div.ena div.enhavo {
+  margin: 0;
+  background-color: transparent;
+  padding: 0.4em;
+  text-align: center;
+  font-size: 110%;
+  line-height: 1.5;
+}
+div.dialogo div.ekstera div.ena div.enhavo.senbutonoj {
+  margin-bottom: 1em;
+}
+div.dialogo div.ekstera div.ena div.enhavo kbd {
+  font-family: monospace;
+  background-color: yellow;
+  color: black;
+  display: inline-block;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+}
+div.dialogo div.ekstera div.ena footer {
+  padding: 0.2em 0.5em 1em 0.5em;
+}
+div.dialogo div.ekstera div.ena footer p.dialogoteksto {
+  text-align: center;
+  font-style: italic;
+  margin: 0.5em;
+}
+div.dialogo div.ekstera div.ena footer button {
+  display: inline-box;
+  width: 100%;
+  color: #1e1b1d;
+  padding: 0.5em;
+  background-color: #ede4d4;
+  border: 1px solid #aaa;
+  border-radius: 0.5em;
+  margin: 0.2em 0;
+  font-size: 90%;
+  cursor: pointer;
+}
+div.dialogo div.ekstera div.ena footer button:hover {
+  background-color: #eeeeee;
+  border: 1px solid #cb842e;
+  outline-width: 0;
+  color: green;
+}
+div.dialogo div.ekstera div.ena footer button:focus, div.dialogo div.ekstera div.ena footer button:active {
+  background-color: #eeeeee;
+  border: 1px solid #cb842e;
+  outline-width: 0;
+}
+div.dialogo div.ekstera div.ena footer button::-moz-focus-inner {
+  border: 0;
+}
+
+body.tutateksto div.dialogo {
+  font-size: 80%;
+}
+
+body.sinjoro-tadeo div.chapitro p, div.serchoprezento.t_sinjoro-tadeo div.trafodiv p {
+  max-width: 30em;
+  position: relative;
+}
+
+q {
+  border-bottom: 2px dashed orange;
+}
+
+/*# sourceMappingURL=tekstaroserchilo.css.map */

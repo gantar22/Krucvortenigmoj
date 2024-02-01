@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rektif.xml,v 1.26 2023/10/20 19:20:37 revo Exp $">
+<kap>
+  <rad>rektif</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="rektif.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rektif.0i.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Purigi likva&jcirc;on per nova distilo a&ubreve; alia &hcirc;emia procedo.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_ch;&c_y;&c_sh;&c_ch;&c_a;&c_c;&c_mol; <klr>(&c_p;&c_je;&c_r;&c_a;&c_g;&c_o;&c_n;&c_k;&c_a;&c_j;)</klr></trd>,
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_g;&c_a;&c_n;&c_ja;&c_c;&c_mol;</trd>,
+      <trd>&c_r;&c_e;&c_k;&c_t;&c_y;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">rektifizieren</trd>
+    <trd lng="fr">rectifier<klr tip="ind"> (chimie)</klr></trd>
+    <trd lng="hu">rektifik&aacute;l<klr tip="ind"> (k&eacute;mia)</klr></trd>
+    <trd lng="nl">zuiveren<klr tip="ind"> (door distillatie)</klr></trd>
+    <trd lng="pt">retificar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_je;&c_k;&c_t;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_ch;&c_i;&c_shch;&c_a;&c_t;&c_mol;<klr tip="ind"> (&c_h;&c_i;&c_m;.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rektif.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 38</lok></fnt>
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      <klr>(<ref cel="kurb.0o.MAT">kurbon</ref>)</klr>
+      Per simplaj desegnaj iloj konstrui strekon samlongan kiel donita
+      segmento de la kurbo:
+      <ekz>
+        neeblas <tld/>i cirklon per rektilo kaj cirkelo.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>kiegyenes&iacute;t</trd>,
+      <trd>rektifik&aacute;l</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rektif.0i.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Rektigi alternan kurenton, transformi &gcirc;in en rektan a&ubreve;
+      (pli speciale) en konstantan kurenton.
+    </dif>
+    <trd lng="be">&c_v;&c_y;&c_p;&c_r;&c_o;&c_s;&c_t;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_t;&c_o;&c_k;)</klr></trd>
+    <trd lng="de">gleichrichten</trd>
+    <trd lng="es">rectificar</trd>
+    <trd lng="fr">redresser<klr tip="ind"> (&eacute;lectricit&eacute;)</klr></trd>
+    <trd lng="hu">egyenir&aacute;ny&iacute;t</trd>
+    <trd lng="nl">gelijkrichten</trd>
+    <trd lng="ru">&c_v;&c_y;&c_p;&c_r;&c_ja;&c_m;&c_l;&c_ja;&c_t;&c_mol; <klr tip="amb">(&c_e;&c_l;. &c_t;&c_o;&c_k;)</klr></trd>
+  </snc>
+  <trd lng="ca">rectificar</trd>
+  <trd lng="cs">mnohon&#xE1;sobn&#x11B; frak&#x10D;n&#x11B; destilovat</trd>
+  <trdgrp lng="ja">
+    <trd>&#25972;&#x6D41;&#12377;&#x308B; <pr>&#12379;&#12356;&#12426;&#12421;&#12358;&#12377;&#12427;</pr></trd>,
+    <trd>&#x7CBE;&#30041;&#12377;&#x308B;  <pr>&#x305B;&#12356;&#12392;&#x307E;&#12377;&#x308B;</pr></trd>,
+    <trd>&#38263;&#12373;&#12434;&#x6C42;&#12417;&#x308B;  <pr>&#x306A;&#x304C;&#12373;&#12434;&#12418;&#12392;&#12417;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rektyfikowa&cacute;</trd>,
+    <trd>oczyszcza&cacute;</trd>,
+    <trd>prostowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="sk">mnohon&#xE1;sobne frak&#x10D;ne destilova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&#x43A;&c_t;&c_i;&c_f;&c_ib;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_ch;&c_i;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&#x43F;&c_r;&#x44F;&#x43C;&#x43B;&#x44F;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rektif.0ebla">
+  <kap><tld/>ebla</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;374</lok></fnt>
+  <snc mrk="rektif.0ebla.MAT">
+    <dif>
+      <klr>(p.p. <ref cel="kurb.0o.MAT">kurbo</ref>)</klr>
+      Tia, ke eblas kalkuli &gcirc;ian longon.
+    </dif>
+    <trd lng="be">&c_v;&c_y;&c_p;&c_r;&c_a;&c_s;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <klr>(&c_k;&c_r;&c_y;&c_v;&c_a;&c_ja;)</klr></trd>
+    <trd lng="ca">rectificable<klr> (geom.)</klr></trd>
+    <trd lng="de">rektifizierbar<klr tip="ind"> (-e Kurve)</klr></trd>
+    <trd lng="en">rectifiable<klr tip="ind"> (curve)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(courbe) </klr>rectifiable</trd>
+    <trd lng="hu">kiegyenes&iacute;thet&odblac; <klr tip="ind">(g&ouml;rbe)</klr></trd>
+    <trdgrp lng="pl">
+      <trd><klr tip="amb">(krzywa) </klr>prostowalna</trd>,
+      <trd><klr tip="amb">(krzywa) </klr>rektyfikowalna</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_p;&c_r;&c_ja;&c_m;&c_l;&c_ja;&c_je;&c_m;&c_a;&c_ja;<klr tip="amb"> (&c_k;&c_r;&c_i;&c_v;&c_a;&c_ja;)</klr></trd>
+  </snc>
+</drv>
+
+<drv mrk="rektif.0ilo">
+  <kap><tld/>ilo</kap>
+  <uzo tip="fak">ELE</uzo>
+  <snc>
+    <dif>
+      <ref tip="sin" cel="rekt.0igilo">Rektigilo</ref>
+      de alterna kurento.
+    </dif>
+  </snc>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_p;&c_r;&c_a;&c_m;&c_n;&c_ib;&c_k;</trd>,
+      <trd>&c_v;&c_y;&c_p;&c_r;&c_a;&c_s;&c_t;&c_a;&c_ch;</trd>
+    </trdgrp>
+  <trd lng="ca">rectificador<klr> (electrot.)</klr></trd>
+  <trd lng="cs">usm&#x11B;r&ncaron;ova&#x10D;</trd>
+  <trd lng="de">Gleichrichter</trd>
+  <trd lng="es">rectificador</trd>
+  <trd lng="fr">redresseur</trd>
+  <trd lng="hu">egyenir&aacute;ny&iacute;t&oacute;</trd>
+  <trd lng="ja">&#25972;&#x6D41;&#22120;  <pr>&#x305B;&#12356;&#x308A;&#12421;&#12358;&#x304D;</pr></trd>
+  <trd lng="nl">gelijkrichter</trd>
+  <trd lng="pl">prostownik</trd>
+  <trd lng="ru">&c_v;&c_y;&c_p;&c_r;&c_ja;&c_m;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>elimin&#xE1;tor</trd>,
+    <trd>usmer&ncaron;ova&#x10D; striedav&#xE9;ho pr&#xFA;du</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&#x43A;&c_t;&c_i;&c_f;&c_ib;&#x43A;&c_a;&c_t;&#x43E;&c_r;</trd>,
+    <trd>&c_r;&c_je;&#x43A;&c_t;&c_i;&c_f;&c_ib;&#x43A;&c_a;&c_c;&c_ib;&c_j;&#x43D;&c_i;&c_j; &c_a;&#x43F;&c_a;&c_r;&c_a;&c_t;</trd>,
+    <trd>&c_v;&c_i;&#x43F;&c_r;&#x44F;&#x43C;&#x43B;&#x44F;&c_ch;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.25 2023/09/12 19:20:06
+Wolfram Diestel: pr. ja
+
+versio 1.23 2023/08/01 07:25:48
+Dmitri Gabinski: + trd be
+
+versio 1.22 2023/06/08 22:29:34
+Vito Redsky: +trd pl
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/07/16 10:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2006/02/19 17:32:32  revo
+Tulio Flores: +trd pt
+
+Revision 1.16  2006/01/09 17:35:21  revo
+-->
+</vortaro>

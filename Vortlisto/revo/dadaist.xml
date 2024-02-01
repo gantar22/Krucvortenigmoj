@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dadaist.xml,v 1.3 2022/03/15 15:50:54 revo Exp $">
+<kap>
+  <rad>dadaist</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="dadaist.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dadaist.0o.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Artisto, ano de
+      <ref tip="vid" cel="dadaism.0o.BELA">dadaismo</ref>:
+      <ekz>
+        kiam la <tld/>oj eskapis el fa&scirc;isma E&ubreve;ropo,
+        Svislando akceptis ilin
+        <fnt>
+          <aut>Okubo M.</aut>,
+          <vrk>Dadaismo revivi&gcirc;is</vrk>,
+          <bib>Monato</bib>,
+          <lok>2016</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_d;&c_a;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="fr">dada&iuml;ste</trd>
+  <trd lng="uk">&#x434;&#x430;&#x434;&#x430;&#x457;&#x441;&#x442;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.2 2021/04/10 07:52:26
+Dmitri Gabinski: + trd be
+
+-->
+</vortaro>

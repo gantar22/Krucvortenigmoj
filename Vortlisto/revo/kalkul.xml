@@ -1,0 +1,2025 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kalkul.xml,v 1.62 2023/12/02 21:20:04 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kalkul</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kalkul.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <snc mrk="kalkul.0i.operacii">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      <ref tip="super" cel="operac.0i.KOMUNE">Operacii</ref> per nombroj por
+      trovi alian ser&ccirc;atan nombron:
+      <ekz>
+        <tld/>i la koston
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 14:28</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ante la vojon <klr>[&#x2026;]</klr> per la kurbaj kaj turnitaj iroj, kiuj
+        kondukas tra la internaj &ccirc;ambroj
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili ne <tld/>as la&ubreve; nia temposkalo
+        <fnt>
+          <bib>ChV</bib>
+          <lok>4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>mense <tld/>i</ind>
+        <klr>(sen uzi paperon a&ubreve; kalkulilon)</klr>;
+        <trd lng="de">kopfrechnen</trd>
+        <trdgrp lng="fr">
+          <trd>compter de t&ecirc;te</trd>,
+          <trd>calculer mentalement</trd>
+        </trdgrp>
+        <trd lng="hu">fejb&odblac;l <ind>sz&aacute;mol</ind></trd>
+        <trd lng="nl">hoofdrekenen</trd>
+        <trd lng="pl">liczy&cacute; w pami&eogonek;ci</trd>
+        <trd lng="ru">&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol; &c_v;
+        &c_u;&c_m;&c_je;</trd>
+      </ekz>
+      <ekz>
+        okazis anka&ubreve; diskutoj pri tio kiel <tld/>i kotizojn
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>La kongresa movadumo dun la Universala Kongreso (Kirill Novi&ccirc;enko)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se mi diras, ke muro estas tri metrojn alta kaj kvin metrojn lar&gcirc;a, ili e&ccirc; ne
+        povas <tld/>i la areon de la muro
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Ezopo en la Moderna Mondo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>ni amu nin frate, sed <tld/>u akurate</ind>
+        <klr>(&gcirc;uste, precize)</klr>
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+        <trd lng="fr">les bons <ind>comptes</ind> font les bons
+        amis</trd>
+      </ekz>
+      <ekz>
+        <ind>amikon karesu, sed <tld/>i ne forgesu</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="fr">les bons <ind>comptes</ind> font les bons
+        amis</trd>
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="komput.0i">komputi</ref>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>berechnen</trd>,
+      <trd>ausrechnen</trd>,
+      <trd>ermitteln</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;m&iacute;t</trd>,
+      <trd>kisz&aacute;m&iacute;t</trd>
+    </trdgrp>
+    <trd lng="nl">rekenen</trd>
+    <trdgrp lng="pl">
+      <trd>liczy&cacute;</trd>,
+      <trd>oblicza&cacute;</trd>,
+      <trd>kalkulowa&cacute;</trd>,
+      <trd>rachowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_ch;&c_i;&c_s;&c_l;&c_ja;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kalkul.0i.nombri">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      <ref tip="dif" cel="nombr.0i.kalkuli">Nombri</ref>;
+      determini kvanton; ser&ccirc;i la nombron de objektoj:
+      <ekz>
+        <tld/>u la stelojn, se vi povas ilin <tld/>i
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 15:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam la pomoj maturi&gcirc;is, oni <tld/>is ilin, sed tuj en la posta tago unu mankis
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La ora birdo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> malfermis sian monujon kaj <tld/>is la tie trovi&gcirc;antajn
+        malgrandajn monerojn
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>as jam la minutojn &gcirc;is nia revido
+        <fnt>
+          <bib>DL</bib>
+          <lok>Dua Libro de l' Lingvo Internacia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i komencis <tld/>i la ma&scirc;ojn kaj preterlasadi ilin, por ke la &scirc;trumpo pli
+        mallar&gcirc;i&gcirc;u
+        <fnt>
+          <bib>IKr</bib>
+          <lok>Neniam Plu!</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ne <tld/>is <klr>(<ref cel="kalkul.en0i">enkalkulis</ref>)</klr>
+        la parton de la neanta&ubreve;viditeco
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dekoka</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li havas pli da mono, ol li povas <tld/>i
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="ca">comptar</trd>
+    <trd lng="de">z&auml;hlen</trd>
+    <trd lng="es">contar</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;mol</trd>,
+      <trd>megsz&aacute;mol</trd>
+    </trdgrp>
+    <trd lng="nl">tellen</trd>
+    <trdgrp lng="pl">
+      <trd>liczy&cacute;</trd>,
+      <trd>zlicza&cacute;</trd>,
+      <trd>rachowa&cacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="kalkul.0i.prezon">
+    <gra><vspec>x</vspec></gra>
+    <dif>
+      <ref tip="super" cel="determ.0i.KOMUNE">Determini</ref> kiel koston,
+      pagendan prezon, rekompencon <klr>(anka&ubreve; figure)</klr>;
+      <ref tip="sin" cel="faktur.0i">fakturi</ref>:
+      <ekz>
+        por <klr>[la man&gcirc;a&jcirc;oj]</klr> mi <tld/>as por ni tri unu dolaron semajne
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        feli&ccirc;a estas la homo, al kiu la Eternulo ne <tld/>as lian kulpon
+        <fnt>
+          <bib>NT</bib>
+          <lok>Romanoj 4:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        via amato por &ccirc;iu kiso povus <tld/>i al vi unu mortigon
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvara</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="postul.0i.iu">postuli<sncref/></ref>,
+      <ref cel="premis.0i">premisi</ref>,
+      <ref cel="supoz.0i">supozi</ref>
+    </refgrp>
+    <trd lng="be">&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_k;&c_a;&c_l;&c_mol;&c_k;&c_u;&c_l;&c_ja;&c_c;&c_y;&c_ju;</ind></trd>
+    <trdgrp lng="de">
+      <trd>in <ind>Rechnung</ind> stellen</trd>,
+      <trd>anrechnen</trd>,
+      <trd>fakturieren</trd>
+    </trdgrp>
+
+  </snc>
+  <snc mrk="kalkul.0i.opinii">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      Alklasigi, meti en ian kategorion;
+      <ref tip="sin" cel="rigard.0i.atribui">rigardi kiel</ref>;
+      <ref cel="taks.0i.KOMUNE">taksi</ref>:
+      <ekz>
+        la jarojn 1700, 1800 kaj 1900 ni devas <tld/>i al la jaroj simplaj kaj ne al
+        superjaroj
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi &scirc;ajnigis min indiferenta, <klr>[&#x2026;]</klr> mi volis, ke Alfred <tld/>u min tute
+        perdita por li
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi povos <tld/>i Juliinon kaj min inter viaj invititoj
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sepa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi <tld/>as kiel nenion, mia bofilo, la honoron, ke vi parenci&gcirc;is kun la domo
+        de <nom>Sotenville</nom>
+        <fnt>
+          <bib>GDn</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Ni &gcirc;in <tld/>is kiel nian devon // Al vi raporti pri l&#x2019; afero
+        <fnt>
+          <bib>Hamlet</bib>
+          <lok>Hamleto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tian viron oni prefere <tld/>u inter la amikoj ol inter la malamikoj
+        <fnt>
+          <bib>ChB</bib>
+          <lok>5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ideoj de Kolumbo estis <tld/>ataj kiel
+        infana&jcirc;o
+        <fnt><bib>EE</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="estim.0i">estimi</ref>,
+      <ref cel="konsid.0i.taksi">konsideri<sncref/></ref>,
+      <ref cel="opini.0i">opinii</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_u;&c_v;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="ca">considerar</trd>
+    <trdgrp lng="de">
+      <trd>aufstellen</trd>,
+      <trd>aufrechnen</trd>,
+      <trd>auflisten</trd>
+    </trdgrp>
+    <trd lng="es">considerar</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;m&iacute;t <klr tip="ind">(tekint)</klr></trd>,
+      <trd>hozz&aacute;sz&aacute;m&iacute;t <klr tip="ind">(tulajdon&iacute;t)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>beschouwen</trd>,
+      <trd>tellen</trd>
+    </trdgrp>
+    <trd lng="pl">zalicza&cacute;</trd>
+    <trd lng="ru">&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="kalkul.0i.esperi">
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      <ref tip="super" cel="fid.0i">Fidi</ref> iun a&ubreve; ion; konfidi al iu:
+      <ekz>
+        <klr>[tiu projekto]</klr> <tld/>as je <klr>[la]</klr> preteco pionire oferi sian
+        tempon
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu devas akiri panon per la propraj manoj, oni ne povas <tld/>i je la aliaj:
+        &ccirc;iu devas labori mem
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        konatulo, pri kies helpo mi <tld/>is
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+          <lok>&Ccirc;e Lev Tolstoj en Jasnaja Poljana</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi povas <tld/>i je mia plej plena diskreteco
+        <fnt>
+          <bib>CKv</bib>
+          <lok>25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;
+    <klr tip="amb">(&c_n;&c_a;
+    &c_k;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;/&c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+    <trd lng="bg">&c_r;&c_a;&c_z;&c_ch;&c_i;&c_t;&c_a;&c_m; (&c_n;&c_a; &c_n;&c_ja;&c_k;&c_o;&c_g;&c_o;)</trd>
+    <trd lng="ca">comptar amb</trd>
+    <trdgrp lng="de">
+      <trd><ind>rechnen</ind> mit</trd>,
+      <trd><ind>vertrauen</ind> auf</trd>,
+      <trd><ind>z&auml;hlen</ind> auf</trd>
+    </trdgrp>
+    <trd lng="es">contar con</trd>
+    <trd lng="hu">sz&aacute;m&iacute;t <klr tip="ind">(vkire,
+    vmire)</klr></trd>
+    <trd lng="nl">rekenen op</trd>
+    <trd lng="pl">liczy&cacute;<klr> (na kogo&sacute;, na
+    co&sacute;)</klr></trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_ch;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;
+    <klr> (&c_n;&c_a; &c_k;&c_o;&c_g;&c_o;-&c_l;.,
+    &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  </snc>
+  <snc mrk="kalkul.0i.atenti">
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      Fiksi sian konduton la&ubreve; la valoro de iu persono a&ubreve;
+      objekto:
+      <ekz>
+        sed, krimulo, ci ne min <tld/>is en la plenumado de cia projekto
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la junuloj amba&ubreve;grupe <tld/>is kun probabla alfronti&gcirc;o kaj organizis sian
+        piknikon konsekvence
+        <fnt>
+          <bib>ChV</bib>
+          <lok>20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="antici.0i">anticipi</ref>,
+      <ref cel="vid.antaux0i">anta&ubreve;vidi</ref>
+    </refgrp>
+    <trd lng="be">&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd><ind>rechnen</ind> mit</trd>,
+      <trd>sich <ind>ausrechnen</ind></trd>,
+      <trd>ber&uuml;cksichtigen</trd>,
+      <trd>bedenken</trd>,
+      <trd>einkalkulieren</trd>
+    </trdgrp>
+    <trd lng="hu">sz&aacute;mol <klr tip="ind">(vkivel,
+    vmivel)</klr></trd>
+    <trd lng="nl">rekening houden met</trd>
+    <trd lng="pl">liczy&cacute; si&eogonek;<klr> (z kim&sacute;, z
+    czym&sacute;)</klr></trd>
+    <trd lng="ru">&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </snc>
+  <trdgrp lng="bg">
+    <trd>&c_i;&c_z;&c_ch;&c_i;&c_s;&c_l;&c_ja;&c_v;&c_a;&c_m;</trd>,
+    <trd>&c_s;&c_m;&c_ja;&c_t;&c_a;&c_m;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_s;&c_m;&c_ja;&c_t;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ra;&t_tsata;&t_gigu;&t_tsheg;</trd>
+  <trd lng="ca">calcular</trd>
+  <trd lng="cs">po&ccaron;&iacute;tat</trd>
+  <trd lng="de">rechnen</trd>
+  <trd lng="en">calculate</trd>
+  <trd lng="es">calcular</trd>
+  <trdgrp lng="fr">
+    <trd>calculer</trd>,
+    <trd>compter</trd>,
+    <trd>consid&eacute;rer</trd>,
+    <trd>prendre (pour)</trd>,
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A08;&#x7B97;&#x3059;&#x308B;  <pr>&#x3051;&#x3044;&#x3055;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6570;&#x3048;&#x308B;  <pr>&#x304B;&#x305E;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x898B;&#x306A;&#x3059;  <pr>&#x307F;&#x306A;&#x3059;</pr></trd>
+  </trdgrp>
+  <trd lng="ro">calcula</trd>
+  <trdgrp lng="sk">
+    <trd>po&ccaron;&iacute;ta&tcaron;</trd>,
+    <trd>r&aacute;ta&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_a;&c_h;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&c_r;&c_a;&c_h;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_b;&c_ch;&c_i;&c_s;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x63A8;&#x7B97; <pr>tu&#x12B;su&#xE0;n</pr></trd>,
+    <trd>&#x7B97; <pr>su&#xE0;n</pr></trd>,
+    <trd>&#x8A08;&#x7B97; <pr>j&#xEC;su&#xE0;n</pr></trd>,
+    <trd>&#x8A08;&#x91CF; <pr>j&#xEC;li&#xE0;ng</pr></trd>,
+    <trd>&#x8A08; <pr>j&#xEC;</pr></trd>,
+    <trd>&#x7B97;&#x8A08; <pr>su&#xE0;nji</pr></trd>,
+    <trd>&#x6838;&#x7B97; <pr>h&#xE9;su&#xE0;n</pr></trd>,
+    <trd>&#x601D;&#x91CF; <pr>s&#x12B;liang</pr></trd>,
+    <trd>&#x6253;&#x7B97;&#x76D8; <pr>d&#x1CE;su&#xE0;np&#xE1;n</pr></trd>,
+    <trd>&#x7B97;&#x51FA; <pr>su&#xE0;nch&#x16B;</pr></trd>,
+    <trd>&#x8FD0;&#x7B97; <pr>y&#xF9;nsu&#xE0;n</pr></trd>,
+    <trd>&#x6D4B;&#x7B97; <pr>c&#xE8;su&#xE0;n</pr></trd>,
+    <trd>&#x5FC3;&#x7B97; <pr>x&#x12B;nsu&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kalkul.0o.aritmetika">
+    <dif>
+      <ref tip="super" cel="operac.0o.KOMUNE">Operacio</ref> per nombroj:
+      <ekz>
+        unu faris jenan <tld/>on: se ni prenos, ke la enskribado de &ccirc;iu promesanto
+        okupos ne pli multe ol unu minuton, kaj vi <klr>[&#x2026;]</klr> vin okupos sole je
+        tiu &ccirc;i afero, laborante sen ripozo 15 horojn &ccirc;iutage, &mdash; tiam la pretigo de la
+        libro de l' vo&ccirc;oj okupos 30 jarojn
+        <fnt>
+          <bib>DL</bib>
+          <lok>Dua Libro de l' Lingvo Internacia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        klini&gcirc;inte super amaso da notoj kaj <tld/>oj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi finis la mezuradon kaj <tld/>ojn pri la grando de la tero
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en miaj <tld/>oj mi eraris nur je la dudekono de unu horo
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>bonaj <tld/>oj, bonaj kunuloj</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="fr">les bons <ind>comptes</ind> font les bons
+        amis</trd>
+      </ekz>
+    </dif>
+    <trd lng="en">calculation</trd>
+    <trd lng="de">Berechnung</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;m&iacute;t&aacute;s</trd>,
+      <trd>kisz&aacute;m&iacute;t&aacute;s</trd>
+    </trdgrp>
+    <trd lng="nl">rekenkundige <ind>bewerking</ind></trd>
+    <trdgrp lng="pl">
+      <trd>liczenie</trd>
+      <trd>obliczenia</trd>,
+      <trd>kalkulacja</trd>,
+      <trd>rachunek</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+  <snc mrk="kalkul.0o.nombrado">
+    <dif>
+      Nombrado:
+      <ekz>
+        la&ubreve; la <tld/>o de la jaroj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 25:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mono amas <tld/>on
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="nombr.0o.kvanto">nombro</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Z&auml;hlung</trd>,
+      <trd>Aufrechnung</trd>
+    </trdgrp>
+    <trd lng="en">calculation</trd>
+    <trd lng="hu">sz&aacute;mol&aacute;s</trd>
+    <trd lng="nl">telling</trd>
+    <trdgrp lng="pl">
+      <trd>liczenie</trd>,
+      <trd>zliczanie</trd>,
+      <trd>rachunek</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+  <snc mrk="kalkul.0o.kontlibro">
+    <dif>
+      Detala listo de en- kaj elspezoj, &ccirc;u kurantaj, &ccirc;u anticipaj:
+      <ekz>
+        en &ccirc;iu horo, e&ccirc; preska&ubreve; en &ccirc;iu minuto envenas sumoj
+        &ccirc;iam novaj kaj reprezentantaj &ccirc;iam novajn ciferojn,
+        la forlaso de unu speso povas fari&gcirc;i ka&ubreve;zo de malordo en la <tld/>oj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &scirc;i ne kutimis fari <tld/>on pri la spiritaj provizoj, kiujn &scirc;i posedas
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        multaj homoj <klr>[&#x2026;]</klr> ne kutimis donadi al si precizan <tld/>on pri siaj
+        simpatioj kaj antipatioj
+        <fnt>
+          <bib>EE</bib>
+          <lok>II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu vivas sen <tld/>o, balda&ubreve; estos
+        almozulo
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bilanc.0o">bilanco</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Abrechnung <klr>(Buchf&uuml;hrung)</klr></trd>,
+      <trd>Kalkulation</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kalkul.0o.fakturo">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Detala listo de pagoj &scirc;uldataj de kliento al la servinto:
+      <ekz>
+        &scirc;i preska&ubreve; &ccirc;iutage mendadis <klr>[&#x2026;]</klr> kaj &ccirc;iusemajne devigadis mian patron
+        pagi grandegajn <tld/>ojn de tajlorinoj, meblistoj, kale&scirc;istoj
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ni]</klr> pagos vian <tld/>on per la trovita mono
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> ekvivis tie tiel lukse, ke ilia <tld/>o en la da&ubreve;ro de tri
+        tagoj kreskis &gcirc;is kelkaj centoj da frankoj
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lernejoj kaj malsanejoj estos tenataj je la <tld/>o de la komunumo
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la masonistoj kaj &ccirc;arpentistoj faris <ind>anta&ubreve;<tld/>o</ind>n, la&ubreve; kiu la kostoj prezentis
+        la sumon de ankora&ubreve; dumil spesmiloj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;i estis tute senta&ubreve;ga</lok>
+        </fnt>;
+        <trd lng="de">Kostenvoranschlag</trd>
+      </ekz>
+      <ekz>
+        &ccirc;u tiu &ccirc;i libro estas presita je via propra <tld/>o
+        <fnt>
+          <bib>DKM</bib>
+          <lok>&Ccirc;apitro LXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post kiam mi estis paginta tiun <tld/>on, mi supreniris en vagonon
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dektria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li nun nuligis sian <tld/>on per la morto, ni ne ricevos e&ccirc; unu speson
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kuketoj<klr>[&#x2026;]</klr>n mi forman&gcirc;is je la <tld/>o de la enspezoj de la angla
+        re&gcirc;o
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <klr>[li]</klr> kredeble havis <tld/>ojn kun la urbo
+        <klr>(postulon pri &scirc;uldo)</klr>
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &ccirc;esigi siajn reciprokajn malpacon kaj <tld/>ojn
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="faktur.0o">fakturo</ref>
+    <refgrp tip="vid">
+      <ref cel="kost.0o">kosto</ref>,
+      <ref cel="spez.0o">spezo</ref>
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>compte</trd>,
+      <trd>factura</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>cuenta</trd>,
+      <trd>factura</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>bill</trd>,
+      <trd>tab</trd>,
+      <trd>check</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Aufstellung</trd>,
+      <trd>Rechnung</trd>,
+      <trd>Abrechnung</trd>,
+      <trd>Forderung <klr>(Geld)</klr></trd>,
+      <trd>Kosten <klr>(Rechnung)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">sz&aacute;mvet&eacute;s</trd>
+    <trdgrp lng="pl">
+      <trd>faktura</trd>,
+      <trd>rachunek</trd>,
+      <trd>paragon</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+  <snc mrk="kalkul.0o.arangxoj">
+    <dif>
+      Aran&gcirc;oj konsiderataj por realigi celon:
+      <ekz>
+        ni devas anta&ubreve; &ccirc;io preni en <tld/>on
+        <klr>(atenti, konsideri)</klr> la montrojn
+        de la sperto<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kontra&ubreve; lupo ne helpas <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne faru <tld/>on sen la mastro
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konsid.0o.pripenso">konsidero<sncref/></ref>,
+      <ref cel="taks.0o">takso</ref>
+    </refgrp>
+    <trd lng="ca">consideraci&oacute;</trd>
+    <trdgrp lng="de">
+      <trd>Betracht</trd>,
+      <trd>Vorberechnung</trd>
+    </trdgrp>
+    <trd lng="es">consideraci&oacute;n</trd>
+    <trd lng="en">calculations</trd>
+    <trd lng="hu">sz&aacute;m&iacute;t&aacute;s</trd>
+    <trd lng="nl">rekening</trd>
+    <trd lng="pl">rachunek</trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+<!-- figura uzo de en/elspezo-~o, &ccirc;u?
+  <snc mrk="kalkul.0o.koncepto">
+    <dif>
+      Preciza koncepto:
+      <ekz>
+        multaj homoj ne kutimas donadi al si precizan <tld/>on
+        pri siaj simpatioj kaj antipatioj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Aufrechnung</trd>
+    <trd lng="en">accounting</trd>
+    <trd lng="hu">sz&aacute;m(ad&aacute;s)</trd>
+    <trd lng="nl">rekening</trd>
+    <trd lng="ru">&c_o;&c_t;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+-->
+  <snc mrk="kalkul.0o.formalismo">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      Formala sistemo, <ref tip="vid" cel="teori.0o">teorio</ref>
+      matematika a&ubreve; logika:
+      <ekz>
+        infinitezima, diferenciala, bulea, propozicia <tld/>o;
+      </ekz>
+      <ekz>
+        lambdo<tld/>o,
+        predikat<tld/>o;
+      </ekz>
+      <ekz>
+        mi neniam sukcesis kompreni esotera&jcirc;ojn kiel <tld/>on diferencialan kaj
+        integralan
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007921.html">Ho, mistera pi!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/06, p. 22</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <trd lng="de">Kalk&uuml;l</trd>
+    <trd lng="en">calculus</trd>
+    <trd lng="fr">calcul</trd>
+    <trd lng="hu">sz&aacute;m&iacute;t&aacute;s</trd>
+    <trd lng="nl">berekening</trd>
+    <trdgrp lng="pl">
+      <trd>rachunek</trd>,
+      <trd>teoria</trd>
+    </trdgrp>
+    <trd lng="ru">&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ib;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_r;&c_a;&c_h;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_l;&c_ib;&c_k;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_l;&c_ib;&c_k;</trd>,
+    <trd>&c_u;&c_l;&c_ib;&c_k;</trd>,
+    <trd>&c_k;&c_a;&c_l;&c_mol;&c_k;&c_u;&c_l;&c_ja;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_i;&c_z;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_s;&c_m;&c_ja;&c_t;&c_a;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="ca">c&agrave;lcul</trd>
+  <trdgrp lng="cs">
+    <trd>kalkulace</trd>,
+    <trd>po&ccaron;et</trd>,
+    <trd>po&ccaron;&iacute;t&aacute;n&iacute;</trd>,
+    <trd>vy&uacute;&ccaron;tov&aacute;n&iacute;</trd>,
+    <trd>v&yacute;po&ccaron;et</trd>,
+    <trd>&uacute;&ccaron;et</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>calcul</trd>,
+    <trd>compte<klr tip="ind"> (calcul)</klr></trd>,
+    <trd>addition<klr tip="ind"> (&agrave; payer)</klr></trd>,
+    <trd>note<klr tip="ind"> (&agrave; payer)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A08;&#x7B97;  <pr>&#x3051;&#x3044;&#x3055;&#x3093;</pr></trd>,
+    <trd>&#x8A08;&#x6570;  <pr>&#x3051;&#x3044;&#x3059;&#x3046;</pr></trd>,
+    <trd>&#x52D8;&#x5B9A;  <pr>&#x304B;&#x3093;&#x3058;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="ro">calcul</trd>
+  <trdgrp lng="sk">
+    <trd>fakt&uacute;ra</trd>,
+    <trd>po&ccaron;&iacute;tanie</trd>,
+    <trd>&uacute;&ccaron;et</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_a;&c_h;&c_u;&#x43D;&#x43E;&#x43A;</trd>,
+    <trd>&#x43E;&c_b;&#x43B;&c_ib;&#x43A;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&c_r;&c_a;&c_h;&c_u;&#x43D;&#x43E;&#x43A;</trd>,
+    <trd>&#x43E;&c_b;&c_ch;&c_i;&c_s;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43A;&c_a;&#x43B;&#x44C;&#x43A;&c_u;&#x43B;&#x44F;&c_c;&c_ib;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8A08;&#x7B97; <pr>j&#xEC;su&#xE0;n</pr></trd>,
+    <trd>&#x8FD0;&#x7B97; <pr>y&#xF9;nsu&#xE0;n</pr></trd>,
+    <trd>&#x5FC3;&#x8A08; <pr>x&#x12B;nj&#xEC;</pr></trd>,
+    <trd>&#x6838;&#x7B97; <pr>h&#xE9;su&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="kalkul.0ema.PSI">
+    <dif>
+      Kiu <tld/>as, en &ccirc;iuj situacioj taksas sian profiton kaj
+      malprofiton:
+      <ekz>
+        li estis <tld/>ema kaj celkonscia
+        <fnt>
+          <bib>LGA</bib>
+          <lok>V.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>ema virino eraris, &scirc;i mal&gcirc;uste taksis la dan&gcirc;erojn de nokta voja&gcirc;o en
+        tempo de nacia maltrankvilo
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <klr>[&#x2026;]</klr> volis iom vundi &scirc;ian <tld/>eman koron
+        <fnt>
+          <aut>K. Pap, trad. A. Reiber</aut>,
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr63/revado.html">
+          Revado nenifara</url></vrk>,
+          <lok>la nica literatura revuo, 1961-01 (6/3), p.
+          112a-117a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="sponta1.0a">spontanea</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_zh;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_y;&c_s;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_r;&c_je;&c_s;&c_m;&c_je;&c_t;&c_l;&c_i;&c_v;</trd>
+  <trd lng="cs">kdo r&aacute;d po&ccaron;&iacute;t&aacute; <klr>(adj.)</klr></trd>
+  <trd lng="de">berechnend</trd>
+  <trdgrp lng="fr">
+    <trd>calculateur<klr> (adj., int&eacute;ress&eacute;)</klr></trd>,
+    <trd>int&eacute;ress&eacute;<klr> (calculateur)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6253;&#x7B97;&#x7684;&#x306A;  <pr>&#x3060;&#x3055;&#x3093;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x8A08;&#x7B97;&#x9AD8;&#x3044;  <pr>&#x3051;&#x3044;&#x3055;&#x3093;&#x3060;&#x304B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">r&aacute;d po&ccaron;&iacute;taj&uacute;ci</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&c_v;&c_a;&c_zh;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43A;&#x43E;&c_r;&c_i;&c_s;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43A;&#x43E;&c_r;&c_i;&c_s;&c_t;&#x43E;&#x43B;&#x44E;&c_b;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Rimedo por plenumi aritmetikajn operaciojn:
+      <ekz>
+        &ccirc;iuj knaris per plumoj, klakis per <tld/>iloj, a&ubreve; frapis per skribma&scirc;inoj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la de&jcirc;orantinoj per <ind>po&scirc;<tld/>ilo</ind>j kontrolas la sumon kaj trovas ke vi
+        mis<tld/>is kelkajn kopekojn
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 3 (53)</lok>
+        </fnt>;
+        <trd lng="de">Taschenrechner</trd>
+      </ekz>
+      <ekz>
+        komputiloj en la moderna mondo ne plu estas nuraj <tld/>iloj,
+        ofte oni uzas ilin anka&ubreve; por lingve komuniki, por prilabori tekstojn <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 4 (54)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi preska&ubreve; neniam uzas tekstoprilaborilon, kaj mi ankora&ubreve; neniam uzis
+        <ind>tabel<tld/>ilo</ind>n
+        <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="&Monato;/2000/006801.html">
+          Interreto: uniksulo ekspertas Unikodon</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/02, p. 20</lok>
+        </fnt>.
+        <trd lng="de">Tabellenkalkulation</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="abak.0o.kalkulilo">abako<sncref/></ref>,
+      <ref cel="soroban.0o">sorobano</ref>,
+      <ref cel="komput.0ilo">komputilo</ref>
+    </refgrp>
+    <trd lng="be">&c_k;&c_a;&c_l;&c_mol;&c_k;&c_u;&c_l;&c_ja;&c_t;&c_a;&c_r;</trd>
+    <trd lng="bg">&c_k;&c_a;&c_l;&c_k;&c_u;&c_l;&c_a;&c_t;&c_o;&c_r;</trd>
+    <trdgrp lng="ca">
+      <trd>calculador</trd>,
+      <trd>calculadora</trd>
+    </trdgrp>
+    <trdgrp lng="cs">
+      <trd>po&ccaron;&iacute;tac&iacute; stroj</trd>,
+      <trd>po&ccaron;&iacute;ta&ccaron;ka</trd>
+    </trdgrp>
+    <trd lng="en">calculator</trd>
+    <trd lng="es">calculadora</trd>
+    <trd lng="fr">calculateur</trd>
+    <trd lng="hu">sz&aacute;mol&oacute;g&eacute;p</trd>
+    <trd lng="nl">rekenmachine</trd>
+    <trdgrp lng="pl">
+      <trd>liczyd&lstroke;o</trd>,
+      <trd>kalkulator</trd>,
+      <trd>maszyna <ind>licz&aogonek;ca</ind></trd>
+    </trdgrp>
+    <trd lng="ro">calculator</trd>
+    <trd lng="ru">&c_k;&c_a;&c_l;&c_mol;&c_k;&c_u;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
+    <trdgrp lng="sk">
+      <trd>kalkula&ccaron;ka</trd>,
+      <trd>po&ccaron;&iacute;tac&iacute; stroj</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kalkul.0ilo.nombrilo">
+    <dif>
+      Aparato por a&ubreve;tomate nombri ion; <ref cel="nombr.0ilo.TEK">nombrilo</ref>:
+      <ekz>
+        &scirc;ia <ind>elektro<tld/>ilo</ind> montris, ke monate &scirc;i subite eluzis tiom da kurento, kiom
+        &scirc;i kutime anta&ubreve;e eluzadis dum la jaro
+        <fnt>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2005/008559.php">Pri la aferoj misteraj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/04, p. 23</lok>
+        </fnt>;
+        <trd lng="de">Stromz&auml;hler</trd>
+        <trd lng="nl">elektriciteitsmeter</trd>
+      </ekz>
+      <ekz>
+        <ind>balotilo-<tld/>ilo</ind>
+        <fnt>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2011/010372.php">La venkanto heredos &ccirc;ion
+          ...</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/06, p. 7</lok>
+        </fnt>.
+        <trd lng="de">Wahlmaschine</trd>
+        <trd lng="nl">kiesapparaat</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_ib;&c_ch;&c_y;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+      <trd>&c_p;&c_r;&c_y;&c_b;&c_o;&c_r; <ind>&c_u;&c_l;&c_ib;&c_k;&c_u;</ind></trd>
+    </trdgrp>
+    <trd lng="de">Z&auml;hler</trd>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x8A08;&#x6570;&#x5668;  <pr>&#x3051;&#x3044;&#x3059;&#x3046;&#x304D;</pr></trd>,
+    <trd>&#x8A08;&#x7B97;&#x5668;  <pr>&#x3051;&#x3044;&#x3055;&#x3093;&#x304D;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&c_ib;&c_ch;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&c_j; &#x43F;&c_r;&c_i;&#x43B;&c_a;&c_d;</trd>,
+    <trd>&#x43A;&c_a;&#x43B;&#x44C;&#x43A;&c_u;&#x43B;&#x44F;&c_t;&#x43E;&c_r;</trd>,
+    <trd>&c_r;&c_a;&c_h;&c_ib;&c_v;&#x43D;&c_i;&c_c;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8A08;&#x7B97;&#x5668; <pr>j&#xEC;su&#xE0;nq&#xEC;</pr></trd>,
+    <trd>&#x8A08;&#x7B97;&#x8A08; <pr>j&#xEC;su&#xE0;nj&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.al0i">
+  <kap>al<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Aldoni per <tld/>o; <ref tip="sin" cel="adici.0i">adicii</ref>:
+      <ekz>
+        li timas, ke oni iel al<tld/>os lin mem al la nombro de tiuj malsa&gcirc;uloj
+        <fnt>
+          <bib>EE</bib>
+          <lok>I</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>afegir</trd>,
+      <trd>incorporar</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>hinzurechnen</trd>,
+      <trd>addieren</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>a&ntilde;adir</trd>,
+      <trd>incorporar</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>ajouter<klr tip="ind"> (&agrave; un nombre)</klr></trd>,
+      <trd>compter<klr tip="ind"> (qn/qc au nombre de...)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>hozz&aacute;sz&aacute;m&iacute;t</trd>,
+      <trd>hozz&aacute;ad</trd>
+    </trdgrp>
+    <trd lng="nl">bijtellen</trd>
+    <trd lng="pl">zalicza&cacute;</trd>
+  </snc>
+  <snc>
+    <dif>
+      <ref tip="super" cel="atribu.0i">Atribui</ref>, <ref tip="super" cel="imput.0i">imputi</ref>:
+      <ekz>
+        mi al<tld/>os vin al la filoj, kaj donos al vi la &ccirc;arman landon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 3:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al tiu kategorio de emancipitinoj al<tld/>is sin anka&ubreve; la du virgulinoj sur la
+        korto
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Du pavimbatiloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u oni ne povus al<tld/>i al li &ccirc;iujn tiujn brikojn kaj pecojn
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Io</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        mi al<tld/>as min al mia nacio ne en senco &scirc;ovinista
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post pliaj dudekkvin jaroj da laboro kaj &scirc;parado mi povus al<tld/>i min kun
+        certa fiero al la suba tavolo de la meza klaso
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 1</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>atribuir</trd>,
+      <trd>imputar</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>subsummieren</trd>,
+      <trd>zurechnen</trd>,
+      <trd><ind>z&auml;hlen</ind> zu</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>atribuir</trd>,
+      <trd>imputar</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>attribuer</trd>,
+      <trd>imputer</trd>
+    </trdgrp>
+    <trd lng="hu">besorol</trd>
+    <trd lng="nl">rekenen tot</trd>
+    <trd lng="pl">zalicza&cacute;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_r;&c_a;&c_h;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_d;&c_o;&c_b;&c_a;&c_v;&c_ja;&c_m; (&c_k;&c_malmol;&c_m; &c_b;&c_r;&c_o;&c_j;</trd>,
+    <trd>&c_s;&c_m;&c_je;&c_t;&c_k;&c_a;)</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;ipo&ccaron;&iacute;st</trd>,
+    <trd>p&rcaron;ipo&ccaron;&iacute;tat</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x52A0;&#x7B97;&#x3059;&#x308B;  <pr>&#x304B;&#x3055;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6570;&#x306B;&#x5165;&#x308C;&#x308B;  <pr>&#x304B;&#x305A;&#x306B;&#x3044;&#x308C;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">pripo&ccaron;&iacute;ta&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&#x43E;&c_r;&c_a;&c_h;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&c_r;&c_a;&c_h;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_r;&c_a;&c_h;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_d;&#x43E;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x52A0; <pr>ji&#x101;</pr></trd>,
+    <trd>&#x52A0;&#x53F7; <pr>ji&#x101;h&#xE0;o</pr></trd>,
+    <trd>&#x589E; <pr>z&#x113;ng</pr></trd>,
+    <trd>&#x8FD8;&#x8BF4; <pr>h&#xE1;ishu&#x14D;</pr></trd>,
+    <trd>&#x52A0;&#x4E0A; <pr>ji&#x101;sh&#xE0;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.antaux0i">
+  <kap>anta&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Anticipe <tld/>i:
+      <ekz>
+        ni kunmetas la kalendaron kaj anta&ubreve;<tld/>as
+        la estontajn fenomenojn sur la &ccirc;ielo
+        <fnt><bib>Far3</bib><lok>&ccirc;ap. 9</lok></fnt>;
+      </ekz>
+      <ekz>
+        li rigarde sekvis la dancon de la ne&gcirc;eroj kaj provis anta&ubreve;<tld/>i, kie ili falos
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Heredanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni neniam povas anta&ubreve;<tld/>i, kio venos
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La najtingalo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;
+    <klr tip="amb">(&c_z;&c_a;&c_g;&c_a;&c_d;&c_z;&c_ja;)</klr></trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;
+    <ind>&c_k;&c_a;&c_sh;&c_t;&c_a;&c_r;&c_y;&c_s;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>preveure</trd>,
+    <trd>predir</trd>
+  </trdgrp>
+  <trd lng="de">vorausbrechnen</trd>
+  <trdgrp lng="es">
+    <trd>prever</trd>,
+    <trd>predecir</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>calculer<klr tip="amb"> (d'avance)</klr></trd>,
+    <trd>pr&eacute;dire<klr tip="ind"> (par le calcul)</klr></trd>,
+    <trd>pr&eacute;-calculer</trd>
+  </trdgrp>
+  <trd lng="hu">el&odblac;re kisz&aacute;m&iacute;t</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;<klr tip="amb">
+    (&c_z;&c_a;&c_r;&c_a;&c_n;&c_je;&c_je;)</klr></trd>,
+    <trd>&c_r;&c_a;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &#x43F;&#x43E;&#x43F;&c_je;&c_r;&c_je;&c_d;&#x43D;&c_ib;
+    &#x43F;&c_ib;&c_d;&c_r;&c_a;&c_h;&c_u;&#x43D;&#x43A;&c_i;/&c_r;&#x43E;&c_z;&c_r;&c_a;&c_h;&c_u;&#x43D;&#x43A;&c_i;</trd>,
+    <trd>&c_s;&#x43A;&#x43B;&c_a;&c_d;&c_a;&c_t;&c_i; &#x43A;&#x43E;&c_sh;&c_t;&#x43E;&c_r;&c_i;&c_s;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.de0i">
+  <kap>de<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <ref tip="super" cel="pren.de0i">Depreni</ref> de nombro, de konto;
+      <ref tip="sin" cel="subtra.0i">subtrahi</ref>:
+      <ekz>
+        de<tld/>i la rabaton;
+      </ekz>
+      <ekz>
+        por <nom>Selma</nom> kaj <nom>Eskil</nom> li de<tld/>is kelkmil kronojn, kiujn ili povos
+        ricevi
+        la&ubreve;bezone a&ubreve; kiam li mortos
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Sia propra mastro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la angulo de dormanta strato <nom>Ivagin</nom> adia&ubreve;is la kuniranton kaj komencis
+        de<tld/>i la domojn
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        do la metodo estas ekonomia, se oni rajtas de<tld/>i la fiksitan CO<sub>2</sub> de la
+        pagenda eliga&jcirc;o
+        <fnt>
+          <aut>Werner Fu&szlig;</aut>
+          <vrk><url ref="&Monato;/2011/010273.php">Verdigu la dezertojn!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/04, p. 17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="krement.de0i">dekrementi</ref>,
+      <ref cel="rabat.0i">rabati</ref>,
+      <ref cel="redukt.0i.malgrandigi">redukti<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>descomptar</trd>,
+    <trd>suprimir</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ode&ccaron;&iacute;st</trd>,
+    <trd>odpo&ccaron;&iacute;tat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>abziehen <klr>(subtrahieren)</klr></trd>,
+    <trd>herunterz&auml;hlen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>descontar</trd>,
+    <trd>restar</trd>,
+    <trd>sustraer</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;falquer</trd>,
+    <trd>retrancher<klr tip="ind"> (par le calcul)</klr></trd>,
+    <trd>soustraire<klr tip="ind"> (&agrave; un nombre)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">lesz&aacute;m&iacute;t</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5DEE;&#x3057;&#x5F15;&#x304F;  <pr>&#x3055;&#x3057;&#x3072;&#x304F;</pr></trd>,
+    <trd>&#x63A7;&#x9664;&#x3059;&#x308B;  <pr>&#x3053;&#x3046;&#x3058;&#x3087;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">aftrekken</trd>
+  <trd lng="pl">odlicza&cacute;</trd>
+  <trd lng="ru">&c_o;&c_t;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;<klr tip="amb">
+  (&c_d;&c_je;&c_n;&c_mol;&c_g;&c_i;)</klr></trd>
+  <trd lng="sk">odpo&ccaron;&iacute;ta&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_r;&c_a;&c_h;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&#x43D;&c_ib;&#x43C;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5228; <pr>p&#xE1;o</pr></trd>,
+    <trd>&#x51CF;&#x53F7; <pr>ji&#x1CE;nh&#xE0;o</pr></trd>,
+    <trd>&#x51CF;&#x53BB; <pr>ji&#x1CE;nq&#xF9;</pr></trd>,
+    <trd>&#x51CF; <pr>ji&#x1CE;n</pr></trd>,
+    <trd>&#x5C11;&#x4E8E; <pr>sh&#x1CE;oy&#xFA;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kalkul.el0i.tutkalkuli">
+    <dif>
+      Tute <tld/>i nenion preterlasante:
+      <ekz>
+        Mia bu&scirc;o rakontos Vian justecon, &Ccirc;iutage Vian
+        helpon, &Ccirc;ar mi ne povus &ccirc;ion el<tld/>i
+        <fnt><bib>MT</bib> <lok>&Psa; 71:15</lok></fnt>.
+      </ekz>
+      <ekz>
+        in&gcirc;enieroj esploris la aferon kaj el<tld/>is, ke tio estas tre bona afero
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        profesoro <nom>Bucher</nom> el Lejpcigo el<tld/>is la rilatan nombron de la viroj kaj
+        virinoj en E&ubreve;ropo
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Leibniz</nom> <klr>[&#x2026;]</klr> el<tld/>is <klr>[&#x2026;]</klr> ke el 23 literoj oni povas
+        formi pli ol 25&#x202F;852 trilionojn da diversaj vortoj
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kia plezuro de la &ccirc;aso estas el<tld/>i &ccirc;iun sekvan pa&scirc;on de la viktimo
+        <fnt>
+          <bib>KKr</bib>
+          <lok>I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li intencis <klr>[&#x2026;]</klr> el<tld/>i tion, kion la dioj ordonis ka&scirc;i anta&ubreve; la
+        homaj okuloj
+        <fnt>
+          <bib>SatirRak</bib>
+          <lok>Pythagoras</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>enumerar</trd>,
+      <trd>ressenyar</trd>,
+      <trd>detallar<klr> (per complet)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>enumerar</trd>,
+      <trd>contar<klr> (por completo)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>faire le <ind>compte</ind> de</trd>
+    </trdgrp>
+    <trd lng="hu">mindent &ouml;sszevet</trd>
+    <trdgrp lng="pl">
+      <trd>zlicza&cacute;</trd>,
+      <trd>zrachowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_r;&c_a;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+<!--
+  <snc mrk="kalkul.el0i.dekalkuli">
+    <ref tip="dif" cel="kalkul.de0i">de<tld/>i</ref>
+    <trd lng="be">&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="ca">
+      <trd>descomptar</trd>,
+      <trd>suprimir</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>descontar</trd>,
+      <trd>restar</trd>,
+      <trd>sustraer</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;falquer</trd>,
+      <trd>retrancher<klr tip="ind"> (par le calcul)</klr></trd>,
+      <trd>soustraire<klr tip="ind"> (&agrave; un nombre)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">lesz&aacute;m&iacute;t</trd>
+    <trd lng="nl">aftrekken</trd>
+    <trd lng="pl">odlicza&cacute;</trd>
+    <trd lng="ru">&c_o;&c_t;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;<klr tip="amb">
+    (&c_d;&c_je;&c_n;&c_mol;&c_g;&c_i;)</klr></trd>
+  </snc>
+-->
+  <snc mrk="kalkul.el0i.pagi">
+    <dif>
+      Prezenti &ccirc;iujn unu post alia nombrante:
+      <ekz>
+        <klr>[li]</klr> tuj el<tld/>is al la vila&gcirc;ano tricent rublojn, kiujn lia
+        kunparolanto prenis
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ordonu el<tld/>i al li kvin mil sestercojn
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej uzataj el tiuj &ccirc;i okulakvoj estas: flava adstringa okulakvo a&ubreve; safrana
+        tinkturo de opio<klr>[&#x2026;]</klr>, kupro aluna, zinko sulfura, <klr>[&#x2026;]</klr>,
+        plue aluno, tanino, bora acido <klr>[&#x2026;]</klr>, ni el<tld/>is tiom da ili, &ccirc;ar
+        <klr>[&#x2026;]</klr> oni ofte devas &scirc;an&gcirc;i la rimedojn
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de 1817 &gcirc;is 1926 sciencistoj el<tld/>is 6 pandemiojn de &hcirc;olero
+        <fnt>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2010/010071.php">Antikva, sed ankora&ubreve; malica
+          gasto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/08, p. 16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">ausz&auml;hlen</trd>
+  </snc>
+  <trd lng="cs">propo&ccaron;&iacute;tat</trd>
+  <trd lng="ja">&#x6570;&#x3048;&#x4E0A;&#x3052;&#x308B;  <pr>&#x304B;&#x305E;&#x3048;&#x3042;&#x3052;&#x308B;</pr></trd>
+  <trd lng="sk">prepo&ccaron;&iacute;ta&tcaron;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_r;&c_a;&c_h;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="kalkul.en0i">
+  <kap>en<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kalkul.en0i.inkluzivigi">
+    <dif>
+      <ref tip="super" cel="inkluz.0igi">Inkluzivigi</ref>, konsideri en <tld/>o:
+      <ekz>
+        se tamen li <klr>[&#x2026;]</klr> &scirc;uldas ion al vi, tion en<tld/>u en mian konton
+        <fnt>
+          <bib>NT</bib>
+          <lok>Filemon 1:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la kostojn de multlingveco oni devus en<tld/>i anka&ubreve; aliajn elspezojn, kiuj
+        ne rilatas rekte al la tradukado
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se oni en<tld/>as &ccirc;iujn voj-disbran&ccirc;i&gcirc;ojn, li trovi&gcirc;as interne de &ccirc;i tiu
+        perimetro
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Stefano fu&gcirc;as de la polico</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni devas en<tld/>i la belan veteron, kiu logas &ccirc;iujn rekte al la malbordo
+        <fnt>
+          <bib>KrM</bib>
+          <lok>25. Multe Da Spirito Sed Neniom Da Profito.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la eldono de 1931 fakte jam estis la sesa, se oni en<tld/>as la ruslingvajn
+        versiojn, el kiuj la unua aperis jam en 1911
+        <fnt>
+          <aut>W. M. A. de Smet</aut>
+          <vrk><url ref="&Monato;/2004/008418.html">Edward Croegaert, la forgesita
+          lingvokreanto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/11, p. 22</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_u;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_mol; &c_u; &c_r;&c_a;&c_z;&c_mol;&c_l;&c_ib;&c_k;</trd>
+    </trdgrp>
+    <trd lng="de">einberechnen</trd>
+  </snc>
+  <snc mrk="kalkul.en0i.enteni">
+    <dif>
+      <ref tip="super" cel="hav.en0i.enSi">Enhavi</ref>,
+      <ref tip="super" cel="ten.en0i">enteni</ref>:
+      <ekz>
+        <klr>[ili]</klr> havas la solan vendrajton por Britujo, sed tiu rajto ne
+        en<tld/>is Irlandon
+        <fnt>
+          <bib>KrM</bib>
+          <lok>24. Per Flugiloj De Facila Vento.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en preska&ubreve; &ccirc;iuj distriktoj ekzistas &scirc;intoisma templo, kaj tiu en<tld/>as la
+        lo&gcirc;antojn kiel siajn kredantojn
+        <fnt>
+          <aut>Hori Yasuo</aut>
+          <vrk><url ref="&Monato;/2008/009633.php">Religio en Japanio. &Ccirc;u
+          budhismo?</url></vrk>
+           <bib>Monato</bib>
+          <lok>2008/11, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ra&ubreve;misma intelektularo en<tld/>is la plej valorajn sociologojn de la 80aj
+        jaroj en Esperantio: inter ili <nom>Jerzy Leyk</nom> kaj <nom>S&aacute;ndor R&eacute;v&eacute;sz</nom>
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 5 (55)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kun.0e0">kune kun</ref>,
+      <ref cel="plus.0">plus</ref>
+    </refgrp>
+    <trd lng="be">&c_u;&c_t;&c_r;&c_y;&c_m;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="ca">
+      <trd>constar de</trd>,
+      <trd>comptar amb</trd>
+    </trdgrp>
+    <trdgrp lng="cs">
+      <trd>zapo&ccaron;&iacute;st</trd>,
+      <trd>zapo&ccaron;&iacute;tat</trd>,
+      <trd>zapo&ccaron;&iacute;t&aacute;vat</trd>,
+      <trd>za&uacute;&ccaron;tovat</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>einrechnen</trd>,
+      <trd>einbeziehen</trd>,
+      <trd>umfassen</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>compter<klr tip="ind"> (comporter)</klr></trd>,
+      <trd>comprendre<klr tip="ind"> (comporter)</klr></trd>,
+      <trd>comporter</trd>,
+      <trd>d&eacute;tenir<klr tip="ind"> (comporter)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tartalmaz</trd>,
+      <trd>mag&aacute;ban foglal</trd>
+    </trdgrp>
+    <trd lng="nl">bevatten</trd>
+    <trd lng="pl">zalicza&cacute;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_o;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_v; &c_s;&c_je;&c_b;&c_je;)</klr></trd>,
+      <trd>&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_mol;<klr tip="amb">
+      (&c_v; &c_s;&c_je;&c_b;&c_ja;)</klr></trd>
+    </trdgrp>
+    <trd lng="sk">zapo&ccaron;&iacute;ta&tcaron;</trd>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x6570;&#x306B;&#x5165;&#x308C;&#x308B;  <pr>&#x304B;&#x305A;&#x306B;&#x3044;&#x308C;&#x308B;</pr></trd>,
+    <trd>&#x542B;&#x3080;  <pr>&#x3075;&#x304F;&#x3080;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_r;&c_a;&c_h;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43C;&c_ib;&c_s;&c_t;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43C;&c_a;&c_t;&c_i; &c_v; &c_s;&#x43E;&c_b;&c_ib;</trd>,
+    <trd>&#x43C;&c_a;&c_t;&c_i; &c_u; &c_s;&c_v;&#x43E;&c_jeu;&#x43C;&c_u; &c_s;&#x43A;&#x43B;&c_a;&c_d;&c_ib;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.kun0i">
+  <kap>kun<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Kunigi en <tld/>ado:
+      <ekz>
+        mi kalkulas la korvojn, kiuj staras sur la tegmento <klr>[&#x2026;]</klr> &mdash; kiom do vi
+        kun<tld/>is <klr>[&#x2026;]</klr>? &mdash; dek tri, mi respondis
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;
+  &c_r;&c_a;&c_z;&c_a;&c_m;</trd>
+  <trdgrp lng="ca">
+    <trd>agregar</trd>,
+    <trd>conjuntar</trd>
+  </trdgrp>
+  <trd lng="cs">se&ccaron;&iacute;tat</trd>
+  <trdgrp lng="de">
+    <trd>zusammenz&auml;hlen</trd>,
+    <trd>errechnen</trd>
+  </trdgrp>
+  <trd lng="es">agregar</trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;sszesz&aacute;mol</trd>,
+    <trd>&ouml;sszegez</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5408;&#x7B97;&#x3059;&#x308B;  <pr>&#x304C;&#x3063;&#x3055;&#x3093;&#x3059;&#x308B;</pr></trd>
+  <trd lng="nl">samentellen</trd>
+  <trd lng="pl">zlicza&cacute;</trd>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;
+  &c_v;&c_m;&c_je;&c_s;&c_t;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>s&ccaron;&iacute;ta&tcaron;</trd>,
+    <trd>zr&aacute;ta&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_v;&#x43E;&c_d;&c_i;&c_t;&c_i; &c_d;&#x43E; &#x43E;&c_d;&#x43D;&#x43E;&c_g;&#x43E; &c_r;&c_a;&c_h;&c_u;&#x43D;&#x43A;&c_u;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&c_s;&c_u;&#x43C;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x76F8;&#x52A0; <pr>xi&#x101;ngji&#x101;</pr></trd>
+</drv>
+
+<drv mrk="kalkul.mis0i">
+  <kap>
+    mis<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="K"/>i erare; mistaksi:
+      <ekz>
+        &ccirc;u mi vere tute precize scias, ke estas cent kvardek kvar pecetoj, a&ubreve; &ccirc;u mi
+        eventuale mis<tld/>is
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oficistoj jam eliradis, kaj Stefano esperis, ke li ne mis<tld/>is la tempon
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se <nom>Adams</nom> imagis, ke tiu bato &scirc;in venkos, li serioze mis<tld/>is
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[mi]</klr> mis<tld/>is je unu
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la a&ubreve;toro ne mis<tld/>as, <klr>[&#x2026;]</klr> la datoj kaj la a&gcirc;o de la roluloj bone
+        akordi&gcirc;as
+        <fnt>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="&Monato;/2015/011307.php">Rekomendinda romano en matura
+          lingva&jcirc;o</url></vrk>
+          <bib>Monato</bib>
+          <lok>2015/04, p. 26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_r;&c_a;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_b;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_b;&c_sh;&c_u;&c_k;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">sich <ind>verrechnen</ind></trd>
+  <trd lng="en">miscalculate</trd>
+  <trd lng="ja">&#x8AA4;&#x7B97;&#x3059;&#x308B;  <pr>&#x3054;&#x3055;&#x3093;&#x3059;&#x308B;</pr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_r;&c_a;&c_h;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F; &c_z; &c_r;&c_a;&c_h;&c_u;&#x43D;&#x43A;&c_u;</trd>,
+    <trd>&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &#x43F;&#x43E;&#x43C;&c_i;&#x43B;&#x43A;&c_i; &#x43F;&c_r;&c_i;
+    &#x43E;&c_b;&c_ch;&c_i;&c_s;&#x43B;&c_je;&#x43D;&#x43D;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5931;&#x7B97; <pr>sh&#x12B;su&#xE0;n</pr></trd>
+</drv>
+
+<drv mrk="kalkul.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kalkul.pri0i.zorge">
+    <dif>
+      Zorge pripensi estontan agon helpe de <tld/>ado; pesi &ccirc;iujn
+      konsekvencojn de sia agado:
+      <ekz>
+        &scirc;i konsideris la longecon de la vojo kaj pri<tld/>is,
+        ke, se &scirc;i ne sekvos la landvojon, <klr>[...]</klr>
+        &scirc;i &scirc;paros preska&ubreve; du mejlojn
+        <fnt><bib>Fab4</bib><lok>Anneto</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ne pri<tld/>is sian agon
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li mezuris fenestrojn kaj pordojn, notis kaj pri<tld/>is kaj fine reiris
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Feli&ccirc;a homo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili pri<tld/>as siajn procentegojn &ccirc;e la altaro, ili genufleksas, por ke ili
+        povu bone etendi la trena&jcirc;on de sia vesto
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li prenis paperon kaj krajonon kaj komencis pri<tld/>i la produkteblon de la
+        bieno
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Kuni&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi &ccirc;iam agas orde, kun pripenso kaj <ind>pri<tld/>o</ind>
+        <fnt><bib>Fab4</bib><lok>Kuristoj</lok></fnt>.
+        <trdgrp lng="fr">
+          <trd>pr&eacute;voyance</trd>,
+          <trd>pr&eacute;m&eacute;ditation</trd>,
+          <trd>calcul<klr tip="ind"> (pr&eacute;voyance)</klr></trd>,
+          <trd>pond&eacute;ration<klr tip="ind">
+          (pr&eacute;voyance)</klr></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="plan.0i">plani</ref>
+    </refgrp>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>
+    <trdgrp lng="ca">
+      <trd>preveure</trd>,
+      <trd>calcular</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>prever</trd>,
+      <trd>calcular</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>durchrechnen</trd>,
+      <trd>berechnen</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>calculer<klr tip="ind"> (peser les
+      cons&eacute;quences)</klr></trd>,
+      <trd>pr&eacute;m&eacute;diter</trd>,
+      <trd>pr&eacute;voir<klr tip="ind">
+      (pr&eacute;m&eacute;diter)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">m&eacute;rlegel</trd>
+    <trd lng="nl">overwegen</trd>
+    <trd lng="pl">rozwa&zdot;a&cacute;</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="kalkul.pri0i.nombri_homojn">
+    <uzo tip="fak">BIB</uzo>
+    <dif>
+      <ref tip="super" cel="nombr.0i.kalkuli">Nombri</ref> la homojn:
+      <ekz>
+        pri<tld/>u la tutan komunumon de la Izraelidoj la&ubreve; iliaj
+        familioj
+        <fnt><bib>MT</bib><lok>&Nom; 1:2</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiu povas pri<tld/>i, kiom da fojoj en sia vivo li rigardis funebran veston de
+        vidvino
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol; <klr tip="amb">(&c_l;&c_ju;&c_d;&c_z;&c_je;&c_j;,
+      &c_n;&c_a;&c_s;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;)</klr></trd>,
+      <trd>&c_p;&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="ca">censar</trd>
+    <trd lng="es">censar</trd>
+    <trd lng="fr">recenser<klr tip="ind"> (une population)</klr></trd>
+    <trd lng="pl">policzy&cacute;<klr> (ludzi, mieszka&nacute;c&oacute;w)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_o;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_o;&c_d;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>propo&ccaron;&iacute;tat</trd>,
+    <trd>spo&ccaron;&iacute;tat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ermitteln</trd>,
+    <trd>errechnen</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8003;&#x616E;&#x306B;&#x5165;&#x308C;&#x308B;  <pr>&#x3053;&#x3046;&#x308A;&#x3087;&#x306B;&#x3044;&#x308C;&#x308B;</pr></trd>,
+    <trd>&#x898B;&#x7A4D;&#x3082;&#x308B;  <pr>&#x307F;&#x3064;&#x3082;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prepo&ccaron;&iacute;ta&tcaron;</trd>,
+    <trd>spo&ccaron;&iacute;ta&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_b;&c_ch;&c_i;&c_s;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_b;&c_r;&c_a;&c_h;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.diferenciala0o">
+  <kap>diferenciala <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>
+  <snc>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
+      kiu sin bazas sur la nocioj <ref cel="difere2.0o">diferencialo</ref>
+      kaj <ref cel="deriv.0ajxo.MAT">deriva&jcirc;o</ref>, kaj
+      okupi&gcirc;as pri solvado de diferencialaj ekvacioj:
+      <ekz>
+        mi neniam sukcesis kompreni esotera&jcirc;ojn kiel <tld/>on diferencialan kaj
+        integralan
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007921.html">Ho, mistera pi!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/06, p. 22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je; &c_d;&c_y;&c_f;&c_e;&c_r;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_a;&c_je;</trd>
+  <trd lng="bg">&c_d;&c_i;&c_f;&c_je;&c_r;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;&c_n;&c_o; &c_s;&c_m;&c_ja;&c_t;&c_a;&c_n;&c_je;</trd>
+  <trd lng="ca"><ind>c&agrave;lcul</ind> diferencial</trd>
+  <trd lng="cs">diferenci&aacute;ln&iacute; po&ccaron;et</trd>
+  <trd lng="de">Differenzialrechnung</trd>
+  <trd lng="en">differential <ind>calculus</ind></trd>
+  <trd lng="es"><ind>c&aacute;lculo</ind> diferencial</trd>
+  <trd lng="fr">calcul diff&eacute;rentiel</trd>
+  <trd lng="hu">differenci&aacute;lsz&aacute;m&iacute;t&aacute;s</trd>
+  <trd lng="nl">differentiaalrekenen</trd>
+  <trd lng="pl">rachunek r&oacute;&zdot;niczkowy</trd>
+  <trd lng="ru">&c_d;&c_i;&c_f;&c_f;&c_je;&c_r;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  <ind>&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">diferenci&aacute;lny po&ccaron;et</trd>
+</drv>
+
+<drv mrk="kalkul.infinitezima0o">
+  <kap>infinitezima <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
+      kiu entenas la diferencialan kaj integralan <tld/>ojn, kaj
+      pritraktas
+      la <ref cel="infini1.0o.MAT">infinitezimojn</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je; &c_b;&c_ja;&c_s;&c_k;&c_o;&c_n;&c_c;&c_a; &c_m;&c_a;&c_l;&c_y;&c_h;</trd>
+  <trd lng="ca"><ind>c&agrave;lcul</ind> infinitesimal</trd>
+  <trd lng="es"><ind>c&aacute;lculo</ind> infinitesimal</trd>
+  <trd lng="de">Infinitesimalrechnung</trd>
+  <trd lng="en">infinitesimal <ind>calculus</ind></trd>
+  <trd lng="fr">calcul infinit&eacute;simal</trd>
+  <trd lng="hu">infinitezim&aacute;lis-sz&aacute;m&iacute;t&aacute;s</trd>
+  <trd lng="ja">&#x5FAE;&#x7A4D;&#x5206;&#x5B66;  <pr>&#x3073;&#x305B;&#x304D;&#x3076;&#x3093;&#x304C;&#x304F;</pr></trd>
+  <trd lng="ru">&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_je; &c_b;&c_je;&c_s;&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_o; &c_m;&c_a;&c_l;&c_y;&c_h;</trd>
+  <trd lng="uk">&c_ch;&c_i;&c_s;&#x43B;&c_je;&#x43D;&#x43D;&#x44F; &#x43D;&c_je;&c_s;&#x43A;&c_ib;&#x43D;&c_ch;&c_je;&#x43D;&#x43D;&#x43E;
+  &#x43C;&c_a;&#x43B;&c_i;&c_h; &c_v;&c_je;&#x43B;&c_i;&c_ch;&c_i;&#x43D;</trd>
+  <trd lng="zh">&#x5FAE;&#x79EF;&#x5206;&#x5B66; <pr>w&#x113;ij&#x12B;f&#x113;nxu&#xE9;</pr></trd>
+</drv>
+
+<drv mrk="kalkul.integrala0o">
+  <kap>integrala <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 21</lok></fnt>
+  <snc>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
+      kiu okupi&gcirc;as pri kalkulado de
+      <ref cel="integr2.0o.sumo">integraloj</ref> kaj
+      <ref cel="deriv.mal0ajxo.MAT">malderiva&jcirc;oj</ref>,
+      kaj pri solvado de diferencialaj ekvacioj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je; &c_ib;&c_n;&c_t;&c_e;&c_g;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_je;</trd>
+  <trd lng="bg">&c_i;&c_n;&c_t;&c_je;&c_g;&c_r;&c_a;&c_l;&c_n;&c_o; &c_s;&c_m;&c_ja;&c_t;&c_a;&c_n;&c_je;</trd>
+  <trd lng="ca"><ind>c&agrave;lcul</ind> integral</trd>
+  <trd lng="cs">integr&aacute;ln&iacute; po&ccaron;et</trd>
+  <trd lng="de">Integralrechnung</trd>
+  <trd lng="en">integral <ind>calculus</ind></trd>
+  <trd lng="es"><ind>c&aacute;lculo</ind> integral</trd>
+  <trd lng="fr">calcul int&eacute;gral</trd>
+  <trd lng="hu">integr&aacute;lsz&aacute;m&iacute;t&aacute;s</trd>
+  <trd lng="nl">integraalrekenen</trd>
+  <trd lng="pl">rachunek ca&lstroke;kowy</trd>
+  <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_g;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je; <ind>&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">integr&aacute;lny po&ccaron;et</trd>
+  <trd lng="uk">&c_ib;&#x43D;&c_t;&c_je;&c_gu;&c_r;&c_a;&#x43B;&#x44C;&#x43D;&c_je; &c_ch;&c_i;&c_s;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  <trd lng="zh">&#x79EF;&#x5206;&#x5B66; <pr>j&#x12B;f&#x113;nxu&#xE9;</pr></trd>
+</drv>
+
+<drv mrk="kalkul.probablo0o">
+  <kap>probablo<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
+      kiu okupi&gcirc;as pri modeligo de hazardo.
+    </dif>
+    <ref tip="vid" cel="probab.0o.MAT">probablo</ref>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_o;&c_r;&c_y;&c_ja; &c_ib;&c_m;&c_a;&c_v;&c_je;&c_r;&c_n;&c_a;&c_s;&c_c;&c_ja;&c_w;</trd>
+  <trd lng="bg">&c_t;&c_je;&c_o;&c_r;&c_i;&c_ja; &c_n;&c_a; &c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_i;&c_t;&c_je;</trd>
+  <trd lng="ca"><ind>c&agrave;lcul</ind> de probabilitats</trd>
+  <trd lng="cs">po&ccaron;et pravdepodobnosti</trd>
+  <trd lng="de">Wahrscheinlichkeitsrechnung</trd>
+  <trd lng="en">probability theory</trd>
+  <trd lng="es"><ind>c&aacute;lculo</ind> de probabilidades</trd>
+  <trd lng="fr">calcul des probabilit&eacute;s</trd>
+  <trd lng="hu">val&oacute;sz&iacute;n&udblac;s&eacute;gsz&aacute;m&iacute;t&aacute;s
+  </trd>
+  <trd lng="nl">kansberekening</trd>
+  <trdgrp lng="pl">
+    <trd>rachunek prawdopodobie&nacute;stwa</trd>,
+    <trd>teoria prawdopodobie&nacute;stwa</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_je;&c_o;&c_r;&c_i;&c_ja;
+  <ind>&c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_je;&c_j;</ind></trd>
+  <trd lng="sk">po&ccaron;et pravdepodobnosti</trd>
+  <trd lng="uk">&c_t;&c_je;&#x43E;&c_r;&c_ib;&#x44F; &c_j;&#x43C;&#x43E;&c_v;&c_ib;&c_r;&#x43D;&#x43E;&c_s;&c_t;&c_je;&c_j;</trd>
+  <trd lng="zh">&#x6982;&#x7387;&#x6F14;&#x7B97; <pr>g&#xE0;il&#xFC;y&#x1CE;nsu&#xE0;n</pr></trd>
+</drv>
+
+<drv mrk="kalkul.retro0o">
+  <kap>retro<tld/>o</kap>
+  <snc mrk="kalkul.retro0o.MAT">
+    <dif>
+      <tld lit="K"/>o en la direkto kontra&ubreve;a al la normala.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_l;&c_ib;&c_k; &c_z;&c_v;&c_a;&c_r;&c_o;&c_t;&c_n;&c_y;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_b;&c_r;&c_o;&c_je;&c_n;&c_je; &c_n;&c_a;&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_o;</trd>,
+    <trd>&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_o; &c_b;&c_r;&c_o;&c_je;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="ca">compte regressiva</trd>
+  <trd lng="de">Countdown</trd>
+  <trd lng="en">countdown</trd>
+  <trd lng="fr">compte &agrave; rebours</trd>
+  <trd lng="hu">visszasz&aacute;ml&aacute;l&aacute;s</trd>
+  <trd lng="nl">(het) <ind>aftellen</ind></trd>
+  <trd lng="pl">odliczanie</trd>
+  <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j;
+  &c_o;&c_t;&c_s;&c_ch;&c_je;&c_t;</trd>
+    <adm>
+      &Ccirc;ar retro- estas neoficiala afikso, tio fakte iru al aparta artikolo
+      retrokalkul/, sed necesas trovi plurajn uzekzemplojn.
+      Cetere trovi&gcirc;as parte sinonimaj &leftquot;dekalkulo&rightquot; (vd. supre "dekalkuli domojn")
+      kaj &leftquot;dekrementado&rightquot;.
+      <aut>WD</aut>
+    </adm>
+  <trdgrp lng="zh">
+    <trd>&#x5012;&#x8A08;&#x6642; <pr>d&#xE0;oj&#xEC;sh&#xED;</pr></trd>,
+    <trd>&#x5012;&#x6570;&#x8BA1;&#x65F6; <pr>d&#xE0;osh&#x1D4;j&#xEC;sh&#xED;</pr></trd>,
+    <trd>&#x5012;&#x6570;&#x8BA1;&#x6570; <pr>d&#xE0;osh&#x1D4;j&#xEC;sh&#xF9;</pr></trd>,
+    <trd>&#x8B80;&#x79D2; <pr>d&#xFA;mi&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.61 2023/10/18 14:48:09
+revo: transskribo per <pr>
+
+versio 1.59 2023/08/16 14:28:54
+Dmitri Gabinski: + trd be
+
+versio 1.58 2023/08/04 08:29:57
+Dmitri Gabinski: + trd be
+
+versio 1.57 2023/05/11 06:30:58
+Paul Peeraerts: kor de trd nl
+
+versio 1.56 2023/05/11 05:27:14
+Paul Peeraerts: fnt, url, lok
+
+versio 1.55 2023/04/14 15:26:07
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.54 2022/06/03 09:32:12
+Ulrich Fellmann: kalkuli: +8 pliaj DE trdj (en kalkuli 1, 3, 5, 6)
+
+versio 1.53 2022/05/01 08:09:23
+-->
+</vortaro>

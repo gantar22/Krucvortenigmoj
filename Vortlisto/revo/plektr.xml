@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: plektr.xml,v 1.17 2023/10/20 16:38:17 revo Exp $">
+<kap>
+<rad>plektr</rad>/o <fnt><bib>MuzTerm</bib></fnt>
+</kap>
+<drv mrk="plektr.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      Mane tenata a&ubreve; &ccirc;efingre fiksita ilo, per kiu oni vibrigas la kordojn de
+      <ref tip="malprt" cel="instru2.kord0o">kordinstrumento</ref>:
+      <ekz>
+        gitaro estas <klr>[&#x2026;]</klr> ludata per la fingroj a&ubreve; <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=27350">Gitaro</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>plektrum</trd>,
+    <trd>trs&aacute;tko</trd>
+  </trdgrp>
+  <trd lng="de">Plektron</trd>
+  <trdgrp lng="en">
+    <trd>plectrum</trd>,
+    <trd>pick</trd>
+  </trdgrp>
+  <trd lng="es">plectro</trd>
+  <trdgrp lng="fr">
+    <trd>m&eacute;diator</trd>,
+    <trd>plectre</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>penget&odblac;</trd>,
+    <trd>plektrum</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3070;&#x3061;</trd>,
+    <trd>&#x722A;  <pr>&#x3064;&#x3081;</pr></trd>,
+    <trd>&#x30D4;&#x30C3;&#x30AF;</trd>
+  </trdgrp>
+  <trd lng="nl">plectrum</trd>
+  <trdgrp lng="pl">
+    <trd>plektron</trd>,
+    <trd>pi&oacute;rko</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>palheta <klr tip="amb">(m&uacute;s.)</klr></trd>,
+    <trd>plectro</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>plectru</trd>,
+    <trd>pan&abreve;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_je;&c_k;&c_t;&c_r;</trd>,
+    <trd>&c_m;&c_je;&c_d;&c_i;&c_a;&c_t;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">brnkadlo</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&c_je;&#x43A;&c_t;&c_r;</trd>,
+    <trd>&#x43C;&c_je;&c_d;&c_ib;&c_a;&c_t;&#x43E;&c_r; (&#x43F;&#x43B;&c_a;&c_s;&c_t;&c_i;&#x43D;&#x43A;&c_a; &c_d;&#x43B;&#x44F; &c_g;&c_r;&c_i; &#x43D;&c_a;
+    &#x43C;&c_a;&#x43D;&c_d;&#x43E;&#x43B;&c_ib;&#x43D;&c_ib;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="plektr.0i">
+  <kap><tld/>i</kap>
+  <snc>
+    <dif>
+      Sonigi muzikilon per <tld/>o:
+      <ekz>
+        Kjudo<klr>[n&#x2026;]</klr> la mona&hcirc;oj uzas <klr>[&#x2026;]</klr> pafante 
+        dum gravaj eventoj (geedzi&gcirc;o, entombigo, naski&gcirc;o de infano) a&ubreve; <tld/>ante la kordon de la
+        arko
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=390980">Kjudo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">brnkat trs&aacute;tkem</trd>
+  <trd lng="en">pick<klr tip="amb"> (stringed instrument)</klr></trd>
+  <trd lng="hu">penget</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3070;&#x3061;&#x3067;&#x304B;&#x304D;&#x9CF4;&#x3089;&#x3059;  <pr>&#x3070;&#x3061;&#x3067;&#x304B;&#x304D;&#x306A;&#x3089;&#x3059;</pr></trd>,
+    <trd>&#x30D4;&#x30C3;&#x30AF;&#x6F14;&#x594F;&#x3059;&#x308B;  <pr>&#x30D4;&#x30C3;&#x30AF;&#x3048;&#x3093;&#x305D;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">met een <ind>plectrum</ind> bespelen</trd>
+  <trd lng="pl">gra&cacute;  <ind>pi&oacute;rkiem</ind></trd>
+  <trd lng="ro">se juca cu o  <ind>pan&abreve;</ind></trd>
+  <trd lng="ru">&c_i;&c_g;&c_r;&c_a;&c_t;&c_mol; <ind>&c_m;&c_je;&c_d;&c_i;&c_a;&c_t;&c_o;&c_r;&c_o;&c_m;</ind></trd>
+  <trd lng="sk">brnka&tcaron; brnkadlom</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.17 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.15 2022/05/06 22:31:06
+Vito Redsky: + trd pl + trd ro 
+
+Revision 1.12  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2010/01/14 18:26:57  revo
+Russ Williams: +trd en, kaj sxangxi pincxas al vibrigas
+
+Revision 1.9  2006/03/07 17:31:30  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2005/05/12 16:32:02  revo
+Yury Finkel: +trd ru
+
+Revision 1.7  2005/02/18 17:35:34  revo
+-->
+</vortaro>

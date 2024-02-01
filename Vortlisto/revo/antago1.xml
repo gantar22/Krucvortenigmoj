@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: antago1.xml,v 1.23 2023/10/13 21:19:03 revo Exp $">
+<kap>
+  <rad>antagonist</rad>/o <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="antago1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="antago1.0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="kontraux.0ulo.KOMUNE">Kontra&ubreve;ulo</ref>,
+      <ref cel="batal.kontraux0anto">kontra&ubreve;batalanto</ref>;
+      unu el la konfliktaj fortoj, principoj,
+      partioj de <ref tip="malprt" cel="antago.0o.KOMUNE">antagonismo</ref>:
+      <ekz>
+        li sentis, ke estas en li kvaza&ubreve; du homoj: unu preska&ubreve;
+        freneza, alia trankvila kaj sa&gcirc;a, <klr>[&#8230;]</klr>
+        la unua <klr>[&#8230;]</klr> ne a&ubreve;skultis la vo&ccirc;on de la prudento,
+        kontra&ubreve;e, &ccirc;iuminute li akiris superecon je sia interna <tld/>o
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        miaj <tld/>oj grimacos
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2003/007978.html">Landnomoj: homaj frenezigiloj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Johano Pa&ubreve;lo la 2a <klr>[&#8230;]</klr> malamas la komunismon,
+        sed atentu, ne la komunistojn, &dash; oni ne povus aserti tion pri
+        la komunistaj gvidantoj kontra&ubreve; siaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lode Dores</aut>
+          <vrk><url ref="&Monato;/2005/008661.php">Sanktuloj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="advers.0ulo">adversulo</ref>,
+      <ref cel="amik.mal0o.kontraubatalanto">malamiko<sncref/></ref>,
+      <ref cel="opon.0anto">oponanto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_a;&c_g;&c_a;&c_n;&c_ib;&c_s;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>antagonista</trd>,
+    <trd>odp&uring;rce</trd>,
+    <trd>protivn&iacute;k</trd>,
+    <trd>sok</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+      <trd>Gegenspieler</trd>,
+      <trd>Antagonist</trd>
+  </trdgrp>
+  <trd lng="en">antagonist</trd>
+  <trd lng="es">antagonista</trd>
+  <trd lng="fr">antagoniste</trd>
+  <trd lng="he">&yod;&#1464;&resh;&#1460;&yod;&bet;</trd>
+  <trdgrp lng="ja">
+    <trd>&#25973;&#23550;&#32773;  <pr>&#12390;&#12365;&#12383;&#12356;&#12375;&#12419;</pr></trd>,
+    <trd>&#23550;&#31435;&#32773;  <pr>&#12383;&#12356;&#12426;&#12388;&#12375;&#12419;</pr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_n;&c_t;&c_a;&c_g;&c_o;&c_n;&c_i;&c_s;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>antagonista</trd>,
+    <trd>odporca</trd>,
+    <trd>protivn&iacute;k</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/13 21:19:03
+Wolfram Diestel: fnt JED, +ref-oj
+
+versio 1.22 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.20 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.17  2019/06/29 12:19:25  revo
+adaptis URL de Monato
+
+Revision 1.16  2018/09/10 17:10:14  revo
+Wolfram Diestel: +ekz-oj, +ref adversulo
+
+Revision 1.15  2017/02/23 18:10:13  revo
+Jeromo Vasxe: + ref
+
+Revision 1.14  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/28 12:03:35  revo
+-->
+</vortaro>

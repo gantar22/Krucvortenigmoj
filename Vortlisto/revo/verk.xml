@@ -1,0 +1,727 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: verk.xml,v 1.41 2023/10/21 21:21:01 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>verk</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="verk.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="verk.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="produk.0i.TEK">Produkti</ref> per spirita laboro arta&jcirc;on a&ubreve; scienca&jcirc;on:
+      <ekz>
+        &ccirc;io alia, kion mi <em><tld/>is a&ubreve; <tld/>os</em> <klr>[&#8230;]</klr>
+        estas nur <tld/>oj privataj
+        <fnt><bib>F</bib>, <lok>anta&ubreve;parolo</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i multajn librojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Pre; 12:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> estis sa&gcirc;ulo, <klr>[&#8230;]</klr> li &ccirc;ion pesis, esploris, kaj
+        <tld/>is multe da sentencoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Pre; 12:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i poezia&jcirc;ojn, tragedion
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi pagos la voja&gcirc;on, kaj vi poste <tld/>os priskribon de la voja&gcirc;o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La ombro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni ne povas legi la unuajn partojn <klr>(de la romano)</klr>, &ccirc;ar ili estas
+        <tld/>itaj en lingvo, kiun ni ne lernis
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Turgardisto Ole</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i <klr>[&#8230;]</klr> kantis la &ccirc;arman versa&jcirc;on, kiun &scirc;i mem <tld/>is
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dio de dormo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>into de niaj plej belaj popolaj kantoj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Peco da perlovico</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>adis &ccirc;iujare malgrandan traktaton pri la strigo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sonorilo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Via imperiestra mo&scirc;to tute ne povas prezenti al si, kiaj diversaj mensogoj estas
+        <tld/>ataj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La najtingalo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="auxtor.0i">a&ubreve;tori</ref>,
+      <ref cel="labor.el0i">ellabori</ref>,
+      <ref cel="kompon.0i">komponi</ref>,
+      <ref cel="kre.0i">krei</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_ib;&c_s;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_je;&c_j;&c_k;&c_ib; &c_t;&c_v;&c_o;&c_r;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ps&aacute;t</trd>,
+    <trd>spisovat</trd>,
+    <trd>tvo&rcaron;it lit. d&iacute;lo</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>schaffen</trd>,
+    <trd>sch&ouml;pfen</trd>,
+    <trd>schreiben</trd>,
+    <trd>verfassen</trd>
+  </trdgrp>
+  <trd lng="en">compose</trd>
+  <trdgrp lng="es">
+    <trd>componer</trd>,
+    <trd>escribir<klr> (una obra)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>composer</trd>,
+    <trd>&eacute;crire<klr> (une oeuvre)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&iacute;r <klr tip="ind">(m&udblac;vet)</klr></trd>,
+    <trd>alkot</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>comporre<klr> (un'opera letteraria)</klr></trd>,
+    <trd>scrivere<klr> (un'opera letteraria)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#33879;&#x4F5C;&#12377;&#x308B;  <pr>&#12385;&#12423;&#12373;&#x304F;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x66F8;&#x304F;  <pr>&#x304B;&#x304F;</pr></trd>,
+    <trd>&#21046;&#x4F5C;&#12377;&#x308B;  <pr>&#x305B;&#12356;&#12373;&#x304F;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>schrijven<klr tip="ind"> (v.e. boek)</klr></trd>,
+    <trd>scheppen<klr tip="ind"> (v.e. kunstwerk)</klr></trd>,
+    <trd>componeren</trd>
+  </trdgrp>
+  <trd lng="pt">compor</trd>
+  <trd lng="ru">&c_s;&c_o;&c_ch;&c_i;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>vytvori&tcaron;</trd>,
+    <trd>zlo&zcaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="sl">
+    <trd>pesniti</trd>,
+    <trd>pisateljevati</trd>,
+    <trd>ustvarjati</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>f&ouml;rfatta</trd>,
+    <trd>skriva</trd>,
+    <trd>komponera</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43A;&#x43B;&c_a;&c_d;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_v;&#x43E;&c_r;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_v;&#x43E;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_i;&c_s;&c_a;&c_t;&c_i; (&#x43B;&c_ib;&c_t;&c_je;&c_r;&c_a;&c_t;&c_u;&c_r;&#x43D;&c_i;&c_j; &c_t;&c_v;&c_ib;&c_r; &c_ib; &c_t;.&#x43F;.)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="verk.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="verk.0o.propra">
+    <dif>
+      Arta a&ubreve; scienca <ref tip="super" cel="produk.0o.produktajxo">produkto</ref> de la spirito:
+      <ekz>
+        la <ref cel="manusk.0o">manuskripto</ref> de lia tuta <tld/>o estas finita
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia patro mortis, kiam nur duono de lia <tld/>o estis eldonita
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi tre volonte legas antikvajn utilajn <tld/>ojn, sed mi estas anka&ubreve; amanto de
+        la novaj <tld/>oj, nur ne de la ordinaraj historioj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        koni&gcirc;as majstro la&ubreve; sia <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fino kronas la <tld/>on
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi venis kaj instruis al la skulptisto, ke lia <tld/>o estas nur argilo, nur
+        polvo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>&leftquot;Bela&rightquot;</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>majstro<tld/>o</ind>
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Tri fratoj</lok>
+        </fnt>.
+        <trd lng="hu">mesterm&udblac;</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="juvel.0o">juvelo</ref>,
+      <ref cel="perl.0o">perlo</ref>,
+      <ref cel="trezor.0o">trezoro</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Werk</trd>,
+      <trd>Werkschaffen</trd>,
+      <trd>Schreiben</trd>,
+      <trd>Schriftstellerei</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>m&udblac;</trd>,
+      <trd>alkot&aacute;s</trd>,
+      <trd>&iacute;r&aacute;sm&udblac;</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>kunstwerk</trd>,
+      <trd>werk</trd>,
+      <trd>opus</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_s;&c_o;&c_ch;&c_i;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_t;&c_r;&c_u;&c_d;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="verk.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="super" cel="rezult.0o">Rezulto</ref> de agado:
+      <ekz>
+        la atako kontra&ubreve; la temploj <klr>[&#8230;]</klr> tio estas la <tld/>o de Fenicianoj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro 16a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kelkdeko da tagoj sufi&ccirc;is, por ke la popolo forgesu, ke &ccirc;iuj
+        <tld/>oj de <nom>Herhor</nom> estis nur plenumo de la intencoj de la juna
+        <klr>[&#8230;]</klr> faraono
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 18a</lok></fnt>;
+      </ekz>
+      <ekz>
+        bela kaj majesta estas Lia <tld/>o <klr>(dia kreo)</klr>, kaj Lia justeco restas
+        eterne
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Psa; 111:3</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Werk</trd>,
+      <trd>Opus</trd>,
+      <trd>Geschriebenes</trd>,
+      <trd>Sch&ouml;pfung</trd>,
+      <trd>&OElig;uvre</trd>
+    </trdgrp>
+    <trd lng="hu">m&udblac;</trd>
+    <trd lng="nl">werk</trd>
+    <trd lng="ru">&c_d;&c_je;&c_l;&c_o; <klr>(&c_ch;&c_mol;&c_i;&c_h;-&c_t;&c_o; &c_r;&c_u;&c_k;)</klr></trd>
+  </snc>
+  <trd lng="be">&c_t;&c_v;&c_o;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>d&iacute;lo</trd>,
+    <trd>kon&aacute;n&iacute;</trd>,
+    <trd>kus</trd>,
+    <trd>skladba</trd>,
+    <trd>spis</trd>,
+    <trd>verk <klr>(hovor.)</klr></trd>,
+    <trd>v&yacute;tvor</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>obra<klr> (literaria, musical)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&oelig;uvre</trd>,
+    <trd>ouvrage</trd>
+  </trdgrp>
+  <trd lng="it">opera</trd>
+  <trdgrp lng="ja">
+    <trd>&#33879;&#x4F5C;  <pr>&#12385;&#12423;&#12373;&#x304F;</pr></trd>,
+    <trd>&#33879;&#x66F8;  <pr>&#12385;&#12423;&#12375;&#12423;</pr></trd>,
+    <trd>&#x4F5C;&#x54C1;  <pr>&#12373;&#x304F;&#12402;&#12435;</pr></trd>,
+    <trd>&#12375;&#x308F;&#12374;</trd>,
+    <trd>&#25152;&#x696D;  <pr>&#12375;&#12423;&#x304E;&#12423;&#12358;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>obra</trd>,
+    <trd>trabalho</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dielo</trd>,
+    <trd>skladba</trd>,
+    <trd>spis</trd>,
+    <trd>v&yacute;tvor</trd>
+  </trdgrp>
+  <trd lng="sv">verk</trd>
+  <trd lng="uk">&c_t;&c_v;&c_ib;&c_r;</trd>
+</drv>
+
+<drv mrk="verk.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="verk.0aro.abstrakta">
+    <dif>
+      Tuto da <tld/>oj de koncerna a&ubreve;toro:
+      <ekz>
+        Cicerono finis sian tutan <tld/>aron pri retoriko per la konkludo, ke vere
+        perfekta oratoro devas samtempe esti perfekta homo
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Racine</nom> uzis en &ccirc;iuj siaj <tld/>oj nur 6&#x202F;000 vortojn,
+        dum la <tld/>aro de <nom>Victor Hugo</nom> estis skribita, la&ubreve; kelkaj, per 20&#x202F;000
+        vortoj
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el &ccirc;i tiu nigra listo oni povas ekscii, kies <tld/>aro estis malpermesita en la
+        tiama Germanio
+        <fnt>
+          <aut>Grigorij Arosev</aut>
+          <vrk><url ref="&Monato;/2002/007924.html">&leftquot;Mi ja a&ubreve;das la
+          muzikon!&rightquot;</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/11, p. 24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_t;&c_r;&c_u;&c_d;&c_y; <klr>(&c_n;&c_a;&c_u;&c_ch;&c_n;&c_y;&c_je; &c_i; &c_t;.&c_p;.)</klr></trd>,
+      <trd>&c_t;&c_v;&c_o;&c_r;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;
+      <klr>(&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_ja;)</klr></trd>,
+      <trd>&c_t;&c_v;&c_o;&c_r;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; &c_n;&c_a;&c_s;&c_l;&c_je;&c_d;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="verk.0aro.libroforma">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Kolekto da <tld/>oj de koncerna a&ubreve;toro, en formo de libro a&ubreve;
+      de libroserio:
+      <ekz>
+        &ccirc;io trovi&gcirc;as en &leftquot;Originala <tld lit="V"/>aro&rightquot;, 1929
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        biografio de <nom>Zamenhof</nom> <tld/>ita de s-ro <nom>Ito Kanzi</nom> surbaze de
+        lia Plena <tld lit="V"/>aro de <nom>Zamenhof</nom>
+        <fnt>
+          <bib>LOdE</bib>
+          <vrk>Japanio plu aktivas eldone</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Werkausgabe</trd>
+    <trd lng="ru">&c_s;&c_o;&c_b;&c_r;&c_a;&c_n;&c_i;&c_je; &c_s;&c_o;&c_ch;&c_i;&c_n;&c_je;&c_n;&c_i;&c_j;</trd>
+  </snc>
+  <trd lng="be">&c_z;&c_b;&c_o;&c_r; &c_t;&c_v;&c_o;&c_r;&c_a;&c_w;</trd>
+  <trdgrp lng="cs">
+    <trd>liter&aacute;rn&iacute; d&iacute;lo</trd>,
+    <trd>sebran&eacute; spisy</trd>
+  </trdgrp>
+  <trd lng="es">obras completas</trd>
+  <trd lng="fr">&oelig;uvres compl&egrave;tes</trd>
+  <trd lng="hu">(vki) <ind>m&udblac;vei</ind></trd>
+  <trdgrp lng="it">
+    <trd><ind>opera</ind> completa</trd>
+    <trd>bibliografia<klr> (insieme delle opere)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#33879;&#x4F5C;&#x96C6;  <pr>&#12385;&#12423;&#12373;&#x304F;&#12375;&#12421;&#12358;</pr></trd>
+  <trdgrp lng="sk">
+    <trd>s&uacute;hrn diel</trd>,
+    <trd>zobran&eacute; diela</trd>
+  </trdgrp>
+  <trd lng="uk">&c_z;&c_ib;&c_b;&c_r;&c_a;&#x43D;&#x43D;&#x44F; &c_t;&c_v;&#x43E;&c_r;&c_ib;&c_v;</trd>
+</drv>
+
+<drv mrk="verk.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="verk.0ejo.KOMUNE">
+    <dif>
+      Loko, kie iu <tld/>as;
+      <ref tip="vid" cel="kabine.0o.pensejo">kabineto</ref>,
+      <ref tip="vid" cel="atelier.0o">ateliero</ref>:
+      <ekz>
+         kelkaj ideoj ne tuj transformi&gcirc;as al verko; ili restas notite,
+         a&ubreve; en fora anguleto de la cerbo, &gcirc;is oportunaj tempo a&ubreve; cirkonstancoj
+         revenigas ilin <klr>[&#8230;]</klr> al la verkejo
+        <fnt>
+          <aut>J. Camacho</aut>
+          <vrk>En la profundo</vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">atelier</trd>
+</drv>
+
+<drv mrk="verk.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="verk.0ilo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Tekstotraktilo disponiganta rimedojn por oportuna <tld/>ado de
+      diversaj tekstoj, i.a. tekstan
+      <ref tip="prt" cel="redakt.0ilo">redaktilon</ref>,
+      <ref tip="prt" cel="liter.0umilo">literumilon</ref>, a&ubreve;tomatan
+      kompiladon de indekso, enhavtabelo, diversaj referencaroj ktp.:
+      <ekz>
+        <nom>iPhone 3G</nom> <klr>[&#8230;]</klr> posedas iun bazan teksto<tld/>ilon
+        <fnt>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/2008/009612.php">Inteligenta po&scirc;amiko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2008/10, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plimulto da modernaj literumiloj <klr>[&#8230;]</klr> uzataj en la modernaj <tld/>iloj
+        uzas por Esperanto adapta&jcirc;ojn de <klr>[&#8230;]</klr> <nom>Ispell</nom>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=387434">Ispell</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a; &c_a;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_k;&c_ib; &c_t;&c_e;&c_k;&c_s;&c_t;&c_a;&c_w;</trd>,
+    <trd>&c_t;&c_e;&c_s;&c_t;&c_a;&c_v;&c_y; &c_r;&c_e;&c_d;&c_a;&c_k;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trd lng="cs">textov&yacute; procesor</trd>
+  <trd lng="de">Textverarbeitungsprogramm</trd>
+  <trd lng="en">word processor</trd>
+  <trd lng="es">procesador de textos</trd>
+  <trdgrp lng="fr">
+    <trd>traitement de texte</trd>
+  </trdgrp>
+  <trd lng="hu">sz&ouml;vegszerkeszt&odblac;</trd>
+  <trd lng="it">word processor</trd>
+  <trd lng="ja">&#x30EF;&#x30FC;&#x30D7;&#x30ED;</trd>
+  <trd lng="nl">tekstverwerker</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a; &c_p;&c_o;&c_d;&c_g;&c_o;&c_t;&c_o;&c_v;&c_k;&c_i; &c_t;&c_je;&c_k;&c_s;&c_t;&c_o;&c_v;</trd>,
+    <trd>&c_t;&c_je;&c_k;&c_s;&c_t;&c_o;&c_v;&c_y;&c_j; &c_p;&c_r;&c_o;&c_c;&c_je;&c_s;&c_s;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">textov&yacute; procesor</trd>
+  <trd lng="sv">ordbehandlare</trd>
+</drv>
+
+<drv mrk="verk.0isto">
+  <kap><ofc>*</ofc><tld/>isto</kap>
+  <snc mrk="verk.0isto.KOMUNE">
+    <dif>
+      Homo profesie <tld/>anta; a&ubreve;toro:
+      <ekz>
+        <tld/>isto <tld/>as librojn
+        <fnt><bib>F</bib>, <lok>&FE; 37</lok></fnt>;
+      </ekz>
+      <ekz>
+        kant<tld/>isto
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 23:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        franca tragedi<tld/>isto
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i estas ver&scirc;ajne fabelo de la libro<tld/>istoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La najtingalo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la granda <tld/>isto kaj filozofo Leono <nom>Tolstoj</nom> <klr>[&#8230;]</klr> diris pri la
+        lingvo Esperanto jenon <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Adamo <nom>Rudzinski</nom> estis <tld/>isto, kiu preska&ubreve; ekskluzive dedi&ccirc;is sin al
+        esplorado de demandoj sociaj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la malnobla satira <tld/>isto de tiu &ccirc;i libro diras, ke maljunaj homoj havas
+        grizajn barbojn
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_a;&c_w;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trd lng="cs">spisovatel</trd>
+  <trdgrp lng="de">
+    <trd>Schriftsteller</trd>,
+    <trd>K&uuml;nstler</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>artista</trd>,
+    <trd>compositor</trd>,
+    <trd>escritor</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>artiste</trd>,
+    <trd>compositeur</trd>,
+    <trd>&eacute;crivain</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szerz&odblac;</trd>,
+    <trd>alkot&oacute;</trd>,
+    <trd>&iacute;r&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>artista</trd>,
+    <trd>autore</trd>,
+    <trd>compositore</trd>,
+    <trd>scrittore</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F5C;&#x5BB6;  <pr>&#12373;&#12387;&#x304B;</pr></trd>,
+    <trd>&#33879;&#x4F5C;&#x5BB6;  <pr>&#12385;&#12423;&#12373;&#x304F;&#x304B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>schrijver</trd>,
+    <trd>componist</trd>,
+    <trd>kunstenaar</trd>
+  </trdgrp>
+  <trd lng="pt">compositor</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_i;&c_s;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_a;&c_v;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_s;&c_o;&c_ch;&c_i;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>autor</trd>,
+    <trd>liter&aacute;t</trd>,
+    <trd>spisovate&lcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>f&ouml;rfattare</trd>,
+    <trd>komposit&ouml;r</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&c_i;&c_s;&#x44C;&#x43C;&c_je;&#x43D;&#x43D;&c_i;&#x43A;</trd>
+</drv>
+
+<drv mrk="verk.cxef0o">
+  <kap>&ccirc;ef<tld/>o</kap>
+  <snc mrk="verk.cxef0o.KOMUNE">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Grava <tld/>o en iu arto, stilo, lando a&ubreve; de iu homo:
+      <ekz>
+        grava &ccirc;ef<tld/>o, kiun &ccirc;iu Esperantisto devos posedi
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        montri al alinacianoj, kiel belaj estas la &ccirc;ef<tld/>oj de nia
+        landa kulturo
+        <fnt><bib>Plumamikoj</bib>, <lok>tradukoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;ef<tld/>o de <nom>Bram Stoke</nom>r, kaj la plej populara, estis <nom>Dracula</nom>
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2005/008717.php">Bram Stoker, kreinto de
+          Dracula</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/11, p. 15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en 1896 aperis en la germana lingvo lia &ccirc;ef<tld/>o <nom>Der Judenstaat</nom> (La juda
+        &scirc;tato), rigardata kiel la fundamento de politika cionismo
+        <fnt>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2004/008412.html">Placo-malpla&ccirc;o</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/10, p. 15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Cherpillod</nom> liveras al la franclingva esperantistaro gramatikan &ccirc;ef<tld/>on,
+        similan al la famaj <nom>PMEG</nom> kaj <nom>PAG</nom>
+        <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2011/010411.php">La gramatikiloj de Esperanto la&ubreve;
+          ABC</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/12, p. 24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_l;&c_o;&c_w;&c_n;&c_y; <ind>&c_t;&c_v;&c_o;&c_r;</ind></trd>,
+    <trd>&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_t;&c_v;&c_o;&c_r;</ind></trd>
+  </trdgrp>
+  <trd lng="de">Hauptwerk</trd>
+  <trd lng="es">obra maestra</trd>
+  <trd lng="fr">chef d'&oelig;uvre</trd>
+  <trd lng="it">capolavoro</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E3B;&#35201;&#x4F5C;&#x54C1;  <pr>&#12375;&#12421;&#12424;&#12358;&#12373;&#x304F;&#12402;&#12435;</pr></trd>,
+    <trd>&#x4E3B;&#33879;  <pr>&#12375;&#12421;&#12385;&#12423;</pr></trd>,
+    <trd>&#x4EE3;&#34920;&#x4F5C;  <pr>&#12384;&#12356;&#12402;&#12423;&#12358;&#12373;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_sh;&c_je;&c_d;&c_je;&c_v;&c_r;</trd>
+</drv>
+
+<drv mrk="verk.referenc0o">
+  <kap>referenc<tld/>o</kap>
+  <snc mrk="verk.referenc0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <tld lit="V"/>o kolektanta kaj sisteme prezentanta scia&jcirc;ojn pri iu temo,
+      kun mencio de informfontoj; a&ubreve; <tld/>o ofte uzata kiel referenco pri tiu temo:
+      <ekz>
+        plej klaraj ekzemploj de hiperteksta konstruo estas
+        referenc<tld/>oj
+        <fnt>
+          <aut>J. C. Wells</aut>,
+          <vrk><url ref="http://www.phon.ucl.ac.uk/home/wells/html-ttt/menuo1.htm">
+          Hiperteksto kaj la Tut-Tera Teksa&jcirc;o</url></vrk>,
+          <lok>1997</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Brockhaus Enzyklop&auml;die</nom>, la plej bone konata tradicia referenc<tld/>o en
+        German-parolantaj landoj
+        <fnt>
+          <vrk><url ref="&Viki;/Referencverko">Referencverko -
+          Vikipedio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Plena Manlibro de Esperanta Gramatiko <klr>[estas]</klr> nuntempe la &ccirc;efa kaj
+        plej kompleta referenc<tld/>o pri la gramatiko de Esperanto
+        <fnt>
+          <vrk><url
+          ref="https://forum.duolingo.com/comment/10129343/AMA-with-Bertilo-Wennergren-rock-star-grammarian">AMA
+          with Bertilo Wennergren, rock star grammarian - Duolingo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="encikl1.0o.TIP">enciklopedio</ref>,
+      <ref cel="kompen.0o">kompendio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_v;&c_je;&c_d;&c_a;&c_ch;&c_n;&c_a;&c_je; <ind>&c_v;&c_y;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>,
+    <trd>&c_d;&c_a;&c_v;&c_je;&c_d;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="cs">referen&ccaron;n&iacute; d&iacute;lo</trd>
+  <trd lng="de">Referenz<klr>(werk)</klr></trd>
+  <trd lng="es">obra de referencia</trd>
+  <trd lng="fr">ouvrage de r&eacute;f&eacute;rence</trd>
+  <trd lng="sk">referen&ccaron;n&eacute; dielo</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.41 2023/10/21 21:21:01
+Jeromo Vasxe: + ~ejo
+
+versio 1.40 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.38 2023/08/02 08:29:45
+Dmitri Gabinski: + trd be
+
+versio 1.37 2023/06/28 12:54:07
+Dmitri Gabinski: + trd be
+
+versio 1.36 2023/05/13 07:22:52
+Paul Peeraerts: kor de erara url
+
+versio 1.35 2023/05/06 15:12:06
+revo: aktualigo URL-unuoj
+
+versio 1.34 2023/01/22 13:30:01
+Ulrich Fellmann: verko: +6 pliaj DE trdj, forstreko de unu, alilokigo de 2 trdj
+
+versio 1.33 2022/05/06 12:17:21
+-->
+</vortaro>

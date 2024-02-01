@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: stimul.xml,v 1.27 2023/11/19 03:26:24 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>stimul</rad>/i <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="stimul.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="stimul.0i.iu">
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Peni por ke iu jam aganta agu pli vigle:
+      <ekz>
+        li <tld/>is la ju&gcirc;istojn en la afero de <nom>Chalais</nom>
+        <fnt>
+          <bib>IKr</bib>
+          <lok>Tri Musketeroj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la eldonita ordono <tld/>is kaj vigligis lin
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XXXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        homoj, armitaj per vipoj, kies devo estis vipi kaj <tld/>i la batalantojn
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LVI</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="stimul.0i.io">
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Plivigligi la aktivecon de iu a&ubreve; io:
+      <ekz>
+        la cerbo <klr>[&#8230;]</klr> obtuzigite de teruro, malkapablis labori, tamen per
+        grandega peno li <tld/>is sin
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la entuziasmo kaj freneza fervoro de la amasoj <tld/>is lian propran frenezon
+        <fnt>
+          <bib>QuV</bib>
+          <lok>Epilogo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne&ubreve;trala, supernacia interkomprenilo &ndash; formas kaj <tld/>as la tuthoman,
+        universalan solidarecon
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Aldono</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="agit.0i">agiti</ref>,
+    <ref cel="ekscit.0i">eksciti</ref>,
+    <ref cel="emoci.0i">emocii</ref>,
+    <ref cel="incit.0i">inciti</ref>,
+    <ref cel="instig.0i">instigi</ref>,
+    <ref cel="irit.0i">iriti</ref>,
+    <ref cel="fervor.0igi">fervorigi</ref>,
+    <ref cel="spron.0i">sproni</ref>
+  </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_y;&c_m;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_m;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_a;&c_h;&c_v;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>podn&iacute;tit</trd>,
+    <trd>povzbudit</trd>,
+    <trd>stimulovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>stimulieren</trd>,
+    <trd>anregen</trd>,
+    <trd>anreizen</trd>,
+    <trd>antreiben</trd>,
+    <trd>vorantreiben</trd>,
+    <trd>anstacheln</trd>,
+    <trd>anspornen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>boost</trd>,
+    <trd>stimulate</trd>
+  </trdgrp>
+  <trd lng="fr">stimuler</trd>
+  <trdgrp lng="hu">
+    <trd>sarkall</trd>,
+    <trd>&ouml;szt&ouml;n&ouml;z</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6FC0;&#x52B1;&#12377;&#x308B;  <pr>&#12370;&#x304D;&#x308C;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x52B1;&#x307E;&#12377;  <pr>&#x306F;&#12370;&#x307E;&#12377;</pr></trd>,
+    <trd>&#x523A;&#x6FC0;&#12377;&#x308B;  <pr>&#12375;&#12370;&#x304D;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>stimuleren</trd>,
+    <trd>aansporen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pobudza&cacute;</trd>,
+    <trd>stymulowa&cacute;</trd>,
+    <trd>zach&eogonek;ca&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_i;&c_m;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_b;&c_u;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>podnecova&tcaron;</trd>,
+    <trd>povzbudzova&tcaron;</trd>,
+    <trd>stimulova&tcaron;</trd>,
+    <trd>vzpru&zcaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_i;&c_m;&c_u;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_s;&c_t;&c_i;&c_m;&c_u;&c_l;</trd>,
+    <trd>&c_p;&c_o;&c_sh;&c_t;&c_o;&c_v;&c_h;</trd>,
+    <trd>&c_s;&c_p;&c_o;&c_n;&c_u;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stimul.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stimul.0o.KOMUNE">
+    <dif>
+      Ago <tld/>o kaj ties rezulto:
+      <ekz>
+        <klr>[tiu]</klr> komuna ideo <klr>[&#8230;]</klr> estas la tuta <tld/>o de ilia
+        laborado
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> rakontis al siaj laborkamaradoj pri sia interparolo
+        <klr>[&#8230;]</klr> kaj tio donis novan <tld/>on al la kla&ccirc;ado
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiom ajn mi ricevos anta&ubreve;e, &gcirc;i estos por mi nur <tld/>o
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+<trdgrp lng="en">
+  <trd>simulation</trd>,
+  <trd>stimulus</trd>
+</trdgrp>
+  <trdgrp lng="de">
+    <trd>Anregung</trd>,
+    <trd>Ansporn</trd>,
+    <trd>Antrieb</trd>,
+    <trd>Reiz</trd>
+  </trdgrp>
+  </snc>
+  <snc mrk="stimul.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Ekstera apera&jcirc;o, kiu instigas al iu agado:
+      <ekz>
+        <nom>R. Yerkes</nom> kaj <nom>E. L. Thorndike</nom> <klr>[&#8230;]</klr>
+        esploris la respondajn agojn de bestoj kontra&ubreve;
+        simplaj fizikaj <tld/>oj
+        <fnt>
+          <aut>J. &Scirc;uvajev</aut>,
+          <vrk><url ref="&STEB;zoologio/konduto_de_bestoj/f874-p30.htm">
+          Pri la konduto de bestoj</url></vrk>,
+          <lok>Fokuso, 1987:1, p. 2a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili neniam spertas ekstazon, eksciton a&ubreve; <tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj'</aut>
+          <vrk><url ref="&Monato;/2015/011355.php">Komunika&jcirc;o de Ikaro</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="irit.0o.MED">irito<sncref/></ref>,
+      <ref cel="refleks.0o.BIO">reflekso</ref>
+    </refgrp>
+  <trdgrp lng="de">
+    <trd>Stimulus</trd>,
+    <trd>Stimulation</trd>
+  </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_y;&c_m;&c_u;&c_l;</trd>,
+    <trd>&c_p;&c_a;&c_b;&c_u;&c_d;&c_zh;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>podn&ecaron;t</trd>,
+    <trd>popud</trd>,
+    <trd>stimul</trd>,
+    <trd>stimulace</trd>,
+    <trd>vzpruha</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>stimulation</trd>,
+    <trd>stimulus</trd>
+  </trdgrp>
+  <trd lng="hu">&ouml;szt&ouml;nz&eacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6FC0;&#x52B1;  <pr>&#12370;&#x304D;&#x308C;&#12356;</pr></trd>,
+    <trd>&#x52B1;&#x307E;&#12375;  <pr>&#x306F;&#12370;&#x307E;&#12375;</pr></trd>,
+    <trd>&#x523A;&#x6FC0;  <pr>&#12375;&#12370;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">bodziec  <klr>(podnieta)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>podnet</trd>,
+    <trd>popud</trd>,
+    <trd>stimul</trd>,
+    <trd>vzpruha</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_t;&c_i;&c_m;&c_u;&c_l;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_i;&c_m;&c_u;&c_l;</trd>,
+    <trd>&c_p;&c_o;&c_sh;&c_t;&c_o;&c_v;&c_h;</trd>,
+    <trd>&c_s;&c_p;&c_o;&c_n;&c_u;&c_k;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stimul.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="stimul.0igxi.KOMUNE">
+    <dif>
+      Pro <tld/>oj
+      <ref tip="vid" cel="vigl.0igxi.KOMUNE">vigli&gcirc;i</ref>,
+      instigi&gcirc;i al ago a&ubreve; reago:
+      <ekz>
+        la entuziasmo de la militistoj anka&ubreve; <tld/>i&gcirc;is kun la
+        proksimi&gcirc;o de la printempo
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk>La Granda Kaldrono</vrk>,
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+<trdgrp lng="en">
+  <trd>become stimulated</trd>,
+  <trd>get fired up (slang)</trd>
+</trdgrp>
+  <trd lng="be">&c_s;&c_t;&c_y;&c_m;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd><ind>stimuliert</ind> werden</trd>,
+    <trd><ind>angeregt</ind> werden</trd>
+  </trdgrp>
+  <trd lng="fr">se trouver <ind>stimul&eacute;</ind></trd>
+  <trdgrp lng="pl">
+    <trd>pobudzi&cacute; si&eogonek;</trd>,
+    <trd>stymulowa&cacute; si&eogonek;</trd>,
+    <trd>dostawa&cacute; kopa</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/11/19 03:26:24
+Matt Brooks: +en traduko
+
+versio 1.26 2023/10/29 09:24:48
+Wolfram Diestel: fnt JED
+
+versio 1.25 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.24 2023/10/20 01:24:51
+Vito Redsky: +trd pl
+
+versio 1.22 2023/04/11 18:56:02
+aktualigo Monato-URL
+
+versio 1.21 2022/05/20 17:33:59
+Wolfram Diestel: +ekz-oj, ref-oj, trd de ; ~o snc KOMUNE
+
+versio 1.20 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2021/12/21 09:32:36
+-->
+</vortaro>

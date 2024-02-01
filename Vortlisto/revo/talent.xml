@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: talent.xml,v 1.31 2023/10/21 13:02:26 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>talent</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="talent.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="talent.0o.kapablo">
+    <dif>
+      Eminenta aparta spirita <ref tip="super" cel="kapabl.0o">kapablo</ref>, &ccirc;u donacita de naturo,
+      &ccirc;u akirita per laboro:
+      <ekz>
+        poeta <tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tiu]</klr> laboras en sa&gcirc;o, scienco, kaj <tld/>o, kaj li devas fordoni
+        sian akiron al homo, kiu ne laboris por &gcirc;i
+        <fnt>
+          <bib>MT</bib>
+          <lok>Predikanto 2:21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pentristo eltrovis la <tld/>on, kiam <klr>[&#x2026;]</klr> la malgrandan mopson li
+        ligis kaj faris modelo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Kupra porko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia oratora <tld/>o lin forlasis
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Johan&ccirc;jo-malsa&gcirc;ulo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        knabo, vi havas specialan <tld/>on por vagado
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        oni rigardis la nomon, ne la donon, la veston, ne la homon, la profesion, ne la
+        <tld/>on
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Jo&ccirc;jo havas specialan <tld/>on por enami&gcirc;i al virinoj pli a&gcirc;aj ol li
+        <fnt>
+          <bib>ChV</bib>
+          <lok>3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni &ccirc;iuj havas malsamajn <tld/>ojn kaj ta&ubreve;gas por
+        malsamaj laboroj
+        <fnt>
+          <aut>B. Sandelin</aut>,
+          <vrk>Anta&ubreve;merkantilisma ekonomia pensado</vrk>,
+          <bib>Monato</bib>, <lok>2001:2, p. 16a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="geni.0o.intelekto">genio<sncref/></ref>,
+      <ref cel="kapabl.0eco">kapableco</ref>,
+      <ref cel="kompet.0eco">kompetenteco</ref>
+    </refgrp>
+    <trd lng="be">&c_t;&c_a;&c_l;&c_je;&c_n;&c_t;</trd>
+    <trdgrp lng="de">
+      <trd>Talent <klr>(Gabe)</klr></trd>,
+      <trd>Gabe <klr>(Talent)</klr></trd>,
+      <trd>Begabtheit</trd>,
+      <trd>Veranlagung</trd>
+    </trdgrp>
+    <trd lng="fa">&a_A;&a_s;&a_t;&a_ayn;&a_d;&a_A;&a_d;</trd>
+    <trd lng="nl">talent</trd>
+    <trdgrp lng="hu">
+      <trd>tehets&eacute;g</trd>,
+      <trd>talentum</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>talent</trd>,
+      <trd>uzdolnienie</trd>
+    </trdgrp>
+    <trdgrp lng="sv">
+      <trd>beg&aring;vning</trd>,
+      <trd>talang</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="talent.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="talant.0o">Talanto</ref>:
+      <ekz>
+        mi donos por vi dek <tld/>ojn en oro, kvardek bovinojn kaj cent mezurojn da
+        tritiko
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;</trd>
+    <trd lng="de">Talent <klr>(Ma&szlig;einheit, W&auml;hrung)</klr></trd>
+    <trd lng="hu">talentum</trd>
+  </snc>
+  <trd lng="ca">talent</trd>
+  <trdgrp lng="cs">
+    <trd>nad&aacute;n&iacute;</trd>,
+    <trd>schopnosti</trd>,
+    <trd>talent</trd>,
+    <trd>vlohy</trd>
+  </trdgrp>
+  <trd lng="fr">talent</trd>
+  <trdgrp lng="ja">
+    <trd>&#x624D;&#x80FD;  <pr>&#x3055;&#x3044;&#x306E;&#x3046;</pr></trd>,
+    <trd>&#x5929;&#x5206;  <pr>&#x3066;&#x3093;&#x3076;&#x3093;</pr></trd>,
+    <trd>&#x624B;&#x8155;  <pr>&#x3057;&#x3085;&#x308F;&#x3093;</pr></trd>,
+    <trd>&#x8155;&#x524D;  <pr>&#x3046;&#x3067;&#x307E;&#x3048;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>talento</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>nadanie</trd>,
+    <trd>talent</trd>,
+    <trd>vlohy</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;</trd>,
+    <trd>&c_h;&c_i;&c_s;&c_t;</trd>,
+    <trd>&c_d;&c_a;&c_r;</trd>,
+    <trd>&c_o;&c_b;&c_d;&c_a;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="talent.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="talent.0a.KOMUNE">
+    <dif>
+      Montranta <tld/>on por iu tasko, pri iu fako:
+      <ekz>
+        majstra laboro, <klr>[&#x2026;]</klr> <tld/>a brodado sur teksa&jcirc;o blua kaj purpura
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 35:35</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        transmeti&gcirc;o el naturo ordinara en naturon <tld/>an estas kaj restas malfacila
+        transiro
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        farita de lerta kaj inspirita mano de <tld/>a desegnisto
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        artikolo verkita de la <tld/>a plumo de mia bofrato
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a satiristo
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj publikaj paroloj
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        grand<tld/>a aktoro
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Oka</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li restis en la konscio de nia jarcento kiel la plej <tld/>a skota
+        prozverkisto
+        <fnt>
+          <aut>N. Macovei</aut>,
+          <vrk>Arkitekto de la platona respubliko</vrk>,
+          <bib>Monato</bib>, <lok>1995:8, p. 23a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mizero havas <tld/>an kapon
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_l;&c_je;&c_n;&c_a;&c_v;&c_ib;&c_t;&c_y;</trd>
+  <trd lng="bo">&t_ma;&t_kha;&t_sa;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
+  <trd lng="ca">talent&oacute;s</trd>
+  <trdgrp lng="cs">
+    <trd>nadan&yacute;</trd>,
+    <trd>talentovan&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>talentiert</trd>,
+    <trd>begabt</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_A;&a_A;&a_s;&a_t;&a_ayn;&a_d;&a_A;&a_d;</trd>,
+    <trd>&a_m;&a_s;&a_t;&a_ayn;&a_d;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>dou&eacute;</trd>,
+    <trd>talentueux</trd>
+  </trdgrp>
+  <trd lng="hu">tehets&eacute;ges</trd>
+  <trdgrp lng="ja">
+    <trd>&#x624D;&#x80FD;&#x306E;&#x3042;&#x308B;  <pr>&#x3055;&#x3044;&#x306E;&#x3046;&#x306E;&#x3042;&#x308B;</pr></trd>,
+    <trd>&#x8155;&#x306E;&#x3042;&#x308B;  <pr>&#x3046;&#x3067;&#x306E;&#x3042;&#x308B;</pr></trd>,
+    <trd>&#x6709;&#x80FD;&#x306A;  <pr>&#x3086;&#x3046;&#x306E;&#x3046;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>utalentowany</trd>,
+    <trd>uzdolniony</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;&c_l;&c_i;&c_v;&c_y;&c_j;
+  </trd>
+  <trdgrp lng="sk">
+    <trd>nadan&yacute;</trd>,
+    <trd>talentovan&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_a;&c_l;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_o;&c_b;&c_d;&c_a;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="talent.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="talent.0ulo.KOMUNE">
+    <dif>
+      Persono kun granda kapablo pri iu arto:
+      <ekz>
+        mi vidis <klr>[ke]</klr> ne la sa&gcirc;uloj havas panon, kaj ne la <tld/>uloj havas
+        ri&ccirc;econ
+        <fnt>
+          <bib>MT</bib>
+          <lok>Predikanto 9:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi tute ne scias, ke mi estas <tld/>ulo
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        doma&gcirc;e estus lasi tian <tld/>ulon perdi&gcirc;i en &hcirc;imeroj
+        <fnt>
+          <bib>VivZam</bib>
+          <lok>Vivo de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        verk<tld/>ulo
+        <fnt>
+        <aut>D. Broadribb</aut>,
+          <vrk>Inter la dek plej bonaj romanoj</vrk>,
+          <bib>Monato</bib>, <lok>2000:11, p. 26a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="eksper1.0o">eksperto</ref>,
+      <ref cel="geni.0ulo">geniulo</ref>,
+      <ref cel="kapabl.0ulo">kapablulo</ref>,
+      <ref cel="kompet.0ulo">kompetentulo</ref>,
+      <ref cel="lert.0ulo">lertulo</ref>,
+      <ref cel="majstr.0o.lertulo">majstro<sncref/></ref>,
+      <ref cel="virtuo.0o">virtuozo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_l;&c_je;&c_n;&c_t; <klr>(&c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;)</klr></trd>
+  <trd lng="ca">geni</trd>
+  <trd lng="cs">talentovan&yacute; <klr>(nadan&yacute;)</klr> &ccaron;l.</trd>
+  <trdgrp lng="de">
+    <trd><ind>talentiert</ind>e Person</trd>,
+    <trd>Talent <klr>(Person)</klr></trd>,
+    <trd>Begabter</trd>
+  </trdgrp>
+  <trd lng="fa">&a_sh;&a_kh;&a_S; <ind>&a_b;&a_A;&a_A;&a_s;&a_t;&a_ayn;&a_d;&a_A;&a_d;</ind></trd>
+  <trdgrp lng="fr">
+    <trd>g&eacute;nie</trd>,
+    <trd>virtuose</trd>
+  </trdgrp>
+  <trd lng="hu">tehets&eacute;ges ember</trd>
+  <trdgrp lng="ja">
+    <trd>&#x624D;&#x4EBA;  <pr>&#x3055;&#x3044;&#x3058;&#x3093;</pr></trd>,
+    <trd>&#x6280;&#x80FD;&#x8005;  <pr>&#x304E;&#x306E;&#x3046;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x4EBA;&#x6750;  <pr>&#x3058;&#x3093;&#x3056;&#x3044;</pr></trd>,
+    <trd>&#x30BF;&#x30EC;&#x30F3;&#x30C8;  <pr>&#x305F;&#x308C;&#x3093;&#x3068;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>talent<klr> (o cz&lstroke;owieku)</klr></trd>,
+    <trd>kto&sacute; <ind>utalentowany</ind></trd>,
+    <trd>zdolniacha<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;<klr>
+  (&c_o; &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;&c_je;)</klr></trd>
+  <trd lng="sk">talentovan&yacute; &ccaron;lovek</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_a;&c_l;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_a;/&c_o;&c_b;&c_d;&c_a;&c_r;&c_o;&c_v;&c_a;&c_n;&c_a; &c_l;&c_ju;&c_d;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="talent.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="talent.sen0a.KOMUNE">
+    <dif>
+      Kiu <tld/>on ne havas, ne bone sukcesas en iu kampo:
+      <ekz>
+        mi pruvi&gcirc;is tre sen<tld/>a lernanto
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekkvina &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiutempe neniu &scirc;atis lian stilon, kaj nun &ccirc;iu juna sen<tld/>a pentremulo volas
+        lin imiti
+        <fnt>
+          <bib>ChV</bib>
+          <lok>17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Wolfgang</nom>, akompanata de grupo da sen<tld/>aj dancantinoj, la&ubreve;te frapegis
+        malagorditan gitaron
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2008/009326.php">Analoj de Bailenambeann</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la amuza distra vespero <klr>[&#x2026;]</klr> mi &scirc;ajne estis la sola
+        sen<tld/>a kongresano
+        <fnt>
+          <aut>C. Hunter</aut>,
+          <vrk><url ref="http://esperanto.org.uk/lbe/arkivo/965/05.html">
+          Kongreso &gcirc;uinda</url></vrk>,
+          <lok>La Brita Esperantisto, 2008 a&ubreve;tuno</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">bez talentu <klr>(adj.)</klr></trd>
+  <trdgrp lng="de">
+    <trd>untalentiert</trd>,
+    <trd>unbegabt</trd>
+  </trdgrp>
+  <trd lng="fr">m&eacute;diocre<klr> (d&eacute;pourvu de talent)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>nenadan&yacute;</trd>,
+    <trd>netalentovan&yacute;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_b;&c_je;&c_z;&c_d;&c_a;&c_r;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="talent.sen0eco">
+  <kap>sen<tld/>eco</kap>
+  <snc mrk="talent.sen0eco.KOMUNE">
+    <dif>
+      Manko de <tld/>o, de kapablo:
+      <ekz>
+        la gazetaro, radio kaj televido <klr>[&#x2026;]</klr> sen<tld/>econ
+        transformas en tutmondan famecon
+        <fnt>
+          <aut>G. Balkanski</aut>,
+          <vrk><url ref="http://www.rojoynegro.info/articulo/cultura-libre/lernejo-scienco-arto-instrumentoj-la-regpovo-9">
+          La bazoj de anarkiismo</url></vrk>,
+          <lok>1979</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Unbegabtheit</trd>,
+    <trd>Talentlosigkeit</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>m&eacute;diocrit&eacute;</trd>,
+    <trd>absence de <ind>talent</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="talent.sen0ulo">
+  <kap>sen<tld/>ulo</kap>
+  <snc mrk="talent.sen0ulo.KOMUNE">
+    <dif>
+      Homo, kiu ne <tld/>as, ne bone sukcesas:
+      <ekz>
+        el sen<tld/>uloj elkreskos geniulo
+        <fnt>
+          <bib>KFl</bib>
+          <lok>III. Atomoj de evoluo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekzistas lingvaj sen<tld/>uloj
+        <fnt>
+          <aut>I. Kossey</aut>,
+          <vrk>en: <url ref="http://www.liberafolio.org/2014/cu-esperanto-estas-simpla-kaj-facila">
+          &Ccirc;u Esperanto estas simpla kaj facila?</url></vrk>,
+          <lok>2014-05-15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Untalentierter</trd>,
+    <trd>Unbegabter</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>incapable<klr> (subst.)</klr></trd>,
+    <trd>rat&eacute;<klr> (subst.)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/21 13:02:26
+revo: transskribo per <pr>
+
+versio 1.29 2023/08/14 20:27:01
+Wolfram Diestel: +trd de
+
+versio 1.28 2023/04/11 19:23:01
+aktualigo Monato-URL
+
+versio 1.27 2022/07/12 20:31:48
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+Revision 1.23  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/02/10 23:10:15  revo
+Jeromo Vasxe: + sen~a/eco/ulo
+
+Revision 1.21  2013/03/21 20:10:36  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.20  2012/08/13 15:10:45  revo
+-->
+</vortaro>

@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: karika.xml,v 1.29 2023/12/03 08:00:23 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>karikatur</rad>/o
+</kap>
+<drv mrk="karika.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Groteska <ref tip="super" cel="desegn.0ajxo">desegna&jcirc;o</ref>,
+      prezentanta la &ccirc;efajn trajtojn de iu facile
+      rekoneblajn sed malbeligitajn kaj difektitajn per komika
+      <ref tip="prt" cel="tro.0igo">troigo</ref>:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        li levi&gcirc;is de la benko de la rigardantoj kaj prezentis sin,
+        por ke la ridantaj Atenanoj povu kompari, &ccirc;u li kaj lia <tld/>o
+        sur la scenejo estas similaj unu al la alia
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Dorna vojo de la honoro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        super &ccirc;iu fenestro en la balkono estis eltran&ccirc;ita <tld/>a viza&gcirc;o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova domo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la dana gazeto <nom>Jyllands-Posten</nom> permesis eldoni 12 <tld/>ojn pri
+        la profeto Muhamado, desegna&jcirc;oj, kiuj simple pro tio, ke ili bildigis
+        la profeton, ofendis islamanojn tra la tuta mondo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Betty Chatterjee</aut>
+          <vrk><url ref="&Monato;/2006/008923.php">La
+          karikaturoj: kalumnio, kolero kaj iom da kompreno</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        e&ccirc; se la bildo de la diligenta flandro kaj la pigra valono estas
+        nejusta <tld/>o, tamen statistikoj montras, ke samaj le&gcirc;oj kaj
+        reguloj en la nordo kaj la sudo de la lando estas aplikataj la&ubreve; malsamaj kriterioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Guido Van Damme</aut>
+          <vrk><url ref="&Monato;/2007/009157.php">Lando disfalos</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o, skurila sed trafa, en nacia gazeto perfekte kaptis la viziton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2015/011612.php">Vestoj kaj investoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Mi&ccirc;jo Muso, Donaldo Anaso <klr>[&#x2026;]</klr> kreitaj de la <tld/>isto <nom>Walt Disney</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2012/010685.php">Fikciaj fi&scirc;oj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_r;&c_y;&c_k;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="ca">caricatura</trd>
+  <trd lng="cs">karikatura</trd>
+  <trd lng="de">Karikatur</trd>
+  <trdgrp lng="en">
+    <trd>caricature</trd>
+  </trdgrp>
+  <trd lng="es">caricatura</trd>
+  <trd lng="fa">&f_k;&a_A;&a_r;&f_y;&f_k;&a_A;&a_t;&a_w;&a_r;</trd>
+  <trd lng="fr">caricature</trd>
+  <trd lng="hu">karikat&uacute;ra</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8AF7;&#x523A;&#x753B;  <pr>&#x3075;&#x3046;&#x3057;&#x304C;</pr></trd>,
+    <trd>&#x6F2B;&#x753B;  <pr>&#x307E;&#x3093;&#x304C;</pr></trd>,
+    <trd>&#x622F;&#x753B;  <pr>&#x304E;&#x304C;</pr></trd>,
+    <trd>&#x30AB;&#x30EA;&#x30AB;&#x30C1;&#x30E5;&#x30A2;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>spotprent</trd>,
+    <trd>karikatuur</trd>
+  </trdgrp>
+  <trd lng="pl">karykatura</trd>
+  <trd lng="ro">caricatur&abreve;</trd>
+  <trd lng="ru">&c_k;&c_a;&c_r;&c_i;&c_k;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="sk">karikat&uacute;ra</trd>
+  <trd lng="sv">karikatyr</trd>
+  <trd lng="uk">&#x43A;&c_a;&c_r;&c_i;&#x43A;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6F2B;&#x753B; <pr>m&#xE0;nhu&#xE0;</pr></trd>,
+    <trd>&#x6F2B;&#x8A71; <pr>m&#xE0;nhu&#xE0;</pr></trd>,
+    <trd>&#x8AF7;&#x523A;&#x6F2B;&#x756B; <pr>f&#x11B;ngc&#xEC;m&#xE0;nhu&#xE0;</pr></trd>,
+    <trd>&#x8AF7;&#x523A;&#x756B; <pr>f&#xE8;ngc&#xEC;hu&#xE0;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="karika.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Desegni iun kiel <tld/>o:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <nom>Jules Verne</nom> en sia romano <nom>Gil Braltar</nom> karikaturis
+        hispanan etnobelon, kiu intencas dresi la simiojn por konkeri &Gcirc;ibraltaron el Britio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1483">&Gcirc;ibraltaro</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol; &c_k;&c_a;&c_r;&c_y;&c_k;&c_a;&c_t;&c_u;&c_r;&c_u;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol; &c_u; &c_k;&c_a;&c_r;&c_y;&c_k;&c_a;&c_t;&c_u;&c_r;&c_n;&c_y;&c_m; &c_v;&c_y;&c_g;&c_l;&c_ja;&c_d;&c_z;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>caricaturar</trd>,
+    <trd>caricaturitzar</trd>
+  </trdgrp>
+  <trd lng="cs">karikovat</trd>
+  <trd lng="de">karikieren</trd>
+  <trd lng="en">caricature</trd>
+  <trd lng="fa">&f_k;&a_A;&a_r;&f_y;&f_k;&a_A;&a_t;&a_w;&a_r; <klr>(&f_k;&a_s;&f_y; &a_r;&a_A;)
+  </klr>&f_k;&a_sh;&f_y;&a_d;&a_n;</trd>
+  <trd lng="fr">caricaturer</trd>
+  <trd lng="hu">karik&iacute;roz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8AF7;&#x523A;&#x753B;&#x306B;&#x3059;&#x308B;
+    <pr>&#x3075;&#x3046;&#x3057;&#x304C;&#x306B;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6F2B;&#x753B;&#x5316;&#x3059;&#x308B;  <pr>&#x307E;&#x3093;&#x304C;&#x304B;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">karikaturiseren</trd>
+  <trd lng="pl">karykaturowa&cacute;</trd>
+  <trd lng="sk">karikova&tcaron;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/18 14:48:10
+revo: transskribo per <pr>
+
+versio 1.27 2023/09/15 05:25:58
+Wolfram Diestel: pr. ja
+
+versio 1.26 2023/09/13 18:30:37
+Wolfram Diestel: pr. ja
+
+versio 1.24 2023/02/28 07:27:18
+Dmitri Gabinski: + trd be
+
+Revision 1.21  2018/08/31 19:10:15  revo
+Wolfram Diestel: +ekz-oj, vortumo de dif
+
+Revision 1.20  2017/08/03 22:10:17  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+-->
+</vortaro>

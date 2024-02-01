@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: antem.xml,v 1.16 2023/05/10 09:26:14 revo Exp $">
+<kap>
+  <rad>antem</rad>/o
+</kap>
+<drv mrk="antem.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="antem.0o.BOT">
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:botanikaj_genroj" cel="genr.0o.BIO">Genro</ref>
+      el familio <ref tip="super" cel="astera.0oj">asteracoj</ref>
+      (<trd lng="la">Anthemis</trd>), kun &ccirc;. 150 specioj, pluraj 
+      similaspektaj al <ref cel="kamomi.0o">kamomilo</ref>:
+      <ekz>
+        de &ccirc;io bonodoras la vila&gcirc;o: de ligno kaj bovinoj, de pajlo kaj fojno, kaj
+        <klr>[&#8230;]</klr> de <tld/>o kaj urtikoj
+        <fnt>
+          <aut>Karel &Ccaron;apek , trad. Josef Vondrou&scaron;ek</aut>
+          <vrk><url
+          ref="https://azrefs.org/esperantigis-josef-vondrouek.html?page=2">Hordubal</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld
+    lok="&WCU;/thumb/a/a3/Anthemis_arvensis_-_K&ouml;hler&ndash;s_Medizinal-Pflanzen-159.jpg/457px-Anthemis_arvensis_-_K&ouml;hler&ndash;s_Medizinal-Pflanzen-159.jpg"
+    prm="PD">botanika tabulo de Kampa <tld/>o (Anthemis arvensis)
+        <fnt>
+          <aut>Franz Eugen K&ouml;hler, K&ouml;hler's Medizinal-Pflanzen, List of Koehler Images</aut>
+          <lok><url
+          ref="&WCW;/File:Anthemis_arvensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-159.jpg">&WCW;/File:Anthemis_arvensis_-_K&ouml;hler&ndash;s_Medizinal-Pflanzen-159.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_l;&c_o;&c_v;&c_a;&c_je; &c_v;&c_o;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_u;&c_p;&c_o;&c_k; <klr tip="amb">(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">anthem</trd>
+  <trd lng="de">Hundskamille</trd>
+  <trd lng="fr">anth&eacute;mis</trd>
+  <trd lng="hu">pipit&eacute;r</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_n;&c_t;&c_je;&c_m;&c_i;&c_s;</trd>,
+    <trd>&c_p;&c_u;&c_p;&c_a;&c_v;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">anthem</trd>
+  <trd lng="sv">kulla</trd>
+  <trdgrp lng="uk">
+    <trd>&c_je;&#x43D;&c_z;&c_je;&#x43C;</trd>,
+    <trd>&c_a;&#x43D;&c_t;&c_je;&#x43C;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.16 2023/05/10 09:26:14
+Dmitri Gabinski: + trd be
+
+versio 1.15 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.13 2020/11/30 22:35:32
+Wolfram Diestel: ekz, bld, vortumo dif
+
+Revision 1.11  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2014/04/15 11:10:19  revo
+Damien Brucker: +trd fr
+
+Revision 1.9  2002/03/19 17:34:12  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/02/23 19:53:13  revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2001/07/22 18:13:29 revo
+-->
+</vortaro>

@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: alez.xml,v 1.21 2023/10/12 18:05:09 revo Exp $">
+<kap>
+  <rad>alez</rad>/i
+</kap>
+<drv mrk="alez.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      Prilabori la internon de bora&jcirc;o, cilindro, tubo, ktp. per speciala ilo
+      por akuratigi la diametran mezuron (&gcirc;is centonoj de milimetro) kaj akiri
+      tre altan surfacan kvaliton. 
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bor.0i">bori</ref>,
+      <ref cel="rabot.0i">raboti</ref>,
+      <ref cel="polur.0i">poluri</ref>,
+      <ref cel="rasp.0i">raspi</ref>,
+      <ref cel="fajl.0i">fajli</ref>,
+      <ref cel="skrap.0i">skrapi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_t;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>, 
+    <trd>&c_r;&c_a;&c_s;&c_mol;&c_s;&c_mol;&c_v;&c_ib;&c_d;&c_r;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_r;&c_a;&c_j;&c_b;&c_je;&c_r;&c_o;&c_v;&c_a;&c_m;</trd>
+  <trd lng="cs">vystru&zcaron;iti <klr>(kov)</klr></trd>
+  <trd lng="de">reiben</trd>
+  <trd lng="en">ream</trd>
+  <trd lng="fr">al&eacute;ser</trd>
+  <trd lng="he">&#x5DC;&#x5E9;&#x5D9;&#x5D9;&#x5E3;</trd>
+  <trd lng="hu">d&ouml;rzs&aacute;raz</trd>
+  <trd lng="ja">&#x5185;&#x5F84;&#x4ED5;&#x4E0A;&#x3052;&#x3092;&#x3059;&#x308B;  <pr>&#x306A;&#x3044;&#x3051;&#x3044;&#x3057;&#x3042;&#x3052;&#x3092;&#x3059;&#x308B;</pr></trd>
+  <trd lng="nl">ruimen</trd>
+  <trd lng="pt"><ind>brocar</ind> <klr>um cilindro</klr></trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_v;&c_je;&c_r;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>vybr&uacute;si&tcaron; <klr>(valec zvn&uacute;tra)</klr></trd>,
+    <trd>vybr&uacute;si&tcaron; <klr>(napr. valce)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x432;&#x435;&#x440;&#x434;&#x43B;&#x438;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x442;&#x43E;&#x447;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x441;&#x432;&#x435;&#x440;&#x434;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
+</drv>
+<drv mrk="alez.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="instru2.0o">Instrumento</ref>
+      por <tld/>i (diferenca klare de boriloj kaj
+      malkapabla bori):
+      <ekz>
+        plulaborado de denta&jcirc;o &ndash; kiu estis anta&ubreve;e jam per frezado, rabotado a&ubreve;
+        alimaniere prilaborita &ndash;, per <tld/>ilo (per <tld/>ilrado, <tld/>illato a&ubreve;
+        <tld/>il&scirc;neko) por redukti la malglatecon de dentosupra&jcirc;o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=164595">Dentrado</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="rabot.0ilo">rabotilo</ref>,
+       <ref cel="fajl.0ilo">fajlilo</ref>,
+       <ref cel="bor.0ilo">borilo</ref>,
+       <ref cel="alen.0o">aleno</ref>
+    </refgrp>
+    <bld lok="&WCU;/thumb/e/e9/Reibahle_2.JPG/640px-Reibahle_2.JPG" prm="CC0">mana <tld/>ilo por lignaj bora&jcirc;oj uzata &ccirc;e violono
+        <fnt>
+          <aut>Musicologus, propra verko</aut>
+          <lok><url ref="&WCW;/File:Reibahle_2.JPG">&WCW;/File:Reibahle_2.JPG</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_r;&c_d;&c_z;&c_je;&c_l;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_j;&c_b;&c_je;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>V&yacute;stru&zcaron;n&iacute;k</trd>,
+    <trd>v&yacute;stru&zcaron;n&iacute;k</trd>
+  </trdgrp>
+  <trd lng="de">Reibahle</trd>
+  <trd lng="en">reamer</trd>
+  <trd lng="fr">al&eacute;soir</trd>
+  <trd lng="hu">d&ouml;rzs&aacute;r</trd>
+  <trd lng="it">alesatore</trd>
+  <trd lng="ja">&#x30EA;&#x30FC;&#x30DE;&#x30FC;</trd>
+  <trd lng="nl">ruimer</trd>
+  <trd lng="pl">Rozwiertak</trd>
+  <trd lng="pt">mandril</trd>
+  <trd lng="ru">&c_R;&c_a;&c_z;&c_v;&c_jo;&c_r;&c_t;&c_k;&c_a; (&c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;)</trd>
+  <trd lng="sk">br&uacute;ska <klr>(na vybr&uacute;senie valcov)</klr></trd>
+  <trd lng="sv">Brotsch</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.21 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.19 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.15  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/08/07 01:10:19  revo
+Joop Eggen: +trd bg
+
+Revision 1.12  2008/11/02 17:30:54  revo
+Peter Hauser: + trad. cs, de, it, nl, pl, sv / kor. trad. en, nl, ru /
+kompl. klarigon / pt ?!
+
+Revision 1.11  2003/05/18 18:00:33  revo
+Viliam Bur: +trd sk
+
+-->
+</vortaro>

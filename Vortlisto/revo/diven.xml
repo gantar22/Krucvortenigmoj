@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: diven.xml,v 1.107 2023/12/12 19:23:57 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>diven</rad>/i
+</kap>
+<drv mrk="diven.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="diven.0i.malkovri">
+    <dif>
+      Malkovri per supozoj, rezonoj a&ubreve; hazarde ion, kion oni ne
+      jam scias:
+      <ekz>
+        <tld/>i &scirc;aradon, enigmon, penson, intencojn, sekreton;
+      </ekz>
+      <ekz>
+        mi ne povas <tld/>i la ka&ubreve;zon;
+      </ekz>
+      <ekz>
+        por tion <tld/>i ne necesas peni;
+      </ekz>
+      <ekz>
+        kion sa&gcirc;ulo ne komprenas, ofte malsa&gcirc;a <tld/>as
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi proponos al vi enigmon, se vi <tld/>os &gcirc;in <klr>[&#x2026;]</klr>, tiam mi donos al
+        vi tridek &ccirc;emizojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ju&gcirc;istoj 14:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li devas <tld/>i tri aferojn, pri kiuj &scirc;i demandas
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia koro <tld/>as, ke vi, patrino, havas ian planon pri mi
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>is la grandan sekreton de la oceano
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i la karakteron de la persono el la karaktero de &gcirc;ia skribado
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ajnis, ke oni neniam <tld/>os la veron
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto tria</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hipote2.0i">hipotezi</ref>,
+      <ref cel="konjek.0i">konjekti</ref>,
+      <ref cel="supoz.0i">supozi</ref>,
+      <ref cel="suspek.0i">suspekti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="af">raai</trd>
+  <trd lng="am">&#x1218;&#x1308;&#x1218;&#x1275;</trd>
+  <trd lng="ar">&#x62A;&#x62E;&a_m;&#x64A;&a_n;</trd>
+  <trd lng="az">dan&inodot;&#x15F;arlar</trd>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_g;&c_a;&c_d;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_g;&c_a;&c_d;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x985;&#x9A8;&#x9C1;&#x9AE;&#x9BE;&#x9A8;</trd>
+  <trd lng="bo">&#xF5A;&#xF7C;&#xF51;&#xF0B;&#xF51;&#xF54;&#xF42;&#xF0B;&#xF56;&#xFB1;&#xF7A;&#xF51;&#xF0B;</trd>
+  <trd lng="bs">valjda</trd>
+  <trd lng="co">devi essa</trd>
+  <trdgrp lng="cs">
+    <trd>dovt&iacute;pit se</trd>,
+    <trd>h&aacute;dat</trd>,
+    <trd>lu&scaron;tit</trd>,
+    <trd>rozpoznat</trd>,
+    <trd>uhodnout</trd>
+  </trdgrp>
+  <trd lng="cy">dyfalu</trd>
+  <trd lng="da">g&#xE6;tte</trd>
+  <trdgrp lng="de">
+    <trd>raten</trd>,
+    <trd>erraten</trd>,
+    <trd>herausbekommen</trd>
+  </trdgrp>
+  <trd lng="en">guess</trd>
+  <trd lng="es">adivinar</trd>
+  <trd lng="et">arvan</trd>
+  <trd lng="eu">asmatzen</trd>
+  <trd lng="fr">deviner</trd>
+  <trd lng="fy">riede</trd>
+  <trd lng="ga">buille faoi thuairim</trd>
+  <trd lng="gd">tomhas</trd>
+  <trd lng="gl">creo que</trd>
+  <trd lng="gu">&#xAA7;&#xABE;&#xAB0;&#xAC0;</trd>
+  <trd lng="ha">tsammani</trd>
+  <trd lng="hi">&#x905;&#x928;&#x941;&#x92E;&#x93E;&#x928;</trd>
+  <trd lng="hmn">twv</trd>
+  <trd lng="hr">poga&#x111;ati</trd>
+  <trd lng="ht">devine</trd>
+  <trdgrp lng="hu">
+    <trd>kital&aacute;l</trd>,
+    <trd>megfejt</trd>
+  </trdgrp>
+  <trd lng="hy">&#x565;&#x576;&#x569;&#x561;&#x564;&#x580;&#x578;&#x582;&#x569;&#x575;&#x578;&#x582;&#x576;</trd>
+  <trd lng="ig">maa am&#x1EE5;ma</trd>
+  <trd lng="is">giska</trd>
+  <trd lng="ja">&#x63A8;&#x6E2C; <pr>&#x3059;&#x3044;&#x305D;&#x304F;</pr></trd>
+  <trd lng="ka">&#x10D5;&#x10EE;&#x10D5;&#x10D3;&#x10D4;&#x10D1;&#x10D8;</trd>
+  <trd lng="kk">&c_zh;&#x43E;&c_r;&c_a;&#x43C;&c_a;&#x43B;</trd>
+  <trd lng="km">&#x1791;&#x17B6;&#x1799;</trd>
+  <trd lng="kn">&#xC8A;&#xCB9;&#xCC6;</trd>
+  <trd lng="ko">&#xCD94;&#xCE21;</trd>
+  <trd lng="ku">texm&#xEE;n</trd>
+  <trd lng="ky">&c_b;&c_a;&c_a;&#x43C;&c_d;&#x43E;&#x43E;</trd>
+  <trd lng="lat">suspicor</trd>
+  <trd lng="lo">&#xEAE;&#xEB5;&#xE94;</trd>
+  <trd lng="lt">atsp&#x117;ti</trd>
+  <trd lng="lv">uzmin&#275;t</trd>
+  <trd lng="mg">maminavina</trd>
+  <trd lng="mi">imi i</trd>
+  <trd lng="mk">&#x41F;&c_r;&c_je;&c_t;&#x43F;&#x43E;&c_s;&c_t;&c_a;&c_v;&c_u;&c_v;&c_a;&#x43C;</trd>
+  <trd lng="ml">&#xD0A;&#xD39;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_t;&c_a;&c_a;&c_h;</trd>
+  <trd lng="mr">&#x905;&#x902;&#x926;&#x93E;&#x91C;</trd>
+  <trd lng="ms">meneka</trd>
+  <trd lng="mt">raden</trd>
+  <trd lng="my">&#x1010;&#x103E;&#x1031;&#x1038;&#x1006;</trd>
+  <trd lng="ne">&#x905;&#x928;&#x941;&#x92E;&#x93E;&#x928;</trd>
+  <trd lng="nl">raden</trd>
+  <trd lng="no">gjette</trd>
+  <trd lng="ny">ndikulingalira</trd>
+  <trdgrp lng="pl">
+    <trd>zgadywa&cacute;</trd>,
+    <trd>odgadywa&cacute;</trd>,
+    <trd>domy&sacute;la&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trd lng="ps">&a_f;&#x6A9;&a_r;</trd>
+  <trdgrp lng="pt">
+    <trd>adivinhar</trd>,
+    <trd>acertar</trd>,
+    <trd>decifrar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_g;&c_a;&c_d;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_g;&c_a;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="rw">tekereza</trd>
+  <trd lng="sd">&#x6AF;&a_m;&a_A;&a_n;</trd>
+  <trd lng="si">&#xD85;&#xDB1;&#xDD4;&#xDB8;&#xDCF;&#xDB1;&#xDBA;</trd>
+  <trd lng="sk">uh&aacute;dnu&tcaron;</trd>
+  <trd lng="sl">verjetno</trd>
+  <trd lng="sm">mate</trd>
+  <trd lng="sn">kufembera</trd>
+  <trd lng="so">malo</trd>
+  <trd lng="sq">guess</trd>
+  <trd lng="st">hakanya</trd>
+  <trd lng="su">nebak</trd>
+  <trd lng="sw">nadhani</trd>
+  <trd lng="ta">&#xBAF;&#xBC2;&#xB95;&#xBBF;&#xB95;&#xBCD;&#xB95;</trd>
+  <trd lng="te">&#xC05;&#xC02;&#xC1A;&#xC28;&#xC3E;</trd>
+  <trd lng="tg">&c_t;&c_a;&c_h;&#x43C;&c_i;&#x43D;</trd>
+  <trd lng="th">&#xE40;&#xE14;&#xE32;</trd>
+  <trd lng="tl">hulaan</trd>
+  <trd lng="tt">&c_f;&c_a;&c_r;&c_a;&c_z;&#x43B;&c_a;&c_u;</trd>
+  <trd lng="uk">&c_d;&c_u;&#x43C;&c_a;&#x44E;</trd>
+  <trd lng="ur">&a_l;&#x6AF;&#x62A;&a_A; &#x6C1;&#x6D2;</trd>
+  <trd lng="uz">taxmin</trd>
+  <trd lng="vi">&#x111;o&#xE1;n</trd>
+  <trd lng="xh">unokuthekelela</trd>
+  <trd lng="yi">&#x5D8;&#x5E8;&#x5E2;&#x5E4;&#x5DF;</trd>
+  <trd lng="yo">amoro</trd>
+  <trd lng="zh">&#x731C;&#x5BF9; <pr>c&#x101;idu&#xEC;</pr></trd>
+  <trd lng="zu">ukuqagela</trd>
+</drv>
+
+<drv mrk="diven.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="diven.0isto.auxguristo">
+    <dif>
+      <ref tip="dif" cel="auxgur.0isto">A&ubreve;guristo</ref>:
+      <ekz>
+        la re&gcirc;o mem, via patro, faris lin &ccirc;efo de la
+        astrologoj,
+        sor&ccirc;istoj, &Hcirc;aldeoj, kaj <tld/>istoj
+        <fnt><bib>MT</bib>, <lok>&Dan; 5:11</lok></fnt>
+      </ekz>
+      <ekz>
+        bird<tld/>isto
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>kart<tld/>isto</ind>;
+        <trd lng="de">Kartenleger</trd>
+        <trdgrp lng="en">
+          <trd>card reader</trd>,
+          <trd>cartomancer</trd>
+        </trdgrp>
+        <trd lng="pt">cartomante</trd>
+      </ekz>
+      <ekz>
+        se vi vidas ke sorto-<tld/>isto legas viajn kartojn, tio signifas ke vi ser&ccirc;as
+        vian destinon de ekstere, anstata&ubreve; de viaj internaj fontoj
+        <fnt>
+          <aut>Reza Kheir-Khah</aut>
+            <vrk><url ref="&Monato;/2000/007087.php">Mirinda dimensio de nia vivo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 16</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        en la anta&ubreve;a tago &scirc;i konsultis kart<tld/>istinon
+        <fnt><aut>Machado de Assis, trad. Paulo Viana</aut>
+        <vrk>La divenistino kaj aliaj rakontoj</vrk><lok>Oportuno, jaro
+        2005a, p. 9a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>diviner</trd>,
+    <trd>fortuneteller</trd>, <trd>soothsayer</trd>
+  </trdgrp>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_a;&c_zh;&c_b;&c_ib;&c_t;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_k;&c_a;&c_z;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hada&ccaron;</trd>,
+    <trd>v&ecaron;&scaron;tec</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Augur</trd>,
+    <trd>Orakelpriester</trd>,
+    <trd>Seher</trd>
+  </trdgrp>
+  <trd lng="es">adivino</trd>
+  <trdgrp lng="fr">
+    <trd>augure <klr tip="ind">(devin)</klr></trd>,
+    <trd>devin</trd>
+  </trdgrp>
+  <trd lng="he">&#x5DE;&#x5D2;&#x5D9;&#x5D3; &#x5E2;&#x5EA;&#x5D9;&#x5D3;&#x5D5;&#x5EA;</trd>
+  <trd lng="hu">j&oacute;s</trd>
+  <trdgrp lng="pl">
+    <trd>wr&oacute;&zdot;biarz</trd>,
+    <trd>wr&oacute;&zdot;bita</trd>,
+    <trd>prorok</trd>
+  </trdgrp>
+  <trd lng="pt">adivinho</trd>
+  <trd lng="ru">&c_g;&c_a;&c_d;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">ve&scaron;tec</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&#x43E;&c_r;&#x43E;&c_zh;&c_b;&c_i;&c_t;</trd>,
+    <trd>&c_v;&c_ib;&c_shch;&c_u;&#x43D;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5148;&#x898B;&#x8005; <pr>xi&#x101;nji&#xE0;nzh&#x11B;</pr></trd>,
+    <trd>&#x7B97;&#x547D;&#x5148;&#x751F; <pr>su&#xE0;nm&#xEC;ngxi&#x101;nsheng</pr></trd>,
+    <trd>&#x9810;&#x8A00;&#x5BB6; <pr>y&#xF9;y&#xE1;nji&#x101;</pr></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.107 2023/12/12 19:23:57
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.105 2023/10/14 11:26:54
+revo: transskribo per <pr>
+
+versio 1.104 2023/08/29 16:35:09
+Wolfram Diestel: ja: prononco
+
+versio 1.103 2023/04/30 06:30:38
+Paul Peeraerts: Steloj -> monato
+
+versio 1.102 2023/03/13 07:26:39
+Wolfram Diestel: ~prove sxovita al prov/
+
+versio 1.101 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.23  2015/09/16 14:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.22  2015/09/16 13:10:17  revo
+-->
+</vortaro>

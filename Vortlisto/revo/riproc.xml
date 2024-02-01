@@ -1,0 +1,518 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: riproc.xml,v 1.33 2023/10/30 09:28:00 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>ripro&ccirc;</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="riproc.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="riproc.0i.KOMUNE">
+    <dif>
+      Esprimi al iu malla&ubreve;don a&ubreve; malkontenton a&ubreve; akuzon pri ties
+      ago a&ubreve; konduto:
+      <ekz>
+        ne <tld/>u vian amikon, &ccirc;ar vi mem plimulte meritas <tld/>on
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> severe <tld/>is la filon
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi <tld/>as al mi hontinda&jcirc;on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 19:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne ripro&ccirc;u maljunulon, sed konsilu lin, kiel patron
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Timoteo 5:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la konscienco <tld/>is lin, ke li lasis ilin solaj
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam Klaro revenis hejmen, li kisis &scirc;in kaj iom <tld/>is
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;aptiro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la princo mem iom <tld/>is sin: <klr>[&#8230;]</klr> li e&ccirc; unu tagon ne okupi&gcirc;is per
+        la aferoj de la nomeso
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniu povos min <tld/>i, ke mi &scirc;telis de li e&ccirc; unu moneron
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni eble povus <tld/>i al nia a&ubreve;toro, ke li ne estis tre fortkaraktera
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+<!--
+      <ekz>
+        mensogema lango malamas siajn <tld/>antojn<fnt>Z</fnt>;
+      </ekz>
+-->
+      <ekz>
+        <nom>Donald Broadribb</nom> <klr>...</klr> <tld/>as la tradukinton de tiu
+        verko pri misuzo de la difina artikolo
+        <fnt>
+          <aut>A. Cnudde</aut>,
+          <vrk>&leftquot;La&rightquot;, artikolo nur difina</vrk>,
+          <bib>Monato</bib>,
+          <lok>2002:7, p. 7a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        petolu, dibo&ccirc;u, sed poste sorton ne <tld/>u
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        azen' al azeno <tld/>as malsa&gcirc;on
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="admon.0i">admoni</ref>,
+      <ref cel="akuz.0i">akuzi</ref>,
+      <ref cel="kritik.0i.KOMUNE">kritiki<sncref/></ref>,
+      <ref cel="aprob">malaprobi</ref>,
+      <ref cel="lauxd.mal0i">malla&ubreve;di</ref>,
+      <ref cel="skold.0i">skoldi</ref>,
+      <ref cel="tan.0i">tani</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_p;&c_ib;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_p;&c_ib;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_a;&c_k;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_p;&c_r;&c_a;&c_k;&c_a;&c_c;&c_mol;</trd>
+    <trd>&c_a;&c_s;&c_u;&c_d;&c_zh;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ga;&t_sha;&t_drengbu;&t_tsheg;&t_ga;&t_sha;&t_drengbu;&t_tsheg;&t_ga;&t_ta;&t_naro;&t_nga;&t_tsheg;</trd>
+  <trdgrp lng="de">
+    <trd>vorwerfen</trd>,
+    <trd><klr>einen </klr><ind>Vorwurf</ind> machen</trd>,
+    <trd>tadeln</trd>,
+    <trd>schelten</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>reproach</trd>,
+    <trd>reprimand</trd>,
+    <trd>rebuke</trd>,
+    <trd>scold</trd>
+  </trdgrp>
+  <trd lng="es">reprochar</trd>
+  <trdgrp lng="fr">
+    <trd>bl&acirc;mer</trd>,
+    <trd>disputer</trd>,
+    <trd>gronder</trd>,
+    <trd>reprocher</trd>,
+    <trd>r&eacute;primander</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kifog&aacute;sol</trd>,
+    <trd>szem&eacute;re h&aacute;ny</trd>,
+    <trd>el&iacute;t&eacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12392;&#x304C;&#12417;&#x308B;</trd>,
+    <trd>&#12375;&#x304B;&#x308B;</trd>,
+    <trd>&#x975E;&#x96E3;&#12377;&#x308B;  <pr>&#12402;&#x306A;&#12435;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>verwijten</trd>,
+    <trd>berispen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>gani&cacute;</trd>,
+    <trd>karci&cacute;</trd>,
+    <trd>wini&cacute;</trd>,
+    <trd>wypomina&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>censurar</trd>,
+    <trd>repreender</trd>,
+    <trd>incriminar</trd>,
+    <trd>ralhar</trd>,
+    <trd>acoimar</trd>,
+    <trd>exprobar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_p;&c_r;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_p;&c_r;&c_je;&c_k;&c_n;&c_u;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_k;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_k;&c_o;&c_r;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_r;&c_ib;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_o;&c_k;&c_o;&c_r;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_b;&c_i;&c_t;&c_i; &c_z;&c_a;&c_k;&c_i;&c_d;&c_i;</trd>,
+    <trd>&c_d;&c_o;&c_t;&c_i;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_g;&c_a;&c_n;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trd lng="vo">leblam&ouml;n</trd>
+</drv>
+
+<drv mrk="riproc.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="riproc.0a.KOMUNE">
+    <dif>
+      Esprimanta malkontenton:
+      <ekz>
+        foriru kaj ne persekutu la justulojn! <klr>[&#8230;]</klr> diris li pli la&ubreve;te per
+        <tld/>a tono
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun <tld/>a murmureto <klr>[&scirc;i]</klr> demandis, je kio li ridas
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i &jcirc;etis al mi <tld/>an rigardon
+        <fnt>
+          <aut>Ba Jin, trad. Li Shijun</aut>,
+          <vrk>A&ubreve;tuno en la Printempo</vrk>,
+          <lok>1980</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_k;&c_o;&c_r;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_a;&c_s;&c_u;&c_d;&c_zh;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>tadelnd</trd>,
+    <trd>vorwurfsvoll</trd>
+  </trdgrp>
+  <trd lng="ja">&#12392;&#x304C;&#12417;&#x308B;&#12424;&#12358;&#x306A;</trd>
+  <trdgrp lng="pl">
+    <trd>gani&aogonek;cy</trd>,
+    <trd>karc&aogonek;cy</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_s;&c_u;&c_d;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_h;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_o;&c_k;&c_ib;&c_r;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="riproc.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="riproc.0o.KOMUNE">
+    <dif>
+      Malla&ubreve;da parolo al iu pro faro a&ubreve; sinteno lia:
+      <ekz>
+        li faris <klr>[&#8230;]</klr> neniajn <tld/>ojn al la stabanoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la virino minacis per la fingroj, faris <tld/>ojn kaj koleris
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Kupra porko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi faris al ili severan <tld/>on kaj malbenis ilin
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ne&hcirc;emja 13:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        pli efikas <tld/>o &ccirc;e sa&gcirc;ulo, ol cent batoj &ccirc;e
+        malsa&gcirc;ulo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 17:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pli bone estas a&ubreve;skulti <tld/>on de sa&gcirc;ulo, ol a&ubreve;skulti kanton de malsa&gcirc;uloj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Predikanto 7:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pli bona estas <tld/>o neka&scirc;ita, ol amo ka&scirc;ita
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 27:5</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kritik.0o.KOMUNE">kritiko<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_k;&c_o;&c_r;</trd>,
+    <trd>&c_p;&c_a;&c_p;&c_r;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Vorwurf</trd>,
+    <trd>Tadel</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>reproach</trd>,
+    <trd>reprimand</trd>,
+    <trd>rebuke</trd>
+  </trdgrp>
+  <trd lng="es">reproche</trd>
+  <trdgrp lng="fr">
+    <trd>bl&acirc;me</trd>,
+    <trd>remontrance</trd>,
+    <trd>reproche</trd>,
+    <trd>r&eacute;primande</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szemreh&aacute;ny&aacute;s</trd>,
+    <trd>kifog&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x53F1;&#x8CAC;  <pr>&#12375;&#12387;&#x305B;&#x304D;</pr></trd>,
+    <trd>&#x975E;&#x96E3;  <pr>&#12402;&#x306A;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">verwijt</trd>
+  <trdgrp lng="pl">
+    <trd>bura</trd>,
+    <trd>nagana</trd>,
+    <trd>reprymenda</trd>,
+    <trd>upomnienie</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_p;&c_r;&c_jo;&c_k;</trd>,
+    <trd>&c_u;&c_k;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_k;&c_ib;&c_r;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_i;&c_d;</trd>,
+    <trd>&c_d;&c_o;&c_g;&c_a;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="vo">leblam</trd>
+</drv>
+
+<drv mrk="riproc.0inda">
+  <kap><tld/>inda</kap>
+  <snc mrk="riproc.0inda.KOMUNE">
+    <dif>
+      Kiu meritas <tld/>on:
+      <ekz>
+        ci tre malvirte agis, farinte tiel <tld/>indan agon
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekkvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Herbeno vidis en sia konduto nenion <tld/>indan
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malica homo, portanta <tld/>indajn malvirtojn
+        <fnt>
+          <aut>A. Nurak</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr15/spiritismo.html">
+          Brazilo kaj Spiritismo</url></vrk>,
+          <lok>Nica literatura revuo, 1956-05 &gcirc;is 06 (1/5), p.
+          189-192</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lauxd.mal0inda">malla&ubreve;dinda</ref>,
+      <ref cel="mis.0a">misa</ref>,
+      <ref cel="ind.mal0a">malinda</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_s;&c_u;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_a;&c_m;&c_a;&c_v;&c_ib;&c_t;&c_y;</trd>,
+    <trd>&c_g;&c_a;&c_n;&c_je;&c_b;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verwerflich</trd>,
+    <trd>tadelnswert</trd>
+  </trdgrp>
+  <trd lng="es">reprochable</trd>
+  <trdgrp lng="fr">
+    <trd>condamnable</trd>,
+    <trd>r&eacute;pr&eacute;hensible</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x975E;&#x96E3;&#12377;&#12409;&#x304D;  <pr>&#12402;&#x306A;&#12435;&#12377;&#12409;&#x304D;</pr></trd>,
+    <trd>&#x4E0D;&#x5C4A;&#x304D;&#x306A;  <pr>&#12405;&#12392;&#12393;&#x304D;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">naganny</trd>
+</drv>
+
+<drv mrk="riproc.ne0inda">
+  <kap>ne<tld/>inda,
+  <var><kap>sen<tld/>a</kap></var></kap>
+  <snc mrk="riproc.ne0inda.KOMUNE">
+    <dif>
+      Kiu ne meritas <tld/>on, estas <ref cel="mank.sen0a.sendifekta">senmanka</ref>,
+      <ref cel="makul.sen0a">senmakula</ref>:
+      <ekz>
+        estu senkulpaj kaj simplaj, filoj de Dio, ne<tld/>indaj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Filipianoj 2:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        laboranto sen<tld/>a
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Timoteo 2:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ilia legoscio estas ne<tld/>inda
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep
+        fratoj</vrk>, <lok>1947</lok></fnt>;
+      </ekz>
+      <ekz>
+        ovala viza&gcirc;o kun sen<tld/>aj proporcioj
+        <fnt>
+          <aut>U. Arlo&ubreve;, trad. Z. Lapcionak</aut>,
+          <vrk><url ref="http://zmila.at.tut.by/Pesto/1521.html">
+          Tempo de pesto</url></vrk>,
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="perfek.0a.siaspece">perfekta<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_je;&c_z;&c_g;&c_a;&c_n;&c_je;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_z;&c_a;&c_g;&c_a;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_z;&c_a;&c_v;&c_a;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">untadelig</trd>
+  <trd lng="es">irreprochable</trd>
+  <trdgrp lng="fr">
+    <trd>impeccable</trd>,
+    <trd>irr&eacute;prochable</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#25991;&#x53E5;&#x306A;&#12375;&#x306E;  <pr>&#12418;&#12435;&#x304F;&#x306A;&#12375;&#x306E;</pr></trd>,
+    <trd>&#x975E;&#x306E;&#25171;&#12385;&#25152;&#x306E;&#x306A;&#12356;  <pr>&#12402;&#x306E;&#12358;&#12385;&#12393;&#12371;&#x308D;&#x306E;&#x306A;&#12356;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>nienaganny</trd>,
+    <trd>nieskazitelny</trd>
+  </trdgrp>
+  <trd lng="uk">&c_b;&c_je;&c_z;&c_d;&c_o;&c_g;&c_a;&c_n;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="riproc.konscienc0o">
+  <kap>konscienc<tld/>o</kap>
+  <snc>
+    <dif>
+      Imagata ripro&ccirc;o de sia konscienco al si mem:
+      <ekz>
+        <klr>[li]</klr> sentis kelkajn konsicenc<tld/>ojn pro tio, ke li faris unu
+        malfidelon al F-ino <nom>Kunegond</nom>
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XXII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sent.kulpo0o">kulposento</ref>,
+      <ref cel="pent.0o">pento</ref>
+    </refgrp>
+    <trd lng="de">Gewissensbiss</trd>
+    <trd lng="en">pangs of conscience</trd>
+    <trd lng="fr">affres de conscience</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_k;&c_o;&c_r;&c_y; &c_s;&c_u;&c_m;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_z;&c_g;&c_r;&c_y;&c_z;&c_o;&c_t;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x826F;&#x5FC3;&#x306E;&#21621;&#x8CAC;  <pr>&#x308A;&#12423;&#12358;&#12375;&#12435;&#x306E;&#x304B;&#12375;&#12419;&#x304F;</pr></trd>,
+    <trd>&#x81EA;&#x8CAC;&#x306E;&#x5FF5;  <pr>&#12376;&#x305B;&#x304D;&#x306E;&#x306D;&#12435;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.33 2023/10/30 09:28:00
+Dmitri Gabinski: + trd be
+
+versio 1.32 2023/10/21 05:38:06
+revo: transskribo per <pr>
+
+versio 1.30 2023/08/29 06:32:05
+Wolfram Diestel: +konscienc~o
+
+versio 1.29 2023/07/04 19:24:27
+Vito Redsky: +trd pl
+
+versio 1.28 2023/02/27 07:27:08
+Dmitri Gabinski: + trd be
+
+versio 1.27 2022/05/12 18:38:12
+Wolfram Diestel: ~&aelig;..ne~inda: ekz, ref, trd de
+
+versio 1.26 2022/05/11 20:30:13
+Wolfram Diestel: ~i, ~o: ekz-oj, ref
+
+Revision 1.22  2014/08/17 20:10:10  revo
+-->
+</vortaro>

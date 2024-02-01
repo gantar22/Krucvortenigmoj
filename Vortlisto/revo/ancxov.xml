@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ancxov.xml,v 1.26 2023/10/12 18:05:09 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>an&ccirc;ov</rad>/o
+</kap>
+<drv mrk="ancxov.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ancxov.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Spicita <ref cel="sardel.0o">sardelo</ref> a&ubreve;
+      <ref cel="sprot.0o">sproto</ref>, konservita en ladskatolo:
+      <ekz>
+        konsumu malmulte da ru&gcirc;a viando, sed pli da grasa fi&scirc;o (salmo, skombro, haringo,
+        <tld/>o kaj sardinoj)
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lode Van De Velde</aut>
+          <vrk><url ref="&Monato;/2013/010934.php">Sablohorlo&gcirc;o for&scirc;ovas piramidon</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en 1747 oni inventis mustardon kun aldona&jcirc;oj (kaporoj, <tld/>oj, vinbera suko)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=25639">Mustardo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>szardellagy&udblac;r&udblac;</trd>,
+      <trd>ringli<klr tip="ind"> (szardella)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>anchois<klr> [czyt. anszu&lstroke;a]</klr></trd>,
+      <trd>sardela</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="ancxov.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="dif" cel="sardel.0o">Sardelo</ref>:
+      <ekz>
+        en la areo de Markolo ili anka&ubreve; fi&scirc;kaptas tinusojn, pil&ccirc;ardojn, <tld/>ojn kaj
+        skombrojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3808">A&ubreve;tonoma regiono Sicilio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pl">sardela</trd>
+  </snc>
+  <trd lng="bg">&c_a;&c_n;&c_sh;&c_o;&c_a;</trd>
+  <trd lng="be">&c_a;&c_n;&c_ch;&c_o;&c_w;&c_s;</trd>
+  <trd lng="de">Anchovis</trd>
+  <trd lng="en">anchovy</trd>
+  <trd lng="es">anchoa</trd>
+  <trd lng="fr">anchois</trd>
+  <trdgrp lng="he">
+    <trd>&#x5D0;&#x5E0;&#x5E9;&#x5D5;&#x5D1;&#x5D9;</trd>,
+    <trd>&#x5E2;&#x5E4;&#x5D9;&#x5D9;&#x5DF;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szardella</trd>,
+    <trd>aj&oacute;ka</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6CB9;&#x6F2C;&#12369;&#x306E;&#x30A4;&#x30EF;&#x30B7; 
+    <pr>&#12354;&#12406;&#12425;&#12389;&#12369;&#x306E;&#x30A4;&#x30EF;&#x30B7;</pr></trd>,
+    <trd>&#x30A2;&#x30F3;&#x30C1;&#x30E7;&#x30D3;&#x30FC;</trd>,
+    <trd>&#x30AB;&#x30BF;&#x30AF;&#x30C1;&#x30A4;&#x30EF;&#x30B7;</trd>
+  </trdgrp>
+  <trd lng="nl">ansjovis</trd>
+  <trd lng="ru">&c_a;&c_n;&c_ch;&c_o;&c_u;&c_s;</trd>
+  <trd lng="sk">sardela</trd>
+  <trdgrp lng="uk">
+    <trd>&c_a;&#x43D;&c_ch;&#x43E;&c_u;&c_s;</trd>,
+    <trd>&c_h;&c_a;&#x43C;&c_s;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.25 2023/09/01 16:34:20
+Wolfram Diestel: kor. ja rendaku
+
+versio 1.23 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.19  2019/03/28 16:10:14  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.18  2013/08/21 15:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2009/06/22 16:30:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2004/03/09 17:32:05  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/05/18 18:03:02  revo
+-->
+</vortaro>

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ontogenez.xml,v 1.15 2023/10/20 13:11:48 revo Exp $">
+<kap>
+  <rad>ontogenez</rad>/o <fnt><bib>SPV</bib></fnt>,
+  <var><kap><rad var="i">ontogeni</rad>/o <fnt><bib>PIV1</bib></fnt></kap></var>
+</kap>
+<drv mrk="ontogenez.0o">
+  <kap><tld/>o, <var><kap><tld var="i"/>o</kap></var></kap>
+  <snc mrk="ontogenez.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Esti&gcirc;o kaj biologia evoluo de unuopa viva&jcirc;o
+      kaj studo de tiu esti&gcirc;o:
+      <ekz>
+        <tld/>o estas la tuto de evoluaj procezoj ekde la fekundi&gcirc;o 
+        de la ovo&ccirc;elo &gcirc;is la morto
+        <fnt>
+          <aut>C. St&oslash;p-Bowitz, M. B&eacute;la</aut>,
+          <vrk><url ref="http://www.fw.hu/eventoj/steb/biologio/enkond-fokuso/f874-p08.htm">
+          Enkonduko en la biologion</url></vrk>,
+          <lok>Fokuso, numero 1987-04, p. 8a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld var="i"/>o de la askosporoj  
+        <fnt>
+          <aut>P. Navarro&ndash;Rosin&eacute;s, M. P. Zhurbenko, C. Roux</aut>,
+          <vrk><url ref="http://www.lichenologue.org/fichiers/docs/2010Navarro_Pseudopyrenidium.pdf">
+          Pseudopyrenidium nova genro...</url></vrk>,
+          <lok>Bull. Soc. linn. Provence, 2010 (61)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="filogenez.0o.BIO">filogenezo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_a;&c_g;&c_je;&c_n;&c_e;&c_z;</trd>
+  <trdgrp lng="ca">
+    <trd>ontog&egrave;nesi <klr>(proc&eacute;s)</klr></trd>,
+    <trd>ontog&egrave;nia <klr>(estudi)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ontogeneze</trd>,
+    <trd>ontogenie</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Ontogenese</trd>,
+    <trd>Ontogenie</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ontogeny</trd>,
+    <trd>ontogenesis</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>ontogenia</trd>,
+    <trd>ontog&eacute;nesis</trd>,
+    <trd>morfog&eacute;nesis</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ontog&eacute;n&egrave;se</trd>,
+    <trd>ontog&eacute;nie</trd>
+  </trdgrp>
+  <trd lng="hu">ontogenezis</trd>
+  <trd lng="ja">&#x500B;&#x4F53;&#x767A;&#x751F;  <pr>&#x3053;&#x305F;&#x3044;&#x306F;&#x3063;&#x305B;&#x3044;</pr></trd>
+  <trd lng="nl">ontogenese</trd>
+  <trd lng="pl">ontogeneza</trd>
+  <trd lng="ro">ontogenez&abreve;</trd>
+  <trd lng="sk">ontogen&eacute;za</trd>
+  <trd lng="uk">&#x43E;&#x43D;&c_t;&#x43E;&c_g;&c_je;&#x43D;&c_je;&c_z;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.15 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.13 2023/05/29 12:44:28
+Paul Peeraerts:  + trd nl
+
+versio 1.12 2023/05/18 09:25:45
+Dmitri Gabinski: + trd be
+
+versio 1.10 2021/06/22 21:28:48
+Vito Redsky: +trd pl +trd ro
+
+versio 1.9 2020/09/08 06:10:58
+Wolfram Diestel: +tld-var
+
+Revision 1.7  2018/03/23 08:10:13  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.6  2015/10/05 14:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.5  2015/07/04 08:37:40  revo
+-->
+</vortaro>

@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mant.xml,v 1.19 2023/09/02 06:04:09 revo Exp $">
+<kap>
+  <rad>mant</rad>/o
+</kap>
+<drv mrk="mant.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+  <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:zoologiaj_genroj" cel="genr.0o.BIO">Genro</ref> 
+      el la klaso <ref tip="malprt" cel="insekt.0oj">insektoj</ref>
+      (<trd lng="la">Mantis</trd>), kiu atendas &ccirc;asa&jcirc;on kun
+      levitaj anta&ubreve;aj kruroj, kvaza&ubreve; pre&gcirc;ante:
+      <ekz>
+        <tld/>on en 1758 <nom>Carl von Linn&eacute;</nom> priskribis kiel specion <nom>Gryllus (Mantis)
+        religiosus</nom>, post 1825 
+        oni uzis la nomon <nom>Mantis</nom> kiel nomon de la genro.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/d/d9/Mantid_September_2018-2.jpg/362px-Mantid_September_2018-2.jpg" prm="CC BY-SA 4.0"><tld/>o (Mantis religiosa)
+        <fnt>
+          <aut>Alvesgaspar, propra verko</aut>
+          <lok><url ref="&WCW;/File:Mantid_September_2018-2.jpg">&WCW;/File:Mantid_September_2018-2.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_g;&c_a;&c_m;&c_o;&c_l;</trd>
+  <trdgrp lng="ca">
+    <trd>pregad&eacute;u</trd>,
+    <trd>g&egrave;nere Mantis</trd>
+  </trdgrp>
+  <trd lng="de">Gottesanbeterin</trd>
+  <trd lng="en">mantis</trd>
+  <trdgrp lng="es">
+    <trd><ind>mantis</ind> religiosa</trd>,
+    <trd>santateresa</trd>,
+    <trd>teresa</trd>,
+    <trd>campamocha (M&eacute;xico)</trd>,
+    <trd>mecedora (M&eacute;xico)</trd>,
+    <trd>esperanza (Rep&uacute;blica Dominicana)</trd>,
+    <trd>tara</trd>,
+    <trd>cerbatana (Venezuela, Daimiel - Ciudad Real - Espa&ntilde;a)</trd>,
+    <trd>usamico</trd>,
+    <trd>Mboi sy (Guaran&iacute; - Paraguay)</trd>,
+    <trd>tatadi&oacute;s (C&oacute;rdoba - Argentina)</trd>,
+    <trd>mamboret&aacute; (Argentina, Uruguay)</trd>,
+    <trd>comepiojos</trd>,
+    <trd>matapiojos</trd>,
+    <trd>matacaballo</trd>,
+    <trd>armacaballo</trd>,
+    <trd>labadio (Colombia)</trd>,
+    <trd>mar&iacute;agarc&iacute;a (Porcuna - Ja&eacute;n - Espa&ntilde;a)</trd>,
+    <trd>arcalabatruca (Mijas - M&aacute;laga - Espa&ntilde;a)</trd>,
+    <trd>marirramos (Maragater&iacute;a - Le&oacute;n - Espa&ntilde;a)</trd>,
+    <trd>muerte (Arroba de los Montes - Ciudad Real - Espa&ntilde;a)</trd>,
+    <trd>caballito del diablo (Villarrubia de los Ojos y Fuente el Fresno - Ciudad Real -
+    Espa&ntilde;a)</trd>,
+    <trd>mula del diablo</trd>
+  </trdgrp>
+  <trd lng="fr"><ind>mante</ind> religieuse</trd>
+  <trd lng="hu">im&aacute;dkoz&oacute; <ind>s&aacute;ska</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AB;&#x30DE;&#x30AD;&#x30EA;</trd>,
+    <trd>&#x30A6;&#x30B9;&#x30D0;&#x30AB;&#x30DE;&#x30AD;&#x30EA;</trd>
+  </trdgrp>
+  <trd lng="nl">bidsprinkhaan</trd>
+  <trd lng="pl">modliszka</trd>
+  <trdgrp lng="pt">
+    <trd>louva-a-deus</trd>,
+    <trd>louva-deus</trd>,
+    <trd>beata <klr tip="amb">(subst., zool.)</klr></trd>,
+    <trd>bendito <klr tip="amb">(subst., zool.)</klr></trd>,
+    <trd>bota-mesa</trd>,
+    <trd>cavalinho-de-deus</trd>,
+    <trd>emboici</trd>,    
+    <trd>louvinha-a-deus</trd>,    
+    <trd>m&atilde;e-de-cobra</trd>,    
+    <trd>manta</trd>,    
+    <trd>pai-de-cobra</trd>,    
+    <trd>p&otilde;e-mesa</trd>,    
+    <trd>profeta</trd>
+  </trdgrp>
+  <trd lng="ro">mantodea</trd>
+  <trd lng="ru">&c_b;&c_o;&c_g;&c_o;&c_m;&c_o;&c_l; <klr tip="amb">(&c_n;&c_a;&c_s;&c_je;&c_k;&c_o;&c_m;&c_o;&c_je;)</klr></trd>
+  <trd lng="uk">&#x431;&#x43E;&#x433;&#x43E;&#x43C;&#x43E;&#x43B;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.18 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.16 2021/05/15 14:51:20
+Guillermo Molleda Jimena: +trd es
+
+versio 1.15 2021/05/15 07:53:52
+Guillermo Molleda Jimena: +trd es
+
+versio 1.14 2021/04/07 07:01:21
+Dmitri Gabinski: + trd be
+
+Revision 1.12  2017/03/31 10:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.11  2015/04/10 20:10:20  revo
+Vito Redsky: trd pl trd ro
+
+Revision 1.10  2012/07/30 12:10:34  revo
+Marc Rausell: + trd ca
+
+Revision 1.9  2009/10/24 16:32:03  revo
+-->
+</vortaro>

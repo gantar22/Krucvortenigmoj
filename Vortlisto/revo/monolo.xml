@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: monolo.xml,v 1.20 2023/10/19 18:36:53 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>monolog</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="monolo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="monolo.0o.KOMUNE">
+    <dif>
+      Solparolado, dirado sen &ccirc;eestantoj a&ubreve; sen respondado de
+      &ccirc;eestantoj.
+    </dif>
+    <subsnc mrk="monolo.0o.TEA">
+      <uzo tip="fak">TEA</uzo>
+      <dif>
+        Sceno dum kiu rolulo, estante a&ubreve; sin kredante sola, parolas al
+        si mem.
+      </dif>
+      <trdgrp lng="de">
+        <trd>Monolog</trd>,
+        <trd>einsame Rede</trd>
+      </trdgrp>
+      <trd lng="en">soliloquy</trd>
+      <trdgrp lng="hu">
+        <trd>monol&oacute;g</trd>,
+        <trd>mag&aacute;nbesz&eacute;d</trd>
+      </trdgrp>
+      <trd lng="sv">monolog</trd>
+    </subsnc>
+    <subsnc mrk="monolo.0o.skecxo">
+      <uzo tip="fak">TEA</uzo>
+      <dif>
+        Amuza rakonteto, kiun unu persono recitas en porplezura kunveno.
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="skecx.0o.TEA">ske&ccirc;o</ref>
+      </refgrp>
+    </subsnc>
+    <refgrp tip="ant">
+      <ref cel="dialog.0o">dialogo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_l;&c_jo;&c_g;</trd>
+  <trd lng="cs">monolog</trd>
+  <trd lng="en">monologue</trd>
+  <trd lng="fr">monologue</trd>
+  <trdgrp lng="ja">
+    <trd>&#x72EC;&#x767D;  <pr>&#x3069;&#x304F;&#x306F;&#x304F;</pr></trd>,
+    <trd>&#x30E2;&#x30CE;&#x30ED;&#x30FC;&#x30B0;</trd>,
+    <trd>&#x3072;&#x3068;&#x308A;&#x3054;&#x3068;</trd>,
+    <trd>&#x9577;&#x8A71;  <pr>&#x306A;&#x304C;&#x3070;&#x306A;&#x3057;</pr></trd>,
+    <trd>&#x9577;&#x8AC7;&#x7FA9;  <pr>&#x306A;&#x304C;&#x3060;&#x3093;&#x304E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">monoloog</trd>
+  <trd lng="pl">monolog</trd>
+  <trd lng="pt">mon&oacute;logo</trd>
+  <trd lng="ro">monolog</trd>
+  <trd lng="ru">&c_m;&c_o;&c_n;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="sk">monol&oacute;g</trd>
+  <trd lng="uk">&#x43C;&#x43E;&#x43D;&#x43E;&#x43B;&#x43E;&#x433;</trd>
+</drv>
+
+<drv mrk="monolo.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="monolo.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="parol.0i.diri">Paroli</ref> sole, sen
+      respondantoj:
+      <ekz>
+        mi multon legis pri Esperanto &ccirc;u en la dudekaj, a&ubreve; en la
+        tridekaj.. jes... - malrapide <tld/>is la redaktoro
+        <fnt><bib>Jamburg</bib>, <lok>&ccirc;apitro 2a, p. 15a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>monologizovat</trd>,
+    <trd>v&eacute;st monolog</trd>
+  </trdgrp>
+  <trd lng="en">make a monologue</trd>
+  <trd lng="fr">monologuer</trd>
+  <trdgrp lng="ja">
+    <trd>&#x72EC;&#x767D;&#x3059;&#x308B;  <pr>&#x3069;&#x304F;&#x306F;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x3072;&#x3068;&#x308A;&#x3054;&#x3068;&#x3092;&#x8A00;&#x3046;  <pr>&#x3072;&#x3068;&#x308A;&#x3054;&#x3068;&#x3092;&#x3044;&#x3046;</pr></trd>,
+    <trd>&#x9577;&#x8A71;&#x3092;&#x3059;&#x308B;  <pr>&#x306A;&#x304C;&#x3070;&#x306A;&#x3057;&#x3092;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>m&oacute;wi&cacute; do siebie samego</trd>,
+    <trd>prowadzi&cacute;  <ind>monolog</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>vorbe&#x219;ti singur</trd>,
+    <trd>conduce un monolog</trd>
+  </trdgrp>
+  <trd lng="sk">vies&tcaron; monol&oacute;g</trd>
+  <trd lng="uk">&#x432;&#x438;&#x433;&#x43E;&#x43B;&#x43E;&#x448;&#x443;&#x432;&#x430;&#x442;&#x438; &#x43C;&#x43E;&#x43D;&#x43E;&#x43B;&#x43E;&#x433;</trd>
+</drv>
+
+<drv mrk="monolo.interna0o">
+  <kap>interna <tld/>o</kap>
+  <snc mrk="monolo.interna0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Rakontmaniero rekte prezentanta per vortoj la
+      pensadon de rolulo:
+      <ekz>
+        eblas diri ke la tuta novelo estas interna <tld/>o
+        de la edzino
+        <fnt>
+          <aut>V. Melnikov</aut>,
+          <vrk><url ref="http://groups.yahoo.com/neo/groups/diskutejo/conversations/topics/1604">
+          La lingvo de okuloj...</url></vrk>,
+          <lok>2005-11-16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">internal monologue</trd>
+  <trd lng="fr">monologue int&eacute;rieur</trd>
+  <trd lng="pl">monolog wewn&eogonek;trzny</trd>
+  <trd lng="ro">monolog interior</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.17 2021/03/03 23:10:43
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/09/14 01:10:15  revo
+Jeromo Vasxe: + interna ~o
+
+Revision 1.13  2009/02/15 14:18:20  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/08/07 16:33:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2006/01/27 17:31:35  revo
+Jeromo Vasxe: + ~i, ~o snc/subsnc + fak tea
+
+Revision 1.10 2003/06/06 16:30:30 revo
+-->
+</vortaro>

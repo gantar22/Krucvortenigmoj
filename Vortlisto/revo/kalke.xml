@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kalke.xml,v 1.10 2023/12/02 21:20:04 revo Exp $">
+<kap>
+  <rad>kalke</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="kalke.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="kalke.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="dif" cel="pauxs.0ajxo.LIN">Pa&ubreve;sa&jcirc;o<sncref/></ref>, tradukprunto:
+      <ekz>
+        oni legas ke Berta estas juna servistino
+        <ctl>&ccirc;e la <nom>Kramers</nom></ctl>
+        <klr>[&#x2026;]</klr> tiu &ccirc;i maniero indiki familion estas nacilingva
+        <tld/>o ne uzinda en esperanto
+        <fnt>
+          <aut>H. Beaupaul</aut>,
+          <vrk><url ref="http://esperanto.net/literaturo/lf/nigrmagirec.html">
+          Nigra Magio [recenzo]</url></vrk>,
+          <lok>Literatura Foiro, 1990</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ctl>tekstlibro</ctl> &scirc;ajnas al mi <tld/>o de la angla
+        <fnt>
+          <aut>C. Declerck</aut>,
+          <vrk><url ref="http://esperanto.net/literaturo/lg/fotoalbumrec.html">
+          Sentemo, Homeco, Honesto</url></vrk>,
+          <lok>2001</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="idioti.0o">idiotismo</ref>,
+      <ref cel="vort.prunt0o">pruntvorto</ref>
+    </refgrp>
+    <trd lng="cs">kalk</trd>
+    <trdgrp lng="de">
+      <trd>Lehn&uuml;bersetzung</trd>,
+      <trd>Lehn&uuml;bertragung</trd>
+    </trdgrp>
+    <trd lng="en">calque</trd>
+    <trd lng="pl">kalka <klr>(j&eogonek;zykowa)</klr> </trd>
+    <trd lng="ro">calc <klr>(lingvistic&abreve;)</klr> </trd>
+    <trd lng="sk">kalk</trd>
+    <trdgrp lng="zh">
+    <trd>&#x501F;&#x8B6F; <pr>ji&#xE8;y&#xEC;</pr></trd>,
+    <trd>&#x501F;&#x8B6F;&#x8A5E; <pr>ji&#xE8;y&#xEC;c&#xED;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="kalke.0o.pauso">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="pauxs.0ajxo.BELA">Pa&ubreve;sa&jcirc;o<sncref/></ref>:
+      <ekz>
+        la Sveda flago, aperanta iam dum la 16-a jarcento, probable
+        estas alikolora <tld/>o de tiu de la suda najbarlando
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url>https://eo.wikipedia.org/?curid=3773</url></vrk>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3773">Skandinava
+          kruco</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_mol;&c_k;&c_a;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.9 2023/11/20 21:22:57
+Wolfram Diestel: +ref
+
+versio 1.8 2023/02/24 07:27:15
+Dmitri Gabinski: + trd be
+
+versio 1.7 2021/05/20 07:05:27
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.5  2017/08/21 20:10:30  revo
+Wolfram Diestel: +snc 2 (EVI), germ trd
+
+Revision 1.4  2015/11/24 16:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.3  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2012/07/03 07:10:09  revo
+-->
+</vortaro>

@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: parabo.xml,v 1.29 2023/10/20 14:25:19 revo Exp $">
+    <kap>
+      <ofc>2</ofc><rad>parabol</rad>/o
+    </kap>
+
+    <drv mrk="parabo.0o">
+      <kap><tld/>o</kap>
+      <snc mrk="parabo.0o.linio">
+        <uzo tip="fak">MAT</uzo>
+        <fnt><bib>MatTerm</bib><lok>p. 33</lok></fnt>
+        <dif>
+          <ref tip="super" cel="konik.0o">Koniko</ref> kun discentreco
+          egala al unu:
+          <ekz>
+            <tld/>o estas intersekco de konuso kun ebeno paralela al
+            naskanto de &gcirc;i;
+          </ekz><ekz>
+            <tld/>o havas unu fokuson;
+          </ekz><ekz>
+            la kartezia ekvacio de <tld/>o estas de la tipo
+            <frm am="y=ax^2"><k>y</k> =
+            <k>a</k><k>x</k><sup>2</sup></frm>;
+          </ekz><ekz>
+            la trajektorio de pafa&jcirc;o estas <tld/>o.
+          </ekz>
+        </dif>
+        <bld lok="../bld/k_parabolo.svg" tip="svg" alt="400" lrg="400">
+          <tld/>o
+        </bld>
+        <trd lng="ca">par&agrave;bola<klr> (geom.)</klr></trd>
+        <trd lng="en">parabola</trd>
+        <trd lng="es">par&aacute;bola<klr> (geom.)</klr></trd>
+        <trd lng="hu">parabola</trd>    
+        <trd lng="nl">parabool</trd>
+        <trd lng="pt">par&aacute;bola</trd>
+        <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_b;&c_o;&c_l;&c_a;</trd>
+      </snc>
+      <snc mrk="parabo.0o.BELE">
+        <uzo tip="fak">BELE</uzo>
+        <uzo tip="fak">BIB</uzo>
+        <dif>
+          <ref tip="sin" cel="apolog.0o">Apologo</ref>,
+          alegoria rakonto moralinstrua, precipe biblia:
+          <ekz>
+            kaj aperis al mi vorto de la Eternulo, dirante:
+            Ho filo de homo, proponu enigmon kaj <tld/>on al la domo
+            de <nom>Izrael</nom>, kaj diru: <klr>[&#x2026;]</klr>
+            <fnt><bib>MT</bib>, <lok>&Jeh; 17:1&ndash;3</lok></fnt>;
+          </ekz><ekz>
+            tion la poeto skribis, li skribis tion en formo de <tld/>o 
+            kaj nomis &gcirc;in <ctl>La majstro kaj la instrumentoj</ctl>
+            <fnt><bib>Fab4</bib>, <lok>Plumo kaj inkujo</lok></fnt>;
+          </ekz><ekz>
+            aliaj rakontoj pli similas malnovajn <tld/>ojn
+            (<ctl>La kaso</ctl>, <ctl>En la taksio</ctl>)
+            <fnt>
+              <aut>Nikolao GUDSKOV</aut>: <vrk>Reveno al
+              literaturo</vrk>.
+              <bib>Monato</bib>
+            </fnt>.
+          </ekz>
+        </dif>
+        <trd lng="nl">parabel</trd>
+        <trd lng="ru">&c_p;&c_r;&c_i;&c_t;&c_ch;&c_a;</trd>
+      </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_b;&c_a;&c_l;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>parabola</trd>,
+    <trd>podobenstv&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Parabel</trd>
+  <trd lng="en">parable</trd>
+  <trd lng="fr">parabole</trd>
+  <trdgrp lng="hu">
+        <trd>p&eacute;ld&aacute;zat</trd>,
+        <trd>p&eacute;ldabesz&eacute;d</trd>,
+        <trd>parabola</trd>
+      </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x653E;&#x7269;&#x7DDA;  <pr>&#x307B;&#x3046;&#x3076;&#x3064;&#x305B;&#x3093;</pr></trd>,
+    <trd>&#x305F;&#x3068;&#x3048;&#x8A71;  <pr>&#x305F;&#x3068;&#x3048;&#x3070;&#x306A;&#x3057;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">parabola</trd>
+  <trdgrp lng="sk">
+    <trd>parabola</trd>,
+    <trd>podobenstvo</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x430;&#x440;&#x430;&#x431;&#x43E;&#x43B;&#x430;</trd>,
+    <trd>&#x43F;&#x440;&#x438;&#x442;&#x447;&#x430;</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.29 2023/10/20 14:25:19
+revo: transskribo per <pr>
+
+versio 1.26 2020/02/22 20:10:30
+Wolfram Diestel: svg anst. gif
+
+  Revision 1.25  2020/02/15 23:10:31  revo
+  Wolfram Diestel: formuloj per am
+
+  Revision 1.24  2015/07/04 08:37:41  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.23  2015/06/29 16:40:17  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.22  2010/01/18 17:31:27  revo
+  Mireille Corobu: svg->gif
+
+  Revision 1.21  2009/09/16 16:30:35  revo
+  Sergio Pokrovskij: dif, +ekz
+
+  Revision 1.20  2009/09/10 16:31:50  revo
+-->
+</vortaro>

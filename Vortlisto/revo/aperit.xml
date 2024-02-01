@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: aperit.xml,v 1.31 2023/10/28 08:33:07 revo Exp $">
+<kap>
+  <ofc>9</ofc>
+  <rad>aperitiv</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="aperit.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="aperit.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <!-- Anta&ubreve;man&gcirc;a trinka&jcirc;o, kiu la&ubreve;dire
+      ekscitas la apetiton: -->
+      <ref tip="lst" lst="voko:trinka&jcirc;oj" cel="trink.0ajxo.KUI">Trinka&jcirc;o</ref>,
+      ordinare alkohola, trinkata kiel apetitvekilo
+      anta&ubreve; man&gcirc;o:
+      <ekz>
+	<nom>Bertringer</nom> klopodis por kunigi la virojn en la bonan &ccirc;ambron,
+	kie oni trinkos la <tld/>ojn
+	<fnt><bib>KielAkvo</bib>, <lok>1:1</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_e;&c_r;&c_y;&c_t;&c_y;&c_w;</trd>
+  <trd lng="bg">&c_a;&c_p;&c_je;&c_r;&c_i;&c_t;&c_i;&c_v;</trd>
+  <trdgrp lng="de">
+    <trd>Aperitif</trd>,
+    <trd>&Ouml;ffner</trd>,
+    <trd>Magen&ouml;ffner</trd>
+  </trdgrp>
+  <trd lng="en">ap&eacute;ritif</trd>
+  <trd lng="es">aperitivo</trd>
+  <trd lng="fr">ap&eacute;ritif</trd>
+  <trd lng="ca">aperitiu</trd>
+  <trd lng="he">&alef;&pe;&resh;&yod;&tet;&yod;&fpe;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30DA;&#x30EA;&#x30C1;&#x30D5;</trd>,
+    <trd>&#x98DF;&#x524D;&#x9152;  <pr>&#x3057;&#x3087;&#x304F;&#x305C;&#x3093;&#x3057;&#x3085;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">aperitief</trd>
+  <trd lng="it">aperitivo</trd>
+  <trd lng="oc">aperitiu</trd>
+  <trd lng="pl">aperitif</trd>
+  <trd lng="pt">aperitivo</trd>
+  <trd lng="ro">aperitif</trd>
+  <trd lng="ru">&c_a;&c_p;&c_je;&c_r;&c_i;&c_t;&c_i;&c_v;</trd>
+  <trd lng="sk">aperit&iacute;v</trd>
+  <trd lng="uk">&c_a;&c_p;&c_je;&c_r;&c_i;&c_t;&c_i;&c_v;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5F00;&#x80C3;&#x7269; <pr>k&#x101;iw&#xE8;iw&#xF9;</pr></trd>,
+    <trd>&#x958B;&#x80C3;&#x7269; <pr>k&#x101;iw&#xE8;iw&#xF9;</pr></trd>,
+    <trd>&#x5F00;&#x80C3;&#x98DF;&#x54C1; <pr>k&#x101;iw&#xE8;ish&#xED;p&#x1D0;n</pr></trd>,
+    <trd>&#x958B;&#x80C3;&#x98DF;&#x54C1; <pr>k&#x101;iw&#xE8;ish&#xED;p&#x1D0;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/13 16:46:48
+revo: transskribo per <pr>
+
+versio 1.28 2023/07/31 20:24:17
+Wolfram Diestel: +lst-ref
+
+Revision 1.24  2013/10/21 01:10:14  revo
+Vito Redsky: +trd  ro
+
+Revision 1.23  2013/01/17 01:10:11  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.22  2013/01/01 12:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2008/11/19 09:28:07  revo
+Marc Bavant: kor interpunkcion en dif
+
+Revision 1.20  2008/11/16 17:31:04  revo
+Marc Bavant: konformigis al 9OA
+
+Revision 1.19 2008/04/15 16:30:21 revo
+-->
+</vortaro>

@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: frid.xml,v 1.28 2023/12/22 20:26:40 revo Exp $">
+<kap>
+  <rad>frid</rad>/a  <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="frid.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">NEO</uzo>
+  <snc mrk="frid.0a.malvarma">
+    <dif>
+      <ref tip="dif" cel="varm.mal0a">Malvarma</ref>:
+      <ekz>
+        ili spontanee &gcirc;ermas en <klr>[&#8230;]</klr> <tld/>a kuvo<fnt><aut>Lode Van
+        De Velde</aut>: <vrk>Bierlando Belgio</vrk>,
+        <bib>Monato</bib><lok>jaro
+        2001a, numero 1a, p. 18a</lok></fnt>;
+      </ekz>
+      <ekz>
+        subite penso kaptis lin per <tld/>a mano
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="&Monato;/2003/007991.html">Espero</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_a;&c_l;&c_o;&c_d;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>chladn&yacute;</trd>,
+    <trd>studen&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>kalt</trd>,
+    <trd>k&uuml;hl</trd>,
+    <trd>frostig</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>chilly</trd>,
+    <trd>cold</trd>
+  </trdgrp>
+  <trd lng="es">fr&iacute;o</trd>
+  <trdgrp lng="fa">
+    <trd>&a_s;&a_r;&a_d;</trd>,
+    <trd>&f_y;&a_kh;&a_b;&a_n;&a_d;&a_A;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>froid</trd>,
+    <trd>r&eacute;frig&eacute;r&eacute;</trd>
+  </trdgrp>
+  <trd lng="gl">fr&iacute;o</trd>
+  <trd lng="it">freddo</trd>
+  <trdgrp lng="ja">
+    <trd/>,
+    <trd>&#x51B7;&#21364;&#x306E;  <pr>&#x308C;&#12356;&#x304D;&#12419;&#x304F;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">frio <klr tip="amb">(adj.)</klr></trd>
+  <trd lng="ru">&c_h;&c_o;&c_l;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>frigidn&yacute;</trd>,
+    <trd>studen&yacute;</trd>
+  </trdgrp>
+  <trd lng="tok">lete</trd>
+  <trd lng="uk">&c_h;&#x43E;&#x43B;&#x43E;&c_d;&#x43D;&c_i;&c_j;</trd>
+  <trd lng="zh">&#x51B7;&#x98BC;&#x98BC; <pr>l&#x11B;ngs&#x14D;us&#x14D;u</pr></trd>
+</drv>
+
+<drv mrk="frid.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="frid.0i.esti">
+    <dif>
+      Esti malvarma:
+      <ekz>
+        la <tld/>ujo &ccirc;esos <tld/>i &gcirc;uste kiam plena pro
+        gastoj<fnt><aut>Marjorie Boulton</aut>: <vrk>Tiu le&gcirc;o de
+        Murphy</vrk>, <bib>Monato</bib><lok>jaro 1997a, numero 4a, p.
+        26a</lok></fnt>;
+      </ekz>
+      <ekz>
+        li fari&gcirc;is malsata kaj <tld/>anta
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Sen&ccirc;esa Rakonto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="frost.0i">frosti</ref>,
+      <ref cel="frost.0igi">frostigi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_h;&c_a;&c_l;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_h;&c_a;&c_l;&c_o;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>k&uuml;hlen</trd>,
+    <trd>fr&ouml;steln</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>to keep chilled</trd>,
+    <trd>keep cold</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_s;&a_r;&a_d;
+    &a_n;&f_g;&a_h;&a_d;&a_A;&a_sh;&a_t;&a_n;</trd>,
+    <trd>&a_s;&a_r;&a_d; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="es">enfriar</trd>
+  <trdgrp lng="fr">
+    <trd>r&eacute;frig&eacute;rer</trd>
+  </trdgrp>
+  <trd lng="pt">refrigerar</trd>
+  <trd lng="zh">&#26009;&#x5CED; <pr>li&#xE0;oqi&#xE0;o</pr></trd>
+</drv>
+
+<drv mrk="frid.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="frid.0o.malvarmo">
+    <dif>
+      <ref tip="dif" cel="varm.mal0o.FIZ">Malvarmo</ref>:
+      <ekz>
+        la pilsena biero aperis en Belgio &ccirc;irka&ubreve; 1928, anka&ubreve; danke al la progreso de
+        <tld/>tekniko
+        <fnt>
+          <aut>Lode Van de Velde</aut>
+          <vrk><url ref="&Monato;/2001/007144.php">Bierlando Belgio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        en iliaj rigardoj kaj gestoj estis <tld/>o <klr>(senkompato)</klr>
+        <fnt>
+          <aut>Julian Modest</aut>
+            <vrk><url ref="&Monato;/2001/007140.html">Vetiha</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 26</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        mi trovis &ccirc;i tiun viandon en la <tld/>o&scirc;ranko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julia Sigmond kaj Sen Rodin</aut>
+          <vrk><url ref="&Monato;/2010/009988.php">La mal&jcirc;aluzo de Klorinda</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_o;&c_l;&c_a;&c_d;</trd>
+  <trdgrp lng="de">
+    <trd>K&auml;lte</trd>,
+    <trd>K&uuml;hle</trd>
+  </trdgrp>
+  <trd lng="en">coldness</trd>
+  <trd lng="nl">koelte</trd>
+  <trd lng="zh">&#x81F4;&#x51B7; <pr>zh&#xEC;l&#x11B;ng</pr></trd>
+</drv>
+
+<drv mrk="frid.0ujo">
+  <kap><tld/>ujo <fnt><bib>PIV1</bib></fnt></kap>
+  <snc mrk="frid.0ujo.sxranko">
+    <dif>
+      <ref tip="sin" cel="sxrank.frid0o">&Scirc;ranko</ref> en kiu regas konstanta temperaturo pli malalta
+      ol tiu
+      de la &ccirc;irka&ubreve;a&jcirc;o, uzata por fre&scirc;e konservi man&gcirc;a&jcirc;ojn kaj
+      trinka&jcirc;ojn dum kelkaj tagoj; <ref cel="varm.mal0o">malvarm</ref>ujo:
+      <ekz>
+        en la familia <tld/>ujo trovi&gcirc;is nur fre&scirc;aj legomoj kaj fruktoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lode van de Velde</aut>
+          <vrk><url ref="&Monato;/2004/008405.html">Kuirita tomato estas morta tomato</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la odora&ccirc;o de la <tld/>ujo na&ubreve;zas &scirc;in
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Saliko</aut>
+          <vrk><url ref="&Monato;/2006/008760.php">En fremda lando</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en tiuj cirkonstancoj kompreneble ne estas bezono je
+        kolortelevidilo, lavma&scirc;ino, <tld/>ujo, k.a.
+        <fnt><aut>Mu Binghua</aut>:
+          <vrk>Elektraj aparatoj mankas en la kamparo</vrk>,
+          <bib>Monato</bib><lok>jaro 2000a, numero 12a, p. 11a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Kvankam la vorto &leftquot;frida&rightquot; estas konsiderata
+      neologismo, la
+      deriva&jcirc;o
+      &leftquot;fridujo&rightquot; enpenetris la &ccirc;iutagan vivon.
+    </rim>
+    <refgrp tip="vid">
+      <ref cel="frost.0igilo">frostofako</ref>,
+      <ref cel="frost.0ujo">frostujo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ar">&a_th;&a_fatha;&a_l;&a_shadda;&a_fatha_A;&a_j;&a_fatha;&a_t_marbuta;&a_dammatan;
+  &a_j; &a_A;&a_t;</trd>
+  <trd lng="be">&c_h;&c_a;&c_l;&c_a;&c_d;&c_z;&c_ib;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_h;&c_l;&c_a;&c_d;&c_i;&c_l;&c_n;&c_i;&c_k;</trd>
+  <trd lng="cs">chladni&ccaron;ka</trd>
+  <trd lng="de">K&uuml;hlschrank</trd>
+  <trd lng="en">refrigerator</trd>
+  <trdgrp lng="es">
+    <trd>frigor&iacute;fico [Esp.]</trd>,
+    <trd>frigo [Esp.]</trd>,
+    <trd>fr&iacute;o (electrodom&eacute;stico) [Cuba]</trd>,
+    <trd>heladera [Arg., Uy.]</trd>,
+    <trd>nevera</trd>
+    <trd>refrigerador</trd>,
+    <trd>refrigeradora</trd>,
+    <trd>refri</trd>
+  </trdgrp>
+  <trd lng="fa">&f_y;&a_kh;&f_ch;&a_A;&a_l;</trd>
+  <trd lng="fr">refrig&eacute;rateur</trd>
+  <trdgrp lng="gl">
+    <trd>frigor&iacute;fico</trd>,
+    <trd>neveira</trd>,
+    <trd>refrixerador</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>kulkas</trd>,
+    <trd>lemari es</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>frigorifero</trd>,
+    <trd>frigo</trd>
+  </trdgrp>
+  <trd lng="ja">&#x51B7;&#34101;&#x5EAB;  <pr>&#x308C;&#12356;&#x305E;&#12358;&#12371;</pr></trd>
+  <trd lng="nl">koelkast</trd>
+  <trdgrp lng="pt">
+    <trd>frigor&iacute;fico [PT-PT]</trd>,
+    <trd>geladeira [PT-BR]</trd>,
+    <trd>refrigerador [PT-BR]</trd>
+  </trdgrp>
+  <trd lng="ro">frigider</trd>
+  <trd lng="ru">&c_h;&c_o;&c_l;&c_o;&c_d;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">chladni&ccaron;ka</trd>
+  <trdgrp lng="uk">
+    <trd>&c_h;&#x43E;&#x43B;&#x43E;&c_d;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&c_r;&c_je;&c_f;&c_r;&c_i;&c_zh;&c_je;&c_r;&c_a;&c_t;&#x43E;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#30005;&#x51B0;&#x7BB1; <pr>di&#xE0;nb&#x12B;ngxi&amacron;ng</pr></trd>,
+    <trd>&#x51B0;&#x7BB1; <pr>b&#x12B;ngxi&amacron;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/12/22 20:26:40
+Wolfram Diestel: +ref
+
+versio 1.26 2023/10/14 19:15:46
+revo: transskribo per <pr>
+
+versio 1.24 2023/04/30 09:24:16
+Paul Peeraerts: Steloj -> monato
+
+versio 1.23 2023/04/14 05:27:17
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.22 2022/11/22 14:09:07
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.21 2022/11/08 08:41:27
+Dmitri Gabinski: + trd be
+
+versio 1.20 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.17  2018/05/23 05:10:13  revo
+-->
+</vortaro>

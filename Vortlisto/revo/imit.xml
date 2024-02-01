@@ -1,0 +1,644 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: imit.xml,v 1.39 2023/11/19 10:22:12 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>imit</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="imit.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="imit.0i.agi">
+    <dif>
+      Agi <ref cel="sam.0a">same</ref>, kiel alia persono,
+      ordinare rigardata kiel modelo:
+      <ekz>
+        ploranton ni evitas, ridanton ni <tld/>as
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ante lin en la mal&ccirc;astado
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 20:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la infano <klr>[&#x2026;]</klr> <tld/>e balbutas la simplajn vortojn, ne komprenante
+        ilin
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se mi efektive estus bela, aliaj penus min <tld/>i
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        moke <tld/>krii
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Malgranda Niko kaj granda Niko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> surmetadis okulvitrojn kaj <tld/>adis &scirc;ian vo&ccirc;on
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gurd.0i.FIG">gurdi<sncref/></ref>,
+      <ref cel="mim.0i">mimi</ref>,
+      <ref cel="simi.0i">simii</ref>,
+      <ref cel="simul.0i">simuli</ref>,
+      <ref cel="sozi.0o">sozio</ref>,
+      <ref cel="sxajn.0igi">&scirc;ajnigi</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>gleichtun</trd>,
+    </trdgrp>
+    <trd lng="es">imitar</trd>
+    <trdgrp lng="pl">
+      <trd>imitowa&cacute;</trd>,
+      <trd>na&sacute;ladowa&cacute;</trd>,
+      <trd>emulowa&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="imit.0i.fari">
+    <dif>
+      Fari objekton a&ubreve; impreson tute <ref cel="simil.0a">simila</ref>n al alia,
+      rigardata kiel <ref cel="model.0o">modelo</ref>; <ref tip="sin" cel="kopi.0i">kopii</ref>:
+      <ekz>
+        du karbopecoj perfekte <tld/>is homan rigardon
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Tro Homa Sorto de iu Ne&gcirc;homo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la rozokolora kamena rebrilo <klr>[&#x2026;]</klr> <tld/>as delikatan vangru&gcirc;on
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nordan brilon <klr>[&#x2026;]</klr> neniu povus <tld/>i
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili per mirinde aran&gcirc;ita modulado <tld/>is molan susuradon de ondi&gcirc;antaj &scirc;tofoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="epigon.0o.kopiulo">epigono<sncref/></ref>,
+      <ref cel="klon.0i">kloni</ref>,
+      <ref cel="produk.re0i.TEK">reprodukti<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>nachbilden</trd>,
+      <trd>kopieren</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>reproducir<klr tip="ind"> (imitar)</klr></trd>,
+      <trd>hacer una <ind> reproducci&oacute;n</ind></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>imitowa&cacute;</trd>,
+      <trd>na&sacute;ladowa&cacute;</trd>,
+      <trd>podrabia&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_m;&c_ib;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_j;&c_m;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">napodobit</trd>
+  <trdgrp lng="de">
+    <trd>nachahmen</trd>,
+    <trd>imitieren</trd>,
+    <trd>nachmachen</trd>,
+  </trdgrp>
+  <trd lng="en">imitate</trd>
+  <trdgrp lng="fr">
+    <trd>imiter</trd>,
+    <trd>mimer<klr tip="ind"> (imiter)</klr></trd>,
+    <trd>reproduire<klr tip="ind"> (imiter)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>ut&aacute;noz</trd>,
+    <trd>imit&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x307E;&#x306D;&#x308B;</trd>,
+    <trd>&#x6A21;&#x5023;&#x3059;&#x308B;  <pr>&#x3082;&#x307B;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x898B;&#x7FD2;&#x3046;  <pr>&#x307F;&#x306A;&#x3089;&#x3046;</pr></trd>,
+    <trd>&#x6A21;&#x9020;&#x3059;&#x308B;  <pr>&#x3082;&#x305E;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>imiteren</trd>,
+    <trd>nabootsen</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>imitar</trd>,
+    <trd>reproduzir<klr tip="amb"> (imitar)</klr></trd>,
+    <trd>copiar<klr tip="amb"> (imitar)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_i;&c_m;&c_i;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">napodob&ncaron;ova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_s;&#x43B;&c_ib;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_ib;&#x43C;&c_ib;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7167;&#x642C; <pr>zh&#xE0;ob&#x101;n</pr></trd>,
+    <trd>&#x6548; <pr>xi&#xE0;o</pr></trd>,
+    <trd>&#x6A21; <pr>m&#xF3;</pr></trd>,
+    <trd>&#x6A21;&#x4EFF; <pr>m&#xF3;f&#x1CE;ng</pr></trd>,
+    <trd>&#x4EFF;&#x509A; <pr>f&#x1CE;ngxi&#xE0;o</pr></trd>,
+    <trd>&#x4EFF;&#x5236; <pr>f&#x1CE;ngzh&#xEC;</pr></trd>,
+    <trd>&#x6A21;&#x5199; <pr>m&#xF3;xi&#x11B;</pr></trd>,
+    <trd>&#x6479;&#x62DF; <pr>m&#xF3;n&#x1D0;</pr></trd>,
+    <trd>&#x6548;&#x6CD5; <pr>xi&#xE0;of&#x1CE;</pr></trd>,
+    <trd>&#x4EFF; <pr>f&#x1CE;ng</pr></trd>,
+    <trd>&#x6479; <pr>m&#xF3;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="imit.0o">
+  <kap><tld/>o,
+  <var><kap><tld/>ado</kap></var></kap>
+  <snc mrk="imit.0o.imitado">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        li! &ndash; diris Karolino kun <tld/>o de patoso
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        la neuzado de &leftquot;ci&rightquot; tute ne estas senkonscia <tld/>ado de la ekzistantaj lingvoj
+        <fnt>
+          <bib>LR</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ilia tuta vivo estas nur sensenca <tld/>ado de tiu de la gepatroj
+        <fnt>
+          <bib>Tor</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        papaga <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2005/008691.php">Familia nomo</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plumpaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2009/009902.php">Sango kaj honoro</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_j;&c_m;&c_a;&c_n;&c_mol;&c_n;&c_je;
+    </trd>,
+    <trd>&c_ib;&c_m;&c_ib;&c_t;&c_a;&c_c;&c_y;&c_ja;
+      <klr tip="amb">(&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;)
+      </klr></trd>
+  </trdgrp>
+  <trd lng="bo">&#xF63;&#xF51;&#xF0B;&#xF5F;&#xFB3;&#xF7C;&#xF66;&#xF0B;</trd>
+  <trdgrp lng="cs">
+    <trd>imitace</trd>,
+    <trd>imitov&aacute;n&iacute;</trd>,
+    <trd>napodobov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Imitieren</trd>,
+    <trd>Imitation</trd>
+  </trdgrp>
+  <trd lng="fr">imitation<klr tip="ind"> (action)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>ut&aacute;nz&aacute;s</trd>,
+    <trd>imit&aacute;l&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x307E;&#x306D;</trd>,
+    <trd>&#x6A21;&#x5023;  <pr>&#x3082;&#x307B;&#x3046;</pr></trd>,
+    <trd>&#x6A21;&#x9020;  <pr>&#x3082;&#x305E;&#x3046;</pr></trd>,
+    <trd>&#x6A21;&#x4F5C;  <pr>&#x3082;&#x3055;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>imiteren</trd>,
+    <trd>nabootsen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>imitacja</trd>,
+    <trd>na&sacute;ladownictwo</trd>
+  </trdgrp>
+  <trd lng="pt">imita&ccedil;&atilde;o<klr tip="amb">
+      (a&ccedil;&atilde;o de imitar)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_r;&c_a;&c_zh;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_i;&c_m;&c_i;&c_t;&c_a;&c_c;&c_i;&c_ja;
+      <klr>(&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>imit&aacute;cia</trd>,
+    <trd>napodobovanie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_s;&#x43B;&c_ib;&c_d;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_ib;&#x43C;&c_ib;&c_t;&c_a;&c_c;&c_ib;&#x44F; (&c_d;&c_ib;&#x44F;)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5192;&#x5145; <pr>m&#xE0;och&#x14D;ng</pr></trd>,
+    <trd>&#x5192;&#x5145; <pr>m&#xE0;och&#x14D;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="imit.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="imit.0ajxo.KOMUNE">
+    <dif>
+      <ref tip="super" cel="objekt.0o">Objekto</ref> a&ubreve;
+      <ref tip="super" cel="verk.0o">verko</ref> <tld/>anta alian:
+      <ekz>
+        elpensi, kiamaniere oni povas fari <tld/>a&jcirc;on de la flugiloj de birdoj kaj poste
+        havi la eblon flugi
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Du fratoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pecojn da glacio <klr>[&#x2026;]</klr> li kunmetadis en plej diversaj manieroj, por
+        formi <tld/>a&jcirc;on de donita modelo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili volas vidi a&ubreve;tentika&jcirc;ojn, ne <tld/>a&jcirc;ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Yasuo</aut>
+          <vrk><url ref="&Monato;/2003/008059.html">Fermi&gcirc;as la arbaro-domo</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li fiere portis la kornvalan kilton &ndash; <tld/>a&jcirc;o de la skota nacia vira vesta&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2008/009528.php">La kornvala ne mortinta!</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        esperantaj verboj ja ne povas esti sklavaj <tld/>a&jcirc;oj de francaj verboj
+        <fnt>
+       <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2000/007057.php">&Gcirc;uiga enhavo, ne&gcirc;uiga traduko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/12, p. 26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="bild.0o.simili">bildo<sncref/></ref>,
+      <ref cel="faksim.0o">faksimilo</ref>,
+      <ref cel="fals">falsa&jcirc;o</ref>,
+      <ref cel="pastic.0o">pasti&ccirc;o</ref>,
+      <ref cel="plagia.0o">plagiato</ref>,
+      <ref cel="suroga.0o">surogato</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="klisx.0o">kli&scirc;o</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_m;&c_ib;&c_t;&c_a;&c_c;&c_y;&c_ja;
+      <klr tip="amb">(&c_r;&c_e;&c_ch;)</klr></trd>,
+    <trd>&c_p;&c_a;&c_d;&c_r;&c_o;&c_b;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_r;&c_a;&c_g;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>F&auml;lschung</trd>,
+    <trd>Imitat</trd>,
+    <trd>Imitation</trd>
+  </trdgrp>
+  <trd lng="fr">imitation<klr tip="ind"> (objet)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>ut&aacute;nzat</trd>,
+    <trd>imit&aacute;ci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6A21;&#x9020;&#x54C1;  <pr>&#x3082;&#x305E;&#x3046;&#x3072;&#x3093;</pr></trd>,
+    <trd>&#x6A21;&#x5023;&#x4F5C;  <pr>&#x3082;&#x307B;&#x3046;&#x3055;&#x304F;</pr></trd>,
+    <trd>&#x30A4;&#x30DF;&#x30C6;&#x30FC;&#x30B7;&#x30E7;&#x30F3;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>imitatie</trd>,
+    <trd>nabootsing</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>imitacja</trd>,
+    <trd>podr&oacute;bka</trd>
+  </trdgrp>
+  <trd lng="pt">imita&ccedil;&atilde;o<klr tip="amb"> (objeto)</klr>
+  </trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_m;&c_i;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_d;&c_je;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_r;&c_r;&c_o;&c_g;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43C;&c_ib;&c_t;&c_a;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&c_r;&#x43E;&c_b;&#x43A;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_r;&#x43E;&c_gu;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6A21;&#x4EFF;&#x8005; <pr>m&#xF3;f&#x1CE;ngzh&#x11B;</pr></trd>,
+    <trd>&#x4EFF;&#x5192;&#x54C1; <pr>f&#x1CE;ngm&#xE0;op&#x1D0;n</pr></trd>,
+    <trd>&#x4F2A;&#x9020;&#x54C1; <pr>w&#x11B;iz&#xE0;op&#x1D0;n</pr></trd>,
+    <trd>&#x8D0B;&#x54C1; <pr>y&#xE0;np&#x1D0;n</pr></trd>,
+    <trd>&#x5192;&#x5145; <pr>m&#xE0;och&#x14D;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="imit.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="imit.0ema.PSI">
+    <dif>
+      Kiu inklinas al <tld/>o, agas prefere la&ubreve; modelo:
+      <ekz>
+        homoj ja estas ege <tld/>emaj, ili bezonas modelojn
+        <fnt>
+          <bib>BonaLingvo</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>copieur<klr> (adj.)</klr></trd>,
+    <trd>imitateur<klr> (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>odtw&oacute;rczy</trd>,
+    <trd>na&sacute;ladowczy</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="imit.0emo">
+  <kap><tld/>emo</kap>
+  <snc mrk="imit.0emo.PSI">
+    <dif>
+      Kapablo, inklino por <tld/>i:
+      <ekz>
+        tiuj verkoj <klr>[&#x2026;]</klr> estas belstilaj ekzemploj <klr>[kaj]</klr> vekis
+        <tld/>emon kaj &scirc;aton por la klasika stilo
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj estas infektitaj de <tld/>emo, &ccirc;iu simias kaj
+        papagas sian estron
+        <fnt>
+          <aut>N. Gogol, trad. A. Kor&jcirc;enkov</aut>,
+          <vrk><url ref="&LOdE;Rn-gogl2.htm">
+          Palto</url></vrk>,
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">esprit d'<ind>imitation</ind></trd>
+  <trd lng="pl">na&sacute;ladownictwo</trd>
+</drv>
+
+<drv mrk="imit.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="imit.0ilo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Programo, kiu igas komputilon <tld/>i la konduton de
+      alispeca komputilo, ebligante ruli la programojn por la
+      <tld/>ata komputilo per la <tld/>anta:
+      <ekz>
+        tiuj ludoj ne plu estas disvastigataj komerce sed <klr>[&#x2026;]</klr> necesas
+        <tld/>ilo kiu permesas funkciigi <nom>DOS</nom>-bazitajn programojn
+        <fnt>
+          <aut>Aleks Baudry</aut>
+          <vrk><url ref="&Tekstaro;?nomo=kontakto-2011-2019">Videoludoj</url></vrk>
+          <lok>Kontakto 2011-2019</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;<nom>Wine</nom>&rightquot; aperis kiel mallongigo de la angla esprimo &leftquot;<nac>Windows Emulator</nac>&rightquot;
+        kaj &gcirc;i jes
+        estas <tld/>ilo, tamen &gcirc;i <tld/>as nur la interfacon
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Wine">Wine</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi povis el&scirc;uti unikodajn tiparojn kaj unikodan terminal<tld/>ilon el la reto
+        <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="&Monato;/2000/006801.html">
+          Interreto: uniksulo ekspertas Unikodon</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/02, p. 20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="interp2.0ilo">interpretilo</ref>
+    <trd lng="de">Emulator</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_m;&c_ib;&c_t;&c_a;&c_t;&c_a;&c_r;</trd>,
+    <trd>&c_e;&c_m;&c_u;&c_l;&c_ja;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trd lng="cs">emul&aacute;tor</trd>
+  <trd lng="en">emulator</trd>
+  <trd lng="fr">&eacute;mulateur</trd>
+  <trd lng="hu">emul&aacute;tor</trd>
+  <trdgrp lng="pl">
+    <trd>emulator</trd>,
+    <trd>symulator</trd>
+  </trdgrp>
+  <trd lng="pt">emulador<klr tip="amb"> (computa&ccedil;&atilde;o)</klr>
+  </trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_m;&c_i;&c_t;&c_a;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_e;&c_m;&c_u;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">emul&aacute;tor</trd>
+  <trdgrp lng="uk">
+    <trd>&c_je;&#x43C;&c_u;&#x43B;&#x44F;&c_t;&#x43E;&c_r;</trd>,
+    <trd>&c_ib;&#x43C;&c_ib;&c_t;&c_a;&c_t;&#x43E;&c_r;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x6A21;&#x62DF;&#x5668; <pr>m&#xF3;n&#x1D0;q&#xEC;</pr></trd>
+</drv>
+
+<drv mrk="imit.mok0i">
+  <kap>mok<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="imit.mok0i.KOMUNE">
+    <dif>
+      Imiti iun a&ubreve; ion, eventuale kun troigoj, por ridigi:
+      <ekz>
+        balda&ubreve; li povosciis mok<tld/>i la manieron de parolado
+        kaj de irado de &ccirc;iuj homoj sur la tuta strato
+        <fnt><bib>Fab2</bib>, <lok>Ne&gcirc;a Re&gcirc;ino</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="karika.0i">karikaturi</ref>,
+      <ref cel="ripet.mok0i">mokripeti</ref>,
+      <ref cel="parodi.0i">parodii</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_k;&c_r;&c_y;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_d;&c_r;&c_a;&c_zh;&c_n;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_b;&c_r;&c_e;&c_h;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="de">nach&auml;ffen</trd>
+  <trd lng="fr">contrefaire<klr tip="amb"> (par moquerie)</klr></trd>
+  <trd lng="pl">przedrze&zacute;nia&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>macaquear</trd>,
+    <trd>arremedar</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x732D; <pr>yu&#xE1;n</pr></trd>,
+    <trd>&#x876F; <pr>yu&#xE1;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="imit.son0o">
+  <kap>son<tld/>o</kap>
+  <snc mrk="imit.son0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Vorto <tld/>anta sonon;
+      <ref tip="sin" cel="onomat.0o.LIN">onomatopeo</ref>:
+      <ekz>
+        son<tld/>oj trovi&gcirc;as iom ekster la ordinara gramatiko
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk>[PMEG] Plena Manlibro de Esperanta Gramatiko</vrk>,
+          <lok>versio 14.1, 2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;ene estas, ke por la angla &leftquot;<nac>larks</nac>&rightquot; oni prenas,
+        eble pro son<tld/>o, la vorton &leftquot;<esc>lariksoj</esc>&rightquot;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="&Monato;/2015/011504.php">Tre bonvena verko, sed
+          ...</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la son<tld/>oj &leftquot;k&ubreve;aks, <esc>brekekekeks</esc>&rightquot; aludas blekon
+        de bufo.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="interj.0o">interjekcio</ref>
+  </snc>
+  <trd lng="be">&c_g;&c_u;&c_k;&c_a;&c_p;&c_je;&c_r;&c_a;&c_j;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_je; &c_s;&c_l;&c_o;&c_v;&c_a;</trd>
+  <trd lng="cs">zvukomalebn&eacute; slovo</trd>
+  <trdgrp lng="de">
+    <trd>Onomatopoetikon</trd>,
+    <trd>lautnachahmendes <ind>Wort</ind></trd>,
+    <trd>schallnachahmendes <ind>Wort</ind></trd>
+  </trdgrp>
+  <trd lng="es">onomatopeya</trd>
+  <trd lng="fr">onomatop&eacute;e</trd>
+  <trd lng="hu">hangut&aacute;nz&oacute; sz&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x64EC;&#x97F3;  <pr>&#x304E;&#x304A;&#x3093;</pr></trd>,
+    <trd>&#x64EC;&#x97F3;&#x8A9E;  <pr>&#x304E;&#x304A;&#x3093;&#x3054;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">onomatopee</trd>
+  <trdgrp lng="pl">
+    <trd>s&lstroke;owo <ind>onomatopeiczne</ind></trd>,
+    <trd>s&lstroke;owo <ind>d&zacute;wi&eogonek;kona&sacute;ladowcze</ind></trd>
+  </trdgrp>
+  <trd lng="pt">onomatop&eacute;ia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_v;&c_u;&c_k;&c_o;&c_p;&c_o;&c_d;&c_r;&c_a;&c_zh;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_z;&c_v;&c_u;&c_k;&c_o;&c_p;&c_o;&c_d;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_s;&c_l;&c_o;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trd lng="sk">zvukomalebn&eacute; slovo</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_v;&c_u;&#x43A;&#x43E;&#x43D;&c_a;&c_s;&#x43B;&c_ib;&c_d;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43E;&#x43D;&#x43E;&#x43C;&c_a;&c_t;&#x43E;&#x43F;&c_je;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x62DF;&#x58F0; <pr>n&#x1D0;sh&#x113;ng</pr></trd>,
+    <trd>&#x62DF;&#x58F0;&#x8BCD; <pr>n&#x1D0;sh&#x113;ngc&#xED;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.38 2023/11/03 01:31:41
+Vito Redsky: +trd pl 
+
+versio 1.37 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.35 2023/05/04 16:53:13
+revo: aktualigo URL-unuoj
+
+versio 1.34 2023/04/22 18:29:55
+Paul Peeraerts: &steloj -> monato.be
+
+versio 1.33 2023/04/14 15:26:06
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.32 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.29 2021/11/01 12:47:52
+Dmitri Gabinski: + trd be
+
+versio 1.27 2021/03/28 09:56:47
+-->
+</vortaro>

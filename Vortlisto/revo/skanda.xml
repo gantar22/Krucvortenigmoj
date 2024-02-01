@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: skanda.xml,v 1.21 2023/10/21 07:46:47 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>skandal</rad>/o
+</kap>
+<drv mrk="skanda.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="skanda.0o.PSI">
+    <dif>
+      <ref tip="super" cel="indign.0o">Indigno</ref> ka&ubreve;zata de malbonekzemplaj agoj a&ubreve; paroloj:
+      <ekz>
+        tiu Sedilo estas kapabla iri al la banko por fari en &gcirc;i <tld/>on
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne faru <tld/>on meze en la nokto
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Unua Parto</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        vi ja ka&ubreve;zis grandan <tld/>on, faris tutan paroladon kaj volis instrui la
+        instruistojn, &gcirc;is ili devis forkonduki vin el la &ccirc;ambro
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por fini la <tld/>on, la bazestro fermis la kunvenon
+        <fnt>
+          <bib>&Ccirc;uk&ccirc;oj</bib>
+          <lok>4. La fatala sa&gcirc;eco.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kverel.0o">kverelo</ref>,
+      <ref cel="protes.0o">protesto</ref>,
+      <ref cel="provok.0o">provoko</ref>,
+      <ref cel="ribel.0o">ribelo</ref>,
+      <ref cel="rumor.0o">rumoro</ref>,
+      <ref cel="tumult.0o">tumulto</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="skanda.0o.fifamo">
+    <dif>
+      Beda&ubreve;rinda kaj dan&gcirc;era diskoniteco de iu malbona ekzemplo:
+      <ekz>
+        tial (kia <tld/>o!) okazis, ke la masonistoj, ligna&jcirc;istoj kaj potistoj,
+        <klr>[&#x2026;]</klr> kura&gcirc;is en la drinkejoj ne nur plendi pri la impostoj, sed e&ccirc;
+        indigni kontra&ubreve; la povo de l' pastroj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia filino, tiaj disi&gcirc;oj ne povas esti farataj sen granda <tld/>o
+        <fnt>
+          <bib>GDn</bib>
+          <lok>Akto Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por eviti &ccirc;iun <tld/>on, Heleno parolis nek al Andreo, nek al sia unuanaskito
+        pri la matena aventuro
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_k;&c_a;&c_n;&c_d;&c_a;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>ostuda</trd>,
+    <trd>pohor&scaron;en&iacute;</trd>,
+    <trd>skand&aacute;l</trd>,
+    <trd>&scaron;kand&aacute;l <klr>(hovor.)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Skandal</trd>
+  <trd lng="en">scandal</trd>
+  <trdgrp lng="fr">
+    <trd>scandale</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>botr&aacute;ny</trd>,
+    <trd>skandalum</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30B9;&#x30AD;&#x30E3;&#x30F3;&#x30C0;&#x30EB;  <pr>&#x3059;&#x304D;&#x3083;&#x3093;&#x3060;&#x308B;</pr></trd>,
+    <trd>&#x919C;&#x805E;  <pr>&#x3057;&#x3085;&#x3046;&#x3076;&#x3093;</pr></trd>,
+    <trd>&#x7269;&#x8B70;  <pr>&#x3076;&#x3064;&#x304E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">schandaal</trd>
+  <trdgrp lng="pl">
+    <trd>skandal</trd>,
+    <trd>awantura</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_k;&c_a;&c_n;&c_d;&c_a;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>pohor&scaron;enie</trd>,
+    <trd>v&yacute;tr&zcaron;nos&tcaron;</trd>,
+    <trd>&scaron;kand&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_k;&c_a;&c_n;&c_d;&c_a;&c_l;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_i;&c_s;&c_t;&c_o;&c_j;&c_n;&c_i;&c_j; &c_v;&c_ch;&c_i;&c_n;&c_o;&c_k;</trd>,
+    <trd>&c_g;&c_a;&c_n;&c_mol;&c_b;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skanda.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Ka&ubreve;zi <tld/>on al iu:
+      <ekz>
+        li ne plu da&ubreve;rigu la elmontron, por ke la malklera popolo ne <tld/>u
+        <fnt>
+          <bib>DKM</bib>
+          <lok>&Ccirc;apitro LXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen estas kial anta&ubreve; kelkaj tagoj mi tiel forte cin <tld/>is, kiam mi parolis
+        pri la morto de mia edzo la&ubreve; tiel malfunebra maniero
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Deka</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia apotekisto-kuracisto <klr>[&#x2026;]</klr> &ccirc;iam <tld/>is kaj publike postulis, ke
+        la indi&gcirc;enoj estu diskretaj kaj ne &scirc;ovu sian tundran nazon en la privatan
+        vivon de <klr>[li]</klr>
+        <fnt>
+          <bib>&Ccirc;uk&ccirc;oj</bib>
+          <lok>2. Ligi-oravilli.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="indign.0i">indigni</ref>,
+      <ref cel="koler.0i">koleri</ref>,
+      <ref cel="kverel.0i">kvereli</ref>,
+      <ref cel="protes.0i.malkonsenti">protesti</ref>,
+      <ref cel="tumult.0i">tumulti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_a;&c_n;&c_d;&c_a;&c_l;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;
+    &c_s;&c_k;&c_a;&c_n;&c_d;&c_a;&c_l;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>budit pohor&scaron;en&iacute;</trd>,
+    <trd>ostouzet</trd>,
+    <trd>skandalizovat</trd>,
+    <trd>zp&uring;sobit ostudu</trd>,
+    <trd>zp&uring;sobit pohor&scaron;en&iacute;</trd>,
+    <trd>zp&uring;sobit skand&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>einen <ind>Skandal</ind> aufziehen</trd>,
+    <trd>eine <ind>Szene</ind> machen</trd>
+  </trdgrp>
+  <trd lng="en">scandalize</trd>
+  <trd lng="fr">scandaliser</trd>
+  <trd lng="hu">botr&aacute;nyt okoz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7269;&#x8B70;&#x3092;&#x304B;&#x3082;&#x3059;  <pr>&#x3076;&#x3064;&#x304E;&#x3092;&#x304B;&#x3082;&#x3059;</pr></trd>,
+    <trd>&#x61A4;&#x6FC0;&#x3055;&#x305B;&#x308B;  <pr>&#x3075;&#x3093;&#x3052;&#x304D;&#x3055;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">te <ind>schande</ind> maken</trd>
+  <trd lng="pl">awanturowa&cacute; si&eogonek;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol; <ind>&c_s;&c_k;&c_a;&c_n;&c_d;&c_a;&c_l;</ind> <klr>(&c_p;&c_je;&c_r;&c_je;&c_d;
+    &c_k;&c_je;&c_m;-&c_l;.,
+    &c_k;&c_o;&c_m;&c_u;-&c_l;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>budi&tcaron; pohor&scaron;enie</trd>,
+    <trd>robi&tcaron; v&yacute;tr&zcaron;nos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_k;&c_a;&c_n;&c_d;&c_a;&c_l;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_je;&c_sh;&c_k;&c_je;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.19 2023/09/02 21:21:37
+Vito Redsky: +trd pl 
+
+versio 1.18 2022/04/15 16:44:52
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+Revision 1.15  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/04/30 12:25:32  revo
+Russ Williams: +trd en
+
+Revision 1.13  2004/07/06 16:33:29  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.12 2004/01/20 18:34:40 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2003/01/17 17:34:04 revo
+-->
+</vortaro>

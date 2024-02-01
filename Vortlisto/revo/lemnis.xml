@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lemnis.xml,v 1.15 2022/03/22 18:26:50 revo Exp $">
+<kap>
+  <rad>lemniskat</rad>/o
+</kap>
+<drv mrk="lemnis.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 35</lok></fnt>
+  <snc mrk="lemnis.0o.ebena">
+    <dif>
+      Ebena <ref tip="super" cel="kurb.0o.MAT">kurbo</ref>, konsistanta
+      el
+      &ccirc;iuj tiaj punktoj, ke la produto de iliaj distancoj al 
+      <frm am="n"><k>n</k></frm> fiksaj punktoj <klr>(&gcirc;iaj
+      polusoj)</klr> 
+      egalas al fiksa nombro:
+      <ekz>
+        la kurbo kun polusa ekvacio de la tipo
+        <frm am="rho=a(2cos2theta)^(1//2)">&rho; =
+        <k>a</k>(2cos2&theta;)<sup>&#xBD;</sup></frm> estas 
+        dupolusa <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <bld lok="../bld/k_lemniskato.svg" tip="svg" alt="400" lrg="400">
+    dupolusa <tld/>o
+  </bld>
+  <trd lng="be">&c_l;&c_je;&c_m;&c_n;&c_ib;&c_s;&c_k;&c_a;&c_t;&c_a;</trd>
+  <trd lng="de">Lemniskate</trd>
+  <trd lng="en">lemniscate</trd>
+  <trd lng="fr">lemniscate</trd>
+  <trd lng="hu">lemniszk&aacute;ta</trd>
+  <trd lng="nl">lemniscaat</trd>
+  <trd lng="pl">lemniskata</trd>
+  <trd lng="pt">lemniscata</trd>
+  <trd lng="ru">&c_l;&c_je;&c_m;&c_n;&c_i;&c_s;&c_k;&c_a;&c_t;&c_a;</trd>
+  <trd lng="sk">lemniskata</trd>
+  <trd lng="cs">lemnisk&aacute;ta</trd>
+  <trd lng="uk">&#x43B;&#x435;&#x43C;&#x43D;&#x456;&#x441;&#x43A;&#x430;&#x442;&#x430;</trd>
+</drv>
+</art>
+
+<!--
+$Log: lemnis.xml,v $
+versio 1.14 2020/02/22 20:10:23
+Wolfram Diestel: svg anst. gif
+
+Revision 1.13  2020/02/15 16:10:31  revo
+Wolfram Diestel: formuloj per am
+
+Revision 1.12  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2010/01/18 17:31:29  revo
+Mireille Corobu: svg->gif
+
+Revision 1.9  2004/05/24 16:33:13  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2004/02/13 17:30:47  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2003/04/28 16:31:27  revo
+-->
+</vortaro>

@@ -1,0 +1,661 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ordina.xml,v 1.36 2023/11/07 21:21:27 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>ordinar</rad>/a <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="ordina.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc>
+    <dif>
+      Ne diferenca je la kutimo:
+      <ekz>
+        <tld/>a morto <klr>(pro alta a&gcirc;o)</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 16:29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ligna&jcirc;istoj <tld/>aj kaj artaj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a hontemo de l' junaj knabinoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> kuris rapide, kiel tio estas ebla por <tld/>a homo
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Sesope oni trairas la tutan mondon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        je la tria horo &scirc;i devis esti sur sia <tld/>a loko de la kudrejo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estus ja malsa&gcirc;e pensi, ke poeto estas alia, ol la <tld/>aj homoj, inter kiuj
+        ofte trovi&gcirc;as naturoj pli poetaj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiuj aferoj estas tiom <tld/>aj, ke ili ne estas priparolindaj
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Cseh</nom> tiam decidis ne fari kurson en la <tld/>a senco de la vorto, sed simplan
+        konversacion
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Unua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konven1.0a">konvencia</ref>,
+      <ref cel="kutim.0a.io">kutima<sncref/></ref>,
+      <ref cel="normal.0a.KOMUNE">normala<sncref/></ref>,
+      <ref cel="tradic.0a">tradicia</ref>
+    </refgrp>
+  </snc>
+  <snc>
+    <dif>
+      Ne diferenca je la normala grado:
+      <ekz>
+        mi estis ankora&ubreve; juna, kaj, posedante <tld/>an lernejan sciadon, mi estis donita
+        al botisto, por lerni
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvankam la levi&gcirc;o atingis apena&ubreve; la trionon de la <tld/>a alteco, jam la tuta
+        bordo estis subakvigita
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne<tld/>a beleco
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Tri estas tro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Platono volas emfazi tiun scion kiu superas &ccirc;iun <tld/>an scion
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Na&ubreve;</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="averagx.0a">avera&gcirc;a</ref>,
+      <ref cel="mez.0a.averagxa">meza<sncref/></ref>,
+      <ref cel="moder.0a">modera</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_z;&c_v;&c_y;&c_ch;&c_a;&c_j;&c_n;&c_y;</trd>
+  <trd lng="bo">&t_da;&t_ka;&t_yata;&t_shabchu;&t_sa;&t_tsheg;&t_ma;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>b&ecaron;&zcaron;n&yacute;</trd>,
+    <trd>obvykl&yacute;</trd>,
+    <trd>oby&ccaron;ejn&yacute;</trd>,
+    <trd>prost&yacute;</trd>,
+    <trd>&rcaron;adov&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">gew&ouml;hnlich</trd>
+  <trd lng="en">ordinary</trd>
+  <trdgrp lng="es">
+    <trd>com&uacute;n<klr> (ordinario)</klr></trd>,
+    <trd>ordinario</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>commun<klr> (ordinaire)</klr></trd>,
+    <trd>ordinaire</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#26222;&#36890;&#12398;  <pr>&#12405;&#12388;&#12358;&#12398;</pr></trd>,
+    <trd>&#36890;&#24120;&#12398;  <pr>&#12388;&#12358;&#12376;&#12423;&#12358;&#12398;</pr></trd>,
+    <trd>&#12354;&#12426;&#12405;&#12428;&#12383;</trd>,
+    <trd>&#24179;&#20961;&#12394;  <pr>&#12408;&#12356;&#12412;&#12435;&#12394;</pr></trd>
+  </trdgrp>
+  <trd lng="ne">&#2360;&#2366;&#2350;&#2366;&#2344;&#2381;&#2351;</trd>
+  <trd lng="nl">gewoon</trd>
+  <trdgrp lng="pl">
+    <trd>potoczny</trd>,
+    <trd>powszedni</trd>,
+    <trd>zwyk&lstroke;y</trd>,
+    <trd>zwyczajny</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>comum</trd>,
+    <trd>ordin&aacute;rio</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>familiar&abreve;</trd>,
+    <trd>obi&scomma;nuit</trd>,
+    <trd>uzual</trd>,
+    <trd>normal</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_y;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_b;&c_y;&c_k;&c_n;&c_o;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>oby&ccaron;ajn&yacute;</trd>,
+    <trd>ordin&aacute;rny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_v;&c_i;&c_ch;&c_a;&c_j;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_u;&c_d;&c_je;&c_n;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_ja;&c_d;&c_o;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_r;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_ib;&c_ch;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_a;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ordina.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="ordina.0e.KOMUNE">
+    <dif>
+      La&ubreve; <tld/>a maniero; la&ubreve;kutime; plejofte, regule:
+      <ekz>
+        &ccirc;iu amas <tld/>e personon, kiu estas simila al li
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anstata&ubreve; &#8218;ci&#8216; oni uzas <tld/>e &#8218;vi&#8216;
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li pagu tiom da mono, kiom virgulinoj <tld/>e ricevas dote
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 22:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia najbaro ordinare vizitas min &ccirc;iutage
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Elinjo-fingreto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_v;&c_y;&c_ch;&c_a;&c_j;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>oby&ccaron;ejn&ecaron;</trd>,
+    <trd>oby&ccaron;ejn&ecaron;</trd>
+  </trdgrp>
+  <trd lng="de">gew&ouml;hnlich</trd>
+  <trdgrp lng="fr">
+    <trd>g&eacute;n&eacute;ralement</trd>,
+    <trd>ordinairement</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#36890;&#24120;  <pr>&#12388;&#12358;&#12376;&#12423;&#12358;</pr></trd>,
+    <trd>&#26222;&#36890;  <pr>&#12405;&#12388;&#12358;</pr></trd>,
+    <trd>&#12405;&#12384;&#12435;</trd>
+  </trdgrp>
+  <trd lng="nl">gewoonlijk</trd>
+  <trdgrp lng="pl">
+    <trd>zazwyczaj</trd>,
+    <trd>zwyczajnie</trd>
+  </trdgrp>
+  <trd lng="pt">ordinariamente</trd>
+  <trdgrp lng="ro">
+    <trd>de obicei</trd>,
+    <trd>&icirc;n general</trd>,
+    <trd>pur &scomma;i simplu</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_b;&c_y;&c_ch;&c_n;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>be&zcaron;ne</trd>,
+    <trd>oby&ccaron;ajne</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_v;&c_i;&c_ch;&c_a;&c_j;&c_n;&c_o;</trd>,
+    <trd>&c_b;&c_u;&c_d;&c_je;&c_n;&c_n;&c_o;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;</trd>,
+    <trd>&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_r;&c_n;&c_o;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ordina.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ordina.0o.KOMUNE">
+    <dif>
+      <tld lit="O"/>a iro de aferoj,
+      atendebla stato ilia:
+      <ekz>
+        amuzoj ne mankis kaj, kontra&ubreve; la <tld/>o, la nombro de la dancantoj estis granda
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tuj sekvas malfeli&ccirc;oj ekster <tld/>o
+        <fnt>
+          <bib>SrT</bib>
+          <lok>Libro VIII.</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        kelkaj momentoj diamantigitaj &parsl;
+        ekster karbonan <tld/>on &parsl;
+        de la tempa fulgi&gcirc;o
+        <fnt>
+          <aut>E. de Kock</aut>
+          <vrk>Oma&gcirc;o al Zamenhof</vrk>
+          <lok>1987</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">das <ind>Gewohnte</ind></trd>
+  <trd lng="fr">ordinaire<klr> (subst.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>zwyk&lstroke;o&sacute;&cacute;</trd>,
+    <trd>potoczno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>obi&scomma;nuin&tcomma;&abreve;</trd>,
+    <trd>comunitatea</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ordina.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="ordina.0ulo.KOMUNE">
+    <dif>
+      <tld lit="O"/>a homo nek eminenta nek maleminenta,
+      sen rimarkindaj aparta&jcirc;oj:
+      <ekz>
+        &ccirc;ar la patrino de sinjoro <nom>Broadbent</nom> apartenis al ia antikva, nobela familio, ili
+        pensas, ke ili rajtas de supre, malestime rigardi al ni, <tld/>uloj
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fari tion kun plena silento estus superi la kapablon de <tld/>ulo
+        <fnt>
+          <bib>ChV</bib>
+          <lok>3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u <tld/>ulo &scirc;tele rigardas malanta&ubreve; sin
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Spiona rondo</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">oby&ccaron;ejn&yacute; &ccaron;lov&ecaron;k</trd>
+  <trdgrp lng="de">
+    <trd><ind>gew&ouml;hnlich</ind>er Mensch</trd>,
+    <trd>Normalb&uuml;rger</trd>,
+    <trd><ind>einfach</ind>er B&uuml;rger</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ordinary person</trd>,
+    <trd>everyday person</trd>,
+    <trd>man on the street</trd>,
+    <trd>Joe Blow</trd>,
+    <trd>the average person</trd>
+  </trdgrp>
+  <trd lng="fr">individu ordinaire</trd>
+  <trdgrp lng="ja">
+    <trd>&#20961;&#20154;  <pr>&#12412;&#12435;&#12376;&#12435;</pr></trd>,
+    <trd>&#26222;&#36890;&#12398;&#20154;  <pr>&#12405;&#12388;&#12358;&#12398;&#12376;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">przeci&eogonek;tniak</trd>
+  <trd lng="ro">mediocru</trd>
+  <trd lng="sk">oby&ccaron;ajn&yacute; &ccaron;lovek</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_v;&c_i;&c_ch;&c_a;&c_j;&c_n;&c_a;/ &c_p;&c_r;&c_o;&c_s;&c_t;&c_a; &c_l;&c_ju;&c_d;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_z;&c_v;&c_i;&c_ch;&c_a;&c_j;&c_n;&c_i;&c_j;/&c_p;&c_r;&c_o;&c_s;&c_t;&c_i;&c_j; &c_ch;&c_o;&c_l;&c_o;&c_v;&c_ib;&c_k;</trd>,
+    <trd>&c_r;&c_ja;&c_d;&c_o;&c_v;&c_a;/&c_p;&c_je;&c_r;&c_je;&c_s;&c_ib;&c_ch;&c_n;&c_a; &c_o;&c_s;&c_o;&c_b;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ordina.ekster0a">
+  <kap>ekster<tld/>a</kap>
+  <snc mrk="ordina.ekster0a.KOMUNE">
+    <dif>
+      Diferenca je la kutima ordo:
+      <ekz>
+        Dio faris per la manoj de Pa&ubreve;lo ekster<tld/>ajn miraklojn
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 19:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nun la soldato sciis, kia ekster<tld/>a fajrilo tio estis
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Fajrilo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tute ekster<tld/>a voja&gcirc;o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la afero, kiun la re&gcirc;o postulas, estas tiel ekster<tld/>a, ke neniu povas tion
+        plenumi <klr>[&#8230;]</klr> krom la dioj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 2:11</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="apart.0a.speciala">aparta<sncref/></ref>,
+      <ref cel="ekscentr.0a">ekscentra</ref>,
+      <ref cel="ekstr.0a.eksterordinara">ekstra<sncref/></ref>,
+      <ref cel="ekstra1.0a">ekstravaganca</ref>,
+      <ref cel="escept.0a">escepta</ref>,
+      <ref cel="mir.0inda">mirinda</ref>,
+      <ref cel="origin1.0a.stranga">originala<sncref/></ref>,
+      <ref cel="unik.0a.eksterordinara">unika<sncref/></ref>
+    </refgrp>
+  </snc>
+  <snc mrk="ordina.ekster0a.lau_grado">
+    <dif>
+      Diferenca je la normala grado:
+      <ekz>
+        ekster<tld/>a sa&gcirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 5:14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekster<tld/>a brilo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 2:31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;ino ekvidis &scirc;ian ekster<tld/>an belecon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la sama momento okazis io ekster<tld/>a
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;aptiro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sidas efektive tute ekster<tld/>a forto en tia malgranda besteto
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La najtingalo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi vidis ekster<tld/>an nombron da personoj, kiuj havis abomenegon por sia
+        ekzisto
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekstre.0a.kvante">ekstrema<sncref/></ref>,
+      <ref cel="star.el0a.eminenta">elstara<sncref/></ref>,
+      <ref cel="enorm.0a">enorma</ref>,
+      <ref cel="super.0a">supera</ref>,
+      <ref cel="mezur.sen0asuper0a">supermezura</ref>
+    </refgrp>
+  <trd lng="de">au&szlig;erordentlich</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_k;&c_s;&c_t;&c_r;&c_a;&c_a;&c_r;&c_d;&c_y;&c_n;&c_a;&c_r;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_z;&c_v;&c_y;&c_ch;&c_a;&c_j;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>divn&yacute;</trd>,
+    <trd>mimo&rcaron;&aacute;dn&yacute;</trd>,
+    <trd>nev&iacute;dan&yacute;</trd>,
+    <trd>nev&scaron;edn&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">au&szlig;ergew&ouml;hnlich</trd>
+  <trdgrp lng="en">
+    <trd>extraordinary</trd>,
+    <trd>unusual</trd>
+  </trdgrp>
+  <trd lng="es">extraordinario</trd>
+  <trdgrp lng="fr">
+    <trd>exceptionnel<klr> (extraordinaire)</klr></trd>,
+    <trd>extraordinaire</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#30064;&#24120;&#12394;  <pr>&#12356;&#12376;&#12423;&#12358;&#12394;</pr></trd>,
+    <trd>&#39080;&#22793;&#12431;&#12426;&#12394;  <pr>&#12405;&#12358;&#12364;&#12431;&#12426;&#12394;</pr></trd>,
+    <trd>&#38750;&#20961;&#12394;  <pr>&#12402;&#12412;&#12435;&#12394;</pr></trd>,
+    <trd>&#20006;&#22806;&#12428;&#12383;  <pr>&#12394;&#12415;&#12399;&#12378;&#12428;&#12383;</pr></trd>,
+    <trd>&#12377;&#12400;&#12425;&#12375;&#12356;</trd>
+  </trdgrp>
+  <trd lng="nl">buitengewoon</trd>
+  <trdgrp lng="pl">
+    <trd>nadzwyczajny</trd>,
+    <trd>niebywa&lstroke;y</trd>
+  </trdgrp>
+  <trd lng="pt">extraordin&aacute;rio</trd>
+  <trd lng="ro">ie&scomma;it din comun</trd>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_k;&c_s;&c_t;&c_r;&c_a;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_o;&c_b;&c_y;&c_k;&c_n;&c_o;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_o;&c_b;&c_y;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>neoby&ccaron;ajn&yacute;</trd>,
+    <trd>nie be&zcaron;n&yacute;</trd>,
+    <trd>zvl&aacute;&scaron;tny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_d;&c_z;&c_v;&c_i;&c_ch;&c_a;&c_j;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_je;&c_k;&c_s;&c_t;&c_r;&c_a;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_r;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ordina.ne0a">
+  <kap>ne<tld/>a</kap>
+  <snc mrk="ordina.ne0a.KOMUNE">
+    <dif>
+      Ne <tld/>a:
+      <ekz>
+        ne<tld/>a beleco
+        <fnt>
+          <bib>Fab3</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la barbaroj montris al ni ne<tld/>an bonecon
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 28:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amba&ubreve; teksistoj <klr>[&#8230;]</klr> komprenigis la ne<tld/>an desegnon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La novaj vestoj de la re&gcirc;o</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>particulier</trd>,
+      <trd>singulier<klr> (particulier)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_je;&c_o;&c_b;&c_y;&c_ch;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_n;&c_je;&c_o;&c_b;&c_y;&c_k;&c_n;&c_o;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_o;&c_s;&c_o;&c_b;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="ordina.ne0a.punkto_de_funkcio">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 21</lok></fnt>
+    <dif>
+      <klr>(p.p. punkto <frm><k>a</k></frm> rilate al kompleksa
+      <ref cel="funkci.0o.MAT">funkcio</ref> <frm><k>f</k></frm>)</klr>
+      Tia, ke <frm><k>f</k></frm> estas
+      <ref cel="holomo.0a.cxie">holomorfa</ref> en
+      malfermita <ref cel="disk.0o.en_kompleksa_ebeno">disko</ref> kun
+      centro <frm><k>a</k></frm>, krom &ccirc;e <frm><k>a</k></frm> mem:
+      <ekz>
+        la funkcio <frm>(<k>z</k>-<k>a</k>)<sup>-1</sup></frm> akceptas
+        ne<tld/>an punkton en <frm><k>a</k></frm>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="polus.0o.de_funkcio">poluso</ref>
+    <rim>
+      Kelkaj matematikistoj uzas <ctl>singulara</ctl>
+      <fnt><bib>MatStokTerm</bib><lok>p. 50</lok></fnt>
+      &ccirc;i-sence. Tio &scirc;ajnas malkonsilinda pro la &gcirc;is nun
+      pure gramatika senco de <ctl>singularo</ctl>. <nom>Bricard</nom> parolas
+      pri <ctl>ne<tld/>a punkto</ctl> de funkcio, sed ja pri
+      <ctl>singulara punkto</ctl> de kurbo. Tio ne aspektas tre
+      konsekvenca uzado.
+
+      Aliaj proponas <ctl>singulara&jcirc;o</ctl>
+      <fnt><bib>EKV</bib><lok>&para;399</lok></fnt>
+      a&ubreve; <ctl>aparta&jcirc;o</ctl>
+      <fnt><bib>Deneva</bib></fnt> kun signifo
+      <ctl>ne<tld/>a punkto</ctl>. Supozante, ke tiaj mallongigaj formoj
+      estus
+      utilaj, sufi&ccirc;us diri <ctl>ne<tld/>a&jcirc;o</ctl>.
+    </rim>
+    <trd lng="de">singul&auml;r<klr tip="ind"> (-e Stelle)</klr></trd>
+    <trd lng="en">singular<klr tip="ind"> (point)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(point) </klr>singulier</trd>
+    <trd lng="ru">&c_o;&c_s;&c_o;&c_b;&c_a;&c_ja;<klr tip="amb"> (&c_t;&c_o;&c_ch;&c_k;&c_a;)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>neb&ecaron;&zcaron;n&yacute;</trd>,
+    <trd>neoby&ccaron;ejn&yacute;</trd>,
+    <trd>zvl&aacute;&scaron;tn&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">ungew&ouml;hnlich</trd>
+  <trd lng="en">unusual</trd>
+  <trdgrp lng="ja">
+    <trd>&#30064;&#24120;&#12394;  <pr>&#12356;&#12376;&#12423;&#12358;&#12394;</pr></trd>,
+    <trd>&#33256;&#26178;&#12398;  <pr>&#12426;&#12435;&#12376;&#12398;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>niepospolity</trd>,
+    <trd>niezwyk&lstroke;y</trd>
+  </trdgrp>
+  <trd lng="ro">neobi&scomma;nuit</trd>
+  <trdgrp lng="sk">
+    <trd>neoby&ccaron;ajn&yacute;</trd>,
+    <trd>nie be&zcaron;n&yacute;</trd>,
+    <trd>zvl&aacute;&scaron;tny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_je;&c_z;&c_v;&c_i;&c_ch;&c_a;&c_j;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_r;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ordina.virina0ajxo">
+  <kap>virina <tld/>a&jcirc;o</kap>
+  <uzo tip="stl">EVI</uzo>
+  <snc mrk="ordina.virina0ajxo.FIZL">
+    <dif>
+      <ref tip="dif" cel="menstr.0o.FIZL">Menstruo</ref>:
+      <ekz>
+        &ccirc;e <nom>Sara</nom> &ccirc;esi&gcirc;is la virinaj <tld/>a&jcirc;oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 18:11</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Regel <klr>(Menstruation)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>miesi&aogonek;czka</trd>,
+    <trd>menstruacja</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>ciclu</trd>,
+    <trd>menstrua&tcomma;ie</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.36 2023/11/07 21:21:27
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+versio 1.35 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.33 2023/05/01 21:21:43
+Robert Baruch: +trd: en
+
+versio 1.31 2022/03/06 21:27:32
+Vito Redsky: + trd pl + trd ro
+
+versio 1.30 2022/03/05 23:28:55
+Vito Redsky: + trd pl + trd ro
+
+Revision 1.26  2017/09/24 14:10:14  revo
+Wolfram Diestel: snc mrk
+
+Revision 1.25  2015/10/27 12:10:18  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.24  2015/07/04 08:37:40  revo
+-->
+</vortaro>

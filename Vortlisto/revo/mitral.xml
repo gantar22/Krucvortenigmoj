@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mitral.xml,v 1.16 2023/10/19 16:45:37 revo Exp $">
+<kap>
+  <rad>mitral</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="mitral.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mitral.0o.ARM">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      <ref tip="super" cel="paf.0ilo.ARM">Pafilo</ref> kiu a&ubreve;tomate,
+      tre
+      rapide sekvigas la pafojn:
+      <ekz>
+        rigardu, jen la viro, li pa&scirc;as rekte al la pafanta <tld/>o
+        <fnt><bib>Mortul&Scirc;ip</bib>, <lok>dua libro, &ccirc;apitro
+        30a</lok></fnt>;
+      </ekz>
+      <ekz>
+        oni traboris muron per bombado, pafis blinde <tld/>on
+        <fnt><bib>HomojMan&gcirc;antaj</bib>, <lok>&leftquot;la vila&gcirc;o, kie
+        bonodoras
+        tilio&rightquot;, p. 94a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_l;&c_ja;&c_m;&c_jo;&c_t;</trd>
+  <trd lng="ca">metralladora</trd>
+  <trd lng="cs">kulomet</trd>
+  <trd lng="de">Maschinengewehr</trd>
+  <trd lng="en">machine gun</trd>
+  <trd lng="fr">mitrailleuse</trd>
+  <trd lng="it">mitragliatrice</trd>
+  <trd lng="ja">&#x6A5F;&#x95A2;&#x9283;  <pr>&#x304D;&#x304B;&#x3093;&#x3058;&#x3085;&#x3046;</pr></trd>
+  <trd lng="pl">karabin maszynowy</trd>
+  <trd lng="pt">metralhadora</trd>
+  <trd lng="ro">mitralier&abreve;</trd>
+  <trd lng="ru">&c_p;&c_u;&c_l;&c_je;&c_m;&c_jo;&c_t;</trd>
+  <trd lng="sk">gu&lcaron;omet</trd>
+  <trd lng="uk">&c_k;&c_u;&c_l;&c_je;&c_m;&c_je;&c_t;</trd>
+</drv>
+
+<drv mrk="mitral.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="mitral.0i.ARM">
+    <dif>
+      Pafadi per <tld/>o a&ubreve; simile rapidega pafilo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_l;&c_ja;&c_c;&c_mol; &c_z; <ind>&c_k;&c_u;&c_l;&c_ja;&c_m;&c_jo;&c_t;&c_a;</ind></trd>
+  <trd lng="ca">metrallar</trd>
+  <trd lng="de">Maschinengewehr schie&szlig;en</trd>
+  <trdgrp lng="en">
+    <trd>fire<klr tip="amb"> (machine gun)</klr></trd>,
+    <trd>shoot<klr tip="amb"> (machine gun)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">mitrailler</trd>
+  <trdgrp lng="it">
+    <trd>mitragliare</trd>,
+    <trd>sparare a <ind>raffica</ind></trd>
+  </trdgrp>
+  <trd lng="pl">ostrzela&cacute;</trd>
+  <trd lng="ro">trage</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_ja;&c_t;&c_mol; &c_i;&c_z; <ind>&c_p;&c_u;&c_l;&c_je;&c_m;&c_jo;&c_t;&c_a;</ind></trd>
+</drv>
+
+<drv mrk="mitral.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="mitral.0eto.ARM">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Malgranda <tld/>o portebla de unu homo:
+      <ekz>
+        malanta&ubreve; la <nom>Patriot</nom>-a&ubreve;toj videblas grupo de viroj
+        en kamuflaj uniformoj, kun <tld/>etoj
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>
+          <vrk>Krimeo estas nia</vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_ib;&c_s;&c_t;&c_a;&c_l;&c_je;&c_t;-&c_k;&c_u;&c_l;&c_ja;&c_m;&c_jo;&c_t;</trd>,
+    <trd>&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t; <klr tip="amb">(&c_z;&c_b;&c_r;&c_o;&c_ja;)</klr></trd>
+  </trdgrp>
+  <trd lng="ca">metralleta</trd>
+  <trd lng="cs">samopal</trd>
+  <trd lng="de">Maschinenpistole</trd>
+  <trdgrp lng="en">
+    <trd>submachine gun</trd>,
+    <trd>machine pistol</trd>
+  </trdgrp>
+  <trd lng="fr">mitraillette</trd>
+  <trd lng="it">mitraglietta</trd>
+  <trd lng="ja">&#x8EFD;&#x6A5F;&#x95A2;&#x9283;  <pr>&#x3051;&#x3044;&#x304D;&#x304B;&#x3093;&#x3058;&#x3085;&#x3046;</pr></trd>
+  <trd lng="pl">pistolet maszynowy</trd>
+  <trd lng="ro">pistol-mitralier&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t; <klr tip="amb">(&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;)</klr></trd>,
+    <trd>&c_p;&c_i;&c_s;&c_t;&c_o;&c_l;&c_je;&c_t;-&c_p;&c_u;&c_l;&c_je;&c_m;&c_jo;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">samopal</trd>
+  <trd lng="uk">&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.16 2023/10/19 16:45:37
+revo: transskribo per <pr>
+
+versio 1.14 2022/10/27 10:36:50
+Dmitri Gabinski: + trd be
+
+versio 1.13 2022/08/16 21:27:30
+Jeromo Vasxe: ~eto: + ekz
+
+versio 1.11 2021/01/24 16:11:03
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.9  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2012/08/20 00:10:47  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2010/06/12 16:30:41  revo
+Antonio Codazzi: +trd it
+
+Revision 1.6  2010/03/04 17:30:37  revo
+-->
+</vortaro>

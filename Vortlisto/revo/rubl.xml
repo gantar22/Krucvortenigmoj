@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rubl.xml,v 1.23 2023/10/21 05:38:07 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>rubl</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="rubl.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="lst" cel="unu.mon0o" lst="voko:monunuoj">Monunuo</ref>
+      de Rusujo kaj 
+      Belarusujo, pasintece - de Sovetunio, centoblo de
+      <ref tip="prt" cel="kopek.0o">kopeko</ref>:
+      <ekz>
+        &leftquot;nur dek na&ubreve; <tld/>ojn mi elspezas en
+monato&rightquot;, li skribis
+        <fnt><bib>VivZam</bib> <lok>&ccirc;apitro 4a, p. 39a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_u;&c_b;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="cs">rubl</trd>
+  <trd lng="de">Rubel</trd>
+  <trd lng="en">ruble</trd>
+  <trdgrp lng="fr">
+    <trd>rouble</trd>
+  </trdgrp>
+  <trd lng="hu">rubel</trd>
+  <trd lng="id">rubel</trd>
+  <trd lng="ja">&#x30EB;&#x30FC;&#x30D6;&#x30EB;  <pr>&#x308B;&#x30FC;&#x3076;&#x308B;</pr></trd>
+  <trd lng="nl">roebel</trd>
+  <trd lng="pl">rubel</trd>
+  <trd lng="pt">rublo</trd>
+  <trd lng="ru">&c_r;&c_u;&c_b;&c_l;&c_mol;</trd>
+  <trd lng="sk">rube&lcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x430;&#x440;&#x431;&#x43E;&#x432;&#x430;&#x43D;&#x435;&#x446;&#x44C;</trd>,
+    <trd>&#x440;&#x443;&#x431;&#x435;&#x43B;&#x44C;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/21 05:38:07
+revo: transskribo per <pr>
+
+Revision 1.19  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/10/26 16:10:31  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2013/09/22 19:11:46  revo
+Wolfram Diestel: referenco al listo monunuoj
+
+Revision 1.15  2007/11/19 17:31:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2006/02/24 17:33:29  revo
+Tulio Flores: +trd pt
+
+Revision 1.13  2004/09/06 16:38:58  revo
+-->
+</vortaro>

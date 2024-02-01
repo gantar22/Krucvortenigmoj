@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: abscis.xml,v 1.42 2023/10/12 16:57:42 revo Exp $">
+<kap>
+  <rad>abscis</rad>/o
+</kap>
+<drv mrk="abscis.0o">
+  <kap><tld/>o <fnt><bib>PV</bib></fnt></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="abscis.0o.MAT">
+    <dif>
+      La unua el la du
+      <ref tip="super" cel="koordi.kartezia0o">karteziaj
+      koordinatoj</ref>,
+      kiuj difinas la situon de punkto sur
+      <ref cel="eben.0o.MAT">ebeno</ref>:
+      <ekz>
+        la <tld/>on de punkto oni kutime signas per la litero
+        <frm am="x">x</frm>;
+      </ekz>
+      <ekz>
+        &ccirc;e grafika&jcirc;o de funkcio de unu argumento, la <tld/>o
+        prezentas la argumenton.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="ordina1.0o">ordinato.</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_s;&c_c;&c_y;&c_s;&c_a;</trd>
+  <trd lng="ca">abscissa</trd>
+  <trdgrp lng="cs">
+    <trd>abscisa</trd>,
+    <trd>&uacute;se&ccaron;ka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Abszisse</trd>,
+    <trd>x-Koordinate</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>abscissa</trd>,
+    <trd>x-coordinate</trd>
+  </trdgrp>
+  <trd lng="es">abscisa</trd>
+  <trdgrp lng="fa">
+    <trd>&a_T;&a_w;&a_l;<klr tip="ind"> (&a_m;&a_kh;&a_t;&a_S;)</klr></trd>,
+    <trd>&a_m;&a_kh;&a_t;&a_S; x</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>abscisse</trd>,
+    <trd>coordonn&eacute;e x</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&#x5E6;&#x5D9;&#x5E8; &#x5D0;&#x5D5;&#x5E4;&#x5E7;&#x5D9;</trd>,
+    <trd>&#x5E6;&#x5D9;&#x5E8; X</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>abszcissza</trd>,
+    <trd>v&iacute;zszintes <ind>tengely</ind></trd>
+  </trdgrp>
+  <trd lng="it">ascissa</trd>
+  <trd lng="ja">&#x6A2A;&#x5EA7;&#x6A19;  <pr>&#12362;&#12358;&#12374;&#12402;&#12423;&#12358;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>abscis</trd>,
+    <trd>x-co&ouml;rdinaat</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>odci&eogonek;ta</trd>,
+    <trd>abscysa</trd>,
+    <trd>wsp&oacute;&lstroke;rz&eogonek;dna x</trd>
+  </trdgrp>
+  <trd lng="pt">abscissa</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_b;&c_s;&c_c;&c_i;&c_s;&c_s;&c_a;</trd>,
+    <trd>x-<ind>&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>x-ov&aacute; s&uacute;radnica</trd>,
+    <trd>&uacute;se&ccaron;ka</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>abskissa</trd>,
+    <trd>x-koordinat</trd>
+  </trdgrp>
+  <trd lng="uk">&c_a;&c_b;&c_s;&c_c;&c_i;&c_s;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.42 2023/10/12 16:57:42
+revo: transskribo per <pr>
+
+versio 1.41 2023/08/29 07:24:36
+Wolfram Diestel: ja: plibonigo prononco
+
+versio 1.37 2020/02/13 14:10:26
+Wolfram Diestel: redakto: formulo per atributo am
+
+Revision 1.36  2020/02/11 18:28:17  revo
+Wolfram Diestel: formulo per AsciiMath
+
+Revision 1.35  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.33  2012/08/10 14:11:25  revo
+Marc Rausell: + trd ca
+
+Revision 1.32  2011/09/28 12:10:15  revo
+-->
+</vortaro>

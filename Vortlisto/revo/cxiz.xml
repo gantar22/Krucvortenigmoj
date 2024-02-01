@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: cxiz.xml,v 1.32 2023/10/31 13:37:04 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&ccirc;iz</rad>/i
+</kap>
+
+<drv mrk="cxiz.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="cxiz.0i.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Prilabori malmolajn materiojn (&scirc;tonon, lignon, metalon...) 
+      per <tld/>ilo, frapante sur &gcirc;in per martelo kaj forigante
+      ioman materion:
+      <ekz>
+        sur marmora tabulo estas <tld/>ita lia nomo;
+      </ekz>
+      <ekz>
+        kaj por <tld/>i &scirc;tonojn por enkadrigo, kaj por <tld/>i
+        lignon, por fari &ccirc;ian laboron
+        <fnt><bib>MT</bib> <lok>&Eli; 31:5</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="skulpt.0i">skulpti</ref>,
+      <ref cel="cizel.0i.BELA">cizeli</ref>.
+    </refgrp>
+    <trd lng="be">&c_d;&c_a;&c_w;&c_b;&c_ib;&c_c;&c_mol; <klr>(&c_d;&c_o;&c_l;&c_a;&c_t;&c_a;&c_m;, &c_z;&c_u;&c_b;&c_ib;&c_l;&c_a;&c_m;)</klr></trd>
+    <trdgrp lng="fr">
+      <trd>ciseler</trd>,
+      <trd>creuser<klr tip="ind"> (au ciseau)</klr></trd>,
+      <trd>fa&ccedil;onner<klr tip="ind"> (au ciseau)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">v&eacute;s</trd>
+    <trdgrp lng="it">
+      <trd>scalpellare</trd>,
+      <trd>intagliare</trd>,
+      <trd>incidere<klr> (legno, pietra, ecc.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>d&lstroke;utowa&cacute;</trd>,
+      <trd>ry&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>cizel&abreve;re</trd>,
+      <trd>sculpta</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_o;&c_l;&c_b;&c_i;&c_t;&c_mol;<klr tip="amb">
+      (&c_d;&c_o;&c_l;&c_o;&c_t;&c_o;&c_m;)</klr></trd>,
+      <trd>&c_r;&c_u;&c_b;&c_i;&c_t;&c_mol;<klr tip="amb">
+      (&c_z;&c_u;&c_b;&c_i;&c_l;&c_o;&c_m;)</klr></trd>,
+      <trd>&c_v;&c_y;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol;<klr tip="amb">
+      (&c_n;&c_a;&c_d;&c_p;&c_i;&c_s;&c_mol; &c_i;
+      &c_t;.&c_p;.)</klr></trd>
+      <trd>&c_t;&c_je;&c_s;&c_a;&c_t;&c_mol;<klr tip="amb">
+      (&c_k;&c_a;&c_m;&c_je;&c_n;&c_mol;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="cxiz.0i.BELE">
+    <fnt><bib>PV</bib></fnt>
+    <uzo tip="fak">BELE</uzo>
+    <ref tip="dif" cel="cizel.0i.FIG">cizeli</ref>
+    <trd lng="be">&c_ch;&c_a;&c_k;&c_a;&c_n;&c_ib;&c_c;&c_mol;</trd>
+    <trd lng="pl">cyzelowa&cacute;</trd>
+    <trd lng="ro">cizel&abreve;</trd>
+  </snc>
+  <trd lng="ca">cisellar</trd>
+  <trd lng="de">mei&szlig;eln</trd>
+  <trd lng="en">chisel</trd>
+  <trd lng="es">cincelar</trd>
+  <trd lng="he">&#x5DC;&#x5E4;&#x5E1;&#x5DC;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x306E;&#x307F;&#x3067;&#x5F6B;&#x308B;  <pr>&#x306E;&#x307F;&#x3067;&#x307B;&#x308B;</pr></trd>,
+    <trd>&#x523B;&#x307F;&#x3053;&#x3080;  <pr>&#x304D;&#x3056;&#x307F;&#x3053;&#x3080;</pr></trd>,
+    <trd>&#x5F6B;&#x523B;&#x3059;&#x308B;  <pr>&#x3061;&#x3087;&#x3046;&#x3053;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7DF4;&#x308B;  <pr>&#x306D;&#x308B;</pr></trd>,
+    <trd>&#x5F6B;&#x7422;&#x3059;&#x308B;  <pr>&#x3061;&#x3087;&#x3046;&#x305F;&#x304F;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">cinzelar</trd>
+  <trd lng="it">cesellare</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_ib;&c_z;&#x44C;&c_b;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_b;&c_r;&#x43E;&c_b;&#x43B;&#x44F;&c_t;&c_i; &c_r;&c_ib;&c_z;&c_c;&c_je;&#x43C;</trd>,
+    <trd>&c_d;&#x43E;&c_v;&c_b;&c_a;&c_t;&c_i; (&c_d;&#x43E;&#x43B;&#x43E;&c_t;&#x43E;&#x43C;)</trd>,
+    <trd>&c_r;&c_u;&c_b;&c_a;&c_t;&c_i; (&c_z;&c_u;&c_b;&c_i;&#x43B;&#x43E;&#x43C;)</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_a;&c_t;&c_i; (&#x43F;&#x43E; &#x43C;&c_je;&c_t;&c_a;&#x43B;&c_u;)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5282; <pr>ju&#xE9;</pr></trd>,
+    <trd>&#x51FF; <pr>z&#xE1;o</pr></trd>,
+    <trd>&#x933E; <pr>z&#xE0;n</pr></trd>,
+    <trd>&#x942B; <pr>ju&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cxiz.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="cxiz.0ilo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      &Scirc;tala ilo, longa kaj plata, kun tran&ccirc;a ekstrema&jcirc;o,
+      uzata por prilabori malmolajn materiojn:
+      <ekz>
+        unu tran&ccirc;as la feron per &ccirc;izilo
+        <fnt><bib>MT</bib> <lok>&Jes; 44:12</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_o;&c_l;&c_a;&c_t;&c_a;</trd>,
+    <trd>&c_z;&c_u;&c_b;&c_ib;&c_l;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_sh;&c_n;&c_ja;</trd>,
+    <trd>&c_sh;&c_ch;&c_a;&c_r;&c_b;&c_ib;&c_l;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_je;&c_c;</trd>,
+    <trd>&c_ch;&c_a;&c_k;&c_a;&c_n;</trd>
+  </trdgrp>
+  <trd lng="ca">cisell</trd>
+  <trd lng="de">Mei&szlig;el</trd>
+  <trdgrp lng="en">
+    <trd>chisel</trd>,
+    <trd>chiseling tool</trd>
+  </trdgrp>
+  <trd lng="es">cincel</trd>
+  <trd lng="fr">ciseau <klr tip="ind"> (&agrave; pierre, bois,
+  etc.)</klr></trd>
+  <trd lng="hu">v&eacute;s&odblac;</trd>
+  <trdgrp lng="it">
+    <trd>scalpello</trd>,
+    <trd>profilo<klr> (ferro da cesello)</klr></trd>,
+    <trd>subbia</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>d&lstroke;uto</trd>,
+    <trd>majzel<klr> (region.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">cinzel</trd>
+  <trd lng="ro">dalt&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_l;&c_o;&c_t;&c_o;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_m;&c_je;&c_s;&c_k;&c_a;</trd>,
+    <trd>&c_z;&c_u;&c_b;&c_i;&c_l;&c_o;</trd>,
+    <trd>&c_ch;&c_je;&c_k;&c_a;&c_n;</trd>,
+    <trd>&c_r;&c_je;&c_z;&c_je;&c_c;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x92B6; <pr>qi&#xFA;</pr></trd>,
+    <trd>&#x51FF;&#x5B50; <pr>z&#xE1;ozi</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cxiz.CX0ilo">
+  <kap><tld lit="&Ccirc;"/>ilo
+    <fnt>
+      <aut>D. Galad&iacute;-Enr&iacute;quez, A. Wandel</aut>
+      <vrk>La kosmo kaj ni</vrk>.
+      <lok>2005</lok>
+    </fnt>
+  </kap>
+  <mlg>Cae</mlg>
+  <snc mrk="cxiz.CX0ilo.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Sud-hemisfera 
+      <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref> (<trd lng="la">Caelum</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_R;&c_a;&c_z;&c_je;&c_c; <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#x2019;&c_je;)</klr></trd>
+  <trd lng="de">Grabstichel</trd>
+  <trd lng="en">Caelum</trd>
+  <trd lng="es">Cincel</trd>
+  <trd lng="fr">Burin<klr tip="ind"> (constellation)</klr></trd>
+  <trdgrp lng="he">
+    <trd>&#x5D0;&#x5B4;&#x5D6;&#x5B0;&#x5DE;&#x5B5;&#x5DC;</trd>,
+    <trd>&#x5DE;&#x5E4;&#x5E1;&#x5DC;&#x5EA;</trd>
+  </trdgrp>
+  <trd lng="it">Bulino</trd>
+  <trdgrp lng="ja">
+    <trd>&#x306E;&#x307F;</trd>,
+    <trd>&#x305F;&#x304C;&#x306D;</trd>
+  </trdgrp>
+  <trd lng="pl">Rylec <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">Dalta  <klr>(constela&#x21B;ie)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_u;&c_b;&c_i;&#x43B;&#x43E;</trd>,
+    <trd>&c_s;&c_t;&c_a;&#x43C;&c_je;&c_s;&#x43A;&c_a;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x96D5;&#x523B;&#x5200; <pr>di&#x101;ok&#xE8;d&#x101;o</pr></trd>
+</drv>
+
+<drv mrk="cxiz.0ileto">
+  <kap><tld/>ileto</kap>
+  <snc mrk="cxiz.0ileto.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Malgranda <tld/>ilo, speciale uzata de juvelistoj.
+    </dif>
+  </snc>
+  <trd lng="en">mini-<ind>chisel</ind></trd>
+  <trd lng="fr">ciselet</trd>
+  <trd lng="hu">cizell&aacute;l&oacute; v&eacute;s&odblac;</trd>
+  <trdgrp lng="it">
+    <trd>bulino</trd>,
+    <trd>ciappola</trd>,
+    <trd>gradina</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5F6B;&#x523B;&#x5200;  <pr>&#x3061;&#x3087;&#x3046;&#x3053;&#x304F;&#x3068;&#x3046;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>d&lstroke;utko</trd>,
+    <trd>rylec</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>dalt&abreve;</trd>,
+    <trd>stil</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_gu;&c_r;&c_a;&c_b;&c_sh;&c_t;&c_i;&c_h;&c_je;&#x43B;&#x44C;</trd>,
+    <trd>&#x43C;&c_a;&#x43B;&c_je;&#x43D;&#x44C;&#x43A;&c_i;&c_j; &c_r;&c_ib;&c_z;&c_je;&c_c;&#x44C;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cxiz.cxirkaux0i">
+  <kap>&ccirc;irka&ubreve;<tld/>i<fnt><bib>PIV1</bib></fnt></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="cxiz.cxirkaux0i.TEK">
+    <dif>
+      <tld lit="&Ccirc;"/>i &ccirc;e la &ccirc;irka&ubreve;o, por 
+      doni proksimuman formon, ekzemple al statuo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_ch;&c_e;&c_s;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_a;&c_p;&c_r;. &c_k;&c_a;&c_m;&c_je;&c_n;&c_mol;)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>fa&ccedil;onner<klr tip="ind"> (au ciseau, sur le
+    pourtour)</klr></trd>,
+    <trd>d&eacute;grossir<klr tip="ind"> (au ciseau)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&#x5DC;&#x5E2;&#x5D1;&#x5D3; &#x5D1;&#x5D0;&#x5D9;&#x5D6;&#x5DE;&#x5DC;</trd>
+  <trdgrp lng="it">
+    <trd>sgrossare</trd>,
+    <trd>dirozzare</trd>
+  </trdgrp>
+  <trd lng="pl">ociosywa&cacute;</trd>
+  <trd lng="ro">sculpta</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_t;&c_jo;&c_s;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_t;&c_je;&c_s;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_b;&c_t;&c_ib;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_b;&c_r;&#x43E;&c_b;&#x43B;&#x44F;&c_t;&c_i; &#x43D;&c_a;&c_ch;&#x43E;&c_r;&#x43D;&#x43E;</trd>,
+    <trd>&#x43D;&c_a; &#x43E;&#x43A;&#x43E;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cxiz.sxton0isto">
+  <kap>&scirc;ton<tld/>isto</kap>
+  <snc mrk="cxiz.sxton0isto.TEK">
+    <dif>
+      Metiisto, kiu <tld/>as kaj prilaboras &scirc;tonojn:
+      <ekz>
+        aperis anka&ubreve; dalmataj &scirc;ton<tld/>istoj, kiujn la popolo nomis &leftquot;romaj majstroj&rightquot;
+        <fnt>
+          <aut>I. Andri&cacute;, trad. A. Sekelj</aut>
+          <vrk>La ponto super Drino</vrk>
+          <lok>2018</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ja;&c_r; &c_p;&c_a; &c_k;&c_a;&c_m;&c_je;&c_n;&c_ib;</trd>
+  <trd lng="fr">tailleur de pierre</trd>
+  <trd lng="pl">rze&zacute;biarz w kamieni</trd>
+  <trd lng="ro">sculptor &icirc;n piatr&abreve;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/14 11:10:02
+revo: transskribo per <pr>
+
+versio 1.29 2022/09/19 13:06:39
+Vito Redsky:  +trd pl  + trd ro  
+
+versio 1.28 2022/05/16 07:39:39
+Dmitri Gabinski: + trd be
+
+Revision 1.24  2017/04/20 08:10:13  revo
+Ludoviko Francisco: kor ekz
+
+Revision 1.23  2017/04/19 20:10:26  revo
+Ludoviko Francisco: +ekz
+
+Revision 1.22  2017/04/18 13:10:25  revo
+Ludoviko Francisco: +fnt
+
+Revision 1.21  2017/04/05 13:10:14  revo
+Ludoviko Francisco: +trd fr
+
+Revision 1.20  2014/04/06 18:10:14  revo
+-->
+</vortaro>

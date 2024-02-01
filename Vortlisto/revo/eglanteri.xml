@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: eglanteri.xml,v 1.16 2023/06/20 08:30:31 revo Exp $">
+<kap>
+  <rad>eglanteri</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="eglanteri.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="eglanteri.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Sova&gcirc;a <ref tip="lst" cel="speci.0o.BIO" lst="voko:botanikaj_specioj">specio</ref> de 
+      <ref tip="super" cel="roz.0ujo.BOT">rozujo</ref> (<trd lng="la">Rosa rubiginosa</trd>,
+      sin. <trd lng="la">Rosa eglanteria</trd>),
+      dorna arbusto kreskanta en E&ubreve;razio, ordinare 1 &gcirc;is 3&#x202F;m alta, hokformaj pikiloj, 
+      alternaj folioj plume aran&gcirc;itaj je kvin a&ubreve; sep, frusomere odorantaj je fre&scirc;aj pomoj,
+      kaj kun kvinnombra duobla korolo vive ru&gcirc;eta:
+      <ekz>
+        dol&ccirc;a kaj ekscita aromo de <tld/>oj
+        <fnt><bib>Jamburg</bib>, <lok>&ccirc;apitro 22a, p. 127a</lok></fnt>;
+      </ekz>
+      <ekz>
+        barilo, &ccirc;irka&ubreve;kreskita de kaprifolio kaj <tld/>o
+        <fnt>
+          <aut>Aleksandro Grin</aut>
+          <vrk><url ref="http://www.esperanto.mv.ru/Grin/duke.html">&Scirc;ipestro Duke</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;irka&ubreve;e abundege kreskis <tld/>oj kun bongustaj beroj
+        <fnt>
+          <aut>-</aut>,
+          <vrk>OkSEJT: kio venos?</vrk>,
+          <bib>LOdE</bib>,
+          <lok><url ref="&LOdE;72-lode.htm">2000:10</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld
+    lok="&WCU;/thumb/a/a3/Rosa_rubiginosa_mit_einigen_Knospen-2.jpg/410px-Rosa_rubiginosa_mit_einigen_Knospen-2.jpg"
+    prm="CC BY-SA 2.0 de"><tld/>o (Rosa rubiginosa), floro, bur&gcirc;onoj kaj folioj
+        <fnt>
+          <aut>Sebastian Bieber</aut>
+          <lok><url
+          ref="&WCW;/File:Rosa_rubiginosa_mit_einigen_Knospen-2.jpg">&WCW;/File:Rosa_rubiginosa_mit_einigen_Knospen-2.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_r;&c_u;&c_zh;&c_a; &c_e;&c_g;&c_l;&c_ja;&c_n;&c_t;&c_e;&c_r;&c_y;&c_ja;</trd>
+  <trdgrp lng="ca">
+    <trd>gavarrera</trd>,
+    <trd><ind>roser</ind> can&iacute;</trd>,
+    <trd><ind>roser</ind> silvestre</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>plan&aacute; r&uring;&zcaron;e</trd>,
+    <trd>&scaron;&iacute;pek</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Weinrose</trd>,
+    <trd>Apfelrose</trd>
+  </trdgrp>
+  <trd lng="en">sweet briar </trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;glantier</trd>,
+    <trd>&eacute;glantine</trd>
+  </trdgrp>
+  <trd lng="pl">r&oacute;&zdot;a dzika</trd>
+  <trd lng="pt">rosa-canina</trd>
+  <trd lng="ru">&c_sh;&c_i;&c_p;&c_o;&c_v;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>plan&aacute; ru&zcaron;a</trd>,
+    <trd>&scaron;&iacute;pka</trd>
+  </trdgrp>
+  <trd lng="uk">&c_sh;&c_i;&#x43F;&c_sh;&c_i;&#x43D;&c_a;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.16 2023/06/20 08:30:31
+Dmitri Gabinski: + trd be
+
+versio 1.15 2022/04/27 14:38:53
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.13 2020/06/05 18:10:32
+Wolfram Diestel: kor. trd lat, germ; bld
+
+versio 1.12 2020/06/05 06:10:37
+Wolfram Diestel: prilaboris dif, +bld
+
+Revision 1.11  2020/03/14 10:59:08  revo
+adaptis URL de Ondo
+
+Revision 1.10  2018/05/09 03:10:15  revo
+Sergio Pokrovskij: +trd=ru
+
+Revision 1.9  2017/06/24 23:10:13  revo
+Vito Redsky: +trd pl
+
+Revision 1.8  2015/07/04 08:37:33  revo
+-->
+</vortaro>

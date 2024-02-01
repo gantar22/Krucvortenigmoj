@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: nomina.xml,v 1.26 2023/10/20 05:22:00 revo Exp $">
+<kap>
+   <ofc>3</ofc>
+   <rad>nominal</rad>/a
+</kap>
+<drv mrk="nomina.0a">
+ <kap><tld/>a</kap>
+ <snc mrk="nomina.0a.KOMUNE">
+   <dif>
+     Noma, posedanta nur la nomon, ne la efektivan povon kaj rajton:
+    <ekz>
+      &ccirc;efa celo de amba&ubreve; partioj estas fortordi la absolutan &ndash; almena&ubreve; <tld/>e
+      absolutan &ndash; povon for de la re&gcirc;o
+      <fnt>
+        <bib>I&scirc;tar</bib>
+        <lok>&Ccirc;apitro XII</lok>
+      </fnt>;
+    </ekz>
+    <ekz>
+      virgulinoj, sin dedi&ccirc;inte al dumviva servo al <nom>I&scirc;tar</nom>, kelkafoje fari&gcirc;is <tld/>aj
+      edzinoj de nobeloj
+      <fnt>
+        <bib>I&scirc;tar</bib>
+        <lok>&Ccirc;apitro XI</lok>
+      </fnt>.
+    </ekz>
+   </dif>
+   <trdgrp lng="de">
+      <trd>nominell</trd>,
+      <trd><klr>dem </klr>Namen <ind>nach</ind></trd>
+   </trdgrp>
+  </snc>
+  <snc mrk="nomina.0a.EKON">
+    <dif>
+      Indikanta la deklaritan valoron de io kontraste al la efektiva:
+      <ekz>
+       a&gcirc;io estas la diferenco inter la <tld/>a kaj la efektiva
+       la&ubreve;kurza valoro;
+      </ekz>
+      <ekz>
+        kvankam la <tld/>a avera&gcirc;a salajro lastan jaron kreskis je 2,2 %, la reala
+        salajro, kiu enkalkulas inflacion, falis je 1,6 %, &ccirc;ar la prezoj kreskis pli
+        rapide
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2012/010660.php">Realaj salajroj falis</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu societa parto <tld/>e valoras 100,00 frankojn kaj sufi&ccirc;as a&ccirc;eti unu por esti
+        plenrajta membro
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+       </ekz>
+       <ekz>
+        Kroatio jam de kelkaj jaroj estas la&ubreve; <tld/>a sumo de salajroj en la dua loko
+        (post Slovenio) inter la transi&gcirc;antaj landoj, sed pro la altaj vivkostoj la
+        vivnivelo en &Ccirc;e&hcirc;io kaj Hungario estas pli alta, ol en Kroatio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zlatko Hin&scaron;t</aut>
+          <vrk><url ref="&Monato;/2007/009212.php">Kiel oni (trans)vivas en Kroatio</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aperis nova a&ubreve;stra po&scirc;tmarko pri Esperanto-temo en eldonkvanto de 1500
+        ekzempleroj, &gcirc;ia <tld/>a valoro egalas al tiu de enlanda afranko por ordinara
+        letero
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2012/010200.php">Nova Esperanto-po&scirc;tmarko</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Nominal-</trd>,
+      <trd>Nenn-</trd>
+    </trdgrp>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="formal.0a">formala</ref>,
+    <ref cel="oficia.0a">oficiala</ref>,
+    <ref cel="regul.0a.konforma">regula<sncref/></ref>
+  </refgrp>
+  <trd lng="be">&c_n;&c_a;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>jmenovit&yacute;</trd>,
+    <trd>nomin&aacute;ln&iacute;</trd>
+  </trdgrp>
+  <trd lng="el">&omikron;&ny;&omikron;&my;&alfa;&sigma;&tau;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="fr">nominal</trd>
+  <trdgrp lng="hu">
+     <trd>n&eacute;vleges</trd>,
+     <trd>nomim&aacute;lis</trd>
+   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x540D;&#x76EE;&#x4E0A;&#x306E;  <pr>&#x3081;&#x3044;&#x3082;&#x304F;&#x3058;&#x3087;&#x3046;&#x306E;</pr></trd>,
+    <trd>&#x540D;&#x524D;&#x3060;&#x3051;&#x306E;  <pr>&#x306A;&#x307E;&#x3048;&#x3060;&#x3051;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">nominaal</trd>
+  <trd lng="pl">nominalny</trd>
+  <trd lng="pt">nominal</trd>
+  <trd lng="ro">nominal</trd>
+  <trd lng="ru">&c_n;&c_o;&c_m;&c_i;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>menovit&aacute;</trd>,
+    <trd>nomin&aacute;lna</trd>
+  </trdgrp>
+  <trd lng="uk">&c_n;&c_o;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="nomina.0o">
+   <kap><tld/>o,
+   <var><kap><tld/>a valoro</kap></var></kap>
+   <snc mrk="nomina.0o.EKON">
+     <uzo tip="fak">EKON</uzo>
+     <dif>
+       Valoro indikita sur la dokumento, ne nepre estanta la merkata
+       valoro, ekzemple sur akcioj:
+      <ekz>
+        Julia kunfondis Internacian Esperanto-Instituton kaj Universalan Ligon kaj
+        kuneldonis la metalajn Stelo-monerojn, kies <tld/>oj estas 1, 5, 10 kaj 25
+        Steloj
+        <fnt>
+          <aut>W. Klag</aut>
+          <vrk><url ref="https://revuoesperanto.org/steloj">Julia Isbr&uuml;cker - Jaro 2020, invito al kunlaboro</url></vrk>
+          <lok>Revuo Esperanto, 2020-04-22</lok>
+        </fnt>.
+      </ekz>
+     </dif>
+     <trd lng="de">Nennwert</trd>
+   </snc>
+  <trd lng="be">&c_n;&c_a;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_v;&c_a;&c_r;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="cs">nomin&aacute;ln&iacute; hodnota</trd>
+  <trd lng="fr">valeur <ind>nominale</ind></trd>
+  <trdgrp lng="hu">
+     <trd>n&eacute;vleges &eacute;rt&eacute;k</trd>,
+     <trd>n&eacute;v&eacute;rt&eacute;k</trd>,
+     <trd>nomim&aacute;lis &eacute;rt&eacute;k</trd>
+   </trdgrp>
+  <trd lng="nl">nominale waarde</trd>
+  <trd lng="pl">nomina&lstroke;</trd>
+  <trd lng="ro">nominal&abreve;</trd>
+  <trd lng="ru">&c_n;&c_o;&c_m;&c_i;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_o;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">menovit&aacute; hodnota</trd>
+</drv>
+
+<drv mrk="nomina.0ismo">
+   <kap><tld/>ismo</kap>
+   <snc mrk="nomina.0ismo.FIL">
+     <uzo tip="fak">FIL</uzo>
+     <dif>
+       Doktrino, la&ubreve; kiu la &gcirc;eneralaj ideoj estas nur 
+       nomoj, kaj ne posedas ian realan ekziston,
+       kontraste al <ref tip="ant" cel="real.0ismo.FIL">realismo<sncref/></ref>.
+     </dif>
+   </snc>
+  <trd lng="be">&c_n;&c_a;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="cs">nominalizmus</trd>
+  <trd lng="de">Nominalismus</trd>
+  <trd lng="fr">nominalisme</trd>
+  <trd lng="hu">nominalizmus</trd>
+  <trd lng="ja">&#x552F;&#x540D;&#x8AD6;  <pr>&#x3086;&#x3044;&#x3081;&#x3044;&#x308D;&#x3093;</pr></trd>
+  <trd lng="nl">nominalisme</trd>
+  <trd lng="pl">nominalizm</trd>
+  <trd lng="pt">nominalismo</trd>
+  <trd lng="ro">nominalism</trd>
+  <trd lng="ru">&c_n;&c_o;&c_m;&c_i;&c_n;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">nominalizmus</trd>
+  <trd lng="uk">&c_n;&c_o;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/20 05:22:00
+revo: transskribo per <pr>
+
+versio 1.24 2023/04/11 17:15:20
+aktualigo Monato-URL
+
+versio 1.23 2022/10/25 18:07:39
+Wolfram Diestel: ~a: +ekz-oj, ref-oj, plibonigo dif-vortigo
+
+versio 1.21 2021/10/05 21:27:48
+Vito Redsky: +trd pl +trd ro
+
+versio 1.20 2021/03/17 21:49:15
+Jeromo Vasxe: + formo ~o
+
+Revision 1.18  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2009/10/15 16:31:55  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2006/07/02 16:31:45  revo
+-->
+</vortaro>

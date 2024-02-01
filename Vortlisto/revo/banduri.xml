@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: banduri.xml,v 1.10 2023/01/03 14:28:59 revo Exp $">
+<kap>
+  <rad>banduri</rad>/o <fnt><bib>MuzTerm</bib></fnt>
+</kap>
+
+<drv mrk="banduri.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Hispana <ref tip="lst" cel="instru2.kord0o.MUZ"
+      lst="voko:kordinstrumentoj">kordinstrumento</ref>
+      uzata en urbaj popolaj bandoj,
+      kun mallonga kolo kaj ses duoblaj kordoj:
+      <ekz>
+        la Perua bandurio estas kordinstrumento perua kaj bolivia, &gcirc;i havas dekdu a&ubreve;
+        dekses kordojn &scirc;talajn en kvar kordo&hcirc;oroj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=557823"
+              >Bandurio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[por]</klr> &hcirc;oto <klr>[&#8230;]</klr> gitaroj, <tld/>oj, liutoj, dulzajnoj kaj
+        tamburoj estas uzataj en la kastilia stilo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=351171"
+              >&Hcirc;oto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld
+      lok="&WCU;/thumb/6/60/Bandurria1_wbg.jpg/275px-Bandurria1_wbg.jpg"
+      prm="CC BY 3.0"
+      ><tld/>o
+        <fnt>
+          <aut>Emma dusepo</aut>
+          <lok><url ref="&WCW;/File:Bandurria1_wbg.jpg"
+              >&WCW;/File:Bandurria1_wbg.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_n;&c_d;&c_u;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="de">Bandurria</trd>
+  <trdgrp lng="en">
+    <trd>bandurria</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>bandurria</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bandurria</trd>
+  </trdgrp>
+  <trd lng="hu">diszkantciszter</trd>
+  <trd lng="nl">bandurria</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.10 2023/01/03 14:28:59
+Dmitri Gabinski: + trd be
+
+versio 1.9 2022/04/26 15:00:32
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.7  2013/09/08 18:11:12  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
+Revision 1.6  2009/08/23 16:31:28  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.5  2007/06/13 16:31:11  revo
+Wieland Pusch: +trd de
+
+Revision 1.4  2003/01/09 17:32:58  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2002/11/05 17:33:13  revo
+Christopher Zervic: + ang
+
+Revision 1.2  2002/06/13 17:30:35  revo
+-->
+</vortaro>

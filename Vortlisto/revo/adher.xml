@@ -1,0 +1,434 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: adher.xml,v 1.51 2023/10/12 16:57:42 revo Exp $">
+<kap>
+  <rad>adher</rad>/i
+  <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="adher.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <uzo tip="fak">TEK</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Alglui&gcirc;i al io per speciala forto, aperanta inter du
+      surfacoj en kontakto:
+      <ekz>
+        la du randoj de la vundo <tld/>is <fnt><bib>PIV1</bib></fnt>
+        <klr>(t.e. per biologiaj fenomenoj)</klr>;
+      </ekz>
+      <ekz>
+        la papera folio <tld/>as al la vitra tabulo per elektrostatika
+        forto;
+      </ekz>
+      <ekz>
+        la mituloj forte <tld/>as al la substrato.
+      </ekz>
+    </dif>
+    <rim>
+      La uzo de tiu &ccirc;i radiko limi&gcirc;u al faka lingva&jcirc;o.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ib;&c_p;&c_n;&c_u;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_l;&c_ib;&c_p;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>adherir</trd>,
+    <trd>fixar</trd>,
+    <trd>apegar</trd>
+    <trd lng="ms">mematuhi</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lnout</trd>,
+    <trd>lp&ecaron;t</trd>,
+    <trd>p&rcaron;ilnout</trd>,
+    <trd>p&rcaron;il&iacute;nat</trd>,
+    <trd>ulp&ecaron;t</trd>
+  </trdgrp>
+  <trd lng="de">anhaften</trd>
+  <trdgrp lng="en">
+    <trd>adhere</trd>,
+    <trd>stick to</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>adherir</trd>,
+    <trd>pegar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>adh&eacute;rer<klr tip="ind"> (coller)</klr></trd>,
+    <trd>coller (&agrave;)</trd>
+  </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5D3;&#x5D1;&#x5D9;&#x5E7;</trd>
+  <trd lng="hu">tapad</trd>
+  <trd lng="it">aderire</trd>
+  <trd lng="ja">&#x4ED8;&#x7740;&#x3059;&#x308B;  <pr>&#x3075;&#x3061;&#x3083;&#x304F;&#x3059;&#x308B;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>kleven</trd>,
+    <trd>plakken</trd>,
+    <trd>adhesie vertonen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&lstroke;&aogonek;czy&cacute; <ind>adhezyjnie</ind></trd>,
+    <trd>klei&cacute; <klr tip="ind">adhezyjnie</klr></trd>
+  </trdgrp>
+  <trd lng="pt">aderir</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;
+    <ind>&c_p;&c_r;&c_i;&c_m;&c_y;&c_k;&c_a;&c_t;&c_mol;</ind></trd>,
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_t;&c_a;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_l;&c_i;&c_p;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lipn&uacute;&tcaron;</trd>,
+    <trd>pri&lcaron;n&uacute;&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_i;&c_s;&c_t;&c_a;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_shch;&c_ib;&#x43B;&#x44C;&#x43D;&#x43E; &#x43F;&c_r;&c_i;&#x43B;&#x44F;&c_g;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&#x43B;&c_i;&#x43F;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_ch;&c_je;&#x43F;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="adher.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      La fakto, ke du objektoj a&ubreve; surfacoj <tld/>as;
+      la eco de materio, malhelpanta la malproksimigon de
+      du surfacoj en kontakto:
+      <ekz>
+        por garantii firman <tld/>on necesas &scirc;miri gluon
+        sur amba&ubreve; surfacoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_g;&c_je;&c_z;&c_ib;&c_ja;</trd>
+  <trdgrp lng="ca">
+    <trd>adhesi&oacute;</trd>,
+    <trd>adher&egrave;ncia</trd>
+  </trdgrp>
+  <trd lng="cs">sr&uring;st</trd>
+  <trd lng="de">Adh&auml;sion</trd>
+  <trdgrp lng="en">
+    <trd>adherence</trd>,
+    <trd>adhesion</trd>
+  </trdgrp>
+  <trd lng="es">adherencia</trd>
+  <trdgrp lng="fr">
+    <trd>adh&eacute;rence</trd>,
+    <trd>adh&eacute;sion</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&#x5DE;&#x5E9;&#x5D9;&#x5DB;&#x5D4;</trd>,
+    <trd>&#x5D4;&#x5D3;&#x5D1;&#x5E7;&#x5D4;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>adh&eacute;zi&oacute;</trd>,
+    <trd>tapad&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>aderenza</trd>,
+    <trd>adesione</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>kleven</trd>,
+    <trd>plakken</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>adhezja</trd>,
+    <trd>przyleganie</trd>
+  </trdgrp>
+  <trd lng="pt">ades&atilde;o</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_d;&c_g;&c_je;&c_z;&c_i;&c_ja;</trd>,
+    <trd>&c_s;&c_l;&c_i;&c_p;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">zrast</trd>
+</drv>
+
+<drv mrk="adher.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Tia, ke &gcirc;i <tld/>as:
+      <ekz>
+        <ind><tld/>a rubando</ind> 
+        <fnt><bib>PIV1</bib></fnt> <klr>(ekz-e
+        glupapero)</klr>
+        <trdgrp lng="pl">
+          <trd>ta&sacute;ma <ind>samoprzylepna</ind></trd>,
+          <trd>ta&sacute;ma <ind>klej&aogonek;ca</ind></trd>
+        </trdgrp>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_d;&c_g;&c_je;&c_z;&c_ib;&c_w;&c_n;&c_y;</trd>
+    <trdgrp lng="ca">
+      <trd>adherent</trd>,
+      <trd>adhesiu</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>adh&eacute;rent<klr tip="ind"> (adj.)</klr></trd>,
+      <trd>adh&eacute;sif<klr tip="ind"> (adj.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>adherent</trd>,
+      <trd>adhesive</trd>,
+      <trd>sticky</trd>
+    </trdgrp>
+    <trd lng="es">adhesivo</trd>
+    <trd lng="hu">tapad&oacute;</trd>
+    <trdgrp lng="it">
+      <trd>aderente</trd>,
+      <trd>adesivo</trd>
+    </trdgrp>
+    <trd lng="nl">kleef-</trd>
+    <trd lng="pl">adhezyjny</trd>
+    <trdgrp lng="pt">
+      <trd>aderente</trd>,
+      <trd>adesivo</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_a;&c_d;&c_g;&c_je;&c_z;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_l;&c_i;&c_p;&c_k;&c_i;&c_j;</trd>
+    </trdgrp>
+    <trd lng="sk">lepkav&yacute;</trd>
+  </snc>
+  <snc mrk="adher.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="adher.0a.punkto">
+      <dif>
+        <klr>(p.p. <ref cel="punkt.0o.spaco">punkto</ref> 
+        <frm am="x">x</frm>
+        en <ref cel="spac.topologia0o">topologia spaco</ref>, rilate
+        al subaro <frm am="bb A"><g>A</g></frm> de &gcirc;i)</klr>
+        Tia, ke &ccirc;iu <ref cel="cxirka.0ajxo.topologio">
+        &ccirc;irka&ubreve;a&jcirc;o</ref> de <frm am="x">x</frm> enhavas punktojn en
+        <frm am="bb A"><g>A</g></frm>:
+        <ekz>
+          &ccirc;iuj punktoj en <frm am="bb A"><g>A</g></frm> estas <tld/>aj
+          al <frm am="bb A"><g>A</g></frm>;
+        </ekz>
+        <ekz>
+          <tld/>a punkto de subaro estas a&ubreve; akumuli&gcirc;a,
+          a&ubreve; izolita punkto de &gcirc;i.
+        </ekz>
+      </dif>
+      <rim>
+        Anstata&ubreve; <ctl><tld/>a punkto</ctl> troveblas
+        <ctl>kontaktpunkto</ctl> en
+        <fnt><bib>EKV</bib><lok>&para;222</lok></fnt>.
+      </rim>
+      <refgrp tip="vid">
+        <ref cel="akumul.0igxa.punkto">akumuli&gcirc;a</ref>,
+        <ref cel="dens.0a.subaro">densa</ref>,
+        <ref cel="izol.0ita.punkto">izolita</ref>.
+      </refgrp>
+      <trdgrp lng="de">
+        <trd>Limes-<klr tip="amb">(punkt)</klr></trd>,
+        <trd>adh&auml;rent<klr tip="ind"> (-er Punkt)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd><klr tip="amb">(point) </klr>of <ind>closure</ind></trd>,
+        <trd>adherent<klr tip="amb"> (point)</klr></trd>
+      </trdgrp>
+      <trd lng="fr"><klr tip="amb">(point) </klr><ind>adh&eacute;rent
+      </ind><klr tip="ind"> (&agrave; un sous-ensemble)</klr></trd>
+      <trd lng="ru"><klr tip="amb">(&c_t;&c_o;&c_ch;&c_k;&c_a;)
+      </klr>
+     &c_p;&c_r;&c_i;&c_k;&c_o;&c_s;&c_n;&c_o;&c_v;&c_je;&c_n;&c_i;&c_ja;
+      </trd>
+    </subsnc>
+    <subsnc mrk="adher.0a.vico">
+      <dif>
+        <klr>(p.p. <ref cel="punkt.0o.spaco">punkto</ref>
+        <frm am="b">b</frm>
+        en <ref cel="spac.metrika0o">metrika spaco</ref>, rilate
+        al <ref cel="vic.0o.MAT">vico</ref>)</klr>
+        Tia, ke <ref cel="vic.sub0o">subvico</ref> de la konsiderata
+        vico
+        <ref cel="konver.0i">konver&gcirc;as</ref> al
+        <frm am="b">b</frm>:
+        <ekz>
+          la vico, kies &gcirc;enerala termo estas
+          <frm am="u_n=(-1)^n a">u<sub>n</sub> =
+          (-1)<sup>n</sup>a</frm>, ne
+          konver&gcirc;as, sed akceptas du <tld/>ajn punktojn:
+          <frm am="a">a</frm> kaj <frm am="-a">-a</frm>.
+        </ekz> 
+      </dif>
+      <trdgrp lng="de">
+        <trd>Adh&auml;renz-<klr tip="amb">(punkt)</klr></trd>,
+        <trd>Ber&uuml;hrungs-<klr tip="amb">(punkt)</klr></trd>,
+        <trd>H&auml;ufungs-<klr tip="amb">(punkt)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd><klr tip="amb">(point) </klr>of <ind>adherence</ind></trd>,
+        <trd>limit<klr tip="amb"> (point)</klr></trd>
+      </trdgrp>
+      <trd lng="fr"><klr tip="amb">(valeur)
+      </klr>d'<ind>adh&eacute;rence</ind><klr tip="ind"> (d'une suite)
+      </klr></trd>
+      <trdgrp lng="hu">
+        <trd>&eacute;rint&eacute;si</trd>,
+        <trd>&eacute;rintkez&eacute;si</trd>
+      </trdgrp>
+      <trdgrp lng="it">
+      <trd>punto di <ind>aderenza</ind></trd>,
+      <trd>punto di <ind>chiusura</ind></trd>
+    </trdgrp>
+      <trd lng="ru">
+      &c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+      <klr tip="amb"> (&c_t;&c_o;&c_ch;&c_k;&c_a;)</klr>
+      </trd>
+    </subsnc>
+    <subsnc mrk="adher.0a.bildigo">
+      <dif>
+        <klr>(p.p. <ref cel="punkt.0o.spaco">punkto</ref>
+        <frm am="b">b</frm>
+        en <ref cel="spac.topologia0o">topologia spaco</ref>
+        <frm am="bb F"><g>F</g></frm>, rilate al
+        <ref cel="bild.0igo.MAT">bildigo</ref>
+        <frm am="f">f</frm> de topologia spaco
+        <frm am="bb E"><g>E</g></frm> al <frm am="bb F"><g>F</g></frm>,
+        &ccirc;e punkto <frm am="a">a</frm> de <frm am="bb         E"><g>E</g></frm>)</klr>
+        Tia, ke &gcirc;i estas
+        <ref cel="adher.0a.punkto"><tld/>a <sncref/></ref> al la
+        <ref cel="bild.0o.subaro">bildo</ref> per <frm am="f">f</frm>
+        de &ccirc;iu
+        <ref cel="cxirka.0ajxo.topologio">&ccirc;irka&ubreve;a&jcirc;o
+        </ref>
+        de <frm am="a">a</frm>.
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="infim.limes0o.funkcio">limesinfimo</ref>,
+        <ref cel="suprem.limeso0o.funkcio">limesosupremo</ref>.
+      </refgrp>
+      <trd lng="fr">
+      <klr tip="amb">(valeur) </klr>d'<ind>adh&eacute;rence</ind>
+      <klr tip="ind"> (d'une application)</klr></trd>
+      <trdgrp lng="it">
+      <trd>punto di <ind>aderenza</ind></trd>,
+      <trd>punto di <ind>chiusura</ind></trd>
+    </trdgrp>
+    </subsnc>
+    <rim>
+      Ni ne trovis fonton por &ccirc;i tiuj terminoj, sed &scirc;ajnas,
+      ke la uzo de radiko <ctl>adher</ctl> estas sufi&ccirc;e internacia
+      kaj ebligas eviti la ambiguecon de aliaj nacilingvaj metaforoj de
+      la tipo <ctl>limesa punkto</ctl> (kiuj estas foje aplikataj
+      anka&ubreve; al akumuli&gcirc;a punkto) a&ubreve; <ctl>kontakta
+      punkto</ctl> (kiu memorigas pri kontakto de kurboj).
+    </rim>
+    <trdgrp lng="ca">
+      <trd>adherent</trd>,
+      <trd>d'adher&egrave;ncia</trd>
+    </trdgrp>
+    <trd lng="sk">hromadn&yacute; <klr>(bod)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>adherentn&iacute;</trd>,
+    <trd>adhezn&iacute;</trd>,
+    <trd>p&rcaron;ilnav&yacute;</trd>
+  </trdgrp>
+  <trd lng="sk">pri&lcaron;nav&yacute;</trd>
+</drv>
+
+<drv mrk="adher.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="adher.0ajxo.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Okaza alglui&gcirc;o de du normale senkontaktaj surfacoj,
+      &ccirc;efe pro inflama fenomeno:
+      <ekz>
+        necesas rompi la <tld/>a&jcirc;ojn, krei&gcirc;intajn inter la
+        mama protezo kaj la apudaj <ref cel="hist.0o">histoj</ref>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_p;&c_a;&c_j;&c_k;&c_a; <klr>(&c_m;&c_e;&c_d;.)</klr></trd>,
+      <trd>&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_a;&c_k; <klr>(&c_m;&c_e;&c_d;.)</klr></trd>
+    </trdgrp>
+    <trd lng="en">adherent</trd>
+    <trd lng="fr">adh&eacute;rence<klr tip="ind"> (m&eacute;d.)</klr>
+    </trd>
+    <trd lng="it">aderenza<klr> (med.)</klr></trd>
+    <trd lng="pl">sklejenie<klr tip="ind"> adhezyjne</klr></trd>
+    <trd lng="ru">&c_s;&c_p;&c_a;&c_j;&c_k;&c_a;<klr tip="amb">
+    (&c_m;&c_je;&c_d;.)</klr></trd>
+  </snc>
+  <snc mrk="adher.0ajxo.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(de subaro <frm am="bb A"><g>A</g></frm> en
+      <ref cel="spac.topologia0o">topologia spaco</ref>)</klr>
+      La <ref tip="super" cel="ar.sub0o">subaro</ref> de &ccirc;iuj
+      punktoj <ref cel="adher.0a.punkto"><tld/>aj <sncref/></ref> rilate
+      al <frm am="bb A"><g>A</g></frm>:
+      <ekz>
+        la <tld/>a&jcirc;o de subaro egalas al &gcirc;ia
+        <ref cel="ferm.0ajxo.MAT">ferma&jcirc;o</ref>.
+      </ekz>
+    </dif>
+    <rim>
+      Same kiel por <ctl><tld/>a</ctl> la fontoj mankas, eble pro la
+      sinonimeco kun <ctl>ferma&jcirc;o</ctl>.
+    </rim>
+    <trd lng="be">&c_z;&c_a;&c_m;&c_y;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_m;&c_a;&c_t;.)</klr></trd>
+    <trdgrp lng="de">
+      <trd>Adh&auml;renz</trd>,
+      <trd>Abschluss</trd></trdgrp>
+    <trdgrp lng="en">
+      <trd>adherence</trd>,
+      <trd>closure</trd></trdgrp>
+    <trdgrp lng="fr">
+      <trd>adh&eacute;rence</trd>,
+      <trd>fermeture</trd></trdgrp>
+    <trdgrp lng="it">
+      <trd>chiusura<klr> (mat.)</klr></trd>
+    </trdgrp>
+    <trd lng="pl">domkni&eogonek;cie</trd>
+    <trd lng="ru">&c_z;&c_a;&c_m;&c_y;&c_k;&c_a;&c_n;&c_i;&c_je;
+    <klr tip="ind"> (&c_m;&c_a;&c_t;)</klr></trd>
+  </snc>
+  <trd lng="ca">adher&egrave;ncia</trd>
+  <trd lng="he">&#x5D4;&#x5B7;&#x5D3;&#x5D1;&#x5BC;&#x5B8;&#x5E7;&#x5B8;&#x5D4;</trd>
+  <trdgrp lng="hu">
+    <trd>adh&eacute;zi&oacute;</trd>,
+    <trd>k&oacute;ros <ind>&ouml;sszen&ouml;v&eacute;s</ind></trd>,
+    <trd>&ouml;sszetapad&aacute;s</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&#x43F;&c_a;&c_j;&#x43A;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.51 2023/10/12 16:57:42
+revo: transskribo per <pr>
+
+versio 1.49 2023/06/19 13:30:36
+Paul Peeraerts:  + trd el SV de Eichholz
+
+versio 1.48 2022/12/05 10:31:23
+Dmitri Gabinski: + trd be
+
+versio 1.46 2021/08/16 20:31:12
+Wolfram Diestel: +trd
+
+versio 1.44 2020/02/13 14:10:19
+Wolfram Diestel: formuloj per atributo am
+
+Revision 1.43  2020/02/11 18:28:22  revo
+Wolfram Diestel: formuloj per AsciiMath
+
+Revision 1.42  2017/01/29 13:10:18  revo
+Adam Eng: +trd ms
+
+Revision 1.41  2015/07/04 08:37:29  revo
+-->
+</vortaro>

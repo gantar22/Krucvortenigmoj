@@ -1,0 +1,773 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kaduk.xml,v 1.35 2023/12/02 21:20:03 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kaduk</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kaduk.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="kaduk.0a.ruinigxa">
+    <dif>
+      <ref tip="super" cel="fortik.mal0a">Malfortika</ref>, ruini&gcirc;anta, 
+      balda&ubreve; falonta a&ubreve; pereonta:
+      <ekz>
+        mi vidas malnovajn, mizerajn, <tld/>ajn kabanojn, kvaza&ubreve; mi trovi&gcirc;us en provinca
+        urbeto
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        du vicoj da domoj, &ccirc;e kiuj &ccirc;ie pendis malmodernaj <tld/>aj balkonoj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Sub la saliko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi penos faligi lin <klr>[&#x2026;]</klr> kiel barilon <tld/>an
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 62:3</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="klin.0igxi">klini&gcirc;i</ref>,
+      <ref cel="putr.0a">putra</ref>,
+      <ref cel="sxance.0igxi">&scirc;anceli&gcirc;i</ref>,
+      <ref cel="sxim">&scirc;ima</ref>,
+      <ref cel="velk.0a">velka</ref>
+    </refgrp>
+    <trd lng="ca">l&agrave;bil</trd>
+    <trdgrp lng="de">
+      <trd>verfallen</trd>,
+      <trd>bauf&auml;llig</trd>
+    </trdgrp>
+    <trdgrp lng="fi">
+      <trd>r&auml;nsistynyt</trd>,
+      <trd>huonokuntoinen</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;labr&eacute;</trd>,
+      <trd>d&eacute;cati<klr tip="ind">
+          (d&eacute;labr&eacute;)</klr></trd>,
+      <trd>en <ind>ruines</ind></trd>,
+      <trd>vermoulu</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>d&uuml;ledez&odblac;</trd>,
+      <trd>omladoz&oacute;</trd>,
+      <trd>roskatag</trd>,
+      <trd>megroggyant</trd>
+    </trdgrp>
+    <trd lng="nl">bouwvallig</trd>
+    <trdgrp lng="pt">
+      <trd>caduco</trd>,
+      <trd>decr&eacute;pito</trd>,
+      <trd>fr&aacute;gil</trd>,
+      <trd>arruinado</trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_je;&c_t;&c_h;&c_i;&c_j;</trd>
+    <trd lng="sv">fallf&auml;rdig</trd>
+  </snc>
+  <snc mrk="kaduk.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Balda&ubreve; fini&gcirc;onta, malaperonta, neda&ubreve;ra,
+      nefirma:
+      <ekz>
+        &ccirc;ie malnova <tld/>a ne&gcirc;o, kaj la vojo estis kotejo
+        <fnt>
+          <bib>Kiso</bib>
+          <lok>G&Auml;RDA</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la nubo la suno pentris <tld/>ajn &ccirc;ielarkajn
+        figurojn
+        <fnt>
+          <vrk><url ref="&EduInf;lern/librejo/0023/0008.php">La fundo de l' mizero</url></vrk>
+        </fnt>;
+      </ekz><ekz>
+        <tld/>aj esperoj
+        <fnt>B</fnt>;
+      </ekz><ekz>
+        homaj intencoj estas <tld/>aj kompare kun la dekretoj de l'
+        &ccirc;ielo
+        <fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj kutimoj
+        <fnt>
+          <vrk><url ref="https://www.academia.edu/34189499/Lingvistiko_instrumetodoj_kaj_Esperanto_Ne_forlasu_la_plenkreskulojn_">Lingvistiko, instrumetodoj kaj Esperanto: Ne forlasu la... - Academia.edu</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen mi viaj aferoj &ndash; volu min pardoni &ndash; estis tre <tld/>aj
+        <fnt>
+          <bib>GDn</bib>
+          <lok>Akto Unua</lok>
+        </fnt>.
+      </ekz>      
+    </dif>
+    <ref tip="vid" cel="efemer.0a">efemera</ref>
+    <trd lng="ca">ef&iacute;mer</trd>
+    
+    <trdgrp lng="de">
+      <trd>&uuml;berkommen</trd>,
+      <trd>verg&auml;nglich</trd>,
+      <trd>verfallen</trd>,
+      <trd>verkommen</trd>
+    </trdgrp>
+    
+    <trd lng="en">fragile</trd>
+    <trdgrp lng="fi">
+      <trd>kuihtuva</trd>,
+      <trd>h&auml;vi&auml;v&auml;</trd>
+      <trd>mit&auml;t&ouml;n</trd>
+    </trdgrp>    <trdgrp lng="fr">
+      <trd>fragile</trd>,
+      <trd>labile</trd>,
+      <trd>pr&eacute;caire</trd>
+    </trdgrp>
+    <trdgrp lng="he">
+      <trd>&shin;&bet;&yod;&resh;</trd>,
+      <trd>&shin;&bet;&resh;&yod;&resh;&yod;&resh;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>elhal&oacute;</trd>,
+      <trd>megsz&udblac;n&oacute;</trd>,
+      <trd>szertefoszl&oacute;</trd>
+    </trdgrp>
+    <trd lng="nl">tot <ind>verdwijnen</ind> gedoemd</trd>
+  </snc>
+  <snc mrk="kaduk.0a.homo">
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Tre <ref tip="super" cel="jun.mal0a">maljuna</ref>, <ref cel="fort.mal0a">malforta</ref>,
+      <ref cel="san.mal0ema">malsanema</ref>, balda&ubreve; mortonta:
+      <ekz>
+        <tld/>aj maljunuloj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hejme li regalas sin per dol&ccirc;aj bonegaj vinoj kaj dorlotas siajn <tld/>ajn
+        membrojn en kusenoj el lanugo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la duona kripligita vo&ccirc;o <klr>[&#x2026;]</klr> predikas terure la&ubreve;te per la tremanta
+        <tld/>a korpo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        unu el la stratvendistoj, <tld/>aspekta maljunulo, staranta apud <tld/>a
+        pu&scirc;veturilo, alparolis lin
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li faris tion kun pli granda vigleco, ol lia <tld/>a mieno supozigus ebla
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">decr&egrave;pit</trd>
+    <trdgrp lng="de">
+      <trd>hinf&auml;llig</trd>,
+      <trd>gebrechlich</trd>,
+      <trd>anf&auml;llig</trd>
+    </trdgrp>
+    
+    
+    <trdgrp lng="fi">
+      <trd>raihnainen</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;cr&eacute;pit</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>roskatag</trd>,
+      <trd>megrokkant</trd>,
+      <trd>elgyeng&uuml;lt</trd>
+    </trdgrp>
+    <trd lng="nl">afgeleefd</trd>
+    <trd lng="ru"><ofc>*</ofc>&c_d;&c_r;&c_ja;&c_h;&c_l;&c_y;&c_j;</trd>
+    <trd lng="sv">skr&ouml;plig</trd>
+  </snc>
+  <snc mrk="kaduk.0a.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Perdinta sian juran efikon pro transpaso de difinita templimo,
+      senvalidi&gcirc;inta:
+      <ekz>
+        <tld/>a kla&ubreve;zo.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>obsolet</trd>,
+      <trd>passat</trd>
+    </trdgrp>
+    <trd lng="de">hinf&auml;llig</trd>
+    <trd lng="en">inoperative</trd>
+    <trdgrp lng="fi">
+      <trd>vanhentunut</trd>,
+      <trd>p&auml;tem&auml;tt&ouml;m&auml;ksi k&auml;ynyt</trd>
+    </trdgrp>
+    <trdgrp lng="fa">
+      <trd>&a_A;&a_j;&a_r;&a_A;&a_n;&a_A;&f_p;&a_dh;&f_y;&a_r;</trd>,
+      <trd>&a_m;&a_n;&a_s;&a_w;&a_kh;</trd>
+    </trdgrp>
+    <trd lng="fr">caduc<klr tip="ind"> (jur.)</klr></trd>
+    <trdgrp lng="he">
+      <trd>&lamed;&alef; &bet;<ind>&tav;&vav;&qof;&fpe;</ind></trd>,
+      <trd>&lamed;&alef; <ind>&pe;&vav;&ayin;&lamed;</ind></trd>
+    </trdgrp>
+    <trd lng="hu">&eacute;rv&eacute;ny&eacute;t vesz&iacute;tett</trd>
+    <trd lng="nl">vervallen</trd>
+    <trd lng="ru">&c_u;&c_s;&c_t;&c_a;&c_r;&c_je;&c_v;&c_sh;&c_i;&c_j;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_y;</trd>,
+    <trd>&c_l;&c_ja;&c_d;&c_a;&c_sh;&c_ch;&c_y;</trd>,
+    <trd>&c_s;&c_a;&c_s;&c_t;&c_a;&c_r;&c_e;&c_l;&c_y;</trd>,
+    <trd>&c_z;&c_a;&c_n;&c_ja;&c_p;&c_a;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trd lng="ca">caduc</trd>
+  <trdgrp lng="cs">
+    <trd>chab&yacute;</trd>,
+    <trd>chatrn&yacute;</trd>,
+    <trd>se&scaron;l&yacute;</trd>,
+    <trd>uboh&yacute;</trd>,
+    <trd>vetch&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>rickety</trd>,
+    <trd>dilapidated</trd>,
+    <trd>decrepit</trd>,
+    <trd>fragile</trd>
+  </trdgrp>
+  <trd lng="es">caduco</trd>
+  <trdgrp lng="fa">
+    <trd>&a_f;&a_r;&a_t;&a_w;&a_t;</trd>,
+    <trd>&a_f;&a_r;&a_s;&a_w;&a_d;&a_h;</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&resh;&ayin;&vav;&ayin;</trd>,
+    <trd>&mem;&tav;&mem;&vav;&tet;&tet;</trd>,
+    <trd>&mem;&tav;&pe;&vav;&resh;&resh;</trd>,
+    <trd>&tav;&shin;&vav;&shin;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8001;&#x673D;&#x306E;  <pr>&#x308D;&#x3046;&#x304D;&#x3085;&#x3046;&#x306E;</pr></trd>,
+    <trd>&#x8352;&#x5EC3;&#x3057;&#x305F;  <pr>&#x3053;&#x3046;&#x306F;&#x3044;&#x3057;&#x305F;</pr></trd>,
+    <trd>&#x8001;&#x8870;&#x3057;&#x305F;  <pr>&#x308D;&#x3046;&#x3059;&#x3044;&#x3057;&#x305F;</pr></trd>,
+    <trd>&#x8001;&#x3044;&#x307C;&#x308C;&#x305F;  <pr>&#x304A;&#x3044;&#x307C;&#x308C;&#x305F;</pr></trd>,
+    <trd>&#x6D88;&#x3048;&#x3066;&#x3044;&#x304F;  <pr>&#x304D;&#x3048;&#x3066;&#x3044;&#x304F;</pr></trd>,
+    <trd>&#x306F;&#x304B;&#x306A;&#x3044;</trd>,
+    <trd>&#x7121;&#x52B9;&#x306E;  <pr>&#x3080;&#x3053;&#x3046;&#x306E;</pr></trd>,
+    <trd>&#x5931;&#x52B9;&#x3057;&#x305F;  <pr>&#x3057;&#x3063;&#x3053;&#x3046;&#x3057;&#x305F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>podupad&lstroke;y</trd>,
+    <trd>upadaj&aogonek;cy</trd>,
+    <trd>zgrzybia&lstroke;y</trd>,
+  </trdgrp>
+  <trd lng="ro">caduc</trd>
+  <trdgrp lng="sk">
+    <trd>schradnut&yacute;</trd>,
+    <trd>vetch&yacute;</trd>,
+    <trd>&uacute;bohy</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x442;&#x430;&#x440;&#x435;&#x437;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x441;&#x442;&#x430;&#x440;&#x435;&#x43D;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x441;&#x442;&#x430;&#x440;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x456;&#x434;&#x443;&#x43F;&#x430;&#x43B;&#x438;&#x439;</trd>,
+    <trd>&#x434;&#x440;&#x44F;&#x445;&#x43B;&#x438;&#x439;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x9839;&#x58DE; <pr>tu&#xED;hu&#xE0;i</pr></trd>,
+    <trd>&#x5E74;&#x4E45;&#x5931;&#x4FEE; <pr>ni&#xE1;nji&#x1D4;sh&#x12B;xi&#x16B;</pr></trd>,
+    <trd>&#x6B8B;&#x8D25; <pr>c&#xE1;nb&#xE0;i</pr></trd>,
+    <trd>&#x6B8B;&#x7834; <pr>c&#xE1;np&#xF2;</pr></trd>,
+    <trd>&#x8001;&#x6001; <pr>l&#x1CE;ot&#xE0;i</pr></trd>,
+    <trd>&#x8870;&#x673D; <pr>shu&#x101;ixi&#x1D4;</pr></trd>,
+    <trd>&#x8870;&#x8FC8; <pr>shu&#x101;im&#xE0;i</pr></trd>,
+    <trd>&#x9839;&#x572E; <pr>tu&#xED;p&#x1D0;</pr></trd>,
+    <trd>&#x9839;&#x673D; <pr>tu&#xED;xi&#x1D4;</pr></trd>,
+    <trd>&#x9F8D;&#x937E; <pr>l&#xF3;ngzh&#x14D;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kaduk.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="kaduk.0ajxo.KOMUNE">
+    <dif>
+      Difekto a&ubreve; videbla signo de <tld/>eco:
+      <ekz>
+        la surdeco estas unu el la plej oftaj <tld/>a&jcirc;oj de la
+        maljunuloj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">signe de decad&egrave;ncia</trd>
+  <trdgrp lng="en">
+    <trd>ailment</trd>,
+    <trd>sign of <ind>decay</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fi">
+    <trd>vika</trd>,
+    <trd>rikkin&auml;inen osa</trd>,
+    <trd>rappeuma</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>affection<klr tip="ind"> (due &agrave; la
+        vieillesse)</klr></trd>,
+    <trd>d&eacute;ch&eacute;ance</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&het;&vav;&lamed;&yod;</trd>,
+    <trd>&nun;&yod;&vav;&vav;&fnun;</trd>,
+    <trd>&he;&tav;&pe;&vav;&resh;&resh;&vav;&tav;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&ouml;regkori fogyat&eacute;koss&aacute;g</trd>,
+    <trd>&ouml;regkori defektus</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8870;&#x3048;&#x305F;&#x90E8;&#x5206;  <pr>&#x304A;&#x3068;&#x308D;&#x3048;&#x305F;&#x3076;&#x3076;&#x3093;</pr></trd>,
+    <trd>&#x8001;&#x673D;&#x7B87;&#x6240;  <pr>&#x308D;&#x3046;&#x304D;&#x3085;&#x3046;&#x304B;&#x3057;&#x3087;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>iets <ind>aftands</ind></trd>,
+    <trd>iets <ind>bouwvalligs</ind></trd>
+  </trdgrp>
+  <trd lng="pl">upadek <klr tip="amb">(psychiczny)</klr></trd>
+  <trd lng="ro">decaden&#x21B;&abreve;</trd>
+  <trd lng="uk">&#x43C;&#x43E;&#x442;&#x43B;&#x43E;&#x445;</trd>
+</drv>
+
+<drv mrk="kaduk.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="kaduk.0eco.KOMUNE">
+    <dif>
+      Stato de iu a&ubreve; io <tld/>a:
+      <ekz>
+        mi nepre kondukus vin al <nom>Babel</nom>, malgra&ubreve; <klr>[&#x2026;]</klr> la <tld/>eco de miaj ostoj
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Petro <klr>[&#x2026;]</klr> maljuna, zorgoplena <klr>[&#x2026;]</klr> &scirc;ajnis al ili &ccirc;i-momente
+        kvaza&ubreve; personigo de <tld/>eco kaj malforto
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LIII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="agoni.0o">agonio</ref>,
+      <ref cel="krepus.0o">krepusko</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>decad&egrave;ncia</trd>,
+    <trd>declivi</trd>,
+    <trd>envelliment</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>se&scaron;lost</trd>,
+    <trd>vetchost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Hinf&auml;lligkeit</trd>,
+    <trd>Verfallenheit</trd>
+  </trdgrp>
+  <trd lng="es">caducidad</trd>
+  <trdgrp lng="fi">
+    <trd>rappio</trd>,
+    <trd>raihnaus</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;clin</trd>,
+    <trd>d&eacute;cr&eacute;pitude</trd>,
+    <trd>senescence</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>elesetts&eacute;g</trd>,
+    <trd>roskatags&aacute;g</trd>,
+    <trd>gyenges&eacute;g</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8001;&#x673D;  <pr>&#x308D;&#x3046;&#x304D;&#x3085;&#x3046;</pr></trd>,
+    <trd>&#x8001;&#x8870;  <pr>&#x308D;&#x3046;&#x3059;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bouwvalligheid</trd>
+  <trdgrp lng="pl">
+    <trd>schy&lstroke;ek</trd>,
+    <trd>zgrzybia&lstroke;o&sacute;&cacute;</trd>,
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_r;&c_ja;&c_h;&c_l;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_je;&c_t;&c_h;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_a;&c_r;&c_je;&c_l;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">vetchos&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x442;&#x430;&#x440;&#x435;&#x437;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x441;&#x442;&#x430;&#x440;&#x456;&#x441;&#x442;&#x44C;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kaduk.0ega">
+  <kap><tld/>ega</kap>
+  <snc mrk="kaduk.0ega.KOMUNE">
+    <dif>
+      Perdinta siajn mensajn kapablojn pro granda maljuneco;
+      <ref tip="sin" cel="senil.0a">senila</ref>.
+    </dif>   
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_e;&c_ch;&c_y;</trd>,
+    <trd>&c_s;&c_e;&c_n;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>senil</trd>,
+    <trd>xaruc</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>velmi se&scaron;l&yacute;</trd>,
+    <trd>velmi uboh&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">senile</trd>
+  <trdgrp lng="es">
+    <trd>decr&eacute;pito</trd>,
+    <trd>senil</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s&eacute;nile</trd>,
+    <trd>g&acirc;teux</trd>
+  </trdgrp>
+  <trd lng="he">&samekh;&nun;&yod;&lamed;&yod;</trd>
+  <trdgrp lng="hu">
+    <trd>szenilis</trd>,
+    <trd>agyal&aacute;gyult</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8004;&#x788C;&#x3057;&#x305F;  <pr>&#x3082;&#x3046;&#x308D;&#x304F;&#x3057;&#x305F;</pr></trd>
+  <trd lng="nl">seniel</trd>
+  <trd lng="pl">starczy</trd>
+  <trd lng="sk">ve&lcaron;mi &uacute;boh&yacute;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x60DB;&#x8004; <pr>h&#x16B;nm&#xE0;o</pr></trd>,
+    <trd>&#x673D; <pr>xi&#x1D4;</pr></trd>,
+    <trd>&#x8001;&#x8FC8; <pr>l&#x1CE;om&#xE0;i</pr></trd>,
+    <trd>&#x9839;&#x8001; <pr>tu&#xED;l&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kaduk.0egeco">
+  <kap><tld/>egeco</kap>
+  <snc mrk="kaduk.0egeco.KOMUNE">
+    <dif>
+      Stato de <tld/>ega persono;
+      <ref tip="sin" cel="senil.0eco">senileco</ref>.
+    </dif>   
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_e;&c_n;&c_ib;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_e;&c_ch;&c_a;&c_ja; &c_s;&c_l;&c_a;&c_b;&c_a;&c_s;&c_mol;&c_c;&c_mol; &c_r;&c_o;&c_z;&c_u;&c_m;&c_u;</trd>,
+    <trd>&c_d;&c_z;&c_ja;&c_c;&c_ib;&c_n;&c_je;&c_c; <klr>(&c_r;&c_a;&c_z;&c_m;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>senilitat</trd>,
+    <trd>senectut</trd>
+  </trdgrp>
+  <trd lng="en">senility</trd>
+  <trdgrp lng="fr">
+    <trd>s&eacute;nilit&eacute;</trd>,
+    <trd>g&acirc;terie<klr tip="ind">
+        (s&eacute;nilit&eacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&samekh;&nun;&yod;&lamed;&yod;&vav;&tav;</trd>
+  <trdgrp lng="hu">
+    <trd>szenilit&aacute;s</trd>,
+    <trd>aggkori elbutul&aacute;s</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8004;&#x788C;  <pr>&#x3082;&#x3046;&#x308D;&#x304F;</pr></trd>
+  <trd lng="nl">seniliteit</trd>
+  <trd lng="pl">uwi&aogonek;d starczy</trd>
+  <trd lng="ru">&c_s;&c_t;&c_a;&c_r;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
+  &c_m;&c_a;&c_r;&c_a;&c_z;&c_m;</trd>
+  <trd lng="es">senilidad</trd>
+</drv>
+
+<drv mrk="kaduk.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kaduk.0igi.KOMUNE">
+    <dif>
+      Igi <tld/>a, malfortikigi, malvalidigi:
+      <ekz>
+        laceco ekstreme <tld/>igis lin, ke liaj okuloj apena&ubreve;
+        povis vidi 
+        <fnt>
+          <aut>&Ccirc;ina Radio Internacia</aut>,
+          <vrk><url ref="&CRI;681/2009/06/29/1s98744.htm">
+          Fama libro Historio Referenca por Regado</url></vrk>,
+          <lok>2009-06-29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniu povas sin fortiri de la spirita <tld/>igo kaj, kiam la infano jam ellernis
+        paroli, ili tuj <klr>[&#x2026;]</klr> klopodas konfuzi lian klaran vidon
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekunua &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neinda mona&hcirc;ejestro Danielo <klr>[&#x2026;]</klr>, <tld/>igita de multaj pekoj,
+        nesufi&ccirc;a en &ccirc;iu bona afero
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 11 (61)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="es">
+      <trd>ajar</trd>,
+      <trd>estropear</trd>,
+      <trd>envejecer <klr tip="amb">(verb. trans.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">kadukovat</trd>
+  <trd lng="fr">d&eacute;labrer</trd>
+  <trd lng="sk">kadukova&tcaron;</trd>
+  <trd lng="uk">&#x43F;&#x440;&#x438;&#x437;&#x432;&#x43E;&#x434;&#x438;&#x442;&#x438; &#x434;&#x43E; &#x437;&#x430;&#x43D;&#x435;&#x43F;&#x430;&#x434;&#x443;</trd>
+</drv>
+
+<drv mrk="kaduk.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="kaduk.0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i <tld/>a:
+      <ekz>
+        homoj <klr>[&#x2026;]</klr> <tld/>i&gcirc;intaj morale kaj mense
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u kiam mi kaduki&gcirc;is, mi havus ankora&ubreve; volupton
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 18:12</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        kvankam nia ekstera homo <tld/>i&gcirc;as, tamen nia interna homo renovi&gcirc;as tagon post
+        tago
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Korintanoj 4:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li rimarkis la konstantan <tld/>i&gcirc;on de la tuta vivo
+        <fnt>
+          <bib>LGA</bib>
+          <lok>I.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konsum.0igxi">konsumi&gcirc;i</ref>,
+      <ref cel="velk.0i">velki</ref>.
+    </refgrp>
+    <trdgrp lng="es">
+      <trd>envejecer <klr tip="amb">(verb. intrans.)</klr></trd>,
+      <trd>ajarse</trd>,
+      <trd>estropearse</trd>,
+      <trd>caducarse</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>decaure</trd>,
+    <trd>degradar-se</trd>,
+    <trd>esfondrar-se</trd>
+  </trdgrp>
+  <trd lng="de">verfallen</trd>
+  <trdgrp lng="fi">
+    <trd>r&auml;nsisty&auml;</trd>,
+    <trd>raihnaantua</trd>,
+    <trd>rapistua</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>crouler</trd>,
+    <trd>se <ind>d&eacute;labrer</ind></trd>,
+    <trd>tomber en <ind>ruine</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megrokkan</trd>,
+    <trd>megroggyan</trd>,
+    <trd>omladozik</trd>,
+    <trd>legyeng&uuml;l</trd>,
+    <trd>&eacute;rv&eacute;ny&eacute;t veszti</trd>,
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8001;&#x8870;&#x3059;&#x308B;  <pr>&#x308D;&#x3046;&#x3059;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x8870;&#x3048;&#x308B;  <pr>&#x304A;&#x3068;&#x308D;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x8001;&#x673D;&#x5316;&#x3059;&#x308B;  <pr>&#x308D;&#x3046;&#x304D;&#x3085;&#x3046;&#x304B;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7121;&#x52B9;&#x306B;&#x306A;&#x308B;  <pr>&#x3080;&#x3053;&#x3046;&#x306B;&#x306A;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">in <ind>verval</ind> geraken</trd>
+  <trd lng="pl">zmarnie&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_r;&c_ja;&c_h;&c_l;&c_je;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_je;&c_t;&c_sh;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="tr">harabeye d&ouml;nmek</trd>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x442;&#x430;&#x440;&#x456;&#x442;&#x438;</trd>,
+    <trd>&#x437;&#x430;&#x43D;&#x435;&#x43F;&#x430;&#x434;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x456;&#x434;&#x443;&#x43F;&#x430;&#x434;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x432;&#x430;&#x43B;&#x438;&#x442;&#x438;&#x441;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5D29; <pr>b&#x113;ng</pr></trd>,
+    <trd>&#x7834;&#x843D; <pr>p&#xF2;lu&#xF2;</pr></trd>,
+    <trd>&#x5012;&#x584C; <pr>d&#x1CE;ot&#x101;</pr></trd>,
+    <trd>&#x574D; <pr>t&#x101;n</pr></trd>,
+    <trd>&#x574D;&#x584C; <pr>t&#x101;nt&#x101;</pr></trd>,
+    <trd>&#x57AE; <pr>ku&#x1CE;</pr></trd>,
+    <trd>&#x5D29;&#x6E83; <pr>b&#x113;ngku&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kaduk.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="kaduk.0ulo.KOMUNE">
+    <dif>
+      <ref cel="jun.mal0ulo">Maljunulo</ref> perdanta siajn korpajn kaj mensajn kapablojn:
+      <ekz>
+        en iliaj triboj estis neniu <tld/>ulo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 105:37</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr>, kvankam en maljuna a&gcirc;o, tute ne estis <tld/>ulo
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la traveturanta oficisto volos anta&ubreve; &ccirc;io 
+        &ccirc;irka&ubreve;rigardi la <ind><tld/>ulejo</ind>jn, kiuj
+        estas sub via estreco
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto unua</lok>
+        </fnt>.
+        <trd lng="ca">geri&agrave;tric</trd>
+        <trd lng="de">Pflegeheim</trd>
+        <trd lng="fr">asile de vieillards</trd>
+        <trd lng="nl">bejaardentehuis</trd>
+      </ekz>
+    </dif>
+    <trd lng="es">anciano</trd>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>anci&agrave;</trd>,
+    <trd>vell</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>se&scaron;l&yacute; sta&rcaron;ec</trd>,
+    <trd>vetch&yacute; sta&rcaron;ec</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Gebrechlicher</trd>,
+    <trd>Pflegebed&uuml;rftiger</trd>
+  </trdgrp>
+  <trd lng="en">elderly <klr>(person)</klr></trd>
+  <trdgrp lng="fi">
+    <trd>raihnas vanhus</trd>
+  </trdgrp>
+  <trd lng="fr">vieillard</trd>
+  <trd lng="he">&qof;&shin;&yod;&shin;</trd>
+  <trdgrp lng="hu">
+    <trd>elaggott ember</trd>,
+    <trd>aggasty&aacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8001;&#x3044;&#x307C;&#x308C;  <pr>&#x304A;&#x3044;&#x307C;&#x308C;</pr></trd>,
+    <trd>&#x8001;&#x8870;&#x8005;  <pr>&#x308D;&#x3046;&#x3059;&#x3044;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">grijsaard</trd>
+  <trdgrp lng="pl">
+    <trd>ramol</trd>,
+    <trd>starzec</trd>
+  </trdgrp>
+  <trd lng="sk">vetch&yacute; starec</trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x440;&#x44F;&#x445;&#x43B;&#x438;&#x439; &#x441;&#x442;&#x430;&#x440;&#x438;&#x43A;</trd>,
+    <trd>&#x441;&#x442;&#x430;&#x440;&#x438;&#x439; &#x434;&#x456;&#x434;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7FC1; <pr>w&#x113;ng</pr></trd>,
+    <trd>&#x8001;&#x4EBA; <pr>l&#x1CE;or&#xE9;n</pr></trd>,
+    <trd>&#x8001;&#x4EBA;&#x7684; <pr>l&#x1CE;or&#xE9;nde</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.34 2023/10/18 14:48:09
+revo: transskribo per <pr>
+
+versio 1.32 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.30 2022/02/28 07:26:38
+Wolfram Diestel: ~eco..~ulo: ekz-oj, trd de
+
+versio 1.29 2022/02/27 20:28:38
+Wolfram Diestel: ~a: ekz-oj, trd de
+
+versio 1.28 2022/02/14 07:28:20
+Dmitri Gabinski: + trd be
+
+Revision 1.26  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/04/02 17:10:23  revo
+-->
+</vortaro>

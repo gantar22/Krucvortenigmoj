@@ -1,0 +1,594 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: skal.xml,v 1.106 2024/01/09 08:31:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>skal</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="skal.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="skal.0o.relativa">
+    <dif>
+      Rilato inter la dimensioj de du diverse
+      grandaj objektoj.
+    </dif>
+    <subsnc mrk="skal.0o.proporcio">
+      <uzo tip="fak">TEK</uzo>
+      <dif>
+        <ref tip="super" cel="propor.0o">Proporcio</ref> inter la efektivaj
+        dimensioj de objekto kaj la dimensioj de desegna&jcirc;o a&ubreve; modelo, kiu figuras &gcirc;in:
+        <ekz>
+          en neniu farebla desegna&jcirc;o ni povas desegni samtempe la
+          orbitojn kaj la planedojn la&ubreve; la sama <tld/>o
+          <fnt>
+            <aut>Garbhan MacAoidh</aut>,
+            <vrk>Tra kruta&jcirc;oj al la astroj</vrk>,
+            <bib>Monato</bib>,
+            <lok>2001/06, p. 17</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <klr>[ili]</klr> montris modelon de nia planeda sistemo en skalo 1 :
+          2&#x202F;400&#x202F;000&#x202F;000
+          <fnt>
+            <aut>Walter Klag</aut>
+            <bib>Monato</bib>
+            <vrk><url ref="&Monato;/2001/007104.php">Per tramo tra nia planeda sistemo</url></vrk>
+            <lok>2001/04, p. 25</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          en la fundo de la halego diversaj metiistoj konstruis plen<tld/>an domon
+          <fnt>
+            <bib>KrM</bib>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="difin.0i.TEK">difino<sncref/></ref>,
+        <ref cel="format.0o.TIP">formato</ref>
+      </refgrp>
+      <trd lng="be">&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;</trd>
+      <trd lng="de">Ma&szlig;stab</trd>
+      <trdgrp lng="fr">
+        <trd>&eacute;chelle<klr> (rapport au r&eacute;el)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>l&eacute;pt&eacute;k</trd>,
+        <trd>m&eacute;retar&aacute;ny</trd>
+      </trdgrp>
+      <trd lng="pl">skala</trd>
+      <trd lng="ru">&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;</trd>
+    </subsnc>
+    <subsnc mrk="skal.0o.grafika">
+      <dif>
+        Simbolo montranta la <tld/>on de desegno
+        per linio dividita per streketoj kaj apudaj
+        indikoj de la efektivaj distancoj.
+        <!--
+        Linio dividita per egaldistancaj streketoj, kiuj montras la
+        dimensiojn de desegna&jcirc;o rilate al efektiva objekto.
+        -->
+      </dif>
+      <trd lng="be">&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;</trd>
+      <trd lng="de">Ma&szlig;stab <klr>(Angabe)</klr></trd>
+      <trdgrp lng="fr">
+        <trd>&eacute;chelle<klr> (cartographie)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>skala</trd>,
+        <trd>podzia&lstroke;ka</trd>
+      </trdgrp>
+      <trd lng="ru">&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;</trd>
+    </subsnc>
+    <subsnc mrk="skal.0o.mezura">
+      <dif>
+        Serio de streketoj a&ubreve; <ref tip="prt" cel="indik.0o">indiko</ref>j, kiujn montrilo
+        a&ubreve; alia mezurilo atingas, tiel montrante la
+        rilaton al iu mezurata grando (temperaturo, premo, rapido...):
+        <!--
+        Aro de la streketoj, kiuj montras la gradojn de termometro
+        a&ubreve; de
+        alia ajn mezuraparato.
+        -->
+        <ekz>
+          la 32 gradoj de la kompasa <tld/>o
+          <fnt>
+            <bib>Mortul&Scirc;ip</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          nanometra <tld/>o
+          <fnt>
+            <bib>MD05</bib>
+            <vrk>Industrio en skalo de atomo</vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          pritaksi la prononcon de parolantoj la&ubreve; du <tld/>oj
+          <fnt>
+            <bib>LOdE</bib>
+            <vrk><url ref="&Tekstaro;?nomo=ondo-de-esperanto">Anoncetoj</url></vrk>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_sh;&c_k;&c_a;&c_l;&c_a;</trd>
+      <trd lng="de">Skala</trd>
+      <trdgrp lng="fr">
+        <trd>graduation</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>sk&aacute;la</trd>,
+        <trd>fokbeoszt&aacute;s</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>skala</trd>,
+        <trd>podzia&lstroke;ka</trd>
+      </trdgrp>
+      <trd lng="ru">&c_sh;&c_k;&c_a;&c_l;&c_a;</trd>
+    </subsnc>
+  </snc>
+  <snc mrk="skal.0o.absoluta">
+    <dif>
+      Serio de interrilataj gradoj de mezuro:
+      <ekz>
+        brizo <klr>[je]</klr> indico 4&#x202F;-&#x202F;6 de la Boforta <tld/>o
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tertremo <klr>[&#8230;]</klr> supera e&ccirc; al 6 gradoj de la <tld/>o de <nom>Richter</nom>
+        <fnt>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/010777.php">&Gcirc;is la tero tremas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/02 p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bona oratoro <klr>[&#8230;]</klr> havas je dispono vere grandan <tld/>on: de 60 &gcirc;is
+        proksimume 180 vortoj en minuto
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <subsnc mrk="skal.0o.MUZ">
+      <uzo tip="fak">MUZ</uzo>
+      <dif>
+        Orda, norma serio de <ref tip="prt" cel="ton.0o.MUZ_unu">tono</ref>j:
+        <ekz>
+          plur<tld/>aj instrumentoj
+          <fnt>
+            <bib>Rsp</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          ni ne bezonos plurkordajn a&ubreve; &ccirc;ia<tld/>ajn instrumentojn por la kantoj kaj
+          melodioj
+          <fnt>
+            <bib>Rsp</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          &leftquot;<nom>Bob, Bob, Bob</nom>!&rightquot; &scirc;i kriis la&ubreve; kreskanta <tld/>o
+          <fnt>
+            <bib>ChV</bib>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="sin">
+         <ref cel="gam.0o.MUZ">gamo<sncref/></ref>
+      </refgrp>
+      <refgrp tip="vid">
+         <ref cel="tonal.0o">tonalo</ref>
+      </refgrp>
+      <trd lng="be">&c_d;&c_y;&c_ja;&c_p;&c_a;&c_z;&c_o;&c_n; <klr tip="amb">(&c_m;&c_u;&c_z;.)</klr></trd>
+      <trd lng="de">Tonleiter</trd>
+      <trdgrp lng="hu">
+        <trd>hangl&eacute;tra</trd>,
+        <trd>hangsor</trd>,
+        <trd>sk&aacute;la</trd>
+      </trdgrp>
+      <trd lng="pl">skala</trd>
+      <trd lng="ru">&c_d;&c_i;&c_a;&c_p;&c_a;&c_z;&c_o;&c_n; <klr tip="amb">(&c_m;&c_u;&c_z;.)</klr></trd>
+    </subsnc>
+  </snc>
+  <snc mrk="skal.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      La <ref cel="mezur.0o.FIG">mezuro</ref>
+      la&ubreve; kiu oni taksas iun aferon; la <ref cel="kadr.0o.kondicxoj">kadro</ref>
+      ene de kiu oni &gcirc;in taksas:
+      <ekz>
+        de kie vi tion scias? <klr>[&#8230;]</klr> &dash; la princo travivis la samon, sed la&ubreve; pli
+        vasta <tld/>o
+        <fnt>
+          <bib>IK</bib>
+          <lok>&ccirc;ap. I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li dum la jaroj 1944 kaj 1945 gvidis <klr>[&#8230;]</klr> vast<tld/>an organizon je la
+        nomo de Sveda Ru&gcirc;a Kruco
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi pruvos per faktoj, ke simplaj laboristoj povas senpere interrilati <ind>la&ubreve;
+        tutmonda <tld/>o</ind>
+        <fnt>
+          <bib>Lanti</bib>
+        </fnt>;
+        <trd lng="de">im <ind>Weltma&szlig;stab</ind></trd>
+      </ekz>
+      <ekz>
+        kulturaj aran&gcirc;oj <ind>en landa <tld/>o</ind>
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+        <trd lng="de">auf <ind>Landesebene</ind></trd>
+      </ekz>
+      <ekz>
+        mond<tld/>aj kulturaj inter&scirc;an&gcirc;oj
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la evoluo estos treege longa <klr>[&#8230;]</klr> la&ubreve; nia tempo<tld/>o
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i &scirc;tupis iom supren sur la estim<tld/>o de la eleganta snobulino
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la okuloj estas la plej karakterizaj: <klr>[&#8230;]</klr> sur tiu <tld/>o trovi&gcirc;as
+        esprimoj de la atentigo &gcirc;is la neglekto kaj ripro&ccirc;o
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aran&gcirc;i plezurprogramojn en granda <tld/>o por <klr>[&#8230;]</klr> la tuta somero
+        <fnt>
+          <bib>ViV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="mezur.0ilo">mezurilo</ref>,
+       <ref cel="sxnur.0o.KOMUNE">mezur&scirc;nuro</ref>,
+       <ref cel="norm.0o.KOMUNE">normo<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;</trd>,
+      <trd>&c_sh;&c_k;&c_a;&c_l;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd><klr>(Vergleichs-)</klr>Ma&szlig;stab</trd>,
+      <trd>Skala <klr>(Vergleich)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="af">skaal</trd>
+  <trd lng="am">&#x120D;&#x12AC;&#4725;</trd>
+  <trd lng="ar">&a_ayn;&a_l;&a_A_maqsura; &a_n;&a_T;&a_A;&a_q; &a_w;</trd>
+  <trd lng="az">miqyasl&inodot;</trd>
+  <trd lng="bn">&#x9B8;&#x9CD;&#2453;&#x9C7;&#x9B2;</trd>
+  <trd lng="bs">skale</trd>
+  <trd lng="co">scala</trd>
+  <trdgrp lng="cs">
+    <trd>m&ecaron;&rcaron;&iacute;tko mapy</trd>,
+    <trd>stupnice p&rcaron;&iacute;stroje</trd>
+  </trdgrp>
+  <trd lng="cy">graddfa</trd>
+  <trd lng="da">skala</trd>
+  <trd lng="en">scale</trd>
+  <trd lng="es">escala</trd>
+  <trd lng="et">skaala</trd>
+  <trd lng="eu">eskala</trd>
+  <trd lng="fy">skaal</trd>
+  <trd lng="ga">sc&aacute;la</trd>
+  <trd lng="gd">sg&egrave;ile</trd>
+  <trd lng="gl">escala</trd>
+  <trd lng="gu">&#xAB8;&#xACD;&#xA95;&#xAC7;&#xAB2;</trd>
+  <trd lng="ha">sikelin</trd>
+  <trd lng="hi">&#x92A;&#2376;&#x92E;&#x93E;&#2344;&#2375;</trd>
+  <trd lng="hr">razmjera</trd>
+  <trd lng="ht">ech&egrave;l</trd>
+  <trd lng="hy">&#1396;&#1377;&#x57D;&#1399;&#x57F;&#1377;&#1378;</trd>
+  <trd lng="ig">n&#8217;&#x1ECD;t&#x1EE5;t&#x1EE5; na</trd>
+  <trd lng="is">m&aelig;likvar&#xF0;i</trd>
+  <trd lng="ja">&#x30B9;&#x30B1;&#x30FC;&#x30EB;</trd>
+  <trd lng="jv">ukuran</trd>
+  <trd lng="ka">&#x10DB;&#x10D0;&#x10E1;&#x10E8;&#x10E2;&#x10D0;&#x10D1;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&c_a;&c_u;&#x49B;&c_y;&c_m;&c_d;&c_y;</trd>
+  <trd lng="km">&#6017;&#x17D2;&#6035;&#x17B6;&#x178F;</trd>
+  <trd lng="kn">&#xCAA;&#xCCD;&#xCB0;&#xCAE;&#xCBE;&#xCA3;&#xCA6;</trd>
+  <trd lng="ko">&#xADDC;&#xBAA8;</trd>
+  <trd lng="ku">p&icirc;vaneke</trd>
+  <trd lng="ky">&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;&c_y;</trd>
+  <trd lng="lat">statera</trd>
+  <trd lng="lo">&#xE82;&#xEB0;&#xEAB;&#xE99;&#xEB2;&#xE94;</trd>
+  <trd lng="lt">skal&#279;</trd>
+  <trd lng="lv">skala</trd>
+  <trd lng="mg">ambaratonga</trd>
+  <trd lng="mi">tauine</trd>
+  <trd lng="mk">&c_s;&c_k;&c_a;&c_l;&c_a;</trd>
+  <trd lng="ml">&#xD38;&#xD4D;&#xD15;&#xD46;&#xD2F;&#xD3F;&#xD7D;</trd>
+  <trd lng="mn">&c_h;&c_e;&c_m;&c_zh;&c_e;&c_e;&c_n;&c_i;&c_j;</trd>
+  <trd lng="mr">&#2360;&#x94D;&#2325;&#2375;&#2354;</trd>
+  <trd lng="ms">skala</trd>
+  <trd lng="mt">iskala</trd>
+  <trd lng="my">&#4101;&#4096;&#4145;&#4152;</trd>
+  <trd lng="ne">&#x92E;&#x93E;&#2340;&#x94D;&#2352;&#x93E;</trd>
+  <trd lng="nl">schaal</trd>
+  <trd lng="ny">sikelo</trd>
+  <trd lng="pa">&#xA2A;&#xA48;&#xA2E;&#xA3E;&#xA28;&#xA47;</trd>
+  <trd lng="ps">&a_m;&a_q;&a_y;&a_A;&a_s;</trd>
+  <trd lng="rw">igipimo</trd>
+  <trd lng="sd">&f_p;&a_y;&a_m;&a_A;&a_n;&a_y; &a_t;&a_y;</trd>
+  <trd lng="si">&#xDB4;&#xDBB;&#xDD2;&#xDB8;&#xDCF;&#xDAB;</trd>
+  <trdgrp lng="sk">
+    <trd>hlasov&yacute; rozsah <klr>(hud.)</klr></trd>,
+    <trd>stupnica</trd>,
+    <trd>&scaron;k&aacute;la</trd>
+  </trdgrp>
+  <trd lng="sl">lestvica</trd>
+  <trd lng="sm">fua</trd>
+  <trd lng="sn">chikero</trd>
+  <trd lng="so">cabir</trd>
+  <trd lng="sq">shkall&euml;</trd>
+  <trd lng="st">tekanyo</trd>
+  <trd lng="su">skala</trd>
+  <trd lng="sw">wadogo</trd>
+  <trd lng="ta">&#xB85;&#xBB3;&#xBB5;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC38;&#xC4D;&#xC25;&#xC3E;&#xC2F;&#xC3F;</trd>
+  <trd lng="tg">&c_m;&c_i;&#x49B;&c_jo;&c_s;&c_i;</trd>
+  <trd lng="th">&#xE02;&#xE19;&#xE32;&#xE14;</trd>
+  <trd lng="tl">iskala</trd>
+  <trd lng="tt">&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;</trd>
+  <trd lng="uk">&c_sh;&c_k;&c_a;&c_l;&c_a;</trd>
+  <trd lng="ur">&f_p;&f_y;&a_m;&a_A;&a_n;&#x6D2;</trd>
+  <trd lng="uz">miqyosli</trd>
+  <trd lng="vi">quy m&ocirc;</trd>
+  <trd lng="xh">isikali</trd>
+  <trd lng="yi">&vav;&vav;&alef;&#x5B8;&gimel;</trd>
+  <trd lng="yo">asekale</trd>
+  <trd lng="zu">isikali</trd>
+</drv>
+
+<drv mrk="skal.0i">
+  <kap><tld/>i <fnt><bib>KompLeks</bib></fnt></kap>
+  <snc mrk="skal.0i.KOMUNE">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      <ref tip="super" cel="grand.0igxi">Grandigi</ref> a&ubreve; malgrandigi en
+      &ccirc;iuj dimensioj, konservante proporciojn de la partoj:
+      <ekz>
+        oni simple amplifis la sonon sen <tld/>i la intonacion
+        <fnt>
+        <aut>S. Pokrovskij</aut>,
+        <vrk>La malo de &leftquot;vo&ccirc;legi&rightquot;</vrk>,
+        <lok><url ref="&SCE;">soc.culture.esperanto</url>,
+        2003-07-25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">skalieren</trd>
+    <trd lng="en">rescale</trd>
+    <trd lng="fr">redimensionner</trd>
+    <trd lng="pl">skalowa&cacute;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol; <ind>&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>m&ecaron;nit rozm&ecaron;r</trd>,
+    <trd>stanovit m&ecaron;&rcaron;&iacute;tko</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>meni&tcaron; smer</trd>,
+    <trd>stanovi&tcaron; mer&iacute;tko</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skal.0ebla">
+  <kap><tld/>ebla</kap>
+  <snc mrk="skal.0ebla.TEK">
+    <dif>
+      Facile projekciebla al granda a&ubreve; malgranda prezento a&ubreve; amplekso, adaptebla al pli vasta
+      a&ubreve; pli malvasta apliko:
+      <ekz>
+        du &ccirc;efaj manieroj prezenti konturajn <tld/>eblajn
+        tiparojn
+        <fnt>
+          <aut>Franz Kruse</aut>,
+          <vrk><url ref="&Monato;/1996/nvoj.html">Agrabla ekzercilo</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>1996/10, p. 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>skalierbar</trd>,
+      <trd>vergr&ouml;&szlig;ern <klr>(Ma&szlig;stab)</klr></trd>,
+      <trd>zoomen <klr>(skalieren)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="en">scalable</trd>
+  <trdgrp lng="fr">
+    <trd>dimensionnable</trd>,
+    <trd>redimensionnable</trd>
+  </trdgrp>
+  <trd lng="hu">&uacute;jram&eacute;retezhet&odblac;</trd>
+  <trd lng="pl">skalowalny</trd>
+  <trd lng="ru">&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;&c_i;&c_r;&c_u;&c_je;&c_m;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="skal.et0a">
+  <kap>malgrand<tld/>a, <var><kap>et<tld/>a</kap></var></kap>
+  <snc mrk="skal.et0a.KOMUNE">
+    <dif>
+      Neampleksa, relative <ref tip="super" cel="vast.mal0a.FIG">malvasta</ref>,
+      koncernanta malmultajn homojn:
+      <ekz>
+        inter tiuj eldonejoj trovi&gcirc;as kelkaj <klr>[&#8230;]</klr>, kies eldonado estas tre
+        malgrand<tld/>a
+        <fnt>
+          <aut>Majorie Boulton</aut>
+          <vrk>Ne nur leteroj de plumamikoj</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ruinigante la <klr>[&#8230;]</klr> et<tld/>an agrikulturon
+        <fnt>
+          <aut>Roland Rotsaert</aut>,
+          <vrk><url ref="&Monato;/2001/006797.html">Jarmila konferenco &hcirc;aose
+          malsukcesis</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2000/02, p. 10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="nicx.0o.EKON">ni&ccirc;a</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>kleinteilig</trd>,
+      <trd>nischenhaft</trd>,
+      <trd>schmal</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_l;&c_a;&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_d;&c_r;&c_o;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_b;&c_m;&c_je;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="en">small scale</trd>
+  <trdgrp lng="fr">
+    <trd>&agrave; petite <ind>&eacute;chelle</ind><klr>
+    (adj.)</klr></trd>,
+    <trd>modeste<klr> (&agrave; petite &eacute;chelle)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kis <ind>sk&aacute;l&aacute;j&uacute;</ind></trd>,
+    <trd>nem sz&eacute;les <ind>k&ouml;r&udblac;</ind></trd>,
+    <trd>kis <ind>m&eacute;rt&eacute;k&udblac;</ind></trd>
+  </trdgrp>
+  <trd lng="ja">&#x5C0F;&#x898F;&#x6A21;&#x306A;  <pr>&#12375;&#12423;&#12358;&#x304D;&#x307C;&#x306A;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>na ma&lstroke;&aogonek; <ind>skal&eogonek;</ind></trd>,
+    <trd>w niewielkim <ind>zakresie</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_a;&c_l;&c_o;&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skal.grand0a">
+  <kap>grand<tld/>a</kap>
+  <snc mrk="skal.grand0a.KOMUNE">
+    <dif>
+      <ref tip="super" cel="amplek.0a.vasta">Ampleksa</ref>, tu&scirc;anta multajn lokojn, kun gravaj
+      sekvoj:
+      <ekz>
+        la unua grand<tld/>a voja&gcirc;o, en kiu esperanto
+        estis praktike uzata
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> dedi&ccirc;is tiom da horoj al la kreo de grand<tld/>a romano &ndash; &ccirc;irka&ubreve;
+        150&#x202F;000 vortoj
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili aldonis la pli detalan kaj pli grand<tld/>an geologian karton kun apartena
+        priskribo
+        <fnt>
+          <bib>ViV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        preska&ubreve; certe en Koreio okazis grand<tld/>a fra&ubreve;do
+        <fnt>
+          <aut>R. Rotsaert</aut>,
+          <vrk>Lernout kaj Hauspie: epilogo</vrk>,
+          <bib>Monato</bib>,
+          <lok>2002/02, p. 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd><ind>gro&szlig;</ind> angelegt</trd>,
+      <trd>in gro&szlig;em <ind>Ma&szlig;stab</ind></trd>,
+      <trd>umfangreich</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_b;&c_u;&c_j;&c_n;&c_a;&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_y;</trd>
+  <trd lng="cs">ve velk&eacute;m m&ecaron;&rcaron;&iacute;tku <klr>(adj.)</klr></trd>
+  <trd lng="en">large scale</trd>
+  <trdgrp lng="fr">
+    <trd>ambitieux<klr> (&agrave; grande &eacute;chelle)</klr></trd>,
+    <trd>&agrave; grande <ind>&eacute;chelle</ind><klr>
+    (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>sz&eacute;les <ind>k&ouml;r&udblac;</ind></trd>,
+    <trd>nagym&eacute;rv&udblac;</trd>,
+    <trd>nagyar&aacute;ny&uacute;</trd>
+  </trdgrp>
+  <trd lng="ja">&#22823;&#x898F;&#x6A21;&#x306A;  <pr>&#12384;&#12356;&#x304D;&#x307C;&#x306A;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>na du&zdot;&aogonek; <ind>skal&eogonek;</ind></trd>,
+    <trd>w pe&lstroke;nym <ind>zakresie</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_sh;&c_i;&c_r;&c_o;&c_k;&c_o;&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>ve&lcaron;korys&yacute;</trd>,
+    <trd>ve&lcaron;k&eacute;ho stup&ncaron;a</trd>
+  </trdgrp>
+  <trd lng="uk">&c_sh;&c_i;&c_r;&c_o;&c_k;&c_o;&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_i;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.106 2024/01/09 08:31:17
+Dmitri Gabinski: + trd be
+
+versio 1.105 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.103 2023/05/07 10:29:00
+Paul Peeraerts: + lok + url
+
+versio 1.102 2023/05/06 14:26:04
+revo: aktualigo URL-unuoj
+
+versio 1.101 2023/01/24 19:21:05
+Wolfram Diestel: +ref, trd de
+
+versio 1.100 2022/05/05 05:09:57
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.98 2021/10/12 05:25:24
+Wolfram Diestel: dif-vortigo: mezurunuo -> kadro...
+
+versio 1.97 2021/10/11 19:21:39
+-->
+</vortaro>

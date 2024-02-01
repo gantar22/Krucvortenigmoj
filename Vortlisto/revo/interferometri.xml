@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: interferometri.xml,v 1.7 2023/10/13 18:30:28 revo Exp $">
+<kap>
+  <rad>interferometri</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="interferometri.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="interferometri.0o.FOT">
+    <uzo tip="fak">AST</uzo>
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Mezurado de <ref tip="vid" cel="interf.0o.FIZ">interferoj</ref>,
+      interalie astronomie uzata por kalkulo de astraj grandoj kaj
+      interastraj distancoj:
+      <ekz>
+        <tld/>o kombinas la bildojn de pluraj teleskopoj kiuj
+        trovi&gcirc;as en certa distanco unu de la alia
+        <fnt>
+          <aut>A. Wandel</aut>,
+          <vrk>SETI post 50 jaroj</vrk>,
+          <lok><url ref="&STEB;miksitaj/iku2011.pdf">
+          </url>IKU Internacia Kongresa Universitato, 2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gravitaj ondoj <klr>[&#8230;]</klr> estis rimarkitaj de tri observatorioj de gravitaj ondoj
+        pere
+        de lasera <tld/>o
+        <fnt>
+          <aut>Fred Meyer III</aut>
+          <vrk><url ref="&Monato;/2018/012178.php">La kuni&gcirc;o de ne&ubreve;tronaj steloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2018/04, p. 17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_t;&c_e;&c_r;&c_f;&c_e;&c_r;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="de">Interferometrie</trd>
+  <trd lng="fr">interf&eacute;rom&eacute;trie</trd>
+  <trd lng="nl">interferometrie</trd>
+  <trd lng="uk">&c_ib;&#x43D;&c_t;&c_je;&c_r;&c_f;&c_je;&c_r;&#x43E;&#x43C;&c_je;&c_t;&c_r;&c_ib;&#x44F;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2023/10/13 18:30:28
+Dmitri Gabinski: + trd be
+
+versio 1.6 2023/05/16 09:25:55
+Paul Peeraerts: + url + aut + trd nl
+
+versio 1.5 2023/05/04 16:53:13
+revo: aktualigo URL-unuoj
+
+versio 1.4 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.2 2021/05/25 14:08:36
+Wolfram Diestel: +ekz, trd de
+-->
+</vortaro>

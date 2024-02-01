@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: abudabi.xml,v 1.6 2023/10/27 12:51:04 revo Exp $">
+<kap>
+    <rad>Abudabi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="abudabi.A0o">
+  <kap><tld/>o</kap>
+  <snc mrk="abudabi.A0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="lst" cel="urb.cxef0o" lst="voko:&ccirc;efurboj">&Ccirc;efurbo</ref>
+      kaj emirlando de <ref tip="malprt" cel="emir.arabaj0landoj">Unui&gcirc;intaj Arabaj
+      Emirlandoj</ref>:
+      <ekz>
+        arabaj kaj okcidentarabaj nombroj sur &scirc;osesignalo en <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=553834">Hind&ndash;araba
+          nombrosistemo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o estis fondita en 1760 kaj estis sidejo de lokaj regantoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=228">Abudabio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Abu Dhabi</trd>
+    <trdgrp lng="zh">
+    <trd>&#x963F;&#x5E03;&#x8FBE;&#x6BD4; <pr>&#x101;b&#xF9;d&#xE1;b&#x1D0;</pr></trd>,
+    <trd>&#x963F;&#x5E03;&#x9054;&#x6BD4; <pr>&#x101;b&#xF9;d&#xE1;b&#x1D0;</pr></trd>,
+    <trd>&#x963F;&#x5E03;&#x624E;&#x6BD4;&#x5E02; <pr>&#x101;b&#xF9;zh&#x101;b&#x1D0;sh&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_A;&c_b;&c_u;-&c_D;&c_a;&c_b;&c_ib;</trd>
+  <trd lng="fr">Abou Dabi</trd>
+  <trd lng="ja">&#x30A2;&#x30D6;&#x30C0;&#x30D3;  <pr>&#x3042;&#x3076;&#x3060;&#x3073;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.5 2023/10/12 16:57:42
+revo: transskribo per <pr>
+
+versio 1.3 2022/04/08 08:37:08
+Dmitri Gabinski: + trd be
+
+Revision 1.1  2017/04/03 12:10:14  revo
+Damien Brucker: nova artikolo
+-->
+</vortaro>

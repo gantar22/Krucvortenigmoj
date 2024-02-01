@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: jxeton.xml,v 1.16 2023/12/31 23:25:41 revo Exp $">
+<kap>
+ <rad>&jcirc;eton</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+
+<drv mrk="jxeton.0o">
+ <kap><tld/>o</kap>
+ <snc mrk="jxeton.0o.KOMUNE">
+   <dif>
+     Kvaza&ubreve;-monero sen a&ubreve;tentiga marko, valida nur en
+iu loko, en ludo
+     a&ubreve; por iuspecaj ma&scirc;inoj:
+     <ekz>
+       dek-poenta <tld/>o;
+     </ekz>
+     <ekz>
+       oni pagis la diversajn &gcirc;ojveturadojn kaj
+distra&jcirc;ojn per plastaj
+       <tld/>oj
+       <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;apitro 7a</lok></fnt>.
+     </ekz>
+   </dif>
+   <ref tip="vid" cel="poent.0o.SPO">poento</ref>
+ </snc>
+ <trd lng="be">&c_zh;&c_e;&c_t;&c_o;&c_n;</trd>
+ <trd lng="cs">&zcaron;eton</trd>
+ <trd lng="de">Jeton<klr> (Spielmarke)</klr></trd>
+ <trdgrp lng="en">
+   <trd>token</trd>,
+   <trd>chip (poker)</trd>,
+   <trd>disk</trd>
+ </trdgrp>
+ <trd lng="es"><ind>ficha</ind> de juego</trd>
+ <trd lng="fa">&f_zh;&a_t;&a_w;&a_n;</trd>
+ <trd lng="fr">jeton</trd>
+ <trdgrp lng="he">
+   <trd>&alef;&samekh;&yod;&mem;&vav;&fnun;</trd>,
+   <trd>&zayin;'&yod;&tet;&vav;&fnun;</trd>
+ </trdgrp>
+ <trd lng="hu">zseton</trd>
+ <trdgrp lng="ja">
+    <trd>&#x30B3;&#x30A4;&#x30F3;</trd>,
+    <trd>&#x30C8;&#x30FC;&#x30AF;&#x30F3;</trd>,
+    <trd>&#x4EE3;&#29992;&#x786C;&#x8CA8;  <pr>&#12384;&#12356;&#12424;&#12358;&#12371;&#12358;&#x304B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+   <trd>penning<klr tip="ind"> (fiche)</klr></trd>,
+   <trd>munt<klr tip="ind"> (fiche)</klr></trd>,
+   <trd>fiche</trd>
+ </trdgrp>
+ <trd lng="pt">ficha</trd>
+ <trdgrp lng="it">
+   <trd>gettone</trd>,
+   <trd>fiche</trd>
+ </trdgrp>
+ <trd lng="sk">&zcaron;et&oacute;n</trd>
+  <trd lng="uk">&c_zh;&c_je;&c_t;&#x43E;&#x43D;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.16 2023/12/31 23:25:41
+Matt Brooks: +en traduko
+
+versio 1.15 2023/10/18 05:26:26
+revo: transskribo per <pr>
+
+versio 1.13 2023/04/11 12:45:51
+Dmitri Gabinski: + trd be
+
+Revision 1.10  2014/07/30 06:10:11  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
+Revision 1.9  2009/08/23 16:31:26  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.8  2009/06/19 05:09:56  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.7  2009/03/12 17:31:09  revo
+Antonio Codazzi: +trd it
+
+Revision 1.6  2008/12/11 17:30:50  revo
+-->
+</vortaro>

@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: spekt.xml,v 1.108 2023/12/12 20:10:28 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>spekt</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="spekt.0i">
+  <kap><ofc>9</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="spekt.0i.TEA">
+    <dif>
+      Rigardi kaj a&ubreve;skulti tion, kion oni prezentas en
+      teatrejo, kinejo, cirko ktp:
+      <ekz>
+        <tld/>i la faman dramon el tempoj de la civita milito &leftquot;<nom>Lubov Jarovaja</nom>&rightquot;
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni povis <tld/>i la ekzekuton tra la maldensa &ccirc;eno de la infanterianoj
+        <fnt>
+          <bib>MkM</bib>
+          <lok>16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li iris <tld/>i <nom>Peer Gynt</nom>
+        <fnt>
+          <bib>ChV</bib>
+          <lok>14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kla&ubreve;no estis malsana, kiam mi <tld/>is la cirkon
+        <fnt>
+          <bib>CKv</bib>
+          <lok>21</lok>
+        </fnt>;
+      </ekz>
+<!-- trovu cita&jcirc;on kaj eble metu al propra drv...
+      <ekz>
+        <ind><tld/>o</ind>;
+        <trd lng="hu">n&eacute;z&odblac;</trd>
+        <trd lng="ru">&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+      </ekz>
+-->
+      <ekz>
+        Nepalo, unu el la plej malri&ccirc;aj landoj de la mondo,
+        tamen <tld/>is en majo pompan nupto-feston
+        <fnt><aut>Razeno Manandhar</aut>,
+        <vrk>&Ccirc;u akcepteblas la elspezo?</vrk>,
+        <bib>Monato</bib>, <lok>jaro
+        1997a, numero 9a, p. 7a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">kyk</trd>
+  <trd lng="am">&#x12ED;&#4632;&#x120D;&#x12A8;&#4721;</trd>
+  <trd lng="ar">&a_r;&a_A;&a_q;&a_b;</trd>
+  <trd lng="az">izl&#601;m&#601;k</trd>
+  <trd lng="be">&c_g;&c_l;&c_ja;&c_d;&c_z;&c_je;&c_c;&c_mol; <klr>(&c_v;&c_ib;&c_d;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;)</klr></trd>
+  <trd lng="bn">&#2456;&#x9A1;&#x9BC;&#x9BF;</trd>
+  <trd lng="bs">gledati</trd>
+  <trdgrp lng="ca">
+    <trd>presenciar</trd>,
+    <trd>ser espectador</trd>
+  </trdgrp>
+  <trd lng="co">fighjul&agrave;</trd>
+  <trd lng="cy">gwylio</trd>
+  <trd lng="da">ser</trd>
+  <trd lng="de">zuschauen</trd>
+  <trdgrp lng="en">
+    <trd>spectate</trd>,
+    <trd>watch</trd>
+  </trdgrp>
+  <trd lng="es">asistir a un espect&aacute;culo</trd>
+  <trd lng="et">vaata</trd>
+  <trd lng="eu">ikusi</trd>
+  <trdgrp lng="fr">
+    <trd>assister &agrave;<klr> (un spectacle)</klr></trd>
+  </trdgrp>
+  <trd lng="fy">horloazje</trd>
+  <trd lng="ga">f&eacute;achaint ar</trd>
+  <trd lng="gd">a &#8216;coimhead</trd>
+  <trd lng="gl">asista</trd>
+  <trd lng="gu">&#xA9C;&#xAC1;&#xA93;</trd>
+  <trd lng="hi">&#2328;&#2337;&#x93C;&#2368;</trd>
+  <trd lng="hmn">saib</trd>
+  <trd lng="hr">gledati</trd>
+  <trd lng="ht">gade</trd>
+  <trdgrp lng="hu">
+    <trd>n&eacute;z <klr tip="amb">(el&odblac;ad&aacute;st)</klr></trd>,
+    <trd>hallgat <klr tip="amb">(el&odblac;ad&aacute;st)</klr></trd>
+  </trdgrp>
+  <trd lng="hy">&#1380;&#x56B;&#x57F;&#1381;&#x56C;</trd>
+  <trd lng="ig">na-ekiri</trd>
+  <trd lng="io">spektar</trd>
+  <trd lng="is">horfa</trd>
+  <trd lng="ja">&#x898B;&#x308B; <pr>&#x307F;&#x308B;</pr></trd>
+  <trd lng="jv">nonton</trd>
+  <trd
+  lng="ka">&#x10D3;&#x10D0;&#x10D0;&#x10D7;&#x10D5;&#x10D0;&#x10DA;&#x10D8;&#x10D4;&#x10E0;&#x10D4;&#x10E1;</trd>
+  <trd lng="kk">&c_s;&c_a;&#1171;&c_a;&c_t;</trd>
+  <trd lng="km">&#6040;&#x17BE;&#x179B;</trd>
+  <trd lng="kn">&#xCB5;&#xCC0;&#xC95;&#xCCD;&#xCB7;&#xCBF;&#xCB8;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xC190;&#xBAA9; &#xC2DC;&#xACC4;</trd>
+  <trd lng="ku">seet</trd>
+  <trd lng="ky">&c_b;&c_a;&c_j;&c_k;&c_o;&c_o;</trd>
+  <trd lng="lat">vigilate</trd>
+  <trd lng="lo">&#xEAA;&#xEB1;&#xE87;&#xEC0;&#xE81;&#xE94;&#xEC0;&#xE9A;&#xEB4;&#xEC8;&#xE87;</trd>
+  <trd lng="lt">&zcaron;i&#x163B;r&#279;ti</trd>
+  <trd lng="lv">skat&#299;ties</trd>
+  <trd lng="mg">mijery</trd>
+  <trd lng="mi">mataara</trd>
+  <trd lng="mk">&c_v;&c_i;&c_d;&c_i;</trd>
+  <trd lng="ml">&#xD15;&#xD3E;&#xD35;&#xD7D;</trd>
+  <trd lng="mn">&c_h;&c_a;&c_r;&c_a;&c_h;</trd>
+  <trd lng="mr">&#x92A;&#x93E;&#2361;&#2370;</trd>
+  <trd lng="ms">menonton</trd>
+  <trd lng="my">&#4129;&#4101;&#4145;&#x102C;&#4100;&#4151;&#x103A;</trd>
+  <trdgrp lng="nl">
+    <trd>toeschouwen</trd>
+    <trd>kijken naar</trd>
+  </trdgrp>
+  <trd lng="ny">penyani</trd>
+  <trd lng="pa">&#xA1C;&#xA3E;&#xA17;</trd>
+  <trd lng="pl">ogl&aogonek;da&cacute;  <klr>(spektakl)</klr></trd>
+  <trd lng="ps">&a_d; &a_l;&f_y;&a_d;&a_w; &a_l;&f_p;&a_A;&a_r;&a_h;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_m;&c_o;&c_t;&c_r;&c_je;&c_t;&c_mol; <klr>(&c_z;&c_r;&c_je;&c_l;&c_i;&c_shch;&c_je;)</klr></trd>,
+    <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_je;&c_m;</ind></trd>
+  </trdgrp>
+  <trd lng="rw">reba</trd>
+  <trd lng="sd">&a_w;&a_A;&f_ch;</trd>
+  <trd lng="si">&#xDC0;&#xDDC;&#xDA0;&#xDCA;</trd>
+  <trd lng="sl">gledam</trd>
+  <trd lng="sm">tausi</trd>
+  <trd lng="sn">tarisa</trd>
+  <trd lng="so">daawado</trd>
+  <trd lng="sq">shikojn&euml;</trd>
+  <trd lng="st">shebella</trd>
+  <trd lng="su">nongton</trd>
+  <trd lng="sw">kuangalia</trd>
+  <trd lng="ta">&#xBAA;&#xBBE;&#xBB0;&#xBCD;&#xB95;&#xBCD;&#xB95;</trd>
+  <trd lng="te">&#xC1A;&#xC42;&#xC21;&#xC1F;&#xC3E;&#xC28;&#xC3F;&#xC15;&#xC3F;</trd>
+  <trd lng="tg">&c_t;&c_a;&c_m;&c_o;&c_sh;&c_o; &c_k;&c_a;&c_r;&c_d;&c_a;&c_n;</trd>
+  <trd lng="th">&#xE0A;&#xE21;</trd>
+  <trd lng="tl">panoorin</trd>
+  <trd lng="tok">lukin</trd>
+  <trd lng="tt">&c_k;&c_a;&c_r;&c_a;&c_u;</trd>
+  <trd lng="uk">&c_d;&c_i;&c_v;&c_i;&c_t;&c_i;&c_s;&c_ja;</trd>
+  <trd lng="ur">&f_g;&#x6BE;&#1681;&f_y;</trd>
+  <trd lng="uz">tomosha</trd>
+  <trd lng="vi">xem</trd>
+  <trd lng="xh">khangela</trd>
+  <trd lng="yi">&vav;&vav;&alef;&#x5B7;&fkaf;</trd>
+  <trd lng="yo">wo</trd>
+  <trd lng="zu">qaphela</trd>
+</drv>
+
+<drv mrk="spekt.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="spekt.0ajxo.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      <ref tip="super" cel="prezen1.0ajxo">Prezenta&jcirc;o</ref> <tld/>ebla en teatrejo a&ubreve; simila loko:
+      <ekz>
+        li partoprenos en popolkanta <tld/>a&jcirc;o, kiu rondiros tra la tuta lando
+        <fnt>
+          <bib>ChV</bib>
+          <lok>15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fascinita mi gapis ne povante turni rigardon for de la incita <tld/>a&jcirc;o: jen ja
+        prezenti&gcirc;as modelo de esencpura femineco alloge sternita por dibo&ccirc;a amfestado
+        <fnt>
+          <bib>SkandalJozef</bib>
+          <lok>Plendoj de Jozefo arestita</lok>
+        </fnt>!
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="spekta.0o">spektaklo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_e;&c_k;&c_t;&c_a;&c_k;&c_a;&c_l;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>,
+    <trd>&c_sh;&c_o;&c_w;</trd>
+  </trdgrp>
+  <trd lng="ca">espectacle</trd>
+  <trdgrp lng="de">
+    <trd>Schauspiel</trd>,
+    <trd>Vorf&uuml;hrung</trd>
+  </trdgrp>
+  <trd lng="es">espect&aacute;culo</trd>
+  <trdgrp lng="fr">
+    <trd>spectacle</trd>
+  </trdgrp>
+  <trd lng="hu">el&odblac;ad&aacute;s</trd>
+  <trd lng="ja">&#x98A8;&#29289;  <pr>&#12405;&#12358;&#12406;&#12388;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>schouwspel</trd>,
+    <trd>spektakel</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>spektakl</trd>,
+    <trd>widowisko</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_s;&c_t;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_p;&c_je;&c_k;&c_t;&c_a;&c_k;&c_l;&c_mol;</trd>,
+    <trd>&c_z;&c_r;&c_je;&c_l;&c_i;&c_shch;&c_je;</trd>,
+    <trd>&c_sh;&c_o;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_d;&c_o;&c_v;&c_i;&c_shch;&c_je;</trd>,
+    <trd>&c_sh;&c_o;&c_u;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="spekt.0anto">
+  <kap><tld/>anto</kap>
+  <snc mrk="spekt.0anto.TEA">
+    <dif>
+      Rigardanto de teatra, televida a&ubreve; simila prezenta&jcirc;o:
+      <ekz>
+        la <tld/>anto nur ne scias, kiaspeca rilato estas inter la <esc>hokus-pokus</esc> kaj la
+        kolombo
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Na&ubreve;a &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Pupteatraj Internaciaj Festivaloj <klr>[&#8230;]</klr> jam altiris dekojn da
+        pupteatroj el pluraj landoj kaj multajn dekmilojn da <tld/>antoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Tria Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>anto preska&ubreve; fizike sentas <klr>[&#8230;]</klr> esperojn, atendojn de la
+        heroino
+        <fnt>
+          <bib>KFl</bib>
+          <lok>VII. Gimnastiko por artaj sistemoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_l;&c_ja;&c_d;&c_a;&c_ch;</trd>
+  <trd lng="ca">espectador</trd>
+  <trdgrp lng="cs">
+    <trd>div&aacute;k</trd>,
+    <trd>pozorovatel</trd>,
+    <trd>spekt&aacute;tor</trd>
+  </trdgrp>
+  <trd lng="de">Zuschauer</trd>
+  <trdgrp lng="en">
+    <trd>spectator</trd>
+    <trd>viewer</trd>
+  </trdgrp>
+  <trd lng="es">espectador</trd>
+  <trdgrp lng="fr">
+    <trd>spectateur</trd>
+  </trdgrp>
+  <trd lng="fy">task&ocirc;ger</trd>
+  <trdgrp lng="hu">
+    <trd>n&eacute;z&odblac; <klr tip="amb">(el&odblac;ad&aacute;s&eacute;)</klr></trd>,
+    <trd>hallgat&oacute; <klr tip="amb">(el&odblac;ad&aacute;s&eacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="io">spektanto</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#29289;&#x4EBA;  <pr>&#12369;&#12435;&#12406;&#12388;&#x306B;&#12435;</pr></trd>,
+    <trd>&#x89B3;&#x5BA2;  <pr>&#x304B;&#12435;&#x304D;&#12419;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>toeschouwer</trd>
+    <trd>kijker</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>spektator</trd>,
+    <trd>widz</trd>
+  </trdgrp>
+  <trd lng="ru">&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>div&aacute;k</trd>,
+    <trd>pozorovate&lcaron;</trd>,
+    <trd>spekt&aacute;tor</trd>
+  </trdgrp>
+  <trd lng="uk">&c_g;&c_l;&c_ja;&c_d;&c_a;&c_ch;</trd>
+</drv>
+
+<drv mrk="spekt.0antaro">
+  <kap><tld/>antaro</kap>
+  <snc mrk="spekt.0antaro.TEA">
+    <dif>
+      &Ccirc;iuj &ccirc;eestantoj &ccirc;e evento, <tld/>a&jcirc;o:
+      <ekz>
+        <klr>[li]</klr> supren&scirc;ovas la okulvitron, esplore rigardas la <tld/>antaron
+        <fnt>
+          <bib>SatirRak</bib>
+          <lok>Budape&scirc;ta ekzameno</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        temas pri kvin ske&ccirc;oj tre diversaj, el kiuj la
+        unuaj kvar sendube ridigos la <tld/>antaron
+        <fnt><aut>Donald Broadribb</aut>,
+        <vrk>Utilaj por distraj klubkunvenoj (Maurice Baring, Arthur
+        Hopkins, Kvin etaj humuraj dramoj)</vrk>,
+        <bib>Monato</bib>, <lok>jaro 2002a, numero 5a, p.
+        30a</lok></fnt>;
+      </ekz>
+      <ekz>
+        mezurado de la televid-<tld/>antaro baze ne malsamas al aliaj statistikaj
+        esploroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hektor Alos I Font</aut>
+          <vrk><url ref="&Monato;/2003/008062.html">Spektantoj spektataj</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="publik.0o.spektantaro">publiko<sncref ref="publik.0o.spektantaro"/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_l;&c_je;&c_d;&c_a;&c_ch;&c_y;</trd>,
+    <trd>&c_p;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a;</trd>,
+    <trd>&c_a;&c_w;&c_d;&c_y;&c_t;&c_o;&c_r;&c_y;&c_ja; <klr>(&c_g;&c_l;&c_ja;&c_d;&c_a;&c_c;&c_k;&c_a;&c_ja;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>audi&egrave;ncia</trd>,
+    <trd>p&uacute;blic</trd>
+  </trdgrp>
+  <trd lng="cs">obecenstvo</trd>
+  <trd lng="de">Publikum</trd>
+  <trd lng="en">audience</trd>
+  <trdgrp lng="es">
+    <trd>audiencia</trd>,
+    <trd>publico<klr tip="amb"> (de un espect&aacute;culo)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>public<klr> (th&eacute;atre, concert...)</klr></trd>
+  </trdgrp>
+  <trd lng="fy">task&ocirc;gers</trd>
+  <trdgrp lng="hu">
+    <trd>n&eacute;z&odblac;k&ouml;z&ouml;ns&eacute;g</trd>,
+    <trd>hallgat&oacute;s&aacute;g</trd>,
+    <trd>publikum</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x89B3;&#34886;  <pr>&#x304B;&#12435;&#12375;&#12421;&#12358;</pr></trd>,
+    <trd>&#x89B3;&#x5BA2;  <pr>&#x304B;&#12435;&#x304D;&#12419;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>publiek<klr tip="ind"> (zn.)</klr></trd>,
+    <trd>toeschouwers</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>publiczno&sacute;&cacute;</trd>,
+    <trd>s&lstroke;uchacze</trd>,
+    <trd>widzowie</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_i;</trd>,
+    <trd>&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_k;&c_a;&c_ja; &c_a;&c_u;&c_d;&c_i;&c_t;&c_o;&c_r;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">obecenstvo</trd>
+</drv>
+
+<drv mrk="spekt.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="spekt.0ejo.TEA">
+    <dif>
+      La parto de la teatra, cirka ktp halo, destinita por
+      la <tld/>antoj:
+      <ekz>
+        oni planis profundigi la korton, transformi la kavon en <tld/>ejon kaj fari
+        tegmenton super &gcirc;i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Anna kaj Mati Pentus</aut>
+          <vrk><url ref="&Monato;/2011/010539.php">Princo Igor neniam a&ubreve;dita</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Arlekeno &ccirc;esis reciti, kaj turnis sin al la publiko,
+        montris al iu en la fundo de la <tld/>ejo, kaj
+        ekkriis
+        <fnt>
+          <aut>Carlo Collodi, trad. Giuseppe Croatini</aut>,
+          <vrk>La aventuroj de Pinokjo</vrk>,
+          <lok><url ref="http://digilander.libero.it/nicolaruggiero/pinokjo/10.html">&ccirc;ap.
+          10</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_l;&c_ja; <klr>(&c_v;&c_ib;&c_d;&c_o;&c_w;&c_n;&c_a;&c_ja;, &c_g;&c_l;&c_ja;&c_d;&c_a;&c_c;&c_k;&c_a;&c_ja;)</klr></trd>
+  <trd lng="ca">sala</trd>
+  <trdgrp lng="cs">
+    <trd>hledi&scaron;te</trd>,
+    <trd>hledi&scaron;t&ecaron;</trd>
+  </trdgrp>
+  <trd lng="de">Zuschauerraum</trd>
+  <trd lng="es">sala</trd>
+  <trdgrp lng="fr">
+   <trd>gradins</trd>,
+   <trd>salle</trd>
+  </trdgrp>
+  <trd lng="hu">n&eacute;z&odblac;t&eacute;r</trd>
+  <trd lng="nl">zitplaatsen<klr tip="ind"> (in theater)</klr></trd>
+  <trd lng="pl">widownia</trd>
+  <trd lng="ru">&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_z;&c_a;&c_l;</trd>
+  <trd lng="sk">h&lcaron;adisko</trd>
+</drv>
+
+<drv mrk="spekt.0inda">
+  <kap><tld/>inda</kap>
+  <snc>
+    <dif>
+      Meritanta <tld/>adon:
+      <ekz>
+        <tld/>inda filmo: estas beda&ubreve;rinde nur, ke en kinejo oni povas uzi nur du el la
+        kvin sensoj
+        <fnt>
+       <aut>Lode van de Velde</aut>
+          <vrk><url ref="&Monato;/2000/006862.php">Kvin homoj, kvin sensoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pluraj trovas la filmon enua, malinteresa, ne <tld/>inda
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/2007/009201.php">Babel</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_r;&c_t;&c_y; &c_p;&c_r;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_u;</trd>
+  <trd lng="de">sehenswert (Schauspiel)</trd>
+  <trd lng="fr">m&eacute;ritant d'&ecirc;tre vu</trd>
+  <trd lng="io">spektinda</trd>
+  <trd lng="nl">bezienswaardig</trd>
+  <trd lng="pl">wart  <ind>ogl&aogonek;dni&eogonek;cia</ind></trd>
+  <trd lng="uk">&c_ja;&c_k;&c_i;&c_j; &c_v;&c_a;&c_r;&c_t;&c_o; &c_p;&c_o;&c_d;&c_i;&c_v;&c_i;&c_t;&c_i;&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="spekt.re0i">
+  <kap>re<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Denove, ree <tld/>i:
+      <ekz>
+        ni re<tld/>is la saman filmon.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="hom" cel="respek.0i">respekt&middot;i</ref>
+  <trd lng="en">rewatch</trd>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_l;&c_ja;&c_d;&c_z;&c_je;&c_c;&c_mol; &c_z;&c_n;&c_o;&c_w;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+   <trd>regarder de nouveau</trd>,
+   <trd>revoir</trd>
+  </trdgrp>
+  <trd lng="io">rispektar</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C0A;&#x656C;&#12377;&#x308B;  <pr>&#x305D;&#12435;&#12369;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x656C;&#12358;  <pr>&#12358;&#12420;&#x307E;&#12358;</pr></trd>,
+    <trd>&#x5C0A;&#x91CD;&#12377;&#x308B;  <pr>&#x305D;&#12435;&#12385;&#12423;&#12358;&#12377;&#x308B;</pr></trd>,
+    <trd>&#36981;&#x5B88;&#12377;&#x308B;  <pr>&#12376;&#12421;&#12435;&#12375;&#12421;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">opnieuw bekijken</trd>
+  <trd lng="pl">ogl&aogonek;da&cacute; ponownie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_sh;&c_a;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_a;&c_zh;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.108 2023/12/12 20:10:28
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.107 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.106 2023/09/19 22:26:03
+Vito Redsky: +trd pl 
+
+versio 1.104 2023/08/29 14:28:24
+Wolfram Diestel: ja: prononco
+
+versio 1.103 2023/04/25 06:32:40
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.102 2023/04/11 18:56:02
+aktualigo Monato-URL
+
+versio 1.101 2022/06/26 16:38:38
+Wolfram Diestel: +ekz-oj, ref, trd de
+
+versio 1.100 2022/05/05 14:43:48
+-->
+</vortaro>

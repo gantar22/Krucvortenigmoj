@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sinkron.xml,v 1.8 2023/10/21 07:46:47 revo Exp $">
+<kap>
+  <rad>sinkron</rad>/a <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="sinkron.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="sinkron.0a.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <ref tip="dif" cel="temp.sam0a.KOMUNE">Samtempa</ref>,
+      <ref tip="dif" cel="takt.sam0a.KOMUNE">samtakta</ref>;
+      konsideranta aferojn en difinita momento, sen tempa evoluo;
+      kontraste al <ref tip="ant" cel="diakron.0a.SCI">diakrona</ref>:
+      <ekz>
+        etaj galaksioj, kiuj movi&gcirc;as interne de la Andromeda,
+        <klr>...</klr> rotacias la&ubreve; <tld/>a rapideco
+        <fnt>
+          <aut>P. S. Viana</aut>,
+          <vrk><url ref="http://retradio.webnode.at/news/dek-kvin-jara-sciencisto/">
+          Dek-kvin-jara sciencisto</url></vrk>,
+          <lok>esperanta retradio, 2013-01-08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_y;&c_n;&c_h;&c_r;&c_o;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_d;&c_n;&c_a;&c_ch;&c_a;&c_s;&c_o;&c_v;&c_y;</trd>,
+    <trd>&c_a;&c_d;&c_n;&c_a;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="en">synchronic</trd>
+  <trd lng="fr">synchronique</trd>
+  <trdgrp lng="ja">
+    <trd>&#x540C;&#x6642;&#x306B;&#x8D77;&#x304D;&#x308B;  <pr>&#x3069;&#x3046;&#x3058;&#x306B;&#x304A;&#x304D;&#x308B;</pr></trd>,
+    <trd>&#x540C;&#x671F;&#x306E;  <pr>&#x3069;&#x3046;&#x304D;&#x306E;</pr></trd>,
+    <trd>&#x540C;&#x671F;&#x3057;&#x305F;  <pr>&#x3069;&#x3046;&#x304D;&#x3057;&#x305F;</pr></trd>,
+    <trd>&#x5171;&#x6642;&#x7684;&#x306A;  <pr>&#x3068;&#x3082;&#x3058;&#x3066;&#x304D;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+   <trd>jednoczesny</trd>,
+   <trd>synchroniczny</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>synchronick&yacute;</trd>,
+    <trd>s&uacute;&ccaron;asn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_i;&#x43D;&c_h;&c_r;&#x43E;&#x43D;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43E;&c_d;&#x43D;&#x43E;&c_ch;&c_a;&c_s;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.6 2022/09/06 13:55:53
+Dmitri Gabinski: + trd be
+
+Revision 1.3  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2013/09/11 19:10:09  revo
+Vito Redsky: +trd pl
+
+Revision 1.1  2013/08/31 13:10:11  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

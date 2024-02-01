@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: varan.xml,v 1.10 2023/09/05 09:43:54 revo Exp $">
+<kap>
+  <rad>varan</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="varan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="varan.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Granda karnoman&gcirc;a rampulo
+      vivanta en tropikaj regionoj de Oceanio,
+      Sudazio a&ubreve; Afriko;
+      genro el familio varanedoj
+      (<trd lng="la">Varanus</trd>):
+      <ekz>
+        la komoda <tld/>o ofte fosas kavon, profundan je 9 m kaj tie &gcirc;i 
+        demetas la ovojn
+        <fnt>
+          <bib>Viki</bib>,
+          <vrk><url ref="&Viki;/Komoda_varano">
+          komoda varano</url></vrk>,
+          <lok>2011-06-04</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_r;&c_a;&c_n;</trd>
+  <trd lng="bg">&c_v;&c_a;&c_r;&c_a;&c_n;</trd>
+  <trd lng="ca">var&agrave;</trd>
+  <trd lng="cs">varan</trd>
+  <trd lng="de">Waran</trd>
+  <trd lng="fr">varan</trd>
+  <trd lng="ja">&#x30AA;&#x30AA;&#x30C8;&#x30AB;&#x30B2;</trd>
+  <trd lng="sk">varan n&#xED;lsky</trd>
+  <trd lng="uk">&#x432;&#x430;&#x440;&#x430;&#x43D;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.9 2022/05/06 12:17:21
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.6  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2015/01/24 20:10:18  revo
+Jeromo Vasxe: vortanalizilo:  vaeandeoj -> varanedoj
+
+Revision 1.4  2013/04/12 10:10:13  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.3  2012/08/11 19:10:09  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2011/06/14 07:10:09  revo
+Wieland Pusch: +trd bg+de
+
+Revision 1.1  2011/06/07 10:10:09  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

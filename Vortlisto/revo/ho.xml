@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ho.xml,v 1.78 2023/11/15 17:08:02 revo Exp $">
+<kap>
+   <ofc>*</ofc> <rad>ho</rad> <fnt> <bib>PV</bib></fnt>,
+   <var><kap><rad var="o">oh</rad> <fnt> <bib>IK</bib></fnt></kap></var>
+</kap>
+<drv mrk="ho.0">
+   <kap><ofc>*</ofc><tld/>, <var><kap><tld var="o"/></kap></var></kap>
+   <gra><vspec>ekkrio</vspec></gra>
+   <snc mrk="ho.0.surprizo">
+     <dif>
+       Surprize, indigne, dolore!:
+      <ekz>
+        <tld/>, vi estas feli&ccirc;a homo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Malgranda Niko kaj granda Niko</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <tld/> ve! mia malbeno alpelis lin al la morto
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>! &gcirc;i faris el mi okdekjaran homon
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld var="o"/>, en ventro kia pezo, sentas &scirc;tonojn mi en mezo
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La sep kapridoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld var="o"/>, vi ne scias, kia estas la sorto de l' kamparano
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>!
+      </ekz>
+     </dif>
+     <trd lng="es">oh</trd>
+     <trdgrp lng="fi">
+       <trd>voi</trd>,
+       <trd>oi</trd>
+     </trdgrp>
+     <trd lng="it">oh</trd>
+     <trd lng="pt">oh</trd>
+     <trdgrp lng="ru">
+       <trd>&c_o;</trd>,
+       <trd>&c_o;&c_h;</trd>
+     </trdgrp>
+   </snc>
+   <snc mrk="ho.0.alvoko">
+     <dif>
+      Atentigo al alparolato:
+      <ekz>
+        <tld/>, li estis persono tre prudenta
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Elinjo-fingreto</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <tld/> potenca senkorpa mistero
+        <fnt>
+          <aut>L. L. Zamenhof</aut>
+          <vrk>Pre&gcirc;o sub la Verda Standardo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld var="o"/> ne, ne! &scirc;i ektremis pensante, ke Franjo a&ubreve; Sta&ccirc;jo povas veki&gcirc;i
+        <fnt>
+          <bib>IK</bib>
+        </fnt>.
+      </ekz>
+     </dif>
+     <trd lng="es">oh<klr> (vocativo)</klr></trd>
+     <trdgrp lng="fi">
+       <trd>hei</trd>,
+       <trd>hoi</trd>,
+       <trd>oi</trd>
+     </trdgrp>
+     <trd lng="it">o<klr> (vocativo)</klr></trd>
+     <trd lng="pt">&oacute;</trd>
+  </snc>
+  <ref tip="hom" cel="h.0.konsonanto">ho (litero)</ref>
+  <trd lng="af">o</trd>
+  <trd lng="am">&#x12C8;&#x12ED;</trd>
+  <trd lng="ar">&#x64A;&#x627;</trd>
+  <trd lng="az">oh</trd>
+  <trd lng="bn">&#x989;&#x9B9;&#x9C1;</trd>
+  <trd lng="bs">oh</trd>
+  <trd lng="co">oh</trd>
+  <trdgrp lng="cs">
+    <trd>jak&eacute; ne&scaron;t&ecaron;st&iacute;</trd>,
+    <trd>jej</trd>
+  </trdgrp>
+  <trd lng="da">oh</trd>
+  <trdgrp lng="de">
+     <trd>o</trd>,
+     <trd>oh</trd>
+   </trdgrp>
+  <trdgrp lng="en">
+     <trd>oh</trd>,
+     <trd>whoa</trd>,
+     <trd>wow</trd>,
+     <trd>yikes</trd>,
+     <trd>yow</trd>
+   </trdgrp>
+  <trd lng="et">oh</trd>
+  <trdgrp lng="fr">
+     <trd>ho</trd>,
+     <trd>oh</trd>,
+     <trd>&ocirc;</trd>
+   </trdgrp>
+  <trd lng="fy">oh</trd>
+  <trd lng="ga">curf&#xE1;</trd>
+  <trd lng="gu">&#xA93;&#xAB9;</trd>
+  <trd lng="hi">&#x913;&#x939;</trd>
+  <trd lng="hmn">huag</trd>
+  <trd lng="hr">oh</trd>
+  <trdgrp lng="hu">
+     <trd>&oacute;</trd>,
+     <trd>oh</trd>,
+     <trd>ah</trd>
+   </trdgrp>
+  <trd lng="hy">&#x561;&#x56D;</trd>
+  <trd lng="ig">na na na oh</trd>
+  <trd lng="is">&#xF3;</trd>
+  <trd lng="ja">&#x3042;&#x3042;</trd>
+  <trd lng="ka">&#x10DB;&#x10D4;</trd>
+  <trd lng="km">&#x17A2;&#x17BC;!</trd>
+  <trd lng="kn">&#xC93;&#xCB9;&#xCCD;</trd>
+  <trd lng="ko">&#xC624;</trd>
+  <trd lng="ky">&#x43F;&#x438;&#x44F;&#x437;</trd>
+  <trd lng="lat">o</trd>
+  <trd lng="lo">&#xEC2;&#xEAD;&#xEC9;&#xE8D;</trd>
+  <trd lng="mg">&#xF4;</trd>
+  <trd lng="mk">&#x43E;&#x445;</trd>
+  <trd lng="ml">&#xD13;</trd>
+  <trd lng="mn">&#x4E9;&#x4E9;</trd>
+  <trd lng="mr">&#x92C;&#x93E;&#x92A;&#x930;&#x947;</trd>
+  <trd lng="ne">&#x939;&#x930;&#x947;</trd>
+  <trd lng="nl">o</trd>
+  <trd lng="ny">o</trd>
+  <trd lng="pa">&#xA13;&#xA39;&#xA41;</trd>
+  <trd lng="ps">&#x627;&#x648;&#x647;!</trd>
+  <trd lng="ru">&c_o;</trd>
+  <trd lng="rw">yewe</trd>
+  <trd lng="sd">&#x622;&#x647;</trd>
+  <trd lng="si">&#xD85;&#xDBA;&#xDD2;&#xDBA;&#xDDD;</trd>
+  <trdgrp lng="sk">
+    <trd>ak&eacute; ne&scaron;&tcaron;astie</trd>,
+    <trd>och</trd>
+  </trdgrp>
+  <trd lng="sm">oka</trd>
+  <trd lng="sn">o</trd>
+  <trd lng="sq">oh</trd>
+  <trd lng="st">la oh oh oh</trd>
+  <trd lng="ta">&#xB93;</trd>
+  <trd lng="te">&#xC13;&#xC39;&#xC4D;</trd>
+  <trd lng="tg">&#x41E;&#x4B3;</trd>
+  <trd lng="th">&#xE42;&#xE2D;&#xE49;</trd>
+  <trd lng="tl">oh</trd>
+  <trd lng="tok">a</trd>
+  <trd lng="tt">&#x43E;</trd>
+  <trd lng="uk">&#x43E;&#x439;</trd>
+  <trd lng="ur">&#x627;&#x648;&#x6C1;</trd>
+  <trd lng="uz">ah</trd>
+  <trd lng="vi">oh</trd>
+  <trd lng="yi">&#x5D0;&#x5D5;&#x5D9;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x54B3; <pr>h&#x101;i</pr></trd>,
+    <trd>&#x5594; <pr>&#x14D;</pr></trd>,
+    <trd>&#x55EC; <pr>h&#x113;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">awu</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.77 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2021/05/10 18:13:52
+Wolfram Diestel: +ref hom
+
+versio 1.21 2020/12/18 17:10:20
+Wolfram Diestel: +var, ekz-oj
+
+Revision 1.19  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/11/25 19:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.17  2014/02/25 02:10:20  revo
+Jeromo Vasxe: - ref, + vspec
+
+Revision 1.16  2014/02/18 12:10:19  revo
+Damien Brucker: +ref
+
+Revision 1.15  2009/09/15 16:31:12  revo
+-->
+</vortaro>

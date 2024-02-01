@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rezon.xml,v 1.29 2023/10/20 19:20:37 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>rezon</rad>/i <fnt><bib>PrV</bib></fnt>
+</kap>
+<drv mrk="rezon.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="rezon.0i.LOG">
+    <dif>
+      <ref cel="logik.0a">Logike</ref> kunmeti
+      argumentojn kaj tiri el ili <ref cel="konklu.0o">konkludon</ref>:
+      <ekz>
+        analogie <tld/>i;
+      </ekz>
+      <ekz>
+        racia rezonado
+        <fnt><aut>Gilbert Ledon</aut>,
+        <vrk><url ref="&Monato;/2000/006916.php">Bugra bug-insekto</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/05, p. 5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu konsilas kaj <tld/>as, tiu helpon ne donas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne <tld/>u pri tio, kio estas ekster via metio
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ado kaj filozofado panon ne donas
+         <fnt><bib>PrV</bib></fnt>
+      </ekz>
+      <ekz>
+        ne estu tro virta, kaj ne <tld/>u tro multe: kial vi devas vin konfuzi
+        <fnt>
+          <bib>MT</bib>
+          <lok>Predikanto 7:16</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        Pa&ubreve;lo eniris al ili, kaj dum tri sabatoj li <tld/>adis kun ili el la Skriboj
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 17:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni devas aparteni al la bonaj homoj, ne al la rezonistoj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Turgardisto Ole</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi estas feli&ccirc;a direktoro, mia personaro ne <tld/>as, la publiko anka&ubreve; ne, &gcirc;i
+        &gcirc;ojas el la tuta koro
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Pupludisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        virina <tld/>ado, sinjoro! la virinoj &ccirc;ion scias klarigi
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi, literaturistoj, povas facile <tld/>adi tiamaniere, sidante super libro kaj
+        plumo, ni, industriistoj, devas esti praktikaj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        montri&gcirc;is vigla <tld/>ado, forta volo kaj obstino por konvinki per komparoj kaj
+        logiko
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dialek1.0o">dialektiko</ref>,
+      <ref cel="pruv.0i">pruvi</ref>,
+      <ref cel="ekspli.0i">ekspliki</ref>,
+      <ref cel="argume.0i">argumenti</ref>,
+      <ref cel="diskut.0i">diskuti</ref>,
+      <ref cel="konsid.0i">konsideri</ref>,
+      <ref cel="pens.pri0i">pripensi</ref>,
+      <ref cel="jugx.pri0i">priju&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_v;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_s;&c_malmol;&c_zh;&c_d;&c_a;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>vymlouvat se<klr> (p&rcaron;enesen&ecaron;)</klr></trd>,
+    <trd>usuzovat</trd>,
+    <trd>uva&zcaron;ovat</trd>,
+    <trd>vyvozovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>vern&uuml;nftig <ind>denken</ind></trd>,
+    <trd>vern&uuml;nftig <ind>urteilen</ind></trd>,
+    <trd>schlie&szlig;en</trd>,
+    <trd>folgern</trd>,
+    <trd>auslegen <klr>(Text)</klr></trd>,
+    <trd>beurteilen</trd>
+  </trdgrp>
+  <trd lng="en">reason<klr> (with logic)</klr></trd>
+  <trd lng="es">razonar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_s;&a_t;&a_d;&a_l;&a_A;&a_l; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_t;&a_ayn;&a_q;&a_l; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">raisonner</trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;rvel</trd>,
+    <trd>okoskodik</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8AD6;&#x7406;&#x7684;&#x306B;&#x8003;&#x3048;&#x308B;  <pr>&#x308D;&#x3093;&#x308A;&#x3066;&#x304D;&#x306B;&#x304B;&#x3093;&#x304C;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x63A8;&#x8AD6;&#x3059;&#x308B;  <pr>&#x3059;&#x3044;&#x308D;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x63A8;&#x7406;&#x3059;&#x308B;  <pr>&#x3059;&#x3044;&#x308A;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7406;&#x5C48;&#x3092;&#x8A00;&#x3046;  <pr>&#x308A;&#x304F;&#x3064;&#x3092;&#x3044;&#x3046;</pr></trd>,
+    <trd>&#x6587;&#x53E5;&#x3092;&#x8A00;&#x3046;  <pr>&#x3082;&#x3093;&#x304F;&#x3092;&#x3044;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">redeneren</trd>
+  <trdgrp lng="pl">
+    <trd>utrzymywa&cacute;</trd>,
+    <trd>m&aogonek;drzy&cacute; si&eogonek;</trd>,
+    <trd>dowodzi&cacute; czego&sacute;</trd>
+  </trdgrp>
+  <trd lng="pt">raciocinar</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_u;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>usudzova&tcaron; <klr>(urobi&tcaron; z&aacute;ver pod&lcaron;a logickej
+    argument&aacute;cie)</klr></trd>,
+    <trd>uva&zcaron;ova&tcaron;</trd>,
+    <trd>vyvodzova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_ib;&c_r;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43C;&c_ib;&c_r;&#x43A;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43C;&c_u;&c_d;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_u;&#x43C;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rezon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rezon.0o.LOG">
+    <dif>
+      Serio de interdependaj
+      <ref cel="argume.0o.LOG">argumentoj</ref>,
+      per kiu oni provas atingi <ref cel="konklu.0o">konkludon</ref>:
+      <ekz>
+        la&ubreve; la plej primara <tld/>o, por atingi pacon estas necese nuligi <klr>[&#x2026;]</klr>
+        la ka&ubreve;zon de militoj
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+            <vrk><url ref="&Monato;/2000/007018.php">Kulturo de milito</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/06, p. 5</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        filozofiaj <tld/>oj pri vivo-senco
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2014/011336.php">Temoj por pluraj romanoj</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_s;&c_malmol;&c_zh;&c_d;&c_a;&c_v;&c_a;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>uva&zcaron;ov&aacute;n&iacute;</trd>,
+    <trd>vyvozov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schlu&szlig;folgerung</trd>,
+    <trd>Auslegung</trd>,
+    <trd>Beurteilung</trd>
+  </trdgrp>
+  <trd lng="en">reasoning</trd>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_l;&f_y;&a_l;</trd>,
+    <trd>&a_b;&a_r;&a_h;&a_A;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">raisonnement</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9053;&#x7406;  <pr>&#x3069;&#x3046;&#x308A;</pr></trd>,
+    <trd>&#x7406;&#x7531;  <pr>&#x308A;&#x3086;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">redenering</trd>
+  <trd lng="pl">rozumowanie</trd>
+  <trdgrp lng="sk">
+    <trd>uva&zcaron;ovanie</trd>,
+    <trd>vyvodzovanie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_ib;&c_r;&#x43A;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43C;&c_u;&c_d;&c_r;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_u;&#x43C;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rezon.0povo">
+  <kap><tld/>povo</kap>
+  <snc mrk="rezon.0povo.KOMUNE">
+    <dif>
+      Kapablo <tld/>i, el elementaj informoj sisteme
+      veni al konkludo;
+      <ref tip="vid" cel="raci.0o.PSI">racio</ref>:
+      <ekz>
+        mia amata kato ne posedas imagpovon a&ubreve; <tld/>povon
+        <fnt>
+          <aut>[Hirotaka M.]</aut>,
+          <vrk><url ref="http://www.vastalto.com/blog/?p=1054">
+          Kato ne imagas</url></vrk>,
+          <lok>Akvosfero, 2008-06-04</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Denkverm&ouml;gen</trd>,
+    <trd>Urteilsverm&ouml;gen</trd>
+  </trdgrp>
+  <trd lng="fr">entendement</trd>
+  <trd lng="pl">moc  <ind>rozumowania</ind></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.27 2023/07/07 21:26:48
+Vito Redsky: +trd pl 
+
+versio 1.26 2023/05/01 11:23:41
+Paul Peeraerts: Steloj -> monato
+
+versio 1.25 2023/04/26 13:30:23
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.24 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2022/03/30 16:42:25
+Wolfram Diestel: kor. trd uk
+
+versio 1.21 2020/06/16 17:10:34
+Wolfram Diestel: +ekz-oj, germ trd-oj, ref-oj
+
+Revision 1.19  2015/12/19 23:10:15  revo
+-->
+</vortaro>

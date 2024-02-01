@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: alies.xml,v 1.12 2023/04/23 15:25:33 revo Exp $">
+  <kap>
+    <rad>alies</rad>
+  </kap>
+<drv mrk="alies.0">
+  <kap><tld/></kap>
+  <snc mrk="alies.0.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref cel="ali.0ulo">Aliula</ref>,
+      de <ref cel="ali.0a.diferenca">alia</ref> persono:
+      <ekz>
+        perforta proprieti&gcirc;o de <esc>alies</esc> poseda&jcirc;oj
+        <fnt><aut>Bardhyl Selimi</aut>: 
+          <vrk><url ref="&Monato;/2001/007205.html">Voja&gcirc;impresoj, somero 2000</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/01, p. 26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu klopodas vivi je <esc>alies</esc> elspezo
+        <fnt>
+	<aut>Gilbert Ledon</aut>
+	<vrk><url ref="&Monato;/2001/007283.php">Putraj demokratioj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/01, p. 5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        temos pri <esc>alies</esc> tasko
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="&Monato;/2003/007991.html">Espero</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        specialigitaj entreprenoj, kiuj mem neniun novan ideon kreas,
+        sed multe profitas per la forvendo de <esc>alies</esc> ideoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2005/008698.php">Evitenda evoluo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ies ofendo estas <esc>alies</esc> defendo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>David Kelso</aut>
+          <vrk><url ref="&Monato;/2008/009499.php">Kiuj sendependi&gcirc;u? (10)</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Tiu neoficiala malofta vorto ne apartenas al la <ref tip="vid"
+      cel="tabel.0vorto">tabelvortoj</ref> kaj ties regula uzo kunportus
+      drastajn &scirc;an&gcirc;ojn en la lingvon.
+    </rim>
+  </snc>
+<!-- ne traduku evitindan vorton:
+  <trdgrp lng="cs">
+    <trd>jin&eacute;ho</trd>,
+    <trd>jin&yacute;ch <klr>(p&rcaron;ivl. z&aacute;jmeno)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">andermans</trd>
+  <trdgrp lng="sk">
+    <trd>in&eacute;ho</trd>,
+    <trd>in&yacute;ch</trd>
+  </trdgrp>
+-->
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.12 2023/04/23 15:25:33
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.11 2023/04/18 11:23:27
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.10 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.9 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.7  2019/06/30 07:47:08  revo
+adaptis URL de Monato
+
+Revision 1.6  2019/06/29 12:19:25  revo
+adaptis URL de Monato
+
+Revision 1.5  2018/09/11 17:10:17  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.4  2016/12/01 14:10:13  revo
+-->
+</vortaro>

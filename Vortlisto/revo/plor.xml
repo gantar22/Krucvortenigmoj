@@ -1,0 +1,561 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: plor.xml,v 1.47 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>plor</rad>/i
+</kap>
+
+<drv mrk="plor.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="plor.0i.KOMUNE">
+    <dif>
+      Montri sian doloron <ref tip="prt" cel="larm.0i">larmante</ref>
+      kaj
+      <ref tip="prt" cel="gxem.0i.vocxi">&gcirc;emetante</ref>:
+      <ekz>
+        li demandis &scirc;in <klr>[&#x2026;]</klr> pro kio &scirc;i <tld/>as
+        <fnt><bib>F</bib>, <lok>&FE; 21</lok></fnt>;
+      </ekz>
+      <ekz>
+        unu floras, alia <tld/>as
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i pri siaj pekoj;
+      </ekz>
+      <ekz>
+        <tld/>i pri la morto de infano;
+      </ekz>
+      <ekz>
+        &scirc;i &jcirc;us mortis, la maljuna homo estis tre ekscitita kaj <tld/>is
+        kiel infano
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Malnova tomba &scirc;tono</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Jakob kisis Ra&hcirc;elon kaj la&ubreve;te ek<tld/>is
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 29:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio estas larmoj <tld/>itaj duonon da jarcento
+        anta&ubreve;e
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ofte kantas la bu&scirc;o, kiam <tld/>as la koro
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">POE</uzo>
+        la vento kisis la arbon, kaj la roso <tld/>is larmojn pri &gcirc;i
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Abio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la vento <tld/>as
+        <klr>(<ref tip="vid" cel="gxem.0i.FIG">&gcirc;emas</ref>,
+        <ref tip="vid" cel="mugx.0i.FIG">mu&gcirc;as</ref>,
+        <ref tip="vid" cel="hurl.0i.bruo">hurlas</ref>)</klr>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lament.0i">lamenti</ref>,
+      <ref cel="plend.0i">plendi</ref>,
+      <ref cel="ve.0i">vei</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ar">&a_b;&a_fatha;&a_k;&a_fatha;&a_A_maqsura; -&a_kasra;
+&a_b;&a_damma;&a_k;&a_fatha_A;&a_hamza;&a_fathatan;</trd>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_l;&c_a;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_y;&c_d;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_l;&c_a;&c_ch;</trd>
+  <trd lng="bs">nevolje</trd>
+  <trd lng="cs">bre&ccaron;et</trd>
+  <trd lng="de">weinen</trd>
+  <trdgrp lng="en"><trd>to weep</trd>, <trd>cry</trd></trdgrp>
+  <trd lng="es">llorar</trd>
+  <trd lng="et">nutma</trd>
+  <trd lng="eu">oihu</trd>
+  <trd lng="fr">pleurer</trd>
+  <trd lng="hu">s&iacute;r</trd>
+  <trd lng="id"><baz>tangis</baz>menangis</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6CE3;&#x304F;  <pr>&#x306A;&#x304F;</pr></trd>,
+    <trd>&#x6D99;&#x3092;&#x6D41;&#x3059;  <pr>&#x306A;&#x307F;&#x3060;&#x3092;&#x306A;&#x304C;&#x3059;</pr></trd>
+  </trdgrp>
+  <trd lng="ka">&#x10E2;&#x10D8;&#x10E0;&#x10D8;&#x10DA;&#x10D8;</trd>
+  <trd lng="ne">&#x92A;&#x941;&#x915;&#x93E;&#x930;&#x93E;</trd>
+  <trdgrp lng="nl">
+    <trd>huilen</trd>,
+    <trd>wenen</trd>,
+    <trd>schreien</trd>
+  </trdgrp>
+  <trd lng="no">gr&aring;te</trd>
+  <trd lng="pl">p&lstroke;aka&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>chorar</trd>,
+    <trd>prantear</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_a;&c_k;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_y;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>plaka&tcaron;</trd>,
+    <trd>reva&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">gr&aring;ta</trd>
+  <trd lng="uk">&c_p;&c_l;&c_a;&c_k;&c_a;&c_t;&c_i;</trd>
+  <trd lng="yi">&vav;&vav;&yod;&yod;&nun;&ayin;&fnun;</trd>
+</drv>
+
+<drv mrk="plor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="plor.0o.KOMUNE">
+    <dif>
+      Esprimo de doloro per larmoj, &gcirc;emoj:
+      <ekz>
+        de plendo kaj <tld/>o ne fori&gcirc;as doloro
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amiko en &gcirc;ojo kaj <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> petegis lin kun <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ho&scirc;ea 12:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne sufi&ccirc;as <tld/>o al kreditoro
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        atentu mian <tld/>on, &ccirc;ar mi tre senforti&gcirc;is
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 142:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi apena&ubreve; povis deteni min de <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lin Sheng</aut>
+          <vrk><url ref="&Monato;/2006/008670.php">Forpasis mia
+          karulino</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la rido ja similas al <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julia Sigmond</aut>
+          <vrk><url ref="&Monato;/2015/011386.php">Cent
+          fabeloj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>akiri pardonon.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_l;&c_a;&c_ch;</trd>,
+    <trd>&c_r;&c_y;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>plak&aacute;n&iacute;</trd>,
+    <trd>pl&aacute;&ccaron;</trd>
+  </trdgrp>
+  <trd lng="de">Weinen</trd>
+  <trd lng="en">cry</trd>
+  <trdgrp lng="es">
+    <trd>lloro</trd>,
+    <trd>llanto</trd>
+  </trdgrp>
+  <trd lng="fr">pleurs</trd>
+  <trd lng="hu">s&iacute;r&aacute;s</trd>
+  <trdgrp lng="id">
+    <trd>tangis</trd>,
+    <trd><ind>tangis</ind>an</trd>
+  </trdgrp>
+  <trd lng="ja">&#x6CE3;&#x304F;&#x3053;&#x3068;  <pr>&#x306A;&#x304F;&#x3053;&#x3068;</pr></trd>
+  <trd lng="nl">geween</trd>
+  <trd lng="pl">p&lstroke;acz</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_a;&c_ch;</trd>,
+    <trd>&c_r;&c_y;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">pla&ccaron;</trd>
+  <trd lng="sv">gr&aring;t</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_l;&c_a;&c_ch;</trd>,
+    <trd>&c_r;&c_i;&c_d;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="plor.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="plor.0ema.KOMUNE">
+    <dif>
+      Ema, facile transiranta al <tld/>ado:
+      <ekz>
+        a&ubreve;dinte la <tld/>eman paroltonon de &Scirc;jangzi, li cedis
+        <fnt>
+          <aut>Lao She, trad. Wang Chongfang</aut>,
+          <vrk><url ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/0008.php">
+          Kamelo &Scirc;jangzi</url></vrk>,
+          <lok>1988</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi trovis telefon-mesa&gcirc;on de nia <tld/>ema, apena&ubreve; kohera, forte
+        timigita filino
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2012/010602.php">Skeptikismo
+          e&ubreve;ropa kaj polica</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">weinerlich</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_l;&c_a;&c_k;&c_s;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_s;&c_mol;&c_l;&c_ja;&c_z;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="cs">pla&ccaron;tiv&yacute;</trd>
+  <trdgrp lng="en">
+    <trd>given to tears</trd>,
+    <trd>tearful</trd>, <trd>lachrymose</trd>
+  </trdgrp>
+  <trd lng="fr">pleureur<klr> (adj.)</klr></trd>
+  <trd lng="id">cengeng</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D99;&#x3082;&#x308D;&#x3044;  <pr>&#x306A;&#x307F;&#x3060;&#x3082;&#x308D;&#x3044;</pr></trd>,
+    <trd>&#x6CE3;&#x304D;&#x866B;&#x306E;  <pr>&#x306A;&#x304D;&#x3080;&#x3057;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">p&lstroke;aczliwy</trd>
+  <trd lng="sk">pla&ccaron;liv&yacute;</trd>
+  <trd lng="uk">&c_p;&c_l;&c_a;&c_k;&c_s;&c_i;&c_v;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="plor.0inda">
+  <kap><tld/>inda</kap>
+  <snc mrk="plor.0inda.KOMUNE">
+    <dif>
+      Kompatinda, malfeli&ccirc;a, beda&ubreve;rinda:
+      <ekz>
+        vere <tld/>indaj estas la malfeli&ccirc;oj en la mondo
+        <fnt>
+          <aut>Ba Jin, trad. Li Shijun</aut>,
+          <vrk>A&ubreve;tuno en la Printempo</vrk>,
+          <lok>1980</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la faraono  <klr>[&#x2026;]</klr> vidas la <tld/>indan staton de Egipto
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hu-u-u! kaj tio estis <tld/>eginda afero
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj
+          filinoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pri<tld/>inda situacio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Manuel Halvelik</aut>
+          <vrk><url ref="&Monato;/2007/008949.php">Atentinda solvo por
+          kompleksega problemo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>bedauernswert</trd>,
+      <trd>zu <ind>beweinen</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_y; <ind>&c_zh;&c_a;&c_l;&c_ju;</ind></trd>,
+    <trd>&c_zh;&c_a;&c_l;&c_a;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_sh;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>woeful</trd>,
+    <trd>lamentable</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;plorable</trd>
+  <trd lng="pl">op&lstroke;akany</trd>
+</drv>
+
+<drv mrk="plor.0istino">
+  <kap><tld/>istino</kap>
+  <snc mrk="plor.0istino.FUN">
+    <dif>
+      Virino, kiu profesie partoprenas en funebroj, kunplorante
+      kaj lamentante:
+      <ekz>
+        ser&ccirc;u kaj voku <tld/>istinojn, ke ili venu, sendu voki
+        lertulinojn en tia afero, ke ili venu
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 9:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la dancistinoj fari&gcirc;is <tld/>istinoj, kaj anstata&ubreve; danci, &scirc;iris
+        siajn harojn, kio anka&ubreve; alportis al ili profiton
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <em>la <tld/>istinoj</em> &ndash; Ho nobla voja&gcirc;anto,
+        kiu direktas siajn pa&scirc;ojn al la lando de la eterneco,
+        kiel rapide oni for&scirc;iras vin de ni
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 9a</lok></fnt>!
+      </ekz>
+      <ekz>
+        en &gcirc;i stertoras veoj, lamentas <tld/>istinoj...
+        <fnt><aut>N. Hohlov</aut>, <vrk>E&ubreve;ropo</vrk></fnt>
+      </ekz>
+    </dif>
+    <trd lng="de">Klageweib</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_a;&c_k;&c_a;&c_l;&c_mol;&c_sh;&c_ch;&c_y;&c_c;&c_a;</trd>
+  <trd lng="en">professional mourner <klr>(female)</klr></trd>
+  <trd lng="es">pla&ntilde;idera</trd>
+  <trd lng="fr">pleureuse<klr> (subst.)</klr></trd>
+  <trd lng="pl">p&lstroke;aczka</trd>
+  <trd lng="ru">&c_p;&c_l;&c_a;&c_k;&c_a;&c_l;&c_mol;&c_shch;&c_i;&c_c;&c_a;</trd>
+</drv>
+
+<drv mrk="plor.post0i">
+  <kap>
+    post<tld/>i
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="plor.post0i.KOMUNE">
+    <dif>
+      <tld lit="P"/>i, <ref tip="vid" cel="plor.pri0i">pri<tld/>i</ref>
+      eksan, perditan aferon:
+      <ekz>
+        ne pensu, ke mi post<tld/>as pasintecon
+        <fnt>
+          <aut>Esperantoluna</aut>
+          <vrk><url ref="https://www.liberafolio.org/arkivo/www.liberafolio.org/2010/pola-radio-haltigas-la-esperanto-elsendojn/">en: Pola Radio haltigas la Esperanto-elsendojn</url></vrk>
+          <lok>libera folio, 2010-05-17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="funebr.0i">funebri</ref>
+  </refgrp>
+  <trd lng="fr">pleurer<klr> (une chose perdue)</klr></trd>
+</drv>
+
+<drv mrk="plor.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="plor.pri0i.KOMUNE">
+    <dif>
+      Aflikti&gcirc;i pro perdo de...:
+      <ekz>
+        Samuel mortis, kaj &ccirc;iuj Izraelidoj lin pri<tld/>is
+        <fnt><bib>MT</bib>, <lok>&Sa1; 28:3</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i iris kune kun siaj amikinoj kaj pri<tld/>is sian virgecon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ju&gcirc;istoj 11:38</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li nur la&ubreve;te eldiris sian opinion, pri<tld/>is sian sorton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2005/008555.php">&Scirc;uisto kaj
+          silkokomercisto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni aliaj povas pri<tld/>i la situacion, sed &gcirc;i estas tia: la
+        sola
+        ekstrem-potenco povas agi tute la&ubreve; propra bontrovo kaj kontra&ubreve;
+        la interesoj de l' tuta cetera mondo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2003/008137.html">Mondo
+          alia</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">beweinen</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_l;&c_a;&c_k;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">oplak&aacute;vat</trd>
+  <trd lng="en">to bewail</trd>
+  <trd lng="fr">pleurer<klr> (tr.)</klr></trd>
+  <trd lng="hu">megsirat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5606;&#x304F;  <pr>&#x306A;&#x3052;&#x304F;</pr></trd>,
+    <trd>&#x6CE3;&#x304D;&#x60B2;&#x3057;&#x3080;  <pr>&#x306A;&#x304D;&#x304B;&#x306A;&#x3057;&#x3080;</pr></trd>,
+    <trd>&#x60BC;&#x3080;  <pr>&#x3044;&#x305F;&#x3080;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bewenen</trd>
+  <trd lng="pl">op&lstroke;akiwa&cacute;</trd>
+  <trd lng="ru">&c_o;&c_p;&c_l;&c_a;&c_k;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">oplaka&tcaron;</trd>
+  <trd lng="sv">begr&aring;ta</trd>
+  <trd lng="uk">&c_o;&c_p;&c_l;&c_a;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="plor.gxem0i">
+  <kap>&gcirc;em<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="plor.gxem0i.KOMUNE">
+    <dif>
+      <ref tip="dif" cel="gxem.plor0i"><tld lit="P"/>&gcirc;emi</ref>:
+      <ekz>
+        &scirc;i &gcirc;em<tld/>is tiel, ke e&ccirc; &scirc;tono <klr>[&#x2026;]</klr> devis
+        moli&gcirc;i
+        <fnt><bib>Fab2</bib>, <lok>pa&scirc;tistino kaj
+        kamentubisto</lok></fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>&gcirc;emis kaj ne povis fini
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Sinjorino Ajuolo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>jammern</trd>,
+      <trd>heulen</trd>,
+      <trd>wimmern</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_y;&c_d;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_k;&c_a;&c_c;&c_mol; &c_n;&c_a;&c_w;&c_z;&c_r;&c_y;&c_d;</trd>
+  </trdgrp>
+  <trd lng="en">to sob</trd>
+  <trd lng="es">pla&ntilde;ir</trd>
+  <trd lng="fr">sangloter</trd>
+  <trd lng="hu">zokog</trd>
+  <trdgrp lng="it">
+    <trd>singhiozzare</trd>,
+    <trd>singultare</trd>
+  </trdgrp>
+  <trd lng="pt">solu&ccedil;ar</trd>
+  <trd lng="ru">&c_p;&c_l;&c_a;&c_k;&c_a;&c_t;&c_mol; &c_n;&c_a;&c_v;&c_z;&c_r;&c_y;&c_d;</trd>
+</drv>
+
+<drv mrk="plor.sat0i">
+  <kap>sat<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="plor.sat0i.KOMUNE">
+    <dif>
+      <tld lit="P"/>i sufi&ccirc;e, tiom kiom oni bezonas, &gcirc;is certa
+      facili&gcirc;o kaj malaflikti&gcirc;o:
+      <ekz>
+        Elke &jcirc;etis sin al la brusto de la edzo, sat<tld/>is
+        kaj ne plu estis sola kun sia doloro
+        <fnt>
+          <aut>T. Storm, trad. H. Heinm&uuml;ller</aut>:
+          <vrk><url ref="http://www.luin.se/inko/103-8.pdf">La
+          blank&ccirc;evala rajdanto</url></vrk>.
+          <lok>1929</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la virino sat<tld/>inte da&ubreve;rigis: <klr>[&#x2026;]</klr>
+	 <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 12a</lok></fnt>;
+      </ekz>
+      <ekz>
+        restinte sola, Anfisa sat<tld/>is kaj enliti&gcirc;is post
+        la unua horo nokte
+        <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 7a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">ausheulen</trd>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_p;&c_l;&c_a;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="cs">do syta se vyplakat</trd>
+  <trdgrp lng="en">
+    <trd>have a good <ind>cry</ind></trd>,
+    <trd>have one's <ind>cry</ind> out</trd>
+  </trdgrp>
+  <trd lng="fr">pleurer tout son saoul</trd>
+  <trd lng="pl">wyp&lstroke;akiwa&cacute;</trd>
+  <trd lng="ru">&c_n;&c_a;&c_p;&c_l;&c_a;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr> (&c_v;&c_s;&c_l;&c_a;&c_s;&c_t;&c_mol;)</klr></trd>
+  <trd lng="sk">do s&yacute;ta sa vyplaka&tcaron;</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.47 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.45 2023/06/25 13:31:05
+Jeromo Vasxe: + post~i
+
+versio 1.44 2023/03/24 08:30:53
+Dmitri Gabinski: + trd be
+
+versio 1.43 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2021/06/07 20:09:27
+Wolfram Diestel: -var (jam estas ref)
+
+versio 1.34 2020/05/06 14:10:23
+Eko Nur Syah Hidayat: korekteto
+
+Revision 1.32  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
+Revision 1.31  2018/03/03 11:10:14  revo
+-->
+</vortaro>

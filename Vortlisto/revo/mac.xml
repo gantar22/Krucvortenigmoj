@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mac.xml,v 1.22 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>mac</rad>/o
+</kap>
+<drv mrk="mac.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <snc mrk="mac.0o.flano">
+    <dif>
+      <ref tip="super" cel="flan.0o">Flano</ref>
+      el nefermentinta pasto, kiun la Hebreoj man&gcirc;as dum
+      paska tempo:
+      <ekz>
+        li faris al ili festenon, kaj li bakis <tld/>ojn, kaj ili man&gcirc;is
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 19:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum sep tagoj man&gcirc;u <tld/>ojn, en la unua tago forigu la fermenta&jcirc;on el viaj
+        domoj, &ccirc;iu kiu man&gcirc;os fermenta&jcirc;on de la unua tago &gcirc;is la sepa tago, ties
+        animo estos ekstermita el <nom>Izrael</nom>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 12:15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/a/aa/Shmura_Matzo2.jpg/320px-Shmura_Matzo2.jpg" prm="CC BY-SA 4.0">manfarita <tld/>o
+        <fnt>
+          <aut>Yoninah, propra verko</aut>
+          <lok><url ref="&WCW;/File:Shmura_Matzo2.jpg">&WCW;/File:Shmura_Matzo2.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="be">&c_m;&c_a;&c_c;&c_a;</trd>
+    <trdgrp lng="br">
+      <trd>bara kann</trd>,
+      <trd>bara panenn</trd>
+    </trdgrp>
+    <trd lng="cs">maces</trd>
+    <trdgrp lng="de">
+      <trd>Matze</trd>,
+      <trd>Matzen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>matzo</trd>,
+      <trd>matzoh</trd>,
+    </trdgrp>
+    <trd lng="fr">pain azyme</trd>
+    <trdgrp lng="hu">
+      <trd>macesz</trd>,
+      <trd>p&aacute;szka</trd>
+    </trdgrp>
+    <trd lng="nl">matze</trd>
+    <trd lng="pl">maca</trd>
+    <trd lng="pt">p&atilde;o &aacute;zimo</trd>
+    <trd lng="ru">&c_m;&c_a;&c_c;&c_a;</trd>
+  </snc>
+  <snc mrk="mac.0o.pasto">
+    <dif>
+      Nefermentinta pasto
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="oblat.0o">oblato</ref>.
+    </refgrp>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_n;&c_a;&c_k;</trd>
+    <trd lng="hu">kov&aacute;sztalan <ind>keny&eacute;r</ind></trd>
+    <trd lng="nl">ongezuurd <ind>deeg</ind></trd>
+    <trd lng="pl">prza&sacute;ny <ind>chleb</ind></trd>
+    <trd lng="ru">&c_o;&c_p;&c_r;&c_je;&c_s;&c_n;&c_o;&c_k;&c_i;</trd>
+  </snc>
+  <trd lng="ja">&#x7A2E;&#x306A;&#x3057;&#x30D1;&#x30F3;  <pr>&#x3057;&#x3085;&#x306A;&#x3057;&#x3071;&#x3093;</pr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x430;&#x446;&#x430;</trd>,
+    <trd>&#x43E;&#x43F;&#x440;&#x456;&#x441;&#x43D;&#x43E;&#x43A;</trd>,
+    <trd>&#x43E;&#x43F;&#x440;&#x456;&#x441;&#x43D;&#x438;&#x43A;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.20 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2021/12/16 09:32:07
+Dmitri Gabinski: + trd be
+
+Revision 1.16  2013/04/08 05:10:11  revo
+Sebastian Cyprych: kor trd pl
+
+Revision 1.15  2012/08/21 11:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2006/07/15 17:04:02  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2006/05/08 16:31:47  revo
+Miroslav Malovec: cs
+
+Revision 1.12  2005/04/10 16:32:42  revo
+-->
+</vortaro>

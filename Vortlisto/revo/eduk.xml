@@ -1,0 +1,617 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: eduk.xml,v 1.38 2023/11/07 19:21:48 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>eduk</rad>/i
+</kap>
+
+<drv mrk="eduk.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">PED</uzo>
+  <snc mrk="eduk.0i.infanon">
+    <dif>
+      Direkti la elvolvi&gcirc;on de fizikaj, moralaj kaj intelektaj
+      kapabloj de infano a&ubreve; junulo:
+      <ekz>
+        oni <tld/>is lin kiel idealiston;
+      </ekz>
+      <ekz>
+        el &ccirc;iuj filoj, kiujn &scirc;i <tld/>is, neniu tenis &scirc;in je la mano
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Jes; 51:18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="discip">disciplini</ref>,
+      <ref cel="guvern.0i">guverni</ref>,
+      <ref cel="instru.0i">instrui</ref>,
+      <ref cel="kultur.0i">kulturi</ref>,
+      <ref cel="vart.0i">varti</ref>,
+      <ref cel="zorg.0i">zorgi</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_a;&c_d;&c_u;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>lehren</trd>,
+      <trd>ausbilden</trd>
+    </trdgrp>
+    <trd lng="en">raise</trd>
+    <trd lng="fr">&eacute;duquer<klr tip="ind"> (un enfant)</klr></trd>
+    <trd lng="nl">opvoeden</trd>
+    <trdgrp lng="pl">
+      <trd>edukowa&cacute;</trd>,
+      <trd>kszta&lstroke;ci&cacute;</trd>,
+      <trd>uczy&cacute;</trd>
+    </trdgrp>
+    <trd lng="pt">educar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="eduk.0i.socie">
+    <dif>
+      <ref tip="super" cel="instru.0i.PED">Instrui</ref> iun kadre 
+      de &ccirc;iuspecaj lernejoj kc pri aferoj bezonataj por sukcese vivi en la socio,
+      t.e. pri profesiaj kapabloj, scienco, socia konduto ktp:
+      <ekz>
+        li ordonis <tld/>i ilin dum tri jaroj, post kies fini&gcirc;o ili estis komencontaj la
+        servadon anta&ubreve; la re&gcirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Dan; 1:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili <tld/>u la junulinojn ami siajn edzojn, ami siajn infanojn
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Tit; 2:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i estis <tld/>ata <klr>[&#x2026;]</klr> en unu sankta mona&hcirc;ejo, kie &scirc;i lernadis &ccirc;iujn
+        re&gcirc;ajn virtojn
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ito de la plej altaj pastraj lernejoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 14a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="kler.0igi">klerigi</ref>
+    <trd lng="be">&c_v;&c_y;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>    
+    <trdgrp lng="en">
+      <trd>edify</trd>,
+      <trd>educate</trd>
+    </trdgrp>
+    <trd lng="fr">&eacute;lever<klr tip="ind"> (un enfant)</klr></trd>
+    <trd lng="nl">opvoeden</trd>
+    <trdgrp lng="pl">
+      <trd>wychowywa&cacute;</trd>,
+      <trd>uczy&cacute; <klr>dobrych</klr> manier</trd>
+    </trdgrp>
+    <trd lng="pt">educar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="eduk.0i.dresi">
+    <dif>
+      <ref tip="vid" cel="dres.0i">Dresi</ref> beston:
+      <ekz>
+        <tld/>i tigron, hundon, papagon.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="instru.0i">instrui</ref>,
+      <ref cel="sovagx">malsova&gcirc;igi</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_y;&c_r;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_d;&c_r;&c_e;&c_s;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">dresieren</trd>
+    <trd lng="en">train</trd>
+    <trd lng="fr">dresser<klr tip="ind"> (un animal)</klr></trd>
+    <trd lng="nl">africhten</trd>
+    <trd lng="pt">domar</trd>
+    <trd lng="ru">&c_p;&c_r;&c_i;&c_r;&c_u;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="eduk.0i.vegetajxon">
+    <dif>
+      <ref cel="fleg.0i.FIG">Flegi<sncref/></ref>,
+      <ref cel="kresk.0igi.AGR">kreskigi<sncref/></ref> vegeta&jcirc;on:
+      <ekz>
+        vi doma&gcirc;as la hederon, pri kiu vi ne laboris kaj kiun vi ne <tld/>is
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Jon; 4:10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_r;&c_o;&c_sh;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">ziehen <klr>(Pflanze)</klr></trd>
+    <trd lng="en">grow</trd>
+    <trd lng="fr">faire <ind>pousser</ind><klr tip="ind"> (une plante)</klr></trd>
+    <trd lng="nl">kweken</trd>
+    <trd lng="pt">aclimar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_r;&c_a;&c_shch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_r;&c_a;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>chovat</trd>,
+    <trd>p&ecaron;stovat</trd>,
+    <trd>vychov&aacute;vat</trd>,
+    <trd>vychovat</trd>,
+    <trd>vzd&ecaron;l&aacute;vat</trd>,
+    <trd>&scaron;lechtit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>erziehen</trd>,
+    <trd>aufziehen</trd>,
+  </trdgrp>
+  
+  <trd lng="es">educar</trd>
+  
+  <trdgrp lng="hu">
+    <trd>nevel<klr tip="ind"> (n&ouml;v&eacute;nyt is)</klr></trd>,
+    <trd>k&eacute;pez</trd>,
+    <trd>idom&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6559;&#x80B2;&#x3059;&#x308B;  <pr>&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x3057;&#x3064;&#x3051;&#x308B;</trd>,
+    <trd/>,
+    <trd>&#x98FC;&#x3044;&#x306A;&#x3089;&#x3059;  <pr>&#x304B;&#x3044;&#x306A;&#x3089;&#x3059;</pr></trd>,
+    <trd>&#x80B2;&#x3066;&#x308B;  <pr>&#x305D;&#x3060;&#x3066;&#x308B;</pr></trd>,
+    <trd>&#x683D;&#x57F9;&#x3059;&#x308B;  <pr>&#x3055;&#x3044;&#x3070;&#x3044;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vychov&aacute;va&tcaron;</trd>,
+    <trd>vzdel&aacute;va&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_i;&c_h;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x629A;&#x517B;&#x6210;&#x4EBA; <pr>f&#x1D4;y&#x1CE;ngch&#xE9;ngr&#xE9;n</pr></trd>,
+    <trd>&#x97A0; <pr>j&#x16B;</pr></trd>,
+    <trd>&#x6559;&#x517B; <pr>ji&#xE0;oy&#x1CE;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eduk.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PED</uzo>
+  <snc mrk="eduk.0o.ago_rezulto">
+    <dif>
+      Ago <tld/>i kaj ties rezulto:
+      <ekz>
+        li mortos pro manko de <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Sen; 5:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        donadi man&gcirc;on kaj <tld/>on
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi ne ricevis la saman <tld/>on, kiel li
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;i estis tute senta&ubreve;ga</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia avino <klr>[&#x2026;]</klr> ricevis bonan lernejan <tld/>on
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili, sendube, estas homoj instruitaj kaj ricevis <tld/>on en diversaj kolegioj
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>akto unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiuj apartenoj dependas de <tld/>o
+        <fnt>
+          <aut>Z. Ti&scaron;ljar</aut>
+          <vrk>Nepras lingva identeco</vrk>
+          <bib>Monato</bib>
+          <lok>1999:9, p. 12a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni montru bon<tld/>on
+        <fnt>
+          <aut>R. Schwartz</aut>
+          <vrk>&Ccirc;astemulino</vrk>
+          <lok>en: <url ref="&Steloj;butiko">La Stranga Butiko</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="eduk.0ado">edukado</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>vzd&ecaron;l&aacute;n&iacute;</trd>,
+    <trd>v&yacute;chova</trd>
+  </trdgrp>
+  <trd lng="de">Erziehung</trd>
+  <trd lng="en">education</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;ducation</trd>
+  </trdgrp>
+  <trd lng="he">&het;&yod;&nun;&vav;&fkaf;</trd>
+  <trd lng="hu">nevel&eacute;s</trd>
+  <trd lng="ja">&#x6559;&#x80B2;  <pr>&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;</pr></trd>
+  <trd lng="nl">opvoeding</trd>
+  <trdgrp lng="pl">
+    <trd>edukacja</trd>,
+    <trd>wychowanie</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>vzdel&aacute;vanie</trd>,
+    <trd>v&yacute;chova</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_h;&#x43E;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_v;&c_je;&c_d;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7F8E;&#x80B2; <pr>m&#x11B;iy&#xF9;</pr></trd>,
+    <trd>&#x6559;&#x5B66; <pr>ji&#xE0;oxu&#xE9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eduk.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="eduk.0ado.ago">
+    <dif>
+      Ago <tld/>i; <ref tip="dif" cel="eduk.0o">eduko</ref>:
+      <ekz>
+        sin dedi&ccirc;i al <tld/>ado de junuloj;
+      </ekz>
+      <ekz>
+        <tld/>ado de bestoj kaj kreska&jcirc;oj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&ccirc;apitro 3a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li povos faciligi la <tld/>adon de &ccirc;i tiu juna knabo kaj zorgi pri lia estonteco
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi devus scii iom pli pri la problemo de <tld/>ado kaj de laboro de virinoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per &ccirc;iutaga senripoza penado sukcesis la gepatroj havigi al siaj infanoj plenan
+        <tld/>adon en gimnazio kaj universitato
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="bo">&t_sha;&t_drengbu;&t_sa;&t_tsheg;&t_ya;&t_naro;&t_na;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>vzd&ecaron;l&aacute;n&iacute;</trd>,
+    <trd>v&yacute;chova</trd>
+  </trdgrp>
+  <trd lng="de">Erziehung</trd>
+  <trd lng="en">education</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;ducation</trd>
+  </trdgrp>
+  <trd lng="he">&het;&yod;&nun;&vav;&fkaf;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6559;&#x80B2;  <pr>&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;</pr></trd>,
+    <trd>&#x3057;&#x3064;&#x3051;</trd>,
+    <trd>&#x98FC;&#x80B2;  <pr>&#x3057;&#x3044;&#x304F;</pr></trd>,
+    <trd>&#x683D;&#x57F9;  <pr>&#x3055;&#x3044;&#x3070;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">opvoeding</trd>
+  <trdgrp lng="pl">
+    <trd>edukacja</trd>,
+    <trd>wychowywanie</trd>,
+    <trd>nauczanie</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>vzdel&aacute;vanie</trd>,
+    <trd>v&yacute;chova</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7F8E;&#x80B2; <pr>m&#x11B;iy&#xF9;</pr></trd>,
+    <trd>&#x6559;&#x5B66; <pr>ji&#xE0;oxu&#xE9;</pr></trd>,
+    <trd>&#x513F;&#x7AE5;&#x6559;&#x80B2; <pr>&#xE9;rt&#xF3;ngji&#xE0;oy&#xF9;</pr></trd>,
+    <trd>&#x5BB6;&#x5EAD;&#x6559;&#x80B2; <pr>ji&#x101;t&#xED;ngji&#xE0;oy&#xF9;</pr></trd>,
+    <trd>&#x5BB6;&#x6559; <pr>ji&#x101;ji&#xE0;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eduk.0isto">
+  <kap><tld/>isto</kap>
+  <uzo tip="fak">PED</uzo>
+  <snc mrk="eduk.0isto.homo">
+    <dif>
+      Homo, kiu profesie <tld/>as infanojn a&ubreve; junulojn a&ubreve;
+      bestojn:
+      <ekz>
+        fil<tld/>isto
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Re2; 10:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        brut<tld/>isto
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Gen; 46:34</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mankis <tld/>istoj por prizorgi la knabon
+        <fnt>
+        <aut>G. Van Damme</aut>
+        <vrk>Puno ne sen peno</vrk>
+        <bib>Monato</bib>
+        <lok>2002:4, p. 15a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>istoj argumentas, ke la antikva <klr>[metodo]</klr> ne plu ta&ubreve;gas por
+        instrui matematikon en komputila epoko
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/1993/A931103.php">Nova gaela numerala sistemo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/11, p. 21</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dres">dresisto</ref>,
+      <ref cel="instru.0isto">instruisto</ref>,
+      <ref cel="mentor.0o">mentoro</ref>,
+      <ref cel="pedago.0o">pedagogo</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_c;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_d;&c_r;&c_e;&c_s;&c_ib;&c_r;&c_o;&c_w;&c_ch;&c_sh;&c_y;&c_k;</trd>
+  </trdgrp>
+  <trd lng="cs">vychovatel <klr>(z povol&aacute;n&iacute;)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Erzieherin</trd>
+    <trd>Erzieher</trd>,
+    <trd>Ausbilderin</trd>,
+    <trd>Ausbilder</trd>
+  </trdgrp>
+  <trd lng="en">educator</trd>
+  <trd lng="es">educador</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;ducateur</trd>,
+    <trd>dresseur</trd>
+  </trdgrp>
+  <trd lng="he">&mem;&#x5B0;&het;&#x5B7;&nun;&#x5B5;&fkaf;</trd>
+  <trd lng="hu">nevel&odblac;</trd>
+  <trd lng="ja">&#x6559;&#x80B2;&#x8005;  <pr>&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;&#x3057;&#x3083;</pr></trd>
+  <trd lng="nl">opvoeder</trd>
+  <trdgrp lng="pl">
+    <trd>wychowawca</trd>,
+    <trd>nauczyciel</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_v;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_d;&c_r;&c_je;&c_s;&c_s;&c_i;&c_r;&c_o;&c_v;&c_shch;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">vychov&aacute;vate&lcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_h;&#x43E;&c_v;&c_a;&c_t;&c_je;&#x43B;&#x44C;</trd>,
+    <trd>&#x43D;&c_a;&c_s;&c_t;&c_a;&c_v;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5973;&#x52A9;&#x6559; <pr>n&#x1DA;zh&#xF9;ji&#xE0;o</pr></trd>,
+    <trd>&#x5973;&#x5BB6;&#x5EAD;&#x6559;&#x5E08; <pr>n&#x1DA;ji&#x101;t&#xED;ngji&#xE0;osh&#x12B;</pr></trd>,
+    <trd>&#x6559;&#x80B2;&#x8005; <pr>ji&#xE0;oy&#xF9;zh&#x11B;</pr></trd>,
+    <trd>&#x52A9;&#x6559; <pr>zh&#xF9;ji&#xE0;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eduk.0ita">
+  <kap>
+    <tld/>ita
+  </kap>
+  <snc mrk="eduk.0ita.KOMUNE">
+    <dif>
+      Kiun oni <tld/>is kaj kiu per sia aspekto, per sia sinteno
+      konformas al tiu <tld/>o:
+      <ekz>
+        &scirc;ia parolado montris bone <tld/>itan knabinon, al kiu ne mankas spirit&ccirc;eesto
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sova&gcirc;a kaj malbone <tld/>ita filino
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        timu lupon <tld/>itan kaj malamikon repacigitan
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vegeta&jcirc;oj, kies trunketoj, <tld/>itaj en oran&gcirc;erioj, ne havas la forton, por
+        kontra&ubreve;stari al ventoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
+  <trd lng="en">educated</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;duqu&eacute;</trd>,
+    <trd>instruit</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6559;&#x80B2;&#x306E;&#x3042;&#x308B;  <pr>&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;&#x306E;&#x3042;&#x308B;</pr></trd>,
+    <trd>&#x3057;&#x3064;&#x3051;&#x3089;&#x308C;&#x305F;</trd>,
+    <trd>&#x98FC;&#x3044;&#x306A;&#x3089;&#x3055;&#x308C;&#x305F;  <pr>&#x304B;&#x3044;&#x306A;&#x3089;&#x3055;&#x308C;&#x305F;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_i;&c_h;&#x43E;&c_v;&c_a;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="eduk.ne0ita">
+  <kap>
+    ne<tld/>ita
+  </kap>
+  <snc mrk="eduk.ne0ita.KOMUNE">
+    <dif>
+      Kiu ne ricevis <tld/>on, restis en spontanea, sova&gcirc;a, kruda stato:
+      <ekz>
+        neniam anta&ubreve;e li estis en tia maldelikata kaj ne<tld/>ita kompanio
+        <fnt>
+          <bib>Fab1</bib>
+          <vrk>Galo&scirc;oj de feli&ccirc;o</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_ja;&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
+  <trd lng="en">uneducated</trd>
+  <trdgrp lng="fr">
+    <trd>in&eacute;duqu&eacute;</trd>,
+    <trd>rustre</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6559;&#x80B2;&#x306E;&#x306A;&#x3044;  <pr>&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;&#x306E;&#x306A;&#x3044;</pr></trd>,
+    <trd>&#x3057;&#x3064;&#x3051;&#x306E;&#x306A;&#x3044;</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43D;&c_je;&c_v;&c_i;&c_h;&#x43E;&c_v;&c_a;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="eduk.bon0iteco">
+  <kap>bon<tld/>iteco</kap>
+  <snc mrk="eduk.bon0iteco.kvalito">
+    <dif>
+      Kvalito de tiu, kiu ricevis bonan <tld/>on:
+      <ekz>
+        konfuceanismo donas atenton al bon<tld/>iteco de homoj kaj emfazas la gravecon
+        de harmoniaj rilatoj inter homoj
+        <fnt>
+          <vrk><url ref="&CRI;2521/2016/06/14/180s186658.htm">china radio international</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la filino diplomiti&gcirc;is kaj pro &scirc;ia bon<tld/>iteco kaj sa&gcirc;eco facile trovis
+        kontentigan laboron &ccirc;e granda kompanio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Xu Jinming</aut>
+          <vrk><url ref="&Monato;/2011/010258.php">Junaj virinoj for de la amo</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_o;&c_b;&c_r;&c_a;&c_je;
+  <ind>&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+  <trd lng="cs">dobr&aacute; v&yacute;chova</trd>
+  <trdgrp lng="de">
+    <trd>gute <ind>Erziehung</ind></trd>,
+    <trd>gute <ind>Kinderstube</ind></trd>,
+    <trd>Wohlerzogenheit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>good breeding</trd>,
+    <trd>well-bred conduct</trd>
+  </trdgrp>
+  <trd lng="es">buena <ind>educaci&oacute;n</ind></trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;ducation<klr tip="ind"> (bonne
+    &eacute;ducation)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&nun;&yod;&mem;&vav;&samekh;&yod;&fmem;</trd>
+  <trd lng="hu">j&oacute;nevelts&eacute;g</trd>
+  <trd lng="nl">goede <ind>opvoeding</ind></trd>
+  <trd lng="pl">dobre <ind>wykszta&lstroke;cenie</ind></trd>
+  <trd lng="ru">&c_b;&c_l;&c_a;&c_g;&c_o;&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">dobr&aacute; v&yacute;chova</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.37 2023/10/14 15:34:33
+revo: transskribo per <pr>
+
+versio 1.35 2023/04/12 12:45:49
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.34 2023/03/01 11:26:42
+Dmitri Gabinski: + trd be
+
+versio 1.33 2022/06/19 11:26:33
+Ulrich Fellmann: edukisto: +2 pliaj DE trdj (aldonis la inajn formojn, la e-aj substantivoj ja estas
+sekse neuxtralaj)
+
+versio 1.32 2022/04/27 14:38:53
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.29 2021/10/27 14:26:34
+Shep Moore-Berg: +trd en
+
+versio 1.26 2020/05/12 22:13:03
+Jeromo Vasxe: + ~ita ne~ita
+
+-->
+</vortaro>

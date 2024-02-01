@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sitar.xml,v 1.11 2023/12/02 21:23:07 revo Exp $">
+<kap>
+  <rad>sitar</rad>/o <fnt><bib>GDFE</bib></fnt>
+</kap>
+<drv mrk="sitar.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      Nord-hinda <ref tip="lst" cel="instru2.kord0o.MUZ"
+      lst="voko:kordinstrumentoj">kordinstrumento</ref>
+      granda liuto longa-kola, kun kvar &ccirc;efaj kaj du flankaj kordoj,
+      plektre sonigata:
+      <ekz>
+        <nom>Ravi Shankar</nom> <klr>[&#8230;]</klr> estis bengal-barata muzikisto, plej bone konata kiel
+        bonega ludanto de la <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=51875"
+              >Ravi Shankar</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Kriegel</nom> diris en 2001 pri la <tld/>o: &leftquot;&gcirc;i jam sonas bela, se oni ekfrapas nur la
+        neprenatajn kordojn&rightquot;
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=393349"
+              >Volker Kriegel</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld
+      lok="&WCU;/thumb/8/8c/Sitar_3.gif/420px-Sitar_3.gif"
+      prm="PD"
+      ><tld/>ludanto
+        <fnt>
+          <aut>http://asnic.utexas.edu/asnic/hardgrave/solvynsonline/pages/Paris151.html</aut>
+          <lok><url ref="&WCW;/File:Sitar_3.gif"
+              >&WCW;/File:Sitar_3.gif</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_t;&c_a;&c_r;</trd>
+  <trd lng="de">Sitar</trd>
+  <trd lng="en">sitar</trd>
+  <trdgrp lng="fr">
+    <trd>s&icirc;t&acirc;r</trd>
+  </trdgrp>
+  <trd lng="hu">szit&aacute;r</trd>
+  <trd lng="pl">sitar</trd>
+  <trd lng="ru">&c_s;&c_i;&c_t;&c_a;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.11 2023/12/02 21:23:07
+Vito Redsky: +trd pl 
+
+versio 1.10 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.8  2013/09/08 18:11:38  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
+Revision 1.7  2005/06/26 16:32:44  revo
+Yury Finkel: +trd ru
+
+Revision 1.6 2003/08/31 16:31:15 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5 2003/02/15 17:33:14 revo
+Ulrich Fellmann: + 1 trd de
+
+Revision 1.4 2003/01/30 19:02:18 revo
+Jeromo Vasxe: kor mistajpon en trd fr
+
+Revision 1.3 2002/10/30 18:38:00 revo
+-->
+</vortaro>

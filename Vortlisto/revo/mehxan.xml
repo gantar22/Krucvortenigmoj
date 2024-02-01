@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mehxan.xml,v 1.31 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>*</ofc><rad>me&hcirc;anik</rad>/o, 
+  <var><kap><ofc>8</ofc><rad var="k">mekanik</rad>/o</kap></var>
+</kap>
+<drv mrk="mehxan.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o, 
+    <var><kap> <ofc>8</ofc><tld var="k"/>o</kap></var>
+  </kap>
+  <snc mrk="mehxan.0o.MAT">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>VdE</bib></fnt>
+    <dif>
+      Komuna bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref> kaj
+      <ref tip="malprt" cel="fizik.0o">fiziko</ref>,
+      studanta la fortojn kaj la rezultantajn movojn:
+      <ekz>
+        tiuj gigantaj laboroj postulis, krom konoj de la astronomio, geometrio, <tld/>o
+        kaj ar&hcirc;itekturo, anka&ubreve; perfektan organizon
+        <fnt>
+          <bib>Far1</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la klasika <tld var="k"/>o de <nom>Newton</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bruce Sherwood</aut>
+          <vrk><url ref="&Monato;/2010/010002.php">Naturo de scienco</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Mechanik</trd>
+    <trd lng="en">mechanics</trd>
+    <trd lng="es">mec&aacute;nica</trd>
+    <trdgrp lng="hu">
+      <trd>er&odblac;tan</trd>,
+      <trd>mechanika</trd>
+    </trdgrp>
+    <trd lng="nl">mechanica</trd>
+    <trd lng="pl">mechanika</trd>
+    <trd lng="sv">mekanik</trd>
+  </snc>
+  <snc mrk="mehxan.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Arto konstrui <ref cel="masxin.0o">ma&scirc;inojn</ref>:
+      <ekz>
+        pri <tld var="k"/>o mi scias nenion, mi &ccirc;iam miras vidi, ke veturiloj entute funkcias
+        <fnt><bib>Gerda</bib>, <lok>&ccirc;apitro 11a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Mechanik</trd>
+    <trdgrp lng="hu">
+      <trd>mechanika</trd>,
+      <trd>g&eacute;ptan</trd>
+    </trdgrp>
+    <trd lng="nl">werktuigkunde</trd>
+    <trd lng="pl">mechanika</trd>
+    <trd lng="sv">mekanik</trd>
+  </snc>
+  <snc mrk="mehxan.0o.FIG">
+    <dif>
+      <ref tip="dif" cel="mehxan1.0o.FIG">Me&hcirc;anismo</ref>:
+      <ekz>
+        la <tld/>o de la lingvo estis anta&ubreve; mi kvaza&ubreve; sur la manplato
+        <fnt>
+          <aut>&Z;</aut>
+          <vrk><url ref="&EduInf;lern/librejo/0015/0022.php">Lingvaj
+          respondoj</url></vrk>
+           <lok>Letero pri la deveno de Esperanto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Mechanismus</trd>
+    <trd lng="hu">mechanizmus</trd>
+    <trd lng="pl">mechanika</trd>
+    <trd lng="nl">mechanisme</trd>
+    <trd lng="sv">mekanism</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_h;&c_a;&c_n;&c_ib;&c_k;&c_a;</trd>
+  <trd lng="fr">m&eacute;canique<klr> (subst.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x529B;&#x5B66;  <pr>&#x308A;&#x304D;&#x304C;&#x304F;</pr></trd>,
+    <trd>&#x6A5F;&#x68B0;&#x5B66;  <pr>&#x304D;&#x304B;&#x3044;&#x304C;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">mec&acirc;nica</trd>
+  <trd lng="ru">&c_m;&c_je;&c_h;&c_a;&c_n;&c_i;&c_k;&c_a;</trd>
+  <trd lng="uk">&#x43C;&c_je;&c_h;&c_a;&#x43D;&c_ib;&#x43A;&c_a;</trd>
+</drv>
+
+<drv mrk="mehxan.0a">
+  <kap>
+    <tld/>a, <var><kap><tld var="k"/>a</kap></var>
+  </kap>
+  <snc mrk="mehxan.0a.koncernanta">
+    <dif>
+      Koncernanta <tld/>on <sncref ref="mehxan.0o.MAT"/>:
+      <ekz>
+        <tld/>a problemo, le&gcirc;o.
+      </ekz>
+    </dif>
+    <trd lng="hu">mechanikai</trd>
+  </snc>
+  <snc mrk="mehxan.0a.funkcianta">
+    <dif>
+      funkciante per <tld/>o:
+      <ekz>
+        <tld var="k"/>aj horlo&gcirc;oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2004/008225.html">Mirakloj en
+          arbarprofundo</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        komplikaj <tld var="k"/>aj aparatoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2012/010670.php">Arto kreas arton</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld var="k"/>aj bestoj kaj pupoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lucette &Eacute;chapp&eacute;</aut>
+          <vrk><url ref="&Monato;/2013/010930.php">Vizito al Nanto</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="mehxan.0a.farata">
+    <dif>
+      Farata per ma&scirc;ino:
+      <ekz>
+        <tld/>a fabrikado.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="masxin.0e">ma&scirc;ine</ref>.
+    </refgrp>
+    <trd lng="hu">g&eacute;pi</trd>    
+    <trd lng="pl">mechaniczny</trd>
+  </snc>
+  <snc mrk="mehxan.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Farata kvaza&ubreve; per ma&scirc;ino, sen partopreno de konscia
+      volo, a&ubreve;tomate:
+      <ekz>
+        <tld/>aj gestoj;
+      </ekz>
+      <ekz>
+        artritaj sentadoj estas &ccirc;iam akompanataj de malakordo de la <tld/>aj vibracioj
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        monotona kaj senemocia <tld var="k"/>a vo&ccirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2005/008572.php">A&ubreve;dantoj</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>g&eacute;pies</trd>,
+      <trd>mechanikus</trd>
+    </trdgrp>
+    <trd lng="pl">mechaniczny</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_h;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="de">mechanisch</trd>
+  <trd lng="en">mechanical</trd>
+  <trd lng="es">mec&aacute;nico</trd>
+  <trd lng="fr">m&eacute;canique<klr> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x529B;&#x5B66;&#x306E;  <pr>&#x308A;&#x304D;&#x304C;&#x304F;&#x306E;</pr></trd>,
+    <trd>&#x6A5F;&#x68B0;&#x306B;&#x3088;&#x308B;  <pr>&#x304D;&#x304B;&#x3044;&#x306B;&#x3088;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">mechanisch</trd>
+  <trd lng="pt">mec&acirc;nico <klr>(adj.)</klr></trd>
+  <trd lng="ru">&c_m;&c_je;&c_h;&c_a;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sv">mekanisk</trd>
+  <trd lng="uk">&#x43C;&c_je;&c_h;&c_a;&#x43D;&c_ib;&c_ch;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="mehxan.0e">
+  <kap>
+    <tld/>e, <var><kap><tld var="k"/>e</kap></var>
+  </kap>
+  <snc mrk="mehxan.0e.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      En ma&scirc;ineca maniero, kvaza&ubreve; a&ubreve;tomate:
+      <ekz>
+        &scirc;i rigardis <tld/>e sian manon
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e ripetante liajn vortojn
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en komuna takto, senhalte, <tld/>e, ili trakombas la terenon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2010/009930.php">Ni fosu nian konton!</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld var="k"/>e frotis la vitron per unu fingro
+        <fnt>
+          <aut>Konstanten Krysakov</aut>
+          <vrk><url ref="&Monato;/2000/006805.php">Kota akvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 28</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="auxtom.0e">a&ubreve;tomate</ref>,
+      <ref cel="masxin.0e">ma&scirc;ine</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_h;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_a;</trd>
+  <trd lng="de">mechanisch</trd>
+  <trd lng="en">mechanically</trd>
+</drv>
+
+<drv mrk="mehxan.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o
+  </kap>
+  <snc mrk="mehxan.0ajxo.mehxanismo">
+    <dif>
+      <ref tip="dif" cel="mehxan1.0o.pecoj">Me&hcirc;anismo<sncref/></ref>:
+      <ekz>
+        la Praga horlo&gcirc;o estas unika <tld/>a&jcirc;o, la plej malnova funkcianta aparato kun
+        originaj detala&jcirc;oj
+        <fnt>
+          <vrk><url ref="https://www.wikiwand.com/eo/Astronomia_horlo%C4%9Do_de_Prago">Astronomia
+          horlo&gcirc;o de Prago - Wikiwand | Legendo pri la horlo&gcirc;o</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_h;&c_a;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="de">Mechanismus</trd>
+  <trd lng="en">mechanism</trd>
+  <trd lng="fr">m&eacute;canisme</trd>
+  <trd lng="hu">mechanizmus</trd>
+  <trd lng="nl">mechanisme</trd>  
+  <trd lng="pl">mechanizm</trd>
+  <trd lng="ru">&c_m;&c_je;&c_h;&c_a;&c_n;&c_i;&c_z;&c_m;</trd>
+</drv>
+
+<drv mrk="mehxan.0isto">
+  <kap>
+    <tld/>isto,
+    <var><kap><tld var="k"/>isto</kap></var>
+  </kap>
+  <snc mrk="mehxan.0isto.specialisto">
+    <dif>
+      Specialisto pri konstruado a&ubreve; direktado de ma&scirc;inoj:
+      <ekz>
+        kiu okupas sin je <tld/>o, estas <tld/>isto
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 32</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kia <tld/>isto faris tiun &ccirc;i ma&scirc;inon?
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam ekestis eta difekto, la <tld var="k"/>isto elprenis la kompletan komputileton kaj
+        metis novan en la ma&scirc;inon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2010/009945.php">Kiom da elektroniko?</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_h;&c_a;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="de">Mechaniker</trd>
+  <trd lng="en">mechanic</trd>
+  <trd lng="fr">m&eacute;canicien</trd>
+  <trdgrp lng="hu">
+    <trd>g&eacute;p&eacute;sz</trd>,
+    <trd>mechanikus</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x529B;&#x5B66;&#x8005;  <pr>&#x308A;&#x304D;&#x304C;&#x304F;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x6A5F;&#x68B0;&#x5B66;&#x8005;  <pr>&#x304D;&#x304B;&#x3044;&#x304C;&#x304F;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x6A5F;&#x68B0;&#x6280;&#x5E2B;  <pr>&#x304D;&#x304B;&#x3044;&#x304E;&#x3057;</pr></trd>,
+    <trd>&#x6A5F;&#x68B0;&#x8AD6;&#x8005;  <pr>&#x304D;&#x304B;&#x3044;&#x308D;&#x3093;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>werktuigkundige</trd>,
+    <trd>mecanicien</trd>
+  </trdgrp>
+  <trd lng="pl">mechanik</trd>
+  <trd lng="ro">mecanic</trd>
+  <trd lng="ru">&c_m;&c_je;&c_h;&c_a;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sv">mekaniker</trd>
+  <trd lng="uk">&#x43C;&c_je;&c_h;&c_a;&#x43D;&c_ib;&#x43A;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.29 2023/04/17 15:28:23
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.28 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.27 2022/04/25 07:30:25
+Dmitri Gabinski: + trd be
+
+versio 1.25 2020/09/08 07:10:39
+Wolfram Diestel: +tld-var
+
+versio 1.24 2020/03/27 20:10:17
+Wolfram Diestel: +var, +ekz-oj
+
+Revision 1.23  2018/06/20 02:10:14  revo
+Dusan Juretic: +trd es
+
+Revision 1.22  2017/08/15 23:10:14  revo
+-->
+</vortaro>

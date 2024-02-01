@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lavend.xml,v 1.28 2024/01/15 16:14:09 revo Exp $">
+<kap>
+<ofc>1</ofc>
+<rad>lavend</rad>/o
+</kap>
+<drv mrk="lavend.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="lamiac.0oj">lamiacoj</ref>
+      (<trd lng="la">Lavandula</trd>),
+      el kies unu specio <trd lng="la">Lavandula angustifolia</trd>
+      oni produktas bonodoran oleon; 
+      duon<ref tip="lst" cel="arbust.0o" lst="voko:lamioparencoj">arbusto</ref>,
+      foje arbusto a&ubreve; sta&ubreve;do,
+      kun nesimetriaj kvinlobaj intense bluaj a&ubreve; violkoloraj floroj,
+      kies mallongaj stiluso kaj stamenoj ka&scirc;i&gcirc;as en la
+      korola tubeto; la
+      fruktoj disfalas en unusemajn &ccirc;elojn &ccirc;e maturi&gcirc;o:
+      <ekz>
+        beleta malgranda flor&gcirc;ardeno kie oni sentis la odoron 
+        de rozoj kaj <tld/>o
+        <fnt><bib>Fab4</bib>, <lok>Sterkskarabo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ja;&c_v;&c_a;&c_n;&c_d;&c_a;</trd>
+  <trd lng="bg">&c_l;&c_a;&c_v;&c_a;&c_n;&c_d;&c_u;&c_l;&c_a;</trd>
+  <trd lng="cs">levandule</trd>
+  <trd lng="de">Lavendel</trd>
+  <trd lng="en">lavander</trd>
+  <trd lng="fr">lavande</trd>
+  <trd lng="hu">levendula</trd>
+  <trd lng="ja">&#x30E9;&#x30D9;&#x30F3;&#x30C0;&#x30FC;  <pr>&#x3089;&#x3079;&#x3093;&#x3060;&#x30FC;</pr></trd>
+  <trd lng="nl">lavendel</trd>
+  <trd lng="pl">lawenda</trd>
+  <trdgrp lng="pt">
+    <trd>lavanda <klr tip="amb">(bot.)</klr></trd>,
+    <trd>alfazema <klr tip="amb">(bot.)</klr></trd>
+  </trdgrp>
+  <trd lng="ro">lev&abreve;n&#x21B;ic&abreve; </trd>
+  <trd lng="ru">&c_l;&c_a;&c_v;&c_a;&c_n;&c_d;&c_a;</trd>
+  <trd lng="sk">levandu&lcaron;a</trd>
+  <trd lng="sv">lavendel</trd>
+  <trd lng="uk">&#x43B;&#x430;&#x432;&#x430;&#x43D;&#x434;&#x430;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x85B0;&#x8863;&#x8349; <pr>x&#x16B;ny&#x12B;c&#x1CE;o</pr></trd>,
+    <trd>&#x6DE1;&#x7D2B;&#x8272; <pr>d&#xE0;nz&#x1D0;s&#xE8;</pr></trd>,
+    <trd>&#x8584;&#x7D2B;&#x8272; <pr>b&#xF3;z&#x1D0;s&#xE8;</pr></trd>,
+    <trd>&#x85B0;&#x8863;&#x8349;&#x5C5E; <pr>x&#x16B;ny&#x12B;c&#x1CE;osh&#x1D4;</pr></trd>,
+    <trd>&#x85B0;&#x8863;&#x8349;&#x5C6C; <pr>x&#x16B;ny&#x12B;c&#x1CE;osh&#x1D4;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/19 05:15:34
+revo: transskribo per <pr>
+
+Revision 1.23  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/02/08 17:10:22  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.20  2014/02/08 10:10:27  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.19  2013/11/08 19:10:46  revo
+Wolfram Diestel: ref al lst lamioparencoj, prilaboris dif
+
+Revision 1.18  2013/08/27 09:10:14  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.17  2013/08/15 09:10:10  revo
+-->
+</vortaro>

@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: cerb.xml,v 1.53 2023/10/31 13:37:03 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>cerb</rad>/o
+</kap>
+
+<drv mrk="cerb.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="cerb.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Organo konsistanta el maso da mola substanco, entenata en la
+      kranio
+      kaj
+      formanta la centron de nerva sistemo.
+    </dif>
+    <trd lng="bg">&c_m;&c_o;&c_z;&c_malmol;&c_k;</trd>
+    <trd lng="br">empenn</trd>
+    <trd lng="ca">cervell</trd>
+    <trd lng="de">Gehirn</trd>
+    <trd lng="el">&epsilon;&gamma;&kappa;&epsilon_ton;&phi;&alfa;&lambda;&omikron;&sigma_fina;</trd>
+    <trd lng="es">cerebro</trd>
+    <trd lng="en">brain</trd>
+    <trd lng="fr">cerveau</trd>
+    <trd lng="he">&mem;&vav;&het;</trd>
+    <trd lng="pl">m&oacute;zg</trd>
+    <trd lng="pt">c&eacute;rebro</trd>
+    <trd lng="sv">hj&auml;rna</trd>
+    <trdgrp lng="zh">
+    <trd>&#x8111;&#x888B; <pr>n&#x1CE;odai</pr></trd>,
+    <trd>&#x8111;&#x5B50; <pr>n&#x1CE;ozi</pr></trd>,
+    <trd>&#x6D17;&#x8111; <pr>x&#x1D0;n&#x1CE;o</pr></trd>,
+    <trd>&#x8111;&#x9AD3; <pr>n&#x1CE;osu&#x1D0;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="cerb.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Spirito, menso, penso:
+      <ekz>
+        venis al mi en la <tld/>on, ke...<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        lia <tld/>o iris promeni
+        <klr>(li estis tute distrita)</klr><fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kap.0o">kapo</ref>.
+    </refgrp>
+    <trdgrp lng="ca">
+    <trd>ment</trd>,
+    <trd>cap</trd>
+  </trdgrp>
+    <trd lng="he">&shin;&kaf;&lamed;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_o;&c_z;&c_g;</trd>,
+    <trd>&c_m;&c_a;&c_z;&c_g;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF40;&#xFB3;&#xF51;&#xF0B;&#xF54;&#xF0B;</trd>
+  <trd lng="cs">mozek</trd>
+  <trdgrp lng="hu">
+    <trd>agy</trd>,
+    <trd>agyvel&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>otak</trd>,
+    <trd>benak</trd>
+  </trdgrp>
+  <trd lng="it">cervello</trd>
+  <trdgrp lng="ja">
+    <trd>&#x982D;&#x8133;  <pr>&#x305A;&#x306E;&#x3046;</pr></trd>,
+    <trd>&#x8133;  <pr>&#x306A;&#x305A;&#x304D;</pr></trd>,
+    <trd>&#x5927;&#x8133;  <pr>&#x3060;&#x3044;&#x306E;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">hersenen</trd>
+  <trd lng="ro">creier</trd>
+  <trd lng="ru">&c_m;&c_o;&c_z;&c_g;</trd>
+  <trd lng="sk">mozog</trd>
+  <trd lng="uk">&#x43C;&#x43E;&c_z;&#x43E;&#x43A;</trd>
+</drv>
+
+<drv mrk="cerb.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">ANA</uzo>
+  <snc>
+    <dif>
+      De <tld/>o, rilata al <tld/>o:
+      <ekz>
+        <tld/>a laboro;
+      </ekz>
+      <ekz>
+        <tld/>a sangalfluo;
+      </ekz>
+      <ekz>
+        <tld/>a stato.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">cerebral</trd>
+  <trd lng="id">serebral</trd>
+  <trdgrp lng="ja">
+    <trd>&#x982D;&#x8133;&#x7684;&#x306A;  <pr>&#x305A;&#x306E;&#x3046;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x8133;&#x306E;  <pr>&#x306E;&#x3046;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&#x43C;&#x43E;&c_z;&#x43A;&#x43E;&c_v;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="cerb.0eto">
+  <kap><tld/>eto</kap>
+  <uzo tip="fak">ANA</uzo>
+  <snc>
+    <dif>
+      Maso da nerva substanco, kiu estas sub la posta parto de la
+      <tld/>o.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_z;&c_zh;&c_a;&c_ch;&c_o;&c_k;</trd>,
+    <trd>&c_m;&c_o;&c_z;&c_a;&c_ch;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_m;&c_a;&c_l;&c_k;&c_i;&c_ja;&c_t; <ind>&c_m;&c_o;&c_z;&c_malmol;&c_k;</ind></trd>
+  <trd lng="br">ilpenn</trd>
+  <trd lng="ca">cerebel</trd>
+  <trdgrp lng="cs">
+    <trd>cerebellum</trd>,
+    <trd>mal&yacute; mozek</trd>,
+    <trd>moze&ccaron;ek</trd>
+  </trdgrp>
+  <trd lng="de">Kleinhirn</trd>
+  <trd lng="el">&pi;&alfa;&rho;&epsilon;&gamma;&kappa;&epsilon;&phi;&alfa;&lambda;&jota_ton;&delta;&alfa;</trd>
+  <trd lng="en">cerebellum</trd>
+  <trd lng="es">cerebelo</trd>
+  <trd lng="fr">cervelet</trd>
+  <trd lng="he">&he;&mem;&vav;&het; &he;&qof;&tet;&fnun;</trd>
+  <trd lng="hu">kisagy</trd>
+  <trd lng="id"><ind>otak</ind> kecil</trd>
+  <trdgrp lng="it">
+  <trd>cervelletto</trd>,
+  <trd>cerebello</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5C0F;&#x8133;  <pr>&#x3057;&#x3087;&#x3046;&#x306E;&#x3046;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>kleine <ind>hersenen</ind></trd>,
+    <trd>cerebellum</trd>
+  </trdgrp>
+  <trd lng="pl">m&oacute;&zdot;d&zdot;ek</trd>
+  <trd lng="pt">cerebelo</trd>
+  <trd lng="ru">&c_m;&c_o;&c_z;&c_zh;&c_je;&c_ch;&c_o;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>mal&yacute; mozog</trd>,
+    <trd>mozo&ccaron;ek</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5C0F;&#x8111; <pr>xi&#x1CE;on&#x1CE;o</pr></trd>
+</drv>
+
+<drv mrk="cerb.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">KUI</uzo>
+  <snc>
+    <dif>
+      Besta <tld/>o, konsiderata kiel man&gcirc;a&jcirc;o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_z;&c_g;&c_ib; <klr tip="amb">(&c_s;&c_t;&c_r;&c_a;&c_v;&c_a;)</klr></trd>
+  <trd lng="br">boued <ind>penn</ind></trd>
+  <trd lng="ca">cervell <klr>(menjar)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Gehirn</trd>,
+    <trd>Hirn</trd>
+  </trdgrp>
+  <trd lng="en">brains</trd>
+  <trd lng="es">sesos</trd>
+  <trd lng="fr">cervelle</trd>
+  <trd lng="he">&mem;&vav;&het;<klr tip="amb">
+(&kaf;&mem;&alef;&kaf;&lamed;)</klr></trd>
+  <trd lng="hu">vel&odblac; <klr>(&eacute;tel)</klr></trd>
+  <trd lng="id">otak <klr>(makanan)</klr></trd>
+  <trd lng="it">cervella</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8133;&#x6F3F;  <pr>&#x306E;&#x3046;&#x3057;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x30BB;&#x30EB;&#x30D9;&#x30FC;&#x30EB;</trd>
+  </trdgrp>
+  <trd lng="nl">hersenen<klr tip="amb"> (als voedsel)</klr></trd>
+  <trd lng="pl">m&oacute;&zdot;d&zdot;ek</trd>
+  <trd lng="ru">&c_m;&c_o;&c_z;&c_g;&c_i;
+<klr>(&c_je;&c_d;&c_a;)</klr></trd>
+</drv>
+
+<drv mrk="cerb.0ujo">
+  <kap><tld/>ujo</kap>
+  <snc>
+    <ref tip="dif" cel="krani.0o">kranio</ref>
+  </snc>
+  <trd lng="be">&c_ch;&c_e;&c_r;&c_a;&c_p;</trd>
+  <trd lng="bg">&c_ch;&c_je;&c_r;&c_je;&c_p;</trd>
+  <trd lng="br">klopenn</trd>
+  <trd lng="ca">crani</trd>
+  <trd lng="cs">mozkovna</trd>
+  <trd lng="de">Sch&auml;del</trd>
+  <trd lng="el">&kappa;&rho;&alfa;&ny;&jota_ton;&omikron;</trd>
+  <trdgrp lng="en">
+    <trd>brainpan</trd>,
+    <trd>braincase</trd>,
+    <trd>cranium</trd>
+  </trdgrp>
+  <trd lng="es">cr&aacute;neo</trd>
+  <trd lng="fr">bo&icirc;te <ind>cr&acirc;nienne</ind></trd>
+  <trd lng="he">&gimel;&vav;&lamed;&gimel;&vav;&lamed;&tav;</trd>
+  <trdgrp lng="hu">
+    <trd>koponya</trd>,
+    <trd>kobak<klr tip="ind"> (koponya)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>tengkorak</trd>,
+    <trd>kranium</trd>,
+    <trd><ind>tulang</ind> kepala</trd>
+  </trdgrp>
+  <trd lng="it">cranio</trd>
+  <trd lng="ja">&#x982D;&#x84CB;  <pr>&#x305A;&#x304C;&#x3044;</pr></trd>
+  <trd lng="nl">schedel</trd>
+  <trd lng="pl">czaszka</trd>
+  <trd lng="pt">cr&acirc;nio</trd>
+  <trd lng="ru">&c_ch;&c_je;&c_r;&c_je;&c_p;</trd>
+  <trd lng="sk">lebka</trd>
+  <trdgrp lng="zh">
+    <trd>&#x9871; <pr>l&#xFA;</pr></trd>,
+    <trd>&#x9871;&#x9AA8; <pr>l&#xFA;g&#x1D4;</pr></trd>,
+    <trd>&#x5934;&#x9AA8; <pr>t&#xF3;ug&#x1D4;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cerb.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc>
+    <dif>
+      Penege stre&ccirc;i sian penson, spiriton pri io:
+      <ekz>
+        ne valoras <tld/>umi pri tia bagatelo;
+      </ekz>
+      <ekz>
+        lin terure &ccirc;agrenis la milito kaj li tiam <tld/>umis sian faman
+        Leteron al la Diplomatoj
+        <fnt><bib>Aventuroj</bib>, <lok>&ccirc;apitro 28a, p.
+        69a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_a;&c_m;&c_a;&c_c;&c_mol; <ind>&c_g;&c_a;&c_l;&c_a;&c_v;&c_u;</ind></trd>,
+    <trd>&c_a;&c_b;&c_m;&c_a;&c_z;&c_g;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_r;&c_a;&c_z;&c_m;&c_i;&c_sh;&c_l;&c_ja;&c_v;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>en em <ind>so&ntilde;jal</ind></trd>,
+    <trd>prederia&ntilde;<klr tip="ind"> (en em so&ntilde;jal)</klr></trd>
+  </trdgrp>
+  <trd lng="ca">escalfar-se el cap</trd>
+  <trdgrp lng="cs">
+    <trd>b&aacute;dat</trd>,
+    <trd>hloubat</trd>,
+    <trd>nechat proj&iacute;t hlavou</trd>,
+    <trd>p&rcaron;em&yacute;&scaron;let</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>gr&uuml;beln</trd>,
+    <trd>sinnen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>rack one's brains</trd>,
+    <trd>brood</trd>,
+    <trd>cerebrate</trd>
+  </trdgrp>
+  <trd lng="es">reflexionar</trd>
+  <trdgrp lng="fr">
+    <trd>r&eacute;fl&eacute;chir</trd>,
+    <trd>cogiter</trd>
+  </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5E8;&#x5D4;&#x5E8;</trd>
+  <trdgrp lng="hu">
+    <trd>t&ouml;ri a <ind>fej&eacute;t</ind></trd>,
+    <trd>elgondolkodik</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><baz>peras</baz>memeras <klr>(otak)</klr></trd>,
+    <trd><baz>putar</baz>memutar <klr>(otak)</klr></trd>,
+    <trd><baz>renung</baz>merenung</trd>
+  </trdgrp>
+  <trd lng="it">scervellarsi</trd>
+  <trd lng="ja">&#x982D;&#x3092;&#x3072;&#x306D;&#x308B;  <pr>&#x3042;&#x305F;&#x307E;&#x3092;&#x3072;&#x306D;&#x308B;</pr></trd>
+  <trd lng="nl">nadenken</trd>
+  <trd lng="pl">g&lstroke;owi&cacute; si&eogonek;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_o;&c_m;&c_a;&c_t;&c_mol; &c_g;&c_o;&c_l;&c_o;&c_v;&c_u;</trd>,
+    <trd>&c_o;&c_b;&c_m;&c_o;&c_z;&c_g;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>l&aacute;ma&tcaron; si <ind>hlavu</ind></trd>,
+    <trd>l&aacute;ma&tcaron; si hlavu</trd>,
+    <trd>rozm&yacute;&scaron;&lcaron;a&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>grubbla</trd>,
+    <trd>fundera</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&c_a;&#x43C;&c_a;&c_t;&c_i; &c_g;&#x43E;&#x43B;&#x43E;&c_v;&c_u; &#x43D;&c_a;&c_d; &c_ch;&c_i;&#x43C;-&#x43D;.</trd>,
+    <trd>&#x43C;&c_ib;&c_z;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&#x43D;&#x43E;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i; &c_d;&c_u;&#x43C;&#x43A;&c_u;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x7D04;&#x6478; <pr>yu&#x113;m&#x14D;</pr></trd>
+</drv>
+
+<drv mrk="cerb.en0igi">
+  <kap>en<tld/>igi</kap>
+  <snc>
+    <dif>
+      Profunde firmigi en la menson.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_r;&c_a;&c_c;&c_mol; &c_d;&c_a; <ind>&c_g;&c_a;&c_l;&c_a;&c_v;&c_y;</ind></trd>,
+    <trd>&c_u;&c_b;&c_ib;&c_c;&c_mol; &c_u; <ind>&c_g;&c_a;&c_l;&c_a;&c_v;&c_u;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>gravar-hi al cap</trd>,
+    <trd>inculcar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>vr&yacute;t do pam&ecaron;ti</trd>,
+    <trd>zapamatovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>einh&auml;mmern</trd>, <trd>eintrichtern</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>inculcar</trd>,
+    <trd>meter en la cabeza</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>enfoncer dans la t&ecirc;te</trd>
+  </trdgrp>
+  <trd lng="hu">esz&eacute;be v&eacute;s</trd>
+  <trd lng="id">t<baz>anam</baz>menanamkan <klr>(di dlm pikiran)</klr></trd>
+  <trd lng="it">inculcare</trd>
+  <trd lng="ja">&#x982D;&#x306B;&#x305F;&#x305F;&#x304D;&#x8FBC;&#x3080; 
+  <pr>&#x3042;&#x305F;&#x307E;&#x306B;&#x305F;&#x305F;&#x304D;&#x3053;&#x3080;</pr></trd>
+  <trd lng="nl">inprenten</trd>
+  <trd lng="pl">wbi&cacute; do g&lstroke;owy</trd>
+  <trd lng="ru">&c_v;&c_b;&c_i;&c_t;&c_mol; &c_v;
+  &c_g;&c_o;&c_l;&c_o;&c_v;&c_u;</trd>
+  <trdgrp lng="sk">
+    <trd>vry&tcaron; do pam&auml;ti</trd>,
+    <trd>vzia&tcaron; si do <ind>hlavy</ind></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i; &c_v; &c_g;&#x43E;&#x43B;&#x43E;&c_v;&c_u;</trd>,
+    <trd>&c_v;&c_t;&#x43E;&#x43A;&#x43C;&c_a;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cerb.sen0ulo">
+  <kap>sen<tld/>ulo</kap>
+  <snc>
+    <dif>
+      Senpripensa, ventanima homo.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_z;&c_m;&c_o;&c_z;&c_g;&c_l;&c_y; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>,
+    <trd>&c_n;&c_je;&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_y; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>den <ind>diempenn</ind></trd>,
+    <trd>penn divouedet</trd>,
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>desassenyat</trd>,
+    <trd>arrauxat</trd>,
+    <trd>irreflexiu</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nerozuma</trd>,
+    <trd>nerozumn&yacute; &ccaron;lov&ecaron;k</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Hirnloser</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>brainless</trd>,
+    <trd>scatter-brained</trd>,
+    <trd>empty-headed</trd>,
+    <trd>imbecile</trd>,
+    <trd>noodle</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>descerebrado</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&eacute;cervel&eacute;<klr tip="ind"> (personne)</klr></trd>,
+    <trd>t&ecirc;te de linotte</trd>
+  </trdgrp>
+  <trd lng="he">&tet;&yod;&pe;&shin;</trd>
+  <trdgrp lng="hu">
+    <trd>eszetlen</trd>,
+    <trd>t&ouml;kkel&uuml;t&ouml;tt</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>orang</ind> bodoh</trd>,
+    <trd><ind>orang</ind> tolol</trd>,
+    <trd><ind>orang</ind> dungu</trd>,
+    <trd><ind>orang</ind> tak berotak</trd>,
+    <trd><ind>orang</ind> berkepala kosong</trd>
+  </trdgrp>
+  <trd lng="it">decerebrato<klr> (fig.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x611A;&#x304B;&#x8005;  <pr>&#x304A;&#x308D;&#x304B;&#x3082;&#x306E;</pr></trd>,
+    <trd>&#x4F4E;&#x80FD;  <pr>&#x3066;&#x3044;&#x306E;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">uilskuiken</trd>
+  <trd lng="pl">osobnik bezmy&sacute;lny</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_m;&c_o;&c_z;&c_g;&c_l;&c_y;&c_j;
+  &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;</trd>
+  <trd lng="sk">nerozumn&yacute; &ccaron;lovek</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5F7B;&#x5E95;&#x7684;&#x9A74; <pr>ch&#xE8;d&#x1D0;del&#xFC;</pr></trd>,
+    <trd>&#x4E07;&#x5168;&#x767D;&#x75F4; <pr>w&#xE0;nqu&#xE1;nb&#xE1;ich&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cerb.osto0o">
+  <kap>osto<tld/>o<fnt>Z</fnt></kap>
+  <snc>
+    <dif>
+      Mola substanco, similanta la <tld/>an substancon kaj entenata en
+      iaj
+      ostoj
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="medol.0o">medolo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_sh;&c_p;&c_ib;&c_k;</trd>
+  <trdgrp lng="br">
+    <trd>mel<klr tip="ind"> (askorn)</klr></trd>,
+    <trd>mel-askorn</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>medul&middot;la &ograve;ssia</trd>,
+    <trd>moll de l'os</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kostn&iacute; d&rcaron;e&ncaron;</trd>,
+    <trd>morek kosti</trd>
+  </trdgrp>
+  <trd lng="de">Knochenmark</trd>
+  <trd lng="el">&my;&epsilon;&delta;&omikron;&ypsilon_ton;&lambda;&jota;</trd>
+  <trd lng="en">marrow</trd>
+  <trd lng="es">m&eacute;dula<klr> &oacute;sea</klr></trd>
+  <trd lng="fr">moelle</trd>
+  <trd lng="he">&tet;&yod;&pe;&shin;</trd>
+  <trd lng="hu">csontvel&odblac;</trd>
+  <trdgrp lng="id">
+    <trd>sumsum</trd>,
+    <trd>medula <klr>(tulang)</klr></trd>
+  </trdgrp>
+  <trd lng="it">midollo</trd>
+  <trd lng="nl">merg</trd>
+  <trd lng="pl">szpik kostny</trd>
+  <trd lng="pt">medula<klr> (&oacute;ssea)</klr></trd>
+  <trd lng="ru">&c_k;&c_o;&c_s;&c_t;&c_n;&c_y;&c_j; &c_m;&c_o;&c_z;&c_g;</trd>
+  <trd lng="sk">kostn&aacute; dre&ncaron;</trd>
+  <trd lng="uk">&#x43A;&c_ib;&c_s;&c_t;&#x43A;&#x43E;&c_v;&c_i;&c_j; &#x43C;&#x43E;&c_z;&#x43E;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x9AD3;&#x9AA8; <pr>su&#x1D0;g&#x1D4;</pr></trd>,
+    <trd>&#x9AD3;&#x8CEA; <pr>su&#x1D0;zh&#xED;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.52 2023/10/28 15:26:48
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.51 2023/10/14 11:10:02
+revo: transskribo per <pr>
+
+versio 1.49 2023/01/29 15:27:58
+Wolfram Diestel: +trd de
+
+versio 1.43 2020/05/04 11:10:31
+Eko Nur Syah Hidayat: korekteto
+
+Revision 1.41  2017/09/10 17:10:14  revo
+Vito Redsky: +trd ro
+
+Revision 1.40  2015/10/09 11:10:14  revo
+Evandro Avellar: +trd pt
+
+Revision 1.39  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.38  2015/06/29 16:29:36  revo
+-->
+</vortaro>

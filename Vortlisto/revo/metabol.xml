@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: metabol.xml,v 1.18 2023/10/19 15:13:16 revo Exp $">
+<kap>
+<rad>metabol</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="metabol.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="metabol.0o.BIO">
+  <uzo tip="fak">BIO</uzo>
+    <dif>
+      La sumo de la procezoj transformantaj &hcirc;emiajn 
+      substancojn (ekz. nutra&jcirc;on, oksigenon) al 
+      inter- kaj finproduktoj en organismo:
+      <ekz>
+        oni supozas, ke prionoj partoprenas <tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2006/008861.php">Nova etapo en biologio kaj medicino</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o kaj fiziologio varias depende de la a&gcirc;o, kio tu&scirc;as anka&ubreve; la
+        koncentritecon de radionuklidoj en diversaj organoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2014/011193.php">Malsama a&gcirc;o, malsamaj riskoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; opinio de la a&ubreve;toro, por ke la <tld/>o de la malgrandaj &hcirc;emiaj molekuloj
+        alkonduku al la apero de vivaj sistemoj, estas necesaj difinitaj kondi&ccirc;oj:
+        devas esti limo inter la loko de la reto de malgrandaj molekuloj kaj la
+        &ccirc;irka&ubreve;anta medio, necesas konstanta alfluo de energio <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2008/009428.php">Lastaj opinioj pri la origino de vivo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="prt">
+      <ref cel="anabol.0o">anabolo</ref>,
+      <ref cel="katabol.0o">katabolo</ref>
+    </refgrp>
+    <ref tip="vid" cel="protop.0o">protoplasmo</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_t;&c_a;&c_b;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="ca">metabolisme</trd>
+  <trdgrp lng="cs">
+    <trd>metabolizmus</trd>,
+    <trd>p&rcaron;em&ecaron;na l&aacute;tkov&aacute;</trd>,
+    <trd>v&yacute;m&ecaron;na l&aacute;tkov&aacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Stoffwechsel</trd>,
+    <trd>Metabolismus</trd>
+  </trdgrp>
+  <trd lng="en">metabolism</trd>
+  <trd lng="es">metabolismo</trd>
+  <trdgrp lng="fa">
+    <trd>&a_s;&a_w;&a_kh;&a_t; &a_w; &a_s;&a_A;&a_z;</trd>,
+    <trd>&a_m;&a_t;&a_A;&a_b;&a_w;&a_l;&f_y;&a_s;&a_m;</trd>
+  </trdgrp>
+  <trd lng="fr">m&eacute;tabolisme</trd>
+  <trd lng="hu">anyagcsere</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7269;&#x8CEA;&#x4EE3;&#x8B1D;  <pr>&#x3076;&#x3063;&#x3057;&#x3064;&#x305F;&#x3044;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x7269;&#x8CEA;&#x4EA4;&#x4EE3;  <pr>&#x3076;&#x3063;&#x3057;&#x3064;&#x3053;&#x3046;&#x305F;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">metabolisme</trd>
+  <trd lng="pt">metabolismo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_m;&c_je;&c_n;
+&c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;</trd>,
+    <trd>&c_m;&c_je;&c_t;&c_a;&c_b;&c_o;&c_l;&c_i;&c_z;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>metabolizmus</trd>,
+    <trd>v&yacute;mena l&aacute;tok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_je;&c_t;&c_a;&c_b;&c_o;&c_l;&c_ib;&c_z;&c_m;</trd>,
+    <trd>&c_o;&c_b;&c_m;&c_ib;&c_n; &c_r;&c_je;&c_ch;&c_o;&c_v;&c_i;&c_n;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.18 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.16 2022/06/29 13:48:51
+Wolfram Diestel: +ref
+
+Revision 1.13  2018/12/03 20:10:23  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.12  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2009/07/14 16:30:25  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.9  2006/08/01 16:32:16  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2005/04/24 16:33:10  revo
+-->
+</vortaro>

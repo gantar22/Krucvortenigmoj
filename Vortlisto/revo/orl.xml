@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: orl.xml,v 1.21 2023/10/20 13:11:48 revo Exp $">
+<kap>
+  <rad>orl</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="orl.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="orl.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Tia kudrita <ref tip="super" cel="fald.0o">faldo</ref> de &scirc;tofpeco, 
+      ke la <ref cel="rand.0o.KOMUNE">rando</ref> de la peco ne plu estas
+      videbla kaj ne riskas diseri&gcirc;i:
+      <ekz>
+        po&scirc;tuko kun lar&gcirc;a <tld/>o;
+      </ekz>
+      <ekz>
+        &scirc;i kun malfacilo penis for&scirc;iri strion de la <tld/>o de sia robo
+        <fnt>
+          <bib>StU</bib>
+          <lok>Britujo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pinto de la piedo <klr>[&#x2026;]</klr> vidi&gcirc;etis sub la <tld/>o de &scirc;ia robo
+        <fnt>
+          <bib>StU</bib>
+          <lok>La Nazaretanoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="border.0ajxo">bordera&jcirc;o</ref>,
+      <ref cel="fald.re0o">refaldo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>lem</trd>,
+    <trd>obruba</trd>,
+    <trd>zahnut&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Saum</trd>
+  <trd lng="en">hem</trd>
+  <trd lng="fr">ourlet</trd>
+  <trd lng="hu">szeg&eacute;ly</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3078;&#x308A;</trd>,
+    <trd>&#x3075;&#x3061;&#x7E2B;&#x3044;  <pr>&#x3075;&#x3061;&#x306C;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">zoom</trd>
+  <trdgrp lng="pl">
+    <trd>obr&eogonek;bek</trd>,
+    <trd>obr&aogonek;bek</trd>,
+    <trd>mere&zdot;ka</trd>,
+    <trd>wywini&eogonek;cie<klr> skraju materia&lstroke;u</klr></trd>
+  </trdgrp>
+  <trd lng="pt">bainha</trd>
+  <trdgrp lng="ru">
+    <trd>&c_sh;&c_o;&c_v;</trd>,
+    <trd>&c_r;&c_u;&c_b;&c_je;&c_c;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lem</trd>,
+    <trd>obruba</trd>,
+    <trd>okraj</trd>
+  </trdgrp>
+  <trd lng="sv">f&aring;ll</trd>
+  <trd lng="uk">&c_r;&c_u;&c_b;&c_je;&c_c;&c_mol; (&c_sh;&c_o;&c_v;)</trd>
+</drv>
+
+<drv mrk="orl.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="orl.0i.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Fari <tld/>on.
+    </dif>
+<ref tip="sin" cel="border.refaldo0i">refaldoborderi</ref>
+    <refgrp tip="vid">
+      <ref cel="border.0i.sxtofon">borderi</ref>,
+      <ref cel="kudr.cxirkaux0i">&ccirc;irka&ubreve;kudri</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>lemovat</trd>,
+    <trd>obroubit</trd>,
+    <trd>zahnout okraje</trd>
+  </trdgrp>
+  <trd lng="de">s&auml;umen</trd>
+  <trd lng="en">hem</trd>
+  <trd lng="fr">ourler</trd>
+  <trd lng="hu">beszeg</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3075;&#x3061;&#x7E2B;&#x3044;&#x3059;&#x308B;  <pr>&#x3075;&#x3061;&#x306C;&#x3044;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x3075;&#x3061;&#x3092;&#x307E;&#x3064;&#x308B;</trd>
+  </trdgrp>
+  <trd lng="nl">zomen</trd>
+  <trdgrp lng="pl">
+    <trd>obr&eogonek;bia&cacute;</trd>,
+    <trd>mere&zdot;kowa&cacute;</trd>,
+    <trd>wywija&cacute; <klr>skraj materia&lstroke;u</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_r;&c_u;&c_b;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_mol;
+    <klr>(&c_m;&c_a;&c_t;&c_je;&c_r;&c_i;&c_ju;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lemova&tcaron;</trd>,
+    <trd>obr&uacute;bi&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">f&aring;lla</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_ib;&c_d;&c_r;&c_u;&c_b;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_ib;&c_d;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_i; (&c_m;&c_a;&c_t;&c_je;&c_r;&c_ib;&c_ju;)</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.19 2023/05/05 13:26:36
+Wolfram Diestel: +ekz, ref
+
+Revision 1.16  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2010/11/04 17:30:50  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.14  2010/08/26 16:30:22  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.13  2010/08/03 16:31:11  revo
+Russ Williams: +trd en
+
+Revision 1.12  2009/03/23 17:30:40  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2006/05/20 16:31:57  revo
+-->
+</vortaro>

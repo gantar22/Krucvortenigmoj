@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: optati.xml,v 1.18 2023/10/20 13:11:48 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>optativ</rad>/o
+</kap>
+<drv mrk="optati.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">GRA</uzo>
+    <dif>
+      Verba modo, ekzistanta en malmultaj lingvoj (malnova greka), kaj
+      uzata por esprimi deziron. En Esperanto la <tld/>o
+      traduki&gcirc;as per u-modo (volitivo) a&ubreve; per <em>se</em>
+      kun kondicionalo:
+      <ekz>
+        vivu la re&gcirc;'!<fnt>Z</fnt>
+      </ekz>
+      <ekz>
+        tiel estu!<fnt>Z</fnt>
+      </ekz>
+      <ekz>
+        ho! se vi estus al mi kiel frato!<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_p;&c_t;&c_a;&c_t;&c_y;&c_w;</trd>,
+    <trd>&c_p;&c_a;&c_zh;&c_a;&c_d;&c_a;&c_n;&c_y; <ind>&c_l;&c_a;&c_d;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>optativ</trd>,
+    <trd>zp&uring;sob p&rcaron;ac&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Optativ</trd>
+  <trd lng="el">&epsilon;&ypsilon;&kappa;&tau;&jota;&kappa;&eta_ton; &epsilon_ton;&gamma;&kappa;&lambda;&jota;&sigma;&eta;</trd>
+  <trd lng="es">optativo</trd>
+  <trd lng="fr">optatif</trd>
+  <trdgrp lng="hu">
+    <trd>&oacute;hajt&oacute; m&oacute;d</trd>,
+    <trd>optativus</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9858;&#x671B;&#x6CD5;  <pr>&#x304C;&#x3093;&#x307C;&#x3046;&#x307B;&#x3046;</pr></trd>,
+    <trd>&#x5E0C;&#x6C42;&#x6CD5;  <pr>&#x304D;&#x304D;&#x3085;&#x3046;&#x307B;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">optatief</trd>
+  <trd lng="pl">optativus  <klr>(tryb &zdot;ycz&aogonek;cy)</klr></trd>
+  <trd lng="pt">optativo</trd>
+  <trd lng="ro">optativus</trd>
+  <trdgrp lng="ru">
+    <trd>&c_zh;&c_je;&c_l;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;
+&c_n;&c_a;&c_k;&c_l;&c_o;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_o;&c_p;&c_t;&c_a;&c_t;&c_i;&c_v;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>optat&iacute;v</trd>,
+    <trd>sp&ocirc;sob re&ccaron;i</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43F;&c_t;&c_a;&c_t;&c_i;&c_v;</trd>,
+    <trd>&c_b;&c_a;&c_zh;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j; &c_s;&#x43F;&#x43E;&c_s;&c_ib;&c_b;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.18 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.16 2023/05/15 13:30:09
+Dmitri Gabinski: + trd be
+
+versio 1.14 2021/08/03 22:29:43
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.12  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/01/05 17:10:12  revo
+Damien Brucker: +trd fr
+
+Revision 1.10  2002/06/02 06:27:11  revo
+Eduardo M. Kalinowski: greka->malnova greka; ald trd el, pt
+
+Revision 1.9  2001/12/10 17:34:07  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2001/12/04 17:32:49  revo
+-->
+</vortaro>

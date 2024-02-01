@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bolard.xml,v 1.21 2023/10/29 19:11:02 revo Exp $">
+<kap>
+  <rad>bolard</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="bolard.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bolard.0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Fera <ref tip="super" cel="palis.0o">paliso</ref> sur kajmuro,
+      uzata por alligi &scirc;ipon:
+      <ekz>
+        la kajomuro estas vertikala muro, kiu disponigas <tld/>ojn a&ubreve; ringojn por ligi
+        la &scirc;ipojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=106260">Kajo (&scirc;ipado)</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi pretis salti surteren kun la kablo, sed &scirc;i prenis &gcirc;in el mia mano kaj ligis
+        &gcirc;in &ccirc;irka&ubreve; la <tld/>o tie
+        <fnt>
+          <aut>Harry Harrison</aut>
+          <vrk><url ref="&LOdE;Rato04.htm">Naski&gcirc;o De La Rustimuna &Scirc;talrato</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bit1.0o.MAR">bito</ref>
+    </refgrp>
+    <adm>
+      Kial "sur kajmuro" kaj ne simple "sur kajo"? <aut>MB</aut>
+    </adm>
+    <trd lng="zh">&#x7CFB;&#x8239;&#x67F1; <pr>x&#xEC;chu&#xE1;nzh&#xF9;</pr></trd>
+</snc>
+  <snc mrk="bolard.0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Survoja paliso barante traveturadon, foje formovebla por ebligi trapason
+      de a&ubreve;toritataj veturiloj:
+      <ekz>
+        barad-<tld/>oj mergeblaj ebligas trapason por veturiloj de polico, fajrobrigado
+        kaj ambulancoj kiel anka&ubreve; por turismaj rondgvidadoj.
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=462576">Lehmann-ponto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_n;&c_e;&c_h;&c_t; <klr tip="amb">(&c_p;&c_r;&c_y;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>bollard</trd>,
+    <trd>pachole</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Poller</trd>,
+    <trd>Vert&auml;uungspfosten</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>bollard</trd>,
+    <trd>mooring-post</trd>
+  </trdgrp>
+  <trd lng="fr">bollard</trd>
+  <trd lng="he">&#x5D1;&#x5D5;&#x5DC;&#x5D0;&#x5E8;&#x5D3;</trd>
+  <trdgrp lng="hu">
+    <trd>kik&ouml;t&odblac;bak</trd>,
+    <trd>kik&ouml;t&odblac;c&ouml;l&ouml;p</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30DC;&#x30E9;&#x30FC;&#x30C9;</trd>
+  <trdgrp lng="pl">
+    <trd>poler</trd>,
+    <trd>pacho&lstroke;<klr> cumowy</klr></trd>,
+    <trd>pacho&lstroke;ek<klr> cumowniczy</klr></trd>,
+    <trd>knecht</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_n;&c_je;&c_h;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>bollard</trd>,
+    <trd>&zcaron;elezn&yacute; k&ocirc;l v pr&iacute;stave</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43A;&#x43D;&#x435;&#x445;&#x442;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.19 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.15  2019/01/22 09:10:15  revo
+Wolfram Diestel: +snc TRA, +ekz-oj
+
+Revision 1.14  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2010/08/27 16:30:24  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.11  2009/03/18 17:32:41  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2004/10/17 16:32:34  revo
+Wolfram Diestel: kor. germ trd
+
+Revision 1.9  2004/07/14 16:31:33  revo
+-->
+</vortaro>

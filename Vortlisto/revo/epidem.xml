@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: epidem.xml,v 1.26 2023/11/07 20:34:11 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>epidemi</rad>/o
+</kap>
+<drv mrk="epidem.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="epidem.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Infekta <ref tip="super" cel="san.mal0o.MED">malsano</ref>
+      samtempe atakanta multajn individuojn en unu loko:
+      <ekz>
+        disvasti&gcirc;is inter ili <tld/>o
+        <fnt><bib>MT</bib>, <lok>&Psa; 106:29</lok></fnt>;
+      </ekz>
+      <ekz>
+        en la tendaro komenci&gcirc;is malsanoj kaj homoj
+        pli timemaj anta&ubreve;vidis grandan
+        <tld/>on
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XLIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gripviruso povas ka&ubreve;zi vastegajn <tld/>ojn,
+        kiuj povas endan&gcirc;erigi la tutan
+        terglobon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2003/008099.html">Birda gripo, &ccirc;u dan&gcirc;era por la homo?</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por &ccirc;esigo de <tld/>o en Honkongo estis
+        ekstermita la tuta kortbirdaro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2003/008099.html">Birda gripo, &ccirc;u dan&gcirc;era por la homo?</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="endemi.0o.MED">endemio<sncref/></ref>,
+      <ref cel="pandemi.0o">pandemio</ref>
+    </refgrp>
+    <trd lng="th">&#xE42;&#xE23;&#xE04;&#xE23;&#xE30;&#xE1A;&#xE32;&#xE14;</trd>
+  </snc>
+  <trd lng="be">&c_e;&c_p;&c_ib;&c_d;&c_e;&c_m;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_je;&c_p;&c_i;&c_d;&c_je;&c_m;&c_i;&c_ja;</trd>
+  <trd lng="ca">epid&egrave;mia</trd>
+  <trd lng="cs">epidemie</trd>
+  <trdgrp lng="de">
+    <trd>Epidemie</trd>,
+    <trd>Seuche</trd>,
+    <trd>Ausbruch <klr>(Krankheit)</klr></trd>
+  </trdgrp>
+  <trd lng="en">epidemic</trd>
+  <trd lng="es">epidemia</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&f_p;&f_y;&a_d;&a_m;&f_y;</trd>,
+    <trd>&a_h;&a_m;&a_h;&zwnj;&f_g;&f_y;&a_r;&f_y;</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;pid&eacute;mie</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D41;&#x884C;&#x6027;&#x4F1D;&#x67D3;&#x75C5;  <pr>&#x308A;&#x3085;&#x3046;&#x3053;&#x3046;&#x305B;&#x3044;&#x3067;&#x3093;&#x305B;&#x3093;&#x3073;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x75AB;&#x75C5;  <pr>&#x3048;&#x304D;&#x3073;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x6D41;&#x884C;&#x75C5;  <pr>&#x308A;&#x3085;&#x3046;&#x3053;&#x3046;&#x3073;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x6D41;&#x884C;  <pr>&#x306F;&#x3084;&#x308A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>epidemie</trd>,
+    <trd>plaag</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>epidemia</trd>,
+    <trd>zaraza</trd>
+  </trdgrp>
+  <trd lng="pt">epidemia</trd>
+  <trd lng="ru">&c_e;&c_p;&c_i;&c_d;&c_je;&c_m;&c_i;&c_ja;</trd>
+  <trd lng="sk">epid&eacute;mia</trd>
+  <trd lng="sv">epidemi</trd>
+  <trd lng="uk">&c_je;&c_p;&c_ib;&c_d;&c_je;&c_m;&c_ib;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x761F; <pr>w&#x113;n</pr></trd>,
+    <trd>&#x75AB;&#x75C5; <pr>y&#xEC;b&#xEC;ng</pr></trd>,
+    <trd>&#x761F;&#x75AB; <pr>w&#x113;ny&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="epidem.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="epidem.0a.MED">
+    <dif>
+      Havanta la ecojn de <tld/>o:
+      <ekz>
+        migradojn obstaklis <klr>[anka&ubreve;]</klr>
+        <tld/>aj malsanoj: malario, disenterio,
+        variolo, flava febro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2004/008160.html">Afriko kaj aidoso</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        abundeco de malariaj kuloj povas konduki al <tld/>a
+        eksplodo de malario
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2007/009243.php">Epidemiaj sekvoj en E&ubreve;ropo</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la risko de HIV-infektado pli multe dependas de konkreta <tld/>a situacio, ol de
+        etnaj kaj naciaj diferencoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2008/009427.php">&Ccirc;u estas homoj rezistaj al aidoso?</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>a idioteco
+        <fnt>
+          <bib>EE</bib>
+          <lok>I</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_p;&c_ib;&c_d;&c_e;&c_m;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_je;&c_p;&c_i;&c_d;&c_je;&c_m;&c_i;&c_ch;&c_je;&c_n;</trd>
+  <trd lng="ca">epid&egrave;mic</trd>
+  <trdgrp lng="de">
+    <trd>epidemisch</trd>,
+    <trd>seuchenhaft</trd>
+  </trdgrp>
+  <trd lng="en">epidemic</trd>
+  <trd lng="es">epid&eacute;mico</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&f_p;&f_y;&a_d;&a_m;&f_y;&f_k;</trd>,
+    <trd>&a_h;&a_m;&a_h;&zwnj;&f_g;&f_y;&a_r;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>contagieux</trd>,
+    <trd>&eacute;pid&eacute;mique</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6D41;&#x884C;&#x6027;&#x306E;  <pr>&#x308A;&#x3085;&#x3046;&#x3053;&#x3046;&#x305B;&#x3044;&#x306E;</pr></trd>,
+    <trd>&#x6D41;&#x884C;&#x75C5;&#x306E;  <pr>&#x308A;&#x3085;&#x3046;&#x3053;&#x3046;&#x3073;&#x3087;&#x3046;&#x306E;</pr></trd>,
+    <trd>&#x4F1D;&#x67D3;&#x6027;&#x306E;  <pr>&#x3067;&#x3093;&#x305B;&#x3093;&#x305B;&#x3044;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">epidemisch</trd>
+  <trd lng="pl">epidemiczny</trd>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_p;&c_i;&c_d;&c_je;&c_m;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_je;&c_p;&c_ib;&c_d;&c_je;&c_m;&c_ib;&c_ch;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x6D41;&#x884C;&#x6027; <pr>li&#xFA;x&#xED;ngx&#xEC;ng</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+versio 1.23 2023/07/17 16:35:27
+Wolfram Diestel: +ekz-oj, ref
+
+versio 1.21 2020/03/16 10:10:31
+Warut Bunprasert: + taja traduko
+
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/02/10 02:10:22  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2012/07/14 09:10:24  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2010/05/16 16:31:09  revo
+-->
+</vortaro>

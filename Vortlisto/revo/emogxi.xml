@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: emogxi.xml,v 1.8 2023/11/07 20:34:10 revo Exp $">
+<kap>
+    <rad>emo&gcirc;i</rad>/o
+</kap>
+<drv mrk="emogxi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="emogxi.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="vid" cel="sign.0o.KOMP">Signo<sncref/></ref>
+      uzebla en ciferecaj tekstoj, kiu aspektas kiel bildeto de viza&gcirc;o, objekto a&ubreve; alia afero:
+      <ekz>
+        la fiksitaj <tld/>oj aperos dekstre de via nomo
+        <fnt>
+          <vrk><url ref="https://ijk2021.tejo.org/stataj-mesagoj/">Stataj mesa&gcirc;oj</url></vrk>
+          <lok>IJK 2021</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la matea <tld/>o estus la unua simbolo de sudamerika deveno kiu eniris la komputilajn
+        klavarojn tra la mondo
+        <fnt>
+          <aut>Fernanda Canofre, trad. Kelli Damacena</aut>
+          <vrk><url ref="https://eo.globalvoices.org/2019/05/4019/">Defende al matea emo&gcirc;io kaj kial
+          &gcirc;i gravas por Sudameriko</url></vrk>
+          <lok>GlobalVoices, 2019-05-11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la taga uzado de <tld/>o pli multas je 45%
+        <fnt>
+          <aut>Xie Ruifeng</aut>,
+          <vrk><url ref="http://www.espero.com.cn/2017-05/19/content_40850630.htm">&Ccirc;u
+          vi jam uzis a&ubreve; planas uzi la pago-servon de
+          WeChat?</url></vrk>,
+          <lok>Espero.com.cn, 2017-05-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="mien.0eto">mieneto, mienvinjeto</ref>
+  </snc>
+  <trd lng="be">&c_e;&c_m;&c_o;&c_d;&c_z;&c_ib;</trd>
+  <trd lng="ca">emoji</trd>
+  <trdgrp lng="cs">
+    <trd>emod&zcaron;i</trd>,
+    <trd>emoji</trd>
+  </trdgrp>
+  <trd lng="de">Emoji</trd>
+  <trd lng="el">&epsilon;&my;&omikron_ton;&tau;&zeta;&jota;</trd>
+  <trd lng="en">emoji</trd>
+  <trd lng="es">emoji</trd>
+  <trd lng="eu">emoji</trd>
+  <trd lng="fa">&a_A;&f_y;&a_m;&a_w;&a_j;&f_y;</trd>
+  <trd lng="fi">emoji</trd>
+  <trdgrp lng="fr">
+    <trd>emoji</trd>,
+    <trd>&eacute;moji</trd>
+  </trdgrp>
+  <trd lng="ga">emoji</trd>
+  <trd lng="he">&alef;&mem;&vav;&gimel;&#x5F3;&yod;</trd>
+  <trd lng="hu">emodzsi</trd>
+  <trd lng="id">emoji</trd>
+  <trd lng="it">emoji</trd>
+  <trd lng="ja">&#x7D75;&#x6587;&#x5B57; <pr>&#x3048;&#x3082;&#x3058;</pr></trd>
+  <trd lng="ko">&#xC5D0;&#xBAA8;&#xC9C0;</trd>
+  <trd lng="nl">emoji</trd>
+  <trd lng="pl">emoji</trd>
+  <trd lng="pt">emoji</trd>
+  <trd lng="ru">&c_e;&c_m;&c_o;&c_d;&c_z;&c_i;</trd>
+  <trd lng="sv">emoji</trd>
+  <trd lng="th">&#xE2D;&#xE34;&#xE42;&#xE21;&#xE08;&#xE34;</trd>
+  <trd lng="tr">emoji</trd>
+  <trd lng="uk">&c_je;&c_m;&c_o;&c_d;&c_z;&c_ib;</trd>
+  <trd lng="zh">&#x8868;&#x60C5;&#x7B26;&#x53F7; <pr>bi&#x1CE;oq&#xED;ngf&#xFA;h&#xE0;o</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+versio 1.6 2023/06/23 09:29:05
+Dmitri Gabinski: + trd be
+
+versio 1.5 2021/12/06 21:29:01
+Wolfram Diestel: +ref
+
+versio 1.4 2021/12/05 17:41:10
+Warut Bunprasert: +trd th
+
+versio 1.3 2021/11/26 17:41:10
+Robin van der Vliet: dif, +fnt
+
+Revision 1.1  2017/11/05 18:10:13  revo
+Robin van der Vliet: nova artikolo
+-->
+</vortaro>

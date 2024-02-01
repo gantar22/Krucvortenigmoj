@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: inklud.xml,v 1.25 2023/11/19 10:22:13 revo Exp $">
+<kap>
+  <rad>inklud</rad>/i
+</kap>
+
+<drv mrk="inklud.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="inklud.0i.inkluzivigi">
+    <dif>
+      <ref tip="dif" cel="inkluz.0igi">Inkluzivigi</ref>:
+      <ekz>
+        ne &ccirc;iuj leksikografoj <tld/>is &gcirc;in en vortaroj<klr>[n]</klr>
+        <fnt><aut>Bernard Golden</aut>:
+          <vrk><url ref="&Monato;/1996/005300.php">Katamito: seksologia faktermino</url></vrk>,
+          <bib>Monato</bib>
+          <lok>1996/12, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la misiistoj lastatempe volas <tld/>i e&ccirc; la gardantojn en la
+        rondon familian &#x2010; &ccirc;u pro kristana amo, &ccirc;u pro taktiko
+        <fnt>
+          <aut>Sten Johansson</aut>: <vrk>Garantiulo</vrk>.
+          <lok>En: Denaska kongresano, ISBN 91-7303-070-0, p.
+          11a.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_c;&c_mol; &c_u; &c_s;&c_ja;&c_b;&c_je;</trd>,
+      <trd>&c_u;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>einschlie&szlig;en</trd>,
+      <trd>einbeziehen</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>inclure<klr tip="ind"> (comporter)</klr></trd>,
+      <trd>comporter<klr tip="ind"> (inclure)</klr></trd>,
+      <trd>comprendre<klr tip="ind"> (inclure)</klr></trd>,
+      <trd>contenir<klr tip="ind"> (inclure)</klr></trd>,
+      <trd>renfermer<klr tip="ind"> (inclure)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>bevesz <klr tip="amb">(vmi k&ouml;z&eacute;)</klr></trd>,
+      <trd>belevesz</trd>,
+      <trd>felvesz <klr tip="amb">(vmibe)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">insluiten</trd>
+    <trdgrp lng="pt">
+      <trd>incluir</trd>,
+      <trd>abranger</trd>,
+      <trd>abarcar</trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_mol;<klr> (&c_v;
+    &c_s;&c_je;&c_b;&c_ja;)</klr></trd>
+  </snc>
+  <snc mrk="inklud.0i.inkluzivi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="dif" cel="inkluz.0i">Inkluzivi</ref>:
+      <ekz>
+        estas &gcirc;ojige, ke &ccirc;i tiu esperanta versio <tld/>as belajn
+        ilustra&jcirc;ojn de <nom>John Tenniel</nom>, kiu<klr>[j]</klr> aperis en la
+        unua angla originalo
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>: <vrk>Inversigita mondo</vrk>.
+          <bib>Monato</bib>
+          <lok>2002/01, p. 25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la katalogo <tld/>as plurajn vortarojn de la iam malestimata skota lingvo
+        <fnt>
+	<aut>Garbhan MacAoidh</aut>
+	<vrk><url ref="&Monato;/2000/006815.php">&Ccirc;u nova &scirc;anco por malfortaj lingvoj?</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 23</lok>
+        </fnt>;
+      </ekz><ekz>
+        <ctl>mondoparto</ctl> estas geografia regiono kiu <tld/>as
+        la apudajn insulojn: E&ubreve;ropo, Azio, Oceanio estas mondopartoj
+        <fnt>
+          <aut>Sergio Pokrovskij</aut>: <vrk>Internaciismo kaj
+          purismo</vrk>.
+          <bib>LOdE</bib>. <lok>2000:10</lok>.
+        </fnt>
+      </ekz>.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_c;&c_mol; <klr>(&c_u; &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>,
+      <trd>&c_d;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>einschlie&szlig;en</trd>,
+      <trd>beinhalten</trd>,
+      <trd>enthalten</trd>
+    </trdgrp>
+    <trd lng="nl">bevatten</trd>
+    <trd lng="ru">&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_mol;<klr> (&c_v;&c_o;
+    &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>obsahovat</trd>,
+    <trd>zahrnovat</trd>
+  </trdgrp>
+  <trd lng="en">include</trd>
+  <trd lng="es">incluir</trd>
+  <trd lng="ja">&#x542B;&#x3093;&#x3067;&#x3044;&#x308B;  <pr>&#x3075;&#x304F;&#x3093;&#x3067;&#x3044;&#x308B;</pr></trd>
+  <trdgrp lng="sk">
+    <trd>obsahova&tcaron;</trd>,
+    <trd>zahrnova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5167;&#x542B; <pr>n&#xE8;ih&#xE1;n</pr></trd>,
+    <trd>&#x5305;&#x62EC; <pr>b&#x101;oku&#xF2;</pr></trd>,
+    <trd>&#x5305;&#x7F57; <pr>b&#x101;olu&#xF3;</pr></trd>,
+    <trd>&#x542B;&#x62EC; <pr>h&#xE1;ngu&#x101;</pr></trd>,
+    <trd>&#x56CA;&#x62EC; <pr>n&#xE1;ngku&#xF2;</pr></trd>,
+    <trd>&#x62EC; <pr>ku&#xF2;</pr></trd>,
+    <trd>&#x6536;&#x5217; <pr>sh&#x14D;uli&#xE8;</pr></trd>,
+    <trd>&#x5F52;&#x5165; <pr>gu&#x12B;r&#xF9;</pr></trd>,
+    <trd>&#x6DB5; <pr>h&#xE1;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+  <!--
+  $Log$
+versio 1.24 2023/11/17 09:26:18
+Dmitri Gabinski: + trd be
+
+versio 1.23 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.21 2023/05/11 06:30:56
+Paul Peeraerts: + lok + url
+
+versio 1.20 2023/04/24 08:32:30
+Paul Peeraerts: @Sxteloj -> @Monato
+
+versio 1.19 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2022/03/23 05:40:27
+Noam Mohr: +trd en inkludi
+
+  Revision 1.15  2015/07/04 08:37:36  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.14  2015/06/29 16:33:15  revo
+-->
+</vortaro>

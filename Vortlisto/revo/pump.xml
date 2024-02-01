@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pump.xml,v 1.39 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pump</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="pump.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pump.0i.KOMUNE">
+    <dif>
+      Altiri a&ubreve; repu&scirc;i <ref cel="flu.0ajxo">flua&jcirc;o</ref>n a&ubreve; gason per 
+      tiucela aparato a&ubreve; organo:
+      <ekz>
+        ma&scirc;inoj vaporaj, <tld/>antaj la akvon en la kvanto de 135&#x202F;000 litroj en minuto
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li sen&gcirc;ene komencis <tld/>i la fluida&jcirc;on kaj <klr>[&#x2026;]</klr> &gcirc;ia odoro pruvis
+        benzinon
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Doroteo <tld/>is la sitelon plena de frideta dol&ccirc;a lakto kaj
+        avide trinkis &gcirc;in
+        <fnt>
+          <aut>L. Frank Baum, trad. D. Broadribb</aut>
+          <vrk>La Smeralda Urbo de Oz</vrk>
+          <lok>&ccirc;apitro 17a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni komencis &ccirc;erpi trinkeblan akvon <klr>[&#x2026;]</klr> por la najbaraj vila&gcirc;oj pere
+        de <tld/>stacio
+        <fnt>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2011/010212.php">La marmora groto Gadime</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/07, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li kun granda intereso vidis unuafoje sian propran <ref cel="kor.0o.ANA">koro</ref>n 
+        <tld/>antan kvaza&ubreve; je televidekrano
+        <fnt>
+          <aut>David Curtis</aut>
+          <vrk><url ref="&Monato;/2002/pdf/monato200201.pdf#page=28">Koratako</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/01, p. 28</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        tiuj infanoj tiom <tld/>as mian nervan energion ke mi sentas emon ilin mortigi
+        <fnt>
+          <bib>ChB</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="blov.0i.tr">blovi<sncref/></ref>,
+      <ref cel="cxerp.0i.KOMUNE">&ccirc;erpi<sncref/></ref>,
+      <ref cel="prem.0i.pusxi">premi<sncref/></ref>,
+      <ref cel="sucx.0i">su&ccirc;i</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_m;&c_p;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_o;&c_m;&c_p;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>k&yacute;vat</trd>,
+    <trd>pumpovat</trd>,
+    <trd>&ccaron;erpat</trd>
+  </trdgrp>
+  <trd lng="de">pumpen</trd>
+  <trd lng="en">pump</trd>
+  <trdgrp lng="es">
+    <trd>bombear</trd>
+    <trd>comprimir</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_t;&a_l;&a_m;&a_b;&a_h; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&f_p;&a_m;&f_p;&a_A;&f_zh; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">pomper</trd>
+  <trdgrp lng="hu">
+    <trd>szivatty&uacute;z</trd>,
+    <trd>pump&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5438;&#x3044;&#x4E0A;&#x3052;&#x308B;  <pr>&#x3059;&#x3044;&#x3042;&#x3052;&#x308B;</pr></trd>,
+    <trd>&#x304F;&#x307F;&#x4E0A;&#x3052;&#x308B;  <pr>&#x304F;&#x307F;&#x3042;&#x3052;&#x308B;</pr></trd>,
+    <trd>&#x9001;&#x308A;&#x8FBC;&#x3080;  <pr>&#x304A;&#x304F;&#x308A;&#x3053;&#x3080;</pr></trd>,
+    <trd>&#x5165;&#x308C;&#x308B;  <pr>&#x3044;&#x308C;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">pompen</trd>
+  <trd lng="pl">pompowa&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>bombear <klr>(fluido)</klr></trd>,  
+    <trd>aspirar</trd>
+  </trdgrp>
+  <trd lng="ro">pompa</trd>
+  <trd lng="ru">&c_k;&c_a;&c_ch;&c_a;&c_t;&c_mol; <klr tip="amb">(&c_n;&c_a;&c_s;&c_o;&c_s;&c_o;&c_m;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>napumpova&tcaron;</trd>,
+    <trd>&ccaron;erpa&tcaron; <klr>(pumpou)</klr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_k;&c_a;&c_ch;&c_a;&c_t;&c_i; (&c_n;&c_a;&c_s;&c_o;&c_s;&c_o;&c_m;)</trd>
+</drv>
+
+<drv mrk="pump.0ilo">
+  <kap><tld/>ilo</kap>
+  <uzo tip="fak">MAS</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="aparat.0o.TEK">Aparato</ref> por <tld/>i:
+      <ekz>
+        &scirc;i apena&ubreve; povas treni sin mem, kaj devas tamen porti ankora&ubreve; la sitelon de la
+        <tld/>ilo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malgranda Tuk</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi memoras anka&ubreve;, kiel akvo frosti&gcirc;is en la 
+        <tld/>ilo
+        <fnt>
+          <aut>Emil</aut>,
+          <vrk>Decidema mi &ccirc;iam estas</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la masto rompi&gcirc;is, unu ondego trabatis tabulon, la <tld/>iloj estis senefikaj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kolo de botelo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        elektra <tld/>ilo <klr>[&#x2026;]</klr> tiris akvon el puto al rezervujo lokita supre
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>akvobata <tld/>ilo</ind> estas <tld/>ilo kiu levas akvon per la propra energio de la
+        akvo fluanta en tubo
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2001/007230.php">Hidra&ubreve;liko: Akvobata
+          pumpilo &ndash; forgesita sed utiligebla</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/07, p. 18</lok>
+        </fnt>;
+        <trdgrp lng="de">
+          <trd>hydraulischer <ind>Widder</ind></trd>
+          <trd>Wasserwidder</trd>
+        </trdgrp>
+        <trd lng="en">hydraulic ram</trd>
+        <trd lng="fr">b&eacute;lier hydraulique</trd>
+        <trd lng="ru">&c_g;&c_i;&c_d;&c_r;&c_o;&c_t;&c_a;&c_r;&c_a;&c_n;&c_n;&c_y;&c_j; &c_n;&c_a;&c_s;&c_o;&c_s;</trd>
+      </ekz>
+      <ekz>
+        li prenis etan <tld/>ilon, per kiu li tu&scirc;is al mia okulo kaj en<tld/>is miajn
+        larmojn, poste &scirc;prucigis ilin en miniaturan botelon
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li vestas sin kaj preparas sian <ind>stomak<tld/>ilo</ind>n
+        <fnt>
+          <bib>KrB</bib>
+        </fnt>;
+        <trd lng="de">Magenpumpe</trd>
+      </ekz>
+      <ekz>
+        en la aorton oni kro&ccirc;is tubon, kiu kontakti&gcirc;is kun varmigita elektra <tld/>ilo,
+        poste <klr>[&#x2026;]</klr> la <tld/>ilo subtenis tra tagoj la sangocirkuladon
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ilia domo, en anta&ubreve;urbo de Stokholmo, estas hejtata ekskluzive per varm<tld/>ilo
+        en la kelo
+        <fnt>
+          <bib>MD17</bib>
+          <vrk><url ref="&Tekstaro;?nomo=mondediplo-2017">Ser&ccirc;ante la svedan ekologian
+          modelon</url></vrk>
+        </fnt>.
+        <trd lng="de">W&auml;rmepumpe</trd>
+      </ekz>
+    </dif>
+  </snc>
+<!--
+  <snc>
+    <dif>
+      Analoga aparato, uzata por plidensigi a&ubreve; plimaldensigi 
+      gason en ujo.
+    </dif>
+  </snc>
+-->
+  <trdgrp lng="be">
+    <trd>&c_p;&c_o;&c_m;&c_p;&c_a;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_o;&c_s;</trd>,
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_r;&c_e;&c_s;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_o;&c_m;&c_p;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>pumpa</trd>,
+    <trd>v&yacute;v&ecaron;va</trd>,
+    <trd>&ccaron;erpadlo</trd>
+  </trdgrp>
+  <trd lng="de">Pumpe</trd>
+  <trd lng="en">pump</trd>
+  <trdgrp lng="es">
+    <trd>bomba</trd>
+    <trd>compresor</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_t;&a_l;&a_m;&a_b;&a_h;</trd>,
+    <trd>&f_p;&a_m;&f_p;</trd>
+  </trdgrp>
+  <trd lng="fr">pompe</trd>
+  <trdgrp lng="hu">
+    <trd>szivatty&uacute;</trd>,
+    <trd>pumpa</trd>
+  </trdgrp>
+  <trd lng="nl">pomp</trd>
+  <trd lng="pl">pompa</trd>
+  <trd lng="ro">pompeaz&abreve;</trd>
+  <trd lng="ru">&c_n;&c_a;&c_s;&c_o;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>pumpa</trd>,
+    <trd>&ccaron;erpadlo</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_s;&c_o;&c_s;</trd>,
+    <trd>&c_p;&c_o;&c_m;&c_p;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pump.aer0ilo">
+  <kap>aer<tld/>ilo</kap>
+  <snc mrk="pump.aer0ilo.MAS">
+    <uzo tip="fak">MAS</uzo>
+    <dif>
+      Aparato por <tld/>i aeron:
+      <ekz>
+        granda merito de <nom>Otto von Guericke</nom> estas la invento de la aer<tld/>ilo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3293">Otto von Guericke</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li komencis per blovado &mdash; per siaj ma&scirc;inoj kaj
+        aer<tld/>iloj &mdash; kiu faris plurajn grandajn sapovezikojn
+        <fnt>
+          <aut>L. Frank Baum, trad. D. Broadribb</aut>:
+          <vrk>La Vojo al Oz</vrk>,
+          <lok>&ccirc;apitro 24a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_v;&c_je;&c_t;&c_r;&c_a;&c_n;&c_y; <ind>&c_n;&c_a;&c_s;&c_o;&c_s;</ind></trd>,
+    <trd>&c_p;&c_o;&c_m;&c_p;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_v;&c_malmol;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_a; &c_p;&c_o;&c_m;&c_p;&c_a;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_r;&c_je;&c_s;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hustilka</trd>,
+    <trd>kompresor</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Luftpumpe</trd>,
+    <trd>Kompressor</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>air <ind>pump</ind></trd>
+    <trd>compressor</trd>
+   </trdgrp>
+  <trd lng="es">compresor</trd>
+  <trdgrp lng="fa">
+    <trd>&a_t;&a_l;&a_m;&a_b;&a_h;&a_hamza_sure; &a_b;&a_A;&a_d;</trd>,
+    <trd>&f_p;&a_m;&f_p; &a_b;&a_A;&a_d;</trd>
+  </trdgrp>
+  <trd lng="fr">compresseur</trd>
+  <trd lng="hu">l&eacute;gszivatty&uacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7A7A;&#x6C17;&#x30DD;&#x30F3;&#x30D7;  <pr>&#x304F;&#x3046;&#x304D;&#x30DD;&#x30F3;&#x30D7;</pr></trd>,
+    <trd>&#x6392;&#x6C17;&#x30DD;&#x30F3;&#x30D7;  <pr>&#x306F;&#x3044;&#x304D;&#x307D;&#x3093;&#x3077;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">persluchtmachine</trd>
+  <trd lng="pl">pompa powietrzna</trd>
+  <trd lng="ro">pomp&abreve; de aer</trd>
+  <trd lng="ru">&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j; &c_n;&c_a;&c_s;&c_o;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>hustilka</trd>,
+    <trd>kompresor</trd>,
+    <trd>pumpa</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_v;&c_ib;&c_t;&c_r;&c_ja;&c_n;&c_i;&c_j; &c_n;&c_a;&c_s;&c_o;&c_s;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_r;&c_je;&c_s;&c_o;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pump.Aer0ilo">
+  <kap>Aer<tld/>ilo
+    <fnt>
+      <aut>D. Galad&iacute;-Enr&iacute;quez, A. Wandel</aut>
+      <vrk>La kosmo kaj ni</vrk>
+      <lok>2005</lok>
+    </fnt>, <var><kap><tld lit="P"/>ilo</kap></var></kap>
+  <mlg>Ant</mlg>
+  <snc mrk="pump.Aer0ilo.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Sud-hemisfera 
+      <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref>
+      (<trd lng="la">Antlia</trd>):
+      <ekz>
+        NGC 2973 estas triopa stelo en konstelacio <tld lit="P"/>ilo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=112914">NGC 2973</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Luftpumpe <klr>(Sternbild)</klr></trd>
+  <trd lng="en">Antlia</trd>
+  <trd lng="es">M&aacute;quina Neum&aacute;tica</trd>
+  <trd lng="fa">&a_t;&a_l;&a_m;&a_b;&a_h;<klr tip="amb"> (&a_S;&a_w;&a_r;&a_t;
+  &a_f;&a_l;&f_k;&f_y;)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>Machine pneumatique<klr tip="ind"> (constellation)</klr></trd>,
+    <trd>Antlia</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30DD;&#x30F3;&#x30D7;  <pr>&#x307D;&#x3093;&#x3077;</pr></trd>,
+    <trd>&#x63DA;&#x6C34;&#x5668;  <pr>&#x3088;&#x3046;&#x3059;&#x3044;&#x3046;&#x3064;&#x308F;</pr></trd>,
+    <trd>&#x5727;&#x7E2E;&#x5668;  <pr>&#x3042;&#x3063;&#x3057;&#x3085;&#x304F;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">Luchtpomp<klr tip="ind"> (sterrenbeeld)</klr></trd>
+  <trd lng="pl">Pompa  <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">Ma&#x219;ina Pneumatic&abreve;  <klr>(constela&#x21B;ie)</klr></trd>
+</drv>
+
+<drv mrk="pump.benzin0ilo">
+  <kap>
+    benzin<tld/>ilo
+  </kap>
+  <snc mrk="pump.benzin0ilo.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      Pumpilo, kiu pumpas benzinon el kuvego, por provizi &gcirc;in
+      ekzemple al a&ubreve;toj en benzinejo:
+      <ekz>
+        la teksto sur la benzin<tld/>ilo estas plu en la ukraina,
+        sed la prezoj kompreneble estas en rubloj
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>
+          <vrk>Krimeo estas nia</vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">pompe &agrave; essence</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D66;&#x6CB9;&#x30DD;&#x30F3;&#x30D7;  <pr>&#x304D;&#x3085;&#x3046;&#x3086;&#x307D;&#x3093;&#x3077;</pr></trd>,
+    <trd>&#x30AC;&#x30BD;&#x30EA;&#x30F3;&#x30DD;&#x30F3;&#x30D7;</trd>
+  </trdgrp>
+  <trd lng="pl">dystrybutor benzyny</trd>
+  <trd lng="ro">distribuitor de benzin&abreve;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.39 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.37 2023/05/14 06:29:35
+Paul Peeraerts: + aut + lok + url
+
+versio 1.36 2023/05/06 14:26:04
+revo: aktualigo URL-unuoj
+
+versio 1.35 2022/10/13 22:39:09
+Vito Redsky: +trd pl + trd ro
+
+versio 1.34 2022/08/20 21:28:38
+Jeromo Vasxe: + benzin~ilo
+
+versio 1.33 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.30 2021/12/06 08:36:29
+Dmitri Gabinski: + trd be
+
+versio 1.29 2021/08/21 14:24:36
+-->
+</vortaro>

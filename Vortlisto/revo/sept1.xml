@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: sept1.xml,v 1.6 2023/10/21 06:31:44 revo Exp $">
+    <kap>
+      <rad>sept</rad>/o
+    </kap>
+
+<drv mrk="sept1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sept1.0o.vando">
+    <uzo tip="fak">ANA</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="vand.0o.ANA">Vando<sncref/></ref>:
+      <ekz>
+        en la pulmo de la reptilioj formi&gcirc;as pli kaj pli <tld/>o en la
+        centra kaverno, tiel efike grandi&gcirc;as la spirsurfaco
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=27358">Spiro</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <klr>[naza]</klr> <tld/>o estas truigita per dorno kaj ili
+        trapu&scirc;as tra &gcirc;i sen&ccirc;ese pli kaj pli fortajn bran&ccirc;etojn, &gcirc;is
+        kiam la aperturo estas sufi&ccirc;e granda por la apra dentego
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=82231">Danioj</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      <ref tip="hom" cel="sept.0o">Septo</ref> estas anka&ubreve; muzika
+      intervalo.
+    </rim>
+<!-- ne traduki evitindajn sencojn..., &ccirc;u vere estas evitinda?
+    <trdgrp lng="de">
+      <trd>Scheide<klr>(wand)</klr></trd>,
+      <trd>Zwischenwand</trd>,
+      <trd>Trennwand</trd>
+    </trdgrp>
+    <trd lng="ca">septe</trd>
+    <trd lng="it">setto</trd>
+-->
+  </snc>
+  <trdgrp lng="en">
+    <trd>partition</trd>,
+    <trd>septum</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E2D;&#x9694;  <pr>&#x3061;&#x3085;&#x3046;&#x304B;&#x304F;</pr></trd>,
+    <trd>&#x9694;&#x58C1;  <pr>&#x304B;&#x304F;&#x3078;&#x304D;</pr></trd>,
+    <trd>&#x9694;&#x819C;  <pr>&#x304B;&#x304F;&#x307E;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x435;&#x43F;&#x442;&#x430;&#x43A;&#x43E;&#x440;&#x434;</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x435;&#x433;&#x43E;&#x440;&#x43E;&#x434;&#x43A;&#x430;</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x435;&#x434;&#x456;&#x43B;&#x43A;&#x430;</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x435;&#x431;&#x456;&#x440;&#x43A;&#x430;</trd>
+  </trdgrp>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.6 2023/10/21 06:31:44
+revo: transskribo per <pr>
+
+versio 1.3 2022/03/23 03:41:12
+Noam Mohr: +trd en septo
+
+Revision 1.1  2018/06/03 20:10:19  revo
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

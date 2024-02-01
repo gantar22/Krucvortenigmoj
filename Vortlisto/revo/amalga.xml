@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: amalga.xml,v 1.22 2023/10/12 18:05:09 revo Exp $">
+<kap>
+  <rad>amalgam</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="amalga.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      Kombini hidrargon kun aliaj metaloj je alojo:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <nom>Dante Alighieri</nom> <klr>[&#x2026;]</klr> verkis la Komedion en lingva&jcirc;o kiun li nomis
+        &leftquot;itala&rightquot;, iasence <tld/>ita literatura lingvo <esc>plejparte</esc> bazita sur la regiona
+        dialekto de Toskanio, sed kun kelkaj elementoj de la latina kaj aliaj
+        regionaj dialektoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=796">Dante Alighieri</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_m;&c_a;&c_l;&c_mol;&c_g;&c_a;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_a;&c_v;&c_ja; <ind>&c_a;&c_m;&c_a;&c_l;&c_g;&c_a;&c_m;&c_a;</ind></trd>
+  <trd lng="cs">vytvo&rcaron;it amalg&aacute;m</trd>
+  <trdgrp lng="de">
+    <trd>mit Quecksilber <ind>legieren</ind></trd>,
+    <trd>amalgamieren</trd>
+  </trdgrp>
+  <trd lng="en">amalgamate</trd>
+  <trd lng="fr">amalgamer</trd>
+  <trdgrp lng="hu">
+    <trd>amalg&aacute;moz</trd>,
+    <trd>foncsoroz</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30A2;&#x30DE;&#x30EB;&#x30AC;&#x30E0;&#x3092;&#x4F5C;&#x308B;  <pr>&#x30A2;&#x30DE;&#x30EB;&#x30AC;&#x30E0;&#x3092;&#x3064;&#x304F;&#x308B;</pr></trd>
+  <trd lng="nl">amalgameren</trd>
+  <trd lng="ru">&c_a;&c_m;&c_a;&c_l;&c_mol;&c_g;&c_a;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>amalgamova&tcaron;</trd>,
+    <trd>sp&aacute;ja&tcaron; kovy ortu&tcaron;ou</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="amalga.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="aloj.0o">Alojo</ref> de <ref tip="prt" cel="hidrar.0o">hidrargo</ref>,
+      i.a. uzata por &scirc;topi dentodifektojn:
+      <ekz>
+        la alkalaj metaloj formas <tld/>on facile kun la hidrargo, oni faras &gcirc;in el la
+        malpli facile <tld/>antaj metaloj per elektrolita metodo, kiam oni
+        elektrolizas la solva&jcirc;on de la metala salo per hidrarga katodo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=35620">Amalgamo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_m;&c_a;&c_l;&c_mol;&c_g;&c_a;&c_m;&c_a;</trd>
+  <trd lng="bg">&c_a;&c_m;&c_a;&c_l;&c_g;&c_a;&c_m;&c_a;</trd>
+  <trd lng="cs">amalg&aacute;m</trd>
+  <trdgrp lng="de">
+    <trd>Quecksilberlegierung</trd>,
+    <trd>Amalgam</trd>
+  </trdgrp>
+  <trd lng="en">amalgam</trd>
+  <trd lng="es">amalgama</trd>
+  <trdgrp lng="fa">
+    <trd>&a_m;&a_l;&a_gh;&a_m;&a_h;</trd>,
+    <trd>&a_A_madda;&a_m;&a_A;&a_l;&f_g;&a_A;&a_m;</trd>
+  </trdgrp>
+  <trd lng="fr">amalgame</trd>
+  <trdgrp lng="he">
+    <trd>&#x5D0;&#x5B2;&#x5DE;&#x5B7;&#x5DC;&#x5B0;&#x5D2;&#x5B7;&#x5DE;&#x5B8;&#x5D4;</trd>,
+    <trd>&#x5E1;&#x5D2;&#x5E1;&#x5D5;&#x5D2;&#x5EA; &#x5DB;&#x5E1;&#x5E4;&#x5D9;&#x5EA;
+    &#x5D5;&#x5DE;&#x5EA;&#x5DB;&#x5EA;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>amalg&aacute;m</trd>,
+    <trd>foncsor</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30A2;&#x30DE;&#x30EB;&#x30AC;&#x30E0;</trd>
+  <trd lng="nl">amalgaam</trd>
+  <trd lng="ru">&c_a;&c_m;&c_a;&c_l;&c_mol;&c_g;&c_a;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>amalg&aacute;m</trd>,
+    <trd>mie&scaron;anina ortuti s kovmi</trd>
+  </trdgrp>
+  <trd lng="uk">&c_a;&#x43C;&c_a;&#x43B;&#x44C;&c_gu;&c_a;&#x43C;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.20 2022/03/16 16:54:16
+Wolfram Diestel: kor. trd
+
+Revision 1.16  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/08/02 13:10:11  revo
+Joop Eggen: +trd bg
+
+Revision 1.13  2011/07/31 06:10:08  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2009/08/18 19:19:21  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.11  2003/11/01 17:31:43  revo
+-->
+</vortaro>

@@ -1,0 +1,654 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: determ.xml,v 1.131 2023/11/04 13:16:27 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>determin</rad>/i
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="determ.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="determ.0i.KOMUNE">
+    <dif>
+      Precize fiksi ion necertan:
+      <ekz>
+        <tld/>i la sencon de iu vorto,
+        la ka&ubreve;zon de iu akcidento,
+        la distancon inter luno kaj tero,
+        la motivojn de ago,
+      </ekz>
+      <ekz>
+        <tld/>i la specon de fungo
+        <fnt>
+          <vrk><url ref="&STEB;agrikulturo/kiamaniere_distingi_fungojn/kiamaniere_distingi_fungojn.htm">Kiamaniere
+          distingi la fungojn? &#x2010; manlibro por
+              kolektantoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne povis <tld/>i la punkton, kie la fikcioj aparti&gcirc;is
+        de la reala&jcirc;oj
+        <fnt><aut>J.-J. Rousseau trad. A. Gilles</aut>
+        <vrk>La revadoj de soleca promenanto</vrk>
+        <lok>Kvina promenado</lok></fnt>;
+      </ekz>
+      <ekz>
+        la ordo de la nukleotidoj de RNA estas <tld/>ita de la vicordo
+        de aliaj
+        nukleotidoj en la geno mem
+       <fnt>
+          <aut>Ste&ccirc;jo Norvell</aut>
+          <vrk><url ref="&Monato;/2000/007157.html">Riboj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 16-17</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        kompari tion kion oni spektas kun la &scirc;ablonoj por <tld/>i, kion
+        oni spektis
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hektor Alos i Font</aut>
+          <vrk><url ref="&Monato;/2003/008062.html">Spektantoj spektataj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni instalis birilojn, aparatetojn, kiuj povas <tld/>i, kie la
+        a&ubreve;to trovi&gcirc;as
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Peeraerts</aut>
+          <vrk><url ref="&Monato;/2004/008419.html">Birada sistemo helpas pli kaj pli
+          da &scirc;oforoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Hundertwasser</nom> determinis la uzadon de rekta linio en
+        la arto kiel &leftquot;instrumenton
+        de l' diablo&rightquot;
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+            <vrk><url ref="&Monato;/2000/007014.php">Orfi&gcirc;inta beleco</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/07, p. 12</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">EVI</uzo>
+        tio, kio plej <tld/>is min <klr>(senhezitigis min)</klr> en tiu
+        klopodado, estis la timo al <klr>[ilia malbona]</klr> destino
+        <fnt><aut>J.-J. Rousseau trad. A. Gilles</aut>
+        <vrk>La revadoj de soleca promenanto</vrk>
+        <lok>Na&ubreve;a promenado</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="trov.el0i">eltrovi</ref>
+    <refgrp tip="vid">
+      <ref cel="decid.0i">decidi</ref>,
+      <ref cel="destin.0i">destini</ref>,
+      <ref cel="difin.0i">difini</ref>
+    </refgrp>
+    <trd lng="ca">determinar</trd>
+    <trdgrp lng="fr">
+      <trd>d&eacute;terminer</trd>,
+      <trd>d&eacute;finir</trd>,
+      <trd>fixer</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>meghat&aacute;roz</trd>,
+      <trd>determin&aacute;l</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>determinowa&cacute;</trd>,
+      <trd>okre&sacute;la&cacute;</trd>,
+      <trd>ustala&cacute;</trd>,
+      <trd>wyznacza&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_ja;&c_t;&c_mol;</trd>,
+      <trd>&c_u;&c_s;&c_t;&c_a;&c_n;&c_a;&c_v;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <adm>
+      Se la esprimo "~i iun fari ion&leftquot; ne estas francismo, indus
+      modifi la difinon, por ke &gcirc;i validu anka&ubreve; por tiu.
+      <aut>MB</aut>
+    </adm>
+    <adm>
+      Mi ja opinias ke uzi &rightquot;determini" en la senco "decidigi"
+      estas francajxo, kaj ke la ekzemplo estas neimitenda kaj
+      tial forigenda.
+      <aut>Sergio</aut>
+    </adm>
+    <trd lng="zh">&#x91C6; <pr>bi&#xE0;n</pr></trd>
+</snc>
+  <snc mrk="determ.0i.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Pliprecizigi la sencon de apuda frazero:
+      <ekz>
+        la artikolo <tld/>as la substantivon;
+      </ekz>
+      <ekz>
+        verbo <tld/>ita de adverbo;
+      </ekz>
+      <ekz>
+        <ind><tld/>a</ind> adjektivo.
+        <trd lng="fr">d&eacute;terminatif</trd>
+      </ekz>
+    </dif>
+    <trd lng="fr">d&eacute;terminer<klr tip="ind"> (gramm.)</klr></trd>
+    <trd lng="hu">meghat&aacute;roz<klr tip="ind">
+    (nyelvtanilag)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>determnowa&cacute;</trd>,
+      <trd>okre&sacute;la&cacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  </snc>
+  <trd lng="af">bepaal</trd>
+  <trd lng="am">&#x1218;&#x12C8;&#x1230;&#x1295;</trd>
+  <trd lng="ar">&#x62D;&#x62F;&#x62F;</trd>
+  <trd lng="az">m&#xFC;&#x259;yy&#x259;n</trd>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_i;</trd>
+  <trd lng="bn">&#x9A8;&#x9BF;&#x9B0;&#x9CD;&#x9A7;&#x9BE;&#x9B0;&#x9A3;</trd>
+  <trd lng="bs">odredi</trd>
+  <trd lng="co">ditarminendu</trd>
+  <trdgrp lng="cs">
+    <trd>determinovat</trd>,
+    <trd>ur&ccaron;ovat</trd>,
+    <trd>vymezit</trd>
+  </trdgrp>
+  <trd lng="cy">penderfynu</trd>
+  <trd lng="da">bestemme</trd>
+  <trd lng="de">bestimmen</trd>
+  <trd lng="es">determinar</trd>
+  <trd lng="et">kindlaks</trd>
+  <trd lng="eu">zehazteko</trd>
+  <trd lng="fy">bepale</trd>
+  <trd lng="ga">chinneadh</trd>
+  <trd lng="gd">dearbhadh</trd>
+  <trd lng="gl">determinar</trd>
+  <trd lng="gu">&#xAA8;&#xA95;&#xACD;&#xA95;&#xAC0;</trd>
+  <trd lng="ha">&#x199;ayyade</trd>
+  <trd lng="he">&#x5DC;&#x5E7;&#x5D1;&#x5D5;&#x5E2;</trd>
+  <trd lng="hi">&#x928;&#x93F;&#x930;&#x94D;&#x927;&#x93E;&#x930;&#x93F;&#x924;</trd>
+  <trd lng="hmn">txiav txim</trd>
+  <trd lng="hr">utvrdilo</trd>
+  <trd lng="ht">det&#xE8;mine</trd>
+  <trd lng="hy">&#x578;&#x580;&#x578;&#x577;&#x565;&#x56C;</trd>
+  <trd lng="ig">ch&#x1ECD;p&#x1EE5;ta</trd>
+  <trd lng="is">&#xE1;kvar&#xF0;a</trd>
+  <trd lng="ja">&#x6C7A;&#x5B9A;&#x3059;&#x308B; <pr>&#x3051;&#x3063;&#x3066;&#x3044;&#x3059;&#x308B;</pr></trd>
+  <trd lng="jv">nemtokake</trd>
+  <trd lng="ka">&#x10D2;&#x10D0;&#x10DC;&#x10E1;&#x10D0;&#x10D6;&#x10E6;&#x10D5;&#x10E0;&#x10D0;&#x10D5;&#x10E1;</trd>
+  <trd lng="kk">&c_a;&#x43D;&#x44B;&#x49B;&c_t;&c_a;&c_u;</trd>
+  <trd lng="km">&#x1780;&#x17C6;&#x178E;&#x178F;&#x17CB;</trd>
+  <trd lng="kn">&#xCA8;&#xCBF;&#xCB0;&#xCCD;&#xCA7;&#xCB0;&#xCBF;&#xCB8;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xACB0;&#xC815;</trd>
+  <trd lng="ku">binavkirin</trd>
+  <trd lng="ky">&c_b;&c_je;&#x43B;&c_g;&c_i;&#x43B;&#x4E9;&#x4E9;</trd>
+  <trd lng="lat">statuere</trd>
+  <trd lng="lo">&#xE81;&#xEB2;&#xE99;&#xE81;&#xECD;&#xEB2;&#xE99;&#xEBB;&#xE94;</trd>
+  <trd lng="lt">nustatyti</trd>
+  <trd lng="lv">noteikt</trd>
+  <trd lng="mg">mamaritra</trd>
+  <trd lng="mi">whakatau</trd>
+  <trd lng="mk">&c_u;&c_t;&c_v;&c_r;&c_d;&c_i;</trd>
+  <trd lng="ml">&#xD24;&#xD40;&#xD30;&#xD41;&#xD2E;&#xD3E;&#xD28;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_t;&#x43E;&c_d;&#x43E;&c_r;&c_h;&#x43E;&c_j;&#x43B;&#x43E;&c_h;</trd>
+  <trd lng="mr">&#x928;&#x93F;&#x930;&#x94D;&#x927;&#x93E;&#x930;&#x93F;&#x924;</trd>
+  <trd lng="ms">menentukan</trd>
+  <trd lng="mt">jiddeterminaw</trd>
+  <trd lng="my">&#x101E;&#x1010;&#x103A;&#x1019;&#x103E;&#x1010;&#x103A;</trd>
+  <trd lng="ne">&#x928;&#x93F;&#x930;&#x94D;&#x927;&#x93E;&#x930;&#x93F;&#x924;</trd>
+  <trdgrp lng="nl">
+    <trd>bepalen</trd>,
+    <trd>vaststellen</trd>
+  </trdgrp>
+  <trd lng="ny">kudziwa</trd>
+  <trd lng="pa">&#xA2A;&#xA24;&#xA3E; &#xA15;&#xA30;&#xA28;</trd>
+  <trd lng="ps">&a_m;&a_ayn;&a_l;&a_w;&a_m;&a_h; &#x6A9;&#x693;&#x64A;</trd>
+  <trdgrp lng="pt">
+    <trd>determinar</trd>,
+    <trd>fixar</trd>,
+    <trd>definir</trd>
+  </trdgrp>
+  <trd lng="rw">menya</trd>
+  <trd lng="sd">&a_A;&a_h;&a_w; &a_T;&a_y_hamza;&#x64A;</trd>
+  <trd lng="si">&#xDAD;&#xDD3;&#xDBB;&#xDAB;&#xDBA;</trd>
+  <trdgrp lng="sk">
+    <trd>spresni&tcaron;</trd>,
+    <trd>ur&ccaron;i&tcaron;</trd>,
+    <trd>vymedzi&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sl">dolo&#x10D;itev</trd>
+  <trd lng="sm">fuafua</trd>
+  <trd lng="sn">ona</trd>
+  <trd lng="so">loo go&#x2019;aamiyo</trd>
+  <trd lng="sq">p&#xEB;rcaktuar</trd>
+  <trd lng="st">hore na</trd>
+  <trd lng="su">nangtukeun</trd>
+  <trd lng="sw">kuamua</trd>
+  <trd lng="ta">&#xBA4;&#xBC0;&#xBB0;&#xBCD;&#xBAE;&#xBBE;&#xBA9;&#xBBF;&#xB95;&#xBCD;&#xB95;</trd>
+  <trd lng="te">&#xC17;&#xC41;&#xC30;&#xC4D;&#xC24;&#xC3F;&#xC02;&#xC1A;&#xC21;&#xC3E;&#xC28;&#xC3F;&#xC15;&#xC3F;</trd>
+  <trd lng="tg">&#x43C;&c_u;&c_a;&c_j;&#x44F;&#x43D; &#x43A;&c_a;&c_r;&c_d;&c_a;&#x43D;</trd>
+  <trd lng="th">&#xE01;&#xE33;&#xE2B;&#xE19;&#xE14;</trd>
+  <trd lng="tl">matukoy</trd>
+  <trd lng="tt">&c_b;&c_i;&#x43B;&c_g;&c_je;&#x43B;&#x4D9;&#x4AF;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_z;&#x43D;&c_a;&c_ch;&c_i;&c_t;&c_i;</trd>
+  <trd lng="ur">&#x6A9;&a_A; &#x62A;&a_ayn;&#x6CC;&a_n;</trd>
+  <trd lng="uz">aniqlash</trd>
+  <trd lng="vi">x&#xE1;c &#x111;&#x1ECB;nh</trd>
+  <trd lng="xh">ukumisela</trd>
+  <trd lng="yi">&#x5D1;&#x5D0;&#x5B7;&#x5E9;&#x5D8;&#x5D9;&#x5DE;&#x5E2;&#x5DF;</trd>
+  <trd lng="yo">m&#x1ECD;</trd>
+  <trd lng="zu">linqume</trd>
+</drv>
+
+<drv mrk="determ.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="determ.0o.ado">
+    <dif>
+      Ago <tld/>i.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+      <trd>&c_a;&c_z;&c_n;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+    </trdgrp>
+    <trd lng="pl">okre&sacute;lanie</trd>
+  </snc>
+  <snc mrk="determ.0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Kategorio de propozicia semantiko, maniero aktualigi nomon
+      (plej ofte, substantivon) indikante &ccirc;u &gcirc;i referencas
+      objekton situacie unikan (difina <tld/>o) a&ubreve; rilatan al
+      tuta
+      klaso (nedifina <tld/>o) ktp:
+      <ekz>
+        por esprimi &ccirc;i tiujn specojn de <tld/>o
+        <klr>(<tld/>oj difina, nedifina, kvalita, elekta,
+        maldifina)</klr> la lingvo posedas certan nombron da
+        <tld/>aj adjektivoj, kiuj aperas sub diversaj formoj:
+        unu el ili, la artikolo, estas nevaria; kelkaj estas puraj
+        adjektivoj <em>(multa, kelka, certa);</em> kelkaj havas la
+        formon de prepozicia&jcirc;oj <em>(multe da, iom da);</em>
+        fine tie &ccirc;i klasi&gcirc;as anka&ubreve; la formoj
+        respondaj al la
+        individuiga formo de la tabelpronomoj <em>(iu, tiu,
+        kiu, &ccirc;iu, neniu)</em> kaj la a-fina&jcirc;a tabelserio
+        <fnt>
+        <vrk>PAG</vrk>, <lok>&para;75.</lok>
+        </fnt>
+      </ekz>
+      <ekz>
+        en la rusa lingvo <tld/>o estas esprimata per plensencaj
+        <tld/>iloj (montraj, posedaj pronomoj ktp), vortordo,
+        <ref cel="modal.0a">modalaj vortoj</ref>,
+        sed precipe per la kunteksto.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_t;&c_e;&c_g;&c_o;&c_r;&c_y;&c_ja;
+    &c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;-&c_n;&c_ja;&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
+    <trd lng="ca">determinaci&oacute;</trd>
+    <trd lng="pl">okre&sacute;lenie</trd>
+    <trd lng="ru">&c_k;&c_a;&c_t;&c_je;&c_g;&c_o;&c_r;&c_i;&c_ja;
+    <ind>&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_jo;&c_n;&c_n;&c_o;&c_s;&c_t;&c_i;-&c_n;&c_je;&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_jo;&c_n;&c_n;&c_o;&c_s;&c_t;&c_i;</ind></trd>
+  </snc>
+  <adm>
+    Mi enkondukis la difinojn la&ubreve; PIV1, sed manke de ekzemploj
+    la dua senco ne aspektas tre fidinda al mi. Mi demandas min,
+    &ccirc;u
+    ne eblus uzi &ccirc;i tiun vorton kun la (francisma?) senco "stato
+    de iu
+    ~ita". <aut>MB</aut>
+  </adm>
+  <adm>
+    Mi forigis la sencon &leftquot;stato&rightquot;, kiu efektive
+    &scirc;ajnas
+    tre dubinda,
+    sed anstata&ubreve;e verkis la gramatikan snc, kiun probable celis
+    la
+    a&ubreve;toroj.
+    <aut>Sergio</aut>
+  </adm>
+  <trd lng="de">Bestimmung</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;termination<klr tip="ind"> (action de
+    d&eacute;terminer)</klr></trd>,
+    <trd>fixation</trd>
+  </trdgrp>
+  <trd lng="he">&#x5E0;&#x5D7;&#x5D9;&#x5E9;&#x5D5;&#x5EA;</trd>
+  <trdgrp lng="hu">
+    <trd>meghat&aacute;roz&aacute;s</trd>,
+    <trd>determin&aacute;l&aacute;s</trd>,
+    <trd>determin&aacute;ci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6C7A;&#x5B9A;  <pr>&#x3051;&#x3063;&#x3066;&#x3044;</pr></trd>,
+    <trd>&#x78BA;&#x5B9A;  <pr>&#x304B;&#x304F;&#x3066;&#x3044;</pr></trd>,
+    <trd>&#x6E2C;&#x5B9A;  <pr>&#x305D;&#x304F;&#x3066;&#x3044;</pr></trd>,
+    <trd>&#x9650;&#x5B9A;  <pr>&#x3052;&#x3093;&#x3066;&#x3044;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="determ.0anto">
+  <kap><tld/>anto</kap>
+  <snc mrk="determ.0anto.kauzo">
+    <dif>
+      Ka&ubreve;zanta cirkonstanco:
+      <ekz>
+        el psikologia vidpunkto, la starigataj problemoj ne tu&scirc;as nur la
+        personon, kiu
+        metis ilin, sed anka&ubreve; la medion <klr>[&#x2026;]</klr>, gravas do
+        konsideri &ccirc;iujn
+        <tld/>antojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Kiss Adam</aut>
+          <vrk><url ref="&Monato;/2009/009905.php">&Ccirc;u necesas psikologa rethelpo
+          esperantlingva?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Ma&szlig;gebender <ind>Umstand</ind></trd>
+    <trd lng="pl">okoliczno&sacute;&cacute;  <ind>przyczyny</ind></trd>
+  </snc>
+  <snc mrk="determ.0anto.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="determ.0anto.vektoroj">
+      <dif>
+        <klr>(de <frm am="n"><k>n</k></frm> vektoroj de
+        <ref cel="dimens.n0a">n-dimensia</ref>
+        <ref cel="spac.vektora0o">vektora spaco</ref>, rilate al
+        <ref cel="baz.0o.vektoraspaco">bazo</ref>)</klr>
+        Ilia bildo per la ununura <ref cel="linear.n0a">n-lineara</ref>,
+        <ref cel="altern.0a.formo">alterna</ref>
+        <ref cel="form.0o.bildigo">formo</ref>, kiu &jcirc;etas la
+        opon de bazvektoroj al <frm>1</frm>.
+      </dif>
+    </subsnc>
+    <subsnc mrk="determ.0anto.matrico">
+      <fnt><bib>MatTerm</bib><lok>p. 14</lok></fnt>
+      <dif>
+        <klr>(de <ref cel="matric.n_p0o">(n,n)-matrico</ref>
+        <frm am="A">A</frm>
+        super korpo <frm am="bb K"><g>K</g></frm>)</klr>
+        <tld lit="D"/>anto <sncref ref="determ.0anto.vektoroj"/>
+        de &gcirc;iaj <frm am="n"><k>n</k></frm> vertikaloj, konsiderataj kiel
+        vektoroj de <frm am="bb K^n"><g>K</g><sup><k>n</k></sup></frm>,
+        rilate al ties
+        <ref cel="baz.kanona0o">kanona bazo</ref>; simb.
+        <frm am="det A">det A</frm>:
+        <ekz>
+          la <tld/>anto de <frm am="a">A</frm> egalas al
+          <frm am="sum_sigma(epsilon_sigma prod_i           A_(i,sigma(i)))">&#x2211;&epsilon;<sub>&sigma;</sub>&#x220F;A<sub><k>i</k>&sigma;(<k>i</k>)</sub></frm>,
+          kie <frm am="i"><k>i</k></frm> varias de <frm>1</frm> al
+          <frm am="n"><k>n</k></frm>, <frm am="sigma">&sigma;</frm> varias en
+          la aro de
+          <ref cel="permut.0o.bijekcio">permutoj</ref> super
+          <frm am="{1,2,...,n}">{1,2,...,<k>n</k>}</frm>, kaj
+          <frm am="epsilon_sigma">&epsilon;<sub>&sigma;</sub></frm> signas la parecon
+          de <frm am="sigma">&sigma;</frm>;
+        </ekz>
+        <ekz>
+          la <tld/>anto de matrico egalas al la <tld/>anto de &gcirc;ia
+          transpona&jcirc;o;
+        </ekz>
+        <ekz>
+          matrico estas inversigebla, se kaj nur se &gcirc;ia <tld/>anto
+          ne
+          estas nula.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="determ.0anto.endomorfio">
+      <dif>
+        <klr>(de <ref cel="endomo.0o">endomorfio</ref> en
+        <ref cel="dimens.n0a">finidimensia</ref>
+        <ref cel="spac.vektora0o">vektora spaco</ref>)</klr>
+        <tld lit="D"/>anto <sncref ref="determ.0anto.vektoroj"/>
+        de la bildoj per &gcirc;i de &ccirc;iu vektoro de ajna bazo,
+        rilate al
+        la sama bazo:
+        <ekz>
+          la <tld/>anto de endomorfio ne dependas de la elektita bazo;
+        </ekz>
+        <ekz>
+          la <tld/>anto de endomorfio egalas al <tld/>anto
+          <sncref ref="determ.0anto.matrico"/>
+          de &gcirc;ia <ref cel="matric.0o_de_homomorfio">matrico</ref>
+          rilate
+          al kiu ajn bazo.
+        </ekz>
+      </dif>
+    </subsnc>
+
+    <trd lng="zh">&#x884C;&#x5217;&#x5F0F; <pr>h&#xE1;ngli&#xE8;sh&#xEC;</pr></trd>
+</snc>
+  <trd lng="be">&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_a;&c_n;&c_t;&c_a;</trd>
+  <trd lng="ca">determinant</trd>
+  <trd lng="en">determinant</trd>
+  <trd lng="de">Determinante</trd>
+  <trd lng="fr">d&eacute;terminant<klr tip="ind"> (math.,
+  subst.)</klr></trd>
+  <trd lng="he">&#x5E7;&#x5D5;&#x5B9;&#x5E6;&#x5B5;&#x5D1;</trd>
+  <trd lng="hu">determin&aacute;ns</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9650;&#x5B9A;&#x8F9E;  <pr>&#x3052;&#x3093;&#x3066;&#x3044;&#x3058;</pr></trd>,
+    <trd>&#x884C;&#x5217;&#x5F0F;  <pr>&#x304E;&#x3087;&#x3046;&#x308C;&#x3064;&#x3057;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">determinant</trd>
+  <trd lng="pl">wyznacznik</trd>
+  <trd lng="ru">&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="zh">&#x51B3;&#x5B9A;&#x8005; <pr>ju&#xE9;d&#xEC;ngzh&#x11B;</pr></trd>
+</drv>
+
+<drv mrk="determ.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="determ.0ilo.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Lingva rimedo en formo de vorto, prepozicia&jcirc;o a&ubreve;
+      vortero,
+      esprimanta <ref cel="determ.0o.GRA"><tld/>on</ref>:
+      <ekz>
+        la <ref tip="sub" cel="artiko.0o.GRA">artikolo</ref>
+        estas <tld/>ilo, kiu servas por klarigi la frazon
+        precizigante ke la priparolato estas konata
+        al la a&ubreve;skultanto
+        <fnt>
+        <vrk>PAG</vrk>, <lok>&para;76.</lok>.
+        </fnt>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_e;&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_t;&c_y;&c_w;</trd>
+    <trd lng="ca">determinatiu</trd>
+    <trd lng="de">Bestimmungswort</trd>
+    <trd lng="en">determiner</trd>
+    <trd lng="hu">determin&aacute;ns</trd>
+    <trd lng="pl">determinant</trd>
+    <trd lng="ru">&c_d;&c_je;&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_a;&c_t;&c_i;&c_v;</trd>
+    <trd lng="zh">&#x786E;&#x5B9A;&#x8005; <pr>qu&#xE8;d&#xEC;ngzh&#x11B;</pr></trd>
+</snc>
+  <trd lng="ja">&#x9650;&#x5B9A;&#x8A5E;  <pr>&#x3052;&#x3093;&#x3066;&#x3044;&#x3057;</pr></trd>
+</drv>
+
+<drv mrk="determ.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="determ.0ismo.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Teorio, kiu konsideras &ccirc;ion en sia kampo kiel determinitan,
+      anta&ubreve;kalkuleblan.
+    </dif>
+    <trd lng="zh">&#x51B3;&#x5B9A;&#x8BBA; <pr>ju&#xE9;d&#xEC;ngl&#xF9;n</pr></trd>
+</snc>
+  <snc mrk="determ.0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Doktrino, kiu rigardas &ccirc;ion en la universo kiel
+      determinitan, kaj
+      ju&gcirc;as hazardon, liberan volon a&ubreve; similajn nociojn
+      iluziaj:
+      <ekz>
+        por Sp<klr>[inoza]</klr> do ekzistas severa, neeskapebla
+        <tld/>ismo
+        <fnt>
+          <aut>S. Aarse</aut>,
+          <vrk><url ref="http://www.autodidactproject.org/other/spinoza10-esp2.html">
+          Spinoza...</url></vrk>,
+          <lok>Sennacieca Revuo, 1970, numero 98a, p. 28a-44a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="fatal.0ismo">fatalismo</ref>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trd lng="de">Determinismus</trd>
+  <trd lng="fr">d&eacute;terminisme</trd>
+  <trd lng="he">&#x5D3;&#x5D8;&#x5E8;&#x5DE;&#x5D9;&#x5E0;&#x5D9;&#x5D6;&#x5DD;</trd>
+  <trd lng="ja">&#x6C7A;&#x5B9A;&#x8AD6;  <pr>&#x3051;&#x3063;&#x3066;&#x3044;&#x308D;&#x3093;</pr></trd>
+  <trd lng="nl">determinisme</trd>
+  <trd lng="pl">determinizm</trd>
+</drv>
+
+<drv mrk="determ.ne0ismo">
+  <kap>ne<tld/>ismo</kap>
+  <snc mrk="determ.ne0ismo.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Teorio, kiu ne klarigas &ccirc;ion en sia kampo per determinoj,
+      lasante
+      lokon al pluraj ebloj, al nekalkulebleco...:
+      <ekz>
+        la ne<tld/>ismo de la kvantuma fiziko
+        <fnt>
+          <aut>J. Bailhache</aut>,
+          <vrk><url ref="http://membres.lycos.fr/teledev/log/text/reflmph/esperanto/reflres.htm?">
+          Metafizikaj pripensoj</url></vrk>,
+          <lok>[vidita en 2007-03]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_i;&c_n;&c_d;&c_je;&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trd lng="cs">indeterminismus</trd>
+  <trd lng="fr">ind&eacute;terminisme</trd>
+  <trd lng="nl">indeterminisme</trd>
+  <trd lng="pl">niedeterminizm</trd>
+  <trd lng="sk">indeterminizmus</trd>
+</drv>
+
+<drv mrk="determ.sub0i">
+  <kap>sub<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="determ.sub0i.KOMUNE">
+    <dif>
+      Nur parte, malkomplete <tld/>i:
+      <ekz>
+        <uzo tip="fak">GRA</uzo>
+        la &#x2018;V&#x2019;-bazaj substantivoj estas sub<tld/>itaj koncerne sian
+        vortsignifon
+        <fnt>
+          <aut>W. Jansen</aut>
+          <vrk>Radikoj kaj vortoj en esperanto</vrk>
+          <lok>Esperantologio / Esperanto Studies, 2013:6, p.
+          9a-43a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">sous-d&eacute;terminer</trd>
+  <trd lng="pl">niedookre&sacute;li&cacute;</trd>
+</drv>
+
+<drv mrk="determ.jakobia0anto">
+  <kap>jakobia <tld/>anto</kap>
+  <snc>
+  <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(de <ref cel="bild.0igo.MAT">bildigo</ref> inter du
+      <frm am="n"><k>n</k></frm>-dimensiaj
+      reelaj <ref cel="spac.normohava0o">normohavaj spacoj</ref>,
+      <ref cel="difere2.0ebla">diferencialebla</ref> &ccirc;e punkto
+      <frm am="a"><k>a</k></frm>)</klr>
+      La <ref tip="super" cel="determ.0anto.matrico"><tld/>anto
+      <sncref ref="determ.0anto.matrico"/></ref>
+      de &gcirc;ia <ref cel="matric.jakobia0o">jakobia matrico</ref>
+      &ccirc;e <frm am="a"><k>a</k></frm>:
+      <ekz>
+        la jakobia <tld/>anto estas <tld/>anto de la jakobia matrico,
+        kiu estas difinita
+        se &gcirc;i estas kvadrata matrico
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=105496">Jakobia matrico</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="jakobi1.0o">jakobiano</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="jakobi.0o">Jakobio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_u;&c_n;&c_k;&c_c;&c_y;&c_j;&c_n;&c_y;
+    <ind>&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_ib;&c_k;</ind></trd>,
+    <trd>&c_ja;&c_k;&c_a;&c_b;&c_ib;&c_ja;&c_n;</trd>
+  </trdgrp>
+  <trd lng="ca">determinant jacobi&agrave;</trd>
+  <trd lng="de">Jacobische <ind>Determinante</ind></trd>
+  <trdgrp lng="en">
+    <trd>Jacobian <ind>determinant</ind></trd>,
+    <trd>Jacobian</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;terminant jacobien</trd>,
+    <trd>jacobien<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">Jacobi-determin&aacute;ns</trd>
+  <trd lng="pl">jakobian</trd>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;
+    <ind>&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;</ind></trd>,
+    <trd>&c_ja;&c_k;&c_o;&c_b;&c_i;&c_a;&c_n;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.130 2023/10/14 11:26:53
+revo: transskribo per <pr>
+
+versio 1.128 2023/08/29 13:30:38
+Wolfram Diestel: ja: prononco
+
+versio 1.127 2023/05/14 18:28:56
+Vito Redsky: +trd pl
+
+versio 1.126 2023/04/30 06:30:27
+Paul Peeraerts: Steloj -> monato
+
+versio 1.125 2023/04/17 12:46:39
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.124 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.123 2021/07/12 09:33:07
+Dmitri Gabinski: +trd be
+
+versio 1.46 2020/05/05 14:10:17
+-->
+</vortaro>

@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: nun.xml,v 1.126 2023/10/20 05:22:00 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>nun</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="nun.0">
+  <kap><ofc>*</ofc><tld/></kap>
+  <gra><vspec>adverbo</vspec></gra>
+  <snc mrk="nun.0.KOMUNE">
+    <dif>
+      En plej proksima tempo:
+    </dif>
+    <subsnc mrk="nun.0.cxitempe">
+      <dif>
+        En la momento mem, dum kiu ni parolas:
+        <ekz>
+          li ronkas <tld/> kiel mil diabloj
+          <fnt>
+            <bib>GDn</bib>
+            <lok>Akto Tria</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          li <tld/> ku&scirc;is kaj pensis kaj pensis, kaj subite li havis la impreson, kvaza&ubreve;
+          iu kisas lin
+          <fnt>
+            <bib>Fab2</bib>
+            <lok>Malgranda Tuk</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/> mi diras al vi adia&ubreve;
+          <fnt>
+            <bib>Fab2</bib>
+            <lok>La ombro</lok>
+          </fnt>!
+        </ekz>
+        <ekz>
+          <tld/> mi foriras
+          <fnt>
+            <bib>NT</bib>
+            <lok>Johano 16:5</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/>, kiam <klr>[&#x2026;]</klr> restas fari nur kelkajn
+          pa&scirc;ojn <klr>[&#x2026;]</klr> li estos devigita ekiri returnen
+          <fnt>
+            <bib>FK</bib>
+            <vrk>Nokto</vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          vi estas ankora&ubreve; <tld/> &ccirc;iam
+          mensoganto
+          <fnt>
+            <bib>F</bib>
+            <lok>&FE; 22</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          ri&ccirc;igadi la lingvon per novaj vortoj oni povas jam
+          <tld/>
+          <fnt>
+            <bib>F</bib>
+            <lok>Anta&ubreve;parolo</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="moment.cxi_0e">&ccirc;i-momente</ref>,
+        <ref cel="moment.0e.nun">momente<sncref/></ref>
+      </refgrp>
+      <trd lng="fi">nyt</trd>
+      <trd lng="he">&kaf;&resh;&gimel;&ayin;</trd>
+      <trd lng="vo">nu</trd>
+    </subsnc>
+    <subsnc mrk="nun.0.cxiepoke">
+      <dif>
+        En la estanta tempo, epoko:
+        <ekz>
+          uzado de a&ubreve;tomobiloj <tld/>
+          pli kaj pli ofti&gcirc;as;
+        </ekz>
+        <ekz>
+          io granda <tld/> naski&gcirc;as
+          <fnt>
+            <bib>Paroloj</bib>
+            <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en
+            Boulogne sur Mer en la 5a de a&ubreve;gusto 1905</vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/> la unuan fojon la revo de miljaroj komencas
+          reali&gcirc;i
+          <fnt>
+            <bib>Paroloj</bib>
+            <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en
+            Boulogne sur Mer en la 5a de a&ubreve;gusto 1905</vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          iam &gcirc;i pendis en la pre&gcirc;eja turo, sed <tld/> ekzistas
+          plu nenia postsigno de la
+          turo nek de la pre&gcirc;ejo
+          <fnt>
+            <bib>Fab4</bib>
+            <lok>Sonorila profundo</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <ref tip="vid" cel="nun.0tempe">nuntempe</ref>
+      <trdgrp lng="fi">
+        <trd>nyt</trd>,
+        <trd>n&auml;in&auml; aikoina</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="nun.0.ekdenun">
+      <dif>
+        Sekve post io, da&ubreve;rigante post tio:
+        <ekz>
+          &scirc;i <tld/> fartas iom pli bone
+          <fnt>
+            <bib>MrA</bib>
+            <lok>&Ccirc;apitro XIV</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/> ni transiros al la
+          dua demando
+          <fnt>
+            <bib>EE</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          kaj <tld/> ni &ccirc;ion forgesu
+          <fnt>
+            <bib>Paroloj</bib>
+            <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en
+            Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/> ni rigardu, kio sekvas
+          <fnt>
+            <bib>EE</bib>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="nu.0">nu</ref>
+      </refgrp>
+      <trd lng="fi">nyt (sitten)</trd>
+    </subsnc>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="jam.0.de_nun">jam<sncref/></ref>,
+    <ref cel="jen.0">jen</ref>,
+    <ref cel="jxus.0">&jcirc;us</ref>,
+    <ref cel="tuj.0.tempe">tuj<sncref/></ref>
+  </refgrp>
+  <trd lng="af">nou</trd>
+  <trd lng="am">&#x12A0;&#x1201;&#x1295;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_A_madda;&a_n;</trd>
+  <trd lng="az">indi</trd>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_ja;&c_p;&c_je;&c_r;</trd>,
+    <trd>&c_z;&c_a;&c_r;&c_a;&c_z;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_s;&c_je;&c_g;&c_a;</trd>
+  <trd lng="bn">&#x98F;&#x996;&#x9A8;</trd>
+  <trd lng="bo">&t_da;&t_tsheg;</trd>
+  <trd lng="br">brema&ntilde;</trd>
+  <trd lng="bs">sada</trd>
+  <trd lng="ca">ara</trd>
+  <trd lng="co">oghji</trd>
+  <trdgrp lng="cs">
+    <trd>nyn&iacute;</trd>,
+    <trd>te&dcaron;</trd>,
+    <trd>te&dcaron;</trd>
+  </trdgrp>
+  <trd lng="cy">awr</trd>
+  <trd lng="da">nu</trd>
+  <trdgrp lng="de">
+    <trd>jetzt</trd>,
+    <trd>nun</trd>
+  </trdgrp>
+  <trd lng="el">&tau;&omega_ton;&rho;&alfa;</trd>
+  <trd lng="en">now</trd>
+  <trd lng="es">ahora</trd>
+  <trd lng="et">n&uuml;&uuml;d</trd>
+  <trd lng="eu">orain</trd>
+  <trd lng="fr">maintenant</trd>
+  <trd lng="fy">no</trd>
+  <trd lng="ga">anois</trd>
+  <trd lng="gd">a-nis</trd>
+  <trd lng="gl">agora</trd>
+  <trd lng="gu">&#xAB9;&#xAB5;&#xAC7;</trd>
+  <trd lng="ha">yanzu</trd>
+  <trdgrp lng="he">
+    <trd>&ayin;&kaf;&shin;&yod;&vav;</trd>,
+    <trd>&kaf;&ayin;&tav;</trd>
+  </trdgrp>
+  <trd lng="hi">&#x905;&#x92C;</trd>
+  <trd lng="hmn">tam sim no</trd>
+  <trd lng="hr">sada</trd>
+  <trd lng="ht">kounye a</trd>
+  <trdgrp lng="hu">
+    <trd>most</trd>,
+    <trd>jelenleg</trd>
+  </trdgrp>
+  <trd lng="hy">&#x561;&#x575;&#x56A;&#x574;</trd>
+  <trd lng="id">sekarang</trd>
+  <trd lng="ig">ugbu a</trd>
+  <trd lng="is">n&uacute;</trd>
+  <trd lng="ja">&#x4ECA; <pr>&#x3053;&#x3093;</pr></trd>
+  <trd lng="jv">saiki</trd>
+  <trd lng="ka">&#x10D0;&#x10EE;&#x10DA;&#x10D0;</trd>
+  <trd lng="kk">&#x49B;&c_a;&c_z;&c_ib;&c_r;</trd>
+  <trd lng="km">&#x17A5;&#x17A1;&#x17BC;&#x179C;&#x1793;&#x17C1;&#x17C7;</trd>
+  <trd lng="kn">&#xC88;&#xC97;</trd>
+  <trd lng="ko">&#xC9C0;&#xAE08;</trd>
+  <trd lng="ku">niha</trd>
+  <trd lng="ky">&c_a;&c_z;&c_y;&c_r;</trd>
+  <trd lng="lat">nunc</trd>
+  <trd lng="lo">&#xEC3;&#xE99;&#xE9B;&#xEB1;&#xE94;&#xE88;&#xEB8;&#xE9A;&#xEB1;&#xE99;</trd>
+  <trd lng="lt">dabar</trd>
+  <trd lng="lv">tagad</trd>
+  <trd lng="mg">ankehitriny</trd>
+  <trd lng="mi">i teie nei</trd>
+  <trd lng="mk">&c_s;&c_je;&c_g;&c_a;</trd>
+  <trd lng="ml">&#xD07;&#xD2A;&#xD4D;&#xD2A;&#xD4B;&#xD33;&#xD4D;</trd>
+  <trd lng="mn">&c_ja;&c_g; &c_o;&c_d;&c_o;&c_o;</trd>
+  <trd lng="mr">&#x906;&#x924;&#x93E;</trd>
+  <trd lng="ms">kini</trd>
+  <trd lng="mt">issa</trd>
+  <trd lng="my">&#x101A;&#x1001;&#x102F;</trd>
+  <trd lng="ne">&#x905;&#x92C;</trd>
+  <trd lng="nl">nu</trd>
+  <trd lng="ny">tsopano</trd>
+  <trd lng="oc">ara</trd>
+  <trd lng="pa">&#xA28;&#xA42;&#xA70; &#xA39;&#xA41;&#xA23;</trd>
+  <trd lng="pl">teraz</trd>
+  <trd lng="ps">&a_A;&a_w;&a_s;</trd>
+  <trd lng="pt">agora</trd>
+  <trd lng="ro">acum</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_j;&c_ch;&c_a;&c_s;</trd>,
+    <trd>&c_t;&c_je;&c_p;&c_je;&c_r;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="rw">ubungubu</trd>
+  <trd lng="sd">&a_h;&a_A;&#x6BB;&a_y;</trd>
+  <trd lng="si">&#xDAF;&#xDD0;&#xDB1;&#xDCA;</trd>
+  <trd lng="sk">teraz</trd>
+  <trd lng="sl">zdaj</trd>
+  <trd lng="sm">nei</trd>
+  <trd lng="sn">ikozvino</trd>
+  <trd lng="so">hadda</trd>
+  <trd lng="sq">tani</trd>
+  <trd lng="st">hona joale</trd>
+  <trd lng="su">ayeuna</trd>
+  <trd lng="sv">nu</trd>
+  <trd lng="sw">sasa</trd>
+  <trd lng="ta">&#xB87;&#xBAA;&#xBCD;&#xBAA;&#xBCA;&#xBB4;&#xBC1;&#xBA4;&#xBC1;</trd>
+  <trd lng="te">&#xC07;&#xC2A;&#xC4D;&#xC2A;&#xC41;&#xC21;&#xC41;</trd>
+  <trd lng="tg">&#x4B3;&c_o;&c_z;&c_i;&c_r;</trd>
+  <trd lng="th">&#xE15;&#xE2D;&#xE19;&#xE19;&#xE35;&#xE49;</trd>
+  <trd lng="tl">ngayon</trd>
+  <trdgrp lng="tok">
+    <trd>tenpo ni la</trd>
+    <trd>lon <ind>tenpo ni</ind></trd>
+  </trdgrp>
+  <trd lng="tt">&c_h;&#x4D9;&c_z;&c_je;&c_r;</trd>
+  <trd lng="uk">&c_z;&c_a;&c_r;&c_a;&c_z;</trd>
+  <trd lng="ur">&a_A;&a_b;</trd>
+  <trd lng="uz">hozir</trd>
+  <trd lng="vi">b&acirc;y gi&#x1EDD;</trd>
+  <trd lng="xh">ngoku</trd>
+  <trd lng="yi">&alef;&yod;&tsadi;&tet;</trd>
+  <trd lng="yo">bayi</trd>
+  <trd lng="zu">manje</trd>
+</drv>
+
+<drv mrk="nun.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="nun.0a.KOMUNE">
+    <dif>
+      Estanta <tld/>, okazanta <tld/>,
+      kontraste al
+      <ref tip="ant" cel="ven.0onta.TEMP">venonta</ref> a&ubreve;
+      <ref tip="ant" cel="pas.0inta.TEMP">pasinta</ref>:
+      <ekz>
+        mia <tld/>a farto estas bona;
+      </ekz>
+      <ekz>
+        <tld/>a tekniko;
+      </ekz>
+      <ekz>
+        la <tld/>a paco espereble da&ubreve;ros;
+      </ekz>
+      <ekz>
+        eldoni &ccirc;iujn kvin partojn de la verko en la <tld/>a tempo estas
+        malfacile
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tial la Izraelidoj ne man&gcirc;as &gcirc;is la <tld/>a tempo la tendenon,
+        kiu estas sur la artiko de la femuro, &ccirc;ar tiu tu&scirc;is la femuran
+        artikon de <nom>Jakob</nom> &ccirc;e la tendeno
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 32:32</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> pa&scirc;tis min de mia naski&gcirc;o &gcirc;is la <tld/>a tago
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 48:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>a kajero estas la lasta, kaj la a&ubreve;toro
+        nun &ccirc;esigas je eterne sian laboradon
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi en la <tld/>a tempo ne povas plenumi la promeson, kiun mi
+        donis al vi
+        <fnt>
+          <bib>LR</bib>
+          <lok>2. La verkaro de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tuta demando pri la estonteco de la lingvo internacia
+        alkonduki&gcirc;as nur al tio, &ccirc;u Esperanto estos akceptita
+        sen&scirc;an&gcirc;e en &gcirc;ia <tld/>a formo
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ho ve! al mi, mi, kiu vidis lin anta&ubreve;e
+        kaj vidas lin en lia <tld/>a stato
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>!
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_c;&c_ja;&c_p;&c_je;&c_r;&c_a;&c_sh;&c_n;&c_ib;</trd>
+  <trd lng="br">a-vrema&ntilde;</trd>
+  <trd lng="ca">actual</trd>
+  <trdgrp lng="cs">
+    <trd>nyn&ecaron;j&scaron;&iacute;</trd>,
+    <trd>p&rcaron;&iacute;tomn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>jetzig</trd>,
+    <trd>derzeitig</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>current</trd>,
+    <trd>present<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="el">&sigma;&ypsilon_ton;&gamma;&chi;&rho;&omikron;&ny;&omikron;&sigma_fina;</trd>
+  <trd lng="es">actual</trd>
+  <trd lng="fi">nykyinen</trd>
+  <trdgrp lng="fr">
+    <trd>actuel</trd>,
+    <trd>pr&eacute;sent<klr> (actuel)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&ayin;&kaf;&shin;&vav;&yod;</trd>
+  <trdgrp lng="hu">
+    <trd>mostani</trd>,
+    <trd>jelenlegi</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4ECA;&#x306E;  <pr>&#x3044;&#x307E;&#x306E;</pr></trd>,
+    <trd>&#x73FE;&#x5728;&#x306E;  <pr>&#x3052;&#x3093;&#x3056;&#x3044;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="ne">&#x935;&#x930;&#x94D;&#x924;&#x92E;&#x93E;&#x928;</trd>
+  <trdgrp lng="nl">
+    <trd>huidig</trd>,
+    <trd>tegenwoordig</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>tera&zacute;niejszy</trd>,
+    <trd>obecny</trd>
+  </trdgrp>
+  <trd lng="pt">a(c)tual</trd>
+  <trd lng="ro">actual</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_je;&c_p;&c_je;&c_r;&c_je;&c_sh;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_o;&c_ja;&c_shch;&c_i;&c_j; <klr tip="amb">(&c_o; &c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_i;)</klr></trd>,
+    <trd>&c_n;&c_y;&c_n;&c_je;&c_sh;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">teraj&scaron;&iacute;</trd>
+  <trd lng="sv">nuvarande</trd>
+  <trd lng="tok">pi <ind>tenpo ni</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_je;&c_p;&c_je;&c_r;&c_ib;&c_sh;&c_n;&c_ib;&c_j;</trd>,
+    <trd>&c_n;&c_i;&c_n;&c_ib;&c_sh;&c_n;&c_ib;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nun.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="nun.0e.emfaza">
+    <dif>
+      <ref tip="dif" cel="nun.0"><tld lit="N"/></ref>
+      <klr>(emfaze)</klr>:
+      <ekz>
+        <tld/>e ja
+        <fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tia legado ebligas ne forgesi la krimojn de <nom>Stalin</nom>, e&ccirc; <tld/>e,
+        post tiom da tempo
+        <fnt>
+          <aut>Pierre Grollemund</aut>
+          <vrk><url ref="&Monato;/2019/012378.php">
+            Rakonto de virino, kiu supervivis gulagon
+          </url></vrk>,
+          <bib>Monato</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve;e li mezuradis homojn kaj aferojn nur per la propra
+        egoismo, dum <tld/>e iom post iom li alkutimi&gcirc;adis al la penso,
+        ke
+        aliaj okuloj povas alie rigardi
+        <fnt><aut>H. Sienkewicz, trad. Lidia Zamenhof</aut>, <vrk>Quo
+        vadis?</vrk>, <lok>1933, &ccirc;apitro 29a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="nun.0e.modifa">
+    <dif>
+      <ref tip="dif" cel="nun.0"><tld lit="N"/></ref>
+      <klr>(rekte modifas adjektivon)</klr>:
+      <ekz>
+        kiel spertas la <tld/>e juna generacio tiujn &scirc;an&gcirc;i&gcirc;ojn apena&ubreve;
+        imageblajn por la anta&ubreve;aj generacioj?
+        <fnt>
+          <aut>GK UEA</aut>
+          <vrk><url ref="&LOdE;63-lode.htm#63-04">
+            IJK okazos en Honkongo</url></vrk>
+          <bib>LOdE</bib>
+          <lok>2000:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kelkajn monatojn anta&ubreve;e, kiam nia prezidanto havis diplomatajn
+        baraktojn kun la kolombia (<tld/>e eksa) prezidanto
+        <fnt>
+          <aut>Ram&oacute;n Morales</aut>
+          <vrk><url ref="&Tekstaro;?nomo=kontakto-2011-2019&amp;sekcio=kontakto-532">
+            Patriotismo x &Scirc;ovinismo</url></vrk>
+          <lok>Kontakto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>PS4</nom>, <nom>Xbox One</nom> kaj Vindozo estas la <tld/>e subtenataj platformoj
+        <fnt>
+          <aut>Jonas Marx</aut>
+          <vrk><url ref="&Tekstaro;?nomo=kontakto-2011-2019&amp;sekcio=kontakto-443">
+            Kiel statas Virtuala Realeco fine de 2018?</url></vrk>
+          <lok>Kontakto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+   <trdgrp lng="be">
+    <trd>&c_c;&c_ja;&c_p;&c_je;&c_r;</trd>,
+    <trd>&c_u; <ind>&c_c;&c_ja;&c_p;&c_je;&c_r;&c_a;&c_sh;&c_n;&c_ib;</ind> &c_ch;&c_a;&c_s;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>currently</trd>,
+    <trd>at present</trd>,
+    <trd>at the moment</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>momenteel</trd>,
+    <trd>tegenwoordig</trd>,
+    <trd>op dit moment</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>teraz</trd>,
+    <trd>obecnie</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>acum</trd>,
+    <trd>&icirc;n prezent</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nun.00e">
+  <kap><tld/><tld/>e</kap>
+  <snc mrk="nun.00e.FRAZ">
+    <dif>
+      Vere <ref cel="nun.0.cxitempe" tip="vid"><tld/></ref>,
+      <ref cel="prokra.sen0e" tip="vid">senprokraste</ref>:
+      <ekz>
+        &scirc;i telefonu <tld/>-<tld/>e
+        <fnt><aut>S. Larbar</aut>, <vrk>Karuseloj</vrk>,
+        <lok>1987</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="tuj.0">tuj</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_k;&c_u;&c_r;&c_a;&c_t; <ind>&c_z;&c_a;&c_r;&c_a;&c_z;</ind></trd>,
+    <trd>&c_n;&c_je;&c_a;&c_d;&c_k;&c_l;&c_a;&c_d;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>a l'acte</trd>,
+    <trd>immediatament</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&agrave; l'instant</trd>,
+    <trd>imm&eacute;diatement</trd>
+  </trdgrp>
+  <trd lng="pl">niezw&lstroke;ocznie</trd>
+  <trd lng="ro">imediat</trd>
+</drv>
+
+<drv mrk="nun.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o
+  </kap>
+  <snc>
+    <dif>
+       Io, kio estas <tld/>:
+      <ekz>
+        ion pli bonan ol la <tld/>a&jcirc;o deziras mia koro
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kompreneble estus tre malsa&gcirc;e kaj nepardoneble de la flanko de
+        la
+        komitato, se &gcirc;i pro la problema estonta&jcirc;o rifuzus la faktan kaj
+        en &ccirc;iuj rilatoj finitan kaj elprovitan <tld/>a&jcirc;on
+        <fnt>
+          <bib>EE</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_ja;&c_g;&c_u;&c_ch;&c_a;&c_ja; <ind>&c_p;&c_a;&c_d;&c_z;&c_je;&c_ja;</ind></trd>
+  <trd lng="de">das <ind>Jetzige</ind></trd>
+  <trd lng="pl">zdarzenie tera&zacute;niejsze</trd>
+  <trd lng="ro">eveniment prezent</trd>
+</drv>
+
+<drv mrk="nun.de0">
+  <kap>de <tld/>,
+  <var><kap>de<tld/></kap></var></kap>
+  <snc mrk="nun.de0.TEMP">
+    <dif>
+      Ekde la tuja tempo kaj plue:
+      <ekz>
+        mi sciigas, ke de <tld/> la
+        &scirc;uldoj de mia filo ne estos pagataj de mi
+        <fnt><bib>F</bib>, <lok>&FE; 25</lok></fnt>;
+      </ekz>
+      <ekz>
+        de<tld/> la mallumo denove premados sen interrompo; li travivis
+        sian luman horeton, kaj nun &gcirc;i estas finita
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk>La Granda Kaldrono</vrk>,
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d; <ind>&c_c;&c_ja;&c_p;&c_je;&c_r;</ind></trd>,
+    <trd>&c_n;&c_a;&c_d;&c_a;&c_l;&c_je;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>von <ind>nun</ind> an</trd>,
+    <trd>von <ind>jetzt</ind> an</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>from now</trd>,
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;sormais</trd>,
+    <trd>d&egrave;s lors</trd>
+  </trdgrp>
+  <trd lng="ja">&#x4ECA;&#x5F8C;  <pr>&#x3053;&#x3093;&#x3054;</pr></trd>
+  <trd lng="nl">vanaf nu</trd>
+  <trdgrp lng="pl">
+    <trd>od teraz</trd>,
+    <trd>odt&aogonek;d</trd>
+  </trdgrp>
+  <trd lng="ro">de acum &icirc;nainte</trd>
+</drv>
+
+<drv mrk="nun.gxis0a">
+  <kap><ofc>*</ofc>&gcirc;is<tld/>a</kap>
+  <snc mrk="nun.gxis0a.KOMUNE">
+    <dif>
+      De anta&ubreve;e &gcirc;is la <tld/>a:
+      <ekz>
+        pro sia &gcirc;is<tld/>a kutimi&gcirc;o
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Korintanoj 8:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en nia &gcirc;is<tld/>a vivo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Anneto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;&gcirc;ojo en la &ccirc;ambroj kaj sub la verdaj bran&ccirc;oj!&rightquot; diris la &gcirc;is<tld/>a reganto de la jaro
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; la &gcirc;is<tld/>a normo
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        severa netu&scirc;ebleco de nia fundamento estas la
+        plej grava ka&ubreve;zo de nia &gcirc;is<tld/>a progresado
+        <fnt>
+          <bib>F</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fine mortis nia plej kara samideano kaj amiko, kiu estis la
+        animo de niaj &gcirc;is<tld/>aj kongresoj
+        <fnt><bib>Paroloj</bib>, <vrk>Parolo anta&ubreve;
+        la Tria Kongreso Esperantista en Cambridge, 1907</vrk></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_p;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_ib;&c_sh;&c_n;&c_ib;</trd>,
+    <trd>&c_b;&c_y;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trd lng="br">betek <ind>brema&ntilde;</ind></trd>
+  <trd lng="ca">fins avui <klr>(adj.)</klr></trd>
+  <trd lng="de">bisheriger</trd>
+  <trdgrp lng="en">
+    <trd><klr>... </klr>so far</trd>,
+    <trd>hitherto</trd>
+  </trdgrp>
+  <trd lng="fi">t&auml;h&auml;nastinen</trd>
+  <trdgrp lng="fr">
+    <trd>ant&eacute;rieur<klr> (jusqu'&agrave; auj.)</klr></trd>,
+    <trd>pass&eacute;<klr> (adj., jusqu'&agrave; auj.)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&he;<ind>&qof;&vav;&dalet;&fmem;</ind></trd>
+  <trd lng="hu">eddigi</trd>
+  <trd lng="ja">&#x4ECA;&#x307E;&#x3067;&#x306E;  <pr>&#x3044;&#x307E;&#x307E;&#x3067;&#x306E;</pr></trd>
+  <trdgrp lng="nl">
+    <trd><klr>... </klr>tot nu toe</trd>,
+    <trd>dusver</trd>
+  </trdgrp>
+  <trd lng="pl">dotychczasowy</trd>
+  <trd lng="ro">p&acirc;n&abreve; acum</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_t;&c_o;&c_r;&c_y;&c_j; &c_b;&c_y;&c_l;
+    <ind>&c_d;&c_o; &c_s;&c_i;&c_h; &c_p;&c_o;&c_r;</ind></trd>,
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_sh;&c_je;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_v;&c_sh;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_y;&c_d;&c_u;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_sh;&c_l;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_d;&c_o;&c_t;&c_je;&c_p;&c_je;&c_r;&c_ib;&c_sh;&c_n;&c_ib;&c_j;</trd>
+</drv>
+
+<drv mrk="nun.0tempe">
+  <kap><tld/>tempe</kap>
+  <snc mrk="nun.0tempe.TEMP">
+    <dif>
+      En la <tld/>a, iom da&ubreve;ranta tempo,
+      en la nuna epoko:
+      <ekz>
+        <tld/>tempe oni klarigas tiaspecajn aerajn fenomenojn per norda
+        lumo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en tiu tempo oni povis kapti ankora&ubreve; pli da fi&scirc;oj ol <tld/>tempe
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> kore benis la feli&ccirc;an <tld/>tempecon, la <tld/>an epokon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_ja;&c_p;&c_je;&c_r;</trd>,
+    <trd>&c_u; <ind>&c_c;&c_ja;&c_p;&c_je;&c_r;&c_a;&c_sh;&c_n;&c_ib;</ind> &c_ch;&c_a;&c_s;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_da;&t_drengbu;&t_tsheg;&t_ra;&t_gigu;&t_nga;&t_tsheg;&t_sa;&t_nga;&t_tsheg;</trd>
+  <trdgrp lng="de">
+    <trd>derzeit</trd>,
+    <trd>zur <ind>Zeit</ind></trd>,
+    <trd>heutzutage</trd>
+  </trdgrp>
+  <trd lng="en">nowadays</trd>
+  <trdgrp lng="fr">
+    <trd>actuellement</trd>,
+    <trd>&agrave; notre &eacute;poque</trd>
+  </trdgrp>
+  <trd lng="ja">&#x73FE;&#x5728;&#x306F;  <pr>&#x3052;&#x3093;&#x3056;&#x3044;&#x306F;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>tegenwoordig</trd>,
+    <trd>vandaag de dag</trd>,
+    <trd>heden ten dage</trd>
+  </trdgrp>
+  <trd lng="pl">obecnie</trd>
+  <trd lng="ro">acum</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_r;&c_a;&c_z;</trd>,
+    <trd>&c_t;&c_je;&c_p;&c_je;&c_r;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.126 2023/10/20 05:22:00
+revo: transskribo per <pr>
+
+versio 1.124 2023/08/29 15:27:40
+Wolfram Diestel: ja: prononco
+
+versio 1.123 2023/07/14 10:35:14
+Dmitri Gabinski: + trd be
+
+versio 1.122 2023/05/05 17:57:59
+revo: aktualigo URL-unuoj
+
+versio 1.121 2023/03/26 13:29:00
+Paul Peeraerts: &Monato;
+
+versio 1.120 2022/10/30 21:28:24
+Wolfram Diestel: nun: +ekz-oj, ref-oj
+
+versio 1.119 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.116 2022/01/13 23:32:13
+-->
+</vortaro>

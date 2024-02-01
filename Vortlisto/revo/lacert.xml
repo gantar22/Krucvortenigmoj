@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lacert.xml,v 1.33 2024/01/15 16:14:07 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lacert</rad>/o
+</kap>
+<drv mrk="lacert.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="lacert1.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Lacerta</trd>),
+      malgranda ovnaska <ref tip="lst" cel="reptil.0o" lst="voko:reptilioj">reptilio</ref> kun kvar
+      mallongaj piedoj kaj
+      longa
+      maldika vosto:
+      <ekz>
+        la <tld/>o kro&ccirc;i&gcirc;as per siaj manoj, tamen &gcirc;i estas en re&gcirc;aj
+        palacoj
+        <fnt><bib>MT</bib>, <lok>Sentencoj 30:28</lok></fnt>;
+      </ekz>
+      <ekz>
+        rapide kaj lerte kuradis kelke da <tld/>oj en la fendoj de
+        maljuna arbo
+         <fnt><bib>Fab2</bib>, <lok>Avineto</lok></fnt>.
+      </ekz>
+    </dif>
+    <bld lok="../bld/lacerto.jpg">lacerto sur &scirc;tono</bld>
+  </snc>
+  <trd lng="be">&c_ja;&c_sh;&c_ch;&c_a;&c_r;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_g;&c_u;&c_shch;&c_je;&c_r;</trd>
+  <trd lng="br">glazard</trd>
+  <trdgrp lng="ca">
+    <trd>llangardaix</trd>,
+    <trd>sargantana</trd>
+  </trdgrp>
+  <trd lng="de">Eidechse</trd>
+  <trd lng="el">&sigma;&alfa;&ypsilon_ton;&rho;&alfa;</trd>
+  <trd lng="en">lizard</trd>
+  <trd lng="es">lagarto</trd>
+  <trd lng="fr">l&eacute;zard</trd>
+  <trd lng="hu">gy&iacute;k</trd>
+  <trd lng="nl">hagedis</trd>
+  <trd lng="pl">lacerta  <klr>(jaszczurka)</klr></trd>
+  <trd lng="pt">lagarto</trd>
+  <trd lng="ro">lacerta</trd>
+  <trd lng="ru">&c_ja;&c_shch;&c_je;&c_r;&c_i;&c_c;&c_a;</trd>
+  <trd lng="tr">kertenkele</trd>
+  <trdgrp lng="zh">
+    <trd>&#x8725;&#x8734; <pr>x&#x12B;y&#xEC;</pr></trd>,
+    <trd>&#x77F3;&#x9F8D;&#x5B50; <pr>sh&#xED;l&#xF3;ngzi</pr></trd>,
+    <trd>&#x77F3;&#x9F99;&#x5B50; <pr>sh&#xED;l&#xF3;ngzi</pr></trd>,
+    <trd>&#x8725;&#x6613; <pr>x&#x12B;y&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+<drv mrk="lacert.L0o">
+  <kap><tld lit="L"/>o
+    <fnt>
+      <aut>Galad&iacute;-Enr&iacute;quez, David; Wandel, Amri</aut>:
+      <vrk>La kosmo kaj ni. Galaksioj, planedoj kaj vivo en la
+      universo</vrk>.
+      <lok>FEL, Antverpeno, 2005</lok>
+    </fnt>
+  </kap>
+  <mlg>Lac</mlg>
+  <snc mrk="lacert.L0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Nord-hemisfera <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref>
+      (<trd lng="la">Lacerta</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_Ja;&c_sh;&c_ch;&c_a;&c_r;&c_k;&c_a; <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#x2019;&c_je;)</klr></trd>
+  <trd lng="bo">&#xF62;&#xFA9;&#xF44;&#xF0B;&#xF54;&#xF0B;&#xF41;&#xF0B;&#xF62;&#xF63;&#xF0B;</trd>
+  <trd lng="en">Lacerta</trd>
+  <trd lng="fr">L&eacute;zard<klr tip="ind"> (constellation)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C8;&#x30AB;&#x30B2;</trd>,
+    <trd>&#x30B3;&#x30E2;&#x30C1;&#x30AB;&#x30CA;&#x30D8;&#x30D3;</trd>
+  </trdgrp>
+  <trd lng="pl">Jaszczurka  <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">&#x218;op&acirc;rla  <klr>(constela&#x21B;ie)</klr></trd>
+  <trd lng="uk">&#x44F;&c_shch;&c_ib;&c_r;&#x43A;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x874E;&#x864E;&#x5EA7; <pr>Xi&#x113;h&#x1D4;zu&#xF2;</pr></trd>,
+    <trd>&#x880D;&#x864E;&#x5EA7; <pr>Xi&#x113;h&#x1D4;zu&#xF2;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2022/10/03 22:38:23
+Vito Redsky: +trd pl + trd ro
+
+versio 1.30 2022/09/28 13:06:53
+Dmitri Gabinski: + trd be
+
+Revision 1.26  2017/05/02 09:10:14  revo
+Ludoviko Francisco: +drv
+
+Revision 1.25  2016/07/25 20:10:15  revo
+Wolfram Diestel: +ekz
+
+Revision 1.24  2016/07/24 18:10:17  revo
+Wolfram Diestel: +bildo
+
+Revision 1.23  2013/10/25 16:10:14  revo
+Wolfram Diestel: ref al lst reptilioj
+
+Revision 1.22  2013/09/08 19:10:53  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.21  2013/09/01 15:46:22  revo
+-->
+</vortaro>

@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: al1.xml,v 1.32 2023/10/12 18:05:09 revo Exp $">
+<kap>
+  <rad>al</rad>/o
+</kap>
+<drv mrk="al1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="al1.0o.objekto">
+    <dif>
+      <ref tip="super" cel="objekt.0o">Objekto</ref> forme (sed ne funkcie) 
+      iom simila al birda <ref cel="flug.0ilo">flugilo</ref>:
+      <ekz>
+        sekaj abioj denspremi&gcirc;is unu al la alia, &ccirc;irka&ubreve;prenante sin per la bran&ccirc;oj kaj
+        malalten mallevinte siajn <tld/>ojn
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>.
+      </ekz>
+      Kaj specife:
+    </dif>
+    <subsnc mrk="al1.0o.ANA">
+      <uzo tip="fak">ANA</uzo>
+      <dif>
+        &ccirc;iu ekstrema flanka parto de la <ref tip="malprt" cel="naz.0o.homo">nazo</ref>.
+      </dif>
+      <ref tip="vid" cel="lob.0o">lobo</ref>
+      <ref tip="hom" cel="nazal.0o">nazalo</ref>
+      <trd lng="bg">&c_n;&c_o;&c_z;&c_d;&c_r;&c_a;</trd>
+      <trd lng="ca">ala del nas</trd>
+      <trd lng="de">Nasenfl&uuml;gel</trd>
+      <trd lng="en">nostril</trd>
+      <trd lng="it">pinna<klr> (del naso)</klr></trd>
+      <trd lng="nl">neusvleugel</trd>
+      <trd lng="pt">aba</trd>
+    </subsnc>
+    <subsnc mrk="al1.0o.helica">
+      <uzo tip="fak">TEK</uzo>
+      <dif>
+        &ccirc;iu flugilforma peco de <ref tip="malprt" cel="rotor.0o">rotoro</ref>:  
+        <ekz>
+          en la aero komencas io zumi, ie sub la suno mem briletas ar&gcirc;enta <tld/>o kaj sur
+          niajn kapojn &scirc;uti&gcirc;as pluvo de agitfolioj
+          <fnt>
+            <bib>Metrop</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la <tld/>oj de mueliloj &scirc;ajnis gigantaj brakoj
+          <fnt>
+            <bib>DKM</bib>
+          </fnt>.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="padel.0o">padelo</ref>
+      <trd lng="ca">pala, paleta</trd>
+      <trdgrp lng="de">
+        <trd>Schaufelblatt</trd>,
+        <trd>Fl&uuml;gel <klr>(Rotor)</klr></trd>
+      </trdgrp>
+      <trd lng="it">estremit&agrave;</trd>
+      <trd lng="pt">p&aacute;</trd>
+      <trd lng="ru">&c_l;&c_o;&c_p;&c_a;&c_s;&c_t;&c_mol;</trd>
+    </subsnc>
+    <subsnc mrk="al1.0o.ARKI">
+      <uzo tip="fak">ARKI</uzo>
+      <dif>
+        &ccirc;iu ekstrema <ref tip="super" cel="flank.0o.propre">flanko</ref>
+        de <ref tip="malprt" cel="konstr.0ajxo">konstrua&jcirc;o</ref>, <ref tip="malprt" cel="pord.0ego">pordego</ref> ks:
+        <ekz>
+          Poncio Pilato, la prokuratoro de Judujo, <klr>[&#x2026;]</klr> eliris en la portikon
+          inter la du <tld/>oj de la palaco de Herodo
+          <fnt>
+            <bib>MkM</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la geknaboj lar&gcirc;e malfermis la du <tld/>ojn de la malhela &ccirc;ambro kaj la etere
+          delikata <nom>Lu&ccirc;ia</nom> <klr>[&#x2026;]</klr> kun sia bonodora kafo enpa&scirc;is
+          <fnt>
+            <bib>KKr</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          oni elprenis eksplod-tubegon <klr>[&#x2026;]</klr>, fiksis &gcirc;in al la kverka
+          pordego kaj kun surdiga tondro detruis ties &scirc;talplatajn
+          <tld/>ojn
+          <fnt>
+          <aut>Jozefo Horvath</aut>: 
+          <vrk><url ref="&Monato;/2002/pdf/monato200208.pdf#page=22">Gy&odblac;r a&ubreve; kie
+          ekkokerikis ventokoko</url></vrk>, 
+          <bib>Monato</bib>
+          <lok>2002/08, p. 22</lok></fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">      
+         <ref cel="transe.0o">transepto</ref>
+      </refgrp>
+      <trdgrp lng="ca">
+        <trd>ala <klr>(constr.)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="de">
+        <trd>Seitenfl&uuml;gel</trd>,
+        <trd>Fl&uuml;gel <klr>(T&uuml;r)</klr></trd>
+      </trdgrp>
+      <trd lng="en">wing</trd>
+      <trd lng="es">ala</trd>
+      <trdgrp lng="it">
+        <trd>ala</trd>, 
+        <trd>braccio<klr> (arch.)</klr></trd>
+      </trdgrp>
+      <trd lng="pt">ala</trd>
+    </subsnc>
+    <subsnc mrk="al1.0o.POL">
+      <uzo tip="fak">POL</uzo><uzo tip="fak">MIL</uzo> 
+      <dif>        
+        &ccirc;iu ekstrema flanko de <ref tip="malprt" cel="arme.0o.unuo">armeo</ref> a&ubreve; 
+        <ref tip="malprt" cel="parti.0o.POL">partio</ref>:
+        <ekz>
+          oni ne povis eviti skismon, kiam la porsoveta <tld/>o (SEU) forlasis SAT
+          <fnt>
+            <bib>Dan&gcirc;Lng</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la respublikisma partio, rigardata kiel politika <tld/>o de la Irlanda
+          Respublikisma Armeo, kaj la sola tutinsula partio, gajnis ses
+          <klr>[deputitojn]</klr>
+          <fnt>
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2002/007841.html">Irlando &dash;
+            Ili fruktis kaj multi&gcirc;is</url></vrk>
+            <bib>Monato</bib>
+            <lok>2002/07, p. 14</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          nun necesis igi la partion akceptinda <klr>[&#x2026;]</klr> per forigo de la
+          plej &leftquot;bruna&rightquot; <tld/>o
+          <fnt>
+          <aut>Baard Hekland</aut>:
+            <vrk><url ref="&Monato;/2001/pdf/monato200111.pdf#page=6">Triumfas tedulo</url></vrk>, 
+            <bib>Monato</bib>
+            <lok>2001/11, p. 6</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="ca">flanc (mil.)</trd>
+      <trd lng="de">Fl&uuml;gel <klr>(Politik, Armee)</klr></trd>
+      <trd lng="en">branch</trd>
+      <trd lng="it">ala</trd>
+      <trd lng="pt">ala</trd>
+    </subsnc>
+    <subsnc mrk="al1.0o.sxaka">
+    <uzo tip="fak">SPO</uzo>
+      <dif>
+        vertikala duono de la <ref tip="malprt" cel="sxak.0tabulo">&scirc;aktabulo</ref>.
+      </dif>
+      <trd lng="de">Fl&uuml;gel <klr>(Schachbrett)</klr></trd>
+      <trd lng="en">wing</trd>
+      <trdgrp lng="it">
+        <trd>ala<klr> (scacchi)</klr></trd>, 
+        <trd>fianco<klr> (scacchi)</klr></trd>,
+        <trd>lato<klr> (scacchi)</klr></trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <ref tip="hom" cel="al.0">al</ref>
+  <adm>
+    PV markis la vorton kiel Zamenhofan, en PIV1 tiu atribuo
+    malaperis.
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_r;&c_y;&c_l;&c_o;</trd>,
+    <trd>&c_l;&c_o;&c_p;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_k;&c_r;&c_i;&c_l;&c_o;</trd>
+  <trd lng="ca">ala</trd>
+  <trd lng="de">Fl&uuml;gel</trd>
+  <trd lng="fr">aile</trd>
+   <trd lng="it">ala</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7FFC;  <pr>&#x3064;&#x3070;&#x3055;</pr></trd>,
+    <trd>&#x7FBD;&#x6839;  <pr>&#x306F;&#x306D;</pr></trd>,
+    <trd>&#x9F3B;&#x7FFC;  <pr>&#x3073;&#x3088;&#x304F;</pr></trd>,
+    <trd>&#x5C0F;&#x9F3B;  <pr>&#x3053;&#x3070;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">vleugel</trd>
+  <trd lng="ru">&c_k;&c_r;&c_y;&c_l;&c_o;</trd>
+  <trd lng="sk">kr&iacute;dlo</trd>
+  <trd lng="cs">k&rcaron;&iacute;dlo <klr>(domu| chr&aacute;mu| letadla)</klr></trd>
+  <trd lng="uk">&#x43A;&c_r;&c_i;&#x43B;&#x43E; (&#x43B;&c_ib;&c_t;&c_a;&#x43A;&c_a;)</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.32 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.30 2023/05/20 07:22:30
+Paul Peeraerts: + aut + lok
+
+versio 1.29 2023/05/02 15:56:27
+revo: aktualigo URL-unuoj
+
+versio 1.27 2021/04/17 07:01:20
+Wolfram Diestel: kor. ref
+
+versio 1.26 2021/04/16 15:59:10
+Wolfram Diestel: helico->rotoro
+
+versio 1.25 2021/04/16 13:52:26
+Wolfram Diestel: ekz-oj, fak-vinjetoj, ref-oj
+
+Revision 1.23  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/28 12:03:35  revo
+-->
+</vortaro>

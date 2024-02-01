@@ -1,0 +1,642 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: prospe1.xml,v 1.29 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>prosper</rad>/i <fnt><bib>FK</bib></fnt>
+</kap>
+<drv mrk="prospe1.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="prospe1.0i.ntr">
+    <dif>
+      <ref tip="super" cel="evolu.0i.disvolvigxi">Evolui</ref>
+      en kontentiga, sukcesa maniero,
+      eventuale atingante kontentigan rezulton
+      <klr>(vd <ref cel="prospe1.0i_al"><tld/>i al</ref>)</klr>:
+      <ekz>
+        <klr>[la]</klr> malgranda rozarbeta&jcirc;o <klr>[&#x2026;]</klr> kreskis kaj <tld/>is belege
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;io, kion mi deziras, bone <tld/>as
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 23:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu koleras, tiu ne <tld/>as
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bril.0i">brili</ref>,
+      <ref cel="flor.0i.prosperi">flori<sncref/></ref>,
+      <ref cel="progre.0i">progresi</ref>,
+      <ref cel="sukces.0i">sukcesi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_c;&c_mol;&c_v;&c_ib;&c_t;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_v;&c_ib;&c_t;&c_n;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_m;&c_je;&c_c;&c_mol; <ind>&c_p;&c_o;&c_s;&c_mol;&c_p;&c_je;&c_h;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>da&rcaron;it se</trd>,
+    <trd>m&iacute;t &uacute;sp&ecaron;ch</trd>,
+    <trd>poda&rcaron;it se</trd>,
+    <trd>prosperovat</trd>,
+    <trd>prosp&iacute;vat</trd>,
+    <trd>sv&ecaron;d&ccaron;it</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>gedeihen</trd>,
+    <trd>prosperieren</trd>,
+    <trd><ind>Erfolg</ind> haben</trd>,
+    <trd>gelingen</trd>
+  </trdgrp>
+  <trd lng="en">prosper</trd>
+  <trd lng="es">prosperar</trd>
+  <trdgrp lng="fr">
+    <trd>prosp&eacute;rer</trd>,
+    <trd>r&eacute;ussir</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vir&aacute;gzik</trd>,
+    <trd>el&odblac;rehalad</trd>,
+    <trd>j&oacute;l megy</trd>,
+    <trd>siker&uuml;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6804;&#x3048;&#x3066;&#x3044;&#x308B;  <pr>&#x3055;&#x304B;&#x3048;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x7E41;&#x6804;&#x3057;&#x3066;&#x3044;&#x308B;  <pr>&#x306F;&#x3093;&#x3048;&#x3044;&#x3057;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x7E41;&#x76DB;&#x3057;&#x3066;&#x3044;&#x308B;  <pr>&#x306F;&#x3093;&#x3058;&#x3087;&#x3046;&#x3057;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x7E41;&#x8302;&#x3057;&#x3066;&#x3044;&#x308B;  <pr>&#x306F;&#x3093;&#x3082;&#x3057;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x3046;&#x307E;&#x304F;&#x3044;&#x304F;</trd>,
+    <trd>&#x6210;&#x529F;&#x3059;&#x308B;  <pr>&#x305B;&#x3044;&#x3053;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bloeien</trd>,
+    <trd>gedijen</trd>,
+    <trd>prospereren</trd>,
+    <trd>geslaagd zijn</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>prosperowa&cacute;</trd>,
+    <trd>dopisywa&cacute;  <klr>(powodzi&cacute; si&eogonek;)</klr></trd>,
+    <trd>powodzenie mie&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_je;&c_u;&c_s;&c_p;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_c;&c_v;&c_je;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_i;&c_m;&c_je;&c_t;&c_mol; &c_u;&c_s;&c_p;&c_je;&c_h;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ma&tcaron; &uacute;spech</trd>,
+    <trd>prosperova&tcaron;</trd>,
+    <trd>prospie&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_c;&c_v;&c_ib;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_ib;&c_t;&c_i; &c_d;&#x43E;&c_b;&c_r;&c_je;</trd>,
+    <trd>&c_u;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_d;&#x43E;&c_b;&c_r;&c_je; &c_v;&c_je;&c_s;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&#x43C;&c_a;&c_t;&c_i; &c_u;&c_s;&#x43F;&c_ib;&c_h;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="prospe1.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="prospe1.0a.KOMUNE">
+    <dif>
+      Bone vivanta, kreskanta, atinganta kontenton:
+      <ekz>
+        <tld/>aj urboj;
+      </ekz>
+      <ekz>
+        <tld/>a stato;
+      </ekz>
+      <ekz>
+        la kelkmonata regado de la vic-re&gcirc;o estis tre <tld/>a por <klr>[la lando]</klr>
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio]</klr> cetere estis ne tute <tld/>a komparo
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>
+        (<refgrp tip="vid">
+          <ref cel="gxust.0a">&gcirc;usta</ref>,
+          <ref cel="tauxg.0a">ta&ubreve;ga</ref>
+        </refgrp>).
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="felicx.0a">feli&ccirc;a</ref>,
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_v;&c_ib;&c_t;&c_n;&c_je;&c_ju;&c_ch;&c_y;</trd>,
+    <trd>&c_sh;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>gedeihlich</trd>,
+    <trd>prosperierend</trd>,
+    <trd>erfolgreich</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>florissant</trd>,
+    <trd>plantureux</trd>,
+    <trd>prosp&egrave;re</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6804;&#x3048;&#x3066;&#x3044;&#x308B;  <pr>&#x3055;&#x304B;&#x3048;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x9686;&#x76DB;&#x306A;  <pr>&#x308A;&#x3085;&#x3046;&#x305B;&#x3044;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>prosperuj&aogonek;cy</trd>,
+    <trd>pomy&sacute;lny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_s;&#x43F;&c_ib;&c_sh;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_u;&c_d;&c_a;&#x43B;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_c;&c_v;&c_ib;&c_t;&c_a;&#x44E;&c_ch;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="prospe1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="prospe1.0o.KOMUNE">
+    <dif>
+      Kontentiga stato:
+      <ekz>
+        lia subita ek<tld/>o mirigis &ccirc;iujn;
+      </ekz>
+      <ekz>
+        post sufero venas <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen ordo en afero ne ekzistas <tld/>o
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        tio donis monon, kaj al tio la grandkomercisto &scirc;uldis sian <tld/>on
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Infana babilado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tuta malordo fini&gcirc;os per paco kaj &gcirc;enerala <tld/>o
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="felicx.0o">feli&ccirc;o</ref>,
+      <ref cel="flor.0ado">florado</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_c;&c_mol;&c_v;&c_ib;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_r;&c_o;&c_s;&c_k;&c_v;&c_ib;&c_t;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_mol;&c_p;&c_je;&c_h;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>rozkv&ecaron;t</trd>,
+    <trd>rozvoj</trd>,
+    <trd>zdar</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Gedeihen</trd>,
+    <trd>Wohlstand</trd>
+  </trdgrp>
+  <trd lng="en">prosperity</trd>
+  <trd lng="es">prosperidad</trd>
+  <trdgrp lng="fr">
+    <trd>prosp&eacute;rit&eacute;</trd>,
+    <trd>r&eacute;ussite</trd>,
+    <trd>succ&egrave;s</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vir&aacute;gz&aacute;s</trd>,
+    <trd>siker</trd>,
+    <trd>halad&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7E41;&#x6804;  <pr>&#x306F;&#x3093;&#x3048;&#x3044;</pr></trd>,
+    <trd>&#x7E41;&#x76DB;  <pr>&#x306F;&#x3093;&#x3058;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x76DB;&#x6CC1;  <pr>&#x305B;&#x3044;&#x304D;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x9686;&#x76DB;  <pr>&#x308A;&#x3085;&#x3046;&#x305B;&#x3044;</pr></trd>,
+    <trd>&#x6210;&#x529F;  <pr>&#x305B;&#x3044;&#x3053;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bloei</trd>,
+    <trd>voorspoed</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dobrobyt</trd>,
+    <trd>pomy&sacute;lno&sacute;&cacute;</trd>,
+    <trd>powodzenie</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_c;&c_v;&c_je;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_u;&c_s;&c_p;&c_je;&c_h;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prosperita</trd>,
+    <trd>rozkvet</trd>,
+    <trd>rozvoj</trd>,
+    <trd>&uacute;spech</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_d;&c_a;&c_ch;&c_a;</trd>,
+    <trd>&c_u;&c_s;&#x43F;&c_ib;&c_h;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_c;&c_v;&c_ib;&c_t;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="prospe1.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="prospe1.0igi.KOMUNE">
+    <dif>
+      Kreskigi, fruktigi, sukcesigi:
+      <ekz>
+        la bona Dio mem &gcirc;in plantis kaj <tld/>igis
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kvin en unu silikvo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni provu diveni la &gcirc;eneralajn ka&ubreve;zojn kiuj <tld/>igas la 
+        kart-a&ubreve;guran profesion
+        <fnt>
+          <aut>P. Cadei</aut>,
+          <vrk><url ref="http://www.radio-vatikana-esperanto.org/elsendo.php?d=2004-05-13">
+          Kial la kartodivenado furoras?</url></vrk>,
+          <lok>Radio Vaticana, 2004-05-13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_ch;&c_v;&c_a;&c_c;&c_mol; <ind>&c_p;&c_r;&c_a;&c_c;&c_mol;&c_v;&c_ib;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>,
+    <trd>&c_z;&c_a;&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_ch;&c_v;&c_a;&c_c;&c_mol; <ind>&c_d;&c_a;&c_b;&c_r;&c_a;&c_b;&c_y;&c_t;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>faire <ind>fructifier</ind><klr> (fig.)</klr></trd>,
+    <trd>faire <ind>prosp&eacute;rer</ind></trd>,
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6804;&#x3048;&#x3055;&#x305B;&#x308B;  <pr>&#x3055;&#x304B;&#x3048;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x7E41;&#x6804;&#x306B;&#x5C0E;&#x304F;  <pr>&#x306F;&#x3093;&#x3048;&#x3044;&#x306B;&#x307F;&#x3061;&#x3073;&#x304F;</pr></trd>,
+    <trd>&#x7E41;&#x76DB;&#x3055;&#x305B;&#x308B;  <pr>&#x306F;&#x3093;&#x3058;&#x3087;&#x3046;&#x3055;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">zdarzy&cacute;</trd>
+</drv>
+
+<drv mrk="prospe1.mal0a">
+  <kap>mal<tld/>a, <var><kap>ne<tld/>a</kap></var></kap>
+  <snc mrk="prospe1.mal0a.KOMUNE">
+    <dif>
+      Ne sukcesanta, ne kreskanta:
+      <ekz>
+        ni kompreneble havos anta&ubreve; la okuloj ne la diversajn mal<tld/>ajn provojn
+        anta&ubreve;ajn
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e la plej mal<tld/>a konsisto de la kongreso en &gcirc;i tamen sidos homoj pensantaj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la komenco estis ne<tld/>a
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne<tld/>a aludo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Pli &gcirc;uste oni devus distingi inter &leftquot;ne<tld/>a&rightquot;, t.e. sen sukceso kaj
+      &leftquot;mal<tld/>a&rightquot;, t.e. e&ccirc; dama&gcirc;a.
+      <aut>WD</aut>
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_w;&c_d;&c_a;&c_l;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_sh;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_z;&c_a;&c_n;&c_ja;&c_p;&c_a;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ch&eacute;tif</trd>,
+    <trd>chiche</trd>,
+    <trd>inabouti</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5371;&#x6A5F;&#x306B;&#x7015;&#x3057;&#x305F;  <pr>&#x304D;&#x304D;&#x306B;&#x3072;&#x3093;&#x3057;&#x305F;</pr></trd>,
+    <trd>&#x8870;&#x9000;&#x3057;&#x3066;&#x3044;&#x308B;  <pr>&#x3059;&#x3044;&#x305F;&#x3044;&#x3057;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x884C;&#x304D;&#x8A70;&#x307E;&#x3063;&#x305F;  <pr>&#x3044;&#x304D;&#x3065;&#x307E;&#x3063;&#x305F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>niepomy&sacute;lny</trd>,
+    <trd>niefortunny</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43D;&c_je;&c_v;&c_d;&c_a;&#x43B;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="prospe1.mal0i">
+  <kap>mal<tld/>i</kap>
+  <snc mrk="prospe1.mal0i.KOMUNE">
+    <dif>
+      Resti en malbona situacio, ne atingante la dezirindan staton:
+      <ekz>
+        mal<tld/>os al ili atingi, en la sama tago, la domon de <nom>Kedar</nom>
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 12a</lok></fnt>;
+      </ekz>
+      <ekz>
+        mal<tld/>as <klr>[&#x2026;]</klr> telefonkunligo de la najbaraj landoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>LAST</aut>
+          <vrk><url ref="&Monato;/2003/007918.html">Telefonmonopolisto
+          malprosperas</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se mal<tld/>as moralo kaj arto, justico ne trafas
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jomo Ipfelkofer</aut>
+          <vrk><url ref="&Monato;/2013/010677.php">Lingva konfuzo kaj
+          Konfuceo</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fiask.0i">fiaski</ref>,
+      <ref cel="sukces.mal0i">malsukcesi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_n;&c_ja;&c_w;&c_d;&c_a;&c_l;&c_y;&c_m;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; &c_u; <ind>&c_z;&c_a;&c_n;&c_ja;&c_p;&c_a;&c_d;&c_z;&c_je;</ind></trd>,
+    <trd>&c_z;&c_a;&c_n;&c_je;&c_p;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">upadat</trd>
+  <trdgrp lng="de">
+    <trd>verfallen</trd>,
+    <trd>scheitern</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>to languish</trd>,
+    <trd>decline</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;cliner<klr> (d&eacute;p&eacute;rir)</klr></trd>,
+    <trd>d&eacute;p&eacute;rir</trd>,
+    <trd>&eacute;chouer</trd>,
+    <trd>p&eacute;ricliter</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5371;&#x6A5F;&#x306B;&#x7015;&#x3057;&#x3066;&#x3044;&#x308B;  <pr>&#x304D;&#x304D;&#x306B;&#x3072;&#x3093;&#x3057;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x8870;&#x9000;&#x3057;&#x3066;&#x3044;&#x308B;  <pr>&#x3059;&#x3044;&#x305F;&#x3044;&#x3057;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x884C;&#x304D;&#x8A70;&#x307E;&#x3063;&#x3066;&#x3044;&#x308B;  <pr>&#x3044;&#x304D;&#x3065;&#x307E;&#x3063;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x5931;&#x6557;&#x3059;&#x308B;  <pr>&#x3057;&#x3063;&#x3071;&#x3044;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">tegenspoed beleven</trd>
+  <trdgrp lng="pl">
+    <trd>nie  <ind>powodzi&cacute;</ind>  si&eogonek;</trd>,
+    <trd>nie udawa&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trd lng="sk">upada&tcaron;</trd>
+  <trd lng="uk">&c_z;&c_a;&c_z;&#x43D;&c_a;&c_v;&c_a;&c_t;&c_i; &#x43D;&c_je;&c_v;&c_d;&c_a;&c_ch;&c_ib;</trd>
+</drv>
+
+<drv mrk="prospe1.mal0o">
+  <kap>mal<tld/>o</kap>
+  <snc mrk="prospe1.mal0o.KOMUNE">
+    <dif>
+      Neatingo de ia bona&jcirc;o a&ubreve; dezirata&jcirc;o:
+      <ekz>
+        mi vagis tien kaj reen sur la ferdeko, kun kuspita kolumo kaj 
+        la manoj enpo&scirc;e, pensante pri mia mal<tld/>o en la lernejo
+        <fnt><bib>Kiso</bib>, <lok>la sakramento de la 
+        komunio</lok></fnt>;
+      </ekz>
+      <ekz>
+        la <klr>[&#x2026;]</klr> mal<tld/>o de ka&scirc;e flegata miliononula konto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2013/010812.php">Po&scirc;to perdita</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_w;&c_d;&c_a;&c_ch;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_n;&c_ja;&c_p;&c_a;&c_d;</trd>
+  </trdgrp>
+  <trd lng="cs">&uacute;padek</trd>
+  <trdgrp lng="de">
+    <trd>Verfall</trd>,
+    <trd>Mi&szlig;erfolg</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>decline</trd>,
+    <trd>slump</trd>, <trd>stagnation</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;cadence</trd>,
+    <trd>d&eacute;p&eacute;rissement</trd>,
+    <trd>&eacute;chec</trd>,
+    <trd>insucc&egrave;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8870;&#x5FAE;  <pr>&#x3059;&#x3044;&#x3073;</pr></trd>,
+    <trd>&#x8870;&#x9000;  <pr>&#x3059;&#x3044;&#x305F;&#x3044;</pr></trd>,
+    <trd>&#x884C;&#x304D;&#x8A70;&#x307E;&#x308A;  <pr>&#x3044;&#x304D;&#x3065;&#x307E;&#x308A;</pr></trd>,
+    <trd>&#x5931;&#x6557;  <pr>&#x3057;&#x3063;&#x3071;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">tegenspoed</trd>
+  <trdgrp lng="pl">
+    <trd>niepowodzenie</trd>,
+    <trd>niepomy&sacute;lno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>neprospech</trd>,
+    <trd>&uacute;padok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_v;&c_d;&c_a;&c_ch;&c_a;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_v;&c_a;&#x43B;</trd>,
+    <trd>&#x43A;&c_r;&c_a;&c_h;</trd>,
+    <trd>&#x43A;&c_a;&c_t;&c_a;&c_s;&c_t;&c_r;&#x43E;&c_f;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="prospe1.mal0igi">
+  <kap>mal<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="prospe1.mal0igi.KOMUNE">
+    <dif>
+      Ka&ubreve;zi malkreskon, kadukecon, malbrili&gcirc;on:
+      <ekz>
+        tertremoj, kirloventoj, fajregoj kaj malsategoj okazis  
+        lastajn jarojn en Kioto, kio  mal<tld/>igis la urbon &gcirc;is 
+        ekstremo
+        <fnt>
+          <aut>R. Akutagawa, trad. T. Aoyama</aut>,
+          <vrk><url ref="http://bluamonto.web.fc2.com/rashomon.pdf">
+          Rash&#x161D;mon</url></vrk>,
+          <lok>[vidita en 2017]</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        maldungi laboristojn kaj maltrankviligi popolanojn signifas mal<tld/>igi
+        kompaniojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="&Monato;/2009/009770.php">Vila&gcirc;o por maldungitoj</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekonomia mal<tld/>igo, korupto &ccirc;e &scirc;tataj oficistoj, e&ccirc; registara enmiksi&gcirc;o en
+        mafiajn aferojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2005/008751.php">Post ok jaroj: &scirc;an&gcirc;o</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_k;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_mol; <ind>&c_z;&c_a;&c_n;&c_ja;&c_p;&c_a;&c_d;</ind></trd>
+  <trd lng="de">verschlechtern</trd>
+  <trdgrp lng="fr">
+    <trd>affaiblir</trd>,
+    <trd>ruiner</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5371;&#x6A5F;&#x306B;&#x5C0E;&#x304F;  <pr>&#x304D;&#x304D;&#x306B;&#x307F;&#x3061;&#x3073;&#x304F;</pr></trd>,
+    <trd>&#x8870;&#x9000;&#x3055;&#x305B;&#x308B;  <pr>&#x3059;&#x3044;&#x305F;&#x3044;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x884C;&#x304D;&#x8A70;&#x307E;&#x3089;&#x305B;&#x308B;  <pr>&#x3044;&#x304D;&#x3065;&#x307E;&#x3089;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rujnowa&cacute;</trd>,
+    <trd>niszczy&cacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="prospe1.0i_al">
+  <kap>
+    <tld/>i al
+  </kap>
+  <snc mrk="prospe1.0i_al.sukcesi">
+    <dif>
+      <ref tip="dif" cel="sukces.0i">Sukcesi</ref>:
+      <ekz>
+        la versfarado ne <tld/>as al mi
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nenio <tld/>is al vi
+        <fnt>
+          <bib>NT</bib>
+          <lok>Johano 12:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u <tld/>os al ili veni al interkonsento pri tiu &ccirc;i elekto
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu &ccirc;i afero iom <tld/>is al mi, kaj tiun &ccirc;i frukton de longatempaj persistaj
+        laboroj mi proponas nun
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nek al vi, nek al alia <tld/>os for&scirc;iri lin de mi
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>is al li konvinki almena&ubreve; kelkajn personojn
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_b;&c_ib;&c_c;&c_c;&c_a; <ind>&c_p;&c_o;&c_s;&c_mol;&c_p;&c_je;&c_h;&c_u;</ind> &c_w; &#x2026;</trd>
+  <trd lng="de">gelingen</trd>
+  <trd lng="pl">udawa&cacute; si&eogonek;</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.29 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.27 2023/05/07 23:24:34
+Vito Redsky: +trd pl 
+
+versio 1.26 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2022/05/04 08:37:14
+Dmitri Gabinski: + trd be
+
+versio 1.24 2022/04/21 09:41:05
+Dmitri Gabinski: + trd be
+
+versio 1.22 2021/11/20 09:30:33
+Wolfram Diestel: +ref
+
+versio 1.21 2020/11/15 10:32:20
+Wolfram Diestel: mvosi snc 2 al drv "~i al", +ekz-oj, germ trd-oj
+
+Revision 1.19  2017/05/18 20:10:17  revo
+-->
+</vortaro>

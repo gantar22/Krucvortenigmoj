@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pogacx.xml,v 1.3 2023/11/17 09:26:24 revo Exp $">
+<kap>
+  <rad>poga&ccirc;</rad>/o
+</kap>
+<drv mrk="pogacx.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pogacx.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Diskoforma bakita pankuko,
+      populara en sudorienta E&ubreve;ropo kaj Turkujo:
+      <ekz>
+        sufi&ccirc;e ni man&gcirc;is bakitajn &scirc;afidojn,
+        sufi&ccirc;e ni man&gcirc;is blankajn <tld/>ojn
+        <fnt>
+          <aut>M. Abesgus</aut>,
+          <vrk><url
+          ref="http://eo.wikisource.org/wiki/Kraljevi%C4%89_Marko">
+          Kraljevi&ccirc; Marko</url></vrk>,
+          <lok>1896</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_g;&c_a;&c_ch;&c_a;</trd>
+  <trd lng="fr">pogatcha</trd>
+  <trd lng="pl">p&aogonek;czek</trd>
+  <trd lng="ro">covrig</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.3 2023/11/17 09:26:24
+Dmitri Gabinski: + trd be
+
+versio 1.2 2023/03/09 22:31:28
+Vito Redsky: +trd pl + trd ro
+-->
+</vortaro>

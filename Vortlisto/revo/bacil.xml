@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bacil.xml,v 1.34 2023/10/29 19:10:59 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>bacil</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="bacil.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bacil.0o.BAK">
+    <uzo tip="fak">BAK</uzo>
+    <dif>
+      Speco de <ref tip="super" cel="mikrob.0o">mikrobo</ref>
+      kun formo de bastoneto:
+      <ekz>
+        oni sciis, ke lepron ka&ubreve;zas la <tld/>o <nom>Mycobacterium
+        leprae</nom>, 
+        sed &gcirc;is tiam neniu sukcesis kultivi tiun <tld/>on en
+        laboratorio,
+        por ebligi detalajn studojn pri &gcirc;i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2007/009080.php">Kial la
+          malestimo je la afrika medicino?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en 1882 <nom>Robert Koch</nom> malkovris la mikroban ka&ubreve;zanton
+        de tuberkulozo,
+        oni tiam nomis &gcirc;in <tld/>o (bakterio) de <nom>Koch</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2011/010389.php">Dan&gcirc;era
+          malamiko revenas</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la <tld/>oj de tiu &ccirc;i malsano portas sin en la radioj de la
+        suno, 
+        kaj en mallumo ili ne povas vivi, tial la plej bona rimedo
+        kontra&ubreve; 
+        la esperantismo estas: sidi &ccirc;iam en profunda mallumo kaj allasi 
+        al si nenian radion de la suno
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bakter.0o">bakterio</ref>.
+    </refgrp>
+    <trdgrp lng="zh">
+    <trd>&#x6746;&#x5F62;&#x7D30;&#x83CC; <pr>g&#x101;nx&#xED;ngx&#x12B;j&#x16B;n</pr></trd>,
+    <trd>&#x6746;&#x83CC; <pr>g&#x1CE;nj&#x16B;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_c;&c_y;&c_l;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_l;&c_a;&c_ch;&c_k;&c_a;
+    <klr>(&c_m;&c_ib;&c_k;&c_r;&c_o;&c_b;)</klr></trd>
+  </trdgrp>
+  <trd lng="bg">&c_b;&c_a;&c_c;&c_i;&c_l;</trd>
+  <trd lng="ca">bacil</trd>
+  <trd lng="cs">bacil</trd>
+  <trdgrp lng="de">
+     <trd>Bazillus</trd>,
+     <trd>Bazille</trd>,
+     <trd>Spaltpilz</trd>
+  </trdgrp>
+  <trd lng="en">bacillus</trd>
+  <trd lng="es">bacilo</trd>
+  <trd lng="fa">&a_b;&a_A;&a_s;&f_y;&a_l;</trd>
+  <trd lng="fr">bacille</trd>
+  <trd lng="he">&#x5D7;&#x5D9;&#x5D9;&#x5D3;&#x5E7;</trd>
+  <trd lng="hu">bacilus</trd>
+  <trd lng="it">bacillo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D0;&#x30C1;&#x30EB;&#x30B9;</trd>,
+    <trd>&#x687F;&#x83CC;  <pr>&#x304B;&#x3093;&#x304D;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">bacil</trd>
+  <trdgrp lng="pl">
+    <trd>bakcyl</trd>,
+    <trd>lasecznik</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_a;&c_c;&c_i;&c_l;&c_l;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_l;&c_o;&c_ch;&c_k;&c_a; <klr>(&c_v;&c_i;&c_d;
+    &c_m;&c_i;&c_k;&c_r;&c_o;&c_b;&c_a;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bacil</trd>,
+    <trd>bacil <klr>(pali&ccaron;kov&eacute;ho tvaru)</klr></trd>
+  </trdgrp>
+  <trd lng="sv">bacill</trd>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x430;&#x446;&#x438;&#x43B;&#x430;</trd>,
+    <trd>&#x43F;&#x430;&#x43B;&#x438;&#x447;&#x43A;&#x43E;&#x43F;&#x43E;&#x434;&#x456;&#x431;&#x43D;&#x430; &#x431;&#x430;&#x43A;&#x442;&#x435;&#x440;&#x456;&#x44F;</trd>,
+    <trd>&#x43F;&#x430;&#x43B;&#x438;&#x447;&#x43A;&#x430;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bacil.kojlo0o">
+  <kap>kojlo<tld/>o <fnt><bib>PIV1</bib></fnt></kap>
+  <snc mrk="bacil.kojlo0o.BAK">
+    <uzo tip="fak">BAK</uzo>
+    <dif>
+      Plej abunda bacilo vivanta en la digestosistemo de
+      mamuloj (<trd lng="la">Escherichia coli</trd>):
+      <ekz>
+        teo anka&ubreve; povas inhibicii kreskadon de kojlo<tld/>o
+        <fnt>
+          <aut>Xu Senrong, Niu Xueqin</aut>,
+          <vrk><url ref="http://www.espero.com.cn/se/txt/2013-05/13/content_542698.htm">
+          Teo</url></vrk>,
+          <lok>2013-05-13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_ib;&c_sh;&c_a;&c_ch;&c_n;&c_y; &c_p;&c_r;&c_u;&c_t;&c_o;&c_k;</trd>,
+    <trd>&c_k;&c_ib;&c_sh;&c_a;&c_ch;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_l;&c_a;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="fr">Escherichia coli</trd>
+  <trd lng="ja">&#x5927;&#x8178;&#x83CC;  <pr>&#x3060;&#x3044;&#x3061;&#x3087;&#x3046;&#x304D;&#x3093;</pr></trd>
+  <trd lng="ru">&c_k;&c_i;&c_sh;&c_je;&c_ch;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_l;&c_o;&c_ch;&c_k;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x438;&#x448;&#x43A;&#x43E;&#x432;&#x430; &#x43F;&#x430;&#x43B;&#x438;&#x447;&#x43A;&#x430;</trd>,
+    <trd>&#x43A;&#x43E;&#x43B;&#x456;&#x431;&#x430;&#x43A;&#x442;&#x435;&#x440;&#x456;&#x44F;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.33 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.31 2022/04/26 15:00:32
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.28 2021/11/09 09:31:09
+Dmitri Gabinski: + trd be
+
+versio 1.26 2020/03/05 19:10:17
+Sergio Pokrovskij: +trd=ru
+
+Revision 1.25  2019/06/30 07:47:08  revo
+adaptis URL de Monato
+
+Revision 1.24  2019/01/15 18:10:20  revo
+Jeromo Vasxe: + kojlo~o
+
+Revision 1.23  2018/10/01 08:10:13  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.22  2016/03/04 20:10:17  revo
+-->
+</vortaro>

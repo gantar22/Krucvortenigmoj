@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lumbag.xml,v 1.21 2024/01/15 19:32:08 revo Exp $">
+<kap>
+  <rad>lumbag</rad>/o,
+  <var><kap><rad var="lgi">lumbalgi</rad>/o</kap></var>
+</kap>
+<drv mrk="lumbag.0o">
+  <kap>
+    <tld/>o <fnt><bib>PIV1</bib></fnt>,
+    <var><kap><tld var="lgi"/>o</kap></var>
+  </kap>
+  <snc mrk="lumbag.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Akuta <ref tip="malprt" cel="dolor.lumbo0o">lumbodoloro</ref>,
+      plej ofte pro fortostre&ccirc;o:
+      <ekz>
+        li eksuferis de serioza gastrospasmo kaj <tld var="lgi"/>o
+        <fnt>
+          <vrk><url ref="http://www.espero.com.cn/old/epch/08h/08h-02/ziran2-5.htm">Hejmo
+          de cignoj en &Ccirc;inio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro akuta <tld/>o mi fari&gcirc;is ne povi sidi&gcirc;i longe
+        <fnt>
+          <vrk><url ref="http://www.ipernity.com/blog/48093/81480">Akuta
+          lumbago</url>, blogero</vrk>
+        </fnt>.
+      </ekz>
+    </dif>    
+    <ref tip="hom" cel="iskiat1.0o">iskiatalgio</ref>
+  </snc>
+  <trd lng="be">&c_l;&c_ju;&c_m;&c_b;&c_a;&c_g;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>lumbago</trd>,
+    <trd>lumb&agrave;lgia</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bolest v z&aacute;dech</trd>,
+    <trd>houser</trd>,
+    <trd>lumbago</trd>,
+    <trd>&uacute;st&rcaron;el</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Hexenschuss</trd>,
+    <trd>Kreuzschmerz</trd>,
+    <trd>Lumbago</trd>,
+    <trd>Lumbalgie</trd>
+  </trdgrp>
+  <trd lng="en">lumbago <klr>(old popular term)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>lumbago</trd>,
+    <trd>tour de rein</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>lumbago</trd>,
+    <trd><ind>nyeri</ind> pinggang</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8170;&#x75DB;  <pr>&#x3088;&#x3046;&#x3064;&#x3046;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>lumbago</trd>,
+    <trd>heksenszus</trd>,
+    <trd>korzonki</trd>
+  </trdgrp>
+  <trd lng="sk">&uacute;sad</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x44E;&#x43C;&#x431;&#x430;&#x433;&#x43E;</trd>,
+    <trd>&#x43A;&#x43E;&#x43B;&#x44C;&#x43A;&#x430; &#x432; &#x43F;&#x43E;&#x43F;&#x435;&#x440;&#x435;&#x43A;&#x443;/&#x43A;&#x440;&#x438;&#x436;&#x430;&#x445;</trd>,
+    <trd>&#x43F;&#x440;&#x43E;&#x441;&#x442;&#x440;&#x456;&#x43B;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x8170;&#x75DB; <pr>y&#x101;ot&#xF2;ng</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.20 2023/10/19 14:32:17
+revo: transskribo per <pr>
+
+versio 1.17 2021/11/16 14:38:28
+Dmitri Gabinski: + trd be
+
+versio 1.16 2020/09/08 20:10:47
+Wolfram Diestel: +tld-var
+
+Revision 1.15  2020/03/09 19:10:16  revo
+Wolfram Diestel: kor. kapvortojn (rad sub art, ne drv), + ref iskiatalgio
+
+Revision 1.14  2018/10/26 09:10:20  revo
+Damien Brucker: -eraro cxe kap en drv
+
+Revision 1.13  2016/10/13 06:10:35  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2016/02/20 21:10:17  revo
+Wolfram Diestel: +germ trd
+
+Revision 1.11  2016/02/20 20:10:27  revo
+-->
+</vortaro>

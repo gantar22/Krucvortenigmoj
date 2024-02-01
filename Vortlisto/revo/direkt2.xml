@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: direkt2.xml,v 1.15 2023/11/04 14:29:02 revo Exp $">
+<kap>
+  <rad>direktori</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="direkt2.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <uzo tip="fak">JUR</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="konsil.0antaro">Konsilantaro</ref>
+      havanta specialan publikan mision:
+      <ekz>
+        la pu&ccirc;o per kiu la Generalo Napoleon Bonaparte faligis la Francan <tld lit="D"/>on, anstata&ubreve;ante &gcirc;in per la Franca Konsularo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=350860">18a de Brumero</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li havis postenon en <tld/>o de minado
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=550437">Guszt&aacute;v Liszkay</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum la hungara konsilantara respubliko li estis ano de <tld/>o kaj akuzkomisaro
+        de la revolucia tribunalo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=335519">Dezs&odblac; V&eacute;gh</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="direkt1.0o">direktoro</ref>
+  </snc>
+  <rim>
+    Tiu nocio estas uzata nur por iuj apartaj publikaj instancoj. Prefere evitu uzi la vorton
+    por nomi simplan direktoraron.
+  </rim>
+  <trd lng="be">&c_d;&c_y;&c_r;&c_e;&c_k;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="de">Direktorium</trd>
+  <trd lng="fr">directoire</trd>
+  <trd lng="hu">direkt&oacute;rium</trd>
+  <trd lng="ja">&#x7DCF;&#x88C1;&#x653F;&#x5E9C;  <pr>&#x305D;&#x3046;&#x3055;&#x3044;&#x305B;&#x3044;&#x3075;</pr></trd>
+  <trd lng="nl">directoire</trd>
+  <trd lng="pl">dyrektoriat</trd>
+  <trd lng="pt">diret&oacute;rio</trd>
+  <trd lng="ru">&c_d;&c_i;&c_r;&c_je;&c_k;&c_t;&c_o;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="uk">&#x434;&#x438;&#x440;&#x435;&#x43A;&#x442;&#x43E;&#x440;&#x456;&#x44F;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7D93;&#x7406;&#x90E8; <pr>j&#x12B;ngl&#x1D0;b&#xF9;</pr></trd>,
+    <trd>&#x7D93;&#x7406;&#x5BA4; <pr>j&#x12B;ngl&#x1D0;sh&#xEC;</pr></trd>,
+    <trd>&#x7406;&#x4E8B;&#x4F1A; <pr>l&#x1D0;sh&#xEC;hu&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.14 2023/10/14 11:26:54
+revo: transskribo per <pr>
+
+Revision 1.10  2009/07/01 17:22:55  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.9  2009/06/19 05:09:24  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2007/08/08 16:30:38  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2003/12/13 17:34:16  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2002/09/30 16:32:20  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2002/03/22 17:33:15  revo
+Yury Finkel: +trd ru
+
+Revision 1.4 2001/05/14 19:04:25 revo
+-->
+</vortaro>

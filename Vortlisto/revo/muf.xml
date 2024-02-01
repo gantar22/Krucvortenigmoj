@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: muf.xml,v 1.23 2023/10/19 18:36:53 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>muf</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="muf.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="muf.0o.TEKS_tuba">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Remburita cilindro el pelto kun centra tubo, en kiu oni enmetas
+      amba&ubreve;flanke la manojn por varmigi ilin:
+      <ekz>
+        <klr>[&scirc;i]</klr> &scirc;ovis siajn amba&ubreve; manojn en la belan <tld/>on, kiu estis tiel
+        varma kaj mola
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        etendante anta&ubreve;en la manojn, ka&scirc;itajn en zibela <tld/>o, <klr>[&scirc;i]</klr> ekkriis
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+       <ekz>
+         ha-a! &ndash; &scirc;i ekkriis subite, &ndash; mi perdis mian 
+         <tld/>on, &gcirc;i falis
+         <fnt><aut>I. G. &Scirc;irjaev</aut>, <vrk>Sen titolo</vrk>, 
+         <lok>&ccirc;apitro 42a</lok></fnt>!
+       </ekz>
+     </dif>
+     <trd lng="ca">maniguet</trd>
+     <trd lng="de">Muff</trd>
+     <trd lng="en">muff</trd>
+     <trd lng="es">manguito<klr tip="ind"> (vest.)</klr></trd>
+     <trd lng="fr">manchon<klr tip="ind"> (v&ecirc;tement)</klr></trd>
+     <trd lng="nl">mof</trd>
+     <trd lng="pl">mufka</trd>
+     <trdgrp lng="pt">
+      <trd>regalo <klr tip="amb">(vest.)</klr></trd>,
+      <trd>manguito <klr tip="amb">(vest.)</klr></trd>
+     </trdgrp>
+     <trd lng="ru">&c_m;&c_u;&c_f;&c_t;&c_a;</trd>
+   </snc>
+   <snc mrk="muf.0o.TEKS_ganto">
+     <uzo tip="fak">TEKS</uzo>
+     <dif>
+       Varmiga <ref tip="super" cel="gant.0o.TEKS">ganto</ref> kun 
+       unusola aparta fingringo por la dikfingro; <tld/>ganto.
+     </dif>
+     <trd lng="ca">manyopla</trd>
+     <trd lng="en">mitten</trd>
+     <trdgrp lng="de"><trd>Fausthandschuh</trd>,<trd>Faustling</trd></trdgrp>
+     <trdgrp lng="es"><trd>manopla</trd>,<trd>guante</trd></trdgrp>
+     <trd lng="fr">moufle</trd>
+     <trd lng="nl">want</trd>
+     <trd lng="pl">zar&eogonek;kawek</trd>
+     <trd lng="ru">&c_v;&c_a;&c_r;&c_je;&c_zh;&c_k;&c_a;</trd>
+   </snc>
+   <snc mrk="muf.0o.TEK">
+     <uzo tip="fak">TEK</uzo>
+     <dif>
+       Cilindroforma teksa&jcirc;o el ardigebla ne brulema substanco,
+       uzata por plibriligi lumflamon, vd <ref cel="muf.gas0o">gasmufo</ref>
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="mufl.0o">muflo</ref>
+     </refgrp>
+     <trd lng="ca">mufla</trd>
+     <trd lng="de">Gl&uuml;hstrumpf</trd>
+     <trd lng="en">gas mantle</trd>
+     <trd lng="es">mufla</trd>
+     <trd lng="nl">gloeikousje</trd>
+     <trd lng="pl">tuleja</trd>
+   </snc>
+  <trdgrp lng="cs">
+    <trd>muf</trd>,
+    <trd>ruk&aacute;vn&iacute;k</trd>,
+    <trd>&scaron;tuc</trd>,
+    <trd>&scaron;tucel</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30DE;&#x30D5;</trd>,
+    <trd>&#x5186;&#x7B52;&#x5F62;&#x90E8;&#x54C1;  <pr>&#x3048;&#x3093;&#x3068;&#x3046;&#x304B;&#x305F;&#x3076;&#x3072;&#x3093;</pr></trd>,
+    <trd>&#x30DE;&#x30F3;&#x30C8;&#x30EB;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>m&acirc;nec&abreve;</trd>,
+    <trd>man&#x219;on</trd>
+  </trdgrp>
+  <trd lng="sk">pan&ccaron;u&scaron;ka plynovej  lampy</trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_u;&c_f;&c_t;&c_a;</trd>,
+    <trd>&c_v;&c_t;&c_u;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_ib;&c_j; &c_c;&c_i;&c_l;&c_ib;&c_n;&c_d;&c_r;</trd>,
+    <trd>&c_k;&c_o;&c_v;&c_p;&c_a;&c_ch;&c_o;&c_k; (&c_g;&c_a;&c_z;&c_o;&c_v;&c_o;&c_g;&c_o;
+    &c_p;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_k;&c_a;)</trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="muf.gas0o">
+  <kap>gas<tld/>o</kap>
+  <snc mrk="muf.gas0o.TEK">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="muf.0o.TEK">Mufo<sncref/></ref> metata sur
+      gasbekon por pliintensigi la lumon de la flamo.
+    </dif>
+    <ref tip="sin" cel="ard.0ilo">ardilo</ref>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_p;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_s;&c_je;&c_t;&c_k;&c_a;</ind></trd>
+  <trd lng="cs">pun&ccaron;o&scaron;ka plynov&eacute; lampy</trd>
+  <trd lng="de">Gl&uuml;hk&ouml;rper</trd>
+  <trd lng="en">mantle</trd>
+  <trd lng="fr">manchon<klr tip="ind">(de flamme)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>izz&odblac;harisnya</trd>,
+    <trd>izz&oacute;h&aacute;l&odblac;</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30AC;&#x30B9;&#x30DE;&#x30F3;&#x30C8;&#x30EB;</trd>
+  <trd lng="nl">gasmof</trd>
+  <trdgrp lng="pt">
+    <trd>camisinha incandescente<klr tip="amb"> (de
+    ilumina&ccedil;&atilde;o a
+    g&aacute;s)</klr></trd>,
+    <trd>v&eacute;u incandescente<klr tip="amb"> (de
+    ilumina&ccedil;&atilde;o a
+    g&aacute;s)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_a;&c_l;&c_i;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+  &c_s;&c_je;&c_t;&c_k;&c_a;
+  <klr>(&c_g;&c_a;&c_z;&c_o;&c_v;&c_o;&c_g;&c_o;
+  &c_f;&c_o;&c_n;&c_a;&c_r;&c_ja;)</klr></trd>
+  <trd lng="sk">pan&ccaron;u&scaron;ka plynovej lampy</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.21 2023/05/09 05:27:47
+Wolfram Diestel: kor. ref
+
+versio 1.20 2023/05/07 18:26:27
+Wolfram Diestel: +ekz-oj
+
+versio 1.19 2023/05/07 17:26:36
+Wolfram Diestel: +gas~o movita el gas/
+
+versio 1.17 2020/11/13 23:11:10
+Vito Redsky: +trd pl +trd ro 
+
+Revision 1.15  2015/07/16 07:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.14  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:20  revo
+-->
+</vortaro>

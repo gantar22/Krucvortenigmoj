@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: docent.xml,v 1.25 2023/11/04 18:50:51 revo Exp $">
+<kap>
+ <rad>docent</rad>/o
+ <fnt>Z</fnt>
+</kap>
+<drv mrk="docent.0o">
+ <kap><tld/>o</kap>
+ <snc mrk="docent.0o.PED">
+   <uzo tip="fak">PED</uzo>
+   <dif>
+     <ref tip="super" cel="instru.0isto.PED">Instruisto</ref> en
+     universitato ne ricevinta titolon de <ref tip="vid" cel="profes1.0o">profesoro</ref>:
+     <ekz>
+       la instruistaro konsistas el ses <tld/>oj inkluzive la nunan
+       direktoron<fnt><aut>Jo Haazen</aut>, <vrk>Unika muziklernejo en
+       Belgio</vrk>, <bib>Monato</bib>, <lok>jaro 1997a, numero 4a, p.
+       16a</lok></fnt>.
+     </ekz>
+   </dif>
+ </snc>
+  <trd lng="be">&c_d;&c_a;&c_c;&c_e;&c_n;&c_t;</trd>
+  <trd lng="cs">docent</trd>
+  <trdgrp lng="de">
+   <trd>Dozent</trd>,
+   <trd>Hochschullehrer</trd>
+ </trdgrp>
+  <trdgrp lng="en">
+   <trd>docent</trd>,
+   <trd>university teacher</trd>
+ </trdgrp>
+  <trd lng="es">docente</trd>
+  <trdgrp lng="fr">
+   <trd>charg&eacute; de cours</trd>,
+   <trd>maitre de conf&eacute;rence</trd>
+ </trdgrp>
+  <trdgrp lng="hu">
+   <trd>docens</trd>,
+   <trd>egyetemi <ind>tan&aacute;r</ind></trd>
+ </trdgrp>
+  <trd lng="ja">&#x8B1B;&#x5E2B;  <pr>&#x3053;&#x3046;&#x3057;</pr></trd>
+  <trd lng="nl">docent</trd>
+  <trd lng="pl">docent</trd>
+  <trd lng="pt">docente</trd>
+  <trd lng="ru">&c_d;&c_o;&c_c;&c_je;&c_n;&c_t;</trd>
+  <trd lng="sk">docent</trd>
+  <trd lng="uk">&#x434;&#x43E;&#x446;&#x435;&#x43D;&#x442;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5927;&#x5B66;&#x8BB2;&#x5E08; <pr>d&#xE0;xu&#xE9;ji&#x1CE;ngsh&#x12B;</pr></trd>,
+    <trd>&#x79C1;&#x4EBA;&#x6559;&#x5E08; <pr>s&#x12B;r&#xE9;nji&#xE0;osh&#x12B;</pr></trd>,
+    <trd>&#x7DE8;&#x5916;&#x8B1B;&#x5E2B; <pr>bi&#x101;nw&#xE0;iji&#x1CE;ngsh&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="docent.privat0olibera0o">
+ <kap>privat<tld/>o, <var><kap>libera <tld/>o</kap></var></kap>
+ <snc>
+   <uzo tip="fak">PED</uzo>
+   <dif>
+     Privata klerulo, kiu ricevis permeson fari kurson en universitato
+     kaj estas salajrata nur de la kursanoj mem.
+   </dif>
+ </snc>
+ <trd lng="de">Privatdozent</trd>
+ <trd lng="es">profesor externo</trd>
+ <trd lng="hu">egyetemi <ind>mag&aacute;ntan&aacute;r</ind></trd>
+ <trdgrp lng="ja">
+    <trd>&#x79C1;&#x8B1B;&#x5E2B;  <pr>&#x308F;&#x305F;&#x3057;&#x3053;&#x3046;&#x3057;</pr></trd>,
+    <trd>&#x54E1;&#x5916;&#x8B1B;&#x5E2B;  <pr>&#x3044;&#x3093;&#x304C;&#x3044;&#x3053;&#x3046;&#x3057;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">privaatdocent</trd>
+ <trd lng="ru">&c_p;&c_r;&c_i;&c_v;&c_a;&c_t;-&c_d;&c_o;&c_c;&c_je;&c_n;&c_t;</trd>
+  <trd lng="zh">&#x5BB6;&#x5EAD;&#x6559;&#x5E08; <pr>ji&#x101;t&#xED;ngji&#xE0;osh&#x12B;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/14 14:40:07
+revo: transskribo per <pr>
+
+Revision 1.20  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/09/04 08:10:11  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.18  2012/10/23 00:11:00  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.17  2009/08/11 16:31:16  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.16  2009/07/01 17:21:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2008/11/21 17:56:56  revo
+Wieland Pusch: entoj por unikode
+
+Revision 1.14  2008/11/09 17:30:23  revo
+-->
+</vortaro>

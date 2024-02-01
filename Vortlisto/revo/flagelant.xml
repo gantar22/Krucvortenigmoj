@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: flagelant.xml,v 1.3 2023/07/31 10:32:19 revo Exp $">
+<kap>
+  <rad>flagelant</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="flagelant.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="flagelant.0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Sinskur&gcirc;anto; ano de religia grupo, kiu praktikas
+      volontan sinsuferigon, ekzemple sin skur&gcirc;as,
+      por mistika progreso:
+      <ekz>
+        la <tld/>oj, duonnudaj viroj kaj virinoj, pentofare
+        vipante sin mem kaj kantante frenezan kanton,
+        vagadis tra la Rejna regiono
+        <fnt>
+          <aut>H. Heine, trad. L. L. Zamenhof</aut>
+          <vrk>La Rabeno de Ba&hcirc;ara&hcirc;</vrk>,
+          <lok>1929</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_l;&c_ja;&c_g;&c_je;&c_l;&c_ja;&c_n;&c_t;</trd>
+  <trd lng="fr">flagellant<klr> (subst.)</klr></trd>
+  <trd lng="uk">&c_f;&#x43B;&c_a;&c_gu;&c_je;&#x43B;&c_a;&#x43D;&c_t;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.3 2023/07/31 10:32:19
+Dmitri Gabinski: + trd be
+
+-->
+</vortaro>

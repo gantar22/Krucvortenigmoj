@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bizar.xml,v 1.19 2023/04/26 13:30:26 revo Exp $">
+<kap>
+   <rad>bizar</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="bizar.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="strang.0a">Stranga</ref>, &scirc;ajne
+      <ref tip="sin" cel="absurd.0a">absurda</ref>, nekohere a&ubreve; neharmonie impresa:
+      <ekz>
+         la mondo neniam konis pli <tld/>an arkitekturon
+         <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 25a, p. 263a</lok></fnt>.
+      </ekz>
+      <ekz>
+        <tld/>a miksa&jcirc;o de fiasko kaj festo
+        <fnt>
+	<aut>Paul Gubbins</aut>
+	<vrk><url ref="&Monato;/2001/007260.php">Politiko elreligita</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/02, p. 6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvankam <klr>[&#8230;]</klr> iom <tld/>a, rakontado de tiaj timigaj memoroj kaj
+        tradicia&jcirc;oj estis populara distra&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2005/008717.php">Bram Stoker, kreinto de Dracula</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>a ago de la ju&gcirc;isto povas <klr>[&#8230;]</klr> doni la impreson, ke oni
+        intencas inkludi en la &jcirc;urio nur simpatiantojn de la akuzito
+        <fnt><aut>IRL</aut>,
+        <vrk><url ref="&Monato;/2000/006914.php">Lando de malsanktuloj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/04, p. 10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvar komplete tradukitaj tabulotekstoj malkovras <tld/>ajn detalojn pri moroj
+        kaj seksritoj <klr>[&#8230;]</klr> &ccirc;e la kultvila&gcirc;o Orongo
+        <fnt>
+	<aut>Rudiger Hauger</aut>
+	<vrk><url ref="&Monato;/2001/007315.php">De&ccirc;ifrado de la paskinsula skribo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/02, p. 23</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="ekscentr.0a.KOMUNE">ekscentra</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_d;&c_z;&c_ib;&c_w;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_s;&c_t;&c_r;&c_a;&c_n;&c_je;&c_n;</trd>
+  <trdgrp lng="ca">
+    <trd>estrafolari</trd>,
+    <trd>rar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bizarn&iacute;</trd>,
+    <trd>podivn&yacute;</trd>,
+    <trd>podiv&iacute;nsk&yacute;</trd>,
+    <trd>roztodivn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>bizarr</trd>,
+     <trd>skurril</trd>
+   </trdgrp>
+  <trdgrp lng="en">
+     <trd>bizarre</trd>,
+     <trd>eccentric</trd>,
+     <trd>odd</trd>,
+     <trd>strange</trd>
+   </trdgrp>
+  <trdgrp lng="es">
+    <trd>raro</trd>,
+    <trd>inusual</trd>
+  </trdgrp>
+  <trd lng="fr">bizarre</trd>
+  <trd lng="he">&#x5DE;&#x5D5;&#x5BC;&#x5D6;&#x5B8;&#x5E8;</trd>
+  <trdgrp lng="pl">
+     <trd>cudaczny</trd>,
+     <trd>dziwaczny</trd>
+   </trdgrp>
+  <trdgrp lng="ru">
+     <trd>&c_p;&c_r;&c_i;&c_ch;&c_u;&c_d;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>,
+     <trd>&c_d;&c_i;&c_k;&c_o;&c_v;&c_i;&c_n;&c_n;&c_y;&c_j;</trd>,
+     <trd>&c_s;&c_t;&c_r;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
+     <trd>&c_s;&c_v;&c_o;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
+   </trdgrp>
+  <trd lng="sk">podivn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_u;&c_d;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_i;&c_v;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_ch;&c_u;&c_d;&c_je;&c_r;&#x43D;&c_a;&c_c;&#x44C;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&c_h;&c_i;&#x43C;&c_je;&c_r;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_v;&#x43E;&c_jeu;&c_r;&c_ib;&c_d;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bizar.0i">
+   <kap><tld/>i</kap>
+   <gra><vspec>ntr</vspec></gra>
+   <snc>
+     <dif>
+       Aspekti, konduti eksterkutime:
+       <ekz>
+         &scirc;i denove kritikos, ke mi <tld/>as
+         <fnt><bib>RugxDom</bib> <lok>&ccirc;apitro 63a, p.
+         369a</lok></fnt>.
+       </ekz>
+     </dif>
+   </snc>
+   <trdgrp lng="be">
+     <trd>&c_d;&c_z;&c_ib;&c_w;&c_n;&c_a;
+     &c_v;&c_y;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_c;&c_mol;</trd>,
+     <trd>&c_d;&c_z;&c_ib;&c_w;&c_n;&c_a;
+     &c_p;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;
+     &c_s;&c_ja;&c_b;&c_je;</trd>
+   </trdgrp>
+   <trd lng="ca">ser <ind>estrafolari</ind></trd>
+   <trdgrp lng="de">
+     <trd>sich <ind>bizarr</ind> verhalten</trd>
+   </trdgrp>
+   <trd lng="en">be bizarre</trd>
+   <trd lng="es">ser inusual</trd>
+   <trd lng="fr">sortir de l'ordinaire</trd>
+   <trdgrp lng="pl">
+     <trd>cudowa&cacute;</trd>,
+     <trd>wydziwia&cacute;</trd>
+   </trdgrp>
+   <trdgrp lng="ru">
+     <trd>&c_s;&c_t;&c_r;&c_a;&c_n;&c_n;&c_o; &c_v;&c_je;&c_s;&c_t;&c_i;
+     &c_s;&c_je;&c_b;&c_ja;</trd>,
+     <trd>&c_ch;&c_u;&c_d;&c_i;&c_t;&c_mol;</trd>
+   </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.19 2023/04/26 13:30:26
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.18 2023/04/23 16:33:16
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.17 2023/04/23 09:25:32
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.16 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.13 2021/03/01 20:44:26
+Wolfram Diestel: +ekz-oj
+
+Revision 1.11  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2012/07/31 19:10:12  revo
+-->
+</vortaro>

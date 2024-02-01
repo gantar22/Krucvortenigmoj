@@ -1,0 +1,592 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bezon.xml,v 1.121 2023/10/29 19:11:01 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>bezon</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="bezon.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="bezon.0i.suferi">
+    <dif>
+      <ref tip="super" cel="hav.mal0i">Malhavi</ref> ion necesan:
+      <ekz>
+        mi ja <tld/>as man&gcirc;i
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i <tld/>as nur ripozon
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu <tld/>as aliajn
+        <fnt>
+            <aut>Bo Sandelin</aut>
+            <vrk><url ref="&Monato;/2001/007279.php">Anta&ubreve;merkantilisma
+            ekonomia pensado</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 16</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        kiu <tld/>as monon, ne havas apetiton, veki&gcirc;as subite dum la dormo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dezir.0i">deziri</ref>.
+    </refgrp>
+    <trd lng="zh">&#x6025;&#x9700; <pr>j&#xED;x&#x16B;</pr></trd>
+</snc>
+  <snc mrk="bezon.0i.postuli">
+    <dif>
+      Esti en stato postulanta ion kiel necesan, la&ubreve;celan
+      a&ubreve; utilan, pro iu esenca ka&ubreve;zo pli grava ol simpla kaprico a&ubreve;
+      deziro:
+      <ekz>
+        <tld/>i ripozi, iri, trinki;
+      </ekz><ekz>
+        ni anta&ubreve; &ccirc;io <tld/>as plej severan
+        unuecon
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado en la Guildhall (Londono) en la 21a de a&ubreve;gusto 1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni reciproke nin konas, klarigon ne <tld/>as
+        <fnt>
+          <bib>Prv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pri tio &ccirc;i ni propre ne <tld/>us paroli
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pekon ser&ccirc;i oni ne<tld/>as
+        <fnt>
+          <bib>Prv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio <tld/>igas multe da tempo;
+      </ekz><ekz>
+      la vorto "<tld/>esti" estas kunmetita tute
+      regule<fnt><bib>LR</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hav.mal0i">malhavi</ref>,
+      <ref cel="neces.0igi">necesigi</ref>,
+      <ref cel="postul.0i">postuli</ref>.
+    </refgrp>
+    <trdgrp lng="zh">
+    <trd>&#x8981;&#x6709; <pr>y&#xE0;oy&#x1D2;u</pr></trd>,
+    <trd>&#x7518;&#x5FC3; <pr>g&#x101;nx&#x12B;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="af">nodig</trd>
+  <trd lng="am">&#x134D;&#x120B;&#x130E;&#x1275;</trd>
+  <trd lng="ar">&#x62A;&#x62D;&#x62A;&a_A;&#x62C;</trd>
+  <trd lng="az">ehtiyac</trd>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_t;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;
+    </trd>,
+    <trd>&c_m;&c_je;&c_c;&c_mol; &c_p;&c_a;&c_t;&c_r;&c_e;&c_b;&c_u;
+    </trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_n;&c_u;&c_zh;&c_d;&c_a;&c_ja; &c_s;&c_je;</trd>,
+    <trd>&c_i;&c_m;&c_a;&c_m; &c_n;&c_u;&c_zh;&c_d;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9AA;&#x9CD;&#x9B0;&#x9AF;&#x9BC;&#x9CB;&#x99C;&#x9A8;</trd>
+  <trd lng="bo">&#xF51;&#xF42;&#xF7C;&#xF66;&#xF0B;</trd>
+  <trd lng="br">kaout ezhomm</trd>
+  <trd lng="bs">treba</trd>
+  <trd lng="ca">necessitar</trd>
+  <trd lng="co">bisognu</trd>
+  <trdgrp lng="cs">
+    <trd>m&iacute;t zapot&rcaron;eb&iacute;</trd>,
+    <trd>pot&rcaron;ebovat</trd>,
+    <trd>pot&rcaron;ebovat</trd>
+  </trdgrp>
+  <trd lng="cy">angen</trd>
+  <trd lng="da">brug</trd>
+  <trdgrp lng="de">
+    <trd><ofc>*</ofc>brauchen</trd>,
+    <trd>ben&ouml;tigen</trd>
+  </trdgrp>
+  <trd lng="en"><ofc>*</ofc>need</trd>
+  <trd lng="es">necesitar</trd>
+  <trd lng="et">vaja</trd>
+  <trd lng="eu">behar</trd>
+  <trdgrp lng="fr">
+    <trd><ofc>*</ofc>avoir <ind>besoin</ind> (de)</trd>,
+    <trd>n&eacute;cessiter</trd></trdgrp>
+  <trd lng="ga">n&#xED; m&#xF3;r</trd>
+  <trd lng="gd">feumaidh</trd>
+  <trd lng="gl">ten</trd>
+  <trd lng="gu">&#xA9C;&#xAB0;&#xAC2;&#xAB0;</trd>
+  <trd lng="ha">bukata</trd>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5D6;&#x5D3;&#x5E7;&#x5E7; &#x5DC;</trd>
+  <trd lng="hi">&#x906;&#x935;&#x936;&#x94D;&#x92F;&#x915;&#x924;&#x93E;</trd>
+  <trd lng="hmn">xav tau</trd>
+  <trd lng="hr">potrebno</trd>
+  <trd lng="ht">bezwen</trd>
+  <trd lng="hu">sz&uuml;ks&eacute;ge van<klr tip="amb"> (vmire)
+  </klr></trd>
+  <trd lng="hy">&#x561;&#x576;&#x570;&#x580;&#x561;&#x56A;&#x565;&#x577;&#x57F;</trd>
+  <trdgrp lng="id">
+    <trd><baz>butuh</baz>membutuhkan</trd>,
+    <trd><baz>perlu</baz>memerlukan</trd>
+  </trdgrp>
+  <trd lng="ig">mkpa</trd>
+  <trd lng="is">&#xFE;arf</trd>
+  <trd lng="ja">&#x5FC5;&#x8981; <pr>&#x3072;&#x3064;&#x3088;&#x3046;</pr></trd>
+  <trd lng="jv">kudu</trd>
+  <trd lng="ka">&#x10E3;&#x10DC;&#x10D3;&#x10D0;</trd>
+  <trd lng="kk">&#x43C;&#x4B1;&#x49B;&c_t;&c_a;&c_zh;&c_d;&#x44B;&#x49B;</trd>
+  <trd lng="km">&#x178F;&#x17D2;&#x179A;&#x17BC;&#x179C;&#x1780;&#x17B6;&#x179A;</trd>
+  <trd lng="kn">&#xC85;&#xC97;&#xCA4;&#xCCD;&#xCAF;&#xCB5;&#xCBF;&#xCA6;&#xCC6;</trd>
+  <trd lng="ko">&#xD544;&#xC694;&#xAC00;&#xC788;&#xB2E4;</trd>
+  <trd lng="ku">lazim&#xEE;</trd>
+  <trd lng="ky">&#x43A;&c_je;&c_r;&c_je;&#x43A;</trd>
+  <trd lng="lat">opus</trd>
+  <trd lng="lo">&#xE88;&#xECD;&#xEB2;&#xEC0;&#xE9B;&#xEB1;&#xE99;&#xE95;&#xEC9;&#xEAD;&#xE87;&#xEC4;&#xE94;&#xEC9;</trd>
+  <trd lng="lt">reik&#x117;ti</trd>
+  <trd lng="lv">vajadz&#x12B;ba</trd>
+  <trd lng="mg">mila</trd>
+  <trd lng="mi">me</trd>
+  <trd lng="mk">&c_t;&c_r;&c_je;&c_b;&c_a;</trd>
+  <trd lng="ml">&#xD06;&#xD35;&#xD36;&#xD4D;&#xD2F;&#xD02;</trd>
+  <trd lng="mn">&c_h;&#x44D;&c_r;&#x44D;&c_g;&c_t;&#x44D;&c_j;</trd>
+  <trd lng="mr">&#x917;&#x930;&#x91C;</trd>
+  <trd lng="ms">perlu</trd>
+  <trd lng="mt">b&#x17C;onn</trd>
+  <trd lng="my">&#x101C;&#x102D;&#x102F;&#x1021;&#x1015;&#x103A;</trd>
+  <trd lng="ne">&#x906;&#x935;&#x936;&#x94D;&#x92F;&#x915;</trd>
+  <trd lng="ny">amafunika</trd>
+  <trd lng="oc">aver <ind>besonh</ind></trd>
+  <trd lng="pa">&#xA26;&#xA40; &#xA32;&#xA4B;&#xA5C; &#xA39;&#xA48;</trd>
+  <trd lng="pl">potrzebowa&cacute;</trd>
+  <trd lng="ps">&#x62A;&a_h; &a_A;&#x693;&#x62A;&#x6CC;&a_A; &a_l;&a_r;&#x64A;</trd>
+  <trd lng="pt">necessitar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_u;&c_zh;&c_d;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_i;&c_m;&c_je;&c_t;&c_mol;
+    &c_p;&c_o;&c_t;&c_r;&c_je;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="rw">bikenewe</trd>
+  <trd lng="sd">&a_D;&a_r;&a_w;&a_r;&#x62A;</trd>
+  <trd lng="si">&#xD85;&#xDC0;&#xDC1;&#xDCA;&#xDBA;&#xDAD;&#xDCF;&#xDC0;</trd>
+  <trd lng="sk">potrebova&tcaron;</trd>
+  <trd lng="sl">potrebujete</trd>
+  <trd lng="sm">manaomia</trd>
+  <trd lng="sn">vanoda</trd>
+  <trd lng="so">u baahan</trd>
+  <trd lng="sq">duhet</trd>
+  <trd lng="st">lokela</trd>
+  <trd lng="su">ngabutuhkeun</trd>
+  <trd lng="sv">beh&ouml;va</trd>
+  <trd lng="sw">haja</trd>
+  <trd lng="ta">&#xBB5;&#xBC7;&#xBA3;&#xBCD;&#xB9F;&#xBC1;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC05;&#xC35;&#xC38;&#xC30;&#xC02;</trd>
+  <trd lng="tg">&c_b;&#x43E;&#x44F;&c_d;</trd>
+  <trd lng="th">&#xE15;&#xE49;&#xE2D;&#xE07;</trd>
+  <trd lng="tl">kailangan</trd>
+  <trd lng="tok">wile</trd>
+  <trd lng="tt">&#x43A;&c_i;&c_r;&#x4D9;&#x43A;</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_t;&c_r;&c_ib;&c_b;&#x43D;&#x43E;</trd>
+  <trd lng="ur">&a_D;&a_r;&a_w;&a_r;&#x62A;</trd>
+  <trd lng="uz">kerak</trd>
+  <trd lng="vi">c&#x1EA7;n</trd>
+  <trd lng="xh">imfuneko</trd>
+  <trd lng="yi">&#x5D3;&#x5D0;&#x5B7;&#x5E8;&#x5E4;&#x5BF;&#x5DF;</trd>
+  <trd lng="yo">nilo</trd>
+  <trd lng="zu">badinga</trd>
+</drv>
+
+<drv mrk="bezon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bezon.0o.sufero">
+    <dif>
+      Sufero pro manko de io necesa:
+      <ekz>
+        kiu tro <tld/>as, tiu le&gcirc;on ne konas
+        <fnt>
+          <bib>Prv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o estas plej forta ordono<fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">sz&uuml;ks&eacute;g</trd>
+  </snc>
+  <snc mrk="bezon.0o.postulo">
+    <dif>
+      Stato, kiu postulas ion, kiel necesan, la&ubreve;celan
+      a&ubreve; utilan:
+      <ekz>
+        klareco estas <tld/>o de normala spirito;
+      </ekz><ekz>
+        en okazo de <tld/>o
+        <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 16</lok></fnt>;
+      </ekz><ekz>
+        la uzado akuzativon en kazo de sen<tld/>o
+        <fnt>
+          <aut>Andre CHERPILLOD</aut>
+          <vrk>La influo de la hebrea lingvo
+          sur Esperanto</vrk>
+          <bib>Monato</bib>
+          <lok>2000/12, p. 18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">sz&uuml;ks&eacute;g</trd>
+    <trd lng="zh">&#x8FEB;&#x5207;&#x9700;&#x8981; <pr>p&#xF2;qi&#xE8;x&#x16B;y&#xE0;o</pr></trd>
+</snc>
+  <snc mrk="bezon.0o.manko">
+    <dif>
+      <ref tip="dif" cel="bezon.0ajxo.KOMUNE"><tld lit="B"/>a&jcirc;o</ref>:
+      <ekz>
+        havi grandajn, malmultajn, moderajn <tld/>ojn;
+      </ekz><ekz>
+        La <tld/>oj de l' kortego estis malavare provizitaj
+        <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 9a.</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">sz&uuml;ks&eacute;glet</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_r;&c_e;&c_b;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>ezhomm</trd>,
+    <trd>c'hoant</trd>
+  </trdgrp>
+  <trd lng="ca">necessitat</trd>
+  <trdgrp lng="cs">
+    <trd>n&aacute;le&zcaron;itost <klr>(co je nutn&eacute;)</klr></trd>,
+    <trd>pot&rcaron;eba</trd>,
+    <trd>pot&rcaron;ebn&aacute; v&ecaron;c</trd>,
+    <trd>po&zcaron;adavek</trd>
+  </trdgrp>
+  <trd lng="de">Bed&uuml;rfnis</trd>
+  <trdgrp lng="en">
+    <trd>need</trd>,
+    <trd>want</trd></trdgrp>
+  <trd lng="es">necesidad</trd>
+  <trdgrp lng="fr">
+    <trd>besoin</trd>,
+    <trd>n&eacute;cessit&eacute;</trd></trdgrp>
+  <trd lng="he">&#x5E6;&#x5D5;&#x5B9;&#x5E8;&#x5B6;&#x5DA;</trd>
+  <trdgrp lng="id">
+    <trd><baz>butuh</baz>kebutuhan</trd>,
+    <trd><baz>perlu</baz>keperluan</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5FC5;&#x8981;  <pr>&#x3072;&#x3064;&#x3088;&#x3046;</pr></trd>,
+    <trd>&#x4E0D;&#x8DB3;  <pr>&#x3075;&#x305D;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="oc">besonh</trd>
+  <trdgrp lng="pl">
+     <trd>potrzeba</trd>,
+     <trd>zapotrzebowanie</trd>
+   </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_u;&c_zh;&c_d;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_t;&c_r;&c_je;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;
+    </trd>
+  </trdgrp>
+  <trd lng="sk">potrebn&aacute; vec</trd>
+  <trd lng="sv">behov</trd>
+  <trd lng="tok">wile</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_t;&c_r;&c_je;&c_b;&c_a;</trd>
+</drv>
+
+<drv mrk="bezon.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="bezon.0a.bezonata">
+    <dif>
+      <tld lit="B"/>ata, havenda por iu celo:
+      <ekz>
+        &Ccirc;u lingvo internacia estas <tld/>a?
+        <fnt><bib>EE</bib>, <lok>&ccirc;ap. 2a</lok></fnt>;
+      </ekz><ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        por vino bona &scirc;ildo <klr>(reklamo)</klr>
+        ne <tld/>a;
+      </ekz><ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        kiu avidas pli bonan, perdas plej <tld/>an
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        &scirc;paru kiam bone, vi havos kiam <tld/>e
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
+        la a&jcirc;ojn tute sen<tld/>ajn mi simple for&jcirc;etis, dum la a&jcirc;ojn ja
+        <tld/>ajn, sed &ccirc;i-vintre ne <tld/>atajn mi metis en la
+        kameron;
+      </ekz><ekz>
+        5 jaroj estis <tld/>aj por venki ilin.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="util.0a">utila</ref>,
+      <ref cel="neces.0a">necesa</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_t;&c_r;&c_e;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_a;&c_b;&c_h;&c_o;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>rekis</trd>,
+    <trd>ezhommek<klr tip="ind"> (trao&ugrave;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nutn&yacute;</trd>,
+    <trd>pot&rcaron;ebn&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">n&ouml;tig</trd>
+  <trdgrp lng="en">
+    <trd>needed</trd></trdgrp>
+  <trd lng="es">necesario</trd>
+  <trd lng="fr">n&eacute;cessaire</trd>
+  <trd lng="he">&#x5E0;&#x5D7;&#x5D5;&#x5E5;</trd>
+  <trd lng="hu">sz&uuml;ks&eacute;ges</trd>
+  <trdgrp lng="id">
+    <trd><baz>butuh</baz>dibutuhkan</trd>,
+    <trd><baz>perlu</baz>diperlukan</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5FC5;&#x8981;&#x306A;  <pr>&#x3072;&#x3064;&#x3088;&#x3046;&#x306A;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>potrzebny</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_u;&c_zh;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_t;&c_r;&c_je;&c_b;&c_u;&c_ju;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nutn&yacute;</trd>,
+    <trd>potrebn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5207;&#x8981; <pr>qi&#xE8;y&#xE0;o</pr></trd>,
+    <trd>&#x5FC5;&#x8981; <pr>b&#xEC;y&#xE0;o</pr></trd>,
+    <trd>&#x4E0D;&#x53EF;&#x6216;&#x7F3A; <pr>b&#xF9;k&#x11B;hu&#xF2;qu&#x113;</pr></trd>,
+    <trd>&#x6240;&#x9700; <pr>su&#x1D2;x&#x16B;</pr></trd>,
+    <trd>&#x5FC5;&#x5099; <pr>b&#xEC;b&#xE8;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bezon.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="bezon.0ajxo.KOMUNE">
+    <dif>
+      Io havenda kiel necesa, la&ubreve;cela a&ubreve; utila:
+      <ref tip="sin" cel="bezon.0o.manko"><tld/>o<sncref/></ref>:
+      <ekz>
+        vintraj <tld/>a&jcirc;oj
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>,
+             <vrk>Sep fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_t;&c_r;&c_e;&c_b;&c_n;&c_a;&c_je;
+      <klr>(&c_n;&c_a;&c_z;.)</klr></trd>,
+    <trd>&c_n;&c_je;&c_a;&c_b;&c_h;&c_o;&c_d;&c_n;&c_a;&c_je;
+      <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
+  </trdgrp>
+  <trd lng="br">ezhomm</trd>
+  <trd lng="en">need</trd>
+  <trd lng="es">necesidad</trd>
+  <trd lng="fr">besoin</trd>
+  <trd lng="he">&#x5E6;&#x5D5;&#x5B9;&#x5E8;&#x5B6;&#x5DA;</trd>
+  <trd lng="hu">sz&uuml;ks&eacute;glet</trd>
+  <trdgrp lng="id">
+    <trd><baz>butuh</baz>kebutuhan</trd>,
+    <trd><baz>perlu</baz>keperluan</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5FC5;&#x8981;&#x54C1;  <pr>&#x3072;&#x3064;&#x3088;&#x3046;&#x3072;&#x3093;</pr></trd>,
+    <trd>&#x5FC5;&#x9700;&#x54C1;  <pr>&#x3072;&#x3064;&#x3058;&#x3085;&#x3072;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_t;&c_r;&c_je;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_je;&c_o;&c_b;&c_h;&c_o;&c_d;&c_i;&c_m;&c_o;&c_je;
+      <klr>(&c_s;&c_u;&c_shch;.)</klr></trd>,
+    <trd>&c_n;&c_u;&c_zh;&c_n;&c_o;&c_je; <klr>(&c_s;&c_u;&c_shch;.)
+    </klr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&#x43E;&c_b;&c_h;&c_ib;&c_d;&#x43D;&c_je;</trd>,
+    <trd>&#x43F;&#x43E;&c_t;&c_r;&c_ib;&c_b;&#x43D;&c_je;&#xA0;(&c_ib;&#x43C;.)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bezon.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="bezon.sen0a.KOMUNE">
+    <dif>
+      Ne<tld/>ata, nenecesa:
+      <ekz>
+        multo da vortoj fari&gcirc;as tute sen<tld/>a por lernado
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni ne devas &jcirc;uri sen<tld/>e
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ordoni, ke oni ne turmentu la homojn sen<tld/>e
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu volos kontra&ubreve;batali tiun naturan iradon, nur perdos sen<tld/>e siajn fortojn
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en Washington en la 15a de a&ubreve;gusto
+          1910</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x5FC5;&#x8981; <pr>b&#xFA;b&#xEC;y&#xE0;o</pr></trd>,
+    <trd>&#x4E0D;&#x7528; <pr>b&#xF9;y&#xF2;ng</pr></trd>,
+    <trd>&#x591A;&#x9918; <pr>du&#x14D;y&#xFA;</pr></trd>,
+    <trd>&#x65E0;&#x987B; <pr>w&#xFA;x&#x16B;</pr></trd>,
+    <trd>&#x591A;&#x4F59; <pr>du&#x14D;y&#xFA;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_t;&c_r;&c_e;&c_b;&c_n;&c_y;
+  </trd>
+  <trd lng="br">diezhomm</trd>
+  <trdgrp lng="cs">
+    <trd>nepot&rcaron;ebn&yacute;</trd>,
+    <trd>zbyte&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">unn&ouml;tig</trd>
+  <trdgrp lng="en">
+    <trd>needless</trd>,
+    <trd>unnecessary</trd></trdgrp>
+  <trd lng="es">innecesario</trd>
+  <trdgrp lng="fr">
+    <trd>inutile</trd>,
+    <trd>superflu</trd>,
+    <trd>ne <ind>servant</ind> &agrave; rien</trd></trdgrp>
+  <trd lng="hu">sz&uuml;ks&eacute;gtelen</trd>
+  <trdgrp lng="id">
+    <trd>tidak di<ind>butuh</ind>kan</trd>,
+    <trd>tidak di<ind>perlu</ind>kan</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x5FC5;&#x8981;&#x306A;  <pr>&#x3075;&#x3072;&#x3064;&#x3088;&#x3046;&#x306A;</pr></trd>,
+    <trd>&#x7121;&#x7528;&#x306E;  <pr>&#x3080;&#x3088;&#x3046;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+   <trd>niepotrzebny</trd>,
+   <trd>zb&eogonek;dny</trd>
+ </trdgrp>
+  <trd lng="ru">&c_n;&c_je;&c_n;&c_u;&c_zh;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>nepotrebn&yacute;</trd>,
+    <trd>zbyto&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&#x43F;&#x43E;&c_t;&c_r;&c_ib;&c_b;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_j;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bezon.viv0ajxo">
+  <kap>viv<tld/>a&jcirc;o</kap>
+  <snc mrk="bezon.viv0ajxo.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="dif" cel="neces.viv0ajxo.EKON">Vivnecesa&jcirc;o</ref>:
+      <ekz>
+        la Komerca Ministerio da&ubreve;re reguligas la merkaton
+        de viv<tld/>a&jcirc;oj
+        <fnt>
+          <aut>&Ccirc;ina Radio Internacia</aut>,
+          <vrk><url ref="http://www.youtube.com/watch?v=Qt97P1xEbLE">
+          Panorame</url></vrk>,
+          <lok>2010-12-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="viv.por0ajxo.KOMUNE">porviva&jcirc;o</ref>,
+      <ref cel="pan.viv0o.FIG">vivpano</ref>
+    </refgrp>
+    <trdgrp lng="zh">
+    <trd>&#x526F;&#x98DF;&#x54C1; <pr>f&#xF9;sh&#xED;p&#x1D0;n</pr></trd>,
+    <trd>&#x98DF;&#x54C1; <pr>sh&#xED;p&#x1D0;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_m;&c_je;&c_t; &c_p;&c_je;&c_r;&c_sh;&c_a;&c_j; &c_n;&c_je;&c_a;&c_b;&c_h;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>,
+    <trd>&c_t;&c_a;&c_v;&c_a;&c_r; &c_p;&c_je;&c_r;&c_sh;&c_a;&c_j; &c_n;&c_je;&c_a;&c_b;&c_h;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="de">Lebensmittel</trd>
+  <trd lng="es">art&iacute;culo de primera necesidad</trd>
+  <trdgrp lng="fr">
+    <trd>n&eacute;cessaire<klr> (le ~, subst.)</klr></trd>,
+    <trd>ressource vitale</trd>
+  </trdgrp>
+<trdgrp lng="id">
+  <trd>ke<ind>butuh</ind>an hidup</trd>,
+  <trd>ke<ind>butuh</ind>an dasar</trd>
+</trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.120 2023/10/25 09:25:00
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.119 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.117 2023/08/29 20:26:52
+Wolfram Diestel: ja: prononco
+
+versio 1.116 2023/03/29 15:07:26
+Paul Peeraerts: &Monato;
+
+versio 1.115 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.112 2021/08/26 15:33:06
+Dmitri Gabinski: + trd be
+
+Revision 1.34  2016/09/20 02:10:21  revo
+Sergio Pokrovskij: +ekz
+
+Revision 1.33  2016/09/16 03:10:27  revo
+-->
+</vortaro>

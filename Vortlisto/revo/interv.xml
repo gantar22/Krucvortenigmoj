@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: interv.xml,v 1.37 2023/11/19 10:22:14 revo Exp $">
+<kap>
+  <rad>interval</rad>/o
+</kap>
+<drv mrk="interv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="interv.0o.distanco">
+    <dif>
+      Regula, la&ubreve;mezura <ref cel="spac.inter0o">interspaco</ref> a&ubreve; <ref cel="temp.inter0o">intertempo</ref>:
+      <ekz>
+        traflugante en elektraj vagonaroj super la tersupra&jcirc;o arkoformajn <tld/>ojn
+        inter tuneloj de la metropoliteno
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la religia kredo <klr>[&#x2026;]</klr> donu enhavon kaj celon en nian vivon, sen kiuj
+        &gcirc;i estus nur nuda <klr>[&#x2026;]</klr> <tld/>o inter la naski&gcirc;o kaj morto
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Oka &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Pola Esperantisto <klr>[&#x2026;]</klr> kun kelkaj <tld/>oj, aperas &gcirc;is hodia&ubreve;
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun <tld/>oj de unu a&ubreve; kelkaj jaroj, okazas multaj aliaj renkonti&gcirc;oj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Tria Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        trajnoj veturas nur la&ubreve; 30-minutaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2003/008017.html">Fervojo fivoja</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o inter la el&scirc;prucoj, kiuj da&ubreve;ras &ccirc;irka&ubreve; 25 minutojn<klr>[&#x2026;]</klr>
+        estas 36-38 horoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2012/010472.php">Varmaj vortoj por malvarmaj akvoj</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="distan.0o.SPA">distanco</ref>,
+      <ref cel="interm.0o">intermito</ref>,
+      <ref cel="period.0o">periodo</ref>,
+      <ref cel="span.0o">spano</ref>
+    </refgrp>
+    <trd lng="de">Spanne</trd>
+  </snc>
+  <snc mrk="interv.0o.MUZ">
+    <tezrad fak="MUZ"/>
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Interspaco, disiganta du notojn: 
+      <ekz>
+        la uzatajn tiam <tld/>ojn (kvinto, seksto) nun oni nomas &leftquot;vakaj&rightquot;
+        <fnt>
+          <bib>KFl</bib>
+          <lok>IV. El vivo de sistemoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        uzo de disonancaj <tld/>oj
+        <fnt>
+          <bib>KFl</bib>
+          <lok>III. Atomoj de evoluo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili donas nomojn al la plej malgrandaj <tld/>oj inter sonoj kaj klinas siajn
+        orelojn
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Sep</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fa">&a_f;&a_A;&a_S;&a_l;&a_h;<klr tip="ind"> (&a_m;&a_w;&a_s;&f_y;&a_q;&f_y;)</klr></trd>
+    <trd lng="hu">hangk&ouml;z</trd>
+    <trd lng="pl">interwa&lstroke;</trd>
+  </snc>
+  <snc mrk="interv.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <ref tip="super" cel="ar.0o.MAT">Aro</ref> de &ccirc;iuj 
+      <ref tip="prt" cel="reel.0o.MAT">reeloj</ref>, trovi&gcirc;antaj
+      inter du reeloj <frm am="a"><k>a</k></frm> kaj <frm am="b"><k>b</k></frm>; 
+      pli &gcirc;enerale: konveksa subaro de la aro de reeloj:
+      <ekz>
+        la <tld/>on oni notas per skriba&jcirc;o de la tipo 
+        <frm am="[a,b]">[<k>a</k>,<k>b</k>]</frm> 
+        <klr> (fermita <tld/>o, <frm am="a"><k>a</k></frm> kaj 
+        <frm am="b"><k>b</k></frm>
+        apartenas al la koncerna aro)</klr>,
+        <frm am="(a,b)">]<k>a</k>,<k>b</k>[</frm> 
+        <klr> (malfermita <tld/>o, nek <frm am="a"><k>a</k></frm> nek 
+        <frm am="b"><k>b</k></frm> apartenas al &gcirc;i)</klr>,
+        <frm am="[a,b)">[<k>a</k>,<k>b</k>[</frm> a&ubreve; 
+        <frm am="(a,b]">]<k>a</k>,<k>b</k>]</frm> <klr> (duonfermita
+        <tld/>o)</klr>;
+      </ekz>
+      <ekz>
+        la reelojn <frm am="a"><k>a</k></frm> kaj
+        <frm am="b"><k>b</k></frm> oni nomas
+      <ref tip="prt" cel="rand.0o.intervalo">randoj</ref> de la <tld/>o.
+      </ekz>
+    </dif>
+    <rim>
+      La nocio estas vastigebla al nefiniaj valoroj de 
+      <frm am="a"><k>a</k></frm> a&ubreve; <frm am="b"><k>b</k></frm>:
+      <frm am="[a,+oo)">[<k>a</k>,+&#x221E;[</frm> <klr> (&ccirc;iuj reeloj pli
+      grandaj
+      ol <frm am="a"><k>a</k></frm>, inkluzive de
+      <frm am="a"><k>a</k></frm>)</klr>,
+      <frm am="(-oo,+oo)">]-&#x221E;,+&#x221E;[</frm> ktp.
+    </rim>
+    <trd lng="en">interval</trd>
+    <trd lng="fa">&a_b;&a_A;&a_z;&a_h;</trd>
+    <trd lng="hu">intervallum</trd>
+    <trd lng="pl">przedzia&lstroke;</trd>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_t;&c_e;&c_r;&c_v;&c_a;&c_l;</trd>
+  <trd lng="ca">interval</trd>
+  <trdgrp lng="cs">
+    <trd>dosah</trd>,
+    <trd>rozsah</trd>
+  </trdgrp>
+  <trd lng="de">Intervall</trd>
+  <trd lng="es">intervalo</trd>
+  <trd lng="fr">intervalle</trd>
+  <trd lng="it">intervallo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x97F3;&#x7A0B;  <pr>&#x304A;&#x3093;&#x3066;&#x3044;</pr></trd>,
+    <trd>&#x533A;&#x9593;  <pr>&#x304F;&#x304B;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>interval</trd>,
+    <trd>tussenruimte</trd>
+  </trdgrp>
+  <trd lng="pt">intervalo<klr tip="amb">
+  (m&uacute;sica, matem&aacute;tica)</klr></trd>
+  <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_r;&c_v;&c_a;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>interval</trd>,
+    <trd>medzidobie</trd>,
+    <trd>rozp&auml;tie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&c_n;&c_t;&c_je;&c_r;&c_v;&c_a;&c_l;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_m;&c_ib;&c_zh;&c_o;&c_k;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_s;&c_t;&c_a;&c_n;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x533A;&#x95F4; <pr>q&#x16B;ji&#x101;n</pr></trd>,
+    <trd>&#x9593;&#x6B47; <pr>ji&#xE0;nxi&#x113;</pr></trd>,
+    <trd>&#x9593;&#x9694;&#x671F; <pr>ji&#xE0;ng&#xE9;q&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="interv.konvergx0o">
+  <kap>konver&gcirc;<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 19</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(de reela <ref cel="seri.potenco0o">potencoserio</ref> 
+      <frm am="S(x)"><k>S</k>(<k>x</k>)</frm> &ccirc;irka&ubreve; 
+      <frm am="x_0"><k>x</k><sub>0</sub></frm>)</klr>
+      Malfermita <ref cel="interv.0o.MAT"><tld/>o</ref>
+      <frm am="(x_0-rho,x_0+rho)">]<k>x</k><sub>0</sub>-&rho;,<k>x</k><sub>0</sub>+&rho;[</frm>,
+      kie <frm am="rho">&rho;</frm> signas la 
+      <ref cel="radius.konvergxo0o">konver&gcirc;oradiuson</ref> de la
+      serio.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_t;&c_e;&c_r;&c_v;&c_a;&c_l; &c_z;&c_mol;&c_b;&c_je;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  <trd lng="ca">interval de converg&egrave;ncia</trd>
+  <trd lng="de">Konvergenzintervall</trd>
+  <trd lng="en">interval of convergence</trd>
+  <trd lng="fa">&a_b;&a_A;&a_z;&a_h;&a_hamza_sure; &a_h;&a_m;&f_g;&a_r;&a_A;&f_y;&f_y;</trd>
+  <trd lng="fr">intervalle de convergence</trd>
+  <trd lng="hu">konvergenciatartom&aacute;ny</trd>
+  <trd lng="it">intervallo di convergenza</trd>
+  <trd lng="pl">przedzia&lstroke; zbie&zdot;no&sacute;ci</trd>
+  <trd lng="pt">intervalo de converg&ecirc;ncia</trd>
+  <trd lng="ru">
+  &c_i;&c_n;&c_t;&c_je;&c_r;&c_v;&c_a;&c_l;
+  &c_s;&c_h;&c_o;&c_d;&c_i;&c_m;&c_o;&c_s;&c_t;&c_i;
+  </trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.36 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.34 2023/04/11 16:10:36
+aktualigo Monato-URL
+
+versio 1.33 2022/11/21 21:27:48
+Wolfram Diestel: +snc KOMUNE (distanco), +ekz-oj
+
+versio 1.31 2022/01/24 07:28:56
+Dmitri Gabinski: + trd be
+
+versio 1.30 2020/02/15 00:10:40
+Wolfram Diestel: formuloj per am
+
+Revision 1.29  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2011/12/08 11:10:22  revo
+-->
+</vortaro>

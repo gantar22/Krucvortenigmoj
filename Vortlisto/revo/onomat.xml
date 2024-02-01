@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: onomat.xml,v 1.25 2023/10/20 13:11:47 revo Exp $">
+<kap>
+  <rad>onomatope</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="onomat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="onomat.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <fnt> <bib>KrED</bib></fnt>
+    <dif>
+      Imitado de naturaj bruoj per vortoj, kiaj ekzemple
+      <ctl>kluk kluk</ctl>, <ctl>zum zum</ctl>:
+      <ekz>
+        la verkinto enigas vin e&ccirc; en la cerbon de la farmbestoj <klr>[&#x2026;]</klr>, abundas <tld/>aj
+        krioj de plej diversaj bestoj
+        <fnt>
+          <aut>Stefan MacGill</aut>
+            <vrk><url ref="&Monato;/2000/007023.php">Knaba maturi&gcirc;o</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 31</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        mangao e&ccirc; konas &leftquot;<tld/>on&rightquot; por signi rideton
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=519">Bildliteraturo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Onomatopoesie</trd>,
+      <trd>Lautmalerei</trd>
+    </trdgrp>
+    <trd lng="hu">hangut&aacute;nz&aacute;s</trd>
+    <trd lng="nl">onomatopee</trd>
+    <trdgrp lng="pl">
+      <trd>onomatopeja</trd>,
+      <trd>d&zacute;wi&eogonek;kona&sacute;ladownictwo</trd>
+    </trdgrp>
+    <trd lng="pt">onomatop&eacute;ia</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_n;&c_o;&c_m;&c_a;&c_t;&c_o;&c_p;&c_je;&c_ja;</trd>,
+      <trd>&c_z;&c_v;&c_u;&c_k;&c_o;&c_p;&c_o;&c_d;&c_r;&c_a;&c_zh;&c_a;&c_n;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+
+  <snc mrk="onomat.0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Vorto imitanta naturajn bruojn:
+      <ctl>klukkluki</ctl>, <ctl>zumi</ctl>:
+      <ekz>
+        &ccirc;if&ccirc;afo <klr>[&#x2026;]</klr> facile rekoneblas per sia <klr>[&#x2026;]</klr> ripeteca 
+        &leftquot;&ccirc;ik-&ccirc;ak&rightquot; a&ubreve; &leftquot;sib-sab&rightquot; similanta bruon de moneroj, kiujn oni &jcirc;etus vice 
+        kiel por nombri ilin, de tiu rekonebla kanto devenas la <tld/>a nomo de la specio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=18755">&Ccirc;if&ccirc;afo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="imit.son0o">sonimito</ref>
+    <ref tip="super" cel="interj.0o">interjekcio</ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Onomatopoetikon</trd>,
+    <trd>lautnachahmendes Wort</trd>,
+    <trd>schallnachahmendes Wort</trd>
+  </trdgrp>
+  <trd lng="es">onomatopeya</trd>
+  <trd lng="fa">&a_n;&a_A;&a_m;&#x200C;&a_A_madda;&a_w;&a_A;</trd>
+  <trd lng="fr">onomatop&eacute;e</trd>
+  <trd lng="hu">hangut&aacute;nz&oacute; sz&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x64EC;&#x97F3;&#x8A9E;  <pr>&#x304E;&#x304A;&#x3093;&#x3054;</pr></trd>,
+    <trd>&#x64EC;&#x58F0;&#x8A9E;  <pr>&#x304E;&#x305B;&#x3044;&#x3054;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">onomatopee</trd>
+  <trdgrp lng="pl">
+    <trd>s&lstroke;owo <ind>onomatopeiczne</ind></trd>,
+    <trd>s&lstroke;owo <ind>d&zacute;wi&eogonek;kona&sacute;ladowcze</ind></trd>
+  </trdgrp>
+  <trd lng="pt">onomatop&eacute;ia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_v;&c_u;&c_k;&c_o;&c_p;&c_o;&c_d;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_s;&c_l;&c_o;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43D;&#x43E;&#x43C;&c_a;&c_t;&#x43E;&#x43F;&c_je;&#x44F;</trd>,
+    <trd>&c_z;&c_v;&c_u;&#x43A;&#x43E;&#x43D;&c_a;&c_s;&#x43B;&c_ib;&c_d;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/20 13:11:47
+revo: transskribo per <pr>
+
+versio 1.23 2023/05/01 06:32:06
+Paul Peeraerts: Steloj -> monato
+
+versio 1.22 2022/05/01 17:17:01
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.19  2015/02/14 21:10:24  revo
+Wolfram Diestel: anstatauigis ~ajxo (ne uzata) per ~o snc GRA, ref al sonimito, interjeckio
+
+Revision 1.18  2010/05/17 16:30:42  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2009/10/15 16:33:00  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2009/06/29 18:07:03  revo
+Jeromo Vasxe: sxangxis ekz al ctl, + 1 trd fr
+
+Revision 1.15  2009/02/10 14:19:22  revo
+-->
+</vortaro>

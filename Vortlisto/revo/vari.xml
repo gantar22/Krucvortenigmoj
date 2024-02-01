@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vari.xml,v 1.121 2023/12/12 20:10:29 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>vari</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="vari.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="vari.0i.sxangxigxi">
+    <dif>
+      <ref tip="super" cel="sxangx.0igxi">&Scirc;an&gcirc;i&gcirc;adi</ref>
+      la&ubreve; iu maniero sen da&ubreve;re perdi siajn esencajn trajtojn;
+      &scirc;an&gcirc;i&gcirc;i la&ubreve; nur kelkaj ecoj, sed ne la&ubreve; aliaj:
+      <ekz>
+        ilia muzikstilo tre <tld/>as kaj ili &ccirc;iam bonege distris
+        la homojn;
+      </ekz><ekz>
+        la rakonta tekniko <tld/>as, de klasika kronikado &ccirc;e <nom>Auld</nom>
+        &gcirc;is vigla dialogo &ccirc;e <nom>Guglielminetti</nom>
+        <fnt><aut>S. Johansson</aut>
+        <vrk><url ref="http://www.dreamwater.net/esperanto/novel/novlibr/wiederborenrec.html">
+        Bela Bukedo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="nl">
+      <trd>vari&euml;ren</trd>,
+      <trd>afwisselen</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="vari.0i.devii">
+    <dif>
+      <ref tip="super" cel="devi.0i">Deviadi</ref> de avera&gcirc;o ene
+      de certaj limoj; &scirc;an&gcirc;i&gcirc;i la&ubreve; la valoro,
+      la&ubreve;grade:
+      <ekz>
+        informoj pri nombroj de parolantoj <tld/>as en diversaj fontoj
+        <fnt><bib>LanLin</bib></fnt>;
+      </ekz><ekz>
+        la prezo en urbaj hoteloj <tld/>as de 50 &gcirc;is 150 e&ubreve;roj.
+      </ekz>
+    </dif>
+    <trd lng="nl">werken<klr tip="ind"> (v.hout)</klr></trd>
+  </snc>
+  <snc mrk="vari.0i.diversi">
+    <dif>
+      <ref tip="vid" cel="divers.0i.KOMUNE">Diversi</ref> ne esence,
+      sed per etaj malsamoj:
+      <ekz>
+        la signifo de tiu vorto <tld/>as de lingvo al lingvo <klr>(la
+        signifoj diferencas subtile, sed ne esence)</klr>;
+      </ekz><ekz>
+        la kialoj <tld/>as de unu familio al alia, sed plej ofte temas
+        pri ia kombino de la motivoj &ccirc;i-subaj
+        <fnt>
+        <aut>J. Lindstedt</aut>
+        <vrk><url ref="http://www.helsinki.fi/~jslindst/odo.html">Oftaj
+        demandoj pri denaskaj Esperant-lingvanoj</url></vrk>
+        </fnt>;
+      </ekz><ekz>
+        birdoj ene de la sama lando varias je rimarkinde malgranda grado
+        <fnt>
+          <bib>OriginoDeSpecioj</bib>,
+          <lok>&ccirc;apitro 5a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">wissel</trd>
+  <trd lng="am">&#x12ED;&#x1208;&#x12EB;&#x12EB;&#x120D;</trd>
+  <trd lng="ar">&a_t;&a_kh;&a_t;&a_l;&a_f;</trd>
+  <trd lng="az">d&#x259;yi&scedil;ir</trd>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;'&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_mol;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_j;&c_n;&c_a;&c_ch;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_a;&c_z;&c_mol;&c_m;&c_je;&c_n;&c_mol;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9AA;&#x9B0;&#x9BF;&#x9AC;&#x9B0;&#x9CD;&#x9A4;&#x9BF;&#x9A4; &#x9B9;&#x9A4;&#x9C7;</trd>
+  <trd lng="bs">variraju</trd>
+  <trd lng="co">varianu</trd>
+  <trdgrp lng="cs">
+    <trd>kol&iacute;sat</trd>,
+    <trd>m&ecaron;nit se</trd>,
+    <trd>m&ecaron;nit se</trd>,
+    <trd>pohybovat se</trd>
+  </trdgrp>
+  <trd lng="cy">amrywio</trd>
+  <trd lng="da">variere</trd>
+  <trd lng="de">variieren</trd>
+  <trd lng="en">vary</trd>
+  <trdgrp lng="es">
+    <trd>variar<klr tip="ind"> (intr.)</klr></trd>,
+    <trd>cambiar</trd>
+  </trdgrp>
+  <trd lng="et">erinevad</trd>
+  <trdgrp lng="fr">
+    <trd>changer<klr tip="ind"> (intr.)</klr></trd>,
+    <trd>varier</trd>
+  </trdgrp>
+  <trd lng="fy">&ocirc;fwikselje</trd>
+  <trd lng="ga">athr&uacute;</trd>
+  <trd lng="gd">eadar-dhealaichte</trd>
+  <trd lng="gl">variar</trd>
+  <trd lng="gu">&#xA85;&#xAB2;&#xA97; &#xA85;&#xAB2;&#xA97; &#xAB9;&#xACB;&#xAAF; &#xA9B;&#xAC7;</trd>
+  <trd lng="ha">bambanta</trd>
+  <trd lng="hi">&#x92D;&#x93F;&#x928;&#x94D;&#x928; &#x939;&#x94B;</trd>
+  <trd lng="hmn">sib txawv</trd>
+  <trd lng="hr">razlikuju</trd>
+  <trd lng="ht">varye</trd>
+  <trdgrp lng="hu">
+    <trd>v&aacute;ltozik</trd>,
+    <trd>v&aacute;ltakozik</trd>,
+    <trd>vari&aacute;l&oacute;dik</trd>
+  </trdgrp>
+  <trd lng="hy">&#x57F;&#x561;&#x580;&#x562;&#x565;&#x580;&#x57E;&#x565;&#x56C;</trd>
+  <trd lng="ig">iche iche</trd>
+  <trd lng="is">breytileg</trd>
+  <trd lng="ja">&#x5909;&#x3048;&#x308B; <pr>&#x304B;&#x3048;&#x308B;</pr></trd>
+  <trd lng="jv">beda-beda</trd>
+  <trd lng="ka">&#x10D8;&#x10EA;&#x10D5;&#x10DA;&#x10D4;&#x10D1;&#x10D0;</trd>
+  <trd lng="kk">&#x4E9;&c_z;&c_g;&c_je;&c_r;&c_t;&c_u;</trd>
+  <trd lng="km">&#x1781;&#x17BB;&#x179F;&#x1782;&#x17D2;&#x1793;&#x17B6;</trd>
+  <trd lng="kn">&#xCAC;&#xCA6;&#xCB2;&#xCBE;&#xC97;&#xCC1;&#xCA4;&#xCCD;&#xCA4;&#xCB5;&#xCC6;</trd>
+  <trd lng="ko">&#xB2E4;&#xC591;</trd>
+  <trd lng="ku">g&ucirc;herrandin</trd>
+  <trd lng="ky">&#x4E9;&c_z;&c_g;&#x4E9;&c_r;&#x4AF;&#x4AF;</trd>
+  <trd lng="lat">variant</trd>
+  <trd lng="lo">&#xEC1;&#xE95;&#xE81;&#xE95;&#xEC8;&#xEB2;&#xE87;&#xE81;&#xEB1;&#xE99;</trd>
+  <trd lng="lt">skirtis</trd>
+  <trd lng="lv">main&#299;ties</trd>
+  <trd lng="mi">rerek&#x15E3;</trd>
+  <trd lng="mk">&c_s;&c_je; &c_r;&c_a;&c_z;&c_l;&c_i;&c_k;&c_u;&c_v;&c_a;&c_a;&c_t;</trd>
+  <trd lng="ml">&#xD35;&#xD4D;&#xD2F;&#xD24;&#xD4D;&#xD2F;&#xD3E;&#xD38;&#xD2A;&#xD4D;&#xD2A;&#xD46;&#xD1F;&#xD3E;&#xD02;</trd>
+  <trd lng="mn">&#x4E9;&#x4E9;&c_r; &#x4E9;&#x4E9;&c_r;</trd>
+  <trd lng="mr">&#x92C;&#x926;&#x932;&#x942;</trd>
+  <trd lng="ms">berbeza-beza</trd>
+  <trd lng="mt">jvarjaw</trd>
+  <trd lng="my">&#x1000;&#x103D;&#x1032;&#x1015;&#x103C;&#x102C;&#x1038;&#x1001;&#x103C;&#x102C;&#x1038;&#x1014;&#x102C;&#x1038;</trd>
+  <trd lng="ne">&#x92D;&#x93F;&#x928;&#x94D;&#x928;</trd>
+  <trd lng="ny">zosiyanasiyana</trd>
+  <trd lng="pa">&#xA35;&#xA71;&#xA16; &#xA35;&#xA71;&#xA16;</trd>
+  <trd lng="pl">zmienia&cacute; si&eogonek;</trd>
+  <trd lng="ps">&a_t;&a_w;&f_p;&f_y;&a_r; &a_l;&a_r;&a_y;</trd>
+  <trd lng="pt">variar</trd>
+  <trd lng="ro">varia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_a;&c_r;&c_mol;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="rw">biratandukanye</trd>
+  <trd lng="sd">&a_n;&a_A;&a_h;&a_y;&a_w;&a_n;</trd>
+  <trd lng="si">&#xDC0;&#xDD9;&#xDB1;&#xDC3;&#xDCA; &#xDC0;&#xDD2;&#xDBA;</trd>
+  <trdgrp lng="sk">
+    <trd>meni&tcaron; <klr>(sa)</klr></trd>,
+    <trd>obmie&ncaron;a&tcaron;</trd>,
+    <trd>strieda&tcaron; sa</trd>,
+    <trd>variova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sl">razlikujejo</trd>
+  <trd lng="sm">fetuunai</trd>
+  <trd lng="sn">siyana</trd>
+  <trd lng="so">kala duwanaan</trd>
+  <trd lng="sq">ndryshojn&euml;</trd>
+  <trd lng="st">fapana</trd>
+  <trd lng="su">henteu sarua</trd>
+  <trd lng="sw">kutofautiana</trd>
+  <trd lng="ta">&#xBAE;&#xBBE;&#xBB1;&#xBC1;&#xBAA;&#xB9F;&#xBC1;&#xB95;&#xBBF;&#xBB1;&#xBA4;&#xBC1;</trd>
+  <trd lng="te">&#xC2E;&#xC3E;&#xC30;&#xC41;&#xC24;&#xC41;&#xC02;&#xC1F;&#xC3E;&#xC2F;&#xC3F;</trd>
+  <trd lng="tg">&c_f;&c_a;&c_r;&#x49B;</trd>
+  <trd lng="th">&#xE41;&#xE15;&#xE01;&#xE15;&#xE48;&#xE32;&#xE07;</trd>
+  <trd lng="tl">mag-iba</trd>
+  <trd lng="tt">&c_t;&#x4E9;&c_r;&c_l;&c_je;</trd>
+  <trd lng="uk">&c_v;&c_a;&c_r;&c_ib;&c_ju;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  <trd lng="ur">&a_m;&a_kh;&a_t;&a_l;&a_f;</trd>
+  <trd lng="uz">farq</trd>
+  <trd lng="vi">kh&aacute;c nhau</trd>
+  <trd lng="xh">kwahluka</trd>
+  <trd lng="yi">&bet;&yod;&yod;&#x5B7;&tet;&fnun;</trd>
+  <trd lng="yo">yat&#x1ECD;</trd>
+  <trd lng="zu">ziyehluka</trd>
+</drv>
+
+<drv mrk="vari.0a">
+  <kap><tld/>a <fnt><bib>VdE</bib></fnt></kap>
+  <snc mrk="vari.0a.sxangxigxema">
+    <dif>
+      &Scirc;an&gcirc;i&gcirc;anta la&ubreve; la cirkonstancoj; jen tia, jen alia:
+      <ekz>
+        <tld/>a vetero;
+      </ekz><ekz>
+        <tld/>a stelo;
+      </ekz><ekz>
+        La artikolo havas la formon <ctl>la</ctl>, <tld/>an nek
+        la&ubreve;kaze, nek la&ubreve;genre, nek la&ubreve;nombre
+        <fnt><vrk>PAG</vrk>, <lok>&para;76</lok></fnt>;
+      </ekz><ekz>
+        li penetris &gcirc;iskomprene la konfuzan menson kaj la <tld/>an
+        naturon de virino
+        <fnt>
+          <aut>Cervantes, tr. Fernando de Diego</aut>:
+          <vrk>La in&gcirc;enia hidalgo don Quijote de La Mancha</vrk>.
+          <lok>Parto 1&#xAA;, &ccirc;ap. 27&#xAA;</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>,
+      <trd>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_l;&c_ib;&c_v;&c_y;</trd>
+    </trdgrp>
+    <trd lng="en">variable<klr> (adj.)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_i;&c_z;&c_m;&c_je;&c_n;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="vari.0a.diversa">
+    <dif>
+      Prezentanta diversajn formojn, aspektojn, ecojn:
+      <ekz>
+        La programo de la festo estis tre <tld/>a
+        <fnt><aut>Dimitar HA&Gcirc;IEV</aut>: <vrk>Festo de &gcirc;emeloj</vrk>.
+             <bib>Monato</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_y;</trd>
+    <trd lng="en">various</trd>
+    <trd lng="ru">&c_r;&c_a;&c_z;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trd lng="bo">&t_ga;&t_yata;&t_shabchu;&t_ra;&t_tsheg;&t_ba;&t_tsheg;&t_cha;&t_drengbu;&t_na;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5909;&#x52D5;&#x3059;&#x308B;  <pr>&#x3078;&#x3093;&#x3069;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5909;&#x5316;&#x306B;&#x5BCC;&#x3093;&#x3060;  <pr>&#x3078;&#x3093;&#x304B;&#x306B;&#x3068;&#x3093;&#x3060;</pr></trd>,
+    <trd>&#x591A;&#x69D8;&#x306A;  <pr>&#x305F;&#x3088;&#x3046;&#x306A;</pr></trd>,
+    <trd>&#x7A2E;&#x3005;&#x306E;  <pr>&#x3057;&#x3085;&#x3058;&#x3085;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>urozmaicony</trd>,
+    <trd>niesta&lstroke;y</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>divers</trd>,
+    <trd>instabile</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_m;&c_ib;&c_n;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_m;&c_ib;&c_n;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_h;&c_i;&c_t;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_ib;&c_n;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vari.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="vari.0ajxo.KOMUNE">
+    <dif>
+      Kopio, <ref tip="super" cel="ekzemp1.0o">ekzemplero</ref>, okaza&jcirc;o diferencanta de
+      originalo per iu eco.
+    </dif>
+    <subsnc mrk="vari.0ajxo.MUZ">
+      <uzo tip="fak">MUZ</uzo>
+      <dif>
+        Interpreto <tld/>anta &ccirc;irka&ubreve; la &gcirc;eneralaj
+        ritmo kaj melodio de originalo:
+        <ekz>
+          temo kun <tld/>a&jcirc;oj.
+        </ekz>
+      </dif>
+      <refgrp tip="sin">
+       <ref cel="variac.0o">variacio</ref>
+      </refgrp>
+    </subsnc>
+    <subsnc mrk="vari.0ajxo.BIO">
+      <uzo tip="fak">BIO</uzo>
+      <dif>
+        Individuo a&ubreve; grupo de individuoj diferencanta
+        de la <ref tip="vid" cel="tip.0o.KOMUNE">tipo</ref>
+        per iu eco:
+        <ekz>
+          la sangofago estas <tld/>a&jcirc;o de la specio fago
+          <klr>(karakterizata de ru&gcirc;koloraj folioj)</klr>;
+        </ekz><ekz>
+          profesoro de botaniko <klr>[...]</klr> pririgardis la
+          kreska&jcirc;on, gustumis &gcirc;in, sed <klr>[...]</klr> neniel
+          povis trovi, al kiu klaso &gcirc;i apartenas; <ctl>tio estas
+           <tld/>a&jcirc;o</ctl>, li diris
+          <fnt><bib>Fab3</bib>, <lok>Historio de unu
+          patrino</lok></fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="speci.sub0o.BIO">subspecio</ref>
+      </refgrp>
+    </subsnc>
+    <refgrp tip="sub">
+       <ref cel="varian.0o">varianto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_y;&c_ja;&c_n;&c_t;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_y;&c_ja;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_v;&c_a;&c_r;&c_i;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd>Variation</trd>,
+    <trd>Variet&auml;t</trd>.
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>variant</trd>,
+    <trd>variation</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>variante</trd>,
+    <trd>variation<klr> (variante)</klr></trd>,
+    <trd>vari&eacute;t&eacute;<klr> (variante)</klr></trd>,
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>v&aacute;ltozat</trd>,
+    <trd>vari&aacute;ci&oacute;</trd>
+    <trd>vari&aacute;ns</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5909;&#x7A2E;  <pr>&#x3078;&#x3093;&#x3057;&#x3085;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>wariacja</trd>,
+    <trd>wariant</trd>.
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>varia&#x21B;ie</trd>,
+    <trd>varianta</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_a;&c_r;&c_i;&c_a;&c_n;&c_t;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_i;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_m;&c_ib;&c_n;&c_a;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_h;&c_i;&c_l;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_ib;&c_a;&c_n;&c_t;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_ib;&c_a;&c_c;&c_ib;&c_ja;</trd>,
+    <trd>&c_b;&c_ib;&c_o;&c_l;. &c_v;&c_a;&c_r;&c_ib;&c_jeu;&c_t;&c_je;&c_t;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_n;&c_o;&c_v;&c_i;&c_d;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_ib;&c_d;&c_v;&c_i;&c_d;</trd>,
+    <trd>&c_s;&c_o;&c_r;&c_t;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vari.0anta">
+  <kap><tld/>anta</kap>
+  <snc mrk="vari.0anta.KOMUNE">
+    <dif>
+      Kiu <tld/>as.
+    </dif>
+  </snc>
+  <snc mrk="vari.0anta.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib>, <lok>p. 8</lok></fnt>
+    <dif>
+      Libere elektebla ene de iu aro;
+      estanta <ref cel="variab.0o">variablo</ref>:
+      <ekz>
+        lineara ekvacio kun <tld/>antaj koeficientoj.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="konsta.0a.gxenerale">konstanta</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>
+  <trd lng="de">variabel</trd>
+  <trd lng="en">variable</trd>
+  <trd lng="es">variable</trd>
+  <trd lng="fr">variable<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>v&aacute;ltoz&oacute;</trd>,
+    <trd>v&aacute;ltakoz&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zmieniaj&aogonek;cy si&eogonek;</trd>,
+    <trd>zmienny</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>schimb&acirc;ndu-se</trd>,
+    <trd>variabil</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="vari.0anto">
+  <kap><tld/>anto</kap>
+  <uzo tip="fak">MAT</uzo>
+  <uzo tip="stl">ARK</uzo>
+  <fnt><bib>MatTerm</bib>, <lok>p. 18</lok></fnt>
+  <snc>
+    <ref tip="dif" cel="variab.0o.MAT">variablo</ref>
+  </snc>
+  <ref tip="hom" cel="varian.0o">variant&middot;o (redakcio k.a.)</ref>
+  <trdgrp lng="cs">
+    <trd>biol. odchylka</trd>,
+    <trd>mat.</trd>,
+    <trd>nevh. prom&ecaron;nn&aacute;</trd>,
+    <trd>obm&ecaron;na</trd>,
+    <trd>varianta</trd>
+  </trdgrp>
+  <trd lng="en">variable</trd>
+  <trd lng="hu">v&aacute;ltoz&oacute;</trd>
+  <trd lng="pl">zmienna</trd>
+  <trd lng="ro">variabil&abreve;</trd>
+  <trdgrp lng="sk">
+    <trd>obmena</trd>,
+    <trd>odch&yacute;lka</trd>,
+    <trd>variant</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_a;&c_r;&c_ib;&c_a;&c_n;&c_t;</trd>,
+    <trd>&c_z;&c_m;&c_ib;&c_n;&c_n;&c_a; (&c_v;&c_je;&c_l;&c_i;&c_ch;&c_i;&c_n;&c_a;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vari.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="vari.0ema.KOMUNE">
+    <dif>
+      &Scirc;an&gcirc;i&gcirc;anta la&ubreve; la cirkonstancoj:
+      <ekz>
+        <tld/>ema vetero, vorto.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>labiln&iacute;</trd>,
+    <trd>nest&aacute;l&yacute;</trd>,
+    <trd>prom&ecaron;nliv&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>variable</trd>,
+    <trd>inconstant</trd>,
+    <trd>shifting</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>voluble</trd>,
+    <trd>variable</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>changeant</trd>,
+    <trd>variable<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">v&aacute;ltoz&eacute;kony</trd>
+  <trd lng="pl">zmienny</trd>
+  <trdgrp lng="pt">
+    <trd>inst&aacute;vel</trd>,
+    <trd>mut&aacute;l</trd>,
+    <trd>vari&aacute;vel</trd>
+  </trdgrp>
+  <trd lng="ro">muabil</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_m;&c_je;&c_n;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>labiln&yacute;</trd>,
+    <trd>nest&aacute;ly</trd>,
+    <trd>premenliv&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_ib;&c_n;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_h;&c_i;&c_t;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vari.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vari.0igi.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="modif.0i">Modifadi</ref>, ka&ubreve;zi <tld/>adon,
+      <ref tip="vid" cel="divers.0igi.KOMUNE">diversigi</ref>:
+      <ekz>
+        aparte en la provinco <nom>Guangxi</nom> mi komencis rimarki, ke iuj lokaj
+        legomoj agrable <tld/>igas la guston de la viandoj
+        <fnt>
+          <aut>P. Dasgupta</aut>,
+          <vrk><url ref="&CRI;362/2008/12/04/1s89503.htm">
+          Tagnoto...</url></vrk>,
+          <lok>2008-12-04</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_k;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_mol;
+    <ind>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_y;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>m&ecaron;nit</trd>,
+    <trd>zm&ecaron;nit</trd>,
+    <trd>zpest&rcaron;it</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>cause to <ind>vary</ind></trd>,
+    <trd>vary</trd>
+  </trdgrp>
+  <trd lng="fr">faire <ind>varier</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5909;&#x52D5;&#x3055;&#x305B;&#x308B;  <pr>&#x3078;&#x3093;&#x3069;&#x3046;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x5909;&#x5316;&#x3055;&#x305B;&#x308B;  <pr>&#x3078;&#x3093;&#x304B;&#x3055;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>urozmaica&cacute;</trd>,
+    <trd>zmienia&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>diversifica</trd>,
+    <trd>schimba</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>meni&tcaron;</trd>,
+    <trd>spestri&tcaron;</trd>,
+    <trd>zmeni&tcaron;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.121 2023/12/12 20:10:29
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.120 2023/10/21 16:50:35
+revo: transskribo per <pr>
+
+versio 1.118 2023/08/29 20:27:21
+Wolfram Diestel: ja: prononco
+
+versio 1.117 2022/09/02 21:28:47
+Vito Redsky:  +trd pl  + kor trd ro
+
+versio 1.116 2022/05/06 12:17:21
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.115 2022/04/22 04:41:15
+Noam Mohr: +trd en variigi
+
+versio 1.113 2021/06/28 15:55:26
+Wolfram Diestel: ~anto: +ref-hom
+
+versio 1.112 2021/06/28 12:45:33
+-->
+</vortaro>

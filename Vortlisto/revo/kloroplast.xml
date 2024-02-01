@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kloroplast.xml,v 1.8 2023/12/03 09:58:51 revo Exp $">
+<kap>
+  <rad>kloroplast</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="kloroplast.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kloroplast.0o.FIZL">
+    <uzo tip="fak">BOT</uzo>
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Iu el la <ref tip="super" cel="organ.0eto.FIZL">organetoj</ref>
+      troveblaj en vegeta&jcirc;aj &ccirc;eloj, kiuj plenumas
+      <ref tip="vid" cel="fotosintez.0o.BOT">fotosintezon</ref>:
+      <ekz>
+        iuj kredas ke la prapatro de la <tld/>oj estis parenco de
+        Prokloro
+        <fnt>
+          <aut>J. Badger</aut>,
+          <vrk><url ref="http://groups.google.be/group/soc.culture.esperanto/msg/3a164e3a487ee13c">
+          biologia klasifiko</url></vrk>,
+          <lok>soc.culture.esperanto, 1999-12-04</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        e&ubreve;kariotoj de la Planta Regno kapablas fotosintezi, pro
+        verdaj 
+        organetoj kiuj nomi&gcirc;as <tld/>oj
+        <fnt>
+          <aut>K. Lendon</aut>,
+          <vrk>Proterozoika Erao</vrk>,
+          <lok><url ref="http://groups.yahoo.com/group/aeko/message/845">
+          aeko</url>, 2002-06-20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="prt" cel="klorof.0o">klorofilo</ref>
+    <trd lng="be">&c_h;&c_l;&c_jo;&c_r;&c_a;&c_p;&c_l;&c_ja;&c_s;&c_t;</trd>
+    <trd lng="ca">cloroplast</trd>
+    <trd lng="de">Chloroplast</trd>
+    <trd lng="en">chloroplast</trd>
+    <trd lng="fr">chloroplaste</trd>
+    <trd lng="pl">chloroplast</trd>
+    <trdgrp lng="zh">
+    <trd>&#x53F6;&#x7EFF;&#x4F53; <pr>y&#xE8;l&#xF9;:t&#x1D0;</pr></trd>,
+    <trd>&#x53F6;&#x7EFF;&#x4F53; <pr>y&#xE8;l&#xFC;t&#x1D0;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="uk">&c_h;&#x43B;&#x43E;&c_r;&#x43E;&#x43F;&#x43B;&c_a;&c_s;&c_t;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2022/06/17 11:27:01
+Dmitri Gabinski: + trd be
+
+versio 1.5 2021/02/16 14:11:20
+Wolfram Diestel: +trd de
+
+Revision 1.3  2012/07/31 14:10:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2010/12/09 17:30:54  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2010/09/19 16:30:41  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

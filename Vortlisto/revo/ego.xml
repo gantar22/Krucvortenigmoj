@@ -1,0 +1,639 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ego.xml,v 1.38 2023/11/07 19:22:22 revo Exp $">
+<!-- la varia&jcirc;oj egoism/o kaj egoist/o estas intence malsupre &ccirc;i, por
+aldoni la oficialajn
+     radikojn egoism/ kaj egoist/ la&ubreve; 1a OA, kaj samtempe montri ke ni
+     konsideras &gcirc;in
+     hodia&ubreve; deriva&jcirc;o de ego/. Bv. ne forigi a&ubreve; &scirc;an&gcirc;i! -->
+<kap>
+  <rad>ego</rad>/o <fnt><bib>PIV1</bib></fnt>,
+  <var><kap><ofc>1</ofc> <rad>egoism</rad>/o</kap></var>,
+  <var><kap><ofc>1</ofc> <rad>egoist</rad>/o</kap></var>
+</kap>
+<drv mrk="ego.0o">
+  <kap><tld/>o</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc mrk="ego.0o.PSI">
+    <uzo tip="fak">FIL</uzo>
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      La konscia subjekto, kontraste al la ne<tld/>o a&ubreve; objekto.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_e;&c_g;&c_a;</trd>,
+      <trd>&c_Ja;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>ego</trd>,
+      <trd>jo</trd>
+    </trdgrp>
+    <trd lng="en">ego</trd>
+    <trd lng="es">ego</trd>
+    <trdgrp lng="fr">
+      <trd>ego</trd>,
+      <trd>moi<klr tip="ind"> (subst., philo., psycho.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&Eacute;n</trd>,
+      <trd>ego</trd>
+    </trdgrp>
+    <trd lng="nl">ego</trd>
+    <trdgrp lng="de">
+      <trd>Ich</trd>,
+      <trd>Selbst</trd>,
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>ego</trd>,
+      <trd><klr>(wewn&eogonek;trzne) </klr>ja</trd>
+    </trdgrp>
+    <trd lng="pt">ego</trd>
+    <trdgrp lng="ru">
+      <trd>&c_e;&c_g;&c_o;</trd>,
+      <trd>&c_Ja;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="ego.0o.KOMUNE">
+    <dif>
+      Propra personeco, konscianta pri siaj bezonoj prioritate, kaj
+      ignoranta la bezonojn
+      de aliaj:
+      <ekz>
+        la pli multaj Novepok-aj filozofioj prezentas nur metodojn por
+        senti sin pli
+        sane, por senti sin pli komforte en la revoj de sia iluzia
+        <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Christian Declerck</aut>
+          <vrk><url ref="&Monato;/2009/009048.php">Spirituala
+          materialismo</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        klanestroj: rabemaj, oportunismaj fe&ubreve;daj baronoj, kiuj
+        prostituas siajn plej
+        proksimajn keltajn parencojn por &scirc;veligi siajn <tld/>ojn kaj
+        bank-kontojn
+        <fnt>
+          <aut>W. H. Simcock</aut>
+            <vrk><url ref="&Monato;/2000/007111.php">Kla(&ubreve;)nado inter la montoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 13</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="am.mem0o">memamo</ref>,
+       <ref cel="estim.mem0o">memestimo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>ego</trd>,
+    <trd>subjektivn&iacute; j&aacute;</trd>
+  </trdgrp>
+  <trd lng="de">Ego</trd>
+  <trd lng="he">&#x5D0;&#x5B8;&#x5E0;&#x5D5;&#x5B9;&#x5DB;&#x5B4;&#x5D9;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A8;&#x30B4;&#x30A4;&#x30B9;&#x30C8;</trd>,
+    <trd>&#x5229;&#x5DF1;&#x4E3B;&#x7FA9;&#x8005;  <pr>&#x308A;&#x3053;&#x3057;&#x3085;&#x304E;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ego</trd>,
+    <trd>subjekt&iacute;vne ja</trd>
+  </trdgrp>
+  <trd lng="uk">&c_je;&c_g;&#x43E;&c_ji;&c_s;&c_t;</trd>
+</drv>
+
+<drv mrk="ego.0ismo">
+  <kap><ofc>1</ofc> <tld/>ismo</kap>
+  <snc mrk="ego.0ismo.PSI">
+    <dif>
+      Ekskluziva memamo, kiu igas personon ser&ccirc;i en la vivo nur la
+      propran plezuron a&ubreve; profiton:
+      <ekz>
+        obeante la vo&ccirc;on de la indiferenta <tld/>ismo
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li rimarkis, ke <klr>[&#x2026;]</klr> sur la fundo de &ccirc;iu koro ku&scirc;as
+        <tld/>ismo
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iajn idealojn kaj celadon gente-naciajn mi rigardas nur kiel
+        grupan <tld/>ismon
+        kaj hommalamon
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="altrui.0o">altruismo</ref>,
+      <ref cel="ego.mal0ismo.PSI">mal<tld/>ismo</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_e;&c_g;&c_a;&c_ib;&c_z;&c_m;</trd>,
+      <trd>&c_s;&c_a;&c_m;&c_a;&c_l;&c_ju;&c_b;&c_s;&c_t;&c_v;&c_a;</trd>,
+      <trd>&c_s;&c_ja;&c_b;&c_je;&c_l;&c_ju;&c_b;&c_s;&c_t;&c_v;&c_a;</trd>,
+      <trd>&c_s;&c_ja;&c_b;&c_je;&c_l;&c_ju;&c_b;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_je;&c_g;&c_o;&c_i;&c_z;&c_malmol;&c_m;</trd>
+    <trd lng="ca">egoisme</trd>
+    <trdgrp lng="de">
+      <trd>Ichsucht</trd>,
+      <trd>Eigensucht</trd>,
+      <trd>Selbstsucht</trd>,
+      <trd>Egoismus</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>egoism</trd>,
+      <trd>egotism</trd>
+    </trdgrp>
+    <trd lng="es">ego&iacute;smo</trd>
+    <trd lng="fr">&eacute;go&iuml;sme</trd>
+    <trdgrp lng="hu">
+      <trd>&ouml;nz&eacute;s</trd>,
+      <trd>egoizmus</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>ego&iuml;sme</trd>,
+      <trd>eigenliefde</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>egoizm</trd>,
+      <trd>samolubstwo</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_e;&c_g;&c_o;&c_i;&c_z;&c_m;</trd>,
+      <trd>&c_s;&c_je;&c_b;&c_ja;&c_l;&c_ju;&c_b;&c_i;&c_je;</trd>
+    </trdgrp>
+    <trdgrp lng="sv">
+      <trd>egoism</trd>,
+      <trd>sj&auml;lviskhet</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x81EA;&#x79C1;&#x81EA;&#x5229; <pr>z&#xEC;s&#x12B;z&#xEC;l&#xEC;</pr></trd>,
+    <trd>&#x5229;&#x5DF1;&#x4E3B;&#x4E49; <pr>l&#xEC;j&#x1D0;zh&#x1D4;y&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="cs">
+    <trd>egoizmus</trd>,
+    <trd>j&aacute;stv&iacute;</trd>,
+    <trd>sobectv&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>egoizmus</trd>,
+    <trd>sebectvo</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ego.0isma">
+  <kap><tld/>isma</kap>
+  <snc mrk="ego.0isma.PSI">
+    <dif>
+      Ser&ccirc;anta en la vivo nur la propran plezuron a&ubreve;
+      profiton; rilata al tia persono:
+      <ekz>
+        <tld/>ismaj pensoj, celoj, agoj;
+      </ekz>
+      <ekz>
+        <tld/>isma oportuneco
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge
+          en la 12a de a&ubreve;gusto 1907</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="altrui.0a">altruisma</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_g;&c_a;&c_ib;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_ja;&c_b;&c_je;&c_l;&c_ju;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_l;&c_ju;&c_b;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="ca">egoista<klr> (adj.)</klr></trd>
+  <trd lng="cs">sobeck&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>ichs&uuml;chtig</trd>,
+    <trd>eigens&uuml;chtig</trd>,
+    <trd>selbsts&uuml;chtig</trd>,
+    <trd>egoistisch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>egotistical</trd>,
+    <trd>egoistical</trd>
+    <trd>selfish</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;go&iuml;ste<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;nz&odblac;</trd>,
+    <trd>egosita</trd>
+  </trdgrp>
+  <trd lng="nl">ego&iuml;stisch</trd>
+  <trdgrp lng="pl">
+    <trd>egoistyczny</trd>,
+    <trd>samolubny</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_g;&c_o;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_e;&c_g;&c_o;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_je;&c_b;&c_ja;&c_l;&c_ju;&c_b;&c_i;&c_v;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>samo&lcaron;&uacute;by</trd>,
+    <trd>sebeck&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x79C1;&#x5FC3; <pr>s&#x12B;x&#x12B;n</pr></trd>,
+    <trd>&#x5229;&#x5DF2; <pr>l&#xEC;y&#x1D0;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ego.0ismulo">
+  <kap><tld/>ismulo</kap>
+  <snc mrk="ego.0ismulo.PSI">
+    <dif>
+      <ref tip="dif" cel="ego.0isto"><tld lit="E"/>isto</ref>:
+      <ekz>
+        &scirc;i estis nomita &leftquot;ekstrema <tld/>ismulo&rightquot; kaj &scirc;i alfrontus dek
+        tagoj de
+        administran areston kun monpuno de &ccirc;irka&ubreve; 400 dolaroj
+        <fnt>
+          <vrk><url ref="https://lernu.net/lt/forumo/temo/24584">La
+          supertaro devas atendi mian edzon!</url></vrk>
+          <lok>lernu.net</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_g;&c_a;&c_ib;&c_s;&c_t;</trd>,
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_l;&c_ju;&c_b;</trd>,
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_l;&c_ju;&c_b;&c_je;&c_c;</trd>,
+    <trd>&c_s;&c_ja;&c_b;&c_je;&c_l;&c_ju;&c_b;</trd>,
+    <trd>&c_s;&c_a;&c_b;&c_je;&c_t;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="ca">egoista<klr> (subst.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>egoista</trd>,
+    <trd>sobec</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Egoist</trd>,
+    <trd>selbsts&uuml;chtige Person</trd>,
+    <trd>Selbsts&uuml;chtiger</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>egoist</trd>,
+    <trd>egotist</trd>
+  </trdgrp>
+  <trd lng="es">ego&iacute;sta</trd>
+  <trd lng="fr">&eacute;go&iuml;ste<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;nz&odblac; ember</trd>,
+    <trd>egoista</trd>
+  </trdgrp>
+  <trd lng="nl">ego&iuml;st</trd>
+  <trdgrp lng="pl">
+    <trd>egoista</trd>,
+    <trd>samolub</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_g;&c_o;&c_i;&c_s;&c_t;</trd>,
+    <trd>&c_s;&c_je;&c_b;&c_ja;&c_l;&c_ju;&c_b;&c_je;&c_c;</trd>
+  </trdgrp>
+  <trd lng="sk">sebec</trd>
+</drv>
+
+<drv mrk="ego.0isto">
+  <kap><ofc>1</ofc> <tld/>isto</kap>
+  <snc mrk="ego.0isto.PSI">
+    <dif>
+      Persono, kiu ser&ccirc;as en la vivo nur la propran plezuron
+      a&ubreve; profiton:
+      <ekz>
+        &ccirc;u li estas plej pura idealisto a&ubreve; plej profitama <tld/>isto
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en
+          Washington en la 15a de a&ubreve;gusto 1910</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li povas esti la plej granda <tld/>isto, genta &scirc;ovinisto,
+        <klr>[&#x2026;]</klr> se li
+        nur uzas la lingvon Esperanto, ni ne povas malpermesi al li,
+        nomi sin
+        Esperantisto
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge
+          en la 12a de a&ubreve;gusto 1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        mi estas terura <tld/>istino <klr>[&#x2026;]</klr> mi petus sen&ccirc;ese:
+        resani&gcirc;u la patro, 
+        lernu diligente la infanoj
+        <fnt>
+          <bib>IK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="altruist.0o">altruisto</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_g;&c_a;&c_ib;&c_s;&c_t;</trd>,
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_l;&c_ju;&c_b;</trd>,
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_l;&c_ju;&c_b;&c_je;&c_c;</trd>,
+    <trd>&c_s;&c_ja;&c_b;&c_je;&c_l;&c_ju;&c_b;</trd>,
+    <trd>&c_s;&c_a;&c_b;&c_je;&c_t;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_je;&c_g;&c_o;&c_i;&c_s;&c_t;</trd>
+  <trd lng="ca">egoista<klr> (subst.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>egoista</trd>,
+    <trd>sobec</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ichs&uuml;chtiger Mensch</trd>,
+    <trd>eigens&uuml;chtiger Mensch</trd>,
+    <trd>selbsts&uuml;chtiger Mensch</trd>,
+    <trd>Egoist</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>egoist</trd>,
+    <trd>egotist</trd>
+  </trdgrp>
+  <trd lng="es">ego&iacute;sta</trd>
+  <trd lng="fr">&eacute;go&iuml;ste<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;nz&odblac; ember</trd>,
+    <trd>egoista</trd>
+  </trdgrp>
+  <trd lng="nl">ego&iuml;st</trd>
+  <trdgrp lng="pl">
+    <trd>egoista</trd>,
+    <trd>samolub</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_g;&c_o;&c_i;&c_s;&c_t;</trd>,
+    <trd>&c_s;&c_je;&c_b;&c_ja;&c_l;&c_ju;&c_b;&c_je;&c_c;</trd>
+  </trdgrp>
+  <trd lng="sk">sebec</trd>
+  <trd lng="sv">egoist</trd>
+</drv>
+
+<drv mrk="ego.0ista">
+  <kap><tld/>ista</kap>
+  <snc mrk="ego.0ista.PSI">
+    <dif>
+      <ref tip="dif" cel="ego.0isma"><tld lit="E"/>isma</ref>:
+      <ekz>
+        &ccirc;iu homo estas krea&jcirc;o malnobla, <tld/>ista, &scirc;an&gcirc;ema, &#x2010; li
+        flirtas sur diversaj
+        specoj de malbono, kiel papilio sur la floroj
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i ne venis de ia <tld/>ista penso, &ccirc;ar tiuj &ccirc;i ne brilas tiel
+        sur la frunto, ne
+        flamas tiel sur la lipoj
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_g;&c_a;&c_ib;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_ja;&c_b;&c_je;&c_l;&c_ju;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_l;&c_ju;&c_b;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="ca">egoista<klr> (adj.)</klr></trd>
+  <trd lng="cs">sobeck&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>ichs&uuml;chtig</trd>,
+    <trd>eigens&uuml;chtig</trd>,
+    <trd>selbsts&uuml;chtig</trd>,
+    <trd>egoistisch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>egotistical</trd>,
+    <trd>egoistical</trd>
+  </trdgrp>
+  <trd lng="es">ego&iacute;sta</trd>
+  <trd lng="fr">&eacute;go&iuml;ste<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="he">&alef;&gimel;&vav;&alef;&yod;&samekh;&tet;&yod;</trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;nz&odblac;</trd>,
+    <trd>egosita</trd>
+  </trdgrp>
+  <trd lng="nl">ego&iuml;stisch</trd>
+  <trdgrp lng="pl">
+    <trd>egoistyczny</trd>,
+    <trd>samolubny</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_g;&c_o;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_e;&c_g;&c_o;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_je;&c_b;&c_ja;&c_l;&c_ju;&c_b;&c_i;&c_v;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>samo&lcaron;&uacute;by</trd>,
+    <trd>sebeck&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x79C1;&#x5FC3; <pr>s&#x12B;x&#x12B;n</pr></trd>,
+    <trd>&#x5229;&#x5DF2; <pr>l&#xEC;y&#x1D0;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ego.mal0ismo">
+  <kap>mal<tld/>ismo</kap>
+  <snc mrk="ego.mal0ismo.PSI">
+    <dif>
+      Etika principo, kiu vidas la celon de la homa agado
+      en la bonfarto kaj bonstato de la aliaj individuoj:
+      <ekz>
+        neniu alia malsano <klr>[ol aidoso (...)]</klr> postulis
+        pli da kompato, prudento, mal<tld/>ismo kaj honesteco
+        &ccirc;e sanservaj profesiuloj
+        <fnt><bib>UrdHadda</bib>, <lok>p. 25</lok></fnt>.
+      </ekz>      
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="altrui.0o.FIL">altruismo</ref>
+    </refgrp>
+    <refgrp tip="ant">
+      <ref cel="ego.0ismo.PSI">egoismo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_t;&c_r;&c_u;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="ca">altruisme</trd>
+  <trd lng="cs">nesobectv&iacute;</trd>
+  <trdgrp lng="de">
+    <trd>Altruismus</trd>,
+    <trd>Selbstlosigkeit</trd>,
+    <trd>Uneigenn&uuml;tzigkeit</trd>
+  </trdgrp>
+  <trd lng="en">altruism</trd>
+  <trd lng="es">altruismo</trd>
+  <trd lng="fr">altruisme</trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;nzetlens&eacute;g</trd>,
+    <trd>altruizmus</trd>
+  </trdgrp>
+  <trd lng="it">altruismo</trd>
+  <trd lng="nl">altru&iuml;sme</trd>
+  <trd lng="pl">altruizm</trd>
+  <trd lng="ru">&c_a;&c_l;&c_mol;&c_t;&c_r;&c_u;&c_i;&c_z;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>altruizmus</trd>,
+    <trd>nesebectvo</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5229;&#x4ED6;&#x4E3B;&#x4E49; <pr>l&#xEC;t&#x101;zh&#x1D4;y&#xEC;</pr></trd>,
+    <trd>&#x4E0D;&#x81EA;&#x79C1; <pr>b&#xFA;z&#xEC;s&#x12B;</pr></trd>,
+    <trd>&#x65E0;&#x6B32; <pr>w&#xFA;y&#xF9;</pr></trd>,
+    <trd>&#x65E0;&#x79C1; <pr>w&#xFA;s&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ego.0centra">
+  <kap><tld/>centra</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc mrk="ego.0centra.rilatiganta">
+    <dif>
+      Rilatiganta &ccirc;ion al sia <tld/>o:
+      <ekz>
+        jen 5-tipoj de venenaj homoj <klr>[&#x2026;]</klr>: la <tld/>centra
+        <klr>[&#x2026;]</klr>
+        <fnt>
+          <vrk><url ref="https://comme-un-pro.fr/eo/climat-travail-toxique-comment-sortir/">la
+          egocentra : malproksimaj kaj malvarmaj, egocentraj homoj
+          deprimas.</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_g;&c_a;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="ca">egoc&egrave;ntric<klr> (adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>egocentrick&yacute;</trd>,
+    <trd>sobeck&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ichbezogen</trd>,
+    <trd>egozentrisch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>egocentric</trd>,
+    <trd>self-centered</trd>
+  </trdgrp>
+  <trd lng="es">egoc&eacute;ntrico</trd>
+  <trd lng="fr">&eacute;gocentrique</trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;nk&ouml;zpont&uacute;</trd>,
+    <trd>egocentrikus</trd>
+  </trdgrp>
+  <trd lng="nl">egocentrisch</trd>
+  <trd lng="pl">egocentryczny</trd>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_g;&c_o;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_e;&c_g;&c_o;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>samo&lcaron;&uacute;by</trd>,
+    <trd>sebeck&yacute;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x81EA;&#x6211;&#x7684; <pr>z&#xEC;w&#x1D2;de</pr></trd>
+</drv>
+
+<drv mrk="ego.0centrismo">
+  <kap><tld/>centrismo</kap>
+  <uzo tip="fak">PSI</uzo>
+  <snc mrk="ego.0centrismo.PSI">
+    <dif>
+      La ago a&ubreve; karaktera trajto rilatigi &ccirc;ion al sia
+      <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_g;&c_a;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>
+  <trd lng="ca">egocentrisme</trd>
+  <trd lng="cs">egocentrizmus</trd>
+  <trdgrp lng="de">
+    <trd>Ichbezogenheit</trd>,
+    <trd>Egozentrismus</trd>,
+    <trd>Egozentrik</trd>
+  </trdgrp>
+  <trd lng="en">egocentrism</trd>
+  <trd lng="es">egocentrismo</trd>
+  <trd lng="fr">&eacute;gocentrisme</trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;nk&ouml;zpont&uacute;s&aacute;g</trd>,
+    <trd>egocentrizmus</trd>
+  </trdgrp>
+  <trd lng="nl">egocentrisme</trd>
+  <trd lng="pl">egocentryzm</trd>
+  <trd lng="ru">&c_e;&c_g;&c_o;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">egocentrizmus</trd>
+  <trd lng="zh">&#x81EA;&#x6211;&#x4E2D;&#x5FC3;&#x4E3B;&#x4E49; <pr>z&#xEC;w&#x1D2;zh&#x14D;ngx&#x12B;nzh&#x1D4;y&#xEC;</pr></trd>
+</drv>
+<rim>
+  &Ccirc;i tiu radiko estas sufi&ccirc;e nova krea&jcirc;o. &Gcirc;i
+  &scirc;ajne pravi&gcirc;as unue per la internacia faka uzo de la formo
+  <ctl><tld/></ctl> kaj anka&ubreve; per malderivado de la oficialaj
+  radikoj <ctl>egoism/</ctl> kaj <ctl>egoist/</ctl>.
+  Ni en tio sekvis <fnt><bib>PIV1</bib></fnt>, sed eblas dubi, &ccirc;u
+  vere la senco de <ctl>egoismo</ctl> a&ubreve; <ctl>egoisto</ctl>
+  (nocioj nefakaj) glate derivi&gcirc;as de la faka <ctl><tld/>o</ctl>.
+</rim>
+<adm>
+  Mi plu dubas, ke tiu radiko utilas, cxar ni jam havas "mio"
+  kaj "memo", kies eventuala nuanco disde "egoo" estus
+  klarigenda. Cetere mi pli kaj pli ne konsentas konsideri
+  "egoismo" kaj "egoisto" kiel derivajxojn (Sergio kaj Ulriko
+  opinias alie).
+  <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log$
+versio 1.37 2023/10/14 15:34:33
+revo: transskribo per <pr>
+
+versio 1.35 2023/04/30 07:23:23
+Paul Peeraerts: Steloj -> monato
+
+versio 1.34 2022/04/27 14:38:53
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.32 2022/01/23 15:31:57
+Noam Mohr: +trd en homoj->individuoj cxar inkluzivas helpi bestojn ktp
+
+versio 1.30 2020/05/24 07:10:33
+Wolfram Diestel: forigis ne plu ekzistajn ref
+
+versio 1.29 2020/05/21 16:35:40
+Wolfram Diestel: +var 1 egoist/ 1 egoism/, ekz-oj
+
+Revision 1.27  2019/11/16 06:10:14  revo
+Aleks Andre: en
+
+Revision 1.26  2018/05/13 20:10:21  revo
+-->
+</vortaro>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: parazitologi.xml,v 1.8 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <rad>parazitologi</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="parazitologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="parazitologi.0o.SCI">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <ref tip="vid" cel="parazi.0o.EKOL">Parazito</ref>scienco:
+      <ekz>
+        d-ro Sach estas profesoro pri <tld/>o
+        <fnt>
+          <aut>Szilv&aacute;si L.</aut>,
+          <vrk><url ref="http://www.eventoj.hu/">
+          Ret-Info</url></vrk>,
+          <lok>2010-07-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_z;&c_y;&c_t;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="cs">parazitologie</trd>
+  <trd lng="fr">parasitologie</trd>
+  <trd lng="ja">&#x5BC4;&#x751F;&#x866B;&#x5B66;  <pr>&#x304D;&#x305B;&#x3044;&#x3061;&#x3085;&#x3046;&#x304C;&#x304F;</pr></trd>
+  <trd lng="pl">parazytologia</trd>
+  <trd lng="ro">parazitologie</trd>
+  <trd lng="sk">parazitol&oacute;gia</trd>
+  <trd lng="uk">&#x43F;&#x430;&#x440;&#x430;&#x437;&#x438;&#x442;&#x43E;&#x43B;&#x43E;&#x433;&#x456;&#x44F;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.5 2022/01/20 07:27:46
+Dmitri Gabinski: + trd be
+
+versio 1.4 2021/11/21 22:29:56
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.2  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2010/12/22 08:10:08  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

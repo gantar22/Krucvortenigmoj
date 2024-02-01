@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: atrakci.xml,v 1.16 2023/10/28 08:33:10 revo Exp $">
+<kap>
+  <rad>atrakci</rad>/o <fnt><bib>SPIV</bib></fnt>
+</kap>
+<drv mrk="atrakci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="atrakci.0o.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      <ref tip="super" cel="spekt.0ajxo">Spekta&jcirc;o</ref> en cirko
+      a&ubreve; en <ref tip="malprt" cel="variet.0o">varieteo</ref> ks,
+      aparte vekanta la intereson de la publiko:
+      <ekz>
+        la&ubreve;longe de Moskva-rivero eltiris sin, alterne kun
+        frukto-vendejoj
+        kaj trinkbudoj, <tld/>oj
+        <fnt><bib>Metrop</bib></fnt>;
+      </ekz>
+      <ekz>
+        la pinta <tld/>o de la spektaklo
+        <fnt>
+          <bib>MD17</bib>
+          <vrk>Triumfo de la Paranoja Stilo</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="amuz.0ajxo">amuza&jcirc;o</ref>,
+       <ref cel="distr.0ajxo">distra&jcirc;o</ref>,
+       <ref cel="vid.0indajxo">vidinda&jcirc;o</ref>
+    </refgrp>
+    <trdgrp lng="zh">
+    <trd>&#x53EB;&#x5EA7;&#x4E4B;&#x7269; <pr>ji&#xE0;ozu&#xF2;zh&#x12B;w&#xF9;</pr></trd>,
+    <trd>&#x7CBE;&#x5F69;&#x8868;&#x6F14; <pr>j&#x12B;ngc&#x1CE;ibi&#x1CE;oy&#x1CE;n</pr></trd>,
+    <trd>&#x7CBE;&#x5F69;&#x7BC0;&#x76EE; <pr>j&#x12B;ngc&#x1CE;iji&#xE9;m&#xF9;</pr></trd>,
+    <trd>&#x7CBE;&#x5F69;&#x8282;&#x76EE; <pr>j&#x12B;ngc&#x1CE;iji&#xE9;m&#xF9;</pr></trd>,
+    <trd>&#x60F9;&#x773C;&#x4E4B;&#x7269; <pr>r&#x11B;y&#x1CE;nzh&#x12B;w&#xF9;</pr></trd>,
+    <trd>&#x6709;&#x8DA3;&#x4E4B;&#x7269; <pr>y&#x1D2;uq&#xF9;zh&#x12B;w&#xF9;</pr></trd>,
+    <trd>&#x65C5;&#x6E38;&#x80DC;&#x5730; <pr>l&#x1DA;y&#xF3;ush&#xE8;ngd&#xEC;</pr></trd>,
+    <trd>&#x65C5;&#x904A;&#x52DD;&#x5730; <pr>l&#x1DA;y&#xF3;ush&#xE8;ngd&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_a;&c_t;&c_r;&c_a;&c_k;&c_c;&c_y;&c_jo;&c_n;</trd>
+  <trdgrp lng="ca">
+    <trd>atracci&oacute;</trd>,
+    <trd>espectacle</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>atrakce</trd>,
+    <trd>poutav&aacute; z&aacute;bava</trd>
+  </trdgrp>
+  <trd lng="de">Attraktion</trd>
+  <trd lng="en">attraction</trd>
+  <trd lng="es">atracci&oacute;n <klr> (espect&aacute;culo)</klr></trd>
+  <trd lng="fr">attraction<klr> (spectacle)</klr></trd>
+  <trd lng="he">&mem;&#x5B0;&shin;&#x5C1;&#x5B4;&yod;&kaf;&#x5B8;&he;</trd>
+  <trd lng="it">attrazione<klr> (spettacolo)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>attractie</trd>,
+    <trd>vermakelijkheid</trd>
+  </trdgrp>
+  <trd lng="pl">atrakcja</trd>
+  <trd lng="ro">atrac&#x21B;ie</trd>
+  <trd lng="ru">&c_a;&c_t;&c_t;&c_r;&c_a;&c_k;&c_c;&c_i;&c_o;&c_n;</trd>
+  <trd lng="sk">atrakcia</trd>
+  <trd lng="uk">&#x430;&#x442;&#x440;&#x430;&#x43A;&#x446;&#x456;&#x43E;&#x43D;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.14 2021/11/01 21:25:26
+Wolfram Diestel: iom revortigita dif, +ekz, ref-oj
+
+Revision 1.11  2015/10/01 15:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.10  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2012/01/26 12:10:09  revo
+Antonio Codazzi: +trd it
+
+Revision 1.7  2011/12/03 18:10:21  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.6  2009/08/18 19:17:48  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.5  2006/12/02 17:30:16  revo
+-->
+</vortaro>

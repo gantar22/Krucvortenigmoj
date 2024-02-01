@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fisk.xml,v 1.29 2023/11/09 20:48:32 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>fisk</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="fisk.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc mrk="fisk.0o.kaso">
+    <dif>
+      La <ref tip="super" cel="sxtat.0o">&scirc;tato</ref> en &gcirc;ia rolo
+      de ekonomia subjekto (kontraste al la politika rolo de la
+      regno kiel <ref cel="suvere.0o">suvereno</ref>); precipe
+      kiel ricevanto de la publikaj enspezoj a&ubreve; kiel posedanto kaj
+      administranto de la &scirc;tata trezorejo:
+      <ekz>
+        la hava&jcirc;oj de <nom>Andrzej Lubomirski</nom> estis parceligitaj
+        kaj la kastelo kontra&ubreve;le&gcirc;e transprenita de la <tld/>o
+        <fnt>
+          <vrk><url ref="http://www.polskieradio.pl/eo/dokument.aspx?iid=80141">Pollando invitas:
+          Nowy Wi&sacute;nicz</url></vrk>.
+          <lok>Pola Radio</lok>
+        </fnt>;
+      </ekz><ekz>
+        la <tld lit="F"/>o anoncis pasintmonate, ke &gcirc;i faros
+        moninjektojn de 125 miliardoj da dolaroj dividotaj
+        inter <nom>Citigroup</nom>, <nom>JP Morgan Chase</nom>, <nom>Bank of America</nom>
+        <klr>[&#x2026;]</klr> kaj <nom>Merrill Lynch</nom>
+        <fnt>
+          <vrk><url ref="http://www.eventeo.net">Banko Citigroup maldungas 75_000!</url></vrk>
+          <lok>Eventeo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="trezor.0ejo.servo">trezorejo<sncref/></ref>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_k;&c_a;&c_r;&c_b;
+        <klr tip="amb">(&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_n;&c_y;)
+        </klr></trd>,
+      <trd>&c_k;&c_a;&c_z;&c_n;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Fiskus</trd>,
+      <trd>Staatskasse</trd>,
+      <trd>&ouml;ffentlichen <ind>Hand</ind></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>bank narodowy</trd>,
+      <trd>skarbiec</trd>
+    </trdgrp>
+    <trd lng="ru">&c_k;&c_a;&c_z;&c_n;&c_a;</trd>
+  </snc>
+  <snc mrk="fisk.0o.imposta">
+    <dif>
+      &Scirc;tata <ref tip="super" cel="admini1.0o">administracio</ref>, kies tasko estas enkasigo de la
+      impostoj:
+      <ekz>
+        persono, kiu anta&ubreve; la jarfino malka&scirc;os al la <tld/>o
+        la ka&scirc;itajn &gcirc;is nun enspezojn, pagos de ili 12-procentan
+        imposton
+        <fnt><lok>Pola Padio</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_a;&c_d;&c_a;&c_t;&c_k;&c_o;&c_v;&c_a;&c_ja; &c_s;&c_l;&c_u;&c_zh;&c_b;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd>Finanzverwaltung</trd>,
+      <trd>Finanzamt</trd>,
+      <trd>Fiskalbeh&ouml;rde</trd>
+    </trdgrp>
+    <trd lng="ru">&c_n;&c_a;&c_l;&c_o;&c_g;&c_o;&c_v;&c_o;&c_je; &c_v;&c_je;&c_d;&c_o;&c_m;&c_s;&c_t;&c_v;&c_o;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x7A05;&#x52D9;&#x7576;&#x5C40; <pr>shu&#xEC;w&#xF9;d&#x101;ngj&#xFA;</pr></trd>,
+    <trd>&#x7A05;&#x52D9;&#x5C40; <pr>shu&#xEC;w&#xF9;j&#xFA;</pr></trd>,
+    <trd>&#x592A;&#x5E9C;&#x5BFA; <pr>t&#xE0;if&#x1D4;s&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="cs">
+  <trd>er&aacute;r</trd>,
+  <trd>fiskus</trd>,
+  <trd>st&aacute;tn&iacute; pokladna</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>exchequer</trd>,
+    <trd>state treasury</trd>
+  </trdgrp>
+  <trd lng="es">fisco</trd>
+  <trdgrp lng="fr">
+    <trd>fisc</trd>,
+    <trd><ind>Tr&eacute;sor</ind> Public</trd>,
+    <trd><ind>Tr&eacute;sor</ind> de l'&Eacute;tat</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56FD;&#x5EAB;  <pr>&#x3053;&#x3063;&#x3053;</pr></trd>,
+    <trd>&#x56FD;&#x7A0E;&#x5E81;  <pr>&#x3053;&#x304F;&#x305C;&#x3044;&#x3061;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x7A0E;&#x52D9;&#x5F53;&#x5C40;  <pr>&#x305C;&#x3044;&#x3080;&#x3068;&#x3046;&#x304D;&#x3087;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">fiscus</trd>
+  <trdgrp lng="pl">
+    <trd>fiskus</trd>,
+    <trd>urz&aogonek;d skarbowy</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>fisco</trd>,
+    <trd>er&aacute;rio</trd>,
+    <trd>fazenda <klr tip="amb">(p&uacute;blica)</klr></trd>,
+    <trd>tesouro</trd>,
+    <trd>recebedoria</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+  <trd>er&aacute;r</trd>,
+  <trd>&scaron;t&aacute;tna pokladnica</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_je;&c_r;&c_zh;&c_a;&c_v;&c_n;&c_a; &c_k;&c_a;&c_z;&c_n;&c_a;/&c_s;&c_k;&c_a;&c_r;&c_b;&c_n;&c_i;&c_c;&c_ja;</trd>,
+    <trd>&c_k;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fisk.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc mrk="fisk.0a.sxtata">
+    <dif>
+      Posedata de la &scirc;tato, rilata al
+      <tld/>o<sncref ref="fisk.0o.kaso"/>:
+      <ekz>
+        usonaj obligacioj <tld/>aj;
+      </ekz>
+      <ekz>
+        <tld/>an politikon (bu&gcirc;etpolitikon) faras la parlamento
+        kaj registaro per enspezoj kaj elspezoj de la &scirc;tata
+        bu&gcirc;eto
+        <fnt>
+          <aut>B. Sandelin</aut>,
+          <vrk>Svedoj balotis kontra&ubreve; e&ubreve;ro</vrk>,
+          <bib>Monato</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_a;&c_z;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_k;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_je;&c_j;&c_s;&c_k;&c_i;&c_j;</trd>,
+      <trd>&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="fisk.0a.imposta">
+    <dif>
+      Rilata al <tld/>o<sncref ref="fisk.0o.imposta"/>,
+      <ref tip="sin" cel="impost.0a">imposta</ref>:
+      <ekz>
+        la <tld/>a juro estas la aro de la reguloj, kiuj difinas
+        la rajtojn kaj devojn de la impostpaganto
+        <fnt>
+          <bib>Viki</bib>,
+          <vrk><url ref="&Viki;/Fiska_juro">
+          Fiska juro</url></vrk>,
+          <lok>2015-09-30</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Kelkaj lingvoj ne povas adjektivigi la substantivon
+      <ctl>imposto</ctl>, kaj anstata&ubreve;e uzas la adjektivon
+      &leftquot;<tld/>a&rightquot; kiel la plej proksiman surogaton. Sekve
+      tialingvaj
+      esperantistoj transportas tiun miskutimon anka&ubreve; en
+      Esperanton (tiel ke PIV2 e&ccirc; ne suspektas ke ekzistas la
+      adjektivo <ctl>imposta</ctl>).  Tio estas evitinda en
+      Esperanto, &ccirc;ar la regula adjektivo <ctl>imposta</ctl> estas
+      pli klara, precipe konsidere la konfuzan plursencecon de la
+      vorto &leftquot;<tld/>a&rightquot;.
+
+      Ekz-e en la (fakte atestitaj) kombinoj
+      <ekz>
+        <mis><tld/>a &scirc;ar&gcirc;o</mis>, <mis><tld/>a eksperto</mis>, <mis><tld/>a faciligo</mis>,
+        <mis><tld/>a kvitanco</mis>, <mis><tld/>a maljusteco</mis>, <mis><tld/>a plipezigo</mis>,
+        <mis><tld/>a premo</mis>
+      </ekz>
+      preferindas uzi la pli klarajn adjektivojn
+      <ctl>imposta</ctl>, <ctl>bu&gcirc;eta</ctl>, <ctl>trezoreja</ctl>
+      &ndash; se temas respektive pri impostoj, bu&gcirc;eto a&ubreve; trezorejo
+      (&ccirc;ar ekz-e <mis><tld/>a &scirc;ar&gcirc;o</mis> egale bone povas temi pri
+      imposta &scirc;ar&gcirc;o de individua civitano, a&ubreve; pri elspezaj problemoj de
+      la &scirc;tata trezorejo, a&ubreve; pri deficita bu&gcirc;eto &ndash; do pri tute
+      malsamaj aferoj).
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_a;&c_l;&c_o;&c_g;&c_o;&c_v;&c_y;&c_j;</trd>,
+      <trd>&c_f;&c_i;&c_s;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_ib;&c_s;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_k;&c_a;&c_z;&c_jo;&c_n;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+  <trd>er&aacute;rn&iacute;</trd>,
+  <trd>fisk&aacute;ln&iacute;</trd>,
+  <trd>rozpo&ccaron;tov&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>fiskalisch</trd>,
+    <trd>Fiskal-</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>fiscal</trd>,
+    <trd>of public revenue</trd>,
+    <trd>of the public treasury</trd>
+  </trdgrp>
+  <trd lng="es">fiscal</trd>
+  <trd lng="fr">fiscal</trd>
+  <trdgrp lng="ja">
+    <trd>&#x56FD;&#x5EAB;&#x306E;  <pr>&#x3053;&#x3063;&#x3053;&#x306E;</pr></trd>,
+    <trd>&#x56FD;&#x7A0E;&#x306E;  <pr>&#x3053;&#x304F;&#x305C;&#x3044;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">fiscaal</trd>
+  <trdgrp lng="pl">
+    <trd>fiskalny</trd>,
+    <trd>skarbowy</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+  <trd>er&aacute;rny</trd>,
+  <trd>rozpo&ccaron;tov&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_ib;&c_s;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_a;&c_z;&c_je;&c_n;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x56FD;&#x5E93; <pr>gu&#xF3;k&#xF9;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2023/10/14 18:06:41
+revo: transskribo per <pr>
+
+versio 1.26 2023/07/05 05:30:47
+Wolfram Diestel: sintakso, trd de
+
+versio 1.25 2023/01/02 18:32:08
+Ulrich Fellmann: fisko: +2 pliaj DE trdj
+
+versio 1.24 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.21  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2009/08/08 16:31:57  revo
+Russ Williams: +trd en
+
+Revision 1.18  2009/01/12 17:30:32  revo
+-->
+</vortaro>

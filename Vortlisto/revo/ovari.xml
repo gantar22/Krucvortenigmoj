@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ovari.xml,v 1.32 2023/10/20 13:11:48 revo Exp $">
+<kap>
+  <rad>ovari</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="ovari.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ovari.0o.ANA">
+  <uzo tip="fak">ANA</uzo>
+    <dif>
+      <ref tip="super" cel="organ.0o.BIO">Organo</ref> &ccirc;e inoj, &gcirc;enerale
+      para, en kiu formi&gcirc;as la <ref tip="vid" cel="cxel.ovo0o.FIZL">ovo&ccirc;eloj</ref> kaj kiu sekrecias
+      inseksajn
+      <ref tip="vid" cel="hormon.0o.FIZL">hormonojn<sncref/></ref>:
+      <ekz>
+        la&ubreve; la litova polico, kuracistoj post forigo de la koncerna organo &dash; plej ofte
+        reno a&ubreve; <tld/>o &dash; foje informas, ke la operacio malsukcesis: tiam la viktimo
+        devas reiri hejmen sen mono
+        <fnt>
+          <aut>last</aut>
+            <vrk><url ref="&Monato;/2000/007006.php">Krimo organ-izata</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 14</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        geno ligita, la&ubreve; la sciencistoj, kun alta risko por inaj personoj pri estonta
+        apero de tumoro &ccirc;e mamo a&ubreve; <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011215.php">Troa zorgemo pri la &gcirc;ena geno</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="ov.0ujo.ANA">ovujo<sncref/></ref>
+    <ref tip="super" cel="gonad.0o.ANA">gonado</ref>
+    <trdgrp lng="be">
+      <trd>&c_ja;&c_je;&c_ch;&c_n;&c_ib;&c_k;</trd>,
+      <trd>&c_m;&c_a;&c_c;&c_ib;&c_n;&c_je;&c_c;</trd>
+    </trdgrp>
+    <trd lng="br">vierez</trd>
+    <trd lng="ca">ovari</trd>
+    <trd lng="de">Eierstock</trd>
+    <trd lng="el">&omega;&omikron;&theta;&eta_ton;&kappa;&eta;</trd>
+    <trd lng="es">ovario</trd>
+    <trd lng="fa">&a_t;&a_kh;&a_m;&a_d;&a_A;&a_n;</trd>
+    <trd lng="he">&shin;&het;&lamed;&he;</trd>
+    <trdgrp lng="hu">
+      <trd>petef&eacute;szek</trd>,
+      <trd>ov&aacute;rium</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd><ind>indung</ind> telur</trd>,
+      <trd>ovarium</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>ovario<klr> (anat.)</klr></trd>,
+      <trd>ovaia</trd>,
+      <trd>ovaio</trd>
+    </trdgrp>
+    <trd lng="iu">&#x140A;&#5456;&#x14C7;&#5125;&#5193; &#x14AA;&#x14D0;&#x14C2;&#5507;&#5125;&#x144E;&#5523;</trd>
+    <trd lng="nl">eierstok</trd>
+    <trd lng="pl">jajnik</trd>
+    <trd lng="ru">&c_ja;&c_i;&c_ch;&c_n;&c_i;&c_k;</trd>
+    <trd lng="sv">&auml;ggstock</trd>
+    <trdgrp lng="tr">
+      <trd>yumurtal&inodot;k</trd>,
+      <trd>mebiz</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="ovari.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <uzo tip="klr">(p.p. angiospermoj)</uzo>
+    <dif>
+      La malsupra parto de karpelo a&ubreve; de <ref tip="malprt" cel="pistil.0o">pistilo</ref>, kiu
+      enhavas la ovolo(j)n, kaj kiu
+      post fekundi&gcirc;o i&gcirc;as frukto:
+      <ekz>
+        la <tld/>o staras libere, meze de la floro, la aliaj florpartoj kreskas sub &gcirc;i:
+        papavo, luzerno, pizoj, tulipo, brasikacoj, ktp
+        <fnt>
+          <vrk><url ref="&Viki;/Ovario_(planto)">Ovario (planto)</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_z;&c_a;&c_v;&c_ja;&c_z;&c_mol;</trd>
+    <trd lng="de">Fruchtknoten</trd>
+    <trd lng="fa">&a_t;&a_kh;&a_m;&a_d;&a_A;&a_n;<klr tip="amb"> (&f_g;&f_y;&a_A;&a_h;)</klr></trd>
+    <trd lng="hu">magh&aacute;z</trd>
+    <trd lng="it">ovario<klr> (bot.)</klr></trd>
+    <trd lng="nl">vruchtbeginsel</trd>
+    <trd lng="ru">&c_z;&c_a;&c_v;&c_ja;&c_z;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>ovarium</trd>,
+    <trd>semen&iacute;k</trd>,
+    <trd>vaje&ccaron;n&iacute;k</trd>
+  </trdgrp>
+  <trd lng="en">ovary</trd>
+  <trd lng="fr">ovaire</trd>
+  <trd lng="io">ovario</trd>
+  <trdgrp lng="ja">
+    <trd>&#21365;&#x5DE3;  <pr>&#12425;&#12435;&#x305D;&#12358;</pr></trd>,
+    <trd>&#x5B50;&#x623F;  <pr>&#12375;&#x307C;&#12358;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">ov&aacute;rio</trd>
+  <trdgrp lng="sk">
+    <trd>ov&aacute;rium</trd>,
+    <trd>semenn&iacute;k</trd>,
+    <trd>vaje&ccaron;n&iacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x44F;&c_jeu;&c_ch;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&c_z;&c_a;&c_v;&#8217;&#x44F;&c_z;&#x44C;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.32 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.31 2023/09/05 06:30:59
+Dmitri Gabinski: + trd be
+
+versio 1.29 2023/04/27 15:26:48
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.28 2022/05/01 17:17:01
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.25  2019/04/13 14:10:17  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.24  2017/11/01 15:10:13  revo
+Robin van der Vliet: pliprecizigita difino. +ref, +trd
+
+Revision 1.23  2017/05/16 23:10:24  revo
+Robin van der Vliet: +trd
+
+Revision 1.22  2015/07/04 08:37:40  revo
+-->
+</vortaro>

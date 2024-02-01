@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: import.xml,v 1.44 2023/11/19 10:22:12 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>import</rad>/i
+</kap>
+<drv mrk="import.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="import.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Venigi, enporti en landon komerca&jcirc;ojn a&ubreve; aliajn a&jcirc;ojn
+      el eksterlando:
+      <ekz>
+        Kin&scirc;aso <tld/>as rizon el Tajlando, Usono kaj Maroko, dum en la
+        orienta kaj ekvatora provincoj la rizo putras
+        <fnt><aut>Zandandu Ntomono Zola</aut>: <vrk>Nutra memsufi&ccirc;o
+        ser&ccirc;ata</vrk>,
+        <bib>Monato</bib><lok>1999/10, p.
+        15</lok></fnt>;
+      </ekz>
+      <ekz>
+        &Ccirc;inio komencis <tld/>i pli kaj pli da viando, kaj anka&ubreve; la
+        bezono pri lakto
+        da&ubreve;re kreskas
+        <fnt>
+          <vrk><url ref="http://esperanto.china.org.cn/2018-04/26/content_50967639.htm">Franca
+          pensfabriko: &leftquot;La Zono kaj Vojo&rightquot; alportos pli da
+              &scirc;ancoj ...</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ataj cigaredoj estas ka&scirc;ataj inter ligna&jcirc;oj kaj aliaj el
+        Litovio
+        <tld/>ataj konstrumaterialoj
+        <fnt>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>li povus <tld/>i kudroma&scirc;inojn en Tasmanion
+        <fnt>
+          <bib>Salamandroj</bib>
+          <lok>libro 1a, &ccirc;apitro 3a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="acxet.0i">a&ccirc;eti</ref>
+    <ref tip="ant" cel="ekspor.0i.EKON">eksporti<sncref/></ref>
+  </snc>
+  <snc mrk="import.0i.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Konverti dosiero en iu formato al la formato de la koncerna
+      programo:
+      <ekz>la programoj kapablas <tld/>i kaj eksporti dosierojn de &ccirc;iuj
+      kutimaj specoj
+        <fnt>
+          <aut>Roland Rotsaert</aut>
+          <vrk>Programoj</vrk>
+          <bib>Monato</bib>
+          <lok>jaro 1994a, numero 4a, p. 17a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="ekspor.0i.KOMP">eksporti<sncref/></ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_v;&c_o;&c_z;&c_ib;&c_c;&c_mol; <klr>(&c_z;-&c_z;&c_a; &c_m;&c_ja;&c_zh;&c_y;)</klr></trd>
+  </trdgrp>
+  <trd lng="bo">&#xF53;&#xF44;&#xF0B;&#xF60;&#xF51;&#xFB2;&#xF7A;&#xF53;&#xF0B;&#xF5A;&#xF7C;&#xF44;&#xF0B;</trd>
+  <trdgrp lng="cs">
+    <trd>dov&aacute;&zcaron;et</trd>,
+    <trd>dov&eacute;zt</trd>,
+    <trd>importovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>importieren</trd>,
+    <trd>einf&uuml;hren</trd>
+  </trdgrp>
+  <trd lng="en">import</trd>
+  <trd lng="es">importar</trd>
+  <trd lng="fr">importer</trd>
+  <trdgrp lng="hu">
+    <trd>behoz<klr tip="amb"> (&aacute;rut)</klr></trd>,
+    <trd>import&aacute;l</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8F38;&#x5165;&#x3059;&#x308B;  <pr>&#x3086;&#x306B;&#x3085;&#x3046;&#x3059;&#x308B;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>importeren</trd>,
+    <trd>invoeren</trd>
+  </trdgrp>
+  <trd lng="pt">importar<klr tip="amb"> (economia,
+  com&eacute;rcio)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_m;&c_p;&c_o;&c_r;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_v;&c_o;&c_z;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">dov&aacute;&zcaron;a&tcaron; z cudziny</trd>
+  <trd lng="sv">importera</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43C;&#x43F;&#x43E;&c_r;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_v;&#x43E;&c_z;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5F15;&#x8FDB; <pr>y&#x1D0;nj&#xEC;n</pr></trd>,
+    <trd>&#x4F20;&#x5165; <pr>chu&#xE1;nr&#xF9;</pr></trd>,
+    <trd>&#x5165;&#x53E3; <pr>r&#xF9;k&#x1D2;u</pr></trd>,
+    <trd>&#x8F38;&#x5165; <pr>sh&#x16B;r&#xF9;</pr></trd>,
+    <trd>&#x5BFC;&#x5165; <pr>d&#x1CE;or&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="import.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="import.0a.rilata">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Rilata al <tld/>ado:
+      <ekz>
+        <tld/>a komerco, statistiko;
+      </ekz>
+      <ekz>
+        <tld/>aj komerca&jcirc;oj
+        <fnt>
+          <vrk><url ref="&CRI;2521/2019/02/07/172s203446.htm">Importaj varoj
+          lumigas la Printempan Feston</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj &ccirc;iutagaj bezona&jcirc;oj
+        <fnt>
+          <vrk><url ref="http://www.espero.com.cn/2018-10/12/content_65857062.htm">&Ccirc;inio penadas por
+          kreskigi importon</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;&c_n;&c_y;</trd>
+  <trd lng="en">import</trd>
+  <trd lng="fr">import&eacute;</trd>
+  <trdgrp lng="hu">
+    <trd>behozatali</trd>,
+    <trd>import-</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8F38;&#x5165;&#x306E;  <pr>&#x3086;&#x306B;&#x3085;&#x3046;&#x306E;</pr></trd>
+  <trd lng="pt">importador<klr tip="amb"> (adj.; economia,
+  com&eacute;rcio)</klr></trd>
+  <trd lng="ru">&c_i;&c_m;&c_p;&c_o;&c_r;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trd lng="uk">&c_ib;&#x43C;&#x43F;&#x43E;&c_r;&c_t;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="import.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc mrk="import.0o.importado">
+    <dif>
+      <ref tip="dif" cel="import.0ado">Importado</ref>:
+      <ekz>
+        A&ubreve;strio protektis sin kontra&ubreve; <tld/>o de kuirejaj
+        aparatoj
+        <fnt><aut>Stefan Maul</aut>: <vrk>Pozitive pri EU</vrk>,
+        <bib>Monato</bib><lok>jaro 1997a, numero 8a, p. 5a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la pola eksporto kreskas pli rapide ol la <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stanis&lstroke;aw &Sacute;migielski</aut>
+          <vrk><url ref="&Monato;/2003/007947.html">Eksporto nur al
+          Okcidento</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>dokumentoj
+        <fnt>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la nova antisemitismo bazi&gcirc;as sur la <tld/>o de la konflikto en
+        Proksima Oriento
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2005/008494.php">Veneno antisemita</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;</trd>,
+      <trd>&c_u;&c_v;&c_o;&c_z; <klr tip="amb">(&c_z;-&c_z;&c_a; &c_m;&c_ja;&c_zh;&c_y;)</klr></trd>
+    </trdgrp>
+    <trd lng="en">importation</trd>
+    <trdgrp lng="fr">
+      <trd>importation<klr tip="ind"> (acte)</klr></trd>,
+      <trd>import</trd>
+    </trdgrp>
+    <trd lng="pt">importa&ccedil;&atilde;o<klr tip="amb"> (a&ccedil;&atilde;o de importar;
+    economia, com&eacute;rcio)</klr></trd>
+  </snc>
+  <snc mrk="import.0o.importajxo">
+    <dif>
+      <ref tip="dif" cel="import.0ajxo">Importa&jcirc;o</ref>:
+      <ekz>
+        pozitivaj faktoroj estas elimino de subvencioj kaj protekto
+        kontra&ubreve; <tld/>oj
+        <fnt><aut>Donald Rogers</aut>: <vrk>Ekonomia miraklo a&ubreve;
+        malsano?</vrk>,
+        <bib>Monato</bib><lok>jaro 1997a, numero 2a, p. 14a</lok></fnt>;
+      </ekz>
+      <ekz>
+        pli gravas ke la <tld/>oj el EU estas, krom konsumvaroj,
+        duonproduktoj kaj
+        te&hcirc;nologioj ege necesaj por la disvolvo de la pola ekonomio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stanis&lstroke;aw &Sacute;migielski</aut>
+          <vrk><url ref="&Monato;/2003/007947.html">Eksporto nur al
+          Okcidento</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;</trd>,
+      <trd>&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;&c_n;&c_y; &c_t;&c_a;&c_v;&c_a;&c_r;</trd>
+    </trdgrp>
+    <trd lng="en">import</trd>
+    <trd lng="fr">importation<klr tip="ind"> (marchandise
+    import&eacute;e)</klr></trd>
+    <trd lng="pt">importa&ccedil;&atilde;o<klr tip="amb"> (coisa importada;
+    economia, com&eacute;rcio)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dovoz</trd>,
+    <trd>dov&aacute;&zcaron;en&iacute;</trd>,
+    <trd>import</trd>,
+    <trd>importace</trd>,
+    <trd>importov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="es">importaci&oacute;n</trd>
+  <trdgrp lng="hu">
+    <trd>behozatal</trd>,
+    <trd>import</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_m;&c_p;&c_o;&c_r;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>dovoz</trd>,
+    <trd>dov&aacute;&zcaron;anie</trd>,
+    <trd>import</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="import.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="import.0ado.enportado">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Enportado de komerca&jcirc;oj el eksterlando:
+      <ekz>
+        fina rezulto estis nura <tld/>ado de varoj malmultekostaj danke
+        al financado de tiuj bankoj
+        <fnt><aut>Ro Sartor</aut>: <vrk>Ploru
+        pri Argentino!</vrk>, 
+        <bib>Monato</bib>
+        <lok>2002/02, p. 8</lok></fnt>;
+      </ekz>
+      <ekz>
+        kvin EU-&scirc;tatoj krome haltigis <tld/>adon de jam permesitaj
+        gen-produktoj
+        <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007123.html">Defio a&ubreve; devio de politiko</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 6</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        ekde la 1980aj jaroj la komerca <tld/>ado de &Ccirc;inio &ccirc;iujare
+        meznombre plii&gcirc;is je
+        pli ol 15&#x202F;%
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mu Binghua</aut>
+          <vrk><url ref="&Monato;/2005/008610.php">Ekonomia kresko da&ubreve;ros</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        e&ccirc; la Burbonoj <klr>[&#x2026;]</klr> ne malpermesis <tld/>adon de
+        tritiko el Ruslando
+        <fnt>
+          <bib/>
+          <aut>Marco Picasso</aut>
+          <vrk>Pasta&jcirc;o, konsideroj kaj historio</vrk>
+          <lok>&ccirc;apitro 2a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;</trd>,
+    <trd>&c_u;&c_v;&c_o;&c_z; <klr tip="amb">(&c_z;-&c_z;&c_a; &c_m;&c_ja;&c_zh;&c_y;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dovoz</trd>,
+    <trd>dov&aacute;&zcaron;en&iacute;</trd>,
+    <trd>import</trd>,
+    <trd>importace</trd>,
+    <trd>importov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Import</trd>,
+    <trd>Importieren</trd>,
+    <trd>Einfuhr</trd>,
+    <trd>Einf&uuml;hren</trd>
+  </trdgrp>
+  <trd lng="en">importation</trd>
+  <trd lng="es">importaci&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>importation<klr tip="ind"> (acte d'importer)</klr></trd>,
+    <trd>import</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>behozatal</trd>,
+    <trd>import&aacute;l&aacute;s</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8F38;&#x5165;  <pr>&#x3086;&#x306B;&#x3085;&#x3046;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>import</trd>,
+    <trd>invoer</trd>
+  </trdgrp>
+  <trd lng="pt">importa&ccedil;&atilde;o<klr tip="amb"> (a&ccedil;&atilde;o de importar;
+  economia, com&eacute;rcio)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_m;&c_p;&c_o;&c_r;&c_t;</trd>,
+    <trd>&c_v;&c_v;&c_o;&c_z;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dovoz</trd>,
+    <trd>dov&aacute;&zcaron;anie</trd>,
+    <trd>import</trd>
+  </trdgrp>
+  <trd lng="sv">import</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43C;&#x43F;&#x43E;&c_r;&c_t;</trd>,
+    <trd>&c_v;&c_v;&c_ib;&c_z;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8F38;&#x5165;&#x54C1; <pr>sh&#x16B;r&#xF9;p&#x1D0;n</pr></trd>,
+    <trd>&#x8FDB;&#x53E3;&#x8D27; <pr>j&#xEC;nk&#x1D2;uhu&#xF2;</pr></trd>,
+    <trd>&#x5BFC;&#x5165; <pr>d&#x1CE;or&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="import.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="import.0ajxo.komercajxoj">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Komerca&jcirc;oj el eksterlando:
+      <ekz>vivi pli-malpli memstare kun nur minimumaj <tld/>a&jcirc;oj kaj
+      eksporta&jcirc;oj
+        <fnt>
+          <aut>Brian Kaneen, Wally Du Temple</aut>
+          <vrk><url ref="&LOdE;97-lode.htm#97-14">NOREK-22:
+          plia tre agrabla semajnfino en Esperantujo</url></vrk>
+          <bib>LOdE</bib>
+          <lok>2002:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis neniuj vendejoj, neniuj laborejoj, neniuj signoj de
+        <tld/>a&jcirc;oj inter li
+        <fnt>
+          <aut>H. G. Wells, trad. E. W. Amos</aut>
+          <vrk>La tempo-ma&scirc;ino</vrk>
+          <lok>&ccirc;apitro 5a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;</trd>,
+    <trd>&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;&c_n;&c_y; &c_t;&c_a;&c_v;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Import</trd>,
+    <trd>Importgut</trd>,
+    <trd>importierte Ware</trd>,
+    <trd>Einfuhr</trd>,
+    <trd>Einfuhrgut</trd>,
+    <trd>eingef&uuml;hrte <ind>Ware</ind></trd>
+  </trdgrp>
+  <trd lng="en">import</trd>
+  <trd lng="es">importaci&oacute;n</trd>
+  <trd lng="fr">importation<klr tip="ind"> (marchandise
+  import&eacute;e)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>behozott &aacute;ru</trd>,
+    <trd>import&aacute;ru</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8F38;&#x5165;&#x54C1;  <pr>&#x3086;&#x306B;&#x3085;&#x3046;&#x3072;&#x3093;</pr></trd>,
+    <trd>&#x8236;&#x6765;&#x54C1;  <pr>&#x306F;&#x304F;&#x3089;&#x3044;&#x3072;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>importgoed</trd>,
+    <trd>ingevoerde <ind>goederen</ind></trd>
+  </trdgrp>
+  <trd lng="pt">importa&ccedil;&atilde;o<klr tip="amb"> (coisa importada; economia,
+  com&eacute;rcio)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_m;&c_p;&c_o;&c_r;&c_t;</trd>,
+    <trd>&c_i;&c_m;&c_p;&c_o;&c_r;&c_t;&c_n;&c_y;&c_j; &c_t;&c_o;&c_v;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_ib;&#x43C;&#x43F;&#x43E;&c_r;&c_t;&#x43D;&c_i;&c_j; &c_t;&#x43E;&c_v;&c_a;&c_r;</trd>
+</drv>
+
+<drv mrk="import.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="import.0isto.komercisto">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="komerc.0isto">Komercisto</ref>, kiu
+      <tld/>adas:
+      <ekz>
+        tiu, kiu devas zorgi pri la administraj kaj doganaj formala&jcirc;oj,
+        estas tiu, kiu povas trakti tion plej facile: vendanto en sia
+        lando, <tld/>isto en la sia
+        <fnt><aut>Bruno Flochon</aut>:
+        <vrk>Inkotermoj 2000</vrk>,
+        <bib>Monato</bib><lok>jaro 2001a, numero 3a, p. 29a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>isto devas kunlabori kun internacia kontrolfirmao
+        <nom>SGS</nom>
+        por kontroligi la a&ubreve;ton
+        <fnt>
+          <aut>Fidilalao Henriel</aut>
+          <vrk>Autokomerco pli strikte regulita</vrk>
+          <bib>Monato</bib>
+          <lok>jaro 2007a, numero 1a, p. 12a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;&c_e;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>dovozce</trd>,
+    <trd>import&eacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Importeur</trd>,
+    <trd>Einfuhrh&auml;ndler</trd>
+  </trdgrp>
+  <trd lng="en">importer</trd>
+  <trd lng="es">importador</trd>
+  <trdgrp lng="fr">
+    <trd>importateur</trd>
+  </trdgrp>
+  <trd lng="hu">import&odblac;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8F38;&#x5165;&#x696D;&#x8005;  <pr>&#x3086;&#x306B;&#x3085;&#x3046;&#x304E;&#x3087;&#x3046;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x8F38;&#x5165;&#x5546;  <pr>&#x3086;&#x306B;&#x3085;&#x3046;&#x3057;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">importador<klr tip="amb"> (pessoa; economia,
+  com&eacute;rcio)</klr></trd>
+  <trd lng="sk">dovozca</trd>
+  <trd lng="uk">&c_ib;&#x43C;&#x43F;&#x43E;&c_r;&c_t;&c_je;&c_r;</trd>
+  <trd lng="zh">&#x8FDB;&#x53E3;&#x5546; <pr>j&#xEC;nk&#x1D2;ush&#x101;ng</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.43 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.41 2023/04/30 12:42:39
+Paul Peeraerts: Steloj -> monato
+
+versio 1.40 2023/04/23 15:25:49
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.39 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2022/03/15 23:30:31
+Ulrich Fellmann: DE: 2 trd alilokitaj
+
+versio 1.35 2020/05/11 13:10:29
+Damien Brucker: +trd fr
+
+Revision 1.33  2017/06/15 17:10:13  revo
+Ludoviko Francisco: +ekz +snc
+
+Revision 1.32  2017/06/13 17:10:16  revo
+-->
+</vortaro>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: cetac.xml,v 1.25 2023/10/31 13:37:03 revo Exp $">
+<kap>
+<rad>cetac</rad>/o
+</kap>
+<drv mrk="cetac.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Iu el <ref tip="malprt" cel="cetac.0oj"><tld/>oj</ref>:
+      <ekz>
+        la vorto <tld/>o devenis el la helena mitologia rolulo Keto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=16373">Cetacoj</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        belugo estas <tld/>o, kiu lo&gcirc;as en la Arkto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=42305">Belugo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_k; &c_a;&c_t;&c_r;&c_a;&c_d;&c_a; <ind>&c_k;&c_ib;&c_t;&c_a;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;&c_h;</ind></trd>
+</drv>
+<drv mrk="cetac.0oj">
+  <kap><tld/>oj</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Ordo el la klaso <ref tip="malprt" cel="mam.0uloj">mamuloj</ref>
+      (<trd lng="la">Cetacea</trd>), vivantaj en la maro.
+    </dif>
+    <refgrp tip="prt">
+      <ref cel="balen.0o.KOMUNE">baleno</ref>, 
+      <ref cel="delfen.0o.KOMUNE">delfeno</ref>,
+      <ref cel="narval.0o">narvalo</ref>
+    </refgrp>
+  <trd lng="be">&c_k;&c_ib;&c_t;&c_a;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;&c_ja;
+  <klr tip="amb">(&c_a;&c_t;&c_r;&c_a;&c_d;)</klr></trd>
+  <trd lng="ca">cetacis</trd>
+  <trd lng="de">Wale</trd>
+  <trd lng="el">&kappa;&eta;&tau;&omikron;&epsilon;&jota;&delta;&eta_ton;</trd>
+  <trd lng="es">cet&aacute;ceos</trd>
+  <trd lng="fr">c&eacute;tac&eacute;s</trd>
+  <trd lng="hu">cetek <klr tip="amb"> (rend)</klr></trd>
+  <trd lng="it">cetacei</trd>
+  <trdgrp lng="nl">
+    <trd>walwisachtigen</trd>,
+    <trd>cetacee&euml;n</trd>
+  </trdgrp>
+  <trd lng="pl">walenie</trd>
+  <trd lng="pt">cet&aacute;ceos</trd>
+  <trd lng="ru">&c_k;&c_i;&c_t;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_je;</trd>
+  </snc>
+  <trd lng="cs">kytovci</trd>
+  <trd lng="ja">&#x30AF;&#x30B8;&#x30E9;&#x985E;  <pr>&#x30AF;&#x30B8;&#x30E9;&#x308B;&#x3044;</pr></trd>
+  <trd lng="sk">morsk&eacute; cicavce</trd>
+  <trd lng="uk">&#x43A;&c_i;&c_t;&#x43E;&#x43F;&#x43E;&c_d;&c_ib;&c_b;&#x43D;&c_ib;</trd>
+  <trd lng="zh">&#x9BE8;&#x76EE; <pr>j&#x12B;ngm&#xF9;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.24 2023/10/14 11:10:02
+revo: transskribo per <pr>
+
+versio 1.22 2022/11/08 08:41:26
+Dmitri Gabinski: + trd be
+
+Revision 1.19  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/10/21 19:10:27  revo
+Wolfram Diestel: +~o (sing.), ref al delfeno
+
+Revision 1.16  2013/10/19 15:10:14  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.15  2012/07/31 17:10:11  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2009/08/08 16:32:33  revo
+-->
+</vortaro>

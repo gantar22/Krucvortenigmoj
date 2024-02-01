@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vezir.xml,v 1.25 2023/10/21 16:50:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vezir</rad>/o
+</kap>
+<drv mrk="vezir.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="vezir.0o.POL">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Turka <ref tip="super" cel="minist1.0o">ministro</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_ib;&c_z;&c_ib;&c_r;</trd>
+  <trd lng="bg">&c_v;&c_je;&c_z;&c_i;&c_r;</trd>
+  <trd lng="ca">visir</trd>
+  <trdgrp lng="cs">
+    <trd>isl&aacute;msk&yacute; gener&aacute;l</trd>,
+    <trd>isl&aacute;msk&yacute; ministr</trd>,
+    <trd>vez&iacute;r</trd>
+  </trdgrp>
+  <trd lng="de">Wesir</trd>
+  <trdgrp lng="en">
+    <trd>vizier</trd>,
+    <trd>Turkish minister</trd>
+  </trdgrp>
+  <trd lng="es">visir</trd>
+  <trd lng="hu">nagyvez&iacute;r</trd>
+  <trd lng="ja">&#x5927;&#x81E3;  <pr>&#x304A;&#x3068;&#x3069;</pr></trd>
+  <trd lng="nl">vizier<klr tip="ind"> (minister)</klr></trd>
+  <trd lng="pl">wezyr</trd>
+  <trd lng="pt">vizir</trd>
+  <trd lng="ro">vizir</trd>
+  <trd lng="ru">&c_v;&c_i;&c_z;&c_i;&c_r;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>islamsk&yacute; minister</trd>,
+    <trd>vez&iacute;r</trd>
+  </trdgrp>
+  <trd lng="tr">vezir</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_z;&c_i;&c_r;</trd>,
+    <trd>&c_v;&c_je;&c_z;&c_i;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vezir.granda_0o">
+  <kap>granda <tld/>o,
+  <var><kap>grand<tld/>o</kap></var></kap>
+  <snc mrk="vezir.granda_0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Turka <ref tip="super" cel="minist1.cxef0o">&ccirc;efministro</ref>:
+      <ekz>
+        la sultano estis kutime &ccirc;irka&ubreve;ata de &scirc;tatlaboristoj
+        kiuj okupi&gcirc;is la la registaraj aferoj, la unua el ili, kiel
+        &ccirc;efministro
+        de la sultano, estis la Granda <tld lit="V"/>o, kies oficejo
+        trovi&gcirc;is 
+        en Istanbulo, post la Sublima Pordo, proksime al la murego de la
+        Palaco
+        de Topkapi
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=379327">Granda
+          Veziro</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili sciis, ke la ponton starigis la grand<tld/>o
+        <nom>Mehmed-pa&scirc;ao</nom>
+        <fnt>
+          <aut>I. Andri&cacute;, trad. A. Sekelj</aut>
+          <vrk>La ponto super Drino</vrk>
+          <lok>2018</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_ja;&c_l;&c_ib;&c_k;&c_ib; <ind>&c_v;&c_ib;&c_z;&c_ib;&c_r;</ind></trd>,
+    <trd>&c_v;&c_ja;&c_r;&c_h;&c_o;&c_w;&c_n;&c_y; <ind>&c_v;&c_ib;&c_z;&c_ib;&c_r;</ind></trd>
+  </trdgrp>
+  <trd lng="de">Gro&szlig;wesir</trd>
+  <trd lng="en">grand <ind>vizier</ind></trd>
+  <trd lng="fr">grand <ind>vizir</ind></trd>
+  <trd lng="pl">wielki <ind>wezyr</ind></trd>     
+  <trd lng="ro">mare <ind>vizir</ind></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.23 2022/05/21 08:37:44
+Dmitri Gabinski: + trd be
+
+versio 1.21 2020/06/12 15:10:39
+Vito Redsky: +trd pl +trd ro +trd de +trd en +trd fr
+
+Revision 1.19  2018/11/13 19:10:15  revo
+Wolfram Diestel: +ekz, +POL
+
+Revision 1.18  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/08/05 13:10:19  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2012/08/04 17:10:13  revo
+-->
+</vortaro>

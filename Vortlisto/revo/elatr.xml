@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: elatr.xml,v 1.22 2023/10/14 15:49:04 revo Exp $">
+<kap>
+  <rad>elatr</rad>/o <fnt><bib>PV</bib></fnt>,
+  <var><kap>elater/o <fnt><bib>PIV1</bib></fnt></kap></var>
+</kap>
+<drv mrk="elatr.0o">
+  <kap><tld/>o, <var><kap>elatero</kap></var></kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc mrk="elatr.0o.genro">
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="elatre.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Elater</trd>):     
+      <ekz>
+        <tld/>o <klr>[&#x2026;]</klr> povas, se &gcirc;i ku&scirc;as sur la dorso, salti en la aeron por sin
+        turni
+        <fnt>
+          <bib>PIV1</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multajn speciojn, kiuj anta&ubreve;e apartenis al la genro <tld/>o, oni nun kategorias en apartajn
+        genrojn.
+      </ekz>
+    </dif>
+  </snc>
+    <bld lok="&WCU;/thumb/5/50/Elater_ferrugineus1.jpg/125px-Elater_ferrugineus1.jpg" prm="CC BY 3.0"><tld/>o (Elater ferrugineus)
+        <fnt>
+          <aut>John Hallm&eacute;n,
+          https://dina-web.net/naturalist/species/40e36207-faf5-4e67-8b8f-e5f30ba06d63</aut>
+          <lok><url ref="&WCW;/File:Elater_ferrugineus1.jpg">&WCW;/File:Elater_ferrugineus1.jpg</url></lok>
+        </fnt>
+    </bld>
+  <rim>
+    La varia&jcirc;on &leftquot;elatero&rightquot; oni povas konfuzi kun <ref tip="hom" cel="elater.0o">elatero</ref>
+    (hepatikaj sporofilamentoj).
+  </rim>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_v;&c_a;&c_l;&c_ib;&c_k;</trd>,
+    <trd>&c_k;&c_a;&c_v;&c_a;&c_l;&c_mol; <klr>(&c_zh;&c_u;&c_k;)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Schnellk&auml;fer</trd>
+  <trd lng="en">click <ind>beetle</ind></trd>
+  <trd lng="hu">pirosh&aacute;t&uacute;
+  <ind>pattan&oacute;bog&aacute;r</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B3;&#x30E1;&#x30C4;&#x30AD;&#x30E0;&#x30B7;</trd>,
+    <trd>&#x5F3E;&#x7CF8;  <pr>&#x305F;&#x307E;&#x3044;&#x3068;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">elater (<klr>uit de fam. der kniptorren</klr>)</trd>
+  <trd lng="pl">spr&eogonek;&zdot;yk</trd>
+  <trdgrp lng="pt">
+    <trd>elater&iacute;deo</trd>,
+    <trd>escaravelho</trd>,
+    <trd>besouro</trd>
+  </trdgrp>
+  <trd lng="ru">&c_shch;&c_je;&c_l;&c_k;&c_u;&c_n; <klr tip="amb">(&c_zh;&c_u;&c_k;)</klr></trd>
+  <trd lng="sk">kov&aacute;&ccaron;ik</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x432;&#x430;&#x43B;&#x438;&#x43A;</trd>,
+    <trd>&#x435;&#x43B;&#x430;&#x442;&#x435;&#x440;&#x430;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+versio 1.20 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2021/08/24 13:33:03
+Dmitri Gabinski: + trd be
+
+versio 1.17 2020/05/21 22:35:33
+Wolfram Diestel: +var, ekz PIV1, +bld, +rim
+
+Revision 1.15  2015/06/02 13:10:16  revo
+Joop Eggen: +trd nl
+
+Revision 1.14  2013/09/01 14:10:25  revo
+Wolfram Diestel: forigis ~oformaj
+
+Revision 1.13  2010/01/22 17:30:18  revo
+Wieland Pusch: +trd en
+
+Revision 1.12  2010/01/21 17:30:48  revo
+-->
+</vortaro>

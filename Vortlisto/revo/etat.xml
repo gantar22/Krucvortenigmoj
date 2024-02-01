@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: etat.xml,v 1.33 2023/11/07 20:34:12 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>etat</rad>/o
+</kap>
+<drv mrk="etat.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="etat.0o.gxenerale">
+    <uzo tip="stl">RAR</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      Oficiala dokumento, priskribanta la staton de iu afero sub formo
+      cifereca, tabeleca, listeca ks:
+      <ekz>
+        <tld/>o de la elspezoj de komunumo
+        <fnt><bib>PIV2</bib></fnt>,
+      </ekz>
+      <ekz>
+        de la &ccirc;eestantaj studentoj
+        <fnt><bib>PIV2</bib></fnt>;
+      </ekz>
+      <ekz>
+        la nomo de tiu junulo estu skribita sur la unua <tld/>o de
+        invititoj
+        <fnt>
+        <aut>H. Vallienne</aut>
+        <vrk>Kastelo de Prelongo</vrk><lok>&ccirc;ap. 4</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="invent1.0o">inventaro</ref>,
+      <ref cel="list.0o.KOMUNE">listo</ref>,
+      <ref cel="tabel.0o.TIP">tabelo</ref>,
+      <ref cel="regist.0o.dokumento">registro</ref>
+    </refgrp>
+    <trd lng="fr"><ofc>*</ofc>&eacute;tat<klr tip="ind"> (liste,
+    tableau)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>raport</trd>,
+      <trd>wykaz</trd>,
+      <trd>bud&zdot;et</trd>
+    </trdgrp>
+    <trd lng="pt">lista <klr> (de empregados, de
+        sal&aacute;rios)</klr></trd>
+  </snc>
+  <snc mrk="etat.0o.personaro">
+    <uzo tip="fak">EKON</uzo>
+    <fnt><bib>VdE</bib></fnt>
+    <dif>
+      Detala listo de la konstantaj, rekte salajrataj laborantoj
+      en iu entrepreno, administracio ks; aro de tiuj laborantoj:
+      <ekz>
+        la faktoroj ekonomiaj jam anta&ubreve; kelkaj jaroj faris anakronisma la vivtenadon de
+        la revuo kun kelkdek-persona <tld/>o kaj redukti&gcirc;anta abonantaro
+        <fnt>
+          <bib>LOdE</bib>
+          <vrk><url ref="&LOdE;73-lode.htm">Redakcie</url></vrk>
+          <lok>2000, No 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>forstreki el la <tld/>o</ind>
+        <klr>
+        <refgrp tip="vid">
+          (<ref cel="eks.0igi">eksigi</ref>,
+          <ref cel="dung.mal0i">maldungi</ref>)
+        </refgrp>
+        </klr>
+        <fnt><bib>PIV2</bib></fnt>.
+        <trdgrp lng="fr">
+          <trd>cong&eacute;dier<klr tip="ind"> (licencier)</klr></trd>
+          <trd>chasser<klr tip="ind"> (licencier)</klr></trd>
+          <trd><ind>d&eacute;gager</ind> de ses obligations</trd>
+          <trd><ind>d&eacute;mettre</ind> de ses fonctions</trd>
+          <trd>d&eacute;missionner<klr tip="ind"> (tr,
+          d&eacute;mettre)</klr></trd>
+          <trd>licencier<klr tip="ind"> (limoger)</klr></trd>
+          <trd>limoger</trd>
+          <trd><ind>radier</ind> des effectifs</trd>
+          <trd><ind>rayer</ind> de dessus l'&eacute;tat<klr tip="ind">
+          (vx, limoger)</klr></trd>
+          <trd><ind>rayer</ind> des cadres</trd>
+          <trd><ind>rayer</ind> des effectifs</trd>
+          <trd><ind>relever</ind> de ses fonctions</trd>
+          <trd>remercier<klr tip="ind"> (licencier)</klr></trd>
+          <trd>renvoyer<klr tip="ind"> (licencier)</klr></trd>
+          <trd>r&eacute;voquer<klr tip="ind"> (limoger)</klr></trd>
+          <trd>mettre &agrave; la <ind>porte</ind><klr tip="ind">
+          (licencier)</klr></trd>
+          <trd>lourder<klr tip="ind"> (licencier)</klr></trd>
+          <trd>vider<klr tip="ind"> (fam., licencier)</klr></trd>
+          <trd>virer<klr tip="ind"> (fam., licencier)</klr></trd>
+        </trdgrp>
+        <trd lng="pl">skre&sacute;li&cacute; z <ind>listy</ind></trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dung.0itaro">dungitaro</ref>,
+      <ref cel="labor.0antaro">laborantaro</ref>,
+      <ref cel="person.0aro.EKON">personaro</ref>
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd><ind>liste</ind> du personnel</trd>
+      <trd>effectif<klr tip="ind"> (ensemble des
+      employ&eacute;s)</klr></trd>
+      <trd>&eacute;tat<klr tip="ind"> (ensemble des
+      employ&eacute;s)</klr></trd>
+      <trd>personnel<klr tip="ind"> (ensemble des
+      employ&eacute;s)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>lista p&lstroke;ac</trd>,
+      <trd>lista <klr>zatrudnionych, przyj&eogonek;tych</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="etat.0o.statuso">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="status.0o">Statuso</ref>:
+      <ekz>
+        li prenas lian nomon, lian civilan <tld/>on, liajn renttitolojn, kaj al li donas
+        inter&scirc;an&gcirc;e la siajn, tre sciante, ke la malvivulo ne povos protesti
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sesa</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    Estas malfacile difini la precizan signifon de tiu Fundamenta vorto.
+    Ja la rusa, pola kaj germana tradukoj sugestas signifon
+    strikte ligitan kun salajrataj laborantoj, la solan prezentatan
+    en <fnt><bib>VdE</bib></fnt> (tamen kun aldona signifo
+    <ctl>salajro</ctl>),
+    dum la tradukoj franca kaj angla akceptas pli vastan signifon, kiu
+    &scirc;ajne disvasti&gcirc;is en la postaj vortaroj, sed restas
+    tre mar&gcirc;ene uzata.
+  </rim>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_t;&c_a;&c_t;</trd>,
+    <trd>&c_sh;&c_t;&c_a;&c_t;&c_y;</trd>,
+    <trd>&c_k;&c_a;&c_d;&c_r;&c_y;</trd>,
+    <trd>&c_p;&c_e;&c_r;&c_s;&c_a;&c_n;&c_a;&c_l;</trd>,
+    <trd>&c_a;&c_s;&c_a;&c_b;&c_o;&c_v;&c_y;
+    &c_s;&c_k;&c_l;&c_a;&c_d;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_l;&c_ib;&c_k;</trd>,
+    <trd>&c_s;&c_mol;&c_p;&c_ib;&c_s;</trd>,
+    <trd>&c_v;&c_o;&c_p;&c_ib;&c_s;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>seznam</trd>,
+    <trd>soupis</trd>,
+    <trd>v&yacute;kaz k ur&ccaron;it&eacute;mu datu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd><ofc>*</ofc>Etat</trd>,
+    <trd>Haushalt</trd>,
+    <trd>Haushaltsmittel</trd>,
+    <trd>Haushaltsplan</trd>,
+    <trd>Aufstellung</trd>,
+    <trd>Detailplan</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd><ofc>*</ofc>statement<klr tip="ind"> (financial)</klr></trd>,
+    <trd><ofc>*</ofc>condition</trd>,
+    <trd>register</trd>,
+    <trd>list</trd>,
+    <trd>inventory</trd>,
+    <trd>account</trd>,
+    <trd>report</trd>,
+    <trd>return<klr tip="ind"> (financial)</klr></trd>,
+    <trd>table<klr tip="ind"> (data)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&ouml;sszes&iacute;t&odblac;
+    <ind>t&aacute;bl&aacute;zat</ind></trd>,
+    <trd>r&eacute;szletes <ind>kimutat&aacute;s</ind></trd>,
+    <trd>&aacute;llom&aacute;nykimutat&aacute;s</trd>,
+    <trd>l&eacute;tsz&aacute;m</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x660E;&#x7D30;&#x8868;  <pr>&#x3081;&#x3044;&#x3055;&#x3044;&#x3072;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x5831;&#x544A;&#x66F8;  <pr>&#x307B;&#x3046;&#x3053;&#x304F;&#x3057;&#x3087;</pr></trd>,
+    <trd>&#x30EA;&#x30B9;&#x30C8;  <pr>&#x308A;&#x3059;&#x3068;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>lista</trd>,
+    <trd><ofc>*</ofc>etat</trd>
+  </trdgrp>
+  <trd lng="ro">foaie</trd>
+  <trdgrp lng="ru">
+    <trd><ofc>*</ofc>&c_sh;&c_t;&c_a;&c_t;</trd>,
+    <trd>&c_sh;&c_t;&c_a;&c_t;&c_y;</trd>,
+    <trd>&c_k;&c_a;&c_d;&c_r;&c_y;</trd>,
+    <trd>&c_l;&c_i;&c_ch;&c_n;&c_y;&c_j;
+    &c_s;&c_o;&c_s;&c_t;&c_a;&c_v;</trd>,
+    <trd>&c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_ch;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_o;&c_p;&c_i;&c_s;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>s&uacute;pis</trd>,
+    <trd>v&yacute;kaz k ur&ccaron;it&eacute;mu d&aacute;tumu</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_sh;&c_t;&c_a;&c_t;&c_i; (&c_o;&c_s;&c_o;&c_b;&c_o;&c_v;&c_i;&c_j; &c_s;&c_k;&c_l;&c_a;&c_d;)</trd>,
+    <trd>&c_sh;&c_t;&c_a;&c_t;&c_n;&c_i;&c_j; &c_r;&c_o;&c_z;&c_p;&c_i;&c_s;</trd>,
+    <trd>&c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_l;&c_ib;&c_k;</trd>,
+    <trd>&c_o;&c_p;&c_i;&c_s;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x9810;&#x7B97;&#x8A08;&#x5283; <pr>y&#xF9;su&#xE0;nj&#xEC;hu&#xE0;</pr></trd>
+</drv>
+
+<drv mrk="etat.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="etat.0a.KOMUNE">
+    <dif>
+      Rilata al la <tld/>o.
+    </dif>
+  </snc>
+  <snc mrk="etat.0a.salajrata">
+    <uzo tip="fak">EKON</uzo>
+    <fnt><bib>VdE</bib></fnt>
+    <dif>
+      <klr>(p.p. laboranto)</klr> Estanta sur la
+      <ref cel="etat.0o.personaro"><tld/>o <sncref/></ref> de
+      la institucio, en kiu li laboras:
+      <ekz>
+        li, <tld/>a funkciulo de TRP, nur komencis lerni Esperanton <klr>[&#x2026;]</klr> pro
+        partiaj devoj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 1 (51)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la elspezoplanon de REU povas esti <klr>[enigata]</klr>
+        salajrado de la <tld/>aj funkciuloj de REU kaj de personoj
+        dungataj la&ubreve; laborkontraktoj
+        <fnt>
+          <vrk><url ref="http://reu.ru/index.php?dok=statuto">Statuto de la
+          socia organiza&jcirc;o &leftquot;Rusia Esperantista Unio&rightquot;</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="etat.ekster0a.EKON">ekster<tld/>a
+    <sncref/></ref>
+    <trdgrp lng="fr">
+      <trd>salari&eacute;</trd>
+      <trd>faisant partie du <ind>personnel</ind> propre</trd>
+    </trdgrp>
+    <trd lng="pl">etatowy</trd>
+  </snc>
+  <trd lng="be">&c_sh;&c_t;&c_a;&c_t;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>vyk&aacute;zan&yacute;</trd>,
+    <trd>v&yacute;kazov&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vyk&aacute;zan&yacute;</trd>,
+    <trd>v&yacute;kazov&yacute;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_sh;&c_t;&c_a;&c_t;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="etat.bien0o">
+  <kap>bien<tld/>o</kap>
+  <snc mrk="etat.bien0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="stl">RAR</uzo>
+    <ref tip="dif" cel="regist.teren0o">terenregistro</ref>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_d;&c_a;&c_s;&c_t;&c_a;&c_r;</trd>
+  <trd lng="ca">cadastre</trd>
+  <trdgrp lng="de">
+    <trd>Kataster</trd>,
+    <trd>Grundbuch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>land register</trd>,
+    <trd>register of title deeds</trd>,
+    <trd>official real estate register</trd>
+  </trdgrp>
+  <trd lng="es">catastro</trd>
+  <trd lng="fr">cadastre</trd>
+  <trdgrp lng="hu">
+    <trd>telekk&ouml;nyv</trd>,
+    <trd>kataszter</trd>
+  </trdgrp>
+  <trd lng="ja">&#x571F;&#x5730;&#x53F0;&#x5E33;  <pr>&#x3068;&#x3061;&#x3060;&#x3044;&#x3061;&#x3087;&#x3046;</pr></trd>
+  <trd lng="nl">kadaster<klr tip="ind"> (register)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>kataster</trd>,
+    <trd>ewidencja <ind>grunt&oacute;w</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_a;&c_d;&c_a;&c_s;&c_t;&c_r;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5730;&#x7C4D; <pr>d&#xEC;j&#xED;</pr></trd>,
+    <trd>&#x571F;&#x5730;&#x518A; <pr>t&#x1D4;d&#xEC;c&#xE8;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="etat.ekster0a">
+  <kap>ekster<tld/>a</kap>
+  <snc mrk="etat.ekster0a.gxenerale">
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Ne enkalkulita en la koncerna <tld/>o.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekstr.0a.aldona">ekstra</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_mol;&c_n;&c_je;&c_sh;&c_n;&c_ib;</trd>,
+      <trd>&c_d;&c_a;&c_d;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>additionnel</trd>,
+      <trd>extraordinaire<klr tip="ind"> (additionnel)</klr></trd>,
+      <trd>compl&eacute;mentaire<klr tip="ind">
+      (additionnel)</klr></trd>,
+      <trd>suppl&eacute;mentaire<klr tip="ind">
+      (additionnel)</klr></trd>,
+      <trd>en <ind>plus</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="etat.ekster0a.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <klr>(p.p. laboranto)</klr> Laboranta en la koncerna institucio,
+      sed salajrata de alia:
+      <ekz>
+        nia ekster-<tld/>a redakcia koboldo denove kunlaboris
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2001, &#x2116;2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Atanasov Atanas Dan&ccirc;ev</nom> <klr>[estas]</klr> eksa
+        ekster<tld/>a kunlaboranto &ccirc;e la Instituto de bulgara lingvo
+        de la Akademio de Sciencoj
+        <fnt>
+          <aut>Akademio de Esperanto</aut>
+          <vrk><url ref="&AdE;/aktoj/aktoj1/akademio.html">Aktoj
+          de la Akademio 1963-1967</url></vrk>
+          <lok>Oficiala Bulteno de la Akademio de Esperanto &ndash; N&deg;
+          9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="etat.0a.salajrata"><tld/>a <sncref/></ref>
+  <trd lng="be">&c_p;&c_a;&c_z;&c_a;&c_sh;&c_t;&c_a;&c_t;&c_n;&c_y;</trd>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>prestataire<klr tip="ind"> (en contrat de
+    prestation)</klr></trd>
+    <trd>en contrat de <ind>prestation</ind></trd>
+    <trd>faisant partie du <ind>personnel</ind> externe</trd>
+  </trdgrp>
+  <trd lng="ja">&#x81E8;&#x6642;&#x96C7;&#x3044;&#x306E;  <pr>&#x308A;&#x3093;&#x3058;&#x3084;&#x3068;&#x3044;&#x306E;</pr></trd>
+</drv>
+
+<drv mrk="etat.plen0a">
+  <kap>plen<tld/>a</kap>
+  <snc mrk="etat.plen0a.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <klr>(p.p. <tld/>a laboranto)</klr> Laboranta plentempe por la
+      koncerna
+      institucio:
+      <ekz>
+        mi opinias, ke en &ccirc;iu lernejo devas labori ne sole
+        plen<tld/>a
+        pedagogo, sed anka&ubreve; psikologo
+        <fnt>
+        <aut>Radio Polonia</aut>
+        <vrk><url ref="http://www.polskieradio.pl/eo/dokument.aspx?iid=94546">Lernejo
+        sen perforto</url></vrk>
+        <lok>2008-10-27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_t;&c_a;&c_t;&c_n;&c_y; <klr>(&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_ib;&c_k;)</klr></trd>
+  <trd lng="fr"><ind>employ&eacute;</ind> &agrave; plein temps</trd>
+  <trd lng="pl"><klr>pracuj&aogonek;cy </klr>na pe&lstroke;nym
+  <ind>etacie</ind></trd>
+</drv>
+
+<drv mrk="etat.ricxajx0o">
+  <kap>ri&ccirc;a&jcirc;<tld/>o</kap>
+  <snc mrk="etat.ricxajx0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="stl">RAR</uzo>
+    <dif>
+      <tld lit="E"/>o de &ccirc;iuj poseda&jcirc;oj, i.a. heredotaj post
+      ies morto:
+      <ekz>
+        tial ke Re&gcirc;ino havis neniun propran poseda&jcirc;on,
+        &scirc;ia morto
+        devis naski neniun ri&ccirc;a&jcirc;<tld/>on
+        <fnt><aut>H. Vallienne</aut><vrk>&Ccirc;u
+        li?</vrk><lok>&ccirc;ap.
+        5</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_d;&c_ch;&c_y;&c_n;&c_a;</trd>
+  <trd lng="fr"><ind>&eacute;tat</ind> des biens</trd>
+  <trd lng="pl">masa <ind>spadkowa</ind></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.32 2023/10/14 15:49:05
+revo: transskribo per <pr>
+
+versio 1.31 2023/09/22 06:30:43
+Wolfram Diestel: rim: vortigo plibonigita
+
+versio 1.29 2022/12/04 09:23:28
+Wolfram Diestel: +marko dict etc voko-grundo-2f &ccirc;e trd ofc
+
+versio 1.28 2022/09/06 10:37:16
+Dmitri Gabinski: + trd be
+
+versio 1.27 2022/07/02 20:28:50
+Wolfram Diestel: +ekz-oj
+
+versio 1.26 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.24  2020/03/14 11:18:27  revo
+aktualigis URL de Ondo(2)
+
+Revision 1.23  2017/09/02 12:10:14  revo
+-->
+</vortaro>

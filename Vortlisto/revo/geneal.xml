@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: geneal.xml,v 1.31 2023/11/11 10:00:39 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>genealogi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="geneal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="geneal.0o.SCI">
+    <uzo tip="fak">GEN</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Scienco esploranta devenon kaj parencecon de familioj, gentoj
+      homaj a&ubreve; bestaj:
+      <ekz>
+        nuntempe <tld/>o estas &scirc;atokupo de fervoraj amatoroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="https://www.monato.be/2006/008970.php">Genealogio</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Ahnenforschung</trd>,
+      <trd>Familienforschung</trd>
+    </trdgrp>
+    <trd lng="fa">&a_t;&a_b;&a_A;&a_r;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;rmaz&aacute;stan</trd>,
+      <trd>csal&aacute;dfa</trd>
+    </trdgrp>
+    <trd lng="pl">genealogia</trd>
+    <trd lng="pt">genealogia</trd>
+  </snc>
+  <snc mrk="geneal.0o.dokumento">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      <ref tip="super" cel="regist.0o">Registro</ref> pri <ref cel="ven.de0o">deveno</ref> kaj
+      parenceco de gentanoj:
+      <ekz>
+        jen estas la <tld/>o de <nom>Aaron</nom> kaj Moseo en tiu tempo <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 3:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun la persona komputilo anka&ubreve; venis programoj por fari <tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="https://www.monato.be/2006/008970.php">Genealogio</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Abstammung</trd>,
+      <trd>Stammbaum</trd>
+    </trdgrp>
+    <trdgrp lng="fa">
+      <trd>&a_sh;&a_j;&a_r;&a_h;</trd>,
+      <trd>&#x200C;&a_sh;&a_j;&a_r;&a_h;&#x200C;&a_n;&a_A;&a_m;&a_h;</trd>,
+      <trd>&a_n;&a_s;&a_b;&#x200C;&a_n;&a_A;&a_m;&a_h;</trd>
+    </trdgrp>
+    <trd lng="hu">csal&aacute;dfa</trd>
+    <trd lng="pl">drzewo <ind>genealogiczne</ind></trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_je;&c_n;&c_e;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>,
+    <trd>&c_r;&c_a;&c_d;&c_a;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_g;&c_je;&c_n;&c_je;&c_a;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="ca">genealogia</trd>
+  <trdgrp lng="cs">
+    <trd>genealogie</trd>,
+    <trd>rodopis</trd>
+  </trdgrp>
+  <trd lng="de">Genealogie</trd>
+  <trd lng="en">genealogy</trd>
+  <trd lng="fr">g&eacute;n&eacute;alogie</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7CFB;&#x56F3;&#x5B66;  <pr>&#x3051;&#x3044;&#x305A;&#x304C;&#x304F;</pr></trd>,
+    <trd>&#x7CFB;&#x56F3;  <pr>&#x3051;&#x3044;&#x305A;</pr></trd>,
+    <trd>&#x5BB6;&#x7CFB;  <pr>&#x304B;&#x3051;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>afstamming</trd>,
+    <trd>genealogie</trd>
+  </trdgrp>
+  <trd lng="pt">genealogia</trd>
+  <trd lng="ru">&c_g;&c_je;&c_n;&c_je;&c_a;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>rodokme&ncaron;</trd>,
+    <trd>rodopis</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+    <trd>soybilim</trd>,
+    <trd>jeneoloji</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_je;&c_n;&c_je;&c_a;&c_l;&c_o;&c_g;&c_ib;&c_ja;</trd>,
+    <trd>&c_r;&c_o;&c_d;&c_o;&c_v;&c_ib;&c_d;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x7CFB;&#x8B5C; <pr>x&#xEC;p&#x1D4;</pr></trd>
+</drv>
+
+<drv mrk="geneal.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="geneal.0a.SCI">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        en lia <ref cel="arb.genealogia0o.GEN"><tld/>a arbo</ref> trovi&gcirc;is multe
+        pli da Parlamentaj konsilantoj ol da
+        partoprenantoj de la <nom>Versailles</nom>&#x2019;a kortego
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ne estis enskribita en la <tld/>an liston kiel unuenaskito
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Kroniko 5:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        utilas komence ali&gcirc;i al <tld/>a asocio por alkutimi&gcirc;i al esplormetodoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="https://www.monato.be/2006/008970.php">Genealogio</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la senco de la lingva <tld/>a arbo estis montri, ke la homaro havis iam unu
+        solan pralingvon, kiu poste (pro nekonataj ka&ubreve;zoj) disbran&ccirc;i&gcirc;is
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_n;&c_e;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_g;&c_je;&c_n;&c_je;&c_a;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_n;</trd>
+  <trd lng="ca">geneal&ograve;gic</trd>
+  <trd lng="cs">rodopisn&yacute;</trd>
+  <trd lng="de">genealogisch</trd>
+  <trd lng="en">genealogical</trd>
+  <trd lng="fa">&a_t;&a_b;&a_A;&a_r;&a_sh;&a_n;&a_A;&a_kh;&a_t;&f_y;</trd>
+  <trd lng="fr">g&eacute;n&eacute;alogique</trd>
+  <trdgrp lng="hu">
+    <trd>sz&aacute;rmaz&aacute;si</trd>,
+    <trd>geneal&oacute;giai</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7CFB;&#x56F3;&#x306E;  <pr>&#x3051;&#x3044;&#x305A;&#x306E;</pr></trd>,
+    <trd>&#x5BB6;&#x7CFB;&#x306E;  <pr>&#x304B;&#x3051;&#x3044;&#x306E;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">genealogisch</trd>
+  <trd lng="pt">geneal&oacute;gico<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="ru">&c_g;&c_je;&c_n;&c_je;&c_a;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">rodopisn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_je;&c_n;&c_je;&c_a;&c_l;&c_o;&c_g;&c_ib;&c_ch;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_o;&c_d;&c_o;&c_v;&c_ib;&c_d;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5B97;&#x7CFB; <pr>z&#x14D;ngx&#xEC;</pr></trd>,
+    <trd>&#x5BB6;&#x7CFB; <pr>ji&#x101;x&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="geneal.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="geneal.0isto.SCI">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Fakulo pri <ref tip="vid" cel="geneal.0o.SCI"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_d;&c_a;&c_v;&c_o;&c_d;&c_c;&c_a;</trd>
+  <trd lng="bg">&c_g;&c_je;&c_n;&c_je;&c_a;&c_l;&c_o;&c_g;</trd>
+  <trd lng="ca">genealogista</trd>
+  <trd lng="de">Genealog</trd>
+  <trd lng="en">genealogist</trd>
+  <trd lng="fa">&a_t;&a_b;&a_A;&a_r;&a_sh;&a_n;&a_A;&a_s;</trd>
+  <trd lng="fr">g&eacute;n&eacute;alogiste</trd>
+  <trd lng="nl">genealoog</trd>
+  <trd lng="pl">genealog</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/15 06:07:00
+revo: transskribo per <pr>
+
+versio 1.28 2023/06/18 16:32:41
+Wolfram Diestel: ref
+
+versio 1.27 2023/06/18 08:26:24
+Wolfram Diestel: +ekz-oj, ref, trd de
+
+versio 1.26 2022/06/29 08:39:57
+Dmitri Gabinski: + trd be
+
+Revision 1.23  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2013/09/02 17:10:11  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.21  2012/08/18 19:10:38  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.20  2011/04/01 16:10:08  revo
+-->
+</vortaro>

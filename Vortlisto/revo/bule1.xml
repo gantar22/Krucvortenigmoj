@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bule1.xml,v 1.17 2023/08/31 08:48:54 revo Exp $">
+<kap>
+<rad>Bule</rad>/o
+  <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="bule1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PERS</uzo>
+  <fnt><bib>KompLeks</bib></fnt>
+  <snc>
+    <dif>
+      Anglalingve: <nom>George</nom> <trd lng="en">Boole</trd>, angla
+      <ref tip="lst" lst="voko:historiaj_personoj" cel="matema.0isto">matematikisto</ref>
+      (1815&#xAD;&ndash;1864).
+    </dif>
+  </snc>
+  <ref tip="hom" cel="bule.0o">buleo (dekreto)</ref>
+  <trd lng="be">&c_B;&c_u;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_B;&c_u;&c_l;</trd>
+  <trd lng="cs">Boole G.</trd>
+  <trd lng="de">Boole</trd>
+  <trd lng="fr">Boole</trd>
+  <trd lng="hu">Boole</trd>
+  <trd lng="it">Boole</trd>
+  <trd lng="ja">&#x30D6;&#x30FC;&#x30EB;</trd>
+  <trd lng="nl">George <ind>Boole</ind></trd>
+  <trd lng="pl">Boole</trd>
+  <trd lng="ru">&c_B;&c_u;&c_l;&c_mol;</trd>
+  <trd lng="sk">Boole G.</trd>
+  <trd lng="uk">&#x411;&#x443;&#x43B;&#x44C;&#xA0;(&#x430;&#x43D;&#x433;&#x43B;&#x456;&#x439;&#x441;&#x44C;&#x43A;&#x438;&#x439; &#x43C;&#x430;&#x442;&#x435;&#x43C;&#x430;&#x442;&#x438;&#x43A;)</trd>
+</drv>
+
+<drv mrk="bule1.b0a">
+  <kap><tld lit="b"/>a
+      <fnt><bib>PIV2</bib></fnt>
+  </kap>
+  <snc mrk="bule1.b0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <ref tip="vid" cel="algebr.bulea0o"><tld lit="b"/>a algebro</ref>
+    <trdgrp lng="ru">
+      <trd>&c_B;&c_u;&c_l;&c_ja;</trd>,
+      <trd>&c_b;&c_u;&c_l;&c_je;&c_v;</trd>
+    </trdgrp> 
+  </snc>
+  <snc mrk="bule1.b0a.KOMP">
+  <uzo tip="fak">KOMP</uzo>
+    <fnt><bib>KompLeks</bib></fnt>
+    <dif>
+      <ref cel="tip.datum0o">Datumtipo</ref> kies du nuraj valoroj
+      estas <frm><k>vero</k></frm> kaj <frm><k>malvero</k></frm>,
+      super kiuj estas difinitaj la <em><tld lit="b"/>aj operacioj</em>
+      <klr>(tiuj de <ref cel="algebr.bulea0o"><tld lit="b"/>a
+      algebro</ref>)</klr>,
+      kaj el kiuj eblas fari <em><tld lit="b"/>ajn esprimojn</em>:
+      <ekz>
+         en <ref cel="c.0.KOMP">C</ref> la <tld lit="b"/>ajn valorojn
+         oni prezentas per <frm>0</frm> kaj <frm>1</frm>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
+      <trd>&c_b;&c_u;&c_l;&c_je;&c_v;</trd>
+    </trdgrp> 
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_B;&c_u;&c_l;&c_ja;</trd>,
+    <trd>&c_b;&c_u;&c_l;&c_je;&c_w;</trd>,
+    <trd>&c_b;&c_u;&c_l;&c_je;&c_w;&c_s;&c_k;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_b;&c_u;&c_l;&c_je;&c_v;</trd>
+  <trd lng="de">Boolesche</trd>
+  <trdgrp lng="en">
+    <trd>Boole['s]</trd>,
+    <trd>Boolean</trd></trdgrp> 
+  <trd lng="es">booleano</trd>
+  <trdgrp lng="fr">
+    <trd>de <ind>Boole</ind></trd>,
+    <trd>bool&eacute;en</trd></trdgrp> 
+  <trdgrp lng="hu">
+    <trd>Boole-</trd>,
+    <trd>Boole-f&eacute;le</trd></trdgrp>
+  <trd lng="it">booleano</trd>
+  <trd lng="nl">booleaans</trd>
+  <trdgrp lng="pl">
+    <trd>Boole'a</trd>
+  </trdgrp>
+  <trd lng="sk">boolovsk&aacute; <klr>(algebra)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.15 2021/06/15 09:32:13
+Damien Brucker: -eraro cxe lst en ref
+
+versio 1.14 2021/06/14 21:29:23
+Wolfram Diestel: +ref-hom
+
+Revision 1.12  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2009/11/08 17:30:59  revo
+Wieland Pusch: +trd bg
+
+Revision 1.9  2009/11/07 17:31:11  revo
+Antonio Codazzi: +trd it
+
+Revision 1.8  2005/05/16 17:48:24  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.7  2004/07/19 17:45:25  revo
+-->
+</vortaro>

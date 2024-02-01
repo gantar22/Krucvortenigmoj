@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kopepod.xml,v 1.9 2023/12/03 09:58:58 revo Exp $">
+<kap>
+  <rad>kopepod</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="kopepod.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kopepod.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Iu el malgrandaj sen&scirc;elaj krustuloj vivantaj en salaj
+      kaj en nesalaj akvejoj, inter
+      <ref tip="malprt" cel="plankton.0o.BIO">planktono</ref>
+      a&ubreve; sur fundo, subklaso de maksilopodoj
+      (<trd lng="la">Copepoda</trd>):  
+      <ekz>
+        pri la <tld/>oj, la plimulto de la novaj specoj <klr>...</klr> 
+        priskribitaj de Prof. Sars revenis en retoj senditaj almena&ubreve; 
+        &gcirc;is 3000 metroj
+        <fnt>
+          <aut>J. Richard</aut>,
+          <vrk><url ref="http://www.forgottenbooks.com/readbook_text/Bulletin_de_LInstitut_OceYanographique_1905_1200159697/301">
+          Scienca krozado de la &scirc;ipo Princesse Alice dum
+          1904</url></vrk>,
+          <lok>Bulletin du Mus&eacute;e Oc&eacute;anographique de Monaco, 1905-06-25 
+          (41)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nigraj balenoj <klr>...</klr> man&gcirc;as nur malgrandajn
+        krustulojn el la <tld/>oj
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="&Viki;/Nigra_baleno">
+          nigra baleno</url>, 2012-11-13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_je;&c_s;&c_l;&c_a;&c_n;&c_o;&c_g;&c_ib;&c_ja; &c_r;&c_a;&c_k;&c_a;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;&c_ja;</trd>
+  <trd lng="de">Ruderfu&szlig;krebs</trd>
+  <trd lng="en">copepod</trd>
+  <trd lng="fa">&f_p;&a_A;&a_r;&a_w;&f_p;&a_A;</trd>
+  <trd lng="fr">cop&eacute;pode</trd>
+  <trd lng="it">copepode</trd>
+  <trdgrp lng="nl">
+    <trd>eenoogkreeftje</trd>,
+    <trd>roeipootkreeftje</trd>
+  </trdgrp>
+  <trd lng="pl">wid&lstroke;on&oacute;g</trd>     
+  <trd lng="ro">copepode</trd>
+  <trd lng="zh">&#x9D5C;&#x5F62;&#x76EE; <pr>t&#xED;x&#xED;ngm&#xF9;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.7 2021/12/06 08:36:29
+Dmitri Gabinski: + trd be
+
+Revision 1.5  2015/08/10 16:10:16  revo
+Joop Eggen: +trd nl
+
+Revision 1.4  2015/07/15 07:10:14  revo
+Jeromo Vasxe: + trd la + 1 ekz
+
+Revision 1.3  2012/11/29 01:10:10  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.2  2012/11/18 01:10:09  revo
+Wieland Pusch: +trd de
+
+Revision 1.1  2012/11/14 21:10:10  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

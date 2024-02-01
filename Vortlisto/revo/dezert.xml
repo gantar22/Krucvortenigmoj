@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dezert.xml,v 1.106 2023/11/04 13:16:27 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>dezert</rad>/o
+</kap>
+
+<drv mrk="dezert.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="dezert.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="super" cel="region.0o.land">Regiono</ref> kun malfavora klimato kaj do tre malmulte
+      da vegeta&jcirc;oj, tre seka:
+      <ekz>
+        <klr>[Dio]</klr> trakondukis vin tra la granda kaj terura <tld/>o, kie estis
+        serpentoj, aspidoj kaj skorpioj kaj sekaj lokoj senakvaj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 8:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili perdis la vojon <klr>[&#x2026;]</klr> la dezerto ilin &scirc;losis
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 14:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post longa vagado en <tld/>o, multfontana
+        <ref tip="prt" cel="oaz.0o.GEOG">oazo</ref> lin akceptis
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum generacioj ili nomadis tra la stepoj kaj <tld/>oj, rajde
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio]</klr> iom post iom detruis la marsan atmosferon kaj ka&ubreve;zis la
+        ekstreman klimato-&scirc;an&gcirc;i&gcirc;on de Marso <klr>[&#x2026;]</klr> en rusti&gcirc;antan frostintan
+        <tld/>on
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vo&ccirc;o de profeto en <tld/>o
+        <klr>(apena&ubreve; a&ubreve;data)</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Reinaldo Marcelo Ferreira</aut>
+          <vrk><url ref="&Monato;/2005/008629.php">Ne nur intimaj temoj</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">woestyn</trd>
+  <trd lng="am">&#x121D;&#x12F5;&#x1228; &#x1260;&#x12F3;</trd>
+  <trd lng="ar">&a_S;&a_H;&a_r;&a_A;&a_hamza;</trd>
+  <trd lng="az">s&#x259;hra</trd>
+  <trd lng="be">&c_p;&c_u;&c_s;&c_t;&c_e;&c_l;&c_mol;&c_n;&c_ja;</trd>
+  <trd lng="bg">&c_p;&c_u;&c_s;&c_t;&c_i;&c_n;&c_ja;</trd>
+  <trd lng="bn">&#x9AE;&#x9B0;&#x9C1;&#x9AD;&#x9C2;&#x9AE;&#x9BF;</trd>
+  <trd lng="bo">&t_ba;&t_yata;&t_drengbu;&t_tsheg;&t_tha;&t_nga;&t_tsheg;</trd>
+  <trd lng="bs">pustinja</trd>
+  <trd lng="co">u disertu</trd>
+  <trdgrp lng="cs">
+    <trd>pou&scaron;&tcaron;</trd>,
+    <trd>pustina</trd>
+  </trdgrp>
+  <trd lng="cy">anialwch</trd>
+  <trd lng="da">&oslash;rken</trd>
+  <trdgrp lng="de">
+    <trd>W&uuml;ste</trd>,
+    <trd>Ein&ouml;de</trd>,
+    <trd>&Ouml;dnis</trd>
+  </trdgrp>
+  <trd lng="en">desert</trd>
+  <trd lng="es">desierto</trd>
+  <trd lng="et">k&otilde;rb</trd>
+  <trd lng="eu">basamortuko</trd>
+  <trd lng="fr">d&eacute;sert<klr> (subst.)</klr></trd>
+  <trd lng="fy">woastyn</trd>
+  <trd lng="ga">f&aacute;sach</trd>
+  <trd lng="gd">fh&agrave;sach</trd>
+  <trd lng="gl">deserto</trd>
+  <trd lng="gu">&#xAB0;&#xAA3;</trd>
+  <trd lng="ha">hamada</trd>
+  <trd lng="he">&mem;&#x5B4;&dalet;&bet;&#x5BC;&#x5B8;&resh;</trd>
+  <trd lng="hi">&#x930;&#x947;&#x917;&#x93F;&#x938;&#x94D;&#x924;&#x93E;&#x928;</trd>
+  <trd lng="hmn">suab puam</trd>
+  <trd lng="hr">pustinja</trd>
+  <trd lng="ht">dez&egrave;</trd>
+  <trd lng="hu">sivatag</trd>
+  <trd lng="hy">&#x561;&#x576;&#x561;&#x57A;&#x561;&#x57F;</trd>
+  <trd lng="id">gurun</trd>
+  <trd lng="is">ey&#xF0;im&ouml;rk</trd>
+  <trd lng="ja">&#x7802;&#x6F20; <pr>&#x3055;&#x3070;&#x304F;</pr></trd>
+  <trd lng="jv">ara-ara samun</trd>
+  <trd lng="ka">&#x10E3;&#x10D3;&#x10D0;&#x10D1;&#x10DC;&#x10DD;&#x10E8;&#x10D8;</trd>
+  <trd lng="kk">&c_sh;&#x4E9;&c_l;</trd>
+  <trd lng="km">&#x179C;&#x17B6;&#x179B;&#x1781;&#x17D2;&#x179F;&#x17B6;&#x1785;&#x17CB;</trd>
+  <trd lng="kn">&#xCAE;&#xCB0;&#xCC1;&#xCAD;&#xCC2;&#xCAE;&#xCBF;&#xCAF;</trd>
+  <trd lng="ko">&#xC0AC;&#xB9C9;</trd>
+  <trd lng="ku">&ccedil;ol</trd>
+  <trd lng="ky">&c_e;&c_e;&c_n;</trd>
+  <trd lng="lat">deserto</trd>
+  <trd lng="lo">&#xE97;&#xEB0;&#xEC0;&#xEA5;&#xE8A;&#xEB2;&#xE8D;</trd>
+  <trd lng="lt">dykuma</trd>
+  <trd lng="lv">tuksnesis</trd>
+  <trd lng="mg">efitra</trd>
+  <trd lng="mi">koraha</trd>
+  <trd lng="mk">&c_p;&c_u;&c_s;&c_t;&c_i;&c_n;&c_a;&c_t;&c_a;</trd>
+  <trd lng="ml">&#xD2E;&#xD30;&#xD41;&#xD2D;&#xD42;&#xD2E;&#xD3F;&#xD2F;&#xD3F;&#xD7D;</trd>
+  <trd lng="mn">&c_c;&#x4E9;&c_l;&c_i;&c_j;&c_n;</trd>
+  <trd lng="mr">&#x935;&#x93E;&#x933;&#x935;&#x902;&#x91F;</trd>
+  <trd lng="ms">padang pasir</trd>
+  <trd lng="mt">de&zdot;ert</trd>
+  <trd lng="my">&#x101E;&#x1032;&#x1000;&#x1014;&#x1039;&#x1010;&#x102C;&#x101B;</trd>
+  <trd lng="ne">&#x92E;&#x930;&#x941;&#x92D;&#x942;&#x92E;&#x93F;</trd>
+  <trd lng="ny">chipululu</trd>
+  <trd lng="pa">&#xA2E;&#xA3E;&#xA30;&#xA42;&#xA25;&#xA32;</trd>
+  <trd lng="pl">pustynia</trd>
+  <trd lng="ps">&a_d;&#x69A;&a_t;&a_h;</trd>
+  <trdgrp lng="pt">
+    <trd>deserto</trd>,
+    <trd>p&aacute;ramo</trd>,
+    <trd>ermo</trd>,
+    <trd>tapera</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_u;&c_s;&c_t;&c_y;&c_n;&c_ja;</trd>
+  <trd lng="rw">ubutayu</trd>
+  <trd lng="sd">&#x67F;&a_r;</trd>
+  <trd lng="si">&#xD9A;&#xDCF;&#xDB1;&#xDCA;&#xDAD;&#xDCF;&#xDBB;</trd>
+  <trdgrp lng="sk">
+    <trd>p&uacute;&scaron;&tcaron;</trd>,
+    <trd>pustatina</trd>
+  </trdgrp>
+  <trd lng="sm">toafa</trd>
+  <trd lng="sn">gwenga</trd>
+  <trd lng="so">lamadegaanka</trd>
+  <trd lng="sq">shkret&euml;tir&euml;</trd>
+  <trd lng="st">lehoatateng</trd>
+  <trd lng="su">gurun</trd>
+  <trd lng="sw">jangwa</trd>
+  <trd lng="ta">&#xBAA;&#xBBE;&#xBB2;&#xBC8;&#xBB5;&#xBA9;</trd>
+  <trd lng="te">&#xC0E;&#xC21;&#xC3E;&#xC30;&#xC3F;</trd>
+  <trd lng="tg">&c_b;&c_i;&c_jo;&c_b;&c_o;&c_n;</trd>
+  <trd lng="th">&#xE17;&#xE30;&#xE40;&#xE25;&#xE17;&#xE23;&#xE32;&#xE22;</trd>
+  <trd lng="tl">disyerto</trd>
+  <trd lng="tt">&c_ch;&#x4AF;&c_l;</trd>
+  <trd lng="uk">&c_p;&c_u;&c_s;&c_t;&c_je;&c_l;&c_ja;</trd>
+  <trd lng="ur">&a_S;&a_H;&a_r;&a_A;</trd>
+  <trd lng="uz">sahro</trd>
+  <trd lng="vi">sa m&#x1EA1;c</trd>
+  <trd lng="xh">intlango</trd>
+  <trd lng="yi">&mem;&dalet;&bet;&resh;</trd>
+  <trd lng="yo">asale</trd>
+  <trdgrp lng="zh">
+    <trd>&#x8352;&#x5730; <pr>hu&#x101;ngd&#xEC;</pr></trd>,
+    <trd>&#x5E9F;&#x5730; <pr>f&#xE8;id&#xEC;</pr></trd>,
+    <trd>&#x8352;&#x91CE; <pr>hu&#x101;ngy&#x11B;</pr></trd>,
+    <trd>&#x5E7F;&#x6F20; <pr>gu&#x1CE;ngm&#xF2;</pr></trd>,
+    <trd>&#x6F20; <pr>m&#xF2;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">hlamuka</trd>
+</drv>
+
+<drv mrk="dezert.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="dezert.0a.GEOG">
+    <dif>
+      Rilata al, karakterizata de <tld/>o:
+      <ekz>
+        lo&gcirc;i en lando <tld/>a
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 21:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kaj matene <klr>[&#x2026;]</klr> li levi&gcirc;is, kaj foriris en
+        <tld/>an
+        lokon, kaj tie pre&gcirc;adis
+        <fnt><bib>NT</bib> <lok>&Mar; 1:35</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a plata&jcirc;o de Arizono, Nevado kaj Utaho,
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        duon<tld/>a regiono
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_u;&c_s;&c_t;&c_e;&c_l;&c_mol;&c_n;&c_y;</trd>,
+      <trd>&c_n;&c_je;&c_n;&c_a;&c_s;&c_je;&c_l;&c_je;&c_n;&c_y;</trd>,
+      <trd>&c_b;&c_ja;&c_z;&c_mol;&c_l;&c_ju;&c_d;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_p;&c_u;&c_s;&c_t;&c_i;&c_n;&c_je;&c_n;</trd>
+    <trdgrp lng="cs">
+      <trd>pou&scaron;tn&iacute;</trd>,
+      <trd>pust&yacute;</trd>,
+      <trd>sir&yacute;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>w&uuml;st</trd>,
+      <trd>W&uuml;sten-</trd>
+    </trdgrp>
+    <trd lng="en">desolate</trd>
+    <trd lng="es">des&eacute;rtico</trd>
+    <trdgrp lng="fr">
+      <trd>d&eacute;sert<klr> (adj.)</klr></trd>,
+      <trd>d&eacute;sertique</trd>
+    </trdgrp>
+    <trd lng="he">&mem;&#x5B4;&dalet;&bet;&#x5BC;&#x5B8;&resh;&yod;</trd>
+    <trdgrp lng="hu">
+      <trd>puszta</trd>,
+      <trd>kietlen</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>pustynny</trd>,
+      <trd>bezludny</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_u;&c_s;&c_t;&c_y;&c_n;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_n;&c_je;&c_o;&c_b;&c_i;&c_t;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>
+    </trdgrp>
+    <trdgrp lng="sk">
+      <trd>opusten&yacute;</trd>,
+      <trd>pust&yacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="dezert.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Forlasita, <ref tip="super" cel="plen.mal0a">malplena</ref>,
+      <ref cel="frukt.sen0a.FIG">senfrukta</ref>:
+      <ekz>
+        ili mar&scirc;is en la a&ubreve;tuna, malvarma tago sur la <tld/>a &scirc;oseo
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vaka kaj <tld/>a animo
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_u;&c_s;&c_t;&c_e;&c_l;&c_mol;&c_n;&c_y;</trd>,
+      <trd>&c_s;&c_p;&c_u;&c_s;&c_t;&c_o;&c_sh;&c_a;&c_n;&c_y;</trd>,
+      <trd>&c_p;&c_a;&c_k;&c_ib;&c_n;&c_u;&c_t;&c_y;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>trostlos</trd>,
+      <trd>&ouml;de</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x538C;&#x5026; <pr>y&#xE0;nju&#xE0;n</pr></trd>,
+    <trd>&#x8427;&#x7D22; <pr>xi&#x101;osu&#x1D2;</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="ja">
+    <trd>&#x7802;&#x6F20;&#x306E;  <pr>&#x3055;&#x3070;&#x304F;&#x306E;</pr></trd>,
+    <trd>&#x8352;&#x308C;&#x306F;&#x3066;&#x305F;  <pr>&#x3042;&#x308C;&#x306F;&#x3066;&#x305F;</pr></trd>,
+    <trd>&#x4EBA;&#x3051;&#x306E;&#x306A;&#x3044;  <pr>&#x3058;&#x3093;&#x3051;&#x306E;&#x306A;&#x3044;</pr></trd>,
+    <trd>&#x7121;&#x4EBA;&#x306E;  <pr>&#x3080;&#x3058;&#x3093;&#x306E;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dezert.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dezert.0igi.KOMUNE">
+    <dif>
+      &Scirc;an&gcirc;i en <tld/>an loko, <ref tip="super" cel="detru.0i">detrui</ref>, senvivigi,
+      malfekundigi:
+      <ekz>
+        ili venadis <klr>[&#x2026;]</klr> simile al akridoj <klr>[&#x2026;]</klr> en la landon, por
+        <tld/>igi &gcirc;in
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ju&gcirc;istoj 6:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel flamo brul<tld/>igas montojn
+        <fnt><bib>MT</bib> <lok>&Psa; 83:14</lok></fnt>;
+      </ekz>
+      <ekz>
+        lando <klr>[&#x2026;]</klr> <tld/>igita per fajro kaj glavo
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Dua Mondmilito <tld/>igis vastajn surfacojn de la terglobo kaj rekte a&ubreve;
+        malrekte ka&ubreve;zis mizeron al la tuta homaro
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="pl">
+      <trd>wyja&lstroke;awia&cacute;</trd>,
+      <trd>wyludnia&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_u;&c_s;&c_t;&c_o;&c_sh;&c_y;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_o;&c_p;&c_u;&c_s;&c_t;&c_o;&c_sh;&c_a;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>vyplenit</trd>,
+    <trd>zpusto&scaron;it</trd>
+  </trdgrp>
+  <trd lng="de">verw&uuml;sten</trd>
+  <trd lng="en">devastate</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;nuder</trd>
+    <trd>d&eacute;vaster</trd>
+  </trdgrp>
+  <trd lng="he">&lamed;&nun;&tet;&vav;&shin;</trd>
+  <trd lng="ja">&#x8352;&#x308C;&#x306F;&#x3066;&#x3055;&#x305B;&#x308B;  <pr>&#x3042;&#x308C;&#x306F;&#x3066;&#x3055;&#x305B;&#x308B;</pr></trd>
+  <trd lng="sk">pusto&scaron;i&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43F;&c_u;&c_s;&c_t;&#x43E;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_t;&c_v;&#x43E;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i; &c_v; &#x43F;&c_u;&c_s;&c_t;&c_je;&#x43B;&#x44E;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x60D8; <pr>w&#x1CE;ng</pr></trd>,
+    <trd>&#x6BC0;&#x6389; <pr>hu&#x1D0;di&#xE0;o</pr></trd>,
+    <trd>&#x6467; <pr>cu&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dezert.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="dezert.0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i <tld/>o, senhomi&gcirc;i, senvegeta&jcirc;i&gcirc;i, senvivi&gcirc;i:
+      <ekz>
+        la tero <tld/>i&gcirc;is pro tio, ke ne estis pluvo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 14:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniu bienulo povis tie lo&gcirc;i en paco kaj la bieno <tld/>i&gcirc;is
+        <fnt>
+          <aut>H. Laxness, trad. B. Ragnarsson</aut>
+          <vrk>Sendependaj homoj</vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la stepo <tld/>i&gcirc;as, la tajgo &scirc;rumpas norden
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#x2116; 2 (100)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_u;&c_s;&c_t;&c_o;&c_sh;&c_y;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_v;&c_ja;&c_r;&c_n;&c_u;&c_c;&c_c;&c_a; &c_w; &c_p;&c_u;&c_s;&c_t;&c_e;&c_l;&c_mol;&c_n;&c_ju;</trd>
+  </trdgrp>
+  <trd lng="de">ver&ouml;den</trd>
+  <trd lng="fr">se <ind>d&eacute;sertifier</ind></trd>
+  <trd lng="he">&lamed;&ayin;&zayin;&vav;&bet;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7802;&#x6F20;&#x5316;&#x3059;&#x308B;  <pr>&#x3055;&#x3070;&#x304F;&#x304B;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x8352;&#x5EC3;&#x3059;&#x308B;  <pr>&#x3053;&#x3046;&#x306F;&#x3044;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dezert.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="dezert.0ulo.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      <ref tip="dif" cel="ermit.0o.REL">Ermito</ref>:
+      <ekz>
+        steloj &ccirc;e vortoj de mi, <tld/>ulo, pli &gcirc;oje radias, pli hele lumadas
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kune kun tri aliaj mona&hcirc;oj, li retiri&gcirc;is kiel <tld/>ulo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=308340">Sankta Samsono</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      La signifo &leftquot;ermito&rightquot; ne &scirc;ajnas tute logika, &ccirc;ar unuflanke ermitoj lo&gcirc;as ne nur en
+      <tld/>aj lokoj kaj aliflanke en <tld/>o lo&gcirc;as anka&ubreve; aliaj homoj, ekz-e
+      nomadoj, kiujn oni same povus nomi <tld/>uloj.
+    </rim>
+  </snc>
+  <trd lng="be">&c_p;&c_u;&c_s;&c_t;&c_e;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trdgrp lng="cs">
+    <trd>poustevn&iacute;k</trd>,
+    <trd>samot&aacute;&rcaron;</trd>
+  </trdgrp>
+  <trd lng="de">Einsiedler</trd>
+  <trd lng="fr">ermite</trd>
+  <trd lng="he">&ayin;&resh;&yod;&qof;</trd>
+  <trd lng="hu">remete</trd>
+  <trd lng="ja">&#x96A0;&#x4FEE;&#x58EB;  <pr>&#x304B;&#x304F;&#x3057;&#x3085;&#x3046;&#x3057;</pr></trd>
+  <trd lng="pl">pustelnik</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_u;&c_s;&c_t;&c_y;&c_n;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_o;&c_t;&c_sh;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pustovn&iacute;k</trd>,
+    <trd>samot&aacute;r</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&c_u;&c_s;&c_t;&c_je;&#x43B;&#x44C;&#x43D;&c_i;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x9690;&#x5C45;&#x8005; <pr>y&#x1D0;nj&#x16B;zh&#x11B;</pr></trd>,
+    <trd>&#x9690;&#x58EB; <pr>y&#x1D0;nsh&#xEC;</pr></trd>,
+    <trd>&#x884C;&#x8005; <pr>x&#xED;ngzh&#x11B;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.105 2023/10/14 11:26:53
+revo: transskribo per <pr>
+
+versio 1.103 2023/08/29 15:27:47
+Wolfram Diestel: ja: prononco
+
+versio 1.102 2022/09/25 18:40:22
+Dmitri Gabinski: +trd be
+
+versio 1.101 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.99 2022/01/01 16:47:39
+Wolfram Diestel: +~a FIG; ekz-oj, ref-oj, trd de
+
+versio 1.98 2021/08/12 12:48:23
+Dmitri Gabinski: + trd be
+
+versio 1.22 2020/12/07 19:10:38
+Jeromo Vasxe: + ~igxi
+
+Revision 1.20  2015/06/29 16:29:36  revo
+-->
+</vortaro>

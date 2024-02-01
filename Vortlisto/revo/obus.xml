@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: obus.xml,v 1.23 2023/10/20 05:22:17 revo Exp $">
+<kap>
+   <rad>obus</rad>/o
+   <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="obus.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      Cilindroforma <ref tip="super" cel="paf.0ajxo">pafa&jcirc;o</ref> kun ogiva pinto, plenigita de 
+      <ref tip="prt" cel="eksplo.0ajxo">eksploda&jcirc;o</ref> kaj kiun oni elpafas per kanono
+      a&ubreve; ha&ubreve;bizo:
+      <ekz>
+        &scirc;irbruo de <tld/>a flugo
+        <fnt>
+          <bib>MkM</bib>
+          <lok>21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kanono B1 sur la orienta flanko de havena enirejo elpafis <tld/>on, kiu pasis
+        preter la vapor&scirc;ipo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Henry Broadbent</aut>
+          <vrk><url ref="&Monato;/2014/011364.php">La unua pafo okazis en A&ubreve;stralio</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        dikuleto deksepjara, en gimnazia uniformo <klr>[&#x2026;]</klr>, pene &scirc;ajniganta sin
+        dinamita <tld/>o
+        <fnt>
+          <bib>KFl</bib>
+          <lok>VIII. &Scirc;tupoj al idealo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="grenad.0o">grenado</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_n;&c_a;&c_r;&c_a;&c_d;</trd>
+  <trd lng="ca">ob&uacute;s</trd>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;lost&rcaron;eleck&yacute; gran&aacute;t</trd>,
+    <trd>d&ecaron;lov&aacute; koule</trd>,
+    <trd>d&ecaron;lov&aacute; st&rcaron;ela</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Artilleriegranate</trd>,
+    <trd>Sprenggeschoss</trd>
+  </trdgrp>
+  <trd lng="el">&omikron;&beta;&jota_ton;&delta;&alfa;</trd>
+  <trd lng="en">artillery shell</trd>
+  <trd lng="fa">&a_kh;&a_m;&f_p;&a_A;&a_r;&a_h;</trd>
+  <trd lng="fr">obus</trd>
+  <trdgrp lng="hu">
+     <trd>t&uuml;z&eacute;rs&eacute;gi l&ouml;ved&eacute;k</trd>,
+     <trd>gr&aacute;n&aacute;t</trd>
+   </trdgrp>
+  <trdgrp lng="it">
+     <trd>proiettile<klr> da obice</klr></trd>,
+     <trd>candelotto<klr> (da obice)</klr></trd>
+   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7832;&#x5F3E;  <pr>&#x307B;&#x3046;&#x3060;&#x3093;</pr></trd>,
+    <trd>&#x69B4;&#x5F3E;  <pr>&#x308A;&#x3085;&#x3046;&#x3060;&#x3093;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+     <trd>obus</trd>,
+     <trd>houwitsergranaat</trd>
+   </trdgrp>
+  <trd lng="pl">pocisk <klr>(artyleryjski)</klr></trd>
+  <trd lng="pt">obus</trd>
+  <trd lng="ru">&c_s;&c_n;&c_a;&c_r;&c_ja;&c_d;</trd>
+  <trd lng="sk">delostreleck&yacute; gran&aacute;t</trd>
+  <trd lng="uk">&c_s;&c_n;&c_a;&c_r;&c_ja;&c_d; (&c_a;&c_r;&c_t;&c_i;&c_l;&c_je;&c_r;&c_ib;&c_j;&c_s;&c_mol;&c_k;&c_i;&c_j;)</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/20 05:22:17
+revo: transskribo per <pr>
+
+versio 1.21 2023/04/11 17:15:20
+aktualigo Monato-URL
+
+versio 1.20 2022/12/08 06:31:45
+Wolfram Diestel: +ekz, precizigo, ref, trd de
+
+Revision 1.17  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/04/04 19:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2012/08/02 09:10:28  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2011/01/26 17:10:10  revo
+Russ Williams: .. -> .
+
+Revision 1.13  2010/06/20 16:30:31  revo
+-->
+</vortaro>

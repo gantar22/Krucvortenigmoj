@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: laf.xml,v 1.27 2024/01/15 16:14:08 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>laf</rad>/o
+</kap>
+<drv mrk="laf.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <uzo tip="fak">GEOL</uzo>
+  <uzo tip="fak">MIN</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="magm.0o.GEOL">Magmo</ref>,
+      kiu elfluas el <ref tip="malprt" cel="vulkan.0o">vulkanoj</ref>
+      kaj solidi&gcirc;as malvarmi&gcirc;ante:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        kuirita en infer' &#x2010; &gcirc;i estis brula kiel <tld/>o
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        historie <nom>Oyama</nom> erupcias &ccirc;. &ccirc;iun 20an jaron: elfluas
+        <tld/>o kaj post kelkaj
+        semajnoj &ccirc;io fini&gcirc;as
+        <fnt>
+          <aut>HORI Jasuo/pg</aut>
+            <vrk><url ref="&Monato;/2000/007195.html">Kiam verda insulo nigri&gcirc;as</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 16</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        fortaj eksplodoj ne okazas dum la erupcio de baza magmo, sed
+        esti&gcirc;as rapide
+        fluantaj <tld/>ofluoj
+        <fnt><aut>Evgeni Georgiev</aut>: 
+          <vrk><url ref="&Monato;/2001/007234.html">Vulkanoj</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/02, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Pompejo <klr>[&#x2026;]</klr> ne estis super&scirc;utita de &gcirc;ia <tld/>o
+        <klr>[&#x2026;]</klr> sed de
+        10 metroj da cindro kaj <tld/>o&scirc;tonetoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2012/010426.php">Poluri la bildon de Pompejo?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jam erupciis <nom>Ni&scirc;ino&scirc;ima</nom> en 1973, sed 40 jarojn poste
+        la <tld/>o grandigis kaj
+        altigis la insulon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2015/011447.php">Kiam tremetoj fari&gcirc;as tremegoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_a;&c_v;&c_a;
+    <klr>(&c_v;&c_u;&c_l;&c_k;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
+  <trdgrp lng="br">
+    <trd>lava</trd>,
+    <trd>maen-teuz</trd>
+  </trdgrp>
+  <trd lng="ca">lava</trd>
+  <trd lng="de">Lava</trd>
+  <trd lng="el">&lambda;&alfa_ton;&beta;&alfa;</trd>
+  <trd lng="en">lava</trd>
+  <trd lng="es">lava</trd>
+  <trd lng="fr">lave</trd>
+  <trd lng="hu">l&aacute;va</trd>
+  <trdgrp lng="id">
+    <trd>lahar</trd>,
+    <trd>lava</trd>
+  </trdgrp>
+  <trd lng="ja">&#x6EB6;&#x5CA9;  <pr>&#x3088;&#x3046;&#x304C;&#x3093;</pr></trd>
+  <trd lng="nl">lava</trd>
+  <trd lng="pl">lawa</trd>
+  <trd lng="pt">lava</trd>
+  <trd lng="ro">lav&abreve;</trd>
+  <trd lng="ru">&c_l;&c_a;&c_v;&c_a;</trd>
+  <trd lng="sv">lava</trd>
+  <trd lng="uk">&#x43B;&c_a;&c_v;&c_a;</trd>
+  <trd lng="zh">&#x7194;&#x5CA9; <pr>r&#xF3;ngy&#xE1;n</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.26 2023/10/19 05:15:34
+revo: transskribo per <pr>
+
+versio 1.24 2023/04/30 16:32:25
+Paul Peeraerts: Steloj -> monato
+
+versio 1.23 2023/04/19 11:24:11
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.22 2022/05/01 12:04:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.19  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
+Revision 1.18  2019/02/11 17:10:22  revo
+Wolfram Diestel: +ekz-oj, ref magmo, vulkano
+
+Revision 1.17  2014/06/10 05:10:16  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.16  2012/08/13 00:10:19  revo
+-->
+</vortaro>

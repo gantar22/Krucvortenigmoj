@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: akumul1.xml,v 1.27 2024/01/10 07:22:43 revo Exp $">
+<kap>
+  <rad>akumulator</rad>/o
+  <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="akumul1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">ELE</uzo>
+  <snc>
+    <dif>
+      Aparato por amasigi provizon da elektro kaj &gcirc;in redoni
+      la&ubreve;vole, ordinare konstruita el re&scirc;argeblaj piloj:
+      <ekz>
+        mia <tld/>o estis plena, sed mi ne kura&gcirc;is mal&scirc;pari la elektron
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dudeka &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        elektra lumo provizata per sunpanelo kaj
+        <tld/>o
+        <fnt><aut>Saliko</aut>: <vrk>&Gcirc;ojoj kaj &gcirc;uoj de finna
+        somero</vrk>, <bib>Monato</bib><lok>jaro 2000a, numero 12a, p.
+        12a</lok></fnt>;
+      </ekz>
+      <ekz>
+        litio-jona <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Tam&aacute;s Slez&aacute;k</aut>
+          <vrk><url ref="&Monato;/2008/009631.php"
+              >Pli ol a&ubreve;to: perspektivo kaj sinteno</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum iom da tempo la lumo ankora&ubreve; funkciis <klr>[&#8230;]</klr> nun &gcirc;i lante febli&gcirc;is
+        pli kaj pli, &ccirc;ar la <tld/>oj ver&scirc;ajne komencis elflui
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 46</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pil.0o">pilo</ref>,
+      <ref cel="bateri.0o.ELE">baterio</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_k;&c_u;&c_m;&c_u;&c_l;&c_ja;&c_t;&c_a;&c_r;</trd>
+  <trd lng="ca">acumulador <klr>(d'energia)</klr></trd>
+  <trd lng="cs">akumul&aacute;tor</trd>
+  <trdgrp lng="de">
+    <trd>Akku</trd>,
+    <trd>Akkumulator</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+  	<trd>accumulator</trd>,
+  	<trd>rechargeable battery</trd>
+  </trdgrp>
+  <trd lng="es">acumulador</trd><trd lng="es">acumulador</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_n;&a_b;&a_A;&a_r;&a_h;</trd>,
+    <trd>&a_b;&a_A;&a_t;&a_r;&f_y; &a_A;&a_n;&a_b;&a_A;&a_r;&a_sh;&f_y;</trd>,
+    <trd>&a_A_madda;&f_k;&a_w;&a_m;&a_w;&a_l;&a_A;&a_t;&a_w;&a_r;</trd>
+  </trdgrp>
+  <trd lng="fr">accumulateur</trd>
+  <trd lng="he">&mem;&tsadi;&bet;&resh;</trd>
+  <trd lng="hu">akkumul&aacute;tor</trd>
+  <trd lng="ja">&#33988;&#38651;&#27744;  <pr>&#12385;&#12367;&#12391;&#12435;&#12385;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>accu</trd>,
+    <trd>accumulator</trd>
+  </trdgrp>
+  <trd lng="pl">akumulator<klr> elektryczny</klr></trd>
+  <trd lng="pt">acumulador</trd>
+  <trd lng="ru">&c_a;&c_k;&c_k;&c_u;&c_m;&c_u;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">akumul&aacute;tor</trd>
+  <trd lng="uk">&c_a;&c_k;&c_u;&c_m;&c_u;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2024/01/10 07:22:43
+Wolfram Diestel: fnt JED, ekz-oj
+
+versio 1.26 2023/10/12 16:57:43
+revo: transskribo per <pr>
+
+Revision 1.21  2011/12/05 12:10:10  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.20  2009/08/18 19:18:53  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.19  2009/03/04 17:30:56  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2008/01/07 17:30:19  revo
+Russ Williams: +trd en
+
+Revision 1.17  2003/10/30 17:32:01  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2003/05/18 18:00:10  revo
+-->
+</vortaro>

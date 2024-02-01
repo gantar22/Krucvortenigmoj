@@ -1,0 +1,528 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: abon.xml,v 1.69 2023/10/27 12:51:04 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>abon</rad>/i
+</kap>
+
+<drv mrk="abon.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="abon.0i.ricevadi">
+    <dif>
+      Ricevadi, la&ubreve; kontrakto, gazeton a&ubreve; servon:
+      <ekz>
+        mi de du jaroj <tld/>as la revuon;
+      </ekz><ekz>
+        la revuo havas multajn <ind><tld/>anto</ind>jn;
+        <trd lng="bg">&c_a;&c_b;&c_o;&c_n;&c_a;&c_t;</trd>
+        <trd lng="ca">abonat</trd>
+        <trd lng="de">Abbonent</trd>
+        <trd lng="es">abonado</trd>
+        <trd lng="fr">abonn&eacute;</trd>
+        <trd lng="hu">el&odblac;fizet&odblac;</trd>
+        <trdgrp lng="ru">
+          <trd>&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_ch;&c_i;&c_k;</trd>,
+          <trd>&c_a;&c_b;&c_o;&c_n;&c_je;&c_n;&c_t;</trd>
+        </trdgrp>
+      </ekz><ekz>
+        plue <tld/>i la Gazeton de Anoncoj
+        <fnt><bib>Fab3</bib> <lok>Bona humoro</lok></fnt>;
+      </ekz><ekz>
+        Dum kelkaj jaroj mi abonis la &jcirc;urnalon <ctl>Ruslanda Esperantisto</ctl>
+        <fnt><bib>LOdE</bib> <lok>1999:3 (53)</lok></fnt>;
+      </ekz><ekz>
+        Petu senpagan ekzempleron, <klr>&#x2026;</klr> sendigu specimenan ekzempleron
+        al viaj ne-<tld/>antaj amikoj
+        <fnt><lok>Biblia Revuo, &#x2116;2, 1968.</lok></fnt>;
+      </ekz>
+    </dif>
+    <trd lng="be">&c_v;&c_y;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="bg">&c_a;&c_b;&c_o;&c_n;&c_i;&c_r;&c_a;&c_m; &c_s;&c_je;</trd>
+    <trd lng="ca"><ind>estar abonat</ind> (a)</trd>
+    <trdgrp lng="es">
+      <trd>estar abonado a</trd>,
+      <trd>estar suscrito a</trd>
+    </trdgrp>
+    <trd lng="br">beza&ntilde;<ind> koumanantet</ind> (da)</trd>
+    <trd lng="fr">&ecirc;tre <ind>abonn&eacute;</ind> (&agrave;)</trd>
+    <trd lng="hu">el&odblac;fizet</trd>
+    <trd lng="nl">ge<ind>abonneerd</ind> zijn op</trd>
+    <trdgrp lng="pl">
+      <trd>abonowa&cacute;</trd>,
+      <trd>prenumerowa&cacute;</trd>,
+      <trd>subskrybowa&cacute;</trd>
+    </trdgrp>
+    <trd lng="pt">assinar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_y;&c_p;&c_i;&c_s;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_a;&c_b;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="sk">odobera&tcaron;</trd>
+    <trd lng="sl">naro&ccaron;ati</trd>
+    <trdgrp lng="sv">
+      <trd>prenumerera</trd>,
+      <trd>abonnera <klr>(p&aring;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="th">
+      <trd>&#xE2A;&#xE21;&#xE31;&#xE04;&#xE23; (&#xE19;&#xE34;&#xE15;&#xE22;&#xE2A;&#xE32;&#xE23;,
+      &#xE1A;&#xE23;&#xE34;&#xE01;&#xE32;&#xE23;)</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="abon.0i.kontrakti">
+    <uzo tip="stl">ARK</uzo>
+    <fnt><bib>F</bib></fnt>
+    <dif>
+     <ref tip="dif" cel="abon.ek0i">Ek<tld/>i</ref>:
+      <ekz>
+        la revuo havas multajn <tld/>intojn;
+      </ekz><ekz>
+        La direktor-edzino estas <tld/>inta lo&gcirc;ion en la teatro
+        <fnt>
+	  <aut>A. &Ccirc;e&hcirc;ov, tr. M.Luka&scirc;</aut>: <vrk>Enujulo</vrk>,
+	  <lok>La Nica literatura revuo, 3:1</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Kvankam &ccirc;i tiu senco estas la sola, kiu aperas en
+      la Fundamento, &gcirc;i preska&ubreve; plene malaperis. &Gcirc;in tamen implicas la
+      deriva&jcirc;o <ref tip="ant" cel="abon.mal0i">mal<tld/>i</ref>.
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_d;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+      <trd>&c_a;&c_b;&c_a;&c_n;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="br">koumananti&ntilde; (da)</trd>
+    <trd lng="ca">abonar-se (a)</trd>
+    <trdgrp lng="fr">
+      <trd>s'<ind>abonner</ind> (&agrave;)</trd>,
+      <trd>souscrire un <ind>abonnement</ind> (&agrave;)</trd>.
+    </trdgrp>
+    <trd lng="hu">megrendel</trd>
+    <trdgrp lng="nl">
+      <trd>zich <ind>abonneren</ind> op</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>zaabonowa&cacute;</trd>,
+      <trd>zaprenumerowa&cacute;</trd>,
+      <trd>zasubskrybowa&cacute;</trd>
+    </trdgrp>
+    <trd lng="pt">assinar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd><ofc>*</ofc>&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_y;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_a;&c_b;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="sk">predplati&tcaron; (si)</trd>
+    <trd lng="sl">naro&ccaron;iti</trd>
+    <trd lng="sv">teckna ett <ind>abonnemang</ind>
+    <klr>(p&aring;)</klr></trd>
+    <trdgrp lng="zh">
+    <trd>&#x8A02;&#x95B1;&#x5831;&#x7D19; <pr>d&#xEC;ngyu&#xE8;b&#xE0;ozh&#x1D0;</pr></trd>,
+    <trd>&#x8BA2;&#x9605;&#x62A5;&#x7EB8; <pr>d&#xEC;ngyu&#xE8;b&#xE0;ozh&#x1D0;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="abon.0i.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Ani&gcirc;i al a&ubreve; membri en komputilreta
+      <ref tip="malprt" cel="forum.0o.komp">forumo</ref> a&ubreve;
+      dissendolisto:
+    </dif>
+    <ekz>
+      de anta&ubreve; pli ol unu jaro, mi abonas la servon "vorto de la
+      tago" de Lernu.net;
+    </ekz><ekz>
+        RSS estas te&hcirc;niko, kiu ebligas al la uzanto <tld/>i la enhavon
+        de iu retpa&gcirc;aro
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=16108">RSS</url></lok>
+        </fnt>.
+    </ekz>
+    <trdgrp lng="br">
+      <trd>lakaat e <ind>anv</ind> (e)</trd>,
+      <trd>en em <ind>enskriva&ntilde;</ind> (e)</trd>.
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>unir-se (a)</trd>,
+      <trd>registrar-se (en)</trd>
+    </trdgrp>
+    <trd lng="fr">s'<ind>inscrire</ind> (&agrave;)</trd>
+    <trd lng="hu">feliratkozik</trd>
+    <trdgrp lng="pl">
+      <trd>subskrybowa&cacute;</trd>
+    </trdgrp>
+    <trd lng="pt">inscrever-se</trd>
+    <trdgrp lng="es">
+      <trd>estar inscrito en</trd>,
+      <trd>suscribirse a</trd>.
+    </trdgrp>
+    <trd lng="nl">zich <ind>inschrijven</ind> op</trd>
+    <trd lng="ru">&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr> (&c_n;&c_a; &c_t;&c_je;&c_l;&c_je;&c_k;&c_o;&c_n;&c_f;&c_je;&c_r;&c_je;&c_n;&c_c;&c_i;&c_ju; &c_i; &c_t;.&c_p;.)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>abonovat</trd>,
+    <trd>b&yacute;t abonentem</trd>,
+    <trd>odeb&iacute;rat</trd>,
+    <trd>p&rcaron;edplatit <klr>(&ccaron;sp.)</klr></trd>
+  </trdgrp>
+  <trd lng="da">abonnere</trd>
+  <trd lng="de">abonnieren</trd>
+  <trd lng="en">subscribe</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A_madda;&a_b;&a_w;&a_n;&a_h; &a_sh;&a_d;&a_n;<klr>
+    (&a_b;&a_h;)</klr></trd>,
+    <trd>&a_m;&a_sh;&a_t;&a_r;&f_k; &a_sh;&a_d;&a_n;<klr>
+    (&a_b;&a_h;)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5D9;&#x5E8;&#x5E9;&#x5DD; &#x5DB;&#x5DE;&#x5E0;&#x5D5;&#x5D9;</trd>
+  <trd lng="it">abbonarsi <klr>(a)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E88;&#x7D04;&#x3059;&#x308B;  <pr>&#x3088;&#x3084;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x8CFC;&#x8AAD;&#x3059;&#x308B;  <pr>&#x3053;&#x3046;&#x3069;&#x304F;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>abonova&tcaron;</trd>,
+    <trd>plati&tcaron; predplatn&eacute;</trd>,
+    <trd>prihl&aacute;si&tcaron; sa</trd>
+  </trdgrp>
+  <trd lng="uk">&c_p;&c_je;&c_r;&c_je;&c_d;&c_p;&c_l;&c_a;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i; (&c_zh;&c_u;&c_r;&c_n;&c_a;&c_l; &c_ib; &c_t;.&c_p;.)</trd>
+</drv>
+
+<drv mrk="abon.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Tiucela kontrakto:
+      <ekz>
+        la prezo de la <tld/>o estas multekosta;
+      </ekz><ekz>
+        &ccirc;u vi jam renovigis vian <tld/>on por 2001?
+        <fnt><bib>Monato</bib></fnt>;
+      </ekz><ekz>
+        premii per <tld/>o
+        <fnt>
+          <aut>Gbeglo Koffi</aut>
+          <vrk><url ref="&Monato;/2000/007009.php">Donace
+          subteni ...</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 2</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">subscription</trd>
+  </snc>
+  <snc>
+    <dif>
+      Da&ubreve;ro de tiu kontrakto:
+      <ekz>
+        via <tld/>o fini&gcirc;as en majo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_p;&c_ib;&c_s;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_a;&c_b;&c_o;&c_n;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
+  <trd lng="br">koumanant</trd>
+  <trd lng="ca">abonament</trd>
+  <trdgrp lng="cs">
+    <trd>abonm&aacute; <klr>(uzav&rcaron;en&iacute; smlouvy)</klr></trd>,
+    <trd>abonnement</trd>
+  </trdgrp>
+  <trd lng="da">abonnement</trd>
+  <trd lng="de">Abonnement</trd>
+  <trd lng="en">subscription</trd>
+  <trd lng="es">suscripci&oacute;n</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A_madda;&a_b;&a_w;&a_n;&a_m;&a_A;&a_n;</trd>,
+    <trd>&a_A;&a_sh;&a_t;&a_r;&a_A;&f_k;</trd>
+  </trdgrp>
+  <trd lng="fr">abonnement</trd>
+  <trd lng="he">&#x5DE;&#x5B4;&#x5E0;&#x5D5;&#x5BC;&#x5D9;</trd>
+  <trd lng="hu">el&odblac;fizet&eacute;s</trd>
+  <trd lng="it">abbonamento</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E88;&#x7D04;  <pr>&#x3088;&#x3084;&#x304F;</pr></trd>,
+    <trd>&#x8CFC;&#x8AAD;  <pr>&#x3053;&#x3046;&#x3069;&#x304F;</pr></trd>,
+    <trd>&#x5B9A;&#x671F;&#x5238;&#x8CFC;&#x5165;  <pr>&#x3066;&#x3044;&#x304D;&#x3051;&#x3093;&#x3053;&#x3046;&#x306B;&#x3085;&#x3046;</pr></trd>,
+    <trd>&#x5B9A;&#x671F;&#x5229;&#x7528;&#x5951;&#x7D04;  <pr>&#x3066;&#x3044;&#x304D;&#x308A;&#x3088;&#x3046;&#x3051;&#x3044;&#x3084;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">abonnement</trd>
+  <trdgrp lng="pl">
+    <trd>abonament</trd>,
+    <trd>prenumerata</trd>,
+    <trd>subskrybcja</trd>
+  </trdgrp>
+  <trd lng="pt">assinatura</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_k;&c_a;</trd>,
+    <trd>&c_a;&c_b;&c_o;&c_n;&c_je;&c_m;&c_je;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">uzavretie zmluvy</trd>
+  <trdgrp lng="sv">
+    <trd>abonnemang</trd>,
+    <trd>prenumeration</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_p;&c_l;&c_a;&c_t;&c_a;</trd>,
+    <trd>&c_a;&c_b;&c_o;&c_n;&c_je;&c_m;&c_je;&c_n;&c_t; <klr>(&c_p;&c_r;&c_a;&c_v;&c_o;
+    &c_k;&c_o;&c_r;&c_i;&c_s;&c_t;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;)</klr></trd>,
+    <trd>&c_p;&c_ib;&c_d;&c_p;&c_i;&c_s;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="abon.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Igi iun <ref tip="dif" cel="abon.0i.ricevadi"><tld/>i
+      <sncref ref="abon.0i.ricevadi"/></ref>:
+      <ekz>
+        <tld/>igu al mi lo&gcirc;ion en la Operejo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_p;&c_ib;&c_s;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">koumananti&ntilde; (unan bennak)</trd>
+  <trd lng="ca">abonar</trd>
+  <trd lng="cs">nechat objednat</trd>
+  <trd lng="de">jemanden etwas <ind>abonnieren lassen</ind></trd>
+  <trd lng="es">abonar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A_madda;&a_b;&a_w;&a_n;&a_h; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_m;&a_sh;&a_t;&a_r;&f_k; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">abonner</trd>
+  <trd lng="he">&#x5DC;&#x5E8;&#x5E9;&#x5D5;&#x5DD; &#x5DB;&#x5DE;&#x5E0;&#x5D5;&#x5D9;</trd>
+  <trd lng="hu">kib&eacute;rel</trd>
+  <trd lng="nl">abonneren</trd>
+  <trdgrp lng="pl">
+    <trd>abonowa&cacute;<klr> (co&sacute; dla kogo&sacute;)</klr></trd>,
+    <trd>prenumerowa&cacute;<klr> (co&sacute; dla kogo&sacute;)</klr></trd>,
+    <trd>subskrybowa&cacute;<klr> (co&sacute; dla kogo&sacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;
+  <klr tip="amb">
+  (&c_k;&c_o;&c_g;&c_o;-&c_l;. &c_n;&c_a; &c_ch;&c_t;&c_o;-&c_l;.)</klr>
+  </trd>
+  <trd lng="sk">necha&tcaron; predplati&tcaron;</trd>
+</drv>
+
+<drv mrk="abon.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="formul.0aro.POL">Formularo</ref> por
+      aboni <klr>(plenigita a&ubreve; neplenigita)</klr>:
+      <ekz>
+        la <tld/>ilo trovi&gcirc;as en suba parto de &ccirc;iu pa&gcirc;o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=7372">TEJO-aktuale</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_b;&c_a;&c_n;&c_e;&c_m;&c_e;&c_n;&c_t;</trd>,
+      <trd>&c_b;&c_l;&c_a;&c_n;&c_k;
+      <ind>&c_a;&c_b;&c_a;&c_n;&c_e;&c_m;&c_e;&c_n;&c_t;&c_u;</ind>
+      </trd>
+    </trdgrp>
+    <trd lng="br">follenn goumanti&ntilde;</trd>
+    <trd lng="ca">formulari d'abonament</trd>
+    <trd lng="da">bestillingsformular</trd>
+    <trdgrp lng="de">
+      <trd>Bestellformular</trd>,
+      <trd>Bestellzettel</trd>
+    </trdgrp>
+    <trd lng="en">subscription form</trd>
+    <trdgrp lng="fa">
+      <trd>&a_b;&a_r;&f_g;&a_h;&a_hamza_sure;
+      <ind>&a_A_madda;&a_b;&a_w;&a_n;&a_m;&a_A;&a_n;</ind></trd>,
+      <trd>&a_b;&a_r;&f_g;&a_h;&a_hamza_sure;
+      <ind>&a_A;&a_sh;&a_t;&a_r;&a_A;&f_k;</ind></trd>
+    </trdgrp>
+    <trd lng="fr">bulletin d'<ind>abonnement</ind></trd>
+    <trd lng="hu">megrendel&odblac;lap</trd>
+    <trd lng="nl">inschrijvingsformulier<klr tip="ind"> (voor
+    abonnementen)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>formularz <ind>prenumeraty</ind></trd>,
+      <trd>formularz <ind>subskrybcji</ind></trd>,
+      <trd>zam&oacute;wienie</trd>
+    </trdgrp>
+    <trd lng="pt">formul&aacute;rio de assinatura</trd>
+    <trdgrp lng="es">
+      <trd>formulario de inscripci&oacute;n</trd>,
+      <trd>hoja de suscripci&oacute;n</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_a;&c_b;&c_o;&c_n;&c_je;&c_m;&c_je;&c_n;&c_t;</trd>,
+      <trd>&c_b;&c_l;&c_a;&c_n;&c_k;
+      <ind>&c_a;&c_b;&c_o;&c_n;&c_je;&c_m;&c_je;&c_n;&c_t;&c_a;</ind>
+      </trd>,
+      <trd>&c_b;&c_l;&c_a;&c_n;&c_k;
+      <ind>&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_k;&c_i;</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>abonentka</trd>,
+    <trd>p&rcaron;edplatn&iacute; l&iacute;stek</trd>
+  </trdgrp>
+  <trd lng="he">&#x5D8;&#x5D5;&#x5E4;&#x5E1; &#x5D4;&#x5E8;&#x5E9;&#x5DE;&#x5D4;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E88;&#x7D04;&#x7533;&#x8FBC;&#x66F8;  <pr>&#x3088;&#x3084;&#x304F;&#x3082;&#x3046;&#x3057;&#x3053;&#x307F;&#x3057;&#x3087;</pr></trd>,
+    <trd>&#x8CFC;&#x8AAD;&#x7533;&#x8FBC;&#x66F8;  <pr>&#x3053;&#x3046;&#x3069;&#x304F;&#x3082;&#x3046;&#x3057;&#x3053;&#x307F;&#x3057;&#x3087;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>abonentka</trd>,
+    <trd>predplatn&yacute; l&iacute;stok</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="abon.ek0i">
+  <kap>ek<tld/>i</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Kontrakti por ricevi, dum difinita tempo, gazeton
+      a&ubreve; servon.
+    </dif>
+    <ref tip="sin" cel="abon.0i.kontrakti"><tld/>i <sncref ref="abon.0i.kontrakti"/>.</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_d;&c_p;&c_ib;&c_s;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_f;&c_o;&c_r;&c_m;&c_ib;&c_c;&c_mol; <ind>&c_p;&c_a;&c_d;&c_p;&c_ib;&c_s;&c_k;&c_u;</ind></trd>
+  </trdgrp>
+  <trd lng="br">koumananti&ntilde;</trd>
+  <trd lng="ca"><ind>abonar-se</ind> a <klr>(prendre un
+  abonament)</klr></trd>
+  <trd lng="cs">smluvit p&rcaron;edplatn&eacute;</trd>
+  <trd lng="de">abonnieren</trd>
+  <trd lng="es">inscribirse en</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A_madda;&a_b;&a_w;&a_n;&a_h; &a_sh;&a_d;&a_n;<klr>
+    (&a_b;&a_h;)</klr></trd>,
+    <trd>&a_m;&a_sh;&a_t;&a_r;&f_k; &a_sh;&a_d;&a_n;<klr>
+    (&a_b;&a_h;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s'<ind>abonner</ind> (&agrave;)</trd>,
+    <trd>souscrire un <ind>abonnement</ind> (&agrave;)</trd>.
+  </trdgrp>
+  <trd lng="hu">megrendel</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CFC;&#x8AAD;&#x3092;&#x59CB;&#x3081;&#x308B;  <pr>&#x3053;&#x3046;&#x3069;&#x304F;&#x3092;&#x306F;&#x3058;&#x3081;&#x308B;</pr></trd>,
+    <trd>&#x8CFC;&#x8AAD;&#x5951;&#x7D04;&#x3059;&#x308B;  <pr>&#x3053;&#x3046;&#x3069;&#x304F;&#x3051;&#x3044;&#x3084;&#x304F;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">een <ind>abonnement</ind> nemen</trd>
+  <trdgrp lng="pl">
+    <trd>zaabonowa&cacute;</trd>,
+    <trd>zaprenumerowa&cacute;</trd>,
+    <trd>zasubskrybowa&cacute;</trd>,
+    <trd>zapisa&cacute; si&eogonek;<klr> (na co&sacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;&c_s;&c_ja;
+    </trd>
+  </trdgrp>
+  <trd lng="sk">predplati&tcaron; si</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_r;&c_o;&c_b;&c_i;&c_t;&c_i; &c_p;&c_je;&c_r;&c_je;&c_d;&c_p;&c_l;&c_a;&c_t;&c_u;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_t;&c_i; &c_a;&c_b;&c_o;&c_n;&c_je;&c_n;&c_t;&c_o;&c_m;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="abon.mal0i">
+  <kap>mal<tld/>i</kap>
+  <snc>
+  <uzo tip="fak">KOMP</uzo>
+    <dif>
+      &Ccirc;esigi sian <tld/>on:
+      <ekz>
+        por mal<tld/>i la liston sufi&ccirc;as sendi ajnan mesa&gcirc;on
+        <klr>...</klr>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4594">Yahoogroups</url></lok>
+        </fnt>
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_k;&c_a;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;
+      <ind>&c_p;&c_a;&c_d;&c_p;&c_ib;&c_s;&c_k;&c_u;</ind></trd>,
+      <trd>&c_a;&c_d;&c_m;&c_o;&c_v;&c_ib;&c_c;&c_c;&c_a; &c_a;&c_d;
+      <ind>&c_a;&c_b;&c_a;&c_n;&c_e;&c_m;&c_e;&c_n;&c_t;&c_a;</ind></trd>,
+      <trd>&c_a;&c_d;&c_p;&c_ib;&c_s;&c_a;&c_c;&c_c;&c_a;</trd>
+    </trdgrp>
+    <trd lng="br">digoumanti&ntilde;</trd>
+    <trd lng="ca"><ind>donar-se de baixa</ind> (de)</trd>
+    <trdgrp lng="da">
+      <trd>afmelde</trd>,
+      <trd>afbestille</trd>
+    </trdgrp>
+    <trd lng="de">abbestellen</trd>
+    <trd lng="en">unsubscribe</trd>
+    <trdgrp lng="es">
+      <trd>desabonarse de</trd>,
+      <trd>desuscribirse de</trd>
+    </trdgrp>
+    <trd lng="fa">&a_q;&a_T;&a_ayn;
+    <ind>&a_A;&a_sh;&a_t;&a_r;&a_A;&f_k;</ind>
+    &f_k;&a_r;&a_d;&a_n;</trd>
+    <trd lng="fr">se <ind>d&eacute;sabonner</ind></trd>
+    <trd lng="hu">lemond <klr>(megrendel&eacute;st)</klr></trd>
+    <trd lng="nl">opzeggen<klr tip="ind"> (abonnement)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>odwo&lstroke;a&cacute; <ind>abonament</ind></trd>,
+      <trd>odwo&lstroke;a&cacute; <ind>prenumerat&eogonek;</ind></trd>,
+      <trd>odwo&lstroke;a&cacute; <ind>subskrybcj&eogonek;</ind></trd>,
+      <trd>wypisa&cacute; si&eogonek;<klr> (z czego&sacute;)</klr></trd>
+    </trdgrp>
+    <trd lng="pt">cancelar a <ind>assinatura</ind></trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_t;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;&c_s;&c_ja; &c_o;&c_t;
+      <ind>&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_k;&c_i;</ind></trd>,
+      <trd>&c_a;&c_n;&c_n;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol; <ind>&c_p;&c_o;&c_d;&c_p;&c_i;&c_s;&c_k;&c_u;</ind></trd>,
+      <trd>&c_o;&c_t;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr> (&c_v; &c_I;&c_n;&c_t;&c_je;&c_r;&c_n;&c_je;&c_t;&c_je;)</klr></trd>
+    </trdgrp>
+    <trd lng="sk">odhl&aacute;si&tcaron;</trd>
+  </snc>
+<trdgrp lng="ja">
+    <trd>&#x53D6;&#x6D88;&#x3059;  <pr>&#x3068;&#x308A;&#x3051;&#x3059;</pr></trd>,
+    <trd>&#x89E3;&#x7D04;&#x3059;&#x308B;  <pr>&#x304B;&#x3044;&#x3084;&#x304F;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="th">&#xE22;&#xE01;&#xE40;&#xE25;&#xE34;&#xE01;&#xE2A;&#xE21;&#xE31;&#xE04;&#xE23;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.68 2023/10/12 16:57:42
+revo: transskribo per <pr>
+
+versio 1.66 2023/05/12 18:30:20
+Paul Peeraerts: kor de url
+
+versio 1.65 2023/04/05 03:26:52
+Sergio Pokrovskij: ricevADi
+
+versio 1.64 2023/03/29 11:24:51
+Paul Peeraerts: &Monato;
+
+versio 1.63 2023/03/18 17:26:47
+Paul Peeraerts: nura -> sola
+
+versio 1.61 2022/03/11 12:48:07
+Wolfram Diestel: trd
+
+versio 1.58 2020/06/24 09:10:48
+Wolfram Diestel: kor. ref-cel
+
+versio 1.57 2020/06/24 07:10:38
+-->
+
+</vortaro>

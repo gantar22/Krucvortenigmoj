@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konvikt.xml,v 1.9 2023/12/03 09:58:57 revo Exp $">
+<kap>
+  <rad>konvikt</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="konvikt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konvikt.0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="super" cel="pruv.0i.KOMUNE_iu">Pruvi</ref> kulpa per 
+      demonstroj, atestoj...:
+      <ekz>
+        li <tld/>is <nom>Wang</nom> pri &scirc;telado de publika mono
+        <fnt>
+          <aut>T. B. Talovich, trad. Miaohui</aut>,
+          <vrk><url ref="http://www.lulu.com/items/volume_63/4005000/4005688/1/print/vivo-lulu.pdf">
+          Amo al la Vivoj</url></vrk>,
+          <lok>[2008?]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        diru al inspektoro Patersono ke la dokumentoj, kiujn li bezonos 
+        por <tld/>i la bandon, estas en faketo <ctl>M</ctl>
+        <fnt>
+          <aut>A. Conan Doyle, trad D. Booton</aut>,
+          <vrk><url ref="http://members.cox.net/esperanto/finaprob/fina.htm">
+          La Fina Problemo</url></vrk>,
+          <lok>[vidita en 2011]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia edzino, forgesinte por tiuj momentoj &ccirc;iujn abomenajn adulta&jcirc;ojn pri kiuj la
+        malfeli&ccirc;ulo Arkadio <nom>Apolonovi&ccirc;</nom> estis <tld/>ita, el&scirc;ovis timigitan viza&gcirc;on tra
+        la pordo
+        <fnt>
+          <bib>MkM</bib>
+          <lok>27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akuz.0i">akuzi</ref>,
+      <ref cel="atest.0i.JUR">atesti<sncref/></ref>,
+      <ref cel="kondam.0i.JUR">kondamni</ref>,
+      <ref cel="kulp.0igi">kulpigi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">usv&ecaron;d&ccaron;ovat z</trd>
+  <trd lng="de">eines Verbrechens <ind>&uuml;berf&uuml;hren</ind></trd>
+  <trd lng="en">convict</trd>
+  <trdgrp lng="es">
+    <trd>condenar<klr tip="amb"> (en un juicio)</klr></trd>,
+    <trd>hacer convicto<klr tip="amb"> (a alguien)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">convaincre<klr> (jur.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>przekona&cacute;</trd>,
+    <trd>udowodni&cacute; <klr>(prawo)</klr></trd>
+  </trdgrp>  
+  <trd lng="ro">convinge</trd> 
+  <trd lng="sk">usved&ccaron;ova&tcaron; <klr>(z)</klr></trd>
+  <trd lng="zh">&#x5224;&#x7F6A; <pr>p&#xE0;nzu&#xEC;</pr></trd>
+</drv>
+
+<drv mrk="konvikt.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="konvikt.0ajxo.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      A&jcirc;o konsistiganta pruvon de kulpeco,
+      uzebla por <tld/>i:
+      <ekz>
+        li uzis sulfurajn alumetojn, sed ne la svedajn,
+        la alumeto eble estos <tld/>a&jcirc;o
+        <fnt>
+          <aut>A. &Ccirc;e&hcirc;ov, trad. A. Kor&jcirc;enkov</aut>,
+          <vrk><url ref="&LOdE;Libroj/V_bibl02.pdf">
+          Sveda alumeto</url></vrk>,
+          <lok>2004-2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="indik.0ajxo.JUR">indika&jcirc;o</ref>
+  </snc>
+  <trd lng="de">Beweisst&uuml;ck</trd>
+  <trd lng="fr">pi&egrave;ce &agrave; conviction</trd>
+  <trd lng="pl">dow&oacute;d winy</trd>     
+  <trd lng="ro">dovada vinov&abreve;&#x21B;iei</trd>
+  <trd lng="zh">&#x7269;&#x8B49; <pr>w&#xF9;zh&#xE8;ng</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2023/05/04 16:53:14
+revo: aktualigo URL-unuoj
+
+versio 1.7 2022/05/03 06:35:36
+Wolfram Diestel: +ekz, ref-oj, trd de
+
+Revision 1.5  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2014/11/03 21:10:26  revo
+Jeromo Vasxe: + ~ajxo
+
+Revision 1.2  2011/07/13 19:11:38  revo
+Agustin Garcia Lopez: +trd (es)
+
+Revision 1.1  2011/06/28 14:10:09  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

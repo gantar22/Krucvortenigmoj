@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: idioti.xml,v 1.25 2023/10/17 16:45:19 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>idiotism</rad>/o
+  <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="idioti.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="idioti.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Vorta&jcirc;o kun senco ne facile komprenebla el &gcirc;iaj partoj, ofte
+      propra al iu lingvo:
+      <ekz>
+        anka&ubreve; en Esperanto trovi&gcirc;as diversaj (ne multaj) <tld/>oj
+        <fnt>
+          <bib>LR</bib>
+          <lok>Tria Parto &ndash; Jurisprudenco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        naciajn <tld/>ojn, kiuj ne prezentas necesa&jcirc;on, ni devas kompreneble eviti
+        <fnt>
+          <bib>LR</bib>
+          <lok>Tria Parto &ndash; Jurisprudenco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lingvo absolute logika kaj tute sen <tld/>oj estus lingvo
+        senviva kaj tro peza
+        <fnt>
+          <bib>LR</bib>
+          <lok>Tria Parto &ndash; Jurisprudenco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+      mi esperas, ke iom post iom &ccirc;iuj <tld/>oj malaperos kaj cedos sian
+      lokon al esprimoj tute logikaj kaj internaciaj
+        <fnt>
+          <bib>LR</bib>
+          <lok>Unua Parto &ndash; Leksikologio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+      en okazo, se ni por ia <tld/>o ne trovos pli bonan esprimon
+      pure logikan, tio &ccirc;i ne devas nin &ccirc;agreni, kaj la <tld/>o povas
+      tute oportune resti kiel <ref cel="espera.0ismo.LIN">esperantismo</ref>,
+      se &gcirc;i nur estos komune akceptata
+      <fnt>
+          <bib>LR</bib>
+          <lok>Unua Parto &ndash; Leksikologio</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_d;&c_y;&c_jo;&c_m;&c_a;</trd>,
+    <trd>&c_ib;&c_d;&c_y;&c_ja;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y; &c_v;&c_y;&c_r;&c_a;&c_z;</trd>,
+    <trd>&c_f;&c_r;&c_a;&c_z;&c_e;&c_ja;&c_l;&c_ja;&c_g;&c_ib;&c_z;&c_m;</trd>
+  </trdgrp>
+  <trd lng="cs">idiotizmus</trd>
+  <trdgrp lng="de">
+    <trd>Idiotismus <klr>(Ausdruck)</klr></trd>,
+    <trd>idiomatischer Ausdruck</trd>,
+    <trd>Spracheigenheit</trd>,
+    <trd>Redewendung</trd>
+  </trdgrp>
+  <trd lng="en">idiomatic expression</trd>
+  <trdgrp lng="fr">
+    <trd>idiotisme</trd>,
+    <trd>expression idiomatique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>nyelvi fordulat</trd>,
+    <trd>idiomatikus kifejez&eacute;s</trd>,
+    <trd>saj&aacute;tos nyelvi <ind>kifejez&eacute;sm&oacute;d</ind></trd>
+  </trdgrp>
+  <trd lng="ja">&#24931;&#29992;&#35486;&#27861;  <pr>&#12363;&#12435;&#12424;&#12358;&#12372;&#12411;&#12358;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>idiotisme</trd>,
+    <trd>zegswijze</trd>
+  </trdgrp>
+  <trd lng="pl">idiom</trd>
+  <trd lng="pt">idiotismo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_d;&c_i;&c_o;&c_m;&c_a;</trd>,
+    <trd>&c_i;&c_d;&c_i;&c_o;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; &c_v;&c_y;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_f;&c_r;&c_a;&c_z;&c_je;&c_o;&c_l;&c_o;&c_g;&c_i;&c_z;&c_m;</trd>
+  </trdgrp>
+  <trd lng="sk">idiotizmus</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&c_d;&c_ib;&c_o;&c_m;&c_a;</trd>,
+    <trd>&c_ib;&c_d;&c_ib;&c_o;&c_m;</trd>,
+    <trd>&c_ib;&c_d;&c_ib;&c_o;&c_m;&c_a;&c_t;&c_i;&c_z;&c_m;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/10/17 16:45:19
+revo: transskribo per <pr>
+
+versio 1.24 2023/10/03 14:25:39
+Wolfram Diestel: +fnt-oj (JED, LR)
+
+versio 1.22 2023/06/01 23:26:51
+Vito Redsky: +trd pl
+
+Revision 1.19  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/05/12 07:10:23  revo
+Damien Brucker: +ekz (dauxrigo)
+
+Revision 1.17  2014/03/21 14:10:22  revo
+Damien Brucker: +ekz (dauxrigo)
+
+Revision 1.16  2014/02/24 19:10:12  revo
+Damien Brucker: +ref
+
+Revision 1.15  2014/02/22 20:10:11  revo
+-->
+</vortaro>

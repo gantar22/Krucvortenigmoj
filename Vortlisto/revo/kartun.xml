@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kartun.xml,v 1.7 2023/11/23 21:21:39 revo Exp $">
+<kap>
+  <rad>kartun</rad>/o
+  <fnt><bib>Viki</bib></fnt>
+</kap>
+<drv mrk="kartun.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kartun.0o.desegno">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Humura <ref tip="super" cel="desegn.0ajxo">desegna&jcirc;o</ref>,
+      unubilda <ref tip="super" cel="rakont.bild0o">bildrakonto</ref>;
+      &scirc;ercbildo:
+      <ekz>
+        la 64-pa&gcirc;a dumonata revuo proponas ekde &ccirc;i tiu jaro novajn rubrikojn, kun
+        specifa atento pri <klr>[&#8230;]</klr> novaj &gcirc;enroj, kiel komikso, <tld/>o,
+        porinfana literaturo
+        <fnt>
+          <vrk><url ref="https://www.esperantio.net/index.php?id=4239"
+              >&leftquot;Literatura Foiro&rightquot; 310: pli kaj pli bunta mozaiko</url></vrk>
+          <lok>HeKo 756 8-B, 10 mar 21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj aperis amplekse en &jcirc;urnaloj kaj gazetoj el la 19a jarcento
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=519"
+              >Bildliteraturo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="stri.bild0o">bildstrio</ref>,
+      <ref cel="karika.0o">karikaturo</ref>,
+      <ref cel="komiks.0o">komikso</ref>,
+      <ref cel="meme.0o">memeo</ref>
+    </refgrp>
+    <rim>
+      Ne konfuzu kun <ref cel="bild.mov0o">movbildo</ref> (<ref cel="animaci.0o">animacio</ref>).
+      Bildrakonton el pluraj bildoj oni nomas <ref cel="komiks.0o">komikso</ref>.
+    </rim>
+    <trdgrp lng="de">
+      <trd>Witzzeichnung</trd>,
+      <trd>Cartoon</trd>
+    </trdgrp>
+    <trd lng="en">cartoon</trd>
+    <trd lng="es">dibujo humor&iacute;stico</trd>
+    <trd lng="fr">dessin humoristique</trd>
+    <trd lng="it">vignetta umoristica</trd>
+    <trd lng="ru">&c_i;&c_s;&c_t;&c_o;&c_r;&c_i;&c_i; &c_v; &c_k;&c_a;&c_r;&c_t;&c_i;&c_n;&c_k;&c_a;&c_h;</trd>
+  </snc>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.7 2023/11/23 21:21:39
+Wolfram Diestel: +trd de
+
+versio 1.6 2023/11/23 18:28:48
+Wolfram Diestel: &gcirc;ustigis dif+tradukoj la&ubreve; div. Vikipedio eo,en,de; +ekz-oj, rim
+
+Revision 1.4  2013/12/02 15:10:22  revo
+Damien Brucker: +trd fr
+
+Revision 1.3  2009/09/16 16:30:38  revo
+Paul Peeraerts: +nl
+
+Revision 1.2  2008/09/16 16:30:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2008/09/11 16:30:49  revo
+Antonio Codazzi: nova artikolo
+-->
+</vortaro>

@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ideal.xml,v 1.45 2023/11/19 10:22:02 revo Exp $">
+<!-- la varia&jcirc;o idealism/o estas intence malsupre &ccirc;i, por aldoni la
+oficialan
+     radikon idealism/ la&ubreve; 3a OA, kaj samtempe montri ke ni konsideras
+     &gcirc;in
+     hodaia&ubreve; deriva&jcirc;o de ideal/. Bv. ne forigi a&ubreve; &scirc;an&gcirc;i! -->
+<kap>
+  <ofc>1</ofc>
+  <rad>ideal</rad>/o,
+  <var><kap>
+     <ofc>3</ofc>
+     <rad>idealism</rad>/o
+  </kap></var>
+</kap>
+
+<drv mrk="ideal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ideal.0o.perfekteco">
+    <dif>
+      La plej alta perfekteco, kiun oni povas imagi sed neniam plene
+      atingi:
+      <ekz>
+        regis bruta gajeco, dum li kantis pri sia <tld/>o
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Malnova pre&gcirc;eja sonorilo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amikeco de la viroj, amo de la virinoj estas &scirc;erco de la naturo, montranta al la
+        homoj <tld/>ojn
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ne estis senkorpa an&gcirc;elo, &scirc;i ne estis supertera <tld/>o, kiun ne tu&scirc;as kaj ne
+        renver&scirc;as la blovoj de la teraj ventegoj, &ccirc;ar tia <tld/>o ne ekzistas sur la
+        tero
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        altrudante al ili per rajto de pugno siajn pure familiajn <tld/>ojn
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia <tld/>o estas lingvo ne&ubreve;trale-homa
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu esperantisto havas la rajton havi private ideojn kaj <tld/>ojn, kiajn li
+        volas
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Nefermita letero al s-ro de Beaufront.</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multaj el vi portas en sia koro la samajn <tld/>ojn, kiel mi
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sam<tld/>anoj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en Washington en la 15a de a&ubreve;gusto
+          1910</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Ideal</trd>
+    <trd lng="en">ideal</trd>
+    <trd lng="es">ideal<klr tip="ind"> (subst.)</klr></trd>
+    <trd lng="fr">id&eacute;al<klr tip="ind"> (subst.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>eszm&eacute;ny</trd>,
+      <trd>ideal&aacute;l</trd>
+    </trdgrp>
+    <trd lng="pt">ideal<klr tip="ind"> (subst.)</klr></trd>
+    <trd lng="sv">ideal</trd>
+  </snc>
+  <snc mrk="ideal.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>EKV</bib><lok>&para;165</lok></fnt>
+    <dif>
+      <klr>(de <ref cel="ring.0o.MAT">ringo</ref>
+      <frm am="bb R"><g>R</g></frm>)</klr>
+      Tia adicia <ref tip="super" cel="grup.sub0o.MAT">subgrupo</ref>
+      <frm am="bb I"><g>I</g></frm> de <frm am="bb R"><g>R</g></frm>, ke
+      al &gcirc;i apartenas 
+      &ccirc;iuj produtoj 
+      <frm am="a xx b"><k>a</k>&#xD7;<k>b</k></frm> (maldekstra <tld/>o), 
+      <frm am="b xx a"><k>b</k>&#xD7;<k>a</k></frm> (dekstra <tld/>o),
+      a&ubreve; <frm am="a xx b"><k>a</k>&#xD7;<k>b</k></frm> kaj 
+      <frm am="b xx a"><k>b</k>&#xD7;<k>a</k></frm> (amba&ubreve;flanka <tld/>o) por
+      ajna
+      elemento <frm am="a"><k>a</k></frm> en <frm am="bb       I"><g>I</g></frm> 
+      kaj <frm am="b"><k>b</k></frm> en <frm am="bb R"><g>R</g></frm>:
+      <ekz>
+        en la ringo de entjeroj la obloj de <frm am="p"><k>p</k></frm>
+        konsistigas amba&ubreve;flankan <tld/>on.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="ring.sub0o">subringo;</ref>
+    <refgrp tip="vid">
+      Ecoj de idealo:
+      <ref cel="cxef.0a.idealo">&ccirc;efa</ref>,
+      <ref cel="maksim1.0a.idealo">maksimuma</ref>,
+      <ref cel="prim.0a.idealo">prima</ref>.
+    </refgrp>
+    <trd lng="de">Ideal</trd>
+    <trd lng="en">ideal</trd>
+    <trd lng="es">ideal<klr tip="ind"> (subst., mat.)</klr></trd>
+    <trd lng="fr">id&eacute;al<klr tip="ind"> (subst., math.)</klr></trd>
+    <trd lng="hu">ide&aacute;l</trd>
+    <trd lng="pl">idea&lstroke;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x7406;&#x60F3; <pr>l&#x1D0;xi&#x1CE;ng</pr></trd>,
+    <trd>&#x5FD7;&#x5411; <pr>zh&#xEC;xi&#xE0;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>ide&aacute;l</trd>,
+    <trd>vzor</trd>
+  </trdgrp>
+  <trd lng="it">ideale<klr tip="ind"> (sost.)</klr></trd>
+  <trd lng="ja">&#x7406;&#x60F3;&#x4E3B;&#x7FA9;  <pr>&#x308A;&#x305D;&#x3046;&#x3057;&#x3085;&#x304E;</pr></trd>
+  <trd lng="nl">ideaal</trd>
+  <trd lng="ru">&c_i;&c_d;&c_je;&c_a;&c_l;</trd>
+  <trd lng="sk">ide&aacute;l</trd>
+  <trd lng="uk">&c_ib;&c_d;&c_je;&c_a;&#x43B;&c_ib;&c_z;&#x43C;</trd>
+</drv>
+
+<drv mrk="ideal.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="ideal.0a.konforma">
+    <dif>
+      Konforma al la ideo, kiun ni havas pri perfekteco:
+      <ekz>
+        <tld/>aj formoj, virino, beleco, perfekteco;
+      </ekz>
+      <ekz>
+        la plej <tld/>a simpligita gramatiko
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vivi sen celo <tld/>a
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la aktuala stato &scirc;ajnas <tld/>a
+        <fnt>
+       <aut>Thomas Eccardt</aut>
+          <vrk><url ref="&Monato;/2000/006859.php">Urbeto a&ubreve; sendependa lando?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        marioneto, ne posedanta la <tld/>ajn mezurojn de manekeno
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2003/008015.html">Misa mondo</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vetero estas <tld/>a komunik-rimedo kun tute fremdaj homoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2003/008190.html">Varmego suferiga</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="perfek.0a.siaspece">perfekta<sncref/></ref>,
+      <ref cel="optimum.0a">optimuma</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="defini.0a">definitiva</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>ide&aacute;ln&iacute;</trd>,
+    <trd>vzorn&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">ideal</trd>
+  <trd lng="en">ideal</trd>
+  <trd lng="es">ideal</trd>
+  <trd lng="fr">id&eacute;al<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>eszm&eacute;nyi</trd>,
+    <trd>ideal&aacute;lis</trd>
+  </trdgrp>
+  <trd lng="it">ideale<klr tip="ind"> (agg.)</klr></trd>
+  <trd lng="nl">ideaal</trd>
+  <trd lng="pt">ideal<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="ru">&c_i;&c_d;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">ide&aacute;lny</trd>
+  <trd lng="sv">ideal</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7406;&#x60F3; <pr>l&#x1D0;xi&#x1CE;ng</pr></trd>,
+    <trd>&#x5FD7;&#x5411; <pr>zh&#xEC;xi&#xE0;ng</pr></trd>,
+    <trd>&#x5929;&#x9020;&#x5730;&#x8A2D; <pr>ti&#x101;nz&#xE0;od&#xEC;sh&#xE8;</pr></trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="ideal.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ideal.0igi.KOMUNE">
+    <dif>
+      Doni al io a&ubreve; iu <tld/>an karakteron:
+      <ekz>
+        ne estas bone tro <tld/>igi la mondon kaj la homojn, &ccirc;ar
+        tio preparas kruelajn elrevi&gcirc;ojn;
+      </ekz>
+      <ekz>
+        la historio vidita de <nom>Josef &Scirc;emer</nom> estas ne malvera, sed tamen iomete <tld/>igita
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jean-Marc Leclercq</aut>
+          <vrk><url ref="&Monato;/2008/009636.php">Israelo 60-jara (9)</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la bona malnova tempo <klr>[&#x2026;]</klr> &dash; idilia nostalgia kaj <tld/>iga esprimo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Petro De Smedt</aut>
+          <vrk><url ref="&Monato;/2011/010296.php">Socia dokumento pri nia larmovalo</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">idealizovat</trd>
+  <trdgrp lng="de">
+    <trd>idealisieren</trd>,
+    <trd>verkl&auml;ren</trd>
+  </trdgrp>
+  <trd lng="es">idealizar</trd>
+  <trd lng="fr">id&eacute;aliser</trd>
+  <trdgrp lng="hu">
+    <trd>eszm&eacute;ny&iacute;t</trd>,
+    <trd>idealaliz&aacute;l</trd>
+  </trdgrp>
+  <trd lng="it">idealizzare</trd>
+  <trd lng="nl">idealiseren</trd>
+  <trd lng="pt">idealizar</trd>
+  <trd lng="ru">
+&c_i;&c_d;&c_je;&c_a;&c_l;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
+</trd>
+  <trd lng="sk">idealizova&tcaron;</trd>
+  <trd lng="sv">idealisera</trd>
+</drv>
+
+<drv mrk="ideal.0ismo">
+  <kap><ofc>3</ofc><tld/>ismo</kap>
+  <snc mrk="ideal.0ismo.morala">
+    <dif>
+      Celado al <tld/>o, al perfekteco; senzorgo pri la reala vulgara
+      vivo:
+      <ekz>
+        27-jara junulo <klr>[&#x2026;]</klr> enhavanta la tutan aromon de la tiua&gcirc;a <tld/>ismo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sen Rodin (Filippo Franceschi)</aut>
+          <vrk><url ref="&Monato;/2007/009131.php">Tri diskoj kun ses paroladoj de Ivo
+          Lapenna</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>isma sinteno
+        <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio: 
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        danke al <klr>[&#x2026;]</klr> ilia <tld/>isma agado entute, la movado da&ubreve;ras malgra&ubreve;
+        &ccirc;iuj persekutoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zofia Banet-Fornalowa</aut>
+          <vrk><url ref="&Monato;/2006/008944.php">Memore je la pereintoj</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="spiritual.0ismo">spiritualismo</ref>
+  </snc>
+  <snc mrk="ideal.0ismo.ideismo">
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      <ref tip="dif" cel="ide.0ismo">Ideismo</ref>.
+    </dif>
+  </snc>
+  <snc mrk="ideal.0ismo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Koncepto pri arto kiel tradukanto de ia <tld/>o,
+      ne kiel imitanto de la realo.
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="real.0ismo">realismo</ref>.
+    </refgrp>
+  </snc>
+  <rim>
+    La 3a OA registras idealism/o kun propra radiko, sed ni konsideras
+    &gcirc;in la&ubreve;regula deriva&jcirc;o de ideal/o.
+  </rim>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="de">Idealismus</trd>
+  <trd lng="es">idealismo</trd>
+  <trd lng="fr">id&eacute;alisme</trd>
+  <trd lng="hu">idealizmus</trd>
+  <trd lng="it">idealismo</trd>
+  <trd lng="nl">idealisme</trd>
+  <trd lng="pt">idealismo</trd>
+  <trd lng="ru">&c_i;&c_d;&c_je;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sv">idealism</trd>
+  <trdgrp lng="zh">
+    <trd>&#x552F;&#x5FC3;&#x4E3B;&#x4E49; <pr>w&#xE9;ix&#x12B;nzh&#x1D4;y&#xEC;</pr></trd>,
+    <trd>&#x7406;&#x5FF5;&#x8AD6; <pr>l&#x1D0;ni&#xE0;nl&#xF9;n</pr></trd>,
+    <trd>&#x7406;&#x60F3;&#x4E3B;&#x4E49; <pr>l&#x1D0;xi&#x1CE;ngzh&#x1D4;y&#xEC;</pr></trd>,
+    <trd>&#x552F;&#x5FC3;&#x8AD6; <pr>w&#xE9;ix&#x12B;nl&#xF9;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ideal.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="ideal.0isto.morale">
+    <dif>
+      Homo, kiu celas al <tld/>o,
+      eventuale ne zorgante pri la krudaj
+      faktoj de la vivo:
+      <ekz>
+        li estas plej pura <tld/>isto
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en Washington en la 15a de a&ubreve;gusto
+          1910</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Zamenhof</nom> admiris la homecon de britaj <tld/>istoj
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>istoj el la generacio de <nom>Lidia</nom> kredis
+        ke la Ligo de Nacioj povus gardi pacon kaj
+        solvi internaciajn konfliktojn
+        <fnt>
+          <aut>W. Heller, trad. B. Westerhoff</aut>
+          <vrk>Lidia, la Vivo de Lidia Zamenhof, Filino de
+          Esperanto</vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="materi1.0isto">materialisto</ref>,
+      <ref cel="real">realisto</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="ideal.0isto.ideisto">
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      <ref tip="dif" cel="ide.0isto">Ideisto</ref>.
+    </dif>
+  </snc>
+  <adm>
+    Cxu derivajxo? <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="de">Idealist</trd>
+  <trd lng="es">idealista</trd>
+  <trd lng="fr">id&eacute;aliste</trd>
+  <trd lng="hu">idealista</trd>
+  <trd lng="it">idealista</trd>
+  <trd lng="nl">idealist</trd>
+  <trd lng="pt">idealista</trd>
+  <trd lng="ru">&c_i;&c_d;&c_je;&c_a;&c_l;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sv">idealist</trd>
+  <trd lng="sk">idealista</trd>
+  <trd lng="cs">idealista</trd>
+</drv>
+
+<drv mrk="ideal.cxef0a">
+  <kap>&ccirc;ef<tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="ideal.cxef0a.MAT">
+    <dif>
+      <klr>(p.p. <ref cel="ring.0o.MAT">ringo</ref>)</klr>
+      Tia, ke &ccirc;iuj &gcirc;iaj <ref cel="ideal.0o.MAT"><tld/>oj</ref>
+      estas <ref cel="cxef.0a.idealo">&ccirc;efaj</ref>.
+    </dif>
+    <rim>
+      Kelkaj a&ubreve;toroj postulas krome, ke la ringo estu
+      <ref cel="komut.0eca.ringo">komuteca</ref> a&ubreve;
+      <ref cel="integr.0a.MAT">integra</ref>.
+    </rim>
+    <trd lng="de">Hauptideal-<klr tip="amb">(ring)</klr></trd>
+    <trd lng="en">principal ideal<klr tip="amb"> (ring)</klr></trd>
+    <trd lng="es">ideal principal<klr tip="amb"> (anillo)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(anneau) </klr>principal</trd>
+    <trd lng="hu">f&odblac;ide&aacute;lis<klr tip="ind"> (gy&udblac;r&udblac;)
+    </klr></trd>
+    <trd lng="it"><ind>ideale</ind> principale<klr tip="amb">
+    (mat.)</klr>
+    </trd>
+    <trd lng="pl"><klr tip="ind">(pier&sacute;cie&nacute;) 
+    </klr>idea&lstroke;&oacute;w
+    g&lstroke;&oacute;wnych</trd>
+    <trd lng="ru"><klr tip="amb">(&c_k;&c_o;&c_l;&c_mol;&c_c;&c_o;) 
+    </klr>&c_g;&c_l;&c_a;&c_v;&c_n;&c_y;&c_h;
+    &c_i;&c_d;&c_je;&c_a;&c_l;&c_o;&c_v;</trd>
+  </snc>
+</drv>
+
+<drv mrk="ideal.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="ideal.sen0a.KOMUNE">
+    <dif>
+      Ne zorganta pri <tld/>o, atenta nur pri la materia
+      flanko de la mondo:
+      <ekz>
+        e&ccirc; en la nuna tre konsumisma kaj sen<tld/>a mondo tio vere esperigas: la allogo
+        de Esperanto kaj &gcirc;ia idealo da&ubreve;re vivas
+        <fnt>
+          <vrk><url ref="https://www.lingq.com/en/learn-esperanto-online/courses/282910/apreze-al-brazilaj-esperantistoj-1037876/">Esperanta
+          Retradio 2014, Apreze al brazilaj esperantistoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen<tld/>a senpartieco
+        <fnt>
+          <aut>Frank Muenzner</aut>
+          <vrk><url ref="http://www.ipernity.com/blog/66082/125637">Fino de unu kulturo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_z;&c_y;&c_d;&c_e;&c_j;&c_n;&c_y;</trd>
+  <trd lng="cs">bez ide&aacute;l&uring;</trd>
+  <trd lng="fr">terre-&agrave;-terre</trd>
+  <trdgrp lng="hu">
+    <trd>eszm&eacute;nyek n&eacute;lk&uuml;li</trd>,
+    <trd>anyagias</trd>
+  </trdgrp>
+  <trd lng="it">realista<klr> (concreto/pratico)</klr></trd>
+  <trd lng="nl">materialistisch</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_y;&c_d;&c_je;&c_j;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">bez ide&aacute;lov</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.44 2023/10/17 16:45:19
+revo: transskribo per <pr>
+
+versio 1.42 2023/04/24 16:34:37
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.41 2023/04/07 15:26:46
+Paul Peeraerts: &Monato;
+
+versio 1.40 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.38 2022/01/22 14:24:07
+Wolfram Diestel: ~a: ref-oj
+
+versio 1.37 2020/05/24 16:10:31
+Wolfram Diestel: +ekz-oj
+
+versio 1.36 2020/05/24 08:10:33
+Wolfram Diestel: kor.ref-cel
+
+Revision 1.35  2020/02/13 20:10:21  revo
+-->
+</vortaro>

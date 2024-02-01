@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: knot.xml,v 1.5 2023/05/04 16:53:14 revo Exp $">
+<kap>
+  <rad>knot</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="knot.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="knot.0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      <ref tip="dif" cel="nod.0o.MEZ">Nodo<sncref/></ref>:
+      <ekz>
+        la ja&hcirc;to voja&gcirc;as je ok &gcirc;is dek <tld/>oj
+        <fnt>
+          <aut>V. Jourdan, trad. A. Pe&ccirc;&euml;nkin</aut>
+          <vrk>Pur-energia &scirc;ipo</vrk>
+          <lok><url ref="&UEA;l/?prenu=Unesko_Kuriero_3_17">
+          Unesko-kuriero, 2017-10 &gcirc;is 12 (3)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_u;&c_z;&c_je;&c_l; <klr>(&c_a;&c_d;&c_z;&c_ib;&c_n;&c_k;&c_a; &c_v;&c_y;&c_m;&c_ja;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_ja; &c_h;&c_u;&c_t;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  <trd lng="fr">n&oelig;ud marin<klr> (mesure de vitesse)</klr></trd>
+  <trd lng="pl">w&eogonek;ze&lstroke; <klr>(szybko&sacute;&cacute;)</klr></trd>     
+  <trd lng="ro">nod</trd>
+  <trd lng="uk">&#x432;&#x443;&#x437;&#x43E;&#x43B;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.5 2023/05/04 16:53:14
+revo: aktualigo URL-unuoj
+
+versio 1.3 2022/01/20 07:27:53
+Dmitri Gabinski: + trd be
+
+Revision 1.1  2018/03/09 11:10:14  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

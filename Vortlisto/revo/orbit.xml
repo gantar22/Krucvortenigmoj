@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: orbit.xml,v 1.32 2023/10/20 13:11:48 revo Exp $">
+<kap>
+  <ofc>4</ofc> <rad>orbit</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="orbit.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="orbit.0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Kurba linio sekvata de astro dum &gcirc;ia irado &ccirc;irka&ubreve; alia astro:
+      <ekz>
+        kalkuli la <tld/>on de la luno;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la ebeno de la <tld/>oj de la elektronoj
+        ne estas konstanta.
+      </ekz>
+    </dif>
+      <trd lng="be">&c_a;&c_r;&c_b;&c_ib;&c_t;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd>Bahn</trd>,
+      <trd>Umlaufbahn</trd>,
+      <trd>Orbit</trd>
+    </trdgrp>
+    <trd lng="cs">dr&aacute;ha</trd>
+    <trd lng="el">&tau;&rho;&omikron;&chi;&jota;&alfa_ton;</trd>
+    <trd lng="en">orbit<klr> (noun)</klr></trd>
+    <trd lng="es">&oacute;rbita</trd>
+    <trdgrp lng="hu">
+      <trd>p&aacute;lya</trd>,
+      <trd>kering&eacute;si p&aacute;lya</trd>
+    </trdgrp>
+    <trd lng="id">orbit</trd>
+    <trd lng="nl">baan<klr tip="ind"> (astronomie)</klr></trd>
+    <trd lng="pl">orbita</trd>
+    <trd lng="ru">&c_o;&c_r;&c_b;&c_i;&c_t;&c_a;</trd>
+    <trd lng="tr">y&ouml;r&uuml;nge</trd>
+  </snc>
+  <snc mrk="orbit.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <ref tip="dif" cel="kav.okul0o.ANA">okulkavo</ref>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_a;&c_ch;&c_n;&c_ib;&c_c;&c_a;</trd>,
+      <trd>&c_v;&c_a;&c_k;&c_o;&c_v;&c_ib;&c_c;&c_a;</trd>
+    </trdgrp>
+    <trd lng="de">Augenh&ouml;hle</trd>
+    <trd lng="el">&kappa;&omikron_ton;&gamma;&chi;&eta;<klr> (&omikron;&phi;&theta;&alfa;&lambda;&my;&omikron;&ypsilon_ton;)</klr></trd>
+    <trd lng="en">eye socket</trd>
+    <trd lng="hu">szemg&ouml;d&ouml;r</trd>
+    <trd lng="nl">oogkas</trd>
+    <trd lng="pl">oczod&oacute;&lstroke;</trd>
+  </snc>
+  <snc mrk="orbit.0o.FIG">
+    <uzo tip="stl">RAR</uzo>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Regiono regata de iu scienco a&ubreve; influata de iu homo:
+      <ekz>
+        tiu speco de fenomeno entreni&gcirc;as iom post iom en la
+        <tld/>on de la &hcirc;emiaj sciencoj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="brancx.0o.FIG">bran&ccirc;o <sncref/></ref>,
+      <ref cel="fak.0o.brancxo">fako <sncref/></ref>,
+      <ref cel="kamp.0o.tereno">kampo <sncref/></ref>,
+      <ref cel="sfer.0o.FIG">sfero <sncref/></ref>
+    </refgrp>
+  <trd lng="be">&c_a;&c_r;&c_b;&c_ib;&c_t;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd>Machtbereich</trd>,
+      <trd>Einflusssph&auml;re</trd>
+    </trdgrp>
+    <trd lng="el">&omikron_ton;&rho;&jota;&omikron;</trd>
+    <trd lng="hu">hat&oacute;k&ouml;r</trd>
+    <trd lng="nl">invloedssfeer</trd>
+  </snc>
+  <trd lng="cs">ob&ecaron;&zcaron;n&aacute; dr&aacute;ha</trd>
+  <trd lng="en">field</trd>
+  <trd lng="fr">orbite</trd>
+  <trd lng="it">orbita</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8ECC;&#x9053;  <pr>&#x304D;&#x3069;&#x3046;</pr></trd>,
+    <trd>&#x52E2;&#x529B;&#x570F;  <pr>&#x305B;&#x3044;&#x308A;&#x3087;&#x304F;&#x3051;&#x3093;</pr></trd>,
+    <trd>&#x6D3B;&#x52D5;&#x7BC4;&#x56F2;  <pr>&#x304B;&#x3064;&#x3069;&#x3046;&#x306F;&#x3093;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">orbita</trd>
+  <trd lng="pt">&oacute;rbita</trd>
+  <trd lng="ro">orbit&abreve;</trd>
+  <trd lng="ru">&c_o;&c_r;&c_b;&c_i;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>o&ccaron;nica</trd>,
+    <trd>o&ccaron;n&aacute; jamka</trd>
+  </trdgrp>
+  <trd lng="uk">&c_o;&c_r;&c_b;&c_ib;&c_t;&c_a;</trd>
+</drv>
+
+<drv mrk="orbit.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="orbit.0i.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Voji la&ubreve; <tld/>o:
+      <ekz>
+        kvaza&ubreve;satelitoj <klr>...</klr> <tld/>as la Sunon apud najbareco
+        de planedo
+        <fnt>
+          <aut>H. J. Rocha-Pinto</aut>,
+          <vrk><url ref="http://www.esperanto.org/AEK/biblio/020400Sats.html">
+          &Ccirc;u vi iam a&ubreve;dis pri kvaza&ubreve;satelitoj?</url></vrk>,
+          <lok>Virtuala Biblioteko de AEKo, 2000-02-09</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_s;&c_mol;&c_c;&c_ib; &c_p;&c_a; <ind>&c_a;&c_r;&c_b;&c_ib;&c_c;&c_je;</ind></trd>,
+    <trd>&c_k;&c_r;&c_u;&c_zh;&c_y;&c_c;&c_c;&c_a; <klr>(&c_v;&c_a;&c_k;&c_o;&c_l; &c_z;&c_o;&c_r;&c_k;&c_ib; &c_ib; &c_d;&c_a; &c_g;. &c_p;.)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">krou&zcaron;it po ob&ecaron;&zcaron;n&eacute; dr&aacute;ze</trd>
+  <trd lng="en">orbit<klr> (tr)</klr></trd>
+  <trd lng="fr">orbiter</trd>
+  <trd lng="id">meng<ind>orbit</ind></trd>
+  <trd lng="it">orbitare</trd>
+  <trd lng="ja">&#x8ECC;&#x9053;&#x3092;&#x63CF;&#x3044;&#x3066;&#x56DE;&#x308B;  <pr>&#x304D;&#x3069;&#x3046;&#x3092;&#x3048;&#x304C;&#x3044;&#x3066;&#x307E;&#x308F;&#x308B;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>orbitowa&cacute;</trd>,
+    <trd>kr&aogonek;&zdot;y&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>traiectorie</trd>,
+    <trd>&icirc;nv&acirc;rti</trd>
+  </trdgrp>
+  <trd lng="sk">kr&uacute;&zcaron;i&tcaron; na obe&zcaron;nej dr&aacute;he</trd>
+  <trd lng="uk">&c_k;&c_r;&c_u;&c_zh;&c_l;&c_ja;&c_t;&c_i; (&c_v; &c_o;&c_ch;&c_ib;&c_k;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ib; &c_d;&c_o;&c_z;&c_v;&c_o;&c_l;&c_u; &c_n;&c_a; &c_p;&c_o;&c_s;&c_a;&c_d;&c_k;&c_u;)</trd>
+</drv>
+
+<drv mrk="orbit.el0igilaokulojn">
+  <kap>el<tld/>igi la okulojn</kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc mrk="orbit.el0igilaokulojn.PSI">
+    <dif>
+      Lar&gcirc;e malfermi la okulojn pro emocio: miro, kolero, timo...:
+      <ekz>
+        Ale&ccirc;jo malice el<tld/>igas la okulojn, eksaltas, metas unu
+        genuon
+        sur la tablon kaj siavice vangofrapas Andreon
+        <fnt>
+          <aut>A. &Ccirc;e&hcirc;ov, trad. A. Kor&jcirc;enkov</aut>,
+          <vrk>Infanoj</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2004-03</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_l;&c_u;&c_p;&c_ib;&c_c;&c_mol; &c_v;&c_o;&c_ch;&c_y;</trd>
+  <trdgrp lng="en">
+    <trd>stare<klr> (in shock, surprise, anger, fear)</klr></trd>,
+    <trd>pop one's eyes out of one's head<klr> (in shock, surprise, anger, fear)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">exorbiter les yeux</trd>
+  <trd lng="it">sgranare<klr> (gli occhi)</klr></trd>
+  <trd lng="pl">wy&lstroke;upia&cacute; oczy</trd>
+  <trd lng="ro">scoate ochii</trd>
+</drv>
+
+<drv mrk="orbit.en0igi">
+  <kap>en<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="orbit.en0igi.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Ekvojigi la&ubreve; difinita <tld/>o:
+      <ekz>
+        &ccirc;i raketo en<tld/>igis kvar satelitojn
+        <fnt>
+          <aut>Smash</aut>,
+          <vrk>Barato lan&ccirc;is kvar satelitojn</vrk>,
+          <lok><url ref="http://raporto.info">Raporto.info</url>,
+          2007-01-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol; <klr>(&c_s;&c_p;&c_a;&c_d;&c_a;&c_r;&c_o;&c_zh;&c_n;&c_ib;&c_k;)</klr></trd>,
+    <trd>&c_v;&c_y;&c_v;&c_je;&c_s;&c_mol;&c_c;&c_ib; &c_n;&c_a; <ind>&c_a;&c_r;&c_b;&c_ib;&c_t;&c_u;</ind></trd>
+  </trdgrp>
+  <trd lng="en">put into orbit</trd>
+  <trd lng="fr">mettre en <ind>orbite</ind></trd>
+  <trd lng="it">mettere in <ind>orbita</ind></trd>
+  <trd lng="pl">wprowadzi&cacute; na  <ind>orbit&eogonek;</ind></trd>
+  <trd lng="ro">pus pe  <ind>orbit&abreve;</ind></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.32 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.30 2023/08/13 11:21:41
+Dmitri Gabinski: + trd be
+
+versio 1.29 2023/01/29 01:57:21
+Robert Baruch: +trd: en
+
+versio 1.27 2022/01/15 22:31:07
+Vito Redsky: + trd pl + trd ro
+
+versio 1.26 2021/10/25 08:35:30
+Dmitri Gabinski: + trd be
+
+versio 1.25 2020/05/04 11:10:26
+Eko Nur Syah Hidayat: korekteto
+
+Revision 1.23  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/01/29 04:10:21  revo
+-->
+</vortaro>

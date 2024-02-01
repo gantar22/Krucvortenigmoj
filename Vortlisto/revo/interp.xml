@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: interp.xml,v 1.29 2023/10/17 16:46:14 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>interpelaci</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="interp.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="interp.0i.POL">
+    <dif>
+      Demandi per <tld/>o:
+      <ekz>
+        membro de EDE-Pollando, parlamentano <nom>Robert Biedro&nacute;</nom> <tld/>is, t.e. 
+        publike demandis al ministro pri edukado por Esperanto, <tld/>o n-ro 27232
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=187333">Sejmo (Pollando)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>parlamentarisch <ind>anfragen</ind></trd>,
+      <trd>interpellieren</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_z;&c_a;&c_p;&c_y;&c_t;</ind> <klr>(&c_a;&c_f;&c_ib;&c_c;&c_y;&c_j;&c_n;&c_y;)</klr></trd>,
+    <trd>&c_p;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_ib;&c_n;&c_t;&c_e;&c_r;&c_p;&c_e;&c_l;&c_ja;&c_c;&c_y;&c_ju;</ind></trd>
+  </trdgrp>
+  <trd lng="bg">&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_je;&c_l;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trd lng="cs">interpelovat</trd>
+  <trd lng="en">interpellate</trd>
+  <trd lng="es">interpelar</trd>
+  <trd lng="fr">interpeller<klr tip="ind"> (au parlement)</klr></trd>
+  <trd lng="hu">interpell&aacute;l</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CEA;&#x554F;&#x3059;&#x308B;  <pr>&#x3057;&#x3064;&#x3082;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x8AAC;&#x660E;&#x3092;&#x6C42;&#x3081;&#x308B;  <pr>&#x305B;&#x3064;&#x3081;&#x3044;&#x3092;&#x3082;&#x3068;&#x3081;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">interpelleren</trd>
+  <trd lng="pl">interpelowa&cacute;</trd>
+  <trd lng="pt">interpelar<klr tip="amb"> (pol&iacute;tica)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; <ind>&c_z;&c_a;&c_p;&c_r;&c_o;&c_s;</ind></trd>,
+    <trd>&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_je;&c_l;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">interpelova&tcaron;</trd>
+</drv>
+
+<drv mrk="interp.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="interp.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Publika demando farita de deputito en parlamento al ministro por
+      ricevi klarigojn pri la agoj de la registaro:
+      <ekz>
+        projekto Spaco ne povus travivi <tld/>on,
+        &gcirc;i bezonas publikan fidon
+        <fnt><aut>J. Francis</aut>, <vrk>Misio sen Alveno</vrk>,
+        <lok>tk-stafeto, 1982</lok></fnt>;
+      </ekz>
+      <ekz>
+        li faris <tld/>on interalie por demandi, &leftquot;&ccirc;u E&ubreve;ropa Komisiono 
+        intencas instigi la membro-&scirc;tatojn <klr>[&#x2026;]</klr> enkonduki
+        studprogramon pri la lingvo-problemo kaj pri Esperanto <klr>[&#x2026;]</klr>&rightquot;
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=107095">Emma Bonino</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multaj liaj tekstoj estis konfiskitaj kaj publikitaj nur post <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=9943">Karel Pelant</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>parlamentarische <ind>Anfrage</ind></trd>,
+      <trd>Interpellation</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_p;&c_y;&c_t; <klr>(&c_a;&c_f;&c_ib;&c_c;&c_y;&c_j;&c_n;&c_y;)</klr></trd>,
+    <trd>&c_ib;&c_n;&c_t;&c_e;&c_r;&c_p;&c_e;&c_l;&c_ja;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_je;&c_l;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="cs">interpelace</trd>
+  <trdgrp lng="de">
+    <trd/>,
+    <trd/>
+  </trdgrp>
+  <trd lng="en">interpellation</trd>
+  <trd lng="es">interpelaci&oacute;n</trd>
+  <trd lng="fr">interpellation<klr tip="ind">
+  (parlementaire)</klr></trd>
+  <trd lng="hu">interpell&aacute;ci&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CEA;&#x554F;  <pr>&#x3057;&#x3064;&#x3082;&#x3093;</pr></trd>,
+    <trd>&#x8AAC;&#x660E;&#x8981;&#x6C42;  <pr>&#x305B;&#x3064;&#x3081;&#x3044;&#x3088;&#x3046;&#x304D;&#x3085;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">interpellatie</trd>
+  <trd lng="pl">interpelacja</trd>
+  <trd lng="pt">interpela&ccedil;&atilde;o<klr tip="amb"> (pol&iacute;tica)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_p;&c_r;&c_o;&c_s; <klr>(&c_v; &c_p;&c_a;&c_r;&c_l;&c_a;&c_m;&c_je;&c_n;&c_t;&c_je;)</klr></trd>,
+    <trd>&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_je;&c_l;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dopyt</trd>,
+    <trd>&zcaron;iados&tcaron; o&nbsp;vysvetlenie</trd>
+  </trdgrp>
+<trdgrp lng="th">
+  <trd>&#xE01;&#xE32;&#xE23;&#xE15;&#xE31;&#xE49;&#xE07;&#xE01;&#xE23;&#xE30;&#xE17;&#xE39;&#xE49;&#xE16;&#xE32;&#xE21;</trd>,
+  <trd>&#xE01;&#xE32;&#xE23;&#xE0B;&#xE31;&#xE01;&#xE16;&#xE32;&#xE21;</trd>
+</trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_p;&c_i;&c_t;</trd>,
+    <trd>&c_ib;&c_n;&c_t;&c_je;&c_r;&c_p;&c_je;&c_l;&c_ja;&c_c;&c_ib;&c_ja;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.27 2022/11/18 07:28:00
+Dmitri Gabinski: + trd be
+
+versio 1.26 2022/04/21 16:49:05
+Warut Bunprasert: red th
+
+versio 1.24 2021/10/19 05:25:53
+Warut Bunprasert: +trd th
+
+Revision 1.22  2018/04/04 09:10:15  revo
+Michel Cantigneaux: interpelacii, ne interpelacio vortradiko de la 8OA
+
+Revision 1.21  2015/10/29 13:10:19  revo
+Joop Eggen: +trd bg
+
+Revision 1.20  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:16  revo
+-->
+</vortaro>

@@ -1,0 +1,579 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kontin3.xml,v 1.36 2023/12/03 09:58:57 revo Exp $">
+<kap>
+ <ofc>4</ofc>
+ <rad>kontinu</rad>/a <fnt><bib>JED</bib></fnt>
+</kap>
+
+<drv mrk="kontin3.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="kontin3.0a.KOMUNE">
+    <dif>
+      Konsistanta el eroj, kiuj formas seninterrompan, senmankan vicon:
+    </dif>
+    <subsnc mrk="kontin3.0a.tempo">
+      <dif>
+        En tempo:
+        <ekz>
+          &ccirc;irka&ubreve; li a&ubreve;di&gcirc;is <tld/>a bruo
+          <fnt>
+            <bib>MkM</bib>
+            <lok>7</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          li ne ricevis multe da mono, &ccirc;ar la laboro ne estis <tld/>a
+          <fnt>
+            <bib>KKr</bib>
+            <lok>I</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <uzo tip="fak">ELE</uzo>
+          <klr>[la aparato]</klr> konvertas la alternan kurenton el mura &scirc;topilingo al la
+          bone regulata <tld/>a kurento, bezonata por elektronika&jcirc;oj
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Edmund Grimley Evans</aut>
+            <vrk><url ref="&Monato;/2012/010794.php">Distra kaj kleriga vortaro</url></vrk>
+            <lok>2012</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          el &ccirc;iuj frenezigaj memoroj, <klr>[&#x2026;]</klr> la sceno pri la lastaj minutoj de tiu
+          fremdulo estas io revena, io <tld/>a
+          <fnt>
+            <bib>KKr</bib>
+            <lok>I</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la filmo en TV-raporto estas muntita, sed akompanatas de <tld/>a komentado
+          <fnt>
+            <bib>KFl</bib>
+            <lok>V. Pri unueco kaj lukto, kaj anka&ubreve; pri &rightquot;tipeco de l&#x2019; disdivido&#x201D;</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="sin">
+        <ref cel="dauxr.0a.dauxranta">da&ubreve;ra<sncref/></ref>,
+        <ref cel="konsta.0a.dauxra">konstanta<sncref/></ref>,
+        <ref cel="cxes.sen0a">sen&ccirc;esa</ref>,
+        <ref cel="halt.sen0a">senhalta</ref>
+      </refgrp>
+    </subsnc>
+    <subsnc mrk="kontin3.0a.spaco">
+      <dif>
+        En spaco (a&ubreve; alia fizika dimensio):
+        <ekz>
+          du vicoj de disaj lumoj kunfandi&gcirc;is en du <tld/>ajn flamstriojn
+          <fnt>
+            <bib>MkM</bib>
+            <lok>21</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la spektro de la koloroj estas <tld/>a&jcirc;o: la ondolongoj de videbla lumo
+          etendi&gcirc;as seninterrompe de la ru&gcirc;a ekstremo de la spektro &gcirc;is la blua, tra
+          <tld/>a gradi&gcirc;o de &scirc;an&gcirc;i&gcirc;antaj nuancoj
+          <fnt>
+            <bib>LAE</bib>
+            <lok>5. Leksiko Kaj Semantiko</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la hunoj trairis la tutan E&ubreve;razion, de &Ccirc;inio &gcirc;is Ga&ubreve;lio, &ccirc;ar ili iris sur la
+          <tld/>a tero
+          <fnt>
+            <bib>LOdE</bib>
+            <lok>2000, No 10</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="koher.0a">kohera</ref>,
+        <ref cel="mank.seninter0a.KOMUNE">senintermanka</ref>,
+        <ref cel="pec.unu0a.KOMUNE">unupeca</ref>
+      </refgrp>
+    </subsnc>
+    <trdgrp lng="de">
+      <trd>ununterbrochen</trd>,
+      <trd>st&auml;ndig</trd>,
+      <trd>best&auml;ndig</trd>,
+      <trd>kontinuierlich</trd>
+    </trdgrp>
+    <trd lng="en">continuous</trd>
+    <trdgrp lng="hu">
+      <trd>folyamatos</trd>,
+      <trd>szakadatlan</trd>,
+      <trd>folytonos</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>ci&aogonek;g&lstroke;y</trd>,
+      <trd>nieprzerwany</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>continuu</trd>,
+      <trd>ne&icirc;ntrerupt&abreve;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_b;&c_je;&c_s;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_s;&c_p;&c_l;&c_o;&c_sh;&c_n;&c_o;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kontin3.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>EKV</bib><lok>&para;223</lok></fnt>
+    <subsnc mrk="kontin3.0a.cxepunkto">
+      <dif>
+        <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>
+        <frm am="f"><k>f</k></frm>
+        de <ref cel="spac.topologia0o">topologia spaco</ref>
+        <frm am="bb E"><g>E</g></frm>
+        al topologia spaco <frm am="bb F"><g>F</g></frm>,
+        &ccirc;e punkto <frm am="a in bb E"><k>a</k>&#x2208;<g>E</g></frm>)</klr>
+        Tia, ke &ccirc;iu ajn
+        <ref cel="cxirka.0ajxo.topologio">&ccirc;irka&ubreve;a&jcirc;o</ref>
+        de <frm am="f(a)"><k>f</k>(<k>a</k>)</frm> inkluzivas la bildon
+        per <frm am="f"><k>f</k></frm> de iu &ccirc;irka&ubreve;a&jcirc;o
+        de <frm am="a"><k>a</k></frm>.
+      </dif>
+      <rim>
+        En malpli faka lingva&jcirc;o: <frm am="f(x)"><k>f</k>(<k>x</k>)</frm>
+        senlime proksimi&gcirc;as al <frm am="f(a)"><k>f</k>(<k>a</k>)</frm>,
+        kiam <frm am="x"><k>x</k></frm> senlime proksimi&gcirc;as al
+        <frm am="a"><k>a</k></frm>.
+      </rim>
+    </subsnc>
+    <subsnc mrk="kontin3.0a.cxie">
+      <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>
+        <frm am="f"><k>f</k></frm> de
+        <ref cel="spac.topologia0o">topologia spaco</ref>
+        <frm am="bb E"><g>E</g></frm> al topologia spaco
+        <frm am="bb F"><g>F</g></frm>)</klr>
+        Tia, ke &gcirc;i estas
+        <ref cel="kontin3.0a.cxepunkto"><tld/>a <sncref/></ref>
+        &ccirc;e &ccirc;iuj punktoj de <frm am="bb E"><g>E</g></frm>:
+        <ekz>
+          <frm am="f"><k>f</k></frm> estas <tld/>a, se kaj nur se la
+          inversa
+          bildo
+          de &ccirc;iu ajn
+          <ref cel="ferm.mal0ita.topologio">malfermita subaro</ref> de
+          <frm am="bb F"><g>F</g></frm> estas malfermita subaro de
+          <frm am="bb E"><g>E</g></frm>;
+        </ekz>
+        <ekz>
+          la idento-bildigo de <frm am="bb E"><g>E</g></frm> al si mem
+          (kun la
+          sama topologio) estas <tld/>a;
+        </ekz>
+        <ekz>
+          la kunliga&jcirc;o de du <tld/>aj bildigoj estas mem <tld/>a;
+        </ekz>
+        <ekz>
+          kiu ajn bildigo inter topologiaj spacoj kun diskreta topologio
+          estas <tld/>a.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="homeom.0o">homeomorfio</ref>
+      </refgrp>
+    </subsnc>
+    <trd lng="de">stetig</trd>
+    <trd lng="en">continuous</trd>
+    <trd lng="pl">ci&aogonek;g&lstroke;y</trd>
+    <trd lng="ro">continuu</trd>
+  </snc>
+  <trd lng="ca">continu</trd>
+  <trdgrp lng="cs">
+    <trd>kontinu&aacute;ln&iacute;</trd>,
+    <trd>nep&rcaron;etr&zcaron;it&yacute;</trd>,
+    <trd>plynul&yacute;</trd>,
+    <trd>souvisl&yacute;</trd>,
+    <trd>spojit&yacute;</trd>,
+    <trd>trval&yacute;</trd>,
+    <trd>ustavi&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="es">continuo, -a</trd>
+  <trd lng="fr">continu</trd>
+  <trd lng="hu">folytonos</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9023;&#x7D9A;&#x7684;&#x306A;  <pr>&#x308C;&#x3093;&#x305E;&#x304F;&#x3066;&#x304D;&#x306A;</pr></trd>,
+    <trd>&#x7D99;&#x7D9A;&#x3057;&#x305F;  <pr>&#x3051;&#x3044;&#x305E;&#x304F;&#x3057;&#x305F;</pr></trd>,
+    <trd>&#x5207;&#x308C;&#x76EE;&#x306E;&#x306A;&#x3044;  <pr>&#x304D;&#x308C;&#x3081;&#x306E;&#x306A;&#x3044;</pr></trd>,
+    <trd>&#x9023;&#x7D9A;&#x306A;  <pr>&#x308C;&#x3093;&#x305E;&#x304F;&#x306A;</pr></trd>,
+    <trd>&#x76F4;&#x6D41;&#x306E;  <pr>&#x3061;&#x3087;&#x304F;&#x308A;&#x3085;&#x3046;&#x306E;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>onafgebroken</trd>,
+    <trd>continu</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ci&aogonek;g&lstroke;y</trd>,
+    <trd>nieprzerwany</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>continuu</trd>,
+    <trd>ne&icirc;ntrerupt&abreve;</trd>,
+    <trd>neobosit</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>kontinu&aacute;lny</trd>,
+    <trd>nepretr&zcaron;it&yacute;</trd>,
+    <trd>s&uacute;visl&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7DBF;&#x7DBF; <pr>mi&#xE1;nmi&#xE1;n</pr></trd>,
+    <trd>&#x7DBF;&#x7DBF;&#x4E0D;&#x7D55; <pr>mi&#xE1;nmi&#xE1;nb&#xF9;ju&#xE9;</pr></trd>,
+    <trd>&#x7DBF;&#x9023; <pr>mi&#xE1;nli&#xE1;n</pr></trd>,
+    <trd>&#x8FDE;&#x7EF5; <pr>li&#xE1;nmi&#xE1;n</pr></trd>,
+    <trd>&#x8FDE;&#x7EED; <pr>li&#xE1;nx&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kontin3.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="kontin3.0i.KOMUNE">
+    <dif>
+      Esti <tld/>a, okazi seninterrompe:
+      <ekz>
+        la kolekto <tld/>as de la unua jaro &gcirc;is hodia&ubreve;;
+      </ekz>
+      <ekz>
+        kun li kiel nova papo &ccirc;io en la katolika eklezio <tld/>os kaj ne okazos grandaj
+        &scirc;an&gcirc;oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2005/008684.php">Surprizo vatikana</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se la evoluo <tld/>os, eble iam ili <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2005/008550.php">Klimato kaj lingvo</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dauxr.0i">da&ubreve;ri</ref>,
+      <ref cel="stagn.0i">stagni</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">continuar <klr>(intr.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>b&yacute;t souvisl&yacute;</trd>,
+    <trd>pokra&ccaron;ovat</trd>,
+    <trd>trvat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>andauern</trd>,
+    <trd>bestehen</trd>
+  </trdgrp>
+  <trd lng="en">be continuous</trd>
+  <trd lng="es">ser continuo, -a</trd>
+  <trdgrp lng="fr">
+   <trd>se <ind>poursuivre</ind></trd>,
+   <trd>continuer<klr tip="ind"> (intr.)</klr></trd>
+ </trdgrp>
+  <trd lng="hu">folytonos</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9023;&#x7D9A;&#x3057;&#x3066;&#x3044;&#x308B;  <pr>&#x308C;&#x3093;&#x305E;&#x304F;&#x3057;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x7D99;&#x7D9A;&#x3057;&#x3066;&#x3044;&#x308B;  <pr>&#x3051;&#x3044;&#x305E;&#x304F;&#x3057;&#x3066;&#x3044;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">doorlopen</trd>
+  <trdgrp lng="pl">
+    <trd>ci&aogonek;gn&aogonek;&cacute; si&eogonek;</trd>,
+    <trd>kontynuowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="ro">continua</trd>
+  <trdgrp lng="sk">
+    <trd>by&tcaron; kontinu&aacute;lny</trd>,
+    <trd>nepretr&zcaron;it&yacute;</trd>,
+    <trd>trva&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7E8C; <pr>x&#xF9;</pr></trd>,
+    <trd>&#x8FDE;&#x7EF5; <pr>li&#xE1;nmi&#xE1;n</pr></trd>,
+    <trd>&#x5EF6;&#x7E8C; <pr>y&#xE1;nx&#xF9;</pr></trd>,
+    <trd>&#x6301;&#x7E8C; <pr>ch&#xED;x&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kontin3.0eco">
+  <kap><tld/>eco <fnt><bib>JED</bib></fnt></kap>
+  <snc mrk="kontin3.0eco.KOMUNE">
+    <dif>
+      Eco de io <tld/>a; neinterrompita interligo
+      de partoj a&ubreve; periodoj:
+      <ekz>
+        ne ekzistis iaj reguloj, nek <tld/>eco
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Tria Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        gardi la ekstreme necesan <tld/>econ en nia lingvo
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nenie rompi&gcirc;as a&ubreve; difekti&gcirc;as la <tld/>eco inter la lingvo malnova kaj nova
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tutmonda karaktero <klr>[&#x2026;]</klr> garantias <tld/>econ kaj donas al la UK
+        stampon de maksimuma internacieco
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Tria Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        specifa trajto de la televido kiel arto&gcirc;enro estas la <tld/>eco de la eventoj
+        sur la ekrano
+        <fnt>
+          <bib>KFl</bib>
+          <lok>V. Pri unueco kaj lukto, kaj anka&ubreve; pri &rightquot;tipeco de l&#x2019; disdivido&#x201D;</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &jcirc;urnaloj senvualigas anta&ubreve; ni la eternan <tld/>econ de la vivo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 6 (68)</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MAT</uzo>
+        esplori la <tld/>econ de funkcio;
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bo">&t_ra;&t_gata;&t_yata;&t_shabchu;&t_da;&t_tsheg;</trd>
+  <trdgrp lng="ca">
+   <trd>continu&iuml;tat</trd>,
+   <trd>persist&egrave;ncia</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kontinuita</trd>,
+    <trd>kontinu&aacute;lnost</trd>,
+    <trd>souvislost</trd>,
+    <trd>spojitost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Kontinuit&auml;t</trd>,
+     <trd>Best&auml;ndigkeit</trd>,
+     <trd>Stetigkeit</trd>
+  </trdgrp>
+  <trd lng="en">continuity</trd>
+  <trd lng="es">continuidad</trd>
+  <trd lng="fr">continuit&eacute;</trd>
+  <trdgrp lng="hu">
+   <trd>folyamatoss&aacute;g</trd>,
+   <trd>folytonoss&aacute;g</trd>,
+   <trd>szakadatlans&aacute;g</trd>,
+   <trd>kontinuit&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9023;&#x7D9A;&#x6027;  <pr>&#x308C;&#x3093;&#x305E;&#x304F;&#x305B;&#x3044;</pr></trd>,
+    <trd>&#x7D99;&#x7D9A;&#x6027;  <pr>&#x3051;&#x3044;&#x305E;&#x304F;&#x305B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">continu&iuml;teit</trd>
+  <trd lng="pl">ci&aogonek;g&lstroke;o&sacute;&cacute;</trd>
+  <trd lng="ro">continuitate</trd>
+  <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>kontinuita</trd>,
+    <trd>nepretr&zcaron;itos&tcaron;</trd>,
+    <trd>spojitos&tcaron;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x8FDE;&#x7EED;&#x6027; <pr>li&#xE1;nx&#xF9;x&#xEC;ng</pr></trd>
+</drv>
+
+<drv mrk="kontin3.0ega">
+ <kap><tld/>ega</kap>
+ <uzo tip="fak">MAT</uzo>
+ <fnt><bib>EKV</bib><lok>&para;225</lok></fnt>
+ <snc mrk="kontin3.0ega.MAT">
+   <dif>
+     <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>
+     <frm am="f"><k>f</k></frm> de
+     <ref cel="spac.metrika0o">metrika spaco</ref> <frm am="bb      E"><g>E</g></frm>
+     al metrika spaco <frm am="bb F"><g>F</g></frm>)</klr>
+     Tia, ke por &ccirc;iu pozitiva reelo <frm am="epsilon">&epsilon;</frm> ekzistas
+     tia
+     reelo <frm am="alpha">&alfa;</frm>, ke se la distanco inter ajnaj
+     punktoj
+     <frm am="x"><k>x</k></frm> kaj <frm am="y"><k>y</k></frm>
+     en <frm am="bb E"><g>E</g></frm> estas
+     pli malgranda ol <frm am="alpha">&alfa;</frm>, tiam la distanco inter la
+
+     bildoj de
+     <frm am="x"><k>x</k></frm> kaj <frm am="y"><k>y</k></frm> per
+     <frm am="f"><k>f</k></frm>
+     estas pli malgranda ol <frm am="epsilon">&epsilon;</frm>:
+     <ekz>
+       &ccirc;iu <tld/>ega bildigo estas anka&ubreve;
+       <ref cel="kontin3.0a.cxie"><tld/>a <sncref/></ref>, sed la malo
+       ne veras.
+     </ekz>
+   </dif>
+ </snc>
+ <trd lng="ca">uniformement continu</trd>
+ <trd lng="de">gleichm&auml;&szlig;ig <ind>stetig</ind></trd>
+ <trd lng="en">uniformly <ind>continous</ind></trd>
+ <trd lng="es"><ind>continuidad</ind> uniforme</trd>
+ <trd lng="fr">uniform&eacute;ment <ind>continu</ind></trd>
+ <trd lng="hu">egyenletesen <ind>folytonos</ind></trd>
+ <trd lng="pl">jednostajnie <ind>ci&aogonek;g&lstroke;y</ind></trd>
+ <trd lng="ro">uniform  <ind>continuu</ind></trd>
+ <trd lng="ru">&c_r;&c_a;&c_v;&c_n;&c_o;&c_m;&c_je;&c_r;&c_n;&c_o; <ind>&c_n;&c_je;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_y;&c_j;</ind></trd>
+</drv>
+
+<drv mrk="kontin3.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="kontin3.0igi.KOMUNE">
+    <dif>
+      Fari, ke io estu <tld/>a:
+      <ekz>
+        sekvis momento da silento, post kio la komandanto <tld/>igis: &ndash; jen kion
+        signifas lasi trans sian sojlon iun el tiuj homoj sen honoro
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="dauxr.0igi">da&ubreve;rigi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>continuar <klr>(tr.)</klr></trd>,
+    <trd>prosseguir</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nechat trvat</trd>,
+    <trd>u&ccaron;init spojit&yacute;m</trd>
+  </trdgrp>
+  <trd lng="de">fortsetzen</trd>
+  <trd lng="es">continuar</trd>
+  <trd lng="fr">continuer<klr tip="ind"> (tr.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>folytat</trd>,
+    <trd>folyamatoss&aacute; tesz</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7D9A;&#x3051;&#x3055;&#x305B;&#x308B;  <pr>&#x3064;&#x3065;&#x3051;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x6574;&#x6D41;&#x3059;&#x308B; <pr>&#x305B;&#x3044;&#x308A;&#x3085;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">voortzetten</trd>
+  <trd lng="pl">kontynuowa&cacute;</trd>
+  <trd lng="ro">continua</trd>
+  <trd lng="sk">necha&tcaron; trva&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x7E7C; <pr>j&#xEC;</pr></trd>,
+    <trd>&#x7D39; <pr>sh&#xE0;o</pr></trd>,
+    <trd>&#x7E7C;&#x7E8C; <pr>j&#xEC;x&#xF9;</pr></trd>,
+    <trd>&#x7D2F;&#x79EF; <pr>l&#x11B;ij&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kontin3.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="kontin3.mal0a.KOMUNE">
+    <dif>
+      Prezentanta &ccirc;esojn, rompojn, interspacojn:
+      <ekz>
+        skribo samaspekta kiel mal<tld/>a linio de formikoj distretitaj
+        <fnt>
+          <bib>MMa</bib>
+          <lok>&Ccirc;apitro 9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la geografiaj kaj klimataj &scirc;an&gcirc;i&gcirc;oj, kiuj
+        certe okazis ene de lastaj geologiaj tempoj,
+        sendube interrompis a&ubreve; faris mal<tld/>aj
+        la anta&ubreve;e <tld/>ajn etendi&gcirc;ojn de multaj specioj
+        <fnt>
+          <bib>OriginoDeSpecioj</bib>,
+          <lok>&ccirc;apitro 11a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="diskre.0a.nombrebla">diskreta<sncref/></ref>,
+      <ref cel="romp.inter0i.cxesigi">interrompi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">p&rcaron;etr&zcaron;it&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>unterbrochen</trd>,
+    <trd>unbest&auml;ndig</trd>,
+    <trd>diskret <klr>(unterbrochen)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>discret<klr> (non continu)</klr></trd>,
+    <trd>interrompu</trd>
+  </trdgrp>
+  <trd lng="ja">&#x4E0D;&#x9023;&#x7D9A;&#x306E;  <pr>&#x3075;&#x308C;&#x3093;&#x305E;&#x304F;&#x306E;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>nieci&aogonek;g&lstroke;y</trd>,
+    <trd>przerywany</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>discontinuu</trd>,
+    <trd>intermitent</trd>
+  </trdgrp>
+  <trd lng="sk">pretr&zcaron;it&yacute;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x8FDE;&#x7EED; <pr>b&#xF9;li&#xE1;nx&#xF9;</pr></trd>,
+    <trd>&#x9593;&#x65B7; <pr>ji&#xE0;ndu&#xE0;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.35 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.34 2023/10/16 21:20:19
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+versio 1.33 2023/09/12 19:20:07
+Wolfram Diestel: ~igi: +ekz, pr. ja
+
+versio 1.31 2022/08/27 20:31:52
+Vito Redsky:  +trd pl  + kor trd ro
+
+versio 1.29 2020/02/15 11:10:20
+Wolfram Diestel: formuloj per am
+
+Revision 1.28  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2012/10/13 18:10:07  revo
+-->
+</vortaro>

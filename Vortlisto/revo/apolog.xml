@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: apolog.xml,v 1.23 2023/10/13 16:46:48 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>apolog</rad>/o
+</kap>
+
+<drv mrk="apolog.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BELE</uzo>
+  <uzo tip="stl">RAR</uzo>
+  <snc>
+    <dif>
+      Mallonga <ref cel="alegor.0a">alegoria</ref> moralinstrua 
+      <ref tip="super" cel="rakont.0o">rakonto</ref>, 
+      formale nedistingebla disde proza 
+      <ref tip="sin" cel="parabo.0o.BELE">parabolo<sncref/></ref>
+      a&ubreve; versa <ref tip="sin" cel="fabl.0o">fablo</ref> (la
+      diferenco estas, ke la terminon <tld/>o oni kutime rezervas por fabloj
+      a&ubreve; paraboloj de antikvaj a&ubreve; orientaj tradicioj):
+      <ekz>
+        tre sa&gcirc;a pastro <klr>[&#x2026;]</klr> elpensis sekvantan
+        <tld/>on:
+        la faraono estas la suno, la kronprinco la luno, kiam la
+        lumantan dion sekvas de malproksime la luno, ni havas la
+        helecon tage kaj la helecon nokte
+	<fnt><bib>Far1</bib>, <lok>&ccirc;ap. 14a.</lok></fnt>;
+      </ekz>
+      <ekz>
+        la dira&jcirc;oj <klr>[de <nom>Walther von der Vogelweide</nom>]</klr> rimi&gcirc;as pare, enhavas
+        parte apologojn <klr>[&#x2026;]</klr> instruajn kaj senstrofajn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=101683">Walther von der
+          Vogelweide</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_p;&c_o;&c_l;&c_ja;&c_g;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_t;&c_ch;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">ap&ograve;leg</trd>
+  <trdgrp lng="de">
+    <trd>Apolog</trd>,
+    <trd>Gleichnis</trd>,
+    <trd>Lehrfabel</trd>
+  </trdgrp>
+  <trd lng="en">apologue</trd>
+  <trd lng="es">ap&oacute;logo</trd>
+  <trdgrp lng="fa">
+    <trd>&a_H;&f_k;&a_A;&f_y;&a_t; &a_A;&a_kh;&a_l;&a_A;&a_q;&f_y;</trd>,
+    <trd>&a_t;&a_m;&a_th;&f_y;&a_l;</trd>
+  </trdgrp>
+  <trd lng="fr">apologue</trd>
+  <trd lng="he">&mem;&tav;&nun;&tsadi;&lamed;</trd>
+  <trd lng="hu">tanmese</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6559;&#x8A13;&#x7684;&#x306A;&#x305F;&#x3068;&#x3048;&#x8A71;  <pr>&#x304D;&#x3087;&#x3046;&#x304F;&#x3093;&#x3066;&#x304D;&#x306A;&#x305F;&#x3068;&#x3048;&#x306F;&#x306A;&#x3057;</pr></trd>,
+    <trd>&#x5BD3;&#x8A71;  <pr>&#x3050;&#x3046;&#x308F;</pr></trd>
+  </trdgrp>
+  <trd lng="lat">apologus, i</trd>
+  <trd lng="nl">apoloog</trd>
+  <trd lng="pl">apolog</trd>
+  <trd lng="ro">apolog</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_a;&c_s;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_t;&c_ch;&c_a;</trd>,
+    <trd>&c_a;&c_p;&c_o;&c_l;&c_o;&c_g;</trd>
+  </trdgrp>
+  <trd lng="sv">fabel</trd>
+  <trd lng="uk">&c_a;&#x43F;&#x43E;&#x43B;&#x43E;&c_g;</trd>
+</drv>
+</art>
+  <!--
+  $Log$
+versio 1.23 2023/10/13 16:46:48
+revo: transskribo per <pr>
+
+versio 1.21 2023/01/31 20:29:38
+Vito Redsky: +trd pl + trd ro
+
+versio 1.19 2022/01/11 21:27:33
+Wolfram Diestel: tekstaran&gcirc;o, +ekz
+
+  Revision 1.16  2010/04/14 06:06:01  revo
+  Jose Antonio del Barrio: +trd es
+
+  Revision 1.15  2009/09/16 16:30:36  revo
+  Sergio Pokrovskij: pli reala dif, +ekz, TEZ
+
+  Revision 1.14  2004/07/15 19:02:34  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.13  2002/10/22 16:32:18  revo
+  Christopher Zervic: + ang
+
+  Revision 1.12  2002/10/01 16:35:11  revo
+-->
+</vortaro>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: auxrik1.xml,v 1.20 2022/04/25 15:11:00 revo Exp $">
+<kap>
+  <rad>a&ubreve;rikul</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="auxrik1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="auxrik1.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:botanikaj_specioj" cel="speci.0o.BIO">Specio</ref>
+      de <ref tip="super" cel="primol.0o">primolo</ref>
+      (<trd lng="la">Primula auricula</trd>), kiu floras
+      anta&ubreve; la komenco de printempo:
+      <ekz>
+        <tld/>o estas 10&#x202F;-&#x202F;15 cm alta sta&ubreve;do, kiu floras tre frue en la printempo kun
+        floroj en umbelo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=30236">Primolacoj</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/7/7d/Primula_auricula_2.jpg/320px-Primula_auricula_2.jpg" prm="CC BY-SA     3.0"><tld/>o (Primula auricula), Slovenujo
+        <fnt>
+          <aut>Franz Xaver, propra foto</aut>
+          <lok><url ref="&WCW;/File:Primula_auricula_2.jpg">&WCW;/File:Primula_auricula_2.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="bg">&c_a;&c_l;&c_p;&c_i;&c_j;&c_s;&c_k;&c_a; &c_i;&c_g;&c_l;&c_i;&c_k;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd>Gamsblume</trd>, <trd>Alpenaurikel</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>auricula</trd>,
+      <trd>mountain cowslip</trd>,
+      <trd>primrose</trd>
+    </trdgrp>
+    <trd lng="fr">auricule</trd>
+    <trdgrp lng="hu">
+      <trd>cifra <ind>kankalin</ind></trd>,
+      <trd>medvef&uuml;l <ind>kankalin</ind></trd>,
+      <trd>f&uuml;les <ind>kankalin</ind></trd>
+    </trdgrp>
+    <trd lng="it"><ind>primula</ind> orecchia d'orso</trd>
+    <trd lng="nl">aurikel</trd>
+    <trd lng="ru">&c_m;&c_je;&c_d;&c_v;&c_je;&c_zh;&c_mol;&c_je; &c_u;&c_sh;&c_k;&c_o;</trd>
+  </snc>
+  <ref tip="hom" cel="auxrik2.0o">a&ubreve;rikulo (gastropodo)</ref>
+  <trd lng="he">&#x5D0;&#x5D5;&#x5D6;&#x5DF; &#x5D3;&#x5D5;&#x5D1;</trd>
+  <trd lng="uk">&#x432;&#x435;&#x434;&#x43C;&#x435;&#x436;&#x435; &#x432;&#x443;&#x448;&#x43A;&#x43E;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.18 2021/05/22 14:50:53
+Wolfram Diestel: +ref-hom
+
+Revision 1.15  2013/08/19 13:10:14  revo
+Joop Eggen: +trd bg en nl
+
+Revision 1.14  2012/01/04 11:10:13  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2002/11/01 09:18:08  revo
+Christopher Zervic: + ang
+
+Revision 1.12  2002/03/22 17:32:16  revo
+Yury Finkel: formatigis
+
+Revision 1.11 2002/03/20 17:32:53 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10 2000/10/29 17:12:01 revo
+-->
+</vortaro>

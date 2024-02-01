@@ -1,0 +1,556 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: implic.xml,v 1.46 2023/12/21 12:43:54 revo Exp $">
+<kap>
+  <rad>implic</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="implic.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="implic.0i.iu">
+    <dif>
+      <klr>(Kun ula subjekto:)</klr>
+      Nerekte ion indiki a&ubreve; supozigi kiel neesprimitan premison,
+      sekvon a&ubreve; cirkonstancon:
+      <ekz>
+        li tion ne asertis, sed &scirc;ajne li tion <tld/>is;
+      </ekz>
+      <ekz>
+        estus nematematika <tld/>i, ke la nombroj nepre estas
+        entjeroj kaj enkonduki, kiel SPIV, specialan vorton
+        <ctl>kompti</ctl> por grandoj kontinuaj
+        <fnt><bib>KompLeks</bib>, <lok>nombri</lok></fnt>;
+      </ekz>
+      <ekz>
+        per tio mi neniel volas <tld/>i, ke EVA estas ripro&ccirc;inda
+        a&ubreve; sektisma
+        <fnt>
+          <aut>B. Nilsson</aut>,
+          <vrk>Kio estas sekto en Esperantio?</vrk>,
+          <lok><url ref="http://www.esperantio.net/heroldo_komunikas.php?numero=193">Heroldo
+          Komunikas, n-ro 193</url></lok>
+        </fnt>;
+      </ekz><ekz>
+        oni ne parolas pri <ctl>gehundoj</ctl> se ne gravas, ke la
+        priparolitaj bestoj estas de amba&ubreve; seksoj &#8208; oni diru
+        simple <ctl>hundoj</ctl>, tute sen <tld/>i, ke &ccirc;iuj el ili
+        estas viraj
+        <fnt><aut>VerdLanco</aut>,
+          <vrk>Diskuto: Gravaj esperantistoj</vrk>
+          <lok><url ref="&Viki;/Diskuto:Gravaj_geesperantistoj">Vikipedia
+          diskutlisto</url></lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_d;&c_r;&c_a;&c_z;&c_u;&c_m;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_d;&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_mol; &c_n;&c_je;&c_ja;&c_v;&c_n;&c_o;</trd>,
+      <trd>&c_i;&c_m;&c_je;&c_t;&c_mol; &c_v; &c_v;&c_i;&c_d;&c_u;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="implic.0i.io">
+    <dif>
+      <klr>(Kun a&jcirc;a subjekto:)</klr>
+      Koncepte a&ubreve; logike enteni, ion neprigi kiel necesan premison,
+      sekvon a&ubreve; probablan cirkonstancon:
+      <ekz>
+        la ideo de ordo <tld/>as la ideon de ordiganta inteligento
+        <fnt><bib>PIV2</bib>, <lok>implici</lok></fnt>;
+      </ekz>
+      <ekz>
+        lia silento <tld/>is konsenton;
+      </ekz>
+      <ekz>
+        milito <tld/>as mortigojn;
+      </ekz>
+      <ekz>
+        la partopreno en la Forumo <tld/>as neniun financan
+        &scirc;ar&gcirc;on a&ubreve; moralan enga&gcirc;on
+        <fnt>
+          <aut>J. Camacho</aut>,
+          <vrk>La liturgio de l' foiro</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tamen, manko de senco ne necese <tld/>as mankon
+        de plezuro
+        <fnt>
+          <aut>D. Harlow</aut>,
+          <vrk>&leftquot;E&ubreve;lalia&rightquot; de Lorjak</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiuj, kiuj ali&gcirc;as, e&ccirc; pasive, al naciismo, ne povas eskapi la
+        kolektivan
+        respondecon, &gcirc;uste pro tio, ke ilia ali&gcirc;o <tld/>as kolektivecon:
+        la pronomo
+        ni estas ilia plej &scirc;atata vorto e&ccirc; tra la jarcentoj
+        <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio:
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+      <trdgrp lng="be">
+    <trd>&c_u;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_u; &c_s;&c_a;&c_b;&c_je;)</klr></trd>,
+    <trd>&c_z;&c_mol;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_c;&c_mol; <klr>(&c_u; &c_s;&c_a;&c_b;&c_je;)</klr></trd>
+  </trdgrp>
+  </snc>
+  <rim>
+   PV kaj la PIV-oj prezentas la vortojn <ctl>implicita</ctl>,
+   <ctl>implicite</ctl> kiel deriva&jcirc;ojn de <tld/>i:
+   <ekz>
+     <tld/>ita kondi&ccirc;o, senco;
+   </ekz>
+   <ekz>
+     tiuj kromaj ecoj ne estas esencaj por la difino, sed ili
+     estas
+     <tld/>itaj en &gcirc;i;
+   </ekz>
+   <ekz>
+     tio <tld/>ite rezultas el la regulo<fnt><bib>PV</bib></fnt>.
+   </ekz>
+   Tio preska&ubreve; &ccirc;iam estas naturisma misprezento
+   (senpripensa
+   imito de la naciaj <ctl>implicit</ctl> ktp); &ccirc;ar la senco
+   normale postulus -ata, -ate, kiel en similsencaj
+   <ctl>subkomprenAta</ctl>, <ctl>entenAta</ctl>).  Kp
+   <ekz>
+     la formo <ctl>malfinia</ctl>, kie mi uzus simple
+     <ctl>nefinia</ctl>, inspiras leganton pensi pri la supozeble
+     <tld/>ata, pure esperanta, kurioza ebleco distingi inter
+     tri klasoj (finiaj, nefiniaj kaj malfiniaj matematikaj
+     entoj <klr>[&#8230;]</klr>)
+     <fnt>
+       <aut>A. Shlyafer</aut>:
+       <vrk>Komputiko &leftquot;la&ubreve; Pokrovskij&rightquot;</vrk>.
+       <bib>LOdE</bib>, <lok>1996:2 (27)</lok>.
+     </fnt>.
+   </ekz>
+   Por la indikita senco oni prefere uzu pli simplajn vortojn
+   <tld/>a, <tld/>e, kaj <ctl>implicita</ctl> estas traktenda
+   kiel aparta vorto (samkiel <ctl>rezultato</ctl> ne estas
+   deriva&jcirc;o el <ctl>rezulti</ctl>).
+   <aut>Sergio Pokrovskij</aut>
+  </rim>
+  <trdgrp lng="cs">
+  <trd>implikovat</trd>,
+  <trd>zahrnovat v sob&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>beinhalten</trd>,
+    <trd>einschlie&szlig;en</trd>,
+    <trd>implizieren</trd>
+  </trdgrp>
+  <trd lng="en">imply</trd>
+  <trd lng="es">implicar</trd>
+  <trdgrp lng="fr">
+    <trd>impliquer<klr tip="ind"> (logiquement)</klr></trd>,
+    <trd>entra&icirc;ner<klr tip="ind"> (logiquement)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>mag&aacute;ban foglal</trd>,
+    <trd>mag&aacute;ban rejt</trd>,
+    <trd>felt&eacute;telez</trd>,
+    <trd>implik&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#26263;&#x306B;&#x542B;&#12417;&#x308B;  <pr>&#12354;&#12435;&#x306B;&#12405;&#x304F;&#12417;&#x308B;</pr></trd>,
+    <trd>&#x542B;&#x610F;&#12377;&#x308B; <pr>&#x304C;&#12435;&#12356;&#12377;&#x308B;</pr></trd>,
+    <trd>&#26263;&#x306B;&#x793A;&#12377;  <pr>&#12354;&#12435;&#x306B;&#12375;&#12417;&#12377;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">impliceren</trd>
+  <trdgrp lng="pl">
+    <trd>implikowa&cacute;</trd>,
+    <trd>mie&sacute;ci&cacute; w sobie</trd>,
+    <trd>zawiera&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">implicar em</trd>
+  <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_d;&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_n;&c_je;&c_ja;&c_v;&c_n;&c_o; &c_o;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_n;&c_a;&c_ch;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_o;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol; &c_v; &c_s;&c_je;&c_b;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+  <trd>implikova&tcaron;</trd>,
+  <trd>obsahova&tcaron;</trd>,
+  <trd>zahrnova&tcaron; v&nbsp;sebe</trd>
+  </trdgrp>
+  <trd lng="uk">&c_m;&c_ib;&c_s;&c_t;&c_i;&c_t;&c_i; (&c_v; &c_s;&c_o;&c_b;&c_ib;)</trd>
+  <trdgrp lng="zh">
+    <trd>&#x9ED8;&#x793A; <pr>m&#xF2;sh&#xEC;</pr></trd>,
+    <trd>&#29301;&#x6D89; <pr>qi&amacron;nsh&#xE8;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="implic.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="implic.0a.KOMUNE">
+    <dif>
+      Subkomprenata:
+      <ekz>
+        <tld/>a kondi&ccirc;o, senco, minaco, interkonsento;
+      </ekz><ekz>
+        la tenantoj de la a&ubreve;torrajto kaja&ubreve; aliaj partioj
+        disponigas la Programon &leftquot;tia, kia &gcirc;i estas&rightquot; <klr>[&#8230;]</klr>
+        sen ia ajn garantio, nek esprimita nek <tld/>a, interalie
+        sen la <tld/>a garantio pri surmerkatigeblo, a&ubreve; ta&ubreve;geco
+        por konkreta uzo
+        Programo
+        <fnt>
+          <vrk><url ref="http://www.esperanto.mv.ru/Cetero/gpl.html">&Gcirc;enerala
+          Publika Permesilo</url></vrk>,
+          <lok>&para;11</lok>.
+        </fnt>;
+      </ekz><ekz>
+        tio <ind><tld/>e</ind> sekvas el la regulo;
+        <trd lng="hu">implicite</trd>
+        <trd lng="ru">&c_n;&c_je;&c_ja;&c_v;&c_n;&c_o;</trd>
+      </ekz><ekz>
+        <nom>Perec </nom>literature prilaboris judan popolan rakonton,
+        kiu
+        ilustras la internan konflikton <tld/>an en &ccirc;iu religio:
+        la problemon de relativa valoro inter formo de la religio
+        (diversaj, ceremoniaj preskriboj kaj specifaj kredoj) kaj
+        ties spirita enhavo
+        <fnt>
+          <aut>I. L. Perec, trad. M. Wajsblum</aut>,
+          <vrk>Se ne pli alten</vrk>,
+          <lok>Norda Prismo, 57:5</lok>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        kio pri la <tld/>a&jcirc;oj?
+        <fnt><aut>Alberto Garc&iacute;a Fumero</aut>,
+        <vrk><url ref="&Monato;/2000/006950.php">Alfa ondo</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/08, p. 23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">implizit</trd>
+    <trd lng="en">implicit</trd>
+    <trd lng="fr">implicite</trd>
+    <trd lng="hu">implicit</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_k;&c_r;&c_y;&c_t;&c_y;&c_j;</trd>,
+      <trd>&c_p;&c_o;&c_d;&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_v;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>,
+      <trd>&c_n;&c_je;&c_ja;&c_v;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="implic.0a.MAT">
+    <dif>
+      Difinita malrekte, per ekvacio a&ubreve; alia rilato al
+      aliaj matematikaj objektoj:
+      <ekz>
+        la ekvacio <frm am="5+x=0">x+5=0</frm> estas <tld/>a difino de
+        <frm am="x">x</frm>, kontraste al la mal<tld/>a difino
+        <frm am="x=5">x=5</frm>;
+      </ekz><ekz>
+        ekzemplo pri <tld/>a difino de objektoj en matematika
+        teorio estas aksiomsistemo, kiu ne difinas rekte la
+        objektojn mem, sed la rilatojn inter ili;
+      </ekz><ekz>
+        <ind><tld/>a funkcio</ind>;
+        <trd lng="en">implicit function</trd>
+        <trd lng="pl">funkcja ukryta</trd>
+        <trd lng="ru">&c_n;&c_je;&c_ja;&c_v;&c_n;&c_a;&c_ja;
+          &c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;</trd>
+      </ekz><ekz>
+        <ind><tld/>a difino</ind>.
+        <trd lng="en">implicit definition</trd>
+        <trd lng="pl">definicja ukryta</trd>
+        <trd lng="ru">&c_n;&c_je;&c_ja;&c_v;&c_n;&c_o;&c_je;
+          &c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+      </ekz>
+    </dif>
+    <trd lng="en">implicit</trd>
+    <trd lng="fr">implicite</trd>
+    <trd lng="ru">&c_n;&c_je;&c_ja;&c_v;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="implic.0a.implikacia">
+    <ref tip="dif" cel="implikaci.0a">implikacia</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_ja;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_r;&c_a;&c_z;&c_u;&c_m;&c_ja;&c_v;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_ib;&c_m;&c_p;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>implicitn&iacute;</trd>,
+    <trd>zahrnut&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">implicative</trd>
+  <trdgrp lng="pl">
+    <trd>implikowany</trd>,
+    <trd>domniemany</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>implicitn&yacute;</trd>,
+    <trd>zahrnut&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ja;&c_k;&c_i;&c_j; &c_m;&c_ib;&c_s;&c_t;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_ja;&c_k;&c_i;&c_j; &c_m;&c_a;&c_jeu;&c_t;&c_mol;&c_s;&c_ja; &c_n;&c_a; &c_u;&c_v;&c_a;&c_z;&c_ib;</trd>,
+    <trd>&c_n;&c_je;&c_ja;&c_v;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_ib;&c_m;&c_p;&c_l;&c_ib;&c_c;&c_i;&c_t;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#29301;&#x6D89; <pr>qi&amacron;nsh&#xE8;</pr></trd>,
+    <trd>&#x542B;&#x84C4; <pr>h&#xE1;nx&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="implic.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Komplete kaj klare esprimi elementon de tuto:
+      <ekz>
+        estas prudente mal<tld/>i &ccirc;iujn kla&ubreve;zojn de kontrakto;
+      </ekz>
+      <ekz>
+        mal<tld/>anta formulo;
+      </ekz>
+      <ekz>
+        <ind>mal<tld/>ita</ind> kondi&ccirc;o;
+        <trd lng="fr">explicite</trd>
+        <trd lng="hu">explicit</trd>
+        <trdgrp lng="ru">
+          <trd>&c_ja;&c_v;&c_n;&c_y;&c_j;</trd>,
+          <trd>&c_n;&c_je;&c_d;&c_v;&c_u;&c_s;&c_m;&c_y;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+          <trd>&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        islamo <klr>[&#8230;]</klr>, kvankam ne dividi&gcirc;o de a&ubreve; judismo a&ubreve;
+        kristanismo, &gcirc;i
+        mal<tld/>e pretendis esti kontinua&jcirc;o kaj anstata&ubreve;igo por ili,
+        kaj ripetis
+        multajn el iliaj principoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=281">Abrahama religio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_t;&c_l;&c_u;&c_m;&c_a;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol; &c_ja;&c_w;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">vyj&aacute;d&rcaron;it p&rcaron;esn&ecaron;</trd>
+  <trdgrp lng="de">
+    <trd>ausf&uuml;hren</trd>,
+    <trd><ind>explizit </ind>angeben</trd>
+  </trdgrp>
+  <trd lng="en">state explicitly</trd>
+  <trd lng="fr">expliciter</trd>
+  <trdgrp lng="hu">
+    <trd>kifejt</trd>,
+    <trd>kifejez</trd>,
+    <trd>explik&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x660E;&#x767D;&#x306B;&#x8FF0;&#12409;&#x308B;
+    <pr>&#12417;&#12356;&#x306F;&#x304F;&#x306B;&#x306E;&#12409;&#x308B;</pr></trd>,
+    <trd>&#x660E;&#x793A;&#12377;&#x308B;  <pr>&#12417;&#12356;&#12376;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wyja&sacute;nia&cacute;</trd>,
+    <trd>obja&sacute;nia&cacute;</trd>,
+    <trd>wyra&zdot;a&cacute; jasno</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_y;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol; &c_ja;&c_v;&c_n;&c_o;</trd>
+  <trd lng="sk">vyjadri&tcaron; presne</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_ib;&c_t;&#x43A;&#x43E; &c_v;&c_i;&c_z;&#x43D;&c_a;&c_ch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43A;&c_r;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#8217;&#x44F;&c_s;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43F;&#x43B;&c_u;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x660E;&#x786E; <pr>m&#xED;ngqu&#xE8;</pr></trd>,
+    <trd>&#x660E;&#x793A; <pr>m&#xED;ngsh&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="implic.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="implic.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i a&ubreve; rezulto de tia ago:
+      <ekz>
+        nenio en &ccirc;i tiu Deklaracio estu interpretita kiel <tld/>o,
+        ke iu ajn &Scirc;tato, grupo a&ubreve; persono iel ajn rajtas
+        entrepreni ian ajn agadon a&ubreve; plenumi ian ajn agon, kiu
+        celus detrui kiun ajn el la rajtoj kaj liberecoj &ccirc;i-ene
+        difinitaj
+        <fnt>
+          <vrk><url ref="http://www.unhchr.ch/udhr/lang/1115_print.htm">Universala
+          Deklaracio de Homaj Rajtoj</url></vrk>,
+          <lok>Art. 30a</lok>.
+        </fnt>;
+      </ekz><ekz>
+        la redakcio ne deziras alpreni starpunkton rilate al
+        politikaj a&ubreve; diplomatiaj <tld/>oj de la geografiaj nomoj
+        a&ubreve; kontinentaj grupigoj uzitaj
+        <fnt>
+          <vrk><url ref="http://www.uia.org/organizations/esperanto.php">Notoj pri
+          Jarlibro de internaciaj
+              organizoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni en E&ubreve;ropo ne povas scii politikan <tld/>on en Japanio de iu
+        artikolo
+        <fnt>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2000/006909.php">Novjara kla&ccirc;o super konjako</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 25</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_a;&c_z;&c_u;&c_m;&c_ja;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="fr">implication</trd>
+    <trd lng="pl">implikacja</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_d;&c_t;&c_je;&c_k;&c_s;&c_t;</trd>,
+      <trd>&c_p;&c_o;&c_d;&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_s;&c_k;&c_r;&c_y;&c_t;&c_y;&c_j; &c_s;&c_m;&c_y;&c_s;&c_l;</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x63A8;&#x884D; <pr>tu&#x12B;y&#x1CE;n</pr></trd>,
+    <trd>&#x6DB5;&#x4E49; <pr>h&#xE1;ny&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="implic.0o.logika">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatStokTerm</bib><lok>p. 21</lok></fnt>
+    <dif>
+      <ref tip="super" cel="operac.logika0o">Logika operacio</ref>,
+      kiu al du <ref cel="propoz.0o.aserto">propozicioj</ref>
+      <frm am="P">P</frm> kaj <frm am="Q">Q</frm> asocias la propozicion
+      <frm am="neg P vv Q">&#xAC;P&#8744;Q</frm> <klr> (legu: ne po a&ubreve; kuo)</klr>;
+      rezulto de tiu operacio:
+      <ekz>
+        la <tld/>on de <frm am="P">P</frm> al <frm am="Q">Q</frm> oni
+        kutime signas per <frm am="P =&gt; Q">P&#x21D2;Q</frm>
+        <klr> (legu: po implicas kuo-on)</klr>;
+      </ekz><ekz>
+        <tld/>o estas falsa, se kaj nur se la unua argumento estas
+        vera
+        kaj la dua falsa.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pozici.kontraux0o">kontra&ubreve;pozicio</ref>,
+      <ref cel="kondic1.necesa0o">necesa kondi&ccirc;o</ref>,
+      <ref cel="kondic1.suficxa0o">sufi&ccirc;a kondi&ccirc;o</ref>.
+    </refgrp>
+    <bld lok="../bld/t_implico.svg" tip="svg" lrg="200" alt="200">
+      vertabelo de <tld/>o
+    </bld>
+    <rim>
+      &Ccirc;i tiu termino havas sian tradicion en Esperanto, sed mi
+      opinias &gcirc;in malta&ubreve;ga: &gcirc;i kolizias kun la senco
+      <tld/>a<sncref ref="implic.0a.MAT"/>, kiu estas praktike pli
+      ofta en matematiko; &gcirc;i anka&ubreve; konfuzeblas kun logikaj
+      derivreguloj, kiuj anka&ubreve; estas speco de <tld/>o
+      (ekz-e <ctl>elkajigo</ctl>, la regulo ebliganta el
+      <frm am="A &amp; B">A&amp;B</frm> derivi <frm am="A">A</frm>, anka&ubreve; estas
+      &leftquot;<tld/>o&rightquot; en la komuna senco de la vorto).  Krome, kvankam
+      veras, ke la formulo <frm am="(A&amp;B)">(A&amp;B)</frm> <tld/>as
+      propozicion <frm am="(B)">(B)</frm>, tamen la formulo
+      <frm am="A&amp;B =&gt; B">A&amp;B&#x21D2;B</frm> asertas tion kiel eble plej
+      klare, malka&scirc;e kaj <em>mal<tld/>e</em>!  Pli bone estas
+      uzi por tiu speciala senco tute precizan kaj nekonfuzeblan
+      terminon <ref tip="sin" cel="implikaci.0o">implikacio</ref>.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trd lng="be">&c_ib;&c_m;&c_p;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_y;&c_ja;</trd>
+    <trd lng="de">Implikation</trd>
+    <trd lng="en">implication</trd>
+    <trd lng="fr">implication</trd>
+    <trdgrp lng="hu">
+      <trd>implik&aacute;ci&oacute;</trd>,
+      <trd>felt&eacute;teles <ind>k&ouml;vetkeztet&eacute;s</ind></trd>
+    </trdgrp>
+    <trd lng="pl">implikacja</trd>
+    <trd lng="ru">&c_i;&c_m;&c_p;&c_l;&c_i;&c_k;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <trd lng="cs">implikace</trd>
+  <trd lng="es">implicaci&oacute;n</trd>
+  <trd lng="sk">implik&aacute;cia</trd>
+  <trd lng="uk">&c_ib;&c_m;&c_p;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_ib;&c_ja;</trd>
+</drv>
+
+<drv mrk="implic.duobla0o">
+  <kap>duobla <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="implic.duobla0o.ekvivalento">
+    <ref tip="dif" cel="ekviva.0o.logika">ekvivalento</ref>
+  </snc>
+  <rim>
+    Konfuza termino.  Min &gcirc;i pensigas pri la formulo
+    <frm am="(A =&gt;B)=&gt;C">(A&#x21D2;B)&#x21D2;C</frm> (sufi&ccirc;e ofta en logiko).
+    Mi preferas pli klaran
+    <ref tip="sin" cel="implikaci.ambauxdirekta0o">amba&ubreve;direkta
+    implikacio</ref>.
+    <aut>Sergio Pokrovskij</aut>
+  </rim>
+  <trd lng="be">&c_e;&c_k;&c_v;&c_ib;&c_v;&c_a;&c_l;&c_je;&c_n;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol; <klr>(&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
+  <trd lng="cs">ekvivalent</trd>
+  <trd lng="de">&Auml;quivalenz</trd>
+  <trd lng="en">equivalence</trd>
+  <trd lng="es">equivalencia</trd>
+  <trd lng="fr">&eacute;quivalence</trd>
+  <trd lng="hu">ekvivalencia</trd>
+  <trdgrp lng="pl">
+    <trd>r&oacute;wnowa&zdot;no&sacute;&cacute;</trd>,
+    <trd>ekwiwalencja</trd>
+  </trdgrp>
+  <trd lng="ru"><klr tip="ind">(&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;)
+    </klr>&c_e;&c_k;&c_v;&c_i;&c_v;&c_a;&c_l;&c_je;&c_n;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">ekvivalent</trd>
+  <trd lng="zh">&#x7B49;&#20516;&#24615; <pr>d&#x11B;ngzh&#xED;x&#xEC;ng</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.46 2023/12/21 12:43:54
+Dmitri Gabinski: + trd be
+
+versio 1.44 2023/11/03 01:31:39
+Vito Redsky: +trd pl
+
+versio 1.43 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+versio 1.42 2023/09/12 16:31:29
+Wolfram Diestel: pr. ja
+
+versio 1.40 2023/04/27 10:31:21
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.39 2023/04/17 06:32:35
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.38 2023/04/07 15:26:48
+Paul Peeraerts: &Monato;
+
+versio 1.37 2022/04/30 08:42:42
+-->
+</vortaro>

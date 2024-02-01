@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: edelve.xml,v 1.26 2023/11/07 19:21:48 revo Exp $">
+<kap>
+<rad>edelvejs</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="edelve.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="edelve.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:botanikaj_genroj" cel="genr.0o.BIO">Genro</ref>
+      el la familio <ref tip="malprt" cel="astera.0oj">asteracoj</ref>
+      (<trd lng="la">Leontopodium</trd>), kun blanka laneca floro,
+      kreskanta sur kalka grundo en montaro:
+      <ekz>
+        plantoj el la t.n. alpaj zonoj, kiuj vere riskas malaperi ka&ubreve;ze de la klimata
+        &scirc;an&gcirc;i&gcirc;o <klr>[&#x2026;]</klr> inkluzivas <tld/>ojn, rododendrojn kaj aliajn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2012/010754.php">Protektanta biodiversecon</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vetero tute ne estis malvarma kaj la plantoj (alpaj <tld/>oj kaj
+        moder-klimataj trikoloretoj kune!) bunte floris sub maldensa polva&jcirc;o de ne&gcirc;o
+        en la malgranda botanika &gcirc;ardeno
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj'</aut>
+          <vrk><url ref="&Monato;/2015/011315.php">La islanda: revo de ne plu juna lernemulo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="flor.negxo0o.BOT">ne&gcirc;ofloro</ref>
+    <bld lok="&WCU;/thumb/e/ee/CH_Leontopodium_alpinum_2.jpg/360px-CH_Leontopodium_alpinum_2.jpg" prm="CC BY-SA 4.0">Alpa <tld/>o (Leontopodium alpinum)
+        <fnt>
+          <aut>Daniel Schwen, propra verko</aut>
+          <lok><url ref="&WCW;/File:CH_Leontopodium_alpinum_2.jpg">&WCW;/File:CH_Leontopodium_alpinum_2.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_e;&c_d;&c_e;&c_l;&c_mol;&c_v;&c_e;&c_j;&c_s;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_l;&c_v;&c_a;&c_j;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>plesnivec alpsk&yacute;</trd>,
+    <trd>prot&ecaron;&zcaron; alpsk&aacute;</trd>
+  </trdgrp>
+  <trd lng="de">Edelwei&szlig;</trd>
+  <trd lng="en">edelweiss</trd>
+  <trd lng="fr">edelweiss</trd>
+  <trd lng="hu">havasi gyop&aacute;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A8;&#x30FC;&#x30C7;&#x30EB;&#x30EF;&#x30A4;&#x30B9;</trd>,
+    <trd>&#x30BB;&#x30A4;&#x30E8;&#x30A6;&#x30A6;&#x30B9;&#x30E6;&#x30AD;&#x30BD;&#x30A6;</trd>
+  </trdgrp>
+  <trd lng="nl">edelweiss</trd>
+  <trd lng="pl">szarotka</trd>
+  <trd lng="pt">edelvais</trd>
+  <trd lng="ru">&c_e;&c_d;&c_je;&c_l;&c_mol;&c_v;&c_je;&c_j;&c_s;</trd>
+  <trd lng="sk">plesnivec alpsk&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x435;&#x434;&#x435;&#x43B;&#x44C;&#x432;&#x435;&#x439;&#x441;</trd>,
+    <trd>&#x431;&#x456;&#x43B;&#x43E;&#x442;&#x43A;&#x430;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x706B;&#x7D68;&#x8349; <pr>hu&#x1D2;r&#xF3;ngc&#x1CE;o</pr></trd>,
+    <trd>&#x9AD8;&#x5C71;&#x706B;&#x7D68;&#x8349; <pr>g&#x101;osh&#x101;nhu&#x1D2;r&#xF3;ngc&#x1CE;o</pr></trd>,
+    <trd>&#x96EA;&#x7D68;&#x82B1; <pr>xu&#x11B;r&#xF3;nghu&#x101;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2022/04/27 14:38:53
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.21  2019/01/11 17:10:17  revo
+Wolfram Diestel: +ekz-oj, +bld
+
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2010/04/09 16:31:26  revo
+Wieland Pusch: +trd bg
+
+Revision 1.17  2009/08/28 16:32:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2009/01/03 17:31:23  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.15  2007/06/22 17:25:04  revo
+-->
+</vortaro>

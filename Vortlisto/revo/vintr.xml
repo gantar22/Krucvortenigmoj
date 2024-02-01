@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vintr.xml,v 1.110 2023/11/08 03:27:06 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vintr</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="vintr.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="vintr.0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      En mezvarmaj landoj malvarma <ref tip="lst" cel="sezon.0o.KAL" lst="voko:sezonoj"
+      val="4">sezono</ref>, post a&ubreve;tuno, anta&ubreve;
+      printempo
+      (la&ubreve; la gregoria
+      kalendaro en la norda hemisfero de proksimume la 21a tago de
+      decembro &gcirc;is la 21a de marto; en la suda de proksimume la 21a de
+      junio &gcirc;is la 23a de septembro):
+      <ekz>
+        kio ta&ubreve;gas por somero, ne ta&ubreve;gas por <tld/>o
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        marmoto <tld/>e dormas.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">winter</trd>
+  <trd lng="am">&#x12AD;&#4648;&#x121D;&#4725;</trd>
+  <trd lng="ar">&a_sh;&#x62A;&a_A;&a_hamza;</trd>
+  <trd lng="az">q&inodot;&#x15F;</trd>
+  <trd lng="be">&c_z;&c_ib;&c_m;&c_a;</trd>
+  <trd lng="bg">&c_z;&c_i;&c_m;&c_a;</trd>
+  <trd lng="bn">&#x9B6;&#x9C0;&#x9A4;&#2453;&#x9BE;&#x9B2;&#x9C0;&#x9A8;</trd>
+  <trd lng="bo">&#xF51;&#xF42;&#xF74;&#xF53;&#xF0B;&#xF41;&#xF0B;</trd>
+  <trd lng="bs">zime</trd>
+  <trd lng="ca">hivern</trd>
+  <trd lng="co">inguernu</trd>
+  <trdgrp lng="cs">
+    <trd>zima</trd>,
+    <trd>zima <klr>(ro&ccaron;n&iacute; obdob&iacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="cy">gaeaf</trd>
+  <trd lng="da">vinter</trd>
+  <trd lng="de">Winter</trd>
+  <trd lng="el">&chi;&epsilon;&jota;&my;&omega_ton;&ny;&alfa;&sigma_fina;</trd>
+  <trd lng="en">winter</trd>
+  <trd lng="es">invierno</trd>
+  <trd lng="et">talv</trd>
+  <trd lng="eu">negua</trd>
+  <trd lng="fr">hiver</trd>
+  <trd lng="fy">winter</trd>
+  <trd lng="ga">gheimhridh</trd>
+  <trd lng="gd">geamhradh</trd>
+  <trd lng="gl">inverno</trd>
+  <trd lng="gu">&#xAB6;&#xABF;&#xAAF;&#xABE;&#xAB3;&#xABE;&#xAAE;&#xABE;&#xA82;</trd>
+  <trd lng="ha">hunturu</trd>
+  <trd lng="he">&het;&vav;&resh;&fpe;</trd>
+  <trd lng="hi">&#2360;&#2352;&#x94D;&#2342;&#x93F;&#x92F;&#x94B;&#2306;</trd>
+  <trd lng="hmn">lub caij ntuj no</trd>
+  <trd lng="hr">zima</trd>
+  <trd lng="ht">sezon fredi</trd>
+  <trd lng="hu">t&eacute;l</trd>
+  <trd lng="hy">&#1393;&#1396;&#1381;&#x57C;</trd>
+  <trd lng="id"><ind>musim</ind> dingin</trd>
+  <trd lng="ig">oyi</trd>
+  <trd lng="is">vetur</trd>
+  <trd lng="ja">&#x51AC; <pr>&#12405;&#12422;</pr></trd>
+  <trd lng="jv">mangsa</trd>
+  <trd lng="ka">&#x10D6;&#x10D0;&#x10DB;&#x10D7;&#x10E0;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&#x49B;&#x44B;&c_s;</trd>
+  <trd lng="km">&#x179A;&#x178A;&#x17BC;&#x179C;&#x179A;&#6020;&#x17B6;&#x179A;</trd>
+  <trd lng="kn">&#xC9A;&#xCB3;&#xCBF;&#xC97;&#xCBE;&#xCB2;&#xCA6;</trd>
+  <trd lng="ko">&#xACA8;&#xC6B8;</trd>
+  <trd lng="ku">zivistan</trd>
+  <trd lng="ky">&#x43A;&#x44B;&c_sh;</trd>
+  <trd lng="lo">&#xEA5;&#xEB0;&#xE94;&#xEB9;&#xEAB;&#xE99;&#xEB2;&#xEA7;</trd>
+  <trd lng="lt">&#x17E;iema</trd>
+  <trd lng="lv">ziema</trd>
+  <trd lng="mg">ririnina</trd>
+  <trd lng="mi">hotoke</trd>
+  <trd lng="mk">&c_z;&c_i;&#x43C;&c_a;</trd>
+  <trd lng="ml">&#xD36;&#xD40;&#xD24;&#xD15;&#xD3E;&#xD32;&#xD02;</trd>
+  <trd lng="mn">&#x4E9;&c_v;&#x4E9;&#x43B;</trd>
+  <trd lng="mr">&#2361;&#x93F;&#2357;&#x93E;&#2355;&#x93E;</trd>
+  <trd lng="ms">musim sejuk</trd>
+  <trd lng="mt">xitwa</trd>
+  <trd lng="my">&#4102;&#4145;&#x102C;&#4100;&#x103A;&#4152;&#4112;&#x103D;&#4100;&#x103A;&#4152;</trd>
+  <trd lng="ne">&#x91C;&#x93E;&#2337;&#x94B;</trd>
+  <trd lng="nl">winter</trd>
+  <trd lng="ny">zima</trd>
+  <trd lng="pa">&#xA38;&#xA30;&#xA26;&#xA40;</trd>
+  <trd lng="pl">zima</trd>
+  <trd lng="ps">&#x62F; &f_zh;&a_m;&#x64A; &#x67E;&a_h;</trd>
+  <trd lng="pt">inverno</trd>
+  <trd lng="ro">iarn&abreve;</trd>
+  <trd lng="ru">&c_z;&c_i;&c_m;&c_a;</trd>
+  <trd lng="rw">imbeho</trd>
+  <trd lng="sd">&a_s;&#x64A;&a_A;&a_r;&#x64A; &#x6FE;</trd>
+  <trd lng="si">&#xDC1;&#xDD3;&#xDAD;</trd>
+  <trd lng="sk">zima <klr>(ro&ccaron;n&eacute; obdobie)</klr></trd>
+  <trd lng="sl">zima</trd>
+  <trd lng="sm">tau m&amacron;l&#x16B;l&#x16B;</trd>
+  <trd lng="sn">chando</trd>
+  <trd lng="so">jiilaalka</trd>
+  <trd lng="sq">dimrit</trd>
+  <trd lng="st">mariha</trd>
+  <trd lng="su">usum tiris</trd>
+  <trd lng="sv">vinter</trd>
+  <trd lng="sw">majira ya baridi</trd>
+  <trd
+  lng="ta">&#xB95;&#xBC1;&#xBB3;&#xBBF;&#xBB0;&#xBCD;&#xB95;&#xBBE;&#xBB2;&#xBA4;&#xBCD;&#xBA4;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC36;&#xC40;&#xC24;&#xC3E;&#xC15;&#xC3E;&#xC32;&#xC02;&#xC32;&#xC4B;</trd>
+  <trd lng="tg">&c_z;&c_i;&#x43C;&c_i;&c_s;&c_t;&#x43E;&#x43D;</trd>
+  <trd lng="th">&#xE24;&#xE14;&#xE39;&#xE2B;&#xE19;&#xE32;&#xE27;</trd>
+  <trd lng="tl">taglamig</trd>
+  <trd lng="tt">&#x43A;&#x44B;&c_sh;</trd>
+  <trd lng="uk">&c_z;&c_i;&#x43C;&c_a;</trd>
+  <trd lng="ur">&a_m;&a_w;&a_s;&a_m; &a_s;&a_r;&a_m;&a_A;</trd>
+  <trd lng="uz">qish</trd>
+  <trd lng="vi">m&#xF9;a &#273;&#xF4;ng</trd>
+  <trd lng="vo">nifatim</trd>
+  <trd lng="xh">ubusika</trd>
+  <trd lng="yi">&#x5D5;&#x5D5;&#x5D9;&#x5E0;&#x5D8;&#x5E2;&#x5E8;</trd>
+  <trd lng="yo">otutu</trd>
+  <trd lng="zu">ubusika</trd>
+</drv>
+
+<drv mrk="vintr.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="vintr.0a.KAL">
+    <dif>
+      Okazanta en <tld/>o, per sia etoso simila al <tld/>o:
+      <ekz>
+        palaj <tld/>aj sunradioj
+        <fnt><bib>InfanTorent2</bib>, <lok>unua parto, &ccirc;apitro
+        2a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">hivernal</trd>
+  <trd lng="cs">zimn&iacute;</trd>
+  <trd lng="de">winterlich</trd>
+  <trd lng="es">invernal</trd>
+  <trd lng="fr">hivernal</trd>
+  <trd lng="id">hibernal</trd>
+  <trd lng="ja">&#x51AC;&#x306E; <pr>&#12405;&#12422;&#x306E;</pr></trd>
+  <trd lng="pl">zimowy</trd>
+  <trd lng="sk">zimn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_i;&#x43C;&#x43E;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&#x43D;. &c_h;&#x43E;&#x43B;&#x43E;&c_d;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vintr.tra0i">
+  <kap>tra<tld/>i,
+  <var><kap><tld/>i</kap></var></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="vintr.tra0i.KOMUNE">
+    <dif>
+      Lo&gcirc;i dum <tld/>o; pasigi la <tld/>on:
+      <ekz>
+        &ccirc;e vi eble mi restos, a&ubreve; e&ccirc; tra<tld/>os
+        <fnt><bib>NT</bib>, <lok>&Ko1; 16:6</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iaj bestoj de la tero super &gcirc;i <tld/>os
+        <fnt><bib>MT</bib>, <lok>&Jes; 18:6</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_ib;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_z;&c_ib;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">hivernar</trd>
+  <trd lng="cs">p&rcaron;ezimovat</trd>
+  <trd lng="de">&uuml;berwintern</trd>
+  <trd lng="fr">hiverner</trd>
+  <trd lng="hu">&aacute;ttelel</trd>
+  <trd lng="ja">&#x51AC;&#12434;&#x8D8A;&#12377; <pr>&#12405;&#12422;&#12434;&#12371;&#12377;</pr></trd>
+  <trd lng="nl">overwinteren</trd>
+  <trd lng="pl">przezimowa&cacute;</trd>
+  <trd lng="ru">&c_z;&c_i;&c_m;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">prezimova&tcaron;</trd>
+  <trd lng="sv">&ouml;vervintra</trd>
+  <trd lng="uk">&c_z;&c_i;&#x43C;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.110 2023/11/08 03:27:06
+Eko Nur Syah Hidayat: +trd id 2
+
+versio 1.109 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.108 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.31  2015/07/04 11:10:16  revo
+Wolfram Diestel: ~a: trd de
+
+Revision 1.30  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2015/06/06 22:10:14  revo
+Jeromo Vasxe: sepembro -> septembro
+
+Revision 1.27  2015/04/03 22:10:18  revo
+-->
+</vortaro>

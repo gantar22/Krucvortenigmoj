@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: perkut.xml,v 1.14 2023/10/20 14:25:20 revo Exp $">
+<kap>
+  <rad>perkut</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="perkut.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="perkut.0i.ekzameni">
+    <uzo tip="fak">MED</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Frape ekzameni:
+      <ekz>
+          la apartamenton <klr>[&#x2026;]</klr> oni zorge <klr>[&#x2026;]</klr> traser&ccirc;is,
+          <tld/>is &gcirc;iajn murojn, esploris la kamentubojn<fnt><bib>MkM</bib>,
+          <lok>&ccirc;apitro 27a, p. 288a</lok></fnt>.
+       </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>perkutieren</trd>,
+      <trd>abklopfen <klr>(Medizin)</klr></trd>
+    </trdgrp>
+    <trd lng="pl">opuka&cacute;</trd>
+  </snc>
+    
+  <snc mrk="perkut.0i.muziki">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Frape, ritme muziki; <ref tip="dif" cel="frap.0i.produktiSonon">frapi<sncref/></ref>:
+       <ekz>
+        la du rakontistinoj <klr>[&#x2026;]</klr> <tld/>is jen rapide, jen lante,
+        tute ritme
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 54a, volumo 2a, p.
+        213a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">percudir</trd>
+    <trd lng="de">trommeln <klr>(allgemein)</klr></trd>
+    <trd lng="en">percuss</trd>
+    <trd lng="fr">percuter</trd>
+    <trdgrp lng="nl">
+      <trd>slaan<klr tip="ind"> (drummen)</klr></trd>,
+      <trd>drummen</trd>
+    </trdgrp>
+    <trd lng="pl">puka&cacute;</trd>
+    <trdgrp lng="pt">
+      <trd>percutir</trd>,
+      <trd>bater</trd>
+    </trdgrp>
+    <trd lng="ro">bate</trd>
+    <trdgrp lng="sk">
+      <trd>poklepa&tcaron;</trd>,
+      <trd>preklepa&tcaron;</trd>
+    </trdgrp>
+    <trdgrp lng="cs">
+      <trd>oklepat</trd>,
+      <trd>poklepat</trd>,
+      <trd>proklepat</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x6253;&#x6483;&#x3092;&#x4E0E;&#x3048;&#x308B;  <pr>&#x3060;&#x3052;&#x304D;&#x3092;&#x3042;&#x305F;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x885D;&#x6483;&#x3092;&#x4E0E;&#x3048;&#x308B;  <pr>&#x3057;&#x3087;&#x3046;&#x3052;&#x304D;&#x3092;&#x3042;&#x305F;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x6253;&#x8A3A;&#x3059;&#x308B;  <pr>&#x3060;&#x3057;&#x3093;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x438;&#x441;&#x442;&#x443;&#x43A;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x43A;&#x443;&#x442;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="perkut.0ilo">
+  <kap>
+    <tld/>ilo
+  </kap>
+  <snc>
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="dif" cel="instru2.frap0o">Frapinstrumento</ref>:
+      <ekz>
+        la disko Civilizacio enhavas junularan rokmuzikon <klr>[&#x2026;]</klr> akompanatan de <tld/>iloj,
+        gitaro, piano, orgeno, saksofono
+        <fnt>
+          <bib>Monato</bib>
+          <aut>pp/cs</aut>
+          <vrk><url ref="&Monato;/2005/008543.php">Tiel ili protestas</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Schlagzeug</trd>,
+    <trd>Rhytmusinstrument</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6483;&#x9244;  <pr>&#x3052;&#x304D;&#x3066;&#x3064;</pr></trd>,
+    <trd>&#x6253;&#x8A3A;&#x5668;  <pr>&#x3060;&#x3057;&#x3093;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">instrument perkusyjny</trd>
+  <trd lng="ro">instrument de percu&#x21B;ie</trd>
+  <trdgrp lng="uk">
+    <trd>&#x443;&#x434;&#x430;&#x440;&#x43D;&#x438;&#x43A; (&#x443; &#x432;&#x43E;&#x433;&#x43D;&#x435;&#x43F;&#x430;&#x43B;&#x44C;&#x43D;&#x456;&#x439; &#x437;&#x431;&#x440;&#x43E;&#x457;)</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x43A;&#x443;&#x441;&#x456;&#x439;&#x43D;&#x438;&#x439; &#x43C;&#x43E;&#x43B;&#x43E;&#x442;&#x43E;&#x447;&#x43E;&#x43A;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.14 2023/10/20 14:25:20
+revo: transskribo per <pr>
+
+versio 1.11 2022/02/09 23:28:48
+Vito Redsky: + trd pl + trd ro 
+
+Revision 1.9  2018/02/16 21:10:15  revo
+Wolfram Diestel: apartigis snc MED de snc MUZ, +~ilo
+
+Revision 1.8  2015/08/22 14:10:19  revo
+Damien Brucker: +trd fr
+
+Revision 1.7  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2012/08/10 14:11:50  revo
+Marc Rausell: + trd ca
+
+Revision 1.4  2010/10/26 16:31:18  revo
+-->
+</vortaro>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: difere1.xml,v 1.16 2023/10/14 11:26:53 revo Exp $">
+<kap>
+  <rad>diferenci</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="difere1.0i">
+  <kap><tld/>i<fnt><bib>MatTerm</bib>, <lok>p. 20</lok></fnt></kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">EVI</uzo>
+  <snc mrk="difere1.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <refgrp tip="dif">
+        <ref cel="deriv.0i.MAT">Derivi</ref> a&ubreve;
+        <ref cel="difere2.0i">diferenciali</ref>
+      </refgrp>:
+      <ekz>
+        <nom>G&ouml;sta Mittag-Leffler</nom> <klr>[&#x2026;]</klr> okupi&gcirc;is pri limvaloro, <tld/>a kaj
+        integrala kalkulado, analitika geometrio kaj probablokalkulo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=208852">G&ouml;sta Mittag-Leffler</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ja">&#x5FAE;&#x5206;&#x3059;&#x308B;  <pr>&#x3073;&#x3076;&#x3093;&#x3059;&#x308B;</pr></trd>
+  <trd lng="uk">&#x434;&#x438;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x456;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.16 2023/10/14 11:26:53
+revo: transskribo per <pr>
+
+Revision 1.12  2013/04/19 10:10:08  revo
+Jeromo Vasxe: + fnt
+
+Revision 1.11  2002/11/26 17:31:24  revo
+Marc Bavant: +snc
+
+Revision 1.10  2002/05/02 16:35:34  revo
+Marc Bavant: -fnt PV
+Revision 1.9  2002/02/23 19:56:50  revo
+Marc Bavant: mod fnt, -trd ru (cxar EVI)
+Revision 1.8  2001/12/17 17:32:56  revo
+Marc Bavant: +fnt
+Revision 1.7  2001/07/16 18:11:52  revo
+Marc Bavant: mod EVI
+Revision 1.6  2001/03/28 20:01:56  revo
+Yury Finkel: +trd ru
+Revision 1.5  2001/03/11 18:54:58  revo
+Marc Bavant: mod ref tip cel al derivi
+Revision 1.4  2000/09/11 16:12:35  revo
+-->
+</vortaro>

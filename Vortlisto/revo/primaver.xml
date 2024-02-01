@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: primaver.xml,v 1.17 2023/04/25 06:32:36 revo Exp $">
+<kap>
+  <rad>primaver</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="primaver.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">POE</uzo>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="primaver.0o.printempo">
+    <dif>
+      <ref tip="dif" cel="printe.0o">Printempo</ref>:
+      <ekz>
+        festantoj eltrinku po tri tasojn adia&ubreve;e al la <tld/>o
+        <fnt><bib>RugxDom</bib> <lok>&ccirc;apitro 63a, p. 365a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la Primavero estas Primavero, Sezono la plej dol&ccirc;a de la Jaro
+        <fnt>
+       <aut>Manoel BORGES DOS SANTOS</aut>
+          <vrk><url ref="&Monato;/2000/006863.php">Poemoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/04, p. 32</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_ja;&c_s;&c_n;&c_a;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_o;&c_l;&c_je;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>jaro</trd>,
+    <trd>vesna</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Lenz</trd>
+  </trdgrp>
+  <trd lng="en">primavera</trd>
+  <trd lng="es">primavera</trd>
+  <trdgrp lng="fr">
+    <trd>printemps</trd>
+  </trdgrp>
+  <trd lng="hu">kikelet</trd>
+  <trd lng="nl">lente<klr tip="ind"> (ontr.)</klr></trd>
+  <trd lng="pl">wiosna  <klr>(w poezji)</klr></trd>
+  <trd lng="pt">primavera</trd>
+  <trd lng="ro">prim&abreve;var&abreve;</trd>
+  <trdgrp lng="sk">
+    <trd>jar</trd>,
+    <trd>vesna</trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_je;&c_s;&#x43D;&c_a;</trd>
+  <trd lng="vo">flolatim</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.17 2023/04/25 06:32:36
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.16 2022/06/01 20:35:22
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.15 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.12  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2014/02/05 17:10:17  revo
+Joop Eggen: +trd bg
+
+Revision 1.9  2011/06/25 11:10:23  revo
+Dominique Pelle: adiaue -> adiauxe
+
+Revision 1.8  2010/10/04 16:31:12  revo
+-->
+</vortaro>

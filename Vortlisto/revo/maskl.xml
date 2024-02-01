@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: maskl.xml,v 1.13 2023/04/27 06:33:50 revo Exp $">
+<kap>
+  <rad>maskl</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="maskl.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="maskl.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      <ref tip="dif" cel="seks.vir0ulo">Virseksulo</ref>:
+      <ekz>
+        la grandaj kolharaj <tld/>oj montris al <nom>Saba</nom> la dentegojn
+        <fnt>
+          <aut>H. Sienkiewicz, trad. M. Sygnarski</aut>,
+          <vrk><url ref="http://esperanto.pl/page.php?tid=200000">Tra
+          dezerto kaj praarbaro</url></vrk>, <lok>1978</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        princo &ndash; juna <tld/>o volanta sin pruvi en la mondo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2007/009240.php">Sango kaj rango</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+       <ref cel="in.0o">ino</ref>,
+       <ref cel="femal.0o">femalo</ref>,
+       <ref cel="femin.0o">femino</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">samec</trd>      
+  <trdgrp lng="de">
+    <trd>M&auml;nnchen</trd>,
+    <trd>Mann</trd>
+  </trdgrp>
+  <trd lng="en">male</trd>
+  <trdgrp lng="fr">
+    <trd>homme</trd>,
+    <trd>m&acirc;le<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="io">maskulo</trd>
+  <trdgrp lng="nl">
+    <trd>man</trd>,
+    <trd>mannetje</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>m&eogonek;ski osobnik</trd>
+    <trd>samiec</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>individ masculin</trd>
+    <trd>mascul</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chlap <klr>(samec)</klr></trd>,
+    <trd>mu&zcaron;</trd>
+  </trdgrp>
+  <trd lng="tok">mije</trd>
+  <trd lng="uk">&c_s;&c_a;&#x43C;&c_je;&c_c;&#x44C;</trd>
+</drv>
+
+<drv mrk="maskl.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="maskl.0a.BIO">
+    <dif>
+      <ref tip="dif" cel="seks.vir0a">Virseksa</ref>:
+      <ekz>
+        &gcirc;i povas esti <tld/>a, &gcirc;i povas esti femala: unu &scirc;anco el du
+        <fnt><aut>Andr&eacute; Cherpillod</aut>,
+        <vrk><url ref="&Monato;/2000/006937.php">Sinjorino Le secr&eacute;taire ...</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/07, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        projekcio de <tld/>aj fantazioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Armando Zecchin</aut>
+          <vrk><url ref="&Monato;/2008/009295.php">La sor&ccirc;istin-persekutoj: rerigardo
+          kaj reinterpretoj</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la popolo konsistas el homoj de amba&ubreve; seksoj kaj &ccirc;i tie la emfazo ku&scirc;as sur
+        civitaneco, ne sur la <tld/>eco a&ubreve; ineco
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Helga Rapley</aut>
+          <vrk><url ref="&Monato;/2006/008881.php">Bu&ccirc;ado de la angla</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;&ccirc;u vi kredas, ke inter la dek mu&scirc;oj &jcirc;us de mi mortigitaj estas
+        kvar <tld/>aj kaj ses femalaj?&rightquot;
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://www.chinareport.com.cn/02l/02l-11.htm">Humura&jcirc;oj,
+          11</url></vrk>, <lok>[2003-04]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+       <ref cel="in.0a.BIO">ina<sncref/></ref>,
+       <ref cel="femal.0a">femala</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">sam&ccaron;&iacute; <klr>(mu&zcaron;sk&yacute;)</klr></trd>
+  <trd lng="de">m&auml;nnlich</trd>
+  <trd lng="fr">m&acirc;le<klr> (adj.)</klr></trd>
+  <trd lng="io">maskula</trd>
+  <trdgrp lng="pl">
+    <trd>m&eogonek;ski</trd>
+    <trd>samczy</trd>
+  </trdgrp>
+  <trd lng="ro">masculin</trd>
+  <trd lng="sk">sam&ccaron;&iacute;</trd>
+  <trd lng="tok">mije</trd>
+  <trd lng="vo">manik</trd>
+</drv>
+
+<drv mrk="maskl.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="maskl.0ismo.MOR">
+    <dif>
+      <ref tip="dif" cel="maxcis.0o">Ma&ccirc;ismo</ref>:
+      <ekz>
+        se ili havas liberan aliron al la ruba televido, la infanoj sorbos
+        <tld/>ismon, konsumismon, konformismon
+        <fnt>
+          <aut>A. Sig&uuml;enza, trad. J. Gonz&aacute;lez</aut>,
+          <vrk><url ref="http://www.cnt.es/noticias/bakunin-y-la-pedagog%C3%ADa-anticipada">Bakunin
+          kaj la anticipita pedagogio</url></vrk>, <lok>Peri&oacute;dico CNT,
+          2014-07 (413)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ta&ubreve;ro plifirmi&gcirc;is kiel feti&ccirc;o &scirc;ovinisma kaj <tld/>isma, uzata e&ccirc; kvaza&ubreve;
+        blazono centre de la hispana flago fare de soldatoj kaj sportaj zelotoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hektor Alos i Font</aut>
+          <vrk><url ref="&Monato;/2005/008533.php">Pri kato, rato, &scirc;tato kaj
+          azeno</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+       <ref cel="in.0ismo">inismo</ref>,
+       <ref cel="femini.0o">feminismo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">masclisme</trd>
+  <trd lng="de">Machismo</trd>
+  <trd lng="en">machismo</trd>
+  <trd lng="es">machismo</trd>
+  <trd lng="eu">matxismo</trd>
+  <trd lng="fr">machisme</trd>
+  <trd lng="gl">machismo</trd>
+  <trdgrp lng="it">
+    <trd>machismo</trd>,
+    <trd>maschilismo</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30DE;&#x30C3;&#x30C1;&#x30E7;</trd>
+  <trd lng="la">masculismus</trd>
+  <trd lng="pl">machismo</trd>
+  <trd lng="pt">machismo</trd>
+  <trd lng="ro">&#537;ovinism masculin </trd>
+  <trd lng="ru">&c_m;&c_a;&c_ch;&c_i;&c_z;&c_m;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.13 2023/04/27 06:33:50
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.12 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.10 2020/12/11 00:10:33
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.8  2017/08/02 09:10:14  revo
+Robin van der Vliet: +trd
+
+Revision 1.7  2017/06/20 12:10:13  revo
+Ludoviko Francisco: +trd
+
+Revision 1.6  2017/06/19 08:10:15  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.5  2016/11/22 23:10:24  revo
+Robin van der Vliet: +trd
+
+Revision 1.4  2015/07/04 08:37:39  revo
+-->
+</vortaro>

@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: radiograf.xml,v 1.9 2023/10/20 19:20:10 revo Exp $">
+<kap>
+   <ofc>9</ofc><rad>radiograf</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="radiograf.0i">
+  <kap><ofc>9</ofc><tld/>i</kap>
+  <snc mrk="radiograf.0i.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Fari foton de organo per iks-radioj.
+    </dif>
+  </snc>
+  <trd lng="fr">radiographier</trd>
+  <trd lng="ja">&#xFF38;&#x7DDA;&#20889;&#x771F;&#x306B;&#x64AE;&#x308B;
+  <pr>&#12360;&#12387;&#12367;&#12377;&#x305B;&#12435;&#12375;&#12419;&#12375;&#12435;&#x306B;&#12392;&#x308B;</pr></trd>
+  <trd lng="nl">een <ind>r&ouml;ntgenopname</ind> maken</trd>
+  <trd lng="pl">robi&cacute;  <ind>prze&sacute;wietlenie</ind></trd>
+  <trd lng="uk">&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &c_r;&c_je;&#x43D;&c_t;&c_gu;&c_je;&#x43D;&c_ib;&c_v;&c_s;&#x44C;&#x43A;&c_i;&c_j;
+  &c_z;&#x43D;&c_ib;&#x43C;&#x43E;&#x43A;</trd>
+</drv>
+
+<drv mrk="radiograf.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="radiograf.0ajxo.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Foto de organo per iks-radioj:
+      <ekz>
+        unu asistanto forportis <tld/>a&jcirc;ojn al la fotolaboratorio
+        <fnt>
+          <aut>B. Golden</aut>
+          <vrk><url ref="http://www.autodidactproject.org/other/golden_kosma.html">
+          Kosma Ruba&jcirc;o</url></vrk>
+          <lok>Monda Karuselo, 1977:10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">radiographie</trd>
+  <trd lng="ja">&#xFF38;&#x7DDA;&#20889;&#x771F;  <pr>&#12360;&#12387;&#12367;&#12377;&#x305B;&#12435;&#12375;&#12419;&#12375;&#12435;</pr></trd>
+  <trdgrp lng="nl">
+    <trd>radiografie</trd>,
+    <trd>r&ouml;ntgenopname</trd>
+  </trdgrp>
+  <trd lng="pl">zdj&eogonek;cie  <ind>rentgenowskie</ind></trd>
+  <trd lng="uk">&c_r;&c_je;&#x43D;&c_t;&c_gu;&c_je;&#x43D;&c_ib;&c_v;&c_s;&#x44C;&#x43A;&c_i;&c_j; &c_z;&#x43D;&c_ib;&#x43C;&#x43E;&#x43A;</trd>
+</drv>
+
+<drv mrk="radiograf.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="radiograf.0isto.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Specialisto pri <tld/>ado.
+    </dif>
+  </snc>
+  <trd lng="fr">radiographiste</trd>
+  <trd lng="ja">&#xFF38;&#x7DDA;&#25216;&#x5E2B;  <pr>&#12360;&#12387;&#12367;&#12377;&#x305B;&#12435;&#x304E;&#12375;</pr></trd>
+  <trd lng="nl">radioloog</trd>
+  <trd lng="pl">radiolog</trd>
+  <trd lng="uk">&c_r;&c_je;&#x43D;&c_t;&c_gu;&c_je;&#x43D;&#x43E;&#x43B;&#x43E;&c_g;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log$
+versio 1.9 2023/10/20 19:20:10
+revo: transskribo per <pr>
+
+versio 1.8 2023/10/16 18:32:39
+Paul Peeraerts: + trd nl 
+
+versio 1.7 2023/09/10 12:37:55
+Wolfram Diestel: ja transskribo
+
+versio 1.5 2023/05/17 22:27:36
+Vito Redsky: +trd pl
+
+Revision 1.2  2018/04/25 08:10:13  revo
+Jeromo Vasxe: + fnt + 1 ekz
+
+Revision 1.1  2018/02/01 18:10:14  revo
+Michel Cantigneaux: nova artikolo
+-->
+</vortaro>

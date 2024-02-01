@@ -1,0 +1,559 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pun.xml,v 1.52 2023/10/28 15:26:51 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pun</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="pun.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pun.0i.malbonaginton">
+    <uzo tip="klr">(iun)</uzo>
+    <dif>
+      Ka&ubreve;zi al iu suferon kompense de ties malbonago a&ubreve; kulpo:
+      <ekz>
+        kiu <klr>[sian filon]</klr> amas, tiu balda&ubreve; lin <tld/>as
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 13:24</lok>
+        </fnt>;
+      </ekz><ekz>
+        ne <tld/>u infanojn anta&ubreve; fremduloj
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz><ekz>
+        senditon oni a&ubreve;skultas a&ubreve; ne a&ubreve;skultas, sed ne <tld/>as nek insultas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz><ekz>
+        per mono, ne per mano, <tld/>u vila&gcirc;anon
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
+        kune kaptite, kune <tld/>ite
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
+        pro tabaka kontrabando en Britio kutime oni <tld/>as per &gcirc;is kvar jaroj da
+        mallibero
+       <fnt>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
+        </fnt>;
+      </ekz><ekz>
+        vuduistoj kaj feti&ccirc;istoj <tld/>as per malbenoj a&ubreve; e&ccirc; batoj tiujn, kiuj ne
+        demetas ekster la sanktejo siajn &scirc;uojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sagbadjelou Kokou/pg</aut>
+          <vrk><url ref="&Monato;/2006/008901.php">&Scirc;uo-tabuo</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pag.0i">pagi</ref>,
+      <ref cel="ricev.0i">ricevi</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="pun.0i.malbonagon">
+    <uzo tip="klr">(malbonagon)</uzo>
+    <dif>
+      <tld lit="P"/>i<sncref ref="pun.0i.malbonaginton"/> ties
+      farinton:
+      <ekz>
+        la Eternulo eliros el Sia loko, por <tld/>i la malbonagojn
+        de la lo&gcirc;antoj de la tero
+        <fnt><bib>MT</bib><lok>&Jes; 26:21</lok></fnt>;
+      </ekz><ekz>
+        la pekoj de liaj patroj estas <tld/>ataj en la tria kaj kvara generacio
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz><ekz>
+        tiajn barbara&jcirc;ojn usona tribunalo <tld/>as per nur unujara malliberigo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2004/008349.html">Morala degenero</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="id"><baz>azab</baz>mengazab</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_nya;&t_drengbu;&t_sa;&t_tsheg;&t_pa;&t_tsheg;&t_ga;&t_ta;&t_naro;&t_nga;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>potrestat</trd>,
+    <trd>trestat</trd>,
+    <trd>ulo&zcaron;it trest</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>bestrafen</trd>,
+    <trd>strafen</trd>
+  </trdgrp>
+  <trd lng="en">punish</trd>
+  <trd lng="es">castigar</trd>
+  <trd lng="fr">punir</trd>
+  <trd lng="hu">b&uuml;ntet</trd>
+  <trdgrp lng="id">
+    <trd><baz>hukum</baz>menghukum</trd>,
+    <trd><baz>siksa</baz>menyiksa</trd>,
+    <trd><baz>ganjar</baz>mengganjar</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7F70;&#12377;&#x308B;  <pr>&#12400;&#12387;&#12377;&#x308B;</pr></trd>,
+    <trd>&#x51E6;&#x7F70;&#12377;&#x308B;  <pr>&#12375;&#12423;&#12400;&#12388;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">straffen</trd>
+  <trd lng="pl">kara&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>punir</trd>,
+    <trd>castigar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_k;&c_a;&c_r;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pokutova&tcaron;</trd>,
+    <trd>potresta&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">straffa</trd>
+  <trd lng="uk">&c_k;&c_a;&c_r;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="pun.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pun.0o.KOMUNE">
+    <dif>
+      Sufero per kiu oni <tld/>as:
+      <ekz>
+        kiun la Eternulo amas, tiun Li <tld/>korektas
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 3:12</lok>
+        </fnt>;
+      </ekz><ekz>
+        amo kaj <tld/>o lo&gcirc;as komune
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz><ekz>
+        de kiu la kulpo, por tiu la <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz><ekz>
+        vi amindumas virinon, al kiu estas malpermesite je <tld/>o de
+        morto esti favora
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&ccirc;apitro 12a</lok>
+        </fnt>;
+      </ekz><ekz>
+        vi portos la <tld/>on pro via malbonago dum kvardek jaroj
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Nom; 14:34</lok>
+        </fnt>;
+      </ekz><ekz>
+        la ju&gcirc;istaro verdiktas kvinjaran ekzilon kun <ind><tld/>laboro</ind>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Boris Kolker</aut>
+          <vrk><url ref="&Monato;/2003/007812.html">Estas dan&gcirc;ere esti
+          poeto</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+        <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_r;&c_g;&c_a;</trd>
+        <trd lng="es">trabajo forzado</trd>
+        <trd lng="hu">k&eacute;nyszermunka</trd>
+        <trd lng="nl">werkstraf</trd>
+        <trdgrp lng="pl">
+          <trd>roboty przymusowe</trd>,
+          <trd>katorga</trd>
+        </trdgrp>
+        <trd lng="pt">trabalho for&ccedil;ado</trd>
+        <trd lng="ru">&c_k;&c_a;&c_t;&c_o;&c_r;&c_g;&c_a;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_a;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_g;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="cs">trest</trd>
+  <trdgrp lng="de">
+    <trd>Strafe</trd>,
+    <trd>Bestrafung</trd>
+  </trdgrp>
+  <trd lng="en">punishment</trd>
+  <trdgrp lng="es">
+    <trd>castigo</trd>,
+    <trd>pena</trd>
+  </trdgrp>
+  <trd lng="fr">punition</trd>
+  <trd lng="hu">b&uuml;ntet&eacute;s</trd>
+  <trdgrp lng="id">
+    <trd>azab</trd>,
+    <trd><baz>ganjar</baz>ganjaran</trd>,
+    <trd><baz>hukum</baz>hukuman</trd>,
+    <trd><baz>siksa</baz>siksaan</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7F70;  <pr>&#12400;&#12388;</pr></trd>,
+    <trd>&#x61F2;&#x7F70;  <pr>&#12385;&#12423;&#12358;&#12400;&#12388;</pr></trd>,
+    <trd>&#21009;  <pr>&#12369;&#12356;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">straf</trd>
+  <trd lng="pl">kara</trd>
+  <trdgrp lng="pt">
+    <trd>puni&ccedil;&atilde;o</trd>,
+    <trd>castigo</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_k;&c_a;&c_z;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_a;</trd>,
+    <trd>&c_v;&c_z;&c_y;&c_s;&c_k;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pokuta</trd>,
+    <trd>trest</trd>
+  </trdgrp>
+  <trd lng="sv">straff</trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_a;&c_r;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_k;&c_a;&c_r;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_sh;&c_t;&c_r;&c_a;&c_f;</trd>,
+    <trd>&c_s;&c_t;&c_ja;&c_g;&c_n;&c_je;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pun.0inda">
+  <kap><tld/>inda</kap>
+  <snc mrk="pun.0inda.KOMUNE">
+    <dif>
+      Inda ricevi <tld/>on:
+    </dif>
+    <subsnc mrk="pun.0inda.malbonaginto" ref="pun.0i.malbonaginton">
+      <ekz>
+        vivis <tld/>inde, mortis ridinde
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
+        dungantoj evitantaj impostpagon sentas sin ne<tld/>indaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2006/008995.php">Salajro en koverto</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+    </subsnc>
+    <subsnc mrk="pun.0inda.malbonago" ref="pun.0i.malbonagon">
+      <ekz>
+        viaj <tld/>indaj malbonegaj faroj estos pardonitaj al vi
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz><ekz>
+        mi konfesas ke mi mensogis kaj vivis duan vivon,
+        ka&scirc;itan disde la homoj, sed tio ne estas ja tiom kruele
+        <tld/>inda
+        <fnt><bib>MkM</bib> <lok>&ccirc;ap. 19a</lok></fnt>;
+      </ekz><ekz>
+        <tld/>inda mensogo
+        <fnt><bib>Revadoj</bib> <lok>Kvara promenado</lok></fnt>.
+      </ekz>
+    </subsnc>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_ja;&c_k;&c_ib; &c_z;&c_a;&c_s;&c_l;&c_u;&c_g;&c_o;&c_w;&c_v;&c_a;&c_je; <ind>&c_p;&c_a;&c_k;&c_a;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>strafbar</trd>,
+    <trd>str&auml;flich</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>punishable</trd>,
+    <trd>worthy of punishment</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>punible</trd>,
+    <trd>castigable</trd>
+  </trdgrp>
+  <trd lng="fr">m&eacute;ritant une <ind>punition</ind></trd>
+  <trdgrp lng="hu">
+    <trd>b&uuml;ntetend&odblac;</trd>,
+    <trd>b&uuml;ntet&eacute;sre &eacute;rdemes</trd>
+  </trdgrp>
+  <trd lng="id">layak di<ind>hukum</ind></trd>
+  <trd lng="ja">&#x51E6;&#x7F70;&#12377;&#12409;&#x304D;  <pr>&#12375;&#12423;&#12400;&#12388;&#12377;&#12409;&#x304D;</pr></trd>
+  <trd lng="nl">strafbaar</trd>
+  <trd lng="pl">karygodny</trd>
+  <trdgrp lng="pt">
+    <trd>pun&iacute;vel</trd>,
+    <trd>castig&aacute;vel</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_s;&c_l;&c_u;&c_zh;&c_i;&c_v;&c_a;&c_ju;&c_shch;&c_i;&c_j; <ind>&c_n;&c_a;&c_k;&c_a;&c_z;&c_a;&c_n;&c_i;&c_ja;</ind></trd>,
+    <trd>&c_n;&c_a;&c_k;&c_a;&c_z;&c_u;&c_je;&c_m;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_ja;&c_k;&c_i;&c_j; &c_z;&c_a;&c_s;&c_l;&c_u;&c_g;&c_o;&c_v;&c_u;&c_jeu; &c_k;&c_a;&c_r;&c_i;/&c_p;&c_o;&c_k;&c_a;&c_r;&c_a;&c_n;&c_n;&c_ja;</trd>
+</drv>
+
+<drv mrk="pun.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="pun.sen0a.KOMUNE">
+    <dif>
+      Ne trafita de <tld/>o:
+      <ekz>
+        malvirtulo ne restos sen<tld/>a
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Sen; 11:21</lok>
+        </fnt>;
+      </ekz><ekz>
+        ne lasu lin sen<tld/>a, &ccirc;ar vi estas homo sa&gcirc;a
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Re1; 2:9</lok>
+        </fnt>;
+      </ekz><ekz>
+        la krimo restis sen<tld/>a
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Susanna Gevorgjan</aut>
+          <vrk><url ref="&Monato;/2006/008828.php">Krimo forgesita</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_je;&c_s;&c_p;&c_a;&c_k;&c_a;&c_r;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_ja;&c_s;&c_k;&c_a;&c_r;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="en">unpunished</trd>
+  <trd lng="hu">b&uuml;ntetlen</trd>
+  <trd lng="de">straffrei</trd>
+  <trd lng="es">impune</trd>
+  <trd lng="fr">impuni</trd>
+  <trdgrp lng="id">
+    <trd><baz>bebas</baz> <klr>(dr hukuman)</klr></trd>,
+    <trd>tidak di<ind>hukum</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7F70;&#x305B;&#12425;&#x308C;&#x306A;&#12356;  <pr>&#12400;&#12387;&#x305B;&#12425;&#x308C;&#x306A;&#12356;</pr></trd>,
+    <trd>&#x7F70;&#12434;&#x53D7;&#12369;&#x306A;&#12356;  <pr>&#12400;&#12385;&#12434;&#12358;&#12369;&#x306A;&#12356;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">bezkarny</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_n;&c_a;&c_k;&c_a;&c_z;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="nl">straffeloos</trd>
+  <trd lng="uk">&c_b;&c_je;&c_z;&c_k;&c_a;&c_r;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="pun.sen0eco">
+  <kap>sen<tld/>eco</kap>
+  <snc mrk="pun.sen0eco.KOMUNE">
+    <dif>
+      Manko de puno, kie &gcirc;i estas atendebla:
+      <ekz>
+        la kondamno de la Internacia Kriminala
+        Tribunalo de la militestro respondeca pri
+        detruado de la sanktejoj de Timbuktuo
+        <klr>[&#8230;]</klr> markas decidan pa&scirc;on por
+        fini sen<tld/>econ por &ccirc;i tiuj militaj krimoj
+        <fnt>
+          <aut>I. Bokova, trad. R. Corsetti</aut>
+          <vrk>Redakcie</vrk>
+          <lok><url ref="&UEA;l/?prenu=Unesko_Kuriero_3_17">
+          Unesko-kuriero, 2017-10 &gcirc;is 12 (3)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_s;&c_p;&c_a;&c_k;&c_a;&c_r;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="en">impunity</trd>
+  <trd lng="de">Straffreiheit</trd>
+  <trd lng="fr">impunit&eacute;</trd>
+  <trdgrp lng="id">
+    <trd>impunitas</trd>,
+    <trd>nirpidana</trd>
+  </trdgrp>
+  <trd lng="uk">&c_b;&c_je;&c_z;&c_k;&c_a;&c_r;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="pun.sen0igo">
+  <kap>
+    sen<tld/>igo
+  </kap>
+  <snc mrk="pun.sen0igo.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Forigo de le&gcirc;a <tld/>o pro iu ago:
+      <ekz>
+        nia projekto pledas por la sen<tld/>igo de abortigo, sed anka&ubreve; por &gcirc;ia la&ubreve;le&gcirc;igo
+        <fnt>
+          <aut>L. Iglesias Kuntz, trad. P. Le&oacute;n</aut>
+          <vrk><url ref="https://unesdoc.unesco.org/ark:/48223/pf0000370977_epo">Nelly Minyersky: la
+          verda re&gcirc;ino</url></vrk>
+          <lok>Unesko-kuriero, 2019-10 &gcirc;is 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="amnest.0o.JUR">amnestio</ref>,
+  </refgrp>
+  <trd lng="be">&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_u; &c_s;&c_u;&c_d;&c_z;&c_je;)</klr></trd>
+  <trd lng="fr">d&eacute;p&eacute;nalisation</trd>
+<trdgrp lng="id">
+  <trd>amnesti</trd>,
+  <trd>dekriminalisasi</trd>
+</trdgrp>
+</drv>
+
+<drv mrk="pun.mon0o">
+  <kap>mon<tld/>o</kap>
+  <snc mrk="pun.mon0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="super" cel="pun.0o"><tld lit="P"/>o</ref>
+      konsistanta en pago de mono:
+      <ekz>
+        oni <tld/>u lin per mon<tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Eli; 21:22</lok>
+        </fnt>;
+      </ekz><ekz>
+        mon<tld/>on tamen riskis la aviadisto pro tio, ke sur la flugma&scirc;ino estis
+        reklamataj produkta&jcirc;oj de tabakfirmao
+        <fnt>
+          <aut>Laimius Stra&zcaron;nickas/pg</aut>
+            <vrk><url ref="&Monato;/2001/007181.php">(sen titolo)</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 10</lok>
+          </fnt>;
+      </ekz><ekz>
+        oni riskas pli-malpli salitan mon<tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2011/010183.php">Terasa apartamento</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_t;&c_r;&c_a;&c_f;</trd>
+  <trd lng="br">tell-gastiz</trd>
+  <trdgrp lng="cs">
+    <trd>pen&ecaron;&zcaron;it&yacute; trest</trd>,
+    <trd>pokuta</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Geldbu&szlig;e</trd>,
+    <trd>Geldstrafe</trd>
+  </trdgrp>
+  <trd lng="en">fine</trd>
+  <trd lng="es">multa</trd>
+  <trd lng="fa">&a_j;&a_r;&f_y;&a_m;&a_h;&a_hamza_sure; &a_n;&a_q;&a_d;&f_y;</trd>
+  <trd lng="fr">amende</trd>
+  <trdgrp lng="hu">
+    <trd>p&eacute;nzb&uuml;ntet&eacute;s</trd>,
+    <trd>b&iacute;rs&aacute;g</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>denda</trd>,
+    <trd>penalti</trd>
+  </trdgrp>
+  <trd lng="ja">&#x7F70;&#x91D1;&#21009;  <pr>&#12400;&#12387;&#x304D;&#12435;&#12369;&#12356;</pr></trd>
+  <trd lng="nl">geldboete</trd>
+  <trdgrp lng="pl">
+    <trd>kara pieni&eogonek;&zdot;na</trd>,
+    <trd>mandat</trd>
+  </trdgrp>
+  <trd lng="pt">multa</trd>
+  <trd lng="ru">&c_sh;&c_t;&c_r;&c_a;&c_f;</trd>
+  <trdgrp lng="sk">
+    <trd>pe&ncaron;a&zcaron;n&yacute; trest</trd>,
+    <trd>pokuta</trd>
+  </trdgrp>
+  <trd lng="sv">b&ouml;ter</trd>
+  <trd lng="uk">&c_sh;&c_t;&c_r;&c_a;&c_f;</trd>
+</drv>
+
+<drv mrk="pun.mon0i">
+  <kap>mon<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pun.mon0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="super" cel="pun.0i"><tld lit="P"/>i</ref> iun per
+      devigo elpagi certan monsumon (<ref cel="pun.mon0o">mon<tld/>on</ref>):
+      <ekz>
+        pro ribelaj babiladoj oni devas bati kaj mon<tld/>i
+        <fnt><bib>Far1</bib> <lok>&ccirc;ap. 15a</lok></fnt>;
+      </ekz>
+      <ekz>
+        mian akompananton, iunokte, skandinava policisto tre &gcirc;entile,
+        sed tre maltolereme mon<tld/>is je 50 germanaj markoj
+        <fnt><aut>Bardhyl SELIMI</aut>:
+          <vrk>Kosovo. Voja&gcirc;impresoj, somero 2000</vrk>.
+          <bib>Monato</bib>.
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_t;&c_r;&c_a;&c_f;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="en">to <ind>fine</ind></trd>
+  <trd lng="id"><baz>denda</baz>mendenda</trd>
+  <trdgrp lng="ru">
+    <trd>&c_sh;&c_t;&c_r;&c_a;&c_f;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_sh;&c_t;&c_r;&c_a;&c_f;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.52 2023/10/28 15:26:51
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.51 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.49 2023/05/06 14:26:04
+revo: aktualigo URL-unuoj
+
+versio 1.48 2023/05/01 08:31:50
+Paul Peeraerts: Steloj -> monato
+
+versio 1.47 2023/04/23 16:33:12
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.46 2023/04/21 09:26:02
+Dmitri Gabinski: + trd be
+
+versio 1.45 2023/02/27 19:22:51
+Jeromo Vasxe: + sen~igo
+
+versio 1.44 2022/05/04 18:30:34
+-->
+</vortaro>

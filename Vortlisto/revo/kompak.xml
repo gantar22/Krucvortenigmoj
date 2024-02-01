@@ -1,0 +1,324 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kompak.xml,v 1.43 2023/12/03 09:58:53 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>kompakt</rad>/a <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kompak.0a">
+  <kap><ofc>9</ofc><tld/>a</kap>
+  <snc mrk="kompak.0a.sentrua">
+    <dif>
+      Tiom <ref tip="super" cel="dens.0a">densa</ref>, ke &gcirc;i plene
+      okupas sian volumenon, sen kavoj a&ubreve; poroj a&ubreve; truoj ktp:
+      <ekz>
+        <tld/>a amaso, grundo;
+      </ekz>
+      <ekz>
+        ili remburas <klr>[la veston]</klr> per avena pajlo por formi du &gcirc;ibojn &dash; bruste
+        kaj dorse, kiuj devas resti <tld/>aj kaj senmovaj
+        <fnt>
+          <aut>Maxime Lechien</aut>
+          <vrk><url ref="&Monato;/2000/006955.php">Fama karnavalo en Binche</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">ANA</uzo>
+        <ind><tld/>a histo</ind> de osto
+        <klr>(kontraste al la spongeca)</klr>;
+        <trd lng="en">compacta</trd>
+        <trd lng="pl">tkanka siateczkowa</trd>
+        <trdgrp lng="pt">
+          <trd>compacto</trd>,
+          <trd>massudo</trd>,
+          <trd>cerrado</trd>,
+          <trd>denso</trd>
+        </trdgrp>
+        <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_a;&c_k;&c_t;&c_n;&c_a;&c_ja; &c_t;&c_k;&c_a;&c_n;&c_mol;</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="fak">GEOL</uzo>
+        <ind><tld/>a teksturo</ind>;
+        <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_a;&c_k;&c_t;&c_n;&c_a;&c_ja; &c_t;&c_je;&c_k;&c_s;&c_t;&c_u;&c_r;&c_a;</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MET</uzo>
+        <tld/>a nubo
+        <klr>(<ref cel="kumulu.0o">kumuluso</ref>, kontraste al
+        ciruso)</klr>
+        <fnt>
+        <aut>Maurice Lewin</aut>: <vrk>Meteologia terminaro</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>festgef&uuml;gt</trd>,
+      <trd>dicht</trd>,
+      <trd>kompakt</trd>,
+      <trd>gepackt</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>compact</trd>,
+      <trd>dense</trd>,
+      <trd>closely-pressed together</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>compact</trd>,
+      <trd>dense</trd>,
+      <trd>&eacute;pais<klr tip="ind"> (dense)</klr></trd>,
+      <trd>lourd<klr tip="ind"> (dense)</klr></trd>,
+      <trd>massif<klr tip="ind"> (adj., dense)</klr></trd>,
+      <trd>serr&eacute;<klr tip="ind"> (dense)</klr></trd>,
+      <trd>tass&eacute;<klr tip="ind"> (dense)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x5C0F;&#x5DE7; <pr>xi&#x1CE;oqi&#x1CE;o</pr></trd>,
+    <trd>&#x7A20; <pr>ch&#xF3;u</pr></trd>,
+    <trd>&#x7D27;&#x5B9E; <pr>j&#x1D0;nsh&#xED;</pr></trd>,
+    <trd>&#x7D27;&#x51D1; <pr>j&#x1D0;nc&#xF2;u</pr></trd>,
+    <trd>&#x7DFB;&#x5BC6; <pr>zh&#xEC;m&#xEC;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="kompak.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="kompak.0a.topologiaspaco">
+      <fnt><bib>PIV2</bib><lok>malprecize</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="spac.topologia0o">topologia
+        spaco</ref>)</klr>
+        <ref cel="apart.0iga.topologio">Apartiga</ref> kaj
+        <ref cel="kompak.kvazaux0a.MAT">kvaza&ubreve;<tld/>a</ref>.
+      </dif>
+      <trd lng="de">kompakt<klr tip="ind"> (-er Raum)</klr></trd>
+      <trd lng="en">compact<klr tip="ind"> (space)</klr></trd>
+      <trd lng="fr"><klr tip="ind">(espace) </klr>compact</trd>
+      <trd lng="pl"><klr tip="amb">(przestrze&nacute;) </klr>zwarta</trd>
+      <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_a;&c_k;&c_t;&c_n;&c_o;&c_je;<klr tip="amb">
+      (&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+    </subsnc>
+    <subsnc mrk="kompak.0a.metrikaspaco">
+      <fnt><bib>MatVort</bib></fnt>
+      <dif>
+        <klr>(p.p. subaro <frm am="bb A"><g>A</g></frm> de
+        <ref cel="spac.metrika0o">metrika spaco</ref>
+        <frm am="bb E"><g>E</g></frm>)</klr>
+        Tia, ke rilate &ccirc;iun <ref cel="vic.0o.MAT">vicon</ref>
+        en <frm am="bb A"><g>A</g></frm> ekzistas almena&ubreve; unu
+        <ref cel="adher.0a.vico">adhera</ref> punkto en
+        <frm am="bb A"><g>A</g></frm>:
+        <ekz>
+          &ccirc;iu <tld/>a subaro de metrika spaco estas
+          <ref cel="ferm.0ita.topologio">fermita</ref> kaj
+          <ref cel="bar.0ita.metrikaspaco">barita</ref>;
+        </ekz>
+        <ekz>
+          la <tld/>aj subaroj de finidimensia
+          <ref cel="spac.normohava0o">normohava spaco</ref> estas &gcirc;iaj
+          fermitaj kaj baritaj subaroj;
+        </ekz>
+        <ekz>
+          &ccirc;iu finia subaro de metrika spaco estas <tld/>a.
+        </ekz>
+      </dif>
+      <trd lng="de">kompakt<klr tip="ind"> (-e Menge)</klr></trd>
+      <trd lng="en">compact<klr tip="ind"> (set)</klr></trd>
+      <trd lng="fr"><klr tip="ind">(ensemble) </klr>compact</trd>
+      <trd lng="pl"><klr tip="ind">(zbi&oacute;r) </klr>zwarty</trd>
+      <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_a;&c_k;&c_t;&c_n;&c_o;&c_je;<klr tip="amb">
+      (&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+    </subsnc>
+  </snc>
+  <rim>
+    Influate de la angla, iuj uzas la vorton <tld/>a en la senco
+    <ref cel="miniat.0a.eta">miniatura</ref>:
+      <ekz>
+        <nom>TomTom Go</nom> estas kompakta unuo, malpli granda ol pugno, aspektanta kiel malgranda
+        televidilo el puphejmo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Peeraerts</aut>
+          <vrk><url ref="&Monato;/2004/008419.html">Birada sistemo helpas pli kaj pli da
+          &scirc;oforoj</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    La plej ofta ekzemplo
+    estas la termino <ref cel="disk.kompakta0o"><tld/>a disko</ref>.
+    Tio ne estas rekomendinda, kaj sentante la barbarecon de tiu
+    pa&ubreve;sa&jcirc;o multaj preferas formojn <ctl>k-disko</ctl> a&ubreve; <ctl>codo</ctl>,
+    a&ubreve; imitas alian modelon: <ref cel="disk.lum0o">lumdisko</ref>.
+    <aut>Sergio Pokrovskij</aut>
+  </rim>
+  <adm>
+    La rimarkon pri kompakta disko mi ne komprenas, tie temas ja pri la kompakteco de la
+    datumoj, ne de la materialo!
+    <aut>WD</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_a;&c_k;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_l;&c_y;</trd>,
+    <trd>&c_sh;&c_ch;&c_y;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304E;&#x3063;&#x3057;&#x308A;&#x3064;&#x307E;&#x3063;&#x305F;</trd>,
+    <trd>&#x5BC6;&#x96C6;&#x3057;&#x305F;  <pr>&#x307F;&#x3063;&#x3057;&#x3085;&#x3046;&#x3057;&#x305F;</pr></trd>,
+    <trd>&#x7DFB;&#x5BC6;&#x306A;  <pr>&#x3061;&#x307F;&#x3064;&#x306A;</pr></trd>,
+    <trd>&#x305A;&#x3093;&#x3050;&#x308A;&#x3057;&#x305F;</trd>
+  </trdgrp>
+  <trd lng="nl">compact</trd>
+  <trdgrp lng="pl">
+    <trd>szczelny</trd>,
+    <trd>&sacute;cis&lstroke;y</trd>,
+    <trd>zbity</trd>,
+    <trd>zwarty</trd>
+  </trdgrp>   
+<trdgrp lng="ro">
+    <trd>str&acirc;mt</trd>,
+    <trd>exact</trd>,
+    <trd>compact</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_a;&c_k;&c_t;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_l;&c_o;&c_t;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_zh;&c_a;&c_t;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43C;&#x43F;&c_a;&#x43A;&c_t;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_shch;&c_ib;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_g;&c_u;&c_s;&c_t;&c_i;&c_j; (&#x43F;&c_r;&#x43E; &c_t;&c_je;&#x43A;&c_s;&c_t;)</trd>,
+    <trd>&c_s;&c_t;&c_i;&c_s;&#x43B;&c_i;&c_j; (&#x43F;&c_r;&#x43E; &c_s;&c_t;&c_i;&#x43B;&#x44C;)</trd>,
+    <trd>&c_t;&c_v;&c_je;&c_r;&c_d;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_b;&c_i;&c_t;&c_i;&c_j; (&#x43F;&c_r;&#x43E; &c_gu;&c_r;&c_u;&#x43D;&c_t;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kompak.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc>
+    <dif>
+      Konsistanta el disaj, facile apartigeblaj eroj:
+      <ekz>
+        &gcirc;i flugis en la direkto al la malnova breto sub la
+        fenestro de la frontona &ccirc;ambreto, &gcirc;uste en fendon, kiu
+        estis plena de musko kaj de mal<tld/>a tero
+        <fnt><bib>Fab3</bib>, <lok>Kvin en unu silikvo</lok></fnt>;
+      </ekz>
+      <ekz>
+        sed la plej grandaj infanoj singarde de&scirc;iris la
+        elflorintajn kreska&jcirc;etojn, la trunketojn, kiuj portis sur
+        si la floksimile kunmetitan semkronon, tiun mal<tld/>an,
+        aeran, lansimilan floron, kiu estas kvaza&ubreve; formita el
+        plej delikataj plumoj, flokoj a&ubreve; lanugoj
+        <fnt><bib>Fab3</bib>, <lok>Ekzistas diferenco</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nekompaktn&iacute;</trd>,
+    <trd>nesoudr&zcaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>diffus</trd>,
+    <trd>l&eacute;ger<klr tip="ind"> (pas compact)</klr></trd>,
+    <trd>l&acirc;che<klr tip="ind"> (pas compact)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3075;&#x308F;&#x308A;&#x3068;&#x3057;&#x305F;</trd>,
+    <trd>&#x307E;&#x3070;&#x3089;&#x306A;</trd>,
+    <trd>&#x5E0C;&#x8584;&#x306A;  <pr>&#x304D;&#x306F;&#x304F;&#x306A;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">pulchny</trd>     
+  <trd lng="ro">gr&abreve;su&#x21B;</trd>
+  <trd lng="ru">&c_r;&c_y;&c_h;&c_l;&c_y;&c_j;</trd>
+  <trd lng="sk">nes&uacute;dr&zcaron;n&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_u;&c_h;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_shch;&c_ib;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_ib;&c_d;&#x43A;&c_i;&c_j; (&#x43F;&c_r;&#x43E; &c_t;&#x43A;&c_a;&#x43D;&c_i;&#x43D;&c_u;)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kompak.kvazaux0a">
+  <kap>kvaza&ubreve;<tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="kompak.kvazaux0a.MAT">
+    <dif>
+      <klr>(p.p. subaro de
+      <ref cel="spac.topologia0o">topologia spaco</ref>)</klr>
+      Tia, ke el &ccirc;iu <ref cel="kovr.0o.MAT">kovro</ref>
+      per <ref cel="ferm.mal0ita.topologio">malfermitaj</ref> subaroj
+      eblas
+      tiri finian subkovron:
+      <ekz>
+        &ccirc;iu kvaza&ubreve;<tld/>a subaro de metrika spaco estas
+        anka&ubreve; <ref cel="kompak.0a.metrikaspaco"><tld/>a</ref>.
+      </ekz>
+    </dif>
+    <trd lng="de">quasikompakt<klr tip="ind"> (-er Raum)</klr></trd>
+    <trd lng="en">quasicompact<klr tip="ind"> (space)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(espace) </klr>quasi-compact</trd>
+    <trd lng="pl">quasi-kompaktowa <klr>(przestrze&nacute;)</klr></trd>     
+    <trd lng="ro">cvasi-compact <klr>(baz&abreve;)</klr></trd>
+    <trd lng="ru">&c_k;&c_v;&c_a;&c_z;&c_i;&c_k;&c_o;&c_m;&c_p;&c_a;&c_k;&c_t;&c_n;&c_o;&c_je;<klr tip="amb">
+    (&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  </snc>
+</drv>
+
+<drv mrk="kompak.antaux0a">
+  <kap>anta&ubreve;<tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc mrk="kompak.antaux0a.MAT">
+    <dif>
+      <klr>(p.p. subaro de <ref cel="spac.metrika0o">metrika
+      spaco</ref>)</klr>
+      Tia, ke por &ccirc;iu reelo <frm am="epsilon">&epsilon;</frm> ekzistas finia
+      <ref cel="kovr.0o.MAT">kovro</ref> de &gcirc;i per malfermitaj
+      <ref cel="glob.0o.metrikaspaco">globoj</ref> kun radiuso
+      <frm am="epsilon">&epsilon;</frm>:
+      <ekz>
+        subaro de metrika spaco estas
+        <ref cel="kompak.0a.metrikaspaco"><tld/>a</ref>,
+        se kaj nur se &gcirc;i estas anta&ubreve;<tld/>a kaj
+        <ref cel="komple2.0a.spaco">kompleta</ref>.
+      </ekz>
+    </dif>
+    <trd lng="de">pr&auml;kompakt<klr tip="ind"> (-e Menge)</klr></trd>
+    <trd lng="en">precompact<klr tip="ind"> (set)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(ensemble) </klr>pr&eacute;compact</trd>
+    <trd lng="pl">wst&eogonek;pnie zwarty</trd>     
+    <trd lng="ro">pre-compact</trd>
+    <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_k;&c_o;&c_m;&c_p;&c_a;&c_k;&c_t;&c_n;&c_o;&c_je;<klr tip="amb">
+    (&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.42 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.40 2023/04/14 14:27:35
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.39 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2021/03/17 06:55:44
+Wolfram Diestel: +adm
+
+versio 1.36 2021/03/16 06:54:25
+Wolfram Diestel: +2 ekz
+
+versio 1.35 2020/02/15 17:10:26
+Wolfram Diestel: formuloj per am
+
+Revision 1.34  2019/04/19 11:10:15  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.33  2017/04/10 11:10:19  revo
+-->
+</vortaro>

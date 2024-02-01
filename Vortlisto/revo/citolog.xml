@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: citolog.xml,v 1.8 2022/06/05 18:34:15 revo Exp $">
+<kap>
+  <rad>citolog</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="citolog.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="citolog.0o.SCI">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <ref tip="dif" cel="citologi.0isto.SCI">Citologiisto</ref>:
+      <ekz>
+        <nom>Theodor Schwann</nom> <klr>[&#8230;]</klr> estis germana <tld/>o
+        kaj fiziologo
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Theodor
+        Schwann&rightquot;, 
+        2007-12-29</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_c;&c_y;&c_t;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="ca">cit&ograve;leg</trd>
+  <trd lng="de">Zytologe</trd>
+  <trdgrp lng="fr">
+    <trd>cytologiste</trd>,
+    <trd>cytologue</trd>
+  </trdgrp>
+  <trd lng="it">citologo</trd>
+  <trd lng="pl">cytolog</trd>
+  <trd lng="pt">citologista</trd>
+  <trdgrp lng="uk">
+    <trd>&c_c;&c_i;&c_t;&#x43E;&#x43B;&#x43E;&c_g;</trd>,
+    <trd>&c_f;&c_a;&c_h;&c_ib;&c_v;&c_je;&c_c;&#x44C; &c_z; &c_c;&c_i;&c_t;&#x43E;&#x43B;&#x43E;&c_g;&c_ib;&c_ji;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.8 2022/06/05 18:34:15
+Dmitri Gabinski: + trd be
+
+Revision 1.5  2012/08/27 00:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.4  2009/08/18 19:16:58  revo
+Antonio Codazzi: +trd it
+
+Revision 1.3  2009/04/17 19:50:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2008/03/04 17:30:30  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2008/03/02 17:30:21  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

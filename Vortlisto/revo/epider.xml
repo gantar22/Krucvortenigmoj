@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: epider.xml,v 1.21 2023/11/07 20:34:11 revo Exp $">
+<kap>
+<ofc>1</ofc>
+<rad>epiderm</rad>/o
+</kap>
+<drv mrk="epider.0o">
+<kap><tld/>o</kap>
+<uzo tip="fak">ANA</uzo>
+  <snc>
+    <dif>
+      Ekstera preska&ubreve; travidebla 
+      tavoleto de la <ref tip="malprt" cel="hauxt.0o.ANA">ha&ubreve;to</ref>:
+      <ekz>
+        haro <klr>[estas]</klr> korneca forma&jcirc;o de <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=8385">Haro</url></lok>
+        </fnt>.
+      </ekz>  
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_p;&c_ib;&c_d;&c_e;&c_r;&c_m;&c_ib;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>epiderm</trd>,
+    <trd>epidermis</trd>,
+    <trd>poko&zcaron;ka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Oberhaut</trd>,
+     <trd>Epidermis<klr> <klr>(Anatomie)</klr></klr></trd>
+  </trdgrp>
+  <trd lng="en">epidermis</trd>
+  <trdgrp lng="fa">
+    <trd>&a_r;&a_w;&f_p;&a_w;&a_s;&a_t;</trd>,
+    <trd>&a_b;&a_fatha;&a_sh;&a_fatha;&a_r;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;piderme</trd>
+  <trdgrp lng="hu">
+    <trd>b&odblac;rh&aacute;m</trd>,
+    <trd>felh&aacute;m</trd>,
+    <trd>epidermisz</trd>
+  </trdgrp>
+  <trd lng="it">epidermide</trd>
+  <trd lng="ja">&#x8868;&#x76AE;  <pr>&#x3072;&#x3087;&#x3046;&#x3072;</pr></trd>
+  <trd lng="pl">nask&oacute;rek</trd>
+  <trd lng="pt">epiderme</trd>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_p;&c_i;&c_d;&c_je;&c_r;&c_m;&c_i;&c_s;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_je;&c_r;&c_h;&c_n;&c_o;&c_s;&c_t;&c_n;&c_y;&c_j; &c_s;&c_l;&c_o;&c_j; &c_k;&c_o;&c_zh;&c_i;</trd>
+  </trdgrp>
+  <trd lng="sk">poko&zcaron;ka</trd>
+  <trdgrp lng="uk">
+    <trd>&#x435;&#x43F;&#x456;&#x434;&#x435;&#x440;&#x43C;&#x456;&#x441;</trd>,
+    <trd>&#x435;&#x43F;&#x456;&#x434;&#x435;&#x440;&#x43C;&#x430;</trd>,
+    <trd>&#x43F;&#x43E;&#x432;&#x435;&#x440;&#x445;&#x43D;&#x435;&#x432;&#x438;&#x439; &#x448;&#x430;&#x440; &#x448;&#x43A;&#x456;&#x440;&#x438;</trd>,
+    <trd>&#x43F;&#x43E;&#x43A;&#x440;&#x438;&#x432;&#x43D;&#x430; &#x442;&#x43A;&#x430;&#x43D;&#x438;&#x43D;&#x430; &#x43B;&#x438;&#x441;&#x442;&#x43A;&#x456;&#x432;</trd>,
+    <trd>&#x448;&#x43A;&#x456;&#x440;&#x43A;&#x430;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x8868;&#x76AE; <pr>bi&#x1CE;op&#xED;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2023/10/14 15:49:04
+revo: transskribo per <pr>
+
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/11/19 17:30:25  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2009/09/01 04:53:55  revo
+Russ Williams: +trd en
+
+Revision 1.12  2009/08/14 16:30:26  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.11  2007/06/28 16:32:44  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/01/15 17:32:09  revo
+-->
+</vortaro>

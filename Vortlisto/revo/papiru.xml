@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: papiru.xml,v 1.21 2023/10/20 14:25:19 revo Exp $">
+<kap>
+  <ofc>2</ofc><rad>papirus</rad>/o
+</kap>
+<drv mrk="papiru.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="papiru.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:botanikaj_specioj" cel="speci.0o.BIO">Specio</ref> de 
+      <ref tip="super" cel="ciper1.0o">cipero</ref> (<trd lng="la">Cyperus papyrus</trd>),
+      el kies &scirc;elo oni en la antikvo produktis foliojn por surskribi:
+      <ekz>
+        pro plej malgranda bagatelo oni ku&scirc;igas min sur la tero kaj batas kiel <tld/>on
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="&WCU;/thumb/b/b0/Cyperus_papyrus-pjt2.jpg/640px-Cyperus_papyrus-pjt2.jpg" prm="CC BY-SA 3.0"><tld/>oj (Cyperus papyrus), &ccirc;e Sirakuzo, Sicilio
+        <fnt>
+          <aut>pjt56, propra verko</aut>
+          <lok><url ref="&WCW;/File:Cyperus_papyrus-pjt2.jpg">&WCW;/File:Cyperus_papyrus-pjt2.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="de">Papyrusstaude</trd>
+    <trd lng="hu">papiruszs&aacute;s</trd>    
+  </snc>
+  <snc mrk="papiru.0o.surfaco">
+    <dif>
+      <ref tip="super" cel="foli.0o.TEK">Folio</ref> el tigaj &scirc;eloj de <tld/>aj 
+      kanoj preparita por ricevi skriba&jcirc;ojn, kutima skribsurfaco de antikva Okcidentazio &gcirc;is
+      E&ubreve;ropo:
+      <ekz>
+        <klr>[la]</klr> templo <klr>[&#x2026;]</klr> posedis grandegan bibliotekon de <tld/>oj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        leteroj argilaj kaj <tld/>aj
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e la okuloj li tenis <tld/>an rula&jcirc;on kaj diligente ion legis
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en ies epistolo <tld/>is jene: la plej bona politiko estas: ignori ilin kiom eble
+        <fnt>
+          <bib>MMa</bib>
+          <lok>&Ccirc;apitro 5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nun ekzistantaj tekstoj de la duakanonaj libroj estas en la
+        greka, kvankam de kelkaj ekzistis pli fruaj versioj en la hebrea
+        a&ubreve; aramea, pri kio atestas iuj <tld/>oj<fnt><aut>Carlo
+        Minnaja</aut>: <vrk>Spirokapta historia fresko (La Duakanonaj
+        Libroj)</vrk>, <bib>Monato</bib><lok>jaro 2001a, numero 12a, p.
+        28a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Papyrus</trd>
+    <trd lng="hu">papirusz</trd>    
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_p;&c_ib;&c_r;&c_u;&c_s;</trd>
+  <trd lng="cs">&scaron;&aacute;chor pap&iacute;rod&aacute;rn&yacute;</trd>
+  <trd lng="en">papyrus</trd>
+  <trd lng="fr">papyrus</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D1;&#x30D4;&#x30EB;&#x30B9;</trd>,
+    <trd>&#x30D1;&#x30D4;&#x30EB;&#x30B9;&#x7D19;  <pr>&#x30D1;&#x30D4;&#x30EB;&#x30B9;&#x304B;&#x307F;</pr></trd>,
+    <trd>&#x30D1;&#x30D4;&#x30EB;&#x30B9;&#x6587;&#x66F8;  <pr>&#x30D1;&#x30D4;&#x30EB;&#x30B9;&#x3076;&#x3093;&#x3057;&#x3087;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">papyrus</trd>
+  <trd lng="pl">papirus</trd>
+  <trd lng="pt">papiro</trd>
+  <trd lng="ro">papirus</trd>
+  <trd lng="ru">&c_p;&c_a;&c_p;&c_i;&c_r;&c_u;&c_s;</trd>
+  <trd lng="sk">&scaron;achor papyrusov&yacute;</trd>
+  <trd lng="uk">&c_p;&c_a;&c_p;&c_ib;&c_r;&c_u;&c_s;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/20 14:25:19
+revo: transskribo per <pr>
+
+versio 1.19 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
+
+versio 1.18 2022/09/07 18:38:44
+Wolfram Diestel: prilaboris dif, ekz-oj, bld
+
+versio 1.16 2021/11/07 22:29:40
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.14  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2015/03/11 18:10:17  revo
+Wolfram Diestel: minuskla
+
+Revision 1.12  2010/10/30 16:30:41  revo
+Russ Williams: +trd en
+
+Revision 1.11  2006/02/24 17:36:18  revo
+-->
+</vortaro>

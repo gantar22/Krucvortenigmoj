@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: miozin.xml,v 1.5 2023/10/22 09:21:46 revo Exp $">
+<kap>
+  <rad>miozin</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="miozin.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="miozin.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      <ref tip="super" cel="protein.0o.FIZL">Proteino</ref>
+      interalie rolanta en la stre&ccirc;o de muskoloj:
+      <ekz>
+        <tld/>o: muskola proteino apartenanta al la globulinoj
+        <fnt>
+          <aut>D. Portmann, D. Pogers</aut>,
+          <vrk><url ref="&STEB;kemio/doug-portmann/kemio-glosaro.htm">
+          Glosaro</url></vrk>,
+          <lok>en: Kemia kaj sciencteknika vortaro, 1993</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_ib;&c_ja;&c_z;&c_y;&c_n;</trd>
+  <trd lng="en">myosin</trd>
+  <trd lng="fr">myosine</trd>
+  <trd lng="uk">&#x43C;&c_ib;&#x43E;&c_z;&c_i;&#x43D;</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.5 2023/10/22 09:21:46
+Dmitri Gabinski: + trd be
+
+versio 1.4 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.1  2013/11/23 10:10:20  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

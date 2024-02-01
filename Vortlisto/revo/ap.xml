@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ap.xml,v 1.13 2023/10/13 16:46:48 revo Exp $">
+<kap>
+  <rad>ap</rad>/o <fnt><bib>Viki</bib></fnt>
+</kap>
+<drv mrk="ap.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ap.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Mallongigo por <ref tip="dif"
+      cel="aplik.0ajxo.KOMP">aplika&jcirc;o</ref>, precipe uzata pri
+      po&scirc;telefonoj a&ubreve; aliaj porteblaj aparatoj:
+      <ekz>
+        ni programas telefon-aplika&jcirc;on (<tld/>on) por
+        <nom>iOS</nom> kaj <nom>Android</nom>,
+        kiu nomi&gcirc;as Amikumu
+        <fnt>
+          <aut>Richard Delamore</aut>
+          <vrk><url
+          ref="https://www.liberafolio.org/2016/10/18/amikumu-helpos-trovi-proksimajn-esperantistojn/">
+            Amikumu helpos trovi proksimajn esperantistojn</url></vrk>
+          <lok>Libera Folio, 2016-10-18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        preferindas ke estu iu po&scirc;telefona <tld/>o por facile sendi la
+        monon
+        <fnt>
+          <aut>Robert Nielsen</aut>
+          <vrk><url
+          ref="https://www.liberafolio.org/2018/03/03/cu-esperantistoj-bezonas-propran-valuton/">
+            &Ccirc;u esperantistoj bezonas propran valuton?</url></vrk>
+          <lok>Libera Folio, 2018-03-03, origine publikigita en <url
+          ref="https://teokajlibroj.wordpress.com/2018/02/28/imagu-se-esperantistoj-havus-nian-propran-valuton/">Teo
+          kaj Libroj, 2018-02-28</url></lok>;
+        </fnt>;
+      </ekz>
+      <ekz>
+        estus bele havi <tld/>on, sed mi kredas, ke retejo ta&ubreve;ga por
+        porteblaj aparatoj tamen tute bone ta&ubreve;gas
+        <fnt>
+          <aut>Chuck Smith</aut>
+          <vrk><url
+          ref="&Tekstaro;?nomo=kontakto-2011-2019&amp;uzistreketojn=&amp;tipo=&amp;sekcio=kontakto-376&amp;antauasekcio=1&amp;postasekcio=1">
+            En la teknologia generacio</url></vrk>
+          <lok>intervjuo en Kontakto</lok>;
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fonda&jcirc;o anoncas, ke balda&ubreve; &gcirc;i honoros Kokon per speciala
+        signolingva <tld/>o, kie &scirc;i mem estos &ccirc;efrolulo
+        <fnt>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2018/012299.php">
+            Forpasis reganto de la usona signolingvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2018/08-09, p. 26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_d;&c_a;&c_t;&c_a;&c_k; <klr tip="amb">(&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>aplikace</trd>,
+    <trd>apka</trd>
+  </trdgrp>
+  <trd lng="de">App</trd>
+  <trd lng="en">app</trd>
+  <trd lng="fr">appli</trd>
+  <trd lng="fy">app</trd>
+  <trd lng="ja">&#12450;&#12503;&#12522; <pr>&#12354;&#12407;&#12426;</pr></trd>
+  <trd lng="ko">&#50545;</trd>
+  <trd lng="ms">aplikasi</trd>
+  <trd lng="nl">app</trd>
+  <trd lng="no">app</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.13 2023/10/13 16:46:48
+revo: transskribo per <pr>
+
+versio 1.12 2023/05/02 15:56:28
+revo: aktualigo URL-unuoj
+
+versio 1.11 2022/11/11 10:38:01
+Dmitri Gabinski: + trd be
+
+versio 1.10 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.9 2020/05/07 13:10:43
+Sam Penter: +ekz
+
+versio 1.8 2020/05/05 12:10:18
+Sam Penter: vortuma korekto: mobila -> portebla
+
+versio 1.7 2020/05/02 17:10:17
+Sam Penter: pliprecizigo de difino; +trd ja ko; ordigo trd-oj
+-->
+</vortaro>

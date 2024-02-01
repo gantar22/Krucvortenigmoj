@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: almana.xml,v 1.32 2023/10/28 08:33:05 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>almanak</rad>/o,
+  <var><kap><rad var="&hcirc;">almana&hcirc;</rad>/o</kap></var>
+</kap>
+<drv mrk="almana.0o">
+  <kap><tld/>o,
+    <var><kap><tld var="&hcirc;"/>o</kap></var>
+  </kap>
+  <snc mrk="almana.0o.libro">
+    <dif>
+      <ref tip="super" cel="libr.0o.presajxo">Libro</ref>
+      enhavanta <ref tip="prt" cel="kalend1.0o.dokumento">kalendaron</ref>,
+      kun astronomiaj sciigoj, priveteraj anta&ubreve;diroj kaj diversaj informoj:
+      <ekz>
+        la Astronomia <tld lit="A"/>o 2000 estas la unua eldona&jcirc;o de la klubo
+        <fnt>
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2000/007158.php">Astronomio por &ccirc;iuj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 28</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        konsulti <tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Juan Jacobo Schmitter-soto</aut>
+          <vrk><url ref="&Monato;/2004/008257.html">Lando de la (mal)liberuloj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pluraj liaj poemoj estis forte dra&scirc;itaj de <nom>Camacho</nom> en Beletra <tld lit="A"/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2014/011151.php">Kiu &ccirc;i mi?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li gvidis literaturan rondeton de junaj poetoj kaj eldonis en 1835 poezian
+        <tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2015/011510.php">La jaro de &Lcaron;udov&iacute;t &Scaron;t&uacute;r</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la klubanoj kunaran&gcirc;as, redaktas, presas kaj dissendadas gazeton Informilo kun
+        <tld var="&hcirc;"/>o Anta&ubreve;en
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=273826">Klubo de Esperantistoj D-ro
+          Schulhof Pardubice</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="libr.jar0o">jarlibro</ref>
+    <trdgrp lng="zh">
+    <trd>&#x5386;&#x4E66; <pr>l&#xEC;sh&#x16B;</pr></trd>,
+    <trd>&#x66C6;&#x66F8; <pr>l&#xEC;sh&#x16B;</pr></trd>,
+    <trd>&#x5E74;&#x9451; <pr>ni&#xE1;nji&#xE0;n</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_m;&c_a;&c_n;&c_a;&c_h;</trd>
+  <trd lng="bg">&c_a;&c_l;&c_m;&c_a;&c_n;&c_a;&c_h;</trd>
+  <trd lng="ca">almanac</trd>
+  <trdgrp lng="cs">
+    <trd>almanach</trd>,
+    <trd>ro&ccaron;enka</trd>,
+    <trd>sborn&iacute;k</trd>,
+    <trd>&ccaron;&iacute;tanka</trd>
+  </trdgrp>
+  <trd lng="da">almanak</trd>
+  <trdgrp lng="de">
+    <trd>Almanach</trd>,
+    <trd>Jahrbuch</trd>
+  </trdgrp>
+  <trd lng="en">almanac</trd>
+  <trd lng="es">almanaque</trd>
+  <trdgrp lng="fa">
+    <trd>&a_t;&a_q;&a_w;&f_y;&a_m; &a_n;&a_j;&a_w;&a_m;&f_y;</trd>
+    <trd>&a_s;&a_A;&a_l;&a_n;&a_m;&a_A;</trd>
+    <trd>&a_s;&a_A;&a_l;&a_n;&a_A;&a_m;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">almanach</trd>
+  <trd lng="he">&alef;&#x5B7;&lamed;&#x5B0;&mem;&#x5B8;&nun;&#x5B8;&fkaf;</trd>
+  <trdgrp lng="hu">
+    <trd>almanach</trd>,
+    <trd>&eacute;vk&ouml;nyv</trd>
+  </trdgrp>
+  <trd lng="id">almanak</trd>
+  <trdgrp lng="ja">
+    <trd>&#x66A6;  <pr>&#x3053;&#x3088;&#x307F;</pr></trd>,
+    <trd>&#x66A6;&#x66F8;  <pr>&#x3053;&#x3088;&#x307F;&#x3057;&#x3087;</pr></trd>,
+    <trd>&#x5E74;&#x9451;  <pr>&#x306D;&#x3093;&#x304B;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">almanak</trd>
+  <trd lng="pl">almanach</trd>
+  <trd lng="pt">almanaque</trd>
+  <trd lng="ru">&c_a;&c_l;&c_mol;&c_m;&c_a;&c_n;&c_a;&c_h;</trd>
+  <trdgrp lng="sk">
+    <trd>almanach</trd>,
+    <trd>ro&ccaron;enka</trd>,
+    <trd>zborn&iacute;k</trd>
+  </trdgrp>
+  <trd lng="sv">almanacka</trd>
+  <trd lng="uk">&c_a;&c_l;&c_mol;&c_m;&c_a;&c_n;&c_a;&c_h;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/12 18:05:09
+revo: transskribo per <pr>
+
+versio 1.29 2023/08/09 20:24:58
+Wolfram Diestel: adaptetoj
+
+versio 1.28 2023/04/29 15:25:51
+Paul Peeraerts: Steloj -> monato
+
+versio 1.27 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.26 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.23 2020/09/09 19:10:32
+Wolfram Diestel: +tld-var
+
+Revision 1.21  2019/01/27 15:10:14  revo
+Wolfram Diestel: +var, +ekz-oj, +ref-oj
+
+Revision 1.20  2015/07/04 08:37:30  revo
+-->
+</vortaro>

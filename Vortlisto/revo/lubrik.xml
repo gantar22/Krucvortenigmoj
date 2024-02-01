@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lubrik.xml,v 1.24 2024/01/15 19:32:08 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>lubrik</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="lubrik.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">TEK</uzo>
+  <snc mrk="lubrik.0i.sxmiri">
+    <dif>
+      Meti substancon speciale gliteman inter du frotantajn surfacojn,
+      por faciligi la glitadon kaj malhelpi la defroti&gcirc;on:
+      <ekz>
+        <nom>Elli</nom> komencis <tld/>i la artikojn de la brakoj <klr>[&#x2026;]</klr> &gcirc;is ili vere
+        fari&gcirc;is kvaza&ubreve; novaj
+        <fnt>
+          <aut>Aleksandr Volkov</aut>
+          <vrk><url ref="http://miresperanto.com/por_infanoj/smeralda_urbo/1-2.htm">Magiisto de
+          Smeralda urbo</url></vrk>
+          <lok>Savo de Fera Hakisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        transformi la rafina&jcirc;on el brula&jcirc;o al parafina vakso kaj <tld/>a oleo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Wu Guojiang</aut>
+          <vrk><url ref="&Monato;/2008/009548.php">Rafinejo jubileas</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="glit.0emigi">glitemigi</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="ole.0i">olei</ref>,
+      <ref cel="sxmir.0i">&scirc;miri</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_m;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_m;&c_a;&c_z;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_m;&c_a;&c_z;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_m;&c_a;&c_z;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>schmieren</trd>,
+     <trd>&ouml;len</trd>
+  </trdgrp>
+  <trd lng="en">lubricate</trd>
+  <trd lng="es">lubricar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_r;&a_w;&a_A;&a_n;&#x200C;&f_k;&a_A;&a_r;&f_y;
+    &f_k;&a_r;&a_d;&a_n;</trd>
+    <trd>&a_r;&a_w;&a_A;&a_n;&#x200C;&a_s;&a_A;&a_z;&f_y;
+    &f_k;&a_r;&a_d;&a_n;</trd>
+    <trd>&a_r;&a_w;&a_gh;&a_n;&#x200C;&f_k;&a_A;&a_r;&f_y;
+    &f_k;&a_r;&a_d;&a_n;</trd>
+    <trd>&a_r;&a_w;&a_gh;&a_n; &a_z;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>lubrifier</trd>
+  </trdgrp>
+  <trd lng="hu">ken</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6CB9;&#x3092;&#x3055;&#x3059;  <pr>&#x3042;&#x3076;&#x3089;&#x3092;&#x3055;&#x3059;</pr></trd>,
+    <trd>&#x6CE8;&#x6CB9;&#x3059;&#x308B; <pr>&#x3061;&#x3085;&#x3046;&#x3086;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">smeren</trd>
+  <trdgrp lng="pl">
+    <trd>smarowa&cacute;</trd>,
+    <trd>oliwi&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">lubrificar</trd>
+  <trd lng="ro">lubrifia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_m;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_m;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&#x43C;&c_a;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_sh;&#x43C;&c_a;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6DA6;&#x6ED1; <pr>r&#xF9;nhu&#xE1;</pr></trd>,
+    <trd>&#x6F64;&#x6ED1; <pr>r&#xF9;nhu&#xE1;</pr></trd>,
+    <trd>&#x62B9;&#x6CB9; <pr>m&#x1D2;y&#xF3;u</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lubrik.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="lubrik.0o.ago">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        me&ccirc;o<tld/>o;
+      </ekz>
+      <ekz>
+        ringo<tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_m;&c_a;&c_z;&c_k;&c_a; <klr>(&c_d;&c_z;&c_je;&c_ja;)</klr></trd>,
+    <trd>&c_z;&c_m;&c_a;&c_z;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_m;&c_a;&c_z;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Schmieren</trd>,
+     <trd>Schmierung</trd>,
+     <trd>&Ouml;len</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>lubrication</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>lubricaci&oacute;n</trd>,
+    <trd>lubrificaci&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_r;&a_w;&a_A;&a_n;&#x200C;&f_k;&a_A;&a_r;&f_y;</trd>
+    <trd>&a_r;&a_w;&a_A;&a_n;&#x200C;&a_s;&a_A;&a_z;&f_y;</trd>
+    <trd>&a_r;&a_w;&a_gh;&a_n;&#x200C;&f_k;&a_A;&a_r;&f_y;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>lubrification</trd>
+  </trdgrp>
+  <trd lng="hu">ken&eacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6F64;&#x6ED1;  <pr>&#x3058;&#x3085;&#x3093;&#x304B;&#x3064;</pr></trd>,
+    <trd>&#x6CE8;&#x6CB9;  <pr>&#x3061;&#x3085;&#x3046;&#x3086;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">het <ind>smeren</ind></trd>
+  <trdgrp lng="pl">
+    <trd>oliwienie</trd>,
+    <trd>smarowanie</trd>
+  </trdgrp>
+  <trd lng="pt">lubrifica&ccedil;&atilde;o</trd>
+  <trd lng="ro">lubrifiere</trd>
+  <trd lng="ru">&c_s;&c_m;&c_a;&c_z;&c_k;&c_a; <klr>(&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&#x43C;&c_a;&c_shch;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_z;&#x43C;&c_a;&c_z;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lubrik.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o
+  </kap>
+  <snc mrk="lubrik.0ajxo.substanco">
+    <dif>
+      Substanco uzata por <tld/>i:
+      <ekz>
+        <tld/>a&jcirc;o likva, oleeca, seka, solida;
+      </ekz>
+      <ekz>
+        vazelino estas minerala graso, ekstraktata el nafto kaj uzata kiel ha&ubreve;t&scirc;mira&jcirc;o
+        a&ubreve; teknika <tld/>a&jcirc;o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=50824">Vazelino</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_m;&c_a;&c_z;&c_k;&c_a;</trd>,
+    <trd>&c_m;&c_a;&c_z;&c_ib;&c_l;&c_a;</trd>,
+    <trd>&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_ib;&c_d;&c_l;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Schmiermittel</trd>,
+     <trd>Schmier&ouml;l</trd>
+  </trdgrp>
+  <trd lng="en">lubricant</trd>
+  <trd lng="es">lubricante</trd>
+  <trd lng="fa">&a_r;&a_w;&a_A;&a_n;&#x200C;&a_s;&a_A;&a_z;</trd>
+  <trdgrp lng="fr">
+    <trd>lubrifiant</trd>
+  </trdgrp>
+  <trd lng="hu">ken&odblac;anyag</trd>
+  <trd lng="ja">&#x6F64;&#x6ED1;&#x6CB9;  <pr>&#x3058;&#x3085;&#x3093;&#x304B;&#x3064;&#x3086;</pr></trd>
+  <trd lng="nl">smeermiddel</trd>
+  <trd lng="pl">smar</trd>
+  <trd lng="pt">lubrificante</trd>
+  <trd lng="ro">lubrifiant  </trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_m;&c_a;&c_z;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_m;&c_a;&c_z;&c_o;&c_ch;&c_n;&c_o;&c_je; &c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&#x43C;&c_a;&c_z;&#x43A;&c_a;</trd>,
+    <trd>&#x43C;&c_a;&c_s;&c_t;&c_i;&#x43B;&#x43E;</trd>,
+    <trd>&#x43C;&c_a;&c_s;&c_t;&c_i;&#x43B;&#x44C;&#x43D;&c_a; &c_r;&c_je;&c_ch;&#x43E;&c_v;&c_i;&#x43D;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x6DA6;&#x6ED1;&#x5242; <pr>r&#xF9;nhu&#xE1;j&#xEC;</pr></trd>,
+    <trd>&#x6F64;&#x6ED1;&#x5291; <pr>r&#xF9;nhu&#xE1;j&#xEC;</pr></trd>,
+    <trd>&#x6DA6;&#x6ED1;&#x6CB9; <pr>r&#xF9;nhu&#xE1;y&#xF3;u</pr></trd>,
+    <trd>&#x6F64;&#x6ED1;&#x6CB9; <pr>r&#xF9;nhu&#xE1;y&#xF3;u</pr></trd>,
+    <trd>&#x6DA6;&#x6ED1;&#x6CB9;&#x6599; <pr>r&#xF9;nhu&#xE1;y&#xF3;uli&#xE0;o</pr></trd>,
+    <trd>&#x6F64;&#x6ED1;&#x6CB9;&#x6599; <pr>r&#xF9;nhu&#xE1;y&#xF3;uli&#xE0;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lubrik.0ilo">
+  <kap>
+    <tld/>ilo
+  </kap>
+  <snc mrk="lubrik.0ilo.aparato">
+    <dif>
+      Aparato por <tld/>i, ekz. ujo kun ellasa tubeto:
+      <ekz>
+        se mi eliros el la akvo, mi tuj rusti&gcirc;os <klr>[&ccirc;ar]</klr> la lubrikilo mankas
+        <fnt>
+          <aut>Aleksandr Volkov</aut>
+          <vrk><url ref="http://miresperanto.com/por_infanoj/smeralda_urbo/1-3.htm">Magiisto de
+          Smeralda urbo</url></vrk>
+          <lok>Elli en kaptiteco de Hommanghulo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_s;&c_mol;&c_l;&c_jo;&c_n;&c_k;&c_a;</trd>
+  <trdgrp lng="de">
+     <trd>Schmiernippel</trd>,
+     <trd>&Ouml;lkanne</trd>
+  </trdgrp>
+  <trd lng="en">oilcan</trd>
+  <trd lng="fa">&a_r;&a_w;&a_gh;&a_n;&#x200C;&a_d;&a_A;&a_n;</trd>
+  <trdgrp lng="fr">
+    <trd>lubrificateur</trd>
+  </trdgrp>
+  <trd lng="hu">ken&odblac;k&eacute;sz&uuml;l&eacute;k</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6F64;&#x6ED1;&#x88C5;&#x7F6E;  <pr>&#x3058;&#x3085;&#x3093;&#x304B;&#x3064;&#x305D;&#x3046;&#x3061;</pr></trd>,
+    <trd>&#x6CB9;&#x5DEE;&#x3057;&#x5668;  <pr>&#x3042;&#x3076;&#x3089;&#x3055;&#x3057;&#x3046;&#x3064;&#x308F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">smeerapparaat</trd>
+  <trdgrp lng="pl">
+    <trd>smarownica</trd>,
+    <trd>oliwiarka</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>pompe de gresat</trd>,
+    <trd>lubrifiant</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_a;&c_s;&c_l;&c_jo;&c_n;&c_k;&c_a; <klr tip="amb">(&c_d;&c_l;&c_ja;
+    &c_s;&c_m;&c_a;&c_z;&c_k;&c_i;)</klr></trd>,
+    <trd>&c_l;&c_u;&c_b;&c_r;&c_i;&c_k;&c_a;&c_t;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_a;&c_s;&#x43B;&#x44F;&#x43D;&#x43A;&c_a;</trd>,
+    <trd>&#x43B;&c_u;&c_b;&c_r;&c_i;&#x43A;&c_a;&c_t;&#x43E;&c_r;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x6CE8;&#x6CB9;&#x5668; <pr>zh&#xF9;y&#xF3;uq&#xEC;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2023/10/19 14:32:17
+revo: transskribo per <pr>
+
+versio 1.22 2023/09/12 19:20:25
+Wolfram Diestel: pr. ja
+
+versio 1.20 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2020/09/12 22:11:22
+Vito Redsky: +trd pl +trd ro
+
+versio 1.17 2020/06/07 21:33:19
+Wolfram Diestel: dif-vortumo, ekz-oj
+
+Revision 1.15  2009/06/25 16:30:43  revo
+Behnam Tabatabai: korr arabaj/persaj koderoj
+
+Revision 1.14  2009/05/19 17:00:40  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2004/06/01 17:24:24  revo
+-->
+</vortaro>

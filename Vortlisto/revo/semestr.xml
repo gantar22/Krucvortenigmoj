@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: semestr.xml,v 1.14 2023/10/21 06:31:44 revo Exp $">
+<kap>
+  <rad>semestr</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="semestr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="semestr.0o.KAL">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">KAL</uzo>
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      <ref tip="dif" cel="du.jar0ono.KAL">Jarduono</ref>, precipe &ccirc;e universitato:
+      <ekz>
+        mi havis mian lastan ekzamenon por la tuta unua <tld/>o
+        <fnt>
+        <aut>K. Scott</aut>,
+        <vrk><url ref="http://keiscorner.livejournal.com/3156.html">[blogo]</url></vrk>,
+        <lok>2006-02-08</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekster la universitataj <tld/>oj okazas en <nom>Schlaining</nom> internacia somer-akademio
+        kaj <klr>[&#x2026;]</klr> packonferenco
+        <fnt>
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2000/007044.php">De perforto al paco</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 12</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la novaj universitataj gradoj estu bakala&ubreve;ro (ses-<tld/>a studado), magistro
+        (pliaj du a&ubreve; kvar <tld/>oj) kaj doktoro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2010/010037.php">Reformo fu&scirc;ita</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="trimestr.0o">trimestro</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_e;&c_m;&c_e;&c_s;&c_t;&c_a;&c_r;</trd>,
+    <trd>&c_p;&c_a;&c_w;&c_g;&c_o;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pololet&iacute;</trd>,
+    <trd>semestr</trd>
+  </trdgrp>
+  <trd lng="de">Semester</trd>
+  <trd lng="en">semester</trd>
+  <trd lng="fr">semestre</trd>
+  <trd lng="it">semestre</trd>
+  <trdgrp lng="ja">
+    <trd>&#x534A;&#x671F;  <pr>&#x306F;&#x3093;&#x304D;</pr></trd>,
+    <trd>&#x534A;&#x5E74;  <pr>&#x306F;&#x3093;&#x3068;&#x3057;</pr></trd>,
+    <trd>&#x5B66;&#x671F;  <pr>&#x304C;&#x3063;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">semester</trd>
+  <trdgrp lng="pl">
+    <trd>semestr</trd>,
+    <trd>p&oacute;&lstroke;rocze</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_m;&c_je;&c_s;&c_t;&c_r;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_u;&c_g;&c_o;&c_d;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>polrok</trd>,
+    <trd>semester</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_je;&#x43C;&c_je;&c_s;&c_t;&c_r;</trd>,
+    <trd>&#x43F;&c_ib;&c_v;&c_r;&c_ib;&c_ch;&c_ch;&#x44F;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.14 2023/10/21 06:31:44
+revo: transskribo per <pr>
+
+versio 1.12 2023/05/01 13:28:18
+Paul Peeraerts: Steloj -> monato
+
+versio 1.11 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.9 2021/04/11 08:57:41
+Dmitri Gabinski: + trd be
+
+Revision 1.7  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2014/01/07 07:10:21  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.4  2010/10/21 16:30:29  revo
+-->
+</vortaro>

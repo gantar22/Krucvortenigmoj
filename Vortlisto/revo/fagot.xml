@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fagot.xml,v 1.23 2023/11/09 19:13:15 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>fagot</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="fagot.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="fagot.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Ligna <ref tip="lst" cel="instru2.blov0o" lst="voko:blovinstrumentoj">blovinstrumento</ref>,
+      kun langeto kaj klapetoj, por ludi la malakutan registron:
+      <ekz>
+        la <tld/>o a&ubreve; hobojego estas ligna blovinstrumento parenca al hobojo, la
+        muzikilo karakterizi&gcirc;as per duopa an&ccirc;o kaj klapoj, kaj produktas relative
+        malakutajn sonojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=234100">Fagoto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flut.0o">fluto</ref>,
+      <ref cel="hoboj.0o">hobojo</ref>.
+    </refgrp>
+    <bld lok="&WCU;/thumb/2/21/Orchester-Finalisten-Fagott593_21Aug2012.png/640px-Orchester-Finalisten-Fagott593_21Aug2012.png" prm="CC BY-SA 4.0">Karlheinz Stockhausen: Merkredo el Lumo, sceno 2, Amy Harman ludante fagoton
+        <fnt>
+          <aut>Jerome Kohl, propra verko</aut>
+          <lok><url ref="&WCW;/File:Orchester-Finalisten-Fagott593_21Aug2012.png">&WCW;/File:Orchester-Finalisten-Fagott593_21Aug2012.png</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_g;&c_o;&c_t;</trd>
+  <trd lng="ca">fagot</trd>
+  <trd lng="cs">fagot</trd>
+  <trd lng="de">Fagott</trd>
+  <trd lng="en">bassoon</trd>
+  <trd lng="fr">basson</trd>
+  <trd lng="hu">fagott</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D5;&#x30A1;&#x30B4;&#x30C3;&#x30C8;</trd>,
+    <trd>&#x30D0;&#x30B9;&#x30FC;&#x30F3;</trd>
+  </trdgrp>
+  <trd lng="nl">fagot</trd>
+  <trd lng="pl">fagot</trd>
+  <trd lng="pt">fagote</trd>
+  <trd lng="ru">&c_f;&c_a;&c_g;&c_o;&c_t;</trd>
+  <trd lng="sk">fagot</trd>
+  <trd lng="uk">&#x444;&#x430;&#x491;&#x43E;&#x442;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x4F4E;&#x97F3;&#x7BA1; <pr>d&#x12B;y&#x12B;ngu&#x1CE;n</pr></trd>,
+    <trd>&#x5DF4;&#x677E; <pr>b&#x101;s&#x14D;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.18  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/09/08 18:10:36  revo
+Wolfram Diestel: ref al listo blovinstrumentoj
+
+Revision 1.15  2012/08/22 00:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2011/12/21 14:10:10  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.13  2009/04/02 16:30:42  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/05/12 16:30:53  revo
+-->
+</vortaro>

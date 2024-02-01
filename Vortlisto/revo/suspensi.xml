@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: suspensi.xml,v 1.13 2023/05/04 20:24:43 revo Exp $">
+<kap>
+  <rad>suspensi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="suspensi.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <ref cel="disper.0ajxo.KEM">Dispersa&jcirc;o</ref> de eretoj
+      &scirc;vebantaj en likva&jcirc;o:
+      <ekz>
+        sedimento estas precipita&jcirc;o el <tld/>a a&ubreve; pli-malpli solvita materio en senmova
+        likva&jcirc;o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=23327"
+              >Sedimento</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj de <klr>[kalcia hidroksido]</klr> en la akvo estas: graskalko
+        <klr>[&#8230;]</klr>, kalklakto <klr>[&#8230;]</klr>, kalkakvo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=250460"
+              >Kalcia hidroksido</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_v;&c_ib;&c_s;&c_mol;</trd>,
+    <trd>&c_s;&c_u;&c_s;&c_p;&c_e;&c_n;&c_z;&c_ib;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="ca">suspensi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>p&eacute;rov&aacute;n&iacute;</trd>,
+    <trd>zav&ecaron;&scaron;en&iacute;</trd>,
+    <trd>z&aacute;v&ecaron;s</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Suspension</trd>,
+    <trd>Schwebstoff</trd>,
+    <trd>Aufschl&auml;mmung</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>flottement<klr> (chimie)</klr></trd>,
+    <trd>suspension<klr> (chimie)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szuszpenzi&oacute;</trd>,
+    <trd>lebeg&eacute;s<klr> (k&eacute;miai)</klr></trd>
+  </trdgrp>
+  <trd lng="it">sospensione<klr> (ch.)</klr></trd>
+  <trd lng="nl">suspensie</trd>
+  <trd lng="no">suspensjon</trd>
+  <trdgrp lng="pl">
+    <trd>zawieszenie</trd>,
+    <trd>zwis</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_z;&c_v;&c_je;&c_s;&c_mol;</trd>,
+    <trd>&c_s;&c_u;&c_s;&c_p;&c_je;&c_n;&c_z;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>p&eacute;rovanie</trd>,
+    <trd>zavesenie</trd>,
+    <trd>z&aacute;ves</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_u;&c_s;&c_p;&c_je;&c_n;&c_z;&c_ib;&c_ja;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_i;&c_s;&c_l;&c_i;&c_j; &c_s;&c_t;&c_a;&c_n;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.13 2023/05/04 20:24:43
+Wolfram Diestel: dif: dispersaĵo...likvaĵo, pli trafaj ekz-oj
+
+Revision 1.10  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:25  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2015/04/13 23:10:12  revo
+Filip van Laenen: +trd(nl,no)
+
+Revision 1.7  2013/04/05 19:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.6  2013/02/11 10:10:14  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.5  2012/07/14 13:10:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.4  2009/10/08 16:31:41  revo
+-->
+</vortaro>

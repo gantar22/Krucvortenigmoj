@@ -1,0 +1,926 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pord.xml,v 1.134 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pord</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="pord.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="pord.0o.spaco">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="ferm.mal0ajxo.KOMUNE">Malferma&jcirc;o</ref>
+      en <ref tip="malprt" cel="mur.0o">muro</ref> de konstrua&jcirc;o,
+      en <ref tip="malprt" cel="bar.0ilo">barilo</ref>, en flanko de
+      <ref tip="malprt" cel="vetur.0ilo">veturilo</ref> a&ubreve; ma&scirc;ino por trairo:
+      <ekz>
+        li ne povas trairi tra nia mallar&gcirc;a <tld/>o
+        <fnt><bib>F</bib>, <lok>&FE; 33</lok></fnt>;
+      </ekz>
+      <ekz>
+        la kovriloj de l' fenestroj kaj la <tld/>oj restis fermitaj la tutan tagon
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>okurteno ek&jcirc;eti&gcirc;is flanken, kaj sur la sojlo de la <tld/>o sin montris
+        alta, gracia virina figuro
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kale&scirc;<tld/>o, &ccirc;ar<tld/>o
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li sidis &ccirc;e la <tld/>o de la tendo
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Gen; 18:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sie&gcirc;i ies <tld/>on
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se vi agos malbone, la peko ku&scirc;os &ccirc;e la <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Gen; 4:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ora &scirc;losilo &ccirc;iun <tld/>on malfermas
+        <klr>(<ref cel="acxet.sub0i">suba&ccirc;etas</ref>)</klr>
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en bona ordo tra la <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se &ccirc;iu balaos anta&ubreve; sia <tld/>o, tiam en la tuta urbo estos ordo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pelu mizeron tra l' <tld/>o, &gcirc;i revenos tra l' fenestro
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        diablo ne &ccirc;iam unu <tld/>on sie&gcirc;as
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="ir.en0ejo">enirejo</ref>
+    <refgrp tip="sub">
+       <ref cel="luk.0o">luko</ref>,
+       <ref cel="potern.0o">poterno</ref>
+    </refgrp>
+    <refgrp tip="prt">
+      <ref cel="ans.0o">anso</ref>,
+      <ref cel="klink.0o.pordanso">klinko<sncref/></ref>,
+      <ref cel="klap.0o.pordo">klapo<sncref/></ref>,
+      <ref cel="hok.pord0o.TEK">pordhoko</ref>,
+      <ref cel="serur.0o">seruro</ref>
+    </refgrp>
+    <trd lng="de">T&uuml;r&ouml;ffnung</trd>
+    <trd lng="es">portal</trd>
+    <trd lng="nl">doorgang</trd>
+  </snc>
+  <snc mrk="pord.0o.fermajxo">
+    <uzo tip="fak">ARKI</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="plat.0o">Plato</ref>, kiu fermas <tld/>an spacon, kaj klape a&ubreve; glite
+      formovi&gcirc;as por ebligi trairon:
+      <ekz>
+        &scirc;losi la <tld/>on
+        <fnt><bib>F</bib> <lok>&FE; 34</lok></fnt>;
+      </ekz>
+      <ekz>
+        li fermis kolere la <tld/>on
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili aliris, por elrompi la <tld/>on
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Gen; 19:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la <tld/>o estis malgranda tabuleto, sur kiu per grandaj literoj estis
+        skribita: &leftquot;tiu &ccirc;i domo estas vendata&rightquot;
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        subite oni frapas tre malla&ubreve;te sur la <tld/>o
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>krad<tld/>o</ind>
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>;
+        <trd lng="de">Gatter</trd>
+      </ekz>
+      <ekz>
+        du soldatoj portis la knabeton eksteren al la baril<tld/>o de la kampo
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fajro<tld/>oj salte malfermi&gcirc;is kaj la ardanta karbo lante voras je niaj
+        piedoj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        dezirante sin sciigi, <klr>[ili]</klr> iris <ind>frapi sur la <tld/>on</ind>
+        <klr>(peti <ref cel="help.0o">helpo</ref>n a&ubreve; konsilon)</klr>
+        de diversaj amikoj, kaj fine alvenis en la hejmon de Klozelo
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+        <trd lng="de">an die <ind>T&uuml;r</ind> klopfen <klr>(mit einer Bitte)</klr></trd>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>lasi la <tld/>on malfermita</ind>
+        <klr>(rezervi la eblon)</klr>
+        al pliaj sendependigaj provoj
+        <fnt>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2013/010900.php">Angla hundo, skota vosto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/01, p. 5</lok>
+        </fnt>.
+        <trd lng="de">die <ind>T&uuml;r</ind> offen lassen</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flug.0ilo.svingigxi">flugilo<sncref/></ref>,
+      <ref cel="klap.0o.pordo">klapo<sncref/></ref>
+    </refgrp>
+    <trd lng="de">T&uuml;r</trd>
+    <trd lng="es">puerta</trd>
+    <trd lng="nl">deur</trd>
+  </snc>
+  <trd lng="af">deur</trd>
+  <trd lng="am">&#4704;&#x122D;</trd>
+  <trd lng="ar">&a_b;&a_A;&a_b;</trd>
+  <trd lng="az">qap&inodot;</trd>
+  <trd lng="be">&c_d;&c_z;&c_mol;&c_v;&c_je;&c_r;&c_y;</trd>
+  <trd lng="bg">&c_v;&c_r;&c_a;&c_t;&c_a;</trd>
+  <trd lng="bn">&#x9A6;&#x9B0;&#x99C;&#x9BE;</trd>
+  <trd lng="bo">&t_sa;&t_gata;&t_naro;&t_tsheg;</trd>
+  <trd lng="bs">vrata</trd>
+  <trd lng="co">av</trd>
+  <trdgrp lng="cs">
+    <trd>branka</trd>,
+    <trd>dve&rcaron;e</trd>,
+    <trd>pr&uring;chod</trd>
+  </trdgrp>
+  <trd lng="cy">drws</trd>
+  <trd lng="da">d&oslash;r</trd>
+  <trd lng="de">T&uuml;r</trd>
+  <trdgrp lng="en">
+    <trd>door</trd>,
+    <trd>gate</trd>
+  </trdgrp>
+  <trd lng="et">uks</trd>
+  <trd lng="eu">atea</trd>
+  <trd lng="fr">porte</trd>
+  <trd lng="fy">doar</trd>
+  <trd lng="ga">doras</trd>
+  <trd lng="gd">doras</trd>
+  <trd lng="gl">porta</trd>
+  <trd lng="gu">&#xAAC;&#xABE;&#xAB0;&#xAA3;&#xAC1;&#xA82;</trd>
+  <trd lng="ha">kofa</trd>
+  <trd lng="he">&dalet;&lamed;&tav;</trd>
+  <trd lng="hi">&#2342;&#2352;&#2357;&#x93E;&#x91C;&#x93E;</trd>
+  <trd lng="hmn">qhov rooj</trd>
+  <trd lng="hr">vrata</trd>
+  <trd lng="ht">p&ograve;t</trd>
+  <trd lng="hu">ajt&oacute;</trd>
+  <trd lng="hy">&#1380;&#1400;&#1410;&#x57C;&#1384;</trd>
+  <trd lng="id">pintu</trd>
+  <trd lng="ig">&#x1EE5;z&#x1ECD;</trd>
+  <trd lng="is">dyr</trd>
+  <trd lng="ja">&#x30C9;&#x30A2;</trd>
+  <trd lng="jv">lawang</trd>
+  <trd lng="ka">&#x10D9;&#x10D0;&#x10E0;&#x10D8;</trd>
+  <trd lng="kk">&c_je;&c_s;&c_ib;&c_k;</trd>
+  <trd lng="km">&#6033;&#x17D2;&#x179C;&#x17B6;&#x179A;</trd>
+  <trd lng="kn">&#xCAC;&#xCBE;&#xC97;&#xCBF;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xBB38;</trd>
+  <trd lng="ku">der&icirc;</trd>
+  <trd lng="ky">&c_e;&c_sh;&c_i;&c_k;</trd>
+  <trd lng="lat">ostium</trd>
+  <trd lng="lo">&#xE9B;&#xEB0;&#xE95;&#xEB9;</trd>
+  <trd lng="lt">durys</trd>
+  <trd lng="lv">durvis</trd>
+  <trd lng="mg">varavarana</trd>
+  <trd lng="mi">tatau</trd>
+  <trd lng="mk">&c_v;&c_r;&c_a;&c_t;&c_a;</trd>
+  <trd lng="ml">&#xD35;&#xD3E;&#xD24;&#xD3F;&#xD32;&#xD4D;</trd>
+  <trd lng="mn">&c_h;&c_a;&c_a;&c_l;&c_g;&c_a;</trd>
+  <trd lng="mr">&#2342;&#2352;&#2357;&#x93E;&#x91C;&#x93E;</trd>
+  <trd lng="ms">pintu</trd>
+  <trd lng="mt">bieb</trd>
+  <trd lng="my">&#4112;&#4150;&#4097;&#x102B;&#4152;&#4117;&#4145;&#x102B;&#4096;&#x103A;</trd>
+  <trd lng="ne">&#2338;&#x94B;&#2325;&#x93E;</trd>
+  <trd lng="nl">deur</trd>
+  <trd lng="ny">chitseko</trd>
+  <trd lng="pa">&#xA26;&#xA3E; &#xA26;&#xA30;&#xA35;&#xA3E;&#xA1C;&#xA3C;&#xA3E;</trd>
+  <trd lng="pl">drzwi</trd>
+  <trd lng="ps">&a_d;&a_r;&a_w;&a_A;&a_z;&a_h;</trd>
+  <trd lng="pt">porta</trd>
+  <trd lng="ru">&c_d;&c_v;&c_je;&c_r;&c_mol;</trd>
+  <trd lng="rw">umuryango</trd>
+  <trd lng="sd">&a_d;&a_r;</trd>
+  <trd lng="si">&#xDAF;&#xDDC;&#xDBB;</trd>
+  <trdgrp lng="sk">
+    <trd>br&aacute;nka</trd>,
+    <trd>prechod</trd>
+  </trdgrp>
+  <trd lng="sl">vrata</trd>
+  <trd lng="sm">faitoto&#x2BB;a</trd>
+  <trd lng="sn">musuo</trd>
+  <trd lng="so">albaabka</trd>
+  <trd lng="sq">dyer</trd>
+  <trd lng="st">ntlo</trd>
+  <trd lng="su">panto</trd>
+  <trd lng="sv">d&ouml;rr</trd>
+  <trd lng="sw">mlango</trd>
+  <trd lng="ta">&#xB95;&#xBA4;&#xBB5;&#xBC8;</trd>
+  <trd lng="te">&#xC24;&#xC32;&#xC41;&#xC2A;&#xC41;</trd>
+  <trd lng="tg">&c_d;&c_a;&c_r;&c_i;</trd>
+  <trd lng="th">&#xE1B;&#xE23;&#xE30;&#xE15;&#xE39;</trd>
+  <trd lng="tl">pinto</trd>
+  <trd lng="tok">lupa</trd>
+  <trd lng="tt">&c_i;&c_sh;&c_je;&c_k;</trd>
+  <trd lng="uk">&c_d;&c_v;&c_je;&c_r;&c_ib;</trd>
+  <trd lng="ur">&a_d;&a_r;&a_w;&a_A;&a_z;&#x6C1;</trd>
+  <trd lng="uz">eshik</trd>
+  <trd lng="vi">c&#x1EED;a</trd>
+  <trd lng="xh">ucango</trd>
+  <trd lng="yi">&tet;&yod;&resh;</trd>
+  <trd lng="yo">ilekun</trd>
+  <trd lng="zh">&#x95E8; <pr>m&eacute;n</pr></trd>
+  <trd lng="zu">umnyango</trd>
+</drv>
+
+<drv mrk="pord.0ego">
+  <kap><ofc>*</ofc><tld/>ego
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, -eg'</lok></fnt></kap>
+  <snc mrk="pord.0ego.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      &Ccirc;efa <ref tip="super" cel="pord.0o"><tld/>o</ref> de domo, de
+      fortika urbo, por paso de veturiloj:
+      <ekz>
+        kun bruo oni malfermis la <tld/>egon, kaj la kale&scirc;o enveturis
+        en la korton
+        <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiam li venis al la <tld/>ego de la urbo, la gardistoj demandis,
+        &ccirc;u ili devas anonci lin al la re&gcirc;ino
+        <fnt><bib>ElektFab</bib>, <lok>du fratoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu templo kaj palaco havis grandegan <tld/>egon kun pilonoj, kaj tial oni nomis
+        Tebojn urbo &leftquot;cent<tld/>ega&rightquot;
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&ccirc;apitro 9a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili <klr>[&#8230;]</klr> elportas la paka&jcirc;on ekster la <tld/>egon
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        via idaro posedos la <tld/>egojn de siaj malamikoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Gen; 22:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Gibraltara <tld/>ego <klr>(<ref cel="kol.mar0o">markolo</ref>)</klr>
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la propraj poseda&jcirc;oj, kun kiuj <klr>[vi]</klr> venas al
+        la <tld/>ego de la socia vivo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trd lng="bo">&t_sa;&t_gata;&t_naro;</trd>
+  <trdgrp lng="cs">
+    <trd>br&aacute;na</trd>,
+    <trd>vrata</trd>
+  </trdgrp>
+  <trd lng="de">Tor</trd>
+  <trdgrp lng="en">
+    <trd>garage <ind>door</ind></trd>,
+    <trd>gate</trd>
+  </trdgrp>
+  <trd lng="es">port&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>portail</trd>,
+    <trd>portes<klr tip="amb"> (d'une r&eacute;sidence, d'une
+    ville)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">kapu</trd>
+  <trd lng="id">gerbang</trd>
+  <trdgrp lng="ja">
+    <trd>&#38272;  <pr>&#12418;&#12435;</pr></trd>,
+    <trd>&#22823;&#25144;  <pr>&#x304A;&#x304A;&#12393;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">poort</trd>
+  <trdgrp lng="pl">
+    <trd>brama</trd>,
+    <trd>wrota</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_o;&c_r;&c_o;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>br&aacute;na</trd>,
+    <trd>vr&aacute;ta</trd>
+  </trdgrp>
+  <trd lng="sv">port</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_o;&c_r;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_b;&c_r;&c_a;&c_m;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pord.0egejo">
+  <kap><tld/>egejo</kap>
+  <snc mrk="pord.0egejo.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Granda <ref tip="super" cel="ir.en0ejo">enirejo</ref> en
+      konstrua&jcirc;o, kiun fermas <tld/>ego:
+      <ekz>
+        la malluma figuro de la virino kuris <klr>[...]</klr> tra la
+        arka&jcirc;an <tld/>egejon de la domo
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        la kastelo <klr>[&#8230;]</klr>, tri turoj, la <tld/>egejo kaj la domo de la
+        administranto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=676966">Kastelo Landsberg
+          (Meiningen)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&#8217;&c_je;&c_z;&c_d;</trd>
+  <trdgrp lng="de">
+    <trd>Toreinfahrt</trd>,
+    <trd>Torweg</trd>,
+    <trd>Torhaus</trd>
+  </trdgrp>
+  <trd lng="en">gateway</trd>
+  <trd lng="fr">porche</trd>
+  <trd lng="hu">kapualj</trd>
+  <trdgrp lng="nl">
+    <trd>portaal</trd>,
+    <trd>portiek</trd>
+  </trdgrp>
+  <trd lng="pl">portal</trd>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_malmol;&c_je;&c_z;&c_d;</trd>
+</drv>
+
+<drv mrk="pord.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="pord.0isto.KOMUNE">
+    <dif>
+      <ref tip="super" cel="gard.0isto">Gardisto</ref> de domo, kiu kontrolas
+      la enirantojn, ricevas po&scirc;ta&jcirc;ojn...:
+      <ekz>
+        homo forvoja&gcirc;inta <klr>[...]</klr> ordonis al la <tld/>isto, ke
+        li viglu
+        <fnt><bib>NT</bib> <lok>&Mar; 13:34</lok></fnt>;
+      </ekz>
+      <ekz>
+        majeste staris la <tld/>isto en veluro kaj silko, kun granda ar&gcirc;entita bastono
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>isto kaj du servistinoj rekonis lin, &ccirc;ar la nokto estis sufi&ccirc;e luma
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&ccirc;apitro 16a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>isto kuras post mi sur la &scirc;tuparo kun broso: permesu <klr>[ke]</klr> mi
+        al vi purigos la botojn
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto tria</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="grum.0o">grumo</ref>,
+       <ref cel="lake.0o.servisto">lakeo<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_d;&c_z;&c_mol;&c_v;&c_je;&c_r;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_a;&c_d;&c_z;&c_mol;&c_v;&c_je;&c_r;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_b;&c_r;&c_a;&c_m;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_b;&c_r;&c_a;&c_m;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_c;&c_mol;&c_je;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_mol;&c_s;&c_mol;&c_je;&c_r;&c_zh;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>port&yacute;r</trd>,
+    <trd>vr&aacute;tn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>T&uuml;rsteher</trd>,
+    <trd>Torw&auml;chter</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>doorman</trd>,
+    <trd>gatekeeper</trd>
+  </trdgrp>
+  <trd lng="es">portero</trd>
+  <trdgrp lng="fr">
+    <trd>concierge</trd>,
+    <trd>gardien d'immeuble</trd>,
+    <trd>portier</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kapus</trd>,
+    <trd>port&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>pen<ind>jaga</ind> pintu</trd>,
+    <trd>pen<ind>jaga</ind> gerbang</trd>
+  </trdgrp>
+  <trd lng="ja">&#38272;&#x756A;  <pr>&#12418;&#12435;&#12400;&#12435;</pr></trd>
+  <trd lng="nl">portier</trd>
+  <trdgrp lng="pl">
+    <trd>od&zdot;wierny</trd>,
+    <trd>porter</trd>,
+    <trd>furtian <klr>(w klasztorze)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_r;&c_a;&c_t;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_p;&c_o;&c_r;&c_t;&c_mol;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">vr&aacute;tnik</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_o;&c_r;&c_o;&c_t;&c_a;&c_r;</trd>,
+    <trd>&c_b;&c_r;&c_a;&c_m;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_p;&c_o;&c_r;&c_t;&c_mol;&c_jeu;</trd>,
+    <trd>&c_k;&c_o;&c_n;&c_s;&c_mol;&c_jeu;&c_r;&c_zh;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pord.dom0o">
+  <kap>dom<tld/>o</kap>
+  <snc mrk="pord.dom0o.KOMUNE">
+    <dif>
+      <tld lit="P"/>o tra kiu oni eniras a&ubreve; eliras domon:
+      <ekz>
+        kiam ili iris el la dom<tld/>o,
+        Rejnhardo donis al &scirc;i la brakon
+        <fnt>
+          <aut>T. Storm, trad. A. Bader</aut>,
+          <vrk>Imenlago</vrk>,
+          <lok>en: Du Amosentaj Noveloj, 1947</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni staris anta&ubreve; la dom<tld/>o por kapti iom da fre&scirc;a aero
+        <fnt>
+          <aut>Czar</aut>
+          <vrk><url ref="&Monato;/2003/008152.html">La fino de Vincent van
+          Gogh</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/10, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ka&scirc;is &scirc;losilon de la malanta&ubreve;a dom<tld/>o sub la tegmenton de &gcirc;ardena budo
+        <fnt>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2009/009779.php">&Scirc;losila teorio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/11, p. 16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_v;&c_a;&c_h;&c_o;&c_d;&c_n;&c_y;&c_ja; <ind>&c_d;&c_z;&c_mol;&c_v;&c_je;&c_r;&c_y;</ind></trd>
+  <trd lng="cs">domovn&iacute; dve&rcaron;e</trd>
+  <trd lng="de">Haust&uuml;r</trd>
+  <trdgrp lng="en">
+    <trd>entry door</trd>,
+    <trd>front door</trd>, <trd>exterior door</trd>
+  </trdgrp>
+  <trd lng="fr">porte d'entr&eacute;e<klr> (de maison)</klr></trd>
+  <trd lng="id"><ind>pintu</ind> rumah</trd>
+  <trd lng="ja">&#29572;&#x95A2;  <pr>&#12370;&#12435;&#x304B;&#12435;</pr></trd>
+  <trd lng="pl">drzwi <klr>domu</klr></trd>
+  <trd lng="sk">domov&eacute; dvere</trd>
+</drv>
+
+<drv mrk="pord.fald0o">
+  <kap>fald<tld/>o</kap> <fnt><bib>EBV</bib></fnt>
+  <snc mrk="pord.fald0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="pord.0o.spaco"><tld lit="P"/>o</ref> kun
+      <ref tip="prt" cel="balg.0o">balge</ref> faldebla ferma&jcirc;o.
+    </dif>
+  </snc>
+  <trd lng="de">Faltt&uuml;r</trd>
+  <trdgrp lng="en">
+    <trd>folding door</trd>,
+    <trd>accordion door</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>porte accord&eacute;on</trd>,
+    <trd>porte pliante</trd>
+  </trdgrp>
+  <trd lng="hu">harmonikaajt&oacute;</trd>
+  <trd lng="id"><ind>pintu</ind> lipat</trd>
+  <trd lng="nl">vouwdeur</trd>
+  <trdgrp lng="pl">
+    <trd>drzwi sk&lstroke;adana</trd>,
+    <trd>drzwi harmonijkowe</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pord.fenestro0o">
+  <kap>fenestro<tld/>o</kap>
+  <snc mrk="pord.fenestro0o.ARKI">
+    <dif>
+      <tld lit="P"/>o provizita per <ref tip="prt" cel="fenest.0o">fenestro</ref>,
+      kiujn oni uzas ekz-e &ccirc;e balkonoj kaj terasoj:
+      <ekz>
+        <klr>[li]</klr> metis la mikrofonon &ccirc;e la balkona fenestro<tld/>o
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>balk&oacute;nov&eacute; dve&rcaron;e</trd>,
+    <trd>prosklen&eacute; dve&rcaron;e</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Fenstert&uuml;r</trd>,
+  </trdgrp>
+  <trd lng="en">French window</trd>
+  <trdgrp lng="fr">
+    <trd>porte-fen&ecirc;tre</trd>,
+    <trd>porte vitr&eacute;e</trd>
+  </trdgrp>
+  <trd lng="hu">&uuml;vegajt&oacute;</trd>
+  <trd lng="ja">&#x30D5;&#x30E9;&#x30F3;&#x30B9;&#x7A93; 
+  <pr>&#x30D5;&#x30E9;&#x30F3;&#x30B9;&#x307E;&#12393;</pr></trd>
+  <trd lng="nl">glazen <ind>deur</ind></trd>
+  <trdgrp lng="pl">
+    <trd>przeszklone <ind>drzwi</ind></trd>,
+    <trd>oszklone <ind>drzwi</ind></trd>
+  </trdgrp>
+  <trd lng="ru">
+  &c_z;&c_a;&c_s;&c_t;&c_je;&c_k;&c_l;&c_jo;&c_n;&c_n;&c_a;&c_ja;
+  &c_d;&c_v;&c_je;&c_r;&c_mol;
+  </trd>
+  <trdgrp lng="sk">
+    <trd>dvere s okienkom</trd>,
+    <trd>sklenen&eacute; dvere</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_a;&c_l;&c_k;&c_o;&c_n;&c_n;&c_ib; &c_d;&c_v;&c_je;&c_r;&c_ib;</trd>,
+    <trd>(&c_z;&c_o;&c_v;&c_n;&c_ib;&c_sh;&c_n;&c_ib;) &c_z;&c_a;&c_s;&c_k;&c_l;&c_je;&c_n;&c_ib;/&c_s;&c_k;&c_l;&c_ja;&c_n;&c_ib;
+    &c_d;&c_v;&c_je;&c_r;&c_ib;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pord.klap0o">
+  <kap>klap<tld/>o</kap> <fnt><bib>EBV</bib></fnt>
+  <snc mrk="pord.klap0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="pord.0o.spaco"><tld lit="P"/>o</ref> kun
+      klape movebla ferma&jcirc;o:
+      <ekz>
+        post kelkaj minutoj en la muro per si mem deklini&gcirc;is malgranda tablo, kaj post
+        tio tra la klap<tld/>o oni &scirc;ovis sur &gcirc;in pladon da man&gcirc;a&jcirc;o, kaj poste la
+        pordo denove fermi&gcirc;is
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi konstruis klap<tld/>on, per kiu mi povis faligi miajn
+        <klr>[...]</klr> amatinojn en profundakvan puton
+        <fnt><bib>SatirRak</bib>, <lok>perfekta civitano</lok></fnt>;
+      </ekz>
+      <ekz>
+        la klap<tld/>o de la kripto <klr>[&#8230;]</klr> abomene fa&ubreve;kis tuj anta&ubreve; la katedro,
+        kaj nun senbrue tordi&gcirc;is suben
+        <fnt>
+          <aut>Sonja Lang</aut>
+          <vrk>La Soleno</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;erkisto jam estis proksime de sia domo, kiam <klr>[&#8230;]</klr> iu venis al lia
+        <tld/>ego, malfermis la klap<tld/>eto&#x202F; kaj malaperis post &gcirc;i
+        <fnt>
+          <bib>LOdE</bib>
+          <aut>Aleksandr Pu&scirc;kin </aut>
+          <vrk><url ref="&Tekstaro;?nomo=ondo-de-esperanto">&Ccirc;erkisto </url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim mrk="pord.klap0o.RIM_1">
+      Vortaroj kaj verkoj prezentas ordinare &leftquot;klap<tld/>on&rightquot; nur kun
+      la senco de klapa <ref tip="vid" cel="pord.plank0o.ARKI">plank<tld/>o</ref>.
+      Tamen la vorto ta&ubreve;gas anka&ubreve; por vertikala <tld/>o kun klapego, kontraste al fald-,
+      &scirc;ov-<tld/>oj kaj aliaj.
+      <aut>&jcirc;v</aut>
+    </rim>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>poklop</trd>,
+    <trd>skl&aacute;p&ecaron;c&iacute; dve&rcaron;e</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Klappt&uuml;r</trd>,
+    <trd>Fallt&uuml;r</trd>
+  </trdgrp>
+  <trd lng="en">trapdoor</trd>
+  <trd lng="fr">porte battante</trd>
+  <trd lng="hu">csap&oacute;ajt&oacute;</trd>
+  <trd lng="id"><ind>pintu</ind> jebakan</trd>
+  <trd lng="ja">&#x306F;&#x306D;&#x4E0A;&#12370;&#25144;  <pr>&#x306F;&#x306D;&#12354;&#12370;&#12392;</pr></trd>
+  <trd lng="nl">klapdeur</trd>
+  <trd lng="pl">drzwi skrzyd&lstroke;owe</trd>
+  <trd lng="sk">poklop</trd>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_ja;&c_d;&c_a;</trd>,
+    <trd>&c_l;&c_ju;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pord.kluz0o">
+  <kap>kluz<tld/>o</kap>
+  <snc mrk="pord.kluz0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Movebla parto de <ref tip="malprt" cel="kluz.0o.MAR">kluzo</ref>,
+      per kiu oni &gcirc;in fermas kaj malfermas:
+      <ekz>
+        doko <klr>[estas]</klr> havena baseno, kun kluz<tld/>oj kaj kajoj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li iradis inspektadi la kluz<tld/>on
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K.
+          Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/III.">
+          Avineto</url></vrk>,
+          <lok>[sen dato]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Schleusentor</trd>
+  <trd lng="en">lock gate</trd>
+  <trd lng="fr">porte d'&eacute;cluse</trd>
+  <trd lng="ja">&#x6C34;&#38272;  <pr>&#12377;&#12356;&#12418;&#12435;</pr></trd>
+  <trd lng="pl">wrota <klr>&sacute;luzy</klr></trd>
+</drv>
+
+<drv mrk="pord.lev0o">
+  <kap>lev<tld/>o</kap> <fnt><bib>EBV</bib></fnt>
+  <snc mrk="pord.lev0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="pord.0o.spaco"><tld lit="P"/>o</ref> kun
+      vertikale levebla ferma&jcirc;o, ekzemple en <ref tip="malprt" cel="kluz.0o.MAR">kluzo</ref>;
+      <ref tip="sin" cel="hers.0o">herso</ref>.
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>drop gate</trd>,
+    <trd>guillotine gate</trd>, <trd>vertical door</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>emel&odblac;kapu</trd>,
+    <trd>zsilipkapu</trd>
+  </trdgrp>
+  <trd lng="es">puente levadizo</trd>
+</drv>
+
+<drv mrk="pord.plank0o">
+  <kap>plank<tld/>o</kap>
+  <snc mrk="pord.plank0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Ku&scirc;a <ref tip="super" cel="pord.0o.spaco"><tld/>o</ref> en planko
+      super &scirc;tuparo a&ubreve; alirebla per &scirc;tupetaro:
+      <ekz>
+        &gcirc;i eltiris la feran bolton el la fermita plank<tld/>o kaj
+        &scirc;telece
+        malsupreniris al la malliberulo
+        <fnt><bib>Fab4</bib>, <lok>filino de la mar&ccirc;a
+        re&gcirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ju;&c_k;</trd>
+  <trd lng="cs">propadli&scaron;t&ecaron;</trd>
+  <trd lng="de">Fallt&uuml;r</trd>
+  <trdgrp lng="en">
+    <trd>access hatch</trd>,
+    <trd>access door</trd>, <trd>trapdoor</trd>
+  </trdgrp>
+  <trd lng="fr">trappe</trd>
+  <trd lng="hu">csap&oacute;ajt&oacute; <klr tip="amb">(v&iacute;zszintes)</klr></trd>
+  <trd lng="pl">klapa</trd>
+  <trd lng="ru">&c_l;&c_ju;&c_k;</trd>
+  <trd lng="sk">priepadlisko</trd>
+</drv>
+
+<drv mrk="pord.sving0o">
+  <kap>sving<tld/>o <fnt><bib>EBV</bib></fnt>,
+  <var><kap>svingo<tld/>o</kap></var></kap>
+  <snc mrk="pord.sving0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="pord.0o.spaco"><tld lit="P"/>o</ref> kun
+      ferma&jcirc;o egale pu&scirc;ebla a&ubreve; tirebla, kiun risorto a&ubreve;tomate
+      relokas:
+      <ekz>
+        la sving<tld/>o de la banko malfermi&gcirc;is malpeze
+        <fnt>
+          <vrk><url ref="http://www.elerno.cn/penseo/pen155.pdf">Penseo N-ro 155</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vitraj svingo<tld/>oj sur la pruo estis fermitaj; neniu sidis sur la pruo
+        <fnt>
+          <aut>J. H. F. Gr&ouml;nloh, trad. M. Meeuwissen</aut>
+          <vrk><url ref="https://meeuw.org/profitulo/">La profitulo</url></vrk>
+          <lok>2021-06-08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>"l&iacute;ta&ccaron;ky"</trd>,
+    <trd>k&yacute;vac&iacute; dve&rcaron;e</trd>
+  </trdgrp>
+  <trd lng="de">Schwingt&uuml;r</trd>
+  <trd lng="en">swinging door</trd>
+  <trd lng="fr">porte va-et-vient</trd>
+  <trd lng="hu">leng&odblac;ajt&oacute;</trd>
+  <trd lng="ja">&#x30B9;&#x30A4;&#x30F3;&#x30B0;&#x30C9;&#x30A2;</trd>
+  <trd lng="nl">klapdeur</trd>
+  <trd lng="pl">drzwi wahad&lstroke;owe</trd>
+  <trd lng="sk">k&yacute;vacie dvere</trd>
+  <trd lng="uk">&c_d;&c_v;&c_je;&c_r;&c_ib;-&c_t;&c_u;&c_r;&c_n;&c_ib;&c_k;&c_je;&c_t;</trd>
+</drv>
+
+<drv mrk="pord.sxov0o">
+  <kap>&scirc;ov<tld/>o <fnt><bib>EBV</bib></fnt>,
+  <var><kap>glit<tld/>o <fnt><bib>EBV</bib></fnt></kap></var></kap>
+  <snc mrk="pord.sxov0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="pord.0o.spaco"><tld lit="P"/>o</ref> kun
+      flanken &scirc;ovebla ferma&jcirc;o:
+      <ekz>
+        &scirc;ova <tld/>o kondukas en grandegan &ccirc;ambron najbaran, kiu tuta estas plenigita de
+        paketoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        paniki&gcirc;inte li malaperis en la tute hazarde jam prete atendantan lifton, la
+        a&ubreve;tomataj &scirc;ov<tld/>oj helike malrapide fermi&gcirc;is
+        <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2001/007580.php">Tagmeze en Tunizo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/11, p. 24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rjokanaj &ccirc;ambroj anka&ubreve; prezentas aleron a&ubreve; balkonon, same ekipitan de glit<tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=714772">Rjokano (gastejo)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_s;&c_o;&c_w;&c_n;&c_y;&c_ja; <ind>&c_d;&c_z;&c_mol;&c_v;&c_je;&c_r;&c_y;</ind></trd>
+  <trd lng="de">Schiebet&uuml;r</trd>
+  <trd lng="en">sliding door</trd>
+  <trd lng="fr">porte coulissante</trd>
+  <trd lng="es">puerta deslizable</trd>
+  <trd lng="hu">tol&oacute;ajt&oacute;</trd>
+  <trdgrp lng="id">
+    <trd><ind>pintu</ind> geser</trd>,
+    <trd><ind>pintu</ind> sorong</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5F15;&#x304D;&#25144;  <pr>&#12402;&#x304D;&#12393;</pr></trd>
+  <trd lng="nl">schuifdeur</trd>
+  <trd lng="pl">drzwi przesuwne</trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_d;&c_v;&c_i;&c_zh;&c_n;&c_a;&c_ja; &c_d;&c_v;&c_je;&c_r;&c_mol;</trd>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_s;&c_u;&c_v;&c_n;&c_ib; &c_d;&c_v;&c_je;&c_r;&c_ib;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.134 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.133 2023/10/18 06:31:31
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.131 2023/05/14 15:25:00
+Paul Peeraerts: + lok + url
+
+versio 1.130 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
+
+versio 1.129 2022/07/16 18:33:04
+Jeromo Vasxe: sving~o + var + trd fr
+
+versio 1.128 2022/06/16 07:29:49
+Dmitri Gabinski: + trd be
+
+versio 1.127 2022/05/04 18:30:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.121 2021/07/05 16:48:55
+-->
+</vortaro>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: skrofo.xml,v 1.22 2023/10/21 07:46:47 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>skrofol</rad>/o
+</kap>
+<drv mrk="skrofo.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="skrofo.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Arkaika nomo de simptomaro kiu historie estis konceptata kiel
+      unu malsano, kaj nun estas rigardata kiel
+      <ref cel="eksud.0i">eksuda</ref>
+      <ref cel="diatez.0o.MED">diatezo</ref> kaja&ubreve;
+      formo de supra&jcirc;a <ref tip="lst" cel="tuberk.0o" lst="voko:malsanoj">tuberkulozo</ref>
+      karakterizata per &scirc;velo de
+      limfaj glandoj kaj inflamo de okuloj kaj artikoj:
+      <ekz>
+        estis du guvernistoj kun siaj edukatoj, venintaj sin kuraci de
+        <tld/>o
+        <fnt><bib>Mary</bib></fnt>;
+      </ekz><ekz>
+        iam oni kredis, ke mantu&scirc;o de re&gcirc;o de kuracas <tld/>on.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_k;&c_r;&c_o;&c_f;&c_u;&c_l;</trd>
+  <trd lng="cs">krtice</trd>
+  <trd lng="de">Skrofel</trd>
+  <trd lng="en">scrofula</trd>
+  <trd lng="fr">scrofule</trd>
+  <trdgrp lng="hu">
+    <trd>g&ouml;rv&eacute;ly</trd>,
+    <trd>scorfula</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x308B;&#12356;&#x308C;&#x304D;</trd>,
+    <trd>&#38968;&#x90E8;&#x30EA;&#x30F3;&#x30D1;&#x7BC0;&#x7D50;&#26680;  <pr>&#12369;&#12356;&#12406;&#12426;&#12435;&#12401;&#12379;&#12388;&#12369;&#12387;&#12363;&#12367;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">scrofulose</trd>
+  <trdgrp lng="pl">
+    <trd>skrofu&lstroke;a</trd>,
+    <trd>zo&lstroke;za</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_k;&c_r;&c_o;&c_f;&c_u;&c_l;&c_jo;&c_z;</trd>,
+    <trd>&c_z;&c_o;&c_l;&c_o;&c_t;&c_u;&c_h;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">skroful&oacute;za</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43A;&c_r;&#x43E;&c_f;&c_u;&#x43B;&#x44C;&#x43E;&c_z;</trd>,
+    <trd>&c_z;&#x43E;&#x43B;&#x43E;&c_t;&c_u;&c_h;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrofo.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc>
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Homo malsana je <tld/>o:
+      <ekz>
+        Ekzemple, Ludoviko la XVI <klr>...</klr> devis tuj post sia
+        konsekro, mantu&scirc;i 2400 <tld/>ulojn!&#8230;
+        <fnt><aut>Lanti</aut>: <vrk>Naciismo</vrk>.
+          <lok>SAT: Lepsiko, 1930. 3.1.</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_v;&c_o;&c_r;&c_y; &c_n;&c_a; <ind>&c_sh;&c_k;&c_r;&c_o;&c_f;&c_u;&c_l;</ind></trd>
+  <trd lng="ru">&c_z;&c_o;&c_l;&c_o;&c_t;&c_u;&c_sh;&c_n;&c_y;&c_j; &c_b;&c_o;&c_l;&c_mol;&c_n;&c_o;&c_j;</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.22 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.21 2023/09/13 18:30:43
+Wolfram Diestel: pr. ja
+
+versio 1.19 2023/07/31 10:32:21
+Dmitri Gabinski: + trd be
+
+versio 1.17 2020/12/30 08:10:34
+Sergio Pokrovskij: dif; +~ulo
+
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2014/06/24 09:10:11  revo
+Damien Brucker: +trd fr
+
+Revision 1.12  2013/10/09 20:10:19  revo
+-->
+</vortaro>

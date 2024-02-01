@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: orogra.xml,v 1.20 2023/10/20 13:11:48 revo Exp $">
+<kap><ofc>2</ofc> <rad>orografi</rad>/o</kap>
+<drv mrk="orogra.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Geografia priskribo de montoj:
+      <ekz>
+        la alfluantoj de <nom>Pas</nom>, kiel la plimulto de la riveroj de Kantabrio,
+        havas sufi&ccirc;e mallongan kurson pro la kruta <tld/>o de la regiono
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=493227">Rivero Pas</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="relief.0o.FORM">reliefo<sncref/></ref>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_o;&c_r;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
+  <trd lng="ca">orografia</trd>
+  <trd lng="cs">orografie</trd>
+  <trdgrp lng="de">
+    <trd>Gebirgsbeschreibung</trd>,
+    <trd>Reliefbeschreibung</trd>,
+    <trd>H&ouml;henstruktur</trd>,
+    <trd>Orographie</trd>
+  </trdgrp>
+  <trd lng="el">&omikron;&rho;&epsilon;&omikron;&gamma;&rho;&alfa;&phi;&jota_ton;&alfa;</trd>
+  <trd lng="en">orography</trd>
+  <trd lng="fr">orographie</trd>
+  <trdgrp lng="hu">
+    <trd>hegyrajz</trd>,
+    <trd>orogr&aacute;fia</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5C71;&#x5CB3;&#x8A8C;  <pr>&#x3055;&#x3093;&#x304C;&#x304F;&#x3057;</pr></trd>,
+    <trd>&#x5C71;&#x5CB3;&#x5B66;  <pr>&#x3055;&#x3093;&#x304C;&#x304F;&#x304C;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>orografie</trd>,
+    <trd>bergbeschrijving</trd>
+  </trdgrp>
+  <trd lng="pt">orografia</trd>
+  <trd lng="ru">&c_o;&c_r;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
+  <trd lng="sk">horopis</trd>
+  <trd lng="uk">&#x43E;&c_r;&#x43E;&c_g;&c_r;&c_a;&c_f;&c_ib;&#x44F;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2023/10/20 13:11:48
+revo: transskribo per <pr>
+
+versio 1.18 2022/09/16 08:39:44
+Dmitri Gabinski: + trd be
+
+Revision 1.15  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2014/10/08 11:10:31  revo
+Damien Brucker: +trd fr
+
+Revision 1.12  2012/01/02 18:10:33  revo
+Marc Rausell: +trd ca
+
+Revision 1.11  2009/08/11 16:30:47  revo
+Wieland Pusch: +trd bg
+
+Revision 1.10  2009/08/08 16:33:18  revo
+-->
+</vortaro>

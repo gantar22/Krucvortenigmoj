@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: majuskl.xml,v 1.24 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>majuskl</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="majuskl.0a">
+  <kap><ofc>9</ofc><tld/>a</kap>
+  <snc mrk="majuskl.0a.TIP">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <klr>(pri signo)</klr>
+      Apartenanta al <ref tip="vid" cel="sign.0aro.KOMP">signaro</ref>,
+      kies &ccirc;iuj <ref cel="sign.0obildo">signobildoj</ref> lokeblas
+      inter du paralelaj horizontalaj linioj, kiujn ili tu&scirc;as:
+      <ekz>
+        la <tld/>aj &scirc;tonsurskriboj de la Romiaj monumentoj;
+      </ekz>
+      <ekz>
+        la <tld/>aj <ref tip="vid" cel="cifer.0o">ciferoj</ref>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj propraj nomoj hazarde komenci&gcirc;antaj per <tld/>a litero K fakte presi&gcirc;as kun
+        komenca minuskla litero k
+       <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2001/007110.php">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 31</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        granda <tld/>a titolo SEMAJNO
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Claude Piron</aut>
+          <vrk><url ref="&Monato;/2004/008264.html">Funkcio kreas organon</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        troa <tld/>igo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Anna kaj Mati Pentus</aut>
+          <vrk><url ref="&Monato;/2008/009566.php">Malkovru Napolon!</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj elementoj estas en la Akademia Vortaro baze listigataj en
+        ne&ubreve;trala tut<tld/>a formo<fnt><bib>AdE</bib></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="minuskl.0a">minuskla</ref>
+    <rim>
+      La eksterliniaj <ref cel="diakrit.0ilo">diakritiloj</ref>
+      rompas tiun difinon; por la lingvoj uzantaj ilin (anka&ubreve;
+      Esperanto) oni kutime konsideras nur la bazan signon &#x2010;
+      kvankam en iuj presa&jcirc;oj kaj en ekranaj tiparoj oni pro la
+      evidenta praktika motivo iam malaltigas la tutan diakrita&jcirc;on
+      tiel ke &gcirc;i plene loki&gcirc;u inter la du linioj; tiel estas presita,
+      ekzemple, la <ctl>Enciklopedio de Esperanto</ctl>.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_ju;&c_s;&c_k;&c_u;&c_l;&c_mol;&c_n;&c_y; <klr tip="amb">(&c_s;&c_p;&c_o;&c_s;&c_a;&c_b;
+    &c_p;&c_ib;&c_s;&c_mol;&c_m;&c_a;)</klr></trd>,
+    <trd>&c_v;&c_ja;&c_l;&c_ib;&c_k;&c_a;&c_ja; <klr tip="amb">(&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;)</klr></trd>
+  </trdgrp>
+  <trd lng="ca">maj&uacute;scul</trd>
+  <trdgrp lng="en">
+    <trd>majuscule <klr>(script)</klr></trd>;
+    <trd>capital <klr>(letter)</klr></trd>,
+    <trd>uppercase <klr>(letter)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>may&uacute;scula</trd>,
+    <trd>en <ind>may&uacute;sculas</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>majuscule<klr> (adj.)</klr></trd>,
+    <trd>capitale<klr> (adj., lettre)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">nagybet&udblac;s</trd>
+  <trd lng="ja">&#x5927;&#x6587;&#x5B57;&#x306E;  <pr>&#x304A;&#x304A;&#x3082;&#x3058;&#x306E;</pr></trd>
+  <trd lng="nl">bovenkast-</trd>
+  <trdgrp lng="pl">
+    <trd>majusku&lstroke;&aogonek;</trd>,
+    <trd>wersalikami</trd>,
+    <trd>wielkimi <ind>literami</ind></trd>
+  </trdgrp>
+  <trd lng="pt">mai&uacute;sculo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_a;&c_ju;&c_s;&c_k;&c_u;&c_l;&c_mol;&c_n;&c_y;&c_j; <klr>(&c_o; &c_p;&c_i;&c_s;&c_mol;&c_m;&c_je;)</klr></trd>;
+    <trd>&c_p;&c_r;&c_o;&c_p;&c_i;&c_s;&c_n;&c_a;&c_ja; <klr>(&c_b;&c_u;&c_k;&c_v;&c_a;)</klr></trd>,
+    <trd>&c_z;&c_a;&c_g;&c_l;&c_a;&c_v;&c_n;&c_a;&c_ja; <klr>(&c_b;&c_u;&c_k;&c_v;&c_a;)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="majuskl.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="majuskl.0o.TIP">
+    <uzo tip="fak">GRA</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="dif" cel="liter.granda0o"><tld lit="M"/>a litero</ref>:
+      <ekz>
+        la baza duelementa metodo, kiun la fama sveda natursciencisto <nom>Carl Linn&aelig;us</nom>
+        iniciatis en la 18a jarcento, estas konservata: substantiva genronomo (kun
+        <tld/>o) plus adjektiva karakterizo (sen <tld/>o)
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Manuel Halvelik</aut>
+          <vrk><url ref="&Monato;/2007/008949.php">Atentinda solvo por kompleksega
+          problemo</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la unuaj vortoj de la evangelio aperis, kun bele ornamitaj <tld/>oj kaj kelta
+        interplekta&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2007/009180.php">Ornamitaj manuskriptoj</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sen<tld/>aj frazoj estas ofte tiom longaj, ke mi tedi&gcirc;is
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj'</aut>
+          <vrk><url ref="&Monato;/2008/009457.php">Nigra apokalipso</url></vrk>
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="liter.granda0o">&ccirc;eflitero</ref>
+    <ref tip="ant" cel="minuskl.0o">minusklo</ref>
+    <refgrp tip="vid">
+       <ref cel="versal.0o">versalo</ref>,
+       <ref cel="inicial.0o">inicialo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_ja;&c_l;&c_ib;&c_k;&c_a;&c_ja; <ind>&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;</ind></trd>
+  <trd lng="ca">maj&uacute;scula</trd>
+  <trdgrp lng="de">
+    <trd>Gro&szlig;buchstabe</trd>,
+    <trd>Majuskel</trd>
+  </trdgrp>
+  <trd lng="es">letra <ind>may&uacute;scula</ind></trd>
+  <trd lng="hu">nagybet&udblac;</trd>
+  <trd lng="ja">&#x5927;&#x6587;&#x5B57;  <pr>&#x304A;&#x304A;&#x3082;&#x3058;</pr></trd>
+  <trd lng="nl">hoofdletter</trd>
+  <trdgrp lng="fr">
+    <trd>majuscule<klr> (nom)</klr></trd>,
+    <trd>capitale<klr> (nom, lettre)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>majusku&lstroke;a</trd>,
+    <trd>wersalik</trd>,
+    <trd>wielka <ind>litera</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>mai&uacute;scula</trd>,
+    <trd>letra <ind>mai&uacute;scula</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_p;&c_i;&c_s;&c_n;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_g;&c_l;&c_a;&c_v;&c_n;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_je;&#x43B;&c_i;&#x43A;&c_a; &c_b;&c_u;&#x43A;&c_v;&c_a;</trd>
+</drv>
+
+<drv mrk="majuskl.0eto">
+  <kap><ofc>9</ofc><tld/>eto</kap>
+  <snc mrk="majuskl.0eto.TIP">
+    <uzo tip="fak">GRA</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+     Litero (en alfabeto posedanta <tld/>ojn kaj minusklojn)
+     <tld/>oforma sed malpli alta ol normala <tld/>o de la sama serio
+     (proksimume samalta kiel la plej malaltaj minuskloj):
+      <ekz>
+        por la alfabeto kun ciferoj kaj signoj ekzistas <tld/>oj, <tld/>etoj kaj
+        minuskloj, kaj por la tiparfasonoj rekta, kursiva kaj grasa
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=539596">Monotipo (Monotype)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_t;&c_e;&c_l;&c_mol; <klr tip="amb">(&c_t;&c_y;&c_p;&c_a;&c_g;&c_r;.)</klr></trd>
+<trd lng="de">Kapit&auml;lchen</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B9;&#x30E2;&#x30FC;&#x30EB;&#x30AD;&#x30E3;&#x30D4;&#x30BF;&#x30EB;</trd>,
+    <trd>&#x5C0F;&#x578B;&#x5927;&#x6587;&#x5B57;  <pr>&#x3053;&#x304C;&#x305F;&#x304A;&#x304A;&#x3082;&#x3058;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.22 2023/04/20 10:30:37
+Dmitri Gabinski: + trd be
+
+versio 1.21 2023/04/17 05:28:00
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.20 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.17  2018/09/03 08:10:13  revo
+Michel Cantigneaux: + majuskleto, kunmetajxo de la 9OA
+
+Revision 1.16  2015/10/28 06:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2014/07/07 07:10:11  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.14  2014/06/28 15:10:18  revo
+-->
+</vortaro>

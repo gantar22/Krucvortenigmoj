@@ -1,0 +1,591 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: komut.xml,v 1.51 2023/12/03 09:58:54 revo Exp $">
+<kap>
+  <rad>komut</rad>/i <fnt><bib>PVEF</bib></fnt>
+</kap>
+<drv mrk="komut.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="komut.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Alidirekti <ref cel="transmisi.0o">transmisio</ref>n per tiucela (parto de) aparato:
+      <ekz>
+        ni veturis preska&ubreve; silente <klr>[&#x2026;]</klr>,
+        Andreo nervoze <tld/>is la transmision
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mihail Korotkov</aut>
+          <vrk><url ref="&Monato;/2011/010294.php">Rusa vila&gcirc;o</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <subsnc mrk="komut.0i.ELE">
+      <uzo tip="fak">ELE</uzo>
+      <fnt><bib>VdE</bib></fnt>
+      <dif>
+        <klr>(<ref cel="kurent.0o">kurenton</ref>)</klr>
+        Direkti en unu cirkviton a&ubreve; en alian:
+      </dif>
+      <trd lng="de">umschalten</trd>
+      <trdgrp lng="fr">
+        <trd>commuter<klr tip="ind"> (un courant)</klr></trd>,
+        <trd>faire <ind>passer</ind><klr tip="ind"> (un courant)</klr>
+        </trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>&aacute;ramir&aacute;nyt v&aacute;lt</trd>,
+        <trd>&aacute;tkapcsol</trd>,
+        <trd>&aacute;tv&aacute;lt</trd>
+      </trdgrp>
+      <trd lng="nl">omschakelen</trd>
+      <trdgrp lng="pl">
+        <trd>komutowa&cacute;</trd>,
+        <trd>prze&lstroke;&aogonek;cza&cacute;<klr> (obwody elektryczne)
+        </klr></trd>
+      </trdgrp>
+      <trd lng="pt">comutar</trd>
+      <trdgrp lng="ru">
+        <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+        <trd>&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+        <trd>&c_s;&c_o;&c_je;&c_d;&c_i;&c_n;&c_ja;&c_t;&c_mol;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="komut.0i.FER">
+      <uzo tip="fak">FER</uzo>
+      <fnt><bib>PV</bib></fnt>
+      <dif>
+        <klr>(<ref cel="vagon.0aro">vagonaron</ref>)</klr>
+        Direkti sur alian <ref cel="voj.rel0o">relvojon</ref>:
+      <ekz>
+        rel<tld/>isto estas dungito de fervoja kompanio, respondeca por <klr>[&#x2026;]</klr>
+        la <tld/>ado de la trakforkoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=620055">Relkomutisto</url></lok>
+        </fnt>.
+      </ekz>
+      </dif>
+      <adm>
+        (a) La originala difino tekstis "vagonaron aux trajnon",
+        ja sxajnas, ke la fervojistoj perceptas nuancon inter
+        ambaux terminoj (vagonaro ne havas lokomotivon).
+        (b) Sxajnas, ke de faka vidpunkto la termino "trako" (ankoraux
+        ne ekzistanta en REVO) estus preferinda al "relvojo" (malsama
+        senco). Ja mi suspektas, ke relvojo povas porti plurajn trakojn.
+        (c) La PIV2-a difino parolas pri "trajno aux alia trakveturilo",
+        kio estas pli vasta, sed ne klaras pri tio, kion oni
+        komutas (cxu la veturilon aux la nadlorelojn?).
+        <aut>MB</aut>
+      </adm>
+      <trd lng="de">umsetzen</trd>
+      <trd lng="fr">aiguiller<klr tip="ind"> (ferrov.)</klr></trd>
+      <trd lng="hu">&aacute;tiraacute;nyiacute;t<klr tip="ind">
+      (vonatot maacute;sik siacute;nre)</klr></trd>
+      <trd lng="nl">op een ander <ind>spoor</ind> brengen</trd>
+      <trdgrp lng="pl">
+        <trd>przek&lstroke;ada&cacute; zwrotnic&eogonek;</trd>,
+        <trd>kierowa&cacute; na inny tor</trd>
+      </trdgrp>
+      <trd lng="pt">desviar</trd>
+      <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;
+      &c_s;&c_t;&c_r;&c_je;&c_l;&c_k;&c_u;</trd>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="konekt.0i">konekti</ref>,
+      <ref cel="kupl.0i">kupli</ref>,
+      <ref cel="sxalt.0i">&scirc;alti</ref>,
+      <ref cel="munt.0i">munti</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="komut.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <dif>
+      <klr>(argumentojn de operacio)</klr>
+      Inter&scirc;an&gcirc;i ilian lokon:
+      <ekz>
+        eblas <tld/>i la termojn de adicio sen &scirc;an&gcirc;i
+        &gcirc;ian rezulton.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="permut.0i">permuti.</ref>
+    <trd lng="de">austauschen</trd>
+    <trd lng="fr">commuter<klr tip="ind"> (tr., math.)</klr></trd>
+    <trd lng="hu">felcser&eacute;l<klr tip="ind">
+    (pl. &ouml;sszead&aacute;s tagjait)</klr></trd>
+    <trd lng="pl">zmienia&cacute; kolejno&sacute;&cacute;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_shch;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;epojovat</trd>,
+    <trd>p&rcaron;ep&iacute;nat</trd>
+  </trdgrp>
+  <trd lng="en">commutate</trd>
+  <trdgrp lng="ja">
+    <trd>&#x65B9;&#x5411;&#x3092;&#x8EE2;&#x63DB;&#x3059;&#x308B;  <pr>&#x307B;&#x3046;&#x3053;&#x3046;&#x3092;&#x3066;&#x3093;&#x304B;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x5207;&#x308A;&#x66FF;&#x3048;&#x308B;  <pr>&#x304D;&#x308A;&#x304B;&#x3048;&#x308B;</pr></trd>,
+    <trd>&#x4EA4;&#x63DB;&#x3059;&#x308B;  <pr>&#x3053;&#x3046;&#x304B;&#x3093;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prep&aacute;ja&tcaron;</trd>,
+    <trd>prep&iacute;na&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_i;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_u;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&#x2019;&c_jeu;&c_d;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_i;&c_t;&c_i; &c_s;&c_t;&c_r;&c_ib;&c_l;&c_k;&c_u;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x4EA4;&#x6362; <pr>ji&#x101;ohu&#xE0;n</pr></trd>
+</drv>
+
+<drv mrk="komut.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ago <tld/>i.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>komutace</trd>,
+    <trd>v&yacute;m&ecaron;na</trd>,
+    <trd>z&aacute;m&ecaron;na</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>commutation</trd>,
+    <trd>aiguillage<klr tip="ind"> (action)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+      <trd>komutowa&cacute;</trd>,
+      <trd>prze&lstroke;&aogonek;cza&cacute;</trd>
+    </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_l;&c_ju;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>v&yacute;mena</trd>,
+    <trd>z&aacute;mena</trd>
+  </trdgrp>
+  <trd lng="zh">&#x8F49;&#x63A5; <pr>zhu&#x1CE;nji&#x113;</pr></trd>
+</drv>
+
+<drv mrk="komut.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;213</lok></fnt>
+  <snc>
+    <ref tip="dif" cel="komut.0eca.MAT"><tld/>eca
+    <sncref ref="komut.0eca.MAT"/></ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>komutativn&iacute; operace</trd>,
+    <trd>p&rcaron;epnut&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">kommutativ</trd>
+  <trd lng="en">commutative</trd>
+  <trd lng="fr">commutatif</trd>
+  <trdgrp lng="hu">
+    <trd>felcser&eacute;lhet&odblac;</trd>,
+    <trd>kommutat&iacute;v</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>komutacyjny<klr> (kolej., elektr.)</klr></trd>,
+    <trd>zwrotny<klr> (kolej., lektr.)</klr></trd>,
+    <trd>przemienny<klr> (elektr., mat.)</klr></trd>,
+    <trd>komutatywny<klr> (mat.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_a;&c_t;&c_i;&c_v;&c_n; &c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>komutat&iacute;vny</trd>,
+    <trd>komuta&ccaron;n&yacute;</trd>,
+    <trd>z&aacute;menn&yacute;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_k;&c_o;&c_m;&c_u;&c_t;&c_a;&c_t;&c_i;&c_v;&c_n;&c_i;&c_j;</trd>
+  <adm>
+   La formo ~eca, konata de Bricard, estas tiu, kiun
+   mi uzis en REVO. Gxi similas al "asocieca", konata ankaux
+   de MatVort. Tamen tiaj eca-formoj starigas problemeton, cxar
+   derivitaj de eco-vortoj, kio renversas la ordon rilate al
+   naciaj lingvoj. Tio per si mem ne multe gravas, sed
+   la adjektivaj formoj estas difinendaj precize, cxar ili
+   estas la plej uzataj, dum la substantiva formo de la eco
+   estas preskaux senutila. Mi do difinis ~eca kaj lasis
+   ~eco kiel ekzemplon (eco de io ~eca). <aut>MB</aut>
+ </adm>
+  <trd lng="zh">&#x4EA4;&#x6362; <pr>ji&#x101;ohu&#xE0;n</pr></trd>
+</drv>
+
+<drv mrk="komut.0ebla">
+  <kap><tld/>ebla</kap>
+  <snc mrk="komut.0ebla.KOMUNE">
+    <dif>
+      Kiun eblas <tld/>i.
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_je;&c_m; &c_y;&c_j;</trd>,
+      <trd>&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_i;&c_r;&c_u;&c_je;&c_m;&c_y; &c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="komut.0ebla.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      <klr>(p.p. du elementoj
+      <frm am="x,y in bb E"><k>x</k>, <k>y</k>&#x2208;<g>E</g></frm>
+      rilate al <ref cel="operac.0o.MAT">operacio</ref> en
+      <frm am="bb E"><g>E</g></frm>) </klr>
+      <ref cel="komut.0igxi.MAT"><tld lit="K"/>i&gcirc;antaj</ref>.
+    </dif>
+    <trd lng="de">vertauschbar</trd>
+    <trd lng="en">commuting</trd>
+    <trd lng="fr">commutable</trd>
+    <trd lng="pl">przemienny</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_o; &c_ch;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_i;&c_r;&c_u;&c_ju;&c_shch; &c_i;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;estaviteln&yacute;</trd>,
+    <trd>zam&ecaron;niteln&yacute;</trd>
+  </trdgrp>
+  <trd lng="ja">&#x53EF;&#x63DB;&#x306E; <pr>&#x304B;&#x304B;&#x3093;&#x306E;</pr></trd>
+  <trdgrp lng="sk">
+    <trd>prestavite&lcaron;n&yacute;</trd>,
+    <trd>zamenite&lcaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_v;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_u;&c_t;&c_ib;&c_v;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="komut.0eca">
+  <kap><tld/>eca</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="komut.0eca.MAT">
+    <subsnc mrk="komut.0eca.operacio">
+      <fnt><bib>MatTerm</bib><lok>p. 15</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="operac.0o.MAT">operacio</ref>)</klr>
+        Tia, ke rilate al &gcirc;i &ccirc;iuj elementoj
+        <ref cel="komut.0igxi.MAT"><tld/>i&gcirc;as</ref>:
+        <ekz>
+          la aritmetikaj operacioj adicio kaj multipliko estas
+          <tld/>ecaj, subtraho kaj divido ne estas;
+        </ekz>
+        <ekz>
+          demonstru la <ind><tld/>eco</ind>n de polinoma multipliko.
+          <trd lng="de">Kommutativit&auml;t</trd>
+          <trd lng="en">commutativity</trd>
+          <trd lng="fr">commutativit&eacute;</trd>
+          <trdgrp lng="pl">
+            <trd>przemienno&sacute;&cacute;</trd>,
+            <trd>komutatywno&sacute;&cacute;</trd></trdgrp>
+          <trd lng="ru">&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_a;&c_t;&c_i; &c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="komut.0eca.grupoido">
+      <dif>
+        <klr>(p.p. unuoperacia <ref cel="grupoi.0o">grupoido</ref>)
+        </klr>
+        Tia, ke &gcirc;ia operacio estas <tld/>eca
+        <sncref ref="komut.0eca.operacio"/>:
+        <ekz>
+          <tld/>eca grupo.
+        </ekz>
+      </dif>
+      <ref tip="vid" cel="abel1.a0a">abela.</ref>
+    </subsnc>
+    <subsnc mrk="komut.0eca.ringo">
+      <dif>
+        <klr>(p.p. <ref cel="ring.0o.MAT">ringo</ref>
+        a&ubreve; <ref cel="korp.0o.MAT">korpo</ref>)</klr>
+        Tia, ke &gcirc;ia dua operacio estas <tld/>eca
+        <sncref ref="komut.0eca.operacio"/>:
+        <ekz>
+          la diagonalaj matricoj formas <tld/>ecan subringon en la
+          ne<tld/>eca ringo de <ref cel="matric.n_p0o">(n,n)-matricoj
+          </ref>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <rim>
+      Ni ne vidis gravan kialon por sekvi
+      <fnt><bib>EKV</bib></fnt> a&ubreve; <fnt><bib>PIV2</bib></fnt>,
+      kiuj preferas la formon <ctl><tld/>a</ctl>. Cetere, la formo de
+      <nom>Bricard</nom> similas al <ctl>asocieca</ctl>, akceptata de &ccirc;iuj.
+    </rim>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>komutativn&iacute; operace</trd>,
+    <trd>p&rcaron;epnut&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">kommutativ</trd>
+  <trd lng="en">commutative</trd>
+  <trd lng="fr">commutatif</trd>
+  <trdgrp lng="hu">
+    <trd>felcser&eacute;lhet&odblac;</trd>,
+    <trd>kommutat&iacute;v</trd>
+  </trdgrp>
+  <trd lng="ja">&#x53EF;&#x63DB;&#x306E; <pr>&#x304B;&#x304B;&#x3093;&#x306E;</pr></trd>
+  <trd lng="pl">przemienny</trd>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_a;&c_t;&c_i;&c_v;&c_n; &c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>komutat&iacute;vny</trd>,
+    <trd>komuta&ccaron;n&yacute;</trd>,
+    <trd>z&aacute;menn&yacute;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x4EA4;&#x6362; <pr>ji&#x101;ohu&#xE0;n</pr></trd>
+</drv>
+
+<drv mrk="komut.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="komut.0igxi.MAT">
+    <dif>
+      <klr>(p.p. du elementoj
+      <frm am="x,y in bb E"><k>x</k>, <k>y</k>&#x2208;<g>E</g></frm>
+      rilate al <ref cel="operac.0o.MAT">operacio</ref>
+      <frm am="&#x2020;">&#x2020;</frm> en
+      <frm am="bb E"><g>E</g></frm>)</klr>
+      Esti tiaj, ke <frm am="x&#x2020;y=y&#x2020;x"><k>x</k>&#x2020;<k>y</k> = <k>y</k>&#x2020;<k>x</k></frm>:
+      <ekz>
+        la&ubreve;difine <ref cel="neuxtr.0aelemento">ne&ubreve;tra
+        elemento</ref> <frm am="e"><k>e</k></frm> <klr> </klr><tld/>i&gcirc;as
+        kun
+        &ccirc;iu alia
+        <klr>(alidire: <frm am="x"><k>x</k></frm> kaj <frm am="e"><k>e</k></frm> <klr> </klr>
+        <tld/>i&gcirc;as, kiu ajn estu <frm am="x"><k>x</k></frm>)</klr>;
+      </ekz>
+      <ekz>
+        elemento <frm am="x"><k>x</k></frm> <klr>
+        </klr><ind><tld/>i&gcirc;anta</ind> kun
+
+        elemento <frm am="y"><k>y</k></frm>;
+        <trd lng="de">vertauschbar</trd>
+        <trd lng="en">commuting</trd>
+        <trd lng="fr">commutable</trd>
+        <trd lng="pl">przemienny</trd>
+        <trdgrp lng="ru">
+          <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_o; &c_ch;&c_n;&c_y;&c_j;</trd>,
+          <trd>&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_i;&c_r;&c_u;&c_ju;&c_shch; &c_i;&c_j;</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        oni nomas <ind>centro de grupo</ind> la subaron, kies elementoj
+        <tld/>i&gcirc;as kun &ccirc;iuj elementoj de la
+        <ref cel="grup.0o.MAT">grupo</ref>.
+        <trd lng="de">Zentrum<klr tip="amb"> (einer Gruppe)</klr></trd>
+        <trd lng="en">center<klr tip="amb"> (of a group)</klr></trd>
+        <trd lng="fr">centre<klr tip="amb"> (d'un groupe)</klr></trd>
+        <trd lng="pl">centrum<klr tip="amb"> (grupy)</klr></trd>
+        <trd lng="ru">&c_c;&c_je;&c_n;&c_t;&c_r;<klr tip="amb">
+        (&c_g;&c_r;&c_u;&c_p;&c_p;&c_y;)</klr></trd>
+      </ekz>
+    </dif>
+    <rim>
+      En <fnt><bib>MatStokTerm</bib><lok>p. 26</lok></fnt> troveblas
+      <ctl><tld/>i</ctl> kun &ccirc;i tiu senco. La&ubreve; ni la
+      transitiveco de la verbo ne ebligas tion.
+    </rim>
+    <trd lng="de">kommutieren<klr tip="ind"> (vertauschbar sein)</klr>
+    </trd>
+    <trd lng="en">commute<klr tip="ind"> (be permutable)</klr></trd>
+    <trd lng="fr">commuter<klr tip="ind"> (intr., math.)</klr></trd>
+    <trd lng="pl">komutowa&cacute;</trd>
+    <trd lng="ru">&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_i;&c_r;&c_o;&c_v; &c_a;&c_t;&c_mol;</trd>
+  </snc>
+</drv>
+
+<drv mrk="komut.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="komut.0ilo.TEK">
+    <uzo tip="fak">ELE</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Elektra aparato kun duopa a&ubreve; multopa kontakto, kiu ebligas
+      <tld/>i kurentojn:
+      <ekz>
+        la kompleta telefono havis anka&ubreve; elektran tintilon, krankinduktilon kaj
+        <tld/>ilon, la lasta nomi&gcirc;as anka&ubreve; forko pro la komenca formo
+        <fnt>
+          <vrk><url ref="&Viki;/Telefono">Telefono - Vikipedio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i alproksimigis sian montrofingron al la
+        <tld/>ilo por interrompi la alvokojn
+        <fnt><aut>S. Larbar</aut>, <vrk>Karuseloj</vrk>,
+        <lok>1987</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>komut&aacute;tor</trd>,
+    <trd>p&rcaron;emyka&ccaron;</trd>,
+    <trd>p&rcaron;ep&iacute;na&ccaron;</trd>
+  </trdgrp>
+  <trd lng="de">Umschalter</trd>
+  <trdgrp lng="fr">
+    <trd>commutateur<klr tip="ind"> (&eacute;lectrique)</klr></trd>,
+    <trd>interrupteur</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kommut&aacute;tor</trd>,
+    <trd>&aacute;tkapcsol&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5207;&#x66FF;&#x30B9;&#x30A4;&#x30C3;&#x30C1;
+    <pr>&#x304D;&#x308A;&#x304B;&#x3048;&#x3059;&#x3044;&#x3063;&#x3061;</pr></trd>,
+    <trd>&#x958B;&#x9589;&#x5668;  <pr>&#x304B;&#x3044;&#x3078;&#x3044;&#x304D;</pr></trd>,
+    <trd>&#x96FB;&#x8A71;&#x4EA4;&#x63DB;&#x6A5F;  <pr>&#x3067;&#x3093;&#x308F;&#x3053;&#x3046;&#x304B;&#x3093;&#x304D;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>schakelaar</trd>,
+    <trd>wissel</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>prze&lstroke;&aogonek;cznik</trd>,
+    <trd>komutator</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_a;&c_t;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>komut&aacute;tor</trd>,
+    <trd>prep&iacute;na&ccaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_m;&c_u;&c_t;&c_a;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_i;&c_k;&c_a;&c_ch;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_ib;&c_l;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7535;&#x95F8; <pr>di&#xE0;nzh&#xE1;</pr></trd>,
+    <trd>&#x5957;&#x7D22;&#x91D8; <pr>t&#xE0;osu&#x1D2;d&#x12B;ng</pr></trd>,
+    <trd>&#x62F4;&#x7262; <pr>shu&#x101;nl&#xE1;o</pr></trd>,
+    <trd>&#x7E69;&#x91DD; <pr>sh&#xE9;ngzh&#x113;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="komut.0ilaro">
+  <kap><tld/>ilaro</kap>
+  <snc mrk="komut.0ilaro.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Plato a&ubreve; tabulo, sur kiu estas fiksitaj &ccirc;iuj
+      <tld/>iloj, interrompiloj kaj mezuriloj de elektra kondukilaro.
+    </dif>
+  </snc>
+  <adm>
+    (1) Kio estas "interrompilo"? Eble "interrupteur", t.e. sxaltilo,
+    sed sxaltilo estas nur aparta speco de komutilo.
+    (2) La vorto ne plu estas en PIV2.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="fr">tableau de <ind>commutation</ind><klr tip="ind">
+  (&eacute;lectrotech.)</klr></trd>
+  <trd lng="hu">kapcsol&oacute;szekr&eacute;ny</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B9;&#x30A4;&#x30C3;&#x30C1;&#x30D1;&#x30CD;&#x30EB;</trd>,
+    <trd>&#x914D;&#x96FB;&#x76E4;  <pr>&#x306F;&#x3044;&#x3067;&#x3093;&#x3070;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">schakelbord</trd>
+  <trd lng="pl">tablica prze&lstroke;&aogonek;czeniowa</trd>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">riadiaci panel</trd>
+  <trdgrp lng="cs">
+    <trd>komut&aacute;torov&yacute; panel</trd>,
+    <trd>&rcaron;&iacute;d&iacute;c&iacute; panel</trd>
+  </trdgrp>
+<trd lng="de">Schalttafel</trd>
+</drv>
+
+<drv mrk="komut.rel0ilo">
+  <kap>rel<tld/>ilo</kap>
+  <snc mrk="komut.rel0ilo.FER">
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      Pinta movebla durelo trovi&gcirc;anta &ccirc;e fiksa punkto de
+      <ref tip="malprt" cel="fork.trak0o.FER">trakforko</ref>
+      kaj kiu ebligas direkti vagonaron de unu relvojo sur alian:
+      <ekz>
+        kiam la drezino skueti&gcirc;is sur rel<tld/>ilo, &scirc;i kro&ccirc;i&gcirc;is al la knabo
+        <fnt>
+          <aut>Jen&odblac; Rejt&odblac;, trad. L&aacute;szl&oacute; Bal&aacute;zs</aut>
+          <vrk><url ref="https://eduinf.waw.pl/esp/lern/librejo/0173/0026.php">Bill Teksaso, La Temerarulo</url></vrk>
+          <lok>&Ccirc;apitro 26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <klr>[tiu afero]</klr> ludis rolon de rel<tld/>ilo por la &scirc;tata politiko &gcirc;enerale
+        <fnt>
+          <vrk><url ref="https://libro.ee/file.php?id=2289">Verkoj De Verda Majo</url></vrk>
+          <lok>4. La Milito Rigardita el la Sekura Zono, p. 47</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Difino reverkenda.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="de">Zungenvorrichtung <klr>(Weiche)</klr></trd>
+  <trd lng="fr">aiguillage<klr tip="ind"> (appareil)</klr></trd>
+  <trd lng="hu">v&aacute;lt&oacute;<klr tip="ind"> (vas&uacute;ti)</klr>
+  </trd>
+  <trd lng="ja">&#x8EE2;&#x8F4D;&#x6A5F;  <pr>&#x3066;&#x3093;&#x3066;&#x3064;&#x304D;</pr></trd>
+  <trd lng="nl">wissel</trd>
+  <trd lng="pl">zwrotnica</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_k;&c_a;<klr tip="amb">
+  (&c_zh;&c_je;&c_l;&c_je;&c_z;&c_n;&c_o;&c_d;&c_o;&c_r;&c_o;&c_zh;&c_n; &c_a;&c_ja;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>prep&iacute;na&ccaron;</trd>,
+    <trd>v&yacute;hybka</trd>
+  </trdgrp>
+  <trd lng="cs">jaz&yacute;&ccaron;ek kolej&iacute;</trd>
+  <trd lng="uk">&c_s;&c_t;&c_r;&c_ib;&c_l;&c_k;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.50 2023/11/27 21:22:48
+Wolfram Diestel: fnt PVEF, rel~ilo: +ekz-oj
+
+versio 1.49 2023/10/18 17:23:24
+revo: transskribo per <pr>
+
+versio 1.48 2023/09/12 16:31:22
+Wolfram Diestel: kor. pr. ja
+
+versio 1.46 2023/08/25 15:24:17
+Wolfram Diestel: &scirc;oveto
+
+versio 1.45 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.42 2020/09/27 16:32:24
+Wolfram Diestel: kunigis snc-oj TEK sub gheneraligita difino (alidirekti transmision...), ekz-oj
+
+Revision 1.41  2020/02/15 09:10:32  revo
+Wolfram Diestel: formuloj per am
+
+Revision 1.40  2016/02/28 19:10:43  revo
+-->
+</vortaro>

@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dement.xml,v 1.20 2023/11/04 13:16:27 revo Exp $">
+<kap>
+  <rad>dement</rad>/i
+</kap>
+<drv mrk="dement.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dement.0i.malkonfirmi">
+    <dif>
+      <ref tip="dif" cel="konfir.mal0i">Malkonfirmi</ref>:
+      <ekz>
+        <tld/>i akuzon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Oliver Kim</aut>
+          <vrk><url ref="&Monato;/2014/011359.php">Rekorda konkulo</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nur unu lian falsan kaj ofendan deklaron mi deziras <tld/>i
+        <fnt>
+	<aut>Uwe Joachim Moritz/Aldo de' Giorgi</aut>
+	<vrk><url ref="&Monato;/2000/007043.php">Du opinioj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/07, p. 4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nur revivi&gcirc;intaj dinosa&ubreve;roj eble povos veni iutage <tld/>i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011248.php">La mar&scirc;o de dinosa&ubreve;roj</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la rasa teorio estis konvinke <tld/>ita danke al la malkovro de la civilizo de
+        la indusa valo, kiu malproksimigas al iu fora pasinteco la komencojn de hinda
+        civilizo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011358.php">Notoj indaj pri lingvaroj hindaj</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_v;&c_ja;&c_r;&c_g;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">desmentir</trd>
+  <trdgrp lng="cs">
+    <trd>dementovat</trd>,
+    <trd>pop&iacute;rat</trd>,
+    <trd>vyvracet</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>dementieren</trd>,
+    <trd>abstreiten</trd>,
+    <trd>zur&uuml;ckweisen <klr>(abstreiten)</klr></trd>
+  </trdgrp>
+  <trd lng="en">deny</trd>
+  <trd lng="es">desmentir</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;mentir</trd>,
+    <trd>contester<klr tip="ind"> (d&eacute;mentir)</klr></trd>,
+    <trd>infirmer</trd>,
+    <trd>r&eacute;cuser<klr tip="ind"> (d&eacute;mentir)</klr></trd>,
+    <trd>r&eacute;futer<klr tip="ind"> (d&eacute;mentir)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5DB;&#x5D7;&#x5D9;&#x5E9;</trd>
+  <trd lng="hu">c&aacute;fol</trd>
+  <trd lng="nl">ontkennen</trd>
+  <trdgrp lng="pl">
+    <trd>dementowa&cacute;</trd>,
+    <trd>sprostowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">desmentir</trd>
+  <trd lng="ru">&c_o;&c_p;&c_r;&c_o;&c_v;&c_je;&c_r;&c_g;&c_n;&c_u;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dementova&tcaron;</trd>,
+    <trd>popiera&tcaron;</trd>,
+    <trd>vyvraca&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_a;&#x43B;&#x43E;&c_v;&c_zh;&c_i;&c_v;. &c_s;&#x43F;&c_r;&#x43E;&c_s;&c_t;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&#x43F;&c_je;&c_r;&c_je;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8F9F;&#x8C23; <pr>p&#xEC;y&#xE1;o</pr></trd>,
+    <trd>&#x62D2;&#x7D55;&#x627F;&#x8A8D; <pr>j&#xF9;ju&#xE9;ch&#xE9;ngr&#xE8;n</pr></trd>,
+    <trd>&#x66F4;&#x6B63; <pr>g&#x113;ngzh&#x113;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.19 2023/04/23 14:26:55
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.18 2022/04/26 17:11:47
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.14  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2009/06/03 16:30:48  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2007/07/19 16:31:46  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/06/27 19:21:04  revo
+Marc Bavant: -dif, -JUR, +ekz/fnt, +ref al malkonfirmi
+
+Revision 1.9 2005/04/05 16:35:41 revo
+-->
+</vortaro>

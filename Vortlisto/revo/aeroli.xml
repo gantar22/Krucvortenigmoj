@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: aeroli.xml,v 1.27 2023/10/12 16:57:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>aerolit</rad>/o
+</kap>
+<drv mrk="aeroli.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">AST</uzo>
+  <snc>
+    <dif>
+      <ref tip="malprt" cel="sxton.0o.MIN">&Scirc;tono</ref>
+      falinta sur teron el la kosma spaco:
+      <ekz>
+        meteorito (a&ubreve; <tld/>o): postresta&jcirc;o de meteoroido, trovita post falo sur la teron
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2013/010926.php">Spaco por a&jcirc;oj el la spaco</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej malnova homa aplikado de la fero okazis en Sumero kaj Egiptio, &ccirc;irka&ubreve; en
+        4000 a.&#x202F;K., temas pri pura fero de meteor&scirc;tonoj (<tld/>oj),
+        <klr>[uzataj]</klr> kiel ornama&jcirc;oj a&ubreve; lancopintoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19083">Fero</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="sxton.aer0o">aer&scirc;tono</ref>,
+      <ref cel="meteor.0sxtono">meteor&scirc;tono</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_t;&c_e;&c_a;&c_r;&c_y;&c_t;</trd>
+  <trd lng="ca">meteorit</trd>
+  <trdgrp lng="cs">
+    <trd>kamenn&yacute; meteorit</trd>,
+    <trd>meteorick&yacute; k&aacute;men</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Aerolith<klr> (alt)</klr></trd>,
+    <trd>Meteorit</trd>
+  </trdgrp>
+  <trd lng="en">aerolite</trd>
+  <trd lng="es">aerolito</trd>
+  <trdgrp lng="fr">
+    <trd>a&eacute;rolithe</trd>,
+    <trd>m&eacute;t&eacute;orite</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>aerolit</trd>,
+    <trd>meteork&odblac;</trd>
+  </trdgrp>
+  <trd lng="it">meteorite</trd>
+  <trd lng="ja">&#x9695;&#x77F3;  <pr>&#x3044;&#x3093;&#x305B;&#x304D;</pr></trd>
+  <trd lng="nl">a&euml;roliet</trd>
+  <trd lng="pl">aerolit</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_e;&c_r;&c_o;&c_l;&c_i;&c_t; <klr>(&c_u;&c_s;&c_t;.)</klr></trd>,
+    <trd>&c_k;&c_a;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j; <ind>&c_m;&c_je;&c_t;&c_je;&c_o;&c_r;&c_i;&c_t;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>meteorit</trd>,
+    <trd>povetro&ncaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x435;&#x440;&#x43E;&#x43B;&#x456;&#x442;</trd>,
+    <trd>&#x43A;&#x430;&#x43C;&#x2019;&#x44F;&#x43D;&#x438;&#x439; &#x43C;&#x435;&#x442;&#x435;&#x43E;&#x440;&#x438;&#x442;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2023/10/12 16:57:42
+revo: transskribo per <pr>
+
+versio 1.25 2022/04/24 14:30:23
+aktualigo ligvokodoj kaj URL-unuoj
+
+Revision 1.22  2019/01/28 20:10:20  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.21  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/01/01 14:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2012/01/05 14:10:15  revo
+Marc Rausell: +trd ca
+
+Revision 1.17  2011/11/02 11:10:13  revo
+-->
+</vortaro>

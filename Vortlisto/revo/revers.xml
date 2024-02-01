@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: revers.xml,v 1.9 2023/10/20 19:20:37 revo Exp $">
+<kap>
+    <rad>revers</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="revers.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="revers.0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="dors.0o.malantauxa">Dorso<sncref/></ref>,
+      <ref tip="dif" cel="flank.dors0o.KOMUNE">dorsflanko</ref>
+      de plata objekto, kontrate al
+      <ref tip="ant" cel="avers.0o.KOMUNE">averso</ref>:
+      <ekz>
+        speso <klr>[&#x2026;]</klr> havis sur la averso la profilon
+        de <nom>Zamenhof</nom> kaj sur la <tld/>o blazonon
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="http://www.esperantio.net/index.php?id=1080">
+          De medalo al monero</url></vrk>
+          <lok>HeKo, 2009-12-22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de monero, &scirc;tofo, pa&gcirc;o, kaj similaj.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    Ne konfuzu kun <ref tip="hom" cel="rovers.0o">roverso</ref>.
+  </rim>
+  <trdgrp lng="cs">
+    <trd>mince</trd>,
+    <trd>revers</trd>,
+    <trd>rub l&aacute;tky</trd>
+  </trdgrp>
+  <trd lng="es">reverso</trd>
+  <trdgrp lng="fr">
+    <trd>face<klr> (c&ocirc;t&eacute; face)</klr></trd>,
+    <trd>revers<klr> (c&ocirc;t&eacute; face)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x88CF;  <pr>&#x308A;</pr></trd>,
+    <trd>&#x88CF;&#x9762;  <pr>&#x3046;&#x3089;&#x3081;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">rewers</trd>
+  <trdgrp lng="ro">
+    <trd>spate</trd>,
+    <trd>verso</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mince</trd>,
+    <trd>reverz</trd>,
+    <trd>rub l&aacute;tky</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_v;&#x43E;&c_r;&#x43E;&c_t;&#x43D;&c_i;&c_j; &c_b;&c_ib;&#x43A;</trd>,
+    <trd>&c_v;&c_i;&c_v;&#x43E;&c_r;&c_ib;&c_t;</trd>,
+    <trd>&c_r;&c_je;&c_v;&c_je;&c_r;&c_s;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.9 2023/10/20 19:20:37
+revo: transskribo per <pr>
+
+versio 1.7 2022/10/28 20:35:28
+Vito Redsky: +trd pl + trd ro
+
+versio 1.5 2020/03/27 21:10:20
+Jeromo Vasxe: + 2 ref, + rim
+
+Revision 1.4  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2010/12/20 17:30:20  revo
+Jeromo Vasxe: + rar + ekz, - malplena fak k fnt
+
+Revision 1.1  2010/10/06 16:30:31  revo
+Agustin Garcia Lopez: nova artikolo
+-->
+</vortaro>

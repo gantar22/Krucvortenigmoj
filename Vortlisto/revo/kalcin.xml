@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kalcin.xml,v 1.24 2023/12/02 21:20:04 revo Exp $">
+<kap>
+   <rad>kalcin</rad>/i
+   <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kalcin.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="fak">KEM</uzo><uzo tip="fak">TEK</uzo>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Cindrigi per forta varmigo nefandeblajn substancojn:
+      <ekz><tld/>ita magnezo;</ekz>
+      <ekz>
+        tiuj &scirc;tonoj, malkombini&gcirc;antaj per varmo, transformi&gcirc;is en viglan kalkon, tre
+        grasan, kiu dum la estingado forte &scirc;velis, kaj estis tiel pura, kvaza&ubreve; oni
+        &gcirc;in produktis per la <tld/>o de kreto a&ubreve; de marmoro
+        <fnt>
+          <aut>Julio Vern, trad. Geo</aut>
+          <vrk><url ref="&EduInf;lern/librejo/9998/0013.php">La mistera insulo</url></vrk>
+          <lok>Aerorompi&gcirc;uloj, &ccirc;apitro XIII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="kalk.0okauxstika">kalko ka&ubreve;stika</ref>
+  </snc>
+  <trdgrp lng="be">
+     <trd>&c_p;&c_r;&c_a;&c_p;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>,
+     <trd>&c_n;&c_a;&c_p;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>,
+     <trd>&c_k;&c_a;&c_l;&c_mol;&c_c;&c_y;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">calcinar</trd>
+  <trdgrp lng="cs">
+    <trd>kalcinovat</trd>,
+    <trd>pra&zcaron;it</trd>,
+    <trd>vy&zcaron;&iacute;hat</trd>,
+    <trd>&zcaron;&iacute;hat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+      <trd>kalzinieren</trd>,
+      <trd>zu <ind>Kalk</ind> brennen</trd>,
+      <trd>veraschen</trd>
+   </trdgrp>
+  <trd lng="en">calcine</trd>
+  <trd lng="es">calcinar</trd>
+  <trd lng="fa">&a_t;&f_k;&a_l;&f_y;&a_s; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trdgrp lng="fi">
+     <trd>kalsinoida</trd>,
+     <trd>hehkuttaa <klr tip="amb"> (tekn.)</klr></trd>
+   </trdgrp>
+  <trdgrp lng="fr">
+      <trd>calciner</trd>,
+      <trd>r&eacute;duire en cendres</trd>
+   </trdgrp>
+  <trd lng="hu">kalcin&aacute;l</trd>
+  <trd lng="ja">&#x304B;&#x713C;&#x3059;&#x308B;</trd>
+  <trdgrp lng="nl">
+     <trd>calcineren</trd>,
+     <trd>uitgloeien</trd>
+   </trdgrp>
+  <trdgrp lng="pl">
+     <trd>wypra&zdot;a&cacute;</trd>,
+     <trd>wypala&cacute;</trd>
+   </trdgrp>
+  <trd lng="pt">calcinar</trd>
+  <trdgrp lng="ru">
+     <trd>&c_p;&c_r;&c_o;&c_k;&c_a;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+     <trd>&c_o;&c_b;&c_zh;&c_i;&c_g;&c_a;&c_t;&c_mol;</trd>,
+     <trd>&c_k;&c_a;&c_l;&c_mol;&c_c;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+   </trdgrp>
+  <trd lng="sk">kalcinova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_a;&c_l;&c_mol;&c_c;&c_i;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_zh;&c_a;&c_r;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_p;&c_a;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x7145;&#x70E7; <pr>du&#xE0;nsh&#x101;o</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2023/05/04 16:53:13
+revo: aktualigo URL-unuoj
+
+versio 1.21 2023/04/10 16:30:31
+Wolfram Diestel: fnt PV, +KEM, +TEK, +ekz, ref
+
+versio 1.19 2021/05/14 07:54:36
+Dmitri Gabinski: + trd be
+
+Revision 1.17  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/07/30 12:10:33  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2011/08/19 05:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2009/08/23 16:32:26  revo
+Paul Peeraerts: korekto en nl
+
+Revision 1.13  2009/06/14 16:31:47  revo
+-->
+</vortaro>

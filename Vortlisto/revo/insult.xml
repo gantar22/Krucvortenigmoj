@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: insult.xml,v 1.33 2023/11/19 10:22:13 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>insult</rad>/i
+</kap>
+<drv mrk="insult.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="insult.0i.KOMUNE">
+    <dif>
+      Maldece agi kontra&ubreve; iu per ofendaj paroloj:
+      <ekz>
+        li koleras kaj <tld/>as
+        <fnt><bib>F</bib>, <lok>Ekzercaro, &para; 31</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiam pasanto jam trinkis, li la puton <tld/>as
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
+      <ekz>
+        la patrino &scirc;in <tld/>as, ke &scirc;i ne volas labori<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia patrino <tld/>is &scirc;in, kial <klr>(demandante kial)</klr>
+        &scirc;i revenis tiel malfrue
+        <fnt><bib>F</bib>, <lok>Ekzercaro, &para; 17</lok></fnt>;
+      </ekz>
+      <ekz>
+        ne rapidu <tld/>i, volu a&ubreve;skulti.
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="humil">humiligi</ref>,
+      <ref cel="lauxd.mal0i">malla&ubreve;di</ref>,
+      <ref cel="ofend.0i">ofendi</ref>,
+      <ref cel="riproc.0i">ripro&ccirc;i</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_r;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_mol;&c_n;&c_je;&c_v;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_s;&c_u;&c_v;&c_a;&c_m;</trd>
+  <trd lng="bo">&#xF51;&#xF58;&#xF60;&#xF0B;&#xF60;&#xF56;&#xF7A;&#xF56;&#xF66;&#xF0B;&#xF42;&#xF4F;&#xF7C;&#xF44;&#xF0B;</trd>
+  <trdgrp lng="cs">
+    <trd>inzultovat</trd>,
+    <trd>nad&#xE1;vat</trd>,
+    <trd>obo&rcaron;it se</trd>,
+    <trd>slovn&#x11B; napadnout</trd>,
+    <trd>sp&#xED;lat</trd>,
+    <trd>tupit</trd>,
+    <trd>urazit</trd>,
+    <trd>ur&#xE1;&#x17E;et</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>beschimpfen</trd>,
+    <trd>schimpfen</trd>
+  </trdgrp>
+  <trd lng="en">insult</trd>
+  <trd lng="es">insultar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_sh;&a_n;&a_A;&a_m; &f_g;&a_f;&a_t;&a_n;</trd>,
+    <trd>&a_n;&a_A;&a_s;&a_z;&a_A; &f_g;&a_f;&a_t;&a_n;</trd>,
+    <trd>&a_A;&a_h;&a_A;&a_n;&a_t; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_t;&a_w;&a_h;&f_y;&a_n; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>injurier</trd>,
+    <trd>insulter</trd>,
+    <trd>invectiver</trd>,
+    <trd>outrager<klr tip="ind"> (injurier)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>s&eacute;rteget</trd>,
+    <trd>inzult&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>insultare</trd>,
+    <trd>inveire</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4FAE;&#x8FB1;&#x3059;&#x308B;  <pr>&#x3076;&#x3058;&#x3087;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x306E;&#x306E;&#x3057;&#x308B;</trd>,
+    <trd>&#x60AA;&#x53E3;&#x3092;&#x8A00;&#x3046;  <pr>&#x308F;&#x308B;&#x3050;&#x3061;&#x3092;&#x3044;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="ku">&ccedil;&ecirc;r kirin</trd>
+  <trdgrp lng="nl">
+    <trd>beledigen</trd>,
+    <trd>uitschelden</trd>
+  </trdgrp>
+  <trd lng="pt">insultar</trd>
+  <trd lng="ru">&c_o;&c_s;&c_k;&c_o;&c_r;&c_b;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>nad&#xE1;va&tcaron;</trd>,
+    <trd>obori&tcaron; sa</trd>,
+    <trd>tupi&tcaron;</trd>,
+    <trd>ur&#xE1;&#x17E;a&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">f&ouml;rol&auml;mpa</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&c_a;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_v;&c_a;&c_r;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_b;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8FB1;&#x7F75; <pr>r&#x1D4;m&#xE0;</pr></trd>,
+    <trd>&#x4FAE; <pr>w&#x1D4;</pr></trd>,
+    <trd>&#x50C7; <pr>l&#xF9;</pr></trd>,
+    <trd>&#x50DD; <pr>ch&#xE1;n</pr></trd>,
+    <trd>&#x4FAE;&#x8FB1; <pr>w&#x1D4;r&#x1D4;</pr></trd>,
+    <trd>&#x85C9; <pr>j&#xED;</pr></trd>,
+    <trd>&#x7F75;&#x4EBA; <pr>m&#xE0;r&#xE9;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="insult.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="insult.0o.KOMUNE">
+    <dif>
+      Vortoj, per kiuj oni <tld/>as:
+      <ekz>
+        super&scirc;uti, super&jcirc;eti iun per <tld/>oj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o ne alglui&gcirc;as
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>a</ind>j paroloj.
+        <trdgrp lng="fr">
+          <trd>d'<ind>insulte</ind></trd>,
+          <trd>insultant</trd>,
+          <trd>injurieux</trd>,
+          <trd>invectif</trd>,
+          <trd>outrageux</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="vang.sur0o.KOMUNE">survango</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_r;&c_a;&c_z;&c_a;</trd>,
+    <trd>&c_z;&c_mol;&c_n;&c_ja;&c_v;&c_a;&c_g;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF66;&#xFA8;&#xF51;&#xF0B;&#xF62;&#xF0B;</trd>
+  <trdgrp lng="cs">
+    <trd>inzult</trd>,
+    <trd>nad&#xE1;vka</trd>,
+    <trd>ur&#xE1;&#x17E;ka</trd>
+  </trdgrp>
+  <trd lng="de">Beschimpfung</trd>
+  <trd lng="es">insulto</trd>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_sh;&a_n;&a_A;&a_m;</trd>,
+    <trd>&a_n;&a_A;&a_s;&a_z;&a_A;</trd>,
+    <trd>&a_f;&a_H;&a_sh;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>injure</trd>,
+    <trd>insulte</trd>,
+    <trd>invective</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>s&eacute;rteget&eacute;s</trd>,
+    <trd>s&eacute;rt&odblac; sz&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>ingiuria</trd>,
+    <trd>insulto</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x306E;&#x306E;&#x3057;&#x308A;</trd>,
+    <trd>&#x60AA;&#x53E3;  <pr>&#x308F;&#x308B;&#x3050;&#x3061;</pr></trd>,
+    <trd>&#x66B4;&#x8A00;  <pr>&#x307C;&#x3046;&#x3052;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">belediging</trd>
+  <trd lng="pt">insulto</trd>
+  <trd lng="ru">&c_o;&c_s;&c_k;&c_o;&c_r;&c_b;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>nad&#xE1;vka</trd>,
+    <trd>ur&#xE1;&#x17E;ka</trd>
+  </trdgrp>
+  <trd lng="sv">f&ouml;rol&auml;mpning</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&c_a;&c_j;&#x43A;&c_a;</trd>,
+    <trd>&c_s;&c_v;&c_a;&c_r;&#x43A;&c_a;</trd>,
+    <trd>&#x43E;&c_b;&c_r;&c_a;&c_z;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="insult.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="insult.0ajxo.KOMUNE">
+    <dif>
+      Celo de <tld/>ado:
+      <ekz>
+        ni fari&gcirc;is mokata&jcirc;o kaj <tld/>a&jcirc;o por niaj
+        &ccirc;irka&ubreve;antoj
+        <fnt><bib>MT</bib>, <lok>&Psa; 79:4</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_r;&c_a;&c_zh;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_b;&#x2019;&c_je;&c_k;&c_t; <ind>&c_a;&c_b;&c_r;&c_a;&c_z;&c_y;</ind></trd>
+  </trdgrp>
+  <trd lng="fa">&a_A_madda;&a_m;&a_A;&a_j; &a_d;&a_sh;&a_n;&a_A;&a_m;</trd>
+  <trdgrp lng="fr">
+    <trd>insult&eacute;<klr tip="ind"> (objet d'insultes)</klr></trd>
+    <trd>objet d'<ind>insultes</ind></trd>
+  </trdgrp>
+  <trd lng="hu">s&eacute;rteget&eacute;s t&aacute;rgya</trd>
+  <trd lng="zh">&#x51CC;&#x8FB1; <pr>l&#xED;ngr&#x1D4;</pr></trd>
+</drv>
+
+<drv mrk="insult.0ema">
+  <kap><tld/>ema<fnt>Z</fnt></kap>
+  <snc mrk="insult.0ema.KOMUNE">
+    <dif>
+      Volonte <tld/>anta.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_r;&c_a;&c_z;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_z;&c_v;&c_a;&c_d;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_g;&c_r;&c_y;&c_z;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="cs">ur&#xE1;&#x17E;liv&#xFD;</trd>
+  <trdgrp lng="fa">
+    <trd>&a_f;&a_H;&a_A;&a_sh;</trd>,
+    <trd>&a_d;&a_sh;&a_n;&a_A;&a_m;&#x200C;&f_g;&a_w;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>grossier<klr tip="ind"> (en paroles)</klr></trd>,
+    <trd>port&eacute; &agrave; l'<ind>insulte</ind></trd>,
+    <trd>insultant<klr tip="ind"> (port&eacute; &agrave; l'insulte)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">goromba</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7121;&#x793C;&#x306A;  <pr>&#x3076;&#x308C;&#x3044;&#x306A;</pr></trd>,
+    <trd>&#x53E3;&#x306E;&#x60AA;&#x3044;  <pr>&#x304F;&#x3061;&#x306E;&#x308F;&#x308B;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">insultante</trd>
+  <trd lng="sk">ur&#xE1;&#x17E;liv&#xFD;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&c_a;&c_j;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_v;&c_a;&c_r;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.32 2023/10/20 09:24:09
+Dmitri Gabinski: + trd be
+
+versio 1.31 2023/10/17 16:46:14
+revo: transskribo per <pr>
+
+Revision 1.26  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2012/01/31 08:10:10  revo
+Wieland Pusch: +trd bg
+
+Revision 1.24  2010/07/15 16:30:24  revo
+Fabio Bettani: +trd it
+
+Revision 1.23  2009/09/14 16:31:08  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.22  2009/08/27 16:33:01  revo
+Emmanuel Debanne: +trd ku
+
+Revision 1.21  2006/07/11 16:31:15  revo
+-->
+</vortaro>

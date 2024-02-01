@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dramat.xml,v 1.21 2023/10/14 14:40:07 revo Exp $">
+<kap>
+  <rad>dramaturgi</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="dramat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dramat.0o.verkado">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      <ref tip="lst" lst="voko:artoj" cel="art.0o.belarto">Arto<sncref/></ref>
+      de teatra verkado:
+      <ekz>
+        <klr>[la]</klr> &Ccirc;ina dramisto <nom>Hong Shen</nom> lernis <tld/>on en Harvard-universitato
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=52752">Dramo en &Ccirc;inio</url></lok>
+        </fnt>.
+      </ekz>      
+    </dif>
+  </snc>
+  <snc mrk="dramat.0o.apliko">
+    <dif>
+      Apliko de tiu arto en iu verko; konstruo, strukturo, efiko de verko:
+      <ekz>
+        <klr>[al]</klr> Hamburgo, centro de germanlingva teatro, <klr>[&#x2026;]</klr> <nom>Lessing</nom>
+        <klr>[estis vokita]</klr> en 1767 por gvidi la teatrejon urban &ccirc;e paralela
+        verkado porteatreja, li volis helpe kritiki la aktorojn kaj plibonigi
+        <tld/>on, tamen li &gcirc;ojis pri nova posteno ekde 1769 en <nom>Wolfenb&uuml;ttel</nom> en la
+        tiea biblioteko
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1541">Gotthold Ephraim Lessing</url></lok>
+        </fnt>;
+      </ekz>      
+      <ekz>
+        mi ne ridis, certe, tio estas historiografie malvera <klr>[&#x2026;]</klr> malgra&ubreve; tio,
+        tiu &ccirc;i <tld/>o ne estis ridinda, &gcirc;i estis alvoko de la re&gcirc;isoro al la nuna
+        publiko
+        <fnt>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2000/006909.php">Novjara kla&ccirc;o super konjako</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 25</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>  
+  <snc mrk="dramat.0o.teorio">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      Teorio pri tiu arto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_r;&c_a;&c_m;&c_a;&c_t;&c_u;&c_r;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="de">Dramaturgie</trd>
+  <trd lng="en">dramaturgy</trd>
+  <trd lng="es">dramaturgia</trd>
+  <trd lng="fr">dramaturgie</trd>
+  <trd lng="hu">dramaturgia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5287;&#x4F5C;&#x6CD5;  <pr>&#x3052;&#x304D;&#x3055;&#x304F;&#x307B;&#x3046;</pr></trd>,
+    <trd>&#x6F14;&#x5287;&#x8AD6;  <pr>&#x3048;&#x3093;&#x3052;&#x304D;&#x308D;&#x3093;</pr></trd>,
+    <trd>&#x30C9;&#x30E9;&#x30DE;&#x30C4;&#x30EB;&#x30AE;&#x30FC;</trd>
+  </trdgrp>
+  <trd lng="nl">dramaturgie</trd>
+  <trd lng="pl">dramaturgia</trd>
+  <trd lng="pt">dramaturgia</trd>
+  <trd lng="ru">&c_d;&c_r;&c_a;&c_m;&c_a;&c_t;&c_u;&c_r;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="uk">&c_d;&c_r;&c_a;&#x43C;&c_a;&c_t;&c_u;&c_r;&c_g;&c_ib;&#x44F;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2023/10/14 14:40:07
+revo: transskribo per <pr>
+
+versio 1.19 2023/04/17 06:32:33
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.18 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.16 2021/04/11 15:58:50
+Wolfram Diestel: +lst artoj
+
+Revision 1.14  2011/04/19 10:10:08  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.13  2009/10/24 16:32:50  revo
+Russ Williams: +trd en
+
+Revision 1.12  2009/07/09 16:31:08  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2007/09/02 16:30:28  revo
+-->
+</vortaro>

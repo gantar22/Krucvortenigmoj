@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: bemol.xml,v 1.30 2023/10/14 08:39:48 revo Exp $">
+<kap>
+  <ofc>9</ofc>
+  <rad>bemol</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="bemol.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <mlg>&#x266D;</mlg>
+  <snc mrk="bemol.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="sign.krom0o.TIP">Muzika kromsigno</ref>
+      malaltiganta noton je duonduto:
+      <ekz>
+        por indiki duontonojn, oni devas aldoni kromsignojn
+        (<ref tip="ant" cel="dies.0o.MUZ">dieson</ref> kaj <tld/>on)
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008034.html">Klavarskribo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        en la plej supra bran&ccirc;kruci&gcirc;o nestis familio de najtingaloj,
+        &ccirc;iam pretaj seninterrompe supren&jcirc;eti sian ravan miksa&jcirc;on
+        de <tld/>oj kaj diesoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Angela Tellier</aut>
+          <vrk><url ref="&Monato;/2004/008306.html">La&ubreve;proverbaj fabeloj</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        sola <tld/>o: neniu virino alvenis, malgra&ubreve; du ali&gcirc;oj
+        <fnt>
+          <lok><url ref="http://corpora.uni-leipzig.de/de/res?corpusId=epo_mixed_2012&amp;word=bemolo">www.esperantio.net</url></lok>
+        </fnt>
+        <klr>(Kp <refgrp tip="vid">
+          <ref cel="mank.0o.malsuficxo">manko<sncref/></ref>,
+          <ref cel="minus.0o.FIG">minuso<sncref/></ref>
+        </refgrp>).</klr>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_e;&c_m;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="de">b<klr tip="amb"> (Notenschrift)</klr></trd>
+  <trd lng="en">flat symbol</trd>
+  <trd lng="es">bemol</trd>
+  <trd lng="fr">b&eacute;mol</trd>
+  <trd lng="he">&dalet;&yod;&alef;&zayin; (&mem;&vav;&zayin;&yod;&qof;&he;)</trd>
+  <trd lng="hu">b&eacute;</trd>
+  <trd lng="it">bemolle</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D5;&#x30E9;&#x30C3;&#x30C8;</trd>,
+    <trd>&#x5909;&#x8A18;&#x53F7;  <pr>&#x3078;&#x3093;&#x304D;&#x3054;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">mol</trd>
+  <trd lng="pl">bemol</trd>
+  <trd lng="ru">&c_b;&c_je;&c_m;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="sk">b&eacute;&ccaron;ko</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&#x43C;&#x43E;&#x43B;&#x44C;</trd>,
+    <trd>&c_z;&#x43D;&c_i;&c_zh;&c_je;&#x43D;&#x43D;&#x44F; &#x43D;&c_a; &#x43F;&c_ib;&c_v;&c_t;&#x43E;&#x43D;&c_u;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bemol.du0o">
+  <kap>du<tld/>o</kap>
+  <mlg>&#x1D12B;</mlg>
+  <snc mrk="bemol.du0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="sign.krom0o.TIP">Muzika kromsigno</ref>
+      malaltiganta noton je duto.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_u;&c_b;&c_l;&c_mol;-&c_b;&c_e;&c_m;&c_o;&c_l;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_v;&c_o;&c_j;&c_n;&c_y; <ind>&c_b;&c_e;&c_m;&c_o;&c_l;&c_mol;</ind></trd>
+  </trdgrp>
+  <trd lng="de">Doppel-<ind>b</ind><klr tip="amb">
+  (Notenschrift)</klr></trd>
+  <trd lng="en">double-<ind>flat</ind> symbol</trd>
+  <trd lng="fr">double <ind>b&eacute;mol</ind></trd>
+  <trd lng="hu">kett&odblac;s <ind>b&eacute;</ind></trd>
+  <trd lng="it">doppio <ind>bemolle</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C0;&#x30D6;&#x30EB;&#x30D5;&#x30E9;&#x30C3;&#x30C8;</trd>,
+    <trd>&#x91CD;&#x5909;&#x8A18;&#x53F7;  <pr>&#x3058;&#x3085;&#x3046;&#x3078;&#x3093;&#x304D;&#x3054;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">dvojit&eacute; <ind>b&eacute;&ccaron;ko</ind></trd>
+  <trd lng="ru">&c_d;&c_u;&c_b;&c_l;&c_mol;-<ind>&c_b;&c_je;&c_m;&c_o;&c_l;&c_mol;</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_b;&#x43B;&#x44C;-&c_b;&c_je;&#x43C;&#x43E;&#x43B;&#x44C;</trd>,
+    <trd>&c_z;&#x43D;&c_i;&c_zh;&c_je;&#x43D;&#x43D;&#x44F; &#x43D;&c_a; &c_d;&c_v;&c_a; &#x43F;&c_ib;&c_v;&c_t;&#x43E;&#x43D;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.28 2023/07/02 20:28:25
+Wolfram Diestel: kor. ref-cel
+
+versio 1.27 2023/01/30 09:28:15
+Dmitri Gabinski: + trd be
+
+versio 1.26 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2022/02/07 23:27:59
+Jeromo Vasxe: kor ref
+
+Revision 1.20  2019/04/18 06:10:13  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.19  2013/08/16 16:10:10  revo
+Joop Eggen: +trd nl
+
+Revision 1.18  2010/05/28 16:30:38  revo
+-->
+</vortaro>

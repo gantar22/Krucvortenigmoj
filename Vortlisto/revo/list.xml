@@ -1,0 +1,705 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: list.xml,v 1.112 2024/01/15 19:02:15 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>list</rad>/o
+</kap>
+
+<drv mrk="list.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="list.0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="seri.0o">Serio</ref> da nomoj de personoj a&ubreve; aferoj, diritaj a&ubreve;
+      skribitaj unu
+      post alia:
+      <ekz>
+        li ne estis enskribita en la genealogian <tld/>on kiel unuenaskito
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Kroniko 5:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de la pastroj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ne&hcirc;emja 7:64</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvitanci <tld/>on de la vendotaj komerca&jcirc;oj
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Lingva Komitato povus periode publikigadi <tld/>ojn da vortoj
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Vortaroj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de mallongigoj
+        <klr>(kp <ref tip="sub" cel="glos.0aro">glosaro</ref>)</klr>
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li faris <tld/>on de la nomoj de &ccirc;iuj virinoj, kiujn li konis en la vila&gcirc;o
+        <fnt>
+          <bib>KKl</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi aran&gcirc;as <tld/>on en alfabeta ordo
+        <fnt><bib>Kiso</bib>, <lok>poetoj kaj homoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        la stratoj estas plenaj de la balottumulto, la bariloj krias pri tridek <tld/>oj
+        <klr>(de kandidatoj)</klr>
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Popov</nom> nomis kvanton da kunsidoj kaj <tld/>on de la pridiskutitaj demandoj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiel ofte mi kontrolis &ccirc;ion necesan, ke la <tld/>o de necesa&jcirc;oj komencis
+        ripeti&gcirc;i senvole en mia menso.
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li montris al mi la <tld/>on de prezoj, kaj mi trarigardis &gcirc;in
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="regist.0o.dokumento">registro <sncref/></ref>,
+      <ref cel="tabel.0o">tabelo</ref>
+    </refgrp>
+    <trd lng="de">Auflistung</trd>
+  </snc>
+  <snc mrk="list.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Tre elasta <ref tip="super" cel="datum.0strukturo">datumstrukturo</ref>
+      prezentebla kiel <ref tip="super" cel="sekv.sin0o.spaca">sinsekvo</ref> da
+      objektoj, &ccirc;iu el kiuj povas esti simpla datumo
+      (<ctl>atoma</ctl> listero) a&ubreve; listo. Malkiel en ordinara
+      <ref cel="tabel.0o.KOMP">tabelo</ref> oni povas
+      alpendigi novajn listerojn a&ubreve; forpreni iujn enestantajn:
+      <ekz>
+        prezenti arbon per <tld/>o;
+      </ekz>
+      <ekz>
+        &ccirc;ar en Lispo kaj datumoj kaj funkcioj estas <tld/>oj, tial eblas skribi
+        funkciojn, kiuj kreas novajn funkciojn a&ubreve; &scirc;an&gcirc;as aliajn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=2513">Lisp (programlingvo)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">lys</trd>
+  <trd lng="am">&#x12DD;&#x122D;&#x12DD;&#x122D;</trd>
+  <trd lng="ar">&a_q;&a_A;&a_y_hamza;&a_m;&a_t_marbuta;</trd>
+  <trd lng="az">siyah&inodot;s&inodot;</trd>
+  <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_s;</trd>
+  <trd lng="bn">&#x9A4;&#x9BE;&#x9B2;&#x9BF;&#x995;&#x9BE;</trd>
+  <trd lng="bs">popis</trd>
+  <trd lng="co">lists</trd>
+  <trdgrp lng="cs">
+    <trd>index</trd>,
+    <trd>lista</trd>,
+    <trd>rejst&rcaron;&iacute;k</trd>,
+    <trd>seznam</trd>,
+    <trd>soupis</trd>,
+    <trd>v&yacute;kaz</trd>
+  </trdgrp>
+  <trd lng="cy">rhestr</trd>
+  <trd lng="da">liste</trd>
+  <trd lng="de">Liste</trd>
+  <trd lng="el">&lambda;&jota_ton;&sigma;&tau;&alfa;</trd>
+  <trd lng="en">list</trd>
+  <trd lng="es">lista</trd>
+  <trd lng="et">nimekiri</trd>
+  <trd lng="eu">zerrenda</trd>
+  <trd lng="fr">liste</trd>
+  <trd lng="fy">list</trd>
+  <trd lng="ga">liosta</trd>
+  <trd lng="gd">liosta</trd>
+  <trd lng="gl">lista</trd>
+  <trd lng="gu">&#xAAF;&#xABE;&#xAA6;&#xAC0;</trd>
+  <trd lng="he">&resh;&shin;&yod;&mem;&he;</trd>
+  <trd lng="hi">&#x938;&#x942;&#x91A;&#x940;</trd>
+  <trd lng="hmn">daim ntawv teev</trd>
+  <trd lng="hr">popis</trd>
+  <trd lng="ht">lis</trd>
+  <trdgrp lng="hu">
+    <trd>jegyz&eacute;k</trd>,
+    <trd>lista</trd>,
+    <trd>lajstrom</trd>
+  </trdgrp>
+  <trd lng="hy">&#x581;&#x578;&#x582;&#x581;&#x561;&#x56F;</trd>
+  <trd lng="ig">ndep&#x1EE5;ta</trd>
+  <trd lng="is">listi</trd>
+  <trd lng="ja">&#x30EA;&#x30B9;&#x30C8;</trd>
+  <trd lng="jv">dhaftar</trd>
+  <trd lng="ka">&#x10E1;&#x10D8;&#x10D0;</trd>
+  <trd lng="kk">&c_t;&c_ib;&c_z;&c_ib;&c_m;</trd>
+  <trd lng="km">&#x1794;&#x1789;&#x17D2;&#x1787;&#x17B8;</trd>
+  <trd lng="kn">&#xCAA;&#xC9F;&#xCCD;&#xC9F;&#xCBF;</trd>
+  <trd lng="ko">&#xD45C;</trd>
+  <trd lng="ku">l&icirc;ste</trd>
+  <trd lng="ky">&c_t;&c_i;&c_z;&c_m;&c_je;</trd>
+  <trd lng="lat">album</trd>
+  <trd lng="lo">&#xE9A;&#xEB1;&#xE99;&#xE8A;&#xEB5;&#xEA5;&#xEB2;&#xE8D;&#xE8A;&#xEB7;&#xEC8;</trd>
+  <trd lng="lt">s&aogonek;ra&scaron;as</trd>
+  <trd lng="lv">saraksts</trd>
+  <trd lng="mg">lisitra</trd>
+  <trd lng="mi">r&#x15D1;rangi</trd>
+  <trd lng="mk">&c_l;&c_i;&c_s;&c_t;&c_a;</trd>
+  <trd lng="ml">&#xD2A;&#xD1F;&#xD4D;&#xD1F;&#xD3F;&#xD15;</trd>
+  <trd lng="mn">&c_zh;&c_a;&c_g;&c_s;&c_a;&c_a;&c_l;&c_t;</trd>
+  <trd lng="mr">&#x92F;&#x93E;&#x926;&#x940;</trd>
+  <trd lng="ms">senarai</trd>
+  <trd lng="mt">lista</trd>
+  <trd lng="my">&#x1005;&#x102C;&#x101B;&#x1004;&#x103A;&#x1038;</trd>
+  <trd lng="ne">&#x938;&#x942;&#x91A;&#x940;</trd>
+  <trd lng="nl">lijst</trd>
+  <trd lng="no">liste</trd>
+  <trd lng="ny">mndandanda</trd>
+  <trd lng="pa">&#xA38;&#xA42;&#xA1A;&#xA40; &#xA35;&#xA3F;&#xA71;&#xA1A;</trd>
+  <trdgrp lng="pl">
+    <trd>cedu&lstroke;a</trd>,
+    <trd>lista</trd>,
+    <trd>spis</trd>,
+    <trd>wykaz</trd>,
+    <trd>zestawienie</trd>
+  </trdgrp>   
+  <trd lng="ps">&a_l;&a_s;&a_t;</trd>
+  <trd lng="pt">lista</trd>
+  <trdgrp lng="ro">
+    <trd>citat</trd>,
+    <trd>list&abreve;</trd>,
+    <trd>catalog</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>
+  <trd lng="rw">urutonde</trd>
+  <trd lng="sd">&a_f;&a_h;&a_r;&a_s;&a_t;</trd>
+  <trd lng="si">&#xDBD;&#xDD0;&#xDBA;&#xDD2;&#xDC3;&#xDCA;&#xDAD;&#xDD4;&#xDC0;</trd>
+  <trdgrp lng="sk">
+    <trd>index</trd>,
+    <trd>register</trd>,
+    <trd>s&uacute;pis</trd>,
+    <trd>v&yacute;kaz</trd>,
+    <trd>zoznam</trd>
+  </trdgrp>
+  <trd lng="sl">seznam</trd>
+  <trd lng="sm">lisi</trd>
+  <trd lng="sn">Pamazita</trd>
+  <trd lng="so">liiska</trd>
+  <trd lng="sq">lista</trd>
+  <trd lng="st">lethathamo</trd>
+  <trd lng="su">daptar</trd>
+  <trd lng="sw">orodha</trd>
+  <trd lng="ta">&#xBAA;&#xB9F;&#xBCD;&#xB9F;&#xBBF;&#xBAF;&#xBB2;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC1C;&#xC3E;&#xC2C;&#xC3F;&#xC24;&#xC3E;</trd>
+  <trd lng="tg">&c_r;&#x4EF;&c_j;&c_h;&c_a;&c_t;</trd>
+  <trd lng="th">&#xE23;&#xE32;&#xE22;&#xE01;&#xE32;&#xE23;</trd>
+  <trd lng="tl">listahan</trd>
+  <trd lng="tt">&c_i;&c_s;&c_je;&c_m;&c_l;&c_je;&c_g;&c_je;</trd>
+  <trd lng="uk">&c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>
+  <trd lng="ur">&a_f;&#x6C1;&a_r;&a_s;&a_t;</trd>
+  <trd lng="uz">ro&#x2019;yxat</trd>
+  <trd lng="vi">danh s&aacute;ch</trd>
+  <trd lng="xh">uluhlu</trd>
+  <trd lng="yi">&resh;&shin;&yod;&mem;&he;</trd>
+  <trd lng="yo">akoj&#x1ECD;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5217;&#x8868; <pr>li&#xE8;bi&#x1CE;o</pr></trd>,
+    <trd>&#x7DE8;&#x76EE; <pr>bi&#x101;nm&#xF9;</pr></trd>,
+    <trd>&#x7F16;&#x76EE; <pr>bi&#x101;nm&#xF9;</pr></trd>,
+    <trd>&#x76EE;&#x5F55; <pr>m&#xF9;l&#xF9;</pr></trd>,
+    <trd>&#x76EE;&#x9304; <pr>m&#xF9;l&#xF9;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">uhlu</trd>
+</drv>
+
+<drv mrk="list.0ano">
+  <kap>
+    <tld/>ano
+  </kap>
+  <snc>
+    <dif>
+      Persono nomita en koncerna <tld/>o, ekz-e en balot<tld/>o:
+      <ekz>
+        por multaj B-<tld/>anoj estis &scirc;an&gcirc;ita la balotejo
+        <fnt>
+          <aut>Bardhyl Selimi</aut>
+            <vrk><url ref="&Monato;/2001/007284.html">Listo de ruzo kaj manipulado</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 7</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        per propono de la respondintoj ricevis poentojn anka&ubreve; ekster<tld/>anoj
+        <fnt>
+          <bib>LOdE</bib>
+          <vrk><url ref="&Tekstaro;?nomo=ondo-de-esperanto">La plej meritaj
+          esperantistoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_n;&c_je;&c_s;&c_je;&c_n;&c_y; &c_w; <ind>&c_s;&c_mol;&c_p;&c_ib;&c_s;</ind></trd>
+    <trd>&c_k;&c_a;&c_n;&c_d;&c_y;&c_d;&c_a;&c_t;</trd>,
+  </trdgrp>
+  <trd lng="de">Listenplatz <klr>(Kandidat)</klr></trd>
+</drv>
+
+
+<drv mrk="list.0ero">
+  <kap><tld/>ero</kap>
+  <snc mrk="list.0ero.KOMUNE">
+    <dif>
+      Unuopa <ref tip="super" cel="elemen.0o.KOMUNE">elemento</ref> en <tld/>o:
+      <ekz>
+        la <tld/>eroj 1 kaj 2 rilatas al tekstaj dosieroj
+        <fnt>
+          <vrk><url ref="https://interkonekto.sourceforge.io/dok/manlibro004.html">Metodo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la reta katalogo de la Esperantomuzeo en Vieno kun &ccirc;irka&ubreve; 35&#x202F;000 <tld/>eroj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=6327">Trovanto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_m;&c_e;&c_n;&c_t; &c_s;&c_mol;&c_p;&c_ib;&c_s;&c_a;</trd>
+  <trd lng="cs">brad&aacute;&ccaron;ek</trd>
+  <trd lng="de">Listenelement</trd>
+  <trd lng="es">elemento de una lista</trd>
+  <trd lng="fr">&eacute;l&eacute;ment de liste</trd>
+  <trd lng="pl">element <ind>listy</ind></trd>
+  <trd lng="ro">element de <ind>list&abreve;</ind></trd>
+  <trd lng="sk">listeri&oacute;za</trd>
+  <trd lng="uk">&c_z;&#x43E;&c_z;&c_u;&#x43B;&c_i;&#x43D;&c_ib; &c_s;&#x43B;&#x44C;&#x43E;&c_z;&c_i;</trd>
+</drv>
+
+<drv mrk="list.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="list.0igi.KOMUNE">
+    <dif>
+      Starigi <tld/>on de iuj aferoj, objektoj:
+      <ekz>
+        estas bone <tld/>igi tie &ccirc;i <klr>[&#x2026;]</klr> tradukitajn verkojn
+        <fnt><bib>Plumamikoj</bib>, <lok>tradukoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        en multaj tiutemaj libroj estas <tld/>igitaj nomoj de semajntagoj kaj monatoj en
+        diversaj lingvoj
+        <fnt>
+          <aut>Anna kaj Mati Pentus</aut>
+          <vrk><url ref="&Monato;/2003/008070.html">Franda&jcirc;o por scivolemuloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/07, p. 30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la meritoj estas <tld/>igitaj dorskovrile de la libro
+        <fnt>
+          <aut>Grigori Arosev</aut>
+            <vrk><url ref="&Monato;/2000/007198.php">Poezio sed ne poemoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 28</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_s;&c_mol;&c_p;&c_ib;&c_s;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>uspo&rcaron;&aacute;dat do seznamu</trd>,
+    <trd>vyjmenovat</trd>
+  </trdgrp>
+  <trd lng="de">auflisten</trd>
+  <trdgrp lng="es">
+    <trd>enumerar</trd>,
+    <trd>listar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&eacute;num&eacute;rer</trd>,
+    <trd>lister</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8868;&#x306B;&#x8F09;&#x305B;&#x308B;  <pr>&#x304A;&#x3082;&#x3066;&#x306B;&#x306E;&#x305B;&#x308B;</pr></trd>
+  <trd lng="pl">robi&cacute; <ind>list&eogonek;</ind></trd>
+  <trd lng="ro">face o <ind>list&abreve;</ind></trd>
+  <trd lng="sk">usporiada&tcaron; do zoznamu</trd>
+  <trd lng="uk">&c_s;&#x43A;&#x43B;&c_a;&c_d;&c_a;&c_t;&c_i; &c_s;&#x43F;&c_i;&c_s;&#x43E;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5217;&#x4E3E; <pr>li&#xE8;j&#x1D4;</pr></trd>,
+    <trd>&#x5217;&#x8209; <pr>li&#xE8;j&#x1D4;</pr></trd>,
+    <trd>&#x5217;&#x51FA; <pr>li&#xE8;ch&#x16B;</pr></trd>,
+    <trd>&#x5217;&#x8868; <pr>li&#xE8;bi&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="list.en0igi">
+  <kap>en<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="list.en0igi.KOMUNE">
+    <dif>
+      Enmeti en <tld/>on:
+      <ekz>
+        li iris por en<tld/>igi sin inter laborser&ccirc;antoj
+        <fnt><bib>InfanTorent2</bib>, <lok>unua parto, &ccirc;apitro
+        2a</lok></fnt>;
+      </ekz>
+      <ekz>
+        Ra&ubreve;mo estis en<tld/>igita kiel monda kulturhereda&jcirc;o de Unesko
+        <fnt>
+          <aut>Saliko</aut>
+          <vrk><url ref="&Monato;/2005/008609.php">Ra&ubreve;mo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/11, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li kalkulis tion la&ubreve; la a&gcirc;oj de la homoj en<tld/>igitaj en la genealogioj
+        <klr>[de]</klr> la Malnova Testamento
+        <fnt>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2009/009682.php">La Pendantaj &Gcirc;ardenoj estis son&gcirc;o</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/07, p. 21</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_n;&c_je;&c_s;&c_mol;&c_c;&c_ib; &c_w; <ind>&c_s;&c_mol;&c_p;&c_ib;&c_s;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>zapsat do seznamu</trd>,
+    <trd>za&rcaron;adit do seznamu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>listen</trd>,
+    <trd>auflisten</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>agregar a la <ind>lista</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ajouter &agrave; la <ind>liste</ind></trd>
+  </trdgrp>
+  <trd lng="ja">&#x8868;&#x306B;&#x8F09;&#x305B;&#x308B;  <pr>&#x304A;&#x3082;&#x3066;&#x306B;&#x306E;&#x305B;&#x308B;</pr></trd>
+  <trd lng="pl">wprowadzi&cacute; na <ind>list&eogonek;</ind></trd>
+  <trd lng="ro">pune pe <ind>list&abreve;</ind></trd>
+  <trd lng="sk">zap&iacute;sa&tcaron; do zoznamu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&#x43F;&c_i;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&#x43D;&#x43E;&c_s;&c_i;&c_t;&c_i;/&c_z;&c_a;&#x43D;&#x43E;&c_s;&c_i;&c_t;&c_i; &c_d;&#x43E; &c_s;&#x43F;&c_i;&c_s;&#x43A;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5217;&#x51FA; <pr>li&#xE8;ch&#x16B;</pr></trd>,
+    <trd>&#x7C59; <pr>l&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="list.atendo0o">
+  <kap>
+    atendo<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="list.0o.KOMUNE"><tld lit="L"/>o</ref> en kiun enskribi&gcirc;as atendantoj kaj
+      la&ubreve; kies ordo ili estas servataj:
+      <ekz>
+        kiam la publika financado redukti&gcirc;as, la servoj transformi&gcirc;as al atendo<tld/>oj
+        <fnt>
+          <bib>MD08</bib>
+          <vrk>En Rusujo, oni nun vivas malpli longe ol en 1990</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estas sur la atendo<tld/>o de pli ol dudek jaroj
+        <fnt>
+          <bib>MD08</bib>
+          <vrk>Dek Kvar Jaroj da Demokratio kaj Longa Atendo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        e&ccirc; en la &ccirc;efurbo la kutima, fiksa telefonservo estas celobjekto de plendoj, &ccirc;ar
+        la atendo<tld/>o de dezirantoj havi propran, hejman telefonaparaton &ccirc;iam
+        kreskas
+        <fnt>
+          <aut>Alberto Garc&iacute;a Fumero</aut>
+          <vrk><url ref="&Monato;/2009/009707.php">Servo alternative fiksita</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/03, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ni]</klr> aran&gcirc;is krediton por a&ccirc;eti sian novan <nom>Mazda</nom>, <klr>[&#x2026;]</klr> en
+        1980 oni devis registri sin sur la atendo<tld/>o por a&ccirc;eti &gcirc;in, ni havis la
+        prioritaton &ccirc;ar mia avo estis malsanulo
+        <fnt>
+          <bib>MD14</bib>
+          <vrk>La a&ubreve;tomobilo, instiganto de &leftquot;etbur&gcirc;aj deziroj&rightquot;</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="vic.atendo0o">atendovico</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_s; &c_ch;&c_a;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>
+  <trd lng="de">Warteliste</trd>
+  <trd lng="en">waiting list</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F85;&#x6A5F;&#x8005;&#x30EA;&#x30B9;&#x30C8;  <pr>&#x305F;&#x3044;&#x304D;&#x3057;&#x3083;&#x308A;&#x3059;&#x3068;</pr></trd>,
+    <trd>&#x9806;&#x756A;&#x5F85;&#x3061;&#x540D;&#x7C3F;  <pr>&#x3058;&#x3085;&#x3093;&#x3070;&#x3093;&#x307E;&#x3061;&#x3081;&#x3044;&#x307C;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5019;&#x8865;&#x540D;&#x5355; <pr>h&#xF2;ub&#x1D4;m&#xED;ngd&#x101;n</pr></trd>,
+    <trd>&#x5019;&#x88DC;&#x540D;&#x55AE; <pr>h&#xF2;ub&#x1D4;m&#xED;ngd&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="list.dissendo0o">
+  <kap>dissendo<tld/>o</kap>
+  <snc mrk="list.dissendo0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref cel="forum.0o.komp">Forumo</ref> en
+      <ref tip="malprt" cel="ret.komputila0o">komputila reto</ref>
+      funkcianta tiel, ke la mesa&gcirc;ojn senditajn al speciala retadreso,
+      tiea servilo a&ubreve;tomate plusendas al la <ctl>listanoj</ctl>,
+      a&ubreve; <ctl>abonantoj</ctl> (kies retadresojn &gcirc;i prenas en la
+      koncerna <ctl>dissenda <tld/>o</ctl>):
+      <ekz>
+        aboni dissendo<tld/>on pri mamkancero
+        <fnt>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2003/008177.html">Kia solvo por rubpo&scirc;to?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/11, p. 15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        verki tekstojn por nia dissendo<tld/>o pri interesaj vortoj de la rusa lingvo
+        <fnt>
+        <aut>Anna kaj Mati Pentus</aut>
+          <vrk><url ref="&Monato;/2002/007820.html">Monato sin prezentas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/06, p. 6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en nia dissendo<tld/>o estas pliaj 76 personoj (perantoj, kunlaborantoj,
+        redakcioj, la&ubreve;reatoj de konkursoj), kiuj ricevas la revuon senpage
+        <fnt>
+          <bib>LOdE</bib>
+          <aut>Aleksander Kor&jcirc;enkov</aut>
+          <vrk>&leftquot;La Ondo&rightquot; &ccirc;iam pli internacia</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_s; &c_r;&c_a;&c_s;&c_s;&c_y;&c_l;&c_k;&c_ib;</trd>
+  <trd lng="cs">seznam adres k rozesl&aacute;n&iacute;</trd>
+  <trdgrp lng="de">
+    <trd>Mailliste</trd>,
+    <trd>Verteilerliste</trd>
+  </trdgrp>
+  <trd lng="el">&lambda;&jota_ton;&sigma;&tau;&alfa; &tau;&alfa;&chi;&ypsilon;&delta;&rho;&omikron;&my;&epsilon;&jota;&omikron;&ypsilon_ton;</trd>
+  <trd lng="en">mailing list</trd>
+  <trd lng="es">lista de distribuci&oacute;n</trd>
+  <trd lng="fr">liste de diffusion</trd>
+  <trd lng="he">&resh;&shin;&yod;&mem;&tav; &tav;&pe;&vav;&tsadi;&he;</trd>
+  <trd lng="hu">levelez&eacute;si lista</trd>
+  <trd lng="ja">&#x30E1;&#x30FC;&#x30EA;&#x30F3;&#x30B0;&#x30EA;&#x30B9;&#x30C8;</trd>
+  <trd lng="nl">verzendlijst</trd>
+  <trdgrp lng="pl">
+    <trd>lista adresowa</trd>,
+    <trd>lista dystrybucyjna</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>list&abreve; de expediere po&#x219;tal&abreve;</trd>,
+    <trd>list&abreve; de email-uri</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_p;&c_i;&c_s;&c_o;&c_k; &c_r;&c_a;&c_s;&c_s;&c_y;&c_l;&c_k;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>mailov&aacute; <ind>konferencia</ind></trd>,
+    <trd>zoznam adries na rozoslanie</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&#x43F;&c_i;&c_s;&#x43E;&#x43A; &c_r;&#x43E;&c_z;&c_s;&c_i;&#x43B;&c_a;&#x43D;&#x43D;&#x44F; <klr>(&#x43B;&c_i;&c_s;&c_t;&c_ib;&c_v;
+  &c_ib; &c_t;.&#x43F;.)</klr></trd>
+  <trdgrp lng="zh">
+    <trd>&#x90AE;&#x4EF6;&#x5217;&#x8868; <pr>y&#xF3;uji&#xE0;nli&#xE8;bi&#x1CE;o</pr></trd>,
+    <trd>&#x90F5;&#x4EF6;&#x5217;&#x8868; <pr>y&#xF3;uji&#xE0;nli&#xE8;bi&#x1CE;o</pr></trd>,
+    <trd>&#x90AE;&#x5BC4;&#x540D;&#x5355; <pr>y&#xF3;uj&#xEC;m&#xED;ngd&#x101;n</pr></trd>,
+    <trd>&#x90F5;&#x5BC4;&#x540D;&#x55AE; <pr>y&#xF3;uj&#xEC;m&#xED;ngd&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="list.ligil0o">
+  <kap>ligil<tld/>o</kap>
+  <snc mrk="list.ligil0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="super" cel="list.0o.KOMP"><tld lit="L"/>o</ref> realigita tiel, ke &ccirc;iu &gcirc;ia ero
+      entenas
+      ligilon (referencon) al la tujsekva ero (unudirekta
+      ligil<tld/>o), a&ubreve; du ligilojn al la tujsekva ero kaj al la
+      &jcirc;usanta&ubreve;a (amba&ubreve;direkta ligil<tld/>o). La lasta listero
+      povas havi nulan (vakuan) referencon, a&ubreve; referenci la
+      komencon (ringa ligil<tld/>o):
+      <ekz>
+        &ccirc;ar la unusola disigebla datumtipo <klr>[de Picolisp]</klr> estas la
+        ligil<tld/>o, ekzistas multaj interuzeblaj funkcioj por trakti <tld/>ojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=306345">Picolisp</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas pluraj strategioj por solvi koliziojn <klr>[en hakettabelo]</klr>,
+        interalie per la metodo de pendaj ligil<tld/>oj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=525873">Hakettabelo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>seznam dat</trd>,
+    <trd>soubor dat</trd>
+  </trdgrp>
+  <trd lng="de">verkettete <ind>Liste</ind></trd>
+  <trd lng="en">linked list</trd>
+  <trd lng="es">lista enlazada</trd>
+  <trd lng="he">&resh;&shin;&yod;&mem;&he; &mem;&qof;&vav;&shin;&resh;&tav;</trd>
+  <trdgrp lng="hu">
+    <trd>kapcsolt lista</trd>,
+    <trd>l&aacute;ncolt lista</trd>
+  </trdgrp>
+  <trd lng="ja">&#x9023;&#x7D50;&#x30EA;&#x30B9;&#x30C8;  <pr>&#x308C;&#x3093;&#x3051;&#x3064;&#x30EA;&#x30B9;&#x30C8;</pr></trd>
+  <trd lng="pl">lista po&lstroke;&aogonek;czona</trd>
+  <trd lng="pt">lista encadeada</trd>
+  <trd lng="ro">list&abreve; legat&abreve;</trd>
+  <trd lng="ru">&c_c;&c_je;&c_p;&c_n;&c_o;&c_j; &c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>sp&aacute;jan&yacute; <ind>zoznam</ind></trd>,
+    <trd>zoznam d&aacute;t</trd>
+  </trdgrp>
+  <trd lng="uk">&c_z;&c_v;&#x2019;&#x44F;&c_z;&c_a;&#x43D;&c_i;&c_j; &c_s;&#x43F;&c_i;&c_s;&#x43E;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x93C8;&#x8868; <pr>li&#xE0;nbi&#x1CE;o</pr></trd>,
+    <trd>&#x94FE;&#x8868; <pr>li&#xE0;nbi&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="list.nigra_0o">
+  <kap>
+    nigra <tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="list.0o.KOMUNE"><tld lit="L"/>o</ref> de malpermesitaj, sankciumitaj
+      aferoj:
+      <ekz>
+        trafinte en nigran <tld/>on, en Germanio ne facile oni ricevas laboron
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        e&ccirc; nigra <tld/>o de &jcirc;urnalistoj <klr>[&#x2026;]</klr> taksitaj tro kritikemaj estis
+        farita por malebligi al ili aliron al grandaj &jcirc;urnaloj
+        <fnt>
+          <bib>MD17</bib>
+          <vrk>En Sud-Koreio, la fino de la dinastio Bak</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &Gcirc;ibraltaro estas en la nigra <tld/>o de OEKE
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+            <vrk><url ref="&Monato;/2000/007128.html">&Ccirc;u venos fino de la impostaj
+            paradizoj?</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 10</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        alia solvo, &ccirc;efe uzebla &ccirc;e servilo, estas nigraj <tld/>oj de retlokoj konataj
+        kiel sendantoj de rubpo&scirc;to
+        <fnt>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2003/008177.html">Kia solvo por rubpo&scirc;to?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/11, p. 15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ch;&c_o;&c_r;&c_n;&c_y; <ind>&c_s;&c_mol;&c_p;&c_ib;&c_s;</ind></trd>
+  <trd lng="de">Schwarze Liste</trd>
+  <trd lng="en">black list</trd>
+  <trd lng="ja">&#x30D6;&#x30E9;&#x30C3;&#x30AF;&#x30EA;&#x30B9;&#x30C8;</trd>
+  <trd lng="uk">&c_ch;&#x43E;&c_r;&#x43D;&c_i;&c_j; &c_s;&#x43F;&c_i;&c_s;&#x43E;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x9ED1;&#x540D;&#x5355; <pr>h&#x113;im&#xED;ngd&#x101;n</pr></trd>,
+    <trd>&#x9ED1;&#x540D;&#x55AE; <pr>h&#x113;im&#xED;ngd&#x101;n</pr></trd>
+  </trdgrp>
+</drv>
+
+
+</art>
+<!--
+$Log$
+versio 1.111 2023/10/19 14:32:17
+revo: transskribo per <pr>
+
+versio 1.109 2023/05/15 12:47:35
+Paul Peeraerts: + pluraj <lok>
+
+versio 1.108 2023/05/05 17:57:58
+revo: aktualigo URL-unuoj
+
+versio 1.107 2023/04/30 17:26:24
+Paul Peeraerts: Steloj -> monato
+
+versio 1.106 2023/01/16 06:35:00
+Dmitri Gabinski: + trd be
+
+versio 1.105 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.102 2021/07/11 15:33:04
+Wolfram Diestel: en~igi..ligil~o: ekz-oj, ref-oj
+
+versio 1.101 2021/07/11 13:28:42
+-->
+</vortaro>

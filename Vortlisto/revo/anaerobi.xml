@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: anaerobi.xml,v 1.5 2023/10/28 08:33:06 revo Exp $">
+<kap>
+  <rad>anaerobi</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="anaerobi.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="anaerobi.0a.KOMUNE">
+    <uzo tip="fak">BAK</uzo>
+    <dif>
+      <ref tip="dif" cel="aerobi.ne0a.KOMUNE">Neaerobia</ref>, senoksigena:
+      <ekz>
+        aerobiaj kaj <tld/>aj bakterioj
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://gxardeneto.chez-alice.fr/ex/kulturilo-1.html">
+          Terfaliga kulturilo</url></vrk>,
+          <lok>[2007]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la principo <klr>[&#x2026;]</klr> funkcias sen eligo de odora&ccirc;o, se la ekskrementoj
+        estas kovritaj de la anta&ubreve;e cititaj materioj, kiuj blokas la fermentadon
+        <tld/>an kaj komencas la kompo&scirc;tadon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=221747">Kompo&scirc;tiga necesejo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_n;&c_a;&c_e;&c_r;&c_o;&c_b;&c_n;&c_y;</trd>,
+      <trd>&c_b;&c_je;&c_s;&c_p;&c_a;&c_v;&c_je;&c_t;&c_r;&c_a;&c_v;&c_y;</trd>
+    </trdgrp>
+    <trd lng="de">anaerob</trd>
+    <trd lng="zh">&#x7F3A;&#x6C27; <pr>qu&#x113;y&#x1CE;ng</pr></trd>
+</snc>
+  <trdgrp lng="uk">
+    <trd>&c_a;&#x43D;&c_a;&c_je;&c_r;&#x43E;&c_b;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x44F;&#x43A;&c_i;&c_j; &c_r;&#x43E;&c_z;&c_v;&c_i;&c_v;&c_a;&c_jeu;&c_t;&#x44C;&c_s;&#x44F; &#x43F;&c_r;&c_i; &c_v;&c_ib;&c_d;&c_s;&c_u;&c_t;&#x43D;&#x43E;&c_s;&c_t;&c_ib;
+    &#x43A;&c_i;&c_s;&#x43D;&#x44E;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2022/06/06 08:34:17
+Dmitri Gabinski: + trd be
+
+Revision 1.1  2010/09/19 16:30:34  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

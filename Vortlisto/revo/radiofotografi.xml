@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: radiofotografi.xml,v 1.6 2022/07/25 11:30:20 revo Exp $">
+<kap>
+  <rad>radiofotografi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="radiofotografi.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">ARK</uzo>
+  <snc mrk="radiofotografi.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="dif" cel="radio.0o.SCI">Radiografio</ref>:
+      <ekz>
+        en radiofonio la elemento &leftquot;radio-&rightquot; aludas la elektromagnetajn ondojn, en
+        &leftquot;radiofotografio&rightquot; la tiel nomatajn iks-radiojn kaj en &leftquot;radiologio&rightquot; &gcirc;i aludas
+        la radiumon
+        <fnt>
+          <aut>Jouko Lindstedt</aut>
+          <vrk><url
+          ref="http://www.esperantic.org/wp-content/uploads/2015/09/Review-of-Esperanto-Grammar.pdf">Recenza
+          eseo</url></vrk>
+          <lok>Tria Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Radiogotografie</trd>
+  </snc>
+  <trd lng="ca">radiografia</trd>
+  <trd lng="fr">radiographie</trd>
+  <trd lng="nl">r&ouml;ntgenfotografie</trd>
+  <trd lng="pl">radiografia</trd>
+  <trd lng="ro">radiografie</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.6 2022/07/25 11:30:20
+Vito Redsky:  +trd pl  + trd ro 
+
+versio 1.5 2020/05/21 18:35:22
+Wolfram Diestel: +ekz, germ trd
+
+Revision 1.3  2012/07/20 08:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2009/07/08 16:31:17  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.1  2004/03/27 17:31:20  revo
+Jeromo Vasxe: nova artikolo
+-->
+</vortaro>

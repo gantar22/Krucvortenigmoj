@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dekad.xml,v 1.13 2023/11/04 13:16:26 revo Exp $">
+<kap>
+  <rad>dekad</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="dekad.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="dekad.0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      Tagdeko en kelkaj kalendaroj:
+      <ekz>
+        malfeli&ccirc;a knabino, &scirc;i ne vidis min preska&ubreve; du <tld/>ojn
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 18a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="semajn.0o.KAL">semajno <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_k;&c_a;&c_d;&c_a; <klr>(&c_k;&c_a;&c_l;&c_ja;&c_n;&c_d;&c_a;&c_r;&c_n;&c_a;&c_ja;)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>d&egrave;cada</trd>,
+    <trd>deu dies</trd>
+  </trdgrp>
+  <trd lng="cs">dek&#xE1;da</trd>
+  <trd lng="de">Dekade<klr tip="amb"> (zehn Tage)</klr></trd>
+  <trd lng="fr">d&eacute;cade<klr tip="amb"> (dix jours)</klr></trd>
+  <trd lng="he">&#x5E9;&#x5C1;&#x5B0;&#x5D7;&#x5B4;&#x5D9;&#x5EA;&#x5D5;&#x5BC;&#x5EA;</trd>
+  <trd lng="nl">decade</trd>
+  <trd lng="pl">dekada</trd>
+  <trd lng="pt">d&eacute;cada</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_k;&c_a;&c_d;&c_a;</trd>,
+    <trd>&c_d;&c_je;&c_s;&c_ja;&c_t;&c_i;&c_d;&c_n;&c_je;&c_v;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>10 denn&#xE9; obdobie</trd>,
+    <trd>dek&#xE1;da</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_je;&#x43A;&c_a;&c_d;&c_a;</trd>,
+    <trd>&c_d;&c_je;&c_s;&#x44F;&c_t;&c_i;&c_d;&c_je;&#x43D;&#x43A;&c_a;</trd>,
+    <trd>&c_d;&c_je;&c_s;&#x44F;&c_t;&c_i;&#x43B;&c_ib;&c_t;&c_t;&#x44F;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x65EC;&#x65E5; <pr>x&#xFA;nr&#xEC;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.12 2023/10/27 10:28:37
+Paul Peeraerts: + trd nl 
+
+versio 1.11 2023/10/26 09:24:05
+Dmitri Gabinski: + trd be
+
+Revision 1.7  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2012/09/04 08:10:21  revo
+Marc Rausell: + trd ca
+
+Revision 1.5  2007/07/19 16:31:07  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2007/06/19 16:31:27  revo
+Wieland Pusch: +trd de
+
+Revision 1.3  2005/05/29 18:41:20  revo
+Vito Redsky: +trd pl
+
+Revision 1.2  2005/05/24 16:34:47  revo
+-->
+</vortaro>

@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: medit.xml,v 1.31 2023/10/19 15:13:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>medit</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="medit.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <snc mrk="medit.0i.KOMUNE">
+    <dif>
+      Longe <ref tip="super" cel="pens.0i.ideo">pensi</ref>, fiksante
+      kaj koncentrante sian atenton; enprofundi&gcirc;i en pensado:
+      <ekz>
+        stomako malsata nur pri pano <tld/>as
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        atendis, <tld/>is, &gcirc;is en tombon englitis
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fidela servisto longe <tld/>is, kion fari
+        <fnt><bib>ElektFab</bib>, <lok>Fidela Johano</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>is, por kompreni &ccirc;i tion, sed &gcirc;i estis malfacila
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 73:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ne pri<tld/>as en sia koro, ne havas scion nek komprenon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 44:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la jura konsilisto apogis sian kapon sur la mano, profunde 
+        spiris kaj <tld/>is pri la tuta stranga&jcirc;o, kiun li vidis &ccirc;irka&ubreve; si
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>...</klr> reiris al sia &ccirc;ambro por <tld/>i sian
+        paroladon al la &jcirc;urio
+        <fnt><bib>DOz</bib>, <lok>&leftquot;La Proceso kontra&ubreve; la Katido
+        He&ubreve;reka&rightquot;</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="absorb.0i">absorbi</ref>,
+      <ref cel="cerb.0umi">cerbumi</ref>,
+      <ref cel="pens.en0igxi">enpensi&gcirc;i</ref>,
+      <ref cel="pens.pri0i">pripensi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_d;&c_y;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bo">&t_sa;&t_gata;&t_naro;&t_ma;&t_tsheg;</trd>
+  <trd lng="ca">meditar</trd>
+  <trdgrp lng="cs">
+    <trd>dumat</trd>,
+    <trd>hloubat</trd>,
+    <trd>meditovat</trd>,
+    <trd>usilovn&ecaron; p&rcaron;em&yacute;&scaron;let</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>meditieren</trd>,
+    <trd>nachdenken</trd>
+  </trdgrp>
+  <trd lng="en">meditate</trd>
+  <trd lng="es">meditar</trd>
+  <trd lng="fr">m&eacute;diter</trd>
+  <trdgrp lng="hu">
+    <trd>elm&eacute;lkedik</trd>,
+    <trd>medit&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8003;&#x3048;&#x8FBC;&#x3080;  <pr>&#x304B;&#x3093;&#x304C;&#x3048;&#x3053;&#x3080;</pr></trd>,
+    <trd>&#x601D;&#x7D22;&#x3059;&#x308B;  <pr>&#x3057;&#x3055;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x9ED9;&#x60F3;&#x3059;&#x308B;  <pr>&#x3082;&#x304F;&#x305D;&#x3046;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x7791;&#x60F3;&#x3059;&#x308B;  <pr>&#x3081;&#x3044;&#x305D;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>pijnzen</trd>,
+    <trd>mediteren</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>medytowa&cacute;</trd>,
+    <trd>rozmy&sacute;la&cacute;</trd>,
+    <trd>rozwa&zdot;a&cacute;</trd>,
+    <trd>duma&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">meditar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_m;&c_y;&c_sh;&c_l;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_m;&c_je;&c_d;&c_i;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_d;&c_u;&c_m;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>meditova&tcaron;</trd>,
+    <trd>rozj&iacute;ma&tcaron;</trd>,
+    <trd>zam&yacute;&scaron;&lcaron;a&tcaron; sa</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_ib;&c_r;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_b;&#x43C;&c_ib;&c_r;&#x43A;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43C;&c_je;&c_d;&c_i;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="medit.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="medit.0o.meditado">
+    <dif>
+      <ref tip="dif" cel="medit.0ado.KOMUNE"><tld lit="M"/>ado</ref>:
+      <ekz>
+        kontra&ubreve; faro farita ne helpas <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u de la asketa vivo, &ccirc;u de la kunestado kun la sa&gcirc;aj pastroj, &ccirc;u eble de la longaj
+        <tld/>oj, la princo &scirc;an&gcirc;i&gcirc;is
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e &ccirc;iuj tiuj <tld/>oj mi forgesis la tempon kaj horon
+        <fnt><bib>Fab4</bib>, <lok>Turgardisto Ole, Unua
+        Vizito</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="bo">&t_sa;&t_gata;&t_naro;&t_ma;&t_tsheg;</trd>
+    <trd lng="ca">meditaci&oacute;</trd>
+    <trdgrp lng="pl">
+      <trd>medytacja</trd>,
+      <trd>zamy&sacute;lenie</trd>,
+      <trd>rozmy&sacute;lania</trd>,
+      <trd>rozwa&zdot;ania</trd>,
+      <trd>zaduma</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="medit.0o.meditajxo">
+    <dif>
+      <tld lit="M"/>a&jcirc;o, temo, kiun oni pripensas:
+      <ekz>
+        la maljunulo per &ccirc;iuj siaj pensoj kaj <tld/>oj alkro&ccirc;i&gcirc;is al sia mono
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fremda <tld/>o estas ka&scirc;ita
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">pensament</trd>
+    <trd lng="de">Gedanken</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_d;&c_y;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>meditace</trd>,
+    <trd>p&rcaron;em&iacute;t&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Meditation</trd>
+  <trd lng="en">meditation</trd>
+  <trd lng="fr">m&eacute;ditation</trd>
+  <trdgrp lng="ja">
+    <trd>&#x601D;&#x7D22;  <pr>&#x3057;&#x3055;&#x304F;</pr></trd>,
+    <trd>&#x9ED9;&#x60F3;  <pr>&#x3082;&#x304F;&#x305D;&#x3046;</pr></trd>,
+    <trd>&#x7791;&#x60F3;  <pr>&#x3081;&#x3044;&#x305D;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">medit&aacute;cia</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_ib;&c_r;&#x43A;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43C;&c_je;&c_d;&c_i;&c_t;&c_a;&c_c;&c_ib;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="medit.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="medit.0ado.KOMUNE">
+    <dif>
+      Longa, absorba pensado:
+      <ekz>
+        dum <tld/>ado pri la vizioj de la nokto, kiam profunda dormo falas 
+        sur la homojn, atakis min teruro kaj tremo kaj &ccirc;iuj miaj ostoj eksentis timon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 4:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        apud la tablo, kovrita de geografiaj kartoj, sidas en profunda
+        <tld/>ado la granda admiralo de Hispanujo, Kristoforo Kolumbo
+        <fnt><bib>FK</bib>, <lok>4, Rakontoj, Nokto, (de Eube el
+        Odeso)</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_d;&c_y;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="bo">&t_sa;&t_gata;&t_naro;&t_ma;&t_tsheg;</trd>
+  <trd lng="ca">meditaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>rozj&iacute;m&aacute;n&iacute;</trd>,
+    <trd>uva&zcaron;ov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Nachdenken</trd>
+  <trd lng="en">meditation</trd>
+  <trd lng="fr">m&eacute;ditation</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6C88;&#x601D;&#x9ED9;&#x8003;  <pr>&#x3061;&#x3093;&#x3057;&#x3082;&#x3063;&#x3053;&#x3046;</pr></trd>,
+    <trd>&#x9ED9;&#x60F3;  <pr>&#x3082;&#x304F;&#x305D;&#x3046;</pr></trd>,
+    <trd>&#x7791;&#x60F3;  <pr>&#x3081;&#x3044;&#x305D;&#x3046;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>medytacja</trd>,
+    <trd>zamy&sacute;lenie</trd>,
+    <trd>rozmy&sacute;lania</trd>,
+    <trd>rozwa&zdot;ania</trd>,
+    <trd>zaduma</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>meditovanie</trd>,
+    <trd>rozj&iacute;manie</trd>,
+    <trd>uva&zcaron;ovanie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_ib;&c_r;&#x43A;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43C;&c_je;&c_d;&c_i;&c_t;&c_a;&c_c;&c_ib;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="medit.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="medit.0ema.PSI">
+    <dif>
+      Momente a&ubreve; karaktere inklina al pensado, al <tld/>o:
+      <ekz>
+        mi kantos al vi, por ke vi fari&gcirc;u gaja, sed samtempe anka&ubreve; <tld/>ema
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La najtingalo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        profunde enpensa kaj <tld/>ema li estis, kaj tial li denove
+        rememoris la tri nuksojn, kiujn li kiel infano ricevis de la ciganino
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Ib kaj malgranda kristino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Anno-Doroteo, <klr>...</klr> nur dekkvarjara infano, estis
+        silentema kaj <tld/>ema
+        <fnt><bib>Fab4</bib>, <lok>La Vento Rakontas pri Valdemaro Doe
+        kaj pri liaj filinoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_d;&c_u;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_z;&c_a;&c_d;&c_u;&c_m;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>meditatiu</trd>,
+    <trd>pensar&oacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hloubav&yacute;</trd>,
+    <trd>p&rcaron;em&iacute;tav&yacute;</trd>,
+    <trd>rozj&iacute;mav&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>nachdenklich</trd>,
+    <trd>still</trd>
+  </trdgrp>
+  <trd lng="en">meditative</trd>
+  <trd lng="fr">m&eacute;ditatif</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8003;&#x3048;&#x8FBC;&#x307F;&#x304C;&#x3061;&#x306A;  <pr>&#x304B;&#x3093;&#x304C;&#x3048;&#x3053;&#x307F;&#x304C;&#x3061;&#x306A;</pr></trd>,
+    <trd>&#x7791;&#x60F3;&#x7684;&#x306A;  <pr>&#x3081;&#x3044;&#x305D;&#x3046;&#x3066;&#x304D;&#x306A;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>h&lacute;bav&yacute;</trd>,
+    <trd>premietav&yacute;</trd>,
+    <trd>rozj&iacute;mav&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_h;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&c_j; &c_d;&#x43E; &#x43C;&c_ib;&c_r;&#x43A;&c_u;&c_v;&c_a;&#x43D;&#x44C;</trd>,
+    <trd>&c_z;&c_a;&#x43C;&c_i;&c_s;&#x43B;&c_je;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="medit.0inda">
+  <kap><tld/>inda</kap>
+  <snc mrk="medit.0inda.KOMUNE">
+    <dif>
+      Kiu estas profite pripensinda:
+      <ekz>
+        90&nbsp;% de ilia valoro estas ne la laboro por krei ilin, 
+        sed por kredigi al la uzantoj, ke ili estas normaj <klr>[&#x2026;]</klr> 
+        <tld/>inda por esperantistoj, &ccirc;u ne
+        <fnt>
+          <aut>J.S. Brilleaud</aut>
+            <vrk><url ref="&Monato;/2000/007082.php">Komputiko kaj Esperanto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 4</lok>
+          </fnt>?
+      </ekz>
+      <ekz>
+        itala leganto la&ubreve;dis, ke &#x201A;Sova&gcirc;a Herbaro&#x2018; estas verko kun 
+        humaneco kaj eduka signifo, kaj &gcirc;ia granda lerteco de verkado 
+        estas <tld/>inda
+        <fnt>
+          <aut>Hou Zhiping</aut>,
+          <vrk><url ref="http://www.espero.com.cn/old/epch/05e/05e-03k/esperantujo3-10h.htm">
+          Bonaj memora&jcirc;oj por esperantistoj</url></vrk>,
+          <lok>El Popola &Ccirc;inio, [2009?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_r;&c_t;&c_y; <ind>&c_a;&c_b;&c_d;&c_u;&c_m;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
+  <trd lng="de">bedenkenswert</trd>
+  <trd lng="fr">appr&eacute;ciable</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2023/10/19 15:13:16
+revo: transskribo per <pr>
+
+versio 1.29 2023/05/04 08:31:31
+Dmitri Gabinski: + trd be
+
+versio 1.28 2023/04/30 18:29:24
+Paul Peeraerts: Steloj -> monato
+
+versio 1.27 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2021/04/19 07:02:29
+Dmitri Gabinski: +trd be
+
+versio 1.24 2020/12/29 11:10:35
+Aleks Andre: +trd bo
+
+Revision 1.22  2017/02/14 16:10:20  revo
+Jeromo Vasxe: Sovagha -> Sovagxa
+
+Revision 1.21  2015/12/19 23:10:18  revo
+-->
+</vortaro>

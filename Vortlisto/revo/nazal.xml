@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: nazal.xml,v 1.29 2023/10/19 20:12:29 revo Exp $">
+<kap>
+  <rad>nazal</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="nazal.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FON</uzo>
+  <snc mrk="nazal.0o.sono">
+    <dif>
+      <ref tip="dif" cel="naz.0sono.FON">Nazsono</ref>:
+      <ekz>
+        la verko ja postulas regon de ampleksa vort-trezoro <klr>[&#x2026;]</klr> troveblas
+        lingvaj juveletoj, kiaj <klr>[&#x2026;]</klr> &leftquot;tutrutine <tld/>nazas&#x201D;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan MacGill</aut>
+          <vrk><url ref="&Monato;/2013/010739.php">Bonvena aperigo en malkutima &gcirc;enro</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">nasale<klr tip="ind"> (consonne ou
+    voyelle)</klr></trd>
+  </snc>
+  <snc mrk="nazal.0o.FON">
+    <dif>
+      <ref tip="dif" cel="naz.0akonsonanto">Naza konsonanto</ref>:
+      <ekz>
+        bilabiala <tld/>o <klr>[&#x2026;]</klr> estas <klr>[prononcata]</klr> per amba&ubreve; lipoj,
+        <klr>[dum]</klr> aero eliras tra la nazo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=578342">Bilabiala nazalo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">nasal consonant</trd>
+    <trd lng="pt">nasal <klr>(consoante)</klr></trd>
+  </snc>
+  <ref tip="vid" cel="busx.0a.FON">bu&scirc;a</ref>   
+  <rim mrk="nazal.0o.RIM_SNC">
+    Kvankam la plej multaj homoj kaj esperantaj vortaroj opinias,
+    ke ekzistas vokaloj, kiuj estas nazaloj (kiel ekzemple la
+    francaj
+    vokaloj skribitaj per an, in, un, on), tio ne estas la kazo.
+    Vokaloj &dash; la&ubreve; la difino de nazaloj &dash; povas neniam esti nazaloj.
+    Ili povas esti nur nazaligitaj a&ubreve; nazalecaj, kio signifas,
+    ke ekzistas nur kroma prononcado per la nazo.
+    Kontraste al tio, nazalo estas komplete prononcata per la nazo.
+    <aut>UF</aut>
+  </rim>
+  <adm>
+    Mi opinias forigenda la rimarkon de UF. &Gcirc;i argumentas kontra&ubreve;
+    la &gcirc;enerala uzo de &leftquot;nazalo&rightquot; surbaze de ties difino &mdash; sed tio
+    probable signifas ke la koncerna difino estas maltrafa.
+    Cetere, tiu rimarko atestas, ke la &jcirc;argona termino &leftquot;nazalo&rightquot;
+    estas konfuza, kaj ke la skemismaj terminoj &leftquot;nazsono&rightquot;,
+    &leftquot;naza vokalo&rightquot; kaj &leftquot;naza konsonanto&rightquot; estas pli precizaj kaj
+    klaraj.
+    Cetere, la aserto ke &leftquot;nazalo estas komplete prononcata per la
+    nazo&rightquot; estas dubinda &mdash; kial do /m/ kaj /n/ sonas malsame?
+    <aut>Sergio</aut>
+  </adm>
+  <trd lng="be">&c_n;&c_a;&c_s;&c_a;&c_v;&c_y; &c_g;&c_u;&c_k;</trd>
+  <trd lng="ca">nasal <klr>(fon.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>naz&aacute;la</trd>,
+    <trd>nosovka</trd>,
+    <trd>nosovky</trd>
+  </trdgrp>  
+  <trd lng="de">Nasal</trd>
+  <trd lng="es">nasal</trd>
+  <trd lng="fa">&a_h;&a_m;&a_kh;&a_w;&a_A;&a_n; <ind>&a_kh;&f_y;&a_sh;&a_w;&a_m;&f_y;</ind></trd>
+  <trdgrp lng="hu">
+    <trd>orrhang</trd>,
+    <trd>naz&aacute;lis</trd>
+  </trdgrp>
+  <trd lng="ja">&#x9F3B;&#x97F3;  <pr>&#x3073;&#x304A;&#x3093;</pr></trd>
+  <trd lng="nl">neusklank</trd>
+  <trd lng="pl">sp&oacute;&lstroke;g&lstroke;oska nosowa</trd>
+  <trd lng="ro">consoan&abreve; nazal&abreve;</trd>
+  <trd lng="sk">nosov&aacute; kos&tcaron;</trd>
+
+  <trd lng="uk">&#x43D;&#x43E;&#x441;&#x43E;&#x432;&#x438;&#x439; &#x437;&#x432;&#x443;&#x43A;</trd>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.29 2023/10/19 20:12:29
+revo: transskribo per <pr>
+
+versio 1.26 2021/02/27 23:11:02
+Vito Redsky: +trd pl +trd ro
+
+  Revision 1.24  2018/12/01 14:10:15  revo
+  Wolfram Diestel: +ekz-oj
+
+  Revision 1.23  2015/07/04 08:37:40  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.22  2015/06/29 16:33:21  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.21  2015/01/02 13:10:36  revo
+  Damien Brucker: -eraro cxe ref en snc 2
+
+  Revision 1.20  2015/01/01 12:10:18  revo
+  Sergio Pokrovskij: ref-dif
+
+  Revision 1.19  2014/01/02 13:10:16  revo
+-->
+</vortaro>

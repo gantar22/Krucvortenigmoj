@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: verb.xml,v 1.111 2023/12/12 20:10:29 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>verb</rad>/o <fnt><bib>VdE</bib></fnt>
+</kap>
+<drv mrk="verb.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="verb.0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Vorto prezentanta agon, okaza&jcirc;on a&ubreve; staton,
+      kaj ludanta &ccirc;efan rolon en propozicio, ekzemple
+      <ctl>esti</ctl>, <ctl>agu</ctl>, <ctl>frapos</ctl>:
+      <ekz>
+        se ni pri ia <tld/>o ne scias, &ccirc;u &gcirc;i postulas post si
+        la akuzativon <klr>...</klr>, ni povas &ccirc;iam uzi la
+        akuzativon
+        <fnt><bib>F</bib> <lok>&FE; 29</lok></fnt>.
+      </ekz>
+    </dif>
+  <refgrp tip="vid">
+    <ref cel="infini2.0o">infinitivo</ref>,
+    <ref cel="lig.0verbo">ligverbo</ref>,
+    <ref cel="transi1.ne0a">netransitiva</ref>,
+    <ref cel="transi1.0a">transitiva</ref>
+  </refgrp>
+  </snc>
+  <trd lng="af">werkwoord</trd>
+  <trd lng="am">&#x130D;&#4661;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_f;&a_ayn;&a_l;</trd>
+  <trd lng="be">&c_d;&c_z;&c_je;&c_ja;&c_s;&c_l;&c_o;&c_w;</trd>
+  <trd lng="bg">&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;</trd>
+  <trd lng="bn">&#2453;&#x9CD;&#x9B0;&#x9BF;&#x9AF;&#x9BC;&#x9BE;</trd>
+  <trd lng="bo">&#xF56;&#xFB1;&#xF0B;&#xF5A;&#xF72;&#xF42;&#xF0B;</trd>
+  <trd lng="bs">glagol</trd>
+  <trd lng="ca">verb</trd>
+  <trd lng="co">verbo</trd>
+  <trd lng="cs">sloveso</trd>
+  <trd lng="cy">berf</trd>
+  <trd lng="da">verbum</trd>
+  <trd lng="de">Verb</trd>
+  <trd lng="el">&rho;&eta_ton;&my;&alfa;</trd>
+  <trd lng="en">verb</trd>
+  <trd lng="es">verbo</trd>
+  <trd lng="et">verb</trd>
+  <trd lng="eu">aditza</trd>
+  <trd lng="fa">&a_f;&a_ayn;&a_l;<klr tip="ind"> (&a_d;&a_s;&a_t;&a_w;&a_r; &a_z;&a_b;&a_A;&a_n;)</klr></trd>
+  <trd lng="fr">verbe</trd>
+  <trd lng="fy">tiidwurd</trd>
+  <trd lng="ga">briathar</trd>
+  <trd lng="gd">gn&#xEC;omhair</trd>
+  <trd lng="gl">verbo</trd>
+  <trd lng="gu">&#xA95;&#xACD;&#xAB0;&#xABF;&#xAAF;&#xABE;&#xAAA;&#xAA6;</trd>
+  <trd lng="ha">fi&#8217;ili</trd>
+  <trd lng="hi">&#2325;&#x94D;&#2352;&#x93F;&#x92F;&#x93E;</trd>
+  <trd lng="hmn">Nqe lus</trd>
+  <trd lng="hr">glagol</trd>
+  <trd lng="ht">v&#xE8;b</trd>
+  <trd lng="hu">ige</trd>
+  <trd lng="hy">&#1378;&#1377;&#1397;</trd>
+  <trd lng="ig">ngwaa</trd>
+  <trd lng="is">s&#xF6;gn</trd>
+  <trd lng="it">verbo</trd>
+  <trd lng="ja">&#x52D5;&#x8A5E; <pr>&#12393;&#12358;&#12375;</pr></trd>
+  <trd lng="jv">kriyo</trd>
+  <trd lng="ka">&#x10D6;&#x10DB;&#x10DC;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&c_je;&c_t;&c_ib;&c_s;&c_t;&c_ib;&#x43A;</trd>
+  <trd lng="km">&#6016;&#x17B7;&#x179A;&#x17B7;&#6041;&#x17B6;&#x179F;&#6038;&#x17D2;&#6033;</trd>
+  <trd lng="kn">&#xC95;&#xCCD;&#xCB0;&#xCBF;&#xCAF;&#xCBE;&#xCAA;&#xCA6;</trd>
+  <trd lng="ko">&#xB3D9;&#xC0AC;</trd>
+  <trd lng="ku">l&#xEA;ker</trd>
+  <trd lng="ky">&#x44D;&c_t;&c_i;&c_sh;</trd>
+  <trd lng="la">verbum</trd>
+  <trd lng="lat">verbo</trd>
+  <trd lng="lo">&#xE9E;&#xEB2;</trd>
+  <trd lng="lt">veiksma&#x17E;odis</trd>
+  <trd lng="lv">darb&#x12B;bas v&#257;rds</trd>
+  <trd lng="mg">ny matoanteny amin&#8217;ny</trd>
+  <trd lng="mk">&c_g;&#x43B;&c_a;&c_g;&#x43E;&#x43B;</trd>
+  <trd lng="ml">&#xD15;&#xD4D;&#xD30;&#xD3F;&#xD2F;</trd>
+  <trd lng="mn">&#x4AF;&c_j;&#x43B; &#x4AF;&c_g;</trd>
+  <trd lng="mr">&#2325;&#x94D;&#2352;&#x93F;&#x92F;&#x93E;&#x92A;&#2342;</trd>
+  <trd lng="ms">kata kerja</trd>
+  <trd lng="mt">li</trd>
+  <trd lng="my">&#4096;&#x103C;&#x102D;&#x101A;&#x102C;</trd>
+  <trd lng="ne">&#2325;&#x94D;&#2352;&#x93F;&#x92F;&#x93E;</trd>
+  <trd lng="nl">werkwoord</trd>
+  <trd lng="ny">mneni</trd>
+  <trd lng="pa">&#xA15;&#xA4D;&#xA30;&#xA3F;&#xA06;</trd>
+  <trd lng="pl">czasownik</trd>
+  <trd lng="ps">&a_f;&a_ayn;&a_l;</trd>
+  <trd lng="pt">verbo</trd>
+  <trd lng="ru">&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;</trd>
+  <trd lng="rw">inshinga</trd>
+  <trd lng="sd">&a_f;&a_ayn;&a_l;</trd>
+  <trd lng="si">&#xD9A;&#xDCA;&#xDBB;&#xDD2;&#xDBA;&#xDCF;
+  &#xDB4;&#xDAF;&#xDBA;&#xDD9;&#xDB1;&#xDCA;</trd>
+  <trd lng="sk">sloveso</trd>
+  <trd lng="sl">glagol</trd>
+  <trd lng="sm">veape</trd>
+  <trd lng="sn">chiito</trd>
+  <trd lng="so">falka</trd>
+  <trd lng="sq">folje</trd>
+  <trd lng="st">leetsi</trd>
+  <trd lng="su">kecap pagawean</trd>
+  <trd lng="sw">kitenzi</trd>
+  <trd lng="ta">&#xBB5;&#xBBF;&#xBA9;&#xBC8;</trd>
+  <trd lng="te">&#xC15;&#xC4D;&#xC30;&#xC3F;&#xC2F;</trd>
+  <trd lng="tg">&c_f;&c_je;&#x44A;&#x43B;</trd>
+  <trd lng="th">&#xE04;&#xE33;&#xE01;&#xE23;&#xE34;&#xE22;&#xE32;</trd>
+  <trd lng="tl">pandiwa</trd>
+  <trd lng="tr">fiil</trd>
+  <trd lng="tt">&c_f;&c_i;&c_g;&c_y;&c_l;&c_mol;</trd>
+  <trd lng="uk">&c_d;&c_ib;&c_jeu;&c_s;&c_l;&c_o;&c_v;&c_o;</trd>
+  <trd lng="ur">&a_f;&a_ayn;&a_l;</trd>
+  <trd lng="uz">fe&#8217;l</trd>
+  <trd lng="vi">&#273;&#x1ED9;ng t&#x1EEB;</trd>
+  <trd lng="xh">isenzi</trd>
+  <trd lng="yi">&#x5D5;&#x5D5;&#x5E2;&#x5E8;&#x5D1;</trd>
+  <trd lng="yo">&#x1ECD;r&#x1ECD;&#xEC;se</trd>
+  <trd lng="zu">sento</trd>
+</drv>
+
+<drv mrk="verb.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="verb.0igi.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      &Scirc;an&gcirc;i la kategorion de vorto al la <tld/>a:
+      <ekz>
+        multaj adjektivoj povas esti senpere <tld/>igitaj;
+        ekzemploj abundas en la parolata Esperanto:
+        el <ctl>sata</ctl> venas <ctl>mi malsatas</ctl>;
+        el <ctl>necesa</ctl> esti&gcirc;as <ctl>tio ne necesas</ctl>
+        <fnt>
+          <aut>C. O. Kiselman</aut>
+          <vrk><url ref="http://www.cb.uu.se/~kiselman/transitiv.pdf">
+          Transitivaj kaj netransitivaj verboj en Esperanto</url></vrk>
+          <lok>[1994?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol; <ind>&c_d;&c_z;&c_je;&c_ja;&c_s;&c_l;&c_o;&c_w;</ind></trd>
+  <trd lng="fr">convertir en <ind>verbe</ind></trd>
+  <trd lng="ja">&#x52D5;&#x8A5E;&#21270;&#12377;&#x308B;  <pr>&#12393;&#12358;&#12375;&#x304B;&#12377;&#x308B;</pr></trd>
+  <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol; <ind>&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_t;&c_v;&c_o;&c_r;&c_ju;&c_v;&c_a;&c_t;&c_i; &c_d;&c_ib;&c_jeu;&c_s;&c_l;&c_o;&c_v;&c_o;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_b;&c_a;&c_l;&c_ib;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="verb.ag0o">
+  <kap>ag<tld/>o <fnt><bib>PAG</bib></fnt></kap>
+  <uzo tip="fak">GRA</uzo>
+  <snc>
+    <dif>
+      <tld lit="V"/>o esprimanta agon:
+      <ekz>
+        &Ccirc;i tiuj difinoj atentas la diferencon inter ag<tld/>oj (ekz-e
+        <ctl>la kato <em>man&gcirc;as</em></ctl>) kaj stat<tld/>oj (ekz-e
+        <ctl>la knabo <em>ku&scirc;as</em></ctl>)
+        <fnt><aut>Sergio Pokrovskij</aut>: <vrk>Aspektoj</vrk>.
+          <bib>LOdE</bib>, <lok>&#8470;293 (2019:3)</lok></fnt>;
+      </ekz><ekz>
+        La unua similas al ag<tld/>o (ekz-e helpi), la dua al
+        stat<tld/>o (ekz-e ripozi)
+        <fnt><bib>PAG</bib>, <lok>&para;299, p. 405.</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="ant" cel="verb.stat0o">stat<tld/>o</ref>
+  <trd lng="de">T&auml;tigkeitsverb</trd>
+  <trd lng="en">dynamic <ind>verb</ind></trd>
+  <trd lng="fr">verbe d'action</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_l;&c_a;&c_g;&c_o;&c_l; &c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_ja;</trd>,
+    <trd>&c_d;&c_i;&c_n;&c_a;&c_m;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; <ind>&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="verb.dauxr0o">
+  <kap>da&ubreve;r<tld/>o <fnt><bib>PAG</bib></fnt></kap>
+  <uzo tip="fak">GRA</uzo>
+  <snc mrk="verb.dauxr0o.senrezulta">
+    <dif>
+      <ref tip="sub" cel="verb.stat0o">Stat<tld/>o</ref> a&ubreve; tia
+      <ref cel="verb.ag0o">ag<tld/>o</ref> kiu esprimas agon kiel
+      da&ubreve;rantan sen implici rezulton, plenumi&gcirc;on a&ubreve; finan staton:
+      <ekz>
+        la da&ubreve;r<tld/>oj esprimas nur la procezon a&ubreve; staton
+        <fnt><aut>Sergio Pokrovskij</aut>: <vrk>Aspektoj</vrk>.
+          <bib>LOdE</bib>, <lok>&#8470;293 (2019:3)</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="verb.rezult0o">rezult<tld/>o</ref>
+    <ref tip="vid" cel="perfektiv.mal0o">malperfektivo</ref>
+    <trd lng="en">atellic <ind>verb</ind></trd>
+    <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;</ind></trd>
+  </snc>
+</drv>
+
+<drv mrk="verb.help0o">
+  <kap>help<tld/>o <fnt><bib>PIV2</bib></fnt></kap>
+  <uzo tip="fak">GRA</uzo>
+  <snc>
+    <dif>
+      <tld lit="V"/>o sen propra signifo leksika, uzata en kombino kun
+      &ccirc;ef<tld/>o por aldoni informojn gramatikajn a&ubreve; funkciajn, kiaj
+      tenso, vo&ccirc;o, modo, aspekto ktp:
+      <ekz>
+        Per la hel<tld/>o <ctl>esti</ctl> kaj diversaj participoj, oni
+        povas esprimi tre ekzakte diversajn nuancojn de modo, tempo,
+        da&ubreve;ro, plenumi&gcirc;o k.t.p. <fnt><bib>PMEG</bib></fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_p;&c_a;&c_m;&c_o;&c_zh;&c_n;&c_y; <ind>&c_d;&c_z;&c_je;&c_ja;&c_s;&c_l;&c_o;&c_w;</ind></trd>
+  <trd lng="en">auxiliary <ind>verb</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x88DC;&#x52A9;&#x52D5;&#x8A5E;  <pr>&#x307B;&#12376;&#12423;&#12393;&#12358;&#12375;</pr></trd>,
+    <trd>&#x52A9;&#x52D5;&#x8A5E;  <pr>&#12376;&#12423;&#12393;&#12358;&#12375;</pr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_s;&c_p;&c_o;&c_m;&c_o;&c_g;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;</ind></trd>
+  <trd lng="uk">&c_d;&c_o;&c_p;&c_o;&c_m;&c_ib;&c_zh;&c_n;&c_je; &c_d;&c_ib;&c_jeu;&c_s;&c_l;&c_o;&c_v;&c_o;</trd>
+</drv>
+
+<drv mrk="verb.rezult0o">
+  <kap>rezult<tld/>o <fnt><bib>PAG</bib></fnt></kap>
+  <uzo tip="fak">GRA</uzo>
+  <snc mrk="verb.rezult0o.gxenerale">
+    <dif>
+      <ref tip="super" cel="verb.ag0o">Ag<tld/>o</ref> kiu esprimas
+      la agon kiel limigitan per ia fina, rezulta stato, kies atingo
+      malebligas pluigon de la ago:
+      <ekz>
+        La verbojn de da&ubreve;ro sen rezulto oni povas transformi en
+        rezult<tld/>ojn per la prefiksoido ek &mdash; tiaokaze la rezulto
+        de la ago-komenco (ek-verbo) estas la ago-da&ubreve;ro mem
+        <fnt><bib>PAG</bib>, <lok>&para;110, p. 146.</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="verb.dauxr0o.senrezulta">da&ubreve;r<tld/>o</ref>
+    <ref tip="vid" cel="perfektiv.0o">perfektivo</ref>
+    <trd lng="en">tellic verb</trd>
+    <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;</ind></trd>
+  </snc>
+</drv>
+
+<drv mrk="verb.stat0o">
+  <kap>stat<tld/>o <fnt><bib>PAG</bib></fnt></kap>
+  <uzo tip="fak">GRA</uzo>
+  <snc>
+    <dif>
+      <tld lit="V"/>o esprimanta staton:
+      <ekz>
+        Tamen <ctl>kosti</ctl> ne estas pasivigebla, &gcirc;i &scirc;ajne estas
+        stat<tld/>o simila al <ctl>pezi</ctl> kaj <ctl>alti</ctl>
+        <fnt><aut>SDonald Evan ROGERS</aut>:
+          <vrk>Vortaroj devus klare montri pasivigeblecon</vrk>.
+          <lok>Scienca Revuo, 2008:02, p. 79</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="ant" cel="verb.ag0o">ag<tld/>o</ref>
+  <trd lng="de">Zustandsverb</trd>
+  <trd lng="en">stative <ind>verb</ind></trd>
+  <trd lng="fr">verbe d'&eacute;tat</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_l;&c_a;&c_g;&c_o;&c_l; &c_s;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_ja;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; <ind>&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.111 2023/12/12 20:10:29
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.110 2023/11/19 03:26:22
+Sergio Pokrovskij: fnt
+
+versio 1.109 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.107 2023/08/29 18:31:05
+Wolfram Diestel: ja: prononco
+
+versio 1.106 2022/11/29 07:26:59
+Sergio Pokrovskij: -tajperaro, +TEZ
+
+versio 1.105 2022/11/29 04:35:19
+Sergio Pokrovskij: +fnt
+
+versio 1.104 2022/05/06 12:17:21
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.103 2022/05/04 07:30:24
+-->
+</vortaro>

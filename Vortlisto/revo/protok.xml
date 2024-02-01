@@ -1,0 +1,426 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: protok.xml,v 1.99 2023/10/20 16:38:17 revo Exp $">
+<kap>
+  <ofc>1</ofc> <rad>protokol</rad>/o
+</kap>
+<drv mrk="protok.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="protok.0o.raporto">
+    <dif>
+      Oficiala <ref tip="super" cel="raport.0o.dokumenta">raporto</ref>,
+      per kiu rajtigita a&ubreve; kompetenta persono konstatas, kion li faris,
+      vidis, a&ubreve;skultis:
+      <ekz>
+        fari <tld/>on pri &scirc;telado, arestado;
+      </ekz>
+      <ekz>
+        legi, akcepti la <tld/>on de la anta&ubreve;a kunsido;
+      </ekz>
+      <ekz>
+        <tld/>oj de polica enketado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Boris Kolker</aut>
+          <vrk><url ref="&Monato;/2003/007812.html">Estas
+          dan&gcirc;ere esti poeto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Verda Partio <klr>[&#x2026;]</klr> postulis, ke oni korektu la
+        parlamentan <tld/>on
+        <fnt>
+       <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2000/006885.php">Kiu estas J&ouml;rg Haider?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la oficialaj <tld/>oj en Jerusalemo, mi ne sukcesis trovi iun
+        ajn 
+        mencion pri krucumo de ia ajn Nazareo, Jeho&scirc;ua a&ubreve; Je&scirc;ua
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="&Monato;/2003/008041.html">La 
+         aristarka raporto de Albisturo Kvinke</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">POL</uzo>
+        <uzo tip="fak">EKOL</uzo>
+        la celoj de la <tld/>o de Kioto por malpliigi la forcejan efikon
+        pro fosilia bruligo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ivo Durwael</aut>
+          <vrk><url ref="&Monato;/2004/008236.html">La rikolto
+          de la nova tempo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Komitato decidis nuligi la <tld/>eron de 1934
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=17108">Skoltismo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akt.0o.JUR">akto</ref>
+    </refgrp>
+    <trd lng="de">Mitschrift</trd>
+    <trd lng="en">minutes <klr>(of a meeting)</klr></trd>
+    <trdgrp lng="es">
+      <trd><ind>acta</ind> de sesi&oacute;n</trd>,
+      <trd>bit&aacute;cora</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>protocole</trd>,
+      <trd>proc&egrave;s verbal</trd>
+    </trdgrp>
+    <trd lng="hu">jegyz&odblac;k&ouml;nyv</trd>
+    <trdgrp lng="nl">
+      <trd>protocol</trd>,
+      <trd>proces verbaal</trd>,
+      <trd>notulen</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>protocolo <klr tip="amb">(relat&oacute;rio)</klr></trd>,
+      <trd>ata</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="protok.0o.KOMP_raporto">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Speco de raporto en kiu programo notas eventojn okazintajn dum &gcirc;ia
+      rulado, ekz.
+      dosiero pri dialoga <ref tip="malprt" cel="seanc.0o.komp">seanco</ref>, 
+      pri tradukado de programo, pri transakcio kun datumbazo ktp
+    </dif>
+    <trdgrp lng="de">
+      <trd>Protokoll<klr>(datei)</klr></trd>,
+      <trd>Log</trd>
+    </trdgrp>
+    <trd lng="en">log file</trd>
+    <trdgrp lng="es">
+      <trd>registro</trd>,
+      <trd>registro de eventos<klr> (log)</klr></trd>,
+      <trd>fichero de registro<klr> (log)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>fichier log</trd>,
+      <trd>fichier de trace<klr> (log)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>napl&oacute;&aacute;llom&aacute;ny</trd>,
+      <trd>log file</trd>
+    </trdgrp>
+    <trd lng="nl">logbestand</trd>
+  </snc>
+  <snc mrk="protok.0o.KOMP_regularo">
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">RET</uzo>
+    <dif>
+      Aro da reguloj pri formo kaj maniero de datumtransmeto en
+      <ref tip="malprt" cel="ret.komputila0o">komputila reto</ref>;
+      parto de interfaca kontrakto difinanta en kia vicordo 
+      voki &gcirc;iajn procedurojn:
+      <ekz>
+        la retumado en <ref cel="teks.Tut_Tera_0ajxo">TTT</ref> estas
+        bazita sur
+        la <tld/>o <ctl>HTTP</ctl>;
+      </ekz>
+      <ekz>
+         IP estas <tld/>o uzata en komputilaj retoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=56321">Ip</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         XMPP <klr>[estas]</klr> XML-bazita <tld/>o por babili rete per
+         tujmesa&gcirc;ilo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=17890">Extensible
+          Messaging and Presence Protocol</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ricevanta servilo uzas eblon de la <tld/>o por diri al la
+        sendanta
+        servilo: &leftquot;&ccirc;i tiu servilo estas tro okupita; provu poste&#x201D;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2003/008177.html">Kia solvo
+          por rubpo&scirc;to?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>&Uuml;bertragunsprotokoll</trd>,
+      <trd>Protokoll <klr>(Netz, Schnittstelle)</klr></trd>
+    </trdgrp>
+    <trd lng="en">communications <ind>protocol</ind></trd>
+    <trdgrp lng="es">
+      <trd>protocolo<klr> (de transmisi&oacute;n)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>protocole<klr> (de transmission)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">protocol</trd>
+    <trd lng="nl">protocol</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_a;&c_k;&c_o;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>protokol</trd>,
+    <trd>z&aacute;pis</trd>
+  </trdgrp>
+  <trd lng="de">Protokoll</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8B70;&#x4E8B;&#x9332;  <pr>&#x304E;&#x3058;&#x308D;&#x304F;</pr></trd>,
+    <trd>&#x8ABF;&#x66F8;  <pr>&#x3061;&#x3087;&#x3046;&#x3057;&#x3087;</pr></trd>,
+    <trd>&#x8B70;&#x5B9A;&#x66F8;  <pr>&#x304E;&#x3066;&#x3044;&#x3057;&#x3087;</pr></trd>,
+    <trd>&#x30ED;&#x30B0;</trd>,
+    <trd>&#x904B;&#x8EE2;&#x8A18;&#x9332;  <pr>&#x3046;&#x3093;&#x3066;&#x3093;&#x304D;&#x308D;&#x304F;</pr></trd>,
+    <trd>&#x30D7;&#x30ED;&#x30C8;&#x30B3;&#x30EB;</trd>,
+    <trd>&#x901A;&#x4FE1;&#x898F;&#x7D04;  <pr>&#x3064;&#x3046;&#x3057;&#x3093;&#x304D;&#x3084;&#x304F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>protok&oacute;&lstroke;</trd>,
+    <trd>log</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_o;&c_k;&c_o;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>protokol</trd>,
+    <trd>z&aacute;pisnica</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&c_t;&#x43E;&#x43A;&#x43E;&#x43B;</trd>
+</drv>
+
+<drv mrk="protok.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc>
+    <dif>
+      Fari <tld/>on pri:
+      <ekz>
+        tio ka&ubreve;zis grandan skandalon, pri kiu oni <tld/>is;
+      </ekz>
+      <ekz>
+        la 17an de aprilo 1944 oni <klr>[&#x2026;]</klr> senkapigis lin per
+        gilotino,
+        la proceduro da&ubreve;ris entute sep sekundojn &ndash; tiel oni zorge
+        <tld/>is
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jomo Ipfelkofer</aut>
+          <vrk><url ref="&Monato;/2009/009823.php">Postaj
+          tempoj 
+          eble pli bone komprenos min</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Timo&hcirc;aro estis la unua astronomo, kiu <tld/>is sian observon de
+        Merkuro
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=298595">Timo&hcirc;aro de
+          Aleksandrio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">teken</trd>
+  <trd lng="am">&#x1218;&#x12DD;&#x1308;&#x1265;</trd>
+  <trd lng="ar">&#x62A;&a_s;&#x62C;&#x64A;&a_l;</trd>
+  <trd lng="az">daxil</trd>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_a;&c_k;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bn">&#x9B2;&#x997; &#x987;&#x9A8;</trd>
+  <trd lng="bs">log</trd>
+  <trd lng="co">scie &#xE0;</trd>
+  <trdgrp lng="cs">
+    <trd>protokolovat</trd>,
+    <trd>sepsat protokol</trd>,
+    <trd>zapisovat</trd>,
+    <trd>zaprotokolovat</trd>,
+    <trd>zapsat do protokolu</trd>,
+    <trd>zapsat do z&aacute;pisu</trd>
+  </trdgrp>
+  <trd lng="da">log</trd>
+  <trd lng="de">protokollieren</trd>
+  <trdgrp lng="es">
+    <trd>levantar un <ind>acta</ind></trd>
+  </trdgrp>
+  <trd lng="et">logi</trd>
+  <trd lng="eu">saioa hasi</trd>
+  <trdgrp lng="fr">
+    <trd>dresser un <ind>proc&egrave;s-verbal</ind></trd>,
+    <trd>verbaliser<klr> (dresser un proc&egrave;s-verbal)</klr></trd>
+  </trdgrp>
+  <trd lng="fy">lochboek</trd>
+  <trd lng="ga">log&#xE1;il isteach</trd>
+  <trd lng="gl">rexistro</trd>
+  <trd lng="gu">&#xAB2;&#xACB;&#xA97;</trd>
+  <trd lng="hi">&#x932;&#x949;&#x917; &#x907;&#x928; &#x915;&#x930;&#x947;&#x902;</trd>
+  <trd lng="hmn">cag ntoo</trd>
+  <trd lng="hr">klada</trd>
+  <trd lng="ht">journal</trd>
+  <trd lng="hu">jegyz&odblac;k&ouml;nyvet vesz fel</trd>
+  <trd lng="hy">&#x574;&#x578;&#x582;&#x57F;&#x584;</trd>
+  <trd lng="ig">banye</trd>
+  <trd lng="ja">&#x30ED;&#x30B0;</trd>
+  <trd lng="ka">&#x10E8;&#x10D4;&#x10D3;&#x10D8;&#x10D7;</trd>
+  <trd lng="kk">&c_zh;&c_u;&c_r;&#x43D;&c_a;&#x43B;</trd>
+  <trd lng="km">&#x1785;&#x17BC;&#x179B;</trd>
+  <trd lng="kn">&#xCB2;&#xCBE;&#xC97;&#xCCD;</trd>
+  <trd lng="ko">&#xB85C;&#xADF8;&#xC778;</trd>
+  <trd lng="ku">rojname</trd>
+  <trd lng="ky">&c_zh;&c_u;&c_r;&#x43D;&c_a;&#x43B;&#x44B;</trd>
+  <trd lng="lat">stipes</trd>
+  <trd lng="lo">&#xEC0;&#xE82;&#xEBB;&#xEC9;&#xEB2;</trd>
+  <trd lng="lt">prisijungti</trd>
+  <trd lng="mg">midira</trd>
+  <trd lng="mi">takiuru</trd>
+  <trd lng="mk">&c_s;&c_je; &#x43B;&#x43E;&c_g;&c_i;&c_r;&c_a;&c_t;&c_je;</trd>
+  <trd lng="ml">&#xD30;&#xD47;&#xD16;</trd>
+  <trd lng="mn">&c_g;&c_u;&c_a;&#x43B;&c_i;&#x43D;</trd>
+  <trd lng="mr">&#x932;&#x949;&#x917; &#x907;&#x928;</trd>
+  <trd lng="my">&#x1010;&#x102F;&#x1036;&#x1038;</trd>
+  <trdgrp lng="nl">
+    <trd>in een <ind>protocol</ind> vastleggen</trd>,
+    <trd>notuleren</trd>
+  </trdgrp>
+  <trd lng="ny">fufuzani</trd>
+  <trd lng="pa">&#xA32;&#xA3E;&#xA17;&#xA07;&#xA28; &#xA15;&#xA30;&#xA28;&#xA3E;</trd>
+  <trd lng="pl">protoko&lstroke;owa&cacute;</trd>
+  <trd lng="ps">&a_w;&#x6AB;&a_w;&a_r;&a_w;</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_o;&c_k;&c_o;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sd">&a_l;&a_A;&#x6AF; &a_A;&a_n;</trd>
+  <trd lng="si">&#xDBD;&#xD9D;&#xDD4;-&#xDC3;&#xDA7;&#xDC4;&#xDB1;</trd>
+  <trdgrp lng="sk">
+    <trd>protokolova&tcaron;</trd>,
+    <trd>zap&iacute;sa&tcaron;</trd>,
+    <trd>z&aacute;pisni&ccaron;ne zachyti&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sl">se prijavite</trd>
+  <trd lng="sm">tusi fa&#x2BB;amau</trd>
+  <trd lng="sn">danda</trd>
+  <trd lng="so">diiwaan</trd>
+  <trd lng="sq">protokolli</trd>
+  <trd lng="st">kena</trd>
+  <trd lng="sw">kuingia</trd>
+  <trd lng="ta">&#xBAA;&#xBC1;&#xB95;&#xBC1;&#xBAA;&#xBA4;&#xBBF;&#xB95;&#xBC8;</trd>
+  <trd lng="te">&#xC32;&#xC3E;&#xC17;&#xC3F;&#xC28;&#xC4D;</trd>
+  <trd lng="tg">&#x49B;&c_a;&c_j;&c_d;&c_g;&c_i;&c_r;&c_i;</trd>
+  <trd lng="th">&#xE40;&#xE02;&#xE49;&#xE32;&#xE2A;&#xE39;&#xE48;&#xE23;&#xE30;&#xE1A;&#xE1A;</trd>
+  <trd lng="tl">mag-log</trd>
+  <trd lng="tt">&c_b;&#x4AF;&c_r;&#x4D9;&#x43D;&#x4D9;</trd>
+  <trd lng="uk">&c_u;&c_v;&c_ib;&c_j;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_l;&a_A;&#x6AF; &a_A;&a_n;</trd>
+  <trd lng="vi">&#x111;&abreve;ng nh&#x1EAD;p</trd>
+  <trd lng="xh">ilog</trd>
+  <trd lng="yi">&#x5E7;&#x5DC;&#x5D0;&#x5B8;&#x5E5;</trd>
+  <trd lng="yo">w&#x1ECD;le</trd>
+  <trd lng="zu">ugongolo</trd>
+</drv>
+
+<drv mrk="protok.viv0o">
+  <kap>viv<tld/>o</kap>
+  <snc>
+    <dif>
+      Konciza listo de gravaj eventoj dum sia vivo, ekz. pri edukado,
+      oficoj kaj profesiaj atingoj prezentenda
+      de kandidato por ofico a&ubreve; laborloko:
+      <ekz>
+        la novaj kandidatoj de la akademiaj elektoj devas
+        prezenti, krom sia konsento kandidati, anka&ubreve; sian
+        viv<tld/>on;
+      </ekz>
+      <ekz>
+        kariertabelo (a&ubreve; viv<tld/>o, vivresumo) estas dokumento verkata
+        por prezenti sin al dunganto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=264726">Kariertabelo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la viv<tld/>oj de <klr>[&#x2026;]</klr> ekzilitoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ren&eacute;e Triolle</aut>
+          <vrk><url ref="&Monato;/2011/010390.php">Kvarlingva
+          muzeo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_z;&c_ju;&c_m;&c_e; <klr>(&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_a;&c_je;)</klr></trd>
+  <trd lng="cs">&uacute;&rcaron;edn&iacute; &zcaron;ivotopis</trd>
+  <trdgrp lng="de">
+    <trd>Lebenslauf</trd>,
+    <trd>CV <klr>(Lebenslauf)</klr></trd>,
+    <trd>Berufserfahrung <klr>(Lebenslauf)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>curriculum vitae</trd>, <trd>resume</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>curriculum vitae</trd>,
+    <trd>curr&iacute;culo</trd>,
+    <trd>CV</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>curriculum vitae</trd>,
+    <trd>CV</trd>
+  </trdgrp>
+  <trd lng="hu">szakmai <ind>&ouml;n&eacute;letrajz</ind></trd>
+  <trd lng="ja">&#x5C65;&#x6B74;&#x66F8;  <pr>&#x308A;&#x308C;&#x304D;&#x3057;&#x3087;</pr></trd>
+  <trd lng="nl">curriculum vitae</trd>
+  <trdgrp lng="pl">
+    <trd>curriculum vitae</trd>,
+    <trd>&zdot;yciorys zawodowy</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>curriculum vitae</trd>,
+    <trd>curr&iacute;culo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_l;&c_u;&c_zh;&c_n;&c_o;&c_j; &c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>
+  <trd lng="sk">&uacute;radn&yacute; &zcaron;ivotopis</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_i;&c_t;&c_t;&c_jeu;&#x43F;&c_i;&c_s;</trd>,
+    <trd>&#x43A;&#x43E;&c_r;&#x43E;&c_t;&#x43A;&c_ib; &c_v;&c_ib;&c_d;&#x43E;&#x43C;&#x43E;&c_s;&c_t;&c_ib; &c_z; &c_zh;&c_i;&c_t;&c_t;&#x44F;
+    &#x44F;&#x43A;&#x43E;&c_ji;-&#x43D;. &#x43E;&c_s;&#x43E;&c_b;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.99 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.97 2023/05/08 19:25:14
+Vito Redsky: +trd pl 
+
+versio 1.96 2023/04/25 13:30:25
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.95 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.28  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
+Revision 1.27  2018/09/11 11:10:14  revo
+Wolfram Diestel: adaptis ref-cel
+
+Revision 1.26  2018/03/08 21:10:15  revo
+Wolfram Diestel: + fak
+
+Revision 1.25  2018/03/08 20:10:17  revo
+-->
+</vortaro>

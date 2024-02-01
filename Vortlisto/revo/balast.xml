@@ -1,0 +1,435 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: balast.xml,v 1.34 2024/01/18 21:22:59 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>balast</rad>/o
+  <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="balast.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="balast.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      &Scirc;tonoj, sablo a&ubreve; aliaj pezaj materialoj, per kiuj oni
+      ekzemple &scirc;ar&gcirc;as &scirc;ipojn por konservi ekvilibron,
+      a&ubreve; aerostatojn por plipezigi ilin:
+      <ekz>
+	marakva <tld/>o de submaraj &scirc;ipoj;
+      </ekz>
+      <ekz>
+	ni ne ricevis kargon, kaj oni ordonis, ke ni veturu hejmen kun
+	<tld/>o
+	<fnt><bib>Mortul&Scirc;ip</bib>, <lok>unua libro, &ccirc;apitro
+	1a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Ballast</trd>
+    <trd lng="es">lastre</trd>
+    <trdgrp lng="hu">
+      <trd>ballaszt</trd>,
+      <trd>holts&uacute;ly</trd>
+    </trdgrp>
+    <trd lng="pl">balast</trd>
+    <trdgrp lng="zh">
+    <trd>&#x538B;&#x8F7D; <pr>y&amacron;z&#xE0;i</pr></trd>,
+    <trd>&#x93AE;&#x5B9A; <pr>zh&#xE8;nd&#xEC;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="balast.0o.FER">
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      Samspeca &scirc;ar&gcirc;a&jcirc;o &scirc;utita sur fervoja
+      grundo, por firmigi la transversajn trabojn:
+      <ekz>
+        niaj fervojlinioj havas <tld/>on el <ref tip="prt" cel="sxotr.0o">&scirc;otro</ref> <klr>[&#8230;]</klr>
+        pli granda ol 25 mm-oj,
+        kaj malpli granda ol 65 mm-oj
+        <fnt>
+          <aut>Jozefo Hal&aacute;sz</aut>
+          <vrk><url ref="http://www.eventoj.hu/steb/ingxenierado/trafiko/fervojo/la-balasto.pdf"
+              >La Balasto</url></vrk>
+          <lok>3. La materialo de la balasto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Schotterbett</trd>,
+      <trd>Sch&uuml;ttung</trd>,
+      <trd>Bettung</trd>
+    </trdgrp>
+    <trd lng="es">balasto</trd>
+    <trd lng="hu">kavics&aacute;gyazat</trd>
+    <trd lng="zh">&#36947;&#x6E23; <pr>d&#xE0;ozh&amacron;</pr></trd>
+</snc>
+  <snc mrk="balast.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Senutila <ref cel="flu.super0a">superflua&jcirc;o</ref>, superflua <ref tip="super"
+      cel="facil.mal0ajxo">malfacila&jcirc;o</ref>:
+      <ekz>
+        kelkaj formoj, kiuj &scirc;ajnis al mi ri&ccirc;a&jcirc;o, montri&gcirc;is nun en la praktiko senbezona
+        <tld/>o
+        <fnt>
+          <bib>VivZam</bib>
+          <lok>Vivo de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni tie &ccirc;i forlasos &ccirc;ian superfluan <tld/>on kaj parolos al vi nur en la nomo de
+        la nuda logiko
+        <fnt>
+          <bib>EE</bib>
+          <lok>I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Renato Corsetti</nom> <klr>[&#8230;]</klr> opinias la Centran Oficejon financa <tld/>o por
+        la movado
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2001, &#8470;10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="jxujxu.0o">&jcirc;u&jcirc;uo</ref>,
+      <ref cel="rub.0o">rubo</ref>
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>entrebanc</trd>,
+      <trd>nosa</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Ballast</trd>,
+      <trd><ind>Klotz</ind> am Bein</trd>
+    </trdgrp>
+    <trd lng="es">lastre</trd>
+    <trdgrp lng="hu">
+      <trd>ballaszt</trd>,
+      <trd>felesleges teher</trd>
+    </trdgrp>
+    <trd lng="pl">balast</trd>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_l;&c_ja;&c_s;&c_t;</trd>
+  <trdgrp lng="ca">
+    <trd>balast</trd>,
+    <trd>llast</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>drcen&yacute; &scaron;t&ecaron;rk</trd>,
+    <trd>p&rcaron;ebyte&ccaron;nost</trd>,
+    <trd>p&rcaron;&iacute;t&ecaron;&zcaron;</trd>,
+    <trd>z&aacute;t&ecaron;&zcaron;</trd>
+  </trdgrp>
+  <trd lng="en">ballast</trd>
+  <trdgrp lng="fr">
+    <trd>ballast</trd>,
+    <trd>lest</trd>,
+    <trd>surcharge<klr tip="amb"> (fig.)</klr></trd>,
+    <trd>pl&eacute;thore</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&nun;&#x5B5;&tet;&#x5B6;&lamed;</trd>,
+    <trd>&mem;&shin;&qof;&vav;&lamed;&tav;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30D0;&#x30E9;&#x30B9;&#x30C8;</trd>,
+    <trd>&#x5E95;&#33655;  <pr>&#x305D;&#12371;&#x306B;</pr></trd>,
+    <trd>&#x4F59;&#x8A08;&#x306A;&#33655;&#29289;  <pr>&#12424;&#12369;&#12356;&#x306A;&#x306B;&#12418;&#12388;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">ballast</trd>
+  <trd lng="ru">&c_b;&c_a;&c_l;&c_l;&c_a;&c_s;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>balast</trd>,
+    <trd>pr&iacute;&tcaron;a&zcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_b;&c_a;&c_l;&c_a;&c_s;&c_t;</trd>
+</drv>
+
+<drv mrk="balast.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="dif" cel="flu.super0a">Superflua</ref>, <ref tip="dif"
+      cel="neces.mal0a">malnecesa</ref>:
+      <ekz>
+        estas necese ordigi kaj sistemigi tiun internacian lingvomaterialon kaj liberigi
+        &gcirc;in de <tld/>aj akcesora&jcirc;oj kaj absurda&jcirc;oj
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li nur sukcesis trudi dubkvalitan a&ubreve; e&ccirc; <tld/>an varon
+        <fnt>
+          <bib>KrM</bib>
+          <lok>2. La &Jcirc;eto Estas Farita.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiamaniere indiki <klr>[&#8230;]</klr> sen <tld/>aj kaj klarigaj frazoj, pri la celata
+        ironio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2012/010885.php">Vo&ccirc;o de ripro&ccirc;o</url></vrk>
+          <lok>2012</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gxen.0a">&gcirc;ena</ref>,
+      <ref cel="ted.0a">teda</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_p;&c_a;&c_t;&c_r;&c_e;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_s;&c_k;&c_a;&c_r;&c_y;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>&uuml;berfl&uuml;ssig</trd>,
+    <trd>l&auml;stig</trd>,
+    <trd>belastend</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="balast.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="balast.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="sxargx.0i">&Scirc;ar&gcirc;i</ref> per <tld/>o:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        mi nome trinkas <klr>[&#8230;]</klr> dum malvarma vetero por varmi&gcirc;i a&ubreve; dum venta
+        vetero por min <tld/>i kontra&ubreve; forblovi&gcirc;o
+        <fnt>
+          <bib>KrM</bib>
+          <lok>22. Per Lerta Admono Alfluas La Mono.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu &scirc;tata aldono <tld/>is pasintmonate per &ccirc;irka&ubreve; 3,6 cendoj por kilovathoro la
+        prezon postulatan de la energientreprenoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2012/010844.php">Sunelektraj kamparanoj</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio nur]</klr> <tld/>as, se ni regurdas <klr>[&#8230;]</klr>, kion ni jam scias
+        pri evento jam de longe pasinta
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2015/011569.php">Revuon redakti ... kaj ranoj</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="zh">&#x8F09;&#x91CD; <pr>z&#xE0;izh&#xF2;ng</pr></trd>
+</snc>
+  <trd lng="be">&c_z;&c_a;&c_g;&c_r;&c_u;&c_z;&c_ib;&c_c;&c_mol;
+  <ind>&c_b;&c_a;&c_l;&c_ja;&c_s;&c_t;</ind></trd>
+  <trd lng="ca">llastar</trd>
+  <trdgrp lng="cs">
+    <trd>obt&iacute;&zcaron;it</trd>,
+    <trd>zat&iacute;&zcaron;it</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>beballasten</trd>,
+    <trd>belasten</trd>,
+    <trd><ind>Ballast</ind> nehmen lassen</trd>,
+    <trd>schottern<klr> [Bahn]</klr></trd>,
+    <trd>beschottern<klr> [Bahn]</klr></trd>,
+    <trd>beschweren <klr>(schwer machen)</klr></trd>
+  </trdgrp>
+  <trd lng="en">ballast</trd>
+  <trdgrp lng="es">
+    <trd>lastrar</trd>,
+    <trd>balastar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ballaster</trd>,
+    <trd>lester</trd>
+  </trdgrp>
+  <trd lng="he">&lamed;&he;&vav;&samekh;&yod;&fpe; &mem;&shin;&qof;&vav;&lamed;&tav;</trd>
+  <trd lng="hu">holts&uacute;llyal <ind>terhel</ind></trd>
+  <trd lng="ja">&#x30D0;&#x30E9;&#x30B9;&#x30C8;&#12434;&#x7A4D;&#12416;
+  <pr>&#x30D0;&#x30E9;&#x30B9;&#x30C8;&#12434;&#12388;&#12416;</pr></trd>
+  <trd lng="nl">ballasten</trd>
+  <trd lng="pl">obci&aogonek;&zdot;a&cacute; <ind>balastem</ind></trd>
+  <trd lng="ru">&c_z;&c_a;&c_g;&c_r;&c_u;&c_z;&c_i;&c_t;&c_mol;
+  <ind>&c_b;&c_a;&c_l;&c_l;&c_a;&c_s;&c_t;</ind></trd>
+  <trd lng="sk">za&tcaron;a&zcaron;i&tcaron; pr&iacute;&tcaron;a&zcaron;ou</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_k;&c_l;&c_a;&c_d;&c_a;&c_t;&c_i; &c_b;&c_a;&c_l;&c_a;&c_s;&c_t;</trd>,
+    <trd>&c_v;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_i;&c_t;&c_i; &c_b;&c_a;&c_l;&c_a;&c_s;&c_t;&c_o;&c_m;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="balast.sen0igi">
+  <kap>sen<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="balast.sen0igi.KOMUNE">
+    <dif>
+      Forigi de io la <tld/>on, <ref cel="embara.mal0i">malembarasi</ref>:
+      <ekz>
+	la Majstro emis pli k<klr>aj</klr> pli sen<tld/>igi sian stilon
+	<fnt><bib>Lanti</bib>, <lok>Pri la Biblio</lok></fnt>;
+      </ekz>
+      <ekz>
+        oni povas ege sen<tld/>igi la lingvon: anstata&ubreve; ministerio oni diras ministrejo,
+        anstata&ubreve; sekretariato, sekretariejo, anstata&ubreve; redakcio, redaktejo, ktp
+        <fnt>
+          <bib>BonaLingvo</bib>
+          <lok>5. La Arto De Vortfarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen<tld/>igi terure ebriajn maristojn je kelkaj kilogramoj, en tiuj kazoj, kiam
+        la sitelo sufi&ccirc;e frue estis atingita
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kribr.0i">kribri</ref>,
+      <ref cel="pez">malpezigi</ref>,
+      <ref cel="sxargx.mal0i">mal&scirc;ar&gcirc;i</ref>
+    </refgrp>
+    <trd lng="zh">&#x8CD1; <pr>zh&#xE8;n</pr></trd>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_ib;&c_n;&c_u;&c_c;&c_mol;
+    <ind>&c_b;&c_a;&c_l;&c_ja;&c_s;&c_t;</ind></trd>,
+    <trd>&c_p;&c_a;&c_z;&c_b;&c_a;&c_v;&c_ib;&c_c;&c_c;&c_a;
+    <ind>&c_b;&c_a;&c_l;&c_ja;&c_s;&c_t;&c_u;</ind></trd>,
+    <trd>&c_a;&c_b;&c_l;&c_je;&c_g;&c_ch;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>alleujar</trd>,
+    <trd>desllastar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ulevit</trd>,
+    <trd>zbavit z&aacute;t&ecaron;&zcaron;e</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>entballasten</trd>,
+    <trd>vom <ind>Ballast</ind> befreien</trd>,
+    <trd>freilegen<klr> [Bahn]</klr></trd>,
+    <trd>erleichtern</trd>
+  </trdgrp>
+  <trd lng="en">release <ind>ballast</ind></trd>
+  <trdgrp lng="fr">
+    <trd>all&eacute;ger</trd>,
+    <trd>d&eacute;lester</trd>,
+    <trd>d&eacute;ballaster</trd>
+  </trdgrp>
+  <trd lng="hu">felesleges tehert&odblac;l <ind>megszabad&iacute;t</ind>
+  </trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D0;&#x30E9;&#x30B9;&#x30C8;&#12434;&#25448;&#12390;&#x308B;
+    <pr>&#x30D0;&#x30E9;&#x30B9;&#x30C8;&#12434;&#12377;&#12390;&#x308B;</pr></trd>,
+    <trd>&#xFF5E;<ind>&#x304B;&#12425;&#33655;&#12434;&#x964D;&#x308D;&#12377;
+    </ind><pr>&#x304B;&#12425;&#x306B;&#12434;&#x304A;&#x308D;&#12377;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zdj&aogonek;&cacute; <ind>balast</ind></trd>,
+    <trd>pozbawi&cacute; <ind>balastu</ind></trd>,
+    <trd>odci&aogonek;&zdot;y&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_b;&c_r;&c_o;&c_s;&c_i;&c_t;&c_mol;
+    <ind>&c_b;&c_a;&c_l;&c_l;&c_a;&c_s;&c_t;</ind></trd>,
+    <trd>&c_o;&c_b;&c_l;&c_je;&c_g;&c_ch;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>u&lcaron;avi&tcaron;</trd>,
+    <trd>zbavi&tcaron; z&aacute;&tcaron;a&zcaron;e</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="balast.lastesedne0e">
+  <kap>laste sed ne <tld/>e</kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc mrk="balast.lastesedne0e.KOMUNE">
+    <dif>
+      En la fino, sed tamen grave:
+      <ekz>
+        laste sed ne <tld/>e, refre&scirc;iga&jcirc;oj atendis en la babilemiga kaf-&ccirc;ambro
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 6 (56)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne forgesu viajn a&ubreve;skultantojn kaj laste, sed ne <tld/>e, vian vo&ccirc;on!
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2012/010885.php">Vo&ccirc;o de ripro&ccirc;o</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+	&ccirc;irka&ubreve; mil personoj <klr>[&#8230;]</klr> laboristoj,
+	mediaktivuloj, studentoj kaj artistoj, kaj laste sed ne <tld/>e
+	sep maldekstraj senatanoj
+	<fnt>
+    	  <aut>&Gcirc;angalo</aut>,
+    	  <vrk><url ref="http://gxangalo.com/modules/news/article.php?storyid=1117">
+    	  Protestantoj en Tajlando metas maskon sur la bu&scirc;on por
+    	  oponi al Bu&scirc;</url></vrk>,
+    	  <lok>2003-10-22</lok>
+	</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">finalment, per&ograve; no menys important</trd>
+  <trd lng="de">zu guter <ind>Letzt</ind></trd>
+  <trd lng="en">last but not least</trd>
+  <trd lng="es">por &uacute;ltimo pero no menos importante</trd>
+  <trdgrp lng="fr">
+    <trd>en dernier lieu mais en premi&egrave;re place</trd>,
+    <trd>last but not least</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.34 2024/01/18 21:22:59
+Wolfram Diestel: fnt JED, ekz, ref
+
+versio 1.32 2023/10/14 08:39:48
+revo: transskribo per <pr>
+
+versio 1.31 2023/09/05 06:31:03
+Wolfram Diestel: kor. ja ind.
+
+versio 1.29 2023/04/11 05:36:20
+aktualigo Monato-URL
+
+versio 1.28 2023/02/22 06:35:19
+Dmitri Gabinski: + trd be
+
+versio 1.27 2022/07/01 17:32:14
+Wolfram Diestel: +ekz-oj, ref-oj; +~a
+
+Revision 1.23  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/01/30 12:10:17  revo
+-->
+</vortaro>
