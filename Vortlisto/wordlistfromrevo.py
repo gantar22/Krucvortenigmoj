@@ -74,7 +74,10 @@ def getwordsfromxml(xml) -> dict[str,int]:
 
     if radtext + "o" in output.keys() and output.get(radtext,-1) < 50:
         output[radtext] = 50
-        output[radtext + "on"] = 35
+        output[radtext + "on"] = 35 # might not be be something that appears often as the object 
+        output[radtext + 'oj'] = 35 # might not be something that apperas often in plural
+        output[radtext + "ojn"] = 30 # see above
+
     # todo if theres an adjective ending we could throw on igi and iĝi
 
     for ending in ["a","e","i","o"]:
@@ -90,13 +93,13 @@ def getwordsfromxml(xml) -> dict[str,int]:
 
 
 def main():
-    outfile = open("./vortlisto.dict","w")
+    outfile = open("./vortlisto.dict","w",encoding='utf8')
     dir = os.fsencode("./revo")
     for filebytes in os.listdir(dir):
         filename = os.fsdecode(filebytes)
         if not os.path.isfile('revo/' + filename): 
             continue
-        file = open("revo/" + filename,"r")
+        file = open("revo/" + filename,"r",encoding='utf8')
         filetext = file.read()
         filetext = removeallentities(replacehats(filetext))
         wordlist = getwordsfromxml(filetext)

@@ -2,11 +2,45 @@ import os
 import string
 import xml.etree.ElementTree as ET
 
+def get_extras(roots : list[list[str]]) -> list[list[str]]:
+    additions = []
+    for word in roots:
+        w = word
+        # remove accusatives
+        if w[-1] == 'n':
+            w = w[:-1]
+            additions.append(w)
+        if len(w) == 0:
+            continue
+
+        # remove plurals
+        if w[-1] == 'j':
+            w = w[:-1]
+            additions.append(w)
+        if len(w) == 0:
+            continue
+
+        # remove vowel endings
+        if len(w[-1]) == 1 and w[-1] in 'aeiou':
+            additions.append(w[:-1])
+        # remove verb tenses
+        if len(w[-1]) >= 2:
+            if w[-1][-1] == 's' and (w[-1][-2] in 'iaou'):
+                additions.append(w[:-1] + ['i'])
+
+        # todo remove participles
+
+    return additions
 
 def extract_roots(text : str) -> list[list[str]]:
     words = text.split()
-    words = [''.join([c.lower() for c in s if not c in string.punctuation + '“”’‘‘0123456789-']) for s in words]
     roots : list[list[str]] = [w.split('_') for w in words]
+    remove_punctuation = lambda w: ''.join([c for c in w if not c in string.punctuation + '“”’‘‘0123456789-'])
+    roots = [[''.join([c.lower() for c in w]) for w in r] for r in roots]
+    roots = [[remove_punctuation(w) for w in r] for r in roots]
+    roots = [r for r in roots if len(r) > 0]
+
+    roots += get_extras(roots)
     return roots
 
 def extract_eo_text(tree : ET.Element) -> list[str]:
@@ -36,13 +70,13 @@ def count_words_in_xml(text : str) -> dict[str,int]:
 
 def main():
     word_count : dict[str,int] = {}
-    outfile = open("./tekstaro.dict","w")
+    outfile = open("./tekstaro.count","w",encoding='utf8')
     dir = os.fsencode("./tekstaroxml")
     for filebytes in os.listdir(dir):
         filename = os.fsdecode(filebytes)
         if not os.path.isfile('tekstaroxml/' + filename): 
             continue
-        file = open("tekstaroxml/" + filename,"r")
+        file = open("tekstaroxml/" + filename,"r",encoding='utf8')
         filetext = file.read()
         for item in count_words_in_xml(filetext).items():
             word_count[item[0]] = word_count.get(item[0],0) + item[1]
