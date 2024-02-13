@@ -3,6 +3,105 @@ import os
 import re
 import itertools
 
+
+def scorefromfak(fak):
+    # la granda celo estas ne uzi
+    # tro de tre fakajn vortojn
+    # precize tiujn de latina origino
+    # kiuj ne havas nacilingvan komunana
+    # tradukon
+
+    # baze:
+    # regiliaj aferoj bonas
+    # artaj aferoj ne estas malbona
+    # teknikaj aŭ inĝenieraj sciencoj malbonas
+    # iu ajn kun multege de nomoj malbonas
+
+    # verŝajne indas varii ĉi-tiun mapon
+    # tiel ke ne ĉiu enigmo havas la saman
+    # distribuon de fakvortoj
+
+    
+    mapping = {
+        'agr':  -1, #agrokulturo
+        'ana':   1, #anatomio
+        'arke':  0, #arkeologio
+        'arki': -1, #arkitekturo
+        'ast':   1, #astronomio
+        'aut':   1, #automobiloj
+        'avi':  -1, #aviado
+        'bak':  -2, #bakteriologio, suprize malmulte tro fakaj vortoj
+        'bela': -1, #belartoj
+        'bele': -1, #beletro
+        'bib':  -1, #biblio
+        'bio':  -5, #biologio
+        'bot': -10, #botaniko
+        'bud':   1, #budhismo
+        'ekon': -2, #ekonomiko
+        'ekol':  1, #ekologio
+        'ele':  -5, #elektro
+        'elet': -5, #elektrotekniko
+        'esp':  10, #esperantismp
+        'fer':  -2, #fervojoj
+        'fil':  -5, #filozofio
+        'fizl':-10, #fiziologio
+        'fiz': -10, #fiziko
+        'fon':  -5, #fonetiko
+        'fot':  -7, #fotografio
+        'gen':  -1, #genealogio
+        'geod':  0, #geodezio
+        'geog':-10, #geografio
+        'geol': -2, #geologio
+        'gra':   0, #gramatiko
+        'her':  -3, #heraldiko
+        'hin':   1, #hinduismo
+        'his': -10, #historio
+        'hor':  -2, #hortikulturo
+        'isl':   1, #islamo
+        'jur':  -5, #juro
+        'kal':  -1, #kalendaro
+        'kat':   1, #katolikismo
+        'kem': -10, #kemio
+        'kin':   0, #kinoarto
+        'kir':   0, #kirurgio
+        'komp': -5, #komputiko
+        'kon':  -5, #konstrutekniko
+        'kri':   1, #kristanismo
+        'kui':  -1, #kuirarto
+        'lin':  -1, #lingvistiko
+        'mar':  -5, #maraferoj
+        'mas':  -3, #maŝinoj
+        'mat':  -6, #matematiko
+        'mah':   0, #materialismo historia
+        'med': -10, #medicino
+        'met':  -1, #meteologio
+        'mil':  -5, #militaferoj
+        'min': -10, #mineralogio
+        'mit':   1, #mitologio
+        'muz': -10, #muziko
+        'nom': -10, #nomoj
+        'pal':  -1, #paleontologio
+        'ped':  -5, #pedagogio
+        'pers':-10, #personoj
+        'poe':  -1, #poetiko mi ŝatus havi pli altan poentaron, sed ĝi ja estas faka
+        'pol': -10, #politiko (landnomoj)
+        'posx': -1, #poŝto
+        'pra':   0, #prahistorio
+        'psi':  -4, #psikologio
+        'rad':   0, #radiofonio
+        'rel':   1, #religioj
+        'ret':   0, #interreto
+        'sci':   0, #sciencoj, sufiĉe nefaka
+        'spo':   1, #sporto kaj ludoj
+        'shi':  -3, #ŝipkonstruado navigado
+        'tea':   1, #teatro
+        'tek':  -1, #teksindustrio
+        'tel':   0, #telekomunikoj
+        'tip':   0, #presarto, libroj
+        'tra':   1, #trafiko
+        'zoo': -10, #zoologio
+    }
+
 def replacehats(s):
     hatpairs = [('s','ŝ'),('g','ĝ'),('c','ĉ'),('j','ĵ'),('h','ĥ'),('S','Ŝ'),('G','Ĝ'),('C','Ĉ'),('J','Ĵ'),('H','Ĥ')]
     for pair in hatpairs:
