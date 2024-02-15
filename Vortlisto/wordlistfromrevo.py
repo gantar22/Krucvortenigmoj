@@ -3,6 +3,19 @@ import os
 import re
 import itertools
 
+def scorefromstil(stil):
+    mapping = {
+        'fraz': 10, #la senco estas frazaĵo mem, kiel havi aferon kun
+        'fig': 10,
+        'vulg': -15, #malfeliĉe temas pri famalieca eldonaĵo, do ni devas savi tion por postvespera programo
+        'rar': -10,
+        'poe': 10, #ne multaj artikoloj havas tion, sed ili ĉiuj estas bonaj
+        'ark': -10,
+        'evi': -20,
+        'komune': 5,
+        'neo': 0, #mi ŝatas, sed mi ne volas plioftigi ilin, se ili venas ili venas
+    }
+    return mapping.get(stil,0)
 
 def scorefromfak(fak):
     # la granda celo estas ne uzi
@@ -101,6 +114,7 @@ def scorefromfak(fak):
         'tra':   1, #trafiko
         'zoo': -10, #zoologio
     }
+    return mapping.get(fak,0)
 
 def replacehats(s):
     hatpairs = [('s','ŝ'),('g','ĝ'),('c','ĉ'),('j','ĵ'),('h','ĥ'),('S','Ŝ'),('G','Ĝ'),('C','Ĉ'),('J','Ĵ'),('H','Ĥ')]
@@ -138,6 +152,19 @@ def getwordsfromxml(xml) -> dict[str,int]:
         return words
 
 
+    def getscorefordrv(drv : ET.Element):
+        score = 0
+        sencoj = list(drv.iter('snc'))
+        senc_kalk_sojloj = [2,3,5,8]
+        score += len([sojlo for sojlo in senc_kalk_sojloj if sojlo <= len(sencoj)])
+        for snc in sencoj:
+            for uzo in snc.iter('uzo'):
+                tip = uzo.get('tip')
+                if tip != "fak":
+                    score += scorefromfak(uzo.text)
+                if tip != "stl":
+                    score += scorefromstil(uzo.text)
+        return score
 
     output : dict[str,int] = {} 
     tree = ET.fromstring(xml)
@@ -153,7 +180,7 @@ def getwordsfromxml(xml) -> dict[str,int]:
     except:
         print(xml)
         return {}
-    for drv in tree.find('art') or []:
+    for drv in tree.find('art') or []: #should I be using iter('drv') here?
         kap = drv.find('kap')
         if kap != None:
             output |= getwordsfromkap(kap,radtext)
