@@ -1,4 +1,5 @@
 import os
+import re
 import string
 import xml.etree.ElementTree as ET
 
@@ -20,8 +21,8 @@ def get_extras(roots : list[list[str]]) -> list[list[str]]:
         if len(w) == 0:
             continue
 
-        # remove vowel endings
-        if len(w[-1]) == 1 and w[-1] in 'aeiou':
+        # remove o from nouns
+        if len(w[-1]) == 1 and w[-1] == 'o':
             additions.append(w[:-1])
         # remove verb tenses
         if len(w[-1]) >= 2:
@@ -55,34 +56,74 @@ def extract_eo_text(tree : ET.Element) -> list[str]:
 
     return [o for o in output if o != None]
         
+def load_roots() -> set[str]:
+
+    def replacehats(s):
+        hatpairs = [('s','ŝ'),('g','ĝ'),('c','ĉ'),('j','ĵ'),('h','ĥ'),('S','Ŝ'),('G','Ĝ'),('C','Ĉ'),('J','Ĵ'),('H','Ĥ')]
+        for pair in hatpairs:
+            s = s.replace('&' + pair[0] + 'circ;',pair[1])
+        s = s.replace('&ubreve;','ŭ').replace('&Ubreve;','Ŭ')
+        return s
+
+    def removeallentities(s):
+        return re.sub('&.*?;','',s)
+
+    roots : set[str] = set()
+    for filename in [os.fsdecode(f) for f in os.listdir(os.fsencode("./revo"))]:
+        if not os.path.isfile('revo/' + filename):
+            continue
+        text = open(f"revo/{filename}","r",encoding="utf8").read()
+        text = removeallentities(replacehats(text))
+        tree = ET.fromstring(text)
+        try:
+            roots.add(tree.find('art').find('kap').find('rad').text.lower())
+        except:
+            pass
+
+    return roots
+
         
-def count_words_in_xml(text : str) -> dict[str,int]:
+def count_words_in_xml(text : str, must_be_dictionary : bool = True, roots : set[str] = {}) -> dict[str,int]:
     word_count : dict[str,int] = {}
     tree = ET.fromstring(text)
     strings : list[str] = extract_eo_text(tree)
     for line in strings:
         for word in extract_roots(line):
-            whole_word = ''.join(word)
-            word_count[whole_word] = word_count.get(whole_word,0) + 1    
+            is_vortara = len([r for r in word if not (r in roots)]) == 0
+            if is_vortara == must_be_dictionary:
+                whole_word = ''.join(word)
+                word_count[whole_word] = word_count.get(whole_word,0) + 1    
 
     return word_count
 
 
+
+
 def main():
-    word_count : dict[str,int] = {}
-    outfile = open("./tekstaro.count","w",encoding='utf8')
+    countfile = open("./tekstaro.count","w",encoding='utf8')
+    vortarajfile = open("./tekstaro_vortara.dict","w",encoding='utf8')
+    vortaraj = {}
+    nevortarajfile = open("./tekstaro_nevortara.dict","w",encoding='utf8')
+    nevortaraj = {}
     dir = os.fsencode("./tekstaroxml")
+    roots = load_roots()
     for filebytes in os.listdir(dir):
         filename = os.fsdecode(filebytes)
         if not os.path.isfile('tekstaroxml/' + filename): 
             continue
         file = open("tekstaroxml/" + filename,"r",encoding='utf8')
         filetext = file.read()
-        for item in count_words_in_xml(filetext).items():
-            word_count[item[0]] = word_count.get(item[0],0) + item[1]
         file.close()
-    for item in word_count.items():
-        outfile.write(f'{item[0]}->{item[1]}\n')
-    outfile.close()
+        for item in count_words_in_xml(filetext,True,roots).items():
+            vortaraj[item[0]] = vortaraj.get(item[0],0) + item[1]
+        for item in count_words_in_xml(filetext,False,roots).items():
+            nevortaraj[item[0]] = nevortaraj.get(item[0],0) + item[1]
+    for item in vortaraj.items():
+        countfile.write(f'{item[0]}->{item[1]}\n')
+        vortarajfile.write(f'{item[0]};{60}\n')
+    for item in nevortaraj.items():
+        countfile.write(f'{item[0]}->{item[1]}\n')
+        nevortarajfile.write(f'{item[0]};{19}\n')
+    countfile.close()
 
 main()

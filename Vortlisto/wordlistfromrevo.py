@@ -133,7 +133,7 @@ def getwordsfromxml(xml) -> dict[str,int]:
         if kap.text != None:
             word += kap.text
         for child in kap:
-            if child.tag == 'tld':
+            if child.tag == 'tld': # I'm not checking here for var attrib's which is how ĥ to k variations are done
                 word += radiko
             if child.tag == 'var':
                 commaindex = word.find(',')
@@ -160,61 +160,64 @@ def getwordsfromxml(xml) -> dict[str,int]:
         for snc in sencoj:
             for uzo in snc.iter('uzo'):
                 tip = uzo.get('tip')
-                if tip != "fak":
-                    score += scorefromfak(uzo.text)
-                if tip != "stl":
-                    score += scorefromstil(uzo.text)
+                if tip == "fak":
+                    score += scorefromfak(uzo.text.lower())
+                if tip == "stl":
+                    score += scorefromstil(uzo.text.lower())
         return score
 
-    output : dict[str,int] = {} 
+    outter_output : dict[str,int] = {} 
     tree = ET.fromstring(xml)
     radtext : str = ''
     try:
-        art = tree.find('art')
-        if art != None:
-            kap = art.find('kap')
-            if kap != None:
-                rad = kap.find('rad')
-                if rad != None:
-                    radtext = rad.text or ""
+        radtext = tree.find('art').find('kap').find('rad').text or ""
     except:
         print(xml)
         return {}
-    for drv in tree.find('art') or []: #should I be using iter('drv') here?
+    art = tree.find('art')
+    if art == None:
+        art = []
+    for drv in art: #should I be using iter('drv') here?
+        output : dict[str,int] = {} 
+        extra_score = getscorefordrv(drv)
         kap = drv.find('kap')
         if kap != None:
-            output |= getwordsfromkap(kap,radtext)
-    for verbi in [w for w in output.keys() if len(w) > 0 and w[-1] == 'i']: #gotta skip pronouns somehow
-        try:
-            verb = verbi[:-1]
-            output[verb + 'us'] = 40
-            output[verb + 'u'] = 40
-            for v in ['i','a','o']:
-                output[verb + v + 's'] = 40
-                for fin in ['a','o','']:
-                    pass
-                    #output[verb + v + 'nt' + fin] = 40
-                    #output[verb + v +  't' + fin] = 30 # 30 because the verb might not be transitive. todo check for trans. in the file. also some verbs don't very sensible at constructions as they concern results and/or lack duration
-        except:
+            output |= {w:(p + extra_score) for w,p in getwordsfromkap(kap,radtext).items()}
+
+        for verbi in [w for w in output.keys() if len(w) > 0 and w[-1] == 'i']: #gotta skip pronouns somehow
+            try:
+                verb = verbi[:-1]
+                output[verb + 'us'] = 40 + extra_score
+                output[verb + 'u'] = 40 + extra_score
+                for v in ['i','a','o']:
+                    output[verb + v + 's'] = 40 + extra_score
+                    for fin in ['a','o','']:
+                        pass
+                        #output[verb + v + 'nt' + fin] = 40 + extra_score
+                        #output[verb + v +  't' + fin] = 30 + extra_score # 30 because the verb might not be transitive. todo check for trans. in the file. also some verbs don't very sensible at constructions as they concern results and/or lack duration
+            except:
+                pass
+
+        if radtext + "o" in output.keys() and output.get(radtext,-1) < 50 + extra_score:
+            output[radtext] = 50 + extra_score
+            #output[radtext + "on"] = 35 + extra_score# might not be be something that appears often as the object 
+            #output[radtext + 'oj'] = 35 + extra_score# might not be something that apperas often in plural
+            #output[radtext + "ojn"] = 30 + extra_score# see above
+
+        # todo if theres an adjective ending we could throw on igi and iĝi
+
+        for ending in ["a","e","i","o"]:
             pass
-
-    if radtext + "o" in output.keys() and output.get(radtext,-1) < 50:
-        output[radtext] = 50
-        output[radtext + "on"] = 35 # might not be be something that appears often as the object 
-        output[radtext + 'oj'] = 35 # might not be something that apperas often in plural
-        output[radtext + "ojn"] = 30 # see above
-
-    # todo if theres an adjective ending we could throw on igi and iĝi
-
-    for ending in ["a","e","i","o"]:
-        pass
-        #output[radtext + ending] = output.get(radtext + ending,30) # 30 cause we have no idea what this means
+            #output[radtext + ending] = output.get(radtext + ending,30) # 30 cause we have no idea what this means
+        
+        for w in output:
+            outter_output[w] = max(output[w],outter_output.get(w,output[w]))
 
     # todo add versions without hyphens
-    output |= {w.replace('-',''):output[w] for w in output.keys() if '-' in w}
+    outter_output |= {w.replace('-',''):output[w] for w in output.keys() if '-' in w}
     # make versions without any nonalpha chars
-    output |= {''.join([c for c in w if c.isalpha()]):output[w] for w in output.keys() if len([c for c in w if c.isalpha()]) > 0}
-    return output
+    outter_output |= {''.join([c for c in w if c.isalpha()]):output[w] for w in output.keys() if len([c for c in w if c.isalpha()]) > 0}
+    return outter_output
 
 
 
