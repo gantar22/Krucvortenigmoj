@@ -160,20 +160,20 @@ def getwordsfromxml(xml) -> dict[str,int]:
         for snc in sencoj:
             for uzo in snc.iter('uzo'):
                 tip = uzo.get('tip')
-                if tip == "fak":
+                if tip == "fak" and uzo.text != None:
                     score += scorefromfak(uzo.text.lower())
-                if tip == "stl":
+                if tip == "stl" and uzo.text != None:
                     score += scorefromstil(uzo.text.lower())
         return score
 
     outter_output : dict[str,int] = {} 
     tree = ET.fromstring(xml)
     radtext : str = ''
-    try:
-        radtext = tree.find('art').find('kap').find('rad').text or ""
-    except:
-        print(xml)
-        return {}
+    
+    rad = tree.find('art/kap/rad')
+    if rad != None and rad.text != None:
+        radtext = rad.text
+
     art = tree.find('art')
     if art == None:
         art = []

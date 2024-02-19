@@ -75,15 +75,15 @@ def load_roots() -> set[str]:
         text = open(f"revo/{filename}","r",encoding="utf8").read()
         text = removeallentities(replacehats(text))
         tree = ET.fromstring(text)
-        try:
-            roots.add(tree.find('art').find('kap').find('rad').text.lower())
-        except:
-            pass
+
+        rad = tree.find('art/kap/rad')
+        if rad != None and rad.text != None:
+            roots.add(rad.text.lower())
 
     return roots
 
         
-def count_words_in_xml(text : str, must_be_dictionary : bool = True, roots : set[str] = {}) -> dict[str,int]:
+def count_words_in_xml(text : str, must_be_dictionary : bool = True, roots : set[str] = set()) -> dict[str,int]:
     word_count : dict[str,int] = {}
     tree = ET.fromstring(text)
     strings : list[str] = extract_eo_text(tree)
