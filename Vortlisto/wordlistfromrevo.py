@@ -12,7 +12,7 @@ def scorefromstil(stil):
         'rar': -10,
         'poe': 10, #ne multaj artikoloj havas tion, sed ili ĉiuj estas bonaj
         'ark': -10,
-        'evi': -20,
+        'evi': -50,
         'komune': 5,
         'neo': 0, #mi ŝatas, sed mi ne volas plioftigi ilin, se ili venas ili venas
     }
@@ -134,12 +134,12 @@ def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[
         if kap.text != None:
             word += kap.text
         for child in kap:
-            if child.tag == 'tld': # I'm not checking here for var attrib's which is how ĥ to k variations are done
+            if child.tag == 'tld': 
                 var = child.get('var')
                 if var != None:
                     word += radiko[var]
                 else:
-                    word += radiko[''] # in the var case we swap out the tld with the other root, so radiko should be like a map from var tag to root text
+                    word += radiko[''] 
             if child.tag == 'var':
                 commaindex = word.find(',')
                 if commaindex != -1:
@@ -158,17 +158,19 @@ def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[
 
 
     def getscorefordrv(drv : ET.Element):
-        score = 0
-        sencoj = list(drv.iter('snc')) #words like plen should get 50 because they have entries with no fak
+        sencoj = list(drv.iter('snc')) 
         senc_kalk_sojloj = [2,3,5,8]
-        score += len([sojlo for sojlo in senc_kalk_sojloj if sojlo <= len(sencoj)])
+        scores = []
         for snc in sencoj:
+            score = 0
             for uzo in snc.iter('uzo'):
                 tip = uzo.get('tip')
                 if tip == "fak" and uzo.text != None:
                     score += scorefromfak(uzo.text.lower())
                 if tip == "stl" and uzo.text != None:
                     score += scorefromstil(uzo.text.lower())
+            scores.append(score)
+        score = min(max(scores + [0]),39) + len([sojlo for sojlo in senc_kalk_sojloj if sojlo <= len(sencoj)])
         return score
 
     outter_output : dict[str,int] = {} 
