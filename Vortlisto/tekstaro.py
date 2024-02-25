@@ -3,7 +3,7 @@ import re
 import string
 import xml.etree.ElementTree as ET
 
-def get_extras(roots : list[list[str]]) -> list[list[str]]:
+def get_extras(roots : list[tuple[str]]) -> list[tuple[str]]:
     additions = []
     for word in roots:
         w = word
@@ -27,18 +27,18 @@ def get_extras(roots : list[list[str]]) -> list[list[str]]:
         # remove verb tenses
         if len(w[-1]) >= 2:
             if w[-1][-1] == 's' and (w[-1][-2] in 'iaou'):
-                additions.append(w[:-1] + ['i'])
+                additions.append(tuple(list(w[:-1]) + ['i']))
 
         # todo remove participles
 
     return additions
 
-def extract_roots(text : str) -> list[list[str]]:
+def extract_roots(text : str) -> list[tuple[str]]:
     words = text.split()
-    roots : list[list[str]] = [w.split('_') for w in words]
+    roots = [tuple(w.split('_')) for w in words]
     remove_punctuation = lambda w: ''.join([c for c in w if not c in string.punctuation + '“”’‘‘0123456789-'])
-    roots = [[''.join([c.lower() for c in w]) for w in r] for r in roots]
-    roots = [[remove_punctuation(w) for w in r] for r in roots]
+    roots = [tuple([''.join([c.lower() for c in w]) for w in r]) for r in roots]
+    roots = [tuple([remove_punctuation(w) for w in r]) for r in roots]
     roots = [r for r in roots if len(r) > 0]
 
     roots += get_extras(roots)
@@ -56,74 +56,60 @@ def extract_eo_text(tree : ET.Element) -> list[str]:
 
     return [o for o in output if o != None]
         
-def load_roots() -> set[str]:
+def load_roots() -> dict[str,int]:
+    vortlisto = open('./vortlisto.dict','r',encoding='utf8')
+    radiklisto = open('./roots.txt','r',encoding='utf8')
 
-    def replacehats(s):
-        hatpairs = [('s','ŝ'),('g','ĝ'),('c','ĉ'),('j','ĵ'),('h','ĥ'),('S','Ŝ'),('G','Ĝ'),('C','Ĉ'),('J','Ĵ'),('H','Ĥ')]
-        for pair in hatpairs:
-            s = s.replace('&' + pair[0] + 'circ;',pair[1])
-        s = s.replace('&ubreve;','ŭ').replace('&Ubreve;','Ŭ')
-        return s
+    words = vortlisto.readlines()
 
-    def removeallentities(s):
-        return re.sub('&.*?;','',s)
+    # todo this gets whole words but we only want roots
+    validroots = {p[0]:int(p[1]) for p in [w.split(';') for w in words]}
+    extraroots = {r[:-1]:50 for r in radiklisto.readlines()}
 
-    roots : set[str] = set()
-    for filename in [os.fsdecode(f) for f in os.listdir(os.fsencode("./revo"))]:
-        if not os.path.isfile('revo/' + filename):
-            continue
-        text = open(f"revo/{filename}","r",encoding="utf8").read()
-        text = removeallentities(replacehats(text))
-        tree = ET.fromstring(text)
-
-        rad = tree.find('art/kap/rad')
-        if rad != None and rad.text != None:
-            roots.add(rad.text.lower())
-
-    return roots
-
+    return extraroots | validroots
         
-def count_words_in_xml(text : str, must_be_dictionary : bool = True, roots : set[str] = set()) -> dict[str,int]:
-    word_count : dict[str,int] = {}
+def base_word_score(word : tuple[str], roots :dict[str,int]) -> int:
+    score = 19
+    if len([r for r in word if not (r in roots)]) == 0:
+        score = 50
+        scores = [roots[r] for r in word]
+        for s in scores:
+            if abs(s - 50) > abs(score - 50):
+                score = s
+    return score
+
+
+def words_in_text(text : str, roots : dict[str,int] = {}) -> set[tuple[str]]:
     tree = ET.fromstring(text)
     strings : list[str] = extract_eo_text(tree)
+    output : set[tuple[str]] = set()
     for line in strings:
         for word in extract_roots(line):
-            is_vortara = len([r for r in word if not (r in roots)]) == 0
-            if is_vortara == must_be_dictionary:
-                whole_word = ''.join(word)
-                word_count[whole_word] = word_count.get(whole_word,0) + 1    
-
-    return word_count
-
-
+            output.add(word)
+    return output
 
 
 def main():
-    countfile = open("./tekstaro.count","w",encoding='utf8')
-    vortarajfile = open("./tekstaro_vortara.dict","w",encoding='utf8')
-    vortaraj = {}
-    nevortarajfile = open("./tekstaro_nevortara.dict","w",encoding='utf8')
-    nevortaraj = {}
+    countfile = open("./tekstaro.dict","w",encoding='utf8')
+
     dir = os.fsencode("./tekstaroxml")
     roots = load_roots()
+    words_by_source : list[set[tuple[str]]] = []
     for filebytes in os.listdir(dir):
+        # get the text from the xml files
         filename = os.fsdecode(filebytes)
         if not os.path.isfile('tekstaroxml/' + filename): 
             continue
         file = open("tekstaroxml/" + filename,"r",encoding='utf8')
         filetext = file.read()
         file.close()
-        for item in count_words_in_xml(filetext,True,roots).items():
-            vortaraj[item[0]] = vortaraj.get(item[0],0) + item[1]
-        for item in count_words_in_xml(filetext,False,roots).items():
-            nevortaraj[item[0]] = nevortaraj.get(item[0],0) + item[1]
-    for item in vortaraj.items():
-        countfile.write(f'{item[0]}->{item[1]}\n')
-        vortarajfile.write(f'{item[0]};{60}\n')
-    for item in nevortaraj.items():
-        countfile.write(f'{item[0]}->{item[1]}\n')
-        nevortarajfile.write(f'{item[0]};{19}\n')
-    countfile.close()
+
+        # extract the roots from the text
+        words_by_source.append(words_in_text(filetext,roots))
+    
+    words : set[tuple[str]] = {w for src in words_by_source for w in src if len([s for s in words_by_source if w in s]) > 1}
+    for w in words:
+        countfile.write(f"{''.join(w)};{base_word_score(w,roots)}\n")
+    
 
 main()

@@ -1,3 +1,4 @@
+import io
 import xml.etree.ElementTree as ET
 import os
 import re
@@ -126,7 +127,7 @@ def replacehats(s):
 def removeallentities(s):
     return re.sub('&.*?;','',s)
 
-def getwordsfromxml(xml) -> dict[str,int]:
+def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[str,int]:
     def getwordsfromkap(kap,radiko) -> dict[str,int]:
         words = {}
         word = ""
@@ -134,7 +135,7 @@ def getwordsfromxml(xml) -> dict[str,int]:
             word += kap.text
         for child in kap:
             if child.tag == 'tld': # I'm not checking here for var attrib's which is how ĥ to k variations are done
-                word += radiko
+                word += radiko # in the var case we swap out the tld with the other root, so radiko should be like a map from var tag to root text
             if child.tag == 'var':
                 commaindex = word.find(',')
                 if commaindex != -1:
@@ -154,7 +155,7 @@ def getwordsfromxml(xml) -> dict[str,int]:
 
     def getscorefordrv(drv : ET.Element):
         score = 0
-        sencoj = list(drv.iter('snc'))
+        sencoj = list(drv.iter('snc')) #words like plen should get 50 because they have entries with no fak
         senc_kalk_sojloj = [2,3,5,8]
         score += len([sojlo for sojlo in senc_kalk_sojloj if sojlo <= len(sencoj)])
         for snc in sencoj:
@@ -173,18 +174,19 @@ def getwordsfromxml(xml) -> dict[str,int]:
     rad = tree.find('art/kap/rad')
     if rad != None and rad.text != None:
         radtext = rad.text
+        rootsfile.write(f'{rad.text}\n')
 
     art = tree.find('art')
     if art == None:
         art = []
-    for drv in art: #should I be using iter('drv') here?
+    for drv in art.iter('drv'): #should I be using iter('drv') here?
         output : dict[str,int] = {} 
         extra_score = getscorefordrv(drv)
         kap = drv.find('kap')
         if kap != None:
             output |= {w:(p + extra_score) for w,p in getwordsfromkap(kap,radtext).items()}
 
-        for verbi in [w for w in output.keys() if len(w) > 0 and w[-1] == 'i']: #gotta skip pronouns somehow
+        for verbi in [w for w in output.keys() if len(w) > 0 and w[-1] == 'i']: # we should really ensure that the i isn't part of a gramatical word 
             try:
                 verb = verbi[:-1]
                 output[verb + 'us'] = 40 + extra_score
@@ -224,6 +226,7 @@ def getwordsfromxml(xml) -> dict[str,int]:
 def main():
     outfile = open("./vortlisto.dict","w",encoding='utf8')
     dir = os.fsencode("./revo")
+    rootsfile = open('./roots.txt','w',encoding='utf8')
     for filebytes in os.listdir(dir):
         filename = os.fsdecode(filebytes)
         if not os.path.isfile('revo/' + filename): 
@@ -231,7 +234,7 @@ def main():
         file = open("revo/" + filename,"r",encoding='utf8')
         filetext = file.read()
         filetext = removeallentities(replacehats(filetext))
-        wordlist = getwordsfromxml(filetext)
+        wordlist = getwordsfromxml(filetext,rootsfile)
         for word in wordlist.keys():
             wordspaceless = ''.join(word.split())
             if len(wordspaceless) > 0:
