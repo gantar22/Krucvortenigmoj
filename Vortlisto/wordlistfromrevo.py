@@ -128,14 +128,18 @@ def removeallentities(s):
     return re.sub('&.*?;','',s)
 
 def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[str,int]:
-    def getwordsfromkap(kap,radiko) -> dict[str,int]:
+    def getwordsfromkap(kap :ET.Element, radiko : dict[str,str]) -> dict[str,int]:
         words = {}
-        word = ""
+        word : str = ""
         if kap.text != None:
             word += kap.text
         for child in kap:
             if child.tag == 'tld': # I'm not checking here for var attrib's which is how ĥ to k variations are done
-                word += radiko # in the var case we swap out the tld with the other root, so radiko should be like a map from var tag to root text
+                var = child.get('var')
+                if var != None:
+                    word += radiko[var]
+                else:
+                    word += radiko[''] # in the var case we swap out the tld with the other root, so radiko should be like a map from var tag to root text
             if child.tag == 'var':
                 commaindex = word.find(',')
                 if commaindex != -1:
@@ -144,7 +148,7 @@ def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[
                 word = ""
                 innerkap = child.find('kap')
                 if innerkap != None:
-                    words |= getwordsfromkap(innerkap,radtext)
+                    words |= getwordsfromkap(innerkap,radiko)
             if child.tail != None:
                 word += child.tail
         word = word.strip()
@@ -169,22 +173,31 @@ def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[
 
     outter_output : dict[str,int] = {} 
     tree = ET.fromstring(xml)
-    radtext : str = ''
+    radtexts : dict[str,str] = {}
     
-    rad = tree.find('art/kap/rad')
-    if rad != None and rad.text != None:
-        radtext = rad.text
-        rootsfile.write(f'{rad.text}\n')
-
     art = tree.find('art')
     if art == None:
-        art = []
+        return {}
+    kap = art.find('kap')
+    if kap == None:
+        return {}
+    rad = kap.find('rad')
+    if rad != None and rad.text != None:
+        radtexts[''] = rad.text
+        rootsfile.write(f'{rad.text}\n')
+    for var in kap.iter('var'):
+        varrad = var.find('kap/rad')
+        if varrad != None:
+            radtexts[varrad.get('var')] = varrad.text
+            rootsfile.write(f'{varrad.text}\n')
+    
+    
     for drv in art.iter('drv'): #should I be using iter('drv') here?
         output : dict[str,int] = {} 
         extra_score = getscorefordrv(drv)
         kap = drv.find('kap')
         if kap != None:
-            output |= {w:(p + extra_score) for w,p in getwordsfromkap(kap,radtext).items()}
+            output |= {w:(p + extra_score) for w,p in getwordsfromkap(kap,radtexts).items()}
 
         for verbi in [w for w in output.keys() if len(w) > 0 and w[-1] == 'i']: # we should really ensure that the i isn't part of a gramatical word 
             try:
@@ -200,11 +213,12 @@ def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[
             except:
                 pass
 
-        if radtext + "o" in output.keys() and output.get(radtext,-1) < 50 + extra_score:
-            output[radtext] = 50 + extra_score
-            #output[radtext + "on"] = 35 + extra_score# might not be be something that appears often as the object 
-            #output[radtext + 'oj'] = 35 + extra_score# might not be something that apperas often in plural
-            #output[radtext + "ojn"] = 30 + extra_score# see above
+        for radtext in radtexts.values():
+            if radtext + "o" in output.keys() and output.get(radtext,-1) < 50 + extra_score:
+                output[radtext] = 50 + extra_score
+                #output[radtext + "on"] = 35 + extra_score# might not be be something that appears often as the object 
+                #output[radtext + 'oj'] = 35 + extra_score# might not be something that apperas often in plural
+                #output[radtext + "ojn"] = 30 + extra_score# see above
 
         # todo if theres an adjective ending we could throw on igi and iĝi
 
