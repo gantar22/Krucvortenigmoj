@@ -204,10 +204,10 @@ def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[
         for verbi in [w for w in output.keys() if len(w) > 0 and w[-1] == 'i']: # we should really ensure that the i isn't part of a gramatical word 
             try:
                 verb = verbi[:-1]
-                output[verb + 'us'] = 40 + extra_score
-                output[verb + 'u'] = 40 + extra_score
+                output[verb + 'us'] = 30
+                output[verb + 'u'] = 30
                 for v in ['i','a','o']:
-                    output[verb + v + 's'] = 40 + extra_score
+                    output[verb + v + 's'] = 30
                     for fin in ['a','o','']:
                         pass
                         #output[verb + v + 'nt' + fin] = 40 + extra_score

@@ -48,7 +48,7 @@ def extract_eo_text(tree : ET.Element) -> list[str]:
     output : list[str | None] = []
     for p in tree.iter('{http://www.tei-c.org/ns/1.0}p'): #todo also do '{}note' elements
         lang = p.get('{http://www.w3.org/XML/1998/namespace}:lang')
-        if lang != None and lang != 'eo' or p.get('{http://www.w3.org/XML/1998/namespace}id') == None:
+        if lang != None and lang != 'eo' or p.get('{http://www.w3.org/XML/1998/namespace}id') == None: # we should also just exclude names here
             continue
         output.append(p.text)
         for child in p.findall('*'):
