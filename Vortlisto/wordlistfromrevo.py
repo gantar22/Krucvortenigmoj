@@ -201,19 +201,23 @@ def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[
         if kap != None:
             output |= {w:(p + extra_score) for w,p in getwordsfromkap(kap,radtexts).items()}
 
-        for verbi in [w for w in output.keys() if len(w) > 0 and w[-1] == 'i']: # we should really ensure that the i isn't part of a gramatical word 
-            try:
-                verb = verbi[:-1]
-                output[verb + 'us'] = 30
-                output[verb + 'u'] = 30
-                for v in ['i','a','o']:
-                    output[verb + v + 's'] = 30
-                    for fin in ['a','o','']:
-                        pass
-                        #output[verb + v + 'nt' + fin] = 40 + extra_score
-                        #output[verb + v +  't' + fin] = 30 + extra_score # 30 because the verb might not be transitive. todo check for trans. in the file. also some verbs don't very sensible at constructions as they concern results and/or lack duration
-            except:
-                pass
+        sncs = drv.iter('snc')
+        gras = [gra for snc in sncs for gra in snc.iter('gra')]
+        vspecs = [vspec for gra in gras for vspec in gra.iter('vspec')]
+        if len(vspecs) > 0:
+            for radtext in radtexts:
+                try:
+                    verb = radtext
+                    output[verb + 'us'] = 30
+                    output[verb + 'u'] = 30
+                    for v in ['i','a','o']:
+                        output[verb + v + 's'] = 30
+                        for fin in ['a','o','']:
+                            pass
+                            #output[verb + v + 'nt' + fin] = 40 + extra_score
+                            #output[verb + v +  't' + fin] = 30 + extra_score # 30 because the verb might not be transitive. todo check for trans. in the file. also some verbs don't very sensible at constructions as they concern results and/or lack duration
+                except:
+                    pass
 
         for radtext in radtexts.values():
             if radtext + "o" in output.keys() and output.get(radtext,-1) < 50 + extra_score:
