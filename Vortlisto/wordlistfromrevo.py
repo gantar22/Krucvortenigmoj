@@ -127,7 +127,7 @@ def replacehats(s):
 def removeallentities(s):
     return re.sub('&.*?;','',s)
 
-def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[str,int]:
+def getwordsfromxml(tree : ET.Element, rootsfile : io.TextIOWrapper) -> dict[str,int]:
     def getwordsfromkap(kap :ET.Element, radiko : dict[str,str]) -> dict[str,int]:
         words = {}
         word : str = ""
@@ -174,7 +174,6 @@ def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[
         return score
 
     outter_output : dict[str,int] = {} 
-    tree = ET.fromstring(xml)
     radtexts : dict[str,str] = {}
     
     art = tree.find('art')
@@ -190,8 +189,10 @@ def getwordsfromxml(xml : ET.ElementTree, rootsfile : io.TextIOWrapper) -> dict[
     for var in kap.iter('var'):
         varrad = var.find('kap/rad')
         if varrad != None:
-            radtexts[varrad.get('var')] = varrad.text
-            rootsfile.write(f'{varrad.text}\n')
+            varval = varrad.get("var")
+            if varval != None and varrad.text != None:
+                radtexts[varval] = varrad.text
+                rootsfile.write(f'{varrad.text}\n')
     
     
     for drv in art.iter('drv'): #should I be using iter('drv') here?
@@ -254,7 +255,7 @@ def main():
         file = open("revo/" + filename,"r",encoding='utf8')
         filetext = file.read()
         filetext = removeallentities(replacehats(filetext))
-        wordlist = getwordsfromxml(filetext,rootsfile)
+        wordlist = getwordsfromxml(ET.fromstring(filetext),rootsfile)
         for word in wordlist.keys():
             wordspaceless = ''.join(word.split())
             if len(wordspaceless) > 0:

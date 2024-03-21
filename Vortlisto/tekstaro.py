@@ -1,9 +1,10 @@
 import os
 import re
 import string
+from typing import Optional
 import xml.etree.ElementTree as ET
 
-def get_extras(roots : list[tuple[str]]) -> list[tuple[str]]:
+def get_extras(roots : list[tuple[str, ...]]) -> list[tuple[str]]:
     additions = []
     for word in roots:
         w = word
@@ -33,7 +34,7 @@ def get_extras(roots : list[tuple[str]]) -> list[tuple[str]]:
 
     return additions
 
-def extract_roots(text : str) -> list[tuple[str]]:
+def extract_roots(text : str) -> list[tuple[str, ...]]:
     words = text.split()
     roots = [tuple(w.split('_')) for w in words]
     remove_punctuation = lambda w: ''.join([c for c in w if not c in string.punctuation + '“”’‘‘0123456789-'])
@@ -45,7 +46,7 @@ def extract_roots(text : str) -> list[tuple[str]]:
     return roots
 
 def extract_eo_text(tree : ET.Element) -> list[str]:
-    output : list[str | None] = []
+    output : list[Optional[str]] = []
     for p in tree.iter('{http://www.tei-c.org/ns/1.0}p'): #todo also do '{}note' elements
         lang = p.get('{http://www.w3.org/XML/1998/namespace}:lang')
         if lang != None and lang != 'eo' or p.get('{http://www.w3.org/XML/1998/namespace}id') == None: # we should also just exclude names here
@@ -68,7 +69,7 @@ def load_roots() -> dict[str,int]:
 
     return extraroots | validroots
         
-def base_word_score(word : tuple[str], roots :dict[str,int]) -> int:
+def base_word_score(word : tuple[str, ...], roots :dict[str,int]) -> int:
     score = 19
     if len([r for r in word if not (r in roots)]) == 0:
         score = 50
@@ -79,10 +80,10 @@ def base_word_score(word : tuple[str], roots :dict[str,int]) -> int:
     return score
 
 
-def words_in_text(text : str, roots : dict[str,int] = {}) -> set[tuple[str]]:
+def words_in_text(text : str, roots : dict[str,int] = {}) -> set[tuple[str, ...]]:
     tree = ET.fromstring(text)
     strings : list[str] = extract_eo_text(tree)
-    output : set[tuple[str]] = set()
+    output : set[tuple[str, ...]] = set()
     for line in strings:
         for word in extract_roots(line):
             output.add(word)
@@ -94,7 +95,7 @@ def main():
 
     dir = os.fsencode("./tekstaroxml")
     roots = load_roots()
-    words_by_source : list[set[tuple[str]]] = []
+    words_by_source : list[set[tuple[str, ...]]] = []
     for filebytes in os.listdir(dir):
         # get the text from the xml files
         filename = os.fsdecode(filebytes)
@@ -107,7 +108,7 @@ def main():
         # extract the roots from the text
         words_by_source.append(words_in_text(filetext,roots))
     
-    words : set[tuple[str]] = {w for src in words_by_source for w in src if len([s for s in words_by_source if w in s]) > 1}
+    words : set[tuple[str, ...]] = {w for src in words_by_source for w in src if len([s for s in words_by_source if w in s]) > 1}
     for w in words:
         countfile.write(f"{''.join(w)};{base_word_score(w,roots)}\n")
     
