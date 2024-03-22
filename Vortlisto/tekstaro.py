@@ -49,11 +49,11 @@ def extract_eo_text(tree : ET.Element) -> list[str]:
     output : list[Optional[str]] = []
     for p in tree.iter('{http://www.tei-c.org/ns/1.0}p'): #todo also do '{}note' elements
         lang = p.get('{http://www.w3.org/XML/1998/namespace}:lang')
-        if lang != None and lang != 'eo' or p.get('{http://www.w3.org/XML/1998/namespace}id') == None: # we should also just exclude names here
+        if lang != None and lang != 'eo' or p.get('{http://www.w3.org/XML/1998/namespace}id') == None: 
             continue
         output.append(p.text)
         for child in p.findall('*'):
-            output.append(child.tail)
+            output.append(child.tail) # okay so this means that we're not include the inner text of things like names, but that doesn't quite seem to be the case
 
     return [o for o in output if o != None]
         

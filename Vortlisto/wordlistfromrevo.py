@@ -12,7 +12,7 @@ def scorefromstil(stil):
         'rar': -10,
         'poe': 10, #ne multaj artikoloj havas tion, sed ili ĉiuj estas bonaj
         'ark': -10,
-        'evi': -50,
+        'evi': -100,
         'komune': 5,
         'neo': 0, #mi ŝatas, sed mi ne volas plioftigi ilin, se ili venas ili venas
     }
@@ -168,7 +168,7 @@ def getwordsfromxml(tree : ET.Element, rootsfile : io.TextIOWrapper) -> dict[str
                 if tip == "fak" and uzo.text != None:
                     score += scorefromfak(uzo.text.lower())
                 if tip == "stl" and uzo.text != None:
-                    score += scorefromstil(uzo.text.lower())
+                    score += scorefromstil(uzo.text.lower()) # investigate: letala scored 50, but it should have got the -50 hit from stl = evi
             scores.append(score)
         score = min(max(scores + [0]),39) + len([sojlo for sojlo in senc_kalk_sojloj if sojlo <= len(sencoj)])
         return score
