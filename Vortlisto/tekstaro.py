@@ -4,7 +4,7 @@ import string
 from typing import Optional
 import xml.etree.ElementTree as ET
 
-def get_extras(roots : list[tuple[str, ...]]) -> list[tuple[str]]:
+def get_extras(roots : list[tuple[str, ...]]) -> list[tuple[str, ...]]:
     additions = []
     for word in roots:
         w = word
