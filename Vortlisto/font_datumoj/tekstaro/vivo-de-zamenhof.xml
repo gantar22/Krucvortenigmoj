@@ -1,0 +1,1084 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI SYSTEM "../dtd/tei-tekstaro.dtd">
+<TEI xml:id="vivo-de-zamenhof" xml:lang="eo" xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>Vivo de Zamenhof: elektronika versio</title>
+
+			</titleStmt>
+
+			<extent>24.197 vortoj</extent>
+
+			<publicationStmt>
+
+				<publisher><name xml:lang="en">Esperantic Studies Foundation</name></publisher>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<biblStruct>
+
+					<monogr>
+
+						<author><name xml:lang="fr">Edmond Privat</name></author>
+
+						<title type="main">Vivo de Zamenhof</title>
+
+						<imprint>
+
+							<publisher>Inko</publisher>
+
+							<pubPlace><name xml:lang="sv">Tyresö</name></pubPlace>
+
+							<date>2001</date>
+
+						</imprint>
+
+						<extent>113 p.</extent>
+
+					</monogr>
+
+					<note>Proksimuma verkojaro: 1920</note>
+
+					<note>Kreis la Esperantan tekston: <name xml:lang="fr">Privat</name></note>
+
+					<note type="nemontri">PIV-aŭtoro: P</note>
+
+					<note type="nemontri">Ĉefdivido: antauparolo chapitro</note>
+
+				</biblStruct>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<text>
+
+		<front>
+
+			<div xml:id="vivo-de-zamenhof-antauparolo" type="antauparolo">
+
+				<head xml:id="bo2">AVERT_O DE LA AŬTOR_O</head>
+
+				<p xml:id="bo3">Tie ĉi ne kuŝ_as histori_o de la lingv_o Esperant_o, nek rakont_o pri la mov_ad_o esperant_ist_a.</p>
+
+				<p xml:id="bo4">La cel_o est_is ja skiz_o pri la viv_o kaj la pens_o de Ludovik_o Zamenhof. La zorg_o ne est_is, ĉu ĝi plaĉ_os al unu aŭ ali_a; nur, ĉu sufiĉ_e fidel_e kaj am_e ĝi sekv_os la ĝust_a_n ver_o_n.</p>
+
+				<p xml:id="bo5">Anim_o plej grand_a, geni_o plej pur_a ŝuld_as form_o_n al la ĉirkaŭ_a mond_o. Tial, per de_ven_o kaj nask_iĝ_a land_o neces_is ja komenc_i. Kio_n ŝuld_as ni al memor_o de la mort_int_o, ĉiam viv_a per inspir_o, tio_n kar_e ni konserv_as ĉiu_j en la kor_o, kiel lum_o_n.</p>
+
+				<closer>
+
+					<signed xml:id="bo6"><name>E. P.</name></signed>
+
+					<dateline xml:id="bo7"><name type="place">Ĝenev_o</name>, <date>juli_o, 1920.</date></dateline>
+
+				</closer>
+
+			</div>
+
+		</front>
+
+		<body>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-1" type="chapitro">
+
+				<head xml:id="bo8">ĈAPITR_O I</head>
+
+				<head xml:id="bo9" type="subordinate">LA GENT_O_J EN LITV_A LAND_O</head>
+
+				<p xml:id="bo10">Mez_e inter Orient_o kaj Okcident_o kuŝ_as Litv_a land_o, kant_it_a de Mickieviĉ en Sinjor_o Tade_o:</p>
+
+				<p xml:id="bo11">Litv_o! Patr_uj_o mi_a! simil_a al san_o,<lb/>
+Vi_a_n grand_a_n valor_o_n ek_kon_as litv_an_o,<lb/>
+Vi_n perd_int_e. Bel_ec_o_n vi_a_n mi admir_as,<lb/>
+Vid_as ĝi_n kaj pri_skrib_as, ĉar mi hejm_o_sopir_as ...<lb/>
+Al mont_et_o_j arb_ar_a_j, herb_ej_o_j verd_ant_a_j,<lb/>
+Larĝ_e apud lazur_a Njemen tir_iĝ_ant_a_j ...<ptr xml:id="vivo-de-zamenhof-1" target="#noto-vivo-de-zamenhof-1"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-1" target="#vivo-de-zamenhof-1">Sinjor_o Tade_o, traduk_o de <name xml:lang="">Grabowski</name>, kies diferenc_ig_o inter Litv_an_o kaj Litov_o est_as akcept_it_a tie ĉi. La sen_de_pend_a pol_a Respublik_o konsist_is el du ĉef_a_j part_o_j: Pol_a kron_o kaj Litv_o. Ne ĉiu_j Litv_an_o_j est_as Litov_o_j, t. e. an_o_j de la litov_a gent_o.</note>
+
+				<p xml:id="bo17">Sur tiu dolĉ_a ter_o viv_as jam de mil_jar_o_j unu el plej mal_nov_a_j gent_o_j de la ari_a mond_o. En la nord_a part_o est_as parol_at_a ankoraŭ la antikv_a lingv_o litov_a, proksim_a al la sanskrit_a. En pur_a_j mor_o_j kaj popol_a_j kant_o_j iel reg_as atmosfer_o mister_a kun influ_o_j pens_ig_a_j al Hind_uj_o pra_temp_a.</p>
+
+				<p xml:id="bo18">Long_e viv_ad_is en pac_o tiu gent_o trankvil_a, de Krist_an_ism_o ne_tuŝ_it_a ĝis dek-tri_a jar_cent_o. De la ceter_a mond_o for_kaŝ_it_a per marĉ_o_j kaj dens_a_j arb_ar_eg_o_j, kie kur_as ĝis nun sovaĝ_a_j urb_ov_o_j, la popol_o daŭr_is ador_i la fort_o_j_n de la natur_o sub gigant_a_j kverk_o_j, viv_ant_a templ_o de la di_o_j.</p>
+
+				<p xml:id="bo19">Tie tamen ek_batal_is okcident_a vol_o kun orient_a pacienc_o. En la mez_epok_o teŭton_a_j kavalir_o_j tiu_n land_o_n al_milit_is, pol_a_j nobel_o_j ĝi_n lig_is al si_a ŝtat_o, mosk_ov_a car_o ĝi_n atak_is. Dum_e al_kur_ad_is el tut_a mond_o persekut_at_a_j Hebre_o_j por star_ig_i man_labor_o_n kaj komerc_o_n laŭ invit_o reĝ_a. Tiel ali_a gent_o tre mal_jun_a trov_is tie nov_a_n Palestin_o_n kaj fond_is urb_o_j_n aŭ plen_ig_is ili_n.</p>
+
+				<p xml:id="bo20">Kun si ĝi en_port_is industri_o_n kaj negoc_o_n, sed ankaŭ si_a_n lingv_o_n german-jud_a_n, propr_a_n kred_o_n kaj Sabat_o_n, eĉ apart_a_j_n vest_o_j_n. Ekster_e montr_is la Hebre_o_j hered_a_n tim_em_o_n pro kutim_a_j bat_o_j, intern_e la fier_a_n fidel_ec_o_n al profet_a_j tradici_o_j:</p>
+
+				<p xml:id="bo21">Aŭskult_u mi_n, vi, kiu_j kon_as la ver_o_n,<lb/>
+Popol_o, hav_ant_a mi_a_n instru_o_n en kor_o:<lb/>
+Ne tim_u ofend_o_n de hom_o_j,<lb/>
+Ne trem_u antaŭ insult_o_j.</p>
+
+				<p xml:id="bo25">Lev_iĝ_u, lev_iĝ_u, vi_n vest_u per fort_o,<lb/>
+Ho brak_o de l’ Etern_ul_o;<lb/>
+Lev_iĝ_u, kiel en temp_o_j antikv_a_j,<lb/>
+Ĉu ne vi dis_hak_is Fier_ul_o_n?<lb/>
+Ĉu ne vi sek_ig_is la mar_o_n?<ptr xml:id="vivo-de-zamenhof-2" target="#noto-vivo-de-zamenhof-2"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-2" target="#vivo-de-zamenhof-2"><name xml:lang="">Jesaja</name> <num>LI</num>, 7, 9, 10.</note>
+
+				<p xml:id="bo30">Kiam dis_fal_is la litv_o-pol_a respublik_o je la fin_o de la jar_cent_o dek-ok_a, preskaŭ la tut_a litv_a nobel_ar_o de long_e jam for_las_is la pra_patr_a_n lingv_o_n kaj far_iĝ_is pol_a kor_e kaj parol_e. La litov_a_n lingv_o_n daŭr_is uz_i vilaĝ_an_o_j en la nord_o, la blank_ruten_a_n tiu_j en la sud_o. La pol_a son_is en kastel_o_j, en preĝ_ej_o_j katolik_a_j, en la Viln_a_j alt_lern_ej_o_j, kaj en dom_o_j societ_a_j. En urb_o_j eĉ German_o_j hav_is propr_a_n koloni_o_n kaj kvartal_o_n, sed, en la strat_o_j de la komerc_o, la jud_a lingv_o son_is ĉef_e. Super tiu divers_ec_o pez_ig_is urs_a_n man_o_n la rus_a imperi_o dum la tut_a dek_naŭ_a jar_cent_o. En ĉiu_j urb_o_j amas_iĝ_is arme_o da soldat_o_j, oficir_o_j, ofic_ist_o_j rus_a_j ĉiu_grad_a_j. En la palac_o loĝ_is rus_a guberni_estr_o. Sur la ĉef_a plac_o bril_is la or_a_j tur_o_j de la rus_a preĝ_ej_o.</p>
+
+				<p xml:id="bo31">Du_foj_e la Pol_o_j kaj Litv_an_o_j prov_is for_sku_i la fremd_a_n prem_o_n per arm_il_o_j. En 1831 kaj 1863 tra la tut_a mond_o son_is la sang_a plend_o de la hero_a_j ribel_ant_o_j. Ambaŭ_foj_e sur la land_o_n re_fal_is des_pli pez_e la venĝ_a kruel_ec_o de la venk_int_o. Eĉ la rus_a lingv_o jam trud_iĝ_is dev_ig_e en la lern_ej_o_j.</p>
+
+				<p xml:id="bo32">Kiam Zamenhof est_is ses_jar_a knab_et_o en la urb_o Bjalistok_o, ĵus fin_iĝ_is la du_a revoluci_o kaj post_las_is ĉie sang_o_n, larm_o_j_n, akr_a_j_n sent_o_j_n. Por dis_cel_ig_i la koler_o_n de la popol_o, la rus_a reg_ist_ar_o klopod_is perfid_e ĵet_i gent_o_j_n kontraŭ unu la ali_a_j. “Divid_e ut imperes” far_iĝ_is oficial_a sistem_o. Tia incit_ad_o est_is tiom pli facil_a, ĉar ĉiu gent_o jam viv_is tre apart_e de la ceter_a_j. Ankaŭ per kondiĉ_o_j materi_a_j, la reg_ist_ar_o pli_akr_ig_is la naci_a_j_n diferenc_o_j_n. Lert_a leĝ_o liber_ig_is vilaĝ_an_o_j_n de sklav_ec_o al ter_mastr_o_j, sed sam_temp_e las_is ili_n sen ia propr_a kamp_o. Tial ili dev_is tamen pag_i lu_o_n per labor_o si_a, kaj barakt_i pli ĵaluz_e kun la riĉ_a_j posed_ant_o_j. Ĉar la mastr_o_j est_is pol_a_j, dum litov_a_j aŭ blank_rus_a_j rest_is ĉiu_j kamp_ar_an_o_j, la gent_a_j_n sent_o_j_n jam venen_is la disput_o.</p>
+
+				<p xml:id="bo33">Pli post_e re_nask_iĝ_is en la land_o naci_a mov_ad_o de Litov_o_j, kies literatur_o kaj apart_a patriot_ism_o re_flor_is kun fervor_o. Tio_n baldaŭ persekut_is la Rus_o_j kaj mal_ŝat_is la Pol_o_j, pro suspekt_o kaj ĵaluz_o. Pli diabl_a ruz_o est_is la car_a politik_o rilat_e al Hebre_o_j. Ili_n oni pel_is okcident_e_n el divers_a_j part_o_j de Rus_land_o, per ĉia_j leĝ_o_j kaj regul_o_j, kun la cel_o super_ŝut_i pol_a_j_n urb_o_j_n kaj mal_fort_ig_i la rezist_o_n. Kiel ŝaf_ar_o for_vip_it_a, mil_o_j da mal_feliĉ_a_j Hebre_o_j ek_loĝ_is en Pol_uj_o ĉiu_jar_e. Eduk_it_a_j rus_e, fremd_a_j al kutim_o kaj al la lingv_o de la land_o, komerc_em_a_j, barakt_em_a_j por ne mort_i pro mal_sat_o, ili est_is ĉiel abomen_at_a_j de la pol_a societ_o, kvazaŭ grav_a mal_help_aĵ_o al defend_o kontraŭ Rus_o_j.</p>
+
+				<p xml:id="bo34">Ĉe prem_at_a_j naci_o_j konstant_a sufer_ad_o nask_as oft_e plej potenc_a_n sopir_eg_o_n de la pens_o, kvazaŭ inspir_o ĉiel_a. La litv_a pol_a poet_o Mickieviĉ, el Viln_o for_pel_it_a de la rus_a reg_ist_ar_o, son_ig_is tra Eŭrop_o geni_a_n al_vok_o_n al sankt_iĝ_o de si_a popol_o por sav_i ĉiu_j_n gent_o_j_n de la mond_o. Eĉ antaŭ li_a mister_a renkont_o kun la mistik_ul_o Tovianski, li jam predik_is al Pol_o_j plen_a_n mesi_an_ism_o_n. Kiel Krist_o kruc_um_it_a pro la kulp_o_j hom_a_j, tiel Pol_uj_o dis_ŝir_it_a pun_pag_is la pek_o_j_n de la ŝtat_o_j. Sed est_is ankaŭ por ĝi son_ont_a la hor_o de korp_a re_nask_iĝ_o, kaj tiam ek_reg_os pac_o sur ter_o:</p>
+
+				<p xml:id="bo35">Kiel Krist_o ja venk_is la tomb_o_n,<lb/>
+tiel ankaŭ Pol_uj_o re_viv_os,<lb/>
+por sav_i popol_o_j_n kaj Lig_o_n<lb/>
+ili_a_n sigel_i por daŭr_a just_ec_o.<ptr xml:id="vivo-de-zamenhof-3" target="#noto-vivo-de-zamenhof-3"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-3" target="#vivo-de-zamenhof-3">El <name>Libr_o de l’ Pol_a_j Pilgrim_ant_o_j</name>, de Adam_o Mickieviĉ, naci_a poet_o, mort_int_a en 1855.</note>
+
+				<p xml:id="bo39">Ĉe la pol_a_j rond_o_j en litv_a_j urb_o_j re_varm_iĝ_is la kor_o_j per tia esper_o. Dum_e ĉe Hebre_o_j, apart_e loĝ_ant_a_j, ankaŭ sent_iĝ_is rev_ad_o mesi_an_a. Kiu de la ekster_a mond_o ricev_as nur mal_ŝat_o_n, re_bat_o_n kaj dolor_o_n, tiu serĉ_as en si mem ia_n ĝoj_o_n por la spirit_o kaj kre_as al si propr_a_n intern_a_n viv_o_n.</p>
+
+				<p xml:id="bo40">Tiel dis_vast_iĝ_is inter la jud_a_j rond_o_j, en Pol_uj_o kaj apud_e, sopir_ad_o je patr_uj_o palestin_a kaj je fin_a re_grup_iĝ_o de la Mose_a famili_o sur la promes_it_a ter_o. Ankaŭ reg_is inter ili fid_o sen_ŝancel_a je la sankt_a rol_o de la Hebre_o_j, popol_o de Di_o elekt_it_a kaj per sufer_o prepar_it_a al grand_a task_o ne_kon_at_a. Tio_n anonc_is jam la profet_o_j de la antikv_a temp_o, kaj prem_it_a_j kor_o_j ja rajt_as esper_i:</p>
+
+				<p xml:id="bo41">Ĝoj_u kun Jerusalem,<lb/>
+Kaj est_u gaj_a_j pri ĝi ...<lb/>
+Jen Mi flu_ig_os sur ĝi_n<lb/>
+Pac_o_n kiel river_o_n,<lb/>
+Kaj la riĉ_aĵ_o_n de la popol_o_j ...<lb/>
+Ven_is la temp_o<lb/>
+Kolekt_i ĉiu_j_n gent_o_j_n kaj popol_o_j_n.<lb/>
+Ke ili ven_u kaj vid_u Mi_a_n glor_o_n.<ptr xml:id="vivo-de-zamenhof-4" target="#noto-vivo-de-zamenhof-4"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-4" target="#vivo-de-zamenhof-4">Jesaja LXVI, I0, 12, 18.</note>
+
+				<p xml:id="bo49">En atmosfer_o pens_a flug_is do la grand_a_j inspir_o_j mesi_an_a_j, kaj ili sem_iĝ_is en spirit_o_j_n. Sur tia ter_o de akr_a sopir_ad_o geni_o_j kresk_as plej favor_e, sed plej_part_e ja perd_iĝ_as la sem_o_j en sabl_o, ĉar la amas_o ne kompren_as la plej alt_a_n senc_o_n de la inspir_o_j. Nur la naci_a_n flank_o_n la popol_o_j vid_as klar_e.</p>
+
+				<p xml:id="bo50">Al simpl_a reĝ_a kandidat_o la Hebre_o_j mal_alt_ig_is Krist_o_n si_a_temp_e. Nur pri pol_a ŝtat_o pens_is la Pol_o_j, kaj ek_mir_is, kiam frat_e Mickieviĉ parol_is al Rus_o_j. Pri li_a hom_ar_am_a spirit_o el hind_o-litov_a_j pra_patr_o_j ili rest_is preskaŭ blind_a_j.</p>
+
+				<p xml:id="bo51">En Eŭrop_o milit_o_j dis_paf_ad_is pro naci_a_j cel_o_j: por ital_a liber_ig_o, por unu_ec_o german_a. La popol_o_j_n prem_is en Kaŭkaz_o kaj sub_ten_is en Balkan_o la rus_a car_o. Li_n bat_is la imperi_estr_o franc_a, kaj tiu_n venk_is la prus_a reĝ_o. La last_a_n ribel_o_n de la Pol_o_j per sang_o sub_akv_ig_is rus_a_j general_o_j. Ĉie progres_ad_is teknik_o milit_a kaj akr_iĝ_is incit_o_j naci_a_j, sed en la okcident_o la gent_o_j_n divid_as ja lim_o_j natur_a_j, dum en la orient_o ili viv_as miks_it_e.</p>
+
+				<p xml:id="bo52">Sur la litv_a ter_o kvar gent_o_j mal_sam_a_j loĝ_is en la urb_o_j, kun cel_o_j kontraŭ_a_j, kun lingv_o_j divers_a_j, kun kred_o_j mal_amik_a_j. De strat_o al strat_o reg_is mal_fid_o, suspekt_o, sur plac_o_j ofend_o ĉiu_tag_a, venĝ_em_o, persekut_o kaj mal_am_o. Sur tiu ter_o mal_feliĉ_a nask_iĝ_is Zamenhof. En kiu lok_o pli natur_e al_kresk_us tia geni_ul_o, kies vid_o pli profund_e_n tra_penetr_is, kaj pli alt_e_n super_flug_is trans la naci_a_j ego_ism_o_j al pur_e hom_a mond_rigard_o?</p>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-2" type="chapitro">
+
+				<head xml:id="bo53">ĈAPITR_O II</head>
+
+				<head xml:id="bo54" type="subordinate">INFAN_O EN BJALISTOK_O</head>
+
+				<p xml:id="bo55">De la patr_in_o la kor_o, de la patr_o la cerb_o, de la lok_o la impres_o: jen la tri ĉef_a_j element_o_j en la form_ad_o de Zamenhof_a geni_o. Konscienc_a pedagog_o est_is la patr_o Mark_us Zamenhof, nask_it_a de hebre_a_j ge_patr_o_j la 27-a_n de januar_o 1837 en Tikocin, ĉe la land_lim_o inter la pol_a kaj litv_a land_o_j, tiam reg_at_a_j de la rus_a car_o. Du_dek_jar_a jun_ul_o, li fond_is lern_ej_o_n en la najbar_a urb_o Bjalistok_o, kaj edz_iĝ_is kun fil_in_o de hebre_a komerc_ist_o tie, Rozalja Sofer, nask_it_a en 1839. Ne mult_a_j est_is la lern_ant_o_j, kaj ne_riĉ_a la par_o.</p>
+
+				<p xml:id="bo56">La 15-a_n de decembr_o 1859 nask_iĝ_is Ludovik_o Lazar_o, la unu_a fil_o. Kvar ali_a_j kaj tri fil_in_o_j post_e ven_is. Ĝoj_o grand_a, sed zorg_o pez_a. Baldaŭ la patr_o akcept_is oficial_a_n posten_o_n: ĉe la mez_a_j ŝtat_lern_ej_o_j li far_iĝ_is instru_ist_o de geografi_o kaj modern_a_j lingv_o_j. En 1873 li trans_loĝ_is al Varsovi_o kun la tut_a famili_o, kaj de tiam instru_is la german_a_n lingv_o_n ĉe la Veterinar_a Institut_o kaj en real_a gimnazi_o.</p>
+
+				<p xml:id="bo57">Grand_iĝ_is la infan_ar_o kaj est_is ne_sufiĉ_a la salajr_o. La hejm_o dev_is mal_ferm_iĝ_i al dek kvin ĝis du_dek pension_an_o_j. Eĉ tio ne tre help_is. Baldaŭ la ge_fil_et_o_j vid_is, ke la patr_o jam al_don_is nov_a_n labor_o_n al si_a kutim_a korekt_ad_o de knab_a_j skrib_aĵ_o_j: akcept_int_e pli_a_n cenzur_a_n ofic_o_n, li ĉiu_vesper_e sub la lamp_o mal_lig_is dik_a_n amas_o_n da fremd_a_j gazet_o_j, kaj, pren_ant_e ruĝ_a_n krajon_o_n en la man_o, tra_leg_ad_is ĵurnal_o_n post ĵurnal_o.</p>
+
+				<p xml:id="bo58">Tiu_n pli_a_n ofic_o_n oni komisi_is al li pro li_a rimark_ind_a kon_o de fremd_a_j lingv_o_j; sed la pedagog_a task_o pli taŭg_is laŭ li_a natur_o. Pri geografi_o li publik_ig_is en la rus_a lingv_o tre praktik_a_j_n lern_o_libr_o_j_n.</p>
+
+				<p xml:id="bo59">Per ĉiu_tag_a sen_ripoz_a pen_ad_o la ge_patr_o_j sukces_is hav_ig_i al si_a_j infan_o_j plen_a_n eduk_o_n en la gimnazi_o kaj universitat_o. Tri far_iĝ_is iam kurac_ist_o_j, kaj unu farmaci_ist_o.</p>
+
+				<p xml:id="bo60">Saĝ_a kaj sever_a est_is la patr_o, vir_o skeptik_a je rev_o_j, sed obstin_a je labor_o. Religi_a_n kred_o_n li hav_is nur unu sol_a_n, nom_e plej fidel_a_n akurat_ec_o_n al la dev_o ĉiu_tag_a.</p>
+
+				<p xml:id="bo61">Dolĉ_a_n anĝel_a_n natur_o_n hav_is la patr_in_o. Bon_kor_a, sent_em_a kaj ĉiel modest_a, ŝi tut_kor_e si_n don_is al si_a_j infan_o_j kaj al si_a mastr_um_ad_o. Blind_e fid_em_a je la saĝ_o kaj just_ec_o de la edz_o, ŝi tamen klopod_is mol_ig_i li_a_j_n juĝ_o_j_n en okaz_o de pun_o. Kiam el_ir_is el patr_a skrib_o_ĉambr_o mal_feliĉ_a kulp_ul_et_o, li preskaŭ ĉiam renkont_is sur_voj_e, kvazaŭ hazard_e, la patr_in_o_n pret_a por li_n ankaŭ “sever_e” admon_i, dum ŝi glat_is li_a_n kapet_o_n kun larm_o_j en la okul_o_j. “Plej cert_e ŝi_a kis_pun_o pli efik_is ol la man_o de la patr_o”, skrib_is unu el la frat_o_j de Ludovik_o mult_a_j_n jar_o_j_n post_e. “Kiam unu el ili rest_is sen tag_manĝ_o laŭ ordon_o patr_a, ne_vid_ebl_a anĝel_o-zorg_ant_o send_is al li porci_o_n per_e de mal_jun_a kuir_ist_in_o, dum la post_tag_mez_a dorm_et_o de la famili_estr_o, kaj ĉiam kompren_ebl_e nur hodiaŭ por la last_a foj_o”.<ptr xml:id="vivo-de-zamenhof-5" target="#noto-vivo-de-zamenhof-5"/> Sed ne al Ludovik_o, nur al li_a_j petol_em_a_j ge_frat_et_o_j okaz_is tia_j aventur_o_j, ĉar li_n respekt_is li_a patr_o kaj la tut_a famili_o, kvazaŭ plen_aĝ_ul_o_n. Saĝ_a, modest_a, pens_em_a, stud_em_a, neniam laŭt_a, kvankam obstin_et_a, li ĉiam evit_is sufer_ig_i iu_n ajn. En la klas_o li jam aper_ig_is kler_o_n ne_ordinar_a_n kaj talent_o_n por verk_ad_o. La instru_ist_o_j admir_is li_n. La amik_o_j nom_is li_n “baron_o”, pro li_a trankvil_a si_n_ten_o kaj ĝentil_a_j manier_o_j. Tamen tut_e ne super_ul_o mal_rid_em_a li si_n montr_is en la hejm_o kaj lern_ej_o. Pal_a kaj mal_fort_a li est_is kiel infan_et_o, sed jam vigl_a kaj ĝoj_em_a knab_o li far_iĝ_is, bon_eg_a aranĝ_ist_o de fest_et_o_j kaj ekskurs_o_j. Kiel ĉef_o_n kaj anim_o_n de la amuz_o_j, li_n ĉirkaŭ_is la ge_frat_o_j aŭ koleg_o_j. Li plej ŝat_is danc_ad_o_n, sed por problem_o_j mal_facil_a_j de lern_ej_a task_o li est_is ankaŭ tre help_em_a konsil_ant_o.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-5" target="#vivo-de-zamenhof-5">El privat_a leter_o de Feliks Zamenhof.</note>
+
+				<p xml:id="bo62">De si_a patr_in_o li hered_is la sent_em_a_n bon_kor_ec_o_n, kaj ŝi_n li ador_is, kvazaŭ di_a_n anĝel_in_o_n. Oft_e mal_san_a_n, li ŝi_n fleg_is kun zorg_em_o kor_tuŝ_ant_a, kaj ĉiu_j_n dezir_et_o_j_n ŝi_a_j_n li antaŭ_plen_um_is delikat_e. Li_n la patr_in_o kompren_ebl_e jam rigard_is fru_e kiel trezor_o_n plej kar_a_n. Ŝi am_is li_n kiel okul_pup_il_o_n, kaj en la tut_a mond_o ekzist_is laŭ ŝi neniu pli bon_a.</p>
+
+				<p xml:id="bo63">Kred_ebl_e prav_e. Kio star_as super la am_o patr_in_a? Tra dolor_o_j sen_ŝancel_a, kompren_em_a kaj fidel_a, ĝi si_n don_as, kaj don_as ĝis mort_o ... kaj post_e ĝi help_as ankoraŭ.</p>
+
+				<p xml:id="bo64">Simil_a_j am_o_j inter fil_o kaj patr_in_o ĉe mult_a_j geni_ul_o_j est_as oft_e rimark_ebl_a_j. <name xml:lang="">Pope</name>, <name xml:lang="">Musset</name>, <name xml:lang="">Lamartine</name> ador_is si_a_n patr_in_o_n, kaj al ŝi tre mult_o_n ŝuld_is. Sam_e Zamenhof. Ŝi far_is li_n ideal_ist_o, kaj fid_is li_a_n grand_ec_o_n kun esper_o konstant_a. Pi_e ŝi gard_is tiu_n flam_o_n, kvazaŭ lum_bril_et_o_n de lamp_o sankt_a. Simpl_a vir_in_o ŝi est_is, kaj tial li_n eduk_is, ke ĉiu_j hom_o_j est_as frat_o_j kaj egal_a_j antaŭ Di_o.</p>
+
+				<p xml:id="bo65">Saĝ_a patr_o li_n re_vok_is al la real_o for de la rev_o_j. La knab_o ja vid_is la fakt_o_j_n ĉirkaŭ si en strat_o_j Bjalistok_o_a_j:</p>
+
+				<p xml:id="bo66">Preter la fenestr_o_j de la lign_a dom_o Zamenhof_a, sur la strat_o Verd_a, pas_is ar_o da Hebre_o_j kun la tip_a_j long_a_j barb_o_j ... Al la vizaĝ_o_j jen cel_traf_as neĝ_a_j kugl_o_j en paf_ad_o. Frap_o sub okul_o. Sang_as vang_o. Plend_as mal_jun_ul_o ... “Ne blek_u, jud_aĉ_o_j! hund_o_j!” kri_as la knab_o_j el krist_an_a gent_o, kaj for_kur_as, mok_ant_e la ne_kon_at_a_n jud_a_n lingv_o_n: “Hra, hre, hri, hro, hru.” Tio_n pri_rid_as kaj aplaŭd_as rus_a leŭtenant_o: “For_marŝ_u de la trotuar_o, vi, ras_o de ŝtel_ist_o_j! ...” kaj kraĉ_as la oficir_o pro mal_ŝat_o.</p>
+
+				<p xml:id="bo67">Sur la vend_o_plac_o mov_iĝ_as la popol_amas_o. Bru_ad_as paŝ_o_j kaj parol_o_j en zum_ad_o laŭt_a. Bril_as kolor_o_j inter korb_o_j kaj legom_o_j: verd_a_j ŝal_o_j de vir_in_o_j el la kamp_ar_o litv_a, ŝaf_a_j pelt_o_j, griz_a_j vest_o_j de soldat_o_j, mantel_o_j kamel_har_a_j, blu_a_j uniform_o_j de la rus_a_j ofic_ist_o_j, blank_a_j zon_o_j, ruĝ_a_j kol_um_o_j, or_a_j agl_o_j, arĝent_a_j ornam_aĵ_o_j ... Disput_as la vend_ist_in_o_j kun german_a marĉand_ul_o. Al_kur_as hom_o_j. Ar_iĝ_as vid_em_ul_o_j. Ĝendarm_o_j inter_ven_as. Jen plend_as la vir_in_o_j en dialekt_o litv_a. La polic_an_o_j ne kompren_as. “Rus_e parol_u!” minac_as la oficir_o, “nur rus_e, ne lingv_aĉ_e! ĉi tie est_as rus_a land_o! ...” Protest_as Pol_o el la amas_o ... Kie? ... Jen la vir_o. Jam li_n kapt_as la ĝendarm_o_j. Trem_as la ĉe_est_ant_o_j, eĉ ne_vol_e. Inter tranĉ_a_j bajonet_o_j li for_marŝ_as, arest_it_a. Silent_as la vilaĝ_an_o_j. Per salut_o ĉiu_j Pol_o_j honor_as la martir_o_n, sed la German_o_j kaj Hebre_o_j ne for_pren_as si_a_n ĉap_o_n. “Jam li ĉes_os ni_n insult_i”, murmur_as long_barb_ul_o. Koler_o fajr_as en la okul_o_j pol_a_j, mok_em_o en la rus_a_j.</p>
+
+				<p xml:id="bo68">Kio_n sci_as tiu_j hom_o_j unu_j pri la ali_a_j? Ke ankaŭ ili hav_as kor_o_n, kon_as ĝoj_o_n kaj dolor_o_n, am_as hejm_o_n kun edz_in_o kaj infan_o_j? Eĉ pens_o tia ne okaz_as. Ekzist_as nur Hebre_o_j, Rus_o_j, Pol_o_j, German_o_j ... ne hom_o_j, sol_e gent_o_j. En si_a dom_o ĉiu akcept_as nur sam_gent_an_o_j_n. Kun mal_ben_o de la ge_patr_o_j for_pel_iĝ_as el la hejm_o pol_a jun_ul_in_o, se al Rus_o ŝi promes_is fid_o_n. Pri Litov_o_j oni rid_as: “Est_as ja nur vilaĝ_an_o_j!” Ili_a poezi_o kaj naci_a re_vek_iĝ_o? Laŭ Pol_o_j “intrig_o rus_a”, laŭ Rus_o_j “german_a pag_it_aĵ_o”. Eĉ io_n pli neniu sci_as pro la lingv_o mal_facil_a. Pri Hebre_o_j rakont_iĝ_as strang_a_j mister_aĵ_o_j ĉe la vesper_a babil_ad_o inter slav_a_j flik_ist_in_o_j. “Mal_aper_is bub_o du tag_o_j_n antaŭ la jud_a Pask_o. Sur la pord_o sinagog_a vid_iĝ_as ruĝ_a makul_et_o sub ne leg_ebl_a skrib_aĵ_o. Kiu pov_as kompren_i la hebre_a_n liter_aĉ_o_n? Terur_e ĝi aspekt_as ... Ankaŭ strang_a_j ŝajn_is la rigard_o_j de la amas_o jud_a sur ŝtup_ar_o de la sinagog_o. Ĉu la Hebre_o_j ne mort_ig_us bub_o_j_n por hav_ig_i sang_o_n laŭ kaŝ_a rit_o? Por ili la pan_ist_o kuir_as kuk_o_j_n mister_a_j_n ...” Tiel kur_as la murmur_ad_o. Post_e la bub_o re_trov_iĝ_as, sed vast_iĝ_is jam la fam_o kaj efik_is en spirit_o_j.</p>
+
+				<p xml:id="bo69">Pri tia_j kalumni_o_j indign_is jam knab_et_o Zamenhof en Bjalistok_o. Kio_n far_i, por ke la hom_o_j ne erar_u tiel abomen_e? El tia_j kred_o_j kaj incit_o_j rezult_as iam ver_a_j katastrof_o_j.</p>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-3" type="chapitro">
+
+				<head xml:id="bo70">ĈAPITR_O <num>III</num></head>
+
+				<head xml:id="bo71" type="subordinate">GIMNAZI_AN_O EN VARSOVI_O</head>
+
+				<p xml:id="bo72">Kvar_dek jar_o_j_n pli post_e, en 1905, rus_a_j band_o_j milit_ist_a_j sang_um_is Bjalistok_o_n per plej terur_a pogrom_o:</p>
+
+				<p xml:id="bo73">“En la strat_o_j de mi_a mal_feliĉ_a urb_o de nask_iĝ_o, sovaĝ_a_j hom_o_j kun hak_il_o_j kaj fer_a_j stang_o_j si_n ĵet_is kiel plej krud_a_j best_o_j kontraŭ trankvil_a_j loĝ_ant_o_j, kies tut_a kulp_o konsist_is nur en tio, ke ili parol_is ali_a_n lingv_o_n kaj hav_is ali_a_n gent_a_n religi_o_n, ol tiu_j ĉi sovaĝ_ul_o_j. Pro tio oni frakas_is la krani_o_j_n kaj el_pik_is la okul_o_j_n al vir_o_j kaj vir_in_o_j, kaduk_a_j mal_jun_ul_o_j kaj sen_help_a_j infan_o_j ...</p>
+
+				<p xml:id="bo74">Oni sci_as nun tut_e klar_e, ke kulp_a est_as ar_o da abomen_ind_a_j krim_ul_o_j, kiu_j per divers_a_j plej ruz_a_j kaj plej mal_nobl_a_j rimed_o_j, per amas_e dis_sem_at_a_j mensog_o_j kaj kalumni_o_j, art_e kre_as terur_a_n mal_am_o_n inter unu_j gent_o_j kaj ali_a_j. Sed ĉu la plej grand_a_j mensog_o_j kaj kalumni_o_j pov_us don_i tia_j_n terur_a_j_n frukt_o_j_n, se la gent_o_j si_n reciprok_e bon_e kon_us, se inter ili ne star_us alt_a_j kaj dik_a_j mur_o_j, kiu_j mal_permes_as al ili liber_e komunik_iĝ_ad_i inter si kaj vid_i, ke la membr_o_j de ali_a_j gent_o_j est_as tut_e tia_j sam_a_j hom_o_j kiel la membr_o_j de ni_a gent_o, ke ili_a literatur_o ne predik_as ia_j_n terur_a_j_n krim_o_j_n, sed hav_as tiu_n sam_a_n etik_o_n kaj tiu_j_n sam_a_j_n ideal_o_j_n kiel ni_a? Romp_u, romp_u la mur_o_j_n inter la popol_o_j! ...”</p>
+
+				<p xml:id="bo75">Tiel parol_is Zamenhof en 1906 dum la kongres_o en Ĝenev_o. Preskaŭ la sam_o_n li jam pens_is, est_ant_e bon_kor_a knab_et_o en Bjalistok_o. Dolor_is li_n la fremd_ec_o inter loĝ_ant_o_j de la sam_a land_o. Dolor_is li_n la mal_am_o_j en la tut_a mond_o. En li_a pens_em_a kapet_o form_iĝ_is jam plan_o kaj vol_o, ke “pli mal_fru_e”, kiam li est_os “grand_aĝ_ul_o”, li nepr_e for_ig_os tiu_n ĉi mal_bon_o_n. Divers_a_j_n rev_o_j_n utopi_a_j_n li for_ĵet_is unu post la ali_a, sed unu ĉef_a rest_is por li ĉiam pri_pens_ind_a: tio est_is la ide_o pri unu hom_a lingv_o. “Se nur la hom_o_j pov_us kompren_iĝ_i!” li sopir_is, kaj infan_e kalkul_ad_is, kiu_n lingv_o_n oni pov_us al_pren_i por la tut_mond_o. Pol_o_j mal_ŝat_us la rus_a_n, Rus_o_j ne vol_us la german_a_n, German_o_j ne toler_us la franc_a_n, Franc_o_j mal_akcept_us la angl_a_n. Kio_n far_i? Nur neŭtral_a lingv_o pov_us ĉiu_j_n kontent_ig_i, sen ofend_o kaj ĵaluz_o. Se tia_n lingv_o_n inter_naci_a_n ĉiu_j hom_o_j lern_us krom la si_a, tiam ili pov_us mem ek_kon_i unu la ali_a_j_n, de popol_o al popol_o. Rekt_e rilat_us ili kun_e. Ĉes_us la blind_a fid_o je gazet_o_j politik_a_j aŭ incit_o_j diplomat_a_j, por decid_i kred_o_n ĝeneral_a_n pri najbar_a_j gent_o_j.</p>
+
+				<p xml:id="bo76">Kiam el la real_lern_ej_o Bjalistok_a li trans_ir_is al la pol_a ĉef_urb_o kun la ge_patr_o_j, Ludovik_o Zamenhof en_iĝ_is varsovi_a_n gimnazi_o_n por klasik_a_j stud_o_j. La oficial_a_n histori_o_n li_a klar_a kompren_em_o tra_penetr_is ĝis la fund_a ver_o. Pri milit_o_j kaj lert_aĵ_o_j politik_a_j tem_is ja la tut_a instru_ad_o. Ne nur en la mal_feliĉ_a litv_a land_o la gent_o_j si_n mal_kon_is kaj mal_am_is reciprok_e. Ne nur tie flor_is la incit_o_j anonim_a_j. Ĉie potenc_a_j ŝtat_o_j-reg_ist_ar_o_j pri_zorg_is tio_n. De jar_cent_o_j ili jam kutim_is gvid_i la publik_a_n opini_o_n kontraŭ unu aŭ ali_a gent_o, laŭ la cel_o_j politik_a_j de la moment_o. Dum paf_il_eg_o_j fabrik_iĝ_is, jam labor_is gazet_ist_o_j, parol_ist_o_j, eĉ poet_o_j ŝovinist_a_j, por form_i sent_o_n ĝeneral_a_n.</p>
+
+				<p xml:id="bo77">Agent_o_j oficial_a_j dis_vast_ig_is ĉie rakont_o_j_n, suspekt_o_n kaj ekscit_o_n. Per bild_o_j kaj pres_aĵ_o_j ili tuŝ_is la kor_o_j_n de la vir_in_o_j, vek_is la indign_o_n de la popol_o, kre_is eĉ koler_o_n — ĉio_n nur por pren_i pec_et_o_n de land_o aŭ afrik_a_n koloni_o_n. Eksplod_is milit_o. Amas_e fal_is jun_a_j vir_o_j. Funebr_is la vir_in_o_j. Mizer_is la loĝ_ant_ar_o de la vilaĝ_o_j detru_it_a_j. Pac_o far_iĝ_is. La ŝtat_o perd_is cent mil hom_o_j_n propr_a_j_n, kaj aneks_is kvin_dek mil nigr_ul_o_j_n. Glor_as la general_o_j, bru_as la tambur_o_j, son_as muzik_o_j. Mir_ind_a sukces_o. La venk_it_a ŝtat_o pet_as alianc_o_n. Jam fin_iĝ_is incit_ad_o. De nun vid_u la bon_aĵ_o_j_n kaj forges_u ĉiu_j_n pek_o_j_n! Sed amik_o jam mal_nov_a ek_ĵaluz_as, postul_as “kompens_aĵ_o_n”. Kontraŭ tiu nun ek_marŝ_u la impres_maŝin_o, kaj ĉio sam_e re_komenc_u! ... k.t.p.</p>
+
+				<p xml:id="bo78">En la geni_a cerb_o de la jun_ul_o dis_volv_iĝ_is tiu bild_o kun preciz_o frap_a. Romp_u, romp_u la mur_o_j_n inter la popol_o_j! pens_is la knab_o Zamenhof. Ili est_as ja lul_il_o en la man_o_j de gvid_ant_o_j anonim_a_j. Ĉes_u la mal_kompren_o pro ne_kon_o reciprok_a! Nur intrig_ant_o_j ĝi_n profit_as. La naci_o_j dev_as mem kontrol_i la ekster_a_n mastr_um_ad_o_n. Ili dev_as mem rilat_i kun ceter_a_j. Ĉes_u la monopol_o de kelk_a_j mal_pac_ul_o_j! Nur de ne_sci_o ili ten_as la tut_pov_o_n. Fal_u la mur_o_j, ili fal_os kun_e. Nur en mal_lum_o viv_as la vampir_o_j. Bril_u la sun_o, ili mal_aper_os.</p>
+
+				<p xml:id="bo79">Kun fervor_o li lern_is la grek_a_n lingv_o_n kaj latin_a_n. Jam li si_n vid_is vetur_ant_a tra la mond_o, kaj per flam_a_j parol_ad_o_j predik_ant_a, ke hom_o_j re_viv_ig_u tia_n lingv_o_n de la antikv_a temp_o kaj ĝi_n uz_u por komun_a_j cel_o_j. Ĉu ne parol_is grek_e la tut_a mond_o kultur_it_a en la epok_o aleksandr_a? Ĉu ne diskut_is per latin_a_j vort_o_j ĉiu_j scienc_ul_o_j kaj kler_ul_o_j en Eŭrop_o dum jar_cent_o_j de la bril_a Re_nask_iĝ_o? Ĉu ne latin_e verk_is Kalvin_o kaj Erasm_o por du_dek popol_o_j? Tamen la latin_a est_as mal_facil_a, plen_a de antikv_a_j form_o_j sen_util_a_j, mank_a je modern_a_j esprim_il_o_j. Pli simpl_a, pli taŭg_a por nun_a uz_ad_o dev_us est_i la rev_it_a lingv_o. Ĝi dev_us est_i tuj lern_ebl_a kaj uz_ebl_a de la popol_o_j mem, ne nur de kler_ul_o_j.</p>
+
+				<p xml:id="bo80">Pri labor_ist_o_j, pri mal_riĉ_a_j hom_o_j pen_ant_a_j la tut_a_n tag_o_n, la gimnazi_an_o Zamenhof pens_is pli kaj pli. En la famili_a rond_o li ŝat_is leg_i laŭt_e el la vers_aĵ_o_j de la poet_o rus_a Nekrasov, antaŭ_majstr_o de Gorki. Pri klopod_o_j kaj sufer_o_j, pri mal_bel_a_j dom_o_j, kie mort_o kaj mizer_o danc_as kun_e, kant_is la plej ŝat_at_a verk_ist_o. Dum la tut_a viv_o Zamenhof am_is la popol_o_n labor_em_a_n kaj prefer_is loĝ_i en ĝi_a_j kvartal_o_j for el mond_an_a societ_o.</p>
+
+				<p xml:id="bo81">Tiu_j hom_o_j est_as fin_e la ĉef_a_j ofer_o_j de la inter_gent_a_j incit_o_j. En okaz_o_j de buĉ_ad_o, ili ĉiam unu_a_rang_e dev_as pag_i per si_a sang_o kaj trankvil_o. Tra la tut_a mond_o la mal_riĉ_ul_o_j sopir_as al pac_o kaj progres_o. Kiam ili vesper_e, lac_a_j, re_ven_as al la griz_a hejm_o, ili_a pens_o serĉ_as lum_o_n, ili_a sent_o rev_as al man_o_j por prem_i frat_e en la si_a_j trans mar_o_j kaj ŝtat_lim_o_j. “Labor_ist_o_j ĉiu_land_a_j unu_iĝ_u!” baldaŭ post_e jam far_iĝ_is deviz_o de la amas_o_j. Sed mur_o_j star_as inter ili, dik_a_j, alt_a_j, ĉef_e lingv_a_j. Romp_u, romp_u tiu_j_n mur_o_j_n! pens_ad_is la jun_a Zamenhof. La lingv_o help_a de la hom_ar_o dev_as est_i por ĉiu_j facil_a. Rapid_o, logik_o dev_as reg_i ĝi_a_n fundament_o_n.</p>
+
+				<p xml:id="bo82">De tiam li komenc_is serĉ_i io_n nov_a_n per art_a_j prov_o_j. Ĉu lingv_o pov_as art_e konstru_iĝ_i, baz_it_a sur sol_a logik_o? demand_is si_n la jun_ul_o, kaj serĉ_is material_o_n por vort_ar_o. Kial ne konsent_i pri vort_et_o_j plej mal_long_a_j, kiel <mentioned xml:lang="">ba, ca, da, be, ce, de, ab, ac, ad, eb, ec, ed</mentioned>, kaj arbitr_e fiks_i ĉies difin_it_a_n senc_o_n? Ne ebl_e, li ek_vid_is tuj. Tia_j_n vort_o_j_n eĉ li mem ne pov_is lern_i. Ili_n memor_i super_us hom_a_n fort_o_n.</p>
+
+				<p xml:id="bo83">Viv_ant_a_j_n vort_o_j_n lingv_o dev_as hav_i, se ĝi cel_as viv_i mem. Ĉerp_i el la komun_a font_o de la eŭrop_a_j lingv_o_j, jen la solv_o.</p>
+
+				<p xml:id="bo84">Vort_ar_o latin_a-german_a est_us plej inter_naci_a. Angl_o_j, Franc_o_j, Hispan_o_j kaj Ital_o_j, Holand_an_o_j, German_o_j, Skandinav_o_j kaj eĉ Slav_o_j kon_us ĝi_a_j_n element_o_j_n kiom ebl_e plej mult_a_j_n. Vort_o_j kiel <hi>hor_o</hi>, <hi>kart_o</hi>, <hi>vin_o</hi>, <hi>brun_a</hi>, kaj ceter_a_j aparten_as ja sam_temp_e al dek tri ĝis du_dek lingv_o_j. La elekt_o dev_us est_i kvazaŭ voĉ_don_ad_o de la plej_mult_o. Tamen hom_a lingv_o est_as afer_o grand_eg_a. Riĉ_eg_a_j gramatik_o_j, dik_a_j vort_ar_o_j, dek mil_o_j da esprim_o_j tim_ig_is la jun_a_n Zamenhof_o_n. Kiel ir_i ĝis la fin_o? Iam, sur la strat_o, fajr_er_a ek_kompren_o trankvil_ig_is li_n. “Unu foj_o_n, kiam mi est_is en la ses_a aŭ sep_a klas_o de la gimnazi_o, mi okaz_e turn_is la atent_o_n al la sur_skrib_o <foreign xml:lang="ru">Ŝvejcarskaja</foreign> (pord_ist_ej_o), kiu_n mi jam mult_a_j_n foj_o_j_n vid_is, kaj post_e al la el_pend_aĵ_o <foreign xml:lang="ru">Konditorskaja</foreign> (suker_aĵ_ej_o). Ĉi tiu <foreign xml:lang="ru">-skaja</foreign> ek_interes_is mi_n, kaj montr_is al mi, ke la sufiks_o_j don_as la ebl_o_n, el unu vort_o far_i ali_a_j_n vort_o_j_n, kiu_j_n oni ne bezon_as apart_e el_lern_ad_i. Ĉi tiu pens_o ek_posed_is mi_n tut_e, kaj mi subit_e ek_sent_is la ter_o_n sub la pied_o_j. Sur la terur_a_j_n grand_eg_a_j_n vort_ar_o_j_n fal_is radi_o de lum_o, kaj ili komenc_is rapid_e mal_grand_iĝ_ad_i antaŭ mi_a_j okul_o_j.”<ptr xml:id="vivo-de-zamenhof-6" target="#noto-vivo-de-zamenhof-6"/> De tiam li stud_ad_is la sistem_o_n de sufiks_o_j kaj prefiks_o_j en divers_a_j lingv_o_j. Kia riĉ_a font_o! Kia mir_ind_a pov_o por kresk_ad_o kaj mult_iĝ_o! Plej mult_a_j lingv_o_j uz_as ili_n blind_e kaj sen_ord_e. Per ver_e plen_a kaj regul_a util_ig_o de tiu fort_o, riĉ_a vort_ar_eg_o dis_flor_us el mal_grand_a radik_ar_o. Nur <hi>-in_o</hi>, <hi>-aĵ_o</hi>, <hi>-ist_o</hi>, <hi>-em_a</hi>, <hi>-ig_i</hi>, <hi>-iĝ_i</hi> cent_obl_ig_us ĝi_n. Dek mil vort_o_j mem_form_iĝ_us sen apart_a lern_o.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-6" target="#vivo-de-zamenhof-6">El la Leter_o al N. Borovko pri la De_ven_o de Esperant_o, el rus_a lingv_o traduk_it_a de V.Gernet (<hi>Lingv_o Inter_naci_a</hi> 1896, nos. 6-7; <hi>Esperant_a_j Proz_aĵ_o_j</hi>, p. 239).</note>
+
+				<p xml:id="bo85">Li_a_j instru_ist_o_j en la lern_ej_o rigard_is Ludovik_o_n Zamenhof kiel lingv_ist_o_n rimark_ind_a_n. Tre jun_a li jam lern_is la franc_a_n kaj german_a_n. En la kvin_a gimnazi_a klas_o li ek_stud_is la angl_a_n. El_parol_o mal_facil_a, ortografi_o mal_preciz_a, sed kia fort_o kaj rapid_o en la fraz_o_j! Gramatik_o? Tre mal_mult_a. Nur kelk_a_j antikv_aĵ_o_j mal_regul_a_j. Riĉ_a lingv_o do tut_e ne bezon_as de_klin_ar_o_n, konjug_ar_o_n, aŭ sintaks_o_n mal_facil_a_j_n. Kelk_a_j montr_il_o_j ĉiam sam_a_j sufiĉ_as por la verb_a_j temp_o_j. Fin_iĝ_o_j pli_a_j kiel o, a, e, util_u kvazaŭ nur sufiks_o_j, por form_i nom_o_j_n el verb_o_j, el verb_o_j adjektiv_o_j_n, kaj adverb_o_j_n el ceter_a_j.</p>
+
+				<p xml:id="bo86">Sam_temp_e krom la lingv_a, ali_a el_labor_o okup_is Zamenhof_o_n en tiu_j jar_o_j. Li_a patr_in_o est_is kred_ant_in_o. Li_a patr_o ateist_o. Li mem jam kiel knab_o perd_is la fid_o_n religi_a_n. Li_a logik_o ne permes_is al li kred_i la instru_o_n de la pastr_o_j. Sed, est_ant_e dek_ses_jar_a, li sufer_is pro mal_plen_o en la kor_o. Li ne vid_is ia_n senc_o_n en la viv_o. Por kio li labor_as? Pro kio li ekzist_as? Kio est_as hom_o_j? Kial ne tuj mort_i? Ĉio ŝajn_is al li van_a kaj naŭz_a. Por li tre turment_a est_is tiu temp_o. Tiam_a portret_o, iom krud_a kaj mal_dolĉ_a, montr_as la mal_ĝoj_o_n de la gimnazi_an_o.</p>
+
+				<p xml:id="bo87">Intern_a kriz_o li_n sav_is. Iom post iom li ek_trov_is la ver_o_n por si mem. Li kompren_is ia_n senc_o_n en la natur_o. Li sent_is alt_a_n vok_o_n pli preciz_a_n al hom_ar_a cel_o. Li form_is propr_a_n kred_o_n pri viv_o kaj pri mort_o. Dek_sep_jar_a li akir_is nov_a_n fid_o_n kaj feliĉ_o_n de la anim_o ekster dogm_o_j. Li sent_is fort_a_n inspir_o_n en la kor_o. Pli fervor_e li re_ven_is al verk_ad_o.<ptr xml:id="vivo-de-zamenhof-7" target="#noto-vivo-de-zamenhof-7"/> Post_a portret_o montr_as la ŝanĝ_o_n en la okul_o_j. Dolĉ_ec_o reg_as.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-7" target="#vivo-de-zamenhof-7">Vid_u antaŭ_mort_a_n konfes_o_n pri tiu kriz_o en ĉapitr_o <num>XII</num>.</note>
+
+				<p xml:id="bo88">En la jar_o 1878, Zamenhof sid_is en la last_a klas_o de la gimnazi_o. Tiam jam est_is pret_a projekt_o de li_a lingv_o, ankoraŭ ne tut_e simil_a al la nun_a Esperant_o. Kelk_a_j koleg_o_j interes_iĝ_is pri li_a long_a labor_ad_o. Al ili li ĝoj_e kon_ig_is la nov_a_n lingv_o_n. Io_n tiel simpl_a_n kaj facil_a_n neniu el ili antaŭ_kred_is. Fervor_e ses aŭ sep el_lern_is la sistem_o_n.</p>
+
+				<p xml:id="bo89">En la ge_patr_a loĝ_ej_o ĉe strat_o Nov_o_lip_i_e, Ludovik_o hav_is propr_a_n ĉambr_o_n izol_it_a_n sur la ter_etaĝ_o. Tie kun_ven_is li_a amik_ar_o ĉe la am_at_a grup_estr_o. Kun_e ĉiu_j fervor_ad_is pri la hom_a re_frat_iĝ_o. Alt_a la rev_o, grand_a la task_o. La 5-a_n de decembr_o ili fest_is la viv_ig_o_n de la lingv_o. Ĉirkaŭ kuk_o, de la patr_in_o am_e kuir_it_a, sid_is Ludovik_o kun koleg_o_j entuziasm_a_j. La unu_a_n foj_o_n son_is li_a “<foreign xml:lang="eo-x-praEsperanto">lingwe universala</foreign>”. Post parol_o_j esper_plen_a_j, ili kant_is himn_o_n de frat_ec_o:</p>
+
+				<quote>
+
+					<p xml:id="bo90" xml:lang="eo-x-praEsperanto">Malamikete de las nacjes<lb/>
+	Kadó, kadó, jam temp’ está!<lb/>
+	La tot’ homoze in familje<lb/>
+	Konunigare so debá.</p>
+
+				</quote>
+
+				<p xml:id="bo94">(Mal_amik_ec_o de la naci_o_j<lb/>
+Fal_u, fal_u, jam temp’ est_as!<lb/>
+La tut_a hom_ar_o en famili_o<lb/>
+Unu_ig_i si_n dev_as.)</p>
+
+				<p xml:id="bo98">En juni_o 1879 fin_iĝ_is la gimnazi_a kurs_o kaj ĉiu_j koleg_o_j dis_ir_is. La person_o de ili_a ĉef_amik_o las_is ĉe ili tiel fort_a_n impres_o_n, ke ili eĉ komenc_is propagand_i li_a_j_n ide_o_j_n kaj parol_i pri la nov_a lingv_o. Sed, kiel Zamenhof mal_gaj_e konstat_is pli mal_fru_e, “renkont_int_e la mok_o_j_n de la hom_o_j matur_a_j, ili tuj rapid_is mal_konfes_i la lingv_o_n, kaj mi rest_is tut_e sol_a”. Tiel okaz_as preskaŭ sen_escept_e al la grand_a_j in_spirit_o_j tra tut_a hom_ar_a histori_o. Ankaŭ hejm_e li dev_is sufer_i bat_o_n pli kruel_a_n. Ĝis tiu temp_o la patr_o laŭ_ŝajn_e ne mal_aprob_is li_a_n labor_o_n, ĉar la knab_o tamen bril_e sukces_is ĉiu_j_n ekzamen_o_j_n. Sed kiam ven_is la moment_o for_las_i la gimnazi_o_n kaj elekt_i profesi_o_n, tiam blov_is kriz_a vent_o.</p>
+
+				<p xml:id="bo99">Jam oft_e kon_at_ul_o_j aŭ koleg_o_j profesor_a_j de Mark_us Zamenhof admon_is li_n pri li_a fil_o. “Ide_o tiel fiks_a en kap_o jun_ul_a minac_as ja frenez_o_n. Domaĝ_e est_us las_i tia_n talent_ul_o_n perd_iĝ_i en ĥimer_o_j. Baldaŭ li mal_san_iĝ_os, se li daŭr_as plu!” Tiel babil_is bon_intenc_a_j konsil_ant_o_j.</p>
+
+				<p xml:id="bo100">Pri la est_ont_ec_o de la knab_o ĉef_e zorg_is li_a patr_o. Kio_n li far_os en la viv_o, se ĉiu_j li_n rigard_os kiel vir_o_n ne_serioz_a_n, nur “rev_ul_o_n”? Kurac_ist_a est_is tiam unu el la sol_a_j karier_o_j permes_it_a_j al Hebre_o_j en la rus_a Imperi_o. Util_a stud_o, ne rev_aĵ_o_j, tiam urĝ_is antaŭ ĉio. Tial Ludovik_o dev_is eĉ promes_i, ke li for_las_os la afer_o_n pri mond_lingv_o, almenaŭ provizor_e. Pez_a kaj dolor_a est_is la ofer_o.</p>
+
+				<p xml:id="bo101">Tie star_is la altar_o. Sur tabl_o kuŝ_is la kajer_o_j kun vort_ar_o, gramatik_o, vers_aĵ_o_j kaj traduk_o_j en la nov_a lingv_o. Kar_a_j manuskript_o_j, rezult_o de mult_jar_a pri_pens_ad_o kaj serĉ_ad_o. Ĉu for_don_i la tut_o_n? La patr_o tio_n postul_is. En li_a_n ŝrank_o_n mal_aper_is ĉio. Dik_a ŝnur_o lig_is la pak_aĵ_o_n. Ferm_iĝ_is pord_o.</p>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-4" type="chapitro">
+
+				<head xml:id="bo102">ĈAPITR_O IV</head>
+
+				<head xml:id="bo103" type="subordinate">STUDENT_A_J JAR_O_J</head>
+
+				<p xml:id="bo104">Post long_a kis_o de la patr_in_o la student_o for_vetur_is Moskv_o_n. Urb_eg_o vast_a. Universitat_o plen_eg_a. Bril_as la Kreml_a_j tur_o_j. Sur strat_o_j neĝ_o blank_a. Kur_as glit_vetur_il_o_j, tint_ad_as sonor_il_et_o_j. Rapid_as ĉeval_o_j long_har_a_j. Ĉie viv_o gaj_a, vigl_a.</p>
+
+				<p xml:id="bo105">Mal_riĉ_e loĝ_is la jun_ul_o. Per lecion_o_j li gajn_et_is iom. Sed mal_facil_e jun_a hebre_o trov_as eĉ okaz_o_j_n por instru_i. Li ankaŭ verk_et_is iom por gazet_o, <name xml:lang="ru">Moskovskie Viedomoŝti</name>. Hejm_e la ge_patr_o_j tim_e zorg_is. “Nur dek naŭ rubl_o_j_n mi el_spez_as en monat_o”, li skrib_is por ili_n trankvil_ig_i. Sed kiel li si_n nutr_is! Konscienc_e li stud_ad_is medicin_o_n. Ankaŭ li klin_iĝ_is si_a_vic_e super korp_o_j de mort_int_o_j en la dis_sekc_a ĉambr_eg_o. Simpati_e li mal_kovr_is la intern_a_n meĥanism_o_n de la hom_a form_o. Eĉ tie li_n sekv_is li_a rev_o. Ĉu ne simil_a_j est_as ĉiu_j hom_o_j, kun sam_a_j organ_o_j, sam_a_j bezon_o_j, sam_a_j tim_o_j kaj dezir_o_j dum la viv_o? Ĉu lingv_a_j aŭ kolor_a_j diferenc_o_j ŝanĝ_as tio_n? Mal_kon_o inter gent_o_j dev_us ĉes_i.</p>
+
+				<p xml:id="bo106">Li plen_um_is tamen la promes_o_n. “Por pens_ad_i pri la hom_ar_o, atend_u kelk_a_j_n jar_o_j_n!” son_is la admon_o patr_a. Sed grand_a mal_plen_o dolor_is en la kor_o. Kiel viv_i sen cel_o ideal_a? Li_a pens_o kompat_em_a serĉ_is material_o_n. Ĝi si_n turn_is tiam al la sufer_o_j de la Hebre_o_j. Leg_aĵ_o en ĵurnal_o atent_ig_is li_n. La cion_ist_a re_vek_iĝ_o li_n al_log_is. Ankaŭ li_a gent_o, kiel ĉiu_j, rajt_as est_i re_kon_at_a kaj ŝat_at_a. Kial nur Hebre_o_j dev_us kaŝ_i aŭ pri_hont_i si_a_n naci_ec_o_n? Ankaŭ ili rajt_as hav_i propr_a_n centr_o_n de kultur_o. Nep_o_j de Mose_o star_as ĉie dis_sem_it_a_j. Mal_feliĉ_o prem_as mult_a_j_n. Trans la mar_o blu_a de la Helen_o_j kuŝ_as la antikv_a Palestin_o. Labor_ad_o, kolekt_ad_o, vol_o pacienc_a konduk_os al mirakl_o. Iam ebl_e star_os tie sur la ter_o de la profet_o_j nov_a hejm_o de la Hebre_o_j. Instru_ej_o, kongres_ej_o mal_ferm_os si_a_j_n pord_o_j_n. Koloni_an_o_j ek_loĝ_os en la ĉirkaŭ_o. Nur just_a pov_is est_i tia plan_o. La dis_a popol_o re_gajn_u la esper_o_n. Eĉ pli jun_a, Zamenhof jam verk_is vers_o_j_n en la rus_a lingv_o. Poem_o_n al Hebre_o_j li pres_ig_is nun en <name xml:lang="ru">Ruski Jevrej</name>:</p>
+
+				<p xml:id="bo107">Al altar’ de liber_ec_o, frat_o_j nun rapid_u!<lb/>
+Por konstru_i propr_a_n hejm_o_n ĉiu port_u brik_o_n.<lb/>
+Eĉ se mult_a_j_n jam for_ŝov_os vent_o, akv_o, kaj mal_saĝ_o,<lb/>
+Ne pere_os sub la ter_o vi_a sem_o kaj labor_o.</p>
+
+				<p xml:id="bo111">Vek_iĝ_u, popol_o kutim_a je bat_o_j!<lb/>
+En tia temp_o dorm_o est_us hont_a.<lb/>
+Per ond_o fort_a de l’ amas_o<lb/>
+Ni sving_u flag_o_n al la viv_o! Se riĉ_ul_o_j pro la or_o<lb/>
+Kis_as sklav_e man_o_j_n potenc_ul_a_j_n,<lb/>
+Ni, mal_riĉ_a_j, per mon_er_o_j de la labor_o<lb/>
+Dis_bat_os la katen_o_j_n.</p>
+
+				<p xml:id="bo118">Al altar’ de liber_ec_o, frat_o_j nun_rapid_u! ...</p>
+
+				<p xml:id="bo119">Elokvent_e son_is la al_vok_o jun_ul_a. Tamen Zamenhof ne far_iĝ_is iam gvid_ant_o inter la cion_ist_o_j. Ĉia tro_grand_ig_o de la merit_o de la Hebre_o_j li_n dolor_is. Konstant_a re_dir_ad_o pri “naci_o sankt_a super ĉiu_j” vund_is li_a_n sent_o_n, kvazaŭ ofend_ad_o al ceter_a_j gent_o_j. Akr_a mal_laŭd_o kontraŭ Pol_o_j, Rus_o_j, aŭ Ruman_o_j mal_plaĉ_is al li. Plend_o_j pri prem_ant_a_j reg_ist_ar_o_j ŝajn_is al li prav_a_j, sed ne mal_am_o al popol_o_j. Eĉ inter li_a_j sam_gent_an_o_j la plej mal_grand_a vort_o ŝovinist_a li_n re_pel_is.</p>
+
+				<p xml:id="bo120">Ankaŭ la Hebre_o_j tre bezon_is pli proksim_e kon_i la ceter_a_j_n gent_o_j_n. Ankaŭ por ili urĝ_is lingv_o inter_naci_a. Ke ili ek_kompren_u la diferenc_o_n inter la amas_o_j kaj la sekret_a_j incit_ant_o_j, ke ili kon_u la histori_o_n de la ali_a_j: ankaŭ la ceter_a_j ja sufer_is, ankaŭ ili_n prem_is potenc_ul_o_j, ankaŭ ili_n ekspluat_as mal_grand_a nombr_o da lert_ul_o_j. Hebre_o_j am_u si_a_n leĝ_o_n, si_a_n gent_o_n kaj kutim_o_j_n, sed ili super ĉio am_u la hom_ar_o_n kaj ĝi_n serv_u kiel frat_o_j. Tiel sent_is la student_o pri_pens_em_a, kaj re_ven_is al si_a rev_o.</p>
+
+				<p xml:id="bo121">Eĉ la “dek naŭ rubl_o_j” ne trov_iĝ_is tro facil_e ĉe la komenc_o de la monat_o, kaj ili ne sufiĉ_is. Zamenhof ne ŝat_is trud_i el_spez_ad_o_n al ge_patr_o_j. Du jar_o_j jam for_pas_is. En somer_o 1881 li re_ven_is hejm_e_n.</p>
+
+				<p xml:id="bo122">En Varsovi_o li daŭr_ig_os medicin_a_n stud_ad_o_n ĉe la universitat_o. Al la am_at_a patr_in_o li rakont_is pri la pez_o de la promes_o al patr_o. Li_a viv_cel_o rest_is sam_a. Hom_o_j dev_as re_frat_iĝ_i. Kie kuŝ_as la paper_o_j kaj prov_aĵ_o_j de la lingv_o inter_gent_a? En liber_temp_o li ja pov_os ili_n tra_rigard_i kaj re_ven_i al labor_o kar_a.</p>
+
+				<p xml:id="bo123">Kun larm_o_j la patr_in_o sid_is pal_a. Ŝi silent_is. Ŝi_a blank_a man_o dolĉ_e glat_is la kap_o_n de la grand_a fil_o. Jam du_dek_du_jar_a li est_is. Kiel aŭd_os li la ver_o_n? Unu tag_o_n ŝi_a edz_o ja brul_ig_is li_a_j_n manuskript_o_j_n. Saĝ_a kaj sever_a, nur pro am_o patr_a li tio_n far_is. Li kred_is, ke li tiel “sav_os” si_a_n fil_o_n. Oft_e ŝi jam plor_is pri tiu ekzekut_o. Nun re_ven_is la plor_o_j. Ŝi silent_is.</p>
+
+				<p xml:id="bo124">Ludovik_o ŝi_n kompren_is. La tut_a_n dram_o_n li diven_is. Tuj li nur pet_is la patr_o_n re_don_i la promes_parol_o_n. Urĝ_as liber_ec_o. Nepr_e li_n vok_as cert_a dev_o. Li nur promes_os tio_n al si mem, ke al neniu li parol_os pri si_a cel_o kaj labor_o, ĝis li fin_os universitat_o_n.</p>
+
+				<p xml:id="bo125">Fakt_e ne tro grav_a est_is la perd_o de la skrib_aĵ_o_j. Efektiv_e li memor_is ĉio_n parker_e. Kun fervor_o li re_far_is si_a_n verk_o_n.</p>
+
+				<p xml:id="bo126">Sur la kajer_o_j de aŭgust_o 1881 re_aper_as preskaŭ la sam_a lingv_o kiel en 1878. Tamen est_is jam progres_o. La bel_a balad_o de He_in_e “En sonĝ_o” est_is jen_e traduk_it_a el german_a:</p>
+
+				<quote>
+
+					<p xml:id="bo127" xml:lang="">Mo bella princino il sonto vidá<lb/>
+	Ko zuoj malseŝaj e palaj,<lb/>
+	Sul dillo, sul verd_a no koe sidá<lb/>
+	Il armoj amizaj e kalaj.</p>
+
+					<p xml:id="bo131" xml:lang="eo-x-praEsperanto">“La kron’ de ta padro fio pu mo esté,<lb/>
+	La ora, la redza ra sello!<lb/>
+	La skepro diantiza, rol mo ne volé,<lb/>
+	Tol mem koj volé mo, ma bella.”</p>
+
+					<p xml:id="bo135" xml:lang="eo-x-praEsperanto">“To et ne estebla”, ŝo palla a mo,<lb/>
+	Kor et si la tombo kuŝé mo<lb/>
+	E koj i la nokto vioné mo a to,<lb/>
+	Kor tol fe prekale amé mo!”</p>
+
+				</quote>
+
+				<p xml:id="bo139">Dum ses jar_o_j Zamenhof labor_is ĉiu_tag_e, bon_ig_ant_e kaj prov_ant_e si_a_n lingv_o_n. Li traduk_is pec_o_j_n el aŭtor_o_j divers_land_a_j. Li skrib_is verk_o_j_n original_a_j_n. Li laŭt_e leg_is al si la skrib_it_a_j_n paĝ_o_j_n. Mult_a_j form_o_j ŝajn_is bon_a_j teori_e, sed la praktik_o montr_is ili_n mal_oportun_a_j. Jen tio est_is pez_a, kaj ĉi tio mal_bel_son_a.</p>
+
+				<p xml:id="bo140">“Mult_o_n mi dev_is ĉirkaŭ_hak_i, anstataŭ_i, korekt_i, kaj radik_e trans_form_i. Vort_o_j kaj form_o_j, princip_o_j kaj postul_o_j puŝ_is kaj mal_help_is unu la ali_a_n, dum_e en la teori_o, ĉio apart_e kaj en mal_long_a_j prov_o_j, ili ŝajn_is al mi tut_e bon_a_j. Tia_j objekt_o_j kiel ekzempl_e la universal_a prepozici_o <mentioned>je</mentioned>, la elast_a verb_o <mentioned>met_i</mentioned>, la neŭtral_a, sed difin_it_a fin_iĝ_o <mentioned>aŭ</mentioned>, k. t. p. , kred_ebl_e neniam en_fal_us en mi_a_n kap_o_n teori_e. Kelk_a_j form_o_j, kiu_j ŝajn_is al mi riĉ_aĵ_o, montr_iĝ_is nun en la praktik_o sen_bezon_a balast_o; tiel ekzempl_e mi dev_is for_ĵet_i kelk_a_j_n ne_bezon_a_j_n sufiks_o_j_n.”<ptr xml:id="vivo-de-zamenhof-8" target="#noto-vivo-de-zamenhof-8"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-8" target="#vivo-de-zamenhof-8">Leter_o al Borovko.</note>
+
+				<p xml:id="bo141">Dum tiu pur_ig_a labor_o ankaŭ for_iĝ_is el la lingv_o kelk_a_j latin_a_j radik_o_j, kiel ekzempl_e <mentioned xml:lang="">anno</mentioned> kaj <mentioned xml:lang="">diurno</mentioned>, kaj anstataŭ_iĝ_is per <mentioned>jar_o</mentioned> kaj <mentioned>tag_o</mentioned>. Efektiv_e <mentioned>-an_o</mentioned> jam est_is sufiks_o kun senc_o mal_sam_a, kaj ali_flank_e Zamenhof ne vol_is vort_o_j_n kun du_obl_a liter_o. <mentioned xml:lang="">Diurno</mentioned> tre mal_bel_e son_is en kun_met_it_a_j vort_o_j kiel <mentioned xml:lang="">ĉiudiurne</mentioned> aŭ <mentioned xml:lang="">diurnmeze</mentioned>, kaj ankaŭ est_is inter_naci_a fakt_e nur por mal_grand_a nombr_o da hom_o_j kler_a_j, kiu_j kon_as la latin_a_n lingv_o_n aŭ tia_j_n vort_o_j_n franc_a_j_n kiel <mentioned xml:lang="">diurne</mentioned>, neniam uz_at_a_j_n de la popol_o. Dum_e <mentioned>tag_o</mentioned> est_as almenaŭ tuj kon_at_a de plur_a_j grand_a_j popol_o_j per uz_ad_o ĉiu_tag_a, do fakt_e mult_e pli inter_naci_a. Sam_e pli bel_son_a <mentioned>kaj</mentioned> el la grek_a lingv_o anstataŭ_is <mentioned xml:lang="la">e</mentioned> latin_a_n, ne sufiĉ_e klar_a_n al orel_o_j por divid_i fraz_o_j_n sen konfuz_o.</p>
+
+				<p xml:id="bo142">Kiam post_e ekster_ul_o_j vol_is “perfekt_ig_i” la vort_ar_o_n, ili oft_e nur re_ven_is al la unu_a form_o, kaj nur marŝ_is mal_antaŭ_e_n sur la voj_o jam paŝ_it_a de vir_o pli spert_a kaj pli zorg_a. Teori_e dir_is ili, “tiu form_o est_us cert_e pli scienc_a ol ĉi tiu”. Ankaŭ Zamenhof jam trov_is la sam_o_n antaŭ ili, sed mult_jar_a praktik_ad_o vid_ig_is al li grav_a_n mal_taŭg_ec_o_n de la unu_a kaj neces_o_n ĝi_n for_ig_i per pli bon_a.</p>
+
+				<p xml:id="bo143">Ke “geni_o est_as long_a pacienc_o”, kiel kant_is Viktor Hug_o, tio_n montr_is la ses jar_o_j de sen_ĉes_a polur_ad_o per prov_ad_o. En la infan_a_j jar_o_j Zamenhof fervor_is por muzik_o. Li lud_is fortepian_o_n, kaj li ŝat_is kant_i. Tial harmoni_o ĉiam reg_is li_a_n gust_o_n.</p>
+
+				<p xml:id="bo144">Li ne kred_is, ke sufiĉ_as gramatik_o kaj vort_ar_o por viv_ig_i lingv_o_n. Ĉiu mal_graci_o aŭ pez_ec_o en la fraz_o_j li_n akr_e sufer_ig_is. Long_e li plend_ad_is al si mem, ke la lingv_o ne sufiĉ_e “flu_as”. Tial li komenc_is nun evit_i laŭ_vort_a_n traduk_ad_o_n el tiu aŭ ali_a lingv_o. Li pen_is rekt_e pens_i en la nov_a.</p>
+
+				<p xml:id="bo145">Iom post iom ĝi ek_ir_is mem. Ĝi mal_pez_iĝ_is. Ĝi pli rapid_is. Ĝi jam ĉes_is est_i ombr_o de la ceter_a_j. Ĝi ricev_is si_a_n viv_o_n, si_a_n spirit_o_n, si_a_n karakter_o_n propr_a_n. Ĝi nun dolĉ_e puŝ_is for la influ_o_j_n de la ekster_o. Ĝi jam flu_is tiam, fleks_ebl_e, graci_e, kaj “tut_e liber_e, kiel la viv_a ge_patr_a lingv_o”.</p>
+
+				<p xml:id="bo146">Tiam est_is la ver_a nask_iĝ_o de la lingv_o inter_naci_a. Ĉar kiel help_us la hom_ar_o_n sen_viv_a kolekt_o da vort_o_j? Kiom ĝi valor_us, eĉ kun aprob_o de naŭ_dek scienc_ul_o_j? Ĉiu tir_us si_a_flank_e. Mank_us fundament_o. Ne est_us ia stil_o komun_a. Ne ekzist_us ia kutim_o por regul_ig_i liber_ec_o_n. Kontraŭ_e, pro la Zamenhof_a pacienc_o kaj geni_o la lingv_o jam viv_is, kiam ĝi aper_is. En si ĝi jam port_is cert_a_n fort_o_n, ĉar grand_a hom_o ĝi_n uz_ad_is. La gramatik_o kaj vort_ar_o est_is ja scienc_a_j kaj tial ne_person_a_j, krom elekt_o_j aŭ prefer_o_j de fin_iĝ_o_j aŭ vort_et_o_j. Sed la spirit_o kun lig_ant_a, la stil_a fundament_o, jam est_is sigel_it_a_j per man_o tre person_a. En ĝi_n Zamenhof met_is mult_o_n el si mem. Per ĝi li esprim_is nov_a_n sent_o_n, nov_a_n hom_a_n sopir_ad_o_n.</p>
+
+				<p xml:id="bo147">Impres_ant_a est_is li_a person_ec_o, modest_a pri si mem, sed obstin_a pri la cel_o. Ĝi simbol_is rev_o_n de mult_a_j kor_o_j ne_kon_at_a_j. Tial ĝi influ_is post_e la unu_a_n rond_o_n de la verk_ant_o_j en la nov_a lingv_o.</p>
+
+				<p xml:id="bo148">Naci_a literatur_o komenc_iĝ_as ĝeneral_e per milit_a poem_ar_o. Ĝi_a_n stil_o_n kaj spirit_o_n sign_as fam_a kant_ist_o pri batal_o_j. Okaz_is mal_e por lingv_o Zamenhof_a. En pac_a_j kant_o_j ĝi el_ir_is al publik_o. Pri hom_a re_frat_iĝ_o ankaŭ skrib_is la sekv_ant_o_j de la Majstr_o.</p>
+
+				<p xml:id="bo149">Ankaŭ la propr_a_n anim_stat_o_n li esprim_is. Dum ses jar_o_j li rest_ad_is sub silent_o. Ĝi est_is temp_o mal_facil_a. Al neniu li parol_is pri si_a labor_ad_o. La kaŝ_ec_o li_n turment_is. Tial li mal_ŝat_is el_ir_ad_i. Nenie li ĉe_est_is, en nenio part_o_pren_is. En rond_o_j societ_a_j li sent_is si_n fremd_ul_o. Tiel pas_is for la plej bel_a_j jar_o_j de la viv_o, la student_a_j, mal_gaj_e kaj dolor_e. Tiu_n fajr_o_n kaj sufer_o_n sub silent_o li pentr_is per la tiam_a vers_aĵ_o:</p>
+
+				<quote>
+
+					<floatingText>
+
+						<body>
+
+							<head xml:id="bo150">MI_A PENS_O</head>
+
+							<p xml:id="bo151">Sur la kamp_o, for de la mond_o, antaŭ nokt_o de somer_o<lb/>
+			Amik_in_o en la rond_o kant_as kant_o_n pri la esper_o.<lb/>
+			Kaj pri viv_o detru_it_a ŝi rakont_as kompat_ant_e —<lb/>
+			Mi_a vund_o re_frap_it_a mi_n dolor_as re_sang_ant_e.</p>
+
+							<p xml:id="bo155">“Ĉu vi dorm_as? Ho, sinjor_o, kial tia sen_mov_ec_o?<lb/>
+			Ha, kred_ebl_e re_memor_o el la kar_a infan_ec_o?”<lb/>
+			Kio_n dir_i? Ne plor_ant_a pov_is est_i parol_ad_o<lb/>
+			Kun fraŭl_in_o ripoz_ant_a post somer_a promen_ad_o!</p>
+
+							<p xml:id="bo159">Mi_a pens_o kaj turment_o, kaj dolor_o_j kaj esper_o_j!<lb/>
+			Kiom de mi en silent_o al vi ir_is jam ofer_o_j!<lb/>
+			Kio_n hav_is mi plej kar_a_n — la jun_ec_o_n — mi plor_ant_a<lb/>
+			Met_is mem sur la altar_o_n de la dev_o ordon_ant_a!</p>
+
+							<p xml:id="bo163">Fajr_o_n sent_as mi intern_e, viv_i ankaŭ mi dezir_as;<lb/>
+			Io pel_as mi_n etern_e, se mi al gaj_ul_o_j ir_as ...<lb/>
+			Se ne plaĉ_as al la sort_o mi_a pen_o kaj labor_o,<lb/>
+			Ven_u tuj al mi la mort_o, en esper_o — sen dolor_o!</p>
+
+						</body>
+
+					</floatingText>
+
+				</quote>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-5" type="chapitro">
+
+				<head xml:id="bo167">ĈAPITR_O V</head>
+
+				<head xml:id="bo168" type="subordinate">DOKTOR_O ESPERANT_O</head>
+
+				<p xml:id="bo169">Tamen iam “la amik_in_o en la rond_o” diven_is la mister_o_n. Klar_a Zilbernik, fil_in_o de Kovn_a komerc_ist_o, renkont_is Zamenhof_o_n ĉe bo_frat_o si_a. Sprit_a, gaj_a, energi_a kaj bon_kor_a, ŝi atent_e rimark_ad_is la jun_ul_o_n silent_em_a_n kaj tim_em_a_n. Grand_a frunt_o pur_a kaj pens_em_a; sub la okul_vitr_o_j rigard_o lum_a kaj profund_a.</p>
+
+				<p xml:id="bo170">Am_o ven_is inter ili. Unu tag_o_n li konfes_is al ŝi si_a_j_n du sekret_o_j_n. Ŝi kompren_is, kaj decid_is part_o_pren_i li_a_n viv_o_n de si_n_don_o.</p>
+
+				<p xml:id="bo171">Ŝi pov_is antaŭ_vid_i ekzist_ad_o_n mal_facil_a_n, kaj tial ag_is tre kuraĝ_e. La diplom_o_n kurac_ist_a_n Ludovik_o Zamenhof ricev_is jam du jar_o_j_n antaŭ tio; sed inter 1885 kaj 1887 li van_e serĉ_is tuj_a_n viv_rimed_o_n. De lok_o al lok_o tre mal_ĝoj_e li prov_ad_is trov_i sufiĉ_a_n klient_ar_o_n. La komenc_o est_is ne_prosper_a. Ankaŭ li_a modest_ec_o kaj sent_em_o li_n mal_help_is. Tre ŝat_at_a de mal_riĉ_a_j mal_san_ul_o_j, li ne sci_is gajn_i grand_a_j_n sum_o_j_n. En Plock unu vesper_o_n oni li_n ven_ig_is en dom_o_n de riĉ_ul_o_j. Kuŝ_is mal_jun_a sinjor_in_o, kaj apud_e tri doktor_o_j. Stat_o mal_esper_a. Post du tag_o_j ŝi mort_is. Al la kvar vok_it_a_j kurac_ist_o_j la ge_fil_o_j send_is alt_a_n pag_o_n. Zamenhof rifuz_is si_a_n. Kial pren_i mon_o_n, kiam mort_is la klient_o? En Vejsieje, urb_et_o litv_a, li ĉe_est_is mort_o_n de bub_in_o. Febr_o ŝi_n for_brul_ig_is. Pro dolor_o la patr_in_o mal_feliĉ_a preskaŭ frenez_iĝ_is. Dum monat_o_j post_e li aŭd_ad_is ŝi_a_j_n plor_o_j_n kaj ĝem_ad_o_n. Li decid_is las_i la ĝeneral_a_n praktik_ad_o_n kaj elekt_i fak_o_n okul_ist_a_n.</p>
+
+				<p xml:id="bo172">Tial li vojaĝ_is al Vien_o por stud_i oftalmologi_o_n en special_a kurs_o. En aŭtun_o 1886 li re_ven_is Varsovi_o_n al la ge_patr_a hejm_o. Tie li mal_ferm_is akcept_ej_o_n kiel okul_ist_o. Dum la sam_a vintr_o li ek_kon_is si_a_n fianĉ_in_o_n kaj ricev_is kuraĝ_ig_o_n por el_don_i si_a_n verk_o_n al publik_o.</p>
+
+				<p xml:id="bo173">Jam de jar_o_j li ja serĉ_is el_don_ist_o_n. Klopod_o sen_sukces_a. Neniu vol_is risk_i mon_o_n. Ankaŭ tiel li spert_is la mal_dolĉ_o_n de la financ_a flank_o en la mond_o. Nov_a turment_o komenc_iĝ_is.</p>
+
+				<p xml:id="bo174">Tamen urĝ_is aper_ig_i li_a_n lingv_o_n. Dum silent_e li ĝi_n perfekt_ig_is, ek_flor_is okcident_e “<name xml:lang="">Volapük</name>” de la abat_o <name xml:lang="de">Ŝlejer</name> el Konstanc_o. La vort_ar_o est_is mal_facil_a kaj arbitr_a. Dum long_a temp_o Zamenhof nenio_n sci_is pri tiu prov_aĵ_o. Kiam ĝi_a fam_o li_n ating_is, unu_e li tre ĝoj_is, sed konstat_is post_e, ke la solv_o mem ne taŭg_as. Baldaŭ la mov_ad_o jam mal_kresk_is. Mult_a_j hom_o_j mal_kuraĝ_is, kaj for_las_is la afer_o_n. Urĝ_is montr_i al la mond_o, ke la cel_o rest_as prav_a. Nur la sistem_o est_is mal_bon_a. Lingv_o dev_as ja est_i inter_naci_a kaj viv_ant_a, ne art_e fabrik_it_a.</p>
+
+				<p xml:id="bo175">Tiam inter_ven_is hom_o tre help_em_a. Li est_is la patr_o de Klar_a Zilbernik. Li_a fil_in_o fianĉ_iĝ_is en printemp_o<ptr xml:id="vivo-de-zamenhof-9" target="#noto-vivo-de-zamenhof-9"/> kun Dro Zamenhof. La jun_a scienc_ul_o kaj ideal_ist_o tre plaĉ_is al li. Pri li_a plan_o li demand_is li_n. Grand_eg_a la projekt_o! Nobl_a la cel_o! Simpl_a komerc_ist_o li mem est_is, sed am_ant_o de ide_o_j. Por kio do util_us gajn_i mon_o_n kaj ŝpar_et_i? Ĉu ne por ig_i voj_o_n pli facil_a al iu pli kler_a ol li mem kaj pli valor_a por la hom_ar_o? Mult_a_j patr_o_j en li_a lok_o mal_konsil_us la fil_in_o_n. Ili nur dir_us: “Ver_a_n vir_o_n mon_gajn_ant_a_n kaj real_a_n vi elekt_u, ne rev_ul_o_n!” Tiel ili parol_us, friz_ant_e la lip_har_o_j_n. Mal_sam_e Zilbernik: “Geni_ul_o est_as vi_a Ludovik_o”, li dir_is; “fil_in_et_o mi_a, vi hav_os sankt_a_n task_o_n. Ĵaluz_e ankaŭ mi dezir_us help_i li_n.” Tial la bo_patr_o propon_is, ke la edz_iĝ_o jam far_iĝ_u en somer_o, kaj antaŭ_e jam pres_iĝ_u je li_a kost_o la libr_et_o_j pri mond_lingv_o. Tiel okaz_is. Dum du monat_o_j la pres_prov_aĵ_o_j atend_ad_is ĉe la cenzur_ist_o. Feliĉ_e tiu est_is bon_kon_at_o de la patr_o de Zamenhof. Fin_e la 14-a_n de juli_o<ptr xml:id="vivo-de-zamenhof-10" target="#noto-vivo-de-zamenhof-10"/> li al_las_is la permes_o_n al la pres_ist_o. La verk_o kred_ebl_e ŝajn_is al li sen_danĝer_a naiv_aĵ_o. La aŭtor_o est_is mal_trankvil_a. Unu_flank_e mal_pacienc_o, ali_flank_e tim_o li_n agit_is.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-9" target="#vivo-de-zamenhof-9">La 30-a_n de mart_o 1887.</note>
+
+				<note xml:id="noto-vivo-de-zamenhof-10" target="#vivo-de-zamenhof-10">1887.</note>
+
+				<p xml:id="bo176">“Mi est_is tre ekscit_it_a antaŭ tio ĉi; mi sent_is, ke mi star_as antaŭ Rubikon_o, kaj ke de la tag_o, kiam aper_os mi_a broŝur_o, mi jam ne hav_os la ebl_o_n re_ir_i; mi sci_is, kia sort_o atend_as kurac_ist_o_n, kiu de_pend_as de la publik_o, se ĉi tiu publik_o vid_as en li fantazi_ul_o_n, hom_o_n, kiu si_n okup_as je ‘flank_a_j afer_o_j’; mi sent_is, ke mi met_as sur la kart_o_n tut_a_n est_ont_a_n trankvil_ec_o_n kaj ekzist_ad_o_n mi_a_n kaj de mi_a famili_o; sed mi ne pov_is for_las_i la ide_o_n, kiu en_ir_is mi_a_n korp_o_n kaj sang_o_n, kaj ... mi trans_ir_is Rubikon_o_n.”</p>
+
+				<p xml:id="bo177">En tiu_j tag_o_j Zamenhof verk_is vers_aĵ_o_n tre mal_long_a_n: <name>Ho, mi_a kor’!</name> Ĝi son_as iom kiel spir_ad_o mal_facil_a de hom_o supr_e_n_kur_int_a kvin etaĝ_o_j_n de ŝtup_ar_o kaj star_ant_a antaŭ pord_o halt_e:</p>
+
+				<p xml:id="bo178">Ho, mi_a kor’, ne bat_u mal_trankvil_e,<lb/>
+El mi_a brust_o nun ne salt_u for!<lb/>
+Jam ten_i mi_n ne pov_as mi facil_e,<lb/>
+Ho, mi_a kor’!</p>
+
+				<p xml:id="bo182">Ho, mi_a kor’! Post long_a labor_ad_o<lb/>
+Ĉu mi ne venk_os en decid_a hor’!<lb/>
+Sufiĉ_e! trankvil_iĝ_u de l’ bat_ad_o,<lb/>
+Ho, mi_a kor’!</p>
+
+				<p xml:id="bo186">La unu_a libr_et_o aper_is en la rus_a lingv_o. Baldaŭ post_e sekv_is el_don_o_j pol_e, franc_e, german_e kaj angl_e. Ĉiu_j en_ten_is la sam_a_n en_konduk_o_n, tekst_o_j_n en la lingv_o inter_naci_a: la Krist_an_a preĝ_o <name>Patr_o ni_a</name>, El Bibli_o, Leter_o, Vers_aĵ_o_j, plen_a_n gramatik_o_n el dek ses regul_o_j, du_lingv_a_n vort_ar_et_o_n el naŭ_cent radik_o_j. Ankaŭ est_is al_iĝ_il_o_j kun promes_o tuj komenc_i la lern_ad_o_n, kiam dek milion_o_j da person_o_j est_os sam_e promes_int_a_j. Per deklar_o sur la du_a paĝ_o la aŭtor_o jam for_las_is ĉiu_j_n rajt_o_j_n si_a_j_n, ĉar “lingv_o inter_naci_a, kiel ĉiu naci_a, est_as komun_a propr_aĵ_o”. La tut_a verk_o est_is sub_skrib_it_a per bel_senc_a pseŭdonim_o: “Doktor_o Esperant_o”.</p>
+
+				<p xml:id="bo187">La 9-a_n de aŭgust_o<ptr xml:id="vivo-de-zamenhof-11" target="#noto-vivo-de-zamenhof-11"/> Zamenhof edz_iĝ_is, kaj en_loĝ_is tre modest_a_n ĉambr_ar_et_o_n sur la strat_o Przejazd 9, en Varsovi_o. Tie kun la edz_in_o li komenc_is la dis_send_ad_o_n de la broŝur_o al gazet_o_j kaj person_o_j ĉiu_land_a_j. Ŝi skrib_ad_is nom_o_j_n kaj adres_o_j_n, en_pres_ig_is anonc_et_o_j_n en ĵurnal_o_j. Tiel pas_is la monat_o_j de la komenc_a kun_viv_ad_o. Feliĉ_a_j, kiu_j sci_as etern_ig_i si_a_n am_o_n per tuj_a sem_o de komun_a ideal_o.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-11" target="#vivo-de-zamenhof-11">1887</note>
+
+				<p xml:id="bo188">Kiel est_os akcept_it_a la libr_et_o? Ĉu ĝi simpl_e fal_os en silent_o_n kaj forges_o_n? Ĉu hom_o_j blind_e eĉ ne leg_os la frukt_o_n de dek_jar_a labor_ad_o? Minac_is dub_o mal_esper_a. En tia_j hor_o_j oft_e kuŝ_as en la man_o_j de vir_in_o, ĉu blov_i kuraĝ_iĝ_o_n sur flam_et_o_n fid_a_n aŭ ĝi_n esting_i per plor_et_o_j de plend_ad_o bagatel_a. Grand_a ŝi est_as, se ŝi gard_as la flam_o_n.</p>
+
+				<p xml:id="bo189">Unu post unu ek_ven_is respond_o_j. Demand_o_j, konsil_o_j, aprob_o_j, aŭ fervor_a_j leter_o_j. Eĉ kelk_a_j est_is jam skrib_it_a_j en la nov_a lingv_o. Ĝi far_iĝ_is do viv_ant_a, ĉar uz_at_a. Baldaŭ mult_a_j al_iĝ_ant_o_j anonc_iĝ_is. Form_iĝ_is rond_o famili_a. Du_obl_e ĉes_is la sol_ec_o Zamenhof_a.</p>
+
+				<p xml:id="bo190">Est_is por li grand_a ĝoj_o, sent_i si_n de tiam ĉirkaŭ_at_a de fervor_a_j sam_ide_an_o_j. Eĉ ankoraŭ pli kontent_e li pens_is, ke la lingv_o jam trov_is nun an_ar_o_n, kaj pov_us baldaŭ kresk_i per si mem. Laŭ li_a esper_o “la aŭtor_o tiam tut_e for_ir_os de la scen_o, kaj est_os forges_it_a. Ĉu mi post tiam ankoraŭ viv_os, ĉu mi mort_os, ĉu mi konserv_os la fort_o_n de mi_a korp_o kaj anim_o, ĉu mi ĝi_n perd_os, la afer_o tut_e ne de_pend_os de tio; kiel la sort_o de ia viv_ant_a lingv_o tut_e ne de_pend_as de la sort_o de ĉi tiu aŭ ali_a person_o”.</p>
+
+				<p xml:id="bo191">Tiel li skrib_is en la <name>Du_a Libr_o</name>, kiu_n li el_don_is nur en la lingv_o mem, jam en komenc_o de la jar_o 1888. Kun mult_a_j al_iĝ_int_o_j li korespond_ad_is ja person_e. Sed plej oft_e li dev_is re_dir_ad_i pri la sam_a_j tem_o_j. Tial li respond_is kolektiv_e per unu broŝur_o ĝeneral_a.<ptr xml:id="vivo-de-zamenhof-12" target="#noto-vivo-de-zamenhof-12"/> “Mi_a profund_a kred_o je la hom_ar_o mi_n ne tromp_is”, li skrib_is en la antaŭ_parol_o, “la bon_a geni_o de l’ hom_ar_o vek_iĝ_is: de ĉiu_j flank_o_j al labor_o ĉiu_hom_a ven_as jun_a_j kaj mal_jun_a_j ... vir_o_j kaj vir_in_o_j rapid_as port_i ili_a_j_n ŝton_o_j_n por la grand_a, grav_a kaj util_eg_a konstru_o.”</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-12" target="#vivo-de-zamenhof-12">D-r_o. Esperant_o: <name>Du_a Libr_o de l’ Lingv_o Inter_naci_a</name>. Kajer_o no. 1, Varsovi_o 1888 (Cenzur_o 18/30 januar_o).</note>
+
+				<p xml:id="bo192">Ne nur kun Zamenhof korespond_is la nov_a_j adept_o_j, sed ankaŭ inter si. Anton_o <name xml:lang="">Grabowski</name> traduk_is jam verk_o_j_n el <name xml:lang="">Goethe</name> kaj <name xml:lang="">Puŝkin</name>.</p>
+
+				<p xml:id="bo193">En oktobr_o 1889 aper_is la unu_a adres_ar_o, kun mil nom_o_j divers_land_a_j. Laŭ uz_ad_o ĝeneral_a, la “lingv_o de Esperant_o” baldaŭ nom_iĝ_is “Esperant_o” tut_e simpl_e. Al ĝi konvert_iĝ_is en Nurnberg_o Leopold Einstein kaj la tut_a klub_o mond_lingv_ist_a. Ili fond_is la, sam_a_n jar_o_n gazet_o_n monat_a_n <name>La Esperant_ist_o</name>. Ĝi anonc_is grup_o_j_n en Sofi_o kaj Moskv_o. Kre_iĝ_is inter_naci_a mov_ad_o.</p>
+
+				<p xml:id="bo194">Sam_temp_e la mal_dolĉ_o de la ekster_a_j cirkonstanc_o_j re_turment_is la doktor_o_n. Klient_ar_o ne plen_ig_is li_a_n akcept_ej_o_n. De la bo_patr_o li ricev_is mon_o_n por pres_ig_i la broŝur_o_j_n. Sed por la hejm_o li ne vol_is akcept_i li_a_n help_o_n. Li dezir_is nepr_e per_labor_i viv_rimed_o_n. Jam nask_iĝ_is la ge_fil_et_o_j Adam_o kaj Sofi_o. La edz_in_o re_vetur_is Kovn_o_n en loĝ_ej_o_n de la ge_patr_o_j. Dum_e la jun_a okul_ist_o de_nov_e serĉ_is praktik_ad_o_n en ali_a lok_o. En Ĥerson, apud Nigr_a Mar_o, li klopod_is sen_sukces_e. En mart_o 1890 ambaŭ re_trov_iĝ_is en la ĉef_urb_o pol_a.</p>
+
+				<p xml:id="bo195">Tie Zamenhof ek_pren_is sur si_n la el_don_o_n de <name>La Esperant_ist_o</name>, laŭ dezir_o de la sam_ide_an_o_j. Preskaŭ ĉiu_j est_is mal_riĉ_ul_o_j, kaj nur cent_o pag_is la abon_prez_o_n. Post kelk_a temp_o li for_spez_is ĉiu_j_n fort_o_j_n kaj rimed_o_j_n si_a_j_n. Kun edz_in_o kaj infan_o_j li trov_iĝ_is en prem_ant_a mal_facil_o. Ĝust_e tiam tre mal_san_is la patr_in_o, kiu_n li am_is el la tut_a kor_o. Ĉagren_o li_n sufok_is. Ĉio ŝajn_is nigr_e mal_esper_a. La sort_o minac_is sen_ig_i li_n je patr_in_o ador_at_a kaj ankaŭ je li_a viv_cel_o. Se li mem mal_aper_us, la lingv_o pov_us tamen prosper_i, li opini_is. Sed, se li halt_ig_os la pres_ad_o_n de la centr_a organ_o, baldaŭ dis_velk_os la tut_a progres_o. “Se la trunk_o ĉes_os viv_i”, li skrib_is en la last_a al_vok_o, “ĉiu_j esper_o_j est_os perd_it_a_j. La esperant_ist_o_j dev_as zorg_i ... Mi_a situaci_o ating_is last_a_n grad_o_n de ne_ebl_ec_o.”</p>
+
+				<p xml:id="bo196">Tiam aper_is amik_o en la plej nobl_a senc_o de la vort_o. Ter_mezur_ist_o labor_em_a kaj modest_a est_is <name xml:lang="">W. H. Trompeter</name>, el <name xml:lang="">Schalk</name> en Vestfali_o. Esperant_ist_o de la unu_a hor_o, li kompren_is la grand_ec_o_n de Zamenhof kaj de li_a cel_o. La tut_a afer_o, tiel grav_a por la hom_ar_o, naĝ_is kiel nuks_et_o sur la vast_a mar_o. Mal_grand_a, mal_fort_a, ne_kon_at_a, se ĝi_n dron_ig_us ond_et_o, la mond_o eĉ ne sci_us. Sed se ĝi viv_os, kia mir_ind_a kresk_aĵ_o dis_flor_ad_os iam el nuks_et_o kaj etend_os bon_far_ant_a_n foli_ar_o_n super la popol_o_j frat_ig_it_a_j! Ni sav_u la nuks_et_o_n! decid_is Trompeter. El si_a propr_a salajr_o li ĉerp_os. Kvankam ne_riĉ_a, li propon_is anonim_e cert_a_n sum_o_n por daŭr_ig_i la gazet_o_n dum tri jar_o_j. Al la redakt_ist_o li dediĉ_is cent_mark_a_n monat_pag_o_n. Ĝis 1894 la viv_o est_is cert_ig_it_a. “Sen Trompeter ni_a afer_o tut_e ne ekzist_us”, parol_is Zamenhof en Bulonj_o. “Neniam parol_ant_e pri si, postul_ant_e por si nenia_n dank_o_n”, li est_is plej fidel_a kaj sincer_a konsil_ant_o. Inter tiu_j mal_oft_a_j vir_o_j li est_is, kiu_j sci_as ofer_i eĉ part_o_n de si_a neces_aĵ_o por help_i geni_ul_o_n.</p>
+
+				<p xml:id="bo197">Dum tri jar_o_j Zamenhof do pov_is pac_e labor_ad_i; sed nov_a_j mal_feliĉ_o_j li_n ek_frap_is. En aŭgust_o 1892 jam mort_is la patr_in_o tiel kar_a. Kiu vart_is li_n bub_et_o, kiu glat_is li_a_n kap_o_n de knab_et_o, kiu far_is li_n sent_em_a kaj hom_am_a, tiu ĉi nun est_is for. La bat_o las_is ĉe li vund_o_n ne_fleg_ebl_a_n. En 1894 la demand_o materi_a re_far_iĝ_is prem_ant_a. Kun si_a famili_et_o la doktor_o dev_is trans_loĝ_i al Grodno.</p>
+
+				<p xml:id="bo198">Kvar jar_o_j_n li rest_is tie. Grand_a ĝoj_o kaj ĉagren_o li_n atend_is. Dum la tut_a jun_ec_o li fervor_e leg_is la nov_a_j_n verk_o_j_n de <name xml:lang="">Tolstoj</name>. Nun la fam_o de la grand_a Rus_o dis_vast_iĝ_is tra la mond_o. Kontraŭ ĵaluz_o kaj per_fort_o li admon_is la hom_ar_o_n. Li_a nobl_a voĉ_o son_is, vok_ant_e ĉiu_j_n hom_o_j_n al am_o kaj frat_iĝ_o. Post bril_a novel_ist_a karier_o, la riĉ_a graf_o konvert_iĝ_is al simil_a ideal_o, por kiu Zamenhof jam viv_is de post infan_ec_o. Li for_las_is la nobel_ar_o_n kaj si_n turn_is al simpl_ec_o. La vilaĝ_an_o_j far_iĝ_is li_a_j frat_o_j. Al naci_o_j kaj eklezi_o_j li riproĉ_is mal_am_o_n inter si.</p>
+
+				<p xml:id="bo199">Kiu pli bon_e pov_us konsent_i kun la Bjalistok_a modest_ul_o? Pro si_a tim_em_o delikat_a, li ne kuraĝ_is trud_i si_n al <name xml:lang="">Tolstoj</name>. Nur inter ceter_a_j li send_is al li la libr_et_o_n en 1888. Respond_o ne ven_is. La sem_o tamen est_is ĵet_it_a. Post ses jar_o_j ĝi lev_iĝ_is antaŭ la publik_o. La popol_a rus_a el_don_ej_o “Posrednik” interes_iĝ_is pri Esperant_o, kaj pet_is opini_o_n de la fam_a pens_ul_o. “Ricev_int_e antaŭ ses jar_o_j esperant_a_n gramatik_o_n, vort_ar_o_n kaj artikol_o_j_n skrib_it_a_j_n en ĉi tiu lingv_o”, respond_is <name xml:lang="">Tolstoj</name>, “mi post ne pli ol du hor_o_j da okup_ad_o pov_is jam, se ne skrib_i, almenaŭ liber_e leg_ad_i en la lingv_o ... Mi vid_is mult_foj_e, kiel hom_o_j rilat_is mal_amik_e nur dank’ al material_a mal_help_o je reciprok_a kompren_ad_o. La lern_ad_o de Esperant_o kaj ĝi_a dis_vast_ig_o est_as do sen_dub_e krist_an_a afer_o, kiu help_as al kre_o de la Regn_o de Di_o, kio est_as la ĉef_a kaj sol_a cel_o de la hom_a viv_o.” (<name xml:lang="ru">Jasnaja Poljana</name>, la 27-a de april_o 1894.)</p>
+
+				<p xml:id="bo200">Tia parol_o est_is grand_a kuraĝ_ig_o. La leter_o en_pres_iĝ_is en <name>La Esperant_ist_o</name>, kaj varm_ig_is entuziasm_o_n. Ankaŭ aper_is pli post_e, en la du_a numer_o de 1895, traduk_aĵ_o el la <name xml:lang="">Tolstoj</name>_a <name>Kred_o kaj Prudent_o</name>. Pro tio la rus_a cenzur_o mal_permes_is la gazet_o_n en la Imperi_o. Terur_a bat_o: ĉar tie ĝi hav_is plej mult_a_j_n abon_ant_o_j_n. La el_ir_ad_o dev_is ĉes_i. Oficial_a elefant_o paŝ_prem_is nur muŝ_et_o_n. Sed tiel mort_is la lig_il_o de la Esperant_ist_o_j. Mal_ĝoj_o kaj mal_lum_o reg_is en la rond_et_o. Dum_e Zamenhof de_nov_e barakt_ad_is kun akr_aĵ_o_j de la viv_ad_o.</p>
+
+				<p xml:id="bo201">Sur ali_a ter_o, feliĉ_e, gren_er_o sem_it_a el_kresk_is. Jam en decembr_o la sam_a_n jar_o_n el_ir_is <name>Lingv_o Inter_naci_a</name>. Upsal_a Klub_o Esperant_a el_don_is la gazet_o_n en Sved_uj_o. De post tiam la mov_ad_o ne halt_is jam plu.</p>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-6" type="chapitro">
+
+				<head xml:id="bo202">ĈAPITR_O VI</head>
+
+				<head xml:id="bo203" type="subordinate">IDEAL_IST_A PROFET_O</head>
+
+				<p xml:id="bo204">Post la mort_o de la patr_in_o, la ge_frat_o_j Zamenhof proksim_iĝ_is al la patr_o, kies kor_o pli_mol_iĝ_is. Grand_a est_is li_a viv_ĉagren_o, kaj li far_iĝ_is tre sent_em_a. Komun_a funebr_o lig_is al li ĉiu_j_n fil_o_j_n kaj fil_in_o_j_n. Dolor_o kaj memor_o pri la am_at_a mort_int_in_o kun_ig_is ili_n ĉirkaŭ am_o kaj spirit_o ŝi_a. Por dolĉ_ig_i la viv_o_n de la patr_o mal_feliĉ_a, ili ĉiu_j zorg_is. Li far_iĝ_is amik_o plej kar_a. Pro tio, for_flug_int_o_j el la nest_o pen_is re_vetur_i Varsovi_o_n tiel baldaŭ kiel ebl_e. Unu post unu re_ven_is ili kun edz_in_o kaj infan_o_j, kaj re_pren_is si_a_n lok_o_n en la rond_o famili_a. Tial ankaŭ Ludovik_o re_ven_is en 1898. Li en_loĝ_is kun la si_a_j en mal_riĉ_a strat_o de la hebre_a kvartal_o, <name xml:lang="">Ulica Dzika</name>, 9. Ĝis la mond_milit_o li rest_is tie. Kiel okul_ist_o, li komenc_is tre mal_kar_a_n praktik_ad_o_n. La klient_o_j pag_is nur kvar_dek kopek_o_j_n — kelk_a_j eĉ nenio_n. Sed, kvankam tre ŝpar_em_a_j, la Hebre_o_j ja mal_ŝat_as ŝuld_o_j_n. Ordinar_a_j okul_ist_o_j postul_is grand_a_j_n sum_o_j_n. En riĉ_a_j salon_o_j ili loĝ_is luks_e. Tial mult_a_j hom_o_j eĉ prefer_is ir_i ĝis blind_ec_o kun mal_san_o de la okul_o_j. Nun al_ven_is popol_a kurac_ant_o. Al mult_a_j li eĉ sav_is la vid_o_n. Baldaŭ li_a atend_ej_o plen_iĝ_is de maten_o al vesper_o. Li far_iĝ_is ver_a bon_far_ant_o.</p>
+
+				<p xml:id="bo205">Amik_e li klin_iĝ_is super lac_a_j labor_ist_o_j kaj pal_a_j kudr_ist_in_o_j, kiu_j fid_is li_n. Spert_o kaj stud_ad_o li_n est_ig_is baldaŭ rimark_ind_a special_ist_o. Tiel li viv_is ĝis la mort_o, tre modest_e, tre mal_riĉ_e, for el ĉia luks_o.<ptr xml:id="vivo-de-zamenhof-13" target="#noto-vivo-de-zamenhof-13"/> Per pen_ad_o ĉiu_tag_a la prem_ant_a_j zorg_o_j mal_aper_is. Sed ankaŭ mal_oft_iĝ_is temp_o liber_a por pli alt_a cel_o. Tamen li_n konsol_is tiu sent_o, ke la ofer_o li_a port_as tuj_a_n help_o_n al hom_frat_o_j. Vesper_e li sid_iĝ_is kaj re_pren_is la plum_o_n.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-13" target="#vivo-de-zamenhof-13">Iam, en amerik_a urb_eg_o, post parol_ad_o pri verk_o de Zamenhof al jun_a_j labor_ist_o_j, hebre_a knab_o el Varsovi_o mi_n demand_is: “Ĉu est_as tiu sam_a Zamenhof, la bon_kor_a okul_ist_o de la strat_o Dzika?”</note>
+
+				<p xml:id="bo206">Verk_ad_o, traduk_ad_o, korespond_ad_o for_manĝ_is grand_a_n part_o_n de la nokt_o_j. La mov_ad_o esperant_ist_a dis_vast_iĝ_is tra la mond_o mal_rapid_e, sed progres_e. Kun am_o li sekv_is la klopod_o_j_n de la nov_a_j batal_ant_o_j:</p>
+
+				<p xml:id="bo207">... Vi en la urb_o, vi en urb_et_o,<lb/>
+En la mal_grand_a vilaĝ_o ...<lb/>
+Tre mal_proksim_e ĉiu_j ni star_as<lb/>
+La unu_j de la ali_a_j.<lb/>
+Kie vi est_as, kio_n vi far_as,<lb/>
+Ho, kar_a_j frat_o_j vi mi_a_j?</p>
+
+				<p xml:id="bo213">Per tiu poem_o <name>Al la frat_o_j</name>, kvazaŭ tra kristal_o tra_vid_ebl_a, ni pov_as rigard_i ĝis fund_o de li_a kor_o, kiel ĝi bat_is en la vesper_a silent_o pens_ant_e al la ali_a “rond_o famili_a”.</p>
+
+				<p xml:id="bo214">Ankaŭ pri si_a mal_riĉ_a klient_ar_o de hebre_a_j labor_ist_o_j li pens_is oft_e. Li mem hejm_e parol_is nur pol_e kaj si_n sent_is hom_ar_an_o, sed la sort_o de la mal_feliĉ_a gent_o pri_okup_is li_n. Kiel student_o li jam trov_is en la cion_ist_a_j rond_o_j tro da ŝovinism_o. La kontraŭ_a parti_o de la “asimil_ist_o_j” ankaŭ ne plaĉ_is al li. Per ali_a ŝovinism_o ili anstataŭ_is la unu_a_n. Laŭ ili la Hebre_o_j dev_us kaŝ_e forges_ig_i si_a_n gent_o_n, far_iĝ_ant_e eĉ pli pol_a_j ol la Pol_o_j aŭ pli rus_a_j ol la Rus_o_j. Tio ŝajn_is al li mal_ver_aĵ_o. Al lum_o kaj sincer_o li cel_is.</p>
+
+				<p xml:id="bo215">Laŭ li_a kred_o la hom_o_j ja bezon_us nek fier_e trud_i, nek hont_e kaŝ_i si_a_n gent_a_n naci_ec_o_n. Liber_a_j kaj sincer_a_j ili dev_us rest_i. Religi_o, hejm_a lingv_o kaj de_ven_o rest_u privat_a_j afer_o_j. En kelk_a_j land_o_j eklezi_o jam eks_iĝ_is el la fak_o_j oficial_a_j. De nun ankaŭ apart_iĝ_u ŝtat_o kaj patr_uj_o.</p>
+
+				<p xml:id="bo216">Hebre_o_j est_u bon_a_j kaj help_em_a_j civit_an_o_j de tiu aŭ ali_a regn_o. Ili ne si_n ten_u kiel fremd_a_j, sed ankaŭ ne kvazaŭ gent ŝanĝ_ul_o_j. Ili star_u frat_e kaj egal_e kun ali_a_j sur neŭtral_a fundament_o de la util_o al ceter_a_j. Hebre_o en Varsovi_o ne bezon_as far_iĝ_i Pol_o aŭ Palestin_an_o. Li est_u simpl_e honest_a Pol_land_an_o. Tiel li pov_os rest_i ankaŭ Hebre_o kaj hom_ar_an_o, kio est_as la plej grav_a. Lern_o de neŭtral_a lingv_o inter_naci_a unu_ig_us ĉiu_j_n Hebre_o_j_n en la mond_o, kaj sam_temp_e lig_us ili_n sur egal_a baz_o kun ĉiu_j ceter_a_j gent_o_j.</p>
+
+				<p xml:id="bo217">Laŭ tiu senc_o Zamenhof publik_ig_is libr_o_n en la rus_a lingv_o por ating_i leg_ant_ar_o_n tra la tut_a vast_a imperi_o. Li ĝi_n sub_skrib_is “Hom_o sum” kaj elekt_is la titol_o_n <name>Hilel_ism_o</name> laŭ la nom_o de Hillel. Tiu fam_a kler_ul_o de la antikv_a Palestin_o viv_is en Jerusalem_o en la last_a_j jar_o_j antaŭ Krist_o. Plej aŭtoritat_a scienc_ul_o pri la Leĝ_o, li ĉiam klar_ig_is ĝi_n <hi>laŭ spirit_o</hi>, dum Ŝammaj kaj li_a skol_o pasi_e defend_is ĝi_n <hi>laŭ liter_o</hi>. Dolĉ_a kaj humil_a karakter_e, la mal_jun_a pens_ul_o predik_is am_o_n, pac_o_n, kaj stud_ad_o_n. “Kio est_as al vi mal_agrabl_a, tio_n ne far_u al ceter_a_j”, tiel li re_sum_is la tut_a_n instru_ad_o_n. Laŭ Hillel, hom_o ne dev_us apart_iĝ_i de la ceter_a_j per ekster_a si_n_ten_ad_o. Ĉiu dev_us si_n konsider_i nur part_o de la tut_o. Facil_e est_as ja kompren_i, kiel tia_j pens_o_j al_log_is kaj influ_is Zamenhof_o_n.</p>
+
+				<p xml:id="bo218">Tamen li_a <name>Hilel_ism_o</name> ne vek_is entuziasm_o_n inter la Hebre_o_j en Rus_land_o. Al ambaŭ parti_o_j ĝi mal_plaĉ_is. Ĝi est_is tro ide_a. Ankaŭ ĝi ja kontraŭ_star_is politik_a_j_n interes_o_j_n. Por tio_n real_ig_i, oni dev_us antaŭ ĉio re_kon_i egal_ec_o_n inter gent_o_j. Ĝis tiam la gvid_ant_o_j prefer_is agit_ad_i por cel_o_j pli facil_a_j. Al raben_o_j la aŭtor_o ŝajn_is tro liber_kred_em_a.</p>
+
+				<p xml:id="bo219">El ĉiu_j flank_o_j oficial_a_j ven_is nur kritik_o_j aŭ suspekt_o_j. Nur mal_grand_a nombr_o da spirit_o_j ver_serĉ_em_a_j li_n kompren_is kaj aprob_is. La ŝovinist_o_j li_n mal_ŝat_is. De_nov_e li sufer_is pro la potenc_o de la antaŭ_juĝ_o_j. De_nov_e li_n dolor_is sol_ec_o de la anim_o. Sed la fid_o rest_is sen_ŝancel_a. Super gent_a_j diferenc_o_j hom_o_j dev_as unu_iĝ_i. Al si mem li re_dir_ad_is la deviz_o_n, kiu_n li dediĉ_is al Esperant_ist_a_j sam_ide_an_o_j “Ni kio_n pov_os, ni far_os”:</p>
+
+				<p xml:id="bo220">Cent sem_o_j perd_iĝ_as, mil sem_o_j perd_iĝ_as ...<lb/>
+Ni sem_as kaj sem_as konstant_e.<ptr xml:id="vivo-de-zamenhof-14" target="#noto-vivo-de-zamenhof-14"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-14" target="#vivo-de-zamenhof-14">El la poem_o “La Voj_o”.</note>
+
+				<p xml:id="bo222">De 1900 al 1905 Esperant_o progres_is pli rapid_e. En dek du land_o_j fond_iĝ_is grup_o_j kaj gazet_o_j. En Franc_uj_o grav_a_j societ_o_j ĝi_n sub_ten_is. Al_iĝ_is jam kon_at_a_j scienc_ul_o_j. La mov_ad_o iĝ_is vast_a. Tiam est_is kun_vok_it_a en Boulogne-sur-Mer la unu_a kongres_o de la Esperant_ist_o_j.</p>
+
+				<p xml:id="bo223">Kun strang_a tim_em_o Zamenhof atend_is tiu_n hor_o_n. Unu_e li hezit_is, ĉu li eĉ vetur_os tie_n. Vojaĝ_o kaj el_spez_o est_us grand_a_j. Ankaŭ neniam li el_ir_is mem publik_e. Li ne sci_is parol_ad_i. Li tim_is la rigard_o_j_n de tiom da vizaĝ_o_j nov_a_j, ne_kon_at_a_j. Li si_n ĝen_is.</p>
+
+				<p xml:id="bo224">Fin_e li decid_is tamen ir_i. Fidel_e demokrat_e, li sub_met_iĝ_is al la dezir_o de la Esperant_ist_ar_o. Iom trem_ant_e, li prepar_is leg_ot_a_n parol_ad_o_n. Al sam_ide_an_o_j li ja dir_os la fund_o_n de si_a pens_o. Li klar_ig_os la plej alt_a_n cel_o_n de la afer_o komun_a.</p>
+
+				<p xml:id="bo225">Kun la edz_in_o li vojaĝ_is. Vagon_o tri_a_klas_a konduk_is ili_n al Pariz_o. Tie komenc_iĝ_is semajn_o por li tre tim_ig_a. En la plej bril_a ĉef_urb_o en la mond_o li_n atend_is bru_ad_o kaj flat_ad_o. La urb_estr_ar_o li_n akcept_is en la urb_o_dom_o. La ministr_o de publik_a instru_ad_o don_is al li la orden_o_n de honor_o. En la supr_o de la Ejfel_a tur_o li tag_manĝ_is kun plej fam_a_j scienc_ul_o_j de Franc_uj_o.</p>
+
+				<p xml:id="bo226">Tra ĉiu_j solen_aĵ_o_j li si_n ten_is tre modest_e, iom ĝen_e, ĉiam delikat_e. Pez_a_j est_is tiu_j tag_o_j fest_o_plen_a_j por vir_o ne mond_an_a kaj rest_int_a hejm_e dum long_jar_o_j. Tamen li kompren_is, ke tio help_as dis_kon_ig_i Esperant_o_n antaŭ la publik_o. Tial li el_port_is ĉio_n pacienc_e. Eĉ mal_fru_e en vesper_o_j, tre lac_a, li akcept_is ĵurnal_ist_o_j_n sci_vol_em_a_j_n. Al ĉiu_j pacienc_e li respond_is, ne pri si, nur pri la mond_lingv_o.</p>
+
+				<p xml:id="bo227">Skeptik_a_j Pariz_an_o_j ebl_e trov_is li_n naiv_a. Ili erar_is. Tre klar_e li tra_vid_is ĉiu_j_n fakt_o_j_n kaj evit_is iluzi_o_j_n. Li ja tre bon_e diven_is, ke la tut_a program_o est_is zorg_e aranĝ_it_a, dank’ al mult_pen_a klopod_ad_o de si_n_don_em_a_j gast_o kaj amik_o_j kiel <name xml:lang="">Javal</name>, <name xml:lang="">Sébert</name>, akademi_an_o_j, <name xml:lang="">Bourlet</name>, profesor_o tre ag_em_a. Tio est_is ebl_a, ĉar la franc_a reg_ist_ar_o est_is tiam oficial_e pacifist_a. Morgaŭ vent_o politik_a pov_us blov_i el kontraŭ_a flank_o kaj sub_akv_ig_i ĉio_n “inter_naci_a_n” sub ond_eg_o ŝovinist_a. Tial est_is prav_e ek_profit_i la okaz_o_n por vast_ig_i Esperant_o_n.</p>
+
+				<p xml:id="bo228">Sed la ver_a ĝoj_o li_n atend_is en Bulonj_o. Tie li renkont_os frat_o_j_n ĉiu_land_a_j_n. Tie li trov_iĝ_os en “la rond_o famili_a”.</p>
+
+				<p xml:id="bo229">Trans ĉiu_j strat_o_j de la urb_et_o mar_bord_a balanc_iĝ_is verd_a_j flag_o_j kun la stel_o de la esper_o. Ĉirkaŭ la teatr_o kun_ven_ej_a jam aŭd_iĝ_is nur la lingv_o inter_naci_a. Angl_o_j kun flanel_a ĉap_o, Franc_o_j en solen_a frak_o, Pol_o_j, Rus_o_j, Holand_an_o_j en vojaĝ_a vest_o, ĉarm_a_j Hispan_in_o_j kun kolor_a_j ŝal_o_j renkont_iĝ_is sur la plac_o kaj babil_is kun_e. Ili si_n kompren_is. Flu_e kaj facil_e flug_is la parol_o_j. De lip_o_j al orel_o_j. De Sved_o_j al Ital_o_j. Fal_is, fal_is mur_o_j inter la popol_o_j.</p>
+
+				<p xml:id="bo230">Ben_it_e jam ven_is vesper_o. Sur la strat_o_j ek_mal_lum_is. En la kongres_ej_o_n ĉiu nun en_ir_is por la mal_ferm_a kun_sid_o. Rapid_is al_kur_ant_o_j. El hotel_o_j. El haven_o. El staci_dom_o rekt_e kun valiz_o_j en la man_o. La teatr_o de la urb_et_o jam plen_iĝ_is. Tro mal_grand_a la ĉambr_eg_o. Mil_o da sam_ide_an_o_j prem_iĝ_is tie. De parter_o al balkon_o zum_ad_is Esperant_o. Preskaŭ neniu vid_is jam Zamenhof. Plej mult_a_j kon_is li_n nur per la geni_a verk_o, per mal_long_a leter_et_o; am_e konserv_at_a en arĥiv_o_j de la grup_o, aŭ per portret_o pend_ig_it_a ĉe la mur_o de la sid_ej_o. Ĉiu sci_is ja parker_e li_a_j_n vers_o_j_n kuraĝ_ig_a_j_n:</p>
+
+				<p xml:id="bo231">Tra dens_a mal_lum_o bril_et_as la cel_o<lb/>
+Al kiu kuraĝ_e ni ir_as.<lb/>
+Simil_e al stel_o en nokt_a ĉiel_o,<lb/>
+Al ni la direkt_o_n ĝi dir_as.</p>
+
+				<p xml:id="bo235">En la hor_o_j mal_facil_a_j de lok_a propagand_o, kiu ne oft_e re_memor_is tiu_j_n vort_o_j_n de <name>La Voj_o</name>? Pri tia_j spert_o_j kun_parol_is la aŭd_ant_ar_o en la plen_a sal_oneg_o. Varm_o vast_iĝ_is sub la lamp_ar_o. Ekscit_a trem_o rul_iĝ_is tra la amas_o dum atend_o ... Subit_e ek_son_is la muzik_o de la himn_o <name>La Esper_o</name>:</p>
+
+				<p xml:id="bo236">En la mond_o_n ven_is nov_a sent_o,<lb/>
+Tra la mond_o ir_as fort_a vok_o ...</p>
+
+				<p xml:id="bo238">Sam_temp_e ĉiu_j ni star_iĝ_is ... Jen sur la scen_ej_o, kun la estr_ar_o de la kongres_o, en_ir_is la am_at_a Majstr_o. Mal_alt_a, tim_em_a, kor_tuŝ_it_a, kun frunt_o tre grand_a, rond_a_j okul_vitr_o_j, barb_et_o jam griz_a. Ĉio jam flug_is aŭ sving_iĝ_is en aer_o, man_o_j, ĉap_o_j, tuk_o_j, en du_on_hor_a aklam_ad_o. Kiam li lev_iĝ_is post la salut_o_j de la urb_estr_o, la fervor_o re_tondr_eg_is. Sed jam li ek_parol_is. Ĉes_is la bru_ad_o. Ĉiu_j re_sid_iĝ_is. Tra silent_o son_is li_a_j vort_o_j:</p>
+
+				<p xml:id="bo239">“Mi salut_as vi_n, kar_a_j sam_ide_an_o_j, frat_o_j kaj frat_in_o_j el la grand_a tut_mond_a hom_a famili_o, kiu_j kun_ven_is el land_o_j proksim_a_j kaj mal_proksim_a_j, el la plej divers_a_j regn_o_j de la mond_o, por frat_e prem_i al si reciprok_e la man_o_j_n, pro la nom_o de grand_a ide_o, kiu ĉiu_j_n ni_n lig_as ...</p>
+
+				<p xml:id="bo240">“Sankt_a est_as por ni la hodiaŭ_a tag_o. Modest_a est_as ni_a kun_ven_o; la mond_o ekster_a ne mult_e sci_as pri ĝi, kaj la vort_o_j, kiu_j est_as parol_at_a_j en ni_a kun_ven_o, ne flug_os telegraf_e al ĉiu_j urb_o_j kaj urb_et_o_j de la mond_o; ne kun_ven_is regn_estr_o_j nek ministr_o_j por ŝanĝ_i la politik_a_n kart_o_n de la mond_o; ne bril_as luks_a_j vest_o_j kaj mult_eg_o da impon_ant_a_j orden_o_j en ni_a salon_o, ne bru_as paf_il_eg_o_j ĉirkaŭ la modest_a dom_o, en kiu ni trov_iĝ_as; sed tra la aer_o de ni_a salon_o flug_as mister_a_j son_o_j, son_o_j tre mal_laŭt_a_j, ne aŭd_ebl_a_j por la orel_o, sed sent_ebl_a_j por ĉiu anim_o sent_em_a: ĝi est_as la son_o_j de io grand_a, kio nun nask_iĝ_as. Tra la aer_o flug_as mister_a_j fantom_o_j; la okul_o_j ili_n ne vid_as, sed la anim_o ili_n sent_as: ili est_as imag_o_j de la temp_o est_ont_a, de temp_o tut_e nov_a. La fantom_o_j flug_os en la mond_o_n, korp_iĝ_os kaj potenc_iĝ_os, kaj ni_a_j fil_o_j kaj nep_o_j ili_n vid_os, ili_n sent_os kaj ĝu_os ...”</p>
+
+				<p xml:id="bo241">“Oft_e kun_ven_as person_o_j de mal_sam_a_j naci_o_j kaj kompren_as unu la ali_a_n; sed kia grand_eg_a diferenc_o est_as inter ili_a reciprok_a kompren_iĝ_ad_o kaj la ni_a! ... Tie la membr_o de unu naci_o humil_iĝ_as antaŭ la membr_o de ali_a naci_o, parol_as li_a_n lingv_o_n, hont_ig_ant_e la si_a_n, balbut_as kaj ruĝ_iĝ_as, kaj sent_as si_n ĝen_at_a antaŭ si_a kun_parol_ant_o, dum tiu ĉi last_a sent_as si_n fort_a kaj fier_a; en ni_a kun_ven_o ne ekzist_as naci_o_j fort_a_j kaj mal_fort_a_j, privilegi_it_a_j kaj sen_privilegi_it_a_j, neniu humil_iĝ_as, neniu si_n ĝen_as; ni ĉiu_j star_as sur fundament_o neŭtral_a, ni ĉiu_j est_as plen_e egal_rajt_a_j; ni ĉiu_j sent_as ni_n kiel membr_o_j de unu naci_o, kiel membr_o_j de unu famili_o; kaj la unu_a_n foj_o_n en la hom_a histori_o ni, membr_o_j de la plej mal_sam_a_j popol_o_j, star_as unu apud ali_a ne kiel fremd_ul_o_j, ne kiel konkur_ant_o_j, sed kiel frat_o_j, kiu_j, ne al_trud_ant_e unu al ali_a si_a_n lingv_o_n, kompren_as si_n reciprok_e, ne suspekt_as unu ali_a_n pro mal_lum_o ili_n divid_ant_a, am_as si_n reciprok_e kaj prem_as al si reciprok_e la man_o_j_n, ne hipokrit_e kiel ali_naci_an_o al ali_naci_an_o, sed sincer_e, kiel hom_o al hom_o. Ni konsci_u bon_e la tut_a_n grav_ec_o_n de la hodiaŭ_a tag_o, ĉar hodiaŭ, inter la gast_am_a_j mur_o_j de Bulonj_o-sur-Mar_o, kun_ven_is ne Franc_o_j kun Angl_o_j, ne Rus_o_j kun Pol_o_j, sed hom_o_j kun hom_o_j ...”</p>
+
+				<p xml:id="bo242">“Post mult_a_j mil_jar_o_j da reciprok_a surd_a mut_ec_o kaj batal_ad_o, nun en Bulonj_o fakt_e komenc_iĝ_as en pli grand_a mezur_o la reciprok_a kompren_iĝ_ad_o kaj frat_iĝ_ad_o de la divers_popol_a_j membr_o_j de la hom_ar_o; kaj unu foj_o_n komenc_iĝ_int_e, ĝi jam ne halt_os, sed ir_ad_os antaŭ_e_n ĉiam pli kaj pli potenc_e, ĝis la last_a_j ombr_o_j de la etern_a mal_lum_o mal_aper_os por ĉiam. Ben_at_a est_u la tag_o, kaj grand_a_j est_u ĝi_a_j sekv_o_j!” Tiel parol_is Zamenhof. En li_a_j man_o_j la paper_o trem_is. Li sent_is fort_eg_a_n emoci_o_n. Ĉu li pov_os leg_i plu? Io tamen puŝ_is li_n. Kvankam ne_kutim_a je publik_a uz_o, li_a voĉ_o kresk_is kaj far_iĝ_is laŭt_a. Trans la paĝ_o_j, iom febr_e turn_at_a_j, li ek_vid_is aŭd_ant_ar_o_n. Vir_o_j, vir_in_o_j, jun_ul_o_j, kap_o_j blank_har_a_j, vizaĝ_o_j atent_em_a_j, rigard_o_j konsent_em_a_j. Reg_is varm_a silent_eg_o. Ili ĉiu_j kvazaŭ tir_is vort_o_j_n el li_a buŝ_o. Li daŭr_is kun am_o.</p>
+
+				<p xml:id="bo243">Li parol_is just_e, kaj modest_e. Li parol_is pri Ŝlejer, pli fru_a pionir_o de la ide_o mond_lingv_a. Jam li forges_is la akr_a_j_n atak_o_j_n de li kaj de la volapuk_an_o_j. Li parol_is nur pri la grand_a labor_ad_o de si_a antaŭ_ul_o. Li pet_is la kongres_o_n honor_i li_a_n nom_o_n. Li parol_is pri la sufer_o_j kaj esper_o de la hom_ar_o, pri la sankt_a dev_o, pri la est_ont_ec_o de frat_iĝ_o. Li parol_is pri la unu_a_j batal_ant_o_j por la cel_o. Li parol_is pri la ofer_o_j de mort_int_o_j. Li dank_is al <name xml:lang="">Einstein</name>, <name xml:lang="">Waŝniewski</name>, <name xml:lang="">Trompeter</name>. La tut_a aŭd_ant_ar_o lev_iĝ_is pro salut_o memor_a.</p>
+
+				<p xml:id="bo244">Profund_a sent_o reg_is en la ĉambr_eg_o. Ten_ant_e la paper_o_n, Zamenhof ek_trem_is pli vid_ebl_e ĉe la man_o_j. Ĉu li pov_os el_dir_i fin_o_n? Li_a voĉ_o pen_is last_a_n fort_o_n:</p>
+
+				<p xml:id="bo245">“Baldaŭ komenc_iĝ_os la labor_o_j de ni_a kongres_o, dediĉ_it_a al ver_a frat_iĝ_o de la hom_ar_o. En tiu ĉi solen_a moment_o, mi_a kor_o est_as plen_a de io ne_difin_ebl_a kaj mister_a, kaj mi sent_as la dezir_o_n facil_ig_i la kor_o_n per ia preĝ_o, turn_i mi_n al iu plej alt_a Fort_o, kaj al_vok_i ĝi_a_n help_o_n kaj ben_o_n. Sed tiel sam_e kiel mi en la nun_a moment_o ne est_as ia naci_an_o, sed simpl_a hom_o, tiel sam_e mi ankaŭ sent_as, ke en tiu ĉi moment_o mi ne aparten_as al ia naci_a aŭ parti_a religi_o, sed mi est_as nur hom_o. Kaj en la nun_a moment_o star_as antaŭ mi_a_j anim_a_j okul_o_j nur tiu alt_a moral_a Fort_o, kiu_n sent_as en si_a kor_o ĉiu hom_o, kaj al tiu ĉi ne_kon_at_a Fort_o mi turn_as mi_n kun mi_a preĝ_o:”</p>
+
+				<quote>
+
+					<p xml:id="bo246">“Al Vi, ho potenc_a sen_korp_a mister_o,<lb/>
+Font_eg_o de l’ am_o kaj ver_o ...<lb/>
+Al Vi, kiu_n ĉiu_j mal_sam_e prezent_as,<lb/>
+Sed ĉiu_j egal_e en kor_o Vi_n sent_as ...<lb/>
+Hodiaŭ ni preĝ_as.”</p>
+
+					<p xml:id="bo251">“Al Vi ni ne ven_as kun kred_o naci_a,<lb/>
+Kun dogm_o_j de blind_a fervor_o;<lb/>
+Silent_as nun ĉiu disput’ religi_a<lb/>
+Kaj reg_as nur kred_o de kor_o ...”</p>
+
+					<p xml:id="bo255">“Ho, kiu ajn est_as Vi, Fort_o mister_a,<lb/>
+Aŭskult_u la voĉ_o_n de l’ preĝ_o sincer_a,<lb/>
+Re_don_u la pac_o_n al la infan_ar_o<lb/>
+De l’ grand_a hom_ar_o!”</p>
+
+					<p xml:id="bo259">“Ni ĵur_is labor_i, ni ĵur_is batal_i,<lb/>
+Por re_unu_ig_i l’ hom_ar_o_n.<lb/>
+Sub_ten_u ni_n, Fort_o, ne las_u ni_n fal_i,<lb/>
+Sed las_u ni_n venk_i la bar_o_n ...”</p>
+
+					<p xml:id="bo263">“La verd_a_n standard_o_n tre alt_e ni ten_os;<lb/>
+Ĝi sign_as la bon_o_n kaj bel_o_n.<lb/>
+La Fort_o mister_a de l’ mond_o ni_n ben_os,<lb/>
+Kaj ni_a_n ating_os ni cel_o_n.”</p>
+
+					<p xml:id="bo267">“Ni inter popol_o_j la mur_o_j_n detru_os,<lb/>
+Kaj ili ek_krak_os kaj ili ek_bru_os<lb/>
+Kaj fal_os por ĉiam, kaj am_o kaj ver_o<lb/>
+Ek_reg_os sur ter_o.”</p>
+
+				</quote>
+
+				<p xml:id="bo271">Kiam re_sid_iĝ_is Zamenhof, de_nov_e aklam_at_a sen_fin_e, mult_a_j okul_o_j est_is mal_sek_a_j. Tre simpl_e, tre sincer_e pas_is hor_o, mal_facil_e rakont_ebl_a. Io flug_is en la aer_o, ia blov_o etern_ig_a. Ĉiu_foj_e, kiam ĉe_est_int_o re_memor_as tiu_n hor_o_n, larm_o bril_as en rigard_o li_a. Nov_a temp_o ja nask_iĝ_is tiam. Eĉ ne mond_milit_o pov_is ĝi_n detru_i.</p>
+
+				<p xml:id="bo272">Ho, kar_a naiv_ec_o de la Bulonj_a temp_o! Nask_iĝ_o nov_a de la hom_ar_o kun odor_o de lul_il_o. Amik_ar_o simpl_a kaj sincer_a. Man_prem_o_j. Kompren_iĝ_o reciprok_a. Parol_o_j de modest_a vir_o. Grand_ec_o ver_a de la geni_o, viv_ant_a per lig_il_o sur ni_a_j lip_o_j. Spirit_o potenc_a de la anim_o pur_a. Kort_rem_o de la hom_iĝ_o komun_a. Ho, trem_o de Bulonj_o, sekv_u mi_n ĝis tomb_o!... Sur kamp_o_j sang_um_it_a_j fal_is mil_o_j el la plej bon_a_j. Al urb_o_j kaj vilaĝ_o_j blov_is terur_eg_o. Dis_krak_o. Funebr_o. Mizer_o. Sen_fin_e kruc_o_j lign_a_j. Dolor_e la rest_int_o_j lev_as la okul_o_j_n. Kio morgaŭ? Ho, sem_o de Bulonj_o, kresk_u super tomb_o_j!</p>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-7" type="chapitro">
+
+				<head xml:id="bo273">ĈAPITR_O <num>VII</num></head>
+
+				<head xml:id="bo274" type="subordinate">HOM_AR_AN_O</head>
+
+				<p xml:id="bo275">Ekster_e la Bulonj_a Kongres_o est_is antaŭ ĉio fest_o propagand_a. Tamen pri vast_iĝ_o de la lingv_o, la kun_sid_o_j oficial_a_j okaz_ig_is interes_a_n diskut_ad_o_n. Flu_e kaj facil_e son_is argument_o_j kaj respond_o_j de la parol_ant_o_j. Sur neŭtral_a fundament_o ĉiu sent_is si_n egal_a kaj liber_a. Kiel ĉiu_j_n kongres_an_o_j_n tio tre impres_is Zamenhof_o_n. Re_ven_int_e Varsovi_o_n, li kun_port_is feliĉ_eg_a_n spert_o_n, ne nur lingv_a_n, sed moral_a_n:</p>
+
+				<p xml:id="bo276">“Kiu aŭd_is la mult_nombr_a_j_n parol_o_j_n kaj diskut_o_j_n, kiu vid_is tiu_n plen_a_n sen_ĝen_ec_o_n kaj kor_tuŝ_ant_a_n frat_ec_o_n inter ĉiu_j part_o_pren_ant_o_j de la kongres_o, tiu al si mem ne kred_is, ke ĉiu_j tiu_j hom_o_j ankoraŭ hieraŭ est_is tut_e fremd_a_j unu_j al la ali_a_j, ke ili_n unu_ig_is nur neŭtral_a lingv_o ..., ke ĝi_a facil_a lern_ad_o far_is mirakl_o_n, kaj de_ŝir_ant_e neniu_n de li_a natur_a patr_uj_o, lingv_o, aŭ religi_an_ar_o, don_is al hom_o_j de plej divers_a_j gent_o_j kaj religi_o_j la ebl_o_n viv_i inter si en la plej pac_a kaj sincer_a frat_ec_o.”<ptr xml:id="vivo-de-zamenhof-15" target="#noto-vivo-de-zamenhof-15"/> La rev_o, li pens_is, est_as do plen_um_ebl_a, kaj efektiv_e la lern_o de mond_lingv_o montr_iĝ_is unu_a paŝ_o plej efik_a.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-15" target="#vivo-de-zamenhof-15">El la broŝur_et_o <name>Hom_ar_an_ism_o</name> de Zamenhof, el_don_it_a sen sub_skrib_o, Peterburg_o 1906.</note>
+
+				<p xml:id="bo277">Dum la vintr_o la proksim_a_j fakt_o_j al_port_is sovaĝ_a_n kontrast_o_n, elokvent_a_n per si mem. La rus_a kaj japan_a imperi_o_j milit_is inter si. Dum_e la popol_o_j en Rus_land_o komenc_is ribel_i kontraŭ la car_ism_a reg_ad_o. Amas_o da mal_riĉ_a_j labor_ist_o_j antaŭ la palac_o peterburg_a pet_is pri element_a_j rajt_o_j politik_a_j. La gvardi_an_o_j sur ĉeval_o_j ricev_is ordon_o_n ek_paf_i. Vir_o_j, infan_o_j, vir_in_o_j rul_iĝ_is sur la neĝ_o sang_ant_e.</p>
+
+				<p xml:id="bo278">En okcident_a_j kaj sud_a_j provinc_o_j la ribel_o far_iĝ_is jam naci_a. Let_o_j, Ukrajnoj, Kaŭkaz_an_o_j ek_batal_is por la liber_ec_o patr_uj_a. Por re_prem_i la danĝer_o_n, la reg_ist_o_j uz_is la metod_o_n tradici_a_n: “<foreign xml:lang="la">Divide ut imperes.</foreign>” Konkurenc_o_n inter gent_o_j ili tuj profit_is, kaj akr_ig_is la disput_o_j_n per agent_o_j special_a_j. La tiel nom_it_a “Nigr_a man_o” est_is fak_o tiu_cel_a ĉe la polic_o. Al divers_a_j urb_o_j ĝi eks_end_is band_o_j_n, kaj incit_is al pogrom_o_j. En Varsovi_o la pol_a_j social_ist_o_j tio_n mal_permes_is per arm_it_a jun_ul_ar_o gard_ant_a ĉiu_j_n strat_o_j_n. Terur_o ja minac_is. En la litv_a land_o kaj Odes_o est_is pli facil_e. Tie la Hebre_o_j loĝ_as en tre grand_a_j nombr_o_j. Frakas_o de la butik_o_j, rab_ad_o kaj buĉ_ad_o son_is bal daŭ. En Kaŭkaz_o okaz_is sam_e inter gent_o_j ali_nom_a_j, Rus_o_j kaj Georg_o_j, Tatar_o_j kaj Armen_o_j.</p>
+
+				<p xml:id="bo279">Abomen_a vid_aĵ_o. Kiel mal_sam_a je bulonj_a! Korp_remit_e, Zamenhof sent_is si_a_n dev_o_n far_i nov_a_n el_paŝ_o_n. La gent_o_j lern_u si_n defend_i kontraŭ tia_j ruz_o_j. Ili lern_u liber_iĝ_i de mal_am_o, evit_ant_e sen_util_a_n konkur_ad_o_n. Kio_n li propon_is al Hebre_o_j sub la titol_o <name>Hilel_ism_o</name>, li decid_is ig_i taŭg_a ĝeneral_e.</p>
+
+				<p xml:id="bo280">Al ĉiu_j hom_o_j li si_n turn_os nun egal_e kiu_gent_a_j. Krom naci_an_o_j, ili dev_us sent_i si_n hom_ar_an_o_j. Tial <name>Hom_ar_an_ism_o</name> est_is la titol_o de broŝur_et_o, pres_it_a sen aŭtor_a nom_o en Peterburg_o 1906.<ptr xml:id="vivo-de-zamenhof-16" target="#noto-vivo-de-zamenhof-16"/> Ĝi en_hav_is nov_a_n instru_o_n pri la rilat_o_j inter hejm_o, gent_o kaj hom_ar_o. Deklar_o el dek du paragraf_o_j form_is la kred_ar_o_n. Antaŭ_parol_o mal_long_a ĝi_n klar_ig_is:</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-16" target="#vivo-de-zamenhof-16">Ĉe D. P. Veisbrut, Troickij prospekt, no. 14.</note>
+
+				<p xml:id="bo281">“La hom_ar_an_ism_o est_as instru_o, kiu, ne de_ŝir_ant_e la hom_o_n de li_a natur_a patr_uj_o, nek de li_a lingv_o, nek de li_a religi_an_ar_o, don_as al li la ebl_o_n evit_i ĉia_n mal_ver_ec_o_n kaj kontraŭ_parol_o_j_n en si_a_j naci_a-religi_a_j princip_o_j kaj komunik_iĝ_ad_i kun hom_o_j de ĉiu_j lingv_o_j kaj religi_o_j sur fundament_o neŭtral_e hom_a, sur princip_o_j de reciprok_a frat_ec_o, egal_ec_o, kaj just_ec_o.”</p>
+
+				<p xml:id="bo282">La antaŭ_parol_o alud_is la spert_o_n de la bulonj_a kongres_o, kiel pruv_o_n, ke tia frat_ec_o est_as ebl_a. Ĝi tamen atent_ig_is, ke oni ne dev_as inter_miks_i hom_ar_an_ism_o_n kun esperant_ism_o:</p>
+
+				<p xml:id="bo283">“Ambaŭ ide_o_j est_as tre parenc_a_j inter si, sed ne ident_a_j. Oni pov_as est_i bon_eg_a esperant_ist_o, kaj tamen kontraŭ_ul_o de la hom_ar_an_ism_o.” Nur tial Zamenhof ne publik_e sub_skrib_is la libr_et_o_n, ĉar li vol_is evit_i konfuz_o_n. Tiu ŝajn_a mal_kuraĝ_o li_n tre sufer_ig_is. En 1912 li publik_e for_met_is de si ĉiu_n oficial_a_n rol_o_n en la afer_o_j de Esperant_o por gajn_i plen_a_n liber_ec_o_n, kaj de tiam li met_is si_a_n nom_o_n sur la nov_a_j el_don_o_j de la broŝur_o.</p>
+
+				<p xml:id="bo284">En Orient_a Eŭrop_o ekzist_as inter gent_o_j du ĉef_a_j element_o_j de mal_sam_o kaj mal_am_o: lingv_o kaj religi_o. Pol_o_j est_as katolik_a_j, Hebre_o_j izrael_an_a_j; Let_o_j est_as luter_an_a_j, Rus_o_j ortodoks_a_j; Armen_o_j est_as krist_an_a_j, Tatar_o_j mahomet_an_a_j. La diferenc_o_n grav_ig_as ne nur apart_a parol_o, sed konkur_a kred_o. En literatur_o kaj eklezi_o kun_centr_iĝ_as la naci_a_j sent_o_j. Tial en punkt_ar_o Zamenhof_a star_as du ĉef_a_j part_o_j: unu lingv_a_politik_a, ali_a religi_a.</p>
+
+				<p xml:id="bo285">En si_a hejm_a viv_ad_o ĉiu parol_u si_a_n ge_patr_a_n lingv_o_n laŭ_plaĉ_e, sed li ne trud_u ĝi_n al hom_o_j ali_gent_a_j, por ne ĝen_i aŭ ofend_i ili_n. En okaz_o de kun_ven_o li uz_u neŭtral_a_n esprim_il_o_n, kiel Esperant_o. Kun si_a_j sam_kred_ant_o_j li sekv_u tiu_j_n religi_a_j_n mor_o_j_n, kiu_j_n li dezir_as tradici_e aŭ elekt_e, sed kun hom_o_j ali_kred_a_j li kondut_u nur laŭ tiu ĉi princip_o: “Ag_u kun ali_a_j tiel, kiel vi dezir_as ke ali_a_j ag_u kun vi.”</p>
+
+				<p xml:id="bo286">Sam_e kiel, ĉe parol_a fak_o, inter_naci_a lingv_o prezent_as neŭtral_a_n fundament_o_n por sen_ĝen_a renkont_iĝ_o kaj frat_iĝ_o, tiel ankaŭ io simil_a dev_us ekzist_i sur la kamp_o religi_a. Sub la nom_o “Di_o” aŭ sub ali_a la hom_ar_an_o_j kompren_u tiu_n Fort_o_n ne_klar_ig_ebl_a_n, sent_at_a_n de mult_a_j kiel kaŭz_o de kaŭz_o_j en la mond_o materi_a kaj moral_a, aŭ de kelk_a_j nur en la moral_a. Neniam ili mal_am_u, mok_u aŭ persekut_u iu_n pro tio, ke li_a kred_o pri tiu Fort_o est_as ali_a ol tiu, kiu_n ili prefer_as. Sam_e est_as krud_a barbar_ec_o riproĉ_i iu_n ajn pri li_a lingv_o aŭ de_ven_o. Ili konsci_u, ke la ver_a_j ordon_o_j religi_a_j kuŝ_as en la kor_o de ĉiu hom_o sub la form_o de konscienc_o, kaj ke la ĉef_a est_as la estim_o kaj help_em_o reciprok_a_j. La ceter_o_n en religi_o ili rigard_u kiel al_don_o_j_n, laŭ unu, dev_ig_a_j_n por li dir_o_j de Di_o, laŭ ali_a, komentari_o_j_n don_it_a_j_n de la grand_a_j instru_int_o_j de la hom_ar_o, laŭ tri_a, miks_aĵ_o_n de instru_o_j kaj legend_o_j aŭ mor_o_j star_ig_it_a_j de hom_o_j. Ĉef_e tiu_j mor_o_j akr_ig_as diferenc_o_j_n.</p>
+
+				<p xml:id="bo287">Tra vitr_o_j divers_kolor_a_j la hom_o_j vid_as unu sam_a_n Fort_o_n. Liber_a_j pov_as est_i predik_o_j propagand_a_j. Sed neniam hom_ar_an_o_j <hi>trud_u</hi> la gent_a_n kolor_o_n de si_a vid_aĵ_o al ceter_a_j. Filozof_e la instru_it_a_j person_o_j jam oft_e toler_as, se ne respekt_as, la mal_sam_a_j_n kred_o_j_n de ali_a_j inteligent_ul_o_j; sed pri kutim_o_j la konflikt_o est_as mult_e pli grav_a.</p>
+
+				<p xml:id="bo288">Tial Zamenhof insist_is pri neŭtral_a fundament_o mor_a, ne nur ide_a. La ĉiu_tag_a viv_o en Eŭrop_o orient_a montr_as la neces_o_n de vid_punkt_o praktik_a. La fakt_o_j ĝi_n postul_as. Salut_o aŭ ne salut_o je ŝton_kruc_o_j ĉe publik_a_j voj_o_j. Oficial_a trud_o de Sabat_o aŭ Dimanĉ_o kiel dev_ig_a fest_o_tag_o. Hav_o aŭ ne_hav_o de long_a barb_o. Ĵur_o sur Bibli_o aŭ per lev_o de la man_o. Atest_o kun ĉap_o aŭ sen ĉap_o sur la kap_o. Ĉio simil_a pov_as ŝajn_i tre rid_ind_a okcident_e. Ĝi tamen kaŭz_is orient_e batal_o_j_n dum jar_cent_o. Ĝi tuj ĵet_as sur la lip_o_j_n nom_o_n gent_a_n, kvazaŭ insult_o_n. Eĉ deklar_o_j est_as grav_a_j, ne nur mor_o_j kaj ide_o_j. En Galici_o, la jud_a lingv_o est_is leĝ_e ne_montr_ebl_a kiel la ge_patr_a en deklar_o_j oficial_a_j. Hebre_o_j dev_is en_skrib_iĝ_i anonc_ant_e ĉu pol_a_n, ĉu german_a_n, aŭ ukrajnan lingv_o_n kiel si_a. Nur per religi_o_j oni pov_is do kalkul_i la divers_gent_an_o_j_n: Izrael_an_o_j=Hebre_o_j, Rom_a_j katolik_o_j=Pol_o_j, Grek_a_j katolik_o_j= Ukrajnoj, Protest_ant_o_j =German_o_j. Eĉ se ili for_las_is jam de long_e la pra_patr_a_n kred_o_n, ĉiu_j si_n en_skrib_is laŭ la gent_a religi_o, pro la nombr_o. Vid_punkt_o nur naci_a kun cel_o statistik_a-politik_a! Tial Zamenhof prepar_is neŭtral_a_n fundament_o_n ankaŭ per zorg_o rimark_ind_a pri deklar_o_j: Hom_ar_an_o_j kutim_iĝ_u je sincer_o. Sur la last_a paĝ_o de la broŝur_o star_is pret_a respond_ar_o por laŭ_vol_a_j al_iĝ_ant_o_j. Jen_a_j fak_o_j apart_iĝ_as: hejm_o, patr_uj_o, gent_o de_ven_a, lingv_o ge_patr_a, lingv_o person_a, religi_o laŭ_kred_a. Nur tia demand_ar_o ebl_ig_us ĉiu_n dir_i plen_a_n ver_o_n, ne perfid_ant_e sufer_ant_a_j_n sam_gent_an_o_j_n.</p>
+
+				<p xml:id="bo289">La ge_patr_a lingv_o Zamenhof_a est_is la rus_a, la person_a est_is la pol_a. Li_a gent_o est_is la hebre_a, li_a religi_o liber_kred_a. Tio_n li pov_us ja konfes_i sur en_skrib_il_o hom_ar_an_a. Sed, se li met_us tio_n sur pasport_o_n imperi_a_n, li est_us kalkul_at_a tuj en unu parti_o naci_a. Kun Rus_o_j, prem_ant_o_j de Pol_uj_o, aŭ kun Pol_o_j kontraŭ la Hebre_o_j.</p>
+
+				<p xml:id="bo290">Tial la hom_ar_an_a formul_ar_o propon_as model_o_n tre praktik_a_n por est_ont_a_j demand_ar_o_j oficial_a_j de regn_a recenz_ad_o. Sam_e preskaŭ ĉiu_j dek du punkt_o_j de la broŝur_o pov_as cel_i du efik_o_j_n. Unu_flank_e tuj_a gvid_o al kondut_o individu_a. Ali_flank_e rekt_a montr_o por leĝ_ar_o pli just_a inter hom_o_j. La dek kvar princip_o_j nobl_a_j de <name xml:lang="">Wilson</name> nur montr_is al la reg_ant_a_j diplomat_o_j tio_n, kio_n ili dev_us far_i. Se fal_us la konsent_o, la princip_o_j fal_us kun_e. Ŝir_aĵ_o_j de la paper_o dis_flug_us sub la tabl_o verd_a. La naci_o_j ili_n kapt_us, kaj ĉiu sving_us si_a_n pec_o_n por just_ig_i nov_a_n ek_batal_o_n.</p>
+
+				<p xml:id="bo291">Dum_e, la program_o Zamenhof_a pov_as tuj gvid_i la hom_o_j_n, kaj influ_i post_e la leĝ_far_ant_o_j_n. Li_a_j dek du punkt_o_j pov_as sem_i nur pac_ig_o_n: Rigard_u la hom_ar_o_n kiel unu famili_o_n. Tiu ideal_o reg_u vi_a_j_n ag_o_j_n. Juĝ_u hom_o_n ne laŭ gent_o, sed laŭ ag_o_j. La land_o aparten_as ne al unu gent_o, sed al ĉiu_j loĝ_ant_o_j. Ne trud_u vi_a_n gent_a_n lingv_o_n, nek la kred_o_n, al ceter_a_j hom_o_j. Met_u la nom_o_n “hom_o” super la naci_a_j. Patriot_ism_o est_u nur serv_ad_o al la region_a komun_um_o de hom_frat_o_j, neniam mal_am_o al ceter_a_j. Lingv_o est_u ne cel_o, nur rimed_o. Uz_u neŭtral_a_n lingv_o_n kun ali_gent_ul_o_j. Vi_a kred_o religi_a ne est_u hered_a, sed sincer_a. Kun ali_kred_a_j hom_o_j ag_u laŭ etik_o neŭtral_e hom_a kaj help_em_a. Kun hom_ar_an_o_j vi kultur_u sent_o_j_n unu_ig_a_j_n, ne dis_ig_a_j_n.</p>
+
+				<p xml:id="bo292">En la unu_a broŝur_o Zamenhof propon_is, ke la hom_ar_an_o_j nom_u ĉiu_j_n land_o_j_n per neŭtral_a_j ne_gent_a_j vort_o_j, kiel Kanad_o, Svis_uj_o, Peru_o, Belg_uj_o, aŭ per al_don_o de sufiks_o -io al ĉef_urb_o, kiel Ber_lini_o, Peterburg_i_o, Konstantin_o_pli_o. Post_e li for_ig_is tiu_n paragraf_o_n kiel ne_praktik_a_n. Ankaŭ li for_tranĉ_is mult_o_n el la last_a punkt_o. En la komenc_o li propon_is eĉ star_ig_o_n de templ_o hom_ar_an_a en ĉiu urb_o. Al_iĝ_int_o_j dev_us:</p>
+
+				<p xml:id="bo293">“... frat_e kun_ven_ad_i tie kun hom_ar_an_o_j de ali_a_j religi_o_j, el_labor_i kun_e kun ili mor_o_j_n kaj fest_o_j_n neŭtral_e-hom_a_j_n, kaj tia_manier_e kun_help_i al la iom-post-iom_a el_labor_iĝ_o de filozofi_e pur_a, sed sam_temp_e bel_a, poezi_a, kaj varm_a, viv_o-regul_ig_a religi_o komun_e_hom_a ... En la templ_o hom_ar_an_a oni aŭskult_ad_os la verk_o_j_n de la grand_a_j instru_int_o_j de la hom_ar_o pri la viv_o kaj mort_o kaj pri la rilat_o de ni_a ‘mi’ al la univers_o kaj al la etern_ec_o, filozofi_e-etik_a_j_n inter_parol_ad_o_j_n, alt_ig_a_j_n kaj nobl_ig_a_j_n himn_o_j_n, k.t.p. Ĉi tiu templ_o dev_as eduk_ad_i la jun_ul_ar_o_n kiel batal_ant_o_j_n por la ver_o, bon_o, just_ec_o kaj ĉiu_hom_a frat_ec_o, kaj el_labor_ad_i en ili am_o_n al honest_a labor_o kaj abomen_o_n por fraz_ist_ec_o kaj por ĉiu_j mal_nobl_a_j mal_virt_o_j: tiu ĉi templ_o dev_us don_ad_i spirit_a_n ripoz_o_n al la mal_jun_ul_o_j, konsol_o_n al la sufer_ant_o_j, don_i la ebl_o_n sen_ŝarĝ_ig_i si_a_n konscienc_o_n, k.t.p.” Pli post_e Zamenhof nur las_is la propon_o_n pri fond_iĝ_o de tia komun_um_o inter liber_kred_an_o_j, kiu_j ne trov_is si_a_n spirit_kontent_ig_o_n en preĝ_ej_o_j ekzist_ant_a_j. Laŭ li_a cel_o kaj esper_o la hom_ar_an_o_j ĉiam pli_mult_iĝ_os en la mond_o. Konstant_a komunik_iĝ_ad_o ili_n eduk_os sur la baz_o de neŭtral_a lingv_o, neŭtral_a_j mor_o_j kaj princip_o_j religi_a_j. La rond_o_j kresk_os. La ond_o_j flu_os. La influ_o dis_vast_iĝ_os. Iom post iom, sen romp_ad_o, sen ofend_o, tut_e natur_e, ĉiu_j hom_o_j kun_fand_iĝ_os en unu grand_a hom_a popol_o de popol_o_j.</p>
+
+				<p xml:id="bo294">Al tiu rev_o li for_don_is si_a_n tut_a_n viv_o_n.</p>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-8" type="chapitro">
+
+				<head xml:id="bo295">ĈAPITR_O <num>VIII</num></head>
+
+				<head xml:id="bo296" type="subordinate">KONGRES_A_J PAROL_AD_O_J</head>
+
+				<p xml:id="bo297">En Eŭrop_o orient_a la fakt_o_j per si mem predik_is en la senc_o hom_ar_an_a. Tie ŝovinism_o_j lingv_o-religi_a_j batal_minac_is la hom_a_n viv_o_n, ne nur inter land_o_j, sed en la regn_o_j mem pro miks_it_a loĝ_ant_ar_o. Ĝi est_as tiu lok_o “kie la atmosfer_o, satur_it_a de inter_gent_a mal_pac_o, per ne_evit_ebl_a natur_a re_ag_o, nask_is la esperant_ism_a_n mov_ad_o_n”.<ptr xml:id="vivo-de-zamenhof-17" target="#noto-vivo-de-zamenhof-17"/> Est_is do plej natur_e, ke tie preskaŭ ĉiu_j “sam_ide_an_o_j” kompren_is la signif_o_n de la pens_o Zamenhof_a, eĉ kiam ili ne sub_skrib_is la hom_ar_an_ism_a_n al_iĝ_il_o_n. Fakt_e nur mal_mult_a_j tio_n far_is.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-17" target="#vivo-de-zamenhof-17">Parol_ad_o de Zamenhof ĉe la Ok_a Kongres_o Esperant_ist_a en Krakov_o, 1912.</note>
+
+				<p xml:id="bo298">Al Okcident_an_o_j, antaŭ la mond_milit_o, ne tiel klar_e ĝi aper_is. La krud_a_j spert_o_j ŝajn_is mal_proksim_a_j. Kiu_j lern_is Esperant_o_n, tiu_j far_iĝ_is ja kompren_em_a_j. La sent_o_n de Bulonj_o, la sent_o_n de la <name>Esper_o</name> kaj de la poem_o_j Zamenhof_a_j ili nom_is am_e la “intern_a ide_o” de la mov_ad_o. Tamen iom ĝeneral_e, sen_preciz_e. Sed kelk_a_j_n interes_is ver_e nur la lingv_a flank_o laŭ gust_o gramatik_a. Inter ili star_is la markiz_o <name xml:lang="">Louis de Beaufront</name>, la unu_a propagand_ist_o en Franc_uj_o.</p>
+
+				<p xml:id="bo299">Li ne ven_is Bulonj_o_n. Li ne ŝat_is la “intern_a_n ide_o_n”. Kontraŭ tiu tendenc_o li jam pres_ig_is artikol_o_j_n en si_a gazet_o <name xml:lang="fr">L’Espérantiste</name>. Profit_ant_e la sen_nom_a_n aper_ig_o_n de la broŝur_o pri hom_ar_an_ism_o, li ĝi_n rid_ind_ig_is unu_e. Post_e li montr_is ĝi_n kiel grav_a_n danĝer_o_n por la sukces_o de Esperant_o.</p>
+
+				<p xml:id="bo300">Ĉi tiu kulp_ig_o vund_is la kor_o_n de Zamenhof. Tamen li ĉiam ag_is tre prudent_e. Jam en Bulonj_o-sur-Mar_o li mem propon_is al la kongres_o deklar_o_n, unu_anim_e akcept_it_a_n. Ĝi difin_is esperant_ism_o_n oficial_e kiel:</p>
+
+				<p xml:id="bo301">“Pen_ad_o dis_vast_ig_i en la tut_a mond_o la uz_ad_o_n de lingv_o neŭtral_e hom_a, kiu, ne en_trud_ant_e si_n en la intern_a_n viv_o_n de la popol_o_j kaj neniom cel_ant_e el_puŝ_i la ekzist_ant_a_j_n lingv_o_j_n naci_a_j_n, don_us al la hom_o_j de mal_sam_a_j naci_o_j la ebl_o_n komunik_iĝ_ad_i inter si; kiu pov_us serv_i kiel pac_ig_a lingv_o de publik_a_j instituci_o_j en tiu_j land_o_j, kie divers_a_j naci_o_j batal_as inter si pri la lingv_o; kaj en kiu pov_us est_i publik_ig_it_a_j tiu_j verk_o_j, kiu_j hav_as egal_a_n interes_o_n por ĉiu_j popol_o_j.”</p>
+
+				<p xml:id="bo302">“Ĉiu ali_a ide_o aŭ esper_o, kiu_n tiu aŭ ali_a Esperant_ist_o lig_as kun la Esperant_ism_o, est_os li_a afer_o pur_e privat_a, por kiu la Esperant_ism_o ne respond_as.” Tiu ĉi fraz_o dev_us sufiĉ_i. Sed la vort_o_n “privat_a” kelk_a_j person_o_j vol_us anstataŭ_i per “mal_permes_at_a”. Sub influ_o de <name xml:lang="">De Beaufront</name> aŭ ali_a, kelk_a_j Franc_o_j, tim_ig_it_a_j, skrib_is mem al Zamenhof por li_n konsil_i. Esperant_o est_as nur lingv_o, ili dir_is; evit_u lig_i eĉ tut_e privat_e la esperant_ism_o_n kun ia ide_o, ĉar ali_e oni pens_os, ke ni ĉiu_j hav_as tiu_n ide_o_n, kaj ni mal_plaĉ_os al divers_a_j person_o_j, kiu_j ne am_as ĝi_n! “Ho, kia_j vort_o_j!” ek_kri_is Zamenhof indign_e dum si_a parol_ad_o ĉe la Du_a Kongres_o Esperant_ist_a en Ĝenev_o en 1906:</p>
+
+				<p xml:id="bo303">“... El la tim_o, ke ni ebl_e ne plaĉ_os al tiu_j person_o_j, kiu_j mem vol_as uz_i Esperant_o_n nur por afer_o_j util_a_j por ili, ni dev_as ĉiu_j el_ŝir_i el ni_a kor_o tiu_n part_o_n de la esperant_ism_o, kiu est_as la plej grav_a, la plej sankt_a, tiu_n ide_o_n, kiu est_is la ĉef_a cel_o de la afer_o de Esperant_o, kiu est_is la stel_o, kiu ĉiam gvid_ad_is ĉiu_j_n batal_ant_o_j_n por Esperant_o! Ho, ne, ne, neniam! Kun energi_a protest_o ni for_ĵet_as tiu_n ĉi postul_o_n. Se ni_n, la unu_a_j_n batal_ant_o_j_n por Esperant_o, oni dev_ig_os, ke ni evit_u en ni_a ag_ad_o ĉio_n ide_a_n, ni indign_e dis_ŝir_os kaj brul_ig_os ĉio_n, kio_n ni skrib_is por Esperant_o, ni neni_ig_os kun dolor_o la labor_o_j_n kaj ofer_o_j_n de ni_a tut_a viv_o, ni for_ĵet_os mal_proksim_e_n la verd_a_n stel_o_n, kiu sid_as sur ni_a brust_o, kaj ni ek_kri_os kun abomen_o: Kun tia Esperant_o, kiu dev_as serv_i ekskluziv_e nur al cel_o_j de komerc_o kaj praktik_a util_ec_o, ni vol_as hav_i nenio_n komun_a_n!” Pal_e star_is Zamenhof en la Ĝenev_a <name xml:lang="">Viktoria-Hall</name> el_dir_ant_e tiu_n fraz_o_n per laŭt_a kaj decid_a voĉ_o. Trem_ig_a aplaŭd_eg_o montr_is al li, ke la plej_mult_o li_n kompren_is kaj aprob_is el tut_kor_o. Prav_e li pov_is dir_i, ke ĝis nun la Esperant_ist_o_j est_is ne profit_ant_o_j, sed nur batal_ant_o_j. Ili_n efektiv_e ne gvid_is pens_o pri gajn_em_o aŭ praktik_a util_ec_o. Ili_a cel_o kaj ag_ig_a ĉef_ide_o est_is ja frat_ec_o kaj just_ec_o inter la popol_o_j. Tial la parol_ant_o pov_is daŭr_ig_i kun la cert_ec_o, ke li esprim_os la intern_a_n sent_o_n de ĉiu_j kor_o_j:</p>
+
+				<p xml:id="bo304">“Tiu ĉi ide_o akompan_ad_is Esperant_o_n de la unu_a moment_o de ĝi_a nask_iĝ_o ĝis la nun_a temp_o. Ĝi instig_is la aŭtor_o_n de Esperant_o, kiam li est_is ankoraŭ mal_grand_a infan_o; kiam antaŭ du_dek ok jar_o_j rond_et_o da divers_gent_a_j gimnazi_an_o_j fest_is la unu_a_n sign_o_n de viv_o de la est_ont_a Esperant_o, ili kant_is kant_o_n, en kiu post ĉiu strof_o est_is ripet_at_a_j la vort_o_j: ‘Mal_amik_ec_o de la naci_o_j fal_u, fal_u; jam est_as temp_o.’ Ni_a himn_o kant_as pri la ‘nov_a sent_o, kiu ven_is en la mond_o_n’; ĉiu_j verk_o_j, vort_o_j, kaj ag_o_j de la iniciator_o kaj de la unu_a_j Esperant_ist_o_j ĉiam spir_as tut_e klar_e tiu_n sam_a_n ide_o_n. Neniam ni kaŝ_is ni_a_n ide_o_n; neniam pov_is est_i eĉ la plej mal_grand_a dub_o pri ĝi, ĉar ĉio parol_is pri ĝi.”</p>
+
+				<p xml:id="bo305">“Kial do al_iĝ_is al ni kaj si_n_don_e kaj sen_profit_e labor_is kun ni la person_o_j, kiu_j vid_as en Esperant_o ‘nur lingv_o_n’? Kial ili ne tim_is, ke la mond_o kulp_ig_os ili_n pri grand_a krim_o, nom_e pri la dezir_o help_i al iom-post-iom_a unu_iĝ_o de la hom_ar_o? Ĉu ili ne vid_as, ke ili_a_j parol_o_j est_as kontraŭ_a_j al ili_a_j propr_a_j sent_o_j, kaj ke ili sen_konsci_e rev_as pri tio sam_a, pri kio ni rev_as, kvankam, pro ne_ĝust_a tim_o antaŭ sen_senc_a_j atak_ant_o_j, ili pen_as tio_n ĉi ne_i? ...”</p>
+
+				<p xml:id="bo306">“Se la unu_a_j Esperant_ist_o_j pacienc_e el_met_ad_is si_n ne sol_e al konstant_a mok_ad_o, sed eĉ al grand_a_j ofer_o_j, kaj ekzempl_e unu mal_riĉ_a instru_ist_in_o long_a_n temp_o_n sufer_is mal_sat_o_n, nur por ke ŝi pov_u ŝpar_i iom da mon_o por la propagand_o de Esperant_o — ĉu ili ĉiu_j far_is tio_n ĉi pro ia praktik_a util_ec_o? Se oft_e person_o_j al_forĝ_it_a_j al la lit_o de mort_o skrib_ad_is al mi, ke Esperant_o est_as la sol_a konsol_o de ili_a fin_iĝ_ant_a viv_o — ĉu ili pens_is tiam pri ia praktik_a util_ec_o? Ho, ne, ne, ne! ĉiu_j memor_is nur pri la intern_a ide_o, en_ten_at_a en la Esperant_ism_o; ĉiu_j ŝat_is Esperant_o_n ne tial, ke ĝi al_proksim_ig_as la cerb_o_j_n de la hom_o_j, sed nur tial, ke ĝi al_proksim_ig_as ili_a_j_n kor_o_j_n.” Laŭ la sent_o de la kongres_an_o_j Zamenhof kompren_is tre bon_e, kiel ag_i plej saĝ_e. Per si mem Esperant_ism_o jam log_is plej mult_a_j_n lern_int_o_j_n de la lingv_o al la “intern_a ide_o”. Ĝi gajn_is la kor_o_j_n. Pli mal_fru_e ven_os la temp_o diskut_i pri detal_a organiz_o hom_ar_an_a. Nun pro neces_a preciz_o de program_o ĝi tim_ig_us mult_a_j_n. Ĝi pov_us nur form_i apart_a_n sekci_o_n en la Esperant_a mov_ad_o. Dum_e pli urĝ_is kultur_i la komun_a_n sent_o_n, cel_ant_e task_o_j_n ĝeneral_a_j_n. Esperant_o est_as nur lingv_o, sed la kongres_o_j est_u pli. Ili daŭr_u kiel fest_o_j de la “intern_a ide_o”.</p>
+
+				<p xml:id="bo307">“Kiel antikv_a_j Hebre_o_j tri foj_o_j_n ĉiu_jar_e kun_ven_ad_is en Jerusalem_o, por vigl_ig_ad_i en si la am_o_n al la ide_o monoteism_a, tiel ni ĉiu_jar_e kun_ven_as en la ĉef_urb_o de Esperant_uj_o, por vigl_ig_i en ni la am_o_n al la ide_o esperant_ism_a. Kaj tio ĉi est_as la ĉef_a esenc_o kaj la ĉef_a cel_o de ni_a_j kongres_o_j.” Tiu_n program_o_n Zamenhof propon_is per si_a mal_ferm_a parol_ad_o ĉe la sekv_ant_a grand_a kun_ven_o ĉiu_jar_a. Ĝi okaz_is en Kembriĝ_o en 1907. Mil kvin_cent person_o_j part_o_pren_is. Est_is ĝoj_ig_a venk_o vid_i, ke al_iĝ_as hom_o_j ne nur el popol_o_j mal_fort_a_j, sed ankaŭ el popol_o_j fort_a_j, kiel Brit_o_j. Tio ĉi montr_is, ke ili vid_as en la Esperant_ism_o ne sol_e afer_o_n de ego_ism_a oportun_ec_o, sed grav_a_n ide_o_n de inter_gent_a just_ec_o kaj frat_ec_o ... “La Kembriĝ_an_o_j akcept_as ni_n hodiaŭ ne kiel komerc_ist_o_j_n, kiu_j al_port_as al ili profit_o_n, sed kiel apostol_o_j_n de ide_o hom_ar_an_a, kiu_n ili kompren_as kaj ŝat_as.” Efektiv_e pri tiu punkt_o ĉef_e alud_is la urb_estr_o kaj ali_a_j eminent_ul_o_j ĉe la antikv_a universitat_o. “Ni vid_as nov_a_n Pentekost_o_n”, ek_kri_is fam_a latin_ist_o, profesor_o <name xml:lang="en">Mayor</name>, lern_int_e la lingv_o_n en unu semajn_o. Ĉie son_is Esperant_o fest_ant_e si_a_n du_dek_jar_o_n: ĉe pentr_ind_a_j tur_o_j, sub gotik_a_j pord_o_j, en verd_eg_a_j herb_o_kort_o_j, sur ŝip_et_o_j de la river_o serpent_um_a, inter pont_o_j skulpt_o_riĉ_a_j.</p>
+
+				<p xml:id="bo308">La Kongres_o est_is bril_a kaj sukces_a. Zamenhof admir_is la hom_ec_o_n de la brit_a_j ideal_ist_o_j. Li_n impres_is la progres_o de la mov_ad_o, la mult_ec_o de la ven_int_o_j ĉiu_land_a_j. Li trem_is kor_tuŝ_it_e, kiam la grand_a aŭd_ant_ar_o lev_iĝ_is por ek_kant_i unu_kor_e la himn_o_n <name>La Esper_o</name>. Tondr_e son_is kun orgen_o de mil voĉ_o_j tiu fin_a profet_aĵ_o:</p>
+
+				<p xml:id="bo309">Sur neŭtral_a lingv_a fundament_o,<lb/>
+Kompren_ant_e unu la ali_a_n,<lb/>
+La popol_o_j far_os en konsent_o<lb/>
+Unu grand_a_n rond_o_n famili_a_n.</p>
+
+				<p xml:id="bo313">Pas_is du_dek jar_o_j de post 1887. La Esperant_ist_ar_o far_iĝ_is jam ver_a popol_o. Ĝi_a voĉ_o ek_aŭd_iĝ_os tra la mond_o. El tiu kern_o inter_naci_a la ide_o_j dis_vast_iĝ_os. Al ĝi li pov_os nun si_n turn_i kaj parol_i kvazaŭ al kresk_ant_a publik_o de la est_ont_a hom_ar_o. La kongres_o_j est_is por li plej lum_a_j hor_o_j en la tut_a jar_o, long_a kaj mal_hel_a. Unu semajn_o_n li pas_ig_is en la rev_o plen_um_it_a: inter hom_o_j ĉiu_gent_a_j frat_e kun_viv_ant_a_j sur neŭtral_a baz_o. Bild_o jam profet_a. Kuraĝ_ig_o al anim_o. En Varsovi_o, en la okul_ist_a labor_ĉambr_o, la vid_aĵ_o li_n vizit_is oft_e vesper_e post lac_ig_a tag_o, kiam li pens_ad_is, dum neĝ_o fal_is trans la vitr_o_j. De tiu temp_o Zamenhof ek_sent_is pli_a_n fid_o_n. Sur la portret_o_j el Kembriĝ_o esper_a ĝoj_o kolor_as la zorg_em_o_n en okul_o_j kaj sur lip_o_j de la Majstr_o.</p>
+
+				<p xml:id="bo314">Tiel ĉiu_j nom_is li_n. Sed li ne ŝat_is la titol_o_n. Moral_e, eĉ preskaŭ fizik_e, la vort_o ĝen_is li_n. Ne majstr_o, sed hom_frat_o kaj koleg_o li vol_is est_i. Pro modest_ec_o, jes. Ankaŭ pro liber_ec_o. En “majstr_ec_o” li sent_is la pez_o_n de la honor_o kaj la ĉen_o_n de la sklav_ec_o. Li prefer_is plen_a_n privat_ec_o_n. Antaŭ ĉio plaĉ_is al li, trankvil_e kun_parol_i inter kongres_an_o_j. Li sopir_is al sen_bar_a_j esprim_o kaj diskut_o de la ide_o_j kar_a_j. Oficial_a posten_o li_n ĝen_is ĉiel. Jam en Bulonj_o li instig_is la elekt_o_n de la Lingv_a Komitat_o. Ĝi_a_j membr_o_j kun_decid_u pri afer_o_j de vort_ar_o. Al ili tre kontent_e li trans_don_is la tut_a_n zorg_o_n kaj aŭtoritat_o_n pri la lingv_o. En Pariz_o, li_a riĉ_a gast_ig_ant_o Javal, okul_ist_o fam_a, propon_is al li katedr_o_n kaj salajr_o_n por direkt_i la mov_ad_o_n. Li rifuz_is. Modest_a kaj liber_a: tia est_is li_a gust_o.</p>
+
+				<p xml:id="bo315">Li_a viv_cel_o est_is la “intern_a ide_o”. Ĉar la Bulonj_a deklar_o nur alud_is la lingv_o_n, li sent_is la neces_o_n difin_i ankaŭ klar_e la deviz_o_n de la ide_a_j Esperant_ist_o_j. Per si_a parol_ad_o kembriĝ_a li plen_um_is tio_n:</p>
+
+				<p xml:id="bo316">“Ni dezir_as kre_i neŭtral_a_n fundament_o_n, sur kiu la divers_a_j hom_a_j gent_o_j pov_us pac_e kaj frat_e inter_komunik_iĝ_ad_i, ne al_trud_ant_e al si reciprok_e si_a_j_n gent_a_j_n apart_aĵ_o_j_n ... Por formul_i preciz_e ĉiu_j_n detal_o_j_n de la dir_it_a deviz_o, ne ven_is ankoraŭ la temp_o; ili formul_iĝ_os per si mem, iom post iom, per ni_a ĉiu_jar_a kun_ven_ad_o kaj kun_viv_ad_o ... Ĉiam pli kaj pli, komenc_ant_e de afer_o_j bagatel_a_j kaj trans_ir_ant_e al afer_o_j plej grav_a_j, komenc_ant_e de afer_o_j pur_e material_a_j kaj trans_ir_ant_e al ĉiu_j flank_o_j de la hom_a spirit_o kaj moral_o, oni propon_ad_os al ni divers_a_j_n rimed_o_j_n, kiu_j serv_as al la frat_ig_ad_o de la hom_o_j kaj al la romp_ad_o de la mur_o_j inter la gent_o_j — kaj ĉio_n ĉi tio_n ni pov_os pri_juĝ_i, akcept_i aŭ ne akcept_i, sed ni neniam dev_os ĝi_n blind_e for_ĵet_i antaŭ_e.”</p>
+
+				<p xml:id="bo317">Ĉar ĉio, kio serv_as al la frat_iĝ_ad_o de la gent_o_j kaj al la romp_ad_o de la mal_amik_a_j mur_o_j inter la popol_o_j — se ĝi nur ne en_miks_as si_n en la intern_a_n viv_o_n de la gent_o_j — aparten_as al la verd_a standard_o ... “En la profund_ec_o de vi_a_j kor_o_j vi ĉiu_j sent_as la verd_a_n standard_o_n; vi ĉiu_j sent_as, ke ĝi est_as io pli, ol simpl_a sign_o de lingv_o. Kaj ju pli ni part_o_pren_ad_os en ni_a_j ĉiu_jar_a_j kongres_o_j, des pli ni inter_frat_iĝ_os, kaj des pli la princip_o_j de la verd_a standard_o penetr_os en ni_a_n anim_o_n. Mult_a_j person_o_j al_iĝ_as al la Esperant_ism_o pro simpl_a sci_vol_ec_o, pro sport_o, aŭ ebl_e eĉ pro atend_at_a profit_o; sed de la moment_o, kiam ili far_as la unu_a_n vizit_o_n al Esperant_uj_o, ili malgraŭ si_a propr_a vol_o ĉiam pli kaj pli en_tir_iĝ_as kaj sub_met_iĝ_as al la leĝ_o_j de tiu land_o. Iom post iom Esperant_uj_o far_iĝ_os eduk_ej_o de la est_ont_a inter_frat_ig_it_a hom_ar_o, kaj en tio ĉi konsist_os la plej grav_a_j merit_o_j de ni_a_j kongres_o_j.” Post la Kembriĝ_a kongres_o la urb_estr_ar_o London_a, reprezent_at_a de <name xml:lang="en">Sir T. Vezey Strong</name>, oficial_e akcept_is Zamenhof kaj la tut_a_n kongres_o_n en la fam_a urb_o_dom_o “<name xml:lang="en">Guildhall</name>”. En la vast_a kvazaŭ katedral_a ĉambr_eg_o jam est_is solen_e salut_at_a pli ol unu gast_o mult_e pli glor_a: fremd_a reĝ_o, venk_int_a general_o, prezid_ant_o de respublik_o. Sub alt_a_j ark_aĵ_o_j de la antikv_a fest_ej_o nun son_is unu_a_foj_e la voĉ_o modest_a, sed tre decid_a, de simpl_a okul_ist_o, grand_a per la cel_o, grand_a per geni_o. Neniu_n fort_o_n li pri_kant_is, neniu_n batal_o_n per arm_il_o_j. Pri brul_ant_a tem_o de patriot_ism_o kaj mal_am_o li kuraĝ_is parol_i delikat_e, sed klar_e, eĉ energi_e.</p>
+
+				<p xml:id="bo318">“Mal_bon_a_j patriot_o_j”: tiel boj_is la kulp_ig_o ŝovinist_a en ĉiu_j land_o_j kontraŭ la sekv_ant_o_j de Zamenhof. En tiu lok_o solen_a li respond_is traf_e. Se patriot_ism_o signif_as mal_am_o_n, tiam la atak_o est_is prav_a. Se mal_e ĝi signif_as am_o_n, tiam li protest_is el tut_kor_o.</p>
+
+				<p xml:id="bo319">Am_o al patr_uj_o, am_o al hom_ar_o, am_o al hejm_o en_ten_as unu la ali_a_n. Sed kio_n sci_as pri am_o tiu_j mal_lum_a_j demon_o_j, kiu_j ne “sol_e inter la land_o_j, sed ankaŭ en si_a propr_a patr_uj_o konstant_e instig_as hom_o_n kontraŭ hom_o”? De tia_j predik_ant_o_j li si_n de_turn_is indign_e:</p>
+
+				<p xml:id="bo320">“Vi, nigr_a_j sem_ant_o_j de mal_pac_o, parol_u nur pri mal_am_o al ĉio, kio ne est_as vi_a; parol_u pri ego_ism_o, sed neniam uz_u la vort_o_n ‘am_o’, ĉar en vi_a buŝ_o la sankt_a vort_o mal_pur_iĝ_as!” Tiam li_a pens_o jam re_flug_is al Bjalistok_o en litv_a land_o, al dolĉ_a kamp_ar_o ĉirkaŭ la urb_et_o, al la pejzaĝ_o de la knab_a_j promen_ad_o_j, kiam sun_o en la vesper_o ruĝ_ig_as la mont_et_o_j_n kaj nigr_ig_as la lini_o_n de la arb_ar_o_j. Kiom da foj_o_j li vag_ad_is kun frat_in_o tra la herb_ej_o_j flor_um_it_a_j. Bon_odor_o. Zum_ad_o de la insekt_o_j. Ruĝ_or_a lum_o vual_a. Mal_proksim_a sonor_il_o de vilaĝ_o. Ili am_is, ili sent_is ĉio_n si_a ... En la urb_o_j kvar gent_o_j si_n mal_am_is:</p>
+
+				<p xml:id="bo321">“Vi star_as nun antaŭ mi_a_j okul_o_j, mi_a kar_a Litov_uj_o, mi_a mal_feliĉ_a patr_uj_o, kiu_n mi neniam pov_as forges_i, kvankam mi for_las_is vi_n kiel knab_o. Vi, kiu_n mi oft_e vid_as en mi_a_j sonĝ_o_j, vi, kiu_n nenia ali_a part_o de la ter_o iam pov_os anstataŭ_i en mi_a kor_o, vi atest_u, kiu vi_n pli mult_e, pli kor_e, kaj pli sincer_e am_as: ĉu mi, ide_a Esperant_ist_o, kiu rev_is pri frat_ec_o inter ĉiu_j vi_a_j loĝ_ant_o_j, aŭ ĉu tiu_j person_o_j, kiu_j dezir_as, ke vi aparten_u nur al ili, kaj ĉiu_j ali_a_j vi_a_j fil_o_j est_u rigard_at_a_j kiel fremd_ul_o_j aŭ sklav_o_j!”</p>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-9" type="chapitro">
+
+				<head xml:id="bo322">ĈAPITR_O IX</head>
+
+				<head xml:id="bo323" type="subordinate">LINGV_IST_O</head>
+
+				<p xml:id="bo324">Re_vojaĝ_int_e Varsovi_o_n, el Angl_uj_o Zamenhof kun_port_is impres_o_n tre ĝoj_ig_a_n. Sed nur du monat_o_j_n li ĝu_is trankvil_ec_o_n. Kaŝ_it_a glav_o krev_ig_is nub_o_n en aŭtun_o. Se Esperant_o progres_ad_is tiel vast_e dum la antaŭ_a_j dek du jar_o_j, la kaŭz_o ĉef_a kuŝ_is tie, ke jam ĉes_is diskut_ad_o teori_a pri la lingv_o mem. En la komenc_o, mult_a_j al_iĝ_int_o_j propon_is iu_n aŭ ali_a_n re_form_et_o_n. Demokrat_e Zamenhof aŭskult_is ĉiu_j_n, kaj raport_is en la gazet_o <name>La Esperant_ist_o</name> kun fidel_a zorg_o. Sed la ŝanĝ_o_j propon_it_a_j kontraŭ_is unu la ali_a_n. La unu_a rond_o de la adept_o_j spert_is la sam_o_n, kiel la aŭtor_o jam pli fru_e: nom_e, kio ŝajn_as bel_a sur paper_o, tio montr_iĝ_as oft_e ne_praktik_a en la viv_o. Pli_e kio plaĉ_as al la unu, tio ĝust_e plej mal_plaĉ_as al ali_a. Kial do risk_i la mir_ind_a_n viv_ant_ec_o_n de la lingv_o per danĝer_a_j romp_o_j? En 1894 okaz_is du voĉ_don_o_j de la centr_a Lig_o. Ambaŭ_foj_e la plej_mult_o rifuz_is ĉiu_j_n ŝanĝ_o_j_n. De tiam la mov_ad_o kresk_is pli rapid_e.</p>
+
+				<p xml:id="bo325">Kontraŭ re_form_ad_o star_is ĉef_e kaj eĉ fanatik_e markiz_o de <name xml:lang="">Beaufront</name>. En Ĝenev_o li ĉe_est_is la kongres_o_n, kaj protest_is kun indign_o kontraŭ la gazet_o_j, kiu_j uz_as nov_a_j_n form_o_j_n.<ptr xml:id="vivo-de-zamenhof-18" target="#noto-vivo-de-zamenhof-18"/> Memor_ig_int_e la ofer_o_n de si_a_j propr_a_j prefer_o_j pri lingv_o, li teatr_e kis_is si_a_n Majstr_o_n sur la estrad_o de la ĉambr_eg_o. Tiu scen_o vid_ebl_e ĝen_is Zamenhof. En angul_o de la salon_o murmur_is voĉ_o de Bourlet: “judas_a kis_o.” Honest_a kaj lojal_a, la doktor_o ne ŝat_is kred_i la kulp_ig_o_n. Kun dank_em_o li re_pens_is pri la si_n_don_a labor_ad_o de la propagand_ist_o franc_a: Li_a karakter_o kaj ide_o_j pov_is est_i ne plaĉ_a_j, sed li_a merit_o rest_is grand_a.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-18" target="#vivo-de-zamenhof-18">Kontraŭ_e Zamenhof ĉiam konsil_is el_prov_i nov_aĵ_o_j_n per uz_ad_o.</note>
+
+				<p xml:id="bo326">En aŭtun_o post Kembriĝ_o kun_ven_is en Pariz_o la estr_ar_o de “Deleg_it_ar_o por elekt_o de lingv_o inter_naci_a”. Fond_it_a de la Pariz_a logik_ist_o Couturat kun help_o de la Esperant_ist_o_j, ĝi kolekt_is la sub_skrib_o_j_n de mult_nombr_a_j societ_o_j aprob_ant_a_j la ide_o_n pri help_lingv_o. Ĝi cel_is pet_i la Asoci_o_n de Akademi_o_j, ke ĝi elekt_u oficial_e unu lingv_o_n. La respond_o est_is ne_a.</p>
+
+				<p xml:id="bo327">Tiam la fond_int_o_j kun_vok_is al Pariz_o komitat_o_n de scienc_ul_o_j divers_land_a_j. Tri aŭ kvar ĉe_est_is mem.<ptr xml:id="vivo-de-zamenhof-19" target="#noto-vivo-de-zamenhof-19"/> La ceter_a_j send_is ĉu amik_o_n, ĉu sekretari_o_n. Oni pet_is Zamenhof, ke li nom_u advokat_o_n por Esperant_o. Li propon_is de <name xml:lang="">Beaufront</name>, kiel prezid_ant_o_n de la Franc_a Societ_o propagand_a. Li ne vol_us li_n ofend_i per ali_a prefer_o, kaj dezir_is montr_i al li fid_o_n kaj dank_em_o_n.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-19" target="#vivo-de-zamenhof-19"><name xml:lang="fr">Couturat</name>, <name xml:lang="de">Ostwald</name>, <name xml:lang="da">Jespersen</name>, <name xml:lang="fr">Baudouin de Courtenay</name>, 15-24 oktobr_o 1907.</note>
+
+				<p xml:id="bo328">Tiu fid_o est_is tromp_it_a. Anstataŭ defend_i la lingv_o_n en la nom_o de li_a send_int_o, la markiz_o rekomend_is mem projekt_o_n prezent_it_a_n sub la nom_o “Id_o”. Ĝi en_hav_is grav_a_j_n ŝanĝ_o_j_n de fin_iĝ_o_j, vort_ar_o, kaj gramatik_o. Couturat ĝi_n sub_ten_is, ĉar ili prepar_is ĝi_n kun_e. Tiel nur Esperant_o ne hav_is ver_a_n defend_ant_o_n, dum ĉiu_j sistem_o_j, <name xml:lang="">Spokil</name>, <name xml:lang="">Parla</name>, <name xml:lang="">Bolak</name>, ricev_is advokat_o_n, oft_e la aŭtor_o_n mem. Kred_ant_e, ke Zamenhof konsent_os kun de <name xml:lang="">Beaufront</name>, la komitat_o decid_is elekt_i Esperant_o_n kun ŝanĝ_o_j laŭ la senc_o de la “Id_o” anonim_a, cel_ant_e inter_konsent_o_n kun la <name>Lingv_a Komitat_o</name>.</p>
+
+				<p xml:id="bo329">Kiam la afer_o dis_kon_iĝ_is, indign_o sku_is la Esperant_ist_ar_o_n. La ek_kri_o de Bourlet ĉie ripet_iĝ_is: “Tromp_o kaj perfid_o.” Dum ses monat_o_j de <name xml:lang="">Beaufront</name> ne_is ĉio_n. Subit_e li konfes_is, ke li mem est_as la “Id_o”. Protest_int_e, la <name>Lingv_a Komitat_o</name> rifuz_is ĉiu_j_n ŝanĝ_o_j_n. Dum_e Couturat jam komenc_is dis_vast_ig_i la projekt_o_n, kvazaŭ nov_a_n lingv_o_n. Per kondut_o nek just_a, nek lojal_a, de <name xml:lang="">Beaufront</name> difekt_is la scienc_a_n diskut_ad_o_n, kaŭz_ant_e en_miks_o_n de sent_o_j ambaŭ_flank_e.<ptr xml:id="vivo-de-zamenhof-20" target="#noto-vivo-de-zamenhof-20"/> Zamenhof pli alt_e star_is. Kvankam naŭz_it_a, li propon_is las_i for la afer_o_n pri person_o_j, kaj komenc_i nov_a_n ekzamen_o_n de la ŝanĝ_o_j en publik_a lum_o. La rezult_o est_is sam_a: la pli_mult_o prefer_is fidel_e daŭr_ig_i si_a_n voj_o_n laŭ la deviz_o de la pariz_a Profesor_o Cart: “Ni fos_u ni_a_n sulk_o_n.” Kiel ĉiam la doktor_o sub_met_iĝ_is demokrat_e.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-20" target="#vivo-de-zamenhof-20">Eĉ id_ist_o_j bedaŭr_as tio_n. En si_a <name xml:lang="io">Historio di nia Linguo</name>, <name xml:lang="de">Lüsslingen</name> 1912, <abbr>Prof</abbr>. <name xml:lang="da">Jespersen</name> skrib_is: <foreign xml:lang="io">“Hike</foreign> (= tie ĉi) <foreign xml:lang="io">me intencas nek defensar nek kondamnar la morala latero</foreign> (= flank_o) <foreign xml:lang="io">di lua konduto ... Il esis la autoro di la anonima idoprojekto samtempe kam il reprezentis Dr. Zamenhof avan la Komitato.”</foreign></note>
+
+				<p xml:id="bo330">Konstant_e sam_e li si_n ten_is jam de la komenc_o. En 1888 li skrib_is:</p>
+
+				<p xml:id="bo331">“Ĉio bon_ig_ebl_a est_os bon_ig_at_a per la konsil_o_j de la mond_o. Mi ne vol_as est_i <hi>kre_int_o</hi> de lingv_o, mi vol_as nur est_i <hi>iniciator_o</hi>.”<ptr xml:id="vivo-de-zamenhof-21" target="#noto-vivo-de-zamenhof-21"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-21" target="#vivo-de-zamenhof-21"><name>Du_a Libr_o</name>, Varsovi_o 1888.</note>
+
+				<p xml:id="bo332">Laŭ li_a opini_o, neces_is iam sem_i en la mond_o komun_a_n fundament_o_n de la lingv_o. Tio_n li far_is per <name>Unu_a Libr_o</name>. Sed “... Ĉio ceter_a dev_as est_i kre_at_a de la hom_a societ_o kaj de la viv_o tiel, kiel ni vid_as en ĉiu el la viv_ant_a_j lingv_o_j ... Kompetent_a dev_as est_i de nun, ne la aŭtor_o aŭ ia ali_a person_o; la sol_a_j kompetent_a_j nun dev_as est_i: talent_o, logik_o, kaj la leĝ_o_j kre_it_a_j de la plej grand_a part_o de la verk_ant_o_j kaj parol_ant_o_j ... La lingv_o inter_naci_a dev_as viv_i, kresk_i kaj progres_i laŭ la sam_a_j leĝ_o_j, laŭ kia_j est_is el_labor_at_a_j ĉiu_j viv_a_j lingv_o_j.”<ptr xml:id="vivo-de-zamenhof-22" target="#noto-vivo-de-zamenhof-22"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-22" target="#vivo-de-zamenhof-22"><name>Al_don_o al la Du_a Libr_o</name>, Varsovi_o 1888.</note>
+
+				<p xml:id="bo333">Sen_fin_e oni pov_us mult_ig_i tia_j_n cit_aĵ_o_j_n de Zamenhof, por ilustr_i li_a_n lingv_a_n kred_o_n. En tio li_a geni_o montr_iĝ_is pli scienc_a ol la teori_o de <name xml:lang="">Couturat</name> kaj de <name xml:lang="">Beaufront</name>. Ĉar ver_a scienc_o respekt_as la fakt_o_j_n. Ĝi stud_as la viv_o_n.</p>
+
+				<p xml:id="bo334">Ankaŭ scienc_o ne kon_as pap_o_j_n. Dum ĉiam modest_e la “iniciat_int_o” de Esperant_o parol_is nur pri “ceter_a_j lingv_o_j” aŭ “natur_a viv_o”, kaj fid_is la popol_o_n de la uz_ant_o_j, kontraŭ_e de <name xml:lang="">Beaufront</name> vol_is lim_ig_i la progres_o_n per dekret_o_j. Est_ant_e ĉef_esperant_ist_o en Franc_uj_o, li konstant_e reg_is kaj ordon_is. Li eĉ el_don_is dik_a_n libr_o_n de dogm_o_j gramatik_a_j.<ptr xml:id="vivo-de-zamenhof-23" target="#noto-vivo-de-zamenhof-23"/> Li insist_is pri nur_a logik_o, kaj mal_fid_is ĉio_n tro natur_a_n. Tre oft_e li pres_ig_is en si_a gazet_o tiu_n fraz_o_n: “Antaŭ fakt_o ĝis nun neniam okaz_int_a, est_as mal_saĝ_e pet_i instru_o_n de histori_o!” Rimark_ind_e, la skrib_manier_o de_bofront_a est_is sek_a, rigid_a, tro “traduk_it_a”. Kiel en li_a esperant_ism_o mank_is la intern_a ide_o, tiel en li_a stil_o mank_is tiu sal_o: la spirit_o de la lingv_o. Laŭ propr_a kompar_o li_a, Esperant_o est_is por li kvazaŭ mar_ist_a sign_ar_o; por Zamenhof, lingv_o viv_ant_a. Fakt_e, la du vir_o_j ĉiam re_prezent_is du kompren_o_j_n tre mal_sam_a_j_n. La id_ist_a afer_o nur akcent_is tiu_n ver_o_n.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-23" target="#vivo-de-zamenhof-23"><name xml:lang="fr">Commentaire sur la grammaire Esperanto</name>, <name xml:lang="">Paris</name>, Hachette, 1903.</note>
+
+				<p xml:id="bo335">Pri propagand_o de <name xml:lang="">Beaufront</name> ankaŭ ŝat_is reg_o_n, kaj liter_e mal_permes_is al iu ajn en Franc_uj_o io_n star_ig_i sen aprob_o li_a.<ptr xml:id="vivo-de-zamenhof-24" target="#noto-vivo-de-zamenhof-24"/> Kun el_don_ist_a firm_o li sub_skrib_is kontrakt_o_n tia_n, ke ĝi ne pov_is pres_ig_i libr_o_n, eĉ de Zamenhof, sen li_a cenzur_o.<ptr xml:id="vivo-de-zamenhof-25" target="#noto-vivo-de-zamenhof-25"/> Kontrast_e kun tia reg_em_o son_is parol_o_j Zamenhof_a_j:</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-24" target="#vivo-de-zamenhof-24">Vid_u <name xml:lang="fr">L’Espérantiste</name>, n-ro 15, mart_o 1899: “Al la komitat_o de S. f. p. E. (prezid_ant_o <name xml:lang="">L. de Beaufront</name>), kaj nur al tiu ĉi komitat_o, oni nepr_e <hi>dev_as</hi> si_n turn_i pri ĉio, kio koncern_as propagand_o_n. Al ĝi, kaj <hi>nur al ĝi sol_e</hi>, aparten_as la dev_o kaj la rajt_o gvid_i ni_a_n propagand_o_n.” (Sub_strek_is kaj sub_skrib_is L. de <name xml:lang="">Beaufront</name>, prezid_ant_o.)</note>
+
+				<note xml:id="noto-vivo-de-zamenhof-25" target="#vivo-de-zamenhof-25">Tiu_n kontrakt_o_n mi leg_is mem en arĥiv_o_j de famili_o Zamenhof.</note>
+
+				<p xml:id="bo336">“Mi ne vol_as el_don_i aŭtor_e plen_a_n vort_ar_o_n kaj kre_i laŭ mi_a person_a plaĉ_o la tut_a_n lingv_o_n de la kap_o ĝis la pied_o_j ... Por la lingv_o inter_naci_a, la fundament_o re_prezent_as tiu_n material_o_n, kiu est_is por ĉiu modern_a lingv_o en la komenc_o de regul_a skrib_a literatur_o ... Kiam la lingv_o sufiĉ_e fort_iĝ_os kaj ĝi_a literatur_o sufiĉ_e vast_iĝ_os, tiam ankaŭ tio, kio est_as en mi_a broŝur_o dev_os perd_i ĉia_n signif_o_n, kaj sol_e kompetent_a_j tiam dev_os est_i la leĝ_o_j de la plej_mult_o.”<ptr xml:id="vivo-de-zamenhof-26" target="#noto-vivo-de-zamenhof-26"/> La viv_o, la uz_ad_o, la plej_mult_o, jen est_is la regul_o_j Zamenhof_a_j, ne decid_o_j teori_a_j post ses_tag_a komitat_o. En tio li montr_iĝ_is ver_a scienc_ul_o. Pro tio li_n admir_is lingv_ist_o_j, kiel <name xml:lang="fr">Baudouin de Courtenay</name>.<ptr xml:id="vivo-de-zamenhof-27" target="#noto-vivo-de-zamenhof-27"/> Pli_e li stud_is medicin_o_n. Li kompren_is la natur_funkci_ad_o_n. Mal_e al franc_a matematik_ist_o, amerik_a_j filozof_o_j re_kon_is ĉe Zamenhof la metod_o_n laŭ_scienc_a_n. Inter_ali_e <name xml:lang="">William James</name>, plej fam_a pragmat_ist_o: lern_int_e biologi_o_n sub <name xml:lang="">Agassiz</name>, li nur fid_is praktik_a_n spert_o_n de la viv_o kaj mal_ŝat_is <foreign xml:lang="la">a priori</foreign>.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-26" target="#vivo-de-zamenhof-26"><name>Al_don_o alla Du_a Libr_o</name>, 1888. Pri tiu ĉi tem_o kaj pri mal_sam_a_j tendenc_o_j inter Zamenhof kaj de <name xml:lang="">Beaufront</name>, vid_u pli detal_a_j_n stud_o_j_n en <name>Histori_o de la lingv_o Esperant_o</name> (Edm. P. ), Unu_a part_o, Ĝenev_o 1912.</note>
+
+				<note xml:id="noto-vivo-de-zamenhof-27" target="#vivo-de-zamenhof-27">Prof. <name xml:lang="fr">Baudouin de Courtenay</name> mal_aprob_is la decid_o_n de <name xml:lang="fr">Couturat</name>, <name xml:lang="da">Jespersen</name>, <name xml:lang="de">Ostwald</name> por Id_o.</note>
+
+				<p xml:id="bo337">Jam antaŭ li, en 1888, Amerik_a Filozof_a Societ_o stud_is la demand_o_n pri mond_lingv_o. Ĝi konklud_is kiel Zamenhof. Ne sukces_int_e kun_ven_ig_i kongres_o_n de la Akademi_o_j por decid_i pri la afer_o, ĝi ne far_is kiel Couturat. La raport_o de la sekretari_o <name xml:lang="en">Henry Philipps</name> est_is publik_ig_it_a. Li rekomend_is Esperant_o_n kaj komenc_is ĝi_n dis_vast_ig_i. Li eĉ batal_is kontraŭ la re_form_ist_o_j. Laŭ li nur taŭg_is natur_a dis_volv_iĝ_o.</p>
+
+				<p xml:id="bo338">Pri tiu tem_o Zamenhof parol_is en <name>Al_don_o al la Du_a Libr_o</name>, kaj de_nov_e, du_dek jar_o_j_n pli post_e, ĉe la kvar_a kaj ses_a kongres_o_j en Dresden_o 1908 kaj <name xml:lang="en">Washington</name> 1910. Li montr_is, kiel sen_halt_e kaj sen_romp_e kresk_as la lingv_o_j. Mal_nov_a_j foli_o_j fal_as. Nov_a_j pren_as ili_a_n lok_o_n. Branĉ_o_j al_don_iĝ_as. Flor_o_j kaj frukt_o_j pli_mult_iĝ_as. La trunk_o mem grand_iĝ_as. Sed la arb_o rest_as unu sam_a.</p>
+
+				<p xml:id="bo339">“Grand_a est_as la diferenc_o inter hom_o-infan_o kaj hom_o_vir_o, grand_a ebl_e est_os la diferenc_o inter la nun_a Esperant_o kaj la evolu_int_a Esperant_o de post mult_a_j jar_cent_o_j ... Iom post iom konstant_e aper_as nov_a_j vort_o_j kaj form_o_j, unu_j fort_iĝ_as, ali_a_j ĉes_as est_i uz_at_a_j. Ĉio far_iĝ_as kviet_e, sen_sku_e, kaj eĉ ne_rimark_ebl_e. Nenie montr_iĝ_as ia diferenc_iĝ_ad_o de ni_a lingv_o laŭ la divers_a_j land_o_j ... Nenie romp_iĝ_as aŭ difekt_iĝ_as la kontinu_ec_o inter la lingv_o mal_nov_a kaj la nov_a. Malgraŭ la fakt_o ke ni_a lingv_o fort_e dis_volv_iĝ_as, ĉiu nov_a Esperant_ist_o leg_as la verk_o_j_n de antaŭ du_dek jar_o_j kun tia sam_a facil_ec_o, kiel Esperant_ist_o tiu_temp_a.”<ptr xml:id="vivo-de-zamenhof-28" target="#noto-vivo-de-zamenhof-28"/> En Amerik_o Zamenhof klar_ig_is pli detal_e si_a_n pens_o_n. Se iam ver_e aŭtoritat_a deleg_it_ar_o de divers_a_j regn_o_j vol_us iom ŝanĝ_i Esperant_o_n, antaŭ ol ĝi_n oficial_ig_i, kiel ĝi ag_us? Por akcept_i kelk_a_j_n util_a_j_n vort_o_j_n, por lim_ig_i la akuzativ_o_n aŭ ĉes_ig_i la akord_iĝ_o_n de la adjektiv_o_j en mult_nombr_o, ĉu taŭg_us sub_fos_i la tut_a_n labor_o_n de du_onj_ar_cent_o kaj re_komenc_i ĉiu_n spert_o_n per ali_a voj_o? Ĉu neces_us ŝanĝ_i kiom ebl_e plej vast_e la tut_a_n vort_ar_o_n, kaj ig_i ĝi_n mult_e pli mal_facil_a por la popol_amas_o_j? Ĉu valor_us perd_i la spirit_o_n de la lingv_o Esperant_o, ĉe kiu eĉ Slav_o_j sent_as si_n hejm_e, por prefer_i teori_a_n sistem_o_n kun intenc_e latin_a ŝajn_o?</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-28" target="#vivo-de-zamenhof-28">Tiu_n sam_a_n ŝat_o_n je viv_ant_ec_o Zamenhof montr_is en si_a_j “Lingv_a_j Respond_o_j”, el_don_it_a_j de La Revu_o.</note>
+
+				<p xml:id="bo340">Ne! tio est_us nek saĝ_a, nek neces_a. Sufiĉ_us, ke la Lingv_a Komitat_o rekomend_u la for_las_o_j_n aŭ al_don_o_j_n en uz_ad_o ĉiu_tag_a. Post kelk_a temp_o, kutim_o ja far_iĝ_us sen ia romp_o, se ĝi montr_iĝ_us tre praktik_a. Se ne, eĉ decid_o plej alt_a fal_us mort_e. Efektiv_e la spert_o baldaŭ montr_us ĉu tio, kio sen_dub_e est_as pli facil_a en <hi>uz_ad_o</hi>, ne ig_as tiom pli mal_facil_a la <hi>kompren_ad_o_n</hi>. Zamenhof ne tuŝ_is tiam la tem_o_n pri gajn_o kaj perd_o, sed li konklud_is modest_e:</p>
+
+				<p xml:id="bo341">“Ĉio, kio_n mi dir_is, ne est_as ia aŭtor_a mem_fid_o, ĉar mi plen_e konsent_as kaj konfes_as mal_kaŝ_e, ke por ŝanĝ_i io_n en la natur_a ir_ad_o de la inter_naci_lingv_a afer_o, mi est_as tiel sam_e sen_pov_a kiel ĉiu ali_a person_o ... La Esperant_a_j radik_o_j de la arb_o inter_naci_lingv_a jam tiel profund_e penetr_is en la ter_o_n de la viv_o, ke ne pov_as jam ĉiu dezir_ant_o ŝanĝ_i la radik_o_j_n aŭ ŝov_i la arb_o_n laŭ si_a bon_trov_o ... Ĉiu, kiu vol_os kontraŭ_batal_i tiu_n natur_a_n ir_ad_o_n, nur perd_os sen_bezon_e si_a_j_n fort_o_j_n.”</p>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-10" type="chapitro">
+
+				<head xml:id="bo342">ĈAPITR_O X</head>
+
+				<head xml:id="bo343" type="subordinate">VERK_IST_O</head>
+
+				<p xml:id="bo344">Tiu sam_a gust_o je viv_o kaj fleks_ebl_o re_trov_iĝ_as ankaŭ en la stil_o Zamenhof_a. Li ne est_is ĥemi_ist_o, astronom_o, matematik_ist_o, aŭ eĉ nur lingv_ist_o, teori_e diskut_ant_a ĉe komitat_o. Li est_is verk_ist_o. De la fru_a infan_ec_o li montr_iĝ_is jam poet_a. Art_o li_a est_is la uz_ad_o de la vort_o_j. Harmoni_o kaj muzik_a sent_o ĝeneral_a li_n inspir_is por la lingv_o kaj la stil_o. Li hont_is pri Esperant_o ĝis tiam, kiam ĝi flu_is tut_e dolĉ_e. Li ĝi_n el_don_is nur tiam, kiam li sukces_is liber_e verk_i poem_o_j_n en la lingv_o. Kiam ĝi aper_is, la fundament_a material_o est_is mal_pli la gramatik_o, ol la tekst_o_j kaj la stil_o. La dek ses regul_o_j fakt_e nur tir_iĝ_is el la lingv_o jam uz_at_a kaj prov_at_a dum long_jar_o_j. Kiel am_e li en_blov_is ĝi_a_n viv_o_n kaj spirit_o_n, tio_n oni pov_as ek_kompren_i per fraz_o li_a: “Konfid_i al komitat_o kre_i lingv_o_n, est_us tiel sen_senc_e, kiel ekzempl_e konfid_i al komitat_o verk_i bon_a_n poem_o_n.”<ptr xml:id="vivo-de-zamenhof-29" target="#noto-vivo-de-zamenhof-29"/> Iam Dant_e form_is kvazaŭ propr_a_n lingv_o_n el divers_a_j dialekt_o_j de la ital_a_j regn_o_j. Iom simil_e Zamenhof el_tir_is la komun_a_n element_o_n el dialekt_o_j hind_o-eŭrop_o-amerik_a_j por esprim_i grand_a_n pens_o_n pri frat_ec_o hom_a. La labor_o kaj alt_iĝ_o est_is ja pli grand_a_j. Tial ni ne mir_u, ke plej_part_o de la geni_o el_spez_iĝ_is en la lingv_o mem. Rest_is mal_pli mult_e por sen_mort_a_j bild_o_j aŭ impres_a_j kant_o_j. Li_a propr_a verk_ar_o est_as mal_vast_a, simpl_a, sen_pretend_a. Tamen ĝi esprim_as fort_e la sopir_o_n de la hom_ar_o. Tamen ĝi inspir_is mil_o_j_n.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-29" target="#vivo-de-zamenhof-29"><name> Esenc_o kaj est_ont_ec_o de l’ ide_o de lingv_o inter_naci_a</name>, 1899.</note>
+
+				<p xml:id="bo345">Kelk_a_j proz_aĵ_o_j. Kelk_a_j poem_o_j, potenc_a_j per sincer_o. Himn_o_j en la nom_o de mult_ar_o. Parol_ad_o_j leg_it_a_j en kongres_o_j. Psalm_o_j de la est_ont_ec_o.</p>
+
+				<p xml:id="bo346">Ali_a_j hom_o_j ven_os pli post_e. Ili fam_ig_os Esperant_o_n per verk_o_j jam pli riĉ_a_j. Por ili ĉio est_os pret_a. Tiel li esper_is. Ankaŭ pri tio li montr_is si_n humil_a. Li pas_ig_is long_a_n temp_o_n traduk_ant_e ĉef_majstr_o_j_n el divers_a_j land_o_j.</p>
+
+				<p xml:id="bo347">Jam Goethe parol_is pri mond_literatur_o. Zamenhof dezir_is, ke hom_ar_a lingv_o valor_ig_u tiu_n trezor_o_n por ĉiu_j popol_o_j.</p>
+
+				<p xml:id="bo348">Tial li, vesper_o_n post vesper_o, nokt_o_n post nokt_o, labor_ad_is sub la lamp_o pacienc_e kaj fidel_e, por viv_ig_i en Esperant_o <name xml:lang="en">Hamlet</name> de <name xml:lang="">Shakespeare</name>, <name>Ifigeni_o</name> de <name xml:lang="">Goethe</name>, <name xml:lang="fr">Dandin</name> de <name xml:lang="">Molière</name>, <name>La Rab_ist_o_j</name> de Schiller, <name>La Revizor_o</name> de Gogol. Li_a bon_eg_a sci_o de la hebre_a lingv_o li_n ebl_ig_is majstr_e zorg_i pri la Bibli_o. Li_a Mal_nov_a Testament_o bel_eg_e super_as la traduk_o_j_n en naci_a_j lingv_o_j. Per li_a plum_o ĝi re_far_iĝ_is mir_ind_a poem_ar_o, kun ritm_o de parol_o_j je ritm_o de hom_viv_o_j sub okul_o di_a:</p>
+
+				<p xml:id="bo349">“Vant_aĵ_o de vant_aĵ_o_j, dir_is la Predik_ant_o, vant_aĵ_o de vant_aĵ_o_j, ĉio est_as vant_aĵ_o. Kia_n profit_o_n hav_as la hom_o de ĉiu_j si_a_j labor_o_j, kiu_j_n li labor_as sub la sun_o? Generaci_o for_ir_as kaj generaci_o ven_as, kaj la ter_o rest_as etern_e. Lev_iĝ_as la sun_o kaj sub_ir_as la sun_o, kaj al si_a lok_o ĝi rapid_as, kaj tie ĝi lev_iĝ_as. Ir_as al sud_o kaj re_ir_as al nord_o, turn_iĝ_as, turn_iĝ_as en si_a ir_ad_o la vent_o, kaj al si_a_j rond_o_j re_ven_as la vent_o ... Est_as temp_o por nask_i, kaj temp_o por mort_i ... Est_as temp_o por plor_i, kaj temp_o por rid_i; est_as temp_o por ĝem_i, kaj temp_o por salt_i ... Est_as temp_o por silent_i, kaj temp_o por parol_i. Est_as temp_o por am_i, kaj temp_o por mal_am_i; est_as temp_o por milit_o, kaj temp_o por pac_o. Kia_n profit_o_n hav_as far_ant_o de tio, kio_n li labor_as?”<ptr xml:id="vivo-de-zamenhof-30" target="#noto-vivo-de-zamenhof-30"/> Ne nur senc_o, sed muzik_o, ne nur bel_son_o, sed viv_o. La viv_o, la impres_o de la moment_o, la vigl_ec_o, la fort_a bat_o de la esprim_o; tio salt_is, kur_is, kaj re_kant_is en la stil_o Zamenhof_a.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-30" target="#vivo-de-zamenhof-30">El La Predik_ant_o, ĉapitr_o_j 1-2. Grand_a part_o de tiu_j traduk_o_j aper_is en La Revu_o ( el_don_it_a de Hachette en Pariz_o ) al kiu Zamenhof kun_labor_is tiel.</note>
+
+				<p xml:id="bo350">Ho kial ne fand_iĝ_as hom_a korp_o,<lb/>
+Ne dis_flug_iĝ_as kiel polv’ en vent_o!</p>
+
+				<p xml:id="bo352">Tiel ek_kri_as Hamlet pro indign_o kaj hont_o pri la kondut_o de la patr_in_o. Sed jen aper_as la fantom_o patr_a:</p>
+
+				<p xml:id="bo353">Spirit_o sankt_a aŭ demon’ terur_a,<lb/>
+Ĉu el ĉiel_o aŭ el la infer_o ...<lb/>
+Respond_u ... Dir_u al mi, kial<lb/>
+Si_n lev_is el la tomb_o vi_a_j ost_o_j.<lb/>
+Kaj la ĉerk_uj_o, kie_n mi trankvil_e<lb/>
+Vi_n met_is, kial ĝi mal_ferm_is nun<lb/>
+La pez_a_n si_a_n buŝ_o_n de marmor_o,<lb/>
+Por vi_n el_ĵet_i?</p>
+
+				<p xml:id="bo361">Nenio pli simpl_a ol tiu lingv_o. Nenio tamen pli viv_a kaj pli riĉ_a per uz_ad_o de la intern_a fort_o dis_volv_iĝ_a. Post mult_jar_o_j tiu_j traduk_aĵ_o_j rest_os ankoraŭ model_o_j de lingv_o ĉarm_a, jun_a, viv_i_pov_a. Preskaŭ ĉiu_j literatur_o_j en Eŭrop_o centr_a komenc_iĝ_is per traduk_o de la Bibli_o. Tiu de Ul_fil_as rest_as la sol_a dokument_o pri la Got_a lingv_o. Tiu de Luther sign_is epok_o_n por la german_a. Sur la Slovak_a flank_o de la Karpat_o_j, pastr_o_j skrib_e fiks_is la naci_a_n lingv_o_n per Evangeli_o. Prav_e Zamenhof dezir_is post_las_i tiu_n tekst_o_n kaj divers_a_j_n verk_o_j_n de ĉef_majstr_o_j, kiel part_o_n ja neces_a_n de komenc_a fundament_o.</p>
+
+				<p xml:id="bo362">De li_a proz_o original_a mi jam cit_is mult_a_j_n er_o_j_n. Tra ĝi brul_is tiu fajr_o kaŝ_it_a intern_e en li_a modest_a person_o. Tie montr_iĝ_is vigl_a rezon_ad_o, fort_a vol_o kaj obstin_o por konvink_i per kompar_o_j kaj logik_o. Alud_ant_e la inspir_o_n, la prov_ad_o_n, kaj la pacienc_a_n am_o_n neces_a_j_n por ek_fond_i lingv_o_n, Zamenhof ekzempl_e skrib_is:</p>
+
+				<p xml:id="bo363">“Al hom_o, kiu ne kon_as la esenc_o_n de muzik_o, ŝajn_as, ke nenio est_as pli facil_a, ol lud_i fortepian_o_n — oni ja bezon_as nur ek_frap_i unu klav_o_n kaj est_os ricev_it_a ton_o, vi ek_frap_os ali_a_n klav_o_n kaj vi ricev_os ali_a_n ton_o_n, vi frap_ad_os en la daŭr_o de tut_a hor_o divers_a_j_n klav_o_j_n, kaj vi ricev_os tut_a_n kompozici_o_n — ŝajn_as, ke nenio est_as pli facil_a. Sed kiam li komenc_as lud_i si_a_n improviz_it_a_n kompozici_o_n, ĉiu_j kun rid_eg_o dis_kur_as, kaj eĉ li mem, aŭd_ant_e la ricev_at_a_j_n de li sovaĝ_a_j_n son_o_j_n, baldaŭ komenc_os kompren_et_ad_i, ke la afer_o iel est_as ne glat_a, ke muzik_o ne konsist_as en sol_a frap_ad_o de klav_o_j. Tiu hero_o, kiu kun tia mem_fid_a mien_o sid_iĝ_is antaŭ la fortepian_o, fanfaron_ant_e ke li lud_os pli bon_e ol ĉiu_j, kun hont_o for_kur_as kaj jam plu ne montr_as si_n antaŭ la publik_o.”<ptr xml:id="vivo-de-zamenhof-31" target="#noto-vivo-de-zamenhof-31"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-31" target="#vivo-de-zamenhof-31">Esenc_o kaj est_ont_ec_o, 1899 (Fundament_a Krestomati_o).</note>
+
+				<p xml:id="bo364">La fraz_o_j Zamenhof_a_j est_as oft_e long_a_j. Verk_ist_o_j pli modern_a_j hav_as mal_a_n gust_o_n. Sed la rakont_o flu_as viv_e kaj rapid_e. Fort_o sent_iĝ_as. Ĉe li, la ripet_o_j ŝajn_as ne sistem_a_j. Ili pez_as, kiel frukt_o_j de la fervor_o. Gent_e kutim_a je bat_o_j kaj atak_o_j, li ŝirm_is si_n per argument_o_j, kaj re_bat_is kontraŭ_dir_o_j_n jam antaŭ_e. Sed ĉiam ide_o kontraŭ ide_o, klar_ig_o kontraŭ antaŭ_juĝ_o, neniam hom_o kontraŭ hom_o. Tamen, eĉ tia ne_person_a batal_em_o en skrib_ad_o li_n tim_ig_is. Ĝi ofend_is li_a_n nobl_a_n am_em_o_n kaj ŝajn_is al li mal_humil_a. Sur korekt_it_a manuskript_o de <hi>Hom_ar_an_ism_o</hi>, post_mort_e trov_it_a, mi rimark_is krajon_e skrib_it_a_n de li_a man_o tiu_n ĉi not_o_n memor_ig_a_n al si mem: <hi>“Evit_i ĉio_n agres_iv_a_n!”</hi></p>
+
+				<p xml:id="bo365">De temp_o al temp_o, sed neniam intenc_e, vual_o pruv_em_a subit_e dis_krak_is kaj kor_o el_salt_is nud_e. Anim_o pur_a, pardon_em_a. Natur_o sent_em_a, delikat_a:</p>
+
+				<p xml:id="bo366">“Vi star_as nun antaŭ mi_a_j okul_o_j, mi_a kar_a Litov_uj_o, mi_a mal_feliĉ_a patr_uj_o ...”<ptr xml:id="vivo-de-zamenhof-32a" target="#noto-vivo-de-zamenhof-32"/></p>
+
+				<p xml:id="bo367">Dolor_o, sed fid_o, kaj esper_o super ĉio. De_nov_e la profet_a voĉ_o:</p>
+
+				<p xml:id="bo368">“Long_e daŭr_os ankoraŭ mal_lum_a nokt_o sur la ter_o, sed ne etern_e ĝi daŭr_os. Ven_os iam la temp_o, kiam la hom_o_j ĉes_os est_i lup_o_j unu_j kontraŭ ali_a_j ... Kun_e kaj inter_konsent_e ili cel_ad_os ĉiu_j al unu ver_o, al unu feliĉ_o.”<ptr xml:id="vivo-de-zamenhof-32b" target="#noto-vivo-de-zamenhof-32" rend="plurobla"/> En la poem_o_j Zamenhof_a_j tiam nur kor_o vok_as. Al kuraĝ_o, al obstin_o, al pacienc_o. La bild_o_j est_as simpl_a_j, mal_long_a_j, la ritm_o iom unu_ton_a, sed impres_a:</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-32" target="#vivo-de-zamenhof-32a">Parol_ad_o en London_a <name xml:lang="en">Guildhall</name>, 1907.</note>
+
+				<p xml:id="bo369">Eĉ gut_o mal_grand_a, konstant_e frap_ant_e,<lb/>
+Tra_bor_as la mont_o_n granit_a_n.<ptr xml:id="vivo-de-zamenhof-34" target="#noto-vivo-de-zamenhof-34"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-34" target="#vivo-de-zamenhof-34">El La Voj_o.</note>
+
+				<p xml:id="bo371">Antaŭ la aper_o de la <hi>Unu_a Libr_o</hi>, li verk_is pri dolor_o kaj sopir_o si_a_j: <hi>Mi_a Pens_o</hi>, <hi>Ho mi_a Kor’!</hi> Post_e, li_a pens_o jam fand_iĝ_is en la rond_o kun_ig_it_a per li_a lingv_o “sub la sankt_a sign_o de l’ esper_o”. Per tiu last_a vort_o li ja nom_is la himn_o_n de la “diligent_a koleg_ar_o”. Ne nur li mem, sed mil_o_j da hom_o_j aŭd_iĝ_as per <hi>La Esper_o</hi>, nun fam_a tra la tut_a mond_o:</p>
+
+				<p xml:id="bo372">Ne al glav_o sang_o_n soif_ant_a<lb/>
+Ĝi la hom_a_n tir_as famili_o_n:<lb/>
+Al la mond’ etern_e milit_ant_a<lb/>
+Ĝi promes_as sankt_a_n harmoni_o_n.</p>
+
+				<p xml:id="bo376">Tiel Zamenhof far_iĝ_is la popol_a poet_o de fervor_a hom_ar_et_o. Ankaŭ tie li ŝat_is forges_i tut_e si_a_n person_o_n kaj nur el_voĉ_i la intern_a_n pens_o_n de ĉiu_j. Kun_a sufer_o, kun_a ĝoj_o; ĉia sent_o ĝeneral_a de la frat_a rond_o inter hom_o_j esper_em_a_j, ĉio plej alt_a aŭ profund_a en komun_a_j spert_o_j, tio trov_is ĉe li esprim_o_n plej sincer_a_n:</p>
+
+				<p xml:id="bo377">Se long_a sek_ec_o aŭ vent_o_j subit_a_j<lb/>
+Velk_ant_a_j_n foli_o_j_n de_ŝir_as,<lb/>
+Ni dank_as la vent_o_n, kaj re_pur_ig_it_a_j<lb/>
+Ni fort_o_n pli freŝ_a_n akir_as.</p>
+
+				<p xml:id="bo381">Tiu_n ĉi kant_o_n, <hi>La Voj_o</hi>, li verk_is jam antaŭ la Bulonj_a kongres_o. Sam_e <hi>Al la Frat_o_j</hi> eĉ pli fru_e.</p>
+
+				<p xml:id="bo382">Melankoli_e son_as ankoraŭ mult_a_j vers_o_j, sed kiel en Ŝopen_a marŝ_o, post mal_ĝoj_a mal_rapid_o, jen subit_e blov_as vigl_a muzik_aĵ_o kuraĝ_e antaŭ_e_n:</p>
+
+				<p xml:id="bo383">Ne mort_os jam ni_a brav_eg_a an_ar_o,<lb/>
+Ĝi_n jam ne tim_ig_as la vent_o, nek star_o.<lb/>
+Obstin_e ĝi paŝ_as, prov_it_a, hard_it_a,<lb/>
+Al cel’ unu foj_o_n sign_it_a.<ptr xml:id="vivo-de-zamenhof-35" target="#noto-vivo-de-zamenhof-35"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-35" target="#vivo-de-zamenhof-35">La Voj_o. Fundament_a Krestomati_o, 1903.</note>
+
+				<p xml:id="bo387">Ĉe Zamenhof, en tiu korp_o mal_fort_a de mal_alt_a vir_o, ŝvel_is kor_o sen_tim_a kaj vol_o potenc_a. Vid_u, kiel en ĉiu verk_aĵ_o re_ven_as la vort_o_j “cel_o” kaj “obstin_o”. Laŭ art_a vid_punkt_o pli ŝat_ind_a est_as mi_a_gust_e la <hi>Preĝ_o sub la verd_a standard_o</hi><ptr xml:id="vivo-de-zamenhof-36" target="#noto-vivo-de-zamenhof-36"/>, kaj eĉ mult_e pli la proz_aĵ_o_j mem leg_it_a_j en Bulonj_o kaj London_o. Al ekster_a leg_ant_o, iu ajn el tiu poem_ar_o ŝajn_as kred_ebl_e tro simpl_a, eĉ naiv_a. Sam_e ankaŭ aper_as ĉiu_j rest_aĵ_o_j el la komenc_a literatur_o en la komun_a lingv_o de naci_o nask_iĝ_ant_a. Sed kiu kompren_as la fort_a_n sent_o_n de la hom_o_j, kiu_j am_is kaj re_kant_is ili_n, al tiu jam aper_as ili sub intern_a lum_o kiel tre valor_a trezor_aĵ_o. Jar_cent_o_j_n post_e, dik_a_j libr_o_j publik_iĝ_as por ili_n laŭd_i. Naiv_ec_o far_iĝ_is ĉarm_o, simpl_ec_o, art_o plej grand_a.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-36" target="#vivo-de-zamenhof-36">Cit_it_a en ĉapitr_o VI.</note>
+
+				<p xml:id="bo388">Tiel est_os ebl_e pri vers_aĵ_o_j Zamenhof_a_j, ĉar ili esprim_is unu_a_foj_e, ne nur la fervor_o_n de la Esperant_ist_o_j, sed la sent_o_n de la hom_ar_o vek_iĝ_ant_a al konsci_o. Plen_a_j art_ist_o_j ven_os pli post_e; sed ben_it_a jam est_u tiu popol_a bard_o, kiu, la unu_a, per orel_o de geni_o, aŭd_is en profund_a kor_o de la hom_ar_o la sopir_o_n al hel_a lum_o de frat_ec_o!</p>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-11" type="chapitro">
+
+				<head xml:id="bo389">ĈAPITR_O XI</head>
+
+				<head xml:id="bo390" type="subordinate">ETIK_A PENS_UL_O</head>
+
+				<p xml:id="bo391">Prav_e oni pov_us dir_i, ke Zamenhof el_don_is ĉiu_jar_e nov_a_n verk_o_n sub la form_o de kongres_a parol_ad_o. Efektiv_e, li prepar_is ĝi_n kun zorg_o, kaj pri_pens_is dum la vintr_o, kia est_os ĝi_a tem_o. Kvazaŭ profet_a sol_ul_o mal_supr_e_n ven_int_a de mont_o si_a, li unu foj_o_n en la jar_o al_parol_is la popol_o_n, kaj post_e re_mal_aper_is en silent_o_n.</p>
+
+				<p xml:id="bo392">Pri la lingv_a_j tem_o_j li ne ŝat_is insist_i. Li prefer_is ĉiam la hom_ar_a_j_n ide_o_j_n. Sed la kongres_o ne est_is propr_aĵ_o. Nur gast_o li si_n konsider_is. Tial li dev_is kaj ankaŭ dezir_is ne ofend_i la oficial_a_j_n invit_ant_o_j_n. En Barcelon_o ni kun_ven_is en septembr_o 1909. Kelk_a_j_n tag_o_j_n antaŭ_e ribel_o eksplod_is en la urb_o. Arm_it_a_j kavalir_o_j ankoraŭ rajd_is en la strat_o_j. Larĝ_a_j fend_aĵ_o_j tra_strek_is la mur_o_j_n de la preĝ_ej_o_j. Du tag_o_j_n post la ferm_o de la kongres_o, Ferrer est_is arest_it_a. Ni jam ĉiu_j est_is for. Sed la Reĝ_o ankaŭ ŝat_is Esperant_o_n. La hispan_a ministr_ar_o eĉ invit_is oficial_e per diplomat_a voj_o ĉiu_j_n reg_ist_ar_o_j_n ali_land_a_j_n send_i deleg_it_o_j_n oficial_a_j_n. Tial Zamenhof lim_ig_is al dank_o la mal_ferm_a_n parol_ad_o_n.</p>
+
+				<p xml:id="bo393">Pli liber_a li si_n sent_is en kun_sid_o privat_a de la nov_e fond_it_a Universal_a Esperant_o-Asoci_o, kies honor_a prezid_ant_o li far_iĝ_is.<ptr xml:id="vivo-de-zamenhof-37" target="#noto-vivo-de-zamenhof-37"/> Tie li re_ven_is al si_a tem_o plej kar_a:</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-37" target="#vivo-de-zamenhof-37">Fond_it_a en Januar_o 1908 de <name xml:lang="">H. Hodler</name> kaj <name xml:lang="">Th. Rousseau</name>.</note>
+
+				<p xml:id="bo394">“Kelk_a_j Esperant_ist_o_j”, li dir_is, “hav_is la bon_a_n ide_o_n far_i per voj_o privat_a tio_n, kio_n oficial_e far_i ni ne pov_is. Ili kun_ig_is ne ĉiu_j_n Esperant_ist_o_j_n, sed nur tiu_j_n person_o_j_n, kiu_j akcept_is la <hi>intern_a_n ide_o_n</hi> ... Oni ĉie kompren_as, ke U. E. A. liver_as taŭg_a_n neŭtral_a_n fundament_o_n por ĉiu_j inter_hom_a_j rilat_o_j kaj serv_o_j, kaj el tiu ĉi reciprok_a si_n_help_ad_o rezult_os pli da amik_ec_o kaj estim_o inter la gent_o_j, kaj for_iĝ_os la bar_o_j, kiu_j mal_help_as ili_a_n pac_a_n inter_komunik_iĝ_o_n.”<ptr xml:id="vivo-de-zamenhof-38" target="#noto-vivo-de-zamenhof-38"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-38" target="#vivo-de-zamenhof-38">Plen_a tekst_o en gazet_o <hi>Esperant_o</hi>, no. 62, Ĝenev_o, 20 septembr_o 1909</note>
+
+				<p xml:id="bo395">En 1911, al la Kongres_o de Ras_o_j en London_o, li send_is rimark_ind_a_n ekzamen_o_n de la demand_o pri gent_o_j kaj inter_naci_a lingv_o.</p>
+
+				<p xml:id="bo396">Ĉu mal_am_o inter gent_o_j hav_as kaŭz_o_n politik_a_n? Ne, Vien_an_o_j kaj Dresden_an_o_j simpati_as, malgraŭ la land_lim_o. Dum_e Slav_o_j kaj German_o_j batal_is en Aŭstr_i_o kaj ekster_e. Ĉu ĝi_n kre_as konkur_ad_o ekonomi_a? Ne kre_as, sed profit_as. Rus_a_j kaj Japan_a_j mal_riĉ_ul_o_j, est_ant_e soldat_o_j, serv_as interes_o_j_n de la mastr_o_j. Se ekzist_us inter ambaŭ gent_o_j kompren_o reciprok_a, la milit_o est_us mal_facil_a. Ĉu pli grav_as korp_a_j diferenc_o_j? Ne, ĉar en unu sam_a gent_o jam ekzist_as tia_j. Eĉ nigr_ul_o_j ne sufer_as pro kolor_o si_a, sed pro mor_o_j de la tut_a gent_o. Post_sign_o_j de la barbar_a temp_o kaj sklav_ec_o ofend_as la blank_ul_o_j_n, kiu_j mem est_as ja kulp_a_j pri la krim_o. Egal_ig_o kultur_a ŝanĝ_us tio_n post kelk_a_j generaci_o_j.</p>
+
+				<p xml:id="bo397">Pri de_ven_o kaj hered_a sang_o Zamenhof re_bat_is la kon_at_a_n antaŭ_juĝ_o_n. Post li fam_a_j antropolog_o_j pruv_is en scienc_a_j verk_o_j, kiel miks_it_e jam kun_iĝ_is ĉiu_j ras_o_j en Eŭrop_o.<ptr xml:id="vivo-de-zamenhof-39" target="#noto-vivo-de-zamenhof-39"/> Inter gent_o_j star_as nur du fakt_a_j diferenc_o_j: lingv_o kaj religi_o.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-39" target="#vivo-de-zamenhof-39">Prof. <name xml:lang="">Eugène Pittard</name>: <name xml:lang="fr">Les races chez les belligérants</name>, <name xml:lang="">Genève</name> 1916.</note>
+
+				<p xml:id="bo398">“La inter_gent_a dis_ec_o kaj mal_am_o plen_e mal_aper_os nur tiam, kiam la tut_a hom_ar_o hav_os unu lingv_o_n kaj unu religi_o_n ... Daŭr_os tiam en la hom_ar_o tiu_j divers_a_j mal_pac_o_j, kiu_j reg_as intern_e de ĉiu land_o kaj gent_o, kiel ekzempl_e mal_pac_o_j politik_a_j, parti_a_j, ekonomi_a_j, klas_a_j, k.t.p.; sed la plej terur_a el ĉiu_j, la mal_am_o inter_gent_a, tut_e mal_aper_os.” Tiel son_is li_a konklud_o. Sam_temp_e li rekomend_is al la scienc_ul_o_j ne tro diskut_i teori_e, sed konstat_i fakt_o_j_n. Ili vizit_u Esperant_a_n kongres_o_n. Tie ili vid_os per okul_o_j kaj aŭd_os per orel_o_j, kiel neŭtral_a lingv_o for_ig_as bar_o_j_n kaj fremd_ec_o_n inter gent_o_j.</p>
+
+				<p xml:id="bo399">Tra la tut_a mond_o pli fort_a blov_o ŝovinist_a jam sent_iĝ_is ĉie. Ond_o mal_am_a minac_is pri ven_ont_a vent_eg_o. Scienc_ul_o_j am_i kaj al Zamenhof pet_eg_is li_n, ke li ne kompromit_u la vast_iĝ_o_n de la lingv_o per li_a kred_o politik_a-religi_a. Ĉie, pro mal_fid_o al najbar_o, reg_ist_ar_o_j tim_is, aŭ eĉ persekut_is la ide_o_j_n pri frat_ec_o inter hom_o_j divers_gent_a_j. Eĉ en pac_a Belg_uj_o, en Antverpen_o 1911, la kongres_a parol_ad_o dev_is est_i sen_kolor_a pro proksim_ec_o al pli potenc_a_j ŝtat_o_j.</p>
+
+				<p xml:id="bo400">Zamenhof ne pov_is toler_i tio_n plu. Aer_o_n, aer_o_n por spir_i! Ne majstr_o, sed liber_a! Jam li_a san_o difekt_iĝ_is. Ankaŭ fizik_e li_a kor_o bat_is tro rapid_e. Spir_ad_o mal_facil_a. Lac_iĝ_o pez_a. Antaŭ ol mort_i, li dezir_is nepr_e ating_i pli proksim_e_n al la viv_cel_o. La lingv_o nur est_is unu flank_o de afer_o pli vast_a. Neŭtral_a fundament_o moral_a dev_as star_iĝ_i krom la lingv_a. Ĝust_e kontraŭ flu_o ŝovinist_a lev_iĝ_u pli alt_e_n la standard_o hom_ar_an_a. Urĝ_as vok_o. Urĝ_as labor_o. Pro tio la Majstr_o vol_is romp_i kun la sklav_ec_o oficial_a. For la majstr_ec_o kaj la ĉen_o_j! Kio_n li ne pov_is en Kembriĝ_o, tio_n li far_os en Krakov_o. Last_a_n foj_o_n li mal_ferm_os la kun_ven_o_n, kaj re_pren_os post_e si_a_n liber_ec_o_n:</p>
+
+				<p xml:id="bo401">“La nun_a kongres_o est_as la last_a, en kiu vi vid_as mi_n <hi>antaŭ</hi> vi; post_e, se mi pov_os ven_i, vi ĉiam vid_os mi_n nur <hi>inter</hi> vi.”</p>
+
+				<p xml:id="bo402">Tiel li parol_os ĉe la du_dek-kvin_a jubile_o de la lingv_o Esperant_o. Post_e, kiel hom_o privat_a, li re_ven_os al la hom_ar_an_a ide_o.</p>
+
+				<p xml:id="bo403">En aŭgust_o 1912, la antikv_a pol_a ĉef_urb_o aŭd_is la kant_o_n de la cign_o. Tie gard_as la mur_eg_o_j mez_aĝ_a_j. Tie star_as la dik_rond_a_j tur_o_j. Tie dorm_as sub ark_aĵ_o_j de Vavella la mort_int_a_j reĝ_o_j de naci_o kruc_um_it_a. Kiel ŝton_a_j figur_aĵ_o_j, ili silent_as kun preĝ_ant_a_j man_o_j. Ili kuŝ_as en ĉerk_ej_o sub la kapel_o Sigismond_a. Kun_e dorm_as en etern_o la poet_o Mickieviĉ. Tie sur la plac_o, post la ĵur_o ĉe Sankt_a-Mari_o, la popol_o aklam_is Kosĉiuŝkon. Tie, en la universitat_o, Kopernik instru_is.</p>
+
+				<p xml:id="bo404">En urb_o memor_plen_a okaz_is la fest_o jubile_a. Proksim_e, trans Pol_uj_o, kuŝ_is tiu land_o, kie nask_iĝ_is esperant_ism_o. Zamenhof adiaŭ_is la honor_o_j_n:</p>
+
+				<p xml:id="bo405">“Mult_e, tre mult_e, tre mult_e, mi vol_us dir_i al vi, ĉar mi_a kor_o est_as plen_a ... sed hodiaŭ mi star_as ankoraŭ en rol_o oficial_a, kaj mi ne dezir_as, ke mi_a privat_a kred_o est_u rigard_at_a kiel dev_ig_a kred_o de ĉiu_j Esperant_ist_o_j. Tial pardon_u mi_n, ke mi pli ne parol_as.”</p>
+
+				<p xml:id="bo406">“Kio est_as la esenc_o de la esperant_ism_a ide_o? kaj al kia est_ont_ec_o ĝi al_konduk_os iam la hom_ar_o_n? Tio_n ni ĉiu_j sent_as tre bon_e, kvankam ne ĉiu_j en egal_a form_o kaj grad_o. Ni don_u do hodiaŭ plen_a_n reg_ad_o_n al tiu silent_a, sed solen_a kaj profund_a sent_o; ni ne profan_u ĝi_n per teori_a_j klar_ig_o_j.”</p>
+
+				<p xml:id="bo407">En Bern_o, en 1913, Zamenhof jam ne parol_is, eĉ ne sid_is sur la estrad_o. Am_e ĉirkaŭ_at_a, li sid_is en la mez_o de la kongres_an_o_j kun la edz_in_o. Li spir_is pli liber_e. La sam_a_n jar_o_n aper_is nov_a el_don_o de la broŝur_o pri “Hom_ar_an_ism_o”. Hispan_a sam_ide_an_o re_pres_ig_is ĝi_n.<ptr xml:id="vivo-de-zamenhof-40" target="#noto-vivo-de-zamenhof-40"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-40" target="#vivo-de-zamenhof-40"><hi>Deklaraci_o pri Hom_ar_an_ism_o</hi>, de D-r_o L. L. Zamenhof, Madrid 1913</note>
+
+				<p xml:id="bo408">En la antaŭ_parol_o Zamenhof tre klar_e diferenc_ig_as tri afer_o_j_n: Esperant_o est_as lingv_o inter_naci_a. La “intern_a ide_o esperant_ism_a” prezent_as sent_o_n kaj esper_o_n ne_difin_it_a_j_n pri frat_iĝ_o inter hom_o_j sur neŭtral_a lingv_a fundament_o. Hom_ar_an_ism_o est_as special_a kaj tut_e difin_it_a politik_a-religi_a program_o, “kiu prezent_as mi_a_n kred_o_n pur_e privat_a_n”. Per tiu kaj ali_a_j fraz_o_j li vol_is liber_ig_i la esperant_ist_ar_o_n, kiel tut_o_n, de ĉia “suspekt_ebl_a solidar_ec_o” kun li_a person_a kred_o. Neniu rajt_os uz_ad_i ĝi_n kiel batal_il_o_n por atak_i Esperant_o_n.</p>
+
+				<p xml:id="bo409">Kiel naŭz_a est_is la spirit_o reg_ant_a tra la mond_o! Jen tiu hom_o, tro alt_a super si_a temp_o, dev_is kvazaŭ hont_e pet_i sen_kulp_ig_o_n de mal_grand_ul_o_j pro si_a grand_ec_o. Li dev_is apart_ig_i du progres_o_j_n, por ne difekt_i unu per ali_a. Sed la divid_o est_is ne_natur_a. La est_ont_ec_o re_far_os en la viv_o la unu_ec_o_n de la pens_o Zamenhof_a. Malgraŭ ĉiu mal_permes_o de la ekster_o, tamen li_a lingv_o jam dis_port_as tra la mond_o la ĵet_it_a_n sem_o_n. En mult_a_j kor_o_j ĝi jam kresk_is. Prav_e ŝovinism_o_j daŭr_os batal_i kontraŭ Esperant_o. Ĝi minac_as ili_n je mort_ig_o. Prav_e ili kaŝ_e help_as konkur_ant_o_j_n por instig_i nov_a_n tur_o_n de Babel_o inter mond_a_j lingv_o_j. Tamen ĉio est_os van_a. La lingv_o kaj la cel_o de la profet_a hom_o venk_os unu per la ali_a. Ĉar tie kuŝ_as la voj_o kaj la sort_o de la hom_ar_o.</p>
+
+				<p xml:id="bo410">En si_a raport_o al la kongres_o de Ras_o_j, Zamenhof pri_skrib_is tiel ĉi la praktik_a_n rimed_o_n por pac_ig_i la viv_ad_o_n ĝeneral_a_n:</p>
+
+				<p xml:id="bo411"><hi>Konserv_ant_e si_a_n gent_a_n lingv_o_n kaj gent_a_n religi_o_n en la intern_a viv_o de si_a lingv_a aŭ religi_a grup_o, la hom_o_j por ĉiu_j rilat_o_j inter_gent_a_j uz_u lingv_o_n neŭtral_e hom_a_n, kaj viv_u, laŭ etik_o, mor_o_j kaj viv_aranĝ_o_j neŭtral_e hom_a_j.</hi></p>
+
+				<p xml:id="bo412">Pri la unu_a fak_o, la lingv_a, li detal_e trakt_is en la raport_o, insist_ant_e pri tiu ĉi punkt_o: kultur_o dev_as est_i tut_hom_ar_a.</p>
+
+				<p xml:id="bo413">Neniu hav_as rajt_o_n humil_ig_i ali_gent_a_n hom_o_n, trud_ant_e al li si_a_n lingv_o_n kaj naci_a_n form_o_n de kultur_o.</p>
+
+				<p xml:id="bo414">Pri la du_a, la religi_a, li nur alud_is tie per mal_mult_a_j vort_o_j. Li pri_pens_is verk_o_n special_a_n pri tiu tem_o. Ceter_e, la religi_a unu_ec_o de la popol_o_j komenc_iĝ_is per si mem jam de long_e. En mult_a_j regn_o_j, ŝtat_o kaj eklezi_o jam apart_iĝ_is. Tiel grand_iĝ_is la hom_a liber_ec_o. Kiam ĉie mal_aper_os la oficial_a privilegi_o por tiu aŭ ali_a religi_o, la afer_o ir_os pli rapid_e. Sed ankaŭ sur tiu kamp_o neces_us ek_star_ig_i ia_n difin_it_a_n fundament_o_n por neŭtral_a renkont_iĝ_o.</p>
+
+				<p xml:id="bo415">Tiu ĉi paragraf_o star_is plej ŝanĝ_it_a en la du_a el_don_o de la <hi>Deklaraci_o pri Hom_ar_an_ism_o</hi>. Est_is delikat_e. Laŭ_ŝajn_e Zamenhof unu_e pens_is, ke hom_o_j pov_us sam_temp_e aparten_i al si_a hejm_a eklezi_o kaj vizit_ad_i ia_n templ_o_n super_kred_a_n. Inter_temp_e la rom_a_j aŭ grek_a_j Krist_an_o_j sen_dub_e montr_is al li, ke la episkop_o_j mal_permes_us al si_a_j fidel_ul_o_j tia_n part_o_pren_o_n. Tiam ili dev_us elekt_i inter ambaŭ. La du_a tekst_o do for_ig_is tio_n, kaj nur las_is kiel dev_o_j_n de ĉiu_j hom_ar_an_o_j: “sincer_ec_o_n, toler_em_o_n al mal_sam_a_j kred_o_j kaj plen_um_o_n de moral_o frat_ec_a”. Fond_o de kaj al_iĝ_o al sen_doktrin_a komun_um_o rest_is nur rekomend_at_a al liber_kred_an_o_j, “por fiks_i fortik_e si_a_n religi_a_n neŭtral_ec_o_n kaj sav_i si_a_n post_e_ul_ar_o_n kontraŭ re_fal_o en gent_e-religi_a_n ŝovinism_o_n”.</p>
+
+				<p xml:id="bo416">Tie kuŝ_is la plej fort_a zorg_o de Zamenhof: ke hom_o_j ne rest_u en gent_a_j eklezi_o_j nur pro ekster_a_j cirkonstanc_o_j. Organiz_o mond_a dev_us est_i tia, ke neniu bezon_u, malgraŭ si_a kred_o, al_glu_iĝ_i al tiu aŭ ali_a religi_o, nur ekzempl_e pro patriot_ism_o, aŭ por ne perfid_i si_a_j_n sam_gent_an_o_j_n.</p>
+
+				<p xml:id="bo417">Hom_ar_an_ism_o help_os for_ig_i tiu_n ĉi dev_ig_o_n al mal_sincer_ec_o. Sed tial ankaŭ la vort_o “liber_kred_a” ne dev_as signif_i special_e ateist_a. “Liber_pens_ul_o_j” oft_e far_iĝ_is fanatik_a_j material_ist_a_j sekt_ul_o_j. Liber_kred_an_o est_u ĉiu hom_o, kiu kred_as je neniu el la ekzist_ant_a_j religi_o_j. Tia komun_um_o dev_us aranĝ_i neŭtral_e_hom_a_j_n fest_o_j_n, mor_o_j_n, kalendar_o_n, k.t.p., kiu_j pov_us util_i pli mal_fru_e por la tut_a hom_ar_o. Pro la cirkonstanc_o_j en Orient_o, tre urĝ_a est_is tiu flank_o praktik_a.<ptr xml:id="vivo-de-zamenhof-41" target="#noto-vivo-de-zamenhof-41"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-41" target="#vivo-de-zamenhof-41">Detal_a_j ekzempl_o_j est_is jam don_it_a_j en ĉapitr_o <num>VII</num>.</note>
+
+				<p xml:id="bo418">Oni dev_as ja memor_i, ke ĝis la rus_a Revoluci_o 1917, grand_a part_o de Eŭrop_o hav_is grek_a_n kalendar_o_n kun diferenc_o dek-tri_tag_a de la Okcident_a. Sed ĉu iam est_os ĝeneral_e akcept_at_a_j aranĝ_o_j el_labor_it_a_j nur de liber_kred_a komun_um_o? Dub_ant_e pri tio, Zamenhof re_ven_is post_e al si_a pli fru_a ide_o. Eĉ se ne ĉiu_j religi_an_o_j pov_us tuj part_o_pren_i, tamen est_us pli bon_e, ke hom_ar_an_o_j ne nur liber_kred_a_j kun_ven_u por prepar_i neŭtral_a_n religi_o_n, evit_ant_e ĉio_n ofend_a_n al iu konscienc_o.</p>
+
+				<p xml:id="bo419">Iom post iom, komenc_ant_e de afer_o_j simpl_a_j kaj trans_ir_ant_e al pli alt_a_j tem_o_j, unu_iĝ_o ven_os, eĉ mal_rapid_e, kaj influ_os la ĉirkaŭ_a_n mond_o_n. Zamenhof konsider_is kiel krim_o_n for_ŝir_i iu_n hom_o_n de li_a kred_o, se ĝi don_as al li la intern_a_n kontent_ig_o_n kaj ekster_a_n frat_em_ec_o_n. Ankaŭ en tio li konsent_is kun la pragmatika filozof_o James. Sed ekzist_as ĉie milion_o_j da hom_o_j ne kred_ant_a_j je si_a religi_o. Ili nur profit_as ĝi_a_n kadr_o_n ekster_a_n. Ili bapt_iĝ_as, edz_iĝ_as, en_ter_iĝ_as laŭ ĝi_a_j rit_o_j. Tio_n far_ant_e, ili help_as al dis_ig_o inter gent_o_j. Eĉ pli grav_e, ili si_n dev_ig_as al ne_vol_a hipokrit_ec_o. Por eduk_ad_o al infan_o_j tio est_as bedaŭr_ind_a. Baldaŭ ili rimark_as, ke la ge_patr_o_j ag_as kaj parol_as ne_sam_e.</p>
+
+				<p xml:id="bo420">Se hom_o ne_kred_ant_a for_las_as pro sincer_ec_o ĉiu_n eklezi_o_n, kaj for_ĵet_as kun_e ĉiu_n ekster_a_n mor_o_n, fest_o_n, aŭ solen_o_n religi_a_n, tiam ankaŭ la ge_fil_et_o_j sufer_os pro viv_ad_o tro proz_a. Pri tiu tem_o delikat_e skrib_is Zamenhof en ne_pres_it_a manuskript_o, kiu_n nur post_mort_e mi tra_leg_is sur li_a skrib_o_tabl_o:</p>
+
+				<p xml:id="bo421">“Infan_o_n oni ne pov_as nutr_i per abstrakt_a_j teori_o_j kaj regul_o_j; ĝi bezon_as impres_o_j_n kaj sent_ebl_a_n ekster_aĵ_o_n. Infan_o de oficial_e deklar_it_a sen_religi_ul_o neniam pov_as hav_i en la kor_o tiu_n feliĉ_o_n, tiu_n varm_o_n, kiu_n al ali_a_j infan_o_j don_as la preĝ_ej_o, la tradici_a_j mor_o_j, la posed_o de ‘Di_o’ en la kor_o. Kiel kruel_e oft_e sufer_as infan_o de sen_religi_ul_o, kiam ĝi vid_as ali_a_n infan_o_n, ebl_e tre mal_riĉ_a_n, sed kun feliĉ_a kor_o, ir_ant_a_n en si_a_n preĝ_ej_o_n, dum ĝi mem hav_as nenia_n gvid_ant_a_n regul_ar_o_n, nenia_j_n fest_o_j_n, nenia_j_n mor_o_j_n!...”<ptr xml:id="vivo-de-zamenhof-42" target="#noto-vivo-de-zamenhof-42"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-42" target="#vivo-de-zamenhof-42">El projekt_at_a Al_vok_o al Kongres_o por neŭtral_e-hom_a religi_o.</note>
+
+				<p xml:id="bo422">La tri_a infan_o de Zamenhof nask_iĝ_is en 1904. Ŝi est_is fil_in_et_o, kiu montr_iĝ_is tre fru_e pens_em_a kaj mem_vol_a. La patr_o respekt_is ŝi_a_n karakter_o_n. La knab_in_et_o ja rimark_is ĉio_n per okul_et_o_j tre klar_vid_a_j. Hejm_e sur la vesper_a tabl_o est_is te_o kun tranĉ_aĵ_o_j de ŝink_o. Laŭ la kred_o izrael_a, tio est_is pek_o kontraŭ Di_o. Religi_o mal_permes_as uz_i karn_o_n pork_a_n. Sam_e ĉe katolik_o_j manĝ_i viand_o_n vendred_e. Sed la patr_o est_is liber_kred_a. Kial?</p>
+
+				<p xml:id="bo423">En la preĝ_ej_o_j pol_a_j sonor_is muzik_ad_o de la orgen_o_j sub pentr_aĵ_o_j flam_kolor_a_j. Tie predik_is elokvent_a_j pastr_o_j, alud_ant_e al etern_a glor_o de la martir_o_j pro patr_uj_o kaj pro Krist_o ambaŭ kruc_um_it_a_j. Kial ne far_iĝ_i pol_a kaj krist_an_a?</p>
+
+				<p xml:id="bo424">Tamen, en la lern_ej_o, krist_an_in_o_j turn_is dors_o_n al la hebre_a_j knab_in_et_o_j. Tiel ordon_is ia_j ge_patr_o_j ŝovinist_a_j. Amik_ec_o_j simpl_a_kor_a_j est_is dis_romp_it_a_j. Mok_a_j vort_o_j son_is. Kie est_is am_o kaj nobl_ec_o? La fil_in_et_o de Zamenhof silent_e ĵet_is la brak_o_j_n ĉirkaŭ li_a_n kol_o_n. La infan_o ek_kompren_is li_a_n grand_a_n kor_sufer_o_n.</p>
+
+				<p xml:id="bo425">El tia_j mal_am_em_a_j ge_patr_o_j mult_a_j ne kred_is la instru_o_n krist_a_n. Ili ŝat_is nur la kadr_o_n eklezi_a_n. Ĉu do prefer_i ateism_o_n?</p>
+
+				<p xml:id="bo426">“Oficial_a sen_religi_ec_o (kiu ceter_e, miks_ant_e ne_kred_o_n je dogm_o_j kun nepr_a ne_kred_o je Di_o, ne por ĉiu_j est_as akcept_ebl_a) ne mult_e help_as al la for_ig_o de la religi_a dis_ec_o inter hom_o_j, ĉar lig_i la hom_o_j_n pov_as nur sam_ec_o <hi>pozitiv_a</hi>, sed ne <hi>negativ_a</hi>. Al_proksim_iĝ_as inter si nur tia_j du hom_o_j, kiu_j ambaŭ akcept_is por si la sam_a_j_n religi_a_j_n princip_o_j_n en difin_it_a form_o <hi>konkret_a</hi>; sed sen_religi_ul_o el unu religi_o kaj sen_religi_ul_o el ali_a religi_o rest_as ĉiam fremd_a_j al si reciprok_e, kiel antaŭ_e. Krom tio, sen_religi_ec_o, kiu don_as al la hom_o neniu_n pozitiv_a_n apog_o_n, daŭr_as ordinar_e ne long_e, kaj la fil_o_j aŭ nep_o_j de sen_religi_ul_o ordinar_e re_ven_as al ia el la ekzist_ant_a_j religi_o_j, almenaŭ al ĝi_a ekster_aĵ_o. Ĉiu konkret_a religi_o kia ajn ĝi est_as, hered_iĝ_as sen_fin_e en manier_o aŭtomat_a, sed abstrakt_a sen_religi_ec_o ne pov_as est_i hered_at_a.”<ptr xml:id="vivo-de-zamenhof-43" target="#noto-vivo-de-zamenhof-43"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-43" target="#vivo-de-zamenhof-43">El manuskript_o pli supr_e jam cit_it_a.</note>
+
+				<p xml:id="bo427">Ateism_o negativ_a ne pov_as plen_ig_i hom_a_n kor_o_n. Por la person_o_j, kiu_j perd_is la kred_o_n, dev_as star_iĝ_i ver_e neŭtral_a religi_o, varm_a, bel_a, poezi_a, baz_it_a sur hom_a frat_ec_o. Ateist_o_j aŭ serĉ_ant_o_j al Di_o ĉiu_gent_a_j, ĉiu_land_a_j, kaj ĉiu_temp_a_j dev_as trov_i tie komun_a_n kuraĝ_ig_o_n al aŭskult_ad_o de la konscienc_o, komun_a_n proksim_iĝ_o_n al grand_a Fort_o kaj Font_o de la inspir_o frat_em_a. Kontraŭ neniu religi_o ĝi est_u konstru_it_a kaj ĉiu_j kred_ant_o_j pov_u ankaŭ renkont_iĝ_i tie, kiam ili dezir_os, ekster apart_a_j dogm_o_j. Fakt_e Zamenhof pov_us uz_i la vort_o_n “etik_o” anstataŭ “religi_o”, ĉar li nek vol_is, nek pretend_is en_konduk_i nov_a_n kred_o_n aŭ teologi_o_n.</p>
+
+				<p xml:id="bo428">“Las_ant_e al ĉiu hom_o plen_a_n liber_ec_o_n hav_i tia_n intern_a_n kred_o_n, kiu ŝajn_as al li plej bon_a, ni propon_as nur kre_i neŭtral_a_n <hi>ekster_a_n kadr_o_n</hi>, kiu pov_us etik_e, mor_e, kaj komun_um_e unu_ig_i inter si ĉiu_j_n mem_star_e pens_ant_a_j_n hom_o_j_n, sen_de_pend_e de tio, kia est_as la filozofi_e-teologi_a_j kred_o_j aŭ hipotez_o_j de ĉiu el ili.”</p>
+
+				<p xml:id="bo429">“Ni propon_as star_ig_i <hi>neŭtral_e-hom_a_n etik_a_n regul_ar_o_n</hi>, kiu pov_us far_i el la <hi>hom_o_j</hi> hom_o_j_n kaj for_ig_us la abomen_ind_a_n gent_a_n ŝovinism_o_n, kaj la mal_am_o_n kaj mal_just_ec_o_n inter la gent_o_j; sed por ke tiu etik_a regul_ar_o ne rest_u efemer_a kaj tut_e sen_valor_a, kiel mult_a_j ali_a_j ĝis_nun_a_j bel_a_j teori_a_j princip_o_j, ni propon_as don_i al ĝi la form_o_n de tut_e konkret_a, por ĉiam fiks_it_a, infan_aĝ_e en_suĉ_ebl_a, kaj aŭtomat_e hered_ebl_a religi_o.”<ptr xml:id="vivo-de-zamenhof-44" target="#noto-vivo-de-zamenhof-44"/></p>
+
+				<note xml:id="noto-vivo-de-zamenhof-44" target="#vivo-de-zamenhof-44">El sam_a.</note>
+
+				<p xml:id="bo430">Tiu_n ĉi projekt_o_n Zamenhof intenc_is diskut_i kun hom_ar_an_o_j okaz_e de la dek_a Universal_a Kongres_o de Esperant_ist_o_j, okaz_ont_a en Pariz_o en aŭgust_o 1914.</p>
+
+				<p xml:id="bo431">Sed la ĉirkaŭ_a ŝovinism_o tim_ig_is la pariz_a_j_n organiz_ant_o_j_n. Ili pet_eg_is Zamenhof ne kun_vok_i tia_n kun_ven_o_n, eĉ privat_a_n, dum la Kongres_o. Post_e, ili ankaŭ ne konsent_is pres_ig_i en la program_a gazet_o li_a_n unu_a_n invit_leter_o_n al post_kongres_a kun_sid_o de hom_ar_an_o_j. Kio_n dir_us la franc_a_j naci_an_ist_a_j gazet_o_j, se ili vid_us, ke la aŭtor_o mem de la lingv_o iniciat_as tia_n afer_o_n? La ond_o ŝovinist_a far_iĝ_is tiel fort_a, ke ĉio simil_a danĝer_ig_us eĉ la pac_a_n bon_ven_o_n al fremd_a_j kongres_an_o_j.</p>
+
+				<p xml:id="bo432">De_nov_e kor_vund_it_a, sed ĉiam ne_ofend_em_a, Zamenhof kompren_is. Sed al kio do util_is la Krakov_a eks_iĝ_o? Ĉu nur la mort_o ig_os li_n liber_a dis_vast_ig_i si_a_n plen_a_n pens_o_n? Tamen li decid_is vetur_i al Pariz_o kaj diskut_i kun amik_o_j pri aranĝ_o de special_a Kongres_o en neŭtral_a land_o.</p>
+
+				<p xml:id="bo433">Vojaĝ_e, en Kolonj_o la milit_o li_n halt_ig_is la 30-a_n de juli_o. Dum plen_a_j nokt_o_j pas_ad_is trans la Rejn_o instrument_ar_o_j al buĉ_ad_o. La pont_o_j trem_ad_is sub rajd_ad_o sen_halt_a. En tut_a Eŭrop_o pret_iĝ_is jun_ul_o_j al mort_o, patr_in_o_j al plor_o_j. Odor_o kadavr_a minac_is aer_o_n ... Tro mal_fru_e. Tro mal_fru_e ... Io romp_iĝ_is en la kor_o Zamenhof_a.</p>
+
+			</div>
+
+			<div xml:id="vivo-de-zamenhof-chapitro-12" type="chapitro">
+
+				<head xml:id="bo434">ĈAPITR_O XII</head>
+
+				<head xml:id="bo435" type="subordinate">HOM_O ĈE MORT_O</head>
+
+				<p xml:id="bo436">Hom_ar_o_n Vi kre_is perfekt_e kaj bel_e,<lb/>
+Sed ĝi si_n divid_is batal_e;<lb/>
+Popol_o popol_o_n atak_as kruel_e,<lb/>
+Frat’ frat_o_n atak_as ŝakal_e.</p>
+
+				<p xml:id="bo440">Tiu_j vers_o_j eĥ_ad_is en la memor_o Zamenhof_a dum ok_tag_a re_vetur_ad_o al Varsovi_o, sen_pak_a, sen_seĝ_a, sen_manĝ_a, sen_hor_a, en vagon_o_j plen_eg_a_j, tra Skandinav_i_o-Peterburg_o. Li_a edz_in_o kun_est_is, ĉiam vigl_a, sen_lac_a, fleg_em_a.</p>
+
+				<p xml:id="bo441">Mal_san_o kaj mal_ĝoj_o li_n prem_is ĉe la kor_o. Hejm_e li rest_ad_is nun. Li pov_is nek marŝ_i, nek spir_i facil_e. Ĉirkaŭ_e la batal_o terur_is. La paf_il_eg_o_j ek_tondr_is ĉiam pli proksim_e. Flug_ŝip_o_j ĵet_is bomb_o_j_n sur la urb_o_n. Eĉ unu fal_is en la strat_o_n Dzikan. Sed ne tio li_n tim_ig_is. Al pens_o pri mort_o li jam kutim_iĝ_is. Kio est_as ja danĝer_o? Pli akr_a_j, pli dolor_a_j est_is la mal_am_o kaj ŝovinist_a_j pasi_o_j ĉie nun el_las_at_a_j, kiel boj_em_a_j tigr_o_j el kaĝ_o. Super la tut_a mond_o subit_e fal_is dron_eg_o je mal_lum_o, mensog_o, mal_moral_o. La milit_o venen_is ĉio_n. Dum_e sufer_is sen_kulp_ul_o_j kaj hero_e fal_is amas_eg_e.</p>
+
+				<p xml:id="bo442">En Varsovi_o la viv_ad_o far_iĝ_is abomen_a. Rus_a_j arme_o_j plen_ig_is la urb_o_n. Kozak_o_j tra_rajd_is. Ĉerkes_o_j tra_marŝ_is, kant_ant_e laŭ_ritm_e rab_kant_o_j_n. La Pol_o_j trem_is, sed pli trem_is la Hebre_o_j. Kontraŭ ili turn_iĝ_is la incit_o_j. Ili_a lingv_o simil_as la german_a_n: “Spion_o_j!” Ili ne montr_is entuziasm_o_n: “Perfid_ul_o_j!” Al la rus_a guberni_estr_o pluv_is anonim_a_j kulp_ig_o_j kontraŭ jud_a_j butik_ist_o_j. Mult_a_j est_is mort_paf_it_a_j. Rusofil_a gazet_ist_o atak_is eĉ Zamenhof_o_n, “danĝer_a_n inter_naci_ul_o_n”. Mi li_n vid_is en printemp_o 1915 mal_san_a_n, mal_fort_a_n, kun anim_o dis_ŝir_it_a pro la mal_am_o inter la hom_o_j. Li labor_is super projekt_o de al_vok_o al kongres_o hom_ar_an_a.</p>
+
+				<p xml:id="bo443">Nur al tut_hom_ar_a_j cel_o_j li vol_is for_don_i si_a_n fervor_o_n. Dum la tut_a mond_o dis_koler_iĝ_is en kontraŭ_a_j ŝovinism_o_j, li rest_is fidel_a al si_a ideal_o. Por la Pariz_a Kongres_o li jam rifuz_is part_o_pren_i en kun_ven_o por fond_o de Hebre_a Lig_o. La 30-a_n de juni_o 1914 li skrib_is al la organiz_ant_o_j:</p>
+
+				<p xml:id="bo444">“Mi mem bedaŭr_ind_e dev_as star_i flank_e de la afer_o, ĉar laŭ mi_a_j konvink_o_j, mi est_as ‘hom_ar_an_o’, kaj mi ne pov_as lig_i mi_n kun la cel_ad_o kaj ideal_o_j de special_a gent_o aŭ religi_o. Mi est_as profund_e konvink_it_a, ke ĉiu nacionalism_o prezent_as por la hom_ar_o nur plej grand_a_n mal_feliĉ_o_n, kaj ke la cel_ad_o de ĉiu_j hom_o_j dev_us est_i: kre_i harmoni_a_n hom_ar_o_n. Est_as ver_o, ke la nacionalism_o de gent_o_j prem_at_a_j — kiel natur_a si_n_defend_a re_ag_o — est_as mult_e pli pardon_ind_a, ol la nacionalism_o de gent_o_j prem_ant_a_j; sed, se la nacionalism_o de fort_ul_o_j est_as ne_nobl_a, la nacionalism_o de mal_fort_ul_o_j est_as ne_prudent_a; ambaŭ nask_as kaj sub_ten_as unu la ali_a_n, kaj prezent_as erar_a_n rond_o_n de mal_feliĉ_o_j, el kiu_j la hom_ar_o neniam el_ir_os, se ĉiu el ni ne ofer_os si_a_n grup_a_n mem_am_o_n kaj ne pen_os star_iĝ_i sur grund_o tut_e neŭtral_a.”</p>
+
+				<p xml:id="bo445">“Tio est_as la kaŭz_o, pro kiu mi, malgraŭ la kor_ŝir_ant_a_j sufer_o_j de mi_a gent_o, ne vol_as lig_i mi_n kun hebre_a nacionalism_o, sed mi vol_as labor_i nur por inter_hom_a just_ec_o <hi>absolut_a</hi>. Mi est_as profund_e konvink_it_a, ke per <hi>tio</hi> mi al_port_os al mi_a mal_feliĉ_a gent_o mult_e pli da bon_o, ol per cel_ad_o nacionalism_a.” Eĉ la persekut_o kaj terur_a_j bat_o_j kontraŭ la Hebre_o_j dum la milit_o ne ŝanĝ_is tiu_n ĉi vid_punkt_o_n. Sed kiu aŭd_is Zamenhof parol_ant_a_n pri tiu_j sufer_o_j kaj vid_is li_a_n kos_ŝir_a_n dolor_o_n pro ili, tiu pov_as kompren_i <hi>kiom</hi> li ofer_is sur la altar_o de la fidel_ec_o al super_gent_a ideal_o.</p>
+
+				<p xml:id="bo446">Je Pask_o <hi>1915</hi>, li publik_ig_is en gazet_o_j Esperant_a_j si_a_n “Leter_o_n al diplomati_o”. Ebl_e ĝi est_as li_a skrib_aĵ_o plej fort_a. Bedaŭr_ind_e ĝi aper_is tri aŭ kvar jar_o_j_n tro fru_e antaŭ la temp_o de la Pariz_a Konferenc_o. Post_e neniu hav_is la ide_o_n ĝi_n re_pres_i kaj dis_kon_ig_i. Al est_ont_a_j decid_ant_o_j pri Eŭrop_o li si_n turn_is per profet_a vok_o: “Ĉu vi komenc_os simpl_e re_far_ad_i kaj flik_ad_i la kart_o_n de Eŭrop_o? Ĉu vi simpl_e decid_os, ke la ter_pec_o A dev_as aparten_i al la gent_o <foreign xml:lang="">X</foreign>, kaj la ter_pec_o B al la gent_o <foreign xml:lang="">Y</foreign>?” Laŭ Zamenhof nur unu decid_o pov_us sav_i Eŭrop_o_n de krud_a sovaĝ_ec_o. Ĝi est_us oficial_a proklam_o kaj firm_ig_o de tiu ĉi princip_o: <hi>“ĉiu land_o moral_e kaj material_e plen_e egal_rajt_e aparten_as al ĉiu_j si_a_j fil_o_j”</hi>. Sed por efektiv_ig_i tio_n, est_us neces_e nom_i la regn_o_j_n per neŭtral_a_j nom_o_j geografi_a_j, anstataŭ per nom_o de gent_o. En regn_o titol_it_a “Rus_uj_o”, la Rus_o_j si_n kred_is posed_ant_o_j; kaj Let_o_j, Est_o_j aŭ Pol_o_j est_is prem_at_a_j. En land_o nom_at_a “Pol_uj_o” la Pol_o_j sent_as si_n mastr_o_j, dum Hebre_o_j, Ruten_o_j kaj Litov_o_j plend_as pri humil_ig_o. En antaŭ_a “Se_reni_sim_a Respublik_o” la divers_a_j gent_o_j si_n konsider_is pli egal_a_j, jam nur pro la nom_o. Sam_e la vort_o_j “Svis_a Konfederaci_o”, “Uson_o”, “Brazili_o” rajt_ig_as neniu_n apart_a_n gent_o_n rigard_i la land_o_n kvazaŭ si_a_n kaj la ceter_a_j_n loĝ_ant_o_j_n kiel fremd_ul_o_j_n toler_at_a_j_n. Tial Zamenhof insist_is pri la grav_ec_o de tiu demand_o, kaj re_ven_is al si_a ide_o pri neŭtral_a_j nom_o_j kun sufiks_o -io. Konklud_e li propon_is al la diplomat_o_j star_ig_i la sekv_ant_a_j_n leĝ_o_j_n sub inter_naci_a garanti_o:</p>
+
+				<p xml:id="bo447">“(1) Ĉiu regn_o aparten_as moral_e kaj material_e al ĉiu_j si_a_j natur_a_j kaj natur_ig_it_a_j loĝ_ant_o_j, kia_n ajn lingv_o_n, religi_o_n, aŭ supoz_at_a_n de_ven_o_n ili hav_as; neniu gent_o en la regn_o dev_as hav_i pli grand_a_j_n aŭ pli mal_grand_a_j_n rajt_o_j_n aŭ dev_o_j_n ol la ali_a_j gent_o_j.”</p>
+
+				<p xml:id="bo448">“(2) Ĉiu regn_an_o hav_as plen_a_n rajt_o_n uz_i tiu_n lingv_o_n aŭ dialekt_o_n, kiu_n li vol_as, kaj konfes_i tiu_n religi_o_n, kiu_n li vol_as. Nur en la instituci_o_j publik_a_j, kiu_j ne est_as destin_it_a_j special_e por unu gent_o, dev_as est_i uz_at_a tiu lingv_o, kiu per komun_a inter_konsent_o de la regn_an_o_j est_as akcept_it_a kiel lingv_o regn_a. En tiu_j politik_a_j instituci_o_j, kiu_j hav_as karakter_o_n special_e lok_a_n, anstataŭ la regn_a lingv_o pov_as est_i uz_at_a ali_a lingv_o, se ne mal_pli ol 9/10 de la urb_an_o_j don_is por ĝi si_a_n konsent_o_n. Sed la lingv_o regn_a aŭ urb_a dev_as est_i rigard_at_a, ne kiel humil_ig_a tribut_o, kiu_n ŝuld_as gent_o_j mastr_at_a_j al gent_o mastr_ant_a, sed nur kiel propr_a_vol_a por_oportun_ec_a ced_o de la mal_pli_mult_o al la pli_mult_o.”</p>
+
+				<p xml:id="bo449">“(3) Pro ĉiu_j mal_just_aĵ_o_j, far_at_a_j en ia regn_o, la reg_ist_ar_o de tiu regn_o est_as respond_a antaŭ konstant_a Tut-Eŭrop_a Tribunal_o star_ig_it_a per inter_konsent_o de ĉiu_j Eŭrop_a_j regn_o_j.”</p>
+
+				<p xml:id="bo450">“(4) Ĉiu regn_o kaj ĉiu provinc_o dev_as port_i ne la nom_o_n de ia gent_o, sed nur nom_o_n neŭtral_e geografi_a_n, akcept_it_a_n per komun_a inter_konsent_o de ĉiu_j regn_o_j.” Iam ven_os temp_o, post long_a naŭz_o pri milit_o_j, kiam tiu_j ĉi princip_o_j est_os avid_e serĉ_at_a_j kaj stud_at_a_j, kiel ebl_a_j sav_il_o_j el terur_a stat_o. Tiam oni mir_os, ke ili est_is jam en 1915 propon_it_a_j de Ludovik_o Zamenhof.</p>
+
+				<p xml:id="bo451">Vesper_e, la 1-a_n de juli_o 1915, la ĉiel_o ruĝ_e fajr_is ĉirkaŭ Varsovi_o. For_ir_ant_e, la Rus_o_j ĉie brul_ig_is la rikolt_o_n. Or_a_j kamp_o_j de tritik_o nun sen_lim_e flam_is en la nokt_o. Fru_maten_e, german_a regiment_o en_marŝ_is regul_paŝ_e. Post pli ol unu jar_o, pol_a ek_reg_ist_ar_o star_iĝ_is apud prus_a general_o. Ankaŭ tiam la milit_ist_o_j ne ŝat_is la Hebre_o_j_n. Mal_dik_a_j, mal_riĉ_a_j, sen_influ_a_j je kamp_ar_o, ili pov_is serv_i nek soldat_e, nek nutr_ad_e. Komerc_ist_o_j nur konkurenc_is. Bojkot_ad_o kaj mal_am_o kresk_is inter gent_o_j. Mizer_o, mal_sat_o, mal_varm_o reg_is en la strat_o_j. Mil_o_j da infan_o_j mort_is. Long_a_j sekv_ant_ar_o_j da vir_in_o_j atend_is sur trotuar_o antaŭ sup_a dis_don_ej_o. Mank_is pan_o.</p>
+
+				<p xml:id="bo452">Al Zamenhof aer_o mank_is eĉ pli. Por li_n sav_i, la edz_in_o li_n dev_ig_is trans_lok_i la loĝ_ej_o_n apud Ĝarden_o Saks_a. Ĉe Krolevska 41, last_foj_e mi li_n vid_is en decembr_o 1916. Li parol_is mal_laŭt_e. Li spir_is pen_e. Li_a fil_o Adam_o anstataŭ_is li_n kiel okul_ist_o ĉe la strat_o Dzika. Sed li bedaŭr_is, ke li for_las_is la tie_a_j_n mal_riĉ_ul_o_j_n. Li si_n sent_is hejm_e nur inter ili. Li_a frat_o Aleksandr_o ĵus mort_is mal_proksim_e. Li_a fil_in_o Sofi_o for_est_is en Ĥarkov, kiel kurac_ist_in_o. Leter_o_j jam ne ven_is pro milit_o. Ĉagren_o li_n prem_is. Patr_e li sufer_is pro la mort_o de mult_eg_a_j Esperant_ist_o_j. “Kial ili, kaj ne mi?” — li demand_is. Pri jun_a kaj fervor_a Bol_ing_brok_e Mu_di_e li alud_is oft_e, vesper_e ĉe la kamen_o. Sur la mur_o_j est_is ĉie memor_aĵ_o_j de la kongres_o_j, Bulonj_o, Kembriĝ_o, ĝoj_a_j tag_o_j. Ankaŭ tie star_is portret_o de la amik_o, mal_jun_a kaj fidel_a, Moscheles.</p>
+
+				<p xml:id="bo453">Ankoraŭ li labor_is pri hom_ar_an_a ide_o. “Ĝi est_as ja la cel_o de mi_a tut_a viv_o”, li dir_is kun fervor_a bril_o en okul_o_j. “Por ĝi mi for_don_us ĉio_n ofer_e. Se mi nur est_us ne tiel sen_fort_a, sen_pov_a ĉi tie, for_tranĉ_it_a el mond_o!” Li antaŭ_vid_is la mort_o_n, kaj li sent_is la potenc_a_n vok_o_n al tiu task_o. Li dezir_is almenaŭ star_ig_i la afer_o_n. Post_e trov_iĝ_os help_ant_o_j por ĝi_n vast_ig_i tra la mond_o. La sufer_ant_a hom_ar_o bezon_as tiu_n help_o_n al unu_iĝ_o. Jam en aŭtun_o 1914, li skrib_is al D-r_o Uhlman en Svis_land_o: “La terur_a milit_o, kiu nun far_as tia_n grand_a_n eksterm_ad_o_n inter la hom_o_j, instig_as mi_n, ke mi, malgraŭ la ĝis_nun_a mal_bon_a sukces_o, nepr_e pen_u aranĝ_i kongres_o_n de hom_ar_an_o_j”. Sed la milit_o long_iĝ_is. Iom post iom li el_pens_is nov_a_n plan_o_n. Li projekt_is vast_a_n kongres_o_n universal_a_n por neŭtral_e-hom_a religi_o. Sed antaŭ_e est_us ja neces_e kun_vok_i pli mal_grand_a_n kun_ven_o_n prepar_a_n. Al ĝi oni invit_us profesor_o_j_n universitat_a_j_n inter kaj ekster la Esperant_ist_ar_o.</p>
+
+				<p xml:id="bo454">Li pret_ig_is cirkuler_o_n, anonc_ant_e ke la kun_ven_o “okaz_os en la last_a_j tag_o_j de decembr_o 1916” en urb_o svis_a. Sed la milit_o daŭr_is. Sur la manuskript_o tiu dat_o kuŝ_as tra_strek_it_a. Li skrib_is ŝanĝ_e: “en la unu_a_j tag_o_j de aŭgust_o 1917”. En mart_o, la milit_o daŭr_is ĉiam. Ĉu sen_fin_e? Ĉu li vid_os iam pac_o_n? De_nov_a korekt_aĵ_o montr_as krajon_e, kaj eĉ tragedi_e, ĉi tiu_j_n vort_o_j_n per trem_ant_a man_o: “post la fin_o de la milit_o”.</p>
+
+				<p xml:id="bo455">La milit_o ne fin_iĝ_is, sed li_a viv_o ja bon_a kaj pur_a. Ĉiu spir_o far_iĝ_is turment_o. Li dev_is ne kuŝ_iĝ_i, nur sid_i aŭ star_i. La Rus_a Revoluci_o, lev_iĝ_int_a sen mort_ig_o_j, don_is al li nov_a_n esper_o_n. Li am_is la popol_o_j_n de la vast_a imperi_o. Ĉu ili sci_os daŭr_e liber_iĝ_i inter_frat_e kaj sen_sang_e, kiel komenc_it_e? Printemp_o ven_is. Li pens_ad_is mult_e, kaj skrib_ad_is urĝ_e. Nov_a hom_ar_o dev_as organiz_iĝ_i ... Sed kiel lac_ig_a ne_dorm_ad_o! Kiel turment_a la dev_ig_a sid_ad_o! Kiel dolor_a la bat_ad_o de la kor_o!</p>
+
+				<p xml:id="bo456">Ho, mi_a kor’, ne bat_u mal_trankvil_e,<lb/>
+El mi_a brust_o nun ne salt_u for!<lb/>
+Jam ten_i mi_n ne pov_as mi facil_e,<lb/>
+Ho, mi_a kor’!</p>
+
+				<p xml:id="bo460">Ripoz_i, dorm_i eĉ kelk_a_j_n minut_o_j_n! Unu tag_o_n la kurac_ist_o li_n permes_is moment_o_n. Est_is la 14-a de april_o 1917. Li etend_iĝ_is sur kanap_o. Al la pord_o la edz_in_o akompan_is la doktor_o_n. Dum_e li sent_is si_n pli bon_e. Fin_e iom da ripoz_o, tiom sopir_it_a! ... Sed jam li ek_sufok_iĝ_is. Li vol_is vok_i. La voĉ_o halt_is en li_a gorĝ_o. Jen al_kur_is la edz_in_o. Ŝi help_is li_n re_sid_i. Ve! jam ĉes_is bat_i tiu kor_o, bat_int_a tiel fort_e por hom_ar_o. Jam ven_is la ripoz_o liber_ig_a.</p>
+
+				<p xml:id="bo461">Ho, mi_a kor’! Post long_a labor_ad_o<lb/>
+Ĉu mi ne venk_os en decid_a hor’?<lb/>
+Sufiĉ_e! Trankvil_iĝ_u de l’ bat_ad_o,<lb/>
+Ho, mi_a kor’!</p>
+
+				<p xml:id="bo465">En tag_o pluv_a, mal_hel_a, mal_varm_a, la varsovi_a_j Esperant_ist_o_j akompan_is la ĉerk_o_n al la tomb_ej_o. Mal_ĝoj_e kant_is la poet_o Belmont:</p>
+
+				<p xml:id="bo466">Ne ven_is Pol_uj_o kadavr_o_n honor_i<lb/>
+De fil_o pol_land_a, de mond_a saĝ_ul’ ...<lb/>
+Ho kiel sang_iĝ_is en mi pol_a kor’ ...<lb/>
+Mal_riĉ_a_j Hebre_o_j nur ven_is post ĉerk_o<lb/>
+Ĉar mort_is bon_kor_a help_ant’ okul_ist_o.</p>
+
+				<p xml:id="bo471">Al tiu vast_a rond_o famili_a, kies deleg_it_o_j ĉiu_jar_e li_n aklam_is en kongres_o_j, la land_lim_o_j rest_is ferm_it_a_j. Nur kelk_a_j Pol_o_j, <name xml:lang="">Grabowski</name>, <name xml:lang="">Belmont</name>, la german_a ŝip_estr_o Neubart, pov_is dir_i adiaŭ_o_n en la nom_o de tiu ĉiu_land_a popol_o, kiu li_n am_is kaj pri_plor_is en la tut_a mond_o. De la reg_ist_ar_o, neniu. Honor_ig_o, nenia. Nur la amas_o popol_a, la humil_a klient_ar_o de la hebre_a kvartal_o, en si_a_j labor_vest_o_j. Mult_a_j jun_ul_o_j dank_em_a_j. Mult_a_j ge_vir_o_j kor_tuŝ_it_a_j.</p>
+
+				<p xml:id="bo472">Kiel la en_ter_ig_o de <name xml:lang="">Tolstoj</name> inter ĉirkaŭ_a_j vilaĝ_an_o_j, ĝi est_is la plej alt_a, la plej taŭg_a simbol_o. Efektiv_e nur mort_is la hom_o, vir_o 57-jar_a, mal_riĉ_a okul_ist_o. Sed la grand_a verk_o rest_is. Ankaŭ la inspir_o el anim_o pur_a. Ne pov_as tio mort_i. Mal_aper_os la reg_ist_o_j, mal_aper_os la mal_grand_a_j grand_ul_o_j, kiu_j li_n ignor_is. Sed etern_e viv_os kaj dis_kresk_os ĉie li_a sem_o pens_a. Jam dek_mil_o_j da hom_o_j sankt_ig_is li_a_n nom_o_n. Iam la tut_a hom_ar_o re_kon_os li_n gvid_ant_o al frat_a re_pac_iĝ_o.</p>
+
+				<p xml:id="bo473">Sur li_a skrib_o_tabl_o kuŝ_is la last_a man_skrib_aĵ_o krajon_a, ne_fin_it_a. Ĝi est_is plan_o de artikol_o pri sen_mort_ec_o de la anim_o. Kio_n kred_is mem tiu grand_a amik_o de la hom_ar_o, kiu don_is la tut_a_n viv_o_n al pens_o_j unu_ig_a_j? Kia do est_is la fund_o de li_a kred_o? Kiel li supoz_is pri afer_o_j trans_mort_a_j kaj ne_kontrol_ebl_a_j? Pri si_a person_o li est_is ĉiam silent_em_a. Li_a_j proksim_ul_o_j eĉ ne pov_us respond_i. Ili vid_is nur kia_manier_e li viv_is: bon_kor_e, pur_e, modest_e, help_em_e, ofer_e, mir_ind_e pacienc_e kun ĉiu_j, neniam ofend_e per ag_o aŭ parol_o kontraŭ iu ajn, ĉiam simpati_e aŭskult_em_e al ceter_a_j hom_o_j, eĉ al ted_a_j. Al ĉiu_j, edz_in_o, frat_o_j, ge_fil_o_j, nev_in_o_j, amik_o_j, klient_o_j, li aper_is kiel hom_o sankt_a. En turment_a_j hor_o_j ĉiu ven_is al li por konsil_o. “Li neniam pek_is”, dir_is mal_nov_a serv_ant_in_o pol_a, montr_ant_e li_a_n portret_o_n sub ŝi_a krucifiks_o. Kiom da fam_ul_o_j rest_is grand_a_j en la okul_o_j de la serv_ant_o_j? Sur paper_o kvar_paĝ_a li ek_skrib_is la intim_a_n konfes_o_n. Mort_o li_n inter_romp_is. Sur tri paĝ_o_j kuŝ_as antaŭ_klar_ig_o. Li pet_is sen_kulp_ig_o_n, ke li verk_as pri tiu tem_o, ne est_ant_e special_ist_o. Ebl_e oni dir_os, kiel pri ceter_a_j, ke nur mal_jun_e li ek_pens_is pri ek_kred_o. Antaŭ_protest_e li not_is:</p>
+
+				<p xml:id="bo474">“Ĉio, kio_n mi nun skrib_as, nask_iĝ_is en mi_a kap_o ne nun, sed antaŭ kvar_dek jar_o_j, kiam mi hav_is la aĝ_o_n de 16-18 jar_o_j; malgraŭ ke mi de tiu temp_o mult_e medit_is kaj leg_is divers_a_j_n scienc_a_j_n kaj filozofi_a_j_n verk_o_j_n, mi_a_j tiam_a_j pens_o_j pri Di_o kaj pri sen_mort_ec_o preskaŭ tut_e ne ŝanĝ_iĝ_is.” Tamen li antaŭ_vid_is, ke tiu ĉi artikol_o al mult_a_j tre mal_plaĉ_os:</p>
+
+				<p xml:id="bo475">“Dum en la mond_o scienc_a mi perd_os ĉia_n estim_o_n, mi sam_temp_e en la mond_o de kred_ant_o_j trov_os nenia_n kompens_a_n simpati_o_n, ver_ŝajn_e nur atak_o_n, ĉar mi_a kred_o est_as tut_e ali_spec_a ol <hi>ili_a</hi> kred_o ... Est_os pli prudent_e se mi silent_us, sed mi ne pov_as.” La kvar_a paĝ_o nur est_is komenc_it_a. La skrib_o est_as preskaŭ ne_leg_ebl_a:</p>
+
+				<p xml:id="bo476">“Mi_a patr_in_o est_is religi_a kred_ant_in_o, mi_a patr_o ateist_o. En mi_a infan_ec_o mi kred_is je Di_o, kaj je sen_mort_ec_o de la anim_o, en tiu form_o, en kiu instru_as mi_a de_nask_iĝ_a religi_o. Mi ne memor_as tut_e preciz_e, en kiu jar_o de mi_a viv_o mi perd_is la religi_a_n kred_o_n; sed mi memor_as, ke la plej alt_a_n grad_o_n de mi_a ne_kred_ad_o mi ating_is ĉirkaŭ la aĝ_o de 15-16 jar_o_j. Tio est_is ankaŭ la plej turment_a temp_o de mi_a viv_o. La tut_a viv_o perd_is en mi_a_j okul_o_j ĉia_n senc_o_n kaj valor_o_n. Kun mal_estim_o mi rigard_is mi_n mem kaj la ali_a_j_n hom_o_j_n, vid_ant_e en mi kaj en ili nur sen_senc_a_n pec_o_n da viand_o, kiu kre_iĝ_is, oni ne sci_as pro kio kaj oni ne sci_as por kio, kiu tra_viv_as en la etern_ec_o mal_pli ol plej mal_grand_a_n sekund_et_o_n, baldaŭ for_putr_os por ĉiam, kaj dum ĉiu_j ven_ont_a_j sen_fin_a_j milion_o_j kaj miliard_o_j da jar_o_j ĝi jam neniam plu re_aper_os. Por kio mi viv_as, por kio mi lern_as, por kio mi labor_as, por kio mi am_as? Ĉar est_as ja tiel sen_senc_a, sen_valor_a, tiel rid_ind_a ...” Tie halt_as la konfes_o. Sur blank_a fin_o de la paĝ_o nur kuŝ_is not_o pri la sekv_o projekt_it_a. Post la naŭz_o pri viv_o kaj pri mort_o, dek_sep_jar_e li ek_sent_is io_n nov_a_n:</p>
+
+				<p xml:id="bo477">“Mi ek_sent_is, ke ebl_e mort_o ne est_as mal_aper_o ...; ke ekzist_as ia_j leĝ_o_j en la natur_o ...; ke io mi_n gard_as al alt_a cel_o ...” Tiu_j est_as la last_a_j vort_o_j de la skrib_aĵ_o. Mort_ant_e, Zamenhof for_port_is la sekret_o_n si_a_n. Ni nur sci_as, ke jun_ul_e li ek_trov_is propr_a_n kred_o_n, ke li akir_is sen_ŝancel_a_n fid_o_n je unu fort_o komun_a por am_o kaj inspir_o al konscienc_o_j, ke li tiel hav_is “Di_o_n en la kor_o”, ke li kompren_is la daŭr_ec_o_n de la spirit_a labor_ad_o trans la mort_o, kaj rigard_is la divers_a_j_n hom_a_j_n religi_o_j_n kvazaŭ mal_sam_a_j_n vest_o_j_n de unu sam_a ver_o.</p>
+
+				<p xml:id="bo478">Jam antaŭ Abdul-Baha, la fam_a pers_a profet_o, kiu li_n admir_is, li respond_is al kongres_o de Krist_an_a_j ge_jun_ul_o_j salut_int_a li_n:</p>
+
+				<p xml:id="bo479">“Mi est_as nur hebre_a hom_ar_an_o liber_kred_a; sed ... kio pli bel_a en la mond_o ol <hi>plen_a</hi> sekv_ad_o al instru_o de Jezuo?”</p>
+
+				<p xml:id="bo480">Tamen, kio pli mal_facil_a pro kultur_o ego_ist_a, ŝovinist_a, mon_gajn_em_a? Zamenhof tre klar_e vid_is la materi_a_n flank_o_n de la bar_o_j. Tial li propon_is rimed_o_j_n praktik_a_j_n por ebl_ig_i am_o_n. Tial li dis_don_is al la hom_o_j tiu_n lingv_o_n inter_lig_a_n, la mir_ind_a_n frukt_o_n de geni_o harmoni_a. Sur mil_o_j da lip_o_j li met_is il_o_n frat_ig_a_n. Al mil_o_j da viv_o_j li don_is ĝoj_o_n, senc_o_n, util_o_n. Ne predik_i li vol_is, sed help_i.<ptr xml:id="vivo-de-zamenhof-45" target="#noto-vivo-de-zamenhof-45"/> En tio li montr_iĝ_is si_a_temp_a. Grand_a kurac_ist_o de la hom_ar_o. Li klin_iĝ_is am_e super ĝi_a korp_o mal_san_a, venen_it_a. Li kompren_is la kaŭz_o_j_n. Li vid_is kaj respond_is la bezon_o_j_n. Ne nur parol_o_j_n, sed fakt_o_j_n. Ne nur konsil_o_j_n, ankaŭ ser_um_o_n.</p>
+
+				<note xml:id="noto-vivo-de-zamenhof-45" target="#vivo-de-zamenhof-45">Interes_a ekzempl_o de li_a help_em_o al hom_o_j est_as li_a el_pens_o de tut_e el_labor_it_a skrib_maŝin_o en 1891-1892.</note>
+
+				<p xml:id="bo481">Li_a cerb_o est_is ekvilibr_a. Nur li_a kor_o bat_is varm_e kaj rapid_e. Li_a mens_o est_is saĝ_a kaj trankvil_a. Tiu_n trankvil_ec_o_n oni rimark_is ĉiel en li_a person_o. Simpl_a, pens_em_a, ver_a, li abomen_is ĉia_n fraz_ist_ec_o_n. Kiu, eĉ plej humil_a Esperant_ist_o, ne parol_is kun li ĉe kongres_o? Kiu, parol_int_e kun li, ne li_n am_is kaj respekt_is el tut_kor_o? Eĉ per verk_o li_n kon_int_e, mult_a_j hom_o_j tra la mond_o li_n rigard_is kiel majstr_o_n plej kar_a_n. En vilaĝ_o_j de Karpat_o_j, en urb_et_o_j amerik_a_j, en urb_eg_o_j sub tegment_o, li_a portret_o star_is en popol_a_j hejm_o_j, am_at_e, hom_frat_e. Sur nigr_a_j kamp_o_j de Eŭrop_o, en frakas_o batal_a, mult_a_j hom_o_j fal_vund_it_a_j vid_is li_a_n bild_o_n rev_e.</p>
+
+				<p xml:id="bo482">Nun, tiu skrib_o_ĉambr_o li_a, en dom_o Varsovi_a, est_as mal_plen_a. Pi_e ĝi_n konserv_is ne_tuŝ_it_a_n la nobl_a vidv_in_o. Kiel vast_eg_a la mank_o. Kiel dolor_ig_a ... Tie li sid_ad_is. Tie li_a_j libr_o_j. Tie la il_o_j okul_ist_a_j. Tie la paĝ_o ne_fin_it_a. Silent_as la horloĝ_o.</p>
+
+				<p xml:id="bo483">Iel reg_as en la ĉambr_o atmosfer_o potenc_a, impres_a, etern_a. Alt_ig_a pur_ec_o. Ne_dir_ebl_a grand_ec_o ... Jes, grand_a est_is tiu hom_o. Grand_a publik_e. Grand_a privat_e. Kio est_is ni, kun ni_a_j mal_grand_aĵ_o_j, ni_a_j mal_alt_a_j disput_o_j, ni_a_j krim_a_j mal_kuraĝ_o_j?</p>
+
+				<p xml:id="bo484">Li tamen am_is ĉiu_j_n ni_n. Li las_is al ni dev_o_n: kon_ig_i li_a_n <hi>tut_a_n</hi> propon_o_n al la hom_ar_o. Tie sur la blank_a paĝ_o kuŝ_as li_a plum_o. Ĝi batal_is por la bon_o kaj la bel_o. Sed la task_o est_as ne_fin_it_a. Kiu ĝi_n daŭr_ig_os? Kiu plen_um_os li_a_n vol_o_n? Jam la mort_o liber_ig_is li_n. Jam ĝi don_is flug_il_o_j_n al li_a pens_o. “Nun de lok_o flug_u ĝi al lok_o ...” Nov_a mond_o dev_as konstru_iĝ_i. Mort_o kaj nask_iĝ_o. Hom_ar_o sopir_as je romp_o de bar_o_j. Ĝi bezon_as absolut_o_n. Li al_vok_as. Ĝi al_vok_as. El tomb_o_j, el ruin_o_j, el mizer_o ĝeneral_a kri_as la sam_a vok_o, urĝ_a, kor_prem_ant_a ...</p>
+
+				<p xml:id="bo485">Aŭd_u, aŭd_u, kiel ŝir_e ĝi son_as!</p>
+
+			</div>
+
+		</body>
+
+	</text>
+
+</TEI>
