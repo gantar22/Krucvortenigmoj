@@ -14,7 +14,7 @@ def get_words(path_to_epub : str, roots : set[str]) -> list[DecomposedWord]:
             file_bytes = zip.read(file_name)
             text += os.fsencode(file_bytes) # fixme
 
-
+        return text
     pass
 
 def get_epub_paths() -> list[str]:

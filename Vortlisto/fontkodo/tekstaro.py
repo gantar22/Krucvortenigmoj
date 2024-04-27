@@ -19,7 +19,7 @@ def words_in_text(text : str) -> set[DecomposedWord]:
                 continue
             output.append(p.text)
             for child in p.findall('*'):
-                output.append(child.tail) # okay so this means that we're not include the inner text of things like names, but that doesn't quite seem to be the case
+                output.append(child.tail) # by only using the tail, we exclude the insides of all children which are often names or non-language components
 
         return [o for o in output if o != None]
         
@@ -67,8 +67,14 @@ def main():
     
     # score them all and write them to file
     words : set[DecomposedWord] = {w for src in words_by_source for w in src if len([s for s in words_by_source if w in s]) > 1}
+    scored_words : dict[str,int] = {}
     for w in words:
-        countfile.write(f"{''.join(w)};{base_word_score(w,roots)}\n")
+        raw_word = ''.join(w)
+        score = base_word_score(w,roots)
+        if scored_words.get(raw_word,score) <= score:
+            scored_words[raw_word] = score
+    for (word,score) in scored_words.items():
+        countfile.write(f"{word};{score}\n")
     
 
 main()
