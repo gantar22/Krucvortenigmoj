@@ -1,5 +1,8 @@
 
 
+from typing import Optional
+
+
 DecomposedWord = tuple[str,...]
 
 def generate_derivative_words(word : DecomposedWord) -> list[DecomposedWord]:
@@ -66,3 +69,21 @@ def base_word_score(word : DecomposedWord, roots : dict[str,int]) -> int:
             if abs(s - 50) > abs(score - 50):
                 score = s
     return score
+
+
+def decompose_word(word : str, roots : dict[str,int]) -> list[DecomposedWord]:
+    if word == '':
+        return [()]
+    possible_interpretations = []
+    for i in range(0,len(word)):
+        subword = word[0:i + 1]
+        if subword in roots:
+            possible_interpretations += [tuple([subword]) + ending for ending in decompose_word(word[i+1:],roots)]
+
+    return possible_interpretations
+            
+
+roots = load_roots()
+print(decompose_word('trafiko',roots))
+print(decompose_word('memamaj',roots))
+print(decompose_word('ver',roots))

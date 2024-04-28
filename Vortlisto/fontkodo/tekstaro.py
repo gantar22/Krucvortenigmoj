@@ -31,7 +31,7 @@ def words_in_text(text : str) -> set[DecomposedWord]:
         words = text.split()
         roots = [tuple(w.split('_')) for w in words]
         remove_punctuation = lambda w: ''.join([c for c in w if not c in string.punctuation + '“”’‘‘0123456789-'])
-        roots = [tuple([''.join([c.lower() for c in w]) for w in r]) for r in roots]
+        roots = [tuple([w.lower() for w in r]) for r in roots]
         roots = [tuple([remove_punctuation(w) for w in r]) for r in roots]
         roots = [r for r in roots if len(r) > 0]
 
