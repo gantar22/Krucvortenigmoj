@@ -71,17 +71,41 @@ def base_word_score(word : DecomposedWord, roots : dict[str,int]) -> int:
     return score
 
 
-def decompose_word(word : str, roots : dict[str,int]) -> list[DecomposedWord]:
+def decompose_word(word : str, root_scores : dict[str,int], prev_parts : tuple[str,...] = None) -> list[DecomposedWord]:
+    prev_parts = prev_parts or ()
     if word == '':
-        return [()]
+        return [prev_parts]
     possible_interpretations = []
     for i in range(0,len(word)):
         subword = word[0:i + 1]
-        if subword in roots:
-            possible_interpretations += [tuple([subword]) + ending for ending in decompose_word(word[i+1:],roots)]
+        rest_of_word = word[i+1:]
+        if subword in root_scores:
+            vowel_endings = ['a','i','o','e','u']
+            tense_vowels  = ['i','a','o','u']
+            tense_endings = [v + 's' for v in tense_vowels]
+            nt_endings = vowel_endings + [t + 'nt' + e for e in vowel_endings + tense_endings + [''] for t in tense_vowels]
+            all_endings = vowel_endings + tense_endings + nt_endings
+            if subword in all_endings and rest_of_word != []:
+                # subword is an ending that's not at the end
+                if not (len(prev_parts) > 0 and prev_parts[-1] + subword in root_scores):
+                    # subword doesn't follow a root that can coexist with it
+                    # this assumes that roots_scores holds more than just roots, but also
+                    # "single" root words that include endings.
+                    # IRC this exludes all nt endings except any with special meanings that end up in the vortaro
+                    # todo: make this more grammar based and less conservative 
+                    continue
+
+                # as a temp conservative measure I'll disallow the names of letters
+                if len(prev_parts) > 0 and len(prev_parts[-1]) == 1:
+                    continue
+            # disallow letter names as whole single roots too
+            if len(subword) == 2 and subword[-1] == 'o':
+                continue
+
+            possible_interpretations += decompose_word(rest_of_word,root_scores,prev_parts + tuple([subword]))
 
     return possible_interpretations
-            
+
 
 roots = load_roots()
 print(decompose_word('trafiko',roots))
