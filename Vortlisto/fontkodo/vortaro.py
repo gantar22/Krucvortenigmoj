@@ -213,15 +213,18 @@ def getwordsfromxml(tree : ET.Element, rootsfile : io.TextIOWrapper) -> dict[str
         sncs = drv.iter('snc')
         gras = [gra for gra in drv.iter('gra')] + [gra for snc in sncs for gra in snc.iter('gra')]
         vspecs = [vspec for gra in gras for vspec in gra.iter('vspec')]
+        # ne traktu sonimitoj kiel verboj
+        vspecs = [vspec for vspec in vspecs if vspec != "sonimito"]
         # vspecs estas ajna etikedo kiu indikas ke nia drv estas verbsenca
         if len(vspecs) > 0:
             for radtext in radtexts.values():
                 if radtext != None and radtext != "":
                     output[radtext + 'us'] = 30
-                    output[radtext + 'u'] = 30
+                    output[radtext + 'u']  = 19
                     output[radtext + 'is'] = 30
                     output[radtext + 'as'] = 35
-                    output[radtext + 'is'] = 30
+                    output[radtext + 'os'] = 30
+            # se ne volus, ni povus aldoni igi/iĝi kontrolante la vpsec-on por ntr/tr/x
 
         for radtext in radtexts.values():
             if radtext + "o" in output.keys() and output.get(radtext,-1) < 50 + extra_score:

@@ -108,6 +108,3 @@ def decompose_word(word : str, root_scores : dict[str,int], prev_parts : tuple[s
 
 
 roots = load_roots()
-print(decompose_word('trafiko',roots))
-print(decompose_word('memamaj',roots))
-print(decompose_word('ver',roots))
