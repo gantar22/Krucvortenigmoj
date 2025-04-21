@@ -107,4 +107,6 @@ def decompose_word(word : str, root_scores : dict[str,int], prev_parts : tuple[s
     return possible_interpretations
 
 
-roots = load_roots()
+if __name__ == '__main__':
+    roots = load_roots()
+    print(decompose_word('konkero',roots))

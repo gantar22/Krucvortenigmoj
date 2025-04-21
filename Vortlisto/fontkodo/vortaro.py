@@ -45,10 +45,10 @@ def scorefromfak(fak):
         'ast':   1, #astronomio
         'aut':   1, #automobiloj
         'avi':  -1, #aviado
-        'bak':  -2, #bakteriologio, suprize malmulte tro fakaj vortoj
+        'bak':  -2, #bakteriologio, suprize malmulte da tro-fakaj vortoj
         'bela': -1, #belartoj
         'bele': -1, #beletro
-        'bib':  -3, #biblio
+        'bib':  -5, #biblio
         'bio':  -5, #biologio
         'bot': -10, #botaniko
         'bud':   2, #budhismo
@@ -56,7 +56,7 @@ def scorefromfak(fak):
         'ekol':  1, #ekologio
         'ele':  -5, #elektro
         'elet': -5, #elektrotekniko
-        'esp':  10, #esperantismp
+        'esp':  15, #esperantismo
         'fer':  -2, #fervojoj
         'fil':  -5, #filozofio
         'fizl':-10, #fiziologio
@@ -86,7 +86,7 @@ def scorefromfak(fak):
         'lin':   0, #lingvistiko
         'mar':  -5, #maraferoj
         'mas':  -3, #maŝinoj
-        'mat':  -6, #matematiko
+        'mat':  -9, #matematiko
         'mah':   0, #materialismo historia
         'med': -10, #medicino
         'met':  -1, #meteologio
@@ -110,8 +110,8 @@ def scorefromfak(fak):
         'spo':   2, #sporto kaj ludoj
         'shi':  -3, #ŝipkonstruado navigado
         'tea':   2, #teatro
-        'tek':  -1, #teksindustrio
-        'tel':   0, #telekomunikoj
+        'tek':  -4, #teksindustrio
+        'tel':  -3, #telekomunikoj
         'tip':   1, #presarto, libroj
         'tra':   1, #trafiko
         'zoo': -10, #zoologio
