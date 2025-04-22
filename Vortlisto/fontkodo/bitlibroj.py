@@ -1,5 +1,5 @@
 import string
-from typing import Tuple
+from typing import List, Optional, Tuple
 from radikoj import DecomposedWord, generate_derivative_words, load_roots, base_word_score, decompose_word
 from bs4 import BeautifulSoup
 import os
@@ -47,49 +47,49 @@ def get_word_pairs(path_to_epub : str) -> set[Tuple[str,str]]:
     
     paragraphs = get_text(path_to_epub)
     pairs = set()
-    def is_pair(first_word,second_word, rec = False):
+    def is_pair(first_word,second_word, rec = False) -> List[Tuple[str]]:
         if len(first_word) < 3 or len(second_word) < 3:
-            return False
+            return []
         bad_adjectives = {'mia','ĝia','via','lia','sia','ŝia','ilia','ria','nia','onia'}
         bad_nouns = {'tio','kio'}
         if first_word[-1] == 'a' and second_word[-1] == 'o':
             if first_word not in bad_adjectives and second_word not in bad_nouns:
-                return True
+                return [(first_word,second_word)]
         if first_word[-2:] == 'aj' and second_word[-2:] == 'oj':
-            if first_word[-1:] not in bad_adjectives and second_word[:-1] not in bad_nouns:
-                return True
+            if first_word[:-1] not in bad_adjectives and second_word[:-1] not in bad_nouns:
+                return [(first_word,second_word),(first_word[:-1],second_word[:-1])]
         if first_word[-2:] == 'an' and second_word[-2:] == 'on':
             if first_word[:-1] not in bad_adjectives and second_word[:-1] not in bad_nouns:
-                return True
+                return [(first_word,second_word),(first_word[:-1],second_word[:-1])]
         if first_word[-3:] == 'ajn' and second_word[-3:] == 'ojn':
             if first_word[:-2] not in bad_adjectives and second_word[:-2] not in bad_nouns:
-                return True
+                return [(first_word,second_word),(first_word[:-1],second_word[:-1]),(first_word[:-2],second_word[:-2])]
         pronouns = {'mi','ĝi','vi','li','si','ŝi','ili','ri','ni','oni'}
         if first_word[-1] == 'i' and second_word[-2:] == 'on':
             if first_word not in pronouns and second_word[:-1] not in bad_nouns:
-                return True
+                return [(first_word,second_word)]
         if first_word[-1] == 'i' and second_word[-3:] == 'ojn':
             if first_word not in pronouns and second_word[:-2] not in bad_nouns:
-                return True
+                return [(first_word,second_word)]
         verb_endings = {'is','as','os','us'}
         false_verbs = {'ĝis'}
         if first_word[-2:] in verb_endings and second_word[-2:] == 'on':
             if first_word not in false_verbs and second_word[:-1] not in bad_nouns:
-                return True
+                return [(first_word,second_word),(first_word[:-2] + 'i',second_word)]
         if first_word[-2:] in verb_endings and second_word[-3:] == 'ojn':
             if first_word not in false_verbs and second_word[:-2] not in bad_nouns:
-                return True
+                return [(first_word,second_word),(first_word[:-2] + 'i',second_word)]
         if first_word[-1] == 'e' and second_word[-1] == 'i':
             if second_word not in false_verbs and second_word not in pronouns:
-                return True
+                return [(first_word,second_word)]
         verb_endings = {'is','as','os','us'}
         if first_word[-1] == 'e' and second_word[-2:] in verb_endings:
             if second_word not in false_verbs:
-                return True
+                return [(first_word,second_word),(first_word,second_word[:-2] + 'i')]
         
-        if rec and is_pair(second_word,first_word,False):
-            return True
-        return False
+        if rec:
+            return is_pair(second_word,first_word,False)
+        return []
 
     for paragraph in paragraphs:
         sentences = re.split(r'[.;,]',paragraph)
@@ -97,11 +97,11 @@ def get_word_pairs(path_to_epub : str) -> set[Tuple[str,str]]:
             words = sentence.split()
             words = [remove_punctuation(w.lower()) for w in words]
             for i in range(len(words) - 1):
-                if is_pair(words[i],words[i+1]):
-                    pairs.add((words[i],words[i+1]))
+                for pair in is_pair(words[i],words[i+1]):
+                    pairs.add(pair)
             for i in range(1,len(words)):
-                if is_pair(words[i-1],words[i]):
-                    pairs.add((words[i-1],words[i]))
+                for pair in is_pair(words[i-1],words[i]):
+                    pairs.add(pair)
 
     return pairs
 
