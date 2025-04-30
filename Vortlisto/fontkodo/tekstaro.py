@@ -1,28 +1,29 @@
 import os
+import re
 import string
 from typing import Optional
 import xml.etree.ElementTree as ET
 from radikoj import DecomposedWord, generate_derivative_words, load_roots, base_word_score
 
+def extract_eo_paragraphs(tree : ET.Element) -> list[str]:
+    """Get the text part out of a tekstaro xml file
+    """
+    output : list[Optional[str]] = []
+    for p in tree.iter('{http://www.tei-c.org/ns/1.0}p'): #todo also do '{}note' elements
+        lang = p.get('{http://www.w3.org/XML/1998/namespace}:lang')
+        if lang != None and lang != 'eo' or p.get('{http://www.w3.org/XML/1998/namespace}id') == None: 
+            continue
+        output.append(p.text)
+        for child in p.findall('*'):
+            output.append(child.tail) # by only using the tail, we exclude the insides of all children which are often names or non-language components
+
+    return [o for o in output if o != None]
+        
 
 def words_in_text(text : str) -> set[DecomposedWord]:
     """Extracts the words from the raw xml string
     """
 
-    def extract_eo_text(tree : ET.Element) -> list[str]:
-        """Get the text part out of a tekstaro xml file
-        """
-        output : list[Optional[str]] = []
-        for p in tree.iter('{http://www.tei-c.org/ns/1.0}p'): #todo also do '{}note' elements
-            lang = p.get('{http://www.w3.org/XML/1998/namespace}:lang')
-            if lang != None and lang != 'eo' or p.get('{http://www.w3.org/XML/1998/namespace}id') == None: 
-                continue
-            output.append(p.text)
-            for child in p.findall('*'):
-                output.append(child.tail) # by only using the tail, we exclude the insides of all children which are often names or non-language components
-
-        return [o for o in output if o != None]
-        
 
     def extract_roots(text : str) -> list[DecomposedWord]:
         """Given a text from the tekstaro, returns the words broken up by root.
@@ -39,11 +40,45 @@ def words_in_text(text : str) -> set[DecomposedWord]:
         return roots
 
     tree = ET.fromstring(text)
-    strings : list[str] = extract_eo_text(tree)
+    strings : list[str] = extract_eo_paragraphs(tree)
     output : set[DecomposedWord] = set()
     for line in strings:
         for word in extract_roots(line):
             output.add(word)
+    return output
+
+def get_tekstaro_paths() -> list[str]:
+    dir = os.fsencode("./font_datumoj/tekstaro") # todo: I'm pretty sure I don't need to do this encoding stuff
+    paths = []
+    for filebytes in os.listdir(dir):
+        filename = os.fsdecode(filebytes)
+        if not os.path.isfile('./font_datumoj/tekstaro/' + filename): 
+            continue
+        paths.append('./font_datumoj/tekstaro/' + filename)
+    return paths
+
+def get_tekstaro_sentences(path : str) -> list[str]:
+    file = open(path,"r",encoding='utf8')
+    filetext = file.read()
+    file.close()
+        
+
+    def extract_sentences(paragraph : str) -> list[str]:
+        remove_punctuation = lambda w: ''.join([c for c in w if not c in string.punctuation + '“”’‘‘0123456789-'])
+        sentences = re.split(r'[.;,?!\-\n]',paragraph)
+        for i in range(len(sentences)):
+            sentence = sentences[i]
+            sentence = remove_punctuation(sentence)
+            words = sentence.split()
+            sentences[i] = ' '.join(words)
+        return sentences
+
+    tree = ET.fromstring(filetext)
+    paragraphs : list[str] = extract_eo_paragraphs(tree)
+    output : list[str] = []
+    for paragraph in paragraphs:
+        for sentence in extract_sentences(paragraph):
+            output.append(sentence)
     return output
 
 
@@ -52,6 +87,7 @@ def main():
 
     dir = os.fsencode("./font_datumoj/tekstaro") # todo: I'm pretty sure I don't need to do this encoding stuff
     roots = load_roots()
+
     words_by_source : list[set[DecomposedWord]] = []
     for filebytes in os.listdir(dir):
         # get the text from the xml files

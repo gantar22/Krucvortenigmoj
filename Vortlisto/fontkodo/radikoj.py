@@ -1,5 +1,4 @@
-
-
+import string
 from typing import Optional
 
 
@@ -105,6 +104,9 @@ def decompose_word(word : str, root_scores : dict[str,int], prev_parts : tuple[s
             possible_interpretations += decompose_word(rest_of_word,root_scores,prev_parts + tuple([subword]))
 
     return possible_interpretations
+
+
+
 
 
 if __name__ == '__main__':
